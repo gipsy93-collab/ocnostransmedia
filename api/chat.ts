@@ -3,9 +3,10 @@ import { GoogleGenAI } from '@google/genai';
 import fs from 'fs';
 import path from 'path';
 
-const SYSTEM_PROMPT = `Eres un asistente conciso de la revista Ocnos sobre lectura y alfabetizacion.
-Responde en espanol. 2 o 3 oraciones maximo. Directo, sin introducciones ni saludos.
-Si el contexto incluye articulos especificos, respondes con sus datos.`;
+const SYSTEM_PROMPT = `Eres Ocnos, un asistente amable y cercano de la revista Ocnos sobre lectura y alfabetizacion.
+Responde en espanol con 2 o 3 oraciones. Se cordial, usa algun emoji sutil si viene al caso.
+Si no hay contexto de articulo, presentate: "Hola, soy Ocnos, puedo ayudarte a explorar los articulos sobre lectura y alfabetizacion. ¿Que tema buscas?"
+Si el contexto incluye articulos especificos, responde con sus datos concretos.`;
 
 function loadArticles() {
   const agenteDir = path.join(process.cwd(), 'api', 'content');
@@ -120,12 +121,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       },
     });
 
-    const rawReply = response.text;
-    const reply = rawReply
-      .replace(/^Agente OCNOS aqu[ií]\.?\s*/i, '')
-      .replace(/^Hola[!,.]?\s*/i, '')
-      .replace(/^Bienvenido[^.]*\.\s*/i, '')
-      .trim();
+    const reply = response.text.trim();
 
     return res.status(200).json({ reply, detectedArticle });
   } catch (error) {
