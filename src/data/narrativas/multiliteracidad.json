@@ -1,0 +1,346 @@
+{
+  "id": "multiliteracidad",
+  "metadata": {
+    "title": "Multiliteracidad en la asignatura de Lenguaje. Revisión sistemática de la literatura entre 1996 y 2020",
+    "authors": "Gabriela Báez-Bargellini y Alejandra Meneses-Arévalo",
+    "year": "2023",
+    "journal": "Ocnos 22(2)",
+    "doi": "10.18239/ocnos_2023.22.2.346",
+    "gancho": "¿Y si tus estudiantes leen más fuera de la escuela que dentro, pero la clase de Lenguaje todavía parece hecha para otro siglo?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#264653",
+    "bg": "from-teal-400/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/multiliteracidad/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-multi/200/200",
+      "name": "Dra. Gabriela Báez-Bargellini",
+      "role": "Investigadora en didáctica del lenguaje, Pontificia Universidad Católica de Chile"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Gabriela Báez-Bargellini, investigadora en didáctica del lenguaje en la Pontificia Universidad Católica de Chile",
+      "gancho": "¿Y si tus estudiantes leen más fuera de la escuela que dentro, pero la clase de Lenguaje todavía parece hecha para otro siglo?",
+      "contexto": "Imagina esto: tus estudiantes de primaria y secundaria pasan horas en TikTok, YouTube y videojuegos construyendo identidades con múltiples lenguajes —imagen, sonido, gesto, palabra— pero cuando cruzan la puerta del aula, todo eso queda afuera. La clase de Lenguaje sigue girando en torno al código escrito, al texto verbal abstracto y descontextualizado. Esto no es una intuición: la investigación lo confirma. La escuela sigue siendo un espacio conservador donde la enseñanza de la literacidad se centra en lo formal, monolingüe, monocultural y en lo impreso (Coiro et al., 2008; Gee y Hayes, 2011; Yi et al., 2019). Mientras tanto, fuera de la escuela circulan las 'nuevas literacidades' —creadas y recreadas por los propios estudiantes (Gee, 2012; Kinzer y Leu, 2017). Esta revisión sistemática parte de esa tensión y se pregunta: ¿qué ha pasado cuando alguien intentó llevar la multiliteracidad al aula de Lenguaje?",
+      "deepDives": [
+        {
+          "id": "multi-apertura-1",
+          "triggerLabel": "¿De dónde viene el término multiliteracidad?",
+          "type": "theory",
+          "content": "El New London Group acuñó el término 'multiliteracy' en 1996 como respuesta a los cambios del mundo globalizado y a los nuevos modos y medios para la comunicación (Kalantzis y Cope, 2008; O'Rourke, 2005). El concepto abarca dos aspectos fundamentales: (1) reconoce la interacción de múltiples modos semióticos —verbal, visual, gestual, auditivo, espacial— en la creación de significados, y (2) destaca el carácter situado de los significados que circulan en diferentes contextos, valorando las diferencias locales como forma de promover la inclusión de la diversidad cultural (Kalantzis et al., 2020; Kalantzis y Cope, 2008; Mills, 2009)."
+        },
+        {
+          "id": "multi-apertura-2",
+          "triggerLabel": "¿Por qué importa hoy más que nunca?",
+          "type": "theory",
+          "content": "Los estudiantes de educación primaria y secundaria participan activamente fuera de la escuela en discursos construidos con múltiples lenguajes a través de los cuales proyectan identidades utilizando diversos medios digitales (Faulkner, 2003). Esto plantea desafíos no solo en términos de prácticas pedagógicas, sino también por la heterogeneidad de conocimientos que los estudiantes tienen sobre las prácticas de literacidades digitales aprendidas fuera de la escuela (Kalantzis et al., 2020). Además, la amplia circulación de información en redes sociales exige que la escuela proporcione oportunidades para desarrollar pensamiento crítico e interpretación de la información, trascendiendo lo verbal (Callow, 2006; Unsworth, 2014; Silverblatt, 2018)."
+        },
+        {
+          "id": "multi-apertura-3",
+          "triggerLabel": "La tensión que disparó esta revisión",
+          "type": "limitation",
+          "content": "Los sistemas educativos han tenido una respuesta lenta a la hora de adoptar estos modos y medios en la construcción de significados (García-Martín et al., 2016; Gee, 2012; Gee y Hayes, 2011; Vandommele et al., 2017). La escuela aún no ha fomentado lo suficiente el desarrollo del pensamiento crítico a través de estos nuevos lenguajes (Castellví, 2020; Gainer, 2012). Peor aún: predomina un desconocimiento respecto de qué tipo de actividades digitales de lectura y escritura facilitarían el desarrollo de la literacidad (Burnett y Merchant, 2013) y cómo desarrollar el pensamiento crítico en este contexto (Beach, 2012; O'Halloran et al., 2017)."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La enseñanza del lenguaje en las escuelas se ha centrado principalmente en el aprendizaje del código escrito, en la comprensión y producción de textos construidos a través de la palabra, de forma abstracta y descontextualizada (González-García, 2018; Knobel y Lankshear, 2014; Monfort y Hurtado, 2013; O'Brien y Scharber, 2008). El currículo escolar y la formación docente en Lenguaje se han enfocado en la descripción de la lengua, la preservación de las normas y el canon literario (Sotomayor et al., 2011; Vera y Palma, 2008). Sin embargo, las prácticas de literacidad contemporáneas —impulsadas por las transformaciones digitales, sociales y culturales (Abdullah et al., 2020; Beetham et al., 2009; Martínez-Bahena et al., 2019; OECD, 2018; Pérez, 2012)— exigen leer y producir sentidos a través de múltiples modos semióticos, medios digitales y contextos culturales diversos. Aunque la pedagogía de la multiliteracidad fue propuesta hace más de dos décadas (Kalantzis y Cope, 2008), aún no hay suficientes estudios empíricos sobre cómo este marco conceptual puede traducirse en una pedagogía efectiva en el aula de Lenguaje (Mills, 2009).",
+      "porQueImporta": "Porque existe una brecha documentada entre lo que la escuela enseña como literacidad y lo que los estudiantes necesitan para participar en una sociedad digital. Burnett y Merchant (2015) señalan que las reformas curriculares y las evaluaciones estandarizadas tienden a privilegiar el dominio del lenguaje verbal y la comprensión de textos impresos, creando una falta de coherencia entre lo que se declara relevante y lo que se evalúa (Stromquist, 2017). Gainer (2012) advierte que la promoción del pensamiento crítico a través de nuevos modos y medios es fundamental para una democracia pacífica, porque los estudiantes aprenden a razonar para la construcción de significado y la toma de decisiones informadas. Si la escuela no se conecta con las formas en que los estudiantes construyen significados hoy, no solo se vuelve irrelevante: abdica de su responsabilidad formadora.",
+      "dataPoints": [
+        "El New London Group acuñó 'multiliteracidad' en 1996. Han pasado más de 25 años desde entonces.",
+        "De 277 artículos iniciales identificados en Web of Science, solo 26 cumplieron los criterios de inclusión como estudios empíricos en aulas de Lenguaje de primaria y secundaria.",
+        "El 73% de los estudios seleccionados (19 de 26) se publicó a partir de 2015. La investigación empírica en esta área es sorprendentemente reciente.",
+        "19 de los 26 artículos provienen de países donde el inglés es la lengua oficial (EE.UU.: 9, Australia: 4, Canadá: 3, Singapur: 3).",
+        "Solo se identificaron 13 artículos en cada una de las dos búsquedas consecutivas (primero general, luego focalizada en Lenguaje)."
+      ],
+      "glossary": [
+        {
+          "term": "Multiliteracidad",
+          "definition": "Pedagogía que integra diversos modos semióticos (verbal, visual, gestual, auditivo, espacial), medios y contextos culturales para la construcción de significados. Acuñada por el New London Group en 1996, abarca tanto la comunicación multimodal como el reconocimiento de la diversidad lingüística y cultural (Allison y Goldston, 2018; Cope y Kalantzis, 2000)."
+        },
+        {
+          "term": "Modos semióticos",
+          "definition": "Formas de significado —verbal, visual, gestual, auditivo, espacial— que se combinan en textos multimodales. La multiliteracidad propone ir más allá del modo verbal para integrarlos todos en la enseñanza."
+        },
+        {
+          "term": "Género multimodal",
+          "definition": "Práctica de comunicación situada que integra más de un modo semiótico para la construcción de significados (Mills, 2009). Puede ser de producción (crear un cómic, un video, un podcast) o de interpretación (analizar un video, un libro álbum, una noticia multimedia)."
+        },
+        {
+          "term": "Literacidad vernácula",
+          "definition": "Prácticas de lectura y escritura que los estudiantes realizan por iniciativa propia fuera de la escuela —redes sociales, videojuegos, memes, fanfiction— y que suelen quedar invisibilizadas en el currículo formal."
+        },
+        {
+          "term": "Pedagogía de la multiliteracidad",
+          "definition": "Marco pedagógico propuesto por el New London Group basado en cuatro componentes: práctica situada, enseñanza abierta, marco crítico y prácticas de transformación. Propone tres fases en la construcción de significados: diseño disponible, proceso de diseño y rediseño (Cope y Kalantzis, 2000)."
+        },
+        {
+          "term": "Literacidades ocultas",
+          "definition": "Habilidades de lectura, escritura e investigación que los estudiantes ya poseen —especialmente los bilingües o migrantes— pero que sus docentes no perciben ni aprovechan en el aula (Villalva, 2006)."
+        },
+        {
+          "term": "Artículos testimoniales",
+          "definition": "Término acuñado por Goggin (1994) para describir estudios cualitativos donde la voz del investigador narra los acontecimientos de una experiencia pedagógica sin priorizar el análisis de resultados de aprendizaje con enfoques cuantitativos. Predominan en esta revisión."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "multi-conflicto-1",
+          "triggerLabel": "Las dos preguntas que guían la revisión",
+          "type": "method",
+          "content": "Pregunta 1: ¿Qué ámbitos de la multiliteracidad han sido considerados en la enseñanza del lenguaje en los artículos empíricos publicados entre 1996 y 2020? Pregunta 2: ¿Qué lecciones se han extraído de la incorporación de la multiliteracidad en la enseñanza en Lenguaje en los artículos revisados? La primera mapea el terreno; la segunda extrae consecuencias prácticas."
+        },
+        {
+          "id": "multi-conflicto-2",
+          "triggerLabel": "¿Tecnología o pedagogía? Un riesgo conocido",
+          "type": "limitation",
+          "content": "Un riesgo frecuente —y documentado— es confundir multiliteracidad con 'usar tecnología'. La pedagogía de la multiliteracidad propone una perspectiva humanista donde los estudiantes se conviertan en cuestionadores informados de las herramientas digitales (Damasceno, 2021; Selber, 2004). No se trata de sumar tablets, sino de cambiar las prácticas pedagógicas hacia la integración crítica de modos y medios."
+        },
+        {
+          "id": "multi-conflicto-3",
+          "triggerLabel": "La evidencia que falta",
+          "type": "limitation",
+          "content": "A pesar de las numerosas propuestas didácticas, aún no se comprende por qué la multiliteracidad no ha logrado permear los espacios formales de aprendizaje. Como señalan Burnett y Merchant (2015), aunque se declara la importancia de las nuevas literacidades, las reformas curriculares y las evaluaciones estandarizadas siguen privilegiando el dominio del lenguaje verbal. Esta incoherencia entre el discurso y la medición es parte del problema que la revisión busca iluminar."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Cómo se hizo la revisión sistemática: de 277 artículos a 26",
+      "narrativa": "Imagina que quieres saber qué se ha investigado sobre multiliteracidad en aulas de Lenguaje en los últimos 24 años. Las autoras —Gabriela Báez-Bargellini y Alejandra Meneses-Arévalo, ambas de la Pontificia Universidad Católica de Chile— realizaron dos búsquedas consecutivas en Web of Science. La primera, exploratoria, usó los términos 'multiliteracies' o 'multiliteracy' combinados con 'education' o 'school'. Arrojó 182 artículos. La segunda búsqueda añadió los términos 'language' y 'language arts' para enfocarse específicamente en la asignatura de Lenguaje. Arrojó 95 artículos adicionales. Tras aplicar criterios de inclusión y exclusión muy precisos, de los 277 artículos iniciales se seleccionaron 13 en cada búsqueda: 26 estudios empíricos en total, todos escritos en inglés. Luego vino el trabajo artesanal: una lectura inductiva detallada de cada artículo, prestando atención a cómo incorporaban la multiliteracidad en las prácticas pedagógicas. De ese análisis emergieron —no se impusieron desde arriba— tres categorías temáticas que organizan todos los hallazgos.",
+      "detalles": [
+        { "label": "Base de datos", "value": "Web of Science (WOS), única base utilizada" },
+        { "label": "Búsquedas realizadas", "value": "Dos consecutivas: una exploratoria (TS=multiliteracies OR multiliteracy AND TS=educati* OR school*) y otra focalizada en Lenguaje (añadiendo TS=language OR TS=language arts)" },
+        { "label": "Artículos en búsqueda 1", "value": "182 artículos iniciales; tras aplicar criterios de inclusión/exclusión, 13 seleccionados" },
+        { "label": "Artículos en búsqueda 2", "value": "95 artículos adicionales; tras criterios adicionales, 13 nuevos seleccionados" },
+        { "label": "Muestra final", "value": "26 artículos empíricos publicados entre 1996 y 2020, todos en inglés" },
+        { "label": "Criterios de inclusión", "value": "Artículos empíricos; uso explícito de 'multiliteracy/multiliteracies'; educación primaria o secundaria; investigaciones en sala de clases o dentro de la escuela" },
+        { "label": "Criterios de exclusión", "value": "Revisiones teóricas; preescolar, educación superior o adultos; fuera del contexto escolar; centrados solo en tecnología; evaluaciones estandarizadas; asignaturas artísticas o científicas; no accesibles en WOS; acceso anticipado" },
+        { "label": "Criterios adicionales (búsqueda 2)", "value": "Artículos con secciones claramente definidas; en asignaturas de Lenguaje; con foco en estudiantes y/o profesores. Se excluyeron investigaciones con profesores en formación y percepciones docentes" },
+        { "label": "Análisis", "value": "Inductivo mediante lectura detallada. Las categorías emergieron de los enfoques adoptados por los propios estudios para abordar la multiliteracidad" },
+        { "label": "Categorías resultantes", "value": "(1) Géneros multimodales, (2) Pedagogía de la multiliteracidad, (3) Reconocimiento de la diversidad" }
+      ],
+      "limitaciones": [
+        "Solo se revisaron artículos en inglés. Toda la producción en español, portugués, francés y otras lenguas queda fuera del análisis.",
+        "La mayoría de los estudios provienen de países de habla inglesa: EE.UU. (9), Australia (4), Canadá (3) y Singapur (3). Esto limita la transferibilidad de los hallazgos a contextos hispanohablantes.",
+        "Predominan los enfoques cualitativos con descripciones detalladas de experiencias. Muchos son 'artículos testimoniales' (Goggin, 1994) que narran la vivencia pero no miden resultados de aprendizaje con enfoques cuantitativos.",
+        "Varios estudios de la categoría 'pedagogía de la multiliteracidad' describen la intervención pero no reportan resultados de aprendizaje. La voz del investigador reconstruye la experiencia mediante narrativas basadas en observaciones.",
+        "La revisión se limita a la asignatura de Lenguaje, excluyendo otras áreas donde la multiliteracidad también podría estudiarse."
+      ],
+      "reflexion": "¿Crees que una revisión en inglés puede representar adecuadamente las experiencias de aulas de Lenguaje en América Latina?",
+      "deepDives": [
+        {
+          "id": "multi-viaje-1",
+          "triggerLabel": "El filtro fino: criterios de inclusión y exclusión",
+          "type": "method",
+          "content": "Para la primera búsqueda se definieron criterios estrictos. INCLUSIÓN: (1) artículos empíricos publicados; (2) incorporación explícita de las palabras 'multiliteracy' o 'multiliteracies'; (3) estudios en educación primaria o secundaria; (4) investigaciones realizadas en la sala de clases o dentro de la escuela. EXCLUSIÓN: (1) revisiones teóricas; (2) estudios en educación preescolar, superior o con adultos; (3) realizados fuera del contexto escolar; (4) centrados en el uso de la tecnología; (5) relacionados con evaluaciones estandarizadas; (6) en asignaturas artísticas y científicas como Música, Biología, Química o Física; (7) no accesibles a través de las bases de datos; (8) de acceso anticipado. Tras revisar títulos, resúmenes y palabras clave, se seleccionaron 13 artículos de los 182 iniciales."
+        },
+        {
+          "id": "multi-viaje-2",
+          "triggerLabel": "Las tres categorías que emergieron",
+          "type": "method",
+          "content": "A diferencia de un análisis deductivo que parte de categorías predefinidas, aquí las categorías emergieron de la lectura inductiva de los propios artículos. (1) GÉNEROS MULTIMODALES: artículos que analizan la producción o interpretación de textos que integran múltiples modos semióticos. (2) PEDAGOGÍA DE LA MULTILITERACIDAD: estudios que usan el marco del New London Group como eje orientador de la práctica o como herramienta de análisis. (3) RECONOCIMIENTO DE LA DIVERSIDAD: investigaciones que abordan la multiliteracidad desde las diferencias culturales y lingüísticas, ya sea con minorías culturales (migrantes, poblaciones interculturales) o minorías de contextos vulnerados (bajo rendimiento, bajos ingresos)."
+        },
+        {
+          "id": "multi-viaje-3",
+          "triggerLabel": "Distribución geográfica y temporal: una fotografía reveladora",
+          "type": "data",
+          "content": "El 73% de los artículos (19 de 26) se publicó a partir de 2015. La concentración geográfica es notable: Estados Unidos lidera con 9 estudios, seguido de Australia (4), Canadá (3) y Singapur (3). Solo 19 de los 26 artículos provienen de países donde el inglés es la lengua oficial. Esto significa que la investigación empírica sobre multiliteracidad en Lenguaje es un fenómeno reciente —no despega hasta la segunda mitad de la década de 2010— y está fuertemente concentrado en el mundo anglosajón. En la segunda parte de la década de 2010 se publicaron 16 de los 26 artículos."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Tres caminos hacia una clase de Lenguaje más amplia",
+      "narrativa": "Cuando las autoras terminaron de leer los 26 estudios, no apareció una sola forma de hacer multiliteracidad. Emergieron tres caminos distintos, a veces entrelazados, que representan las perspectivas desde las cuales los artículos abordaron el concepto. El primer camino —el más transitado— es trabajar con géneros multimodales: 18 de los 26 artículos (69%) se centraron en esto, ya sea produciendo textos que combinan palabra, imagen, sonido y video, o interpretándolos críticamente. El segundo camino es usar la pedagogía de la multiliteracidad como marco: 5 estudios la emplearon como eje orientador para diseñar experiencias de aula; un sexto estudio la usó como herramienta de análisis. El tercer camino —quizás el más transformador— es reconocer la diversidad cultural y lingüística como recurso pedagógico, no como déficit. Los tres caminos comparten un hallazgo transversal: cuando la multiliteracidad entra al aula, las dinámicas de poder se reorganizan. El aula se vuelve más horizontal, los estudiantes ganan agencia y aparecen habilidades que antes permanecían ocultas.",
+      "hallazgos": [
+        {
+          "label": "1. Géneros multimodales (18 de 26 artículos, 69%)",
+          "value": "15 estudios se enfocaron en producción multimodal y revelaron cambios en el ambiente de aula: reajuste de roles, mayor horizontalidad y cambios de liderazgo (Mills y Exley, 2014). Al permitir la experimentación y la toma de decisiones de los estudiantes en la escritura multimodal, se generaron cambios en las relaciones de poder y una mayor capacidad de agencia en contraste con las prácticas tradicionales (Ntelioglou et al., 2014). Cuatro estudios de interpretación multimodal mostraron que los estudiantes interpretan videos y textos multimodales en función de su conocimiento del mundo y su comprensión de la realidad, lo que significa que las interpretaciones dependen de la cultura y la sociedad en la que estén inmersos (Ajayi, 2011). Los libros álbum resultaron artefactos efectivos para promover tanto la literacidad cognitiva como la sociocultural (Reyes-Torres y Raga, 2020)."
+        },
+        {
+          "label": "2. Pedagogía de la multiliteracidad (6 artículos)",
+          "value": "Cinco estudios usaron el marco como eje orientador de prácticas de aula (Burke y Hardware, 2015; Lee, 2018; Lee et al., 2016; Tan y Guo, 2014). Tan y Guo (2014) resaltaron la importancia de incluir prácticas de literacidad vernácula y el papel del docente como agente clave para la innovación y el cambio sostenible. Burke y Hardware (2015) mostraron cómo una docente implementó intencionalmente la pedagogía con estudiantes de inglés como segunda lengua, logrando una experiencia transformadora mediante crítica reflexiva de contenidos. Lee et al. (2016) usaron un programa asistido por computadora para EFL: los estudiantes aumentaron y profundizaron su comprensión cultural más allá del conocimiento teórico. Lee (2018) identificó desafíos pedagógicos, sociales y culturales: altos costos de implementación de experiencias interculturales, inequidades en el capital cultural y formación desigual de identidades lingüísticas. Un sexto estudio (Seglem y Garcia, 2018) usó el marco como herramienta de análisis y destacó beneficios como el uso auténtico y situado de herramientas digitales, el fomento del aprendizaje autónomo y el desarrollo del análisis crítico."
+        },
+        {
+          "label": "3. Reconocimiento de la diversidad (8 artículos)",
+          "value": "Los estudios con minorías culturales se centraron en estudiantes migrantes (Danzak, 2011; Ntelioglou et al., 2014; Skerrett, 2012; Villalva, 2006) y poblaciones interculturales (Krulatz et al., 2018). Danzak (2011) usó cómics para que adolescentes migrantes compartieran sus historias, fomentando identidad, multiculturalidad y confianza. Villalva (2006) documentó a dos estudiantes mexicanas migrantes bilingües que escribían en inglés académico sofisticado, pero sus docentes no percibían esas habilidades —el caso emblemático de las literacidades ocultas. Skerrett (2012) reveló cómo una adolescente transnacional experimentó cambios en sus prácticas de multiliteracidad y en el uso de lenguajes interconectados. En contextos vulnerados (Anderson et al., 2017; Kohnen y Lacy, 2018; Zammit, 2011), la multiliteracidad generó un mayor compromiso de los estudiantes con su aprendizaje, desarrollo de su voz y asunción de un rol más activo. Zammit (2011) encontró que los estudiantes de bajos ingresos reconocieron la escuela como un espacio de pertenencia significativo."
+        }
+      ],
+      "dataPoints": [
+        "18 de 26 artículos (69%) se centraron en géneros multimodales de producción o interpretación.",
+        "15 estudios incorporaron prácticas de producción multimodal con cambios documentados en el ambiente de interacción del aula.",
+        "6 artículos usaron el marco de la pedagogía de la multiliteracidad (5 como eje orientador, 1 como herramienta de análisis).",
+        "8 estudios abordaron el reconocimiento de la diversidad: 5 sobre minorías culturales y 3 sobre minorías de contextos vulnerados.",
+        "Varios estudios de la categoría pedagógica adoptan un enfoque testimonial, construyendo hallazgos a partir de descripciones detalladas de experiencias (Goggin, 1994), sin priorizar análisis cuantitativos de resultados de aprendizaje."
+      ],
+      "reflexion": "¿Cuál de los tres caminos te parece más difícil de implementar en tu contexto: el multimodal, el pedagógico o el reconocimiento de la diversidad?",
+      "deepDives": [
+        {
+          "id": "multi-revelacion-1",
+          "triggerLabel": "Mapa completo de artículos por categoría",
+          "type": "data",
+          "content": "GÉNEROS MULTIMODALES — Producción (14 artículos): Anderson et al. (2017), Cordero et al. (2018), Danzak (2011), Howell et al. (2017), Lee et al. (2016), Mills & Exley (2014), Ntelioglou et al. (2014), Smith (2016), Sofkova-Hashemi (2017), Thibaut & Curwood (2017), Toohey et al. (2015), Towndrow et al. (2013), Yelland (2018), Zammit (2011). Interpretación (4 artículos): Ajayi (2011), Kesler et al. (2016), Gregori-Signes (2014), Reyes-Torres & Raga (2020). PEDAGOGÍA DE LA MULTILITERACIDAD — Eje orientador (5): Burke & Hardware (2015), Lee (2018), Lee et al. (2016), Tan & Guo (2014). Análisis de experiencia (1): Seglem & Garcia (2018). RECONOCIMIENTO DE LA DIVERSIDAD — Minorías culturales (5): Danzak (2011), Ntelioglou et al. (2014), Skerrett (2012), Villalva (2006), Krulatz et al. (2018). Minorías de contextos vulnerados (3): Anderson et al. (2017), Kohnen & Lacy (2018), Zammit (2011)."
+        },
+        {
+          "id": "multi-revelacion-2",
+          "triggerLabel": "El caso Danzak (2011): cómics, identidad y migración",
+          "type": "data",
+          "content": "Danzak (2011) trabajó con adolescentes migrantes que narraron sus experiencias de inmigración mediante cómics —un género multimodal que combina imagen, palabra y secuencia narrativa. El proyecto no solo fortaleció su identidad y promovió la multiculturalidad, sino que construyó espacios de confianza entre adolescentes que compartían la experiencia migratoria. Este estudio ilustra cómo un género multimodal puede ser simultáneamente vehículo de expresión personal, puente intercultural y práctica de literacidad académica."
+        },
+        {
+          "id": "multi-revelacion-3",
+          "triggerLabel": "El caso Villalva (2006): las literacidades que la escuela no ve",
+          "type": "data",
+          "content": "Villalva (2006) observó a dos estudiantes mexicanas migrantes bilingües en la asignatura de Inglés. Los resultados revelaron que estas estudiantes poseían habilidades de investigación y escribían utilizando un inglés académico con usos diferentes a los de los estudiantes monolingües. Sin embargo, estas habilidades tendían a ser imperceptibles para sus docentes. Este hallazgo es crucial: la multiliteracidad no solo consiste en enseñar nuevos modos, sino en visibilizar y aprovechar las competencias que los estudiantes ya traen consigo pero que el aula tradicional no reconoce."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Marco teórico: diseño, pedagogía y diversidad",
+      "narrativa": "Para entender estos hallazgos necesitamos mirar el andamiaje teórico que los sostiene. La multiliteracidad propone una pedagogía multisistémica que involucra la construcción de significados a través de prácticas situadas, la integración de distintos modos semióticos y un enfoque centrado en la tecnología (Guo et al., 2009; Kalantzis y Cope, 2008). Cope y Kalantzis (2000) plantean que el conocimiento y los significados son situados y construidos histórica y socialmente, y proponen tres fases en el proceso de construcción de significados: (1) diseño disponible —los recursos ya existentes para la creación de significados en un contexto particular—, (2) proceso de diseño —planificar y crear nuevos textos mediante la recontextualización de los diseños disponibles, la experimentación y la toma de decisiones reflexivas—, y (3) rediseño —el resultado del diseño considerando los recursos que se han producido y transformado. Sobre esta base, el New London Group articuló cuatro componentes pedagógicos que la revisión confirma como necesarios: práctica situada (inmersión en experiencias auténticas a partir de la vida de los estudiantes), enseñanza abierta (uso de metalenguaje explícito para comprender los procesos de construcción de significado), marco crítico (reflexión sobre el contexto social y cultural de los textos) y prácticas de transformación (modificación de significados existentes y creación de nuevos significados). La revisión muestra que cuando estos cuatro componentes operan juntos —no como receta sino como orientación— las aulas de Lenguaje se transforman.",
+      "detalles": [
+        {
+          "label": "Práctica situada",
+          "value": "Inmersión en la experiencia y construcción de significado a partir del reconocimiento de la vida de los estudiantes, utilizando simulaciones de espacios públicos y lugares de trabajo para crear significados en contextos auténticos."
+        },
+        {
+          "label": "Enseñanza abierta",
+          "value": "Comprensión sistemática, analítica y consciente de los procesos de construcción de significado, promoviendo el uso de un metalenguaje explícito en el diseño."
+        },
+        {
+          "label": "Marco crítico",
+          "value": "Reflexión de los estudiantes para interpretar el contexto social y cultural de los textos que leen y producen."
+        },
+        {
+          "label": "Prácticas de transformación",
+          "value": "Modificación de significados existentes y construcción de nuevos significados, aplicando lo aprendido en contextos reales."
+        },
+        {
+          "label": "Cambio de paradigma docente",
+          "value": "La implementación de una pedagogía de la multiliteracidad requiere cambios tanto en las prácticas docentes como en los sistemas educativos. Unsworth (2001) señala que los docentes necesitan combinar aspectos tradicionales de la literacidad con competencias para la multiliteracidad."
+        },
+        {
+          "label": "Evidencia predominante",
+          "value": "Los 26 estudios son mayoritariamente cualitativos. Para futuras investigaciones se recomienda incorporar diseños cuantitativos y mixtos que permitan relacionar experiencias pedagógicas con resultados de aprendizaje medibles."
+        }
+      ],
+      "reflexion": "Si un docente de Lenguaje solo cambia las herramientas (por ejemplo, pasa de lápiz a tablet) pero mantiene el mismo rol autoritario, ¿realmente está aplicando una pedagogía de la multiliteracidad?",
+      "deepDives": [
+        {
+          "id": "multi-marco-1",
+          "triggerLabel": "El concepto de diseño: las tres fases",
+          "type": "theory",
+          "content": "Cope y Kalantzis (2000) proponen que la construcción de significados sigue tres momentos interrelacionados: (1) diseño disponible: los recursos semióticos, culturales y lingüísticos que ya existen en un contexto y que los estudiantes traen consigo; (2) proceso de diseño: el trabajo activo de planificar y crear nuevos textos, recontextualizando los recursos disponibles mediante la experimentación y la toma de decisiones reflexivas; (3) rediseño: el resultado transformado, los nuevos recursos producidos que a su vez pasan a estar disponibles para futuros procesos de diseño. Este ciclo explica por qué la multiliteracidad es inherentemente dinámica y por qué no puede reducirse a una lista de actividades."
+        },
+        {
+          "id": "multi-marco-2",
+          "triggerLabel": "Lo que exige al docente",
+          "type": "theory",
+          "content": "Según lo reportado por Tan y Guo (2014), la incorporación de prácticas de multiliteracidad exige que los docentes muestren voluntad para adoptar cambios perdurables en sus prácticas, así como apropiarse de la teoría para ejercer una práctica coherente con esta perspectiva (Krulatz et al., 2018). Llevar a la praxis estas temáticas implica un nivel más elevado de competencia docente, abarcando áreas como las minorías y sus identidades lingüísticas, la comunicación multimodal y las diversidades culturales en espacios interculturales."
+        },
+        {
+          "id": "multi-marco-3",
+          "triggerLabel": "Limitaciones de la evidencia disponible",
+          "type": "limitation",
+          "content": "Entre los artículos analizados predominan los enfoques cualitativos con descripciones detalladas. Predomina la experiencia vivencial donde la voz de los autores narra los acontecimientos —lo que Goggin (1994) denomina 'artículos testimoniales'. Para futuras investigaciones, las autoras recomiendan ampliar y diversificar las metodologías de producción y análisis, incorporando diseños cuantitativos y mixtos para comprender la relación entre experiencias pedagógicas y resultados de aprendizaje. También sería valioso incluir estudios en español y en otros contextos lingüísticos."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Puede la multiliteracidad transformar la enseñanza de Lenguaje en aulas más democráticas, dialógicas e inclusivas?",
+      "conclusion": "Sí, con matices importantes. La evidencia empírica de los 26 estudios revisados indica que las prácticas pedagógicas centradas en la multiliteracidad: (1) posibilitan la incorporación de otros modos semióticos además del verbal para fomentar la comunicación en contextos auténticos y locales; (2) generan cambios positivos en las dinámicas de aula —más horizontalidad, reajuste de roles, mayor agencia estudiantil— que se traducen en aulas más participativas; (3) fortalecen la identidad y visibilizan habilidades ocultas en estudiantes de contextos cultural y lingüísticamente diversos. Sin embargo, la implementación requiere un cambio de paradigma docente que va más allá del dominio técnico de la tecnología: exige voluntad de cambio, apropiación teórica y prácticas coherentes con esta perspectiva. Además, la investigación empírica es aún incipiente —el 73% de los estudios se publicó a partir de 2015— y está concentrada en países angloparlantes, lo que limita su transferibilidad. La multiliteracidad no es una receta, sino un horizonte pedagógico hacia aulas donde todos los modos, todas las lenguas y todas las culturas tengan lugar.",
+      "formalRef": "Báez-Bargellini, G., & Meneses-Arévalo, A. (2023). Multiliteracidad en la asignatura de Lenguaje. Revisión sistemática de la literatura entre 1996 y 2020. Ocnos, 22(2). https://doi.org/10.18239/ocnos_2023.22.2.346"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué base de datos se utilizó en la revisión sistemática y cuántos estudios empíricos conformaron la muestra final?",
+          "options": [
+            "Web of Science, con 26 estudios seleccionados",
+            "Scopus, con 30 estudios seleccionados",
+            "ERIC, con 18 estudios seleccionados",
+            "Web of Science, con 35 estudios seleccionados"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "El 73 % de los artículos revisados (19 de 26) fue publicado a partir de 2015. ¿Qué implica este dato para la investigación sobre multiliteracidad en el aula?",
+          "options": [
+            "Que la multiliteracidad es un campo de estudio consolidado desde los años noventa",
+            "Que la investigación empírica sobre multiliteracidad en aulas de Lenguaje es relativamente reciente",
+            "Que la cantidad de investigaciones ha disminuido en la última década",
+            "Que la mayoría de los estudios se realizaron antes de que el New London Group acuñara el término"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "Según el New London Group, ¿cuáles son los cuatro componentes de la pedagogía de la multiliteracidad?",
+          "options": [
+            "Lectura crítica, escritura creativa, oralidad expresiva y escucha activa",
+            "Práctica situada, enseñanza abierta, marco crítico y prácticas de transformación",
+            "Diseño disponible, proceso de diseño, rediseño y evaluación estandarizada",
+            "Motivación, instrucción directa, evaluación formativa y retroalimentación"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué hallazgo reportó Villalva (2006) sobre dos estudiantes mexicanas migrantes bilingües en la asignatura de Inglés?",
+          "options": [
+            "Que las estudiantes no lograban escribir en inglés académico y preferían el español",
+            "Que las estudiantes rechazaban las prácticas multimodales por considerarlas ajenas a su cultura",
+            "Que las estudiantes poseían habilidades de investigación y escribían en inglés académico, pero esas capacidades eran imperceptibles para sus docentes",
+            "Que las estudiantes solo usaban la multiliteracidad fuera de la escuela, nunca en el aula"
+          ],
+          "correct": 2
+        },
+        {
+          "type": "open",
+          "q": "La revisión muestra que incorporar géneros multimodales transformó las dinámicas de aula: más horizontalidad, reajuste de roles y mayor agencia estudiantil (Mills y Exley, 2014; Ntelioglou et al., 2014). En tu contexto, ¿qué género multimodal (cómic, podcast, videoensayo, narrativa digital…) crees que provocaría un cambio similar y por qué?"
+        },
+        {
+          "type": "open",
+          "q": "El artículo revela que existen 'literacidades ocultas': habilidades que los estudiantes ya poseen pero que sus docentes no perciben. ¿Cómo podrías identificar y aprovechar esas literacidades que tus estudiantes traen al aula de Lenguaje?"
+        },
+        {
+          "type": "open",
+          "q": "El estudio señala que implementar una pedagogía de la multiliteracidad requiere un cambio de paradigma docente, no solo sumar tecnología. ¿Cuál crees que es el mayor obstáculo para ese cambio en las aulas que conoces y cómo podría empezar a superarse?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual de la multiliteracidad",
+    "descripcion": "Conexiones entre los conceptos centrales de la revisión sistemática: el New London Group, la pedagogía del diseño, los géneros multimodales, el reconocimiento de la diversidad y sus efectos en el aula.",
+    "nodos": [
+      { "id": "1", "label": "Multiliteracidad", "color": "#2a9d8f" },
+      { "id": "2", "label": "New London Group (1996)", "color": "#e9c46a" },
+      { "id": "3", "label": "Modos semióticos", "color": "#f4a261" },
+      { "id": "4", "label": "Géneros multimodales", "color": "#e76f51" },
+      { "id": "5", "label": "Pedagogía del diseño", "color": "#264653" },
+      { "id": "6", "label": "Diversidad cultural y lingüística", "color": "#8ab17d" },
+      { "id": "7", "label": "Aula democrática y dialógica", "color": "#9b2226" },
+      { "id": "8", "label": "Formación y cambio docente", "color": "#6a4c93" },
+      { "id": "9", "label": "Literacidades ocultas", "color": "#b5838d" },
+      { "id": "10", "label": "Práctica situada", "color": "#7b2d8e" }
+    ],
+    "aristas": [
+      { "from": "2", "to": "1", "label": "acuñó en 1996" },
+      { "from": "1", "to": "3", "label": "integra" },
+      { "from": "3", "to": "4", "label": "conforma" },
+      { "from": "1", "to": "5", "label": "se implementa mediante" },
+      { "from": "5", "to": "10", "label": "incluye" },
+      { "from": "1", "to": "6", "label": "reconoce y valora" },
+      { "from": "4", "to": "7", "label": "transforma hacia" },
+      { "from": "6", "to": "7", "label": "fortalece" },
+      { "from": "8", "to": "1", "label": "posibilita" },
+      { "from": "1", "to": "9", "label": "visibiliza" },
+      { "from": "9", "to": "6", "label": "pertenecen a" },
+      { "from": "5", "to": "8", "label": "exige" }
+    ]
+  }
+}

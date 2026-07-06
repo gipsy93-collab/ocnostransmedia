@@ -1,0 +1,350 @@
+{
+  "id": "pdae",
+  "metadata": {
+    "title": "Diseño y validación de la Prueba de desarrollo de los Dominios de Alfabetización Emergente (PDAE) en Preescolar",
+    "authors": "Consuelo Manosalba-Torres y Beatriz Arancibia-Gutiérrez",
+    "year": "2023",
+    "journal": "Ocnos 22(2)",
+    "doi": "10.18239/ocnos_2023.22.2.339",
+    "gancho": "¿Cómo sabemos si un niño o niña de preescolar está realmente listo para aprender a leer y escribir?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#f4a261",
+    "colorAlt": "#264653",
+    "bg": "from-orange-300/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/pdae/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-pdae/200/200",
+      "name": "Consuelo Manosalba-Torres",
+      "role": "Investigadora en alfabetización emergente, Universidad Católica de la Santísima Concepción, Chile"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Consuelo Manosalba-Torres, investigadora doctoral en alfabetización emergente en la Universidad Católica de la Santísima Concepción, Chile",
+      "gancho": "¿Cómo sabemos si un niño o niña de preescolar está realmente listo para aprender a leer y escribir?",
+      "contexto": "Piensa en un aula de prekínder o kínder en Chile. Algunos niños y niñas ya reconocen letras, juegan con rimas y hasta intentan escribir su nombre; otros están dando sus primeros pasos con el lenguaje oral. Unos identifican que 'mariposa' tiene cuatro sílabas; otros aún no distinguen dónde empieza y termina una palabra en un texto impreso. Estas diferencias no son anecdóticas: la investigación muestra que el nivel de alfabetización emergente al inicio de la escolaridad predice buena parte del éxito posterior en lectura y escritura (Allan et al., 2013; Hannon et al., 2019; Pinto et al., 2013, 2016). De hecho, Konold y Pianta (2005) sostienen que el aprendizaje de la lectoescritura es más lento y dificultoso cuando estas habilidades están descendidas al comenzar el proceso, y Catts et al. (2002) advierten que las dificultades pueden perdurar hasta la adolescencia. En Chile existían pruebas para evaluar habilidades aisladas —como la conciencia fonológica—, pero faltaba un instrumento que midiera de manera integrada los cuatro dominios centrales de la alfabetización emergente y que estuviera validado psicométricamente con niños y niñas del país. Consuelo Manosalba-Torres y Beatriz Arancibia-Gutiérrez se propusieron llenar ese vacío. El resultado fue la PDAE: la Prueba de desarrollo de los Dominios de Alfabetización Emergente.",
+      "deepDives": [
+        {
+          "id": "pdae-apertura-1",
+          "triggerLabel": "¿Qué es exactamente la alfabetización emergente?",
+          "type": "theory",
+          "content": "La alfabetización emergente (AE) es el conjunto de conocimientos, habilidades y conductas que los niños y niñas desarrollan antes de recibir enseñanza formal de lectoescritura (Justice y Kadaraveck, 2002; Berná, 2015; Rohde, 2015). Incluye habilidades de comunicación oral y los intentos por interpretar y utilizar símbolos impresos para comunicarse (Skibbe et al., 2008; Pavelko et al., 2018). Saracho (2017) señala que la mayoría de las habilidades de AE se desarrollan durante los primeros 3 años de edad (manejo de libros, etiquetar imágenes, escuchar historias), y a medida que crecen emergen habilidades más avanzadas, como pretender leer, garabatear escritura como parte del juego y conectar historias con la vida real. La AE muestra cómo las habilidades de lectura y escritura emergen progresivamente durante el desarrollo del lenguaje oral y escrito."
+        },
+        {
+          "id": "pdae-apertura-2",
+          "triggerLabel": "¿Por qué importa evaluarla antes de que aprendan a leer formalmente?",
+          "type": "theory",
+          "content": "El nivel de desarrollo de la AE en preescolar explica las diferencias en la adquisición de la lectura y escritura en años posteriores (Allan et al., 2013; Hannon et al., 2019). El National Early Literacy Panel (NELP, 2008) identificó 11 habilidades relacionadas con la AE, agrupadas en dos categorías: habilidades de primer orden (conocimiento del alfabeto, conciencia fonológica, nombramiento automático rápido, escritura del nombre y memoria fonológica) y de segundo orden (conceptos sobre lo impreso, preparación para la lectura, lenguaje oral y procesamiento visual). Detectar tempranamente quiénes necesitan más apoyo permite intervenir antes de que las brechas se agranden. Prevenir es más efectivo —y más barato— que remediar."
+        },
+        {
+          "id": "pdae-apertura-3",
+          "triggerLabel": "El vacío que la PDAE vino a llenar",
+          "type": "limitation",
+          "content": "En Chile existían al menos tres pruebas psicométricas validadas: la Prueba de Alfabetización Inicial (PAI) de Villalón y Rolla, la Prueba de Evaluación de Conciencia Fonológica de Varela y De Barbieri, y la Prueba para Evaluar Habilidades Metalingüísticas de Tipo Fonológico de Yakuba, Valenzuela y Renz. Sin embargo, estas pruebas o bien evalúan solo habilidades aisladas de conciencia fonológica, o bien están orientadas a niños de 5 años e incluyen lectura de palabras —una habilidad que ya supera el nivel de AE—, o presentan imágenes y palabras que requieren modificaciones para su uso actual. La PDAE fue diseñada para evaluar simultáneamente los cuatro dominios que Schwartz (2017), Pavelko et al. (2018) y Puranik et al. (2018) postulan como las habilidades puramente emergentes de la alfabetización."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Evaluar la alfabetización emergente no es tan sencillo como pedirle a un niño que nombre letras. Requiere un instrumento que mida varios dominios simultáneamente, que sea comprensible para niños y niñas de 4 a 6 años, que tenga evidencia de validez de constructo —confirmada mediante análisis factorial—, que demuestre consistencia interna con índices robustos y que refleje el contexto lingüístico y cultural de quienes lo responderán. Sin una herramienta así, docentes y especialistas pueden subestimar o sobreestimar las habilidades de sus estudiantes, tomar decisiones pedagógicas desinformadas y perpetuar brechas que una detección temprana podría haber cerrado. El problema no es solo técnico: es profundamente educativo y social.",
+      "porQueImporta": "Porque las decisiones educativas se basan en lo que medimos. Si la evaluación es incompleta o poco confiable, los apoyos pueden llegar tarde, dirigirse a quien no los necesita o —peor aún— dejar fuera a quienes sí los requieren. En Chile, el contexto añade urgencia: la Encuesta CASEN (2017) reportó que el 88,3% de niños y niñas entre 4 y 5 años asiste a NT1/NT2, pero durante los dos primeros años de pandemia la deserción en kínder aumentó un 130% respecto a la década anterior (MINEDUC, 2021). Además, investigaciones chilenas como las de Escobar y Meneses (2014) muestran que el nivel socioeconómico se relaciona significativamente con el desarrollo de vocabulario, inteligencia y velocidad de denominación. Una prueba válida y confiable no solo describe el presente del niño o la niña: ayuda a anticipar su trayectoria lectora y a orientar la intervención pedagógica con evidencia.",
+      "dataPoints": [
+        "La PDAE se organiza en torno a cuatro dominios que la literatura identifica como los precursores centrales de la lectura y escritura: conciencia fonológica (CF), conocimiento del alfabeto (CA), conocimiento de lo impreso (CI) y escritura emergente (EE).",
+        "La muestra final fue de 210 estudiantes: 86 de NT1 (prekínder) y 124 de NT2 (kínder), de cinco establecimientos en las regiones Metropolitana, O'Higgins y Biobío.",
+        "La edad promedio fue de 5 años 6 meses (67.44 meses, DE 6.7), con un rango de 4 años 1 mes a 6 años 9 meses.",
+        "La distribución por nivel socioeconómico fue: 72 estudiantes de NSE bajo, 69 de NSE bajo-medio y 69 de NSE medio.",
+        "Se utilizó análisis factorial confirmatorio (AFC) con matriz tetracórica —apropiada para ítems dicotómicos—, alfa de Cronbach y coeficiente omega para evaluar la fiabilidad."
+      ],
+      "glossary": [
+        {
+          "term": "Alfabetización emergente (AE)",
+          "definition": "Conjunto de conocimientos, habilidades y conductas que los niños y niñas desarrollan antes de recibir enseñanza formal de lectoescritura. Incluye desde cómo sostienen un libro hasta cómo reconocen que las letras representan sonidos. Sus cuatro dominios internos —según Schwartz (2017), Pavelko et al. (2018) y Puranik et al. (2018)— son CF, CA, CI y EE."
+        },
+        {
+          "term": "Conciencia fonológica (CF)",
+          "definition": "Capacidad para tomar conciencia de que las palabras se constituyen por unidades sonoras —fonemas y sílabas— que corresponden a los sonidos del habla y que por sí mismas no poseen significado (Infante, 2003; Mariángel y Jiménez, 2015). Es considerada el mejor predictor del aprendizaje de la lectura (Blair y Savage, 2006; Melby-Lervag et al., 2012). En la PDAE se evalúa mediante cinco subtareas: síntesis fonémica (7 ítems), rimas-sonido final silábico (5 ítems), aliteración-sonido inicial silábico (4 ítems), segmentación silábica (6 ítems) y aislar fonema inicial (4 ítems)."
+        },
+        {
+          "term": "Conocimiento del alfabeto (CA)",
+          "definition": "Reconocimiento de las letras del abecedario para utilizarlas en contextos de lectura y escritura (Whitehurst y Lonigan, 1998; Puranik et al., 2018). Saber al menos cinco letras al ingresar a primer grado se asocia con un nivel lector significativamente superior (Skibbe et al., 2008; Bravo-Valdivieso et al., 2006a). En la PDAE se evalúa con tres subtareas: conocimiento progresivo (28 letras en orden alfabético), conocimiento aleatorio (50 letras en tabla) y reconocimiento en mayúsculas al dictado (7 ítems)."
+        },
+        {
+          "term": "Conocimiento de lo impreso (CI)",
+          "definition": "Reconocimiento de las formas características de presentación de los textos escritos (Villalón, 2008): orientación izquierda-derecha, signos de puntuación, mayúsculas, portada, título, página, conceptos sobre palabras y letras. Pinto et al. (2016) encontraron que el CI fue el único predictor estadísticamente significativo de la adquisición temprana de la lectura en un estudio longitudinal. En la PDAE se evalúa con 9 ítems."
+        },
+        {
+          "term": "Escritura emergente (EE)",
+          "definition": "Producción de marcas gráficas con intención comunicativa que refleja el acercamiento progresivo al sistema de escritura. Abarca el acto manual de producir marcas, los significados atribuidos a estas marcas y la comprensión del funcionamiento del lenguaje escrito (Cabell et al., 2011; Pavelko et al., 2018). En la PDAE se evalúa mediante tres subtareas: escritura de palabras, escritura de frases y escritura del nombre y apellido. Cada una se codifica según la etapa de escritura: garabateo, garabateos lineales, símbolos separados, escritura de letras correctas y pseudopalabras, escritura con omisiones y producción correcta."
+        },
+        {
+          "term": "Análisis factorial confirmatorio (AFC)",
+          "definition": "Técnica estadística que contrasta si la estructura teórica propuesta para un instrumento se ajusta a los datos reales. En la PDAE, dado que los ítems son dicotómicos (correcto/incorrecto), se utilizó una matriz tetracórica. Los índices de ajuste principales son el CFI (Comparative Fit Index, donde >.95 es excelente), el RMSEA (Root Mean Square Error of Approximation, donde <.05 es excelente) y el SRMR (Standardized Root Mean Square Residual)."
+        },
+        {
+          "term": "Coeficiente omega (ω)",
+          "definition": "Índice de fiabilidad que estima la consistencia interna a partir de las cargas factoriales de cada ítem. Complementa al alfa de Cronbach, que ha sido cuestionado cuando los ítems tienen cargas factoriales muy distintas (Domínguez-Lara y Merino-Soto, 2015a, 2015b). Ventura-León y Caycho-Rodríguez (2017) señalan que valores superiores a .70 indican una consistencia interna adecuada."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "pdae-conflicto-1",
+          "triggerLabel": "Los cuatro pilares de la PDAE y sus subtareas",
+          "type": "theory",
+          "content": "La PDAE se organiza en cuatro tareas principales, cada una con subtareas específicas. CF (5 subtareas, 26 ítems): síntesis fonémica, rimas-sonido final silábico, aliteración-sonido inicial silábico, segmentación silábica, aislar fonema inicial. CA (3 subtareas, 85 ítems): conocimiento del alfabeto progresivo, aleatorio y en mayúsculas al dictado. CI (1 tarea, 9 ítems): reconocimiento de letras, puntos, comas, mayúsculas, título, portada, primera línea, última palabra, entre otros. EE (3 subtareas): escritura de palabras monosilábicas y bisilábicas con sílabas directas, escritura de dos frases simples dictadas, y escritura del primer nombre y apellido. Esta estructura permite una evaluación granular del desarrollo de cada dominio."
+        },
+        {
+          "id": "pdae-conflicto-2",
+          "triggerLabel": "Las tres pruebas chilenas que motivaron la PDAE",
+          "type": "method",
+          "content": "Para diseñar la PDAE, las autoras revisaron tres instrumentos chilenos validados. (1) Prueba de Alfabetización Inicial (PAI) de Villalón y Rolla: evalúa CF, CI, CA, lectura, escritura del nombre. Fiabilidad: CF .72, CI .63, CA .93, lectura .83, escritura del nombre .93, global .96. Muestra: 250 niños/as de 5-6 años en Chile/Perú. Limitación: incluye lectura de palabras, habilidad que supera la AE. (2) Prueba de Evaluación de Conciencia Fonológica de Varela y De Barbieri: alfa global .893, muestra de 120 niños/as en 4 rangos de edad, pero no registra alfa por tareas. (3) Prueba para Evaluar Habilidades Metalingüísticas de Tipo Fonológico de Yakuba, Valenzuela y Renz: alfa global .81, muestra de 1088 niños/as de 4-6 años, sin alfa por tareas. Estas fortalezas y limitaciones informaron el diseño de la PDAE."
+        },
+        {
+          "id": "pdae-conflicto-3",
+          "triggerLabel": "No todos los precursores son igual de emergentes",
+          "type": "theory",
+          "content": "El NELP (2008) identificó 11 habilidades de AE, pero Schwartz (2017), Pavelko et al. (2018) y Puranik et al. (2018) postulan que las habilidades puramente emergentes —aquellas que se desarrollan antes y durante el inicio de la instrucción formal, no como resultado de ella— son solo cuatro: CF, CA, CI y EE. Otras habilidades incluidas en el NELP, como el nombramiento automático rápido (RAN) o la memoria fonológica, son importantes pero de naturaleza distinta. La PDAE se alinea con esta delimitación conceptual más precisa, enfocándose en los cuatro dominios que la evidencia más reciente señala como los precursores directos de la decodificación y la escritura."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Así construimos y validamos la PDAE: del diseño a la evidencia",
+      "narrativa": "Imagina que necesitas construir una prueba desde cero. No basta con escribir ítems: necesitas asegurarte de que cada tarea mide lo que pretende medir, que las instrucciones son comprensibles para niños de 4 años, que las imágenes no introducen sesgos, que el orden de los ítems respeta una dificultad creciente. Las autoras comenzaron revisando tres instrumentos chilenos para entender qué se había medido y qué faltaba. Luego diseñaron las tareas, subtareas e ítems y sometieron la primera versión al juicio de cinco expertos —tres nacionales y dos internacionales, todos doctores en educación o psicología con investigación en alfabetización emergente— quienes evaluaron adecuación y pertinencia en una escala de 1 ('muy en desacuerdo') a 6 ('muy de acuerdo'). La valoración general fluctuó entre buena y excelente. Los cambios solicitados fueron precisos: revisar instrucciones en la tarea de CA, ordenar palabras por longitud en segmentación silábica, ordenar por dificultad en rimas, e incluir un ítem de ejemplo por cada tarea. Luego vino la aplicación: 210 niños y niñas de prekínder y kínder, en cinco escuelas de tres regiones chilenas, entre octubre y diciembre de 2019. Docentes de educación preescolar y especial fueron capacitados para administrar la prueba. Y aquí viene un dato de contexto que ningún manual de psicometría contempla: la aplicación coincidió con el estallido social chileno iniciado el 18 de octubre de 2019, que alteró el funcionamiento de muchos establecimientos y dificultó la recolección de datos. Finalmente, los datos se analizaron con RStudio versión 7.8: análisis descriptivo, prueba de Kolmogorov-Smirnov para normalidad, correlaciones de Spearman, alfa de Cronbach, coeficiente omega, análisis factorial confirmatorio con matriz tetracórica y prueba de Mann-Whitney para diferencias entre cursos.",
+      "detalles": [
+        { "label": "Diseño del estudio", "value": "Estudio instrumental con enfoque cuantitativo, orientado al diseño y validación de una prueba psicométrica." },
+        { "label": "Objetivo principal", "value": "Diseñar y validar una prueba para medir las habilidades de alfabetización emergente en estudiantes chilenos de NT1 (prekínder) y NT2 (kínder), de 4 a 6 años." },
+        { "label": "Validación de contenido", "value": "Juicio de 5 expertos/as (3 nacionales, 2 internacionales) con grado de Dr./Dra. en educación o psicología e investigación en AE. Evaluaron adecuación y pertinencia de tareas, subtareas e ítems en escala de 1 a 6. Valoración general: entre buena y excelente." },
+        { "label": "Muestra total", "value": "210 estudiantes: 86 de NT1 (prekínder) y 124 de NT2 (kínder). Edad promedio: 67.44 meses (DE 6.7), rango 49-79 meses (4 años 1 mes a 6 años 9 meses)." },
+        { "label": "Establecimientos", "value": "5 escuelas (públicas y particulares subvencionadas) de las regiones Metropolitana, Libertador General Bernardo O'Higgins y Biobío." },
+        { "label": "Distribución por NSE", "value": "NSE bajo: 72 estudiantes (26%). NSE bajo-medio: 69 estudiantes (37%). NSE medio: 69 estudiantes (37%). No se incluyó NSE alto." },
+        { "label": "Aplicación", "value": "Entre octubre y diciembre de 2019. Docentes de educación preescolar y especial fueron capacitados para administrar la prueba. Se recogieron consentimientos informados de tutores legales." },
+        { "label": "Análisis de fiabilidad", "value": "Alfa de Cronbach (α) y coeficiente omega (ω) para la prueba total y por subescala. Software: RStudio v7.8." },
+        { "label": "Validez de constructo", "value": "Análisis Factorial Confirmatorio (AFC) con matriz tetracórica (adecuada para ítems dicotómicos). Índices evaluados: CFI, RMSEA (con IC 90%), SRMR, χ²." },
+        { "label": "Análisis complementarios", "value": "Prueba de Kolmogorov-Smirnov para normalidad, correlaciones de Spearman (no paramétricas) entre dominios, y prueba de Mann-Whitney para diferencias entre NT1 y NT2." }
+      ],
+      "limitaciones": [
+        "La aplicación coincidió con el estallido social chileno iniciado el 18 de octubre de 2019, lo que alteró el funcionamiento de varios establecimientos y perjudicó la toma de datos en más escuelas de las consideradas inicialmente.",
+        "No se logró acceder a estudiantes de NSE alto para que formaran parte de la muestra. La prueba fue validada solo con NSE bajo, bajo-medio y medio.",
+        "Los análisis no controlaron variables como género, tipo de establecimiento educacional u otras variables socio-contextuales de las familias.",
+        "Algunas subtareas podrían beneficiarse de un mayor equilibrio en la cantidad de ítems. Por ejemplo, CA tiene 85 ítems en total (28+50+7), mientras CI tiene solo 9.",
+        "Falta evidencia de validez predictiva: no se ha realizado un estudio longitudinal que relacione los puntajes de la PDAE con el desempeño lector en 1.º y 2.º básico."
+      ],
+      "reflexion": "¿Crees que una prueba diseñada para preescolares chilenos puede usarse en otros países hispanohablantes sin adaptaciones?",
+      "deepDives": [
+        {
+          "id": "pdae-viaje-1",
+          "triggerLabel": "¿Qué evaluaron exactamente los jueces expertos?",
+          "type": "method",
+          "content": "Cada juez evaluó cada tarea y subtarea en dos dimensiones: ADECUACIÓN (comprensibilidad, claridad, precisión, adecuación de opciones de respuesta, orden lógico de dificultad, pertinencia de palabras e imágenes para la edad preescolar) y PERTINENCIA (contribución a evaluar el dominio correspondiente, tributación directa a la AE). La escala era de 1 ('muy en desacuerdo') a 6 ('muy de acuerdo'). Además, realizaron una valoración general del instrumento (excelente, buena, regular, deficiente) y podían proponer modificaciones, sustituciones o supresiones. Los cambios solicitados fueron específicos: clarificar que en CA se pide el nombre de las letras, ordenar palabras por número de sílabas en segmentación silábica, ordenar por dificultad en rimas y aliteración, e incluir ítems de ejemplo."
+        },
+        {
+          "id": "pdae-viaje-2",
+          "triggerLabel": "¿Por qué usar alfa de Cronbach y omega?",
+          "type": "method",
+          "content": "El alfa de Cronbach (α) es el índice más utilizado de consistencia interna, pero ha sido criticado cuando los ítems tienen cargas factoriales muy distintas, ya que puede subestimar la fiabilidad real. El coeficiente omega (ω) complementa esta información porque estima la fiabilidad a partir de las cargas factoriales de cada ítem —no asume que todos los ítems contribuyen por igual—, ofreciendo una imagen más robusta (Domínguez-Lara y Merino-Soto, 2015a, 2015b). Usar ambos índices permite triangular la evidencia de consistencia interna: si ambos superan .70, la confiabilidad está sólidamente respaldada."
+        },
+        {
+          "id": "pdae-viaje-3",
+          "triggerLabel": "Un contexto que dejó huella",
+          "type": "limitation",
+          "content": "La aplicación de la PDAE se realizó entre octubre y diciembre de 2019. El 18 de octubre de 2019 comenzó en Chile el llamado 'estallido social', un período de protestas masivas que alteró el funcionamiento normal de muchos establecimientos educacionales. Las autoras lo señalan explícitamente: 'muchos establecimientos educacionales vieron alterado su normal funcionamiento, lo que perjudicó la toma de datos en más establecimientos considerados'. Aunque esto no invalida los resultados —la muestra final de 210 es adecuada para los análisis realizados—, es parte de la historia del instrumento: una prueba diseñada en tiempos de normalidad y validada en tiempos de excepción."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Cuatro factores, una estructura que se sostiene",
+      "narrativa": "Cuando los 210 protocolos fueron analizados, el modelo teórico de cuatro factores no solo se sostuvo: mostró un ajuste excelente. El análisis factorial confirmatorio con matriz tetracórica arrojó un CFI de .976 y un RMSEA de .024 —ambos en rango excelente según los criterios de Kline (2015)—, con un intervalo de confianza del 90% para el RMSEA de [.012, .032] y un SRMR de .122. La χ² fue de 503.679 (p < .001). En el diagrama de recorrido del AFC se observa que todas las cargas factoriales de los ítems superan .07, un valor que evita tener que eliminar ítems. Las relaciones entre las cuatro habilidades son todas significativas. Pero los números cobran vida cuando miramos los detalles: la correlación más alta se da entre conocimiento del alfabeto y escritura emergente (r = .68, p < .001), un dato que sugiere que conocer las letras y empezar a escribir se potencian mutuamente. La consistencia interna es sólida: alfa total de .79, omega total de .82. Y cuando comparamos NT1 y NT2, aparecen diferencias significativas exactamente donde la teoría predice que deberían aparecer: en síntesis fonémica, conocimiento del alfabeto y escritura emergente. La PDAE no solo mide lo que dice medir: lo mide de manera coherente con lo que sabemos sobre cómo se desarrolla la alfabetización.",
+      "hallazgos": [
+        {
+          "label": "Estructura factorial confirmada (AFC)",
+          "value": "El modelo de cuatro factores obtuvo un ajuste excelente: CFI = .976, RMSEA = .024 (IC 90%: .012 - .032), SRMR = .122, χ² = 503.679 (p < .001). Todas las cargas factoriales superan .07. El modelo concuerda con la estructura teórica propuesta por Schwartz (2017), Pavelko et al. (2018) y Puranik et al. (2018)."
+        },
+        {
+          "label": "Análisis descriptivo",
+          "value": "Medias (DE): CF = 21.31 (4.1) de 26 puntos posibles; CA = 36.28 (22.9) —la mayor dispersión de todos los dominios—; CI = 5.9 (2.2) de 9 puntos; EE = 12.0 (3.3). La desviación estándar de CA (22.9 sobre una media de 36.28) revela una enorme variabilidad entre los participantes en el conocimiento de letras."
+        },
+        {
+          "label": "Consistencia interna por subescala (alfa / omega)",
+          "value": "CF: α = .74, ω = .98. CA: α = .82, ω = .72. CI: α = .75, ω = .98. EE: α = .83, ω = .73. Todos los valores superan el criterio de .70. La prueba total: α = .79, ω = .82."
+        },
+        {
+          "label": "Correlaciones entre dominios (Spearman, todas p < .001)",
+          "value": "CF-CA: r = .48 (efecto mediano). CF-CI: r = .41 (efecto mediano). CF-EE: r = .47 (efecto mediano). CA-CI: r = .44 (efecto mediano). CA-EE: r = .68 (efecto mediano-grande, la correlación más alta). CI-EE: r = .50 (efecto mediano). Todas las relaciones son directas y significativas, indicando que los dominios se desarrollan de manera interconectada."
+        },
+        {
+          "label": "Diferencias por nivel educativo (NT1 vs NT2, Mann-Whitney)",
+          "value": "Diferencias significativas a favor de NT2 en: síntesis fonémica (W = 2647.5, p = .001, d = -.42), conocimiento del alfabeto (W = 2137.5, p < .001, d = -.82, efecto grande) y escritura emergente (W = 2242.5, p < .001, d = -.77). No se encontraron diferencias significativas en rimas, aliteración, segmentación silábica, aislar fonema inicial ni conocimiento de lo impreso."
+        }
+      ],
+      "dataPoints": [
+        "La media de CA en NT1 fue 24.9 (DE 14.8) y en NT2 fue 41.6 (DE 24.5). El tamaño del efecto d = -.82 se considera grande.",
+        "La media de EE en NT1 fue 10.1 (DE 2.7) y en NT2 fue 12.9 (DE 3.4), con d = -.77.",
+        "La media de SF en NT1 fue 4.8 (DE 1.6) y en NT2 fue 5.5 (DE 1.7), con d = -.42.",
+        "El CA presentó el puntaje mínimo más bajo (2) y el máximo más alto (84), con una asimetría positiva (0.562), indicando que muchos niños obtuvieron puntajes bajos.",
+        "El test de Kolmogorov-Smirnov indicó que los datos no seguían una distribución normal (p < .05), lo que justificó el uso de pruebas no paramétricas (Spearman y Mann-Whitney).",
+        "Las cargas factoriales de todos los ítems en el AFC superan .07, valor óptimo que evita la eliminación de ítems y confirma una saturación satisfactoria."
+      ],
+      "reflexion": "¿Te sorprende que la correlación más alta sea entre conocimiento del alfabeto y escritura emergente (r = .68)? ¿Por qué crees que ocurre eso?",
+      "deepDives": [
+        {
+          "id": "pdae-rev-1",
+          "triggerLabel": "¿Qué significa un CFI de .976 y un RMSEA de .024?",
+          "type": "data",
+          "content": "El CFI (Comparative Fit Index) compara el modelo propuesto con un modelo nulo donde no hay relaciones entre variables. Valores superiores a .95 se consideran excelentes (Kline, 2015). El RMSEA (Root Mean Square Error of Approximation) mide cuánto se aleja el modelo de un ajuste perfecto, penalizando la complejidad. Valores inferiores a .05 son excelentes. Un RMSEA de .024 con un IC del 90% de [.012, .032] significa que podemos tener alta confianza en que el error de aproximación poblacional es pequeño. En conjunto, estos índices indican que la estructura de cuatro factores de la PDAE representa muy bien las respuestas reales de los 210 niños y niñas."
+        },
+        {
+          "id": "pdae-rev-2",
+          "triggerLabel": "El hallazgo más revelador: CA y EE van de la mano",
+          "type": "data",
+          "content": "La correlación más alta se dio entre conocimiento del alfabeto y escritura emergente (r = .68, p < .001). Esto no es casual: conocer los nombres de las letras fortalece la correspondencia grafema-fonema, lo que a su vez facilita los primeros intentos de escritura. Dehaene (2015) explica que el reconocimiento de letras y la escritura comparten circuitos neuronales. Pavelko et al. (2018) encontraron que el CA y la escritura de letras contribuyen significativamente a la escritura del nombre. La PDAE confirma esta interdependencia con datos chilenos, lo que tiene una implicancia pedagógica directa: enseñar letras y escritura de forma aislada desperdicia una sinergia natural."
+        },
+        {
+          "id": "pdae-rev-3",
+          "triggerLabel": "La dispersión del conocimiento del alfabeto: una alerta pedagógica",
+          "type": "data",
+          "content": "El CA mostró la mayor variabilidad: DE = 22.9 sobre una media de 36.28, con un mínimo de 2 y un máximo de 84. La asimetría positiva (0.562) indica que muchos niños obtuvieron puntajes bajos. Esto significa que al ingresar a prekínder y kínder, algunos niños ya conocen casi todas las letras mientras otros apenas reconocen un par. Considerando que conocer al menos 5 letras al ingresar a primer grado predice un nivel lector significativamente superior (Skibbe et al., 2008; Bravo-Valdivieso et al., 2006a), esta dispersión es una alerta: la PDAE puede identificar a quienes parten con mayores desventajas justo en el dominio que más predice el éxito lector posterior."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "¿Qué nos dicen estos resultados sobre la alfabetización emergente?",
+      "narrativa": "Los números de la PDAE no existen en el vacío: confirman y extienden lo que la literatura internacional venía sugiriendo. El modelo de cuatro factores validado por el AFC respalda la propuesta de Schwartz (2017), Pavelko et al. (2018) y Puranik et al. (2018) de que CF, CA, CI y EE son los dominios nucleares —y empíricamente diferenciables— de la alfabetización emergente. Las correlaciones significativas entre todos los dominios confirman lo que estudios previos han documentado: al desarrollarse la CF, se desarrollan también CA, CI y EE (Allan et al., 2013; Pinto et al., 2016). La relación particularmente fuerte entre CA y EE (r = .68) es consistente con los hallazgos de Deasley et al. (2016) sobre la conexión entre conocimiento de nombres de letras, conocimiento conceptual de la escritura y escritura espontánea. Las diferencias por curso —significativas en SF, CA y EE pero no en CI ni en otras tareas de CF— sugieren que estos tres dominios son especialmente sensibles al desarrollo durante el año adicional de NT2, mientras que CI podría tener un desarrollo más gradual o depender más de experiencias extraescolares con el lenguaje escrito. La discusión del artículo también contextualiza estos resultados en la realidad chilena: aunque NT1 no es obligatorio, el 88.3% de niños y niñas entre 4 y 5 años asiste a NT1 o NT2 (CASEN, 2017), lo que hace que la PDAE tenga un alcance poblacional amplio. Sin embargo, la pandemia introdujo una disrupción masiva: MINEDUC (2021) reportó un aumento del 130% en la deserción de kínder durante los dos primeros años de pandemia, lo que añade urgencia a la necesidad de instrumentos de detección temprana como la PDAE.",
+      "detalles": [
+        {
+          "label": "CF y CI como precursores de la decodificación",
+          "value": "Tanto la CF como el CI ayudan a comprender el funcionamiento del sistema de escritura. Allan et al. (2013) y Lonigan et al. (2007) los identifican como precursores directos de la decodificación —la capacidad de identificar palabras impresas y producir sonidos significativos con precisión y fluidez—. Pinto et al. (2016), en un estudio longitudinal desde preescolar a primer grado, encontraron que el CI fue el único predictor estadísticamente significativo de la adquisición temprana de la lectura."
+        },
+        {
+          "label": "CA como puente hacia la escritura y la lectura",
+          "value": "El CA contribuye al desarrollo de la sensibilidad fonológica y facilita la correspondencia grafema-fonema (Whitehurst y Lonigan, 1998; Skibbe et al., 2008). La correlación CA-EE (r = .68) en la PDAE confirma esta conexión. A largo plazo, el CA predice resultados de lectura en 2.º y 4.º básico (Piasta et al., 2021; Rugerio y Guevara, 2015)."
+        },
+        {
+          "label": "Experiencias de calidad en la primera infancia",
+          "value": "Para que las habilidades de AE se desarrollen, es necesario que los niños y niñas estén expuestos a experiencias de calidad con el lenguaje oral y escrito (Strasser y Lissi, 2009; Mendive et al., 2017). La PDAE no solo diagnostica: al identificar perfiles de fortalezas y debilidades, puede orientar qué tipo de experiencias necesita cada niño o niña."
+        },
+        {
+          "label": "El NSE como variable contextual crítica",
+          "value": "Escobar y Meneses (2014) encontraron en Chile que niños y niñas de NSE alto presentan mayor desarrollo de vocabulario, inteligencia y velocidad de denominación. La PDAE, validada con NSE bajo, bajo-medio y medio, deja fuera al NSE alto, lo que limita la interpretación de diferencias atribuibles al contexto socioeconómico."
+        },
+        {
+          "label": "Proyección regional e internacional",
+          "value": "La PDAE fue elaborada en español estándar, lo que facilita su adaptación a otros países hispanohablantes con ajustes léxicos menores. Esta característica permitiría estudios comparados entre niños y niñas hablantes de lenguas con distinto grado de transparencia ortográfica."
+        }
+      ],
+      "reflexion": "Si los cuatro dominios están tan interrelacionados, ¿tiene sentido enseñarlos de forma aislada en el aula?",
+      "deepDives": [
+        {
+          "id": "pdae-marco-1",
+          "triggerLabel": "Más allá de la medición: implicancias pedagógicas",
+          "type": "theory",
+          "content": "La PDAE no es solo una herramienta de diagnóstico: puede orientar la planificación pedagógica diferenciada. Si un niño o niña obtiene un buen puntaje en CF pero bajo en CA, la intervención puede focalizarse en el reconocimiento de letras sin descuidar la conciencia fonológica. Si otro muestra buena escritura emergente pero bajo CI, se pueden intensificar las experiencias con libros, portadas, títulos y convenciones del texto impreso. La estructura de subtareas permite identificar con precisión dónde está la dificultad —por ejemplo, dentro de CF, un niño puede segmentar sílabas pero no sintetizar fonemas—, lo que permite intervenciones altamente focalizadas."
+        },
+        {
+          "id": "pdae-marco-2",
+          "triggerLabel": "Lo que la pandemia agravó y la PDAE puede ayudar a detectar",
+          "type": "theory",
+          "content": "La pandemia de COVID-19 tuvo un impacto desproporcionado en la educación preescolar chilena. MINEDUC (2021) reportó que la deserción en kínder aumentó un 130% en los dos primeros años de pandemia respecto a la década anterior. Muchos niños y niñas perdieron meses —o años— de exposición al lenguaje oral y escrito en contextos educativos formales. En este escenario, contar con un instrumento validado como la PDAE es más urgente que nunca: permite identificar qué habilidades se vieron más afectadas por la interrupción educativa y orientar la recuperación de aprendizajes con evidencia, no con intuiciones."
+        },
+        {
+          "id": "pdae-marco-3",
+          "triggerLabel": "Lo que falta por investigar",
+          "type": "limitation",
+          "content": "Las autoras identifican varias líneas futuras. Primero, estudios longitudinales que sigan a los mismos niños desde NT1 hasta primer o segundo básico para establecer la validez predictiva de la PDAE. Segundo, incluir NSE alto en la muestra y controlar variables como género, tipo de establecimiento y variables socio-contextuales familiares. Tercero, equilibrar la cantidad de ítems entre subtareas. Cuarto, estudios comparativos con otros países hispanohablantes. Quinto, investigar si el nivel de desarrollo de cada niño/a —que puede marcar diferencias entre quienes cursaron o no NT1 antes de NT2— modera los resultados. La PDAE es un punto de partida sólido, no un punto de llegada."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Es la PDAE un instrumento válido y confiable para evaluar la alfabetización emergente en preescolares chilenos?",
+      "conclusion": "Sí. La evidencia psicométrica presentada es sólida en múltiples frentes: (1) validez de contenido respaldada por el juicio de cinco expertos nacionales e internacionales; (2) validez de constructo confirmada mediante AFC con matriz tetracórica, con índices excelentes (CFI = .976, RMSEA = .024) que avalan el modelo de cuatro factores; (3) consistencia interna adecuada tanto con alfa de Cronbach (α total = .79, subescalas entre .74 y .83) como con coeficiente omega (ω total = .82, subescalas entre .72 y .98); (4) correlaciones entre dominios todas significativas (p < .001) y con tamaños de efecto medianos a grandes, coherentes con la teoría; (5) sensibilidad al desarrollo, con diferencias significativas entre NT1 y NT2 en SF, CA y EE. La PDAE es, por tanto, una herramienta cuantitativa válida, confiable y contextualizada para evaluar los cuatro precursores centrales de la lectura y escritura en el nivel preescolar chileno. Sus limitaciones —ausencia de NSE alto, falta de validez predictiva longitudinal, desbalance de ítems entre subtareas— no invalidan sus fortalezas pero sí marcan la agenda de investigación futura.",
+      "formalRef": "Manosalba-Torres, C., & Arancibia-Gutiérrez, B. (2023). Diseño y validación de la Prueba de desarrollo de los Dominios de Alfabetización Emergente (PDAE) en Preescolar. Ocnos, 22(2). https://doi.org/10.18239/ocnos_2023.22.2.339"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "Para comprobar si el modelo de cuatro factores se ajustaba a los datos, las autoras realizaron un análisis factorial confirmatorio. ¿Qué tipo de matriz utilizaron, considerando que los ítems de la PDAE son dicotómicos (respuesta correcta/incorrecta)?",
+          "options": [
+            "Matriz de correlaciones de Pearson",
+            "Matriz policórica",
+            "Matriz tetracórica",
+            "Matriz de covarianzas estándar"
+          ],
+          "correct": 2
+        },
+        {
+          "type": "choice",
+          "q": "Los resultados descriptivos revelaron que uno de los cuatro dominios presentaba una dispersión mucho mayor que los demás, con una desviación estándar de 22.9 sobre una media de 36.28. ¿De qué dominio se trata?",
+          "options": [
+            "Conciencia fonológica",
+            "Conocimiento del alfabeto",
+            "Conocimiento de lo impreso",
+            "Escritura emergente"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "Según el marco teórico del artículo, ¿qué cuatro habilidades postulan Schwartz (2017), Pavelko et al. (2018) y Puranik et al. (2018) como las puramente emergentes de la alfabetización?",
+          "options": [
+            "Conciencia fonológica, nombramiento automático rápido, memoria fonológica y escritura del nombre",
+            "Conciencia fonológica, conocimiento del alfabeto, conocimiento de lo impreso y escritura emergente",
+            "Lenguaje oral, procesamiento visual, conceptos sobre lo impreso y preparación para la lectura",
+            "Decodificación, fluidez lectora, vocabulario y comprensión de textos"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "Al comparar NT1 (prekínder) y NT2 (kínder) mediante la prueba de Mann-Whitney, ¿en cuáles de estas habilidades la diferencia fue estadísticamente significativa a favor de NT2?",
+          "options": [
+            "Síntesis fonémica, conocimiento del alfabeto y escritura emergente",
+            "Rimas, aliteración y segmentación silábica",
+            "Conocimiento de lo impreso y aislar fonema inicial",
+            "Todas las habilidades de la PDAE sin distinción"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "La muestra de la PDAE no incluyó a niños y niñas de nivel socioeconómico alto, y las autoras lo reconocen como una limitación. Si pudieras replicar este estudio en tu contexto, ¿cómo abordarías esa brecha muestral y qué hipótesis te plantearías sobre los resultados de ese grupo ausente?"
+        },
+        {
+          "type": "open",
+          "q": "Las autoras encontraron que la correlación más fuerte fue entre conocimiento del alfabeto y escritura emergente (r=.68). Partiendo de tu experiencia o de lo que imaginas en un aula de preescolar, ¿qué actividad concreta diseñarías para aprovechar esa conexión y potenciar ambos dominios al mismo tiempo con niños y niñas de 4 a 5 años?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual de la PDAE",
+    "descripcion": "Conexiones entre los dominios de la alfabetización emergente evaluados por la PDAE, sus predictores, la validación psicométrica y sus proyecciones pedagógicas.",
+    "nodos": [
+      { "id": "1", "label": "Alfabetización emergente", "color": "#f4a261" },
+      { "id": "2", "label": "Conciencia fonológica (CF)", "color": "#2a9d8f" },
+      { "id": "3", "label": "Conocimiento del alfabeto (CA)", "color": "#e76f51" },
+      { "id": "4", "label": "Conocimiento de lo impreso (CI)", "color": "#e9c46a" },
+      { "id": "5", "label": "Escritura emergente (EE)", "color": "#264653" },
+      { "id": "6", "label": "PDAE", "color": "#6a4c93" },
+      { "id": "7", "label": "Lectura y escritura formal", "color": "#9b2226" },
+      { "id": "8", "label": "AFC (validez de constructo)", "color": "#8ab17d" },
+      { "id": "9", "label": "Alfa y Omega (fiabilidad)", "color": "#b5838d" },
+      { "id": "10", "label": "Juicio de expertos", "color": "#7b2d8e" }
+    ],
+    "aristas": [
+      { "from": "1", "to": "2", "label": "incluye" },
+      { "from": "1", "to": "3", "label": "incluye" },
+      { "from": "1", "to": "4", "label": "incluye" },
+      { "from": "1", "to": "5", "label": "incluye" },
+      { "from": "6", "to": "1", "label": "evalúa" },
+      { "from": "2", "to": "7", "label": "predice" },
+      { "from": "3", "to": "7", "label": "predice" },
+      { "from": "4", "to": "7", "label": "predice" },
+      { "from": "5", "to": "7", "label": "predice" },
+      { "from": "3", "to": "5", "label": "r=.68***" },
+      { "from": "8", "to": "6", "label": "confirma estructura" },
+      { "from": "9", "to": "6", "label": "respalda" },
+      { "from": "10", "to": "6", "label": "valida contenido" },
+      { "from": "5", "to": "2", "label": "r=.47***" },
+      { "from": "3", "to": "2", "label": "r=.48***" }
+    ]
+  }
+}

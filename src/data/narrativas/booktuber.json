@@ -1,0 +1,444 @@
+{
+  "id": "booktuber",
+  "metadata": {
+    "title": "Booktuber como práctica literaria en Educación Secundaria: revisión sistemática",
+    "authors": "Margarita R. Rodríguez-Gallego, Cristina De-Cecilia-Rodríguez, Soledad Domene-Martos y Rosario Ordóñez-Sierra",
+    "year": "2024",
+    "journal": "Ocnos 23(1)",
+    "doi": "10.18239/ocnos_2024.23.1.405",
+    "gancho": "¿Y si los adolescentes que parecen distraídos con pantallas en realidad están leyendo, opinando y creando comunidad alrededor de los libros?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e63946",
+    "colorAlt": "#1d3557",
+    "bg": "from-rose-500/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/booktuber/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Margarita, investigadora en didáctica de la literatura de la Universidad de Sevilla",
+      "gancho": "¿Y si los adolescentes que parecen distraídos con pantallas en realidad están leyendo, opinando y creando comunidad alrededor de los libros?",
+      "contexto": "Imagina a un adolescente frente a su móvil. Pero en lugar de ver un video cualquiera, está grabando una reseña de su última lectura: presenta el libro, valora los personajes, analiza la trama, debate el estilo y recomienda —o no— la lectura a una audiencia de desconocidos que pronto se convierten en su comunidad. Eso es ser booktuber. El fenómeno no ha parado de crecer: comentarios de libros, juegos literarios, desafíos entre canales y reseñas que se alejan del academicismo para hablar desde la emoción y la experiencia personal. Cuatro investigadoras de la Universidad de Sevilla —Margarita Rodríguez-Gallego, Cristina De-Cecilia-Rodríguez, Soledad Domene-Martos y Rosario Ordóñez-Sierra— se preguntaron si esta práctica, que sucede a diario fuera del aula, podía tener un lugar legítimo dentro de la clase de Lengua Castellana y Literatura de Educación Secundaria. Y lo hicieron con una revisión sistemática siguiendo el estándar más exigente: las directrices de la Declaración PRISMA 2020. El resultado es el primer mapa comprehensivo de ventajas, inconvenientes y posibilidades de evaluación del fenómeno booktuber en la etapa secundaria.",
+      "deepDives": [
+        {
+          "id": "book-apertura-1",
+          "triggerLabel": "¿Qué es exactamente un booktuber?",
+          "type": "theory",
+          "content": "Tomasena (2021) define al booktuber como 'una comunidad de conocimiento en red en la que sus miembros aprenden a través de una socialización con reglas, jerarquías, valores y géneros compartidos'. Paladines-Paredes y Aliagas (2021) lo describen como una 'comunidad virtual de jóvenes que cuelgan vídeos en YouTube en los que hablan sobre libros'. Su labor es de mediadores literarios: recomiendan libros mediante videorreseñas con una estructura que incluye presentación, valoración de personajes, trama y estilo. La diferencia clave con la crítica tradicional es que esta práctica está fuera del ámbito profesional y los lectores no necesitan conocimientos literarios previos más allá de su experiencia lectora."
+        },
+        {
+          "id": "book-apertura-2",
+          "triggerLabel": "¿Por qué los adolescentes se conectan con esto?",
+          "type": "theory",
+          "content": "Muchos adolescentes perciben la lectura en papel como algo obligado que requiere sacrificio. Colás-Bravo et al. (2013) mostraron que prefieren aprender en red y de la red por la flexibilidad del lenguaje digital. En plataformas como YouTube, Wattpad, Instagram o Goodreads encuentran formas flexibles de leer, opinar y crear. La irrupción de recursos como Wattpad —comunidad online donde los adolescentes comparten su obra sin requisitos específicos de publicación ni censura—, Kindle, Audible o Google Play Books ha transformado el ecosistema lector. Las críticas a libros en Goodreads están escritas desde la emoción, no desde el academicismo, y por eso tienen una acogida masiva."
+        },
+        {
+          "id": "book-apertura-3",
+          "triggerLabel": "La pregunta que guía esta revisión",
+          "type": "method",
+          "content": "Aunque el fenómeno booktuber era cada vez más visible, hasta este trabajo no existía una revisión sistemática que sintetizara la evidencia disponible. Las autoras se plantearon tres preguntas: ¿aporta ventajas para la competencia literaria en Secundaria? ¿Presenta inconvenientes? ¿Puede utilizarse para evaluar dicha competencia?"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La enseñanza de la literatura en Secundaria sigue frecuentemente anclada en formatos impresos, lecturas obligatorias y análisis académicos. Sin embargo, los adolescentes viven en un entorno digital donde leen, escriben, comentan y producen contenido de forma continua. Esta brecha entre la escuela y la vida lectora digital hace que muchos estudiantes se desconecten de la lectura como práctica significativa. Además, como señalan Dar et al. (2019), los adolescentes suelen estar desmotivados hacia la lectura en formato tradicional por percibirla como algo obligado y sacrificado. Pero el debate no debería polarizarse entre pantallas y papel: como plantea Martos (2013) con su concepto de lectura híbrida, se trata de aprovechar las prácticas lectoras emergentes en entornos interactivos virtuales para potenciar los hábitos lectores. El modelo pedagógico de la alfabetización múltiple de Kalantzis, Cope y Zapata (2019) está provocando un cambio en los intereses y prácticas lectoras adolescentes que debe ser tenido en cuenta en el diseño del currículum académico. Como advierten Hamid et al. (2015), ignorarlo es renunciar a una oportunidad pedagógica de primer orden.",
+      "porQueImporta": "Si la escuela ignora las formas en que los adolescentes construyen sentido a partir de los libros —reseñando en YouTube, debatiendo en Goodreads, publicando en Wattpad—, pierde una oportunidad enorme de reconectar la literatura con sus vidas. El fenómeno booktuber no es moda digital: como defienden García-Canclini (2015), Rovira-Collado (2017) y Vizcaíno-Verdú et al. (2019), es una ventana para entender la lectura en su dimensión social y colectiva. Aprovecharlo bien podría mejorar la motivación, el compromiso y las competencias literarias y transmedia de los estudiantes. La UNESCO (2011) ya considera que el profesorado debe convertirse en agente de cambio para formar ciudadanos lectores competentes y que la alfabetización es un derecho permanente. La LOMLOE, la LOE y el Plan de Fomento de la Lectura 2021-2024 del Ministerio de Cultura y Deporte español refuerzan esta dirección.",
+      "dataPoints": [
+        "Los adolescentes suelen estar desmotivados hacia la lectura en papel por percibirla como obligada y sacrificada (Dar et al., 2019), aunque prefieren aprender en red por la flexibilidad del lenguaje digital (Colás-Bravo et al., 2013).",
+        "Decenas de plataformas digitales vertebran hoy la lectura juvenil: Wattpad, Goodreads, Librote, Lecturalia, Library Thing, Kindle, Audible, Google Play Books.",
+        "El movimiento booktuber organiza juegos y desafíos literarios (retos/challenges con preguntas sobre lecturas preferidas, personajes o géneros) que se comparten entre canales y generan una red de conversación literaria entre pares.",
+        "Autores como García-Canclini (2015), Lluch (2014), Rovira-Collado (2017) y Tomasena (2021) llevan años documentando el potencial didáctico de estas nuevas formas de leer, participar e interactuar."
+      ],
+      "glossary": [
+        {
+          "term": "Booktuber",
+          "definition": "Comunidad virtual de jóvenes que comparten reseñas y opiniones sobre libros mediante vídeos en YouTube. Actúan como mediadores literarios y su práctica, horizontal y participativa, está fuera del ámbito profesional. Tomasena (2021) y Paladines-Paredes y Aliagas (2021) los definen como una comunidad de conocimiento en red con reglas, jerarquías, valores y géneros compartidos."
+        },
+        {
+          "term": "Competencia literaria",
+          "definition": "Capacidad para leer, comprender, interpretar, valorar y crear textos literarios, así como para participar en prácticas sociales de lectura. La LOE, la LOMLOE y el Plan de Fomento de la Lectura 2021-2024 la sitúan como objetivo central de la materia de Lengua Castellana y Literatura en la ESO."
+        },
+        {
+          "term": "Alfabetización mediática",
+          "definition": "Conjunto de habilidades para acceder, analizar, evaluar y crear mensajes en distintos medios y formatos. La UNESCO (2011) la considera un derecho y publicó un currículum específico para profesores sobre Alfabetización Mediática e Informacional."
+        },
+        {
+          "term": "Lectura híbrida",
+          "definition": "Concepto propuesto por Martos (2013) que combina textos impresos y digitales, ampliando los espacios, tiempos y formatos de la lectura más allá del soporte único en papel."
+        },
+        {
+          "term": "TRIC",
+          "definition": "Tecnologías de la Relación, la Información y la Comunicación. Término propuesto en las publicaciones revisadas para enfatizar que la dimensión primordial de las tecnologías digitales es la relacional, no solo la informativa o comunicativa. La interacción entre usuarios es el núcleo."
+        },
+        {
+          "term": "Wattpad",
+          "definition": "Comunidad online para lectores y escritores donde los adolescentes comparten su obra sin requisitos específicos de publicación ni censura, con gran libertad creativa. Es una de las plataformas de lectura-escritura colaborativa más influyentes entre el público juvenil (Başoğul, 2021; García-Roca y De-Amo, 2019)."
+        },
+        {
+          "term": "PRISMA 2020",
+          "definition": "Declaración Preferred Reporting Items for Systematic Reviews and Meta-Analyses, guía internacional diseñada para proporcionar síntesis transparentes del estado del conocimiento en un área concreta y para identificar futuras prioridades de investigación (Page et al., 2021)."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "book-conflicto-1",
+          "triggerLabel": "La tensión entre pantallas y lectura escolar",
+          "type": "theory",
+          "content": "Las TIC han provocado cambios en los intereses y prácticas lectoras adolescentes. El uso de redes sociales o plataformas digitales 2.0 promueve interacción, comunicación y aprendizaje (Ahmed, 2016; Başoğul, 2021; Ghavifekr y Rosdy, 2015). Pero exige nuevas formas de enseñar y aprender las prácticas lectoras para despertar la motivación y brindar mayores posibilidades a los lectores con fines académicos (Cáceres-Reche et al., 2020; Dar et al., 2019). El docente debe ser mediador entre los contenidos y los aprendizajes, realizando prácticas lectoras para generar conocimiento (Álvarez y Vejo, 2017; Ballesta Pagán et al., 2021)."
+        },
+        {
+          "id": "book-conflicto-2",
+          "triggerLabel": "Las tres preguntas de investigación",
+          "type": "method",
+          "content": "P1: ¿La práctica lectora Booktuber aporta ventajas para el desarrollo de la competencia literaria en Educación Secundaria?\nP2: ¿La práctica lectora Booktuber presenta inconvenientes para el desarrollo de la competencia literaria en Educación Secundaria?\nP3: ¿Esta práctica lectora puede utilizarse para evaluar la competencia literaria en Educación Secundaria?"
+        },
+        {
+          "id": "book-conflicto-3",
+          "triggerLabel": "¿Es lectura real o solo entretenimiento?",
+          "type": "limitation",
+          "content": "Uno de los riesgos es subestimar estas prácticas como mero ocio. Sin embargo, elaborar una videorreseña exige leer, comprender, valorar, argumentar, comunicar oralmente, editar vídeo y responder a la audiencia. Como señalan Paladines-Paredes y Margallo (2020), las funciones de los booktubers incluyen analizar lecturas, mostrar colecciones literarias personales y seleccionar información literaria mediante retos que comparten con otros. Son operaciones literarias complejas en un formato nuevo."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Cómo se hizo la revisión sistemática PRISMA 2020",
+      "narrativa": "Para responder a las tres preguntas, el equipo de la Universidad de Sevilla ejecutó una revisión sistemática con el rigor metodológico más exigente. Siguieron la Declaración PRISMA 2020 de Page et al. (2021), la guía de referencia internacional para revisiones sistemáticas. Tras consensuar los criterios de inclusión y exclusión —publicaciones de 2012 a 2022, sobre redes sociales en Educación Secundaria, lectura, hábitos lectores, competencia comunicativa o fenómeno booktuber, en inglés o español—, consultaron tres bases de datos: Web of Science, Scopus y ERIC. La búsqueda utilizó operadores booleanos combinando términos del tesauro de ERIC y UNESCO: 'Information networks' OR 'Social networks' OR 'Interactive video', cruzado con 'Communicative competence', 'Reading practices', 'Information skills', 'Adolescence', 'Secondary school' y 'Booktuber'. El resultado inicial fue abrumador: 16.055 publicaciones. De esas, 10.219 provenían de WoS, 4.879 de ERIC y 957 de Scopus. Al eliminar duplicados quedaron 15.105 registros. Se revisaron los resúmenes de 9.128 publicaciones aplicando los criterios de elegibilidad. Se excluyeron 5.977: 24 por ser anteriores a 2012, 105 de otros niveles educativos, 723 no asociadas al tema, 4.430 relacionadas con temas de adolescencia sin conexión con el objeto de estudio, 579 en idiomas distintos al inglés o español y 116 sin acceso al texto completo. Quedaron 120 publicaciones para evaluación a texto completo: 43 de ERIC, 63 de WoS y 14 de Scopus. La muestra final que superó todos los filtros fue de 38 estudios. Para evaluar el riesgo de sesgo se utilizó la herramienta ROBIS de Whiting et al. (2016), obteniendo una evaluación de bajo riesgo. Finalmente, se emplearon dos herramientas de software: VOSviewer para visualizar los mapas de co-ocurrencia de palabras clave y ATLAS.ti8 para la codificación sistemática de los documentos. Con ATLAS.ti8 se crearon entidades de códigos mediante codificación abierta, se realizó un análisis de tabulación cruzada código-documento y se extrajeron las frecuencias absolutas y relativas para cada código y grupo de códigos, lo que permitió construir las tablas de categorías y subcategorías que vertebran los resultados.",
+      "detalles": [
+        {
+          "label": "Bases de datos",
+          "value": "Scopus, Web of Science (WoS) y ERIC"
+        },
+        {
+          "label": "Registros totales identificados",
+          "value": "16.055 (10.219 en WoS + 4.879 en ERIC + 957 en Scopus)"
+        },
+        {
+          "label": "Tras eliminar duplicados",
+          "value": "15.105 registros"
+        },
+        {
+          "label": "Resúmenes revisados con criterios",
+          "value": "9.128"
+        },
+        {
+          "label": "Excluidos tras revisión de resúmenes",
+          "value": "5.977 (24 anteriores a 2012, 105 otros niveles, 723 no asociados al tema, 4.430 temas adolescentes sin relación, 579 otros idiomas, 116 sin acceso completo)"
+        },
+        {
+          "label": "Evaluados a texto completo",
+          "value": "120 (43 de ERIC, 63 de WoS, 14 de Scopus)"
+        },
+        {
+          "label": "Muestra final incluida",
+          "value": "n = 38 estudios"
+        },
+        {
+          "label": "Herramientas de análisis",
+          "value": "VOSviewer (mapas de co-ocurrencia y clústeres) y ATLAS.ti8 (codificación abierta, tabulación cruzada, frecuencias absolutas y relativas)"
+        },
+        {
+          "label": "Evaluación de sesgo",
+          "value": "Herramienta ROBIS (Whiting et al., 2016). Resultado: bajo riesgo de sesgo en todos los indicadores."
+        },
+        {
+          "label": "Estrategia de búsqueda booleana",
+          "value": "('Information networks' OR 'Social networks' OR 'Interactive video') AND ('Communicative competence' OR 'Reading practices' OR 'Information skills') AND ('Adolescence' OR 'Secondary school') AND ('Booktuber')"
+        }
+      ],
+      "limitaciones": [
+        "La búsqueda se limitó a publicaciones en inglés y español, excluyendo 579 registros en otros idiomas. Esto deja fuera potencial investigación relevante en contextos no angloparlantes ni hispanohablantes.",
+        "Los criterios de inclusión acotan el fenómeno a Educación Secundaria, dejando fuera experiencias en Primaria, Bachillerato o Universidad que podrían aportar perspectivas complementarias.",
+        "Los 38 estudios incluidos arrastran sus propios sesgos metodológicos y condicionantes sobre la forma de interpretar el objeto de estudio. La revisión sistemática siempre está limitada por la cantidad y calidad de los estudios que sintetiza.",
+        "La acotación de los términos de búsqueda —necesaria para hacer manejable el corpus— conlleva restricciones que pueden introducir errores de cobertura. Decidir qué preguntas de investigación formular, cómo medir sus resultados y qué hallazgos publicar son decisiones que sesgan cualquier revisión."
+      ],
+      "reflexion": "¿Crees que 38 estudios son suficientes para generalizar sobre una práctica tan reciente y cambiante como el booktuber?",
+      "deepDives": [
+        {
+          "id": "book-viaje-1",
+          "triggerLabel": "El rastrillado completo del diagrama de flujo PRISMA",
+          "type": "method",
+          "content": "El proceso completo de filtrado siguió este itinerario: 16.055 → eliminación de duplicados → 15.105 → revisión de resúmenes de 9.128 → exclusión de 5.977 aplicando criterios (año, nivel educativo, pertinencia temática, idioma, acceso completo) → 120 a texto completo → evaluación final → 38 estudios. Las causas de exclusión más numerosas fueron: 4.430 registros sobre temas de adolescencia sin relación con el objeto de estudio, 723 no asociados al tema y 579 en idiomas distintos al inglés o español."
+        },
+        {
+          "id": "book-viaje-2",
+          "triggerLabel": "El mapa de co-ocurrencia de VOSviewer",
+          "type": "data",
+          "content": "VOSviewer reveló cinco nodos principales en el mapa de co-ocurrencia: social networks (rosa), adolescents (morado/marrón), reading promotion (verde), media literacy (azul) y Booktuber (amarillo). Las conexiones más relevantes son: redes sociales con adolescencia y Educación Secundaria; redes sociales con alfabetización digital y booktuber; y promoción de la lectura con compromiso lector, habilidades lectoras y alfabetización mediática. El nodo booktuber está vinculado con el de social networks y digital media."
+        },
+        {
+          "id": "book-viaje-3",
+          "triggerLabel": "Perfil de los estudios revisados: cuándo, cómo y dónde",
+          "type": "data",
+          "content": "La mayoría de los registros se publicaron en 2021 (31,27%), 2020 (20,63%) y 2019 (10,53%), con un incremento claro en los últimos años. La metodología de las investigaciones es predominantemente cuantitativa (34,22%), seguida de cualitativa (23,41%) y mixta (20,52%), con un 10,7% de revisiones sistemáticas. En conjunto, los estudios empíricos (cuantitativos, cualitativos o mixtos) suman el 78,15%. Geográficamente, el 59,9% se localiza fuera de la Unión Europea (EE.UU., Reino Unido, Sudáfrica, Pakistán, Arabia Saudí, Israel, Malasia, Corea, China y Australia). Del 40,1% restante en países europeos, España lidera con un 25,9% de las publicaciones, seguida de Turquía, Dinamarca, Estonia, Moscú y Bulgaria."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Tres respuestas contundentes sobre el fenómeno Booktuber",
+      "narrativa": "Cuando el equipo analizó con ATLAS.ti8 los 38 estudios, emergió un panorama nítido estructurado en tres grandes bloques: ventajas (120 registros de codificación), inconvenientes (31 registros) y evaluación (11 registros), sumando un total global de 162 codificaciones. Las ventajas superan ampliamente a los inconvenientes en una proporción de casi 4 a 1. Dentro de las ventajas, la categoría que más peso tiene es la de principios pedagógicos (45,83%), donde la socialización arrasa con un 81,82% de los registros de esa categoría. Esto significa que 45 de 55 registros sobre principios pedagógicos señalaron la capacidad de esta práctica para crear comunidad, apoyo emocional y sentido de pertenencia. La segunda categoría en ventajas es la de competencias transversales (29,17%), donde la motivación se impone con un 54,29% (19 de 35 registros), seguida de la competencia digital con un 20% y la creatividad con un 17,14%. La tercera categoría, competencias específicas (18,33%), está dominada por la competencia transmedia, que concentra el 81,82% de esos registros (18 de 22). En cuanto a los inconvenientes, la categoría dominante es la de competencias transversales (80,65%), donde la falta de competencia digital concentra el 40% de los registros (10 de 25) y la falta de recursos técnicos otro 28% (7 de 25). La gestión del tiempo inadecuada suma un 16% y los derechos digitales un 12%. En casi la totalidad de los estudios analizados, los dos factores que impiden el uso de las TIC por parte de docentes y estudiantes son la falta de capacitación para un uso contextual y la falta de recursos, acceso y soporte técnico. Sobre la evaluación, los tipos de evaluación suman el 81,82% de los registros de esta categoría, donde la evaluación por pares lidera con un 55,56% (5 de 9), la evaluación formativa alcanza el 33,33% (3 de 9) y la autoevaluación apenas un 11,11% (1 de 9). Las rúbricas aparecen como la herramienta principal de evaluación con 2 registros (18,18% de la categoría). La retroalimentación entre pares se perfila como la estrategia evaluativa más natural y mejor documentada, ya que los estudiantes proporcionan consejos y recomendaciones que permiten una evaluación formativa continua. La cooperación entre pares también ayuda a los estudiantes a descubrir sus propias debilidades y a aprender de quienes tienen un mayor rendimiento. Recibir retroalimentación en forma de votos, comentarios o recomendaciones es un potente motor motivacional.",
+      "hallazgos": [
+        {
+          "label": "1. Ventajas: socialización, motivación y competencia transmedia",
+          "value": "Ventajas totales: 120 registros. Categoría principios pedagógicos (45,83%): socialización = 81,82% (45 de 55). Categoría competencias transversales (29,17%): motivación = 54,29% (19 de 35), competencia digital = 20%, creatividad = 17,14%. Categoría competencias específicas (18,33%): competencia transmedia = 81,82% (18 de 22). La colaboración en línea ofrece apoyo emocional, fomenta el sentido de pertenencia a la comunidad digital y aumenta el compromiso y la motivación en tareas de lectura."
+        },
+        {
+          "label": "2. Inconvenientes: falta de competencia digital y de recursos técnicos",
+          "value": "Inconvenientes totales: 31 registros. Categoría competencias transversales (80,65%): falta de competencia digital = 40% (10 de 25), falta de recursos técnicos = 28% (7 de 25), gestión del tiempo = 16%, derechos digitales = 12%. La barrera principal es la falta de formación contextualizada y el acceso desigual a la tecnología, factores que pueden crear una nueva brecha digital que enmascare déficits en competencias fundamentales y profundice desigualdades sociales."
+        },
+        {
+          "label": "3. Evaluación: retroalimentación entre pares y evaluación formativa",
+          "value": "Evaluación total: 11 registros. Tipos de evaluación (81,82%): evaluación por pares = 55,56% (5 de 9), evaluación formativa = 33,33% (3 de 9), autoevaluación = 11,11% (1 de 9). Herramientas: rúbricas = 100% de la subcategoría (2 registros). La retroalimentación entre pares ahorra tiempo docente y es un ejercicio de aprendizaje tanto para quien la da como para quien la recibe."
+        }
+      ],
+      "dataPoints": [
+        "La muestra final de 38 estudios arrojó 162 codificaciones totales: 120 ventajas, 31 inconvenientes y 11 de evaluación. Las ventajas superan a los inconvenientes en proporción cercana a 4:1.",
+        "El 81,82% de los registros sobre principios pedagógicos identifican la socialización como la ventaja principal. La colaboración en línea genera apoyo emocional, sentido de pertenencia y mayor compromiso con la lectura.",
+        "El 54,29% de los registros sobre competencias transversales apuntan a la motivación como ventaja clave. Recibir votos, comentarios y recomendaciones de otros lectores es un potente motor motivacional.",
+        "El 40% de los registros sobre inconvenientes en competencias transversales señalan la falta de competencia digital como barrera principal, seguida del 28% por falta de recursos, acceso y soporte técnico.",
+        "España concentra el 25,9% de la producción científica europea sobre booktuber, siendo el país con mayor preocupación investigadora por este fenómeno dentro de la UE."
+      ],
+      "reflexion": "¿Cuál de estos tres hallazgos te resulta más sorprendente: que la socialización sea la principal ventaja, que la falta de recursos sea el mayor obstáculo, o que la evaluación por pares sea la forma más usada?",
+      "deepDives": [
+        {
+          "id": "book-revelacion-1",
+          "triggerLabel": "Cómo se construyó la codificación con ATLAS.ti8",
+          "type": "method",
+          "content": "Con ATLAS.ti8 se agregaron los documentos en PDF y se crearon entidades de nuevos códigos. Durante el proceso se utilizó codificación abierta para incorporar códigos emergentes no previstos inicialmente. El análisis de tabulación cruzada código-documento permitió extraer las frecuencias absolutas y relativas de cada código. Las ventajas se agruparon en cuatro categorías: principios pedagógicos (VPDS socialización, VPDI individualización, VPDT socioconstructivista, VPDC autonomía), competencias transversales (VCTM motivación, VCTD competencia digital, VCTC creatividad, VCTT gestión del tiempo, VCTS sostenibilidad), competencias específicas (VCEC transmedia, VCEL nuevas tácticas literarias) y finalidad (VCEP propósito educativo). Los inconvenientes se agruparon en: principios pedagógicos (IPDM metodología tradicional), competencias transversales (ICTD falta competencia digital, ICTR falta recursos técnicos, ICTT gestión del tiempo, ICTV derechos digitales, ICTE dispersión en el estudio), competencias específicas (ICER falta de rigurosidad crítica) y finalidad (IFPO propósito de ocio). La evaluación se agrupó en tipos (TEEP evaluación por pares, TEEF evaluación formativa, TEEA autoevaluación) y herramientas (HRUB rúbrica)."
+        },
+        {
+          "id": "book-revelacion-2",
+          "triggerLabel": "El poder motivacional de la retroalimentación social",
+          "type": "data",
+          "content": "La investigación muestra que la orientación motivacional está directamente relacionada con la colaboración entre pares y el diálogo colaborativo. El compromiso de los participantes con el proyecto, las experiencias de aprendizaje y las percepciones respecto a la creación de vídeo causan un impacto positivo que aumenta la motivación y el compromiso intrínsecos (Dahee, 2021). Recibir retroalimentación en forma de votos, comentarios o recomendaciones es un potente motor que los estudiantes valoran enormemente. La cooperación entre pares también les ayuda a detectar sus propias debilidades y a aprender de quienes tienen mayor dominio, lo que genera un ciclo de mejora continua (Hu y Yu, 2021; Chen y MacLeod, 2021; Rajendran y Yunus, 2021)."
+        },
+        {
+          "id": "book-revelacion-3",
+          "triggerLabel": "Competencia transmedia y sostenibilidad",
+          "type": "data",
+          "content": "Elaborar videorreseñas implica leer, escribir un guion, hablar a cámara, editar vídeo, seleccionar imágenes, responder a la audiencia y participar en desafíos con otros canales. Es decir, moviliza habilidades lingüísticas, tecnológicas, creativas y comunicativas simultáneamente. Además, un hallazgo novedoso es el de la sostenibilidad: los espacios digitales, libros electrónicos, redes sociales y plataformas educativas animan a consumir menos papel y reducen la huella ecológica (Gil-Quintana et al., 2020). Este es un ángulo apenas explorado pero de gran potencial para conectar la lectura digital con los Objetivos de Desarrollo Sostenible."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Marco teórico: lectura híbrida, cultura participativa y TRIC",
+      "narrativa": "Para entender por qué el booktuber tiene la potencia que revelan los datos, conviene examinar las tres patas teóricas que lo sostienen. La primera es la alfabetización múltiple de Kalantzis, Cope y Zapata (2019), que recuerda que leer ya no es solo descifrar letras: implica interpretar imágenes, sonidos, gestos y vídeos en un entorno donde los modos semióticos se combinan constantemente. La segunda es el concepto de lectura híbrida de Martos (2013), que disuelve la falsa dicotomía entre papel y pantalla. La tercera, y quizá la más relevante para este fenómeno, es la cultura participativa que describen García-Canclini (2015) y Lluch (2014): los jóvenes no solo consumen contenidos literarios, sino que los comentan, los remixan y los producen. En la intervención booktuber se da una mediación lectora entre pares, horizontal, sin el control jerárquico de universidades, editoriales o medios tradicionales. Como señala Sevilla-Vallejo (2020), los adolescentes leen más, enseñan a sus compañeros una nueva visión de las obras literarias a partir de su lectura e investigación, comparten cómo perciben un texto literario y trabajan habilidades comunicativas favoreciendo la escucha entre iguales. El modelo se adapta bien a los principios del aprendizaje cooperativo, fomenta la implicación literaria y permite al estudiante trabajar su identidad. Las publicaciones revisadas acuñan incluso el término TRIC —Tecnologías de la Relación, la Información y la Comunicación— para subrayar que lo importante no es solo la tecnología, sino las relaciones que esta hace posibles. Sin embargo, el marco también advierte de un riesgo documentado por Amiama-Espaillat y Mayor-Ruiz (2017): si no se garantiza acceso equitativo, formación y soporte técnico, la brecha digital puede enmascarar déficits en competencias lectoras fundamentales y profundizar las desigualdades sociales. Los estudiantes señalan la necesidad de formación en producción y edición de vídeo, así como en herramientas informáticas para llevar a cabo esta actividad de manera solvente.",
+      "detalles": [
+        {
+          "label": "Alfabetización múltiple",
+          "value": "Kalantzis, Cope y Zapata (2019) proponen que la lectura contemporánea es una práctica multimodal donde conviven palabra, imagen, sonido y vídeo. La escuela debe responder a esta realidad con una pedagogía que integre todos los modos semióticos."
+        },
+        {
+          "label": "Cultura participativa",
+          "value": "García-Canclini (2015) describe un giro antropológico en la lectura: los jóvenes no solo leen, sino que participan, comentan, remixan y producen. El booktuber es un ejemplo paradigmático de esta cultura donde las jerarquías tradicionales (crítica profesional, academia, editoriales) se diluyen."
+        },
+        {
+          "label": "Aprendizaje cooperativo e identidad",
+          "value": "El modelo booktuber se adapta a los principios del aprendizaje cooperativo y permite al estudiante trabajar su identidad lectora. La práctica se realiza entre pares de forma horizontal y participativa (Sevilla-Vallejo, 2020; Paladines-Paredes y Aliagas, 2021)."
+        },
+        {
+          "label": "TRIC",
+          "value": "Las publicaciones revisadas proponen el término TRIC (Tecnologías de la Relación, la Información y la Comunicación) porque el hallazgo central es que la dimensión primordial de las tecnologías digitales es la relacional: lo que transforma la práctica lectora no es grabar un vídeo, sino la comunidad de lectores que se crea alrededor."
+        }
+      ],
+      "reflexion": "Si un docente propone hacer booktubers en clase pero no permite que los estudiantes interactúen, comenten ni decidan qué leer, ¿está realmente aprovechando la dimensión social de la práctica?",
+      "deepDives": [
+        {
+          "id": "book-marco-1",
+          "triggerLabel": "Lectura híbrida: más allá de la falsa dicotomía",
+          "type": "theory",
+          "content": "Martos (2013) propuso el concepto de lectura híbrida para superar la polarización estéril entre papel y pantalla. La lectura en el siglo XXI combina soportes, formatos y contextos, y la escuela debe aprovechar las prácticas lectoras emergentes en entornos virtuales sin renunciar a la profundidad lectora. El booktuber es un ejemplo claro de esta hibridación: la lectura del libro en papel (o digital) se transforma en guion, grabación, edición y conversación comunitaria."
+        },
+        {
+          "id": "book-marco-2",
+          "triggerLabel": "El docente como agente de cambio",
+          "type": "theory",
+          "content": "La UNESCO (2011) publicó un currículum específico para profesores sobre Alfabetización Mediática e Informacional donde sostiene que el profesorado debe convertirse en agente de cambio para formar ciudadanos lectores competentes. La LOE (2006), la LOMLOE (2020) y el Plan de Fomento de la Lectura 2021-2024 del Ministerio de Cultura y Deporte refuerzan esta visión. El docente ya no es transmisor de interpretaciones cerradas, sino mediador entre los contenidos y los aprendizajes que los estudiantes deben construir."
+        },
+        {
+          "id": "book-marco-3",
+          "triggerLabel": "Riesgo de la brecha digital enmascarada",
+          "type": "limitation",
+          "content": "Amiama-Espaillat y Mayor-Ruiz (2017) advierten que la falta de acceso a la tecnología puede crear una nueva brecha que tiende a enmascarar la falta de desarrollo en competencias fundamentales como la lectora y a profundizar las desigualdades sociales. Los estudiantes que no disponen de dispositivos, conectividad adecuada o formación en edición de vídeo pueden quedar excluidos de la práctica booktuber precisamente cuando más la necesitan. Al-Mulhim (2014), Ahmed (2016), Gashi-Shatri (2020) y Keezhatta y Abdulfattah (2019) documentan esta barrera en distintos contextos nacionales."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Puede el fenómeno booktuber contribuir al desarrollo de la competencia literaria en Educación Secundaria?",
+      "conclusion": "Sí, y la evidencia es sólida. Esta revisión sistemática de 38 estudios, realizada bajo las directrices PRISMA 2020 sobre un corpus inicial de 16.055 publicaciones, confirma que existen experiencias avaladas científicamente sobre el uso de redes sociales y la intervención booktuber para el desarrollo de la competencia literaria en Secundaria. Las ventajas triplican a los inconvenientes (120 frente a 31 registros). La socialización (81,82% de los principios pedagógicos), la motivación (54,29% de las competencias transversales) y el desarrollo de la competencia transmedia (81,82% de las competencias específicas) son los tres beneficios más sólidamente documentados. Las barreras principales son la falta de competencia digital (40%) y de recursos técnicos (28%), que exigen políticas de formación docente contextualizada y dotación tecnológica equitativa. La evaluación por pares y la evaluación formativa, apoyadas en rúbricas, son las estrategias evaluativas mejor documentadas y más coherentes con la naturaleza social de la práctica. Para que el booktuber funcione en el aula no basta con pedir a los estudiantes que graben vídeos: hay que diseñar espacios de colaboración genuina, evaluación formativa continua, retroalimentación entre pares y garantizar la equidad en el acceso a dispositivos, conectividad y formación técnica. España, con un 25,9% de las publicaciones europeas, lidera la investigación sobre este fenómeno.",
+      "formalRef": "Rodríguez-Gallego, M. R., De-Cecilia-Rodríguez, C., Domene-Martos, S., & Ordóóñez-Sierra, R. (2024). Booktuber como práctica literaria en Educación Secundaria: revisión sistemática. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.405"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuántos estudios conformaron la muestra final de esta revisión sistemática tras aplicar todos los filtros PRISMA 2020?",
+          "options": [
+            "38 estudios",
+            "120 estudios",
+            "15105 estudios",
+            "957 estudios"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "Según la codificación con ATLAS.ti8, ¿qué porcentaje de los registros sobre competencias transversales atribuye la falta de competencia digital como principal inconveniente del fenómeno booktuber?",
+          "options": [
+            "40%",
+            "28%",
+            "54.29%",
+            "81.82%"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué término proponen los estudios revisados para enfatizar la dimensión social y relacional de las tecnologías digitales, más allá de lo meramente informativo o comunicativo?",
+          "options": [
+            "TRIC (Tecnologías de la Relación, la Información y la Comunicación)",
+            "Web 2.0",
+            "Alfabetización múltiple",
+            "TIC tradicionales"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "Según los resultados de la revisión, ¿qué país europeo concentra la mayor producción científica sobre el fenómeno booktuber?",
+          "options": [
+            "España, con un 25.9% de las publicaciones europeas",
+            "Turquía, con un 18%",
+            "Reino Unido, con un 15%",
+            "Dinamarca, con un 10%"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "El artículo encuentra que la socialización es la ventaja más destacada (81.82%) pero la evaluación por pares solo aparece en el 55.56% de los registros sobre evaluación. ¿Cómo explicarías esta aparente desconexión entre la importancia de lo social y su aprovechamiento evaluativo en el aula?"
+        },
+        {
+          "type": "open",
+          "q": "Si tuvieras que diseñar una actividad booktuber en un aula de Secundaria con recursos tecnológicos limitados y baja competencia digital —las dos barreras principales que señala el artículo—, ¿cómo sortearías esas limitaciones sin renunciar a la dimensión social de la práctica?"
+        },
+        {
+          "type": "open",
+          "q": "La revisión solo incluyó publicaciones en inglés y español. ¿Qué investigaciones o perspectivas culturales crees que podrían estar quedando fuera y cómo afectaría eso a nuestra comprensión del fenómeno booktuber en contextos no angloparlantes ni hispanohablantes?"
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa conceptual del fenómeno booktuber",
+      "descripcion": "Conexiones entre los conceptos centrales de la revisión sistemática de Rodríguez-Gallego et al. (2024).",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Booktuber",
+          "color": "#e63946"
+        },
+        {
+          "id": "2",
+          "label": "YouTube / Redes sociales",
+          "color": "#ff0000"
+        },
+        {
+          "id": "3",
+          "label": "Competencia literaria",
+          "color": "#1d3557"
+        },
+        {
+          "id": "4",
+          "label": "Socialización (81,82%)",
+          "color": "#f4a261"
+        },
+        {
+          "id": "5",
+          "label": "Motivación (54,29%)",
+          "color": "#e9c46a"
+        },
+        {
+          "id": "6",
+          "label": "Competencia transmedia (81,82%)",
+          "color": "#2a9d8f"
+        },
+        {
+          "id": "7",
+          "label": "Brecha digital (40%)",
+          "color": "#264653"
+        },
+        {
+          "id": "8",
+          "label": "Evaluación por pares (55,56%)",
+          "color": "#6a4c93"
+        },
+        {
+          "id": "9",
+          "label": "PRISMA 2020",
+          "color": "#b5838d"
+        },
+        {
+          "id": "10",
+          "label": "TRIC",
+          "color": "#8ab17d"
+        }
+      ],
+      "aristas": [
+        {
+          "from": "2",
+          "to": "1",
+          "label": "soporta"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "desarrolla"
+        },
+        {
+          "from": "1",
+          "to": "4",
+          "label": "fomenta"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "aumenta"
+        },
+        {
+          "from": "1",
+          "to": "6",
+          "label": "requiere"
+        },
+        {
+          "from": "7",
+          "to": "1",
+          "label": "dificulta"
+        },
+        {
+          "from": "1",
+          "to": "8",
+          "label": "se evalúa mediante"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "refuerza"
+        },
+        {
+          "from": "9",
+          "to": "1",
+          "label": "sistematiza"
+        },
+        {
+          "from": "10",
+          "to": "4",
+          "label": "define"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "impulsa"
+        }
+      ]
+    }
+  }
+}

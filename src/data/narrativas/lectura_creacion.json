@@ -1,0 +1,372 @@
+{
+  "id": "lectura_creacion",
+  "metadata": {
+    "title": "Lectura y creación: un estudio sobre lectura literaria y creatividad en formación inicial de docentes",
+    "authors": "Elisabet Contreras-Barceló",
+    "year": "2023",
+    "journal": "Ocnos 22(2)",
+    "doi": "10.18239/ocnos_2023.22.2.383",
+    "gancho": "¿Y si pedirles a tus futuros docentes que reescriban un libro les hiciera entenderlo más a fondo que si solo escriben una reseña?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#264653",
+    "bg": "from-orange-300/20 to-slate-900/20",
+    "image": "https://picsum.photos/seed/lectura_creacion/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Elisabet Contreras-Barceló, investigadora en didáctica de la literatura en la Universidad de Barcelona",
+      "gancho": "¿Y si pedirles a tus futuros docentes que reescriban un libro les hiciera entenderlo más a fondo que si solo escriben una reseña?",
+      "contexto": "Imagina un seminario de literatura infantil en el grado de Educación Primaria de la Universidad de Barcelona. Estamos entre 2020 y 2022. Hay 96 estudiantes, la mayoría mujeres (76 de 96), con edades entre 19 y 25 años. Todos leen tres obras clásicas o contemporáneas de literatura infantil y juvenil, participan en cuatro tertulias literarias y entregan una valoración personal de cada lectura. Pero hay una diferencia crucial: un grupo escribe reseñas críticas convencionales; el otro transforma cada lectura en un poema visual, un poema objeto o un microrrelato. La autora, Elisabet Contreras-Barceló, quiere saber algo muy concreto: ¿cambia la profundidad con que leemos cuando sabemos que después vamos a crear algo a partir del texto? Esta investigación, financiada por la Agencia Estatal de Investigación en el marco del proyecto 'Poéticas liminales en el mundo contemporáneo' (PID2019-104628RB-I00), se enmarca en un problema que la didáctica de la literatura lleva décadas arrastrando: los futuros maestros y maestras suelen tener un perfil lector débil y una relación instrumental con la lectura.",
+      "deepDives": [
+        {
+          "id": "lc-apertura-1",
+          "triggerLabel": "¿Por qué la formación inicial de docentes importa tanto?",
+          "type": "theory",
+          "content": "La investigación educativa lleva años constatando que los futuros maestros y maestras suelen tener un perfil lector débil y una relación instrumental con la lectura. Aguilar-Ródenas (2020) actualiza el estado de la cuestión y concluye que los hábitos lectores del estudiantado muestran 'un perfil lector débil' y 'una coincidencia alarmante: los futuros maestros y maestras muestran su desafección por la lectura y hacen de ella un uso meramente instrumental' (p. 32). Si no viven experiencias literarias significativas durante su formación, difícilmente podrán mediar después con entusiasmo y criterio en el aula. Trotman y Kerr (2001) y el propio Aguilar-Ródenas (2020) evidencian una relación directa entre las experiencias lectoras personales de los docentes y su posterior práctica docente."
+        },
+        {
+          "id": "lc-apertura-2",
+          "triggerLabel": "La lectura como actividad activa: de la recepción a la interacción",
+          "type": "theory",
+          "content": "Desde las teorías de la recepción, leer dejó de entenderse como una decodificación pasiva. Mendoza (1998) redefinió la lectura como 'una actividad de interacción entre lector y texto'. En 2004, el mismo Mendoza definió la educación literaria como 'la preparación para saber participar con efectividad en el proceso de recepción y de actualización interpretativa del discurso literario' (p. 16). Más tarde, con la entrada del sistema competencial, insistió en que la formación debía capacitar al alumnado para 'comprender e interpretar el texto literario y valorar y apreciar las creaciones de signo estético-literario' (Mendoza, 2010, p. 27). Como dice el filósofo Gregorio Luri (2019, p. 47), 'aprender a leer no es como aprender a andar en bici': no se aprende en una tarde y te sirve para siempre, sino que se aprende leyendo durante toda la vida."
+        },
+        {
+          "id": "lc-apertura-3",
+          "triggerLabel": "El desafío de PISA y la lectura superficial",
+          "type": "limitation",
+          "content": "Las últimas ediciones de las pruebas PISA muestran una tendencia hacia la lectura superficial y con finalidades prácticas (Ministerio de Educación y Formación Profesional, 2020). Aunque han cambiado los formatos, soportes, usos sociales y hábitos de lectura, sigue siendo crucial atender a las respuestas lectoras para mejorar la formación. Ballester-Roca e Ibarra-Rius (2020, p. 208) lo resumen así: 'sin la lectura no hay literatura, ni educación posible'. Esto nos sitúa ante una pregunta incómoda: ¿la escuela está formando lectores capaces de construir sentidos profundos o solo usuarios del texto?"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La formación lectora de muchos futuros docentes se queda en lo superficial. Aunque estudian didáctica de la literatura, sus respuestas ante un texto suelen ser descriptivas, inseguras o meramente instrumentales. Investigaciones como las de Larrañaga y Yubero (2005), Colomer y Munita (2013), Dueñas et al. (2014), Contreras y Prats (2015) y Ben-Amram et al. (2021) coinciden en que los docentes en formación inicial reproducen las tendencias de lectura superficial que muestran los informes PISA. Contreras-Barceló (2021) habla incluso de una 'situación circular de empobrecimiento de la educación lectora y literaria'. Paralelamente, la creatividad se promueve cada vez más en educación, pero no siempre se conecta de manera explícita con la lectura literaria. La pregunta es: ¿puede una tarea creativa romper ese círculo vicioso?",
+      "porQueImporta": "Si los futuros maestros no experimentan en primera persona lo que significa leer en profundidad —comprender, interpretar, valorar y construir el significado de una obra—, es probable que repitan en sus aulas las dinámicas que los propios informes PISA señalan como problemáticas. Además, la evidencia muestra que la educación literaria recibida previamente condiciona la efectividad de la formación en didáctica de la LIJ durante el grado: si aquella fue insuficiente, esta no será efectiva (Colomer y Munita, 2013). Por eso importa probar estrategias que hagan de la lectura una experiencia más activa, reflexiva y transformadora antes de que estos estudiantes se conviertan en mediadores.",
+      "dataPoints": [
+        "96 estudiantes participaron en el estudio: 52 en el curso 2020-2021 (43 mujeres y 9 hombres) y 44 en 2021-2022 (33 mujeres y 11 hombres), con edades entre 19 y 25 años.",
+        "Ambos grupos leyeron 3 obras de literatura infantil y juvenil, elegidas de una lista de 13 títulos clásicos y contemporáneos.",
+        "El grupo de control (curso 2020-2021) elaboró 3 reseñas críticas con valoración personal; el grupo experimental (curso 2021-2022) creó 3 reescrituras creativas (poema visual, poema objeto y microrrelato), cada una acompañada de valoración personal.",
+        "Se analizaron 288 valoraciones personales de lectura en total (3 por cada uno de los 96 participantes) con el programa Atlas.ti 22.0.1."
+      ],
+      "glossary": [
+        {
+          "term": "Lectura literaria",
+          "definition": "Proceso de interacción con un texto literario para comprenderlo, interpretarlo, valorarlo y construir su significado. No es decodificación pasiva, sino construcción activa de sentido."
+        },
+        {
+          "term": "Reescritura creativa",
+          "definition": "Tarea que consiste en transformar una obra leída en un nuevo texto —poema visual, poema objeto o microrrelato— manteniendo un diálogo interpretativo con la fuente original. Exige seleccionar, jerarquizar, metaforizar y traducir sentidos."
+        },
+        {
+          "term": "Respuesta lectora",
+          "definition": "Manifestación escrita u oral mediante la cual un lector expresa qué ha comprendido, interpretado, sentido o pensado ante un texto. Según Fittipaldi (2012), puede ser referencial, composicional, intertextual/intercultural o personal."
+        },
+        {
+          "term": "Tertulia literaria",
+          "definition": "Espacio de socialización en torno a una lectura, donde los participantes comparten impresiones, interpretaciones y valoraciones de una obra. En este estudio se realizaron 4 sesiones durante 6 semanas."
+        },
+        {
+          "term": "Nivel reflexivo de lectura",
+          "definition": "Categoría añadida por la autora al modelo de Fittipaldi: respuestas que, partiendo de un elemento de la obra y su interpretación, desarrollan una reflexión sobre un tema social, cultural o educativo más allá de lo personal o literario."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "lc-conflicto-1",
+          "triggerLabel": "¿Qué dice la investigación previa sobre los futuros docentes como lectores?",
+          "type": "theory",
+          "content": "Estudios como los de Colomer y Munita (2013), Dueñas et al. (2014), Contreras y Prats (2015) o Aguilar-Ródenas (2020) advierten que los futuros docentes muestran desafección por la lectura y la usan de forma instrumental. Granado y Puig (2015) exploraron las autobiografías lectoras de maestros en formación y confirmaron la fragilidad de su identidad lectora. Para romper ese círculo, Colomer y Munita (2013) proponen ofrecer a los estudiantes un encuentro directo con las obras literarias y promover espacios de socialización alrededor de dichas obras, para que tengan un punto de partida sobre el que edificar sus futuras prácticas docentes."
+        },
+        {
+          "id": "lc-conflicto-2",
+          "triggerLabel": "Creatividad en la educación literaria: qué dice la teoría",
+          "type": "theory",
+          "content": "Piaget (1969) afirmó que mediante la creatividad se pueden conseguir 'formas elevadas de conocimiento'. Cropley (2011) define la creatividad como un concepto polisémico vinculado a originalidad, novedad, relevancia, efectividad e incluso ética. Las actividades creativas estimulan la curiosidad, la capacidad de reflexionar, conectar, crear e innovar, así como las habilidades cognitivas de orden superior: originalidad, flexibilidad, fluidez, imaginación, pensamiento asociativo, metafórico y jerarquización atributiva. Padget (2013) añade que cuando se propone una actividad creativa con objetivos claros, los aprendices deben pensar críticamente antes de iniciar el proceso de creación y al terminarlo, reflexionando si han logrado lo que se proponían. En educación literaria, experiencias previas con poesía visual (Bordons y Cavalli, 2012) o poesía experimental en formación inicial de maestros (Contreras-Barceló y Torrents-Sunyol, 2020) ya habían mostrado resultados prometedores."
+        },
+        {
+          "id": "lc-conflicto-3",
+          "triggerLabel": "La pregunta de investigación y los objetivos",
+          "type": "method",
+          "content": "El estudio se planteó tres objetivos: (1) analizar las respuestas lectoras en ambos grupos; (2) comparar las respuestas lectoras del grupo de control y del grupo experimental; y (3) explorar si, a través de la creatividad, las respuestas lectoras muestran o no mayor profundidad en la construcción del significado. La hipótesis subyacente es que una tarea creativa de reescritura genera respuestas lectoras más profundas que una tarea más convencional como la reseña crítica, tanto en el tipo de respuesta como en el nivel de lectura alcanzado."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Cómo se diseñó y ejecutó la experiencia comparativa",
+      "narrativa": "Así fue como se hizo. Durante dos cursos consecutivos (2020-2021 y 2021-2022), la investigadora propuso la misma experiencia base en la asignatura Didáctica de la Literatura Infantil y Juvenil del grado de Educación Primaria de la Universidad de Barcelona. Los 96 estudiantes —52 en el primer curso y 44 en el segundo— debían leer 3 obras elegidas de entre una selección de 13 títulos clásicos y contemporáneos de LIJ. A lo largo de 3 meses, participaron en 4 seminarios de lectura en formato de tertulia literaria, donde compartían impresiones y recibían acompañamiento. La única diferencia fue la tarea final: el grupo de control (2020-2021, 52 estudiantes) redactó 3 reseñas críticas con valoración personal; el grupo experimental (2021-2022, 44 estudiantes) elaboró 3 reescrituras creativas —un poema visual, un poema objeto y un microrrelato—, cada una acompañada de su valoración personal. El instrumento de recogida de datos fueron precisamente esas valoraciones personales: 288 en total. Los datos cualitativos se trataron con Atlas.ti 22.0.1, combinando un proceso inductivo-deductivo. Se partió de las 4 categorías de Fittipaldi (2012) —referencial, composicional, intertextual/intercultural y personal— con 2 niveles cada una (literal e inferencial), y la autora añadió un tercer nivel: el reflexivo, para capturar respuestas que abordaban temas sociales, culturales o educativos más allá del texto.",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Investigación cualitativa comparativa con grupo de control y grupo experimental"
+        },
+        {
+          "label": "Participantes totales",
+          "value": "96 estudiantes de Educación Primaria (76 mujeres, 20 hombres), entre 19 y 25 años"
+        },
+        {
+          "label": "Grupo de control (2020-2021)",
+          "value": "52 estudiantes (43 mujeres, 9 hombres)"
+        },
+        {
+          "label": "Grupo experimental (2021-2022)",
+          "value": "44 estudiantes (33 mujeres, 11 hombres)"
+        },
+        {
+          "label": "Obras leídas",
+          "value": "3 títulos por estudiante, elegidos de una lista de 13 clásicos y contemporáneos de LIJ"
+        },
+        {
+          "label": "Duración de la experiencia",
+          "value": "3 meses, con 4 sesiones de tertulia literaria durante 6 semanas"
+        },
+        {
+          "label": "Tarea del grupo de control",
+          "value": "3 reseñas críticas con valoración personal de cada lectura"
+        },
+        {
+          "label": "Tarea del grupo experimental",
+          "value": "3 reescrituras creativas (poema visual, poema objeto, microrrelato) + valoración personal"
+        },
+        {
+          "label": "Instrumento de recogida de datos",
+          "value": "Las 288 valoraciones personales de lectura (3 × 96 participantes)"
+        },
+        {
+          "label": "Análisis",
+          "value": "Cualitativo con Atlas.ti 22.0.1; categorización inductivo-deductiva basada en Fittipaldi (2012) más nivel reflexivo añadido"
+        }
+      ],
+      "limitaciones": [
+        "El número de participantes (96) no permite generalizaciones estadísticas: los resultados son exploratorios y pueden contribuir a reflexionar sobre la propia práctica docente.",
+        "Los grupos corresponden a dos cursos académicos diferentes, por lo que pueden influir contextos específicos de cada año (composición del grupo, clima de aula, circunstancias externas).",
+        "No se recogieron datos actitudinales ni de motivación, aunque hubiera sido interesante analizar si la propuesta creativa también mejoraba la actitud hacia la lectura y la literatura.",
+        "Sería deseable replicar la experiencia en otros niveles educativos para corroborar la eficacia de la propuesta creativa con estudiantes de otras edades."
+      ],
+      "reflexion": "¿Crees que la diferencia entre los dos grupos se debe solo a la tarea creativa, o también a la actitud con la que cada estudiante se enfrentó a la propuesta?",
+      "deepDives": [
+        {
+          "id": "lc-viaje-1",
+          "triggerLabel": "La lista de lecturas: 13 títulos para elegir",
+          "type": "data",
+          "content": "Los estudiantes podían elegir 3 obras entre una selección de 13 títulos que combinaba clásicos y contemporáneos de la LIJ, seleccionados por su adecuación al temario de la asignatura: Alicia en el país de las maravillas (L. Carroll), Peter Pan (J.M. Barrie), El principito (A. de Saint-Exupéry), L'illa de la Paidonèsia (O. Canosa), Pippi Calzaslargas (A. Lindgren), Ana, la de Tejas Verdes (L.M. Montgomery), Duna: diari d'un estiu (M. Villanueva), El jardín secreto (F.H. Burnett), El mago de Oz (F. Baum), La historia imposible de Sebastian Cole (B. Brooks), El monstruo del palacio de Buckingham (D. Walliams), Arriba el senyor Flat (J. Copons y L. Fortuny) y La telaraña de Carlota (E.B. White). Ambos grupos partían de la misma selección."
+        },
+        {
+          "id": "lc-viaje-2",
+          "triggerLabel": "Las categorías de análisis: el modelo Fittipaldi ampliado",
+          "type": "method",
+          "content": "Se partió de la propuesta de Martina Fittipaldi (2012), que distingue 4 categorías de respuesta lectora: (1) Referencial: centrada en elementos de la narración como personajes, acciones o ambientes; (2) Composicional: sobre el libro como objeto, elementos visuales, paratextuales y situación comunicativa; (3) Intertextual e intercultural: conexiones entre textos y culturas, metáforas, símbolos; (4) Personal: conexiones entre el texto y la experiencia vital del lector. Cada categoría se cruza originalmente con 2 niveles de lectura (literal e inferencial). La autora añadió un tercer nivel —el reflexivo— para recoger respuestas que abordan temas sociales, culturales o educativos más allá de lo personal o literario. Así, por ejemplo, una respuesta referencial reflexiva parte de un personaje y desarrolla una reflexión sobre educación emocional, género o infancia."
+        },
+        {
+          "id": "lc-viaje-3",
+          "triggerLabel": "El proceso de análisis con Atlas.ti",
+          "type": "method",
+          "content": "Se analizaron 288 valoraciones personales de lectura —3 por cada uno de los 96 participantes— mediante el programa Atlas.ti en su versión 22.0.1 (Scientific Software Development GmbH, 2002-2022). Los datos se vaciaron, categorizaron y triangularon combinando un enfoque inductivo (categorías que emergen de los datos) y deductivo (categorías predefinidas de Fittipaldi). La triangulación de categorías con niveles de lectura permitió obtener una visión más amplia y compleja de la realidad observada. Se excluyeron del análisis aquellos casos en que se afirmaba explícitamente no haber comprendido la obra, por no contener ninguna clase de respuesta lectora."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Lo que cambió cuando la creatividad entró en juego",
+      "narrativa": "Y aquí viene lo más revelador. Cuando se compararon las respuestas de ambos grupos, las categorías de respuesta no cambiaron radicalmente: en los dos casos, la mayoría de las valoraciones se centraron en los elementos de la narración —personajes, ambientes, acciones—. Pero la profundidad de la lectura sí se disparó. El grupo experimental no solo interpretó más, sino que reflexionó mucho más. Las respuestas literales cayeron del 50,32% al 24,03%. Las inferenciales subieron del 41,29% al 50,39%. Y las reflexivas se multiplicaron casi por cuatro: del 6,45% al 24,03%. Es decir, uno de cada cuatro comentarios del grupo experimental iba más allá del texto para abordar temas sociales, culturales o educativos. En la triangulación, las respuestas referenciales reflexivas pasaron del 5,92% al 14,96%, y las respuestas personales reflexivas alcanzaron un 7,09% en el grupo experimental, una categoría prácticamente inexistente en el grupo de control. Parece que tener que transformar la obra obligó a entenderla más a fondo.",
+      "hallazgos": [
+        {
+          "label": "Respuestas referenciales (sobre la narración)",
+          "value": "Mayoritarias en ambos grupos: 90,20% en el control y 83,21% en el experimental. Es decir, ambos grupos hablaron principalmente de personajes, acciones y ambientes."
+        },
+        {
+          "label": "Respuestas personales",
+          "value": "Aparecieron más en el grupo experimental: 8,40% frente al 5,23% del grupo de control."
+        },
+        {
+          "label": "Respuestas composicionales (sobre el libro como objeto)",
+          "value": "Pasaron del 0,65% en el control al 4,58% en el experimental."
+        },
+        {
+          "label": "Respuestas intertextuales e interculturales",
+          "value": "Prácticamente iguales: 3,92% en el control y 3,82% en el experimental."
+        },
+        {
+          "label": "Nivel literal (descripción superficial)",
+          "value": "Descendió drásticamente: del 50,32% en el control al 24,03% en el experimental. La mitad de las reseñas del grupo de control se quedaron en describir o enumerar elementos."
+        },
+        {
+          "label": "Nivel inferencial (interpretación)",
+          "value": "Aumentó del 41,29% en el control al 50,39% en el experimental. Más de la mitad de las respuestas del grupo experimental alcanzaron este nivel."
+        },
+        {
+          "label": "Nivel reflexivo (temas sociales, culturales o educativos)",
+          "value": "Se multiplicó por 3,7: del 6,45% en el control al 24,03% en el experimental. La diferencia más drástica."
+        },
+        {
+          "label": "No comprensión explícita",
+          "value": "Mínima en ambos grupos: 1,94% en el control y 1,55% en el experimental."
+        }
+      ],
+      "dataPoints": [
+        "En la triangulación, el grupo de control tuvo un 45,39% de respuestas referenciales literales frente al 22,83% del experimental.",
+        "Las respuestas referenciales inferenciales fueron del 38,82% en el control y del 46,46% en el experimental.",
+        "Las respuestas referenciales reflexivas pasaron del 5,92% al 14,96%.",
+        "Las respuestas personales reflexivas alcanzaron el 7,09% en el grupo experimental.",
+        "También aparecieron respuestas intertextuales reflexivas (1,57%) y personales inferenciales (1,57%) en el grupo experimental, apenas registradas en el control."
+      ],
+      "reflexion": "¿Te sorprende que las categorías de respuesta no cambiaran mucho, pero sí la profundidad? ¿Qué te dice eso sobre cómo evaluamos la lectura?",
+      "deepDives": [
+        {
+          "id": "lc-revelacion-1",
+          "triggerLabel": "¿Qué significa leer en nivel reflexivo? Un ejemplo con El principito",
+          "type": "data",
+          "content": "Una respuesta reflexiva parte de un elemento de la obra (un personaje, un episodio, un símbolo) y, tras interpretarlo, desarrolla una reflexión sobre un tema social, cultural o educativo. Por ejemplo: al leer El principito, un estudiante del grupo experimental no solo comentó el personaje del zorro —eso sería referencial— ni solo interpretó su relación con el principito —eso sería inferencial—, sino que reflexionó sobre cómo la escuela podría enseñar el valor de la amistad y la educación emocional en la infancia. Este salto de lo literario a lo educativo o social es el sello del nivel reflexivo."
+        },
+        {
+          "id": "lc-revelacion-2",
+          "triggerLabel": "El grupo de control: cuando la reseña se queda en describir",
+          "type": "data",
+          "content": "En el grupo de control, el 45,39% de las respuestas fueron referenciales de nivel literal. Es decir, casi la mitad de las reseñas se limitaron a señalar, describir o enumerar elementos de la narración sin interpretarlos. Otro 38,82% fueron referenciales inferenciales —aproximaban una interpretación a partir de elementos narrativos—, y solo el 5,92% alcanzaron el nivel reflexivo. Las respuestas personales y composicionales fueron anecdóticas. Este perfil encaja con lo que los informes PISA y estudios como el de Aguilar-Ródenas (2020) describen: una lectura superficial, descriptiva y con finalidad práctica."
+        },
+        {
+          "id": "lc-revelacion-3",
+          "triggerLabel": "El grupo experimental: el salto a la interpretación y la reflexión",
+          "type": "data",
+          "content": "En el grupo experimental, la situación se invierte. El 46,46% de las respuestas referenciales fueron inferenciales —casi la mitad del total— y el 14,96% fueron reflexivas. Pero además aparecieron combinaciones que en el control apenas se registraron: un 7,09% de respuestas personales reflexivas (conexiones elaboradas entre el texto y la experiencia vital que desembocan en una reflexión social o educativa), un 1,57% de respuestas intertextuales reflexivas y un 1,57% de personales inferenciales. Esto sugiere que la tarea creativa no solo empujó a interpretar más, sino que abrió la puerta a conectar la literatura con la vida, la sociedad y la futura práctica docente de maneras que la reseña convencional no provocaba."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Por qué la creatividad profundiza la lectura: el mecanismo explicativo",
+      "narrativa": "Para entender por qué ocurre esto hay que mirar lo que implica crear a partir de un texto. No es un adorno ni un entretenimiento: reescribir una obra en otro formato —un poema visual, un microrrelato— obliga a tomar decisiones interpretativas. El estudiante debe comprender la obra en profundidad, seleccionar qué conservar y qué transformar, jerarquizar ideas, imaginar metáforas y traducir un significado a otro lenguaje. Ese proceso activa lo que Piaget (1969) llamó 'formas elevadas de conocimiento' y lo que Cropley (2011) describe como habilidades cognitivas de orden superior: originalidad, flexibilidad, fluidez, pensamiento asociativo y metafórico. Padget (2013) añade que la actividad creativa con objetivos claros exige pensar críticamente antes de empezar y al terminar. Esa doble reflexión —sobre el proceso y sobre el producto— convierte la creación en una experiencia de aprendizaje profundo. Los resultados de este estudio son coherentes con experiencias previas en educación literaria: Bordons y Cavalli (2012) trabajaron la poesía visual en formación de maestros con resultados positivos, y la propia Contreras-Barceló junto con Torrents-Sunyol (2020) exploraron la poesía experimental como herramienta didáctica. Lo que este estudio aporta es evidencia comparativa: no solo sabemos que la creatividad funciona, sino que podemos medir cuánto mejora la profundidad lectora respecto a una tarea convencional.",
+      "detalles": [
+        {
+          "label": "Comprensión previa necesaria",
+          "value": "Para reescribir hay que entender primero la obra. Nadie puede transformar lo que no ha comprendido. Este requisito empuja al estudiante a una lectura más atenta y profunda."
+        },
+        {
+          "label": "Selección y jerarquización",
+          "value": "El estudiante debe decidir qué elementos de la obra son esenciales para su nueva versión. Eso implica priorizar, descartar y argumentar internamente."
+        },
+        {
+          "label": "Pensamiento metafórico y asociativo",
+          "value": "Un poema visual o un microrrelato exige traducir ideas en imágenes, ritmos o tramas condensadas. Se activan conexiones no lineales, analogías y simbolizaciones."
+        },
+        {
+          "label": "Reflexión metacognitiva",
+          "value": "La valoración personal que acompaña a la creación obliga a pensar sobre lo aprendido, lo creado y el proceso seguido, cerrando el ciclo de aprendizaje."
+        },
+        {
+          "label": "Implicaciones para la formación docente",
+          "value": "Los resultados sugieren que las propuestas didácticas creativas pueden contribuir a revertir la situación de empobrecimiento de la educación literaria descrita por Contreras-Barceló (2021)."
+        }
+      ],
+      "reflexion": "Si tuvieras que elegir una sola de estas habilidades para potenciar en tus estudiantes, ¿cuál elegirías: la comprensión previa, la selección de ideas, el pensamiento metafórico o la reflexión final?",
+      "deepDives": [
+        {
+          "id": "lc-marco-1",
+          "triggerLabel": "La creatividad según Cropley: más allá del arte",
+          "type": "theory",
+          "content": "Cropley (2011) define la creatividad como un concepto polisémico que ha evolucionado históricamente, vinculado a la originalidad, la novedad, el éxito y la transformación. No se trata de un concepto ligado exclusivamente a la estética o al descubrimiento, sino a la novedad, la relevancia, la efectividad e incluso la ética para alcanzar los objetivos deseados. Las actividades creativas estimulan la curiosidad, la capacidad de reflexionar, conectar, crear e innovar, y fomentan competencias y habilidades cognitivas de orden superior."
+        },
+        {
+          "id": "lc-marco-2",
+          "triggerLabel": "Padget y el pensamiento crítico en doble dirección",
+          "type": "theory",
+          "content": "Padget (2013) destaca que las actividades creativas con objetivos claros exigen pensar críticamente en dos momentos: antes de iniciar el proceso de creación (planificación, anticipación) y al terminarlo (evaluación, reflexión sobre el producto). Esa doble reflexión —sobre el proceso y sobre el resultado— convierte la creación en una experiencia de aprendizaje profundo que desarrolla las llamadas 'thinking skills'. Las experiencias de enseñanza-aprendizaje de carácter creativo permiten alcanzar una mayor efectividad en los resultados de aprendizaje, en la construcción del conocimiento y en el desarrollo de dichas habilidades."
+        },
+        {
+          "id": "lc-marco-3",
+          "triggerLabel": "Experiencias previas en educación literaria: de Brossa a este estudio",
+          "type": "theory",
+          "content": "Investigaciones previas ya habían explorado el potencial de la creatividad en educación literaria. Bordons y Cavalli (2012) estudiaron los mecanismos de percepción de la poesía visual de Brossa y Viladot en los años 70. Contreras-Barceló y Torrents-Sunyol (2020) documentaron una experiencia didáctica de poesía experimental —'Reciclant Brossa'— en la formación inicial de maestros en la Universidad de Barcelona. Otros estudios como los de Naji et al. (2019) o Almeida et al. (2020) constatan la eficacia de experiencias creativas en el desarrollo de competencia lectora, interpretativa y escritora, el gusto por la lectura, el hábito lector, el estímulo de la imaginación y el desarrollo del intertexto lector. Este estudio va un paso más allá al ofrecer una comparación controlada que mide el efecto diferencial de la creatividad sobre la profundidad lectora."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Puede una tarea creativa de reescritura mejorar la profundidad de la lectura literaria en futuros docentes?",
+      "conclusion": "Sí, y de manera notable. Los 96 estudiantes leyeron las mismas obras y participaron en las mismas tertulias. La única diferencia fue la tarea final: reseñas críticas para el grupo de control, reescrituras creativas para el experimental. Y sin embargo, los resultados muestran diferencias marcadas. En el grupo experimental, las respuestas literales cayeron a menos de la mitad (24,03% vs 50,32%), las inferenciales subieron 9 puntos porcentuales (50,39% vs 41,29%), y las reflexivas casi se cuadruplicaron (24,03% vs 6,45%). La triangulación reveló que las respuestas referenciales reflexivas pasaron del 5,92% al 14,96% y que emergieron categorías prácticamente ausentes en el grupo de control, como las respuestas personales reflexivas (7,09%). Aunque los resultados no son estadísticamente generalizables por el tamaño muestral, sí son exploratoriamente robustos y coherentes con la teoría: la creatividad no sustituye la lectura, la profundiza. Obliga a tomar decisiones interpretativas, establecer conexiones, crear metáforas y transformar el sentido de la obra. Por eso, las propuestas didácticas creativas pueden ser una vía prometedora para mejorar la formación lectora y literaria de los futuros docentes, haciendo que sus experiencias de lectura previas a su ejercicio profesional sean más provechosas y que su futuro rol de mediador sea más significativo para sus discentes.",
+      "formalRef": "Contreras-Barceló, E. (2023). Lectura y creación. Un estudio sobre lectura literaria y creatividad en formación inicial de docentes. Ocnos, 22(2). https://doi.org/10.18239/ocnos_2023.22.2.383"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué instrumento utilizó la investigadora para recoger y comparar los datos de ambos grupos?",
+          "options": [
+            "Un cuestionario tipo Likert de 26 ítems sobre hábitos lectores",
+            "Entrevistas semiestructuradas individuales con cada estudiante",
+            "Las valoraciones personales de lectura que acompañaban a cada tarea",
+            "Pruebas estandarizadas de comprensión lectora al inicio y al final"
+          ],
+          "correct": 2
+        },
+        {
+          "type": "choice",
+          "q": "¿En qué nivel de lectura se produjo la diferencia más drástica entre el grupo de control y el grupo experimental?",
+          "options": [
+            "Nivel literal: el grupo de control lo duplicó ampliamente",
+            "Nivel inferencial: ambos grupos obtuvieron porcentajes casi idénticos",
+            "Nivel reflexivo: pasó del 6,45% en el grupo de control al 24,03% en el experimental",
+            "Nivel de no comprensión: fue significativamente mayor en el grupo experimental"
+          ],
+          "correct": 2
+        },
+        {
+          "type": "choice",
+          "q": "Según los resultados del estudio, ¿qué tipo de respuesta lectora fue mayoritaria en ambos grupos?",
+          "options": [
+            "Respuestas composicionales, centradas en el libro como objeto",
+            "Respuestas intertextuales e interculturales",
+            "Respuestas personales, basadas en la experiencia vital",
+            "Respuestas referenciales, centradas en personajes, acciones y ambientes"
+          ],
+          "correct": 3
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuántas valoraciones personales de lectura se analizaron en total y con qué programa?",
+          "options": [
+            "96 valoraciones con SPSS 25",
+            "144 valoraciones con NVivo",
+            "288 valoraciones con Atlas.ti 22.0.1",
+            "192 valoraciones con MAXQDA"
+          ],
+          "correct": 2
+        },
+        {
+          "type": "open",
+          "q": "La investigadora añadió un nivel 'reflexivo' a las categorías de Fittipaldi porque detectó respuestas que abordaban temas sociales, culturales o educativos más allá del texto. ¿Crees que ese nivel reflexivo debería ser un objetivo explícito de la educación literaria en Primaria, o basta con que el alumnado comprenda e interprete? ¿Por qué?"
+        },
+        {
+          "type": "open",
+          "q": "Imagina que enseñas Didáctica de la Literatura en un grado de Educación Primaria. ¿Qué criterios usarías para decidir si proponer una reseña crítica o una reescritura creativa según el texto concreto, el momento del cuatrimestre o el perfil de tus estudiantes?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual de la lectura y la creación",
+    "descripcion": "Conexiones entre los conceptos centrales del estudio comparativo de Contreras-Barceló (2023).",
+    "nodos": [
+      { "id": "1", "label": "Lectura literaria", "color": "#e76f51" },
+      { "id": "2", "label": "Creatividad", "color": "#f4a261" },
+      { "id": "3", "label": "Reescritura creativa", "color": "#e9c46a" },
+      { "id": "4", "label": "Respuesta lectora", "color": "#2a9d8f" },
+      { "id": "5", "label": "Nivel reflexivo", "color": "#264653" },
+      { "id": "6", "label": "Formación inicial docente", "color": "#8ab17d" },
+      { "id": "7", "label": "Tertulia literaria", "color": "#9b2226" },
+      { "id": "8", "label": "Educación literaria", "color": "#6a4c93" },
+      { "id": "9", "label": "Pensamiento crítico", "color": "#d4a373" },
+      { "id": "10", "label": "Fittipaldi (2012)", "color": "#e5989b" }
+    ],
+    "aristas": [
+      { "from": "1", "to": "4", "label": "genera" },
+      { "from": "2", "to": "3", "label": "se expresa mediante" },
+      { "from": "3", "to": "1", "label": "profundiza" },
+      { "from": "4", "to": "5", "label": "puede alcanzar nivel" },
+      { "from": "6", "to": "1", "label": "necesita fortalecer" },
+      { "from": "7", "to": "1", "label": "favorece" },
+      { "from": "2", "to": "5", "label": "promueve" },
+      { "from": "8", "to": "6", "label": "enmarca" },
+      { "from": "3", "to": "9", "label": "activa" },
+      { "from": "9", "to": "5", "label": "conduce al" },
+      { "from": "10", "to": "4", "label": "categoriza la" }
+    ]
+  }
+}

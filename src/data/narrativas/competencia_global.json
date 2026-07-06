@@ -1,0 +1,448 @@
+{
+  "id": "competencia_global",
+  "metadata": {
+    "title": "Competencia global y educación literaria: fundamentos teóricos y aportes críticos",
+    "authors": "María Bermúdez-Martínez y Eva M. Iñesta-Mena",
+    "year": "2023",
+    "journal": "Ocnos 22(2)",
+    "doi": "10.18239/ocnos_2023.22.2.341",
+    "gancho": "¿Y si los libros que leemos en el aula pudieran convertirse en ventanas hacia otras culturas, espejos de nuestra propia identidad y puertas para actuar en el mundo?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#5e8b7e",
+    "colorAlt": "#2f3e46",
+    "bg": "from-emerald-400/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/competencia_global/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. María Bermúdez-Martínez, investigadora en educación literaria de la Universidad de Granada",
+      "gancho": "¿Y si los libros que leemos en el aula pudieran convertirse en ventanas hacia otras culturas, espejos de nuestra propia identidad y puertas para actuar en el mundo?",
+      "contexto": "Imagina un aula de Literatura donde un cuento no se lee solo para analizar figuras retóricas, sino para comprender cómo vive una niña refugiada, para cuestionar estereotipos raciales que se forman desde los tres o cuatro años, o para imaginar formas de construir un mundo más justo. Eso es, en esencia, lo que propone conectar la competencia global con la educación literaria. María Bermúdez-Martínez, de la Universidad de Granada, y Eva M. Iñesta-Mena, de la Universidad de Oviedo, realizaron una revisión teórica sistemática de alcance internacional para identificar el potencial de este vínculo. Rastrearon los últimos quince años de investigación en Web of Science y SCOPUS, buscando los puntos de contacto entre competencia global, educación y literatura infantil y juvenil. El resultado es un mapa conceptual que va desde el Harvard Project Zero y la Asia Society hasta los clubes de lectura democráticos, pasando por Freire, la UNESCO, la OCDE y PISA 2018.",
+      "deepDives": [
+        {
+          "id": "cg-apertura-1",
+          "triggerLabel": "¿Qué entendemos por competencia global?",
+          "type": "theory",
+          "content": "La OCDE la define como la 'capacidad de examinar cuestiones locales, globales e interculturales para comprender y apreciar las perspectivas y visiones del mundo de otras personas, participar en interacciones abiertas, adecuadas y efectivas con personas de diferentes culturas y actuar para el bienestar colectivo y el desarrollo sostenible' (OECD, 2018, p. 9). Boix-Mansilla y Jackson (2011), en el estudio fundacional desde el Harvard Project Zero y la Asia Society, la definen como 'the capacity and disposition to understand and act on issues of global significance'. La NEA (2010) ya la planteaba como imperativo para las escuelas del siglo XXI."
+        },
+        {
+          "id": "cg-apertura-2",
+          "triggerLabel": "¿Por qué la literatura y no otro tipo de textos?",
+          "type": "theory",
+          "content": "La literatura permite vivir en la piel de otros personajes, sentir sus dilemas y cuestionar nuestras propias certezas. Jokota (1993) recuerda que 'la no-ficción puede ayudar a obtener información factual sobre una cultura, pero es la ficción la que nos permite experimentar los sentimientos y pensamientos que guían los valores y creencias de nuestros estilos de vida'. Nikolajeva (2019), desde la crítica literaria cognitiva, analiza la importancia de la ficción para el desarrollo cognitivo, emocional, ético y estético, con especial atención a la empatía y la conformación de modelos mentales para la vida real."
+        },
+        {
+          "id": "cg-apertura-3",
+          "triggerLabel": "La tensión del canon escolar",
+          "type": "limitation",
+          "content": "Muchos programas de literatura siguen privilegiando un canon occidental, masculino y homogéneo. Esa selección —lo que Pagès-Jordà (2009) critica como textos reducidos a 'ejercicio lingüístico o antesala a trabajos biográficos, históricos o ideológicos'— limita drásticamente las oportunidades de encontrar voces diversas y problemas globales en el aula. La revisión parte de la idea de que abrir el canon no es descalificar lo clásico, sino ampliar el horizonte hacia una literatura que conecte al alumnado con el mundo."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La educación literaria en la escuela sigue con frecuencia anclada en la lectura de textos canónicos, el análisis lingüístico formal y la búsqueda de una interpretación única y correcta. Pero el mundo actual —multilingüe, intercultural, interconectado por movimientos migratorios, desarrollo de las telecomunicaciones y comercio mundial— exige ciudadanos capaces de comprender problemas complejos, reconocer múltiples perspectivas configuradas por la religión, el género, el estatus socioeconómico o el acceso al conocimiento, comunicarse eficazmente con audiencias diversas y actuar de manera ética. La OCDE incorporó la competencia global en los informes PISA 2018 por decisión de su junta directiva en 2013, convirtiéndola en una dimensión del marco futuro 2030 de educación. La UNESCO la vinculó a la educación para la ciudadanía mundial y a los Objetivos de Desarrollo Sostenible. El estudio TALIS de la OCDE ya analiza la preparación docente en algunas de sus dimensiones. Sin embargo, en el ámbito español su desarrollo es todavía emergente y está conectado principalmente con el marco PISA (Cornejo y Gómez-Jarabo, 2018; García-Beltrán et al., 2019; Luis-Rico et al., 2020; Álvarez-Cifuentes et al., 2021). La distancia entre lo que suele pasar en el aula de Literatura y lo que demanda la sociedad del siglo XXI es el conflicto central de esta revisión.",
+      "porQueImporta": "Si la escuela no conecta la lectura con la vida, el pluralismo cultural y los desafíos globales, se arriesga a formar lectores técnicamente competentes pero emocionalmente distantes y críticamente inactivos. La literatura puede ser mucho más que un objeto de estudio: puede ser una herramienta para la convivencia, la comprensión intercultural y la justicia social. Como señalan McCaffrey y Corapi (2017), trabajar con literatura de alcance global y multicultural amplía cosmovisiones, impulsa la autoconfianza a través de la integración de perspectivas culturales diferentes y permite una participación más profunda y crítica en problemas como pobreza, opresión, refugiados o ecología. Además, los estereotipos raciales y culturales empiezan a desarrollarse ya desde los 3 o 4 años de edad —Salisbury (2010) lo documenta—, por lo que la intervención temprana desde la literatura infantil y juvenil no es una opción, es una urgencia educativa.",
+      "dataPoints": [
+        "La competencia global fue desarrollada inicialmente por la CCSSO y la Asia Society, informada por la investigación de Boix-Mansilla en el Harvard Project Zero de la Harvard Graduate School of Education.",
+        "Fue avalada por la UNESCO y la OCDE en el marco de la educación para la ciudadanía mundial vinculada a los Objetivos de Desarrollo Sostenible (Boix-Mansilla y Jackson, 2011; UNESCO, 2014; OECD, 2016).",
+        "En 2013 la junta directiva de PISA decidió incorporarla, y en 2018 se evaluó por primera vez como una de las dimensiones del marco futuro 2030 de educación (OCDE, 2018).",
+        "En España, su desarrollo es emergente y escaso, vinculado principalmente al marco PISA (Cornejo y Gómez-Jarabo, 2018; García-Beltrán et al., 2019; Luis-Rico et al., 2020).",
+        "El estudio internacional TALIS de la OCDE analiza la preparación y respuesta de los docentes en dimensiones vinculadas a la competencia global (MEFP, 2019)."
+      ],
+      "glossary": [
+        {
+          "term": "Competencia global",
+          "definition": "Capacidad y disposición para comprender y actuar sobre asuntos de significación global (Boix-Mansilla y Jackson, 2011). La OCDE (2018) la desglosa en examinar cuestiones locales, globales e interculturales, comprender perspectivas ajenas, participar en interacciones efectivas entre culturas y actuar para el bienestar colectivo y el desarrollo sostenible. Moviliza conocimientos, habilidades, actitudes y valores."
+        },
+        {
+          "term": "Educación literaria",
+          "definition": "Conjunto de prácticas de enseñanza y aprendizaje orientadas a formar lectores competentes, críticos y sensibles a través de los textos literarios. No se limita a la transmisión de contenidos histórico-literarios, sino que busca la experiencia estética, la interpretación plural y el diálogo entre el texto, el lector y el mundo."
+        },
+        {
+          "term": "Alfabetización crítica",
+          "definition": "Práctica de lectura y escritura que cuestiona relaciones de poder, estereotipos e injusticias sociales y promueve la acción transformadora. Lewison et al. (2002) identifican cuatro dimensiones: interrogar lo dado por sentado, considerar múltiples puntos de vista, enfocar asuntos sociopolíticos y pasar a la acción por la justicia social. Freire (2011, 2012) la vincula a la problematización y la concienciación."
+        },
+        {
+          "term": "Competencia intercultural",
+          "definition": "Capacidad para comunicarse e interactuar de manera efectiva y adecuada con personas de otras culturas (Deardoff, 2006; Perry y Southwell, 2011). Spitzberg y Changnon (2009) añaden la gestión apropiada de interacciones entre personas con orientaciones afectivas, cognitivas y conductuales divergentes."
+        },
+        {
+          "term": "Literatura infantil y juvenil multicultural y global",
+          "definition": "Jokota (1993) la define como aquella literatura que representa grupos culturales distintos con precisión y riqueza de detalle. Rietschlin (2012) añade la literatura global: publicada en el extranjero, traducida o escrita por inmigrantes o autores autóctonos que crean representaciones auténticas de culturas globales. Incluye cuentos populares, textos sobre migración e identidad, literatura de la diferencia y ficción histórica."
+        },
+        {
+          "term": "Signature pedagogy",
+          "definition": "Concepto de Shulman (2005) que designa el conjunto de prácticas pedagógicas distintivas que definen un dominio profesional. Boix-Mansilla y Chua (2016) lo aplican a la competencia global identificando cuatro disposiciones: indagar sobre el mundo, comprender múltiples perspectivas, dialogar respetuosamente y actuar con responsabilidad."
+        },
+        {
+          "term": "Precisión cultural",
+          "definition": "Criterio desarrollado por Jokota (1993) para evaluar la calidad de la literatura multicultural: riqueza y detalle cultural, autenticidad en diálogos y relaciones, profundidad en el tratamiento de los aspectos culturales. Es fundamental para evitar que la literatura multicultural, bienintencionada pero superficial, reproduzca estereotipos."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "cg-conflicto-1",
+          "triggerLabel": "El itinerario institucional de la competencia global",
+          "type": "theory",
+          "content": "El concepto fue desarrollado inicialmente por la CCSSO y la Asia Society, informado por la investigación de Boix-Mansilla en el Harvard Project Zero. Fue avalado por la UNESCO (2014) y la OCDE (2016), vinculado a los ODS. En 2013, la junta directiva de PISA decidió incorporarlo, siendo evaluado por primera vez en PISA 2018 y convirtiéndose en dimensión del marco 2030 de educación. El estudio TALIS analiza la preparación docente en estas dimensiones. En España, su desarrollo es todavía emergente (Cornejo y Gómez-Jarabo, 2018; Luis-Rico et al., 2020, quienes propusieron una 'Competencia Global Changemaker')."
+        },
+        {
+          "id": "cg-conflicto-2",
+          "triggerLabel": "¿Qué propuso la NEA en 2010?",
+          "type": "data",
+          "content": "La Asociación Nacional de Educación de Estados Unidos identificó cuatro elementos clave: conciencia internacional, apreciación de la diversidad cultural, dominio de lenguas extranjeras y habilidades competitivas ligadas a creatividad e innovación. También señaló la tolerancia, el compromiso con la cooperación, la conciencia de una humanidad común y el sentido de la responsabilidad como actitudes fundamentales. Merryfield (1994) ya dibujaba una educación global basada en 'knowledge, skills, and attitudes necessary for decision-making and effective participation in a world characterized by interconnectedness, cultural pluralism, and increasing competition for resources'."
+        },
+        {
+          "id": "cg-conflicto-3",
+          "triggerLabel": "El riesgo de la lectura descontextualizada",
+          "type": "limitation",
+          "content": "Pagès-Jordà (2009) advierte que los textos literarios han sido escritos para ser leídos y no como instrumento para el ejercicio lingüístico o antesala a 'trabajos biográficos, históricos o ideológicos'. Cuando un texto literario se reduce a ejercicio gramatical o a pretexto para contenidos ajenos a la experiencia lectora, se pierde su poder estético y emocional. Los estudiantes pueden aprobar una prueba sin haber sentido nunca que la lectura les habla de ellos y del mundo."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Cómo se hizo la revisión teórica sistemática de alcance internacional",
+      "narrativa": "Para conectar estos dos campos —competencia global y educación literaria— las autoras realizaron una revisión descriptiva y sistemática orientada a sintetizar y actualizar conocimientos y a identificar tendencias y líneas de investigación. El proceso de búsqueda y selección se desarrolló en bases de datos internacionales especializadas, principalmente Web of Science y SCOPUS, utilizando los términos 'competencia global', 'educación' y 'literatura infantil y juvenil', tanto en español como en inglés. Se analizaron artículos y trabajos de investigación publicados en los últimos quince años en revistas y editoriales especializadas en educación y estudios literarios. El objetivo no era medir efectos cuantitativos sino mapear un campo emergente: qué se ha investigado, desde qué tradiciones teóricas, con qué conceptos clave y hacia dónde apuntan las líneas de desarrollo. La revisión se organizó en tres momentos analíticos. Primero, la configuración de la competencia global: sus orígenes en la NEA (2010), su sistematización por Boix-Mansilla y Jackson (2011) desde el Harvard Project Zero, y su institucionalización a través de UNESCO, OCDE y PISA. Segundo, la conexión con la competencia intercultural y la alfabetización crítica, dos pilares que la sostienen conceptualmente. Tercero, los puntos de confluencia con la literatura infantil y juvenil, donde se identificaron tipologías textuales especialmente fértiles para desarrollar la competencia global desde edades tempranas.",
+      "detalles": [
+        {
+          "label": "Bases de datos",
+          "value": "Web of Science y SCOPUS, principalmente"
+        },
+        {
+          "label": "Términos de búsqueda",
+          "value": "'competencia global', 'educación' y 'literatura infantil y juvenil', en español e inglés"
+        },
+        {
+          "label": "Ventana temporal",
+          "value": "Últimos quince años respecto a la publicación del artículo (2008-2023 aproximadamente)"
+        },
+        {
+          "label": "Tipo de fuentes",
+          "value": "Artículos y trabajos de investigación en revistas y editoriales especializadas en educación y estudios literarios"
+        },
+        {
+          "label": "Enfoque metodológico",
+          "value": "Revisión descriptiva y sistemática de alcance internacional (scoping review)"
+        },
+        {
+          "label": "Tres ejes de análisis",
+          "value": "1) Configuración de la competencia global. 2) Conexión con competencia intercultural y alfabetización crítica. 3) Confluencia con la literatura infantil y juvenil para la educación literaria."
+        }
+      ],
+      "limitaciones": [
+        "El campo de la competencia global aplicada a la educación literaria es todavía emergente, especialmente en el ámbito español. Hay más propuestas teóricas que estudios empíricos que midan su impacto en el aula.",
+        "La revisión se centró en fuentes internacionales indexadas en WoS y SCOPUS, con predominio del inglés y el español. Esto deja fuera literatura relevante en otros idiomas y tradiciones académicas no indexadas.",
+        "Al tratarse de una revisión teórica, no se incluyen mediciones cuantitativas de impacto en el aula. Conectar los conceptos con prácticas docentes concretas requerirá estudios empíricos posteriores.",
+        "No siempre es fácil encontrar investigaciones que crucen explícitamente la competencia global con la didáctica de la literatura. Gran parte del trabajo consistió en tender puentes entre tradiciones académicas que dialogan poco entre sí."
+      ],
+      "reflexion": "¿Crees que una revisión teórica puede ofrecer pistas útiles para transformar la práctica docente, o hacen falta más estudios empíricos antes de cambiar lo que se lee en clase?",
+      "deepDives": [
+        {
+          "id": "cg-viaje-1",
+          "triggerLabel": "¿Qué es una scoping review?",
+          "type": "method",
+          "content": "Una revisión de alcance mapea lo que se ha investigado sobre un tema, identifica conceptos clave, fuentes principales y lagunas de conocimiento. Es especialmente útil cuando el campo es novedoso, diverso y todavía no se ha sometido a síntesis sistemáticas previas, exactamente el caso de la competencia global en relación con la educación literaria."
+        },
+        {
+          "id": "cg-viaje-2",
+          "triggerLabel": "¿Por qué quince años?",
+          "type": "method",
+          "content": "El período seleccionado captura el arco completo de desarrollo del concepto: desde los trabajos pioneros de Merryfield (1994, 1996), pasando por la sistematización de Boix-Mansilla y Jackson (2011) y la Asia Society, su aval por UNESCO y OCDE, su incorporación a PISA 2018, hasta los desarrollos más recientes en el contexto español (Luis-Rico et al., 2020; Sanz-Leal et al., 2022). Es una ventana temporal que permite ver tanto la génesis como la consolidación institucional del concepto."
+        },
+        {
+          "id": "cg-viaje-3",
+          "triggerLabel": "El desafío de conectar dos campos académicos",
+          "type": "limitation",
+          "content": "La competencia global se ha investigado principalmente desde las ciencias de la educación y las políticas educativas internacionales (OCDE, UNESCO, estudios PISA y TALIS). La educación literaria, en cambio, procede de la didáctica de la lengua y la literatura, la teoría literaria y los estudios culturales. Tejer puentes entre ambas tradiciones es el principal aporte de esta revisión, pero también su mayor desafío: los marcos conceptuales, los métodos y los lenguajes de cada campo no siempre son fácilmente traducibles."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Cuatro dimensiones para entender y actuar en el mundo, tres aliados fundamentales y cuatro tipologías textuales",
+      "narrativa": "Cuando se analizan las propuestas sobre competencia global, emerge una arquitectura común que la articula en cuatro dimensiones, desarrolladas por Boix-Mansilla y Jackson (2011) y sistematizadas por Boix-Mansilla y Chua (2016) como la pedagogía distintiva —signature pedagogy, en términos de Shulman (2005)— de esta competencia. La primera dimensión nos invita a investigar el mundo: abrir la mirada más allá del entorno inmediato, identificar temas globales significativos, desarrollar estrategias de análisis, síntesis y valoración que posibiliten argumentar y construir respuestas. La segunda nos pide reconocer perspectivas, las propias y las ajenas, entendiendo qué las configura. Como señala Williams-Gualandi (2005), 'knowledge on its own does not comprise intercultural understanding. One can know, and continue to judge and dismiss'. No se trata de aceptar acríticamente otros valores, sino de verlos desde otro filtro cultural, lo que Fennes y Hapgood (1997) describen como una oportunidad para profundizar e inflexionar en los propios valores. Aquí entran variables como la religión, el género, el estatus socioeconómico o el acceso al conocimiento. La tercera dimensión nos empuja a comunicar ideas de manera efectiva con audiencias diversas, estableciendo puentes ideológicos, geográficos y culturales. La cuarta, tomar medidas, implica pasar a la acción desde la toma de conciencia del papel de agente, de manera personal o colaborativa, creativa, reflexiva y ética. Junto a estas dimensiones, la revisión identifica tres aliados conceptuales indispensables. El primero es la competencia intercultural, clave tanto para la comprensión de perspectivas como para la interacción efectiva entre culturas. Deardoff (2006) la define como la capacidad de comunicarse de manera efectiva y adecuada en situaciones interculturales; Perry y Southwell (2011), como la habilidad para interactuar de manera efectiva y adecuada con personas de otras culturas. El segundo aliado es la alfabetización crítica. Freire (2011, 2012) aporta los conceptos de problematización —poner en cuestión la realidad— y concienciación —percibir, reflexionar, posicionarse y actuar—. Lewison et al. (2002) sistematizan sus cuatro dimensiones: interrogar lo comúnmente aceptado, considerar múltiples puntos de vista, enfocar asuntos sociopolíticos y pasar a la acción por la justicia social. Y el tercer aliado es la literatura infantil y juvenil, para la cual la revisión identifica cuatro tipologías textuales especialmente fructíferas: cuentos populares y tradiciones orales de distintos pueblos —siempre con el criterio de precisión cultural de Jokota (1993)—; textos que abordan explícitamente asuntos globales como migración, exilio, mestizaje, identidad; literatura de la diferencia que implícitamente defiende el respeto a la diversidad; y ficción histórica que acerca realidades sociopolíticas del pasado o del presente.",
+      "hallazgos": [
+        {
+          "label": "1. Las cuatro dimensiones de la competencia global",
+          "value": "Investigar el mundo (identificar problemas globales, analizar, sintetizar, argumentar). Reconocer perspectivas (propias y ajenas, identificando influencias como religión, género, estatus socioeconómico, acceso al conocimiento). Comunicar ideas (establecer puentes con medios apropiados para audiencias diversas). Tomar medidas (actuar de forma personal o colaborativa, creativa, reflexiva y ética). Desarrolladas por Boix-Mansilla y Jackson (2011) y aplicadas a rutinas educativas por Boix-Mansilla (2016)."
+        },
+        {
+          "label": "2. Competencia intercultural como pilar",
+          "value": "La competencia global requiere entender y actuar con la diferencia. Deardoff (2013) identifica elementos comunes entre culturas: respeto, escucha, adaptación, construcción de relaciones, visión desde múltiples perspectivas, autoconciencia y humildad cultural. Incluso se recogen conceptos de otros discursos culturales, como el sudafricano 'Ubuntu' (Nwosu, 2009; Khoza, 2011)."
+        },
+        {
+          "label": "3. Alfabetización crítica como motor transformador",
+          "value": "Freire vincula problematización y concienciación: poner en cuestión la realidad para poder actuar sobre ella. Lewison et al. (2002) proponen cuatro dimensiones: interrogar lo dado por sentado, considerar múltiples puntos de vista, enfocar asuntos sociopolíticos y pasar a la acción. La alfabetización crítica actual integra además la alfabetización mediática (Cassany, 2005; Cassany y Castellà, 2010)."
+        },
+        {
+          "label": "4. Cuatro tipologías textuales para el aula",
+          "value": "1) Cuentos populares y tradiciones orales, con atención a la precisión cultural (Jokota, 1993). 2) Textos que abordan explícitamente asuntos globales: migración, exilio, mestizaje, identidad (Quiles-Cabrera, 2015). 3) Literatura de la diferencia, que implícitamente defiende el respeto y la tolerancia (Perera y Ramón, 2007; Bermúdez-Martínez, 2019). 4) Ficción histórica para niños y jóvenes, que desde claves directas o alegóricas acerca cuestiones sociopolíticas e históricas."
+        }
+      ],
+      "dataPoints": [
+        "Las cuatro dimensiones de la competencia global fueron desarrolladas por Boix-Mansilla y Jackson (2011) en el estudio de referencia de la Asia Society y el Harvard Project Zero, y posteriormente integradas por la OCDE en el marco PISA 2018.",
+        "Deardoff (2013) identificó seis elementos clave que confluyen en diferentes culturas: respeto, escucha, adaptación, construcción de relaciones, visión desde múltiples perspectivas, autoconciencia y humildad cultural.",
+        "La competencia global se despliega a través de conocimientos (temas de alcance global), habilidades (comunicación efectiva entre culturas, comprensión de perspectivas ajenas, ajuste a nuevos contextos, pensamiento crítico y analítico), actitudes (apertura, respeto a la otredad, mentalidad global) y valores (creencias que orientan actitudes, juicios y acciones).",
+        "Luis-Rico et al. (2020) propusieron para el marco español una 'Competencia Global Changemaker' como síntesis de la competencia global de la OCDE y las competencias emprendedora, social y cívica de las competencias clave de la UE.",
+        "Lewison et al. (2002) sistematizaron cuatro dimensiones de la alfabetización crítica que se solapan estructuralmente con las de la competencia global: interrogar lo dado por sentado, considerar múltiples puntos de vista, enfocar asuntos sociopolíticos y pasar a la acción."
+      ],
+      "reflexion": "¿Cuál de las cuatro dimensiones crees que se trabaja menos en el aula de Literatura: investigar el mundo, reconocer perspectivas, tomar medidas o comunicar ideas?",
+      "deepDives": [
+        {
+          "id": "cg-revelacion-1",
+          "triggerLabel": "La metáfora de Bishop: ventanas, espejos y puertas de cristal",
+          "type": "theory",
+          "content": "Rudine Sims Bishop (1990) comparó los libros con ventanas que muestran mundos reales o imaginarios, familiares o extraños; con espejos que reflejan nuestra propia experiencia y nos permiten ver nuestras vidas como parte de una experiencia humana más amplia; y con puertas de cristal deslizantes que nos invitan a atravesarlas con la imaginación. Esta metáfora ha sido retomada por Cox y Galda (1990), Landt (2006) y Rietschlin (2012). Bonilla (2008) la aplica a la diversidad cultural: 'libros espejo' desde los que doy a conocer mi lengua y cultura, y 'libros ventana', desde los que comprendo otras lenguas y culturas. Jella Lepman (1999) propuso la imagen del puente: la literatura como medio para tender lazos entre culturas, inspiración del proyecto Only Connect de García-Solana (2005)."
+        },
+        {
+          "id": "cg-revelacion-2",
+          "triggerLabel": "Beneficios de la literatura global y multicultural en el aula",
+          "type": "data",
+          "content": "McCaffrey y Corapi (2017, pp. 8-9) sistematizan, apoyándose en diversos estudios, cinco beneficios del trabajo con este tipo de textos: experiencias de lectura más motivadoras que fomentan el diálogo e intercambio de ideas; ampliación de cosmovisiones y perspectivas; impulso a la autoconfianza a través de la integración de perspectivas culturales diferentes, asumiendo la diferencia como valor; y participación más profunda y crítica en problemas de carácter global (pobreza, opresión, refugiados, ecología) para comprender la interconectividad en el mundo y desarrollar formas de resolución creativa de problemas que beneficien a las comunidades más allá del entorno local."
+        },
+        {
+          "id": "cg-revelacion-3",
+          "triggerLabel": "Prácticas educativas en diversos sistemas del mundo",
+          "type": "data",
+          "content": "Choo et al. (2017) recogen prácticas específicas desarrolladas y evaluadas en sistemas educativos de Australia, Canadá, Cuba, Finlandia, Hong Kong, Japón, Kuwait, Singapur y Estados Unidos, entre otros. Esto demuestra que la competencia global no es una abstracción teórica sino un movimiento pedagógico con concreciones curriculares en contextos nacionales muy diversos. El reto para el ámbito español es pasar del emergente desarrollo teórico actual a propuestas de aula evaluables."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Marco teórico: interculturalidad, crítica, mediación y un canon por abrir",
+      "narrativa": "Para entender por qué la literatura puede formar lectores globales, conviene examinar el entramado teórico que sostiene estos hallazgos. Desde la pedagogía de la competencia global, se recupera la idea de Shulman (2005) sobre las signature pedagogies: las prácticas distintivas que definen un dominio profesional. Boix-Mansilla y Chua (2016) identifican las de la competencia global: disposición para indagar sobre el mundo, comprender múltiples perspectivas, dialogar respetuosamente y actuar con responsabilidad. Boix-Mansilla (2016) ofrece diseños de aplicación de cada dimensión en rutinas específicas para el aula. Desde la educación intercultural, Rietschlin (2012) distingue la educación multicultural —énfasis en la comunidad local y las relaciones dentro de nuestras fronteras— de la educación global —énfasis en la interconexión con el mundo—. Brown y Kysilka (2003) combinan ambos campos definiendo la educación multicultural y global como el proceso de adquirir conocimientos, habilidades y valores para participar activamente en una sociedad mundial compleja, pluralista e interconectada y trabajar juntos para hacerla más justa y humana. Desde la teoría literaria, el siglo XX centró la atención en el receptor como creador activo de significados, con Eco (1987) y Rosenblatt (1995) defendiendo la lectura literaria como actividad plural y polisémica. Esa fuerza nuclear de la literatura —la puesta en juego de los mecanismos de la imaginación— proporciona el goce estético y facilita espacios de comunicación sobre los que construir pensamiento plural e intercultural. Desde la alfabetización crítica, Vygotski y Freire destacaron el valor del ser humano ligado a la capacidad de razonar, comprender y transformar el entorno. Los conceptos freireanos de problematización y concienciación ayudan a entender cómo la competencia global no se limita a comprender el mundo sino a transformarlo. Todo ello converge en una premisa central: no basta con cambiar los libros del canon, hay que cambiar las formas de leerlos y de conversar sobre ellos. La mediación docente es la clave. Frente al modelo del profesor que impone lecturas e interpretaciones cerradas, la revisión propone clubes de lectura democráticos y anti-eruditos (Pagès-Jordà, 2009), prácticas de lectura dialógica (López-Valero et al., 2021) con ingredientes como el diálogo igualitario, la inteligencia cultural, la transformación, la dimensión instrumental, la solidaridad y la igualdad de diferencias (Flecha, 1997; Valls et al., 2008). Sipe (2000) vincula la respuesta estética con impulsos empáticos que conectan nuestras vidas con los textos, poniendo de relieve el poder transformador de la literatura. Mahoney y Schamber (2004) sostienen que el juego de rol, la investigación y la discusión en grupos pequeños son medios efectivos para desarrollar la sensibilidad intercultural.",
+      "detalles": [
+        {
+          "label": "Signature pedagogy de la competencia global",
+          "value": "Shulman (2005) acuñó el concepto. Boix-Mansilla y Chua (2016) identifican las prácticas distintivas: disposición para indagar sobre el mundo, comprender múltiples perspectivas, dialogar respetuosamente y actuar con responsabilidad. Boix-Mansilla (2016) ofrece rutinas concretas de aula."
+        },
+        {
+          "label": "Competencia intercultural sistémica",
+          "value": "Las teorías han evolucionado desde modelos individuales a modelos sistémicos que incorporan factores contextuales (Spitzberg y Changnon, 2009). La UNESCO (2006) promueve una educación intercultural que proporcione al alumnado herramientas para una participación activa y plena en sociedades diversas."
+        },
+        {
+          "label": "Alfabetización crítica como filosofía",
+          "value": "Mulcahy (2008) la distingue de otras alfabetizaciones porque aborda cuestiones de poder, injusticia social y acción transformadora. Excede el ámbito individual del pensamiento crítico para incorporar la esfera social, cultural, histórica y política."
+        },
+        {
+          "label": "Mediación literaria dialógica",
+          "value": "Clubes de lectura democráticos (Pagès-Jordà, 2009), tertulias literarias dialógicas (Flecha, 1997; Valls et al., 2008), círculos de lectura (Sipe, 2000). El docente guía, propone caminos, pero no impone interpretaciones. La conversación literaria es el eje."
+        }
+      ],
+      "reflexion": "Si un docente cambia los libros del currículo pero sigue leyéndolos de forma autoritaria y cerrada, ¿realmente está promoviendo la competencia global?",
+      "deepDives": [
+        {
+          "id": "cg-marco-1",
+          "triggerLabel": "Vygotski, Freire y la raíz de la alfabetización crítica",
+          "type": "theory",
+          "content": "Vygotski vinculó el desarrollo humano a la capacidad de razonar, comprender y transformar el entorno mediante herramientas culturales, destacando el papel del contexto social. Freire (2011, 2012) radicalizó esta idea con los conceptos de problematización —cuestionamiento de la realidad, develación o inserción crítica— y concienciación —capacidad de percibir, reflexionar, posicionarse y actuar—. Rodríguez-Arocho (2019) sintetiza los aportes de Vygotski, Freire y Martín Baró para una alfabetización desde una perspectiva crítica latinoamericana. Esta genealogía conecta directamente con las dimensiones de la competencia global."
+        },
+        {
+          "id": "cg-marco-2",
+          "triggerLabel": "Lectura dialógica: ingredientes para un aula transformadora",
+          "type": "theory",
+          "content": "López-Valero et al. (2021) sistematizan la lectura dialógica a partir de siete ingredientes: diálogo igualitario, inteligencia cultural, transformación, dimensión instrumental, creación de sentido, solidaridad e igualdad de diferencias (Flecha, 1997; Valls et al., 2008). Las tertulias literarias dialógicas son un ejemplo concreto: los participantes eligen lecturas, las comparten y contrastan visiones desde posiciones igualitarias, sin que el docente ostente el monopolio de la interpretación correcta. Estos ingredientes no hacen sino poner de relieve, finalmente, las dimensiones de la competencia global."
+        },
+        {
+          "id": "cg-marco-3",
+          "triggerLabel": "Precisión cultural: el antídoto contra los estereotipos desde los 3 años",
+          "type": "limitation",
+          "content": "Jokota (1993) estableció los criterios de precisión cultural: riqueza y detalle en la representación, autenticidad en diálogos y relaciones, y profundidad en el tratamiento de los aspectos culturales. Salisbury (2010) advierte que los estereotipos raciales y culturales empiezan a desarrollarse ya desde los 3 o 4 años de edad. Esto convierte la selección cuidadosa de textos literarios en una responsabilidad ética de primer orden: no cualquier libro que muestre otras culturas lo hace con rigor. Una representación cultural inexacta o superficial, por bienintencionada que sea, puede reforzar los mismos estereotipos que pretende combatir. Lo (2001), Wan (2006) y Rietschlin (2012) inciden en la necesidad de asegurar calidad y autenticidad cultural en las lecturas escolares."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Puede la educación literaria, a través de la literatura infantil y juvenil, desarrollar la competencia global de las personas jóvenes?",
+      "conclusion": "Sí. La revisión teórica sistemática realizada por Bermúdez-Martínez e Iñesta-Mena demuestra que la competencia global y la educación literaria no solo son compatibles, sino que se potencian mutuamente. La evidencia teórica revisada indica que la conjunción de textos literarios de alcance global y carácter multicultural —cuentos populares con precisión cultural, narrativas sobre migración e identidad, literatura de la diferencia y ficción histórica— con prácticas de mediación específicas centradas en la interpretación libre y el dialogismo ofrece un marco sólido para formar lectores abiertos y permeables a la diversidad lingüística y cultural, conscientes de la complejidad que caracteriza a las sociedades contemporáneas y dotados de las competencias necesarias para interpretarla y actuar sobre ella. Esta apuesta implica dos movimientos ineludibles: revisar el canon literario escolar, dando entrada a la pluralidad y complejidad de textos que vehiculen la competencia global, y repensar el rol del docente como guía que propone caminos sin imponer interpretaciones, creando espacios de lectura por placer, conversación literaria igualitaria y respuesta estética personal. Autores como Ibarra-Rius y Ballester-Roca (2020) reclaman una educación literaria para la cohesión social, cultural y política que facilite el tratamiento de la diversidad en toda su extensión. La competencia global, enraizada en la competencia intercultural y la alfabetización crítica, y vehiculada a través de una literatura infantil y juvenil culturalmente precisa y estéticamente valiosa, se perfila como una de las grandes asignaturas pendientes —y una de las más prometedoras— de la educación literaria del siglo XXI.",
+      "formalRef": "Bermúdez-Martínez, M., & Iñesta-Mena, E. M. (2023). Competencia global y educación literaria: fundamentos teóricos y aportes críticos. Ocnos, 22(2). https://doi.org/10.18239/ocnos_2023.22.2.341"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Quiénes desarrollaron inicialmente la conceptualización de la competencia global que sirve de base al artículo?",
+          "options": [
+            "Boix-Mansilla y Jackson, desde el Harvard Project Zero y la Asia Society",
+            "La UNESCO de forma independiente en 2014",
+            "Merryfield en solitario en 1994",
+            "La NEA sin colaboración académica en 2010"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de revisión realizaron las autoras y en qué bases de datos se apoyaron principalmente?",
+          "options": [
+            "Revisión teórica sistemática descriptiva en Web of Science y Scopus",
+            "Meta-análisis cuantitativo en ERIC y Dialnet",
+            "Revisión PRISMA 2020 en tres bases de datos",
+            "Estudio de caso múltiple en bibliotecas escolares"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "De las cuatro dimensiones de la competencia global de Boix-Mansilla y Jackson, ¿cuál implica abrir la mirada más allá del entorno inmediato para identificar problemas significativos que afectan globalmente a las sociedades?",
+          "options": [
+            "Investigar el mundo",
+            "Reconocer perspectivas",
+            "Comunicar ideas",
+            "Tomar medidas"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál de las siguientes tipologías textuales NO aparece entre las cuatro que el artículo identifica como especialmente útiles para desarrollar la competencia global desde la literatura infantil y juvenil?",
+          "options": [
+            "Cuentos populares y tradiciones orales de distintos pueblos",
+            "Textos que abordan explícitamente asuntos globales como migración, exilio o identidad",
+            "Literatura de la diferencia que defiende implícitamente el respeto a la diversidad",
+            "Novelas de fantasía épica ambientadas en mundos completamente inventados sin anclaje cultural reconocible"
+          ],
+          "correct": 3
+        },
+        {
+          "type": "open",
+          "q": "El artículo insiste en que no basta con cambiar los libros del canon: hay que cambiar las formas de leerlos. ¿Qué prácticas de mediación concreta —clubes de lectura democráticos, tertulias dialógicas, círculos literarios— te parecen más viables en tu contexto y por qué?"
+        },
+        {
+          "type": "open",
+          "q": "La metáfora de Bishop —ventanas, espejos y puertas de cristal— sugiere que un mismo texto puede funcionar como ventana para un lector y como espejo para otro. ¿Qué implicaciones tiene esa ambivalencia para seleccionar lecturas en un aula culturalmente diversa?"
+        },
+        {
+          "type": "open",
+          "q": "El artículo menciona la 'precisión cultural' de Jokota como criterio para evitar estereotipos. ¿Cómo distinguirías, al seleccionar un libro para el aula, entre una representación cultural auténtica y una que, aunque bienintencionada, cae en el estereotipo?"
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa conceptual de la competencia global y la educación literaria",
+      "descripcion": "Conexiones entre los conceptos centrales de la revisión teórica sistemática de Bermúdez-Martínez e Iñesta-Mena (2023).",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Competencia global",
+          "color": "#5e8b7e"
+        },
+        {
+          "id": "2",
+          "label": "OCDE / PISA 2018",
+          "color": "#e9c46a"
+        },
+        {
+          "id": "3",
+          "label": "Cuatro dimensiones",
+          "color": "#f4a261"
+        },
+        {
+          "id": "4",
+          "label": "Competencia intercultural",
+          "color": "#e76f51"
+        },
+        {
+          "id": "5",
+          "label": "Alfabetización crítica",
+          "color": "#264653"
+        },
+        {
+          "id": "6",
+          "label": "Literatura infantil y juvenil",
+          "color": "#8ab17d"
+        },
+        {
+          "id": "7",
+          "label": "Ventanas, espejos, puertas",
+          "color": "#9b2226"
+        },
+        {
+          "id": "8",
+          "label": "Lectura dialógica",
+          "color": "#6a4c93"
+        },
+        {
+          "id": "9",
+          "label": "Apertura del canon",
+          "color": "#2a9d8f"
+        },
+        {
+          "id": "10",
+          "label": "Harvard Project Zero / Asia Society",
+          "color": "#b5838d"
+        },
+        {
+          "id": "11",
+          "label": "Freire / Vygotski",
+          "color": "#457b9d"
+        }
+      ],
+      "aristas": [
+        {
+          "from": "2",
+          "to": "1",
+          "label": "evalúa"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se despliega en"
+        },
+        {
+          "from": "1",
+          "to": "4",
+          "label": "integra"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "fortalece con"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se desarrolla a través de"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "funciona como"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "cuestiona"
+        },
+        {
+          "from": "8",
+          "to": "6",
+          "label": "mediación de"
+        },
+        {
+          "from": "9",
+          "to": "6",
+          "label": "amplía"
+        },
+        {
+          "from": "8",
+          "to": "1",
+          "label": "promueve"
+        },
+        {
+          "from": "10",
+          "to": "1",
+          "label": "conceptualiza"
+        },
+        {
+          "from": "11",
+          "to": "5",
+          "label": "fundamenta"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "concreta en"
+        }
+      ]
+    }
+  }
+}

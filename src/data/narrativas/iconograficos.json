@@ -1,0 +1,480 @@
+{
+  "id": "iconograficos",
+  "metadata": {
+    "title": "Repertorios iconográficos en la novela gráfica. La re-construcción de la identidad en Emil Ferris y Una",
+    "authors": "José-Manuel Trabado-Cabado",
+    "year": "2023",
+    "journal": "Ocnos 22(1)",
+    "doi": "10.18239/ocnos_2023.22.1.338",
+    "gancho": "¿Cómo se dibuja lo que no se puede decir con palabras?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#5e3c8a",
+    "colorAlt": "#2d1b4e",
+    "bg": "from-violet-500/20 to-slate-900/20",
+    "image": "https://picsum.photos/seed/iconograficos/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "José-Manuel Trabado-Cabado, investigador en novela gráfica y cómic autobiográfico",
+      "gancho": "¿Cómo se dibuja lo que no se puede decir con palabras?",
+      "contexto": "Imagina que has vivido algo tan doloroso que cada vez que intentas contarlo con palabras, éstas se desmoronan. Eso les ocurrió a Emil Ferris y a Una, dos autoras que publicaron sus novelas gráficas casi al mismo tiempo —Lo que más me gustan son los monstruos en 2017, Una entre muchas en 2015— y que comparten un punto de partida inquietante: ambas protagonizan sus historias con una adolescente que necesita narrar un hecho traumático, una violación en la infancia en el caso de Una, un entramado de secretos familiares, enfermedad mental y asesinato en el de Ferris. Lo fascinante es que cada una resolvió el problema de manera radicalmente opuesta. Ferris tomó prestada toda la imaginería del cine de terror de la Universal, los cómics pulp y la pintura de los grandes museos. Una, en cambio, no quiso deberle nada a nadie: inventó un código visual propio, casi hermético, que el lector tiene que aprender a descifrar como quien aprende un idioma nuevo. José-Manuel Trabado-Cabado, investigador de la Universidad de León, se propuso leer estas dos obras no como quien sigue una trama, sino como quien examina un dispositivo visual: ¿qué hacen esas imágenes ahí, repetidas, insistentes, más allá de ilustrar la acción? Él las llama 'repertorios iconográficos', y su análisis revela que en la novela gráfica contemporánea la imagen ha dejado de ser un simple soporte de lo que ocurre para convertirse en el recipiente visual de un pensamiento y una emoción.",
+      "deepDives": [
+        {
+          "id": "ico-apertura-1",
+          "triggerLabel": "¿Qué entendemos por novela gráfica?",
+          "type": "theory",
+          "content": "La novela gráfica no es simplemente un cómic largo. Bajo este concepto, el cómic se liberó de las fórmulas de la ficción popular y de los formatos rígidos impuestos por la industria. Esa libertad —documentada por Romero-Jódar (2017) y Orbán (2020)— permitió abordar territorios íntimos de naturaleza traumática donde el lenguaje necesitaba renovarse. Will Eisner ya había disfrazado de ficción la pérdida de su hija en Contrato con Dios; Art Spiegelman convirtió el exterminio nazi en el núcleo narrativo de Maus."
+        },
+        {
+          "id": "ico-apertura-2",
+          "triggerLabel": "¿Por qué el cómic para el relato traumático?",
+          "type": "theory",
+          "content": "El cómic articula varios códigos al mismo tiempo: narrativos, textuales e iconográficos. Esa capacidad multimodal ofrece un instrumental expresivo dúctil, capaz de perfilar matices que un texto exclusivamente verbal no siempre logra. Leer y mirar se convierten en actos complementarios e imprescindibles para comprender la historia. Gilmore (2001) ya señaló que la imagen como portadora de memoria está estrechamente vinculada a la experiencia traumática, y Whitlock (2006) acuñó el término 'autographics' para describir esta relación íntima entre imagen, memoria y trauma."
+        },
+        {
+          "id": "ico-apertura-3",
+          "triggerLabel": "Dos obras, dos estrategias, un mismo problema",
+          "type": "theory",
+          "content": "Emil Ferris publica Lo que más me gustan son los monstruos en 2017. Una publica Una entre muchas en 2015. Ambas protagonizan una adolescente frente a un trauma que desestabiliza su identidad, y en ambas el trauma también opera a nivel familiar mostrando la implosión de las relaciones domésticas. Además, los dos relatos se anclan en sucesos históricos reales: la muerte de Martin Luther King en abril de 1968 en la obra de Ferris, y la serie de asesinatos del destripador de Yorkshire que comenzó en julio de 1975 en la de Una. Pero cada autora resuelve el desafío visual de forma opuesta: Ferris construye sobre una tradición reconocible —lo que Trabado-Cabado llama 'koiné gráfica'—, mientras que Una inventa un código propio e intransferible —un 'idiolecto gráfico'—."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Cuando una experiencia pone en crisis la identidad de quien la narra, el lenguaje ordinario a menudo falla. El trauma no se deja expresar de manera lineal, cronológica o verbalmente transparente. En obras canónicas como Maus o Persépolis conviven un trauma histórico y un trauma individual: el horror de fondo a veces eclipsa la dimensión íntima del autor —la visión desolada del hijo ante el suicidio de su madre, el desapego del padre, el fantasma del hermano que no llegó a conocer—. Pero hay un desafío adicional que es específico del cómic: el narrador no solo se ve urgido a desmenuzar narrativamente su 'yo', sino que además tiene la obligación de auto-representarse, convertirse en un personaje que ha de ser dibujado con una apariencia física. Eso transforma el 'yo' monolítico de la escritura tradicional en un 'yo' poliédrico y multimodal. La pregunta que plantea Trabado-Cabado es inquietante: ¿cómo construir un sistema de signos visuales que sea capaz de albergar emociones, memorias y conflictos que exceden lo realista? ¿Cómo dibujar lo reprimido, lo silenciado, lo que ni siquiera la protagonista se atreve a recordar?",
+      "porQueImporta": "Estudiar estos repertorios iconográficos no es un ejercicio meramente estético. Nos permite entender cómo ciertos autores reconstruyen su identidad a través del dibujo, cómo transforman el dolor en narrativa y cómo logran que lo invisible sea visible. Además, nos obliga a repensar el propio acto de leer una novela gráfica: ya no basta con descifrar las palabras de los bocadillos. Hay que aprender a leer imágenes, símbolos, repeticiones y silencios visuales. La construcción de un repertorio iconográfico exige una actitud colaborativa del lector, que debe ir asignando valores a las imágenes mucho más allá de su función meramente referencial. La imagen ya no es solo sustento de una narración: es el recipiente visual de un pensamiento y una emoción.",
+      "dataPoints": [
+        "Will Eisner disfrazó de ficción la pérdida de su hija en Contrato con Dios.",
+        "Art Spiegelman convirtió el exterminio nazi en el núcleo narrativo de Maus, pero en el centro del relato están el suicidio de su madre, el desapego de su padre y el fantasma del hermano no conocido.",
+        "Marjane Satrapi (Persépolis) y David B. (La ascensión del gran mal) también metabolizaron el dolor a través del cómic.",
+        "Whitlock (2006) acuñó el término 'autographics' para describir la relación entre imagen, memoria y trauma.",
+        "Trabado-Cabado (2012) ya había estudiado cómo en el cómic autobiográfico el narrador debe convertirse en personaje dibujado con una apariencia física."
+      ],
+      "glossary": [
+        {
+          "term": "Novela gráfica",
+          "definition": "Formato narrativo del cómic que, más allá de su extensión, permite abordar temas complejos e íntimos con libertad creativa, liberándose de las fórmulas genéricas y las restricciones de formato de la industria."
+        },
+        {
+          "term": "Repertorio iconográfico",
+          "definition": "Conjunto de imágenes y motivos temáticos de naturaleza simbólica que una autora utiliza para encarnar visualmente el relato. Incluye tanto las imágenes heredadas de la tradición como las creadas ad hoc para ese contexto concreto."
+        },
+        {
+          "term": "Autographics",
+          "definition": "Término acuñado por Gillian Whitlock (2006) para describir la estrecha relación entre imagen, memoria y relato autobiográfico en el cómic, donde la imagen funciona como portadora de memoria vinculada a la experiencia traumática."
+        },
+        {
+          "term": "Koiné gráfica",
+          "definition": "Lenguaje visual compartido y reconocible por una comunidad de lectores, como las convenciones del cómic de terror, el cine de la Universal o la imaginería pulp de la que Ferris se apropia para construir su universo personal."
+        },
+        {
+          "term": "Idiolecto gráfico",
+          "definition": "Código visual propio e intransferible que una autora inventa para un contexto concreto y que el lector debe aprender a descifrar desde cero. Es el caso del paisaje esquemático y la muñeca recortable en Una."
+        },
+        {
+          "term": "Shifters gráficos",
+          "definition": "Indicios visuales que actúan como intercambiadores de niveles narrativos. En Ferris, las portadas apócrifas de cómics de terror señalan el tránsito entre la historia de Karen en el presente y la de Anka en el pasado."
+        },
+        {
+          "term": "Trenzado (tressage)",
+          "definition": "Concepto de Thierry Groensteen (2011, pp. 173-186) que explica cómo un cómic crea coherencia mediante la repetición y variación de motivos visuales a lo largo de toda la obra, más allá de la secuencia lineal de viñetas."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "ico-conflicto-1",
+          "triggerLabel": "El trauma histórico y el trauma individual",
+          "type": "theory",
+          "content": "En obras como Maus o Persépolis conviven un trauma histórico y un trauma personal. La magnitud del horror de fondo —el Holocausto, la revolución iraní— a veces no ha permitido enfocar la importancia del trauma individual del autor. Sin embargo, en el núcleo de todo ello está la visión desolada del hijo ante el suicidio de su madre, el vínculo de amor y desapego con respecto a su padre, el fantasma del hermano que no llegó a conocer. Maus supone también una reflexión sobre la pérdida, la memoria y la implosión de la estructura familiar, todo ello narrado por el tamiz de lo cotidiano. Existe un trauma histórico, pero también uno individual que necesita un discurso gráfico amoldado a ese sentir estrictamente personal."
+        },
+        {
+          "id": "ico-conflicto-2",
+          "triggerLabel": "El 'yo' como personaje dibujado",
+          "type": "theory",
+          "content": "Trabado-Cabado (2012) mostró que en el cómic autobiográfico el narrador no solo se desmenuza narrativamente, sino que debe auto-representarse como personaje con una apariencia física. Eso transforma el 'yo' monolítico de la escritura tradicional en un 'yo' poliédrico y multimodal. Lo gráfico y lo textual actúan por igual como potentes generadores narrativos. Esa variedad de elementos constitutivos del cómic permite una forma más rica de pensarse, de contar su experiencia y de explicarse ante los demás: 'su forma de auto-representarse como un hombre lobo toma como referente a la figura de Larry Talbot, cuando encarnaba ese personaje en la película de la Universal'."
+        },
+        {
+          "id": "ico-conflicto-3",
+          "triggerLabel": "¿Qué busca exactamente este estudio?",
+          "type": "method",
+          "content": "El artículo se propone indagar en la idea de discurso hipercodificado que encarna el cómic, atendiendo a una lectura a pie de texto de dos obras prácticamente contemporáneas. La hipótesis de partida es que existe una diferencia esencial entre ambas autoras que atañe a la relación que se establece con la tradición iconográfica previa. Ferris se apropia de un lenguaje compartido; Una lo inventa desde cero. El análisis no se limita a describir la trama: problematiza la naturaleza de la narración gráfica, que dista mucho de una mera disposición secuencial de imágenes con valores puramente narrativos."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Cómo se hizo el análisis: una lectura a pie de imagen",
+      "narrativa": "Trabado-Cabado no aplicó un método estadístico ni una revisión sistemática. Lo que hizo fue mucho más artesanal y, en cierto modo, más exigente: una lectura paralela, a pie de texto e imagen, de las dos novelas gráficas completas. Esto significa que se detuvo en cada portada apócrifa, en cada cuadro del museo, en cada paisaje esquemático, en cada muñeca recortable, preguntándose qué función cumple esa imagen más allá de decorar la página. Define 'repertorio iconográfico' como todo el caudal de imágenes y motivos temáticos gráficos de naturaleza simbólica asociados a un estilismo del que se valen las autoras para encarnar visualmente el relato. Su análisis problematiza la naturaleza misma de la narración gráfica: la imagen ya no solo porta valores realistas —mostrar dónde ocurre la acción— sino que alberga un mundo simbólico que abre las puertas a la crítica social y a la expresión emocional del trauma. Para ello, el lector debe adoptar una actitud colaborativa, asignando valores a las imágenes que van mucho más allá de lo referencial. La imagen deja de ser un mero sustento de la narración y se convierte en el recipiente visual de un pensamiento y una emoción.",
+      "detalles": [
+        {
+          "label": "Primera obra analizada",
+          "value": "Lo que más me gustan son los monstruos, de Emil Ferris (publicada originalmente en 2017, edición en castellano de Penguin Random House, 2018)"
+        },
+        {
+          "label": "Segunda obra analizada",
+          "value": "Una entre muchas, de Una (publicada originalmente en 2015, editada en castellano por Astiberri, 2016)"
+        },
+        {
+          "label": "Punto de partida común",
+          "value": "Dos protagonistas adolescentes que necesitan narrar un hecho traumático que desestabiliza su identidad y que afecta también al núcleo familiar"
+        },
+        {
+          "label": "Contextos históricos anclados",
+          "value": "La muerte de Martin Luther King en abril de 1968 (Ferris) y los crímenes del destripador de Yorkshire iniciados en julio de 1975 (Una)"
+        },
+        {
+          "label": "Método",
+          "value": "Lectura comparada e interpretación iconográfica de los repertorios visuales, con atención a la función narrativa, expresiva y simbólica de cada motivo gráfico recurrente"
+        },
+        {
+          "label": "Concepto operativo central",
+          "value": "Repertorio iconográfico: caudal de imágenes y motivos temáticos gráficos de naturaleza simbólica que configuran visualmente la historia y organizan el discurso"
+        }
+      ],
+      "limitaciones": [
+        "El estudio se centra en solo dos obras, ambas de autoras angloparlantes (estadounidense y británica), lo que limita la generalización a otras tradiciones del cómic.",
+        "El análisis es cualitativo e interpretativo por naturaleza; no pretende establecer generalizaciones estadísticas ni medir el impacto en lectores.",
+        "La comparación responde a una elección crítica deliberada: dos estrategias visuales opuestas (koiné vs. idiolecto) frente a un mismo problema expresivo (narrar el trauma), lo que deja fuera otras posibles estrategias intermedias.",
+        "Al centrarse en la dimensión iconográfica, el análisis deja parcialmente de lado otros aspectos del lenguaje del cómic como la composición de página, el color o la rotulación."
+      ],
+      "reflexion": "¿Crees que se puede entender una novela gráfica sin detenerse a mirar las imágenes, leyendo solo los textos de los bocadillos?",
+      "deepDives": [
+        {
+          "id": "ico-viaje-1",
+          "triggerLabel": "Por qué comparar precisamente a Ferris y Una",
+          "type": "method",
+          "content": "Ambas obras son prácticamente contemporáneas (2015 y 2017), comparten una protagonista adolescente, abordan un trauma que desestabiliza su identidad y anclan sus relatos en sucesos históricos. Sin embargo, cada una resuelve el problema expresivo de forma radicalmente distinta: Ferris parte de la apropiación y fusión de tradiciones visuales reconocibles —el pulp, el cómic de terror, el cine de la Universal, la pintura de los museos— mientras que Una genera una gramática iconográfica propia modelada sobre elementos esquemáticos cercanos al dibujo infantil y a la infografía del reportaje periodístico. Esta oposición permite contrastar dos modelos de construcción iconográfica casi puros."
+        },
+        {
+          "id": "ico-viaje-2",
+          "triggerLabel": "La imagen como dispositivo de sentido, no como ilustración",
+          "type": "theory",
+          "content": "La perspectiva iconográfica problematiza la narración gráfica. Trabado-Cabado insiste en que la imagen ya no solo porta valores realistas —mostrar visualmente lo que ocurre— sino que alberga todo un mundo simbólico. La crisis referencial de la imagen es lo que la vuelve fértil: al alejarse de la mera representación realista, la imagen puede sugerir un modo de pensamiento, una emoción o un estado de ánimo. Esto exige del lector una actitud colaborativa: debe ir asignando valores a las imágenes más allá de su función referencial inmediata, acumulando pistas como un arqueólogo del sentido."
+        },
+        {
+          "id": "ico-viaje-3",
+          "triggerLabel": "La koiné gráfica y sus fuentes",
+          "type": "method",
+          "content": "La koiné gráfica de Ferris se ve facilitada por la pertenencia a una tradición común: el comic book norteamericano bebía de tres fuentes principales: las películas de animación, las tiras de prensa y las revistas pulp (Lopes, 2009: 2-5; Jones, 2005: 30-39). Para los monstruos de la Universal, véase también el trabajo de Quim Casas (2010) sobre el gótico hollywoodiense. Ferris no copia estas fuentes: las apropia, las fusiona y las transforma desde una óptica puramente personal, creando un lenguaje singular e intransferible a partir de un acervo gráfico comunitario."
+        },
+        {
+          "id": "ico-viaje-4",
+          "triggerLabel": "El lector como arqueólogo del sentido",
+          "type": "theory",
+          "content": "La construcción de un repertorio iconográfico presupone una estrategia coherente en la disposición de las imágenes que va más allá de una lógica argumental de naturaleza causal. Exige una actitud colaborativa por parte del lector, que deberá ir asignando valores a las imágenes mucho más allá de su función meramente referencial. Tanto Ferris como Una exigen una lectura lenta y atenta, donde el lector debe acumular pistas, reconocer repeticiones y construir el significado como quien desentraña estratos geológicos."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Dos caminos para construir una imagen del trauma: la koiné y el idiolecto",
+      "narrativa": "Cuando Trabado-Cabado puso las dos obras una al lado de la otra, emergió una diferencia fundamental que estructura todo su análisis. Emil Ferris construye sobre lo conocido: toma prestada la imaginería del pulp, los cómics de terror y el cine de la Universal —lo que el artículo llama una koiné gráfica— para crear un universo personal basado en la figura del monstruo. Pero no se queda ahí: introduce también referencias a cuadros reales del museo —San Jorge matando al Dragón de Bernat Martorell y La tentación de Magdalena de Jacob Jordaens— que funcionan como puertas hacia lo reprimido. Ferris alterna así dos registros perfectamente diferenciados: las portadas apócrifas de cómic asociadas a una función expresiva, y los cuadros asociados a una función represiva, creando una dialéctica entre la necesidad de ser y el dolor de callar. Una, en cambio, hace algo más arriesgado: inventa un código simbólico propio —un idiolecto gráfico— que el lector debe aprender a descifrar a medida que avanza la historia. Su motivo central es un paisaje esquemático —montaña y árboles— que recorre una evolución tripartita: de lo hermético (sin contexto) a lo simbólico (estado emocional) y finalmente a lo narrativo (anclaje en la trama). A esto suma dos formas de auto-representación igualmente poderosas: la muñeca de papel recortable, cuya vestimenta otros deciden, y la metamorfosis de larva a insecto con alas que no acaban de funcionar. Lo más sobrecogedor es que, pese a sus estrategias opuestas, ambas autoras comparten una metáfora final idéntica: sus protagonistas llevan a cuestas un globo de texto convertido en carga —insultos en el caso de Karen, silencio mudo en el de Una— como expresión del peso del trauma.",
+      "hallazgos": [
+        {
+          "label": "1. Ferris: el monstruo como 'yo' gráfico y coraza protectora",
+          "value": "Karen se auto-representa como hombre lobo tomando como referente a Larry Talbot de la película de la Universal. La 'conciencia-monstruo' nace de saberse rara ante la mirada normativa de los demás. El monstruo no es solo una retórica para contarse: es una coraza frente a la hostilidad del otro y una forma de expresar su despertar sexual y su lesbianismo en un entorno que la margina. Su automarginación conduce a la creación de un 'yo gráfico' anclado en el mundo imaginario de sus lecturas preferidas, donde los monstruos eran moneda de cambio."
+        },
+        {
+          "label": "2. Ferris: las portadas apócrifas como calendario y 'shifters' narrativos",
+          "value": "Ferris intercala una serie de portadas apócrifas de revistas que remedan los cómics de terror. Configuran un calendario que transcurre entre enero y mayo de 1968. Estas portadas cumplen una triple función: reflejan a modo de píldoras visuales un esqueleto de la historia, construyen un relato en segundo grado a través del prisma deformante de Karen y, sobre todo, funcionan como 'shifters gráficos': indicios que actúan como intercambiadores de niveles narrativos, señalando el tránsito entre la historia de Karen en el presente y la historia retrospectiva de Anka en la Alemania nazi."
+        },
+        {
+          "label": "3. Ferris: los cuadros como puertas freudianas al subconsciente",
+          "value": "En San Jorge matando al Dragón (Bernat Martorell), Karen ve un trasunto de su hermano Deeze en los tres personajes: la princesa como faceta artística, el caballero como protector y el dragón como violencia —revelando así su trastorno bipolar—. Penetra en el cuadro y encuentra a Deeze convertido en un niño de ocho años que llora por haber cometido un acto horrible. En La tentación de Magdalena (Jacob Jordaens), vuelve a penetrar en la pintura y pregunta al diablo quién mató a su vecina Anka. El diablo sugiere que fue Deeze —o incluso la madre—. Cada cuadro muestra y oculta a la vez, actuando como los sueños en la teoría de Freud: puertas al subconsciente y a lo reprimido que despiertan recuerdos ante el olvido autoinfligido."
+        },
+        {
+          "label": "4. Una: el paisaje esquemático como leitmotiv emocional",
+          "value": "Una crea un paisaje compuesto por una montaña y unos árboles de grafismo esquemático, cercano al dibujo infantil. En sus primeras apariciones está descontextualizado y resulta hermético. Luego se revela como símbolo del trauma: Una y su madre suben la montaña llevando un fardo —un bocadillo de cómic sin palabras— en referencia a la violación sufrida en la infancia. Finalmente, el paisaje se ancla en la trama: es el lugar donde Damián la llevó. Esta evolución —de lo hermético a lo simbólico a lo narrativo— crea un leitmotiv gráfico que funciona como el 'trenzado' de Groensteen: la repetición del motivo construye coherencia visual y semántica, vinculando subtramas y desarrollando valores emocionales que van más allá de la ubicación espacial."
+        },
+        {
+          "label": "5. Una: doble registro paisajístico para dos formas de contar",
+          "value": "Frente al paisaje esquemático asociado al relato personal y emocional de la violación, Una introduce un segundo registro paisajístico de corte realista —un árbol solitario en un paisaje yermo— vinculado a los crímenes del destripador de Yorkshire. Este paisaje realista acompaña el reportaje periodístico sobre las agresiones a mujeres, avalado sobre datos y bibliografía. La doble realización estilística está en consonancia con el tipo de relato en el que aparece: el esquematismo expresa la perspectiva subjetiva y emocional de Una, mientras que el realismo identifica la mirada más objetiva del reportaje. La propia autora lo resume en una doble página con la frase 'La perspectiva es una cosa maravillosa' (Una, 2016, pp. 46-47)."
+        },
+        {
+          "label": "6. Una: la muñeca recortable y la metamorfosis del 'yo'",
+          "value": "Para su auto-representación, Una recurre a dos estrategias. Primero se dibuja como una muñeca de papel recortable cuya vestimenta puede ser cambiada a gusto de quien la utiliza —una metáfora de cómo la sociedad define el cuerpo y la ropa de las mujeres—. Damián le dice tras abusar de ella: 'Sería mucho más fácil si la próxima vez llevaras una falda'. En un momento clave, la autora desmonta gráficamente los componentes de su avatar —pelo, cara, vestido, extremidades— mostrando la fragmentación y crisis de su identidad. Luego, tras esa descomposición, se produce una recomposición del 'yo' gráfico mediante la metamorfosis: una larva se transforma en un insecto volador al que sus alas no acaban de funcionar, y a partir de ese momento el avatar de Una aparece dotado de esas alas con las que intenta remontar metafóricamente el vuelo."
+        },
+        {
+          "label": "7. La metáfora compartida: el globo de texto como carga",
+          "value": "A pesar de sus estrategias opuestas, Ferris y Una comparten una imagen final reveladora: ambas protagonistas llevan a cuestas un globo de texto que se convierte en una pesada carga. En el caso de Karen, el globo encierra las caras de sus compañeros insultándola; en el caso de Una, es un globo mudo, el peso del silencio. Esta metáfora compartida —síntesis perfecta de cómo el lenguaje gráfico traduce el peso simbólico del trauma— permite hacer legible el dolor escondido en las recámaras de la adolescencia y demuestra que, aun con propuestas tan diferentes, ambas autoras afrontan el mismo reto de contar lo silenciado."
+        }
+      ],
+      "dataPoints": [
+        "Ferris incluye una serie de portadas apócrifas de cómics de terror que configuran un calendario de enero a mayo de 1968 y funcionan como 'shifters gráficos' que intercambian los niveles narrativos entre la historia de Karen y la de Anka.",
+        "El cuadro de Bernat Martorell permite a Karen visualizar tres facetas de su hermano Deeze: la princesa (faceta artística), el caballero (protector) y el dragón (violencia / trastorno bipolar). Penetra en el cuadro y encuentra a Deeze convertido en un niño de ocho años que llora por un acto horrible.",
+        "En La tentación de Magdalena (Jordaens), Karen penetra en el cuadro y pregunta al diablo quién mató a Anka. El diablo responde: 'Es de lo más normal enterrar algo que prefieres no admitir… sin duda en mi profesión animamos a los humanos a que guarden secretos. ¡Nada les hace enfermar más rápido!' y sugiere la implicación de la madre.",
+        "Anka cuenta su vida en casetes: fue vendida por su madre a un burdel en la Alemania nazi para saciar el apetito pedófilo de clientes de altas clases sociales. Ferris entremezcla dos relatos separándolos con las portadas apócrifas.",
+        "En Una entre muchas, el paisaje esquemático expresa la perspectiva subjetiva y emocional, mientras que el paisaje realista acompaña el reportaje sobre las víctimas del destripador de Yorkshire.",
+        "Una se representa como muñeca de papel recortable cuya ropa cambia a voluntad ajena. Damián le dice: 'Sería mucho más fácil si la próxima vez llevaras una falda'. Luego desmonta su avatar en piezas separadas, y finalmente se metamorfosea en un insecto con alas que no funcionan.",
+        "Ambas protagonistas comparten la metáfora final de llevar a cuestas un globo de texto convertido en carga: insultos en el caso de Karen, silencio mudo en el de Una."
+      ],
+      "reflexion": "¿Cuál de estas dos estrategias te parece más eficaz para expresar lo indecible: reutilizar un lenguaje compartido como hace Ferris o inventar un código propio como hace Una?",
+      "deepDives": [
+        {
+          "id": "ico-revelacion-1",
+          "triggerLabel": "El monstruo como 'yo' gráfico y coraza",
+          "type": "data",
+          "content": "La 'conciencia-monstruo' de Karen nace de saberse rara ante la mirada normativa de los demás. Su lesbianismo, su automarginación y su mundo emocional se expresan a través de un grafismo importado de lo monstruoso. Charlie Fox (2017: 24) explica esta función: 'Ya de niño odiaba lo autobiográfico y siempre me reprendían porque en clase me dibujaba como si fuera un vampiro, un hombre lobo o una bruja'. El monstruo no solo otorga una retórica para contarse, sino que es también un intermediario necesario para referir la realidad y una coraza construida con el material de la imaginación para protegerse frente a la hostilidad del otro."
+        },
+        {
+          "id": "ico-revelacion-2",
+          "triggerLabel": "Los cuadros como puertas al subconsciente",
+          "type": "data",
+          "content": "Para Karen, cada cuadro muestra y oculta algo. Actúan como los sueños en la teoría de Freud: abren la puerta al subconsciente y a lo reprimido. Penetrar en el cuadro equivale a adentrarse en su propio secreto. La relación de la pintura con la experiencia traumática también aparece en otros cómics como La levedad de Catherine Meurisse y en el álbum ilustrado de Jimmy Liao La noche estrellada (Flórez, 2020). En Ferris, los cuadros se entienden como la sublimación visual de una experiencia traumática, vestigios convertidos en ruina simbólica."
+        },
+        {
+          "id": "ico-revelacion-3",
+          "triggerLabel": "El paisaje como leitmotiv: del hermetismo al anclaje",
+          "type": "data",
+          "content": "El paisaje esquemático de Una funciona como un leitmotiv gráfico que crea coherencia visual y semántica. Aparece primero descontextualizado (hermético), luego como símbolo del trauma (Una y su madre subiendo con un fardo), y finalmente anclado en la trama (el lugar de la violación). Esta evolución tripartita siembra un elemento de extrañeza que advierte al lector del alto potencial simbólico de cada imagen. El paisaje esquemático se opone gráficamente al paisaje realista del reportaje sobre Yorkshire, creando una diferencia de perspectiva sobre un mismo problema: la violencia contra la mujer."
+        },
+        {
+          "id": "ico-revelacion-4",
+          "triggerLabel": "La muñeca recortable y el cuerpo ajeno",
+          "type": "data",
+          "content": "La metáfora de la muñeca de papel recortable pone en cuestión cómo la sociedad define el cuerpo y la vestimenta de las mujeres. Cuando Damián dice 'Sería mucho más fácil si la próxima vez llevaras una falda', está definiendo cómo ha de ir vestida para complacer la acción masculina. La autora desmonta gráficamente su avatar para mostrar la fragmentación de su identidad tras la violación. Luego, en un momento de aglutinación de códigos, el avatar aparece con alas de insecto caminando sobre el paisaje esquemático del dolor, creando una imagen de enorme carga semántica por el lento proceso de sedimentación de significados."
+        },
+        {
+          "id": "ico-revelacion-5",
+          "triggerLabel": "La dialéctica expresivo/represivo en Ferris",
+          "type": "data",
+          "content": "Trabado-Cabado identifica dos registros en el repertorio iconográfico de Ferris con funciones perfectamente delimitadas: las portadas de cómic tienen que ver con una función expresiva (la necesidad de ser, de contarse como monstruo), mientras que los cuadros albergan una función represiva (el dolor de callar, los secretos familiares silenciados). Se crea así una dialéctica entre la necesidad de ser y el dolor de callar que recorre toda la obra y que se resuelve, visualmente, en la penetración de Karen en los cuadros para arrancarles sus secretos."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Teorías que iluminan las imágenes: Bauman, Freud, Groensteen y Whitlock",
+      "narrativa": "Para entender por qué estas imágenes funcionan así, Trabado-Cabado moviliza un andamiaje teórico que conecta la sociología de la cultura, el psicoanálisis, la teoría del cómic y los estudios de memoria. De Zygmunt Bauman toma el concepto de 'cultura líquida' (2013), que describe cómo en la modernidad tardía se diluyen las fronteras entre la alta cultura y la cultura de masas. Esto explica por qué Karen —y por extensión Ferris— navega con absoluta naturalidad entre las portadas de cómics pulp y los cuadros de Martorell y Jordaens, sin sentir que haya una jerarquía entre ellos. De Thierry Groensteen toma el concepto de 'trenzado' (tressage, 2011, pp. 173-186), que permite entender cómo Una construye coherencia en su relato mediante la repetición y variación de motivos visuales —el paisaje esquemático, el paisaje realista, las alas— que van tejiendo una red de significados por encima de la secuencia lineal de viñetas. De Freud —invocado implícitamente— toma la idea de que los cuadros en Ferris actúan como los sueños: muestran y ocultan, abren la puerta al subconsciente, despiertan recuerdos ante el olvido autoinfligido. Y de Gillian Whitlock (2006) recupera el término 'autographics' para subrayar cómo en el cómic autobiográfico la imagen funciona como portadora de memoria, estableciendo una relación íntima entre lo visto y lo vivido. La lección de fondo es clara: en la novela gráfica contemporánea, la imagen ha superado la referencialidad realista de parte de la tradición del cómic y se ha convertido en un dispositivo de pensamiento visual. No ilustra la historia: la historia se construye también a través de la imagen.",
+      "detalles": [
+        {
+          "label": "Cultura líquida (Bauman, 2013)",
+          "value": "Describe cómo en la modernidad tardía se disuelven las fronteras entre alta cultura y cultura de masas. Karen/Ferris navega con naturalidad entre el pulp y el museo sin jerarquías. Esa mezcla de registros es una característica definitoria de la koiné gráfica ferrisiana."
+        },
+        {
+          "label": "Trenzado / tressage (Groensteen, 2011)",
+          "value": "Concepto que explica cómo un cómic crea coherencia mediante la repetición y variación de motivos visuales a lo largo de la obra, más allá de la secuencia lineal de viñetas. Aplicado al paisaje-leitmotiv de Una, que va tejiendo vínculos entre subtramas y desarrollando valores semánticos."
+        },
+        {
+          "label": "Imagen como sueño (Freud)",
+          "value": "Los cuadros en Ferris actúan como los sueños en la teoría freudiana: abren las puertas al subconsciente y a lo reprimido. Cada cuadro muestra y oculta a la vez. Penetrar en el cuadro equivale a adentrarse en el propio secreto. La pintura despierta recuerdos ante el olvido autoinfligido."
+        },
+        {
+          "label": "Autographics (Whitlock, 2006)",
+          "value": "Describe la estrecha relación entre imagen, memoria y trauma en el cómic autobiográfico. La imagen no es un mero acompañamiento del texto sino una portadora de memoria por derecho propio, que permite 'ver' el 'yo' traumatizado de una forma que la palabra sola no alcanza."
+        },
+        {
+          "label": "El giro del cómic hacia lo autobiográfico",
+          "value": "Obras canónicas como Maus (Spiegelman), Persépolis (Satrapi), La ascensión del gran mal (David B.) y Fun Home (Bechdel) abrieron el camino. Trabado-Cabado cita a Chute (2010) —Graphic Women—, Gilmore (2011) y Tabachnick (2011) para situar a Ferris y Una dentro de esta tradición de cómic autobiográfico traumático."
+        }
+      ],
+      "reflexion": "¿Crees que una imagen puede 'mentir' o 'ocultar' tanto como un texto escrito, o que, por el contrario, revela de forma más directa lo que el autor siente?",
+      "deepDives": [
+        {
+          "id": "ico-marco-1",
+          "triggerLabel": "Más allá de la referencialidad realista",
+          "type": "theory",
+          "content": "La novela gráfica supera la función realista tradicional de la imagen en el cómic. La imagen ya no solo representa la acción para hacerla visible, sino que sugiere un modo de pensamiento, una emoción o un estado de ánimo. La crisis referencial de la imagen —su alejamiento de la mímesis realista— es precisamente lo que la vuelve fértil para expresar el trauma, porque el trauma mismo es una crisis de la representación. Como escribe Trabado-Cabado: 'la imagen se problematiza en sus referencias porque el tema que desarrolla demanda una mayor complejidad en su funcionamiento'."
+        },
+        {
+          "id": "ico-marco-2",
+          "triggerLabel": "El lector como arqueólogo del sentido",
+          "type": "theory",
+          "content": "Tanto Ferris como Una exigen una lectura lenta y atenta. El lector debe acumular pistas visuales, reconocer repeticiones y construir el significado como quien desentraña estratos geológicos. En Una, el paisaje aparece primero sin contexto y solo después se revela su valor simbólico y narrativo, de modo que se siembra un elemento de extrañeza que nos advierte del alto potencial significativo de cada imagen. En Ferris, las portadas apócrifas exigen que el lector las relacione con el calendario de la historia y entienda su función como shifters."
+        },
+        {
+          "id": "ico-marco-3",
+          "triggerLabel": "Dos modelos, mismo objetivo: hacer legible el dolor",
+          "type": "theory",
+          "content": "Aunque las estrategias sean opuestas —apropiación de una koiné versus invención de un idiolecto—, ambas autoras comparten un propósito: usar el lenguaje gráfico para dar testimonio de lo silenciado y reconstruir una identidad dañada. La koiné de Ferris permite que el lector reconozca los códigos y se sienta cómplice; el idiolecto de Una obliga al lector a un desciframiento más exigente pero también más íntimo. Ninguna estrategia es superior a la otra: son dos respuestas igualmente legítimas al mismo problema expresivo."
+        },
+        {
+          "id": "ico-marco-4",
+          "triggerLabel": "La doble función del trauma: personal y social",
+          "type": "theory",
+          "content": "Trabado-Cabado observa que en ambas obras el trauma opera en dos niveles. A título particular, incide en la identidad de la narradora. Pero también se instaura en el nivel familiar mostrando la implosión de las relaciones domésticas, y decora la escena social anclando los relatos a sucesos históricos: Martin Luther King en 1968 y el destripador de Yorkshire en 1975. Esta imbricación del trauma personal en un problema social permite a las autoras encontrar una explicación de naturaleza catártica: su vivencia dolorosa puede ser entendida como síntoma de una sociedad enferma."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo reconstruyen Emil Ferris y Una la identidad a través de los repertorios iconográficos?",
+      "conclusion": "Tanto Emil Ferris como Una crean un reticulado de imágenes de enorme caudal simbólico que supera la referencialidad realista de parte de la tradición del cómic. Lo hacen, sin embargo, por caminos opuestos. Ferris construye su repertorio fusionando y apropiándose de tradiciones visuales reconocibles: el pulp, el cine de terror de la Universal y la pintura de los museos —una koiné gráfica—. Una genera una gramática iconográfica propia e intransferible modelada sobre elementos esquemáticos cercanos al dibujo infantil y a la infografía del reportaje periodístico —un idiolecto gráfico—. En ambos casos, el 'yo' no se limita a ser enunciado con palabras: debe ser representado, dibujado, simbolizado. Esa necesidad de traducir gráficamente la identidad convierte a la novela gráfica en un espacio privilegiado para narrar el trauma. La imagen deja de ser mero soporte de la acción para convertirse en recipiente visual de un pensamiento y una emoción, permitiendo que lo indecible aparezca en el borde mismo entre la palabra y el dibujo. La metáfora compartida del globo de texto como carga —insultos en Karen, silencio en Una— es la prueba más elocuente de que, aun desde estrategias opuestas, el lenguaje gráfico puede hacer legible el dolor escondido en las recámaras de la adolescencia.",
+      "formalRef": "Trabado-Cabado, J. M. (2023). Repertorios iconográficos en la novela gráfica. La re-construcción de la identidad en Emil Ferris y Una. Ocnos, 22(1). https://doi.org/10.18239/ocnos_2023.22.1.338"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué concepto utiliza Trabado-Cabado para describir el lenguaje visual compartido y reconocible del que Emil Ferris se apropia (pulp, cómics de terror, cine de la Universal)?",
+          "options": [
+            "Koiné gráfica",
+            "Idiolecto gráfico",
+            "Autographics",
+            "Cultura líquida"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "Según el análisis, ¿qué función desempeñan los cuadros del museo —como San Jorge matando al Dragón y La tentación de Magdalena— en Lo que más me gustan son los monstruos?",
+          "options": [
+            "Actúan como los sueños en la teoría de Freud: puertas al subconsciente y a lo reprimido que revelan secretos familiares",
+            "Son meros elementos decorativos para mostrar la cultura artística de la protagonista",
+            "Sustituyen por completo a los bocadillos de texto durante varias páginas",
+            "Sirven solo para ubicar temporalmente la acción en un museo"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "En Una entre muchas, ¿cómo evoluciona el significado del paisaje esquemático de montañas y árboles a lo largo de la obra?",
+          "options": [
+            "De lo hermético (sin contexto) a lo simbólico (estado emocional) y finalmente a lo narrativo (anclaje en la trama)",
+            "De lo narrativo a lo abstracto y luego a lo decorativo",
+            "Permanece siempre como un fondo realista que sitúa la acción",
+            "Desaparece tras las primeras páginas y no vuelve a aparecer"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué metáfora visual comparten las protagonistas de ambas novelas gráficas como expresión del peso del trauma?",
+          "options": [
+            "Llevan a cuestas un globo de texto convertido en carga (insultos en el caso de Karen, silencio en el de Una)",
+            "Ambas se dibujan a sí mismas como animales heridos al final de la historia",
+            "Las dos rompen un espejo como símbolo de identidad fragmentada",
+            "Comparten una viñeta idéntica de una tormenta sobre la ciudad"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Trabado-Cabado sostiene que en la novela gráfica la imagen deja de ser mero soporte de la acción y se vuelve 'recipiente visual de un pensamiento y una emoción'. ¿Qué texto visual —cómic, álbum ilustrado, película— te ha transmitido algo que sentiste que las palabras solas no habrían podido comunicar?"
+        },
+        {
+          "type": "open",
+          "q": "Ferris y Una representan dos modelos opuestos para expresar el trauma: apropiarse de un lenguaje compartido (koiné) o inventar uno propio (idiolecto). ¿En qué situaciones comunicativas cotidianas —no necesariamente artísticas— te parece más eficaz cada una de estas estrategias?"
+        },
+        {
+          "type": "open",
+          "q": "El artículo describe al lector de estas novelas gráficas como una especie de 'arqueólogo del sentido' que debe acumular pistas visuales y reconocer patrones. ¿Crees que este tipo de lectura se enseña en la escuela o se aprende por cuenta propia? ¿Cómo podrías entrenarla?"
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa conceptual de los repertorios iconográficos",
+      "descripcion": "Conexiones entre los conceptos centrales del análisis comparado de Trabado-Cabado.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Novela gráfica",
+          "color": "#5e3c8a"
+        },
+        {
+          "id": "2",
+          "label": "Trauma",
+          "color": "#9b2226"
+        },
+        {
+          "id": "3",
+          "label": "Repertorio iconográfico",
+          "color": "#e9c46a"
+        },
+        {
+          "id": "4",
+          "label": "Koiné gráfica (Ferris)",
+          "color": "#f4a261"
+        },
+        {
+          "id": "5",
+          "label": "Idiolecto gráfico (Una)",
+          "color": "#2a9d8f"
+        },
+        {
+          "id": "6",
+          "label": "Autographics (Whitlock)",
+          "color": "#264653"
+        },
+        {
+          "id": "7",
+          "label": "Identidad reconstruida",
+          "color": "#8ab17d"
+        },
+        {
+          "id": "8",
+          "label": "Cultura líquida (Bauman)",
+          "color": "#6a4c93"
+        },
+        {
+          "id": "9",
+          "label": "Trenzado (Groensteen)",
+          "color": "#e76f51"
+        },
+        {
+          "id": "10",
+          "label": "Shifters gráficos",
+          "color": "#d4a373"
+        }
+      ],
+      "aristas": [
+        {
+          "from": "2",
+          "to": "1",
+          "label": "impulsa la necesidad de"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "construye"
+        },
+        {
+          "from": "3",
+          "to": "7",
+          "label": "reconstruye"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "en Ferris es"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "en Una es"
+        },
+        {
+          "from": "6",
+          "to": "1",
+          "label": "caracteriza al"
+        },
+        {
+          "from": "6",
+          "to": "2",
+          "label": "vincula imagen con"
+        },
+        {
+          "from": "8",
+          "to": "4",
+          "label": "explica la mezcla de registros en"
+        },
+        {
+          "from": "9",
+          "to": "5",
+          "label": "da coherencia al"
+        },
+        {
+          "from": "4",
+          "to": "10",
+          "label": "utiliza"
+        },
+        {
+          "from": "10",
+          "to": "3",
+          "label": "organizan niveles narrativos en el"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "contrasta con"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "id": "genero_chile",
+  "metadata": {
+    "title": "Representaciones de género y plan lector en Chile: Estudio del corpus literario para primera infancia",
+    "authors": "Elizabeth Martínez-Palma, Dámaso Rabanal-Gatica, Pilar Valenzuela-Rettig y María-Cecilia Fernández-Darraz",
+    "year": "2023",
+    "journal": "Ocnos 22(2)",
+    "doi": "10.18239/ocnos_2023.22.2.343",
+    "gancho": "¿Sabías que los libros que llegan a las bibliotecas de aula chilenas pueden reforzar o cuestionar los estereotipos de género desde los primeros años?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#8b5cf6",
+    "colorAlt": "#4c1d95",
+    "bg": "from-violet-400/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/genero_chile/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Elizabeth Martínez-Palma, Dámaso Rabanal-Gatica, Pilar Valenzuela-Rettig y María-Cecilia Fernández-Darraz — equipo interdisciplinario de las universidades Austral de Chile, Autónoma de Chile y Católica de Temuco",
+      "gancho": "¿Sabías que los libros que llegan a las bibliotecas de aula chilenas pueden reforzar o cuestionar los estereotipos de género desde los primeros años?",
+      "contexto": "Imagina a una niña de cuatro años en una escuela chilena abriendo un libro de la biblioteca de aula. Lo que ve —los colores, los personajes, las acciones— no es solo entretenimiento: son modelos de cómo ser niña, cómo ser niño, cómo ser ciudadana. En Chile, la preocupación por la lectura viene de lejos: la Ley del Libro 19.227 data de 1993, y desde entonces el Plan Nacional de la Lectura y el programa 'Primero Leo' (2018) han distribuido textos a las escuelas con la idea de formar lectores críticos, reflexivos y felices. Pero un equipo de cuatro investigadoras e investigadores —Martínez-Palma, Rabanal-Gatica, Valenzuela-Rettig y Fernández-Darraz— se preguntó algo inquietante: ¿qué representaciones de género contienen realmente esos libros? ¿Refuerzan roles tradicionales y binarios o abren caminos hacia identidades más complejas? Para averiguarlo, analizaron 60 obras distribuidas por el Ministerio de Educación de Chile en 2020, seleccionaron 50 con códigos de género visibles y profundizaron en 6 textos representativos de los niveles de transición I, transición II y primer año de Enseñanza Básica. El resultado es un mapa fascinante de tensiones entre tradición y resignificación en la literatura para la primera infancia.",
+      "deepDives": [
+        {
+          "id": "genero-apertura-1",
+          "triggerLabel": "¿Por qué importa la literatura infantil para pensar el género?",
+          "type": "theory",
+          "content": "La literatura infantil no solo entretiene: transmite y crea cultura. Petit (1999), Colomer (2005), Lluch (2012), Guiñez y Martínez (2015) y Munita (2017) coinciden en que la lectura literaria colabora con las cosmovisiones que construye la niña y el niño de sí mismos y de su entorno, a través de la distinción de 'situaciones que, suscritas al texto, generan un modelo de identificación' (Martínez et al., 2021, p. 186). Los recursos que constituyen la obra literaria —verbales y visuales— pueden configurar un discurso que perpetúa representaciones o que facilita múltiples posibilidades de auto-reconocimiento."
+        },
+        {
+          "id": "genero-apertura-2",
+          "triggerLabel": "¿Qué es una representación de género?",
+          "type": "theory",
+          "content": "No es algo natural ni biológico. Rubin (1986) define el género como el conjunto de disposiciones mediante las cuales una sociedad transforma la sexualidad biológica en productos culturales. Scott (2008) lo entiende como un elemento constitutivo de las relaciones sociales basado en la diferencia sexual y una forma primaria de relaciones de poder. Desde la crítica decolonial latinoamericana, Lugones (2008) define el género como una construcción desde una razón binaria, dicotómica, antagónica y jerárquica. Segato (2018) añade que las representaciones dominantes y hegemónicas organizan mundos como la sexualidad, los afectos y los roles sociales."
+        },
+        {
+          "id": "genero-apertura-3",
+          "triggerLabel": "El contexto chileno: política lectora desde 1993",
+          "type": "data",
+          "content": "Chile cuenta con una política nacional de lectura desde 1993, cuando se promulgó la Ley del Libro 19.227. El Plan Nacional de la Lectura y el programa 'Primero Leo' (2018) han propuesto desarrollar espacios lectores que estimulen la lectura fruitiva e interpretativa. Los textos analizados en este estudio forman parte de las bibliotecas de aula distribuidas en 2020 por el Ministerio de Educación para los niveles de transición I, transición II y primer año de Enseñanza Básica. Las autoras y autores consideran relevante que estos libros estén en libre disponibilidad para los estudiantes en sus aulas."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Los estereotipos de género no desaparecen solos. Muchos libros infantiles siguen presentando a niñas y niños desde roles tradicionales, binarios y jerárquicos: ellas cuidadoras emocionales, ellos protectores racionales. Cuando esos textos llegan al aula sin una mediación crítica, pueden naturalizar la idea de que hay maneras correctas e incorrectas de ser según el sexo asignado. Y aunque algunas investigaciones (Salido-López y Salido-López, 2021; Cañamares-Torrijos y Moya-Guijarro, 2019) muestran avances hacia representaciones menos sexistas, otras (López y Moreno, 2003; Perriconi, 2015; Lluch, 2012; Márquez, 2017) confirman que la literatura infantil sigue siendo una fuente de transmisión de estereotipos sexistas, racistas y clasistas, de manera explícita o implícita.",
+      "porQueImporta": "La primera infancia es un momento clave para la construcción de subjetividades. Según Berger y Lukmann (2001), los procesos de socialización en la infancia configuran modos de ver el mundo y de verse a uno mismo. Si los libros del plan lector repiten una y otra vez que las niñas son dulces, emocionales y del hogar, y que los niños son valientes, racionales y del espacio público, se limitan las posibilidades identitarias de todas las personas. En un momento histórico donde las sociedades buscan ampliar derechos y reconocer la diversidad, perder la oportunidad de ofrecer lecturas que legitimen identidades diversas es una contradicción. Como señala Giardinelli (2007), la lectura se ha tornado en una forma de resistencia y las comunidades lectoras se han diversificado (Chartier, 1994).",
+      "dataPoints": [
+        "El corpus inicial revisado fue de 60 obras literarias de las bibliotecas de aula distribuidas por el Ministerio de Educación de Chile en 2020 para transición I, transición II y primer año de Enseñanza Básica.",
+        "Tras una primera lectura semiótica según Eco (1995), se seleccionaron 50 textos que contenían representaciones de género visibles y códigos coherentes.",
+        "El análisis en profundidad se realizó sobre 6 obras, dos por cada nivel educativo, elegidas por concentrar más elementos simbólicos relacionados con la hipótesis de lectura.",
+        "Las tres categorías de análisis fueron: roles y estereotipos de género, manifestaciones de ciudadanía y participación social, y pertinencia cultural para la construcción de identidades."
+      ],
+      "glossary": [
+        {
+          "term": "Sistema sexo/género",
+          "definition": "Concepto de Gayle Rubin (1986): conjunto de disposiciones por las que una sociedad transforma la sexualidad biológica en productos de la actividad humana, organizando quién puede hacer qué y cuánto vale socialmente."
+        },
+        {
+          "term": "Intento operis",
+          "definition": "Propuesta de Umberto Eco (1992, 1995) para el análisis semiótico: la lectura crítica debe atender a la intención del texto, no solo a la intención del autor ni a la libertad interpretativa del lector."
+        },
+        {
+          "term": "Estereotipo de género",
+          "definition": "Marco de creencias socialmente compartido que asigna rasgos, comportamientos y roles de manera rígida a mujeres y hombres. No son estáticos: cambian cuando se modifican los roles sociales (Castillo-Mayén y Montes-Berges, 2014)."
+        },
+        {
+          "term": "Pertinencia cultural",
+          "definition": "Tercera categoría de análisis del estudio: grado en que los textos reflejan modos de socialización, modelos conductuales y elementos identitarios que resultan significativos y reconocibles para las infancias en su contexto cultural."
+        },
+        {
+          "term": "Ciudadanía desde la literatura",
+          "definition": "Perspectiva que entiende la lectura literaria como práctica de construcción de sociedad y de sujetos críticos (Soriano, 2007; Bisquerra, 2008; Redon, 2010), donde se habilitan voces, se discuten derechos y se construye comunidad."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "genero-conflicto-1",
+          "triggerLabel": "¿El género es algo natural o construido?",
+          "type": "theory",
+          "content": "No. El género es una construcción social, histórica y cultural. Joan Scott (2008) lo define como una forma primaria de relaciones de poder que se configura a partir de símbolos, sistemas normativos, instituciones e identidades subjetivas. María Lugones (2008), desde la crítica decolonial, lo entiende como una construcción desde una razón binaria, dicotómica, antagónica y jerárquica. Rita Segato (2018) añade que las representaciones dominantes organizan mundos como la sexualidad, los afectos y los roles sociales. Esto significa que los libros infantiles pueden tanto reproducir esas jerarquías como contribuir a desarmarlas."
+        },
+        {
+          "id": "genero-conflicto-2",
+          "triggerLabel": "¿La literatura infantil sigue siendo sexista?",
+          "type": "limitation",
+          "content": "La evidencia es mixta. Salido-López y Salido-López (2021), analizando ilustraciones de lecturas infantiles publicadas en el medio hispánico entre 1980 y 2020, concluyen que los estereotipos sexistas se han reducido en las últimas décadas. Cañamares-Torrijos y Moya-Guijarro (2019), en un estudio semiótico multimodal de libros álbumes, muestran que las mujeres transitan de espacios interiores a exteriores. Sin embargo, Márquez (2017) señala que los cuentos infantiles han servido históricamente para transmitir prejuicios sexistas, racistas y clasistas. López y Moreno (2003) y Perriconi (2015) confirman que la LIJ sigue siendo fuente de estereotipos sexistas, explícitos o implícitos."
+        },
+        {
+          "id": "genero-conflicto-3",
+          "triggerLabel": "La hipótesis interpretativa del estudio",
+          "type": "method",
+          "content": "Las autoras y autores formularon una hipótesis interpretativa que guió el análisis: los textos leídos presentan roles y categorías de género que se relacionan con representaciones de participación social y ciudadanía, en un marco de pertinencia cultural que puede llegar a influir en la construcción de la identidad de género de las niñas y los niños que acceden a estos libros a través de las bibliotecas de aula en los establecimientos educativos de Chile."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Cómo se construyó el análisis: un recorrido en tres pasos",
+      "narrativa": "El equipo investigador diseñó un análisis interdisciplinario enmarcado en el paradigma cualitativo y la semiótica del texto. El punto de partida fue la propuesta de interpretación de Umberto Eco (1992, 1995), basada en la intentio operis: la lectura semiótica o crítica atiende a la intención del texto, no a la del autor ni a la del lector. El procedimiento tuvo tres fases. Primero, se revisaron las 60 obras de las bibliotecas de aula distribuidas en 2020 por el Ministerio de Educación para transición I, transición II y primer año de Enseñanza Básica. Se realizó una primera lectura buscando referencias textuales y gráficas coherentes con códigos de género, lo que permitió seleccionar 50 textos. Segundo, se formularon tres categorías de análisis emergentes del marco teórico: roles y estereotipos de género, manifestaciones de ciudadanía y participación social, y pertinencia cultural para la construcción de identidades. Tercero, se empleó un análisis de contenido para identificar elementos simbólicos recurrentes según el grado de frecuencia con que aparecían de manera escrita y visual, y se seleccionaron los 6 textos con más densidad simbólica y representatividad del conjunto, dos por nivel educativo.",
+      "detalles": [
+        {
+          "label": "Paradigma y enfoque",
+          "value": "Cualitativo, interdisciplinario, con análisis semiótico del texto"
+        },
+        {
+          "label": "Marco metodológico central",
+          "value": "Semiótica del texto de Umberto Eco (1992, 1995): intentio operis"
+        },
+        {
+          "label": "Corpus inicial",
+          "value": "60 obras de las bibliotecas de aula de transición I, transición II y 1º de Enseñanza Básica (MINEDUC, 2020)"
+        },
+        {
+          "label": "Primer filtro",
+          "value": "50 textos con códigos de género visibles tras la primera lectura semiótica"
+        },
+        {
+          "label": "Corpus final para análisis profundo",
+          "value": "6 obras: dos por cada nivel educativo"
+        },
+        {
+          "label": "Categorías de análisis",
+          "value": "1) Roles y estereotipos de género, 2) Ciudadanía y participación social, 3) Pertinencia cultural e identidad"
+        },
+        {
+          "label": "Niveles educativos analizados",
+          "value": "Transición I (Educación Parvularia), Transición II (Educación Parvularia) y 1º de Enseñanza Básica"
+        }
+      ],
+      "limitaciones": [
+        "Por razones de extensión, el artículo presenta solo 6 textos, aunque el corpus analizado era de 50 obras con representaciones de género visibles.",
+        "El análisis es interpretativo y no pretende establecer efectos causales directos sobre las lectoras y lectores infantiles.",
+        "Los resultados dependen crucialmente de la mediación: un mismo libro puede activar lecturas muy distintas según el adulto que acompañe la experiencia.",
+        "El estudio se circunscribe al contexto chileno y al corpus distribuido en 2020: otros países, otros años y otros corpus pueden arrojar resultados diferentes."
+      ],
+      "reflexion": "¿Crees que un análisis cualitativo de seis libros puede decirnos algo relevante sobre el corpus completo del plan lector?",
+      "deepDives": [
+        {
+          "id": "genero-viaje-1",
+          "triggerLabel": "¿Qué es la intentio operis de Umberto Eco?",
+          "type": "method",
+          "content": "Eco (1992, 1995) propone que la lectura crítica debe atender a la 'intención del texto' (intentio operis), no solo a la intención del autor (intentio auctoris) ni a la libertad interpretativa del lector (intentio lectoris). Esto permite una lectura semiótica que identifica las estructuras textuales —lingüísticas y gráficas— y los recursos semióticos que construyen sentido más allá de lo que cada cual quiera ver. En este estudio, la intentio operis se aplica para detectar los códigos de género que los textos articulan desde sus propios recursos verbales y visuales."
+        },
+        {
+          "id": "genero-viaje-2",
+          "triggerLabel": "Las tres categorías de análisis en detalle",
+          "type": "method",
+          "content": "1) Roles y estereotipos de género: identificación de expectativas, formas de relación y comportamientos socialmente aceptados según el sistema sexo/género (Rubin, 1986), a través del reconocimiento de qué hacen, cómo se muestran y qué rasgos se asignan a personajes femeninos y masculinos. 2) Ciudadanía y participación social: inclusión de las voces infantiles en la toma de decisiones, visibilidad en el espacio público, capacidad de autodefinición y construcción de comunidad desde una perspectiva de género. 3) Pertinencia cultural para la construcción de identidades: modos en que se presentan los procesos de socialización infantil, el modelamiento conductual adulto y los elementos que significan aspectos de pertenencia cultural."
+        },
+        {
+          "id": "genero-viaje-3",
+          "triggerLabel": "¿Cómo se eligieron los 6 textos finales?",
+          "type": "method",
+          "content": "De los 50 textos con códigos de género visibles, se aplicó un análisis de contenido para identificar los elementos simbólicos recurrentes según el grado de frecuencia en que aparecían de manera escrita y visual, teniendo como base la hipótesis de lectura y las tres categorías de análisis. Las 6 obras seleccionadas son las que concentraban más elementos simbólicos relacionados con dicha hipótesis y resultaban más representativas del conjunto. Para transición I: ¡Soy una niña! (Yasmeen Ismail, 2016) y Cielografía de Chile (Floridor Pérez, 2017). Para transición II: Mau it zio (Carson Ellis, 2017) y Las rayas del tigre (Marcelo Simonetti, 2018). Para 1º Básica: Pequeña historia de un desacuerdo (Claudio Fuentes, 2017) y Cuentos del mundo en décimas chilenas (Eustaquio Pérez y Marcelo Escobar, 2016)."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Seis libros, dos caminos: entre la reproducción y la resignificación",
+      "narrativa": "El análisis semiótico revela algo fascinante: dentro del mismo plan lector conviven libros que reproducen roles de género tradicionales y libros que los subvierten. No hay un patrón único. En transición I, dos obras abren el abanico: ¡Soy una niña! presenta una coneja azul que se niega a encajar en códigos rosados y dóciles, defendiendo su derecho a ser rápida, valiente y espontánea; Cielografía de Chile llena sus páginas de estilo muralista con mujeres alfareras, tejedoras, profesoras y navegantes, y ya desde la portada muestra a una niña pilotando un avión. En transición II, en cambio, Mau it zio distribuye tareas entre insectos de forma binaria —machos cargando materiales pesados y dirigiendo la construcción, hembras en tareas livianas— y Las rayas del tigre asocia masculinidad con protección y nobleza en el espacio público, mientras feminidad y vejez aparecen como objetos de cuidado. En primer año básico, la tensión se intensifica: Pequeña historia de un desacuerdo reproduce la oposición racionalidad-masculina versus emocionalidad-femenina en un debate escolar, pero Cuentos del mundo en décimas chilenas transforma a Rapunzel en rapera y a Caperucita en una joven con polerón y jeans, actualizando los códigos de género desde imaginarios contemporáneos. El plan lector chileno es, pues, un territorio en disputa.",
+      "hallazgos": [
+        {
+          "label": "Transición I (¡Soy una niña! + Cielografía de Chile): RESIGNIFICACIÓN",
+          "value": "Ambas obras abren representaciones menos estereotipadas. La coneja azul de Ismail se autodefine desde sus capacidades y gustos, no desde mandatos externos. Cielografía de Chile visibiliza a mujeres en el espacio público y creativo mediante ilustraciones de estilo muralista. En ambos textos, lo femenino se asocia con autonomía, arte y participación social."
+        },
+        {
+          "label": "Transición II (Mau it zio + Las rayas del tigre): REPRODUCCIÓN",
+          "value": "Ambos textos mantienen divisiones binarias tradicionales. Mau it zio muestra insectos macho transportando material pesado y dirigiendo la obra; insectos hembra en tareas livianas. Las rayas del tigre asocia la masculinidad con protección, nobleza y espacio público, mientras niñas, mujeres y ancianos son presentados como sujetos a proteger."
+        },
+        {
+          "label": "1º Básica (Pequeña historia de un desacuerdo + Cuentos del mundo en décimas chilenas): MIXTURA",
+          "value": "Pequeña historia de un desacuerdo reproduce la oposición racionalidad masculina (Desarrollistas, vocero joven) versus emocionalidad femenina (Milenarios, vocera que 'encendió el corazón de muchos'). Cuentos del mundo en décimas chilenas, en cambio, actualiza cuentos clásicos con figuras femeninas empoderadas: Rapunzel rapera, Caperucita con polerón y jeans, Cenicienta indígena."
+        }
+      ],
+      "dataPoints": [
+        "De los 6 textos analizados, 3 tienden a resignificar los roles de género (¡Soy una niña!, Cielografía de Chile, Cuentos del mundo en décimas chilenas) y 3 tienden a reproducir representaciones convencionales (Mau it zio, Las rayas del tigre, Pequeña historia de un desacuerdo).",
+        "La participación social femenina se asocia con espacio público, autonomía y creación en los textos que resignifican; con domesticidad, cuidado y emocionalidad en los que reproducen.",
+        "La presencia de voces adulto-céntricas que codifican la identidad infantil según parámetros de género tradicionales aparece como constante en varios textos, incluso en aquellos que las desafían."
+      ],
+      "reflexion": "¿Te parece más importante que todos los libros sean progresistas, o prefieres que haya variedad para debatir en el aula?",
+      "deepDives": [
+        {
+          "id": "genero-revelacion-1",
+          "triggerLabel": "¡Soy una niña!: la coneja azul que desafía los códigos",
+          "type": "data",
+          "content": "La protagonista, una coneja de color azul —en oposición al rosado o los tonos pasteles tradicionalmente asociados a las niñas— se autodefine desde sus capacidades: 'a veces soy dulce, tierna y educada', 'otras soy rebelde y algo descarada', 'mira voy a toda velocidad', '¡Soy una niña!', 'Soy la más valiente, esa es la verdad', 'Soy muy espontánea, me gusta improvisar. Y cuando lo hago, ¡lo paso genial!'. Sin embargo, el entorno adulto constantemente intenta encasillarla: 'tengo el libro perfecto para un niño como tú' le dice la bibliotecaria, o 'las muñecas son para niñas' comenta otro niño. La coneja responde defendiendo su derecho a ser ella misma. El texto puede leerse como una invitación a legitimar identidades diversas y a resistir las codificaciones adulto-céntricas del género."
+        },
+        {
+          "id": "genero-revelacion-2",
+          "triggerLabel": "Cielografía de Chile: mujeres que habitan el paisaje nacional",
+          "type": "data",
+          "content": "Desde la portada, el libro de Floridor Pérez (2017) rompe con lo esperado: una niña monta un avión, desmontando la relación convencionalmente masculina con la tecnología. Las ilustraciones, de claro vínculo con el muralismo, muestran una participación mayoritaria de sujetas femeninas: alfareras, tejedoras, niñas, profesoras y navegantes dinamizan los componentes gráficos. En el poema 'Campana de la escuela': 'Señora muy gorda / columpiándose en una viga, / es de bronce su garganta / su voz es clara y amiga'. Y en 'Gaviotas': 'Caracolas a vela / navegan / por el cielo / de los puertos'. La mujer aquí no está relegada al espacio privado del cuidado familiar y la domesticidad, sino que forma parte activa del espacio público y de la construcción de la cultura nacional."
+        },
+        {
+          "id": "genero-revelacion-3",
+          "triggerLabel": "Mau it zio y Las rayas del tigre: cuando lo binario persiste",
+          "type": "data",
+          "content": "En Mau it zio (Carson Ellis, 2017), los insectos poseen rasgos humanos y utilizan artefactos que proyectan estereotipos de género mediante vestimenta, tareas y patrones conductuales. Los insectos macho transportan material pesado para la construcción y dirigen la obra; los insectos hembra realizan tareas livianas. Un insecto macho mayor (ciempiés) lee y orienta el trabajo colectivo. Un insecto macho interpreta violín para una mariposa que danza. En Las rayas del tigre (Marcelo Simonetti, 2018), el tigre es 'curioso y noble, sobre todo noble', y desde esa nobleza protege a niñas, mujeres y ancianos. Aunque la protección y el cuidado suelen asociarse a lo femenino-maternal, aquí operan en el espacio público y desde una masculinidad hegemónica."
+        },
+        {
+          "id": "genero-revelacion-4",
+          "triggerLabel": "Pequeña historia de un desacuerdo: racionalidad vs emocionalidad generizada",
+          "type": "data",
+          "content": "El libro de Claudio Fuentes (2017) narra un debate escolar sobre la conservación de una araucaria frente a la construcción de un edificio. Los Desarrollistas, asociados al progreso y la tecnología, tienen un vocero masculino: 'los Desarrollistas mostraron sus argumentos con firmeza'. Los Milenarios, asociados a la preservación y la naturaleza, son representados por una estudiante: 'los Milenarios encendieron el corazón de muchos'. Así, progreso, tecnología y desarrollo se vinculan con enunciación masculina y racionalidad; naturaleza, emoción y tradición, con enunciación femenina y emocionalidad. Es una síntesis simbólica que reproduce concepciones patriarcales y androcéntricas. Sin embargo, las autoras reconocen que el libro también habilita la participación infantil en un debate ciudadano, lo que lo sitúa en un espacio de transición."
+        },
+        {
+          "id": "genero-revelacion-5",
+          "triggerLabel": "Cuentos del mundo en décimas chilenas: Rapunzel rapera y otras reinvenciones",
+          "type": "data",
+          "content": "Eustaquio Pérez y Marcelo Escobar (2016) presentan diez cuentos tradicionales de occidente actualizados desde imaginarios contemporáneos. Rapunzel es una rapera callejera: 'que podía rimar todo', 'le rapeaba al universo / vivencias, sueños, detalles'. Caperucita viste polerón y jeans. Hay una Cenicienta indígena. La décima de Rap-unzel nos dice: 'Eres la luz', 'la niña, con su talento, / grabó discos, fue famosa', 'la rima siempre perdura / y busca su forma y modo / nace del oro o del lodo, / de lo divino a lo pagano'. La rapera no espera ser rescatada de ninguna torre: canta su propio futuro. Se observa una construcción de género actualizada que preserva la tradición pero manifiesta códigos contemporáneos."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "El entramado teórico: género, literatura e infancia como construcciones entrelazadas",
+      "narrativa": "Para entender lo que estos seis libros ponen en juego no basta con contar personajes femeninos y masculinos. El estudio reúne tres miradas teóricas que funcionan como lentes superpuestos. La primera es la de los estudios de género: Rubin (1986) propone que el sistema sexo/género transforma la biología en cultura de manera no neutral; Scott (2008) muestra cómo el género organiza relaciones de poder mediante símbolos, normas, instituciones e identidades; Lugones (2008) lo vincula con una razón colonial binaria y jerárquica; y Segato (2018) evidencia cómo las representaciones dominantes organizan mundos como la sexualidad y los roles sociales. La segunda es la semiótica literaria y cultural: Lotman (1970) concibe la literatura como un sistema de transmisión cultural con doble código (lingüístico y no lingüístico); Carrasco (2005, 2008, 2009) desarrolla la idea de que la literatura no solo transmite cultura sino que la crea; Colomer (2005), Lluch (2012) y Munita (2017) insisten en que los textos son mediadores culturales que ofrecen modelos de identificación. La tercera mirada es la de los enfoques del desarrollo y la ciudadanía: Berger y Lukmann (2001) explican cómo la infancia es un momento clave de socialización y construcción identitaria; Soriano (2007), Bisquerra (2008) y Redon (2010) vinculan lectura y ciudadanía como prácticas de diálogo, participación y reconocimiento del otro. Juntas, estas perspectivas permiten leer un cuento infantil no como un objeto inocente, sino como un espacio denso donde se disputan sentidos, se ofrecen modelos de ser y se habilitan —o se cierran— posibilidades identitarias.",
+      "detalles": [
+        {
+          "label": "Género como construcción social y de poder",
+          "value": "Rubin (1986), Scott (2008), Lugones (2008) y Segato (2018) aportan la idea de que el género organiza relaciones de poder mediante símbolos, normas, instituciones e identidades subjetivas, desde una razón binaria, dicotómica y jerárquica."
+        },
+        {
+          "label": "Literatura como mediación cultural",
+          "value": "Lotman (1970), Mignolo (1986), Carrasco (2005, 2008, 2009), Colomer (2005), Lluch (2012) y Munita (2017) proponen que los libros no solo reflejan la cultura sino que la transmiten y la crean, ofreciendo modelos de identificación."
+        },
+        {
+          "label": "Infancia como construcción identitaria",
+          "value": "Berger y Lukmann (2001) explican la socialización primaria; Petit (1999), Guiñez y Martínez (2015) y Jauss (1975) muestran cómo la lectura literaria activa huellas interpretativas que colaboran con la percepción de sí mismo y del entorno cultural."
+        },
+        {
+          "label": "Ciudadanía desde la literatura",
+          "value": "Soriano (2007), Bisquerra (2008), Redon (2010) y Giardinelli (2007) vinculan lectura y ciudadanía como prácticas de diálogo, participación y reconocimiento del otro en espacios multiculturales y democráticos."
+        },
+        {
+          "label": "Los estereotipos no son eternos",
+          "value": "García-Prieto y Arriazu-Muñoz (2020) observan que los estereotipos de género se transmiten generacionalmente pero no son estáticos. Castillo-Mayén y Montes-Berges (2014) muestran que pierden vigencia cuando se modifican los roles sociales."
+        }
+      ],
+      "reflexion": "Si un cuento muestra una familia donde mamá cocina y papá trabaja fuera, ¿lo leerías como una descripción del pasado o como un modelo que todavía se propone para el futuro?",
+      "deepDives": [
+        {
+          "id": "genero-marco-1",
+          "triggerLabel": "Gayle Rubin y el sistema sexo/género (1986)",
+          "type": "theory",
+          "content": "Rubin propone que toda sociedad transforma la sexualidad biológica en productos culturales mediante un 'sistema sexo/género'. Esta transformación no es neutral: organiza quién puede hacer qué y cuánto vale socialmente. Los textos literarios, como productos culturales, participan de esa transformación al representar —y por tanto naturalizar o cuestionar— determinadas distribuciones de roles, espacios y valoraciones entre hombres y mujeres."
+        },
+        {
+          "id": "genero-marco-2",
+          "triggerLabel": "Joan Scott: género como conocimiento y poder",
+          "type": "theory",
+          "content": "Scott (2008) define el género como 'un elemento constitutivo de las relaciones sociales basado en la diferencia sexual' y 'una forma primaria de relaciones de poder'. Se construye desde cuatro dimensiones: símbolos culturales, conceptos normativos, instituciones y organizaciones sociales, e identidad subjetiva. Aplicado a la literatura infantil, esto implica que un cuento puede operar simultáneamente en los cuatro niveles: proponiendo símbolos (rosa/azul), normas (las niñas son dulces), modelos institucionales (la familia tradicional) e identificaciones subjetivas (¿con quién me parezco?)."
+        },
+        {
+          "id": "genero-marco-3",
+          "triggerLabel": "Márquez (2017): los cuentos no son inocentes",
+          "type": "limitation",
+          "content": "Márquez señala que la literatura infantil ha sido, desde sus orígenes, un producto histórico-social condicionado por factores pedagógicos, filosóficos y culturales. En los cuentos 'aparecen todos los valores, actitudes, jerarquías y creencias adecuadas para infantes y que han servido para transmitir y mantener prejuicios sociales sexistas, racistas y clasistas, a través de personajes que niñas y niños imitan'. Pero la misma autora reconoce que los cuentos también pueden ser espacios de resistencia: si transmiten prejuicios, también pueden transmitir contra-narrativas de igualdad y diversidad."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Los textos del plan lector chileno identifican de manera diferenciada a niñas y niños, y qué implicancias tienen esas representaciones para la construcción identitaria infantil?",
+      "conclusion": "Sí, los textos analizados contienen representaciones de género diferenciadas, y estas no apuntan en una sola dirección. Tres obras (¡Soy una niña!, Cielografía de Chile, Cuentos del mundo en décimas chilenas) resignifican los roles convencionales, asociando lo femenino con autonomía, arte, espacio público y empoderamiento. Otras tres (Mau it zio, Las rayas del tigre, Pequeña historia de un desacuerdo) reproducen o matizan representaciones binarias y patriarcales: división sexual del trabajo, asociación de masculinidad con protección y racionalidad, feminidad con emocionalidad y cuidado. Pero la clave no está solo en los libros, sino en la mediación. Como señalan las autoras, 'lecturas que atienden y legitiman diversidades necesitan mediadoras/es que sean capaces de leer esos códigos con que se construye lo distinto y, por lo tanto, ser capaces de diseñar experiencias de lectura que atiendan estas versiones que escapan de la reproducción'. Si se pretende avanzar hacia una sociedad de derechos extendidos, donde las infancias tengan un espacio y voz protagónicos, es fundamental que las bibliotecas de aula dialoguen con esa motivación y que la formación ciudadana encuentre en la lectura literaria un territorio fértil.",
+      "formalRef": "Martínez-Palma, E., Rabanal-Gatica, D., Valenzuela-Rettig, P., & Fernández-Darraz, M. C. (2023). Representaciones de género y plan lector en Chile: Estudio del corpus literario para primera infancia. Ocnos, 22(2). https://doi.org/10.18239/ocnos_2023.22.2.343"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué enfoque metodológico guió el análisis de las representaciones de género en los seis textos?",
+          "options": [
+            "Análisis de contenido con frecuencias léxicas",
+            "Semiótica del texto desde la intentio operis de Umberto Eco",
+            "Encuesta estructurada a docentes de Educación Parvularia",
+            "Grupos focales con niñas y niños lectores"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuántas obras conformaban el corpus inicial que las autoras revisaron antes de seleccionar los seis textos analizados en profundidad?",
+          "options": [
+            "30 obras",
+            "50 obras",
+            "60 obras",
+            "100 obras"
+          ],
+          "correct": 2
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál de estas categorías NO formó parte del análisis de los textos literarios?",
+          "options": [
+            "Roles y estereotipos de género",
+            "Manifestaciones de ciudadanía y participación social",
+            "Pertinencia cultural para la construcción de identidades",
+            "Rendimiento lector según el sexo del personaje protagonista"
+          ],
+          "correct": 3
+        },
+        {
+          "type": "choice",
+          "q": "De los seis textos analizados, ¿cuál reproduce de forma más clara la oposición entre racionalidad masculina y emocionalidad femenina?",
+          "options": [
+            "¡Soy una niña!",
+            "Cielografía de Chile",
+            "Pequeña historia de un desacuerdo",
+            "Cuentos del mundo en décimas chilenas"
+          ],
+          "correct": 2
+        },
+        {
+          "type": "open",
+          "q": "¡Soy una niña! y Las rayas del tigre están ambos en el plan lector chileno pero proponen modelos de género contrapuestos. Si fueras docente de Educación Parvularia, ¿cómo trabajarías estos dos libros en secuencia para que tus estudiantes contrastaran críticamente ambas visiones?"
+        },
+        {
+          "type": "open",
+          "q": "El artículo muestra que en Pequeña historia de un desacuerdo la racionalidad se asocia a la voz masculina y la emocionalidad a la femenina. ¿En qué otros materiales escolares que hayas usado o visto has notado esa misma división? ¿Qué harías en el aula para señalarla sin imponer una única lectura correcta?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual del análisis de género en el plan lector chileno",
+    "descripcion": "Relación entre los conceptos centrales que articulan el estudio de Martínez-Palma et al. (2023).",
+    "nodos": [
+      { "id": "1", "label": "Plan lector chileno", "color": "#8b5cf6" },
+      { "id": "2", "label": "Literatura infantil", "color": "#a78bfa" },
+      { "id": "3", "label": "Representaciones de género", "color": "#c084fc" },
+      { "id": "4", "label": "Estereotipos binarios", "color": "#ef4444" },
+      { "id": "5", "label": "Resignificación", "color": "#22c55e" },
+      { "id": "6", "label": "Construcción identitaria", "color": "#f59e0b" },
+      { "id": "7", "label": "Ciudadanía", "color": "#3b82f6" },
+      { "id": "8", "label": "Mediación docente", "color": "#ec4899" },
+      { "id": "9", "label": "Semiótica (Eco)", "color": "#84cc16" },
+      { "id": "10", "label": "Primera infancia", "color": "#f97316" }
+    ],
+    "aristas": [
+      { "from": "1", "to": "2", "label": "distribuye" },
+      { "from": "2", "to": "3", "label": "contiene" },
+      { "from": "3", "to": "4", "label": "puede reproducir" },
+      { "from": "3", "to": "5", "label": "puede subvertir" },
+      { "from": "3", "to": "6", "label": "influye en" },
+      { "from": "6", "to": "7", "label": "habilita" },
+      { "from": "7", "to": "8", "label": "requiere" },
+      { "from": "8", "to": "2", "label": "acompaña la lectura de" },
+      { "from": "9", "to": "3", "label": "analiza" },
+      { "from": "10", "to": "6", "label": "momento clave para" },
+      { "from": "4", "to": "10", "label": "limita opciones en" },
+      { "from": "5", "to": "10", "label": "amplía horizontes en" }
+    ]
+  }
+}

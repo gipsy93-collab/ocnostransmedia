@@ -1,0 +1,530 @@
+{
+  "id": "diversidad_comics",
+  "metadata": {
+    "title": "Diversidad en los cómics: dibujos, personajes, historias y recorridos",
+    "authors": "Gino Frezza",
+    "year": "2023",
+    "journal": "Ocnos 22(1)",
+    "doi": "10.18239/ocnos_2023.22.1.331",
+    "gancho": "¿Te has detenido a pensar por qué un cómic puede hacerte simpatizar con un villano deforme, con un niño de cabeza cuadrada o con un gato de género incierto?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e63946",
+    "colorAlt": "#1d3557",
+    "bg": "from-rose-400/20 to-indigo-900/20",
+    "image": "https://picsum.photos/seed/diversidad_comics/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Gino Frezza, catedrático de Sociología de los procesos culturales y comunicativos en la Università di Salerno",
+      "gancho": "¿Te has detenido a pensar por qué un cómic puede hacerte simpatizar con un villano deforme, con un niño de cabeza cuadrada o con un gato de género incierto?",
+      "contexto": "Imagina abrir una historieta y descubrir que lo raro, lo distinto y lo marginal no es un problema de trama, sino el motor mismo del relato. Eso es lo que propone Gino Frezza en este artículo: un recorrido de más de cien años por el cómic occidental —desde Yellow Kid en 1897 hasta la novela gráfica contemporánea, pasando por las tiras de prensa estadounidenses, los cómics negros italianos de los sesenta, el underground californiano y la experimentación europea de los Humanoïdes Associés— para mostrar que la diversidad no es un tema accesorio, sino una condición estructural del medio. Frezza, que lleva décadas investigando el cómic desde la sociología de la cultura —su libro Fumetti, anime del visibile data de 1999 y Nuvole mutanti de 2017—, teje un argumento ambicioso: entre el cómic y la diversidad existe «una corriente casi directa de concordancia y superposición» o un «entrelazado inextricable» que se manifiesta en el dibujo, los personajes, las historias y los recorridos culturales del medio.",
+      "deepDives": [
+        {
+          "id": "diversidad-apertura-1",
+          "triggerLabel": "¿Qué entiende Frezza por 'diversidad'?",
+          "type": "theory",
+          "content": "No se trata solo de representar minorías. Frezza habla de diversidad perceptiva, antropológica y cultural: la variedad irrepetible de trazos, cuerpos, maneras de pensar y formas de vida que el cómic organiza en viñetas desde finales del siglo XIX. Es una diversidad que atraviesa cuatro variables entrelazadas: el dibujo como marca individual del autor, los personajes con sus cuerpos y comportamientos, las historias como mundos narrados, y los recorridos históricos y culturales del medio. Para Frezza, «la diversidad recorre la propia línea del dibujo y se superpone a él, lanzándolo hacia ese conjunto infinito de aventuras de la imaginación para las que la diversidad no encuentra obstáculos, desconfianzas ni prejuicios»."
+        },
+        {
+          "id": "diversidad-apertura-2",
+          "triggerLabel": "¿Por qué el cómic y no otro medio?",
+          "type": "theory",
+          "content": "El cómic combina palabra e imagen en secuencia. Esa doble naturaleza permite que lo visible y lo narrativo se cuestionen mutuamente. La imagen del cómic casi siempre está dibujada —excepto en los rarísimos casos del fotoromanzo italiano, tratado por Abruzzese (1989), Bravo (2003) y Turzio (2019)—, y el dibujo es el producto de una competencia que une mente, visión y habilidad de la mano, dando a esta última «la capacidad plenamente individual de trazar la marca sobre la página en blanco». En una viñeta, una cabeza cuadrada puede ser un niño común; en otra, el cuerpo deforme de un villano puede despertar más empatía que el del héroe. El medio acoge lo inesperado como regla de juego."
+        },
+        {
+          "id": "diversidad-apertura-3",
+          "triggerLabel": "Una advertencia metodológica",
+          "type": "limitation",
+          "content": "Frezza advierte que no basta con celebrar la diversidad. Reconoce que en la historia del cómic «prevalece la mirada proveniente del conjunto de la cultura 'blanca'» y que hacen falta metodologías de análisis no superficiales, «capaces de leer adecuadamente tal complejidad, más allá de esquemas de investigación unívocos o, en el peor de los casos, alineados ideológicamente». El cómic también ha reproducido estereotipos; su potencial crítico no es automático, sino que depende de cómo se lo lea."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Suele pensarse que los cómics son un entretenimiento repetitivo, estereotipado y poco reflexivo. La definición de Altarriba como «objeto industrial que se reproduce masivamente mediante medios mecánicos» y su histórica marginalidad —en la intersección de otros medios, con denominaciones subordinadas como «literatura en estampas» o «literatura dibujada»— han contribuido a ese prejuicio. Sin embargo, la historia del cómic demuestra que ha sido un espacio privilegiado para imaginar cuerpos, identidades y mundos que desafían el orden establecido. El conflicto está en que seguimos subestimando al medio justo cuando más nos enseña sobre la diversidad como condición humana fundamental.",
+      "porQueImporta": "Leer la diversidad en el cómic no es un ejercicio de nostalgia. Nos permite entender cómo se construyen las imágenes de lo diferente, cómo el dibujo puede legitimar o cuestionar una identidad, y cómo un formato popular ha anticipado debates que hoy están en el centro de la cultura. Frezza muestra que en el cómic «lo que parece normal se convierte en lo diferente y viceversa», y que esa inversión de papeles tiene consecuencias políticas, éticas y estéticas. Además, el artículo nos obliga a repensar qué significa 'normalidad' cuando el propio medio demuestra que es una construcción cultural, no un dato natural.",
+      "dataPoints": [
+        "El artículo recorre más de cien años de historia del cómic occidental, desde finales del siglo XIX hasta las primeras décadas del XXI.",
+        "Analiza personajes y autores de tradiciones estadounidense, francesa, belga e italiana, con especial profundidad en el cómic italiano.",
+        "Propone cuatro variables entrelazadas como método de análisis: dibujo, personajes, historias y recorridos culturales.",
+        "Identifica nueve categorías de diversidad a lo largo del recorrido histórico: del dibujo, del niño, lunática y de género, antropomórfica, del villano, heroica, superheroica y mutante, del cómic negro italiano, de autor, y underground/novela gráfica.",
+        "El análisis combina fenomenología de la percepción (Merleau-Ponty), semiología, sociología de la cultura, y referencias a Benjamin, Eisenstein y Eco."
+      ],
+      "glossary": [
+        {
+          "term": "Secuencialidad narrativa",
+          "definition": "Organización de imágenes y textos en una secuencia que produce sentido; es la base formal del cómic como medio de comunicación."
+        },
+        {
+          "term": "Antropomorfismo",
+          "definition": "Atribución de rasgos humanos a animales u objetos. Recurso central en el cómic desde Disney hasta Maus, permite explorar la diversidad de caracteres y las relaciones de poder entre grupos."
+        },
+        {
+          "term": "Cómic underground",
+          "definition": "Movimiento de cómics independientes surgido en California y Nueva York en los años sesenta, caracterizado por la experimentación gráfica, la crítica social y política, y la ruptura con las convenciones del cómic mainstream."
+        },
+        {
+          "term": "Novela gráfica",
+          "definition": "Formato de cómic de mayor extensión y ambición narrativa que, desde los años ochenta, consolidó al medio como expresión literaria y artística autónoma, aunque Frezza advierte que no logró suplir la pérdida de los grandes caudales de comunicación popular del cómic serial."
+        },
+        {
+          "term": "Fotoromanzo",
+          "definition": "Narrativa en secuencia realizada con fotografías en lugar de dibujos, fenómeno editorial italiano tratado por Abruzzese (1989), Bravo (2003) y Turzio (2019), distinto del cómic."
+        },
+        {
+          "term": "Diversidad sintomática",
+          "definition": "Concepto de Frezza para designar personajes como Zanardi, Ranxerox o Johnny Freak cuya diversidad expresa diagnósticamente las tensiones, contradicciones y vacíos existenciales de la sociedad contemporánea."
+        },
+        {
+          "term": "Cómic negro italiano",
+          "definition": "Fenómeno editorial inaugurado en diciembre de 1962 con Diabolik de las hermanas Giussani, caracterizado por protagonistas criminales conscientes con una ética propia que desafiaban las normas institucionales de la Italia de los sesenta."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "diversidad-conflicto-1",
+          "triggerLabel": "¿Son los cómics realmente diversos o es una ilusión?",
+          "type": "limitation",
+          "content": "Frezza no lo da por sentado. Reconoce que «en la historia del cómic prevalece la mirada proveniente del conjunto de la cultura 'blanca' más que de otras culturas étnicamente diferenciadas». Pero sostiene que esto «no implica automáticamente que este predominio signifique la asimilación del sentido de los cómics a representaciones que se adhieren a la voluntad de poder de la cultura 'blanca'». Por el contrario, en ese conjunto cultural «surgen contradicciones, puntos de vista alternativos, impulsos y orientaciones que ponen en crisis dicha voluntad de poder». La diversidad no es un dato estadístico de representación, sino una capacidad formal del medio para generar significados contrahegemónicos."
+        },
+        {
+          "id": "diversidad-conflicto-2",
+          "triggerLabel": "Las cuatro variables de estudio",
+          "type": "method",
+          "content": "Frezza organiza su reflexión en torno a cuatro variables que atraviesan todo el artículo: (1) el dibujo, como marca irrepetible del autor que revela una diversidad perceptiva original; (2) los personajes, con sus cuerpos y comportamientos que encarnan formas de estar en el mundo; (3) las historias, como mundos narrados donde la diversidad encuentra su legitimación; y (4) los recorridos, que son las trayectorias históricas y culturales del medio, desde los primeros cómics de prensa hasta la era digital. Ninguna variable funciona sola: «todas se entrelazan»."
+        },
+        {
+          "id": "diversidad-conflicto-3",
+          "triggerLabel": "¿Un medio menor? De Benjamin a Eco",
+          "type": "theory",
+          "content": "El prejuicio contra el cómic como cultura inferior oculta su complejidad. Walter Benjamin (1936) vio en el antropomorfismo de Disney una clave para que la imaginación actuase como «viático liberador de la explotación capitalista». Eisenstein (2004) vinculó el antropomorfismo disneyano con la lógica profunda del totemismo. Umberto Eco —lector y personaje en Dylan Dog— reconoció en el cómic un objeto semiológico complejo. Frezza parte de esta tradición intelectual para leer la diversidad no como tema, sino como estructura."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Un recorrido reflexivo por más de cien años de cómics occidentales",
+      "narrativa": "Este no es un artículo con encuestas ni experimentos. Es un análisis reflexivo de contenido: Frezza selecciona personajes, autores y momentos históricos que iluminan distintas formas de diversidad en el cómic occidental. El método consiste en leer obras concretas y construir argumentos a partir de su interpretación, apoyándose en marcos teóricos que van de la fenomenología de Merleau-Ponty —para quien «un dibujo muestra la esencia más secreta del yo, la manera íntima del sujeto de percibir las cosas y representarlas»— a la semiología, la sociología de la cultura y el análisis del discurso. Piensa en ello como una exposición itinerante: cada viñeta es una sala distinta. El recorrido atraviesa los primeros cómics de prensa (1897-1910), el cómic de tiras clásico (1910-1940), la era de los héroes de aventuras y superhéroes (1930-1960), los cómics negros italianos (1962 en adelante), el cómic de autor y el underground (1965-1980), y la novela gráfica contemporánea con sus diversidades sintomáticas.",
+      "detalles": [
+        {
+          "label": "Enfoque metodológico",
+          "value": "Análisis de contenido reflexivo e interpretativo, sin pretensiones de representatividad estadística ni generalización"
+        },
+        {
+          "label": "Arco temporal",
+          "value": "Desde finales del siglo XIX (Yellow Kid, 1897) hasta las primeras décadas del XXI"
+        },
+        {
+          "label": "Tradiciones nacionales analizadas",
+          "value": "Estadounidense (prensa, tiras, superhéroes, underground), italiana (cómic negro, autores, serial), francesa/belga (autores, Humanoïdes Associés)"
+        },
+        {
+          "label": "Categorías del recorrido",
+          "value": "Dibujo y marca autoral, niño transgresor, diversidad lunática y de género (Krazy Kat), antropomorfismo (Disney), villano (Dick Tracy), héroe aventurero (Tarzán, Mandrake, Flash Gordon), superhéroe y mutante (Marvel, X-Men), cómic negro italiano (Diabolik, Satanik), autor (Crepax, Pratt, Battaglia, Buzzelli), underground (Crumb, Spiegelman), sintomático (Ranxerox, Zanardi, Dylan Dog)"
+        },
+        {
+          "label": "Marcos teóricos",
+          "value": "Fenomenología de la percepción (Merleau-Ponty, La prosa del mundo, 1969), semiología y análisis del discurso, sociología de la cultura (Frezza, 2017, 1999), teoría crítica (Benjamin, 1936; Eisenstein, 2004)"
+        },
+        {
+          "label": "Fuentes primarias",
+          "value": "Obras originales de Outcault, Dirks, McCay, Herriman, Rubino, Disney/Barks/Gottfredson, Gould, Foster, Falk, Raymond, Lee/Kirby, Giussani, Magnus/Bunker, Crepax, Pratt, Battaglia, Buzzelli, Crumb, Spiegelman, Tamburini/Liberatore, Pazienza, Sclavi"
+        }
+      ],
+      "limitaciones": [
+        "El enfoque es exclusivamente occidental (EE.UU., Italia, Francia, Bélgica) y deja fuera tradiciones enteras como el manga japonés, la historieta latinoamericana, el cómic africano o la producción asiática.",
+        "La mayoría de los autores y personajes analizados son masculinos y blancos, lo que el propio Frezza reconoce como una limitación histórica del medio.",
+        "Es un análisis cualitativo e interpretativo que no pretende ser exhaustivo ni generalizable; el corpus es una selección personal de obras consideradas sintomáticas.",
+        "Los marcos teóricos empleados provienen de la filosofía y sociología europeas; el artículo no integra perspectivas decoloniales, feministas o de estudios culturales contemporáneos.",
+        "La sección sobre cómic de autor, underground y novela gráfica concentra desproporcionadamente la atención en el contexto italiano, reflejando la especialidad del autor."
+      ],
+      "reflexion": "¿Consideras que el cómic es diverso por naturaleza, o que solo refleja la diversidad que la sociedad de cada época está dispuesta a aceptar?",
+      "deepDives": [
+        {
+          "id": "diversidad-viaje-1",
+          "triggerLabel": "¿Qué es un análisis reflexivo y por qué es pertinente aquí?",
+          "type": "method",
+          "content": "A diferencia de un estudio empírico con muestras y estadísticas, el análisis reflexivo construye argumentos a partir de la interpretación de obras concretas. Frezza no cuenta cuántos personajes diversos aparecen en los cómics: lee sus imágenes y sus historias para mostrar qué tipo de diversidad ponen en juego y cómo el medio la organiza. Esta elección metodológica es coherente con su premisa teórica: si la diversidad es una cuestión de marca, trazo y forma —no de conteo—, entonces el método debe ser capaz de leer esas formas, no de cuantificarlas."
+        },
+        {
+          "id": "diversidad-viaje-2",
+          "triggerLabel": "Periodización del recorrido histórico",
+          "type": "data",
+          "content": "El artículo atraviesa seis grandes épocas: (1) Primeros cómics de prensa (1897-1910): Yellow Kid de Outcault, Katzenjammer Kids de Dirks, Buster Brown, Little Nemo de McCay, Kin-der-Kids de Feininger, Bilbolbul de Mussino, Quadratino de Rubino. (2) Cómic de tiras clásico (1910-1940): Krazy Kat de Herriman (1910-1944), Disney en prensa. (3) Héroes de aventuras (1929-1940): Tarzán (Foster, 1929), Dick Tracy (Gould, 1931-1977), Brick Bradford (Ritt/Gray, 1933), Flash Gordon (Raymond, 1934-1944), Mandrake y El Hombre Enmascarado (Falk, 1934 y 1936). (4) Superhéroes (1938 en adelante) y mutantes (1963 en adelante): Superman, Batman, Marvel (Lee/Kirby), X-Men. (5) Cómics negros italianos (1962 en adelante): Diabolik (Giussani), Kriminal y Satanik (Magnus/Bunker). (6) Autor, underground y novela gráfica (1965 en adelante): Crepax (Valentina, 1965), Buzzelli (La rivolta dei racchi, 1966), Pratt (Corto Maltés, 1967), Battaglia, Crumb (Mr. Natural, 1966), Spiegelman (Maus, 1986-1991), Tamburini/Liberatore (Ranxerox, 1978-1980), Pazienza (Zanardi, 1981-1988), Sclavi (Dylan Dog, 1986)."
+        },
+        {
+          "id": "diversidad-viaje-3",
+          "triggerLabel": "¿Por qué tanto peso del cómic italiano?",
+          "type": "limitation",
+          "content": "Frezza es italiano y especialista en la historieta de su país —autor de La scrittura malinconica (1987) y Fumetti, anime del visibile (1999)—, lo que le permite profundizar en tradiciones que conoce de primera mano: los cómics negros, los autores de la revista Linus, el underground de Cannibale y Frigidaire, y series como Dylan Dog que alcanzó un millón de copias mensuales a principios de los noventa. Esto enriquece el análisis con un nivel de detalle poco frecuente, pero también sesga el corpus hacia la experiencia italiana y europea occidental."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Nueve rostros de la diversidad en el cómic occidental",
+      "narrativa": "A lo largo del recorrido emerge una idea central: la diversidad no es un tema de fondo en el cómic, sino su tejido constitutivo. Aparece en el trazo irrepetible de cada autor —Frezza recuerda que se puede distinguir a Milton Caniff de su alumno Frank Robbins por «mínimas diferencias» en el dibujo—, en el niño que pone patas arriba el orden adulto, en el gato de género incierto que descoloca la lógica del deseo, en los patos y ratones que forman familias sin lazos genéticos, en el villano deforme que despierta más empatía que el héroe, en el justiciero sin rostro que sacrifica su identidad, en el superhéroe cuyo cuerpo diferente es a la vez don y condena, en la mutante que reivindica su diferencia de género en una sociedad machista, y en el autor que rompe todas las convenciones para contar lo inconfesable.",
+      "hallazgos": [
+        {
+          "label": "1. La diversidad del dibujo: la marca como huella",
+          "value": "Cada trazo es irrepetible. Merleau-Ponty (1969) sostenía que el dibujo revela «la esencia más secreta del yo». Frezza aplica esta idea al cómic: el trazo del autor no solo representa personajes, sino que expone una forma individual de percibir y habitar la realidad. El lector, si no rechaza el dibujo, reconecta la disposición del autor con la suya propia. Esta es la diversidad originaria de la que parten todas las demás."
+        },
+        {
+          "label": "2. La diversidad del niño: subvertir el mundo adulto",
+          "value": "Desde Yellow Kid (Outcault, 1897) con su palabra escrita en la camisa amarilla, pasando por los Katzenjammer Kids (Dirks, 1897) que hablan un inglés trabado por la pronunciación de los inmigrantes alemanes, hasta Little Nemo (McCay, 1905) y Quadratino (Rubino, Corriere dei Piccoli, 1910-1911) —cuya cabeza cuadrada se transforma en distintas figuras geométricas—, los niños de los primeros cómics «casi siempre le dan la vuelta al orden de la realidad». Su mirada desorganiza el mundo adulto y estabiliza, al mismo tiempo, las funciones comunicativas del medio."
+        },
+        {
+          "label": "3. Diversidad lunática y de género: Krazy Kat",
+          "value": "Krazy Kat de George Herriman (1910-1944) es para Frezza una «riquísima antología poética» de la diferencia de género y especie. ¿Qué hay más diverso que un gato —o gata, el propio Herriman declaró que Krazy «es como un elfo, y los elfos no tienen sexo»— enamorado de un ratón que le arroja ladrillos? La ambientación en el desértico y lunar condado de Coconino (Arizona) refuerza la dimensión metafórica: no es una historia de amor, sino «una metáfora general de la existencia sin límite alguno». La obra de Herriman conquista un territorio expresivo donde la diversidad «está sumamente legitimada y puede expresarse sin ninguna imposibilidad, prohibición o tabú»."
+        },
+        {
+          "label": "4. Diversidad antropomórfica: la familia Disney",
+          "value": "Mickey Mouse, el Pato Donald, Scrooge y toda la galería de animales humanizados —desarrollada en cómics por autores como Carl Barks, Floyd Gottfredson, y en Italia por Romano Scarpa, Luciano Bottaro, Giorgio Cavazzano y muchos otros— forman una familia no por lazos genéticos sino «por la coordinación de las diferencias de carácter de los personajes». El mundo Disney en viñetas revela un escenario de «irreductibilidades conductuales» donde «la idea o el objetivo de la normalidad social son apátridas, una clara ficción»."
+        },
+        {
+          "label": "5. Simpatía por el villano: Dick Tracy y la humanidad del monstruo",
+          "value": "En Dick Tracy de Chester Gould (1931-1977), los villanos llevan escrita en sus cuerpos la marca de una diferencia monstruosa: Flattop (Cabeza Plana), Shaky (Tembloroso), Pruneface (Carapasa), The Mole (El Topo). Cuando Flattop muere al final de una historia de 1943-1944, los lectores estadounidenses organizan velatorios y funerales públicos. Gould humaniza a quienes la sociedad marca como monstruos: Flattop es un dandi inimitable, The Mole vive encerrado en el subsuelo y recibe la visita de Dick Tracy en Navidad con regalos y dulces. En estos villanos, «la habilidad del criminal diferente es socialmente castigada, pero humanamente redimida»."
+        },
+        {
+          "label": "6. Diversidad heroica: del secreto al cuerpo ideal",
+          "value": "Tarzán (Foster, 1929) encarna la naturaleza dual de hombre salvaje y lord inglés, en constante riesgo de colisión interna. El Hombre Enmascarado (Falk/Moore, 1936) jamás muestra el rostro: su diversidad es el sacrificio de la identidad personal convertido en símbolo inmortal de justicia. Mandrake (Falk/Davis, 1934) es el dandi que desvela la trama visual oculta de la realidad. Flash Gordon (Raymond, 1934-1944) proyecta la diversidad en el erotismo de los cuerpos —el héroe atlético y rubio, Dale Arden como «encanto femenino sin pacatería»— y en los entornos fantásticos del planeta Mongo. Aunque algunos confirman el estereotipo WASP —blanco, americano, dinámico, emprendedor—, Frezza advierte que «el juicio general sobre estos cómics no puede reducirse a algo tan esquemático y reductivo»."
+        },
+        {
+          "label": "7. Superhéroes y mutantes: el cuerpo diverso como poder y problema político",
+          "value": "Desde Superman (1938), el superhéroe incorpora la diversidad como poder corporal que escapa a los límites biológicos. Pero es con Marvel bajo Stan Lee y Jack Kirby —Los 4 Fantásticos (1961), Spiderman (1962), Hulk (1962), Daredevil (1964), Iron Man (1963)— cuando la diversidad se convierte en problema de identidad personal. Con los X-Men (1963), la diversidad salta de lo individual a lo colectivo: los mutantes —Lobezno, Tormenta, Fénix, Bestia, Cíclope y tantos otros— se enfrentan al racismo y la intolerancia de los humanos. «De diferenciar entre especies y comunidades a la necesidad de una patria propia», escribe Frezza, «hay poco trecho», y la lucha política entre mutantes y humanos refleja los dilemas de cualquier minoría."
+        },
+        {
+          "label": "8. Cómics negros italianos: criminales con ética propia",
+          "value": "A partir de diciembre de 1962, Diabolik de las hermanas Angela y Luciana Giussani inaugura el fenómeno de los cómics negros. Le siguen Kriminal y Satanik de Magnus y Bunker. Son criminales conscientes, astutos y peligrosos, pero dotados de «una ética particular, impredecible y no unívoca». Satanik es especialmente significativo: Marny Bannister, una joven con el rostro desfigurado que se transforma en vampiresa sensual, encarna «el prototipo de una diversidad irreductible, caracterizada por la diferencia de género y reafirmada en una época aún profundamente machista». Estos cómics provocaron enérgicas reacciones de representantes políticos y religiosos que «demuestran confundir estúpidamente los planos de las comunicaciones reales con los de las formas del imaginario público»."
+        },
+        {
+          "label": "9. Autores, underground y diversidades sintomáticas",
+          "value": "En 1965 Guido Crepax inicia las historias de Valentina; en 1966 Guido Buzzelli crea La rivolta dei racchi, prototipo de novela gráfica; en 1967 Hugo Pratt publica La balada del mar salado con Corto Maltés. Paralelamente, el underground estadounidense —Robert Crumb, Mr. Natural (1966)— construye «una suma de la diversidad de pensamiento radicalmente divergente». Maus de Art Spiegelman (1986-1991) usa el antropomorfismo para narrar la Shoá: judíos-ratones, nazis-gatos, polacos-cerdos, haciendo «visible las jerarquías de poder y la diversidad ética entre grupos humanos». En Italia, Ranxerox (Tamburini/Liberatore, 1978) es un cuerpo tecnológico desadaptado, antisocial y postapocalíptico. Zanardi (Pazienza, 1981-1988) encarna «el vacío más absoluto». En Dylan Dog (Sclavi, 1986), Johnny Freak —un joven sin piernas, abandonado por sus padres pero con ternura inocente— es «el espejo que retrata la condición de los lectores: desheredados y malditos». Dylan Dog alcanzó el millón de copias mensuales a principios de los noventa y llegó a incluir a Umberto Eco como personaje."
+        }
+      ],
+      "dataPoints": [
+        "Yellow Kid de Richard Outcault aparece en 1897 y es una de las primeras manifestaciones de la diversidad infantil en la prensa ilustrada.",
+        "Quadratino de Antonio Rubino se publica en el Corriere dei Piccoli entre 1910 y 1911; su cabeza cuadrada se transforma en triángulos, rectángulos y otras figuras geométricas.",
+        "Krazy Kat de George Herriman se publica de 1910 a 1944 y es considerada una obra capital sobre género y diferencia.",
+        "Dick Tracy de Chester Gould se edita de 1931 a 1977. La muerte de Flattop (1943-1944) provocó que lectores organizaran funerales públicos.",
+        "Superman nace en 1938. Los X-Men surgen en 1963 bajo Stan Lee y Jack Kirby.",
+        "Diabolik aparece en diciembre de 1962. Dylan Dog en 1986 y alcanza un millón de copias mensuales a principios de los noventa.",
+        "Maus de Art Spiegelman se publica entre 1986 y 1991 y obtiene un Pulitzer en 1992.",
+        "Zanardi de Andrea Pazienza se publica de 1981 hasta la muerte del autor en 1988, con solo treinta años."
+      ],
+      "reflexion": "¿Qué personaje o autor mencionado te hace repensar la idea de 'diversidad'? ¿Por qué?",
+      "deepDives": [
+        {
+          "id": "diversidad-revelacion-1",
+          "triggerLabel": "Krazy Kat: cuando el autor borra el género",
+          "type": "data",
+          "content": "Cuando el director Frank Capra preguntó a Herriman de qué sexo era Krazy Kat, el autor respondió: «No lo sé. Un día probé a pensarlo; imaginé que Kat era una gata, dibujé incluso algunos cómics en que estaba embarazada. Pero ya no era Kat; estaba demasiado preocupada por sus problemas, como en una soap-opera... Me di cuenta entonces de que Kat es como un elfo. Y los elfos no tienen sexo. Kat no puede ser un gato o una gata. Kat es un espíritu, un duende, libre de toparse con cualquier cosa». Sin embargo, como apunta Frezza, la dinámica entre Krazy e Ignatz incluye tanto lo femenino como lo masculino, independientemente del género atribuido. Hay además una discusión académica —que Frezza menciona y matiza— sobre si la calidad poética de Herriman derivaría de su condición de afroamericano de piel blanca en la América segregada (Tisserand, 2019; Ware, 2017)."
+        },
+        {
+          "id": "diversidad-revelacion-2",
+          "triggerLabel": "Johnny Freak: el lector como desheredado",
+          "type": "data",
+          "content": "En Dylan Dog n.º 81 (junio de 1993), Johnny Freak es un joven sin piernas, abandonado por sus padres, que posee extraordinarias habilidades creativas y una ternura casi inocente. Rescatado por Dylan Dog de unos siniestros traficantes de órganos, Johnny duerme entre Dylan y una enfermera «como cualquier niño en la cama de sus padres». Para Frezza, Johnny es «el espejo que retrata la condición de los lectores: desheredados y malditos a quienes el autor de Dylan Dog les entrega un futuro sin certezas ni esperanzas». La diversidad aquí trasciende la página: el cómic tiende un puente entre la condición del personaje y la del lector."
+        },
+        {
+          "id": "diversidad-revelacion-3",
+          "triggerLabel": "Maus: antropomorfismo como jerarquía ética",
+          "type": "data",
+          "content": "Spiegelman representa a los judíos como ratones, a los nazis como gatos y a los polacos como cerdos. Frezza subraya que esta elección no es simplificadora sino que hace visible «la relación de dominación, subordinación y agresión, o las estrategias de supervivencia, además de la diversidad ética instalada entre las etnias-especies involucradas en los acontecimientos de la Segunda Guerra Mundial». La marca underground del cómic reside en que la intensidad emocional de los hechos «hace que caigan en su interior la mirada, la mente y el corazón de los lectores»."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Por qué el cómic es un territorio estructural de la diversidad",
+      "narrativa": "Para sostener este recorrido, Frezza moviliza varios marcos teóricos. La fenomenología de Merleau-Ponty (La prosa del mundo, 1969) le permite pensar el dibujo como expresión íntima del yo: la mano que dibuja conecta mente, visión y habilidad, y cada trazo es una forma de habitar el mundo. La semiología le permite leer la imagen como lenguaje. La sociología de la cultura le ayuda a entender por qué ciertos personajes —los villanos de Gould, los mutantes de Marvel— generan identificación masiva. El análisis del discurso le permite mostrar cómo el cómic organiza la diferencia sin reducirla necesariamente a estereotipo. A estos marcos se suma una referencia fundamental a Walter Benjamin (1936), quien vio en el antropomorfismo de Disney «una clave con la que la imaginación puede actuar como viático liberador de la explotación capitalista», y a Eisenstein (2004), que vinculó ese mismo antropomorfismo con la lógica del totemismo. En el centro de todo ello está una idea sencilla pero potente: «los cómics pueden considerarse viajes visuales en los que la diversidad original de los sujetos-autores se expresa a través del dibujo, componiendo mundos según los cuales la diversidad es acogida en un entorno en el que todo es posible».",
+      "detalles": [
+        {
+          "label": "Dibujo como expresión del yo (Merleau-Ponty)",
+          "value": "La mano que dibuja revela la manera íntima de un sujeto de percibir el mundo. En el cómic, esa marca es reconocible, individual e irrepetible: el lector puede distinguir a Caniff de Robbins, a Crepax de Pratt."
+        },
+        {
+          "label": "Secuencialidad como organización de la diferencia",
+          "value": "La viñeta fija un instante, la secuencia lo convierte en recorrido. La diversidad se mueve entre el detalle —un rostro, un gesto, una cabeza cuadrada— y el conjunto narrativo."
+        },
+        {
+          "label": "Antropomorfismo como laboratorio simbólico",
+          "value": "Al dotar de rasgos humanos a animales (Disney, Maus) u objetos, el cómic construye tipologías que permiten explorar la diversidad con una distancia que hace posible la crítica sin la amenaza directa del realismo."
+        },
+        {
+          "label": "El lector como coautor del sentido",
+          "value": "El cómic deja espacios en blanco —las elipsis entre viñetas— que el lector completa. Al hacerlo, introduce su propia diversidad perceptiva y emocional en el relato. La diversidad no está solo en la página: se completa en el acto de leer."
+        },
+        {
+          "label": "Cultura popular y crítica inmanente",
+          "value": "El cómic pertenece a la industria cultural, pero sus formas —la elipsis, la marca gráfica, la secuencia— pueden poner en crisis los valores dominantes desde dentro, sin necesidad de un discurso explícito de denuncia."
+        },
+        {
+          "label": "Diversidad sintomática como diagnóstico social",
+          "value": "Personajes como Zanardi, Ranxerox o Johnny Freak no solo encarnan la diversidad: diagnostican las contradicciones de su época —el vacío existencial, el capitalismo postapocalíptico, la exclusión— de forma más aguda que muchos análisis sociológicos."
+        }
+      ],
+      "reflexion": "Si cada dibujo es una manera de ver el mundo, ¿puede existir un cómic verdaderamente neutral?",
+      "deepDives": [
+        {
+          "id": "diversidad-marco-1",
+          "triggerLabel": "Merleau-Ponty y el dibujo como revelación del yo",
+          "type": "theory",
+          "content": "En el ensayo final de La prosa del mundo (1969), Merleau-Ponty sostiene que el dibujo infantil revela «la esencia más secreta del yo, la manera íntima del sujeto infantil de percibir las cosas y representarlas». Frezza extiende esta idea al cómic adulto: todo trazo expresa una disposición individual a captar el mundo y canalizarlo hacia el dibujo. El lector, a su vez, «reconecta la disposición individual del autor con la suya propia, superponiendo ambas o incluyendo la del autor en la suya». Esta doble operación —expresión y reconocimiento— convierte al cómic en un espacio intersubjetivo donde la diversidad circula."
+        },
+        {
+          "id": "diversidad-marco-2",
+          "triggerLabel": "Benjamin y Disney: imaginación contra capitalismo",
+          "type": "theory",
+          "content": "En su célebre ensayo de 1936 sobre la obra de arte en la era de la reproductibilidad técnica, Walter Benjamin dedicó atención al antropomorfismo de Disney. Para Benjamin —y así lo recoge Frezza a través de Ciotta (2005)—, el mundo de los animales humanizados contiene «una clave con la que la imaginación puede actuar como viático liberador de la explotación capitalista». Eisenstein (2004), por su parte, vinculó ese antropomorfismo con la lógica del totemismo. La idea es poderosa: si los animales pueden hablar, sentir y organizarse en familias no genéticas, entonces el orden social no es natural sino imaginable de otra manera."
+        },
+        {
+          "id": "diversidad-marco-3",
+          "triggerLabel": "Limitaciones del marco: cuatro décadas sin integrar",
+          "type": "limitation",
+          "content": "Los marcos usados por Frezza provienen de la filosofía y la sociología europeas de mediados del siglo XX. El artículo no integra perspectivas decoloniales —que problematizarían su aceptación de la predominancia de la cultura 'blanca'—, estudios feministas contemporáneos —que leerían de otro modo a Satanik o Valentina—, o teorías queer —que enriquecerían la lectura de Krazy Kat o Dr. Fiction—. Tampoco aborda la diversidad funcional más allá de Johnny Freak, ni la diversidad etaria. El propio Frezza reconoce implícitamente esta limitación al insistir en que se necesitan metodologías «no superficiales» para leer la complejidad del medio."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Son los cómics un medio intrínsecamente diverso o solo reflejan las diversidades que cada época está dispuesta a aceptar?",
+      "conclusion": "Para Frezza, la respuesta es ambas cosas, pero con una inclinación clara hacia la primera. El cómic posee una apertura formal —la marca irrepetible del dibujo, la secuencialidad que deja espacios al lector, el antropomorfismo que permite explorar lo humano a distancia, la elipsis que invita a completar el sentido— que lo hace especialmente apto para dar cabida a lo diverso. No se trata de que todo cómic sea progresista ni de que el medio esté libre de estereotipos —el propio Frezza reconoce el predominio de la mirada blanca y masculina—, sino de que su estructura comunicativa genera constantemente puntos de fuga, contradicciones y formas de lenguaje que pueden poner en crisis los valores dominantes. En palabras del autor, «la diversidad recorre la propia línea del dibujo y se superpone a él». Desde el trazo de Herriman hasta la mirada de Johnny Freak, desde el niño que subvierte el orden hasta el mutante que exige una patria, el cómic «ha convertido la diversidad en condición de su propia existencia».",
+      "formalRef": "Frezza, G. (2023). Diversidad en los cómics: dibujos, personajes, historias y recorridos. Ocnos, 22(1). https://doi.org/10.18239/ocnos_2023.22.1.331"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de análisis emplea Frezza en este artículo para recorrer más de cien años de cómics occidentales?",
+          "options": [
+            "Análisis reflexivo de contenido, con recorrido histórico e interpretación de obras concretas",
+            "Estudio cuantitativo con encuesta a lectores de cómics europeos e italianos",
+            "Experimento controlado con grupos focales de distintas edades y tradiciones lectoras",
+            "Metaanálisis sistemático de estudios previos sobre recepción del cómic"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué villano de Dick Tracy (Chester Gould) generó tal empatía que, al morir en la historia de 1943-1944, los lectores estadounidenses organizaron velatorios y funerales públicos?",
+          "options": [
+            "Flattop (Cabeza Plana)",
+            "The Mole (El Topo)",
+            "Pruneface (Carapasa)",
+            "Shaky (Tembloroso)"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "En Maus de Art Spiegelman, ¿cómo se representa antropomórficamente a los distintos grupos étnicos según Frezza?",
+          "options": [
+            "Judíos como ratones, nazis como gatos y polacos como cerdos",
+            "Judíos como perros, nazis como lobos y polacos como conejos",
+            "Judíos como gatos, nazis como ratones y polacos como osos",
+            "Judíos como peces, nazis como tiburones y polacos como focas"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué personaje infantil del cómic italiano de 1910 representa la diversidad a través de una cabeza que cambia de forma geométrica (cuadrada, triangular, rectangular)?",
+          "options": [
+            "Quadratino, de Antonio Rubino en el Corriere dei Piccoli",
+            "Bilbolbul, de Attilio Mussino",
+            "Little Nemo, de Winsor McCay",
+            "Buster Brown, de Richard Outcault"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Frezza sostiene que el cómic no solo refleja la diversidad de su sociedad sino que la anticipa y la legitima. ¿Se te ocurre algún cómic, manga o novela gráfica actual que esté haciendo hoy lo que Krazy Kat hizo con el género o los X-Men con la diferencia colectiva? Justifica tu elección con un ejemplo concreto."
+        },
+        {
+          "type": "open",
+          "q": "El artículo recorre más de cien años de historia del cómic occidental pero deja fuera tradiciones asiáticas, latinoamericanas y africanas. ¿Crees que la noción de diversidad que construye Frezza se vería distinta si el corpus incluyera, por ejemplo, el manga japonés o la historieta argentina? ¿Qué tipo de diversidad añadirían esas tradiciones que la mirada europea quizás no detecta?"
+        },
+        {
+          "type": "open",
+          "q": "Frezza cierra su recorrido con personajes sintomáticos como Zanardi, Ranxerox y Johnny Freak, donde la diversidad se vuelve antisocial, postapocalíptica o tiernamente marginal. ¿Crees que el cómic contemporáneo está explorando esos mismos abismos o ha derivado hacia una diversidad más domesticada y comercial? Da un ejemplo que apoye tu postura."
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa de la diversidad en el cómic occidental",
+    "descripcion": "Conexiones entre las dimensiones, personajes, autores y conceptos que articulan el recorrido de Gino Frezza.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Diversidad",
+        "color": "#e63946"
+      },
+      {
+        "id": "2",
+        "label": "Dibujo (marca autoral)",
+        "color": "#f4a261"
+      },
+      {
+        "id": "3",
+        "label": "Personaje",
+        "color": "#e9c46a"
+      },
+      {
+        "id": "4",
+        "label": "Historia / mundo narrado",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "5",
+        "label": "Recorrido histórico",
+        "color": "#264653"
+      },
+      {
+        "id": "6",
+        "label": "Autor",
+        "color": "#6a4c93"
+      },
+      {
+        "id": "7",
+        "label": "Lector (coautor)",
+        "color": "#8ab17d"
+      },
+      {
+        "id": "8",
+        "label": "Antropomorfismo",
+        "color": "#9b2226"
+      },
+      {
+        "id": "9",
+        "label": "Villano (Dick Tracy)",
+        "color": "#457b9d"
+      },
+      {
+        "id": "10",
+        "label": "Superhéroe / Mutante",
+        "color": "#a8dadc"
+      },
+      {
+        "id": "11",
+        "label": "Novela gráfica",
+        "color": "#d62828"
+      },
+      {
+        "id": "12",
+        "label": "Underground (Crumb)",
+        "color": "#f77f00"
+      },
+      {
+        "id": "13",
+        "label": "Cómic negro italiano",
+        "color": "#7209b7"
+      },
+      {
+        "id": "14",
+        "label": "Diversidad sintomática",
+        "color": "#e5989b"
+      },
+      {
+        "id": "15",
+        "label": "Merleau-Ponty / Benjamin",
+        "color": "#83c5be"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "atraviesa"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "encarna en"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "organiza"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "recorre"
+      },
+      {
+        "from": "6",
+        "to": "2",
+        "label": "imprime su marca en"
+      },
+      {
+        "from": "7",
+        "to": "4",
+        "label": "completa"
+      },
+      {
+        "from": "8",
+        "to": "3",
+        "label": "construye"
+      },
+      {
+        "from": "9",
+        "to": "3",
+        "label": "humaniza"
+      },
+      {
+        "from": "10",
+        "to": "3",
+        "label": "expande el cuerpo"
+      },
+      {
+        "from": "10",
+        "to": "5",
+        "label": "politiza"
+      },
+      {
+        "from": "11",
+        "to": "4",
+        "label": "madura"
+      },
+      {
+        "from": "11",
+        "to": "7",
+        "label": "transforma al"
+      },
+      {
+        "from": "12",
+        "to": "5",
+        "label": "rompe con"
+      },
+      {
+        "from": "13",
+        "to": "5",
+        "label": "desafía normas en"
+      },
+      {
+        "from": "14",
+        "to": "1",
+        "label": "diagnostica la"
+      },
+      {
+        "from": "15",
+        "to": "2",
+        "label": "fundamenta"
+      },
+      {
+        "from": "15",
+        "to": "8",
+        "label": "interpreta"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "anticipa"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "alimenta"
+      }
+    ]
+  }
+}

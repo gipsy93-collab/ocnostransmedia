@@ -1,0 +1,312 @@
+﻿{
+  "id": "ensayo_comic",
+  "metadata": {
+    "title": "Del ensayo al comic: en busca de la diversidad en la traduccion multimodal de Sapiens",
+    "authors": "Margarita Savchenkova",
+    "year": "2023",
+    "journal": "Ocnos 22(1)",
+    "doi": "10.18239/ocnos_2023.22.1.334",
+    "gancho": "Y si el mismo libro cambia de mensaje segun el formato en que lo lees?",
+    "duration": "12-15 min",
+    "depth": "Profundizacion",
+    "color": "#e76f51",
+    "colorAlt": "#264653",
+    "bg": "from-orange-400/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/ensayo_comic/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Margarita Savchenkova, investigadora en traduccion y estudios del comic en la Universidad de Salamanca",
+      "gancho": "Y si el mismo libro cambia de mensaje segun el formato en que lo lees?",
+      "contexto": "Imagina que tomas un ensayo de historia superventas, Sapiens: A Brief History of Humankind (2014), de Yuval Noah Harari, profesor de la Universidad Hebrea de Jerusalen, y lo conviertes en novela grafica. No se trata solo de sustituir palabras por vinetas: estas ante una traduccion multimodal en la que el texto y la imagen se tejen en una sola entidad. Este articulo estudia exactamente eso: como el comic Sapiens: A Graphic History, The Birth of Humankind (2020) traduce, amplia y resignifica el ensayo original, especialmente en lo que tiene que ver con la diversidad humana. Savchenkova parte de las corrientes mas recientes de la traductologia (Gentzler, 2017; Bassnett y Johnston, 2019) que entienden la traduccion mas alla del plano linguistico, como un fenomeno inherente a cualquier acto comunicativo. El equipo creativo del comic lo forman Harari como autor, David Vandermeulen como adaptador del texto al formato de comic, Daniel Casanave como ilustrador, y una figura sorprendente que no aparece en el ensayo original: Slava Greenberg, investigador posdoctoral de la Universidad del Sur de California, especialista en estudios trans, estudios de genero y diversidad funcional, que actuo como consultor de diversidad. En los agradecimientos del comic, Harari destaca que Greenberg proporciono valiosas aportaciones sobre diversidad humana y ayudo a todo el equipo a evitar errores en este sentido. Esa firma en los creditos es la primera pista de que la adaptacion grafica no es una copia ilustrada: es una reescritura con agenda.",
+      "deepDives": [
+        {
+          "id": "ensayo-apertura-1",
+          "triggerLabel": "Que es una traduccion multimodal?",
+          "type": "theory",
+          "content": "Desde el giro translativo (Bachmann-Medick, 2009) y el outward turn de los estudios de traduccion (Bassnett y Johnston, 2019), traducir no es solo pasar un texto de una lengua a otra. Jakobson (2000) distinguio tres tipos: la traduccion intralinguistica (reformular un texto dentro de la misma lengua), la interlinguistica (entre lenguas) y la intersemiotica (interpretar signos verbales mediante signos de un sistema no verbal). El comic Sapiens combina la intralinguistica y la intersemiotica: Vandermeulen actua como traductor intralinguistico al adaptar el ensayo al guion, y Casanave como traductor intersemiotico al convertir las palabras en imagenes. El resultado es un producto donde, en palabras de Oittinen (2003), lo verbal y lo visual se tejen en una sola entidad."
+        },
+        {
+          "id": "ensayo-apertura-2",
+          "triggerLabel": "De superventas universitario a comic global",
+          "type": "theory",
+          "content": "Harari publico Sapiens: A Brief History of Humankind en 2014 como material para sus alumnos universitarios. El libro se convirtio en un fenomeno global. Seis anos despues, el autor decidio adaptarlo al formato grafico con la ayuda de Vandermeulen y Casanave. Segun declaro Harari (2021), se propuso llegar a nuevos lectores y animarlos a pensar en nuestra realidad de forma critica y en contextos globales. La adaptacion introduce elementos de ficcion, humor, multiples intertextualidades y guinos a comics existentes, transformando una obra de no ficcion en un hibrido narrativo. Como senala Vidal-Claramonte (2018), el original nunca es estatico, sino que debe estar siempre en proceso de composicion y revision."
+        },
+        {
+          "id": "ensayo-apertura-3",
+          "triggerLabel": "Slava Greenberg: por que un consultor de diversidad?",
+          "type": "data",
+          "content": "En las paginas finales del comic, Harari agradece a Slava Greenberg, investigador posdoctoral en la Universidad del Sur de California, especialista en estudios trans, estudios de genero y diversidad funcional. Su presencia como consultor revela una intencion explicita de revisar como se representan las identidades en las vinetas. Esto es inusual en un comic de divulgacion historica y constituye una declaracion de principios: la diversidad no es un efecto colateral de la traduccion, sino un objetivo deliberado del equipo creativo."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La prehistoria en los comics ha sido tradicionalmente un territorio de estereotipos: antepasados de piel clara, familias nucleares heteronormativas, mujeres relegadas al cuidado del hogar y hombres cazadores dominantes. Como senala Ruiz-Zapatero (2016), cada generacion ha reflejado los tiempos prehistoricos en los comics segun sus perspectivas, valores y prejuicios. El Museo de Prehistoria de Valencia documento esta tendencia en el volumen Prehistoria y comic (Bonet-Rosado y Pons-Moreno, 2016), que recoge once investigaciones sobre mas de un centenar de ejemplares de historietas humoristicas, fantasticas y documentales. Incluso los comics de corriente realista, aquellos que colaboran con arqueologos como en Lucy: l espoir (2007), reproducen una abundancia de topicos de genero y un deficit de multiculturalidad. Pero Sapiens, la novela grafica, desafia ese imaginario colectivo. La pregunta central es como lo hace exactamente y que cambia respecto al ensayo original, donde el tema de la diversidad en tiempos prehistoricos no ocupa un lugar central.",
+      "porQueImporta": "Entender como se traduce la diversidad del ensayo al comic nos entrena para leer cualquier adaptacion con ojo critico. Nos muestra que las decisiones formales, como elegir el color de piel de un personaje, decidir quien aparece en la portada o ilustrar una pareja homosexual en el Paleolitico, no son meros detalles esteticos: son decisiones ideologicas que responden a la pregunta retorica que cita Savchenkova: Poder del dibujante, impotencia del historiador? (Jablonka, 2021). Ademas, el caso Sapiens es paradigmatico porque el propio autor participa en la reescritura de su obra: Harari no cede los derechos a un tercero, sino que se implica activamente en la construccion de un mensaje mas inclusivo, respaldado por un consultor de diversidad y por un equipo que toma decisiones deliberadas sobre cada rasgo visible.",
+      "dataPoints": [
+        "El ensayo original (2014) no se adentra en la diversidad etnico-cultural, afectivo-sexual o de genero en la prehistoria; solo menciona una vez que los neandertales podian tener piel clara.",
+        "El comic (2020) incluye a Slava Greenberg como consultor de diversidad, figura ausente en el ensayo.",
+        "La mayoria de los comics prehistoricos, incluso los realistas asesorados por arqueologos, representan a los antepasados con piel blanca, familias heteronormativas y roles de genero estereotipados.",
+        "El estudio abarca solo el primer volumen de la adaptacion grafica (The Birth of Humankind) y el capitulo correspondiente del ensayo.",
+        "La hipotesis de partida es que Harari intenta redefinir la vision ortodoxa sobre la prehistoria que existe en el imaginario colectivo y proyectar este nuevo paradigma a la sociedad actual."
+      ],
+      "glossary": [
+        { "term": "Traduccion intralinguistica", "definition": "Segun Jakobson (2000), reformulacion de un texto mediante signos verbales de la misma lengua. En Sapiens, David Vandermeulen adapta el ensayo al guion del comic sin cambiar de idioma." },
+        { "term": "Traduccion intersemiotica", "definition": "Interpretacion de signos verbales mediante signos de un sistema no verbal. Daniel Casanave convierte las palabras de Harari y Vandermeulen en vinetas, decidiendo colores, rostros y composiciones." },
+        { "term": "Traduccion multimodal", "definition": "Proceso que integra varios modos de significado, verbal e iconico, en una sola obra, como ocurre en el comic Sapiens, donde ni el texto ni la imagen funcionan de forma aislada." },
+        { "term": "Modelo de Pereira (2008)", "definition": "Propuesta de analisis traductologico y semiologico que distingue tres formas en que una ilustracion puede traducir un texto: reproduccion, enfatizacion e ideologizacion." },
+        { "term": "Comic realista de prehistoria", "definition": "Corriente de comic historico que surge de la colaboracion entre ilustradores y especialistas en prehistoria, combinando ficcion y documentacion arqueologica. Ejemplo destacado: Lucy: l espoir (2007)." },
+        { "term": "Giro translativo / outward turn", "definition": "Movimiento teorico en los estudios de traduccion (Bachmann-Medick, 2009; Bassnett y Johnston, 2019) que expande el concepto de traduccion mas alla de lo linguistico para entenderlo como un fenomeno inherente a cualquier acto comunicativo." },
+        { "term": "Proyeccion ideologica", "definition": "Mecanismo por el cual cada epoca traslada sus valores, prejuicios y estereotipos al pasado remoto, especialmente visible en la prehistoria debido a la escasez de datos arqueologicos concluyentes." }
+      ],
+      "deepDives": [
+        {
+          "id": "ensayo-conflicto-1",
+          "triggerLabel": "El comic prehistorico como caldo de cultivo de estereotipos",
+          "type": "theory",
+          "content": "Savchenkova documenta como los comics han proyectado sobre la prehistoria los valores de cada epoca. Eco (1984) ya advertia que el comic puede funcionar como agente de enmascaramiento de la realidad. Ruiz-Zapatero (1997, 2016) ha estudiado como las vinetas prehistoricas construyen una imagen anclada en ideologias dominantes. Incluso personajes como Los Picapiedra, Ka-Zar o Altamiro de la Cueva son simples reflejos de las ideologias cambiantes del siglo XX cuyas aventuras con trajes de epoca (Jablonka, 2021) poco tienen que ver con el mundo de los primeros hominidos. La arqueologia reciente (Jablonski, 2012; Patou-Mathis, 2021; Fisher et al., 2021) ofrece datos que contradicen esas representaciones, pero el comic ha tardado en incorporarlos."
+        },
+        {
+          "id": "ensayo-conflicto-2",
+          "triggerLabel": "Preguntas que guian el estudio",
+          "type": "method",
+          "content": "Savchenkova se formula tres preguntas: (1) Que lugar ocupan las expresiones de la diversidad en el comic Sapiens? (2) Como se comparan estas representaciones con las del ensayo original? (3) Como reconstruye el equipo de Harari las sociedades prehistoricas a traves de la traduccion multimodal? La hipotesis es que, valiendose del potencial del formato iconico-verbal, Harari intenta redefinir la vision ortodoxa sobre la prehistoria y proyectar ese nuevo paradigma hacia la sociedad contemporanea."
+        },
+        {
+          "id": "ensayo-conflicto-3",
+          "triggerLabel": "Traducir o reescribir? La controversia de la fidelidad",
+          "type": "limitation",
+          "content": "Algunos lectores podrian pensar que una adaptacion debe ser fiel al original. Sin embargo, este articulo argumenta, siguiendo a Gentzler (2017), que toda traduccion es tambien reescritura, y que el comic no es una copia ilustrada del ensayo, sino un discurso que construye un significado nuevo a partir de otro existente. Savchenkova demuestra que en varios pasajes el comic se aparta deliberadamente del ensayo para amplificar un mensaje ideologico que en el original era apenas un apunte."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Lectura paralela y modelo de Pereira: como se analizo la traduccion",
+      "narrativa": "El analisis es cualitativo e interdisciplinar, situado en la interseccion de los estudios de traduccion y la semiotica. Savchenkova realizo una lectura paralela del primer capitulo del ensayo en ingles y de su adaptacion grafica para localizar todas las expresiones de diversidad en el contexto prehistorico. Los ejemplos detectados se agruparon en categorias y se examinaron a partir del modelo de Pereira (2008), elaborado desde la traductologia y la semiotica, que distingue tres formas en que las vinetas pueden traducir un texto: (1) reproduciendo elementos textuales en la imagen, (2) haciendo hincapie en un aspecto narrativo y dandole mas protagonismo, o (3) adaptando la vineta a una determinada ideologia o tendencia artistica. La autora justifica esta eleccion senalando que Pereira presta especial atencion a la carga ideologica de las ilustraciones, algo crucial cuando se analiza un comic que, como recuerda Genschow (2018), es en si mismo un poderoso vehiculo de la ideologia. Para contextualizar su estudio, Savchenkova documenta que solo en el ano 2021 tres revistas de traductologia (Panacea, Estudios de Traduccion y Translation Matters) dedicaron monograficos a la traduccion de comics y libros ilustrados, un campo que Zanettin (2018) define como trans-medium.",
+      "detalles": [
+        { "label": "Corpus", "value": "Primer capitulo de Sapiens: A Brief History of Humankind (Harari, 2014) y el primer volumen de Sapiens: A Graphic History, The Birth of Humankind (Harari, Vandermeulen y Casanave, 2020, Harper Perennial)" },
+        { "label": "Enfoque", "value": "Cualitativo e interdisciplinar, desde la traductologia y la semiotica, enmarcado en el giro translativo (Bachmann-Medick, 2009) y el outward turn (Bassnett y Johnston, 2019)" },
+        { "label": "Modelo de analisis", "value": "Pereira (2008): tres modos de traduccion de ilustraciones (reproduccion, enfatizacion e ideologizacion) aplicados a la relacion texto-comic" },
+        { "label": "Equipo creativo", "value": "Yuval Noah Harari (autor), David Vandermeulen (traductor intralinguistico), Daniel Casanave (traductor intersemiotico), Slava Greenberg (consultor de diversidad)" },
+        { "label": "Hipotesis", "value": "A traves del formato iconico-verbal, Harari redefine la vision ortodoxa de la prehistoria y proyecta este nuevo paradigma sobre la sociedad contemporanea" },
+        { "label": "Categorias analizadas", "value": "Diversidad etnico-cultural, diversidad afectivo-sexual y diversidad de genero" }
+      ],
+      "limitaciones": [
+        "El estudio se centra exclusivamente en el primer volumen de la adaptacion grafica. Los volumenes posteriores podrian ofrecer patrones distintos de traduccion multimodal.",
+        "El analisis es cualitativo y no incorpora mediciones cuantitativas del corpus (frecuencia de personajes diversos, proporcion de vinetas inclusivas, etc.).",
+        "No se abordan otras expresiones de la diversidad como la funcional o la etaria; la autora atribuye esta omision a la falta de conocimientos cientificos sobre estos aspectos en la prehistoria.",
+        "El modelo de Pereira fue disenado para la relacion texto-ilustracion, no para el comic, y aunque la autora argumenta su extrapolabilidad, los comics anaden la secuencialidad que el modelo no contempla explicitamente.",
+        "La investigacion no considera la recepcion del comic por parte de los lectores, es decir, no mide si las decisiones de traduccion multimodal producen el efecto ideologico buscado."
+      ],
+      "reflexion": "Crees que una adaptacion grafica debe ser fiel al ensayo original o tiene derecho a reinterpretarlo libremente?",
+      "deepDives": [
+        {
+          "id": "ensayo-viaje-1",
+          "triggerLabel": "Jakobson y los tres tipos de traduccion en Sapiens",
+          "type": "theory",
+          "content": "Roman Jakobson (2000) distinguio la traduccion intralinguistica (reformular un texto mediante signos verbales de la misma lengua), la interlinguistica (entre lenguas distintas) y la intersemiotica (interpretar signos verbales mediante signos no verbales). En Sapiens, Vandermeulen asume el papel de traductor intralinguistico al adaptar el ensayo al guion del comic dentro del ingles, seleccionando que partes conservar, cuales expandir y cuales omitir. Casanave actua como traductor intersemiotico al interpretar las palabras en imagenes: decide colores, expresiones, posturas, encuadres. La naturaleza multimodal del comic hace que ambos procesos sean inseparables."
+        },
+        {
+          "id": "ensayo-viaje-2",
+          "triggerLabel": "Las tres estrategias de Pereira aplicadas a Sapiens",
+          "type": "method",
+          "content": "Segun Pereira (2008), las vinetas pueden traducir el texto de tres maneras: (1) Reproduccion: la imagen refleja fielmente lo que dice el texto. (2) Enfatizacion: la imagen da mas protagonismo a un aspecto narrativo que en el texto era secundario. (3) Ideologizacion: la imagen adapta el contenido a una determinada ideologia o tendencia artistica, incluso apartandose del original. En Sapiens, Savchenkova encuentra ejemplos de las tres estrategias, pero son las de ideologizacion las mas reveladoras: el comic introduce personajes, situaciones y mensajes que no existen en el ensayo para construir una vision deliberadamente mas plural de la prehistoria."
+        },
+        {
+          "id": "ensayo-viaje-3",
+          "triggerLabel": "Por que el original no es estatico",
+          "type": "theory",
+          "content": "Vidal-Claramonte (2018) sostiene que el original nunca es estatico, sino que debe estar siempre en proceso de composicion y revision. Sapiens nacio como material para alumnos universitarios, se convirtio en un best seller mundial y, al adaptarse al comic seis anos despues, necesito encontrar una nueva audiencia y responder a nuevas demandas culturales. La traduccion multimodal tematiza la necesidad de hacer que la prehistoria llegue al publico mas amplio. El creciente interes del lector global empujo al libro a acentuarse mas en los problemas de la sociedad actual y relacionarlos con la sociedad prehistorica."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Tres caminos hacia una prehistoria radicalmente mas diversa",
+      "narrativa": "Al vaciar el corpus y aplicar el modelo de Pereira, Savchenkova encontro una asimetria significativa: mientras el ensayo no se adentra en la diversidad en los tiempos prehistoricos, en la novela grafica aparecen multiples expresiones organizadas en tres ejes. El primer eje es la diversidad etnico-cultural: el comic subraya el origen africano de los sapiens, representa sistematicamente a los neandertales con piel clara y pelo anaranjado frente a los sapiens de piel oscura, e incluye vinetas con personajes de multiples culturas para insistir en que las diferencias actuales son invenciones muy recientes. El segundo eje es la diversidad afectivo-sexual: el comic introduce una pareja de neandertales homosexuales inexistente en el ensayo y escenifica un debate sobre la naturalidad de la homosexualidad mediante una confrontacion entre la comunidad cientifica y un padre de familia numerosa, con la biologa Saraswati aportando ejemplos de relaciones no heteronormativas en primates. El tercer eje es la diversidad de genero: el lenguaje inclusivo del ensayo se traduce en imagenes de mujeres cazando, recolectando y combatiendo; la portada elige como protagonista a una joven pintora rupestre; y la clasica ilustracion de la evolucion humana se redibuja para incluir a una mujer neandertal (p. 25). En los tres ejes, la estrategia de traduccion dominante es la ideologizacion: el comic no reproduce ni enfatiza, sino que introduce contenido nuevo para construir un mensaje mas inclusivo que no estaba en el original.",
+      "hallazgos": [
+        {
+          "label": "1. Diversidad etnico-cultural: el origen africano visible",
+          "value": "En el ensayo, Harari (2014) dice que los primeros humanos eran animales insignificantes sin mas impacto que gorilas, luciernagas o medusas. El comic mantiene la idea pero la ilustra con ocho personajes de distintas culturas, incluyendo a Harari (pp. 12-14). Los sapiens se dibujan con piel oscura (siguiendo a Jablonski, 2012) y los neandertales con piel clara y pelo anaranjado, invirtiendo la representacion blanqueada habitual. En la pagina 20, tres personas de origen distinto escuchan una conferencia mientras se afirma que todas las distinciones entre frances y aleman, cristiano y musulman, blanco y negro son invenciones muy recientes. Este pasaje no existe en el ensayo original, donde Harari incluso afirma que entre blancos y negros hay algunas diferencias biologicas objetivas (p. 152)."
+        },
+        {
+          "label": "2. Diversidad afectivo-sexual: neandertales gais y debate cientifico",
+          "value": "El comic introduce una escena sin equivalente en el ensayo: dos hombres neandertales forman una pareja y, acusados de ser agresivos y arrastrar mujeres por el pelo, declaran ser homosexuales (p. 42). Con humor, el equipo desmonta la asuncion de que la prehistoria fue exclusivamente heterosexual, una mera suposicion sin evidencia arqueologica (Spencer, 1996; Fisher et al., 2021). Ademas, el pasaje del ensayo donde Harari refuta la homosexualidad como innatural (p. 166) se traduce multimodalmente en un debate entre la comunidad cientifica y un padre de familia numerosa, con la biologa Saraswati citando ejemplos de primates."
+        },
+        {
+          "label": "3. Diversidad de genero: la mujer como protagonista evolutiva",
+          "value": "El ensayo ya emplea lenguaje inclusivo (lion-man or lioness-woman, skilled craftsman or craftswoman) pero el comic traduce esa sensibilidad en imagenes contundentes. Hombres y mujeres cooperan en caza, recoleccion y conflictos. La cubierta elige como protagonista a una joven pintora rupestre, dialogando con la pregunta de Galeano (2015): Como pudieron ellos pintar de tan delicada manera? O eran ellas? La intervencion mas radical es la parodia de la ilustracion de la evolucion del mono al hombre, que el comic redibuja incluyendo a una mujer neandertal (p. 25), traduciendo la frase del ensayo sobre hermanos y hermanas prehistoricos."
+        },
+        {
+          "label": "4. Estrategia dominante: ideologizacion, no reproduccion",
+          "value": "Aplicando Pereira (2008), la estrategia predominante es la adaptacion ideologica. El comic no se limita a reproducir o enfatizar: introduce personajes, situaciones y mensajes nuevos, los neandertales homosexuales, los ocho rostros multiculturales, la mujer en la cadena evolutiva, para construir una prehistoria deliberadamente mas plural. En palabras de Savchenkova, Harari reescribe el contenido original para ampliarlo y adaptarlo a su vision ideologica y a la de sus colaboradores."
+        },
+        {
+          "label": "5. Ausencias: diversidad funcional y etaria",
+          "value": "A pesar del esfuerzo inclusivo, no se hallaron ejemplos de diversidad funcional ni etaria. La autora atribuye esta ausencia a la falta de conocimientos cientificos sobre estos aspectos en la prehistoria."
+        }
+      ],
+      "dataPoints": [
+        "En el ensayo, Harari dice que los primeros humanos eran animales insignificantes; en el comic, esa idea se acompana de ocho personajes de distintas culturas junto al propio Harari (pp. 12-14).",
+        "Los sapiens se dibujan sistematicamente con piel oscura y rasgos africanos; los neandertales con piel clara y pelo anaranjado (p. 42), invirtiendo la representacion blanqueada.",
+        "La afirmacion de que todas las distinciones entre frances y aleman, cristiano y musulman, blanco y negro son invenciones recientes (comic, p. 20) no existe en el ensayo original.",
+        "El personaje Dr. Fiction tiene un genero que no responde a las convenciones binarias de feminidad o masculinidad.",
+        "El pasaje sobre la homosexualidad como innatural (ensayo, p. 166) se convierte en el comic en un debate escenificado con multiples personajes.",
+        "La portada elige a una pintora rupestre como protagonista; la evolucion humana se redibuja con una mujer neandertal (p. 25).",
+        "El equipo de investigacion del comic incluye personajes, mujeres y hombres, de India, Brasil, Japon, Alemania e Inglaterra."
+      ],
+      "reflexion": "Cual de estas tres formas de diversidad te parece mas sorprendente en una novela grafica de divulgacion historica?",
+      "deepDives": [
+        {
+          "id": "ensayo-revelacion-1",
+          "triggerLabel": "Ocho rostros para decir 'somos una misma especie'",
+          "type": "data",
+          "content": "En el comic (pp. 12-14), el pasaje sobre la irrelevancia ecologica de los primeros humanos se mantiene casi intacto. Pero donde el ensayo anadia con ironia 'presumiblemente, todos los que leen este libro son Homo sapiens', el comic despliega una doble pagina con ocho personajes de culturas distintas y el texto: 'Una cosa muy importante sobre los humanos antiguos es que no todos pertenecian a la misma especie. Hoy, la gente de todo el mundo puede tener un aspecto diferente y hablar idiomas distintos, pero todos somos la misma especie: Homo sapiens'. Harari aparece entre los personajes. Esta traduccion multimodal ejemplifica la ideologizacion de Pereira: el comic introduce un mensaje sobre la unidad en la diversidad que no estaba en el original."
+        },
+        {
+          "id": "ensayo-revelacion-2",
+          "triggerLabel": "Neandertales homosexuales: humor contra el estereotipo",
+          "type": "data",
+          "content": "En la pagina 42 del comic, dos neandertales masculinos forman pareja. Acusados de arrastrar mujeres por el pelo, responden declarandose homosexuales. La escena utiliza el humor para desmontar dos estereotipos simultaneamente: el neandertal bruto heterosexual y la prehistoria exclusivamente heteronormativa. Savchenkova identifica aqui la ideologizacion de Pereira: el comic sale de los marcos del original y construye una vineta que interpela directamente los prejuicios del lector contemporaneo."
+        },
+        {
+          "id": "ensayo-revelacion-3",
+          "triggerLabel": "Una mujer en la cadena evolutiva",
+          "type": "data",
+          "content": "La ilustracion de la evolucion humana, del mono encorvado al Homo sapiens erguido, tradicionalmente masculino, es uno de los iconos mas reconocibles de la divulgacion cientifica. En la pagina 25 del comic, esta imagen se parodia introduciendo a una mujer neandertal. La vineta traduce la frase del ensayo sobre 'hermanos y hermanas' prehistoricos, pero va mas alla al intervenir sobre un icono cultural para feminizarlo. Savchenkova interpreta esto como una combinacion de enfasis e ideologizacion: el comic da protagonismo a las mujeres donde tradicionalmente han estado ausentes."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Por que el formato obliga a decidir y toda decision es ideologica",
+      "narrativa": "Para entender por que el comic amplifica el mensaje de diversidad mucho mas que el ensayo, Savchenkova despliega tres argumentos. El primero es traductologico: segun Jakobson, el paso del ensayo al comic implica dos traducciones simultaneas, la intralinguistica de Vandermeulen y la intersemiotica de Casanave, y en ambas hay seleccion, omision y amplificacion. El segundo es mediatico: como el propio Harari (2021) declaro, mientras las palabras pueden ser abstractas, las imagenes deben ser concretas. Un ensayo puede decir sapiens sin precisar genero ni color de piel; una vineta esta obligada a decidir si dibuja hombres, mujeres o ambos, y que tono de piel asigna a cada personaje. Esa obligacion de concretar fuerza decisiones que en el texto verbal podian permanecer en la ambiguedad. El tercer argumento es colaborativo: el comic no contiene solo la mirada de Harari, sino tambien la del adaptador Vandermeulen, la del ilustrador Casanave y, crucialmente, la del consultor de diversidad Greenberg. El analisis segun Pereira (2008) muestra que la ideologia desempeno un papel clave en el trasvase: el equipo no se limito a ilustrar, sino que construyo un nuevo producto que establece paralelismos deliberados entre la prehistoria y las tensiones de la sociedad contemporanea.",
+      "detalles": [
+        { "label": "Traduccion intralinguistica", "value": "Vandermeulen selecciona que partes del ensayo conservar, cuales expandir y cuales crear desde cero, operando como primer filtro ideologico." },
+        { "label": "Traduccion intersemiotica", "value": "Casanave interpreta las palabras en imagenes, decidiendo el color de piel, el genero, la expresion y la composicion de cada vineta. Cada decision carga sentido." },
+        { "label": "Consultoria de diversidad", "value": "Slava Greenberg, especialista en estudios trans, genero y diversidad funcional, revisa las representaciones para evitar estereotipos y visibilizar identidades habitualmente ausentes." },
+        { "label": "Imagen concreta vs. texto abstracto", "value": "Un ensayo puede decir sapiens sin especificar genero ni tono de piel; una vineta esta obligada a decidir ambos. Esa obligacion es a la vez un riesgo y una oportunidad politica." },
+        { "label": "Tres razones del cambio", "value": "(1) El exito inesperado del ensayo exigio encontrar nuevas audiencias; (2) el potencial comunicativo del comic fuerza a concretar lo abstracto; (3) la traduccion incorpora multiples miradas autorales con agendas complementarias." },
+        { "label": "El comic como manual grafico", "value": "Bonet-Rosado (2016) define el comic como un excelente manual grafico de la prehistoria. Fernandez de Arriba (en Alonso-Carballes, 2021) senala que el comic es un recurso muy potente para divulgar conocimientos que generalmente no llegan al gran publico." }
+      ],
+      "reflexion": "Es una traduccion grafica mas politica que una traduccion verbal? Por que?",
+      "deepDives": [
+        {
+          "id": "ensayo-marco-1",
+          "triggerLabel": "La ideologia en las imagenes segun Pereira",
+          "type": "theory",
+          "content": "Pereira (2008) sostiene que las ilustraciones no son meros adornos: traducen ideologias y pensamiento de cada epoca. En Sapiens, la eleccion de representar a los sapiens con piel oscura, contradiciendo siglos de representacion blanqueada en el comic prehistorico, o de incluir una mujer en la evolucion humana son decisiones ideologicas deliberadas que responden al asesoramiento del consultor de diversidad y a una voluntad expresa de Harari de hacer su obra mas inclusiva."
+        },
+        {
+          "id": "ensayo-marco-2",
+          "triggerLabel": "Tres razones por las que el comic es mas diverso que el ensayo",
+          "type": "theory",
+          "content": "Savchenkova identifica tres causas: (1) El inesperado exito global del ensayo forzo su transformacion para seguir ganando lectores (como dice Vidal-Claramonte, 2018, el original nunca es estatico). (2) La naturaleza del comic obliga a concretar lo que el texto puede dejar abstracto: genero, color de piel, expresiones. (3) El equipo creativo multiple, cuatro personas con miradas complementarias, produjo una traduccion coral donde la ideologia, especialmente a traves del consultor de diversidad, desempeno un papel clave."
+        },
+        {
+          "id": "ensayo-marco-3",
+          "triggerLabel": "Limitaciones del marco y del estudio",
+          "type": "limitation",
+          "content": "El analisis se circunscribe al primer volumen y a tres ejes de diversidad. No se examinan otras expresiones como la diversidad funcional o etaria. La autora reconoce que no se mide cuantitativamente el grado de cambio entre ambas versiones ni se considera la recepcion lectora. Ademas, el modelo de Pereira fue disenado para texto-ilustracion, no para comic, lo que deja fuera la dimension secuencial."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "Puede una adaptacion grafica transformar el mensaje ideologico de un ensayo best seller?",
+      "conclusion": "Si, y el caso de Sapiens lo demuestra de forma ejemplar. El comic no se limita a ilustrar el ensayo de Harari: lo traduce multimodalmente para desafiar estereotipos etnicos, sexuales y de genero sobre la prehistoria. Aprovecha que las imagenes obligan a concretar lo abstracto (mientras un texto puede decir sapiens sin especificar genero o color de piel, una vineta debe decidir ambos) y cuenta con un equipo de cuatro personas, incluido un consultor de diversidad, que orienta esas decisiones hacia una representacion deliberadamente mas plural. Aplicando el modelo de Pereira (2008), la estrategia predominante es la ideologizacion: el comic introduce personajes y escenas que no existen en el ensayo, como neandertales homosexuales, ocho rostros multiculturales, una mujer en la cadena evolutiva, para establecer paralelismos entre la prehistoria y las tensiones de nuestra sociedad contemporanea. Como resultado, el historiador israeli y su equipo confeccionan un producto que busca derrumbar estereotipos sobre la vida de nuestros ancestros e incidir en la profunda conexion entre el humano de hoy y el de ayer, demostrando que, en palabras de Ruiz-Zapatero (2016), la prehistoria es excitante porque ahi esta la base de lo que nos configura como seres humanos.",
+      "formalRef": "Savchenkova, M. (2023). Del ensayo al comic: en busca de la diversidad en la traduccion multimodal de Sapiens. Ocnos, 22(1). https://doi.org/10.18239/ocnos_2023.22.1.334"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "Que modelo teorico aplica Savchenkova para analizar como las vinetas del comic Sapiens traducen el ensayo original?",
+          "options": [
+            "El modelo de Pereira (2008) sobre ilustracion como traduccion intersemiotica",
+            "La teoria del skopos de Vermeer aplicada al comic",
+            "El modelo funcionalista de Nord para textos multimodales",
+            "La teoria de la equivalencia dinamica de Nida"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "Quien es Slava Greenberg y que funcion desempeno en el equipo creativo del comic Sapiens?",
+          "options": [
+            "Consultor de diversidad, especialista en estudios trans, genero y diversidad funcional",
+            "Ilustrador responsable del diseno de los neandertales y sapiens",
+            "Traductor del ensayo del hebreo al ingles para la adaptacion grafica",
+            "Editor de Harper Perennial encargado de supervisar los paratextos"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "Que diferencia fisica sistematica establece el comic entre los sapiens y los neandertales?",
+          "options": [
+            "Los sapiens tienen piel oscura y rasgos africanos; los neandertales, piel clara y pelo anaranjado",
+            "Los sapiens van vestidos y los neandertales aparecen siempre semidesnudos",
+            "Los sapiens son mas bajos y robustos; los neandertales, altos y estilizados",
+            "Los neandertales aparecen armados con lanzas; los sapiens, desarmados"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "Segun Jakobson, que dos tipos de traduccion se combinan en la adaptacion del ensayo al comic Sapiens?",
+          "options": [
+            "Traduccion intralinguistica (Vandermeulen) e intersemiotica (Casanave)",
+            "Traduccion interlinguistica (del hebreo al ingles) e intralinguistica (del ingles al ingles)",
+            "Traduccion literal (Harari) y traduccion libre (Greenberg)",
+            "Traduccion intersemiotica (Vandermeulen) e interlinguistica (Casanave)"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "El articulo muestra que el comic Sapiens obliga a decidir el color de piel, el genero y la expresion de cada personaje, mientras que el ensayo podia mantener esas dimensiones en la ambiguedad. Crees que esto hace al comic mas honesto o mas manipulable que el texto verbal? En que casos una imagen puede ocultar ideologia mejor que una palabra?"
+        },
+        {
+          "type": "open",
+          "q": "Savchenkova senala que su estudio no abordo las diversidades funcional y etaria por falta de evidencias arqueologicas sobre la prehistoria. Si fueras el consultor de diversidad de un segundo volumen de Sapiens, como abordarias esa ausencia sin caer en un anacronismo? Que tipo de vinetas propondrias?"
+        },
+        {
+          "type": "open",
+          "q": "El equipo de Sapiens incluyo a un consultor de diversidad externo, Slava Greenberg. Crees que toda adaptacion grafica de un ensayo academico deberia incorporar este rol, o es una decision editorial que depende del contenido? En que casos seria imprescindible y en cuales un gesto cosmetico?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual de la traduccion multimodal de Sapiens",
+    "descripcion": "Conexiones entre el ensayo, el comic, los traductores, los ejes de diversidad y los marcos teoricos.",
+    "nodos": [
+      { "id": "1", "label": "Sapiens (ensayo, 2014)", "color": "#e76f51" },
+      { "id": "2", "label": "Sapiens (comic, 2020)", "color": "#f4a261" },
+      { "id": "3", "label": "Traduccion multimodal", "color": "#2a9d8f" },
+      { "id": "4", "label": "Jakobson (2000)", "color": "#e9c46a" },
+      { "id": "5", "label": "Pereira (2008)", "color": "#264653" },
+      { "id": "6", "label": "Diversidad etnico-cultural", "color": "#8ab17d" },
+      { "id": "7", "label": "Diversidad afectivo-sexual", "color": "#9b2226" },
+      { "id": "8", "label": "Diversidad de genero", "color": "#6a4c93" },
+      { "id": "9", "label": "Harari / Vandermeulen / Casanave / Greenberg", "color": "#457b9d" },
+      { "id": "10", "label": "Estereotipos prehistoricos", "color": "#d62828" },
+      { "id": "11", "label": "Ideologizacion (Pereira)", "color": "#e5989b" },
+      { "id": "12", "label": "Imagen concreta vs. texto abstracto", "color": "#83c5be" }
+    ],
+    "aristas": [
+      { "from": "1", "to": "2", "label": "se traduce en" },
+      { "from": "1", "to": "3", "label": "origen de la" },
+      { "from": "3", "to": "2", "label": "produce" },
+      { "from": "4", "to": "3", "label": "fundamenta" },
+      { "from": "5", "to": "3", "label": "modelo para analizar" },
+      { "from": "9", "to": "2", "label": "crea colectivamente" },
+      { "from": "10", "to": "2", "label": "es desafiado por" },
+      { "from": "2", "to": "6", "label": "representa" },
+      { "from": "2", "to": "7", "label": "representa" },
+      { "from": "2", "to": "8", "label": "representa" },
+      { "from": "11", "to": "2", "label": "estrategia dominante en" },
+      { "from": "5", "to": "11", "label": "define" },
+      { "from": "12", "to": "2", "label": "fuerza decisiones en" },
+      { "from": "12", "to": "11", "label": "posibilita la" }
+    ]
+  }
+}

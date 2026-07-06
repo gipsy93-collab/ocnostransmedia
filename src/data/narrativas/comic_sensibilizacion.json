@@ -1,0 +1,447 @@
+{
+  "id": "comic_sensibilizacion",
+  "metadata": {
+    "title": "El cómic como herramienta para la sensibilización sobre la necesidad de atender a la diversidad. Una mirada inclusiva",
+    "authors": "Sheila López-Prados y Francisco Sáez-de-Adana",
+    "year": "2023",
+    "journal": "Ocnos 22(1)",
+    "doi": "10.18239/ocnos_2023.22.1.333",
+    "gancho": "¿Y si un puñado de viñetas dibujadas por niños de primaria pudiera enseñarnos más sobre la inclusión que muchas charlas sobre valores?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#264653",
+    "bg": "from-orange-400/20 to-slate-900/20",
+    "image": "https://picsum.photos/seed/comic_sensibilizacion/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Sheila, investigadora en didáctica y narrativas visuales de la Universidad de Alcalá",
+      "gancho": "¿Y si un puñado de viñetas dibujadas por niños de primaria pudiera enseñarnos más sobre la inclusión que muchas charlas sobre valores?",
+      "contexto": "Imagina un aula de quinto o sexto de primaria en Guadalajara, España. Cuarenta estudiantes acaban de participar en debates sobre cómo acoger a un compañero nuevo con necesidades específicas de apoyo educativo. Luego, en una sola sesión, aprenden qué es un cómic, cómo funcionan los bocadillos, los planos, las metáforas visuales, los enfoques y las onomatopeyas. Y después cogen lápices de colores y dibujan su propia historia. Exactamente eso fue lo que diseñaron Sheila López-Prados y Francisco Sáez-de-Adana, desde la Universidad de Alcalá, en el CEIP Parque de la Muñeca: una experiencia donde el alumnado no lee cómics, sino que los crea, para ponerse en la piel de quien llega nuevo a un centro y además tiene una discapacidad. El objetivo principal era determinar si la creación de narraciones gráficas propiciaba comprensión y empatía hacia las personas con necesidades específicas de apoyo educativo. El objetivo secundario era comprobar la capacidad real de los alumnos para comunicar a través de las imágenes. Porque —y esto los autores ya lo habían detectado en investigaciones universitarias previas con cómics autobiográficos y de concienciación intercultural— hay una parte del alumnado que no solo no es lector habitual de cómics, sino que nunca los ha leído. Y eso, en un mundo saturado de mensajes visuales, es un déficit que merece toda la atención.",
+      "deepDives": [
+        {
+          "id": "comic-apertura-1",
+          "triggerLabel": "¿Por qué el cómic y no un texto común?",
+          "type": "theory",
+          "content": "El cómic combina palabra e imagen, pero exige algo más: obliga al lector a completar con la imaginación lo que ocurre entre viñeta y viñeta. Ese salto requiere interpretar simultáneamente lo visual, lo verbal y lo espacial. Eckert (2013), Gillenwater (2009) y Jacobs (2007) coinciden en que leer y crear cómics implica comprender la semiótica desde múltiples puntos de vista. Frey y Fisher (2008) añaden que las imágenes facilitan el almacenamiento de información en la memoria a largo plazo. Por eso el cómic resulta ideal para desarrollar alfabetización visual y competencias multimodales, dos asignaturas pendientes del currículo de primaria."
+        },
+        {
+          "id": "comic-apertura-2",
+          "triggerLabel": "¿Qué entienden los autores por inclusión educativa?",
+          "type": "theory",
+          "content": "Siguiendo a Echeita (2008), la inclusión es un proceso que aspira a dar sentido y orientación a las prácticas docentes. Para Susinos (2005), defiende la necesidad de escuelas para todos donde cada persona sea recibida como miembro valioso. Blanco (2008) la define como la transformación de sistemas educativos, culturas y prácticas para satisfacer las diversas necesidades del alumnado. Casanova (2011) subraya que implica aceptación y valoración de las diferencias reconociendo a todos los niños y niñas como sujetos plenos de derechos. En España, la LOMLOE consagra la educación inclusiva como principio fundamental del sistema educativo."
+        },
+        {
+          "id": "comic-apertura-3",
+          "triggerLabel": "La trayectoria previa en la Universidad de Alcalá",
+          "type": "method",
+          "content": "El equipo de la Universidad de Alcalá lleva años investigando la inclusión de cómics en el aula. En Gavaldón et al. (2020) utilizaron el cómic para desarrollar competencias multimodales en educación superior. En McGarr et al. (2020) exploraron los cómics autobiográficos como herramienta para reflexionar sobre la memoria y la visión del entorno educativo. En otro trabajo de Gavaldón et al. (2020) estudiaron cómo la creación de cómics conciencia sobre la necesidad de una sociedad intercultural. Sin embargo, todas estas experiencias previas se enmarcaban en la enseñanza universitaria. Este estudio es el primero que baja la propuesta a educación primaria."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La escuela habla mucho de inclusión, pero a veces lo hace con discursos abstractos que no tocan las emociones. Los estudiantes pueden repetir que hay que respetar al otro sin haberse parado a imaginar qué se siente al llegar a un centro nuevo, no conocer a nadie y, además, tener una discapacidad o una necesidad específica de apoyo educativo. La empatía no brota sola: hay que cultivarla. Pero, como señala Moya (2019), la selección del profesorado en España —tanto en Infantil y Primaria como en Secundaria y Universidad— ni siquiera contempla la empatía como una capacidad básica para dedicarse profesionalmente a la educación. Además, el cómic arrastra un estigma histórico: durante mucho tiempo se lo asoció con la contracultura y ocupó una posición marginal. Aunque hoy cuenta con un Premio Nacional de Cómic, estudios universitarios y creciente presencia en bibliotecas y en el ámbito académico, todavía hay círculos educativos que lo miran con reservas.",
+      "porQueImporta": "Si los estudiantes no tienen oportunidades de sentir y representar la diversidad, la inclusión se queda en un cartel del pasillo. El cómic ofrece una ventaja clave: permite contar historias desde puntos de vista distintos, usar metáforas visuales y expresar emociones que cuestan más de poner en una redacción. Como afirma Guzmán (2012), crear cómics es una actividad interdisciplinar que conecta lengua, matemáticas y valores éticos en un aprendizaje significativo. Además, Ferreiro-Peleteiro (2019) sostiene que el uso de imágenes en forma de cómic puede mejorar la capacidad empática. Convertir a los alumnos en autores de sus propias historias les obliga a tomar decisiones deliberadas sobre qué mostrar, cómo mostrarlo y desde qué perspectiva. Y eso, en sí mismo, ya es un acto de inclusión.",
+      "dataPoints": [
+        "El estudio se realizó con 40 alumnos de 5º y 6º de Educación Primaria del CEIP Parque de la Muñeca, en Guadalajara, España.",
+        "En la clase de 6º había un alumno con necesidades específicas de apoyo educativo asociadas al síndrome de Down. En 5º no había ningún compañero con necesidades educativas especiales.",
+        "La clase de 5º trabajó previamente con el cuento inclusivo 'Un día especial para Laila y sus amigos', donde aparecen síndrome de Down, ceguera, autismo y personas que usan silla de ruedas.",
+        "Antes de crear los cómics, el alumnado participó en debates sobre cómo integrar a un estudiante nuevo y recibió una sola sesión teórica sobre el lenguaje del cómic (metáforas visuales, planos, enfoques, bocadillos, onomatopeyas)."
+      ],
+      "glossary": [
+        {
+          "term": "Alfabetización visual",
+          "definition": "Capacidad de leer, interpretar y producir significados a través de imágenes y otros recursos visuales. Frey y Fisher (2008) la consideran clave para la comprensión y el pensamiento en un entorno mediático saturado de estímulos visuales."
+        },
+        {
+          "term": "Competencias multimodales",
+          "definition": "Habilidad para combinar diferentes modos de comunicación —verbal, visual, espacial, gestual— en un mismo texto. En el cómic, se activan al articular palabras, imágenes, colores, planos y secuencias temporales."
+        },
+        {
+          "term": "Necesidades específicas de apoyo educativo",
+          "definition": "Dificultades o condiciones que requieren ajustes curriculares o metodológicos para garantizar el aprendizaje y la participación plena. En el estudio abarcan discapacidad física (ceguera, silla de ruedas), intelectual (síndrome de Down) y del espectro autista."
+        },
+        {
+          "term": "Metáfora conceptual",
+          "definition": "Según Lakoff y Johnson (1980), es la forma en que comprendemos y experimentamos una cosa a partir de conceptos relacionados con otra. En el cómic, El Refaie (2012) muestra cómo permite traducir experiencias internas —soledad, miedo, alegría— en imágenes visibles y secuenciadas."
+        },
+        {
+          "term": "Educación inclusiva",
+          "definition": "Modelo teórico y práctico que defiende la necesidad de transformar las aulas en escuelas para todos, donde cada persona pueda participar y sea recibida como miembro valioso. La UNESCO (2003) la define como el proceso de identificar y responder a la diversidad de necesidades reduciendo la exclusión."
+        },
+        {
+          "term": "LOMLOE",
+          "definition": "Ley Orgánica de Modificación de la LOE, aprobada en España en 2020, que establece la educación inclusiva como principio fundamental del sistema educativo y compromete al sistema a facilitar el aprendizaje de todo el alumnado con los mismos derechos y en igualdad de oportunidades."
+        },
+        {
+          "term": "Medicina gráfica",
+          "definition": "Campo interdisciplinar que utiliza el cómic y otros recursos visuales para crear empatía hacia distintas enfermedades y condiciones de salud. Autores como González-Cabeza (2016) y Lalanda (2019) han hecho aportes clave mostrando cómo las narrativas gráficas humanizan experiencias médicas."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "comic-conflicto-1",
+          "triggerLabel": "La empatía como habilidad docente invisible",
+          "type": "theory",
+          "content": "Moya (2019) sostiene que educar en empatía es uno de los cimientos del buen profesional de la educación. Quienes educan desde la empatía tienen muchas más probabilidades de éxito en la transmisión de contenidos, en guiar la adquisición de competencias y en evaluar los resultados del aprendizaje. Sin embargo, tal cual está establecida la selección del profesorado en España, la empatía no se contempla como una capacidad básica para ejercer la docencia. El uso del cómic puede ayudar a mejorar precisamente esa capacidad, según Ferreiro-Peleteiro (2019)."
+        },
+        {
+          "id": "comic-conflicto-2",
+          "triggerLabel": "El cómic: de la contracultura marginal al reconocimiento académico",
+          "type": "theory",
+          "content": "Tradicionalmente asociado a la contracultura, el cómic ocupó durante décadas una posición marginal en la consideración social y cultural. Eso está cambiando: la instauración del Premio Nacional de Cómic, el aumento de su presencia en el ámbito universitario y los estudios de Gracia-Lana (2021) dan cuenta de un reconocimiento creciente. Ogier y Ghosh (2017) subrayan que su aparente simplicidad enmascara una compleja interacción entre palabras e imágenes capaz de transmitir mensajes muy elaborados. Aun así, como demuestra el estudio de Sáez-de-Adana y Gavaldón (2020), el descenso de la lectura de cómic en edad infantil y su baja presencia en los planes de estudio son un obstáculo real."
+        },
+        {
+          "id": "comic-conflicto-3",
+          "triggerLabel": "La diversidad como realidad cotidiana del aula",
+          "type": "data",
+          "content": "Arnaiz y Haro (1997) identifican en la actividad diaria de cualquier centro educativo una diversidad de ritmos (cada persona necesita un tiempo distinto para asimilar el conocimiento), una diversidad de intereses, motivaciones y expectativas, y una diversidad de capacidades. Bautista-Ochoa et al. (2021) defienden que las escuelas inclusivas van de la mano con las escuelas públicas: la escuela inclusiva es una comunidad que convive y aprende, donde se tiene derecho a ser educado y libertad para crecer y convivir con los demás. La escuela se entiende como modelo de democracia e inclusión social y como espacio de convivencia y cooperación."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Cómo se diseñó y ejecutó la experiencia en el CEIP Parque de la Muñeca",
+      "narrativa": "Así fue como se organizó la investigación: participaron 40 alumnos de quinto y sexto de Educación Primaria, junto con una profesora de la Facultad de Educación y otra del Instituto Franklin de Investigación en Estudios Norteamericanos, ambos de la Universidad de Alcalá. El proceso se estructuró en tres fases. Primero, debates en grupo para propiciar una reflexión previa sobre cómo los colegios se adaptan a la diversidad y qué apoyos ofrecen. El objetivo era que los estudiantes pensaran críticamente sobre la llegada de un alumno nuevo con necesidades educativas y cómo se podía facilitar su integración. Segundo, una sesión teórica —solo una— donde aprendieron las partes del cómic: metáforas visuales, planos, enfoques, bocadillos, onomatopeyas. Las necesidades de programación obligaron a ceñir esta fase a una única sesión, un tiempo que los autores reconocen como escaso dada la complejidad del lenguaje del cómic, pero que a la vez servía para el objetivo secundario: comprobar la capacidad natural del alumnado para comunicarse con un medio multimodal. Tercero, cada estudiante creó su propio cómic eligiendo entre dos temáticas: reflejar los sentimientos, problemas o miedos de un niño o niña con necesidades al llegar a un colegio nuevo y tener que adaptarse, o dibujar las situaciones a las que se enfrenta un alumno nuevo en su llegada al centro y al aula (discapacidad, rechazo, conocimientos previos, inclusión). Los cómics resultantes fueron analizados por los dos docentes, primero de manera individual y después de forma conjunta, utilizando la teoría de la metáfora conceptual de Lakoff y Johnson (1980) y la aplicación que hace El Refaie (2012) de esta teoría al ámbito del cómic. También se evaluó el uso adecuado del lenguaje del cómic para transmitir ideas.",
+      "detalles": [
+        {
+          "label": "Participantes",
+          "value": "40 estudiantes de 5º y 6º de Educación Primaria del CEIP Parque de la Muñeca (Guadalajara, España), más dos docentes universitarias."
+        },
+        {
+          "label": "Contexto diferenciado por curso",
+          "value": "En 6º había un alumno con síndrome de Down. En 5º no había alumnos con necesidades educativas especiales; trabajaron con el cuento 'Un día especial para Laila y sus amigos'."
+        },
+        {
+          "label": "Fases",
+          "value": "Debate y discusión grupal previa → sesión teórica única sobre lenguaje del cómic → creación individual de un cómic temático."
+        },
+        {
+          "label": "Temas propuestos para los cómics",
+          "value": "1) Sentimientos, problemas o miedos de un niño con necesidades al llegar a un colegio nuevo. 2) Situaciones que enfrenta ese alumno: tipo de discapacidad, rechazo, inclusión, conocimientos previos."
+        },
+        {
+          "label": "Método de análisis",
+          "value": "Revisión individual y conjunta de los dos docentes aplicando la teoría de la metáfora conceptual (Lakoff y Johnson, 1980) y el enfoque de El Refaie (2012) sobre metáfora en cómics."
+        },
+        {
+          "label": "Dimensiones analizadas",
+          "value": "Cómo se abordaban los problemas de inclusión, qué conflictos se dibujaban, qué estereotipos aparecían y qué dominio mostraban del lenguaje del cómic."
+        }
+      ],
+      "limitaciones": [
+        "La sesión de formación en lenguaje del cómic fue una sola, lo que los autores juzgan insuficiente dada la complejidad semiótica del medio. Una sesión no basta para dominar metáforas visuales, planos, elipsis ni encuadres.",
+        "Una parte del alumnado no era lector habitual de cómics —algunos ni siquiera los habían leído nunca—, lo que condicionó el dominio técnico de las viñetas y confirma el déficit de alfabetización visual detectado por Sáez-de-Adana y Gavaldón (2020).",
+        "El estudio es cualitativo y exploratorio, centrado en una única experiencia en un solo centro escolar, sin grupo de control ni mediciones pre-post de actitudes hacia la diversidad.",
+        "El enunciado del trabajo pedía mostrar los problemas de un alumno que llega nuevo a clase y sus sentimientos, pero la transmisión de estos últimos no apareció en todas las historias. La consigna pudo haber influido en que el punto de vista recayera más en quienes acogen que en quien es acogido."
+      ],
+      "reflexion": "¿Crees que una sola sesión de introducción al cómic es suficiente para que el alumnado pueda expresar emociones complejas con este medio?",
+      "deepDives": [
+        {
+          "id": "comic-viaje-1",
+          "triggerLabel": "La metáfora conceptual como lupa analítica",
+          "type": "method",
+          "content": "Lakoff y Johnson (1980) proponen que entendemos una cosa a través de conceptos relacionados con otra. En la lingüística cognitiva, la metáfora conceptual busca comprender el pensamiento, las emociones y la acción humana a partir de modelos mentales sobre cómo funciona el mundo. El Refaie (2012) aplica este enfoque al cómic mostrando cómo las metáforas visuales —una figura empequeñecida para expresar soledad, colores fríos para la tristeza, bocadillos flotantes como única información para representar la ceguera— traducen experiencias internas en imágenes. Es, además, una herramienta clave en la medicina gráfica, campo en el que González-Cabeza (2016) y Lalanda (2019) han mostrado cómo el cómic genera empatía hacia distintas enfermedades."
+        },
+        {
+          "id": "comic-viaje-2",
+          "triggerLabel": "¿Por qué se eligió el cómic y no otro recurso?",
+          "type": "method",
+          "content": "El cómic combina texto e imagen, exige una lectura activa e integradora y transforma al alumno en productor de significado. Guzmán (2012) señala que es una actividad interdisciplinar que motiva al alumnado y conecta lengua, matemáticas y valores éticos. Pomares-Puig (2014) destaca que la red 'Cómic como elemento didáctico' promueve la lectura y la reflexión sobre sus posibilidades pedagógicas. Además, Glenberg y Robertson (2000) afirman que su inclusión en una pedagogía para la comprensión favorece un aprendizaje reflexivo y crítico. La creación de narrativas gráficas, aunque sean breves, pone en marcha componentes que afectan a todas las áreas formativas y hace que los alumnos, al ser productores, se hagan más conscientes de la inclusión."
+        },
+        {
+          "id": "comic-viaje-3",
+          "triggerLabel": "La experiencia universitaria que precedió a este estudio",
+          "type": "method",
+          "content": "El equipo de la Universidad de Alcalá ya había explorado el cómic como herramienta de concienciación en educación superior. Gavaldón et al. (2020) lo usaron para el desarrollo de competencias multimodales. McGarr et al. (2020) emplearon cómics autobiográficos para reflexionar sobre la construcción de la memoria y la visión del entorno educativo. También en Gavaldón et al. (2020) estudiaron cómo la creación de cómics conciencia sobre la necesidad de una sociedad intercultural. Incluso hay alguna experiencia en educación secundaria con Keim y Sáez-de-Adana (2019) sobre seguridad en internet. En todos estos trabajos se detectó un mismo problema: una parte del alumnado universitario no lee cómics habitualmente o nunca los ha leído, y eso genera dificultades a la hora de crear los suyos propios. Bajar esta constatación a la etapa de primaria es un aporte original de este estudio."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Lo que dibujaron los cuarenta niños y niñas",
+      "narrativa": "Lo primero que se observa al mirar los trabajos es que la mayoría no destaca por su dominio del lenguaje del cómic. Esto probablemente se deba a la edad del alumnado pero, sobre todo, a la baja utilización del cómic en los planes de estudio y al descenso de la lectura de cómic en edad infantil. Sin embargo, el hallazgo central es contundente: la actividad permitió a los alumnos ponerse en la piel de sus posibles compañeros con necesidades específicas de apoyo educativo y generar sentimientos de empatía. Esto se manifiesta en la construcción narrativa, ya que la mayor parte de los trabajos sigue un esquema similar: aparece una niña o un niño que llega a clase con algún tipo de discapacidad; los compañeros, a veces con mediación de la profesora, inician un proceso de integración; y el final suele ser feliz, con el nuevo alumno incorporado a la dinámica del aula y esta, a su vez, adaptada a sus necesidades. Este esquema revela que los estudiantes entienden la inclusión tal como la define la UNESCO (2003): como el proceso de identificar y responder a la diversidad de las necesidades de todos los estudiantes a través de la mayor participación, reduciendo la exclusión e involucrando cambios en contenidos, aproximaciones, estructuras y estrategias. Pero hay más: los propios alumnos y alumnas se representan a sí mismos como los agentes activos de esa integración. El proceso que describe la UNESCO recae, en estas narrativas, sobre los propios estudiantes. Ahora bien, lo que dibujan depende radicalmente de lo que conocen. Los alumnos de 5º, que trabajaron con un cuento sobre discapacidades físicas, representaron sobre todo ceguera y uso de silla de ruedas —ambas cuestiones aparecen en un tercio de los cómics presentados—. En cambio, en la clase de 6º, donde convivían diariamente con un compañero con síndrome de Down, aparecen discapacidades intelectuales: síndrome de Down y autismo. Un caso aislado, en 6º, menciona incluso la depresión como discapacidad, lo que sugiere que a esa edad las cuestiones relacionadas con lo intelectual pueden confundirse con problemas de salud mental por su carácter menos representable visualmente. Esto explicaría también la ausencia de discapacidades intelectuales en los cómics de 5º: la dificultad de representación no se ve compensada por la falta de convivencia con un compañero con síndrome de Down. Finalmente, destaca un hallazgo cualitativo esencial: la transmisión de empatía se consigue mejor en aquellos cómics que adoptan el punto de vista del estudiante con discapacidad, bien porque la historia se narra en primera persona, bien porque alguna viñeta intenta expresar su percepción del mundo. Aunque los cómics muestran voluntad integradora, en demasiadas ocasiones no hay una muestra del punto de vista de la persona objeto del proceso de inclusión.",
+      "hallazgos": [
+        {
+          "label": "1. Estructura narrativa de la inclusión",
+          "value": "La mayoría de los cómics sigue un esquema: llega un alumno con discapacidad, los compañeros —a veces con la profesora como mediadora— inician la integración y el final es feliz. Este patrón muestra que los estudiantes entienden la inclusión en los términos exactos de la UNESCO (2003): identificar y responder a la diversidad de necesidades con participación plena y reducción de la exclusión."
+        },
+        {
+          "label": "2. Lo que se dibuja depende de lo que se conoce y se convive",
+          "value": "En 5º (sin compañero con necesidades educativas y con un cuento sobre discapacidades físicas) solo aparecen ceguera y silla de ruedas, presentes ambas en un tercio de los cómics. En 6º (con un compañero con síndrome de Down en el aula) aparecen síndrome de Down, autismo y, en un caso aislado, depresión. La proximidad real a la diversidad modela las narrativas visuales."
+        },
+        {
+          "label": "3. El punto de vista determina la fuerza empática",
+          "value": "Los cómics más logrados en transmisión de empatía adoptan la perspectiva del personaje con discapacidad: narración en primera persona o viñetas que expresan su percepción del mundo. Cuando la historia se cuenta solo desde quienes acogen, la empatía se diluye."
+        },
+        {
+          "label": "4. Autopercepción como agentes de integración",
+          "value": "Los alumnos se representan a sí mismos como quienes llevan a cabo el proceso integrador, mostrando una implicación activa. El mensaje final recurrente es que 'todos somos diferentes en cierta medida', un ejemplo claro de comprensión profunda de la inclusión."
+        },
+        {
+          "label": "5. Déficit de alfabetización visual",
+          "value": "La mayoría de los cómics no destaca por su dominio del lenguaje del medio. Esto confirma que la alfabetización visual está ausente de la formación escolar y que la baja lectura de cómic en edad infantil se traduce en dificultades para crear narrativas visuales complejas."
+        }
+      ],
+      "dataPoints": [
+        "Un tercio de los cómics de 5º de primaria representó ceguera o uso de silla de ruedas, las dos discapacidades que aparecían en el cuento inclusivo con el que trabajaron.",
+        "En la clase de 6º, que convivía con un alumno con síndrome de Down, aparecieron el síndrome de Down y el autismo. Un cómic mencionó la depresión como discapacidad, caso aislado que sugiere confusión entre lo intelectual y los problemas de salud mental a esa edad.",
+        "La mayoría de los cómics representa la inclusión como un proceso que recae en los propios estudiantes, no como una responsabilidad exclusiva del docente o de la institución.",
+        "Los cómics con narración en primera persona o con viñetas que muestran la percepción del personaje con discapacidad transmiten empatía con mayor fuerza que los narrados desde una perspectiva externa."
+      ],
+      "reflexion": "¿Cuál crees que transmite más empatía: un cómic que muestra a un compañero acogiendo a alguien, o un cómic que narra la historia desde la mirada de quien llega?",
+      "deepDives": [
+        {
+          "id": "comic-revelacion-1",
+          "triggerLabel": "El cómic de la niña ciega (Figura 1, 5º Primaria)",
+          "type": "data",
+          "content": "La autora representa a una niña invidente. En una viñeta clave, los compañeros que se acercan aparecen solo a través de sus bocadillos —palabras flotantes—, porque eso es lo único que percibe la protagonista. La alumna tuvo que hacer un esfuerzo por empatizar con cómo experimenta el mundo una persona ciega y, sobre todo, por transmitírselo al lector. Cuando acompañan a la niña a su pupitre, ella exclama '¡Qué chulo debe ser!', mostrando cómo su percepción del entorno es radicalmente diferente. Los demás niños le preguntan cómo aprende, lo que revela una comprensión implícita de que su aprendizaje es distinto. Al finalizar, se enfatiza la inclusión con el mensaje: '¡Isaa, tú no eres diferente!'. Es un ejemplo claro de cómo la metáfora visual —bocadillos como única información— traduce la experiencia de la ceguera."
+        },
+        {
+          "id": "comic-revelacion-2",
+          "triggerLabel": "El cómic del rechazo y la reparación (Figura 2, 6º Primaria)",
+          "type": "data",
+          "content": "La autora dibuja la burla explícita: 'Se reían de él por ser Down'. La maestra interviene, explica que todos pueden ayudar y los compañeros terminan pidiendo perdón. Este cómic es significativo porque no evita el conflicto —representa el rechazo con crudeza—, aunque lo resuelve con un final positivo. Muestra que los alumnos de 6º, precisamente por convivir con un compañero con síndrome de Down, son capaces de nombrar y condenar la burla, algo que no aparece en los cómics de 5º."
+        },
+        {
+          "id": "comic-revelacion-3",
+          "triggerLabel": "El cómic de la silla de ruedas y el deporte adaptado (Figura 4, 5º Primaria)",
+          "type": "data",
+          "content": "Este cómic es excepcional porque narra desde el punto de vista del niño que está en una silla de ruedas. Al protagonista le encantan las bicicletas, las ve en televisión y finalmente descubre que existe el ciclismo adaptado. El mensaje es de autosuperación: la discapacidad no impide hacer deporte si existen las adaptaciones necesarias. A diferencia de la mayoría de los trabajos, que sitúan la discapacidad en 'el otro que llega', aquí el protagonista es el niño con discapacidad y la historia es de empoderamiento personal. Demuestra una gran capacidad empática por parte del autor, que entendió que estar en silla de ruedas no equivale a no poder participar en actividades diarias normales."
+        },
+        {
+          "id": "comic-revelacion-4",
+          "triggerLabel": "La depresión como caso atípico (Figura 3, 6º Primaria)",
+          "type": "data",
+          "content": "Un único cómic menciona la depresión como una discapacidad. Aunque es un caso aislado, los autores sugieren que a la edad de 5º y 6º de primaria las cuestiones relacionadas con lo intelectual pueden confundirse con determinados problemas de salud mental debido a su carácter menos representable visualmente. Esto explicaría también por qué en los cómics de 5º, sin la experiencia de convivencia con un compañero con síndrome de Down, no aparecen discapacidades intelectuales: la dificultad de representación de lo cognitivo no se compensa con el contacto directo."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Por qué el cómic funciona como espejo y como puente",
+      "narrativa": "Para entender estos resultados hay que mirar el andamiaje teórico que los sostiene. El cómic no es una actividad recreativa: es un medio semiótico complejo que exige leer imágenes, palabras, espacios y tiempos de forma simultánea. Glenberg y Robertson (2000) mostraron que incluirlo en una pedagogía para la comprensión favorece el aprendizaje reflexivo y crítico. Eckert (2013), Gillenwater (2009) y Jacobs (2007) coinciden en que leer y crear cómics implica dominar la semiótica visual, verbal y espacial desde múltiples puntos de vista. Frey y Fisher (2008) añaden un dato crucial: las imágenes facilitan la retención de información en la memoria a largo plazo. Pero hay un matiz que atraviesa todo el estudio: si los estudiantes no tienen formación visual previa, el cómic se queda en un dibujo con viñetas, bonito pero sin alcanzar toda su potencialidad reflexiva. Los autores detectaron que, aunque los alumnos logran contar historias, la transmisión de sentimientos se consigue mejor en aquellos cómics que adoptan la perspectiva del estudiante con discapacidad. Y esta capacidad de adoptar un punto de vista no es innata: requiere alfabetización visual. Además, los estudiantes tendieron a evitar representar experiencias traumáticas o negativas. Casi todos los cómics terminan con un final feliz y una integración exitosa. ¿Por qué? Los autores barajan tres hipótesis: inmadurez emocional de los participantes, incapacidad de expresar visualmente lo desagradable, o influencia de la tarea novedosa de crear cómics sobre la naturaleza optimista de las narrativas. Sea cual sea la causa, el dato importa: la ausencia de conflicto en las historias puede ser una limitación del medio si no se trabaja con intención pedagógica. Por último, la investigación confirma que, pese a las reservas iniciales y a la limitada experiencia de los estudiantes con el cómic, estos son capaces de expresar sentimientos ante la situación planteada. El trabajo también demuestra la necesidad de incidir en la alfabetización visual como elemento clave en la formación desde primaria si queremos que el alumnado aproveche todas las ventajas inherentes a la comunicación multimodal.",
+      "detalles": [
+        {
+          "label": "Aprendizaje reflexivo y crítico",
+          "value": "El cómic promueve un aprendizaje reflexivo al exigir que el lector complete sentidos entre viñetas e interprete la compleja interacción entre palabras e imágenes (Glenberg y Robertson, 2000)."
+        },
+        {
+          "label": "Multimodalidad y semiótica",
+          "value": "Combinar texto, imagen, color, espacio y secuencia temporal desarrolla competencias multimodales. Eckert (2013), Gillenwater (2009) y Jacobs (2007) defienden esta integración como clave para la alfabetización del siglo XXI."
+        },
+        {
+          "label": "Memoria y comprensión",
+          "value": "Frey y Fisher (2008) evidenciaron que el uso de imágenes facilita el almacenamiento de información en la memoria a largo plazo, lo que convierte al cómic en una herramienta con ventajas cognitivas medibles."
+        },
+        {
+          "label": "Formación visual previa insuficiente",
+          "value": "Sin alfabetización visual, los estudiantes pueden contar la historia pero con un dominio técnico limitado del medio. La metáfora visual no es una competencia totalmente desarrollada entre los participantes del estudio."
+        }
+      ],
+      "reflexion": "Si un docente propone hacer cómics en clase pero no enseña a leerlos ni a crearlos, ¿está aprovechando todo el potencial del medio o solo usando un formato llamativo?",
+      "deepDives": [
+        {
+          "id": "comic-marco-1",
+          "triggerLabel": "El lector activo y la complejidad oculta del cómic",
+          "type": "theory",
+          "content": "Ogier y Ghosh (2017) destacan que el cómic exige la imaginación del lector para experimentar plenamente su mensaje. Su apariencia engañosamente simple —unas cuantas viñetas con dibujos y bocadillos— enmascara una compleja interacción entre palabras e imágenes y los intrincados mensajes que pueden transmitir. La primera aparición de un cómic es engañosamente simple; detrás hay una complejidad temporal y semiótica que el lector debe desentrañar."
+        },
+        {
+          "id": "comic-marco-2",
+          "triggerLabel": "Jóvenes lectores y el cómic contemporáneo",
+          "type": "theory",
+          "content": "Tarbox (2017) analiza el cómic 'young adult' y reclama nuevos modos de lectura interdisciplinar. El cómic contemporáneo ofrece historias con trasfondo reflexivo y crítico, más allá del universo de superhéroes y del manga comercial. Sin embargo, esos espacios a veces se pierden en el océano del mercado masivo. Muchos lectores juveniles conocen este potencial gracias al cómic young adult, pero en el aula sigue sin explotarse sistemáticamente."
+        },
+        {
+          "id": "comic-marco-3",
+          "triggerLabel": "El desafío de representar lo desagradable",
+          "type": "limitation",
+          "content": "Los autores observan que los alumnos evitaron representar experiencias traumáticas o negativas. El hecho de que siempre se produzca una resolución positiva y que no aparezcan situaciones desagradables puede deberse a tres factores: la inmadurez emocional de los estudiantes, la incapacidad aún no resuelta para expresar visualmente lo desagradable, o la influencia de la tarea novedosa de crear cómics sobre el tono optimista de las narrativas. En cualquiera de los casos, es una limitación que debe abordarse si se quiere usar el cómic como herramienta de reflexión profunda."
+        },
+        {
+          "id": "comic-marco-4",
+          "triggerLabel": "Metodologías visuales en formación docente",
+          "type": "theory",
+          "content": "Las metodologías visuales ya se han utilizado en la formación de maestros para promover la reflexión sobre experiencias educativas. Bailey y Van Harken (2014) y Grushka y Young (2014) las emplearon para que los futuros docentes indagaran sobre sus propias trayectorias. Phillipson y Forlin (2011) las usaron como estrategia para lograr mayor comprensión sobre diversidad e inclusión en las aulas. Orland-Barak y Maskit (2014) las utilizaron para que los docentes en formación reflejaran sus posturas socio-profesionales durante el prácticum. Este estudio traslada esa idea desde los profesores en formación hacia los propios estudiantes de primaria, un movimiento original que invierte el foco habitual de la investigación."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Puede la creación de cómics por parte de alumnado de primaria impulsar la empatía y la comprensión de la diversidad?",
+      "conclusion": "Sí, pero con matices fundamentales. El estudio demuestra que el cómic es una herramienta de gran interés para la educación primaria: dirige al alumnado a profundizar en temas sociales, fomenta de una manera distinta el proceso de reflexión sobre la diversidad y permite que los propios estudiantes se imaginen y se representen como agentes activos de la inclusión educativa. La creación de narrativas gráficas obliga a usar metáforas visuales para entender cómo se siente la persona que llega, facilitando así el proceso de empatía. Sin embargo, tres limitaciones exigen cautela. Primero, lo que los niños representan depende de lo que han visto y vivido: en 5º sin contacto directo solo dibujan discapacidades físicas; en 6º, con un compañero con síndrome de Down en el aula, emergen las discapacidades intelectuales. La proximidad real a la diversidad modela las narrativas visuales. Segundo, la brecha en alfabetización visual es profunda: sin formación previa en lectura y creación de cómics, el medio no alcanza su potencial transformador y corre el riesgo de quedarse en un mero dibujo bonito. Tercero, la tendencia a evitar el conflicto y a resolver las historias con finales felices puede estar limitando la capacidad del cómic para explorar las aristas más complejas de la inclusión. Los autores concluyen que es necesario incidir en el desarrollo de la alfabetización visual y las competencias multimodales desde edades tempranas si queremos que el alumnado aproveche toda la potencia comunicativa y empática que ofrece el cómic.",
+      "formalRef": "López-Prados, S., & Sáez-de-Adana, F. (2023). El cómic como herramienta para la sensibilización sobre la necesidad de atender a la diversidad. Una mirada inclusiva. Ocnos, 22(1). https://doi.org/10.18239/ocnos_2023.22.1.333"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué herramienta teórica utilizaron López-Prados y Sáez-de-Adana para analizar los cómics creados por los alumnos?",
+          "options": [
+            "La teoría de la metáfora conceptual de Lakoff y Johnson (1980)",
+            "El análisis estructural del relato de Roland Barthes",
+            "La gramática del diseño visual de Kress y van Leeuwen",
+            "El modelo actancial de Greimas"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué los alumnos de 6º de primaria representaron discapacidades intelectuales como síndrome de Down o autismo, mientras que los de 5º dibujaron sobre todo discapacidades físicas?",
+          "options": [
+            "Porque en 6º convivían con un compañero con síndrome de Down y en 5º trabajaron con un cuento sobre discapacidades físicas",
+            "Porque los alumnos de 6º tienen mayor madurez cognitiva para comprender discapacidades intelectuales",
+            "Porque la profesora de 6º impartió una sesión extra sobre autismo y síndrome de Down",
+            "Porque el currículo de 6º incluye contenidos específicos sobre salud mental"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "Según los resultados del estudio, ¿qué característica distingue a los cómics que logran transmitir mayor empatía hacia el personaje con discapacidad?",
+          "options": [
+            "Adoptan el punto de vista en primera persona del personaje con discapacidad",
+            "Utilizan más colores, onomatopeyas y líneas cinéticas",
+            "Incluyen siempre la intervención mediadora de un profesor o profesora",
+            "Tienen al menos seis viñetas por página"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué proporción de los cómics realizados por el alumnado de 5º de primaria representó ceguera o uso de silla de ruedas?",
+          "options": [
+            "Un tercio de los cómics presentados",
+            "La mitad de los cómics presentados",
+            "La práctica totalidad de los cómics",
+            "Ninguno de los cómics presentados"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Los autores detectan que los alumnos evitaron representar experiencias traumáticas y los cómics terminaban casi siempre en un final feliz. ¿Crees que esto revela una limitación del medio, una inmadurez emocional de los estudiantes o una decisión consciente de no mostrar el conflicto? ¿Cómo diseñarías una consigna que anime a explorar también lo incómodo sin forzar el dramatismo?"
+        },
+        {
+          "type": "open",
+          "q": "El hallazgo central es que «lo que los niños representan depende de lo que han visto y vivido»: en 5º, solo discapacidades físicas porque su referente era un cuento; en 6º, discapacidades intelectuales porque convivían con un compañero con síndrome de Down. ¿Qué implicaciones tiene esto para un docente que trabaja en un entorno con poca diversidad visible? ¿Puede el cómic —como lectura o como creación— suplir la falta de contacto directo con la diferencia, o corre el riesgo de reforzar estereotipos?"
+        },
+        {
+          "type": "open",
+          "q": "El artículo dedica solo una sesión a enseñar el lenguaje del cómic. Si replicaras este estudio, ¿qué elementos del lenguaje visual (planos, elipsis, metáforas visuales, color, encuadre) priorizarías en una formación de tres sesiones para maximizar la capacidad expresiva y empática de los estudiantes? Justifica tu selección."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa conceptual del cómic como herramienta inclusiva",
+      "descripcion": "Conexiones entre los conceptos centrales del artículo de López-Prados y Sáez-de-Adana (2023).",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Creación de cómics",
+          "color": "#e76f51"
+        },
+        {
+          "id": "2",
+          "label": "Inclusión educativa",
+          "color": "#264653"
+        },
+        {
+          "id": "3",
+          "label": "Empatía",
+          "color": "#f4a261"
+        },
+        {
+          "id": "4",
+          "label": "Alfabetización visual",
+          "color": "#2a9d8f"
+        },
+        {
+          "id": "5",
+          "label": "Competencias multimodales",
+          "color": "#e9c46a"
+        },
+        {
+          "id": "6",
+          "label": "Metáfora conceptual",
+          "color": "#6a4c93"
+        },
+        {
+          "id": "7",
+          "label": "Punto de vista",
+          "color": "#9b2226"
+        },
+        {
+          "id": "8",
+          "label": "Diversidad",
+          "color": "#8ab17d"
+        },
+        {
+          "id": "9",
+          "label": "LOMLOE",
+          "color": "#b5838d"
+        },
+        {
+          "id": "10",
+          "label": "UNESCO",
+          "color": "#457b9d"
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "3",
+          "label": "fomenta"
+        },
+        {
+          "from": "3",
+          "to": "2",
+          "label": "impulsa"
+        },
+        {
+          "from": "1",
+          "to": "4",
+          "label": "exige"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "desarrolla"
+        },
+        {
+          "from": "6",
+          "to": "1",
+          "label": "organiza"
+        },
+        {
+          "from": "7",
+          "to": "3",
+          "label": "intensifica"
+        },
+        {
+          "from": "8",
+          "to": "2",
+          "label": "motiva"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "alimenta"
+        },
+        {
+          "from": "9",
+          "to": "2",
+          "label": "consagra"
+        },
+        {
+          "from": "10",
+          "to": "2",
+          "label": "define"
+        },
+        {
+          "from": "7",
+          "to": "6",
+          "label": "activa"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "id": "habitacion_ellas",
+  "metadata": {
+    "title": "Una habitación para ellas. Personajes femeninos y lectura en la literatura infantil estadounidense contemporánea",
+    "authors": "Loreto Gómez-López-Quiñones",
+    "year": "2023",
+    "journal": "Ocnos 22(2)",
+    "doi": "10.18239/ocnos_2023.22.2.340",
+    "gancho": "¿Y si los cuentos que leemos de niñas están construyendo, en silencio, la idea de quién puede ser inteligente, valiente o libre?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#7c3aed",
+    "colorAlt": "#4c1d95",
+    "bg": "from-violet-400/20 to-indigo-900/20",
+    "image": "https://picsum.photos/seed/habitacion_ellas/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Loreto Gómez-López-Quiñones, investigadora en literatura infantil y estudios de género",
+      "gancho": "¿Y si los cuentos que leemos de niñas están construyendo, en silencio, la idea de quién puede ser inteligente, valiente o libre?",
+      "contexto": "Imagina una biblioteca infantil donde las protagonistas no solo sueñan con príncipes. Imagina que resuelven misterios consultando diarios antiguos, que fundan librerías de segunda mano, que escriben reglas para organizar su mundo emocional, que publican papers científicos sobre su propio trastorno de sueño o que enseñan a leer a todo un reino donde las niñas no están alfabetizadas. Eso es exactamente lo que ocurre en las 35 obras de literatura infantil estadounidense que Loreto Gómez-López-Quiñones, investigadora de la Universidad de Granada, analizó para este artículo. Son libros publicados entre 2000 y 2021, escritos íntegramente por mujeres estadounidenses, premiados, protagonizados por niñas que son ávidas lectoras y destinados a un público de 0 a 12 años. La autora quería responder a una pregunta que lleva décadas incomodando: si la literatura infantil ha sido históricamente una máquina de asignar roles —el niño con las gafas de la inteligencia, la niña con el delantal doméstico—, ¿qué está pasando ahora en las obras que ganan premios y llegan a las bibliotecas? La respuesta que encontró es tan contundente como esperanzadora: cuando una niña lee en estos libros, no solo entretiene su soledad. Gana una habitación propia —en el sentido más woolfiano del término—, un espacio inmaterial donde forjarse como sujeto autónomo y, lo que es más revolucionario, desde el cual salir al mundo para transformarlo.",
+      "deepDives": [
+        {
+          "id": "hab-apertura-1",
+          "triggerLabel": "¿Por qué importa tanto la literatura infantil?",
+          "type": "theory",
+          "content": "La literatura infantil y juvenil funciona como una vía central de transmisión de valores culturales e ideológicos. Aparicio-García (2016) insiste en que desde edades muy tempranas sus personajes articulan normas de conducta y emociones con las que las niñas se identifican. Fernández-Artigas et al. (2019), Bueno-Serrano (2020) y Larrús (2020) coinciden en que la LIJ es determinante para la conformación de la identidad de género, para la conservación de roles hipostasiados y para fomentar o prevenir actitudes sexistas. Por eso, analizar qué modelos de género difunden estas obras es, como escribe Gómez-López-Quiñones, 'casi un deber ético'."
+        },
+        {
+          "id": "hab-apertura-2",
+          "triggerLabel": "La herencia estereotipada que aún pesa",
+          "type": "theory",
+          "content": "Hasta los años 70, la LIJ tendió a asociar a los personajes masculinos con valores activos, públicos e intelectuales, mientras relegaba a los femeninos a roles pasivos y domésticos. Fuentes-Kren (2018) señala que se asocia simbólicamente a las mujeres con la naturaleza y a los hombres con la cultura y la creación de símbolos. De hecho, uno de los clichés tradicionalmente asignados a la mujer es el del 'poco desarrollo intelectual' (Fernández-Artigas et al., 2019, p. 64). Sanjuán-Álvarez y Ballarín-Artigas (2019) demostraron que uno de los objetos más frecuentemente asociados a la mujer en la LIJ es el delantal, mientras que las gafas —metonimia de formación e inteligencia lógica— aparecen vinculadas a los hombres."
+        },
+        {
+          "id": "hab-apertura-3",
+          "triggerLabel": "Virginia Woolf y la habitación propia como clave de lectura",
+          "type": "theory",
+          "content": "El título del artículo remite al célebre ensayo A Room of One's Own (1929/2014), donde Virginia Woolf afirmó que 'a woman must have money and a room of her own' para poder leer, formarse y actuar con autonomía. Gómez-López-Quiñones toma esta metáfora y la aplica a su corpus: en las 35 obras analizadas, la lectura misma funciona como esa habitación simbólica —un espacio inmaterial donde la niña gana entereza, reciedumbre y confianza en sí misma—. Pero da un paso más: las protagonistas de estos libros no se quedan en la habitación. Salen de ella para intervenir en la realidad."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La literatura infantil ha sido, durante mucho tiempo, una máquina silenciosa de asignación de roles. A los niños se les vincula con la cultura, la inteligencia y la acción pública; a las niñas, con la naturaleza, el hogar y la pasividad. Hierro (2001) mostró cómo la narrativa infantil ha expuesto históricamente una imagen rígida y sexista que erige al hombre como superior, más fuerte y racional, y a la mujer como débil e inferior en sus capacidades intelectuales. Esta división no es inocente: asocia a la mujer con el 'poco desarrollo intelectual' y le niega el estatus de sujeto de conocimiento. Y aunque desde la segunda mitad del siglo XX han aparecido obras con mensajes más igualitarios —Zipes (1987) y Lurie (1990) ya documentaron ese germen revolucionario—, lo cierto es que incluso en la LIJ contemporánea los personajes femeninos protagonistas abundan menos que los masculinos y suelen aparecer representados de forma más estereotipada (Aguilar-Ródenas, 2007; Fuentes-Kren, 2018; Fernández-Artigas et al., 2019; Regueiro-Salgado, 2019; Sanjuán-Álvarez y Ballarín-Artigas, 2019; Bueno-Serrano, 2020; Larrús, 2020). La pregunta que se hace Gómez-López-Quiñones es pertinente: en un corpus de 35 obras premiadas del siglo XXI escritas por mujeres, con niñas lectoras como protagonistas, ¿qué papel juega exactamente la lectura? ¿Es un mero hobby, una puerta hacia la autonomía, o una herramienta de transformación social?",
+      "porQueImporta": "Porque los cuentos se leen antes de que aprendamos a cuestionar. Si las niñas crecen viendo que los libros, la ciencia y la aventura intelectual 'son cosa de otros', se perpetúa una brecha que el feminismo lleva siglos intentando cerrar. Pero si, por el contrario, la lectura se muestra como herramienta de autoconocimiento, sororidad, rebelión y acción, la LIJ puede convertirse en un espacio de empoderamiento real. Ballarín-Domingo e Iglesias-Galdo (2018) lo resumen así: 'Feminismo y educación caminan juntos. La educación es la primera reivindicación de las feministas y está presente en su agenda de todos los tiempos'. Lo que está en juego no es solo qué leen las niñas, sino qué idea de sí mismas extraen de esas lecturas.",
+      "dataPoints": [
+        "Se analizaron 35 obras premiadas de literatura infantil estadounidense publicadas entre 2000 y 2021, todas escritas por mujeres, con protagonistas femeninas lectoras y destinadas a público de 0 a 12 años.",
+        "Hasta los años 70, la LIJ asociaba sistemáticamente a los personajes femeninos con roles pasivos y domésticos, y a los masculinos con lo activo, público e intelectual.",
+        "Sanjuán-Álvarez y Ballarín-Artigas (2019) demostraron que el delantal es uno de los objetos más asociados a la mujer en la LIJ, mientras que las gafas —metonimia de inteligencia— aparecen vinculadas a los hombres.",
+        "Incluso en la LIJ contemporánea, las protagonistas femeninas abundan menos que las masculinas y son representadas de forma más estereotipada (según 7 estudios citados en el artículo).",
+        "Sin embargo, a partir del siglo XXI la LIJ ha ido cediendo cada vez más espacio a roles femeninos diversos: guerreras, filósofas, rebeldes y lectoras compulsivas (Revista Babar, 2017)."
+      ],
+      "glossary": [
+        {
+          "term": "Literatura infantil y juvenil (LIJ)",
+          "definition": "Conjunto de obras destinadas a lectores en edades tempranas que funcionan como vehículo de socialización y transmisión de valores culturales, ideológicos y de género desde la primera infancia."
+        },
+        {
+          "term": "Feminismo liberal",
+          "definition": "Corriente que reivindica la igualdad formal entre mujeres y hombres, especialmente a través del acceso a la educación y al ámbito público. Woolf es una de sus figuras emblemáticas, y Ballarín-Domingo e Iglesias-Galdo (2018) subrayan que la educación ha sido la primera reivindicación feminista de todos los tiempos."
+        },
+        {
+          "term": "Habitación propia",
+          "definition": "Metáfora de Virginia Woolf (1929/2014) que designa las condiciones materiales y simbólicas —dinero, tiempo, espacio sin interrupciones— que una mujer necesita para pensar, crear y ser autónoma. En el artículo, la lectura misma funciona como esa habitación inmaterial."
+        },
+        {
+          "term": "Estereotipo de género en la LIJ",
+          "definition": "Representación rígida que asigna rasgos, roles o comportamientos a mujeres y hombres de manera excluyente y repetida. Según Hierro (2001), la narrativa infantil ha erigido históricamente al hombre como superior y racional, y a la mujer como débil e inferior en sus capacidades intelectuales."
+        },
+        {
+          "term": "Sororidad lectora",
+          "definition": "Vínculo de solidaridad y apoyo mutuo entre personajes femeninos —amigas, hermanas, madres e hijas— que se construye y refuerza a través de la lectura compartida, el préstamo de libros y el intercambio de historias."
+        },
+        {
+          "term": "Empoderamiento lector",
+          "definition": "Proceso mediante el cual la lectura deja de ser un mero pasatiempo para convertirse en una herramienta de investigación, resolución de problemas, autoconocimiento y acción transformadora sobre la realidad."
+        },
+        {
+          "term": "Autoconciencia étnica a través de la lectura",
+          "definition": "Fenómeno observado en el corpus donde las protagonistas afroamericanas utilizan la lectura de diarios, poemas y documentos para entender su identidad étnica y su historia familiar, vinculando emancipación de género y emancipación racial."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "hab-conflicto-1",
+          "triggerLabel": "Objetos que hablan: delantal versus gafas",
+          "type": "data",
+          "content": "Sanjuán-Álvarez y Ballarín-Artigas (2019) concluyeron, en un estudio de investigación-acción con niños y niñas de 5 años, que uno de los objetos más frecuentemente asociados a la mujer en la LIJ es el delantal, mientras que las gafas —metonimia de formación e inteligencia lógica— aparecen abrumadoramente vinculadas a los hombres. Este hallazgo es especialmente revelador porque muestra que el sexismo en la LIJ no opera solo en los grandes arcos narrativos sino también en el nivel microscópico de los objetos cotidianos que rodean a los personajes."
+        },
+        {
+          "id": "hab-conflicto-2",
+          "triggerLabel": "La evolución de los roles femeninos en la LIJ",
+          "type": "theory",
+          "content": "A partir de la segunda mitad del siglo XX comienzan a aparecer obras con mensajes más igualitarios (Zipes, 1987; Lurie, 1990). Sin embargo, no es hasta el siglo XXI cuando la LIJ empieza a ceder de forma consistente espacio a roles femeninos diversos. Hoy encontramos heroínas de todo tipo: guerreras, filósofas, rebeldes y, como en el corpus que nos ocupa, lectoras compulsivas (Revista Babar, 2017). Aguilar-Ródenas (2007) y Regueiro-Salgado (2020) documentan este tránsito de las princesas pasivas a las protagonistas agentivas."
+        },
+        {
+          "id": "hab-conflicto-3",
+          "triggerLabel": "Educación como primera reivindicación feminista",
+          "type": "theory",
+          "content": "Ballarín-Domingo e Iglesias-Galdo (2018, p. 38) lo formulan de manera contundente: 'Feminismo y educación caminan juntos. La educación es la primera reivindicación de las feministas y está presente en su agenda de todos los tiempos'. Esta idea recorre todo el artículo y fundamenta la tesis central: si la lectura y la educación son la puerta de entrada de las mujeres al ámbito público, entonces representar a las niñas como lectoras en la LIJ no es un detalle inocente, sino un acto político."
+        },
+        {
+          "id": "hab-conflicto-4",
+          "triggerLabel": "La advertencia de Esther Tusquets: mujeres que leen como amenaza",
+          "type": "theory",
+          "content": "Esther Tusquets (2006) recordó que durante siglos muchos hombres vieron a las mujeres que leen como sospechosas, 'tal vez porque la lectura podía minar en ellas una de las cualidades que más valoran: la sumisión'. Leer les dio mayor confianza en su propio valer, las hizo más autónomas y les abrió nuevos horizontes. Esta sospecha histórica hacia la mujer lectora es el telón de fondo contra el que las 35 obras del corpus construyen un contra-relato de empoderamiento."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Cómo se construyó el corpus: 35 obras, 7 criterios y 6 preguntas",
+      "narrativa": "Para no perderse entre todos los libros publicados desde el año 2000, Gómez-López-Quiñones delimitó un corpus muy preciso con siete criterios simultáneos: obras originalmente escritas en inglés, dirigidas a público de 0 a 12 años, publicadas entre 2000 y 2021, escritas por mujeres con nacionalidad o residencia estadounidense, protagonizadas por personajes femeninos, de ficción —no biografías— y, además, premiadas. ¿Por qué premiadas? Porque suelen tener mayor visibilidad en bibliotecas, aulas y hogares, lo que hace su influencia simbólica particularmente relevante. Para confeccionar la lista, recurrió a dos tipos de fuentes: galardones de prestigio como la Medalla Caldecott, el Astrid Lindgren Memorial Award, el Ezra Jack Keats Award y el Children's Literature Legacy Award, y repositorios y revistas como Horn Book Magazine, Kirkus Reviews, la 2x2 Reading List de la Texas Library Association y las listas de Best Books de Publishers Weekly. A partir de ahí, realizó un análisis cualitativo, descriptivo e interpretativo, rastreando la relación de las protagonistas con la lectura tanto en los textos como en las ilustraciones —porque, como advierte citando a García-Villanueva y Hernández-Ramírez (2016), los comportamientos estereotipados se manifiestan en la LIJ tanto a través de la letra como de la imagen—. Pero la autora no se limitó a constatar que las niñas leen: aplicó seis criterios de análisis exigentes —impacto en el hilo argumental, diversidad sociocultural y étnica, la lectura como algo más que una afición, conexión con otras y consigo mismas, búsqueda de soluciones y capacidad de rebelión y empoderamiento— para asegurarse de que la lectura en estas obras es realmente transformadora y no meramente decorativa.",
+      "detalles": [
+        {
+          "label": "Corpus",
+          "value": "35 obras de literatura infantil estadounidense contemporánea, todas de ficción y premiadas"
+        },
+        {
+          "label": "Período de publicación",
+          "value": "2000-2021 (21 años de producción literaria)"
+        },
+        {
+          "label": "Público destinatario",
+          "value": "0 a 12 años (primera infancia e infancia)"
+        },
+        {
+          "label": "Criterios de selección (7)",
+          "value": "Inglés original, 0-12 años, 2000-2021, autoras estadounidenses, protagonistas femeninas, ficción, obras premiadas"
+        },
+        {
+          "label": "Criterios de análisis (6)",
+          "value": "Impacto argumental, diversidad sociocultural y étnica, lectura más allá de afición, conexión con otras y consigo mismas, búsqueda de soluciones, rebelión y empoderamiento"
+        },
+        {
+          "label": "Fuentes de selección",
+          "value": "Medalla Caldecott, Astrid Lindgren Memorial Award, Ezra Jack Keats Award, Children's Literature Legacy Award, Horn Book Magazine, Kirkus Reviews, 2x2 Reading List (Texas Library Association), Best Books (Publishers Weekly)"
+        },
+        {
+          "label": "Metodología",
+          "value": "Investigación documental cualitativa: análisis descriptivo e interpretativo de textos e ilustraciones (Ramírez-Atehortúa y Zwerg-Villegas, 2012)"
+        },
+        {
+          "label": "Autores del corpus (selección)",
+          "value": "Kate DiCamillo, Meg Cabot, Grace Lin, Cynthia Rylant, Jacqueline Woodson, Rita Williams-García, Nikki Grimes, Vita Murrow, Amy Krouse Rosenthal, entre otras"
+        }
+      ],
+      "limitaciones": [
+        "El corpus se restringe a obras premiadas escritas en inglés por autoras estadounidenses, lo que deja fuera toda la producción en español, otras lenguas y la literatura no premiada.",
+        "El análisis es cualitativo y descriptivo; no mide de forma cuantitativa el impacto real de estos libros en sus lectoras y lectores ni contrasta con un grupo de control.",
+        "El foco exclusivo en Estados Unidos dificulta extrapolar los resultados a otros contextos culturales donde las dinámicas de género y lectura pueden ser diferentes.",
+        "Aunque se analizan texto e ilustraciones, el estudio no incluye un análisis sistemático de la recepción lectora ni entrevistas a las autoras (salvo la entrevista a DiCamillo citada en las conclusiones)."
+      ],
+      "reflexion": "¿Crees que el hecho de que un libro haya ganado un premio garantiza que transmite valores igualitarios?",
+      "deepDives": [
+        {
+          "id": "hab-viaje-1",
+          "triggerLabel": "Los seis criterios de análisis en detalle",
+          "type": "method",
+          "content": "Gómez-López-Quiñones no se conformó con constatar que las protagonistas leen. Evaluó si la lectura impactaba el hilo argumental, si las protagonistas mostraban diversidad sociocultural y étnica representando distintos modelos de feminidad, si la lectura era más que una afición, si conectaba a las niñas consigo mismas y con otros personajes, si les ayudaba a buscar soluciones y alternativas en su vida, y si les permitía rebelarse y empoderarse. Solo las obras que superaban estos seis filtros fueron consideradas como ejemplos genuinos de una LIJ transformadora en términos de género."
+        },
+        {
+          "id": "hab-viaje-2",
+          "triggerLabel": "Por qué obras premiadas y no una muestra aleatoria",
+          "type": "method",
+          "content": "La autora eligió obras premiadas deliberadamente porque estos libros suelen tener mayor visibilidad y circulación en bibliotecas, aulas y hogares. Su influencia simbólica es, por tanto, particularmente relevante: son los libros que con más probabilidad llegarán a manos de las niñas. Las fuentes de selección combinan galardones institucionales (Caldecott, Lindgren, Keats, Legacy Award) con revistas especializadas y listas de asociaciones de bibliotecarios, cubriendo así tanto el reconocimiento del sector como la validación de la crítica."
+        },
+        {
+          "id": "hab-viaje-3",
+          "triggerLabel": "Texto e imagen: el análisis no se queda en las palabras",
+          "type": "method",
+          "content": "Citando a García-Villanueva y Hernández-Ramírez (2016), la investigación subraya que los comportamientos estereotipados se manifiestan en la LIJ tanto a través de la letra escrita como a través de las imágenes que la acompañan. Por eso el análisis rastrea la presencia de niñas lectoras no solo en los textos sino también en las ilustraciones: la niña leyendo en el asiento de la ventana, en la librería, en el fuerte de almohadas, con un libro en las manos. Estas imágenes construyen un imaginario visual de la niña lectora tan potente como las propias tramas."
+        },
+        {
+          "id": "hab-viaje-4",
+          "triggerLabel": "El corpus completo: autoras y obras",
+          "type": "data",
+          "content": "El corpus de 35 obras incluye, entre otras: Allie Finkle's Rules for Girls de Meg Cabot (2008-2016), Bink and Gollie de Kate DiCamillo y Alison McGhee (2010-2013), Ling & Ting de Grace Lin (2010-2014), Rosetown de Cynthia Rylant (2007/2018), Show Way de Jacqueline Woodson (2005/2006), The Beatryce Prophecy de Kate DiCamillo (2021), The Doll People de Ann M. Martin y Laura Godwin (2000), Words with Wings y Poems in the Attic de Nikki Grimes (2013, 2015), One Crazy Summer y P.S. Be Eleven de Rita Williams-García (2010, 2013), Power to the Princess de Vita Murrow (2018), The Only Black Girls in Town de Brandy Colbert (2021), Poetree de Shauna LaVoy Reynolds (2019), Not Little de Maya Myers (2021), y Dory Fantasmagory de Abby Hanlon (2016), entre otras."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "La habitación que la lectura abre: del hobby a la transformación del mundo",
+      "narrativa": "Lo que Gómez-López-Quiñones encontró al analizar las 35 obras es mucho más rico que una simple afición por los libros. La lectura aparece como un vector que recorre cinco niveles de profundidad creciente. En el primer nivel, es un hobby compartido que crea vínculos de sororidad: las hermanas Ling y Ting se compran libros pensando en intercambiarlos, Bink y Gollie convierten la lectura en rutina de amistad, Flora y su madre en Rosetown comparten club de lectura. En el segundo nivel, la lectura reclama y construye una habitación propia: Gollie se encierra con un cartel que advierte 'Further interruptions will NOT be tolerated', Allie Finkle defiende su asiento junto a la ventana, y la metáfora del fuerte inexpugnable aparece en You Are a Reader y en las ilustraciones de Layla's Happiness. En el tercer nivel, la lectura media con la realidad: Allie escribe reglas para gestionar sus emociones, las protagonistas de The Only Black Girls in Town descifran diarios ajenos y el suyo propio, Sylvia en Poetree hace su primer amigo a través de poemas, y la niña de Poems in the Attic reconstruye la historia de su madre mediante una caja de versos encontrada en el ático. En el cuarto nivel, la lectura se convierte en acción: Annabelle resuelve el misterio de su tía leyendo libros y diarios, Aurora investiga y publica papers sobre su trastorno de sueño, y Beatryce —en un mundo donde las niñas no están alfabetizadas— aprende a leer y enseñar a otros, provocando la desconfianza de los personajes masculinos que querrían silenciarla. Y en el quinto nivel, el más profundo, la lectura cambia el futuro: en Show Way, Georgiana, la primera mujer afroamericana de su familia que aprende a leer y escribir, transforma el destino de siete generaciones —sus descendientes serán poetas, pintoras y escritoras— en una emancipación que es a la vez de género y de raza. Y en contraste, los niños de estas mismas historias aparecen frecuentemente como disruptivos en clase, menos interesados en las historias ajenas y con peor rendimiento académico. El patrón es inequívoco: la lectura no es un adorno en estas obras. Es el motor del argumento.",
+      "hallazgos": [
+        {
+          "label": "1. La lectura como hobby compartido y vínculo de sororidad",
+          "value": "En obras como Bink and Gollie (DiCamillo, 2010-2013), Ling and Ting (Lin, 2010-2014) o Rosetown (Rylant, 2007/2018), la lectura es una pasión que une a niñas, hermanas, amigas y madres. Las hermanas Ling y Ting compran libros pensando en intercambiarlos: 'I will buy this book for Ting. Maybe she will share it with me'. En Rosetown, Flora es una lectora compulsiva que declara 'I like letters and I like words', su madre participa en un club de lectura y Miss Meriwether fundó su propia librería de segunda mano. La lectura compartida crea una suerte de sororidad infantil que se refuerza en las ilustraciones: niñas leyendo juntas en la cama, en la librería, en el sofá. En Bedtime for mommy (Rosenthal, 2010) y How to babysit a grandma (Reagan, 2014), la lectura es también un lazo intergeneracional."
+        },
+        {
+          "label": "2. Una habitación propia: el espacio íntimo de la lectura",
+          "value": "Las protagonistas reclaman activamente espacios físicos e íntimos para leer. En Bink and Gollie, Gollie se encierra a leer y deja notas en su puerta: 'To whom it may concern: Further interruptions will NOT be tolerated. Bink, I implore you, do NOT knock'. Allie Finkle (Cabot, 2008-2016) tiene su lugar favorito: 'my favorite reading spot —on my window seat'— y protesta abiertamente: 'I would like to have some privacy once in a while'. La metáfora del fuerte inexpugnable de la lectura aparece en You Are a Reader (Prince, 2021): 'There is cozy reading on your bed. Or inside a fort instead'. Woolf resuena en cada una de estas escenas: la habitación propia no es un lujo, es una condición de la autonomía."
+        },
+        {
+          "label": "3. La lectura como mediación con la realidad",
+          "value": "Allie Finkle necesita escribir y leer reglas para organizar su mundo, gestionar sus emociones y establecer principios éticos: la escritura y la lectura son mediadoras entre su mundo privado y el exterior. En The Only Black Girls in Town (Colbert, 2021), dos amigas resuelven un misterio a través de diarios y toman autoconciencia étnica. En Words with Wings (Grimes, 2013) y List of Things That Will Not Change (Stead, 2020), las protagonistas procesan el divorcio de sus padres leyendo y escribiendo. En Poetree (Reynolds, 2019), Sylvia hace su primer amigo intercambiando poemas atados a un árbol. En Poems in the Attic (Grimes, 2015), la protagonista descubre la historia de su madre en una caja de poemas y luego deja la suya propia como relevo intergeneracional. En Dear Substitute (Scanlon y Vernick, 2018), la nueva maestra solo logra acercarse a la niña protagonista a través de la poesía. En Not Little (Myers, 2021), la protagonista reivindica su lugar en el mundo a través de la lectura: 'At the library, they ask if I am sure I want to check out such hard books'."
+        },
+        {
+          "label": "4. De la reflexión a la acción: la lectura como herramienta de intervención",
+          "value": "En The Doll People (Martin y Godwin, 2000), Annabelle resuelve el misterio de su tía desaparecida consultando libros y el diario de aquella, donde encuentra entradas como 'Time has come for another adventure. I need to develop a greater understanding of the creatures of this house'. Decide salir de su casa segura para buscarla. En la reinterpretación de Sleeping Beauty (Murrow, 2018), Aurora no espera al príncipe: investiga cómo curar su propio conjuro, publica sus hallazgos y escribe papers sobre su experiencia con un trastorno de sueño. En The Beatryce Prophecy (DiCamillo, 2021), Beatryce vive en un mundo donde las niñas no están alfabetizadas; sin embargo, ella sabe leer y escribir, enseña a otros personajes y mediante el aprendizaje de la lectoescritura la vida de todos empieza a mejorar. Los personajes masculinos quieren silenciarla, pero ella no se deja. DiCamillo declaró en entrevista: 'I couldn't be silenced because I could read and write'."
+        },
+        {
+          "label": "5. La lectura como transformación del futuro: género y raza",
+          "value": "En Show Way (Woodson, 2005/2006), se narra la historia de siete generaciones de una familia afroamericana. Georgiana es la primera mujer que aprende a leer y escribir, llega a ser maestra de escuela y transforma el destino familiar: sus descendientes serán poetas, pintoras y escritoras. 'People say about Georgiana: She always had a book in her hand'. La emancipación es de género y de raza simultáneamente. En One Crazy Summer (Williams-García, 2010), Cecile abandona su hogar a finales de los 60 para luchar por los derechos de la comunidad negra a través de la poesía; su hija Delphine es una apasionada lectora del diccionario Merriam Webster. En Zade (Murrow, 2018), la protagonista lee 'tales of history, poetry, philosophy, sciences, and the arts' y gracias a ello se convierte en socia del sultán en un negocio común. El patrón es nítido: la educación no perpetúa desigualdades, las revierte."
+        },
+        {
+          "label": "6. El contraste con los personajes masculinos",
+          "value": "En la serie Allie Finkle (Cabot, 2008-2016), los niños son peores estudiantes y disruptivos en clase. En P.S. Be Eleven (Williams-García, 2013), al trabajar en grupos, son siempre las niñas las más responsables. Tusquets (2006) ya había señalado: 'los niños dan menos valor a la lectura, se mueven más, escuchan menos. Los varones se interesan menos por las historias de los otros. Nosotras sentimos una curiosidad insaciable por los otros'. Y Laure Adler sostiene que existe 'un nexo especial entre la mujer y el libro: circula entre ellos y nosotras una corriente cálida, una afinidad secreta, una relación extraña y singular'. En Rosetown, la madre de Flora trabaja en una librería porque 'it put her in touch with paper. Holding books and seeing the printed black ink on the pages made her mother happy. She felt useful. Useful to books'."
+        }
+      ],
+      "dataPoints": [
+        "Las protagonistas leen todo tipo de textos: novelas, poesía, atlas, etnografía, historia, manuales de biología, textos científicos, libros sobre arquitectura y libros escolares. No hay género textual que quede fuera de su alcance.",
+        "En The Beatryce Prophecy (DiCamillo, 2021), una niña que sabe leer en un mundo donde las niñas no están alfabetizadas enseña a otros personajes y mejora sus vidas. Los personajes masculinos quieren silenciarla, pero ella no se deja: 'I couldn't be silenced because I could read and write'.",
+        "En Show Way (Woodson, 2005/2006), Georgiana es la primera mujer de una familia afroamericana que aprende a leer y escribir, y ese hecho transforma el destino de siete generaciones: sus descendientes serán poetas, pintoras y escritoras.",
+        "En Power to the Princess (Murrow, 2018), Aurora investiga su trastorno de sueño, publica papers y busca curar su propio conjuro. Rapunzel estudia bajo la guía de la hechicera Gothel. Las princesas dejan de ser objetos pasivos del cuento.",
+        "En Not Little (Myers, 2021), la protagonista reivindica su lugar en el mundo a través de la lectura: 'At the library, they ask if I am sure I want to check out such hard books'.",
+        "Allie Finkle (Cabot) escribe reglas para organizar su mundo, gestionar emociones y establecer principios éticos. La lectura y la escritura son mediadoras entre su mundo privado y el exterior.",
+        "Gollie (Bink and Gollie) se encierra a leer con un cartel: 'To whom it may concern: Further interruptions will NOT be tolerated'. Allie Finkle protesta: 'I would like to have some privacy once in a while'. Ambas reclaman su habitación propia woolfiana.",
+        "En contraste, los personajes masculinos del corpus aparecen como peores estudiantes, disruptivos y menos interesados en las historias ajenas (Tusquets, 2006; Cabot, 2008-2016; Williams-García, 2013)."
+      ],
+      "reflexion": "¿Qué personaje femenino lector recuerdas de tu infancia y qué te enseñó sobre ser niña o mujer?",
+      "deepDives": [
+        {
+          "id": "hab-revelacion-1",
+          "triggerLabel": "Bink and Gollie: la lectura como amistad respetuosa",
+          "type": "data",
+          "content": "En la serie de Kate DiCamillo y Alison McGhee (2010-2013), la lectura forma parte de la rutina de dos amigas. A veces es el punto de partida de aventuras y, otras, Gollie necesita encerrarse a leer sin interrupciones. Lo fascinante es que Bink respeta ese espacio. La amistad no exige disponibilidad permanente: el vínculo se fortalece precisamente porque cada una tiene su tiempo propio. Es una lección de sororidad que va mucho más allá del cuento infantil."
+        },
+        {
+          "id": "hab-revelacion-2",
+          "triggerLabel": "Allie Finkle: reglas para entender el mundo",
+          "type": "data",
+          "content": "La protagonista de Meg Cabot (2008-2016) escribe una lista de reglas para organizar su mundo, gestionar emociones y establecer principios éticos. La lectura y la escritura son mediadoras entre su mundo privado y el exterior. Es una excelente estudiante con calificaciones sobresalientes, y en su universo escolar los niños aparecen como peores estudiantes y más disruptivos. La serie muestra que ser buena estudiante no es un estigma sino una forma de agencia."
+        },
+        {
+          "id": "hab-revelacion-3",
+          "triggerLabel": "The Doll People: leer para resolver, salir y actuar",
+          "type": "data",
+          "content": "Annabelle (Martin y Godwin, 2000) resuelve el misterio de su tía desaparecida leyendo libros y el diario de ella. El impulso de comprender la realidad la lleva a salir de su casa segura y actuar. El diario de la tía Sarah contiene entradas como: 'Time has come for another adventure. I need to develop a greater understanding of the creatures of this house'. Este impulso científico —observar, registrar, investigar— es heredado por Annabelle, que abandona el espacio doméstico para buscar respuestas en el mundo exterior."
+        },
+        {
+          "id": "hab-revelacion-4",
+          "triggerLabel": "Power to the Princess: las princesas se emancipan",
+          "type": "data",
+          "content": "En la reinterpretación de Vita Murrow (2018), Aurora investiga cómo curar su propio conjuro de sueño y publica sus hallazgos. Blancanieves dedica su tiempo libre a leer periódicos e historias. Rapunzel estudia bajo la guía de la hechicera Gothel desde muy pequeña. Las princesas dejan de ser objetos pasivos del cuento y se convierten en sujetos de conocimiento. Es una reescritura feminista del canon que opera desde dentro de los propios cuentos de hadas."
+        },
+        {
+          "id": "hab-revelacion-5",
+          "triggerLabel": "Show Way: cuando una mujer aprende a leer, siete generaciones cambian",
+          "type": "data",
+          "content": "Jacqueline Woodson (2005/2006) cuenta la historia de siete generaciones de una familia afroamericana, desde las tatarabuelas esclavas en los campos de algodón del sur hasta la narradora contemporánea. Georgiana, la abuela, es la primera mujer de la familia que aprende a leer y escribir, y se convierte en maestra de escuela. 'People say about Georgiana: She always had a book in her hand'. La alfabetización de una sola mujer desencadena una cadena de poetas, pintoras y escritoras. La emancipación es simultáneamente de género y de raza."
+        },
+        {
+          "id": "hab-revelacion-6",
+          "triggerLabel": "Dory Fantasmagory: la lectura como Superpoder",
+          "type": "data",
+          "content": "En Dory Fantasmagory: Dory Dory Black Sheep (Hanlon, 2016/2017), la protagonista se ve afectada por sus dificultades en el aprendizaje de la lectoescritura. No solo se frustra porque la obligan a leer libros para bebés poco estimulantes, sino que se ve relegada cuando su mejor amiga se sienta a leer con otra niña, creando un vínculo del que Dory no puede participar. Finalmente, decide que ella también va a aprender a leer —incluso habla de la lectura como un Superpoder—, mostrando que el deseo de pertenecer a la comunidad lectora puede ser un motor de aprendizaje tan potente como la instrucción formal."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Woolf, el feminismo liberal y la habitación propia como clave hermenéutica",
+      "narrativa": "Para interpretar por qué importa tanto que una niña lea, Gómez-López-Quiñones se apoya en dos pilares teóricos complementarios. El primero es el feminismo liberal, que sostiene que la educación es la primera reivindicación del movimiento feminista y la condición sine qua non para que las mujeres accedan al ámbito público y ejerzan autonomía. Ballarín-Domingo e Iglesias-Galdo (2018, p. 38) lo formulan así: 'Feminismo y educación caminan juntos'. Pero es Virginia Woolf quien proporciona la metáfora vertebradora del artículo. En A Room of One's Own (1929/2014), Woolf argumenta que no basta con tener acceso a los libros: hacen falta dinero, tiempo y una habitación propia —un espacio sin interrupciones donde pensar— para que una mujer pueda crear y ser libre. En el corpus analizado, la lectura misma cumple esa función simbólica: es una habitación inmaterial donde la niña se construye como sujeto, gana entereza, reciedumbre y confianza en sí misma. Pero el hallazgo más interesante del artículo es que estas protagonistas no se quedan en la habitación. Superan la tesis de origen ilustrado según la cual el sujeto intelectual alcanza su emancipación en el campo de las ideas: ellas llevan lo leído a la práctica y cambian su entorno. Annabelle sale de la casa de muñecas para buscar a su tía. Aurora publica sus hallazgos para ayudar a otras. Beatryce enseña a leer en un reino que quiere silenciarla. Y Georgiana transforma el destino de siete generaciones. La lectura en estas obras no es evasión: es intervención. No es refugio: es puente hacia el mundo. Y en ese tránsito de la reflexión a la acción, estas niñas lectoras encarnan un feminismo que no se conforma con la igualdad formal, sino que exige la transformación material de la realidad.",
+      "detalles": [
+        {
+          "label": "Feminismo liberal y educación",
+          "value": "Corriente que defiende que la educación es el primer paso para el acceso de la mujer al ámbito público y su empoderamiento. Ballarín-Domingo e Iglesias-Galdo (2018) sostienen que 'la educación es la primera reivindicación de las feministas y está presente en su agenda de todos los tiempos'."
+        },
+        {
+          "label": "Habitación propia (Woolf, 1929/2014)",
+          "value": "Metáfora que combina condiciones materiales —dinero, espacio físico, tiempo sin interrupciones— con la posibilidad de leer, reflexionar y crear. Woolf: 'a woman must have money and a room of her own'. En el corpus, la lectura misma se convierte en esa habitación simbólica."
+        },
+        {
+          "label": "Lectura como espacio inmaterial de construcción del sujeto",
+          "value": "En las 35 obras, leer es un lugar donde la niña gana entereza, reciedumbre y confianza en sí misma. Pero no es un espacio de retiro: es una plataforma desde la que se sale al mundo. Las protagonistas 'superan la tesis de origen ilustrado según la cual el sujeto intelectual alcanza su emancipación en el campo de las ideas'."
+        },
+        {
+          "label": "De la reflexión a la acción: el salto cualitativo",
+          "value": "Las protagonistas del corpus no se limitan a desarrollar una interioridad fuerte o una percepción compleja de sí mismas: se convierten en sujetos prácticos que ponen en práctica lo asimilado en la soledad de su cuarto e intervienen para cambiar un determinado estado de cosas."
+        },
+        {
+          "label": "La advertencia de Tusquets: leer como amenaza al orden patriarcal",
+          "value": "Tusquets (2006, pp. 11-19) recuerda que durante siglos muchos hombres vieron a las mujeres que leen como sospechosas. La lectura les dio 'mayor confianza en su propio valer, las hizo más autónomas, las ayudó a pensar por sí mismas, les abrió nuevos horizontes'. Beatryce, cuya alfabetización provoca desconfianza entre los personajes masculinos, es la encarnación literaria de esta amenaza."
+        }
+      ],
+      "reflexion": "¿Puede la lectura sola cambiar la realidad si no hay condiciones materiales —tiempo, espacio, educación— que la sostengan?",
+      "deepDives": [
+        {
+          "id": "hab-marco-1",
+          "triggerLabel": "La sospecha histórica hacia la mujer lectora",
+          "type": "theory",
+          "content": "Tusquets (2006) documentó cómo, durante siglos, las mujeres que leían fueron consideradas sospechosas porque la lectura podía minar su sumisión. Esta sospecha resuena en The Beatryce Prophecy, donde los personajes masculinos quieren silenciar a la protagonista precisamente porque sabe leer en un mundo que niega la alfabetización a las niñas. DiCamillo lo resume: 'I felt like I could do anything because I could read. I couldn't be silenced because I could read and write' (DiCamillo/Schulze, 2021)."
+        },
+        {
+          "id": "hab-marco-2",
+          "triggerLabel": "Lectura y escritura: las dos caras de la misma puerta",
+          "type": "theory",
+          "content": "El artículo destaca el vínculo inevitable entre lectura y escritura, citando a Prince (2021): 'Readers are writers and writers are readers'. Escribir es la otra cara de la habitación propia woolfiana: la forma de dejar huella, de no ser silenciada, de pasar del consumo pasivo de historias a la producción activa de sentido. Las protagonistas no solo leen: escriben reglas (Allie), poemas (Sylvia, la madre en Poems in the Attic), diarios (Annabelle, la tía Sarah), papers científicos (Aurora). Woolf exhortaba a las mujeres a escribir libros 'for your good and for the good of the world at large'. Estas niñas ya lo están haciendo."
+        },
+        {
+          "id": "hab-marco-3",
+          "triggerLabel": "¿Refuerza la lectura los roles de género al confinar a la niña al espacio privado?",
+          "type": "limitation",
+          "content": "Una posible crítica es que presentar a las niñas leyendo las confina al espacio privado —'en relación con el consumo de la LIJ, dicha tradición la ha presentado como «cosa de niñas»' (Fuentes-Kren, 2018, p. 163)—. Pero el artículo demuestra que en el corpus analizado la lectura no es un refugio domesticado sino una puerta hacia la acción pública y la transformación. Annabelle sale de su casa para investigar, Aurora publica sus hallazgos, Beatryce alfabetiza un reino, Georgiana se convierte en maestra. La 'habitación propia' no es una celda: es un punto de partida."
+        },
+        {
+          "id": "hab-marco-4",
+          "triggerLabel": "La LIJ como herramienta para eliminar estereotipos",
+          "type": "theory",
+          "content": "Bueno-Serrano (2020, p. 57) sostiene que la LIJ puede 'motivar la reflexión y, en última instancia, servir como punto de partida para la eliminación de ciertos estereotipos y prejuicios presentes entre el alumnado'. Gómez-López-Quiñones cierra el artículo con esta cita, subrayando que el análisis de estas 35 obras no es un ejercicio académico autorreferencial: es una contribución a un proyecto pedagógico y político de construcción de una LIJ más igualitaria y transformadora."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Puede la literatura infantil representar a las niñas como sujetas de conocimiento y transformación social?",
+      "conclusion": "Sí, y de manera contundente. El análisis de estas 35 obras de literatura infantil estadounidense contemporánea —todas premiadas, escritas por mujeres, con protagonistas femeninas lectoras y publicadas entre 2000 y 2021— muestra que la lectura concede a las niñas un espacio de emancipación, autoconocimiento y transformación de la realidad. No se trata de personajes que leen para evadirse, sino de protagonistas que leen para entenderse, conectar con otras mujeres, resolver problemas, rebelarse y actuar. Desde el feminismo liberal, la lectura y la educación aparecen como factores esenciales para que las mujeres accedan al ámbito público, se empoderen e intervengan en la realidad social. La habitación propia de Woolf deja de ser solo un cuarto: se convierte en biblioteca, en diario, en fortaleza y en puente hacia el mundo. Como declaró Kate DiCamillo sobre The Beatryce Prophecy: 'I was one of those kids who was desperate to learn how to read. I felt like I really needed it. It's that sense of empowerment — then I felt like I could do anything because I could read. I couldn't be silenced because I could read and write'. Esa es, en una frase, la tesis del artículo.",
+      "formalRef": "Gómez-López-Quiñones, L. (2023). Una habitación para ellas. Personajes femeninos y lectura en la literatura infantil estadounidense contemporánea. Ocnos, 22(2). https://doi.org/10.18239/ocnos_2023.22.2.340"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuántas obras conforman el corpus analizado y qué características compartían todas ellas?",
+          "options": [
+            "35 obras de literatura infantil estadounidense escritas por mujeres, con protagonistas femeninas lectoras, premiadas y publicadas entre 2000 y 2021",
+            "50 obras de literatura juvenil europea escritas por hombres y mujeres, sin criterio de premios",
+            "35 novelas gráficas estadounidenses con personajes masculinos y femeninos",
+            "20 álbumes ilustrados de autoras latinoamericanas publicados antes del año 2000"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué obra del corpus muestra de forma más explícita cómo la alfabetización de una sola mujer transforma el destino de varias generaciones?",
+          "options": [
+            "Show Way, donde Georgiana es la primera mujer afroamericana de su familia que aprende a leer y escribir, abriendo camino a poetas, pintoras y escritoras",
+            "Bink and Gollie, donde dos amigas comparten lecturas en su tiempo libre",
+            "Uni the Unicorn, donde un unicornio descubre la existencia de las niñas a través de los libros",
+            "Princess hair, donde una niña celebra la diversidad de peinados"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "Según los estudios citados en el artículo, ¿qué objeto ha funcionado tradicionalmente como metonimia de inteligencia en la LIJ y a qué género se ha asociado mayoritariamente?",
+          "options": [
+            "Las gafas, asociadas abrumadoramente a los personajes masculinos",
+            "El delantal, asociado a los personajes femeninos como símbolo de inteligencia práctica",
+            "La espada, como metáfora de astucia estratégica",
+            "El espejo, vinculado al autoconocimiento femenino"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué contraste encuentra el artículo entre la relación de niñas y niños con los libros en el corpus analizado?",
+          "options": [
+            "Las niñas protagonistas aparecen frecuentemente leyendo y los niños suelen mostrarse más disruptivos en clase, menos interesados en las historias ajenas y con peor rendimiento",
+            "Ambos géneros aparecen leyendo en proporciones exactamente iguales en todos los libros",
+            "Los niños leen considerablemente más que las niñas en la mayoría de las obras",
+            "El artículo no analiza personajes masculinos porque el corpus solo incluye protagonistas femeninas"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Virginia Woolf afirmaba que una mujer necesita dinero y una habitación propia para escribir. El artículo sugiere que la lectura misma puede ser esa habitación. ¿Crees que en el entorno digital actual —con notificaciones constantes y lectura fragmentada en pantallas— esa 'habitación propia' es más fácil o más difícil de conseguir que en 1929?"
+        },
+        {
+          "type": "open",
+          "q": "El corpus muestra a niñas que pasan de la lectura a la acción: investigan, escriben, enseñan y resuelven problemas. ¿Recuerdas algún libro de tu infancia que te hiciera sentir que podías intervenir en el mundo en lugar de solo contemplarlo? ¿Qué lo conseguía?"
+        },
+        {
+          "type": "open",
+          "q": "El artículo señala que incluso en la LIJ contemporánea las protagonistas femeninas son menos numerosas y más estereotipadas que los masculinos. Como docente, bibliotecaria o mediadora, ¿qué estrategias concretas emplearías para contrarrestar esa desigualdad en la selección de lecturas?"
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa conceptual: una habitación para ellas",
+      "descripcion": "Conexiones entre los conceptos centrales del análisis de Gómez-López-Quiñones sobre las 35 obras de LIJ estadounidense contemporánea.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Literatura infantil (LIJ)",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2",
+          "label": "Personajes femeninos lectores",
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "3",
+          "label": "Lectura como acción",
+          "color": "#a78bfa"
+        },
+        {
+          "id": "4",
+          "label": "Habitación propia (Woolf)",
+          "color": "#c4b5fd"
+        },
+        {
+          "id": "5",
+          "label": "Autoconocimiento",
+          "color": "#ec4899"
+        },
+        {
+          "id": "6",
+          "label": "Sororidad lectora",
+          "color": "#f472b6"
+        },
+        {
+          "id": "7",
+          "label": "Transformación social",
+          "color": "#fb7185"
+        },
+        {
+          "id": "8",
+          "label": "Educación y empoderamiento",
+          "color": "#f43f5e"
+        },
+        {
+          "id": "9",
+          "label": "Virginia Woolf",
+          "color": "#4c1d95"
+        },
+        {
+          "id": "10",
+          "label": "Feminismo liberal",
+          "color": "#6d28d9"
+        },
+        {
+          "id": "11",
+          "label": "Emancipación género + raza",
+          "color": "#be123c"
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "representa"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "practican"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "crea"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "permite"
+        },
+        {
+          "from": "3",
+          "to": "6",
+          "label": "fortalece"
+        },
+        {
+          "from": "3",
+          "to": "7",
+          "label": "desemboca en"
+        },
+        {
+          "from": "8",
+          "to": "7",
+          "label": "posibilita"
+        },
+        {
+          "from": "9",
+          "to": "4",
+          "label": "inspiró"
+        },
+        {
+          "from": "10",
+          "to": "8",
+          "label": "fundamenta"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "es forma de"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "incluye"
+        },
+        {
+          "from": "11",
+          "to": "8",
+          "label": "se logra mediante"
+        }
+      ]
+    }
+  }
+}

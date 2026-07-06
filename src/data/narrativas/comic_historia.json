@@ -1,0 +1,493 @@
+{
+  "id": "comic_historia",
+  "metadata": {
+    "title": "El cómic como lectura crítica de la historia en la construcción de la identidad y la diversidad territorial",
+    "authors": "Enric Falguera-García y Moisés Selfa-Sastre",
+    "year": "2023",
+    "journal": "Ocnos 22(1)",
+    "doi": "10.18239/ocnos_2023.22.1.337",
+    "gancho": "¿Puede una viñeta dibujada moldear la memoria de un país con más fuerza que un libro de texto?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#c73e1d",
+    "colorAlt": "#2b2d42",
+    "bg": "from-amber-700/20 to-stone-900/20",
+    "image": "https://picsum.photos/seed/comic_historia/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Enric Falguera, investigador en didáctica de la literatura y el cómic",
+      "gancho": "¿Puede una viñeta dibujada moldear la memoria de un país con más fuerza que un libro de texto?",
+      "contexto": "Imagina que abres un cómic y, sin darte cuenta, estás leyendo una versión de la historia que decide qué es Cataluña, desde dónde nace y contra qué o quién lucha. Eso es precisamente lo que hace el cómic histórico: no solo cuenta el pasado, sino que lo organiza para que cierta idea de identidad y territorio parezca natural. En este estudio, Falguera-García y Selfa-Sastre analizan diez álbumes en catalán publicados entre 1993 y 2015 —nueve de ellos obra de Oriol Garcia i Quera, nacido en Barcelona en 1967, quien inició su trayectoria en la revista infantil Cavall Fort y se especializó en cómic de temática histórica, y uno de Josep Ma Ramírez— para mostrar cómo el medio construye una narrativa fundacional que atraviesa del siglo IX al XV. El cómic ha sido históricamente menospreciado: Altarriba señaló que despertó escaso interés académico por su sesgo caricatural decimonónico, su carácter infantil y moralizante en el siglo XX y su popularidad «no exenta de vulgaridad» entre 1930 y 1960. Sin embargo, obras como Maus de Art Spiegelman —que obtuvo un Pulitzer—, Persepolis de Marjane Satrapi, Palestine de Joe Sacco o Best of Enemies de Jean-Pierre Filiu y David B. demostraron que viñetas e imágenes secuenciales pueden abordar la memoria histórica con una intensidad comparable o superior a otros géneros. En el caso catalán, el cómic se ha ocupado de tres fechas clave: la época medieval, la guerra de sucesión y la guerra civil, porque cada una representa un momento distinto en la construcción ideológica del territorio.",
+      "deepDives": [
+        {
+          "id": "comic-apertura-1",
+          "triggerLabel": "¿Por qué el cómic histórico interesa a la academia?",
+          "type": "theory",
+          "content": "Durante mucho tiempo el cómic fue ignorado por su asociación con la caricatura, la infancia o la cultura popular. Altarriba (2008, 2011) señaló que la historieta ha vivido «en la intersección, siempre marginal, de otros medios», hasta el punto de acuñar términos como «literatura en estampas» o «literatura dibujada» que la definían por sus relaciones con otros medios más que por sus propios méritos. Sin embargo, el cómic memorialístico —Maus (1986), Persepolis (2000), Palestine (1993), Un largo silencio (1998) de Miguel Gallardo, Vive la France (2013) de Wolinsky— cambió esa percepción al demostrar que las viñetas pueden sostener discursos históricos y políticos complejos."
+        },
+        {
+          "id": "comic-apertura-2",
+          "triggerLabel": "¿Qué hace especial al cómic como medio multimodal?",
+          "type": "theory",
+          "content": "El cómic es un medio en el que texto e imagen se necesitan mutuamente. Duran (2008) afirma que la imagen es imprescindible para entender quién hace qué, cómo, cuándo y por qué. Groensteen (2013) buscó un denominador común para estas formas de expresión. McCloud (2005) lo definió como «ilustraciones yuxtapuestas y otras imágenes en secuencia deliberada, con el propósito de transmitir información y obtener una respuesta estética del lector». Esa secuencia obliga al lector a participar activamente, descodificando y llenando los vacíos discursivos entre viñetas (Suau, 2021). El cómic toma del cine los planos y ángulos, del teatro las expresiones faciales y gestos, de la pintura la composición y el color, y de la literatura los textos, diálogos, onomatopeyas y símbolos gráficos."
+        },
+        {
+          "id": "comic-apertura-3",
+          "triggerLabel": "Los diez cómics del corpus",
+          "type": "data",
+          "content": "El corpus abarca 10 álbumes sobre la historia medieval de Cataluña: Guifré 897. L'origen de la nació (Casals, 2006, 57 págs., color, 30×21.5 cm), L'Amenaça sarraïna (Signament i comunicació, 1995, 69 págs., 29×21 cm), Fa mil anys (Cim edicions, 2006, 33 págs., 30×22 cm), Revenja (Signament i comunicació, 1996, 65 págs., 29×21 cm), Terra de frontera Olèrdola 1058 (Dalmau editor, 2015, 61 págs., 27×20 cm), Mallorca 1229: Jaume el Conqueridor (Casals, 2010, 80 págs., 20×27 cm), El desafiament de Burdeus (Cim edicions, 2006, 9 págs., 30×22 cm), El comte Despertaferro (Cartes catalanes, 2011, 47 págs., 30×21.5 cm, único no firmado por Garcia i Quera sino por Josep Ma Ramírez), L'Exèrcit errant: La darrera gran batalla dels almogàvers (Signament i comunicació, 1993, 69 págs., 29×21 cm) y Hug Roger III, un rebel indomable (Cim edicions, 2006, 18 págs., 29.5×21 cm). Nueve son de Oriol Garcia i Quera."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El cómic histórico en catalán sobre la Edad Media no se limita a divulgar hechos: selecciona personajes, épicas y derrotas para sostener una idea concreta de Cataluña como nación con una mirada europea diferenciada del resto peninsular, una lucha constante por la independencia y grandes personalidades que engrandecen la historia propia. La pregunta central es si esta selección responde a una intencionalidad ideológica oculta bajo el atractivo visual y narrativo del género, especialmente cuando los paratextos —apéndices, glosarios, fotografías, infografías— refuerzan la pretensión de rigor histórico.",
+      "porQueImporta": "Si el cómic es una puerta de entrada a la historia para lectores jóvenes —y lo es: Ortiz (2009) destaca que enriquece el vocabulario, desarrolla la expresión oral y escrita, estimula la creatividad y contribuye a una actitud crítica hacia la realidad social y cultural—, conviene saber qué puerta estamos abriendo. La creación del Premio Nacional del Cómic en 2007 y el auge de la novela gráfica allanaron el camino para que el cómic se convirtiera en un instrumento de recuperación de la memoria histórica. Pero la memoria histórica que construye un país no solo vive en los libros de texto: también vive en viñetas que presentan a unos héroes, unos enemigos y unos orígenes como si fueran evidentes. Leer esos cómics con ojo crítico nos ayuda a distinguir entre el relato y la construcción del relato.",
+      "dataPoints": [
+        "10 cómics analizados, publicados entre 1993 y 2015, con un total combinado de 497 páginas ilustradas a color en tapa dura.",
+        "9 de los 10 álbumes son obra de Oriol Garcia i Quera (Barcelona, 1967), autor especializado en cómic histórico catalán.",
+        "El periodo histórico abarca desde Guifré el Peloso (840-897) hasta la unión dinástica con Castilla en el siglo XV.",
+        "3 rasgos ideológicos recurrentes: mirada europea y europeizante, lucha permanente por la independencia, y personajes heroicos que magnifican el pasado.",
+        "3 periodos históricos del cómic catalán: época medieval (nacimiento del territorio), guerra de sucesión (fin de la independencia), guerra civil (penúltimo intento de lucha por la singularidad).",
+        "El corpus se divide en dos grupos: cómics de los orígenes en la Alta Edad Media (5 álbumes) y cómics de la expansión y caída de la Corona de Aragón (5 álbumes)."
+      ],
+      "glossary": [
+        {
+          "term": "Memoria histórica",
+          "definition": "Forma en que una sociedad selecciona, organiza y transmite determinados recuerdos del pasado para dar sentido al presente y legitimar un proyecto político."
+        },
+        {
+          "term": "Cómic histórico mixto",
+          "definition": "Según Oriol Garcia i Quera, álbum donde la trama puede ser inventada o real pero siempre encuadrada en hechos históricos, funcionando como herramienta divulgativa e instructiva."
+        },
+        {
+          "term": "Paratexto",
+          "definition": "Materiales acompañantes de una obra —contraportada, apéndice histórico, glosario, fotografías, infografías— que orientan su lectura y refuerzan la pretensión de veracidad documental."
+        },
+        {
+          "term": "Almogávares",
+          "definition": "Tropas mercenarias de la Corona de Aragón activas en la expansión mediterránea de los siglos XIII-XIV, conocidas por su ferocidad y su grito de guerra «despertaferro»."
+        },
+        {
+          "term": "Elipsis",
+          "definition": "Recurso narrativo del cómic que permite insinuar lo que sucede entre dos viñetas, obligando al lector a completar activamente el sentido del relato."
+        },
+        {
+          "term": "Viñeta",
+          "definition": "Unidad básica de la narración gráfica: espacio figurativo delimitado que, en secuencia con otras, construye el ritmo y el significado de la historia."
+        },
+        {
+          "term": "Marca Hispánica",
+          "definition": "Territorio fronterizo del imperio carolingio en el noreste peninsular durante la Alta Edad Media, considerado por la historiografía catalana como el germen de la futura nación."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "comic-conflicto-1",
+          "triggerLabel": "¿Es ideología o simple divulgación?",
+          "type": "limitation",
+          "content": "El artículo no rechaza el valor divulgativo de los cómics —los paratextos de Olèrdola 1058 incluyen hasta un glosario de términos para el público adolescente—, pero advierte que la selección de qué se cuenta y cómo se cuenta no es neutral. Presentar a Guifré el Peloso como «el origen de la nación» (tal como reza la contraportada de Guifré 897) o describir a los almogávares como héroes patrióticos cuando fueron tropas mercenarias de gran brutalidad implica una interpretación política de la historia que responde a la historiografía romántica del siglo XIX."
+        },
+        {
+          "id": "comic-conflicto-2",
+          "triggerLabel": "¿Qué mitos fundacionales se repiten?",
+          "type": "theory",
+          "content": "La leyenda de la bandera cuatribarrada —Guifré, herido en batalla contra los sarracenos, dibuja con su propia sangre cuatro barras sobre el escudo amarillo— es históricamente inverificable: ni la batalla, ni el gesto, ni el sentido heráldico son ciertos. También se mitifica la tolerancia dialogante de Jaume I, que reparte el botín por subasta, o la resistencia del conde Hug Roger III como «rebelde indomable» que lucha por el bien común del pueblo frente al absolutismo de Fernando el Católico."
+        },
+        {
+          "id": "comic-conflicto-3",
+          "triggerLabel": "¿A quién van dirigidos estos cómics?",
+          "type": "data",
+          "content": "Todos son álbumes de tapa dura, a color y formato grande (entre 27×20 y 30×22 cm), destinados al público juvenil. La combinación de aventura bélica y amorosa con apéndices divulgativos —mapas, infografías, fotografías de yacimientos, glosarios de términos medievales— los convierte en objetos híbridos de entretenimiento y pedagogía, especialmente influyentes en la formación de la memoria histórica de lectores jóvenes."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Cómo diseccionamos diez álbumes de historia medieval catalana",
+      "narrativa": "Para no quedarnos con la impresión general, los autores diseccionaron cada cómic desde dos frentes complementarios. Por un lado, estudiaron el lenguaje visual siguiendo el modelo de Fernández de Arriba (2018): viñetas, planos y ángulos, secuenciación narrativa, globos o bocadillos, líneas cinéticas o de movimiento, metáforas visuales, signos gráficos y onomatopeyas. Por otro, analizaron los elementos narrativos: tiempo, espacio, personajes —con sus expresiones faciales, gestos y posturas corporales—, hechos de la narración y temas abordados. Este doble análisis permitió leer no solo qué cuentan los álbumes, sino también cómo los recursos formales guían la interpretación del lector hacia una determinada visión ideológica de la historia.",
+      "detalles": [
+        {
+          "label": "Corpus",
+          "value": "10 álbumes de historia medieval de Cataluña publicados entre 1993 y 2015, todos en catalán, a color y en tapa dura"
+        },
+        {
+          "label": "Autor principal",
+          "value": "Oriol Garcia i Quera (9 obras); Josep Ma Ramírez (1: El comte Despertaferro, 2011)"
+        },
+        {
+          "label": "Lenguaje visual analizado",
+          "value": "Viñeta, plano y ángulo, secuenciación narrativa, globos/bocadillos, líneas cinéticas, metáforas visuales, signos gráficos, onomatopeyas y uso del color"
+        },
+        {
+          "label": "Elementos narrativos analizados",
+          "value": "Tiempo, espacio, personajes (expresiones faciales, gestos, posturas), hechos narrados y temas"
+        },
+        {
+          "label": "Marco teórico visual",
+          "value": "Fernández de Arriba (2018) para elementos del lenguaje del cómic; McCloud (2005) y Altarriba (2011) para secuencialidad y participación del lector"
+        },
+        {
+          "label": "Objetivo 1",
+          "value": "Comprobar la intencionalidad ideológica en la selección de hechos y personajes de la historia catalana"
+        },
+        {
+          "label": "Objetivo 2",
+          "value": "Validar el cómic como instrumento útil para la divulgación y enseñanza de la historia de Cataluña"
+        },
+        {
+          "label": "Objetivo 3",
+          "value": "Proponer un modelo de análisis literario y visual de un género popular pero históricamente alejado de la academia"
+        }
+      ],
+      "limitaciones": [
+        "El estudio se centra exclusivamente en cómics en lengua catalana sobre la historia medieval de Cataluña; no aborda la guerra de sucesión ni la guerra civil, los otros dos periodos clave del cómic histórico catalán.",
+        "El corpus está dominado por la obra de un único autor (Oriol Garcia i Quera), lo que dificulta generalizar conclusiones sobre todo el género del cómic histórico catalán.",
+        "El análisis es interpretativo y cualitativo; no mide efectos empíricos en lectores reales ni contrasta las representaciones con fuentes historiográficas actualizadas.",
+        "El estudio presupone —aunque no demuestra— que el esfuerzo de leer un texto marcadamente visual «es inferior al de otros medios», lo cual es una afirmación discutible sobre los procesos de recepción."
+      ],
+      "reflexion": "¿Crees que se puede separar por completo la divulgación histórica de la interpretación ideológica?",
+      "deepDives": [
+        {
+          "id": "comic-viaje-1",
+          "triggerLabel": "¿Por qué la Edad Media y no otra época?",
+          "type": "method",
+          "content": "La Edad Media representa para esta narrativa el momento de nacimiento de Cataluña como territorio con entidad propia, primero a partir de los condados francos y en particular desde la figura de Guifré el Peloso (840-897), y posteriormente integrada en la Corona de Aragón. La guerra de sucesión simboliza el fin de la independencia efectiva con la derrota ante las tropas felipistas y la asimilación al centralismo castellano borbónico. La guerra civil española representa el penúltimo intento de lucha por la singularidad catalana. De los tres periodos, el medieval es el campo privilegiado para construir mitos fundacionales porque permite narrar el origen."
+        },
+        {
+          "id": "comic-viaje-2",
+          "triggerLabel": "Los dos grandes grupos del corpus",
+          "type": "data",
+          "content": "El corpus se divide en dos bloques. Primer grupo (Alta Edad Media, siglos IX-XI): Guifré 897, L'amenaça sarraïna, Fa mil anys..., Revenja y Olèrdola 1058 —este último diferente porque presenta conflictos entre condes cristianos en lugar de la oposición cristianos/musulmanes, con el arte románico como protagonista en la difusión de los valores de la nueva nación—. Narran los orígenes vinculados a la Marca Hispánica, con caudillos catalanes que luchan por su territorio frente al imperio islámico y miran hacia Europa. Segundo grupo (expansión y caída, siglos XIII-XV): Mallorca 1229, El desafiament de Burdeus, El comte Despertaferro, L'exèrcit errant y Hug Roger III. Cubren desde la conquista de Mallorca por Jaume I hasta la guerra civil catalana (1462-1472) y la unión dinástica con los Trastámara."
+        },
+        {
+          "id": "comic-viaje-3",
+          "triggerLabel": "La lectura crítica del cómic histórico",
+          "type": "theory",
+          "content": "Leer críticamente el cómic histórico implica prestar atención a qué se muestra, qué se omite, desde qué punto de vista se narra y cómo los recursos visuales —planos, colores, elipsis, tamaño de las letras, uso de negritas— guían nuestras emociones y juicios. El cómic entronca con las teorías literarias postextuales donde el lector ocupa la cúspide de la jerarquía interpretativa (Pardo-Jiménez, 2021): es el lector quien en última instancia construye el texto, pero lo hace con los materiales —visuales y narrativos— que el autor ha seleccionado."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Tres pilares que sostienen una identidad nacional",
+      "narrativa": "Al cruzar los diez álbumes, los autores descubrieron que no importa si la escena transcurre en el siglo IX, en el XIII o en el XV: los cómics cuentan una misma historia sostenida sobre tres pilares ideológicos. El primero es una mirada europea y europeizante desde el origen: mientras la futura nación castellana aparece bajo el influjo árabe, los territorios de la futura Cataluña luchan por su independencia con una clara orientación hacia el mundo franco. Tal como señala el paratexto de L'amenaça sarraïna, las leyendas épicas del Pirineo narran «unos enfrentamientos entre Carlomagno y el islam que pusieron los fundamentos de la futura nación catalana». El segundo pilar es la lucha permanente por la independencia: ya sea contra los sarracenos, contra el poder absolutista de Fernando el Católico o contra rivales internos en la guerra civil catalana de 1462-1472, la resistencia es el motor de la trama y la derrota nunca se acepta como fin de la historia. El tercer pilar es el panteón de grandes personalidades —Guifré el Peloso, Jaume I el Conqueridor, Pere el Gran, Guillem Galceran de Cartellà, Hug Roger III— cuyas cualidades humanas y militares, valentía y astucia se ensalzan por encima de la crudeza de las conquistas o de la violencia histórica real.",
+      "hallazgos": [
+        {
+          "label": "1. Una mirada europea desde el origen",
+          "value": "Mientras Castilla aparece bajo influencia árabe, los cómics de los orígenes enfatizan la alianza con el imperio franco y la Marca Hispánica. L'amenaça sarraïna sitúa la gestación de Cataluña bajo la influencia carolingia, con Carlomagno (742-814) liderando la lucha contra los sarracenos. Fa mil anys... y Revenja retratan los enfrentamientos de los siglos IX-X protagonizados por Carlomagno y los generales sarracenos Musá (640-716) y Abd al-Malik (646-705). Esta vinculación europea singulariza a Cataluña del resto de la península ibérica desde antes de su nacimiento como entidad política."
+        },
+        {
+          "label": "2. La lucha permanente por la independencia",
+          "value": "La resistencia atraviesa todos los álbumes. En el primer grupo, los caudillos catalanes luchan contra el imperio islámico por su territorio y su independencia. En el segundo, Hug Roger III encarna la lucha contra el poder monárquico absolutista: la guerra civil catalana de 1462-1472 se presenta como un conflicto entre el poder cercano al pueblo —simbolizado por la Generalitat, de cuya parte está el protagonista— y el poder absolutista de Fernando el Católico. El grito «El rei Joan mai no ha estimat Catalunya! Hem de continuar la guerra fins a la fi!» (Hug Roger III, p. 15) resume esta narrativa de resistencia que no acepta la derrota."
+        },
+        {
+          "label": "3. Héroes que magnifican el pasado",
+          "value": "Los personajes históricos son presentados desde una perspectiva mítica y legendaria que perpetúa la historiografía romántica del siglo XIX. Jaume I aparece en Mallorca 1229 como un rey tolerante, dialogante y democrático que reparte el botín por subasta. Los almogávares —mercenarios que actuaban con brutalidad al grito de «despertaferro»— son mostrados como héroes que acaban sus días gobernando plácidamente sus tierras, siguiendo el patrón de las crónicas medievales de Ramón Muntaner. El cómic El comte Despertaferro y El desafiament de Bordeus relatan las luchas por Nápoles y Sicilia como epopeyas de patriotismo y gloria nacional que ocultan la violencia de las tropas mercenarias."
+        },
+        {
+          "label": "4. Recursos visuales al servicio de la ideología",
+          "value": "El estilo realista de Garcia i Quera, su trazo manual a lápiz con detalles arqueológicos, la composición dinámica de página y el uso simbólico del color —rojizo para la sangre y la batalla, azul oscuro para el clima, degradados pálidos para los flashbacks— contribuyen a la sensación de veracidad histórica. Las elipsis entre viñetas obligan al lector a completar activamente la narración, aumentando su implicación emocional."
+        },
+        {
+          "label": "5. El lenguaje como marcador de autenticidad",
+          "value": "Los cómics emplean un catalán dialectal —como el posesivo pirenaico «meua» en lugar de «meva» en boca de Hug Roger III—, topónimos medievales —Octavia del Vallés por Sant Cugat del Vallés, Cauco Illiberis por Cotlliure— y léxico de época —brans por espadas, caves por galerías, manganells y fonèvols como instrumentos de guerra, besants como moneda musulmana de plata—. Este trabajo lingüístico sumerge al lector en un mundo medieval que se percibe como auténtico y documentado."
+        }
+      ],
+      "dataPoints": [
+        "Los cómics de orígenes (5 álbumes) muestran a líderes cristianos enfrentados a caudillos sarracenos, con una narrativa explícita de fundación nacional sustentada en los paratextos.",
+        "Olèrdola 1058 es la excepción del primer grupo: en lugar de cristianos contra musulmanes, presenta conflictos entre condes cristianos, con el arte románico como signo identitario y apéndices sobre el estado actual del yacimiento arqueológico.",
+        "Los cómics de expansión (5 álbumes) ensalzan las cualidades humanas y militares de los protagonistas —valentía, astucia, tolerancia— más que la crudeza de las conquistas o la violencia de las tropas mercenarias.",
+        "Hug Roger III es singular dentro del segundo grupo: no relata un hecho exterior a las fronteras catalanas, sino una lucha interna —la guerra civil de 1462-1472— entre el poder de la Generalitat y el absolutismo monárquico.",
+        "9 de los 10 álbumes incluyen paratextos informativos (apéndices, fotografías, infografías, glosarios) que refuerzan la pretensión de rigor histórico y orientan la lectura ideológica.",
+        "La leyenda de la bandera cuatribarrada —Guifré dibujando con su sangre las cuatro barras— no es históricamente comprobable: ni la batalla, ni el gesto, ni el sentido heráldico son ciertos, pero el cómic la reproduce como hecho fundacional."
+      ],
+      "reflexion": "¿Reconoces en estas tres patas alguna narrativa fundacional de tu propio contexto nacional o regional?",
+      "deepDives": [
+        {
+          "id": "comic-revelacion-1",
+          "triggerLabel": "El caso de Guifré el Peloso",
+          "type": "data",
+          "content": "Guifré (840-897) es un personaje histórico real que cohesionó los territorios condales vinculados a la monarquía franca, un territorio fragmentado, despoblado y bajo amenaza constante de los caudillos de la frontera superior de Al-Andalus. Guifré 897. L'origen de la nació (Casals, 2006, 57 págs.) relata su labor y, según la contraportada, «pone los fundamentos de la nación». Pero ni la batalla legendaria contra los sarracenos, ni el gesto de dibujar con su sangre las cuatro barras de la bandera, ni el sentido heráldico del escudo son hechos comprobables. El cómic reproduce el mito fundacional sin cuestionarlo, presentándolo como verdad histórica."
+        },
+        {
+          "id": "comic-revelacion-2",
+          "triggerLabel": "¿Héroes o mercenarios? El caso de los almogávares",
+          "type": "limitation",
+          "content": "Los almogávares eran tropas mercenarias conocidas por su brutalidad: actuaban con impunidad controlando territorios en beneficio de los monarcas catalano-aragoneses. L'Exèrcit errant (1993, 69 págs.) se centra en la batalla del Río Cefis (Grecia, 1311). Sin embargo, siguiendo las crónicas medievales de Ramón Muntaner y la historiografía romántica del siglo XIX, los cómics los presentan como héroes patrióticos que acaban sus días gobernando plácidamente sus tierras, produciendo un «enaltecimiento del patriotismo y de la gloria nacional por encima de la narración de la violencia y la realidad histórica»."
+        },
+        {
+          "id": "comic-revelacion-3",
+          "triggerLabel": "Jaume I, el rey 'democrático'",
+          "type": "data",
+          "content": "En Mallorca 1229: Jaume el Conqueridor (Casals, 2010, 80 págs., el más extenso del corpus), se destaca la personalidad tolerante, dialogante y democrática de Jaume I (1208-1276). El cómic lo muestra repartiendo por subasta el botín acumulado durante la conquista y eligiendo a un miembro de la familia Torroella como primer lugarteniente de la isla en agradecimiento por su fidelidad. Esta imagen construye un modelo de liderazgo legitimado por el pueblo, omitiendo otras dimensiones históricas del personaje y de la conquista."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "El cómic como arquitectura visual y literaria de la memoria",
+      "narrativa": "Para entender cómo funciona esta persuasión hay que mirar las herramientas del oficio. Los cómics no solo narran: arquitectan el pasado con planos, colores, elipsis y un léxico que transporta al lector a la Edad Media. Oriol Garcia i Quera trabaja con técnicas manuales a lápiz, un estilo realista lleno de detalles arqueológicos al servicio de la reconstrucción histórica, y una paleta de tonos fríos con valor simbólico. El plano general de las viñetas más grandes deviene un plano detalle que ralentiza el ritmo del relato y permite adentrarse vivencialmente en la historia. La composición dinámica de la página favorece tanto el interés narrativo como los efectos plásticos. El tamaño de las letras y el uso de la negrita señalan el estado de ánimo de los personajes y su volumen de voz, intensificando la sensación de inmersión. Todo ello converge en una experiencia donde la historia no se explica solamente: se siente, se mira y se completa en la mente del lector, quien —siguiendo a Altarriba (2011)— otorga sentido «en función de las circunstancias de la recepción».",
+      "detalles": [
+        {
+          "label": "Composición de página",
+          "value": "Dinámica, con viñetas de distinto tamaño que guían la atención, marcan el ritmo y facilitan tanto la narración como los efectos plásticos"
+        },
+        {
+          "label": "Plano y ángulo",
+          "value": "Planos generales sitúan la acción espacialmente; primeros planos detalle de rostros o paisajes ralentizan el ritmo y sumergen al lector en la vivencia"
+        },
+        {
+          "label": "Elipsis",
+          "value": "Permite sugerir lo que ocurre entre viñetas —desde escenas bélicas hasta encuentros amorosos— activando la participación del lector en la construcción del sentido"
+        },
+        {
+          "label": "Color simbólico",
+          "value": "Tonos fríos con valor narrativo: rojizo para la sangre y la batalla, azul oscuro para condiciones climáticas, degradados pálidos para marcar flashbacks temporales (como en la infancia de Hug Roger III)"
+        },
+        {
+          "label": "Tipografía expresiva",
+          "value": "Tamaño de letras y uso de negritas para transmitir el estado de ánimo y el volumen de voz de los personajes, intensificando la sensación vivencial"
+        },
+        {
+          "label": "Lenguaje medievalizante",
+          "value": "Catalán dialectal (p.ej. «meua» por «meva»), topónimos medievales (Octavia del Vallés, Sant Joan del Ter, Cauco Illiberis) y léxico de época (brans, caves, manganells, fonèvols, besants)"
+        },
+        {
+          "label": "Paratextos divulgativos",
+          "value": "Apéndices con texto, ilustraciones, fotografías, infografías y glosarios que contextualizan el periodo histórico y refuerzan la pretensión de rigor documental"
+        },
+        {
+          "label": "Trazo manual",
+          "value": "Técnica a lápiz con estilo realista, donde las páginas finales de varios álbumes funcionan como un making off que muestra el proceso creativo del autor"
+        }
+      ],
+      "reflexion": "¿Te parece que los recursos visuales del cómic hacen más creíble una interpretación histórica que si la leyeras solo en texto?",
+      "deepDives": [
+        {
+          "id": "comic-marco-1",
+          "triggerLabel": "El lector como coautor del relato histórico",
+          "type": "theory",
+          "content": "Siguiendo a McCloud (2005), el cómic obliga al lector a llenar los huecos entre viñetas mediante la elipsis. Altarriba (2011) añade que «los ojos del lector le darán un sentido en función de las circunstancias de la recepción». Esa participación activa hace que el sentido se construya en gran medida en la mente del receptor, lo que aumenta el efecto de inmersión y, potencialmente, la aceptación acrítica del discurso ideológico que vehicula la obra. El cómic entronca así con las teorías literarias postextuales (Pardo-Jiménez, 2021) donde el lector ocupa la cúspide de la jerarquía interpretativa."
+        },
+        {
+          "id": "comic-marco-2",
+          "triggerLabel": "Realismo visual, interpretación histórica interesada",
+          "type": "limitation",
+          "content": "El estilo realista y los detalles arqueológicos de Garcia i Quera —reconstrucción de paisajes, armaduras, arquitectura románica— pueden dar la impresión de objetividad. Pero toda reconstrucción visual implica decisiones narrativas e ideológicas: qué personajes aparecen, desde qué ángulo se muestran, qué colores los envuelven, qué expresiones faciales transmiten. La «regla de oro del clasicismo» que Pintor (2017) atribuye a la secuencialidad —«cada viñeta demanda la siguiente»— significa que el autor controla el flujo de información que recibe el lector."
+        },
+        {
+          "id": "comic-marco-3",
+          "triggerLabel": "Del cómic al aula: potencial didáctico y riesgo ideológico",
+          "type": "theory",
+          "content": "El cómic ofrece un enorme potencial didáctico: enriquece vocabulario, desarrolla expresión oral y escrita, estimula la creatividad, fomenta la alfabetización del lenguaje verbal y visual, y contribuye a una actitud crítica hacia la realidad social y cultural (Ortiz, 2009). Pero precisamente por su atractivo —los autores afirman que «el esfuerzo de leer un texto marcadamente visual como este es inferior al de otros medios»— puede funcionar como un caballo de Troya ideológico. La lectura crítica propuesta por Falguera-García y Selfa-Sastre no rechaza el cómic como herramienta didáctica, sino que aboga por una alfabetización visual que permita a los lectores jóvenes distinguir entre el relato histórico y la construcción interesada del relato."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Puede el cómic histórico ser al mismo tiempo una herramienta de divulgación y un vehículo de construcción ideológica?",
+      "conclusion": "Sí, y los diez álbumes analizados lo demuestran con claridad. Los cómics de Oriol Garcia i Quera —y el de Josep Ma Ramírez— son instrumentos divulgativos eficaces: su atractivo visual, su lenguaje narrativo dinámico, sus paratextos con apéndices y glosarios, y su cuidada reconstrucción arqueológica los convierten en recursos potentes para acercar la historia medieval catalana a lectores jóvenes. Pero al mismo tiempo, estos álbumes seleccionan hechos, mitifican personajes y sostienen una narrativa de identidad territorial vertebrada en tres ejes —mirada europea diferenciada, lucha incesante por la independencia y panteón de grandes héroes— que responde a la historiografía romántica del siglo XIX más que a los datos históricos verificables. La lectura crítica permite aprovechar su valor didáctico sin perder de vista el discurso ideológico que vehiculan. La historia medieval de Cataluña que emerge de estas páginas es la historia de una grandeza que nace y crece en un contexto hostil y acaba derrotada y asimilada, pero cuyos protagonistas transmiten la idea de que la lucha no ha terminado y debe proseguir.",
+      "formalRef": "Falguera-García, E., & Selfa-Sastre, M. (2023). El cómic como lectura crítica de la historia en la construcción de la identidad y la diversidad territorial. Ocnos, 22(1). https://doi.org/10.18239/ocnos_2023.22.1.337"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuántos cómics componen el corpus analizado por Falguera-García y Selfa-Sastre y quién es su autor principal?",
+          "options": [
+            "10 álbumes; 9 de Oriol Garcia i Quera y 1 de Josep Ma Ramírez",
+            "12 álbumes de diversos autores catalanes contemporáneos",
+            "8 álbumes, todos de Oriol Garcia i Quera",
+            "15 álbumes de autores españoles sobre historia medieval"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué recurso del cómic, según McCloud y Altarriba, obliga al lector a completar activamente lo que sucede entre viñetas?",
+          "options": [
+            "La elipsis",
+            "La onomatopeya",
+            "El bocadillo de diálogo",
+            "El plano general"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué personaje histórico catalán aparece en los cómics dibujando las cuatro barras con su sangre, un gesto que el artículo califica de no comprobable históricamente?",
+          "options": [
+            "Guifré el Peloso",
+            "Jaume I el Conqueridor",
+            "Pere el Gran",
+            "Hug Roger III"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué diferencia a Olèrdola 1058 del resto de cómics del primer grupo (los orígenes de Catalunya)?",
+          "options": [
+            "No enfrenta cristianos contra musulmanes sino conflictos entre condes cristianos, con el arte románico como signo identitario",
+            "Es el único ambientado en el siglo XV en lugar de la Alta Edad Media",
+            "Carece de paratextos divulgativos y apéndices históricos",
+            "No fue escrito por Oriol Garcia i Quera sino por Josep Ma Ramírez"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Los autores concluyen que el cómic difunde ideología en parte porque «el esfuerzo de leer un texto marcadamente visual es inferior al de otros medios». ¿Estás de acuerdo? ¿Leer imágenes exige realmente menos esfuerzo crítico que leer solo texto, o crees que el problema es que nos han enseñado a desconfiar de la imagen pero no a analizarla?"
+        },
+        {
+          "type": "open",
+          "q": "Piensa en un cómic, serie o película histórica de tu propio país: ¿qué héroes, enemigos u orígenes se presentan como evidentes? Si aplicaras la lente de Falguera-García y Selfa-Sastre, ¿qué mitos fundacionales o silencios estratégicos detectarías en esa construcción visual de la memoria?"
+        },
+        {
+          "type": "open",
+          "q": "El artículo identifica tres rasgos recurrentes en la narrativa de estos cómics: mirada europea, lucha por la independencia y grandes héroes. Si tuvieras que diseñar un cómic histórico sobre la fundación de tu propia región o país, ¿mantendrías esos mismos tres pilares narrativos o los sustituirías por otros? ¿Por qué?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual del cómic histórico catalán",
+    "descripcion": "Conexiones entre los conceptos centrales del análisis de la construcción ideológica e identitaria a través del cómic medieval catalán.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Cómic histórico",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "2",
+        "label": "Memoria histórica",
+        "color": "#e9c46a"
+      },
+      {
+        "id": "3",
+        "label": "Identidad territorial",
+        "color": "#f4a261"
+      },
+      {
+        "id": "4",
+        "label": "Lenguaje multimodal",
+        "color": "#e76f51"
+      },
+      {
+        "id": "5",
+        "label": "Lectura crítica",
+        "color": "#2b2d42"
+      },
+      {
+        "id": "6",
+        "label": "Oriol Garcia i Quera",
+        "color": "#8ab17d"
+      },
+      {
+        "id": "7",
+        "label": "Mito fundacional",
+        "color": "#9b2226"
+      },
+      {
+        "id": "8",
+        "label": "Didáctica de la historia",
+        "color": "#6a4c93"
+      },
+      {
+        "id": "9",
+        "label": "Historiografía romántica",
+        "color": "#457b9d"
+      },
+      {
+        "id": "10",
+        "label": "Edad Media catalana",
+        "color": "#d62828"
+      },
+      {
+        "id": "11",
+        "label": "Paratextos divulgativos",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "12",
+        "label": "Elipsis / lector activo",
+        "color": "#a8dadc"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "vehicula"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "construye"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "utiliza"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "exige"
+      },
+      {
+        "from": "6",
+        "to": "1",
+        "label": "autor de 9/10 obras"
+      },
+      {
+        "from": "3",
+        "to": "7",
+        "label": "se apoya en"
+      },
+      {
+        "from": "5",
+        "to": "8",
+        "label": "fortalece"
+      },
+      {
+        "from": "1",
+        "to": "8",
+        "label": "sirve a"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "hereda de"
+      },
+      {
+        "from": "9",
+        "to": "3",
+        "label": "alimenta"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "es el escenario de"
+      },
+      {
+        "from": "10",
+        "to": "7",
+        "label": "provee"
+      },
+      {
+        "from": "11",
+        "to": "1",
+        "label": "refuerzan"
+      },
+      {
+        "from": "12",
+        "to": "5",
+        "label": "implica"
+      },
+      {
+        "from": "4",
+        "to": "12",
+        "label": "contiene"
+      }
+    ]
+  }
+}
