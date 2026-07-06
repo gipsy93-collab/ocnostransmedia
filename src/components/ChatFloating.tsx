@@ -268,29 +268,21 @@ export default function ChatFloating() {
       {/* Invitation tooltip */}
       <AnimatePresence>
         {showInvitation && !isOpen && (
-          <motion.div
-            initial={{ opacity: 0, x: 20, scale: 0.9 }}
-            animate={{ opacity: 1, x: 0, scale: 1 }}
-            exit={{ opacity: 0, x: 20, scale: 0.9 }}
+          <motion.button
+            initial={{ opacity: 0, y: 10, scale: 0.95 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            exit={{ opacity: 0, y: 10, scale: 0.95 }}
             transition={{ duration: 0.3, ease: 'easeOut' }}
-            onMouseEnter={() => setShowInvitation(false)}
-            className="mb-3 flex items-center gap-2 cursor-pointer select-none"
             onClick={() => { setShowInvitation(false); open(); }}
+            className="mb-3 group relative cursor-pointer select-none"
           >
-            <div className="bg-white/95 text-ocean-dark rounded-2xl rounded-br-sm px-4 py-2.5 shadow-lg border border-white/30 relative">
+            <div className="bg-white/95 text-ocean-dark rounded-2xl px-4 py-2.5 shadow-lg border border-white/30 relative">
               <p className="text-xs font-semibold whitespace-nowrap">
                 ¡Hola! Pregúntame sobre Ocnos 📚
               </p>
-              <div className="absolute -bottom-1 right-4 w-2 h-2 bg-white/95 rotate-45 border-r border-b border-white/30" />
             </div>
-            <motion.div
-              animate={{ y: [0, -4, 0] }}
-              transition={{ duration: 1.5, repeat: Infinity, ease: 'easeInOut' }}
-              className="w-8 h-8 bg-coral rounded-full flex items-center justify-center shadow-lg border-2 border-white/30"
-            >
-              <MessageCircle size={16} className="text-white" />
-            </motion.div>
-          </motion.div>
+            <div className="absolute -bottom-1 right-6 w-3 h-3 bg-white/95 rotate-45 border-r border-b border-white/30" />
+          </motion.button>
         )}
       </AnimatePresence>
 
