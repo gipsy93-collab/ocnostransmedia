@@ -8,8 +8,14 @@ Responde en espanol. 2 o 3 oraciones maximo. Directo, sin introducciones ni salu
 Si el contexto incluye articulos especificos, respondes con sus datos.`;
 
 function loadArticles() {
-  const agenteDir = path.join(process.cwd(), 'public', 'agente');
-  if (!fs.existsSync(agenteDir)) return [];
+  const dirs = [
+    path.join(process.cwd(), 'public', 'agente'),
+    path.join(process.cwd(), 'agente'),
+    path.join(__dirname, '..', 'public', 'agente'),
+    path.join(__dirname, 'agente'),
+  ];
+  let agenteDir = dirs.find(d => fs.existsSync(d));
+  if (!agenteDir) return [];
   const files = fs.readdirSync(agenteDir).filter(f => f.endsWith('.json'));
   return files.map(file => {
     const data = JSON.parse(fs.readFileSync(path.join(agenteDir, file), 'utf-8'));
@@ -111,7 +117,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       : `${historyText}Contexto:\n${contextForAI}\nUsuario: ${message}`;
 
     const response = await ai.models.generateContent({
-      model: 'gemini-2.0-flash',
+      model: 'gemini-2.5-flash',
       contents: fullPrompt,
       config: {
         systemInstruction: SYSTEM_PROMPT,
@@ -130,6 +136,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return res.status(200).json({ reply, detectedArticle });
   } catch (error) {
     console.error('Gemini API error:', error);
-    return res.status(500).json({ error: 'Error al procesar la pregunta' });
+    const msg = error instanceof Error ? error.message : 'Error desconocido';
+    return res.status(500).json({ error: msg });
   }
 }
