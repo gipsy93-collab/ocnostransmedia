@@ -14,8 +14,17 @@ export default function ChatFloating() {
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
   const [minimized, setMinimized] = useState(false);
+  const [showInvitation, setShowInvitation] = useState(true);
   const messagesRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLTextAreaElement>(null);
+  const invitationTimerRef = useRef<ReturnType<typeof setTimeout>>();
+
+  // Auto-hide invitation after 8s
+  useEffect(() => {
+    if (isOpen) { setShowInvitation(false); return; }
+    invitationTimerRef.current = setTimeout(() => setShowInvitation(false), 8000);
+    return () => clearTimeout(invitationTimerRef.current);
+  }, [isOpen]);
 
   // Scroll to bottom on new messages
   useEffect(() => {
@@ -59,6 +68,7 @@ export default function ChatFloating() {
   };
 
   const handleOpen = () => {
+    setShowInvitation(false);
     setMinimized(false);
     open();
     if (messages.length === 0) {
@@ -255,10 +265,42 @@ export default function ChatFloating() {
         )}
       </AnimatePresence>
 
+      {/* Invitation tooltip */}
+      <AnimatePresence>
+        {showInvitation && !isOpen && (
+          <motion.div
+            initial={{ opacity: 0, x: 20, scale: 0.9 }}
+            animate={{ opacity: 1, x: 0, scale: 1 }}
+            exit={{ opacity: 0, x: 20, scale: 0.9 }}
+            transition={{ duration: 0.3, ease: 'easeOut' }}
+            onMouseEnter={() => setShowInvitation(false)}
+            className="mb-3 flex items-center gap-2 cursor-pointer select-none"
+            onClick={() => { setShowInvitation(false); open(); }}
+          >
+            <div className="bg-white/95 text-ocean-dark rounded-2xl rounded-br-sm px-4 py-2.5 shadow-lg border border-white/30 relative">
+              <p className="text-xs font-semibold whitespace-nowrap">
+                ¡Hola! Pregúntame sobre Ocnos 📚
+              </p>
+              <div className="absolute -bottom-1 right-4 w-2 h-2 bg-white/95 rotate-45 border-r border-b border-white/30" />
+            </div>
+            <motion.div
+              animate={{ y: [0, -4, 0] }}
+              transition={{ duration: 1.5, repeat: Infinity, ease: 'easeInOut' }}
+              className="w-8 h-8 bg-coral rounded-full flex items-center justify-center shadow-lg border-2 border-white/30"
+            >
+              <MessageCircle size={16} className="text-white" />
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
       {/* Toggle Button */}
       <motion.button
         onClick={() => isOpen ? close() : handleOpen()}
+        onMouseEnter={() => setShowInvitation(false)}
         whileTap={{ scale: 0.92 }}
+        animate={showInvitation && !isOpen ? { scale: [1, 1.08, 1] } : { scale: 1 }}
+        transition={showInvitation && !isOpen ? { duration: 1.5, repeat: Infinity, ease: 'easeInOut' } : undefined}
         className={`w-14 h-14 rounded-full shadow-2xl flex items-center justify-center transition-all border-2 ${isOpen
           ? 'bg-ocean-dark border-white/20 text-white hover:bg-ocean-dark/80'
           : 'bg-coral border-white/30 text-white hover:bg-coral/90 hover:-translate-y-1'
