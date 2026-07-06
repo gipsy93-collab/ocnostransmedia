@@ -20,7 +20,12 @@ export default function ChatFloating() {
   // Scroll to bottom on new messages
   useEffect(() => {
     if (messagesRef.current) {
-      messagesRef.current.scrollTop = messagesRef.current.scrollHeight;
+      // Pequeño retardo para asegurar que el DOM haya calculado la altura final del texto multilínea
+      setTimeout(() => {
+        if (messagesRef.current) {
+          messagesRef.current.scrollTop = messagesRef.current.scrollHeight;
+        }
+      }, 100);
     }
   }, [messages, loading]);
 
