@@ -8,14 +8,8 @@ Responde en espanol. 2 o 3 oraciones maximo. Directo, sin introducciones ni salu
 Si el contexto incluye articulos especificos, respondes con sus datos.`;
 
 function loadArticles() {
-  const dirs = [
-    path.join(process.cwd(), 'public', 'agente'),
-    path.join(process.cwd(), 'agente'),
-    path.join(__dirname, '..', 'public', 'agente'),
-    path.join(__dirname, 'agente'),
-  ];
-  let agenteDir = dirs.find(d => fs.existsSync(d));
-  if (!agenteDir) return [];
+  const agenteDir = path.join(process.cwd(), 'api', 'content');
+  if (!fs.existsSync(agenteDir)) return [];
   const files = fs.readdirSync(agenteDir).filter(f => f.endsWith('.json'));
   return files.map(file => {
     const data = JSON.parse(fs.readFileSync(path.join(agenteDir, file), 'utf-8'));

@@ -1,0 +1,100 @@
+{
+  "article_id": "apadrinamiento",
+  "title": "Estudio de caso sobre la estrategia del apadrinamiento lector. Fomentando una educación inclusiva",
+  "authors": "Aida Sanahuja-Ribés",
+  "year": "2023",
+  "doi": "https://doi.org/10.18239/ocnos_2023.22.2.342",
+  "welcome_message": "Un niño de 5.º de Primaria se sienta en el patio junto a su apadrinado de 4 años y le lee un cuento que él mismo escribió e ilustró. En otra escuela, una pareja de 2.º ensaya la entonación de 'Los tres cerditos' antes de ir a leérselo a un aula de Infantil donde está su hermanita.\n\nParecen escenas entrañables, casi anecdóticas. Pero cuando las miras con las gafas de la educación inclusiva —esa que exige presencia real, participación genuina y progreso para cada estudiante— revelan algo más profundo. Aida Sanahuja-Ribés se sumergió en dos experiencias de la provincia de Castellón para entender cómo una estrategia tan cotidiana como contar cuentos puede materializar los principios de la inclusión. ¿Lo logra? Los datos dicen que sí.",
+  "nodes": [
+    {
+      "id": "intro",
+      "title": "Cuando un cuento abre puertas",
+      "text": "Imagina esto: un niño de 5.º de Primaria se sienta en el patio junto a su apadrinado de 4 años y le lee un cuento que él mismo ha escrito e ilustrado. Mientras, en otra escuela, una pareja de 2.º ensaya ante sus compañeros la entonación de 'Los tres cerditos' antes de ir a leérselo a un aula de Infantil donde está su hermanita.\n\nParecen escenas entrañables, casi anecdóticas. Pero cuando las miras con las gafas de la educación inclusiva —esa que no se conforma con que todos estén en la misma sala, sino que exige presencia real, participación genuina y progreso para cada estudiante— estas escenas revelan algo más profundo. 📖✨",
+      "options": [
+        { "label": "¿Qué es educación inclusiva?", "target_node": "problema" },
+        { "label": "¿Cómo se estudió?", "target_node": "metodo" },
+        { "label": "Ir a los hallazgos", "target_node": "hallazgos" }
+      ]
+    },
+    {
+      "id": "problema",
+      "title": "La inclusión se juega en los detalles",
+      "text": "Hablar de educación inclusiva es fácil en los documentos. Pero en el día a día del aula, la inclusión se juega en decisiones microscópicas: ¿cómo agrupamos al alumnado? ¿Quién participa y quién queda al margen? ¿Evaluamos el progreso real de cada estudiante o los comparamos con una norma única?\n\nEl apadrinamiento lector parece una simple actividad de lectura entre cursos. Sin embargo, esconde un desafío profundo: ¿está diseñado de verdad para que todos —los que leen con fluidez, los que tartamudean, los que dibujan maravillosamente pero leen con dificultad— estén presentes, participen y progresen?\n\nLa respuesta no es obvia. Requiere mirar la práctica con lupa y con teoría. 🔍",
+      "options": [
+        { "label": "¿Cómo se estudió?", "target_node": "metodo" },
+        { "label": "Ir a los hallazgos", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "metodo",
+      "title": "Dos casos, tres aulas, múltiples miradas",
+      "text": "Estudio cualitativo, descriptivo, con método de estudio de casos instrumental (Stake, 2013). Selección por conveniencia e intencional: docentes con más de 5 cursos practicando apadrinamiento lector, reconocidos por sus pares por prácticas inclusivas, en la provincia de Castellón, España.\n\n📋 Caso 1: 25 estudiantes de 5.º de Primaria (11 chicas, 14 chicos), un estudiante de prácticas y el docente tutor. Leían a una aula de Infantil (4 años).\n\n📋 Caso 2: Dos aulas de 2.º de Primaria. Aula A: 28 alumnos. Aula B: 27 alumnos. Dos tutoras, un estudiante de prácticas y 8 madres. Leían a las 6 aulas de Infantil del centro.\n\n32 entrevistas en total, 3 observaciones de ~45 minutos con herramienta DCOS, y análisis de 25 cuentos elaborados por el alumnado. Análisis de contenido deductivo con ATLAS.ti 8, usando las categorías de la dimensión C de la herramienta Themis (Azorín y Ainscow, 2018). 📊",
+      "options": [
+        { "label": "Ir a los hallazgos", "target_node": "hallazgos" },
+        { "label": "¿Qué es educación inclusiva?", "target_node": "problema" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "hallazgos",
+      "title": "Tres maneras en las que un cuento abre la puerta de la inclusión",
+      "text": "Cuando los datos se organizaron bajo el prisma de Themis, emergió un hallazgo contundente: el apadrinamiento lector activa simultáneamente los tres pilares de la inclusión.\n\n🏠 Presencia: En el caso 1, el docente diferenciaba el producto: los estudiantes podían escribir el cuento en hoja, ordenador, 'formato de cuento' o en 3D. Diferentes grados de implicación, diferentes talentos.\n\n🤝 Participación: Las parejas padrino-apadrinado generaban vínculos fuertes. Al preguntarles si querían cambiar de compañero, respondían que no. Espacios flexibles —patio, pasillo, aula— y ritmo marcado por cada pareja.\n\n📈 Logro: Autoevaluación grupal cualitativa tras cada sesión: ¿qué ha ido bien?, ¿qué no?, ¿qué hay que mejorar? El docente identificaba: autoestima, responsabilidad, expresión oral y corporal, comprensión lectora, creatividad. 🌟",
+      "options": [
+        { "label": "¿Qué implica todo esto?", "target_node": "discusion" },
+        { "label": "El caso de D.", "target_node": "implicancias" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "discusion",
+      "title": "La inclusión no se declara: se diseña",
+      "text": "Lo que estas dos experiencias revelan es que la inclusión no se declara: se diseña. Cuando miramos el apadrinamiento lector con las gafas del DUA, la diferenciación pedagógica y el aprendizaje cooperativo, la práctica deja de ser una actividad 'bonita' y se convierte en un dispositivo pedagógico coherente.\n\nEn ambos casos se ofrecen múltiples formas de expresión (leer, escribir, dramatizar, dibujar, construir un Kamishibai), se diferencia la estructura (parejas, grupos, espacios flexibles, ritmo autogestionado), se evalúa con lógica cualitativa y no comparativa, y se tejen redes de apoyo que van desde la ayuda entre iguales hasta la implicación familiar.\n\nLos docentes no aplican una receta fija: diferencian la estrategia cada curso, cada trimestre, según el grupo. Esa capacidad de adaptación es precisamente lo que distingue una práctica inclusiva de una actividad puntual. 🔄",
+      "options": [
+        { "label": "El caso de D.", "target_node": "implicancias" },
+        { "label": "Ir a los hallazgos", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "implicancias",
+      "title": "El caso D.: cuando el contexto real transforma la motivación",
+      "text": "D. es un alumno de 2.º al que, según su docente, 'no le gusta leer. Es que estamos todo el año detrás de él y no hay manera'. Tiene dos hermanas gemelas en Educación Infantil.\n\nCuando le tocó ir a leerles un cuento, la docente relata: '¡Uyyy! El interés que puso y la preparación [...] se engancha por ahí, no quiere decir que a partir de ahora se hará un lector, pero en otros momentos comprende que esa actividad de leer es importante y hace el trabajo lo mejor que puede'.\n\nEste caso ilustra cómo una situación de lectura auténtica —con un público real y un vínculo afectivo— puede activar una motivación que la lectura escolar descontextualizada no logra despertar. 💡",
+      "options": [
+        { "label": "¿Qué implica todo esto?", "target_node": "discusion" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "¿Qué herramienta de software utilizó la autora para realizar el análisis de contenido deductivo de entrevistas, observaciones y documentos?",
+      "options": ["NVivo 12", "ATLAS.ti versión 8", "MAXQDA 2020", "Dedoose"],
+      "correct_answer_index": 1,
+      "feedback_correct": "Correcto. El análisis de contenido deductivo se realizó con ATLAS.ti versión 8.",
+      "feedback_incorrect": "No fue así. La autora utilizó ATLAS.ti versión 8 para el análisis de contenido deductivo."
+    },
+    {
+      "question": "Las categorías teóricas que organizaron el análisis —presencia, participación y logro— provienen de una herramienta más amplia. ¿De cuál?",
+      "options": ["Del Index for Inclusion de Booth y Ainscow", "De la herramienta Themis, creada por Azorín y Ainscow (2018)", "De la escala DCOS de Cassady y colaboradores", "Del marco del Diseño Universal para el Aprendizaje de Alba-Pastor"],
+      "correct_answer_index": 1,
+      "feedback_correct": "Exacto. Las categorías provienen de la dimensión C de la herramienta Themis (Azorín y Ainscow, 2018).",
+      "feedback_incorrect": "Las categorías provienen de la herramienta Themis, creada por Azorín y Ainscow en 2018."
+    },
+    {
+      "question": "En el caso 1 (5.º de Primaria), ¿cómo se transformó la estrategia de apadrinamiento lector a lo largo del curso?",
+      "options": ["Primer trimestre: leer un libro. Segundo: escribir y elaborar un cuento propio. Tercero: preparar una obra de teatro o un Kamishibai en grupo.", "Primer trimestre: teatro. Segundo: lectura. Tercero: escritura colectiva.", "Primer trimestre: cuentos clásicos. Segundo: cuentos contemporáneos. Tercero: poesía.", "Primer trimestre: cuentos digitales. Segundo: cuentos impresos. Tercero: podcasts."],
+      "correct_answer_index": 0,
+      "feedback_correct": "Correcto. La estrategia mutaba cada trimestre: lectura, escritura individual y teatro/Kamishibai grupal.",
+      "feedback_incorrect": "En el caso 1, la estrategia evolucionaba: 1.er trimestre leer un libro, 2.º escribir y elaborar un cuento, 3.º teatro o Kamishibai grupal."
+    },
+    {
+      "question": "¿Qué ocurrió con D., un alumno de 2.º al que 'no le gusta leer', cuando le tocó participar en el apadrinamiento lector?",
+      "options": ["Se negó a participar y la docente tuvo que reemplazarlo", "Se implicó con un interés inusual al preparar el cuento para sus hermanas gemelas en Infantil, mostrando una motivación que no se veía en otras situaciones de lectura", "Leyó con desgano pero cumplió, y su actitud no cambió", "Solo participó porque su madre vino al aula a ensayar con él"],
+      "correct_answer_index": 1,
+      "feedback_correct": "Exacto. El contexto real y el vínculo afectivo con sus hermanas activaron una motivación que la lectura escolar descontextualizada no lograba despertar.",
+      "feedback_incorrect": "D. se implicó con un interés inusual al preparar el cuento para sus hermanas gemelas, mostrando una motivación que no se veía en otras situaciones de lectura."
+    }
+  ],
+  "context_for_ai": "ARTÍCULO: Estudio de caso sobre la estrategia del apadrinamiento lector. Fomentando una educación inclusiva. AUTORA: Aida Sanahuja-Ribés (Universitat Jaume I, España). AÑO: 2023. DOI: 10.18239/ocnos_2023.22.2.342. PROBLEMA: Hablar de educación inclusiva es fácil en los documentos, pero en el aula la inclusión se juega en decisiones microscópicas. El apadrinamiento lector parece una simple actividad de lectura entre cursos, pero esconde el desafío de garantizar presencia, participación y progreso para todos. OBJETIVO: Comprender cómo la práctica de apadrinamiento lector o cuentacuentos favorece la presencia, la participación y el progreso de todos los estudiantes. MÉTODO: Estudio cualitativo, descriptivo, estudio de casos instrumental (Stake, 2013). Selección por conveniencia e intencional: docentes de Primaria con más de 5 cursos practicando apadrinamiento lector, reconocidos por prácticas inclusivas, provincia de Castellón, España. CASO 1: 25 estudiantes de 5.º de Primaria (11 chicas, 14 chicos), un estudiante de prácticas y el docente tutor. Leían a una única aula de Educación Infantil (4 años). Sin participación de familias. CASO 2: Dos aulas de 2.º de Primaria coordinadas como un solo caso. Aula A: 28 estudiantes (15 niñas, 13 niños). Aula B: 27 estudiantes (16 niñas, 11 niños). Dos docentes tutoras, un estudiante de prácticas y 8 madres. Leían a las 6 aulas de Infantil del centro. TÉCNICAS: Observación científica (3 sesiones de ~45 min, grabadas en video, con herramienta DCOS de Cassady et al., 2004 y parrilla basada en Prud'homme et al., 2013). 32 entrevistas semiestructuradas con tres protocolos (docentes, alumnado, madres). Análisis de 25 cuentos elaborados por el alumnado y un proyecto de innovación docente. Análisis de contenido deductivo con ATLAS.ti v8, usando categorías de la dimensión C de Themis (Azorín y Ainscow, 2018): C.1 Presencia (celebración de diversidad, planificación, proceso educativo, variedad metodológica), C.2 Participación (grupos heterogéneos, organización espacio-temporal, apoyo), C.3 Logro (evaluación, tránsito entre etapas). Triangulación de tiempo, métodos y participantes. HALLAZGOS - PRESENCIA: Caso 1: el docente diferenciaba el producto (hoja, ordenador, formato cuento, 3D), permitiendo diferentes grados de implicación. Caso 2: las parejas elegían los libros y negociaban criterios colectivamente. Actividades cognitivas variadas: recordar, entender, aplicar, crear. HALLAZGOS - PARTICIPACIÓN: Caso 1: participación alta en 1.er y 2.º trimestre, moderada en 3.º (solo actuaba el grupo de teatro). Parejas fijas generaban vínculos fuertes (al preguntar si querían cambiar, decían que no). Espacios flexibles (patio, pasillo, aula) y ritmo marcado por cada pareja. Caso 2: participación alta. Asignación de parejas varió: en 2.º A libre y voluntaria; en 2.º B, la docente usó estrategia de preferencias que reveló que 'había dos niñas que no las había escogido nadie'. Familias como apoyo clave: en 1.º venían al aula; en 2.º ayudaban a ensayar en casa. HALLAZGOS - LOGRO: Caso 1: autoevaluación grupal cualitativa tras cada sesión. Aprendizajes identificados: autoestima, responsabilidad individual, expresión oral y corporal, comprensión lectora, creatividad, autorrealización personal, reflexión. Caso 2: hallazgo de D., alumno al que 'no le gusta leer' pero que mostró interés inusual al preparar cuento para sus hermanas gemelas en Infantil. Las madres destacaron el protagonismo: 'Se hacía grande, se hacía mayor. A ella le gustaba mucho'. DISCUSIÓN: El apadrinamiento lector favorece presencia (reconocimiento de diversidad, diferenciación), participación (trabajo colaborativo, relaciones inter-nivel, espacios y tiempos flexibles, apoyos) y logro (motivación por situación real, autoevaluación, progreso personal). Los docentes diferencian la estrategia cada curso y trimestre. LIMITACIONES: Solo dos casos en Castellón. No se entrevistó al alumnado de Infantil ni a sus docentes. En caso 1 no participaron familias. Modalidad Kamishibai solo conocida por planificación, no por observación. Alumnado entrevistado seleccionado por docentes según rendimiento y habilidades comunicativas."
+}

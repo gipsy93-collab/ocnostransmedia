@@ -1,0 +1,160 @@
+{
+  "article_id": "ensayo_comic",
+  "title": "Del ensayo al cómic: en busca de la diversidad en la traducción multimodal de Sapiens",
+  "authors": "Margarita Savchenkova",
+  "year": "2023",
+  "doi": "10.18239/ocnos_2023.22.1.334",
+  "welcome_message": "¿Y si el mismo libro cambia de mensaje según el formato en que lo lees? 📖➡️🎨\n\nYuval Noah Harari escribió Sapiens como ensayo universitario en 2014. Seis años después, lo convirtió en novela gráfica con un equipo que incluye a un consultor de diversidad. El resultado no es una copia ilustrada: es una reescritura que introduce neandertales homosexuales, ocho rostros multiculturales y una mujer en la cadena evolutiva —cosas que no existen en el ensayo original. Este artículo estudia cómo y por qué la traducción multimodal amplifica la diversidad.",
+  "nodes": [
+    {
+      "id": "intro",
+      "title": "Cuando un ensayo se convierte en cómic",
+      "text": "Sapiens: A Brief History of Humankind (2014) de Yuval Noah Harari fue un bestseller global nacido como material para alumnos universitarios. 🌍\n\nEn 2020, Harari lo adaptó al formato gráfico con Sapiens: A Graphic History, The Birth of Humankind. Pero no lo hizo solo: el equipo incluye a David Vandermeulen (adaptador), Daniel Casanave (ilustrador) y una figura sorprendente que no aparece en el ensayo: Slava Greenberg, consultor de diversidad, especialista en estudios trans, género y diversidad funcional de la Universidad del Sur de California.\n\nEsa firma en los créditos es la primera pista: la adaptación gráfica no es una copia ilustrada. Es una reescritura con agenda.",
+      "options": [
+        { "label": "¿Qué es traducción multimodal?", "target_node": "traduccion" },
+        { "label": "¿Cuál es el problema?", "target_node": "problema" },
+        { "label": "Ir a los hallazgos", "target_node": "hallazgos" }
+      ]
+    },
+    {
+      "id": "traduccion",
+      "title": "Traducir no es solo cambiar de idioma",
+      "text": "Jakobson (2000) distinguió tres tipos de traducción: 🔄\n\n1. Intralingüística: reformular un texto dentro de la misma lengua. Vandermeulen adapta el ensayo al guion del cómic en inglés.\n\n2. Intersemiótica: interpretar signos verbales mediante signos no verbales. Casanave convierte las palabras en viñetas, decidiendo colores, rostros y composiciones.\n\n3. Interlingüística: entre lenguas distintas (no es el caso aquí).\n\nEl cómic Sapiens combina la intralingüística y la intersemiótica. Como dice Oittinen (2003): «lo verbal y lo visual se tejen en una sola entidad». Y como señala Vidal-Claramonte (2018): «el original nunca es estático, sino que debe estar siempre en proceso de composición y revisión».",
+      "options": [
+        { "label": "¿Cuál es el problema?", "target_node": "problema" },
+        { "label": "¿Cómo lo analizaron?", "target_node": "metodo" },
+        { "label": "Ir a los hallazgos", "target_node": "hallazgos" }
+      ]
+    },
+    {
+      "id": "problema",
+      "title": "La prehistoria en cómics: territorio de estereotipos",
+      "text": "La prehistoria en los cómics ha sido tradicionalmente un territorio de estereotipos: antepasados de piel clara, familias nucleares heteronormativas, mujeres relegadas al hogar y hombres cazadores. 🦴\n\nEl Museo de Prehistoria de Valencia documentó esta tendencia en Prehistoria y cómic (2016), con más de un centenar de ejemplares analizados. Incluso los cómics realistas asesorados por arqueólogos —como Lucy: l'espoir (2007)— reproducen tópicos de género y un déficit de multiculturalidad.\n\nPero Sapiens, la novela gráfica, desafía ese imaginario. La pregunta: ¿cómo lo hace exactamente y qué cambia respecto al ensayo original, donde la diversidad en tiempos prehistóricos no ocupa un lugar central?",
+      "options": [
+        { "label": "¿Cómo lo analizaron?", "target_node": "metodo" },
+        { "label": "Los 3 ejes de diversidad", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "metodo",
+      "title": "Lectura paralela y modelo de Pereira",
+      "text": "El análisis es cualitativo e interdisciplinar, desde la traductología y la semiótica. 🔬\n\nSavchenkova realizó una lectura paralela del primer capítulo del ensayo en inglés y de su adaptación gráfica para localizar expresiones de diversidad. Los ejemplos se agruparon en categorías y se examinaron con el modelo de Pereira (2008), que distingue tres formas en que las viñetas pueden traducir un texto:\n\n1. Reproducción: la imagen refleja fielmente el texto.\n2. Enfatización: la imagen da más protagonismo a un aspecto narrativo.\n3. Ideologización: la imagen adapta el contenido a una ideología, incluso apartándose del original.\n\nLa hipótesis: Harari intenta redefinir la visión ortodoxa de la prehistoria y proyectar este nuevo paradigma sobre la sociedad contemporánea.",
+      "options": [
+        { "label": "Los 3 ejes de diversidad", "target_node": "hallazgos" },
+        { "label": "¿Por qué el formato importa?", "target_node": "discusion" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "hallazgos",
+      "title": "Tres caminos hacia una prehistoria más diversa",
+      "text": "Al vaciar el corpus, Savchenkova encontró una asimetría significativa: el ensayo no se adentra en la diversidad prehistórica, pero la novela gráfica sí, en tres ejes: 🌈\n\n1. Étnico-cultural: los sapiens se dibujan con piel oscura y rasgos africanos; los neandertales con piel clara y pelo anaranjado. El comic incluye 8 personajes de distintas culturas junto al propio Harari (pp. 12-14).\n\n2. Afectivo-sexual: el comic introduce una pareja de neandertales homosexuales inexistente en el ensayo (p. 42) y escenifica un debate sobre la naturalidad de la homosexualidad.\n\n3. De género: el lenguaje inclusivo del ensayo se traduce en imágenes de mujeres cazando y combatiendo. La portada elige a una joven pintora rupestre. La cadena evolutiva se redibuja con una mujer neandertal (p. 25).",
+      "options": [
+        { "label": "Eje étnico-cultural", "target_node": "etnico" },
+        { "label": "Eje afectivo-sexual", "target_node": "afectivo" },
+        { "label": "Eje de género", "target_node": "genero" }
+      ]
+    },
+    {
+      "id": "etnico",
+      "title": "El origen africano visible",
+      "text": "En el ensayo, Harari dice que los primeros humanos eran «animales insignificantes sin más impacto que gorilas, luciernagas o medusas». El comic mantiene la idea pero la ilustra con 8 personajes de distintas culturas, incluyendo a Harari (pp. 12-14). 🌍\n\nLos sapiens se dibujan con piel oscura (siguiendo a Jablonski, 2012) y los neandertales con piel clara y pelo anaranjado, invirtiendo la representación blanqueada habitual.\n\nEn la página 20, tres personas de origen distinto escuchan una conferencia mientras se afirma que todas las distinciones entre francés/alemán, cristiano/musulmán, blanco/negro son «invenciones muy recientes». Este pasaje NO existe en el ensayo original.",
+      "options": [
+        { "label": "Eje afectivo-sexual", "target_node": "afectivo" },
+        { "label": "Eje de género", "target_node": "genero" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "afectivo",
+      "title": "Neandertales homosexuales: humor contra el estereotipo",
+      "text": "En la página 42 del cómic, dos neandertales masculinos forman pareja. Acusados de arrastrar mujeres por el pelo, responden declarándose homosexuales. 🏳️‍🌈\n\nLa escena utiliza el humor para desmontar dos estereotipos: el neandertal bruto heterosexual y la prehistoria exclusivamente heteronormativa.\n\nAdemás, el pasaje del ensayo donde Harari refuta la homosexualidad como innatural (p. 166) se traduce multimodalmente en un debate entre la comunidad científica y un padre de familia numerosa, con la bióloga Saraswati citando ejemplos de primates.\n\nNo hay evidencia arqueológica de diversidad sexoafectiva en la prehistoria, pero tampoco pruebas de que los primeros humanos fueran exclusivamente heterosexuales.",
+      "options": [
+        { "label": "Eje de género", "target_node": "genero" },
+        { "label": "Eje étnico-cultural", "target_node": "etnico" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "genero",
+      "title": "Una mujer en la cadena evolutiva",
+      "text": "El ensayo ya emplea lenguaje inclusivo («lion-man or lioness-woman», «skilled craftsman or craftswoman») pero el cómic traduce esa sensibilidad en imágenes contundentes. 👩‍🎨\n\nHombres y mujeres cooperan en caza, recolección y conflictos bélicos. La cubierta elige como protagonista a una joven pintora rupestre, dialogando con la pregunta de Galeano (2015): «¿Cómo pudieron ellos pintar de tan delicada manera? [...] ¿O eran ellas?»\n\nLa intervención más radical: la parodia de la ilustración de la evolución humana del mono al hombre, que el cómic redibuja incluyendo a una mujer neandertal (p. 25).\n\nEl personaje Dr. Fiction tiene un género que no responde a las convenciones binarias de feminidad o masculinidad.",
+      "options": [
+        { "label": "¿Por qué el formato importa?", "target_node": "discusion" },
+        { "label": "Implicancias", "target_node": "implicancias" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "discusion",
+      "title": "Por qué el formato obliga a decidir",
+      "text": "Harari (2021) declaró: «mientras las palabras pueden ser abstractas, las imágenes deben ser concretas». 🎯\n\nUn ensayo puede decir «sapiens» sin precisar género ni color de piel. Una viñeta está obligada a decidir ambos. Esa obligación de concretar fuerza decisiones que en el texto verbal podían permanecer en la ambigüedad.\n\nTres razones del cambio: (1) El éxito inesperado del ensayo exigió encontrar nuevas audiencias. (2) El potencial comunicativo del cómic fuerza a concretar lo abstracto. (3) El equipo creativo múltiple —cuatro personas con miradas complementarias, incluido un consultor de diversidad— produjo una traducción coral donde la ideología desempeñó un papel clave.\n\nAplicando Pereira (2008), la estrategia dominante es la ideologización: el cómic introduce contenido nuevo, no solo reproduce o enfatiza.",
+      "options": [
+        { "label": "Implicancias", "target_node": "implicancias" },
+        { "label": "Los 3 ejes", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "implicancias",
+      "title": "Traducir es también reescribir",
+      "text": "El cómic Sapiens no se limita a ilustrar el ensayo: lo traduce multimodalmente para desafiar estereotipos étnicos, sexuales y de género sobre la prehistoria. ⚡\n\nAprovecha que las imágenes obligan a concretar lo abstracto y cuenta con un equipo de cuatro personas —incluido un consultor de diversidad— que orienta esas decisiones hacia una representación deliberadamente más plural.\n\nEl resultado: un producto que busca derrumbar estereotipos sobre la vida de nuestros ancestros e incidir en la profunda conexión entre el humano de hoy y el de ayer.\n\nComo dice Ruiz-Zapatero (2016): «la prehistoria es excitante porque ahí está la base de lo que nos configura como seres humanos».",
+      "options": [
+        { "label": "🧠 Pon a prueba lo aprendido", "target_node": "quiz" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "¿Qué modelo teórico aplica Savchenkova para analizar cómo las viñetas del cómic Sapiens traducen el ensayo original?",
+      "options": [
+        "El modelo de Pereira (2008) sobre ilustración como traducción intersemiótica",
+        "La teoría del skopos de Vermeer aplicada al cómic",
+        "El modelo funcionalista de Nord para textos multimodales",
+        "La teoría de la equivalencia dinámica de Nida"
+      ],
+      "correct_answer_index": 0,
+      "feedback_correct": "¡Correcto! Pereira (2008) distingue tres formas de traducción de ilustraciones: reproducción, enfatización e ideologización. En Sapiens, la estrategia dominante es la ideologización.",
+      "feedback_incorrect": "Es el modelo de Pereira (2008), que distingue tres formas en que las viñetas traducen el texto: reproducción, enfatización e ideologización."
+    },
+    {
+      "question": "¿Quién es Slava Greenberg y qué función desempeñó en el equipo creativo del cómic Sapiens?",
+      "options": [
+        "Ilustrador responsable del diseño de los neandertales y sapiens",
+        "Consultor de diversidad, especialista en estudios trans, género y diversidad funcional",
+        "Traductor del ensayo del hebreo al inglés para la adaptación gráfica",
+        "Editor de Harper Perennial encargado de supervisar los paratextos"
+      ],
+      "correct_answer_index": 1,
+      "feedback_correct": "¡Exacto! Slava Greenberg es investigador posdoctoral en la Universidad del Sur de California, especialista en estudios trans, género y diversidad funcional. Su presencia revela una intención explícita de revisar las representaciones de identidad.",
+      "feedback_incorrect": "Slava Greenberg es consultor de diversidad, investigador posdoctoral de la Universidad del Sur de California, especialista en estudios trans, género y diversidad funcional."
+    },
+    {
+      "question": "¿Qué diferencia física sistemática establece el cómic entre los sapiens y los neandertales?",
+      "options": [
+        "Los sapiens van vestidos y los neandertales aparecen siempre semidesnudos",
+        "Los sapiens son más bajos y robustos; los neandertales, altos y estilizados",
+        "Los sapiens tienen piel oscura y rasgos africanos; los neandertales, piel clara y pelo anaranjado",
+        "Los neandertales aparecen armados con lanzas; los sapiens, desarmados"
+      ],
+      "correct_answer_index": 2,
+      "feedback_correct": "¡Correcto! Los sapiens se dibujan con piel oscura y rasgos africanos (siguiendo a Jablonski, 2012) y los neandertales con piel clara y pelo anaranjado, invirtiendo la representación blanqueada habitual.",
+      "feedback_incorrect": "El cómic dibuja a los sapiens con piel oscura y rasgos africanos, y a los neandertales con piel clara y pelo anaranjado, invirtiendo la representación blanqueada habitual del cómic prehistórico."
+    },
+    {
+      "question": "Según Jakobson, ¿qué dos tipos de traducción se combinan en la adaptación del ensayo al cómic Sapiens?",
+      "options": [
+        "Traducción interlingüística (del hebreo al inglés) e intralingüística (del inglés al inglés)",
+        "Traducción intralingüística (Vandermeulen) e intersemiótica (Casanave)",
+        "Traducción literal (Harari) y traducción libre (Greenberg)",
+        "Traducción intersemiótica (Vandermeulen) e interlingüística (Casanave)"
+      ],
+      "correct_answer_index": 1,
+      "feedback_correct": "¡Bien! Vandermeulen actúa como traductor intralingüístico al adaptar el ensayo al guion dentro del mismo idioma, y Casanave como traductor intersemiótico al convertir palabras en imágenes.",
+      "feedback_incorrect": "Se combinan la traducción intralingüística (Vandermeulen adapta el ensayo al guion en inglés) y la intersemiótica (Casanave convierte las palabras en viñetas)."
+    }
+  ],
+  "context_for_ai": "PROBLEMA: La prehistoria en los cómics ha sido tradicionalmente un territorio de estereotipos: antepasados de piel clara, familias nucleares heteronormativas, mujeres relegadas al hogar. El cómic Sapiens: A Graphic History (2020) desafía ese imaginario. La pregunta es cómo lo hace exactamente y qué cambia respecto al ensayo original Sapiens: A Brief History of Humankind (2014), donde la diversidad en tiempos prehistóricos no ocupa un lugar central. Hipótesis: Harari intenta redefinir la visión ortodoxa sobre la prehistoria y proyectar este nuevo paradigma a la sociedad actual.\n\nMÉTODO: Análisis cualitativo e interdisciplinar desde la traductología y la semiótica. Lectura paralela del primer capítulo del ensayo en inglés y de su adaptación gráfica. Modelo de Pereira (2008): tres formas de traducción de ilustraciones (reproducción, enfatización, ideologización). Corpus: primer capítulo de Sapiens (Harari, 2014) y primer volumen de Sapiens: A Graphic History, The Birth of Humankind (Harari, Vandermeulen y Casanave, 2020, Harper Perennial). Equipo creativo: Yuval Noah Harari (autor), David Vandermeulen (traductor intralingüístico), Daniel Casanave (traductor intersemiótico), Slava Greenberg (consultor de diversidad, investigador posdoctoral USC, especialista en estudios trans, género y diversidad funcional).\n\nHALLAZGOS - 3 EJES DE DIVERSIDAD: (1) Étnico-cultural: En el ensayo, Harari dice que los primeros humanos eran «animales insignificantes sin más impacto que gorilas, luciernagas o medusas». El cómic mantiene la idea pero la ilustra con 8 personajes de distintas culturas junto a Harari (pp. 12-14). Los sapiens se dibujan con piel oscura y rasgos africanos (siguiendo a Jablonski, 2012); los neandertales con piel clara y pelo anaranjado (p. 42), invirtiendo la representación blanqueada. En la p. 20, tres personas de origen distinto escuchan una conferencia mientras se afirma que distinciones como francés/alemán, cristiano/musulmán, blanco/negro son «invenciones muy recientes» —pasaje que NO existe en el ensayo. El personaje Dr. Fiction tiene un género no binario. El equipo de investigación del cómic incluye personajes de India, Brasil, Japón, Alemania e Inglaterra. (2) Afectivo-sexual: El cómic introduce una escena sin equivalente en el ensayo: dos hombres neandertales forman pareja y, acusados de ser agresivos, declaran ser homosexuales (p. 42). El pasaje del ensayo donde Harari refuta la homosexualidad como innatural (p. 166) se traduce en un debate escenificado entre la comunidad científica y un padre de familia, con la bióloga Saraswati citando ejemplos de primates. No hay evidencia arqueológica de diversidad sexoafectiva en la prehistoria, pero tampoco pruebas de que los primeros humanos fueran exclusivamente heterosexuales (Spencer, 1996; Fisher et al., 2021). (3) De género: El ensayo emplea lenguaje inclusivo («lion-man or lioness-woman», «skilled craftsman or craftswoman»). El cómic traduce esto en imágenes de mujeres cazando, recolectando y combatiendo. La cubierta elige como protagonista a una joven pintora rupestre (dialogando con Galeano, 2015: «¿O eran ellas?»). La intervención más radical: la parodia de la ilustración de la evolución humana del mono al hombre, redibujada con una mujer neandertal (p. 25), traduciendo la frase del ensayo sobre «hermanos y hermanas» prehistóricos.\n\nESTRATEGIA DOMINANTE: Ideologización (Pereira, 2008). El cómic no se limita a reproducir o enfatizar: introduce personajes, situaciones y mensajes nuevos —neandertales homosexuales, ocho rostros multiculturales, mujer en la cadena evolutiva— para construir una prehistoria deliberadamente más plural. Ausencias: no se hallaron ejemplos de diversidad funcional ni etaria, atribuido a falta de conocimientos científicos sobre estos aspectos en la prehistoria.\n\nDISCUSIÓN: Tres razones del cambio: (1) El éxito inesperado del ensayo exigió encontrar nuevas audiencias (Vidal-Claramonte, 2018: «el original nunca es estático»). (2) El potencial comunicativo del cómic fuerza a concretar lo abstracto: Harari (2021): «mientras las palabras pueden ser abstractas, las imágenes deben ser concretas». (3) El equipo creativo múltiple —cuatro personas con miradas complementarias— produjo una traducción coral donde la ideología, especialmente a través del consultor de diversidad, desempeñó un papel clave.\n\nLIMITACIONES: Estudio centrado exclusivamente en el primer volumen de la adaptación gráfica. Análisis cualitativo sin mediciones cuantitativas. No aborda diversidad funcional ni etaria. Modelo de Pereira diseñado para texto-ilustración, no para cómic (deja fuera la secuencialidad). No considera la recepción del cómic por parte de los lectores."
+}

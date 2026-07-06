@@ -1,0 +1,125 @@
+{
+  "article_id": "comic_sensibilizacion",
+  "title": "El cómic como herramienta para la sensibilización sobre la necesidad de atender a la diversidad. Una mirada inclusiva",
+  "authors": "Sheila López-Prados y Francisco Sáez-de-Adana",
+  "year": "2023",
+  "doi": "10.18239/ocnos_2023.22.1.333",
+  "welcome_message": "¿Y si un puñado de viñetas dibujadas por niños de primaria pudiera enseñarnos más sobre la inclusión que muchas charlas sobre valores? Cuarenta estudiantes de Guadalajara cogieron lápices de colores y se pusieron en la piel de compañeros con discapacidad. Lo que dibujaron revela algo que las políticas educativas llevan años diciendo pero pocas veces logran: la empatía no se decreta, se construye. Y el cómic, ese medio que muchos siguen mirando con recelo, resultó ser la herramienta perfecta para hacerlo.",
+  "nodes": [
+    {
+      "id": "intro",
+      "title": "El experimento de las viñetas",
+      "text": "Imagina un aula de quinto o sexto de primaria en Guadalajara, España. Cuarenta estudiantes acaban de debatir sobre cómo acoger a un compañero nuevo con necesidades educativas. Luego, en una sola sesión, aprenden qué es un cómic: bocadillos, planos, metáforas visuales, onomatopeyas. Y después dibujan su propia historia sobre inclusión.\n\nExactamente eso diseñaron Sheila López-Prados y Francisco Sáez-de-Adana desde la Universidad de Alcalá en el CEIP Parque de la Muñeca. El objetivo: ¿puede crear cómics generar empatía real hacia personas con discapacidad?\n\nLa respuesta es sí, pero con matices que te van a sorprender. 🎨",
+      "options": [
+        { "label": "¿Cuál era el problema?", "target_node": "problema" },
+        { "label": "Ver el método", "target_node": "metodo" },
+        { "label": "Ir directo a hallazgos", "target_node": "hallazgos" }
+      ]
+    },
+    {
+      "id": "problema",
+      "title": "La empatía no brota sola",
+      "text": "La escuela habla mucho de inclusión, pero a veces lo hace con discursos abstractos que no tocan las emociones. Los estudiantes pueden repetir que hay que respetar al otro sin haberse parado a imaginar qué se siente al llegar a un centro nuevo, no conocer a nadie y tener una discapacidad.\n\nAquí está la contradicción: la selección del profesorado en España ni siquiera contempla la empatía como capacidad básica para ejercer la docencia. Moya (2019) lo dice claro: quienes educan desde la empatía tienen muchas más probabilidades de éxito.\n\nY el cómic, tradicionalmente asociado a la contracultura y mirado con reservas en algunos círculos educativos, resultó ser justo la herramienta que faltaba. Ferreiro-Peleteiro (2019) sostiene que las imágenes en forma de cómic pueden mejorar la capacidad empática. 🤔",
+      "options": [
+        { "label": "¿Cómo lo hicieron?", "target_node": "metodo" },
+        { "label": "Ver los resultados", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "metodo",
+      "title": "Debate, teoría y viñetas",
+      "text": "El proceso tuvo tres fases claras:\n\n1️⃣ **Debates grupales**: los estudiantes reflexionaron sobre cómo los colegios se adaptan a la diversidad y qué apoyos ofrecen a alumnos con necesidades educativas.\n\n2️⃣ **Una sola sesión teórica** sobre lenguaje del cómic: metáforas visuales, planos, enfoques, bocadillos, onomatopeyas. Los autores reconocen que es insuficiente, pero servía para comprobar la capacidad natural del alumnado.\n\n3️⃣ **Creación individual de un cómic** eligiendo entre dos temáticas: los sentimientos de un niño con necesidades al llegar a un colegio nuevo, o las situaciones que enfrenta (discapacidad, rechazo, inclusión).\n\nEn 6º había un alumno con síndrome de Down. En 5º no había alumnos con necesidades especiales; trabajaron con el cuento 'Un día especial para Laila y sus amigos'. Los cómics se analizaron con la teoría de la metáfora conceptual de Lakoff y Johnson (1980). 🔍",
+      "options": [
+        { "label": "¿Qué dibujaron?", "target_node": "hallazgos" },
+        { "label": "Discusión y límites", "target_node": "discusion" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "hallazgos",
+      "title": "Lo que revelaron los cómics",
+      "text": "Los resultados son fascinantes:\n\n📌 **Estructura narrativa**: la mayoría sigue el mismo esquema —llega un alumno con discapacidad, los compañeros inician la integración, final feliz. Los estudiantes entienden la inclusión en los términos exactos de la UNESCO (2003).\n\n📌 **Lo que se dibuja depende de lo que se conoce**: en 5º (sin compañero con necesidades) solo aparecen ceguera y silla de ruedas, presentes en **un tercio** de los cómics. En 6º (con un compañero con síndrome de Down) aparecen síndrome de Down, autismo y, en un caso aislado, depresión.\n\n📌 **El punto de vista importa**: los cómics más empáticos adoptan la perspectiva del personaje con discapacidad. Cuando la historia se cuenta solo desde quienes acogen, la empatía se diluye.\n\n📌 **Déficit de alfabetización visual**: la mayoría no destaca por su dominio del lenguaje del cómic, confirmando que esta competencia está ausente de la formación escolar.",
+      "options": [
+        { "label": "Discusión completa", "target_node": "discusion" },
+        { "label": "¿Qué implica esto?", "target_node": "implicancias" },
+        { "label": "Hacer el quiz", "target_node": "quiz" }
+      ]
+    },
+    {
+      "id": "discusion",
+      "title": "Los matices que importan",
+      "text": "Los autores identifican tres limitaciones clave:\n\n⚠️ **Dependencia de la experiencia directa**: lo que los niños representan depende de lo que han visto y vivido. Sin contacto directo con la diversidad, las narrativas se limitan a lo conocido.\n\n⚠️ **Brecha en alfabetización visual**: sin formación previa en lectura y creación de cómics, el medio no alcanza su potencial transformador. La metáfora visual no es una competencia desarrollada entre los participantes.\n\n⚠️ **Ausencia de conflicto**: casi todos los cómics terminan con un final feliz. Los autores barajan tres hipótesis: inmadurez emocional, incapacidad de expresar visualmente lo desagradable, o influencia de la tarea novedosa.\n\nEl cómic funciona, pero necesita más formación visual y consignas que animen a explorar también lo incómodo.",
+      "options": [
+        { "label": "Implicancias finales", "target_node": "implicancias" },
+        { "label": "Hacer el quiz", "target_node": "quiz" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "implicancias",
+      "title": "¿Y ahora qué?",
+      "text": "La conclusión es clara: el cómic es una herramienta de gran interés para la educación primaria. Dirige al alumnado a profundizar en temas sociales, fomenta la reflexión sobre la diversidad de una manera distinta y permite que los estudiantes se representen como agentes activos de la inclusión.\n\nPero tres cosas deben cambiar:\n\n1. **Incidir en alfabetización visual** desde edades tempranas.\n2. **Ampliar la formación en lenguaje del cómic** más allá de una sola sesión.\n3. **Diseñar consignas que exploren el conflicto**, no solo la resolución feliz.\n\nLos propios estudiantes se representan como quienes llevan a cabo el proceso integrador. Eso dice mucho sobre su capacidad de agencia y sobre el potencial del cómic como espejo y como puente. 🌉",
+      "options": [
+        { "label": "Hacer el quiz", "target_node": "quiz" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "quiz",
+      "title": "Pon a prueba lo que aprendiste",
+      "text": "¡Hora del quiz! 🧠 Responde estas preguntas basadas en datos reales del estudio.",
+      "options": [
+        { "label": "Empezar quiz", "target_node": "quiz_start" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "¿Qué herramienta teórica utilizaron López-Prados y Sáez-de-Adana para analizar los cómics creados por los alumnos?",
+      "options": [
+        "La teoría de la metáfora conceptual de Lakoff y Johnson (1980)",
+        "El análisis estructural del relato de Roland Barthes",
+        "La gramática del diseño visual de Kress y van Leeuwen"
+      ],
+      "correct_answer_index": 0,
+      "feedback_correct": "¡Correcto! La metáfora conceptual permite comprender el pensamiento, las emociones y la acción humana utilizando estrategias que dibujan modelos mentales sobre cómo funciona el mundo.",
+      "feedback_incorrect": "No exactamente. Los autores utilizaron la teoría de la metáfora conceptual de Lakoff y Johnson (1980), aplicada al ámbito del cómic según El Refaie (2012)."
+    },
+    {
+      "question": "¿Por qué los alumnos de 6º representaron discapacidades intelectuales (síndrome de Down, autismo) mientras que los de 5º dibujaron sobre todo discapacidades físicas (ceguera, silla de ruedas)?",
+      "options": [
+        "Porque en 6º convivían con un compañero con síndrome de Down y en 5º trabajaron con un cuento sobre discapacidades físicas",
+        "Porque los alumnos de 6º tienen mayor madurez cognitiva",
+        "Porque la profesora de 6º impartió una sesión extra sobre autismo"
+      ],
+      "correct_answer_index": 0,
+      "feedback_correct": "¡Exacto! La proximidad real a la diversidad modela las narrativas visuales. En 5º, el referente era un cuento; en 6º, la convivencia diaria con un compañero.",
+      "feedback_incorrect": "La respuesta correcta es que en 6º convivían con un alumno con síndrome de Down, mientras que en 5º trabajaron con el cuento 'Un día especial para Laila y sus amigos' que mostraba discapacidades físicas."
+    },
+    {
+      "question": "Según los resultados, ¿qué característica distingue a los cómics que logran transmitir mayor empatía?",
+      "options": [
+        "Adoptan el punto de vista en primera persona del personaje con discapacidad",
+        "Utilizan más colores y onomatopeyas",
+        "Incluyen siempre la intervención mediadora de un profesor"
+      ],
+      "correct_answer_index": 0,
+      "feedback_correct": "¡Bien! Cuando la historia se narra desde la perspectiva del personaje con discapacidad, la transmisión de sentimientos es mucho más efectiva.",
+      "feedback_incorrect": "Los cómics más empáticos son aquellos que adoptan la perspectiva del personaje con discapacidad, ya sea en primera persona o con viñetas que expresan su percepción del mundo."
+    },
+    {
+      "question": "¿Qué proporción de los cómics de 5º de primaria representó ceguera o uso de silla de ruedas?",
+      "options": [
+        "Un tercio de los cómics presentados",
+        "La mitad de los cómics presentados",
+        "La práctica totalidad de los cómics"
+      ],
+      "correct_answer_index": 0,
+      "feedback_correct": "¡Correcto! Un tercio de los cómics de 5º representó ceguera o silla de ruedas, las dos discapacidades del cuento inclusivo con el que trabajaron.",
+      "feedback_incorrect": "La respuesta es un tercio. Estas dos discapacidades aparecían en el cuento 'Un día especial para Laila y sus amigos' que usó la clase de 5º."
+    }
+  ],
+  "context_for_ai": "PROBLEMA: La educación inclusiva requiere empatía, pero la selección del profesorado en España no la contempla como capacidad básica. El cómic, medio tradicionalmente marginal, puede ser herramienta para generar empatía hacia personas con necesidades específicas de apoyo educativo (NEAE). MÉTODO: Estudio cualitativo en CEIP Parque de la Muñeca (Guadalajara, España) con n=40 alumnos de 5º y 6º de Primaria. En 6º había un alumno con síndrome de Down; en 5º no había alumnos con NEAE (trabajaron con cuento inclusivo 'Un día especial para Laila y sus amigos'). Fases: (1) debates grupales sobre inclusión, (2) una sesión teórica sobre lenguaje del cómic (metáforas visuales, planos, enfoques, bocadillos, onomatopeyas), (3) creación individual de cómic sobre temáticas de inclusión. Análisis con teoría de la metáfora conceptual de Lakoff y Johnson (1980) aplicada al cómic según El Refaie (2012). HALLAZGOS: (1) La mayoría de cómics sigue esquema: llega alumno con discapacidad → compañeros inician integración → final feliz, alineado con definición UNESCO (2003) de inclusión. (2) Lo dibujado depende de lo conocido: en 5º solo ceguera y silla de ruedas (presentes en un tercio de los cómics); en 6º aparecen síndrome de Down, autismo y un caso aislado de depresión. (3) Los cómics más empáticos adoptan perspectiva del personaje con discapacidad (primera persona o viñetas que expresan su percepción). (4) Los alumnos se representan como agentes activos de integración. (5) Déficit de alfabetización visual: mayoría no destaca por dominio del lenguaje del cómic. DISCUSIÓN: El cómic es herramienta propicia para inclusión en aula, pero requiere más formación visual. Limitaciones: dependencia de experiencia directa, brecha en alfabetización visual, tendencia a evitar conflicto y resolver con finales felices (posiblemente por inmadurez emocional, incapacidad visual de expresar lo desagradable, o influencia de tarea novedosa). IMPLICANCIAS: Necesidad de incidir en alfabetización visual y competencias multimodales desde edades tempranas, ampliar formación en lenguaje del cómic, y diseñar consignas que exploren el conflicto."
+}

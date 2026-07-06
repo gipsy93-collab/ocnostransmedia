@@ -1,0 +1,140 @@
+{
+  "article_id": "preferencias_lectoras",
+  "title": "Preferencias lectoras del alumnado de Educación Primaria según el sexo y titularidad del centro educativo",
+  "authors": "Eulalia Agrelo-Costas, Isabel Mociño-González y Carla Míguez-Álvarez",
+  "year": "2023",
+  "doi": "10.18239/ocnos_2023.22.2.389",
+  "welcome_message": "¿Qué leen realmente los niños y niñas de 6º de Primaria cuando nadie les obliga? 📚\n\n416 estudiantes de Pontevedra, 26 preguntas, 2 variables (sexo y tipo de centro). Los resultados desafían algunos estereotipos, confirman otros y lanzan preguntas incómodas: las niñas leen más y más diverso, los niños se concentran en cómics y deportes, y los centros públicos superan a los privados en actitudes lectoras. Pero lo más revelador no son los números: es lo que dicen sobre cómo la escuela escucha —o no— a sus lectores.",
+  "nodes": [
+    {
+      "id": "intro",
+      "title": "416 lectores a las puertas de la adolescencia",
+      "text": "Imagina 416 estudiantes de 6º de Primaria en Pontevedra, entre 11 y 12 años, a punto de entrar en la adolescencia. 🏫\n\nEse es el momento en que muchos —especialmente los chicos— empiezan a abandonar la lectura recreativa. Las tres investigadoras de la Universidad de Vigo les entregan un cuestionario de 26 ítems y les preguntan: ¿te gusta leer en tu tiempo libre? ¿Qué géneros prefieres? ¿Qué temas te atrapan? ¿Lees en papel o en pantalla? ¿En castellano o en gallego?\n\nLuego cruzan todas las respuestas con dos variables: sexo (218 niñas y 198 niños) y titularidad del centro (6 públicos con 326 estudiantes y 3 privados con 90).\n\nEl estudio fue financiado por la Xunta de Galicia (GRC, ED431C 2021/52).",
+      "options": [
+        { "label": "¿Por qué es importante?", "target_node": "problema" },
+        { "label": "¿Cómo lo hicieron?", "target_node": "metodo" },
+        { "label": "Ir a los resultados", "target_node": "hallazgos" }
+      ]
+    },
+    {
+      "id": "problema",
+      "title": "La escuela no escucha a sus lectores",
+      "text": "La lectura es una competencia clave, pero las prácticas escolares no siempre conectan con los intereses reales del alumnado. 📉\n\nA las puertas de la adolescencia, muchos chicos reducen drásticamente la lectura recreativa. La influencia del docente sobre la lectura del alumnado es limitada: solo un 15,38% según la Asociación Amigos del Libro Infantil (2018). El auténtico mediador es el ambiente cultural (Cid, 2014), y la familia contribuye apenas un 13%.\n\nEl alumnado que más lee obtiene mejores calificaciones, aunque también es más crítico con el sistema educativo: percibe que se dedica más tiempo a metodologías tradicionales y menos a propuestas participativas (Fraguela-Vale et al., 2016).\n\nUrge saber qué leen realmente los estudiantes para diseñar intervenciones eficaces.",
+      "options": [
+        { "label": "¿Cómo lo estudiaron?", "target_node": "metodo" },
+        { "label": "Los resultados", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "metodo",
+      "title": "Cuestionario, muestra y análisis",
+      "text": "Estudio cuantitativo no experimental descriptivo. 📊\n\nCuestionario propio de 26 ítems con escala Likert de 1 a 5 (1=Nada, 5=Mucho), validado por expertos. 5 dimensiones: actitudes hacia la lectura (2 ítems), géneros literarios (6), temáticas (15), soportes (1 + pregunta abierta), lengua (2).\n\nMuestra incidental: 416 estudiantes de 6º de 9 centros de Pontevedra (de 25 contactados). 6 públicos (326 estudiantes) y 3 privados (90). La matrícula total en 6º era de 925 estudiantes.\n\nAnálisis con SPSS 25: U de Mann-Whitney, significación exacta de Fisher, correlación de Pearson. Fiabilidad: alfa de Cronbach α = .824 (supera el umbral de .70). Nivel de significación: p < .05.",
+      "options": [
+        { "label": "Los resultados clave", "target_node": "hallazgos" },
+        { "label": "Actitudes lectoras", "target_node": "actitudes" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "hallazgos",
+      "title": "Lo que los datos revelaron",
+      "text": "20 de los 26 ítems mostraron diferencias significativas. Los hallazgos clave: 📊\n\n1. Lectura recreativa > prescrita (3,58 vs 3,24). Las niñas puntúan mucho más alto en recreativa (3,88 vs 3,26, p<.001).\n\n2. Centros públicos superan a privados en lectura prescrita (3,37 vs 2,78, p<.001).\n\n3. Niñas: narrativa (3,86), teatro (3,29), prensa (2,91). Niños: cómics (4,05).\n\n4. Temáticas top: aventura (4,31), humor (4,26), misterio/terror (3,93), fantasía (3,77).\n\n5. Niñas diversifican más: fantasía (4,04), amor (3,02), familia (3,49). Niños: deportes (3,42).\n\n6. Papel domina (40%), sin diferencias por sexo ni centro.\n\n7. Castellano arrasa (4,64) frente a gallego (2,75). Solo 9 gallegohablantes.",
+      "options": [
+        { "label": "Actitudes en detalle", "target_node": "actitudes" },
+        { "label": "Géneros y temas", "target_node": "generos" },
+        { "label": "Soportes y lengua", "target_node": "soportes" }
+      ]
+    },
+    {
+      "id": "actitudes",
+      "title": "Niñas y centros públicos lideran",
+      "text": "La lectura recreativa obtiene una media general de 3,58 (DE=1,14). 😊\n\nLas niñas la puntúan con 3,88 (DE=1,05) y los niños con 3,26 (DE=1,15): una diferencia de 0,62 puntos (p<.001).\n\nEn lectura prescrita, la media general es 3,24 (DE=1,11). No hay diferencias por sexo (3,33 niñas vs 3,13 niños, p=.308), lo que contradice estudios previos donde los varones la rechazaban más.\n\nPor titularidad, la lectura prescrita es la que más divide: 3,37 (DE=1,10) en públicos vs 2,78 (DE=1,03) en privados (p<.001). La brecha más amplia del estudio.\n\nEn lectura recreativa, los públicos también puntúan más alto (3,64 vs 3,38), pero la diferencia no es significativa.",
+      "options": [
+        { "label": "Géneros y temas", "target_node": "generos" },
+        { "label": "Soportes y lengua", "target_node": "soportes" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "generos",
+      "title": "Cómics para ellos, narrativa para ellas",
+      "text": "Narrativa (3,60) y cómics (3,52) lideran; poesía (2,62) y teatro (2,95) cierran. 📖\n\nPor sexo: las niñas prefieren narrativa (3,86 vs 3,31, p<.001), teatro (3,29 vs 2,57, p<.001) y prensa (2,91 vs 2,49, p=.027). Los niños lideran en cómics (4,05 vs 3,05, p<.001).\n\nPor centro: los públicos superan en poesía (2,69 vs 2,37, p=.049) y cómics (3,65 vs 3,06, p<.001).\n\nEn temáticas, el top 4 es: aventura y acción (4,31), humor (4,26), misterio y terror (3,93) y fantasía (3,77).\n\nLas niñas puntúan más alto en fantasía (4,04 vs 3,47), amor (3,02 vs 1,84, la brecha más amplia: 1,18 puntos), familia (3,49 vs 2,76) y policías/detectives (3,55 vs 3,27). Los niños solo lideran en deportes (3,42 vs 2,78, p<.001).",
+      "options": [
+        { "label": "Soportes y lengua", "target_node": "soportes" },
+        { "label": "¿Qué implica todo esto?", "target_node": "implicancias" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "soportes",
+      "title": "El papel resiste, el gallego se rezaga",
+      "text": "El papel es el soporte más usado: 167 respuestas (40%). 📱\n\nLe siguen: tableta (115, 28%), ordenador (66, 16%), móvil (54, 13%) y libro electrónico (14, 3%).\n\nNo hay diferencias significativas según sexo (p=.314) ni centro (p=.293). Es la única dimensión que NO correlaciona con las demás.\n\nEn lengua, el castellano arrasa con 4,64 (DE=0,74) frente al gallego con 2,75 (DE=1,24). Solo 9 de los 416 participantes declaran ser gallegohablantes, todos en centros públicos.\n\nLas niñas puntúan más alto en ambas lenguas: gallego 2,89 vs 2,60 (p=.037), castellano 4,72 vs 4,55 (p=.050). Los públicos superan ampliamente en gallego (2,93 vs 2,11, p<.001).",
+      "options": [
+        { "label": "¿Qué implica todo esto?", "target_node": "implicancias" },
+        { "label": "Actitudes lectoras", "target_node": "actitudes" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "implicancias",
+      "title": "La escuela debe escuchar a sus lectores",
+      "text": "Los resultados apuntan a una necesidad urgente: la escuela debe revisar sus prácticas para acercarse a los intereses reales de sus estudiantes. 🎯\n\nLa brecha de género en lectura recreativa confirma que las niñas poseen motivación intrínseca más acentuada. Que no haya diferencias en lectura prescrita sugiere que el problema no es que los niños rechacen leer, sino que no encuentran textos que les entusiasmen cuando eligen libremente.\n\nLa ventaja de los centros públicos invierte la tendencia internacional pero es coherente con el Plan LIA de Bibliotecas Escolares de la Xunta de Galicia, que sitúa la biblioteca como espacio central para la mejora de la lectura.\n\nEl dominio del papel sobre la pantalla es coherente con la evidencia: los metaanálisis de Delgado et al. (2018), Clinton (2019) y Furenes, Kucirkova y Bus (2021) confirman mejores resultados en papel.",
+      "options": [
+        { "label": "🧠 Pon a prueba lo aprendido", "target_node": "quiz" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "¿Qué prueba estadística emplearon las autoras para comparar las diferencias entre niños y niñas, y entre centros públicos y privados?",
+      "options": [
+        "Chi-cuadrado de Pearson para todas las comparaciones",
+        "U de Mann-Whitney con significación calculada por el método exacto de Fisher",
+        "ANOVA de un factor con pruebas post-hoc de Bonferroni",
+        "Regresión logística binaria para cada dimensión del cuestionario"
+      ],
+      "correct_answer_index": 1,
+      "feedback_correct": "¡Correcto! Emplearon la U de Mann-Whitney con significación exacta de Fisher, además del coeficiente de correlación de Pearson para las relaciones entre dimensiones.",
+      "feedback_incorrect": "La respuesta correcta es la U de Mann-Whitney con significación calculada por el método exacto de Fisher, junto con la correlación de Pearson entre dimensiones."
+    },
+    {
+      "question": "¿En qué dimensión del cuestionario NO se hallaron diferencias significativas ni por sexo ni por titularidad del centro?",
+      "options": [
+        "Actitudes hacia la lectura recreativa",
+        "Preferencias de género literario",
+        "Intereses temáticos",
+        "Uso de nuevos soportes de lectura"
+      ],
+      "correct_answer_index": 3,
+      "feedback_correct": "¡Exacto! La dimensión de soportes es la única que no muestra diferencias significativas ni por sexo (p=.314) ni por centro (p=.293), y es la única que no correlaciona con las demás dimensiones.",
+      "feedback_incorrect": "Es el uso de nuevos soportes de lectura. No hay diferencias significativas por sexo (p=.314) ni por centro (p=.293), y es la única dimensión que no correlaciona con las demás."
+    },
+    {
+      "question": "¿Cuál de estas temáticas obtuvo la puntuación media más alta en el conjunto de la muestra de 416 estudiantes?",
+      "options": [
+        "Misterio y terror, con una media de 3,93",
+        "Humor, con una media de 4,26",
+        "Aventura y acción, con una media de 4,31",
+        "Fantasía, con una media de 3,77"
+      ],
+      "correct_answer_index": 2,
+      "feedback_correct": "¡Correcto! Aventura y acción lidera con M=4,31 (DE=0,97), seguida de humor (4,26), misterio y terror (3,93) y fantasía (3,77).",
+      "feedback_incorrect": "La temática con la puntuación más alta es aventura y acción, con una media de 4,31 (DE=0,97)."
+    },
+    {
+      "question": "¿Qué resultados obtuvieron los centros públicos frente a los privados en el gusto por la lectura prescrita por el profesorado?",
+      "options": [
+        "Los públicos puntuaron 3,37 y los privados 2,78, con diferencia significativa a favor de los públicos",
+        "Los privados puntuaron 3,37 y los públicos 2,78, con diferencia significativa a favor de los privados",
+        "Ambos tipos de centro obtuvieron puntuaciones similares, sin diferencias significativas",
+        "Los públicos puntuaron 4,64 y los privados 4,55, con diferencia a favor de los públicos"
+      ],
+      "correct_answer_index": 0,
+      "feedback_correct": "¡Bien! Los centros públicos obtienen 3,37 (DE=1,10) frente a 2,78 (DE=1,03) de los privados, con p<.001. Es la brecha más amplia del estudio (0,59 puntos).",
+      "feedback_incorrect": "Los centros públicos puntuaron 3,37 (DE=1,10) y los privados 2,78 (DE=1,03), con diferencia significativa a favor de los públicos (p<.001). Es la brecha más amplia del estudio."
+    }
+  ],
+  "context_for_ai": "PROBLEMA: La lectura es una competencia clave pero las prácticas escolares no siempre conectan con los intereses reales del alumnado. A las puertas de la adolescencia, muchos chicos reducen la lectura recreativa. La influencia del docente sobre la lectura es limitada (15,38%, Asociación Amigos del Libro Infantil, 2018); el auténtico mediador es el ambiente cultural (Cid, 2014) y la familia contribuye apenas un 13%. Objetivo: identificar actitudes hacia la lectura y preferencias lectoras del alumnado de 6º de Primaria según sexo y titularidad del centro.\n\nMÉTODO: Estudio cuantitativo no experimental descriptivo. Cuestionario propio de 26 ítems tipo Likert (1=Nada a 5=Mucho), validado por expertos (profesorado universitario y docentes en ejercicio). 5 dimensiones: (1) Actitudes hacia la lectura (ítems 1-2): recreativa y prescrita. (2) Géneros literarios (3-8): narrativa, poesía, teatro, cómics, álbumes, prensa/revistas. (3) Temáticas (9-23): aventura/acción, misterio/terror, fantasía, ciencia ficción, policías/detectives, amor, humor, familia, problemas cotidianos, hechos históricos, animales/plantas, ciencia, deportes, personajes históricos, otras culturas. (4) Soportes (24 + pregunta abierta): papel, tableta, ordenador, móvil, libro electrónico. (5) Lengua (25-26): gallego y castellano. Muestra incidental: 416 estudiantes de 6º de 9 centros de Pontevedra (de 25 contactados, matrícula total 925). 6 públicos (326 estudiantes, 78,4%) y 3 privados (90, 21,6%). 218 niñas (52,4%) y 198 niños (47,6%). Análisis con SPSS 25: descriptivos, U de Mann-Whitney con significación exacta de Fisher, correlación de Pearson. Fiabilidad: α=.824. Significación: p<.05.\n\nHALLAZGOS: 20 de 26 ítems mostraron diferencias significativas. (1) Actitudes: lectura recreativa M=3,58 (DE=1,14), prescrita M=3,24 (DE=1,11). Niñas superan en recreativa (3,88 vs 3,26, p<.001). Sin diferencias por sexo en prescrita (3,33 vs 3,13, p=.308). Públicos superan en prescrita (3,37 vs 2,78, p<.001). (2) Géneros: narrativa (3,60) y cómics (3,52) lideran. Niñas: narrativa (3,86 vs 3,31, p<.001), teatro (3,29 vs 2,57, p<.001), prensa (2,91 vs 2,49, p=.027). Niños: cómics (4,05 vs 3,05, p<.001). Públicos superan en poesía (2,69 vs 2,37, p=.049) y cómics (3,65 vs 3,06, p<.001). (3) Temáticas: aventura (4,31), humor (4,26), misterio/terror (3,93), fantasía (3,77). Niñas diversifican más: fantasía (4,04 vs 3,47, p<.001), amor (3,02 vs 1,84, p<.001, brecha más amplia: 1,18 puntos), familia (3,49 vs 2,76, p<.001), policías (3,55 vs 3,27, p=.017). Niños solo en deportes (3,42 vs 2,78, p<.001). Públicos superan en humor (4,32 vs 4,03, p=.006) y problemas cotidianos (2,74 vs 2,38, p=.030); privados solo en policías (3,44 vs 3,30, p=.009). (4) Soportes: papel 40% (167), tableta 28% (115), ordenador 16% (66), móvil 13% (54), e-book 3% (14). Sin diferencias por sexo (p=.314) ni centro (p=.293). Única dimensión que no correlaciona con las demás. (5) Lengua: castellano 4,64 (DE=0,74), gallego 2,75 (DE=1,24). Solo 9 gallegohablantes (todos en públicos). Niñas puntúan más en gallego (2,89 vs 2,60, p=.037) y castellano (4,72 vs 4,55, p=.050). Públicos superan en gallego (2,93 vs 2,11, p<.001). Correlaciones: todas las dimensiones correlacionan significativamente entre sí (p=.001) excepto soportes. Correlación más fuerte: géneros-temáticas (r=.583**).\n\nDISCUSIÓN: Brecha de género confirma motivación intrínseca femenina más acentuada (McGeown et al., 2012). Ventaja de centros públicos invierte tendencia internacional (Dronkers y Robert, 2007; González et al., 2016) pero es coherente con Jaraíz et al. (2022) en Cáceres. Atribuido al Plan LIA de Bibliotecas Escolares de la Xunta de Galicia y al dinamismo cultural de Pontevedra (Salón del Libro Infantil y Juvenil). Dominio del papel coherente con metaanálisis de Delgado et al. (2018), Clinton (2019), Furenes et al. (2021). Debilidad del gallego refleja contexto urbano con uso minoritario (Mosquera, 2018) y competencia bilingüe desfavorable, especialmente en privados (Loredo y Silva, 2020).\n\nLIMITACIONES: Muestra incidental y de conveniencia, no representativa del alumnado gallego. Solo en área de Pontevedra. Escasa presencia de centros privados (3 de 9). Datos declarativos (no se observa conducta lectora real). Centrado en gallego y castellano sin explorar otras lenguas. Serían necesarios estudios más detallados sobre preferencias por sexo y titularidad, ampliando a soportes, mediación y evaluación de acciones lectoras."
+}
