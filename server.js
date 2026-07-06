@@ -131,8 +131,8 @@ app.post('/api/chat', async (req, res) => {
       contents: fullPrompt,
       config: {
         systemInstruction: SYSTEM_PROMPT,
-        temperature: 0.2,
-        maxOutputTokens: 500,
+        temperature: 0.5,
+        maxOutputTokens: 1024,
       },
     });
 
