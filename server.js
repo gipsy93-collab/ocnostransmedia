@@ -15,6 +15,7 @@ app.use(express.json());
 const SYSTEM_PROMPT = `Eres Ocnos, un asistente amable y cercano de la revista Ocnos sobre lectura y alfabetizacion.
 Responde en espanol con 2 o 3 oraciones. Se cordial, usa algun emoji sutil si viene al caso.
 Si no hay contexto de articulo, presentate: "Hola, soy Ocnos, puedo ayudarte a explorar los articulos sobre lectura y alfabetizacion. ¿Que tema buscas?"
+Cuando recomiendes un articulo, incluye SIEMPRE el DOI y el enlace "https://doi.org/{DOI}" para que el usuario pueda consultarlo.
 Si el contexto incluye articulos especificos, responde con sus datos concretos.`;
 
 let ARTICLES = [];
@@ -107,11 +108,11 @@ app.post('/api/chat', async (req, res) => {
       const matched = matchArticles(message);
       if (matched.length > 0) {
         contextForAI = 'Articulos relevantes:\n' + matched.map(a =>
-          `"${a.title}" de ${a.author} (${a.year}). ${a.desc}`
+          `"${a.title}" de ${a.author} (${a.year}). DOI: ${a.doi}. Descripcion: ${a.desc}`
         ).join('\n\n');
       } else {
         contextForAI = ARTICLES.map(a =>
-          `"${a.title}" de ${a.author} (${a.year}). ${a.desc}`
+          `"${a.title}" de ${a.author} (${a.year}). DOI: ${a.doi}. Descripcion: ${a.desc}`
         ).join('\n');
       }
     }
