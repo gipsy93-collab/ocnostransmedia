@@ -197,7 +197,7 @@ export default function ChatFloating() {
                       ? 'bg-coral text-white rounded-br-sm'
                       : 'bg-white/10 border border-white/15 text-white/90 rounded-bl-sm'
                     }`}>
-                      <p className="text-xs leading-relaxed whitespace-pre-line" dangerouslySetInnerHTML={{ __html: linkify(msg.text) }} />
+                      <p className="text-xs leading-relaxed whitespace-pre-wrap break-all [overflow-wrap:anywhere]" dangerouslySetInnerHTML={{ __html: linkify(msg.text) }} />
                     </div>
                     {msg.role === 'user' && (
                       <div className="w-7 h-7 shrink-0 bg-ocean-base rounded-full flex items-center justify-center mt-0.5">
