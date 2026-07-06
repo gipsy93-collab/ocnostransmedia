@@ -36,6 +36,21 @@ export default function ChatFloating() {
     setMessages([]);
   }, [activeArticleId]);
 
+  const linkify = (text: string) => {
+    const urlRegex = /(https?:\/\/[^\s<]+)/g;
+    const parts = text.split(urlRegex);
+    const matches = text.match(urlRegex);
+    if (!matches) return text;
+    let result = '';
+    parts.forEach((part, i) => {
+      result += part;
+      if (matches[i]) {
+        result += `<a href="${matches[i]}" target="_blank" rel="noopener noreferrer" class="underline text-coral hover:text-white transition-colors">${matches[i]}</a>`;
+      }
+    });
+    return result;
+  };
+
   const handleOpen = () => {
     setMinimized(false);
     open();
@@ -182,7 +197,7 @@ export default function ChatFloating() {
                       ? 'bg-coral text-white rounded-br-sm'
                       : 'bg-white/10 border border-white/15 text-white/90 rounded-bl-sm'
                     }`}>
-                      <p className="text-xs leading-relaxed whitespace-pre-line">{msg.text}</p>
+                      <p className="text-xs leading-relaxed whitespace-pre-line" dangerouslySetInnerHTML={{ __html: linkify(msg.text) }} />
                     </div>
                     {msg.role === 'user' && (
                       <div className="w-7 h-7 shrink-0 bg-ocean-base rounded-full flex items-center justify-center mt-0.5">
