@@ -37,10 +37,11 @@ export default function ChatFloating() {
   }, [activeArticleId]);
 
   const linkify = (text: string) => {
-    const urlRegex = /(https?:\/\/[^\s<]+)/g;
-    const parts = text.split(urlRegex);
-    const matches = text.match(urlRegex);
-    if (!matches) return text;
+    const clean = text.replace(/\[([^\]]*)\]\(([^)]*)\)/g, (_m, label, url) => url.startsWith('http') ? url : `${label} (${url})`);
+    const urlRegex = /(https?:\/\/[^\s<>\[\](){}"]+)/g;
+    const parts = clean.split(urlRegex);
+    const matches = clean.match(urlRegex);
+    if (!matches) return clean;
     let result = '';
     parts.forEach((part, i) => {
       result += part;
