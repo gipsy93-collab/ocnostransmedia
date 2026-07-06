@@ -3,6 +3,7 @@ import { ReactNode } from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
 import PageTransition from './PageTransition';
+import ChatFloating from './ChatFloating';
 
 interface LayoutProps {
     children: ReactNode;
@@ -46,6 +47,8 @@ export default function Layout({ children }: LayoutProps) {
             </main>
 
             <Footer />
+
+            <ChatFloating />
         </div>
     );
 }

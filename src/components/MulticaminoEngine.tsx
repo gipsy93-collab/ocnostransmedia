@@ -5,6 +5,7 @@ import { ChevronLeft, BookOpen, Home } from 'lucide-react';
 import { Narrative, BlockId, IMRyD_INDEX } from '../types/narrative';
 import CinematicSection from './CinematicSection';
 import DetectivesLanding from '../pages/detectives/DetectivesLanding';
+import { useChatStore } from '../store/chatStore';
 
 // Import blocks
 import AperturaBlock from './blocks/AperturaBlock';
@@ -31,6 +32,12 @@ export default function MulticaminoEngine({ narrative, onBack }: Props) {
   const [completedBlocks, setCompletedBlocks] = useState<string[]>([]);
   const [selectedGame, setSelectedGame] = useState<'snake' | 'quiz' | 'piramide' | null>(null);
   const mainRef = useRef<HTMLDivElement>(null);
+  const { setArticle, clearArticle } = useChatStore();
+
+  useEffect(() => {
+    setArticle(narrative.id, narrative.metadata.title);
+    return () => clearArticle();
+  }, [narrative.id, narrative.metadata.title, setArticle, clearArticle]);
 
   const visibleBlocks: BlockId[] = ['apertura', 'conflicto', 'viaje', 'revelacion', 'marco', 'nucleo'];
   if (narrative?.blocks?.implicancias) visibleBlocks.splice(6, 0, 'implicancias');

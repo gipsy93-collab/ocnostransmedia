@@ -4,17 +4,24 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --port=3000 --host=0.0.0.0",
+    "dev": "concurrently \"node --env-file=.env server.js\" \"vite --port=3000 --host=0.0.0.0\"",
+    "dev:front": "vite --port=3000 --host=0.0.0.0",
+    "dev:api": "node --env-file=.env server.js",
+    "dev:all": "concurrently \"npm run dev:api\" \"npm run dev:front\"",
     "build": "vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit"
   },
   "dependencies": {
+    "@google/genai": "^1.29.0",
     "@tailwindcss/vite": "^4.1.14",
     "@vitejs/plugin-react": "^5.0.4",
     "canvas-confetti": "^1.9.4",
     "clsx": "^2.1.1",
+    "concurrently": "^10.0.3",
+    "cors": "^2.8.6",
+    "express": "^4.22.2",
     "lucide-react": "^0.546.0",
     "motion": "^12.23.24",
     "react": "^19.0.0",
@@ -26,6 +33,7 @@
   "devDependencies": {
     "@types/canvas-confetti": "^1.9.0",
     "@types/node": "^22.14.0",
+    "@vercel/node": "^5.1.12",
     "autoprefixer": "^10.4.21",
     "tailwindcss": "^4.1.14",
     "tsx": "^4.21.0",

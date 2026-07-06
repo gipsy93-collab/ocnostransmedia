@@ -1,0 +1,125 @@
+{
+  "article_id": "booktuber",
+  "title": "Booktuber como práctica literaria en Educación Secundaria: revisión sistemática",
+  "authors": "Margarita R. Rodríguez-Gallego, Cristina De-Cecilia-Rodríguez, Soledad Domene-Martos y Rosario Ordóñez-Sierra",
+  "year": "2024",
+  "doi": "10.18239/ocnos_2024.23.1.405",
+  "welcome_message": "¿Y si los adolescentes que parecen distraídos con pantallas en realidad están leyendo, opinando y creando comunidad alrededor de los libros? Cuatro investigadoras de la Universidad de Sevilla rastrearon 16.055 publicaciones para encontrar la respuesta. Lo que descubrieron sobre el fenómeno booktuber no solo confirma que las redes sociales pueden ser aliadas de la lectura, sino que revela una brecha digital que amenaza con dejar atrás a quienes más necesitan conectarse.",
+  "nodes": [
+    {
+      "id": "intro",
+      "title": "Adolescentes, libros y YouTube",
+      "text": "Imagina a un adolescente frente a su móvil. Pero en lugar de ver un video cualquiera, está grabando una reseña de su última lectura: presenta el libro, valora los personajes, analiza la trama y recomienda —o no— la lectura a una audiencia de desconocidos que pronto se convierten en su comunidad.\n\nEso es ser booktuber. Y cuatro investigadoras de la Universidad de Sevilla se preguntaron si esta práctica, que sucede a diario fuera del aula, podía tener un lugar legítimo dentro de la clase de Lengua y Literatura de Secundaria.\n\nLo hicieron con una revisión sistemática siguiendo PRISMA 2020, el estándar más exigente. El resultado es el primer mapa comprehensivo de ventajas, inconvenientes y posibilidades de evaluación del fenómeno booktuber. 📚🎬",
+      "options": [
+        { "label": "¿Cuál es el problema?", "target_node": "problema" },
+        { "label": "Ver el método PRISMA", "target_node": "metodo" },
+        { "label": "Ir a los hallazgos", "target_node": "hallazgos" }
+      ]
+    },
+    {
+      "id": "problema",
+      "title": "Pantallas vs. papel: la falsa dicotomía",
+      "text": "Los adolescentes suelen estar desmotivados hacia la lectura en papel por percibirla como algo obligado que requiere sacrificio (Dar et al., 2019). Pero prefieren aprender en red por la flexibilidad del lenguaje digital (Colás-Bravo et al., 2013).\n\nEl debate no debería polarizarse entre pantallas y papel. Como plantea Martos (2013) con su concepto de lectura híbrida, se trata de aprovechar las prácticas lectoras emergentes en entornos virtuales.\n\nPlataformas como Wattpad, Goodreads, YouTube o Instagram ya son espacios donde los jóvenes leen, opinan y crean. La pregunta es: ¿la escuela los ignora o los integra? La UNESCO (2011) ya considera que el profesorado debe convertirse en agente de cambio para formar ciudadanos lectores competentes. 🤔",
+      "options": [
+        { "label": "¿Cómo lo investigaron?", "target_node": "metodo" },
+        { "label": "Ver los resultados", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "metodo",
+      "title": "PRISMA 2020: de 16.055 a 38 estudios",
+      "text": "El equipo siguió la Declaración PRISMA 2020 con rigor absoluto:\n\n🔍 **Bases de datos**: Scopus, Web of Science y ERIC.\n\n📊 **Registros iniciales**: 16.055 (10.219 en WoS + 4.879 en ERIC + 957 en Scopus).\n\n📉 **Tras eliminar duplicados**: 15.105 registros.\n\n📋 **Resúmenes revisados**: 9.128. Se excluyeron 5.977 por criterios: 24 anteriores a 2012, 105 de otros niveles, 723 no asociadas al tema, 4.430 sobre adolescencia sin relación, 579 en otros idiomas, 116 sin acceso completo.\n\n📖 **Evaluados a texto completo**: 120 (43 de ERIC, 63 de WoS, 14 de Scopus).\n\n✅ **Muestra final**: n=38 estudios.\n\nHerramientas: VOSviewer (mapas de co-ocurrencia) y ATLAS.ti8 (codificación abierta). Evaluación de sesgo con ROBIS: bajo riesgo. 📐",
+      "options": [
+        { "label": "¿Qué encontraron?", "target_node": "hallazgos" },
+        { "label": "Discusión y límites", "target_node": "discusion" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "hallazgos",
+      "title": "Tres respuestas contundentes",
+      "text": "El análisis con ATLAS.ti8 arrojó 162 codificaciones totales: 120 ventajas, 31 inconvenientes y 11 de evaluación. Las ventajas superan a los inconvenientes casi 4 a 1.\n\n🟢 **Ventajas principales**:\n• Socialización: **81,82%** de los registros sobre principios pedagógicos. La colaboración en línea genera apoyo emocional y sentido de pertenencia.\n• Motivación: **54,29%** de competencias transversales. Recibir votos, comentarios y recomendaciones es un potente motor.\n• Competencia transmedia: **81,82%** de competencias específicas.\n\n🔴 **Inconvenientes principales**:\n• Falta de competencia digital: **40%** de registros.\n• Falta de recursos técnicos: **28%**.\n\n🔵 **Evaluación**:\n• Evaluación por pares: **55,56%**.\n• Evaluación formativa: **33,33%**.",
+      "options": [
+        { "label": "Discusión completa", "target_node": "discusion" },
+        { "label": "¿Qué implica esto?", "target_node": "implicancias" },
+        { "label": "Hacer el quiz", "target_node": "quiz" }
+      ]
+    },
+    {
+      "id": "discusion",
+      "title": "Más ventajas que barreras, pero...",
+      "text": "Los resultados apuntan que existen más ventajas que inconvenientes en el fenómeno booktuber para el desarrollo de la competencia literaria en Secundaria.\n\nLos estudiantes asumen un papel más entusiasta y activo en el aula. El modelo se adapta al aprendizaje cooperativo, fomenta la implicación literaria y permite trabajar la identidad (Sevilla-Vallejo, 2020).\n\nPero las barreras son reales: la falta de competencia digital (**40%**) y de recursos técnicos (**28%**) pueden crear una nueva brecha digital que enmascare déficits en competencias lectoras fundamentales y profundice las desigualdades sociales (Amiama-Espaillat y Mayor-Ruiz, 2017).\n\nDato curioso: España concentra el **25,9%** de la producción científica europea sobre booktuber, liderando la investigación en la UE. 🇪🇸",
+      "options": [
+        { "label": "Implicancias finales", "target_node": "implicancias" },
+        { "label": "Hacer el quiz", "target_node": "quiz" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "implicancias",
+      "title": "Para que el booktuber funcione en el aula",
+      "text": "No basta con pedir a los estudiantes que graben vídeos. Hay que:\n\n1️⃣ Diseñar espacios de **colaboración genuina**, no tareas individuales aisladas.\n2️⃣ Implementar **evaluación formativa continua** con retroalimentación entre pares.\n3️⃣ Garantizar **equidad en el acceso** a dispositivos, conectividad y formación técnica.\n4️⃣ Formar al profesorado en producción y edición de vídeo.\n\nLas publicaciones revisadas acuñan el término **TRIC** —Tecnologías de la Relación, la Información y la Comunicación— para subrayar que lo importante no es solo la tecnología, sino las relaciones que esta hace posibles.\n\nEl booktuber no es moda digital: es una ventana para entender la lectura en su dimensión social y colectiva. 🌐",
+      "options": [
+        { "label": "Hacer el quiz", "target_node": "quiz" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "quiz",
+      "title": "Pon a prueba lo que aprendiste",
+      "text": "¡Hora del quiz! 🧠 Responde estas preguntas basadas en datos reales de la revisión sistemática.",
+      "options": [
+        { "label": "Empezar quiz", "target_node": "quiz_start" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "¿Cuántos estudios conformaron la muestra final de esta revisión sistemática tras aplicar todos los filtros PRISMA 2020?",
+      "options": [
+        "38 estudios",
+        "120 estudios",
+        "15.105 estudios"
+      ],
+      "correct_answer_index": 0,
+      "feedback_correct": "¡Correcto! De 16.055 registros iniciales, tras eliminar duplicados, revisar resúmenes y evaluar textos completos, la muestra final fue de 38 estudios.",
+      "feedback_incorrect": "La muestra final fue de 38 estudios. Los 120 fueron los evaluados a texto completo y los 15.105 los registros tras eliminar duplicados."
+    },
+    {
+      "question": "Según la codificación con ATLAS.ti8, ¿qué porcentaje de los registros sobre competencias transversales atribuye la falta de competencia digital como principal inconveniente?",
+      "options": [
+        "40%",
+        "28%",
+        "54,29%"
+      ],
+      "correct_answer_index": 0,
+      "feedback_correct": "¡Exacto! La falta de competencia digital concentra el 40% de los registros sobre inconvenientes en competencias transversales (10 de 25).",
+      "feedback_incorrect": "La respuesta es 40%. La falta de recursos técnicos fue el segundo inconveniente con 28%, y la motivación como ventaja alcanzó 54,29%."
+    },
+    {
+      "question": "¿Qué término proponen los estudios revisados para enfatizar la dimensión social y relacional de las tecnologías digitales?",
+      "options": [
+        "TRIC (Tecnologías de la Relación, la Información y la Comunicación)",
+        "Web 2.0",
+        "Alfabetización múltiple"
+      ],
+      "correct_answer_index": 0,
+      "feedback_correct": "¡Bien! TRIC enfatiza que la dimensión primordial de las tecnologías digitales es la relacional, no solo la informativa o comunicativa.",
+      "feedback_incorrect": "El término propuesto es TRIC (Tecnologías de la Relación, la Información y la Comunicación), que subraya que lo importante son las relaciones que la tecnología hace posibles."
+    },
+    {
+      "question": "¿Qué país europeo concentra la mayor producción científica sobre el fenómeno booktuber?",
+      "options": [
+        "España, con un 25,9% de las publicaciones europeas",
+        "Turquía, con un 18%",
+        "Reino Unido, con un 15%"
+      ],
+      "correct_answer_index": 0,
+      "feedback_correct": "¡Correcto! España lidera con un 25,9% de las publicaciones europeas sobre booktuber, seguida de Turquía, Dinamarca, Estonia, Moscú y Bulgaria.",
+      "feedback_incorrect": "España concentra el 25,9% de la producción científica europea sobre booktuber, siendo el país con mayor preocupación investigadora por este fenómeno dentro de la UE."
+    }
+  ],
+  "context_for_ai": "PROBLEMA: Los adolescentes están desmotivados hacia la lectura en papel (Dar et al., 2019) pero prefieren aprender en red por flexibilidad del lenguaje digital (Colás-Bravo et al., 2013). El fenómeno booktuber (jóvenes que cuelgan vídeos en YouTube hablando sobre libros) crece como mediación literaria horizontal entre pares, pero no existía una revisión sistemática que sintetizara la evidencia sobre su uso en Educación Secundaria. MÉTODO: Revisión sistemática siguiendo PRISMA 2020 (Page et al., 2021). Bases de datos: Scopus, WoS, ERIC. Registros iniciales: 16.055 (10.219 WoS + 4.879 ERIC + 957 Scopus). Tras duplicados: 15.105. Resúmenes revisados: 9.128. Excluidos: 5.977 (24 anteriores a 2012, 105 otros niveles, 723 no asociadas al tema, 4.430 temas adolescentes sin relación, 579 otros idiomas, 116 sin acceso). Evaluados texto completo: 120 (43 ERIC, 63 WoS, 14 Scopus). Muestra final: n=38. Herramientas: VOSviewer (mapas co-ocurrencia), ATLAS.ti8 (codificación abierta, tabulación cruzada). ROBIS: bajo riesgo de sesgo. Criterios: 2012-2022, Educación Secundaria, inglés/español. HALLAZGOS: 162 codificaciones totales: 120 ventajas, 31 inconvenientes, 11 evaluación. Ventajas: socialización 81,82% de principios pedagógicos (45/55), motivación 54,29% de competencias transversales (19/35), competencia transmedia 81,82% de competencias específicas (18/22). Inconvenientes: falta competencia digital 40% (10/25), falta recursos técnicos 28% (7/25), gestión del tiempo 16%, derechos digitales 12%. Evaluación: por pares 55,56% (5/9), formativa 33,33% (3/9), autoevaluación 11,11% (1/9), rúbricas como herramienta principal. Perfil estudios: mayoría publicados 2021 (31,27%), 2020 (20,63%), 2019 (10,53%); metodología cuantitativa 34,22%, cualitativa 23,41%, mixta 20,52%; 59,9% fuera de UE, España lidera Europa con 25,9%. DISCUSIÓN: Ventajas superan inconvenientes casi 4 a 1. La colaboración en línea genera apoyo emocional, sentido de pertenencia y mayor compromiso con la lectura. Barreras principales: falta de competencia digital y recursos técnicos que pueden crear brecha digital (Amiama-Espaillat y Mayor-Ruiz, 2017). Término TRIC propuesto para enfatizar dimensión relacional. LIMITACIONES: Búsqueda limitada a inglés/español (579 excluidos), criterios acotados a Secundaria, los 38 estudios arrastran sus propios sesgos metodológicos, decisiones de acotación de términos pueden introducir errores de cobertura."
+}

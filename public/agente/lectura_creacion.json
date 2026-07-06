@@ -1,0 +1,101 @@
+{
+  "article_id": "lectura_creacion",
+  "title": "Lectura y creación. Un estudio sobre lectura literaria y creatividad en formación inicial de docentes",
+  "authors": "Elisabet Contreras-Barceló",
+  "year": "2023",
+  "doi": "10.18239/ocnos_2023.22.2.383",
+  "welcome_message": "¿Y si pedirle a un futuro docente que reescriba un libro le hiciera entenderlo mucho más que si solo escribe una reseña? 🤔\n\nEn la Universidad de Barcelona, 96 estudiantes de Magisterio leyeron los mismos libros, participaron en las mismas tertulias, pero hicieron tareas finales muy distintas. Unos escribieron reseñas. Otros crearon poemas visuales, poemas objeto y microrrelatos. La diferencia en la profundidad de lectura fue brutal. ¿Quieres ver los datos?",
+  "nodes": [
+    {
+      "id": "intro",
+      "title": "El experimento que desafía la reseña académica",
+      "text": "Imagina esta escena: 96 futuros maestros en la Universidad de Barcelona, entre 2020 y 2022. Todos leen 3 libros de literatura infantil y juvenil. Todos participan en 4 tertulias literarias. Pero al final, un grupo escribe reseñas críticas (lo de siempre) y el otro grupo transforma cada lectura en un poema visual, un poema objeto o un microrrelato. 📚✨\n\nLa pregunta de Elisabet Contreras-Barceló es directa: ¿cambia la profundidad con que leemos cuando sabemos que después vamos a crear algo a partir del texto?\n\nEl problema de fondo es incómodo: los futuros maestros tienen un perfil lector débil y hacen de la lectura un uso meramente instrumental. Si no viven experiencias literarias significativas durante su formación, ¿cómo van a mediar con entusiasmo en el aula?",
+      "options": [
+        { "label": "¿Cuál era el problema?", "target_node": "problema" },
+        { "label": "¿Cómo se diseñó?", "target_node": "metodo" },
+        { "label": "Ir a los hallazgos", "target_node": "hallazgos" }
+      ]
+    },
+    {
+      "id": "problema",
+      "title": "El círculo vicioso de la lectura superficial",
+      "text": "Aquí está la contradicción: estos estudiantes están estudiando para enseñar literatura, pero sus propias respuestas ante un texto suelen ser descriptivas, inseguras o meramente instrumentales. 📉\n\nInvestigaciones como las de Colomer y Munita (2013), Aguilar-Ródenas (2020) y otras coinciden: los futuros docentes reproducen las tendencias de lectura superficial que muestran los informes PISA. Contreras-Barceló habla de una \"situación circular de empobrecimiento de la educación lectora y literaria\".\n\nLas pruebas PISA confirman la tendencia hacia la lectura superficial con finalidades prácticas. Como dice Gregorio Luri: \"aprender a leer no es como aprender a andar en bici\". Se aprende leyendo toda la vida.\n\nPero aquí viene el giro: la creatividad está de moda en educación. Piaget, Cropley y Padget afirman que las actividades creativas estimulan habilidades cognitivas de orden superior. La pregunta es: ¿puede una tarea creativa romper ese círculo vicioso?",
+      "options": [
+        { "label": "Ver el método", "target_node": "metodo" },
+        { "label": "Saltar a resultados", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "metodo",
+      "title": "Dos grupos, una diferencia crucial",
+      "text": "El diseño es elegante en su simplicidad. 🔬\n\nGrupo de control (curso 2020-2021, 52 estudiantes: 43 mujeres, 9 hombres): leyeron 3 obras de LIJ elegidas de una lista de 13 títulos, participaron en 4 tertulias y escribieron 3 reseñas críticas con valoración personal.\n\nGrupo experimental (curso 2021-2022, 44 estudiantes: 33 mujeres, 11 hombres): mismas lecturas, mismas tertulias, pero en vez de reseñas crearon 3 reescrituras creativas —un poema visual, un poema objeto y un microrrelato— cada una acompañada de su valoración personal.\n\nEl instrumento de recogida de datos fueron esas valoraciones personales: 288 en total (3 × 96 participantes). Se analizaron con Atlas.ti 22.0.1 usando las categorías de Fittipaldi (2012) —referencial, composicional, intertextual/intercultural y personal— con niveles literal, inferencial y un nivel reflexivo añadido por la autora.\n\nLos títulos disponibles incluían clásicos como Alicia en el país de las maravillas, Peter Pan, El principito, Pippi Calzaslargas y contemporáneos como El monstruo del palacio de Buckingham.",
+      "options": [
+        { "label": "¿Qué encontraron?", "target_node": "hallazgos" },
+        { "label": "Ver discusión", "target_node": "discusion" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "hallazgos",
+      "title": "Los números que importan",
+      "text": "Aquí viene lo revelador. Los datos no mienten. 📊\n\nLas categorías de respuesta no cambiaron radicalmente: en ambos grupos, la mayoría fueron referenciales (90,20% en control vs 83,21% en experimental). Es decir, todos hablaron de personajes, acciones y ambientes.\n\nPero la PROFUNDIDAD sí se disparó:\n\n🔻 Nivel literal: cayó del 50,32% al 24,03% (¡menos de la mitad!)\n🔺 Nivel inferencial: subió del 41,29% al 50,39%\n🔺🔺 Nivel reflexivo: se multiplicó por casi 4, del 6,45% al 24,03%\n\nEn la triangulación, las respuestas referenciales reflexivas pasaron del 5,92% al 14,96%. Y aparecieron categorías prácticamente inexistentes en el control: respuestas personales reflexivas (7,09%), intertextuales reflexivas (1,57%).\n\nEs decir: uno de cada cuatro comentarios del grupo experimental iba más allá del texto para abordar temas sociales, culturales o educativos. Tener que transformar la obra los obligó a entenderla más a fondo.",
+      "options": [
+        { "label": "¿Por qué pasó esto?", "target_node": "discusion" },
+        { "label": "Ver implicancias", "target_node": "implicancias" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "discusion",
+      "title": "El mecanismo: por qué crear profundiza",
+      "text": "¿Por qué ocurre esto? No es magia, es cognición. 🧠\n\nReescribir una obra en otro formato obliga a tomar decisiones interpretativas. El estudiante debe:\n\n1️⃣ Comprender la obra en profundidad (nadie transforma lo que no comprende)\n2️⃣ Seleccionar qué conservar y qué transformar\n3️⃣ Jerarquizar ideas y crear metáforas\n4️⃣ Traducir un significado a otro lenguaje\n\nEse proceso activa lo que Piaget llamó \"formas elevadas de conocimiento\" y lo que Cropley describe como habilidades de orden superior: originalidad, flexibilidad, fluidez, pensamiento asociativo y metafórico.\n\nPadget añade que la actividad creativa con objetivos claros exige pensar críticamente antes de empezar y al terminar. Esa doble reflexión convierte la creación en aprendizaje profundo.\n\nLa autora reconoce limitaciones: 96 participantes no permiten generalizaciones estadísticas, los resultados son exploratorios. Tampoco se midieron datos actitudinales. Pero la señal es clara y coherente con la teoría.",
+      "options": [
+        { "label": "¿Qué significa para la práctica?", "target_node": "implicancias" },
+        { "label": "Ver método de nuevo", "target_node": "metodo" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "implicancias",
+      "title": "Lo que esto significa para formar docentes",
+      "text": "La conclusión es potente: la creatividad no sustituye la lectura, la profundiza. 💡\n\nLas propuestas didácticas creativas pueden contribuir a revertir la situación de empobrecimiento de la educación literaria. Si los futuros docentes experimentan en primera persona lo que significa leer en profundidad —comprender, interpretar, valorar y construir significado—, su futuro rol de mediador será más significativo para sus discentes.\n\nLa autora sugiere replicar la experiencia con más participantes, en otros niveles educativos, y recoger datos actitudinales para ver si la creatividad también mejora la actitud hacia la lectura.\n\nPero el mensaje central queda claro: cuando un estudiante tiene que transformar una obra, no puede quedarse en la superficie. Tiene que sumergirse. Y ahí es donde ocurre el aprendizaje real.\n\n¿Y tú? ¿Prefieres reseñar o crear?",
+      "options": [
+        { "label": "Volver al inicio", "target_node": "intro" },
+        { "label": "Ver hallazgos", "target_node": "hallazgos" },
+        { "label": "Hacer el quiz", "target_node": "quiz_start" }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "¿Cuántas valoraciones personales de lectura se analizaron en total y con qué programa?",
+      "options": ["96 valoraciones con SPSS 25", "144 valoraciones con NVivo", "288 valoraciones con Atlas.ti 22.0.1", "192 valoraciones con MAXQDA"],
+      "correct_answer_index": 2,
+      "feedback_correct": "¡Exacto! 288 valoraciones (3 por cada uno de los 96 participantes), analizadas con Atlas.ti 22.0.1.",
+      "feedback_incorrect": "No fueron 288. Cada uno de los 96 estudiantes entregó 3 valoraciones, lo que da 288 en total, analizadas con Atlas.ti 22.0.1."
+    },
+    {
+      "question": "¿En qué nivel de lectura se produjo la diferencia más drástica entre el grupo de control y el experimental?",
+      "options": ["Nivel literal: el control lo duplicó ampliamente", "Nivel inferencial: ambos grupos obtuvieron porcentajes casi idénticos", "Nivel reflexivo: pasó del 6,45% al 24,03% en el experimental", "Nivel de no comprensión: fue mayor en el experimental"],
+      "correct_answer_index": 2,
+      "feedback_correct": "Correcto. El nivel reflexivo se multiplicó casi por 4, pasando del 6,45% al 24,03%. Es la diferencia más impactante del estudio.",
+      "feedback_incorrect": "La diferencia más drástica fue en el nivel reflexivo: del 6,45% en el control al 24,03% en el experimental. Casi se cuadruplicó."
+    },
+    {
+      "question": "Según los resultados, ¿qué tipo de respuesta lectora fue mayoritaria en AMBOS grupos?",
+      "options": ["Respuestas composicionales, centradas en el libro como objeto", "Respuestas intertextuales e interculturales", "Respuestas personales, basadas en la experiencia vital", "Respuestas referenciales, centradas en personajes, acciones y ambientes"],
+      "correct_answer_index": 3,
+      "feedback_correct": "Así es. Las respuestas referenciales fueron mayoritarias en ambos grupos: 90,20% en el control y 83,21% en el experimental.",
+      "feedback_incorrect": "La respuesta mayoritaria en ambos grupos fue la referencial: 90,20% en el control y 83,21% en el experimental. Lo que cambió fue la profundidad, no el tipo."
+    },
+    {
+      "question": "¿Qué tarea realizó el grupo experimental que lo diferenció del grupo de control?",
+      "options": ["Un examen de comprensión lectora estandarizado", "Una entrevista individual sobre cada lectura", "Reescrituras creativas: poema visual, poema objeto y microrrelato", "Un debate oral grabado en video sobre cada obra"],
+      "correct_answer_index": 2,
+      "feedback_correct": "Correcto. El grupo experimental elaboró 3 reescrituras creativas (poema visual, poema objeto y microrrelato), cada una con su valoración personal.",
+      "feedback_incorrect": "El grupo experimental creó reescrituras creativas: un poema visual, un poema objeto y un microrrelato, cada uno acompañado de una valoración personal."
+    }
+  ],
+  "context_for_ai": "PROBLEMA: Los futuros docentes de Primaria tienen un perfil lector débil y uso instrumental de la lectura (Aguilar-Ródenas, 2020). PISA muestra tendencia a lectura superficial. Existe un círculo de empobrecimiento de la educación literaria (Contreras-Barceló, 2021). La creatividad podría romperlo activando habilidades cognitivas de orden superior (Piaget, Cropley, Padget). MÉTODO: Investigación cualitativa comparativa. 96 estudiantes de Didáctica de la LIJ, Grado de Educación Primaria, Universidad de Barcelona. Grupo control: 52 estudiantes (43M, 9H), curso 2020-2021. Grupo experimental: 44 estudiantes (33M, 11H), curso 2021-2022. Edades: 19-25 años. Ambos grupos leyeron 3 obras de LIJ elegidas de 13 títulos (Alicia en el país de las maravillas, Peter Pan, El principito, Pippi Calzaslargas, Ana de Tejas Verdes, El jardín secreto, El mago de Oz, La telaraña de Carlota, etc.). 4 sesiones de tertulia literaria durante 6 semanas. Duración: 3 meses. Grupo control: 3 reseñas críticas con valoración personal. Grupo experimental: 3 reescrituras creativas (poema visual, poema objeto, microrrelato) + valoración personal. INSTRUMENTO: 288 valoraciones personales de lectura (3×96). Análisis con Atlas.ti 22.0.1. Categorías de Fittipaldi (2012): referencial, composicional, intertextual/intercultural, personal. Niveles: literal, inferencial + nivel reflexivo añadido por la autora. HALLAZGOS: Categorías de respuesta: referencial 90,20% control vs 83,21% experimental; personal 5,23% vs 8,40%; composicional 0,65% vs 4,58%; intertextual 3,92% vs 3,82%. Niveles de lectura: literal 50,32% vs 24,03%; inferencial 41,29% vs 50,39%; reflexivo 6,45% vs 24,03%; no comprensión 1,94% vs 1,55%. Triangulación: referenciales literales 45,39% vs 22,83%; referenciales inferenciales 38,82% vs 46,46%; referenciales reflexivas 5,92% vs 14,96%; personales reflexivas ~0% vs 7,09%; intertextuales reflexivas ~0% vs 1,57%. DISCUSIÓN: La tarea creativa obligó a comprender más profundamente, seleccionar, jerarquizar, crear metáforas y traducir sentidos. Activó pensamiento asociativo, metafórico, originalidad y flexibilidad (Cropley, 2011). Coherente con experiencias previas (Bordons y Cavalli, 2012; Contreras-Barceló y Torrents-Sunyol, 2020). LIMITACIONES: 96 participantes no permiten generalizaciones estadísticas (resultados exploratorios). Grupos de cursos diferentes. No se recogieron datos actitudinales. Sería deseable replicar en otros niveles educativos. IMPLICANCIAS: Las propuestas didácticas creativas pueden revertir el empobrecimiento de la educación literaria y mejorar la formación de futuros mediadores. FINANCIACIÓN: Agencia Estatal de Investigación, proyecto PID2019-104628RB-I00 'Poéticas liminales en el mundo contemporáneo'."
+}

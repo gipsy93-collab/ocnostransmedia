@@ -25,15 +25,23 @@ export default function RevelacionBlock({ narrative, openDeepDives, toggleDeepDi
       transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
       className="max-w-7xl mx-auto px-6 py-12 md:py-20 flex flex-col justify-center min-h-full"
     >
-      <div className="grid lg:grid-cols-12 gap-12 lg:gap-16 items-start">
-        <div className="lg:col-span-12 text-center mb-4">
-          <h2 className="text-4xl md:text-5xl font-display font-bold text-ocean-dark inline-flex items-center gap-4">
+      <div className="flex flex-col items-center max-w-4xl mx-auto w-full gap-10">
+        <div className="w-full space-y-8">
+          <h2 className="text-4xl md:text-5xl font-display font-bold text-ocean-dark flex items-center justify-center gap-4 text-center">
             <GraduationCap className="text-seaweed" size={48} />
-            {revelacion.title}
+            {revelacion.titulo}
           </h2>
+          
+          {revelacion.narrativa && (
+            <div className="p-8 bg-coral/10 border-l-8 border-coral rounded-r-[2rem]">
+              <p className="text-xl font-bold text-ocean-dark/80 leading-relaxed">
+                {revelacion.narrativa}
+              </p>
+            </div>
+          )}
         </div>
 
-        <div className="lg:col-span-6 space-y-6">
+        <div className="w-full space-y-6">
           <div className="grid gap-4">
             {revelacion.hallazgos?.map((hallazgo: any, i: number) => {
               const isOpen = openHallazgo === i;
@@ -83,6 +91,14 @@ export default function RevelacionBlock({ narrative, openDeepDives, toggleDeepDi
                   <span>{point}</span>
                 </div>
               ))}
+            </div>
+          )}
+
+          {revelacion.reflexion && (
+            <div className="bg-seaweed/10 p-8 rounded-[2rem] border border-seaweed/20 mt-8">
+              <p className="text-lg font-bold text-ocean-dark/80 italic text-center">
+                "{revelacion.reflexion}"
+              </p>
             </div>
           )}
 

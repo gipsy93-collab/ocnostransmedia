@@ -1,0 +1,100 @@
+{
+  "article_id": "pdae",
+  "title": "Diseño y validación de la Prueba de desarrollo de los Dominios de Alfabetización Emergente (PDAE) en Preescolar",
+  "authors": "Consuelo Manosalba-Torres y Beatriz Arancibia-Gutiérrez",
+  "year": "2023",
+  "doi": "https://doi.org/10.18239/ocnos_2023.22.2.339",
+  "welcome_message": "Piensa en un aula de prekínder o kínder en Chile. Algunos niños ya reconocen letras, juegan con rimas y hasta intentan escribir su nombre. Otros están dando sus primeros pasos con el lenguaje oral.\n\nEstas diferencias no son anecdóticas: el nivel de alfabetización emergente al inicio de la escolaridad predice buena parte del éxito posterior en lectura y escritura. De hecho, las dificultades pueden perdurar hasta la adolescencia.\n\nEn Chile existían pruebas para evaluar habilidades aisladas, pero faltaba un instrumento que midiera de manera integrada los cuatro dominios centrales y que estuviera validado psicométricamente. Consuelo Manosalba-Torres y Beatriz Arancibia-Gutiérrez se propusieron llenar ese vacío. El resultado fue la PDAE.",
+  "nodes": [
+    {
+      "id": "intro",
+      "title": "¿Cómo sabemos si un niño está listo para leer?",
+      "text": "Piensa en un aula de prekínder o kínder en Chile. Algunos niños y niñas ya reconocen letras, juegan con rimas y hasta intentan escribir su nombre. Otros están dando sus primeros pasos con el lenguaje oral.\n\nEstas diferencias no son anecdóticas: la investigación muestra que el nivel de alfabetización emergente al inicio de la escolaridad predice buena parte del éxito posterior en lectura y escritura. De hecho, cuando estas habilidades están descendidas, el aprendizaje es más lento y dificultoso, y las dificultades pueden perdurar hasta la adolescencia.\n\nEn Chile existían pruebas para evaluar habilidades aisladas, pero faltaba un instrumento integrado y validado. Así nació la PDAE. 📝",
+      "options": [
+        { "label": "¿Qué es alfabetización emergente?", "target_node": "problema" },
+        { "label": "¿Cómo se construyó la PDAE?", "target_node": "metodo" },
+        { "label": "Ir a los resultados", "target_node": "hallazgos" }
+      ]
+    },
+    {
+      "id": "problema",
+      "title": "Los cuatro pilares de la lectura",
+      "text": "La alfabetización emergente (AE) es el conjunto de conocimientos, habilidades y conductas que los niños desarrollan antes de recibir enseñanza formal de lectoescritura. La PDAE se organiza en torno a cuatro dominios:\n\n🔤 Conciencia fonológica (CF): Capacidad de tomar conciencia de que las palabras se constituyen por unidades sonoras (fonemas y sílabas). Es el mejor predictor del aprendizaje de la lectura.\n\n🔠 Conocimiento del alfabeto (CA): Reconocimiento de las letras del abecedario. Saber al menos 5 letras al ingresar a primer grado se asocia con un nivel lector significativamente superior.\n\n📖 Conocimiento de lo impreso (CI): Reconocimiento de las formas características de los textos escritos (orientación, signos de puntuación, portada, título).\n\n✍️ Escritura emergente (EE): Producción de marcas gráficas con intención comunicativa que refleja el acercamiento al sistema de escritura. 🧩",
+      "options": [
+        { "label": "¿Cómo se construyó la PDAE?", "target_node": "metodo" },
+        { "label": "Ir a los resultados", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "metodo",
+      "title": "Del diseño a la evidencia",
+      "text": "Las autoras comenzaron revisando tres instrumentos chilenos validados para entender qué se había medido y qué faltaba. Luego diseñaron las tareas, subtareas e ítems y sometieron la primera versión al juicio de 5 expertos (3 nacionales, 2 internacionales, todos doctores en educación o psicología).\n\nLa valoración general fluctuó entre buena y excelente. Los cambios solicitados fueron precisos: revisar instrucciones, ordenar palabras por longitud, incluir ítems de ejemplo.\n\nLuego vino la aplicación: 210 niños y niñas de prekínder y kínder, en 5 escuelas de tres regiones chilenas, entre octubre y diciembre de 2019. Un dato de contexto: la aplicación coincidió con el estallido social chileno, que alteró el funcionamiento de muchos establecimientos.\n\nAnálisis con RStudio v7.8: alfa de Cronbach, coeficiente omega, análisis factorial confirmatorio con matriz tetracórica, y Mann-Whitney para diferencias entre cursos. 📊",
+      "options": [
+        { "label": "Ir a los resultados", "target_node": "hallazgos" },
+        { "label": "¿Qué es alfabetización emergente?", "target_node": "problema" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "hallazgos",
+      "title": "Cuatro factores, una estructura que se sostiene",
+      "text": "Cuando los 210 protocolos fueron analizados, el modelo teórico de cuatro factores mostró un ajuste excelente:\n\n📐 AFC: CFI = .976, RMSEA = .024 (ambos excelentes). Todas las cargas factoriales superan .07.\n\n📊 Consistencia interna: Alfa total = .79, Omega total = .82. Por subescala: CF (α=.74, ω=.98), CA (α=.82, ω=.72), CI (α=.75, ω=.98), EE (α=.83, ω=.73).\n\n🔗 Correlaciones entre dominios (todas p < .001): La más alta fue entre CA y EE (r = .68), sugiriendo que conocer las letras y empezar a escribir se potencian mutuamente.\n\n📈 Diferencias NT1 vs NT2: Significativas a favor de NT2 en síntesis fonémica (d = -.42), conocimiento del alfabeto (d = -.82, efecto grande) y escritura emergente (d = -.77). 🎯",
+      "options": [
+        { "label": "¿Qué implica todo esto?", "target_node": "discusion" },
+        { "label": "La dispersión del CA", "target_node": "implicancias" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "discusion",
+      "title": "Más allá de la medición",
+      "text": "Los números de la PDAE confirman y extienden lo que la literatura internacional venía sugiriendo. El modelo de cuatro factores validado por el AFC respalda la propuesta de que CF, CA, CI y EE son los dominios nucleares —y empíricamente diferenciables— de la alfabetización emergente.\n\nLa PDAE no es solo una herramienta de diagnóstico: puede orientar la planificación pedagógica diferenciada. Si un niño obtiene buen puntaje en CF pero bajo en CA, la intervención puede focalizarse en el reconocimiento de letras. La estructura de subtareas permite identificar con precisión dónde está la dificultad.\n\nEn el contexto chileno, la urgencia se acentuó con la pandemia: MINEDUC reportó un aumento del 130% en la deserción de kínder durante los dos primeros años. Contar con un instrumento validado como la PDAE es más necesario que nunca. 🚨",
+      "options": [
+        { "label": "La dispersión del CA", "target_node": "implicancias" },
+        { "label": "Ir a los resultados", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "implicancias",
+      "title": "La alerta del conocimiento del alfabeto",
+      "text": "El CA mostró la mayor variabilidad de todos los dominios: DE = 22.9 sobre una media de 36.28, con un mínimo de 2 y un máximo de 84. La asimetría positiva (0.562) indica que muchos niños obtuvieron puntajes bajos.\n\nEsto significa que al ingresar a prekínder y kínder, algunos niños ya conocen casi todas las letras mientras otros apenas reconocen un par.\n\nConsiderando que conocer al menos 5 letras al ingresar a primer grado predice un nivel lector significativamente superior, esta dispersión es una alerta: la PDAE puede identificar a quienes parten con mayores desventajas justo en el dominio que más predice el éxito lector posterior. ⚠️",
+      "options": [
+        { "label": "¿Qué implica todo esto?", "target_node": "discusion" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Para comprobar si el modelo de cuatro factores se ajustaba a los datos, las autoras realizaron un análisis factorial confirmatorio. ¿Qué tipo de matriz utilizaron, considerando que los ítems de la PDAE son dicotómicos?",
+      "options": ["Matriz de correlaciones de Pearson", "Matriz policórica", "Matriz tetracórica", "Matriz de covarianzas estándar"],
+      "correct_answer_index": 2,
+      "feedback_correct": "Correcto. Dado que los ítems son dicotómicos (correcto/incorrecto), se utilizó una matriz tetracórica.",
+      "feedback_incorrect": "No fue así. Al ser los ítems dicotómicos, se utilizó una matriz tetracórica para el AFC."
+    },
+    {
+      "question": "Los resultados descriptivos revelaron que uno de los cuatro dominios presentaba una dispersión mucho mayor que los demás, con una desviación estándar de 22.9 sobre una media de 36.28. ¿De qué dominio se trata?",
+      "options": ["Conciencia fonológica", "Conocimiento del alfabeto", "Conocimiento de lo impreso", "Escritura emergente"],
+      "correct_answer_index": 1,
+      "feedback_correct": "Exacto. El conocimiento del alfabeto (CA) mostró la mayor variabilidad, con DE = 22.9 sobre una media de 36.28.",
+      "feedback_incorrect": "Fue el conocimiento del alfabeto (CA), con DE = 22.9 y rango de 2 a 84, revelando enorme variabilidad entre los participantes."
+    },
+    {
+      "question": "Según el marco teórico del artículo, ¿qué cuatro habilidades postulan Schwartz (2017), Pavelko et al. (2018) y Puranik et al. (2018) como las puramente emergentes de la alfabetización?",
+      "options": ["Conciencia fonológica, nombramiento automático rápido, memoria fonológica y escritura del nombre", "Conciencia fonológica, conocimiento del alfabeto, conocimiento de lo impreso y escritura emergente", "Lenguaje oral, procesamiento visual, conceptos sobre lo impreso y preparación para la lectura", "Decodificación, fluidez lectora, vocabulario y comprensión de textos"],
+      "correct_answer_index": 1,
+      "feedback_correct": "Correcto. Las cuatro habilidades puramente emergentes son: CF, CA, CI y EE.",
+      "feedback_incorrect": "Schwartz, Pavelko y Puranik postulan que las habilidades puramente emergentes son: conciencia fonológica, conocimiento del alfabeto, conocimiento de lo impreso y escritura emergente."
+    },
+    {
+      "question": "Al comparar NT1 (prekínder) y NT2 (kínder) mediante la prueba de Mann-Whitney, ¿en cuáles habilidades la diferencia fue estadísticamente significativa a favor de NT2?",
+      "options": ["Síntesis fonémica, conocimiento del alfabeto y escritura emergente", "Rimas, aliteración y segmentación silábica", "Conocimiento de lo impreso y aislar fonema inicial", "Todas las habilidades de la PDAE sin distinción"],
+      "correct_answer_index": 0,
+      "feedback_correct": "Correcto. Las diferencias significativas se encontraron en síntesis fonémica (d = -.42), conocimiento del alfabeto (d = -.82, efecto grande) y escritura emergente (d = -.77).",
+      "feedback_incorrect": "Las diferencias significativas a favor de NT2 se encontraron en síntesis fonémica, conocimiento del alfabeto y escritura emergente."
+    }
+  ],
+  "context_for_ai": "ARTÍCULO: Diseño y validación de la Prueba de desarrollo de los Dominios de Alfabetización Emergente (PDAE) en Preescolar. AUTORES: Consuelo Manosalba-Torres y Beatriz Arancibia-Gutiérrez (Universidad Católica de la Santísima Concepción, Chile). AÑO: 2023. DOI: 10.18239/ocnos_2023.22.2.339. PROBLEMA: Evaluar la alfabetización emergente requiere un instrumento que mida varios dominios simultáneamente, comprensible para niños de 4-6 años, con evidencia de validez de constructo y consistencia interna robusta. En Chile existían pruebas para habilidades aisladas pero faltaba un instrumento integrado y validado. OBJETIVO: Diseñar y validar una prueba psicométrica para medir las habilidades de alfabetización emergente en estudiantes chilenos de NT1 (prekínder) y NT2 (kínder), de 4 a 6 años. MÉTODO: Estudio instrumental con enfoque cuantitativo. Construcción del instrumento: revisión de 3 pruebas chilenas validadas (PAI de Villalón y Rolla: alfa global .96; Prueba de CF de Varela y De Barbieri: alfa .893; Prueba de habilidades metalingüísticas de Yakuba et al.: alfa .81). Diseño de 4 tareas con subtareas e ítems. Validación de contenido por juicio de 5 expertos (3 nacionales, 2 internacionales, doctores en educación/psicología con investigación en AE). Valoración entre buena y excelente. MUESTRA: 210 estudiantes: 86 de NT1 (prekínder) y 124 de NT2 (kínder). Edad promedio: 67.44 meses (DE 6.7), rango 49-79 meses (4 años 1 mes a 6 años 9 meses). 5 escuelas (públicas y particulares subvencionadas) de regiones Metropolitana, O'Higgins y Biobío. Distribución NSE: bajo 72 (26%), bajo-medio 69 (37%), medio 69 (37%). No se incluyó NSE alto. Aplicación entre octubre y diciembre de 2019 (coincidió con estallido social chileno). ANÁLISIS: RStudio v7.8. Kolmogorov-Smirnov para normalidad (datos no normales, p < .05). Correlaciones de Spearman. Alfa de Cronbach y coeficiente omega. AFC con matriz tetracórica. Mann-Whitney para diferencias NT1 vs NT2. HALLAZGOS DESCRIPTIVOS: Medias (DE): CF = 21.31 (4.1) de 26; CA = 36.28 (22.9); CI = 5.9 (2.2) de 9; EE = 12.0 (3.3). CA mostró mayor variabilidad (DE 22.9, rango 2-84, asimetría 0.562). FIABILIDAD: Alfa total = .79. Por subescala: CF α=.74, CA α=.82, CI α=.75, EE α=.83. Omega total = .82. Por subescala: CF ω=.98, CA ω=.72, CI ω=.98, EE ω=.73. AFC: CFI = .976, RMSEA = .024 (IC 90%: .012-.032), SRMR = .122, χ² = 503.679 (p < .001). Todas las cargas factoriales superan .07. CORRELACIONES (Spearman, todas p < .001): CF-CA r=.48, CF-CI r=.41, CF-EE r=.47, CA-CI r=.44, CA-EE r=.68 (más alta), CI-EE r=.50. DIFERENCIAS NT1 vs NT2 (Mann-Whitney): SF W=2647.5, p=.001, d=-.42; CA W=2137.5, p<.001, d=-.82 (grande); EE W=2242.5, p<.001, d=-.77. No significativas en rimas, aliteración, segmentación, aislar fonema, CI. DISCUSIÓN: El modelo de 4 factores se sostiene y confirma la propuesta de Schwartz, Pavelko y Puranik. La correlación CA-EE (r=.68) sugiere que conocer letras y escribir se potencian mutuamente. La dispersión del CA es una alerta pedagógica. La PDAE puede orientar planificación diferenciada. En contexto de pandemia, deserción en kínder aumentó 130% (MINEDUC, 2021). LIMITACIONES: No se incluyó NSE alto. No se controlaron género, tipo de establecimiento, variables socio-contextuales. Desbalance de ítems entre subtareas. Falta validez predictiva longitudinal. Aplicación durante estallido social afectó toma de datos."
+}

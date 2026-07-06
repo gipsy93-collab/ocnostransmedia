@@ -1,0 +1,130 @@
+{
+  "article_id": "comic_historia",
+  "title": "El cómic como lectura crítica de la historia en la construcción de la identidad y la diversidad territorial",
+  "authors": "Enric Falguera-García y Moisés Selfa-Sastre",
+  "year": "2023",
+  "doi": "10.18239/ocnos_2023.22.1.337",
+  "welcome_message": "¿Puede una viñeta dibujada moldear la memoria de un país con más fuerza que un libro de texto? 🤔\n\nAbres un cómic sobre la Edad Media catalana y, sin darte cuenta, estás leyendo una versión de la historia que decide qué es Cataluña, desde dónde nace y contra qué o quién lucha. No es ficción inocente: es un proyecto ideológico envuelto en aventuras épicas, colores fríos y héroes de trazo manual. Este estudio analiza 10 álbumes para desmontar cómo el cómic histórico construye identidad territorial —y por qué deberíamos leerlo con ojo crítico.",
+  "nodes": [
+    {
+      "id": "intro",
+      "title": "El cómic que no es solo entretenimiento",
+      "text": "Durante décadas el cómic fue ignorado por la academia. Altarriba lo llamó «objeto industrial que se reproduce masivamente», asociado a la caricatura y la cultura popular. 📚\n\nPero entonces llegó Maus de Art Spiegelman —ganadora de un Pulitzer en 1992— y todo cambió. Persepolis, Palestine, Best of Enemies demostraron que las viñetas pueden sostener discursos históricos y políticos complejos.\n\nEn Cataluña, el cómic se ha ocupado de tres momentos clave: la época medieval (nacimiento del territorio), la guerra de sucesión (fin de la independencia) y la guerra civil (penúltimo intento de lucha por la singularidad). Este artículo se centra en el primero.",
+      "options": [
+        { "label": "¿Qué cómics analizan?", "target_node": "corpus" },
+        { "label": "¿Cuál es el problema?", "target_node": "problema" },
+        { "label": "Saltar a hallazgos", "target_node": "hallazgos" }
+      ]
+    },
+    {
+      "id": "corpus",
+      "title": "10 álbumes, un solo mensaje",
+      "text": "El corpus son 10 cómics en catalán sobre la historia medieval catalana, publicados entre 1993 y 2015. 📖\n\n9 de los 10 son obra de Oriol Garcia i Quera (Barcelona, 1967), especializado en cómic histórico. El décimo, El comte Despertaferro, es de Josep Ma Ramírez.\n\nLos álbumes cubren desde Guifré el Peloso (840-897) hasta la unión dinástica con Castilla en el siglo XV. Son todos de tapa dura, a color y formato grande (entre 27×20 y 30×22 cm), destinados al público juvenil.\n\nSe dividen en dos grupos: los orígenes en la Alta Edad Media (5 álbumes) y la expansión y caída de la Corona de Aragón (5 álbumes).",
+      "options": [
+        { "label": "¿Cómo los analizaron?", "target_node": "metodo" },
+        { "label": "Los dos grupos", "target_node": "problema" },
+        { "label": "Ver hallazgos", "target_node": "hallazgos" }
+      ]
+    },
+    {
+      "id": "problema",
+      "title": "Divulgación o ideología disfrazada",
+      "text": "Aquí está la fricción: estos cómics no se limitan a contar hechos históricos. Seleccionan personajes, épicas y derrotas para sostener una idea concreta de Cataluña como nación con mirada europea, lucha permanente por la independencia y grandes héroes. 🎯\n\nEl primer grupo (orígenes) muestra a caudillos catalanes luchando contra el imperio islámico con orientación hacia el mundo franco. El segundo (expansión) ensalza las cualidades de Jaume I, los almogávares o Hug Roger III.\n\nLa pregunta es: ¿es divulgación legítima o construcción ideológica bajo el atractivo visual del género?",
+      "options": [
+        { "label": "¿Cómo lo estudiaron?", "target_node": "metodo" },
+        { "label": "Los 3 pilares", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "metodo",
+      "title": "Diseccionar viñetas: el método",
+      "text": "Los autores no se quedaron con la impresión general. Diseccionaron cada cómic desde dos frentes: 🔍\n\n1. Lenguaje visual (modelo de Fernández de Arriba, 2018): viñetas, planos, ángulos, secuenciación, globos, líneas cinéticas, metáforas visuales, onomatopeyas.\n\n2. Elementos narrativos: tiempo, espacio, personajes con sus expresiones y gestos, hechos y temas.\n\nCon tres objetivos: comprobar la intencionalidad ideológica, validar el cómic como herramienta didáctica, y proponer un modelo de análisis para un género alejado de la academia.",
+      "options": [
+        { "label": "¿Qué descubrieron?", "target_node": "hallazgos" },
+        { "label": "Recursos visuales", "target_node": "discusion" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "hallazgos",
+      "title": "Tres pilares de una identidad",
+      "text": "Al cruzar los 10 álbumes, emerge un patrón claro sostenido sobre tres pilares: 🏛️\n\n1. Mirada europea desde el origen: mientras Castilla aparece bajo influencia árabe, los territorios catalanes miran hacia el mundo franco. Carlomagno (742-814) lidera la lucha contra los sarracenos.\n\n2. Lucha permanente por la independencia: desde los sarracenos hasta Fernando el Católico. Hug Roger III grita: «El rei Joan mai no ha estimat Catalunya! Hem de continuar la guerra fins a la fi!»\n\n3. Héroes que magnifican el pasado: Guifré el Peloso dibuja con su sangre las cuatro barras de la bandera (gesto no comprobable históricamente). Los almogávares —mercenarios brutales— se presentan como héroes patrióticos.",
+      "options": [
+        { "label": "¿Cómo lo logran visualmente?", "target_node": "discusion" },
+        { "label": "Implicancias", "target_node": "implicancias" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "discusion",
+      "title": "El truco visual: color, elipsis y lenguaje",
+      "text": "Los recursos visuales no son decoración: son persuasión. 🎨\n\nGarcia i Quera trabaja con trazo manual a lápiz, estilo realista con detalles arqueológicos. El color tiene valor simbólico: rojizo para la sangre, azul oscuro para el clima, degradados pálidos para flashbacks.\n\nLas elipsis entre viñetas obligan al lector a completar la narración, aumentando su implicación emocional. El tamaño de las letras y las negritas señalan el volumen de voz.\n\nEl lenguaje medievaliza: catalán dialectal («meua» en vez de «meva»), topónimos medievales (Octavia del Vallés por Sant Cugat), léxico de época (brans por espadas, besants como moneda).\n\nTodo converge en una experiencia donde la historia no se explica: se siente.",
+      "options": [
+        { "label": "¿Qué implica todo esto?", "target_node": "implicancias" },
+        { "label": "Los 3 pilares", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "implicancias",
+      "title": "Divulgación eficaz, pero con agenda",
+      "text": "La conclusión es clara: estos cómics son instrumentos divulgativos eficaces Y vehículos de construcción ideológica. Ambas cosas a la vez. ⚖️\n\nSon recursos potentes para acercar la historia medieval a jóvenes: enriquecen vocabulario, desarrollan expresión, estimulan creatividad. Pero seleccionan hechos, mitifican personajes y sostienen una narrativa basada en la historiografía romántica del siglo XIX.\n\nLa lectura crítica permite aprovechar su valor didáctico sin perder de vista el discurso ideológico. La historia que emerge es la de una grandeza que nace en un contexto hostil, acaba derrotada y asimilada, pero cuyos protagonistas transmiten que la lucha no ha terminado.",
+      "options": [
+        { "label": "🧠 Pon a prueba lo aprendido", "target_node": "quiz" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "¿Cuántos cómics componen el corpus y quién es su autor principal?",
+      "options": [
+        "10 álbumes; 9 de Oriol Garcia i Quera y 1 de Josep Ma Ramírez",
+        "12 álbumes de diversos autores catalanes contemporáneos",
+        "8 álbumes, todos de Oriol Garcia i Quera",
+        "15 álbumes de autores españoles sobre historia medieval"
+      ],
+      "correct_answer_index": 0,
+      "feedback_correct": "¡Correcto! 10 álbumes, 9 de Garcia i Quera y 1 de Ramírez. El dominio de un solo autor es una limitación del estudio.",
+      "feedback_incorrect": "No exactamente. Son 10 álbumes en total, 9 de Oriol Garcia i Quera y 1 (El comte Despertaferro) de Josep Ma Ramírez."
+    },
+    {
+      "question": "¿Qué recurso narrativo del cómic obliga al lector a completar activamente lo que sucede entre viñetas?",
+      "options": [
+        "La onomatopeya",
+        "La elipsis",
+        "El bocadillo de diálogo",
+        "El plano general"
+      ],
+      "correct_answer_index": 1,
+      "feedback_correct": "¡Exacto! La elipsis permite insinuar lo que ocurre entre viñetas, activando la participación del lector en la construcción del sentido (McCloud, 2005; Altarriba, 2011).",
+      "feedback_incorrect": "La respuesta correcta es la elipsis. Es el recurso que permite relacionar lo que sucede en una viñeta con la anterior o siguiente, obligando al lector a inferir."
+    },
+    {
+      "question": "¿Qué personaje histórico aparece dibujando las cuatro barras de la bandera con su sangre, un gesto que el artículo califica de no comprobable?",
+      "options": [
+        "Jaume I el Conqueridor",
+        "Pere el Gran",
+        "Guifré el Peloso",
+        "Hug Roger III"
+      ],
+      "correct_answer_index": 2,
+      "feedback_correct": "¡Correcto! Guifré el Peloso (840-897) es un personaje real, pero ni la batalla legendaria, ni el gesto de las barras, ni el sentido heráldico son hechos comprobables.",
+      "feedback_incorrect": "Es Guifré el Peloso. El artículo señala que aunque el personaje es real, la batalla, el gesto de dibujar con su sangre y el sentido heráldico no son históricamente verificables."
+    },
+    {
+      "question": "¿Qué diferencia a Olèrdola 1058 del resto de cómics del primer grupo (los orígenes)?",
+      "options": [
+        "No enfrenta cristianos contra musulmanes sino conflictos entre condes cristianos, con el arte románico como protagonista",
+        "Es el único ambientado en el siglo XV",
+        "Carece de paratextos divulgativos",
+        "Fue escrito por Josep Ma Ramírez en vez de Garcia i Quera"
+      ],
+      "correct_answer_index": 0,
+      "feedback_correct": "¡Bien! Olèrdola 1058 es la excepción: presenta conflictos entre condes cristianos con el arte románico como signo identitario, no la oposición cristianos/musulmanes.",
+      "feedback_incorrect": "La diferencia clave es que Olèrdola 1058 no enfrenta cristianos contra musulmanes, sino conflictos entre condes cristianos, con el arte románico como signo de identidad cultural."
+    }
+  ],
+  "context_for_ai": "PROBLEMA: El artículo analiza cómo el cómic histórico en catalán sobre la Edad Media no solo divulga hechos sino que selecciona personajes, épicas y derrotas para sostener una idea concreta de Cataluña como nación con mirada europea diferenciada, lucha permanente por la independencia y grandes personalidades heroicas. La pregunta es si esta selección responde a una intencionalidad ideológica oculta bajo el atractivo visual del género.\n\nMÉTODO: Análisis cualitativo e interpretativo de 10 cómics en catalán sobre la historia medieval de Cataluña, publicados entre 1993 y 2015. Se analizaron desde dos frentes: (1) lenguaje visual siguiendo a Fernández de Arriba (2018): viñeta, planos y ángulos, secuenciación narrativa, globos, líneas cinéticas, metáforas visuales, signos gráficos, onomatopeyas; (2) elementos narrativos: tiempo, espacio, personajes con expresiones faciales, gestos y posturas, hechos y temas. Tres objetivos: comprobar intencionalidad ideológica, validar el cómic como instrumento de divulgación, proponer modelo de análisis.\n\nMUESTRA: 10 álbumes: Guifré 897. L'origen de la nació (Casals, 2006, 57 págs.), L'Amenaça sarraïna (1995, 69 págs.), Fa mil anys (2006, 33 págs.), Revenja (1996, 65 págs.), Terra de frontera Olèrdola 1058 (2015, 61 págs.), Mallorca 1229: Jaume el Conqueridor (2010, 80 págs.), El desafiament de Burdeus (2006, 9 págs.), El comte Despertaferro (2011, 47 págs., de Josep Ma Ramírez), L'Exèrcit errant (1993, 69 págs.), Hug Roger III, un rebel indomable (2006, 18 págs.). 9 de 10 son de Oriol Garcia i Quera (Barcelona, 1967). Todos en catalán, color, tapa dura, formato grande (27×20 a 30×22 cm), público juvenil.\n\nHALLAZGOS: Tres pilares ideológicos recurrentes: (1) Mirada europea desde el origen: mientras Castilla aparece bajo influencia árabe, los territorios catalanes miran hacia el mundo franco. Carlomagno (742-814) lidera la lucha contra sarracenos. (2) Lucha permanente por la independencia: desde sarracenos hasta Fernando el Católico. Hug Roger III grita «El rei Joan mai no ha estimat Catalunya! Hem de continuar la guerra fins a la fi!» (p. 15). (3) Héroes que magnifican el pasado: Guifré el Peloso dibuja con su sangre las cuatro barras (gesto no comprobable); los almogávares —mercenarios brutales— se presentan como héroes patrióticos; Jaume I aparece como tolerante y democrático.\n\nRECURSOS VISUALES: Trazo manual a lápiz, estilo realista con detalles arqueológicos. Color simbólico: rojizo para sangre/batalla, azul oscuro para clima, degradados pálidos para flashbacks. Elipsis entre viñetas para participación activa. Tipografía expresiva (negritas, tamaño). Lenguaje medievalizante: catalán dialectal (meua/meva), topónimos medievales (Octavia del Vallés), léxico de época (brans, caves, manganells, besants). Paratextos divulgativos (apéndices, fotografías, infografías, glosarios).\n\nDISCUSIÓN: Los cómics son instrumentos divulgativos eficaces Y vehículos de construcción ideológica. Seleccionan hechos, mitifican personajes, sostienen narrativa de historiografía romántica del siglo XIX. La lectura crítica permite aprovechar valor didáctico sin perder de vista el discurso ideológico.\n\nLIMITACIONES: Se centra solo en cómics en catalán sobre Edad Media catalana (no aborda guerra de sucesión ni guerra civil). Corpus dominado por un único autor (Garcia i Quera). Análisis interpretativo sin medir efectos empíricos en lectores reales. Presupone que leer texto visual «es inferior al de otros medios\" sin demostrarlo."
+}

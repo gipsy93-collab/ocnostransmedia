@@ -1,6 +1,6 @@
 import { useState, useRef, KeyboardEvent } from 'react';
 import { motion } from 'motion/react';
-import { ArrowRight, ArrowDown, Clock, Sparkles, Search } from 'lucide-react';
+import { ArrowRight, ArrowDown, Clock, Sparkles, Search, MessageCircle } from 'lucide-react';
 import { NARRATIVAS } from '../data/narrativas';
 import type { Narrative } from '../types/narrative';
 import MulticaminoEngine from '../components/MulticaminoEngine';
@@ -217,6 +217,7 @@ export default function Interactivos() {
                     <div className="absolute top-4 left-4 bg-[#fcfaf5]/95 backdrop-blur-md border border-amber-900/20 px-3 py-1.5 rounded-lg z-30 shadow-sm">
                       <span className="text-[9px] font-bold text-amber-900 tracking-widest uppercase font-serif">Ocnos {narrative.metadata.year}</span>
                     </div>
+
                   </div>
                   
                   <div className="p-5 flex flex-col justify-between flex-grow relative z-10">

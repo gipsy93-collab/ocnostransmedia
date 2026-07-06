@@ -1,0 +1,101 @@
+{
+  "article_id": "genero_chile",
+  "title": "Representaciones de género y plan lector en Chile: Estudio del corpus literario para primera infancia",
+  "authors": "Elizabeth Martínez-Palma, Dámaso Rabanal-Gatica, Pilar Valenzuela-Rettig y María-Cecilia Fernández-Darraz",
+  "year": "2023",
+  "doi": "10.18239/ocnos_2023.22.2.343",
+  "welcome_message": "¿Sabías que los libros que llegan a las bibliotecas de aula en Chile pueden reforzar o cuestionar los estereotipos de género desde los 4 años? 📖\n\nCuatro investigadores de tres universidades chilenas analizaron 60 libros distribuidos por el Ministerio de Educación. Lo que encontraron es un territorio en disputa: algunos libros muestran niñas pilotos de avión y rapperas; otros reparten tareas entre insectos macho y hembras como si fuera 1950.\n\nLos mismos libros que el Estado pone en manos de los más pequeños envían mensajes contradictorios sobre qué significa ser niña o ser niño. ¿Quieres ver el análisis?",
+  "nodes": [
+    {
+      "id": "intro",
+      "title": "Los libros que moldean identidades desde los 4 años",
+      "text": "Imagina a una niña de cuatro años en una escuela chilena abriendo un libro de la biblioteca de aula. Lo que ve —los colores, los personajes, las acciones— no es solo entretenimiento. Son modelos de cómo ser niña, cómo ser niño, cómo ser ciudadana. 🌍\n\nChile tiene política nacional de lectura desde 1993 (Ley del Libro 19.227). El Plan Nacional de la Lectura y el programa \"Primero Leo\" distribuyen textos a las escuelas con la idea de formar lectores críticos y felices.\n\nPero un equipo interdisciplinario de la Universidad Austral de Chile, Autónoma de Chile y Católica de Temuco se preguntó algo inquietante: ¿qué representaciones de género contienen realmente esos libros? ¿Refuerzan roles tradicionales o abren caminos hacia identidades más complejas?\n\nAnalizaron 60 obras distribuidas por el Ministerio de Educación en 2020 y profundizaron en 6 textos de los niveles de transición I, transición II y primer año de Enseñanza Básica.",
+      "options": [
+        { "label": "¿Cuál es el problema?", "target_node": "problema" },
+        { "label": "¿Cómo lo estudiaron?", "target_node": "metodo" },
+        { "label": "Ir a los hallazgos", "target_node": "hallazgos" }
+      ]
+    },
+    {
+      "id": "problema",
+      "title": "Estereotipos que no desaparecen solos",
+      "text": "Los estereotipos de género no son naturales. Son construcciones sociales, históricas y culturales. 🏗️\n\nRubin (1986) define el género como el conjunto de disposiciones por las que una sociedad transforma la biología en cultura. Scott (2008) lo ve como una forma primaria de relaciones de poder. Lugones (2008), desde la crítica decolonial, lo entiende como una razón binaria, dicotómica, antagónica y jerárquica.\n\nLa literatura infantil no es inocente. Márquez (2017) señala que los cuentos han servido históricamente para transmitir prejuicios sexistas, racistas y clasistas. López y Moreno (2003) y Perriconi (2015) confirman que la LIJ sigue siendo fuente de estereotipos.\n\nPero hay buenas noticias: Salido-López y Salido-López (2021) encontraron que los estereotipos sexistas se han reducido en las últimas décadas. Cañamares-Torrijos y Moya-Guijarro (2019) muestran que las mujeres transitan de espacios interiores a exteriores en los libros álbum.\n\nLa pregunta es: ¿qué pasa en el plan lector chileno actual?",
+      "options": [
+        { "label": "Ver el método", "target_node": "metodo" },
+        { "label": "Saltar a resultados", "target_node": "hallazgos" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "metodo",
+      "title": "Semiótica en tres pasos",
+      "text": "El equipo usó la semiótica del texto de Umberto Eco (1992, 1995), basada en la intentio operis: la intención del texto, no del autor ni del lector. 🔍\n\nPaso 1: Revisaron 60 obras de las bibliotecas de aula distribuidas en 2020 por el Ministerio de Educación para transición I, transición II y 1º de Enseñanza Básica. Tras una primera lectura, seleccionaron 50 textos con códigos de género visibles.\n\nPaso 2: Formularon tres categorías de análisis: roles y estereotipos de género, manifestaciones de ciudadanía y participación social, y pertinencia cultural para la construcción de identidades.\n\nPaso 3: Aplicaron análisis de contenido para identificar elementos simbólicos recurrentes y seleccionaron los 6 textos con más densidad simbólica, dos por nivel:\n\nTransición I: ¡Soy una niña! (Yasmeen Ismail, 2016) y Cielografía de Chile (Floridor Pérez, 2017)\nTransición II: Mau it zio (Carson Ellis, 2017) y Las rayas del tigre (Marcelo Simonetti, 2018)\n1º Básica: Pequeña historia de un desacuerdo (Claudio Fuentes, 2017) y Cuentos del mundo en décimas chilenas (Eustaquio Pérez y Marcelo Escobar, 2016)",
+      "options": [
+        { "label": "¿Qué encontraron?", "target_node": "hallazgos" },
+        { "label": "Ver discusión", "target_node": "discusion" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "hallazgos",
+      "title": "Seis libros, dos caminos",
+      "text": "El análisis revela algo fascinante: dentro del mismo plan lector conviven libros que reproducen roles tradicionales y libros que los subvierten. No hay un patrón único. ⚡\n\nTRANSICIÓN I - RESIGNIFICACIÓN:\n¡Soy una niña!: Una coneja AZUL (no rosa) que se autodefine: \"a veces soy dulce, tierna y educada\", \"otras soy rebelde y algo descarada\", \"¡Soy la más valiente!\". El entorno intenta encasillarla (\"las muñecas son para niñas\") pero ella resiste.\n\nCielografía de Chile: Desde la portada, una niña pilota un avión. Ilustraciones de estilo muralista con mujeres alfareras, tejedoras, profesoras y navegantes en el espacio público.\n\nTRANSICIÓN II - REPRODUCCIÓN:\nMau it zio: Insectos macho cargan material pesado y dirigen la construcción; hembras en tareas livianas. Un ciempiés macho mayor lee y orienta.\n\nLas rayas del tigre: El tigre es \"noble\" y protege a niñas, mujeres y ancianos. Masculinidad hegemónica en el espacio público.\n\n1º BÁSICA - MIXTURA:\nPequeña historia de un desacuerdo: Desarrollistas (vocero masculino, racionalidad) vs Milenarios (vocera femenina, emocionalidad).\nCuentos del mundo en décimas chilenas: Rapunzel es rapera, Caperucita viste polerón y jeans, hay una Cenicienta indígena.",
+      "options": [
+        { "label": "¿Por qué importa?", "target_node": "discusion" },
+        { "label": "Ver implicancias", "target_node": "implicancias" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "discusion",
+      "title": "Un territorio en disputa",
+      "text": "De los 6 textos analizados, 3 tienden a resignificar los roles de género y 3 tienden a reproducir representaciones convencionales. 🔄\n\nLa participación social femenina se asocia con espacio público, autonomía y creación en los textos que resignifican; con domesticidad, cuidado y emocionalidad en los que reproducen.\n\nPequeña historia de un desacuerdo es especialmente interesante: reproduce la oposición racionalidad-masculina vs emocionalidad-femenina, PERO también habilita la participación infantil en un debate ciudadano. Las autoras lo sitúan en un \"espacio de transición\".\n\nLa clave no está solo en los libros, sino en la mediación. Como señalan las autoras: \"lecturas que atienden y legitiman diversidades necesitan mediadoras/es que sean capaces de leer esos códigos con que se construye lo distinto\".\n\nSi un mismo plan lector contiene libros que envían mensajes opuestos, la pregunta es: ¿cómo trabaja el docente con esa tensión? ¿La ignora? ¿La usa como material de debate?",
+      "options": [
+        { "label": "¿Qué significa para la práctica?", "target_node": "implicancias" },
+        { "label": "Ver método de nuevo", "target_node": "metodo" },
+        { "label": "Volver al inicio", "target_node": "intro" }
+      ]
+    },
+    {
+      "id": "implicancias",
+      "title": "Mediación: la pieza que falta",
+      "text": "La conclusión es potente: el plan lector chileno es un territorio en disputa. 🗺️\n\nNo todos los libros reproducen estereotipos. Algunos los desafían de manera explícita. Pero la presencia de voces adulto-céntricas que codifican la identidad infantil según parámetros de género tradicionales aparece como constante, incluso en textos que los desafían.\n\nLas autoras insisten: si se pretende avanzar hacia una sociedad de derechos extendidos, donde las infancias tengan un espacio y voz protagónicos, es fundamental que las bibliotecas de aula dialoguen con esa motivación y que la formación ciudadana encuentre en la lectura literaria un territorio fértil.\n\n\"Soy una niña\" es, a su vez, múltiples niñas que también quieren participar del territorio, la comunidad y la ciudadanía.\n\nEl poder de la lectura para interpelar las políticas reproductivas que circunscriben a los sujetos a grupos homogéneos está en las manos del mediador.",
+      "options": [
+        { "label": "Volver al inicio", "target_node": "intro" },
+        { "label": "Ver hallazgos", "target_node": "hallazgos" },
+        { "label": "Hacer el quiz", "target_node": "quiz_start" }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "¿Qué enfoque metodológico guió el análisis de las representaciones de género en los seis textos?",
+      "options": ["Análisis de contenido con frecuencias léxicas", "Semiótica del texto desde la intentio operis de Umberto Eco", "Encuesta estructurada a docentes de Educación Parvularia", "Grupos focales con niñas y niños lectores"],
+      "correct_answer_index": 1,
+      "feedback_correct": "Correcto. El equipo utilizó la semiótica del texto de Umberto Eco basada en la intentio operis: la intención del texto, no del autor ni del lector.",
+      "feedback_incorrect": "El enfoque fue la semiótica del texto de Umberto Eco (1992, 1995), basada en la intentio operis."
+    },
+    {
+      "question": "¿Cuántas obras conformaban el corpus inicial que se revisó antes de seleccionar los seis textos finales?",
+      "options": ["30 obras", "50 obras", "60 obras", "100 obras"],
+      "correct_answer_index": 2,
+      "feedback_correct": "Exacto. Se revisaron 60 obras de las bibliotecas de aula distribuidas por el Ministerio de Educación en 2020.",
+      "feedback_incorrect": "El corpus inicial fue de 60 obras. Tras un primer filtro quedaron 50, y el análisis profundo se hizo en 6."
+    },
+    {
+      "question": "¿Cuál de estos textos reproduce la oposición entre racionalidad masculina y emocionalidad femenina?",
+      "options": ["¡Soy una niña!", "Cielografía de Chile", "Pequeña historia de un desacuerdo", "Cuentos del mundo en décimas chilenas"],
+      "correct_answer_index": 2,
+      "feedback_correct": "Así es. En Pequeña historia de un desacuerdo, los Desarrollistas (progreso, tecnología) tienen vocero masculino y los Milenarios (naturaleza, emoción) tienen vocera femenina.",
+      "feedback_incorrect": "Es Pequeña historia de un desacuerdo de Claudio Fuentes. Los Desarrollistas (racionalidad) tienen vocero masculino; los Milenarios (emoción) tienen vocera femenina."
+    },
+    {
+      "question": "¿Cuáles son las tres categorías de análisis que emergieron del marco teórico del estudio?",
+      "options": ["Frecuencia léxica, complejidad sintáctica y nivel de lectura", "Roles y estereotipos de género, ciudadanía y participación social, pertinencia cultural e identidad", "Motivación lectora, hábito lector y competencia lectora", "Género literario, temática y soporte de lectura"],
+      "correct_answer_index": 1,
+      "feedback_correct": "Correcto. Las tres categorías fueron: roles y estereotipos de género, manifestaciones de ciudadanía y participación social, y pertinencia cultural para la construcción de identidades.",
+      "feedback_incorrect": "Las tres categorías fueron: (1) roles y estereotipos de género, (2) ciudadanía y participación social, y (3) pertinencia cultural para la construcción de identidades."
+    }
+  ],
+  "context_for_ai": "PROBLEMA: Los libros del plan lector chileno pueden reforzar o cuestionar estereotipos de género desde la primera infancia. El género es una construcción social (Rubin, 1986; Scott, 2008; Lugones, 2008; Segato, 2018), no algo natural. La literatura infantil transmite y crea cultura (Lotman, 1970; Carrasco, 2005) y ofrece modelos de identificación (Colomer, 2005; Lluch, 2012; Munita, 2017). La pregunta: ¿los textos del plan lector chileno identifican de manera diferenciada a niñas y niños? MÉTODO: Paradigma cualitativo, análisis semiótico del texto basado en la intentio operis de Umberto Eco (1992, 1995). Corpus inicial: 60 obras de bibliotecas de aula distribuidas por el Ministerio de Educación de Chile en 2020 para transición I, transición II y 1º de Enseñanza Básica. Primer filtro: 50 textos con códigos de género visibles. Corpus final: 6 obras, dos por nivel educativo. Tres categorías de análisis: (1) roles y estereotipos de género, (2) manifestaciones de ciudadanía y participación social, (3) pertinencia cultural para la construcción de identidades. Análisis de contenido para identificar elementos simbólicos recurrentes. TEXTOS ANALIZADOS: Transición I: ¡Soy una niña! (Yasmeen Ismail, 2016) y Cielografía de Chile (Floridor Pérez, 2017). Transición II: Mau it zio (Carson Ellis, 2017) y Las rayas del tigre (Marcelo Simonetti, 2018). 1º Básica: Pequeña historia de un desacuerdo (Claudio Fuentes, 2017) y Cuentos del mundo en décimas chilenas (Eustaquio Pérez y Marcelo Escobar, 2016). HALLAZGOS: 3 textos resignifican roles (¡Soy una niña!, Cielografía de Chile, Cuentos del mundo en décimas chilenas) y 3 reproducen representaciones convencionales (Mau it zio, Las rayas del tigre, Pequeña historia de un desacuerdo). ¡Soy una niña!: coneja azul que resiste códigos de género tradicionales, se autodefine desde capacidades y gustos. Cielografía de Chile: mujeres en espacio público (alfareras, tejedoras, profesoras, navegantes), portada con niña piloto. Mau it zio: insectos macho cargan material pesado y dirigen; hembras en tareas livianas. Las rayas del tigre: tigre \"noble\" protege a niñas, mujeres y ancianos; masculinidad hegemónica. Pequeña historia de un desacuerdo: Desarrollistas (vocero masculino, racionalidad, firmeza) vs Milenarios (vocera femenina, emocionalidad, \"encendieron el corazón\"). Cuentos del mundo en décimas chilenas: Rapunzel rapera, Caperucita con polerón y jeans, Cenicienta indígena. DISCUSIÓN: El plan lector chileno es un territorio en disputa. La mediación docente es clave: \"lecturas que atienden y legitiman diversidades necesitan mediadoras/es que sean capaces de leer esos códigos\". LIMITACIONES: Por extensión, el artículo presenta solo 6 textos de un corpus de 50. Análisis interpretativo, no causal. Resultados dependen de la mediación. Contexto chileno, corpus de 2020. FINANCIACIÓN: Fondo de Formación Inicial Docente (FID) de la Universidad Austral de Chile y el Ministerio de Educación de Chile."
+}
