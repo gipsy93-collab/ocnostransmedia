@@ -38,8 +38,9 @@ export default function ChatFloating() {
 
   const linkify = (text: string) => {
     const clean = text.replace(/\[([^\]]*)\]\(([^)]*)\)/g, (_m, label, url) => url.startsWith('http') ? url : `${label} (${url})`);
+    const splitRegex = /https?:\/\/[^\s<>\[\](){}"]+/g;
     const urlRegex = /(https?:\/\/[^\s<>\[\](){}"]+)/g;
-    const parts = clean.split(urlRegex);
+    const parts = clean.split(splitRegex);
     const matches = clean.match(urlRegex);
     if (!matches) return clean;
     let result = '';
