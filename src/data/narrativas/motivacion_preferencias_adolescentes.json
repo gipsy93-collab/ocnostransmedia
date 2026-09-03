@@ -1,0 +1,316 @@
+{
+  "id": "motivacion_preferencias_adolescentes",
+  "metadata": {
+    "title": "Validación de la Escala de Motivación y Preferencias Lectoras de los adolescentes",
+    "authors": "Hugo Heredia-Ponce, Manuel-Francisco Romero-Oliva y Gabriel Ravina-Artacho",
+    "year": "2025",
+    "journal": "Ocnos 24(2)",
+    "doi": "10.18239/ocnos_2025.24.2.572",
+    "gancho": "¿Por qué se desploma el hábito lector en la Educación Secundaria y qué leen los adolescentes cuando nadie los vigila?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#264653",
+    "colorAlt": "#e76f51",
+    "bg": "from-slate-700/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-19.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-19.png",
+      "name": "Dr. Hugo Heredia-Ponce",
+      "role": "Investigador en Hábitos Lectores y Didáctica de la Lengua, Universidad de Cádiz"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Hugo Heredia-Ponce, especialista en sociología y motivación de la lectura juvenil",
+      "gancho": "¿Es verdad que los adolescentes ya no leen o es que la escuela no sabe medir su lectura en pantallas y redes?",
+      "contexto": "La transición de Primaria a Secundaria suele coincidir con una caída pronunciada en los índices declarados de lectura (el llamado 'abismo lector adolescente'). Las escalas tradicionales diseñadas hace décadas ignoraban el ecosistema digital: Wattpad, fanfiction, mangas, BookTok y foros transmedia. En este estudio psicométrico con 820 estudiantes de ESO y Bachillerato, los autores validaron una nueva escala multidimensional que mapea la motivación intrínseca, extrínseca y las preferencias de formato.",
+      "deepDives": [
+        {
+          "id": "mot-apertura-1",
+          "triggerLabel": "Teoría de la Autodeterminación (Deci y Ryan)",
+          "type": "theory",
+          "content": "La motivación lectora oscila desde la desmotivación, pasando por la regulación externa (leer por notas), hasta la motivación intrínseca pura (leer por placer y curiosidad)."
+        },
+        {
+          "id": "mot-apertura-2",
+          "triggerLabel": "Muestra de 820 adolescentes",
+          "type": "data",
+          "content": "820 estudiantes de 12 a 18 años evaluados en centros de Secundaria mediante análisis factorial exploratorio y confirmatorio."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Las lecturas obligatorias canónicas desconectadas del mundo juvenil acaban destruyendo la motivación intrínseca, convirtiendo el acto de leer en una tortura académica.",
+      "porQueImporta": "El abandono lector en la adolescencia tiene consecuencias irreversibles para la formación cultural, el vocabulario y el pensamiento crítico en la vida adulta.",
+      "dataPoints": [
+        "Muestra de 820 adolescentes de Educación Secundaria Obligatoria y Bachillerato.",
+        "Estructura trifactorial validada: Motivación intrínseca, Motivación social/extrínseca y Preferencias de formato (digital vs. papel).",
+        "Resistencia del papel: el 64% de los adolescentes lectores habituales prefiere el libro impreso para la literatura de ficción.",
+        "Brecha de género: las chicas declararon significativamente mayor motivación intrínseca y social que los chicos.",
+        "Propiedades psicométricas sobresalientes (CFI = .95, alfa de Cronbach global = .87)."
+      ],
+      "glossary": [
+        {
+          "term": "Abismo lector adolescente",
+          "definition": "Descenso abrupto en la frecuencia y motivación lectora que se produce entre los 12 y los 16 años por competencia de ocio digital y presiones académicas."
+        },
+        {
+          "term": "Motivación intrínseca lectora",
+          "definition": "Deseo de leer por el disfrute, la inmersión narrativa y la curiosidad personal, sin incentivos externos."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Desarrollo psicométrico y validación factorial",
+      "narrativa": "Los autores diseñaron la escala, realizaron una prueba piloto y aplicaron AFC con modelos de ecuaciones estructurales para verificar la invariancia por género y curso escolar.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "820 estudiantes de 12 a 18 años en centros de Secundaria."
+        },
+        {
+          "label": "Instrumento",
+          "value": "Escala de Motivación y Preferencias Lectoras (EMPL-A)."
+        },
+        {
+          "label": "Análisis",
+          "value": "AFE, AFC, bondad de ajuste (RMSEA, CFI) y fiabilidad compuesta."
+        }
+      ],
+      "limitaciones": [
+        "Datos basados en autoinforme transversal de los estudiantes."
+      ],
+      "reflexion": "No se puede encender el fuego de la lectura con la leña fría de la obligación ciega."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El libro en papel resiste en el corazón adolescente",
+      "narrativa": "La escala desveló paradojas que desmontan tópicos sobre la juventud actual:",
+      "hallazgos": [
+        {
+          "label": "1. El Papel Sigue Siendo Sagrado",
+          "value": "A pesar de vivir pegados a las pantallas, los jóvenes que leen por placer prefieren tocar y oler el papel del libro físico."
+        },
+        {
+          "label": "2. La Lectura Social Triunfa",
+          "value": "Recomendar libros a amigos y comentar historias en redes es el motor más potente para mantener el hábito en Secundaria."
+        },
+        {
+          "label": "3. Brecha de Género Preocupante",
+          "value": "Los varones adolescentes muestran una alarmante desmotivación hacia la literatura escolar, requiriendo nuevos formatos (cómic, novela gráfica, divulgación)."
+        }
+      ],
+      "dataPoints": [
+        "Diferencia estadísticamente significativa a favor de las chicas en motivación intrínseca (p < .001).",
+        "La lectura digital se asocia principalmente a la consulta de información breve, noticias y mangas."
+      ],
+      "reflexion": "El adolescente que dice que no le gusta leer solo es un joven que no ha encontrado su libro todavía."
+    },
+    "marco": {
+      "titulo": "Discusión: Nuevas estrategias de prescripción en Secundaria",
+      "narrativa": "Heredia-Ponce, Romero-Oliva y Ravina-Artacho instan a renovar el canon escolar:",
+      "detalles": [
+        {
+          "label": "Autonomía en la Elección",
+          "value": "Permitir itinerarios lectores abiertos donde el alumno elija al menos el 50% de sus lecturas."
+        },
+        {
+          "label": "Comunidades Lectoras en el Aula",
+          "value": "Transformar la clase en un club de lectores donde se converse sobre las lecturas sin exámenes tradicionales."
+        }
+      ],
+      "reflexion": "Imponer un libro es vacunar contra la lectura: recomendar con pasión es abrir un horizonte."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué estructura psicométrica presenta la Escala de Motivación y Preferencias Lectoras de los Adolescentes (EMPL-A)?",
+      "conclusion": "La escala EMPL-A fue validada con excelentes propiedades psicométricas (alfa = .87, CFI = .95) en 820 adolescentes, confirmando una estructura de tres factores: motivación intrínseca, motivación social y preferencias de soporte. Los resultados revelan una clara preferencia por el papel en ficción, una profunda brecha de género y la urgencia de flexibilizar los planes de lectura escolar para frenar el abandono lector juvenil.",
+      "formalRef": "Heredia-Ponce, H., Romero-Oliva, M. F., & Ravina-Artacho, G. (2025). Validación de la Escala de Motivación y Preferencias Lectoras de los adolescentes. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.572"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué soporte prefieren de forma mayoritaria los adolescentes lectores habituales para la lectura de ficción literaria?",
+          "options": [
+            "La pantalla del teléfono móvil en modo scroll.",
+            "El libro tradicional impreso en papel (64 %).",
+            "El reloj inteligente smartwatch.",
+            "Los audiolibros a doble velocidad."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué dimensión de la escala resultó ser un predictor decisivo para sostener el hábito lector en la adolescencia?",
+          "options": [
+            "La amenaza de castigos escolares si no se lee.",
+            "La motivación social (compartir, recomendar y debatir libros con iguales y en comunidades virtuales).",
+            "El precio de los libros en las librerías.",
+            "El número de exámenes memorísticos al trimestre."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué diferencia significativa por género se constató en los 820 adolescentes evaluados?",
+          "options": [
+            "Los chicos leyeron significativamente más que las chicas.",
+            "Las chicas obtuvieron puntuaciones notablemente más altas en motivación intrínseca y social hacia la lectura.",
+            "No hubo ninguna diferencia de ningún tipo.",
+            "Los chicos solo leyeron en latín."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña un plan de lectura para 3.º de la ESO donde se combine la lectura compartida de una novela juvenil elegida por votación con la creación de vídeos breves tipo BookTok o reels de recomendación."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo combatirías la desmotivación lectora de los varones adolescentes utilizando géneros como la novela gráfica, el cómic de no ficción y las biografías deportivas?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al universo de la adolescencia. Vamos a desvelar por qué se apaga el hábito lector en Secundaria.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Obligar a leer clásicos difíciles o dar libertad de elección? Los 820 adolescentes encuestados tienen mucho que decirnos.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Validamos psicométricamente la escala EMPL-A con análisis factorial confirmatorio y modelos estructurales.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Sorpresa total! A pesar de las pantallas, el 64% de los jóvenes lectores adora el papel para la literatura.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "El secreto para que lean en la adolescencia no es la nota: es la conversación social entre iguales.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Nadie odia leer: solo hay jóvenes esperando que alguien les ponga en las manos el libro adecuado.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa conceptual para conectar la escala EMPL-A, el abismo lector, la motivación social y el libro en papel.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo que has aprendido y proyecta dinámicas de prescripción atractivas para tus alumnos adolescentes.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Motivación y Preferencias Lectoras de los Adolescentes",
+    "descripcion": "Validación psicométrica de la escala EMPL-A en 820 jóvenes: motivación intrínseca vs. social, resistencia del papel, brecha de género y canon.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Escala EMPL-A (820 Jóvenes)",
+        "color": "#264653"
+      },
+      {
+        "id": "2",
+        "label": "Abismo Lector en Secundaria",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "3",
+        "label": "Motivación Intrínseca Lectora",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "Motivación Social (Comunidades)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "5",
+        "label": "Resistencia del Papel (64%)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "6",
+        "label": "Lectura Digital y Manga",
+        "color": "#f4d068"
+      },
+      {
+        "id": "7",
+        "label": "Brecha de Género (Chicas lideran)",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "8",
+        "label": "Autonomía en la Elección",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "9",
+        "label": "Fracaso de Lecturas Forzosas",
+        "color": "#e76f51"
+      },
+      {
+        "id": "10",
+        "label": "Clubes de Lectura Escolar",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "diagnostica las causas del"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "valida la dimensión de"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "demuestra la potencia de la"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "constata la sorprendente"
+      },
+      {
+        "from": "1",
+        "to": "6",
+        "label": "mapea el uso específico de la"
+      },
+      {
+        "from": "1",
+        "to": "7",
+        "label": "revela una acusada"
+      },
+      {
+        "from": "9",
+        "to": "2",
+        "label": "dispara y acelera el"
+      },
+      {
+        "from": "8",
+        "to": "3",
+        "label": "estimula directamente la"
+      },
+      {
+        "from": "4",
+        "to": "10",
+        "label": "se dinamiza creando"
+      },
+      {
+        "from": "10",
+        "to": "8",
+        "label": "garantiza un espacio de"
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "id": "pequeneces_tropologia",
+  "metadata": {
+    "title": "La primera recepción de Pequeñeces: aplicación de una tropología hermenéutica",
+    "authors": "Ignacio-Jesús Serrano-Contreras y Luis-Miguel Rossi-Elizalde",
+    "year": "2025",
+    "journal": "Ocnos 24(2)",
+    "doi": "10.18239/Ocnos_2025.24.2.528",
+    "gancho": "¿Cómo se convirtió una novela satírica del padre Coloma en el mayor escándalo editorial y social de la España de 1891?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#2a5a75",
+    "bg": "from-purple-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-13.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-13.png",
+      "name": "Dr. Ignacio-Jesús Serrano-Contreras",
+      "role": "Investigador en Hermenéutica y Crítica Literaria, Universidad de Sevilla"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Ignacio-Jesús Serrano-Contreras, hermeneuta y especialista en sociología de la literatura decimonónica",
+      "gancho": "¿Por qué un jesuita provocó la furia de la aristocracia de la Restauración al retratar sus miserias bajo el disfraz de la ficción?",
+      "contexto": "En 1891, 'Pequeñeces...', del padre Luis Coloma, desató un terremoto cultural. Las clases altas madrileñas se reconocieron en sus personajes corruptos. Este estudio aplica la tropología hermenéutica de Hayden White al corpus de 45 reseñas de la época para desvelar cómo los contemporáneos decodificaron ideológicamente la obra.",
+      "deepDives": [
+        {
+          "id": "peq-apertura-1",
+          "triggerLabel": "La tropología de Hayden White",
+          "type": "theory",
+          "content": "Metáfora, metonimia, sinécdoque e ironía estructuran los discursos históricos e ideológicos."
+        },
+        {
+          "id": "peq-apertura-2",
+          "triggerLabel": "El fenómeno editorial de 1891",
+          "type": "data",
+          "content": "Cuatro ediciones agotadas en semanas y reseñas de Galdós, Pardo Bazán y Clarín."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La crítica analizó 'Pequeñeces' como anécdota moralizante. Faltaba una lectura hermenéutica de su recepción para entender cómo se gestionó el escándalo público.",
+      "porQueImporta": "Analizar polémicas del pasado ayuda a entender cómo los medios construyen hoy los debates éticos sobre la ficción.",
+      "dataPoints": [
+        "Corpus de 45 reseñas críticas publicadas en 1891.",
+        "Predominio de la sinécdoque en las lecturas liberales (Currita como síntoma del colapso aristocrático).",
+        "Ironía en la prensa conservadora para deslegitimar al autor jesuita."
+      ],
+      "glossary": [
+        {
+          "term": "Tropología hermenéutica",
+          "definition": "Método de análisis que rastrea las figuras retóricas maestras mediante las cuales los lectores interpretan un texto."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis tropológico de 45 artículos hemerográficos",
+      "narrativa": "Los autores codificaron las reseñas periodísticas de 1891 en los cuatro tropos fundamentales, clasificándolas por filiación política.",
+      "detalles": [
+        {
+          "label": "Corpus",
+          "value": "45 artículos y folletos críticos de 1891 (BNE)."
+        },
+        {
+          "label": "Marco Teórico",
+          "value": "Hayden White, Jauss y Paul Ricoeur."
+        }
+      ],
+      "limitaciones": [
+        "Foco en prensa de Madrid y Barcelona."
+      ],
+      "reflexion": "Un libro es también la tormenta que desata en la mente de sus contemporáneos."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: La sinécdoque de la corrupción y el arma de la ironía",
+      "narrativa": "El análisis evidenció que la novela fue usada como campo de batalla ideológico:",
+      "hallazgos": [
+        {
+          "label": "1. Currita como Sinécdoque",
+          "value": "Se leyó a la protagonista como encarnación total de la decadencia moral de la corte alfonsina."
+        },
+        {
+          "label": "2. La Ironía como Defensa",
+          "value": "Críticos aristocráticos recurrieron al desdén para acusar al autor de 'chismoso de confesionario'."
+        }
+      ],
+      "dataPoints": [
+        "El 68% de las reseñas utilizó la sinécdoque para generalizar la crítica social."
+      ],
+      "reflexion": "La literatura es peligrosa cuando pone un espejo frente a los privilegios del poder."
+    },
+    "marco": {
+      "titulo": "Discusión: La recepción literaria como barómetro social",
+      "narrativa": "Coloma supo anticipar la indignación pública, convirtiendo el rechazo aristocrático en éxito de masas popular.",
+      "detalles": [
+        {
+          "label": "Vigencia de la Tropología",
+          "value": "Los tropos de White desvelan cómo opera la retórica política y cultural en cualquier época."
+        }
+      ],
+      "reflexion": "Las 'pequeñeces' de una sociedad son a menudo el síntoma de sus más grandes tragedias morales."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo estructuraron los tropos hermenéuticos la recepción de 'Pequeñeces' en la prensa de 1891?",
+      "conclusion": "La aplicación de la tropología hermenéutica a 45 reseñas de 1891 demuestra que la recepción de 'Pequeñeces' estuvo gobernada por la sinécdoque y la ironía, confirmando la potencia del análisis tropológico para desentrañar cómo la literatura dialoga con las crisis sociopolíticas.",
+      "formalRef": "Serrano-Contreras, I. J., & Rossi-Elizalde, L. M. (2025). La primera recepción de Pequeñeces: aplicación de una tropología hermenéutica. Ocnos, 24(2). https://doi.org/10.18239/Ocnos_2025.24.2.528"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué tropo hermenéutico predominó en las críticas que utilizaron a Currita Albornoz como símbolo de toda la decadencia moral de la Restauración?",
+          "options": [
+            "La hipérbole matemática.",
+            "La sinécdoque (la parte tomada por el todo).",
+            "La aliteración fónica.",
+            "La onomatopeya infantil."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Quién fue el autor de la polémica novela decimonónica 'Pequeñeces...'?",
+          "options": [
+            "Benito Pérez Galdós.",
+            "El sacerdote jesuita Luis Coloma.",
+            "Emilia Pardo Bazán.",
+            "Clarín."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cómo reaccionaron los sectores aristocráticos satirizados?",
+          "options": [
+            "Felicitaron públicamente al autor.",
+            "Utilizaron la ironía y el desdén para acusar a Coloma de chismoso y de violar secretos.",
+            "Compraron los libros para quemarlos.",
+            "No publicaron nada."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Qué paralelismos encuentras entre el escándalo editorial de 1891 y las cancelaciones actuales en redes sociales cuando una serie destapa conductas de personajes públicos?"
+        },
+        {
+          "type": "open",
+          "q": "Explica cómo el análisis de los 4 tropos clásicos puede ayudar a los alumnos a decodificar las noticias de prensa."
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Viajemos a Madrid en 1891. Un cura jesuita acaba de publicar un libro y la alta sociedad arde en indignación.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Por qué duele tanto una novela? La respuesta está en los tropos hermenéuticos con los que leemos el escándalo.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Analizamos 45 artículos periodísticos de la época con las lentes de Hayden White y Paul Ricoeur.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡La sinécdoque mandó en la polémica! Currita Albornoz fue el espejo donde nadie quería mirarse.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La literatura es un sismógrafo que detecta los terremotos morales de una nación.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Cuando una obra de ficción sacude las conciencias, la crítica literaria se convierte en historia viva.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver las conexiones entre 'Pequeñeces', los 4 tropos, la Restauración y la recepción crítica.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba tu comprensión del análisis tropológico y su aplicación a la historia cultural.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Tropología Hermenéutica y la Recepción de 'Pequeñeces'",
+    "descripcion": "Análisis de 45 reseñas de 1891: sinécdoque, ironía, metáfora, decadencia de la Restauración y sociología de la literatura.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Recepción de 'Pequeñeces' (1891)",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "2",
+        "label": "Padre Luis Coloma",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Tropología de Hayden White",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Sinécdoque (Parte por el Todo)",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Ironía Defensiva Aristocrática",
+        "color": "#e76f51"
+      },
+      {
+        "id": "6",
+        "label": "Decadencia de la Restauración",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "7",
+        "label": "Prensa Liberal vs. Conservadora",
+        "color": "#f4d068"
+      },
+      {
+        "id": "8",
+        "label": "Hermenéutica de Paul Ricoeur",
+        "color": "#264653"
+      },
+      {
+        "id": "9",
+        "label": "Éxito Editorial de Masas",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "10",
+        "label": "Crítica Literaria como Barómetro",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "desata con su obra la"
+      },
+      {
+        "from": "3",
+        "to": "1",
+        "label": "proporciona el marco para analizar la"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "evidencia el predominio de la"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "generaliza la denuncia de la"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "registra en las élites la"
+      },
+      {
+        "from": "7",
+        "to": "1",
+        "label": "polariza el debate en la"
+      },
+      {
+        "from": "8",
+        "to": "3",
+        "label": "fundamenta filosóficamente la"
+      },
+      {
+        "from": "1",
+        "to": "9",
+        "label": "convierte el escándalo en"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "interpreta a la"
+      },
+      {
+        "from": "10",
+        "to": "6",
+        "label": "ilumina las tensiones de la"
+      }
+    ]
+  }
+}

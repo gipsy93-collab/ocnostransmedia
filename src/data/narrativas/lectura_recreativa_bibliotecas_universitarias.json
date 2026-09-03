@@ -1,0 +1,298 @@
+{
+  "id": "lectura_recreativa_bibliotecas_universitarias",
+  "metadata": {
+    "title": "Promoción de la lectura recreativa y misión de las bibliotecas universitarias. Una revisión sistemática",
+    "authors": "Lucía Camargo-Rojas",
+    "year": "2024",
+    "journal": "Ocnos 23(1)",
+    "doi": "10.18239/ocnos_2024.23.1.388",
+    "gancho": "¿Es la biblioteca de la universidad solo un almacén de manuales de examen o puede ser un refugio de lectura por placer y salud mental?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#264653",
+    "colorAlt": "#88b04b",
+    "bg": "from-slate-700/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-05.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-05.png",
+      "name": "Dra. Lucía Camargo-Rojas",
+      "role": "Investigadora en Biblioteconomía y Fomento Lector Universitario, Universidad de Deusto"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Lucía Camargo-Rojas, especialista en políticas de dinamización lectora y bienestar en la educación superior",
+      "gancho": "¿Por qué los estudiantes universitarios dejan de leer novelas en cuanto entran en la facultad?",
+      "contexto": "Las bibliotecas universitarias han centrado históricamente sus presupuestos en bases de datos científicas y manuales académicos obligatorios, desatendiendo la lectura recreativa por considerarla ajena a la excelencia investigadora. Sin embargo, ante la creciente crisis de estrés y salud mental en los campus, cada vez más universidades de todo el mundo están creando colecciones de ocio y clubes de lectura. En esta revisión sistemática internacional, la autora analizó la producción científica sobre programas de lectura por placer en bibliotecas académicas.",
+      "deepDives": [
+        {
+          "id": "rec-apertura-1",
+          "triggerLabel": "El concepto de 'Recreational Reading' en campus",
+          "type": "theory",
+          "content": "Lectura voluntaria, no asignada por el plan docente, con fines de disfrute, relajación emocional y enriquecimiento personal."
+        },
+        {
+          "id": "rec-apertura-2",
+          "triggerLabel": "Revisión sistemática internacional",
+          "type": "data",
+          "content": "Análisis de iniciativas de fomento lector en universidades de EE.UU., Canadá, Reino Unido y el ámbito hispanoamericano."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La obsesión por los rankings de impacto científico ha deshumanizado las bibliotecas universitarias, transformándolas en salas de ordenadores silenciosas y frías.",
+      "porQueImporta": "La lectura recreativa en la universidad reduce el cortisol, previene el 'burnout' estudiantil y ensancha el pensamiento crítico lateral de los futuros profesionales.",
+      "dataPoints": [
+        "Revisión sistemática de estudios publicados entre 2000 y 2023.",
+        "El 76% de los programas analizados reportó una reducción significativa en los niveles de estrés autoinformados por los universitarios.",
+        "Éxito arrollador de los 'Leisure Reading Corners' (rincones con sofás, cómic, novela gráfica y narrativa actual).",
+        "Falta de visibilidad: muchas bibliotecas tienen fondos recreativos pero no los promocionan en redes sociales ni organizan eventos comunitarios."
+      ],
+      "glossary": [
+        {
+          "term": "Biblioterapia para el desarrollo",
+          "definition": "Uso guiado de lecturas literarias para apoyar la maduración emocional, la resolución de conflictos y el bienestar en etapas de transición vital."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Protocolo de revisión y categorización temática",
+      "narrativa": "La autora analizó exhaustivamente las publicaciones en bases de datos especializadas (LISA, LISTA, Scopus y WoS), categorizando objetivos, modelos de colección, actividades de dinamización y métricas de impacto.",
+      "detalles": [
+        {
+          "label": "Corpus",
+          "value": "Estudios empíricos internacionales sobre bibliotecas académicas."
+        },
+        {
+          "label": "Categorías",
+          "value": "Colección recreativa, clubes de lectura, espacios de bienestar y biblioterapia."
+        }
+      ],
+      "limitaciones": [
+        "Mayor concentración de literatura en el ámbito anglosajón frente al entorno iberoamericano."
+      ],
+      "reflexion": "Una biblioteca que no invita al gozo de leer es como un jardín donde se prohíbe mirar las flores."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El libro como bálsamo para la mente universitaria",
+      "narrativa": "Los datos demostraron que la lectura por placer no compite con el estudio: lo salva:",
+      "hallazgos": [
+        {
+          "label": "1. Oxígeno contra la Ansiedad de Exámenes",
+          "value": "Los estudiantes que frecuentan clubes de lectura en la biblioteca desarrollan mayor resiliencia ante el estrés académico y mejor rendimiento cognitivo."
+        },
+        {
+          "label": "2. Demanda Oculta de Cómics y Novela Gráfica",
+          "value": "Los fondos de cómic y manga son los que registran las mayores tasas de rotación de préstamo en los campus universitarios."
+        }
+      ],
+      "dataPoints": [
+        "Más del 60% de los préstamos de colecciones de ocio correspondió a formatos ilustrados y novelas de géneros de fantasía/thriller."
+      ],
+      "reflexion": "Leer por placer en la universidad no es perder el tiempo: es encontrar tiempo para seguir siendo humanos."
+    },
+    "marco": {
+      "titulo": "Discusión: Repensar la misión social de la biblioteca académica",
+      "narrativa": "Camargo-Rojas propone incluir el fomento lector recreativo en los planes estratégicos de las universidades:",
+      "detalles": [
+        {
+          "label": "Rincones de Bienestar Literario",
+          "value": "Espacios acogedores sin pantallas dedicados exclusivamente al silencio, la desconexión y la narrativa libre."
+        }
+      ],
+      "reflexion": "Cuidar la salud mental de los estudiantes empieza por devolverles el placer desinteresado de abrir un libro."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo contribuye la promoción de la lectura recreativa en las bibliotecas universitarias al bienestar y desarrollo integral de los estudiantes?",
+      "conclusion": "La revisión sistemática internacional concluye que los programas de lectura recreativa en las bibliotecas universitarias son herramientas de primer orden para combatir el estrés y el agotamiento académico, potenciar la empatía y favorecer el éxito curricular holístico. Se recomienda a las universidades incorporar partidas presupuestarias estables para fondos de ocio, cómic y clubes de lectura como parte esencial de sus políticas de bienestar estudiantil.",
+      "formalRef": "Camargo-Rojas, L. (2024). Promoción de la lectura recreativa y misión de las bibliotecas universitarias. Una revisión sistemática. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.388"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué beneficio para la salud mental reportó el 76 % de las investigaciones analizadas sobre lectura recreativa en campus universitarios?",
+          "options": [
+            "Un aumento de insomnio.",
+            "Una reducción estadísticamente significativa en los niveles de estrés y ansiedad académica autoinformados por los estudiantes.",
+            "Ganas de abandonar la carrera.",
+            "Ningún impacto perceptible."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de formato literario registró las tasas más altas de préstamo y rotación en las colecciones recreativas de las bibliotecas analizadas?",
+          "options": [
+            "Los códigos de leyes tributarias.",
+            "Los cómics, mangas y novelas gráficas contemporáneas.",
+            "Las enciclopedias médicas antiguas.",
+            "Los manuales de álgebra lineal."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué concepto define el uso de la lectura literaria libre como soporte para la maduración personal y el equilibrio emocional en etapas de transición vital?",
+          "options": [
+            "Fisioterapia deportiva.",
+            "Biblioterapia para el desarrollo.",
+            "Cirugía léxica.",
+            "Memorización forzosa."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña una campaña de dinamización de 1 semana para una biblioteca universitaria que combine un 'Rincón de Cómic y Desconexión' con un club de lectura de noche de exámenes centrado en la reducción del estrés."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que muchos comités universitarios siguen viendo la compra de novelas o cómics como un gasto frívolo en lugar de una inversión crucial en la salud de los alumnos?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al santuario del campus. ¿Son las bibliotecas universitarias solo para empollar o también para soñar?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "El estrés devora a los universitarios. La lectura por placer es la mejor medicina contra el burnout en los exámenes.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Revisamos más de 20 años de investigaciones internacionales en bases de datos especializadas (LISA, Scopus, WoS).",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El cómic y la novela gráfica arrasan en préstamos! Y el 76% de los programas reduce la ansiedad de los estudiantes.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Diseñemos bibliotecas que abracen a la persona: sillones cómodos, buena literatura y cero pantallas para respirar paz.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "En el corazón de la vida académica, leer por puro placer es el mayor acto de resistencia y libertad.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo se articulan lectura recreativa, bibliotecas académicas, biblioterapia y reducción del estrés.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Pon a prueba tus saberes y piensa cómo transformar la biblioteca de tu institución en un hogar cálido para el lector.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Lectura Recreativa en Bibliotecas Universitarias",
+    "descripcion": "Revisión sistemática internacional (2000-2023): ocio lector, cómics, biblioterapia para el desarrollo, reducción del estrés y bienestar en campus.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Lectura Recreativa en Campus",
+        "color": "#264653"
+      },
+      {
+        "id": "2",
+        "label": "Bibliotecas Universitarias",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Reducción del Estrés (76%)",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "Biblioterapia para el Desarrollo",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "5",
+        "label": "Fondos de Cómic y Novela Gráfica",
+        "color": "#f4d068"
+      },
+      {
+        "id": "6",
+        "label": "Clubes de Lectura en la Facultad",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "7",
+        "label": "Prevención del Burnout Estudiantil",
+        "color": "#e76f51"
+      },
+      {
+        "id": "8",
+        "label": "Rincones de Desconexión Digital",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "9",
+        "label": "Obsesión por Rankings Fríos",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "10",
+        "label": "Bienestar Universitario Integral",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "debe promover activamente la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "consigue una demostrada"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "se fundamenta en el poder de la"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "crea colecciones vivas con"
+      },
+      {
+        "from": "2",
+        "to": "6",
+        "label": "organiza encuentros en"
+      },
+      {
+        "from": "3",
+        "to": "7",
+        "label": "es la mejor barrera para la"
+      },
+      {
+        "from": "2",
+        "to": "8",
+        "label": "diseña espacios físicos como"
+      },
+      {
+        "from": "9",
+        "to": "1",
+        "label": "ha marginado históricamente la"
+      },
+      {
+        "from": "10",
+        "to": "2",
+        "label": "exige redefinir la misión de las"
+      },
+      {
+        "from": "10",
+        "to": "3",
+        "label": "se nutre directamente de la"
+      }
+    ]
+  }
+}

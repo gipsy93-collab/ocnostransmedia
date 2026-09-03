@@ -1,0 +1,302 @@
+{
+  "id": "etnografia_lectores_vulnerables",
+  "metadata": {
+    "title": "La formación de lectores literarios y críticos como desafío institucional. Etnografía escolar en contextos vulnerables",
+    "authors": "Carolina Cuesta",
+    "year": "2025",
+    "journal": "Ocnos 24(2)",
+    "doi": "10.18239/ocnos_2025.24.2.586",
+    "gancho": "¿Qué ocurre cuando la literatura llega a una escuela del conurbano donde los alumnos viven rodeados de exclusión?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#c73e1d",
+    "colorAlt": "#2a5a75",
+    "bg": "from-red-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-20.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-20.png",
+      "name": "Dra. Carolina Cuesta",
+      "role": "Investigadora en Etnografía Educativa y Didáctica de la Lengua, Universidad Nacional de La Plata (Argentina)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Carolina Cuesta, etnógrafa de la educación y especialista en enseñanza de la literatura en sectores populares",
+      "gancho": "¿Es la literatura un lujo burgués o la herramienta más poderosa de emancipación para los jóvenes de la periferia?",
+      "contexto": "Con frecuencia, los discursos hegemónicos sobre el 'fracaso escolar' culpabilizan a las familias vulnerables, acusándolas de no tener libros en casa ni hábitos lectores. En este estudio etnográfico de largo aliento en escuelas secundarias públicas del conurbano bonaerense (Argentina), la Dra. Cuesta documenta cómo los adolescentes de sectores marginados construyen sentidos inesperados, desafiantes y profundamente críticos cuando un docente sabe mediar la literatura sin prejuicios clasistas.",
+      "deepDives": [
+        {
+          "id": "etn-apertura-1",
+          "triggerLabel": "Etnografía escolar crítica (Rockwell)",
+          "type": "theory",
+          "content": "Metodología antropológica que observa la vida cotidiana de las aulas para desentrañar cómo las políticas oficiales son reinterpretadas y resistidas por los sujetos reales."
+        },
+        {
+          "id": "etn-apertura-2",
+          "triggerLabel": "El concepto de 'apropiación' (Chartier)",
+          "type": "theory",
+          "content": "Frente a la idea pasiva de 'asimilación', la apropiación sostiene que los lectores populares resignifican los textos desde sus propias experiencias de vida."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Persiste en el sistema escolar un 'déficit cultural' atribuido a los estudiantes pobres, lo que lleva a las instituciones a ofrecerles lecturas empobrecidas o meros talleres de alfabetización funcional.",
+      "porQueImporta": "Rebajar el nivel literario para los sectores vulnerables perpetúa la desigualdad social. La escuela pública debe ser el lugar donde todos tengan derecho a la alta literatura.",
+      "dataPoints": [
+        "Trabajo de campo etnográfico prolongado en escuelas secundarias de la periferia urbana.",
+        "Observación participante en clases de Literatura, entrevistas en profundidad a docentes y análisis de producciones escritas juveniles.",
+        "Desmontaje del mito del desinterés: los estudiantes se apasionan por textos densos (Borges, Kafka, Rulfo) cuando se habilitan debates dialógicos sobre el dolor y la justicia.",
+        "La mediación docente comprometida actúa como dique de contención frente a la violencia estructural del entorno."
+      ],
+      "glossary": [
+        {
+          "term": "Etnografía escolar",
+          "definition": "Investigación cualitativa densa que estudia la cultura del aula y las prácticas cotidianas de los sujetos en su contexto institucional."
+        },
+        {
+          "term": "Habitus lector",
+          "definition": "Disposiciones corporales y culturales interiorizadas que orientan la relación subjetiva con los libros (Bourdieu)."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Etnografía densa en aulas de la periferia",
+      "narrativa": "La investigadora compartió cientos de horas de clase con profesores y alumnos. Registró conversaciones espontáneas, silencios, tensiones con la institución y lecturas colectivas en voz alta.",
+      "detalles": [
+        {
+          "label": "Contexto",
+          "value": "Escuelas secundarias públicas del conurbano bonaerense (Argentina)."
+        },
+        {
+          "label": "Metodología",
+          "value": "Etnografía educativa, diarios de campo, grabaciones de clases y entrevistas biográficas."
+        }
+      ],
+      "limitaciones": [
+        "Estudio cualitativo situado que no persigue generalización estadística, sino profundidad interpretativa."
+      ],
+      "reflexion": "La escuela pública en la periferia no es un edificio gris: es una trinchera de esperanza y pensamiento libre."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: La literatura como trinchera y refugio",
+      "narrativa": "El registro etnográfico aportó momentos de inmensa luz pedagógica:",
+      "hallazgos": [
+        {
+          "label": "1. El Rechazo al Paternalismo",
+          "value": "Los alumnos rechazan los libros condescendientes que les hablan de 'sus problemas de barrio'; prefieren la extrañeza y el misterio de la gran ficción."
+        },
+        {
+          "label": "2. Apropiación Rebelde",
+          "value": "Al leer 'El matadero' de Echeverría o cuentos fantásticos, los jóvenes establecen paralelismos feroces con la violencia policial y la injusticia social contemporánea."
+        }
+      ],
+      "dataPoints": [
+        "La mediación dialógica colectiva permitió a alumnos con graves retrasos de escritura producir ensayos orales de extraordinaria madurez crítica."
+      ],
+      "reflexion": "Quien cree que a los pobres solo les interesan las historias simples no ha escuchado hablar a un chico de la periferia."
+    },
+    "marco": {
+      "titulo": "Discusión: La justicia curricular y el deber de la escuela",
+      "narrativa": "Carolina Cuesta exige una pedagogía que confíe en la capacidad intelectual de todos los jóvenes:",
+      "detalles": [
+        {
+          "label": "Justicia Curricular (Connell)",
+          "value": "Garantizar el acceso al patrimonio cultural más exigente a quienes más desposeídos están en la sociedad."
+        }
+      ],
+      "reflexion": "Enseñar literatura en contextos vulnerables es un acto de resistencia democrática."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo se construyen las prácticas de lectura literaria en escuelas secundarias en contextos de extrema vulnerabilidad?",
+      "conclusion": "La etnografía escolar en escuelas del conurbano bonaerense desmonta la teoría del 'déficit cultural', demostrando que los jóvenes de sectores populares se apropian con lucidez y sentido crítico de la literatura más compleja cuando la docencia ofrece mediación rigurosa sin paternalismo. La formación de lectores críticos en contextos vulnerables es un desafío institucional que exige justicia curricular y confianza pedagógica radical.",
+      "formalRef": "Cuesta, C. (2025). La formación de lectores literarios y críticos como desafío institucional. Etnografía escolar en contextos vulnerables. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.586"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué prejuicio pedagógico desmonta la etnografía escolar desarrollada por Carolina Cuesta?",
+          "options": [
+            "Que los alumnos de Secundaria leen demasiado rápido.",
+            "El mito del 'déficit cultural', que asume que los jóvenes de barrios vulnerables carecen de capacidad para comprender y disfrutar de literatura compleja.",
+            "Que las escuelas públicas no tienen puertas ni ventanas.",
+            "Que los profesores de literatura no usan tiza."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de obras literarias generaron las reflexiones más ricas e inesperadas entre los estudiantes según el estudio?",
+          "options": [
+            "Folletos de propaganda electoral.",
+            "Textos clásicos y fantásticos densos (como Borges, Rulfo o Kafka) mediados a través del debate dialógico.",
+            "Libros de texto simplificados con dibujos infantiles.",
+            "Listados de palabras sueltas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué significa el concepto de 'justicia curricular' aplicado a la enseñanza de la literatura?",
+          "options": [
+            "Exigir que todos los alumnos aprueben sin estudiar.",
+            "Garantizar el acceso al patrimonio literario y cultural más exigente y emancipador a los sectores más desfavorecidos de la sociedad.",
+            "Poner jueces en las clases de literatura.",
+            "Prohibir los libros en las escuelas públicas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo diseñarías una secuencia de lectura para un grupo de adolescentes de un entorno vulnerable que evite caer en el paternalismo o en lecturas facilistas condescendientes?"
+        },
+        {
+          "type": "open",
+          "q": "La autora destaca cómo los jóvenes conectan la literatura con sus propias luchas de vida. ¿Qué obra literaria propondrías a tus alumnos para reflexionar sobre la dignidad humana frente a la injusticia social?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a la trinchera pedagógica. Nos adentramos en las escuelas secundarias de la periferia con la etnografía de Carolina Cuesta.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Basta de culpar a las familias pobres por no tener bibliotecas. La escuela pública tiene el deber sagrado de ofrecer alta cultura a todos.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Cientos de horas de observación participante en aulas del conurbano para escuchar la voz real de los estudiantes.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El prejuicio se desmorona! Los jóvenes de la periferia leen a Kafka y a Borges con una hondura que desarma a los cínicos.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La justicia curricular exige no rebajar el listón a los vulnerables: darles lo mejor es la mayor prueba de respeto.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La literatura en las aulas populares no es un adorno: es una herramienta de libertad y dignidad para cambiar el mundo.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para conectar la etnografía escolar, la justicia curricular, la apropiación y la mediación en contextos vulnerables.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Reflexiona sobre tu propia práctica docente y comprométete con una educación literaria libre de prejuicios clasistas.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Etnografía de la Lectura en Contextos Vulnerables",
+    "descripcion": "Estudio etnográfico en la periferia urbana: superación del déficit cultural, apropiación rebelde, justicia curricular y mediación sin paternalismo.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Etnografía Escolar Crítica",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "2",
+        "label": "Contextos de Vulnerabilidad",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Mito del 'Déficit Cultural'",
+        "color": "#e76f51"
+      },
+      {
+        "id": "4",
+        "label": "Apropiación Rebelde del Sentido",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Justicia Curricular (Connell)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "6",
+        "label": "Rechazo al Paternalismo",
+        "color": "#f4d068"
+      },
+      {
+        "id": "7",
+        "label": "Textos Literarios Densos",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "8",
+        "label": "Debate Dialógico en el Aula",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "9",
+        "label": "Escuela Pública como Trinchera",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Emancipación y Ciudadanía",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "investiga en profundidad los"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "desmantela con datos el"
+      },
+      {
+        "from": "3",
+        "to": "6",
+        "label": "se combate mediante el"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "exige garantizar el acceso a"
+      },
+      {
+        "from": "7",
+        "to": "4",
+        "label": "detona en los alumnos la"
+      },
+      {
+        "from": "8",
+        "to": "4",
+        "label": "habilita en el aula la"
+      },
+      {
+        "from": "9",
+        "to": "2",
+        "label": "actúa como escudo en"
+      },
+      {
+        "from": "9",
+        "to": "5",
+        "label": "materializa en sus prácticas la"
+      },
+      {
+        "from": "4",
+        "to": "10",
+        "label": "transforma la lectura en"
+      },
+      {
+        "from": "10",
+        "to": "9",
+        "label": "cumple la misión más noble de la"
+      }
+    ]
+  }
+}

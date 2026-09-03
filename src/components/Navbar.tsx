@@ -1,10 +1,41 @@
 import { useState, useEffect, useRef } from 'react';
-import { Link, useLocation } from 'react-router-dom';
-import { Waves, Menu, X } from 'lucide-react';
+import { Link } from 'react-router-dom';
+import { Menu, X, ExternalLink } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
+import OcnosLogo from './OcnosLogo';
+
+export const INDEX_SEALS = [
+    {
+        name: 'Scopus Q1',
+        url: 'https://www.scimagojr.com/journalsearch.php?q=21100819543&tip=sid&exact=no',
+        description: 'SCImago Journal Rank (Q1 Educación)',
+        badgeBg: 'bg-[#eef6ee] hover:bg-[#dcf0dc] text-[#2d7a28] border-[#5fa55a]/40',
+        dotColor: 'bg-[#5fa55a]'
+    },
+    {
+        name: 'FECYT Excelente',
+        url: 'https://evaluacionfecyt.fecyt.es/',
+        description: 'Sello de Calidad FECYT con Mención de Excelencia',
+        badgeBg: 'bg-[#fef9db] hover:bg-[#fef3be] text-[#856303] border-[#f6d51f]/50',
+        dotColor: 'bg-[#d8b506]'
+    },
+    {
+        name: 'ESCI / WoS',
+        url: 'https://mjl.clarivate.com/search-results?issn=1885-446X',
+        description: 'Web of Science Core Collection (Clarivate)',
+        badgeBg: 'bg-[#e4f8f9] hover:bg-[#d0f3f5] text-[#006e73] border-[#01b4bc]/40',
+        dotColor: 'bg-[#01b4bc]'
+    },
+    {
+        name: 'DOAJ',
+        url: 'https://doaj.org/toc/2254-9099',
+        description: 'Directory of Open Access Journals (Seal)',
+        badgeBg: 'bg-[#fef1e6] hover:bg-[#fee5d0] text-[#c9630e] border-[#fa8925]/40',
+        dotColor: 'bg-[#fa8925]'
+    }
+];
 
 export default function Navbar() {
-    const location = useLocation();
     const [isOpen, setIsOpen] = useState(false);
     const menuButtonRef = useRef<HTMLButtonElement>(null);
     const firstLinkRef = useRef<HTMLAnchorElement>(null);
@@ -26,84 +57,45 @@ export default function Navbar() {
         }
     }, [isOpen]);
 
-    const navLinks = [
-        { name: 'Interactivos', path: '/interactivos' },
-    ];
-
     return (
-        <nav className="fixed top-0 w-full z-50 glass-3d transition-all duration-300" aria-label="Navegación principal">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <nav className="fixed top-0 w-full z-50 bg-white/90 backdrop-blur-xl border-b border-[#bbc9ca]/40 shadow-xs transition-all duration-300" aria-label="Navegación principal">
+            <div className="max-w-[1580px] mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex justify-between items-center h-20">
-                    <div className="flex items-center">
-                        <Link to="/" className="flex items-center gap-3 group" onClick={() => setIsOpen(false)}>
-                            <div className="w-10 h-10 rounded-full bg-white/20 flex items-center justify-center backdrop-blur-sm border border-white/30 group-hover:bg-coral transition-colors animate-float" aria-hidden="true">
-                                <Waves className="text-white" size={20} />
-                            </div>
-                            <span className="font-display font-bold text-lg tracking-wider text-white text-3d text-stroke uppercase">
-                                Inicio
-                            </span>
+                    <div className="flex items-center space-x-5">
+                        <Link to="/" className="block transition hover:opacity-90 shrink-0" onClick={() => setIsOpen(false)}>
+                            <OcnosLogo width={210} height={50} variant="light" />
                         </Link>
-
-                        {/* Badges de Calidad Oficiales */}
-                        <div className="hidden md:flex items-center gap-3 border-l-2 border-white/20 pl-5 ml-5">
-                            {/* Q1 Badge */}
-                            <div className="group relative flex items-center justify-center bg-white/90 shadow-sm rounded-md px-2 py-1 cursor-help hover:scale-105 transition-transform">
-                                <span className="bg-[#8cc63f] text-white text-xs font-bold px-2 py-0.5 rounded-sm tracking-wide">Q1</span>
-                                <div className="absolute top-10 left-1/2 -translate-x-1/2 w-52 p-3 rounded-lg bg-white shadow-xl border border-ocean-dark/10 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50 text-center transform translate-y-2 group-hover:translate-y-0" role="tooltip">
-                                    <p className="text-ocean-dark text-xs font-bold leading-relaxed">Ubicada en el Top 25% (Primer cuartil) de las revistas de literatura mundial</p>
-                                    <div className="absolute -top-2 left-1/2 -translate-x-1/2 border-[6px] border-transparent border-b-white drop-shadow-sm" aria-hidden="true"></div>
-                                </div>
-                            </div>
-
-                            {/* FECYT Badge */}
-                            <div className="group relative flex items-center justify-center bg-white/90 shadow-sm rounded-md px-2 py-1 cursor-help hover:scale-105 transition-transform">
-                                <span className="text-[#00aeb3] font-black text-xs tracking-tighter">FECYT</span>
-                                <div className="absolute top-10 left-1/2 -translate-x-1/2 w-52 p-3 rounded-lg bg-white shadow-xl border border-ocean-dark/10 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50 text-center transform translate-y-2 group-hover:translate-y-0" role="tooltip">
-                                    <p className="text-ocean-dark text-xs font-bold leading-relaxed">Avalados oficialmente por el Estado de España por su excelencia científica</p>
-                                    <div className="absolute -top-2 left-1/2 -translate-x-1/2 border-[6px] border-transparent border-b-white drop-shadow-sm" aria-hidden="true"></div>
-                                </div>
-                            </div>
-                            
-                            {/* ESCI WOS Badge */}
-                            <div className="group relative flex items-center justify-center bg-white/90 shadow-sm rounded-md px-2 py-1 cursor-help hover:scale-105 transition-transform gap-1">
-                                <div className="w-4 h-4 rounded-full bg-[#6a3093] flex items-center justify-center shadow-inner" aria-hidden="true">
-                                    <span className="text-white font-bold" style={{ fontSize: '0.45rem' }}>wos</span>
-                                </div>
-                                <span className="text-[#6a3093] text-[10px] font-bold uppercase tracking-wider hidden xl:block">ESCI</span>
-                                <div className="absolute top-10 right-0 xl:left-1/2 xl:-translate-x-1/2 w-56 p-3 rounded-lg bg-white shadow-xl border border-ocean-dark/10 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50 text-center transform translate-y-2 group-hover:translate-y-0" role="tooltip">
-                                    <p className="text-ocean-dark text-xs font-bold leading-relaxed">Incluida en la Web of Science</p>
-                                    <div className="absolute -top-2 right-6 xl:left-1/2 xl:-translate-x-1/2 border-[6px] border-transparent border-b-white drop-shadow-sm" aria-hidden="true"></div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
 
-                    {/* Desktop Navigation */}
-                    <div className="hidden lg:flex space-x-3" role="list" aria-label="Enlaces de navegación">
-                        {navLinks.map((link) => (
-                            <Link
-                                key={link.path}
-                                to={link.path}
-                                role="listitem"
-                                aria-current={location.pathname === link.path ? 'page' : undefined}
-                                className={`card-3d px-5 py-2 flex items-center justify-center transition-colors group ${location.pathname === link.path ? 'bg-coral text-white' : 'hover:bg-coral'}`}
+                    {/* Scientific Indexing Seals with Functioning External Links (Desktop) */}
+                    <div className="hidden md:flex items-center space-x-2.5" role="navigation" aria-label="Indexación científica">
+                        {INDEX_SEALS.map((seal) => (
+                            <a
+                                key={seal.name}
+                                href={seal.url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                title={`${seal.name} - ${seal.description}`}
+                                className={`px-3.5 py-1.5 rounded-xl text-xs font-bold tracking-wide uppercase transition-all duration-200 border shadow-2xs hover:shadow-xs hover:scale-105 active:scale-95 flex items-center gap-1.5 cursor-pointer ${seal.badgeBg}`}
                             >
-                                <span className={`font-bold ${location.pathname === link.path ? 'text-white' : 'text-ocean-dark group-hover:text-white'}`}>{link.name}</span>
-                            </Link>
+                                <span className={`w-2 h-2 rounded-full ${seal.dotColor} shrink-0`} aria-hidden="true" />
+                                <span>{seal.name}</span>
+                                <ExternalLink size={12} className="opacity-60" aria-hidden="true" />
+                            </a>
                         ))}
                     </div>
 
                     {/* Mobile Menu Button */}
-                    <div className="lg:hidden">
+                    <div className="md:hidden">
                         <button
                             ref={menuButtonRef}
                             onClick={() => setIsOpen(!isOpen)}
-                            aria-label={isOpen ? 'Cerrar menú de navegación' : 'Abrir menú de navegación'}
+                            aria-label={isOpen ? 'Cerrar menú de indexación' : 'Abrir sellos de indexación'}
                             aria-expanded={isOpen}
                             aria-controls="mobile-nav-menu"
-                            className="text-white hover:text-coral transition-colors p-2"
+                            className="text-on-surface hover:text-ocnos-cyan transition-colors p-2 cursor-pointer"
                         >
-                            {isOpen ? <X size={28} /> : <Menu size={28} />}
+                            {isOpen ? <X size={26} /> : <Menu size={26} />}
                         </button>
                     </div>
                 </div>
@@ -115,27 +107,32 @@ export default function Navbar() {
                     <motion.div
                         id="mobile-nav-menu"
                         role="navigation"
-                        aria-label="Menú de navegación móvil"
+                        aria-label="Sellos de indexación en móvil"
                         initial={{ opacity: 0, height: 0 }}
                         animate={{ opacity: 1, height: 'auto' }}
                         exit={{ opacity: 0, height: 0 }}
-                        className="lg:hidden bg-ocean-dark/95 backdrop-blur-xl border-t border-white/10 overflow-hidden shadow-2xl"
+                        className="md:hidden bg-white/95 backdrop-blur-xl border-t border-outline-variant/40 overflow-hidden shadow-2xl"
                     >
-                        <div className="px-4 pt-4 pb-8 space-y-2">
-                            {navLinks.map((link, i) => (
-                                <Link
-                                    key={link.path}
+                        <div className="px-4 pt-4 pb-6 space-y-2.5">
+                            <p className="text-[11px] font-black uppercase tracking-widest text-slate-400 px-1 mb-2">
+                                Indexación Científica de Alto Impacto
+                            </p>
+                            {INDEX_SEALS.map((seal, i) => (
+                                <a
+                                    key={seal.name}
                                     ref={i === 0 ? firstLinkRef : undefined}
-                                    to={link.path}
+                                    href={seal.url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
                                     onClick={() => setIsOpen(false)}
-                                    aria-current={location.pathname === link.path ? 'page' : undefined}
-                                    className={`block px-4 py-3 rounded-2xl text-lg font-bold transition-all ${location.pathname === link.path
-                                            ? 'bg-coral text-white shadow-lg translate-x-2'
-                                            : 'text-white/80 hover:bg-white/10 hover:text-white'
-                                    }`}
+                                    className={`flex items-center justify-between px-4 py-3 rounded-xl border text-sm font-bold transition-all ${seal.badgeBg}`}
                                 >
-                                    {link.name}
-                                </Link>
+                                    <div className="flex items-center gap-2.5">
+                                        <span className={`w-2.5 h-2.5 rounded-full ${seal.dotColor}`} aria-hidden="true" />
+                                        <span>{seal.name}</span>
+                                    </div>
+                                    <ExternalLink size={14} className="opacity-70" aria-hidden="true" />
+                                </a>
                             ))}
                         </div>
                     </motion.div>

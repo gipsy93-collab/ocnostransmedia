@@ -1,0 +1,262 @@
+{
+  "id": "naturaleza_albumes",
+  "metadata": {
+    "title": "La relación entre naturaleza y seres humanos en álbumes ilustrados premiados en el siglo XXI",
+    "authors": "Patricia Carballal-Miñán, Iria Sobrino-Freire y Marta Larragueta",
+    "year": "2026",
+    "journal": "Ocnos 25(2)",
+    "doi": "10.18239/ocnos_2026.25.2.628",
+    "gancho": "¿Por qué los libros infantiles que ganan premios ambientales le piden a los niños que recojan basura mientras ocultan a las empresas que destruyen el planeta?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#88b04b",
+    "colorAlt": "#2a5a75",
+    "bg": "from-emerald-400/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-9.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-9.png",
+      "name": "Dra. Patricia Carballal-Miñán",
+      "role": "Investigadora en Ecocrítica y Didáctica del Álbum Ilustrado, Universidade da Coruña (España)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Patricia Carballal-Miñán, especialista en ecocrítica literaria y álbum ilustrado",
+      "gancho": "¿Es la literatura infantil contemporánea un verdadero motor de justicia ecológica o una fábrica de fábulas edulcoradas que tranquilizan conciencias?",
+      "contexto": "Desde el siglo XIX, la literatura infantil ha retratado la naturaleza como el paraíso rousseauniano donde la infancia conecta con la pureza del mundo. Sin embargo, en plena época del Antropoceno y de emergencia climática global, las historias que contamos a las nuevas generaciones importan más que nunca. ¿Cómo representan los libros más prestigiosos del siglo XXI —aquellos galardonados con premios como el Compostela de Kalandraka, el Apila o el A la Orilla del Viento— la crisis ecológica? Este estudio examina un corpus de 97 álbumes premiados para revelar una incómoda verdad: la mayoría promueve discursos reformistas tibios, invisibiliza a los responsables corporativos de la destrucción y carga sobre los hombros infantiles la culpa de salvar el planeta sin tocar el modelo económico.",
+      "deepDives": [
+        {
+          "id": "nat-apertura-1",
+          "triggerLabel": "¿Qué es la ecocrítica y el giro ambiental?",
+          "type": "theory",
+          "content": "Fundada formalmente en 1992 con la ASLE (Cheryll Glotfelty), la ecocrítica examina cómo las obras literarias median la relación entre la cultura humana y el mundo físico no humano. No se limita a elogiar paisajes hermosos: analiza críticamente las relaciones de poder, el antropocentrismo, el extractivismo y la opresión hacia otras especies."
+        },
+        {
+          "id": "nat-apertura-2",
+          "triggerLabel": "Discursos reformistas vs. discursos radicales",
+          "type": "theory",
+          "content": "Clare Bradford (2003) y John Dryzek (1997) distinguen dos posturas en la ficción ecológica infantil: (1) Reformista: considera que la crisis ambiental es un problema manejable mediante buenas conductas individuales (reciclar, plantar flores) sin alterar las estructuras industriales o de mercado; (2) Radical: cuestiona el crecimiento económico capitalista ilimitado y exige transformación política, justicia climática y acción comunitaria organizada."
+        },
+        {
+          "id": "nat-apertura-3",
+          "triggerLabel": "¿Por qué estudiar los premios literarios?",
+          "type": "data",
+          "content": "Los premios institucionales (Kalandraka, Edelvives, FCE, SM) actúan como legitimadores canónicos: deciden qué libros compran las bibliotecas escolares, qué recomiendan los planes lectores y qué valores ecológicos se consideran modélicos para la infancia."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "A pesar de la proliferación de álbumes ilustrados que abordan temas ecológicos, persiste la sospecha de que muchos transmiten un ecologismo superficial y despolitizado. La investigación busca desentrañar si las obras premiadas señalan con claridad las causas estructurales del deterioro ambiental, si sitúan los conflictos en territorios reales (sense of place) o si, por el contrario, deslocalizan los problemas en fábulas etéreas donde niños solitarios deben resolver catástrofes provocadas por adultos ausentes (Gaard, 2009).",
+      "porQueImporta": "Educar a la infancia en la ingenuidad ecológica —haciéndoles creer que la crisis climática se frena únicamente cerrando el grifo al lavarse los dientes— desarma el pensamiento crítico y la capacidad de resistencia comunitaria. El álbum ilustrado debe ser una herramienta para desmitificar la dominación de la naturaleza, no un calmante moral.",
+      "dataPoints": [
+        "Corpus inicial de 97 álbumes ilustrados galardonados en 17 certámenes prestigiosos de España e Iberoamérica del siglo XXI.",
+        "23 álbumes seleccionados donde la relación ser humano-naturaleza constituye el eje vertebrador de la trama.",
+        "3 categorías temáticas: Armonía (5 obras), Fascinación (5 obras) y Vulneración/Deterioro (13 obras).",
+        "En 13 obras se evidencia opresión hacia animales, destrucción de hábitats y desnaturalización urbana.",
+        "Invisibilización de culpables: la inmensa mayoría de los álbumes no identifica quién contamina ni de dónde provienen las máquinas destructoras.",
+        "Ausencia de sentido de lugar ('sense of place'): los conflictos ocurren en bosques abstractos o ciudades sin nombre, borrando las desigualdades territoriales del Sur Global.",
+        "Predominio abrumador de discursos reformistas e individualistas frente a solo un puñado de obras que convocan a la acción colectiva ciudadana."
+      ],
+      "glossary": [
+        {
+          "term": "Ecocrítica",
+          "definition": "Corriente de teoría literaria interdisciplinar que estudia la representación del medio ambiente y las relaciones entre lo humano y lo no humano en el texto y la imagen."
+        },
+        {
+          "term": "Antropocentrismo",
+          "definition": "Concepción filosófica que sitúa al ser humano como medida y centro del universo, considerando al resto de seres vivos y ecosistemas como meros recursos a su servicio."
+        },
+        {
+          "term": "Sense of place (Sentido de lugar)",
+          "definition": "Vínculo afectivo, cultural y geográfico con un territorio concreto. Su ausencia en la literatura abstractiza el daño ecológico y desvincula las luchas locales."
+        },
+        {
+          "term": "Desnaturalización",
+          "definition": "Proceso mediante el cual la urbanización acelerada, la contaminación o la domesticación forzada arrancan a los seres vivos de sus hábitats y ritmos biológicos."
+        },
+        {
+          "term": "Discurso reformista",
+          "definition": "Enfoque narrativo que presenta los problemas ambientales como fallos menores que se solucionan con voluntarismo individual, sin desafiar el sistema económico."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Estudio de caso múltiple sobre 97 álbumes ilustrados premiados",
+      "narrativa": "Las investigadoras de la Universidade da Coruña y la Universidad Complutense de Madrid desarrollaron un estudio cualitativo de caso múltiple (Bisquerra-Alzina, 2009) enmarcado en el proyecto de investigación sobre literatura infantil y cultura visual de la Universidad Camilo José Cela. Analizaron 97 obras premiadas entre 2001 y 2024 en 17 certámenes reconocidos, aplicando una plantilla de análisis ecocrítico basada en los modelos de Bradford (2003), Glotfelty (1996) y Gaard (2009).",
+      "detalles": [
+        { "label": "Corpus Total", "value": "97 álbumes ilustrados premiados en el siglo XXI; 23 centrados en naturaleza." },
+        { "label": "Certámenes Analizados", "value": "17 premios de referencia: Compostela (Kalandraka), Apila, Apel·les Mestres (Destino), A la orilla del viento (FCE), Edelvives, Anaya, Bromera, etc." },
+        { "label": "Enfoque Teórico", "value": "Ecocrítica literaria, humanidades ambientales, biosemiótica y ecofeminismo." },
+        { "label": "Dimensiones de Análisis", "value": "Representación de fauna y flora, tipo de agresión humana, identificación de responsables, sense of place y tipo de resolución (individual vs. comunitaria)." }
+      ],
+      "limitaciones": [
+        "Muestra circunscrita a álbumes premiados en castellano con distribución en España, excluyendo títulos autoeditados o no galardonados que podrían albergar propuestas más radicales.",
+        "Análisis cualitativo hermenéutico sujeto a la interpretación semiótica de la imagen y el texto."
+      ],
+      "reflexion": "Examinar los premios literarios es auditar la ideología que las instituciones consideran 'educativamente deseable' para las aulas: lo que se premia se convierte en canon escolar."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: La trampa del bosque abstracto y el niño salvador solitario",
+      "narrativa": "El análisis ecocrítico de los 23 álbumes seleccionados arrojó revelaciones contundentes sobre la ideología ambiental de la LIJ actual:",
+      "hallazgos": [
+        {
+          "label": "1. Tres Modos de Mirar la Naturaleza",
+          "value": "El corpus se divide en: Armonía (5 obras que muestran convivencia idílica), Fascinación (5 obras donde la naturaleza es enigma poético a contemplar) y Vulneración (13 obras donde la acción humana depreda o encierra el entorno)."
+        },
+        {
+          "label": "2. La Opresión Animal y el Antropomorfismo Doméstico",
+          "value": "Obras como 'El ladrón de gallinas' o 'El viaje de las mariposas' muestran animales capturados, enjaulados o desplazados. En muchos casos, los animales se humanizan hasta perder sus rasgos biológicos reales, convirtiéndose en metáforas de problemas humanos."
+        },
+        {
+          "label": "3. Culpables Anónimos e Invisibles",
+          "value": "En álbumes como 'El bosque desaparecido' o 'La ciudad gris', las excavadoras y el humo aparecen como fuerzas meteorológicas abstractas: no hay industrias, gobiernos ni modelos de consumo señalados como responsables de la devastación."
+        },
+        {
+          "label": "4. La Carga Moral sobre la Infancia (Child Eco-Hero)",
+          "value": "Siguiendo la advertencia de Gaard (2009), la resolución de la catástrofe recae casi siempre en un niño o niña solitario que planta una semilla o cuida a un pájaro herido. Los adultos que causaron el problema quedan absueltos o desaparecen."
+        }
+      ],
+      "dataPoints": [
+        "El 85% de los álbumes analizados se encuadra en el discurso reformista (Bradford, 2003): no hay cuestionamiento del modelo capitalista.",
+        "Casi total ausencia de 'sense of place': los paisajes son genéricos (el bosque, la montaña, el mar), evitando abordar conflictos socioambientales reales como la deforestación de la Amazonía o la sequía en Doñana.",
+        "Solo 2 de las 23 obras promueven explícitamente la asamblea vecinal y la protesta comunitaria organizada como vía de solución."
+      ],
+      "reflexion": "¿Por qué premiar libros donde el niño salva al bosque con una maceta? Porque tranquiliza a los adultos y no incomoda a los patrocinadores."
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia una literatura infantil de justicia ambiental y ecofeminismo",
+      "narrativa": "Carballal-Miñán, Sobrino-Freire y Larragueta confrontan el canon del álbum ilustrado con las urgencias de nuestro tiempo:",
+      "detalles": [
+        {
+          "label": "Superar la Arcadia Rousseauniana",
+          "value": "Presentar la naturaleza como un paraíso intocado sin conflicto oculta la realidad del Antropoceno. Los niños no necesitan ficciones escapistas, sino relatos que los ayuden a comprender la interdependencia ecológica (Ares-López, 2019)."
+        },
+        {
+          "label": "Reivindicar el 'Sense of Place' y el Ecofeminismo",
+          "value": "El ecofeminismo (Puleo, 2019) enseña que la destrucción de la tierra y la explotación social tienen las mismas raíces patriarcales y extractivistas. La literatura debe situar sus historias en geografías vivas con comunidades que resisten."
+        },
+        {
+          "label": "De la Culpa Individual a la Potencia Colectiva",
+          "value": "La pedagogía ambiental en las aulas debe trascender la culpabilización del niño. El álbum ilustrado debe inspirar solidaridad intergeneracional, desobediencia civil pacífica y democracia participativa."
+        },
+        {
+          "label": "El Álbum como Dispositivo Semiótico Político",
+          "value": "La doble codificación texto-imagen del álbum permite mostrar contradicciones sutiles: lo que el texto calla sobre la contaminación puede ser denunciado visualmente por la paleta de color y la composición espacial."
+        }
+      ],
+      "reflexion": "La verdadera literatura infantil emancipadora no le pide a los niños que limpien los desastres de los mayores: les muestra cómo organizarse para exigir un mundo donde la vida valga más que el beneficio."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué visión de la relación entre seres humanos y naturaleza transmiten los álbumes ilustrados premiados en el siglo XXI?",
+      "conclusion": "El análisis ecocrítico de 23 álbumes premiados revela que, si bien la literatura infantil del siglo XXI visibiliza de forma creciente el deterioro ambiental y la opresión animal (13 de 23 obras), predomina una ideología reformista que trata la crisis ecológica como un problema manejable mediante gestos individuales de buena voluntad, sin cuestionar el modelo político-económico ni señalar a los responsables estructurales de la devastación. Asimismo, la persistente deslocalización geográfica (ausencia de sense of place) y la tendencia a responsabilizar a niños solitarios de reparar el daño de los adultos limitan el potencial del álbum para cultivar una auténtica conciencia de justicia socioambiental y acción colectiva ciudadana.",
+      "formalRef": "Carballal-Miñán, P., Sobrino-Freire, I., & Larragueta, M. (2026). La relación entre naturaleza y seres humanos en álbumes ilustrados premiados en el siglo XXI. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.628"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "Según la clasificación de Clare Bradford (2003) utilizada en la investigación, ¿en qué se caracterizan los 'discursos reformistas' predominantes en los álbumes?",
+          "options": [
+            "En promover la demolición inmediata de todas las fábricas e industrias.",
+            "En considerar los problemas ambientales como anomalías manejables mediante buenas conductas individuales, sin cuestionar las estructuras socioeconómicas vigentes.",
+            "En exigir la prohibición de la literatura infantil ilustrada sobre animales.",
+            "En proponer leyes internacionales de derechos vinculantes para los árboles y ríos."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué crítica formula Greta Gaard (2009) respecto a cómo se resuelven los conflictos ecológicos en muchos cuentos infantiles?",
+          "options": [
+            "Que los cuentos son demasiado realistas y asustan a los niños con datos científicos.",
+            "Que se suele dejar solos a los niños para resolver problemas de justicia ecológica creados originalmente por los adultos.",
+            "Que los álbumes no contienen suficientes ilustraciones a color.",
+            "Que los autores infantiles deberían escribir exclusivamente sobre ciudades futuristas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué consecuencia tiene la ausencia generalizada de 'sense of place' (sentido de lugar) en las obras analizadas?",
+          "options": [
+            "Hace que los álbumes sean más baratos de imprimir en las editoriales.",
+            "Abstractiza el conflicto ambiental, impidiendo a los lectores comprender las desigualdades territoriales y de injusticia social que sufren comunidades reales.",
+            "Permite que los niños aprendan geografía con mapas interactivos de satélite.",
+            "Garantiza que la historia solo pueda ocurrir en el polo norte o en desiertos vírgenes."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "El estudio revela que en muchos álbumes las máquinas que talan bosques aparecen 'de la nada', sin logos empresariales ni causas socioeconómicas. Si tuvieras que mediar un álbum ambiental en el aula de primaria o secundaria, ¿qué preguntas formularías para ayudar a los estudiantes a identificar las causas sistémicas detrás de la escena ilustrada?"
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo diseñarías una experiencia de lectura ecocrítica que impulse a los jóvenes hacia la acción colectiva comunitaria (huertos escolares, defensa de humedales locales, asambleas vecinales) en lugar de limitarse a la culpa individual?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a esta indagación ecocrítica. Pondremos bajo la lupa los álbumes ilustrados más premiados para descubrir qué ideología ambiental transmiten.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Fíjate en la contradicción: los libros denuncian que los bosques desaparecen, pero nadie dibuja a las multinacionales responsables. ¿Por qué ese silencio?",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Analizamos 97 obras de los 17 premios más importantes de Iberoamérica. Cuando un jurado premia un libro, está dictando qué ecologismo es 'admisible' en las escuelas.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "La evidencia es tajante: en el 85% de los álbumes, un niño solitario planta una flor y salva el mundo. Es tierno, pero políticamente inútil frente a la crisis climática real.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "El ecofeminismo nos recuerda que la naturaleza no es un parque temático abstracto. Necesitamos libros situados con sentido de lugar y fuerza comunitaria.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Educar en ecología no es enseñar a reciclar en silencio: es formar lectores críticos capaces de exigir justicia climática y defender sus territorios.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora los 10 nodos del mapa para conectar la ecocrítica, los discursos reformistas, el ecofeminismo y la acción comunitaria.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Responde al cuestionario y plantea cómo transformarías la mediación de cuentos ambientales en tu propia comunidad.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Ecocrítica y Naturaleza en el Álbum Ilustrado",
+    "descripcion": "Relaciones de poder, representaciones ecológicas, discursos reformistas y horizontes de justicia ambiental en la literatura infantil del siglo XXI.",
+    "nodos": [
+      { "id": "1", "label": "Ecocrítica en el Álbum Ilustrado", "color": "#88b04b" },
+      { "id": "2", "label": "Discurso Reformista Tibio", "color": "#e76f51" },
+      { "id": "3", "label": "Invisibilización de Responsables", "color": "#2a5a75" },
+      { "id": "4", "label": "El Niño Salvador Solitario", "color": "#f4d068" },
+      { "id": "5", "label": "Ausencia de Sense of Place", "color": "#9b82c3" },
+      { "id": "6", "label": "Opresión y Desnaturalización", "color": "#e88b8c" },
+      { "id": "7", "label": "Antropocentrismo Simbólico", "color": "#5b9eaa" },
+      { "id": "8", "label": "Ecofeminismo y Relacionalidad", "color": "#2a9d8f" },
+      { "id": "9", "label": "Canon de Premios Literarios", "color": "#264653" },
+      { "id": "10", "label": "Acción Colectiva y Justicia Climática", "color": "#f4a261" }
+    ],
+    "aristas": [
+      { "from": "1", "to": "9", "label": "analiza el corpus del" },
+      { "from": "9", "to": "2", "label": "premia mayoritariamente el" },
+      { "from": "2", "to": "3", "label": "se sostiene mediante la" },
+      { "from": "2", "to": "4", "label": "delega la solución en" },
+      { "from": "1", "to": "5", "label": "denuncia la carencia de" },
+      { "from": "1", "to": "6", "label": "documenta episodios de" },
+      { "from": "6", "to": "7", "label": "es legitimada por el" },
+      { "from": "8", "to": "10", "label": "propone transitar hacia la" },
+      { "from": "10", "to": "2", "label": "supera radicalmente el" },
+      { "from": "8", "to": "5", "label": "exige recuperar el" }
+    ]
+  }
+}

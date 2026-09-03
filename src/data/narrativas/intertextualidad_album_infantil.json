@@ -1,0 +1,302 @@
+{
+  "id": "intertextualidad_album_infantil",
+  "metadata": {
+    "title": "Intertextualidad y literatura infantil. El diálogo entre textos en el estudio del álbum ilustrado",
+    "authors": "Núria Vouillamoz-Pajaro",
+    "year": "2024",
+    "journal": "Ocnos 23(2)",
+    "doi": "10.18239/ocnos2024.23.2.466",
+    "gancho": "¿Cuántos libros escondidos hay dentro de un cuento infantil y por qué un niño sonríe cuando reconoce al lobo?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#f4d068",
+    "colorAlt": "#2a5a75",
+    "bg": "from-amber-400/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-09.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-09.png",
+      "name": "Dra. Núria Vouillamoz-Pajaro",
+      "role": "Investigadora en Teoría Literaria e Intertextualidad Infantil, Universitat de Barcelona"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Núria Vouillamoz-Pajaro, especialista en semiótica de la lectura infantil y diálogo intertextual",
+      "gancho": "¿Es el álbum ilustrado un género menor o una de las máquinas de citas y alusiones culturales más sofisticadas del mundo contemporáneo?",
+      "contexto": "La intertextualidad (la red invisible que conecta un texto con todos los textos que lo precedieron) alcanza en el álbum ilustrado una complejidad fascinante al operar en dos códigos simultáneos: el texto verbal y la imagen plástica. Obras maestras de Anthony Browne, Maurice Sendak o Beatrice Alemagna están repletas de citas a cuadros del Renacimiento, guiños al surrealismo y parodias de cuentos de hadas clásicos. Este estudio ofrece una revisión crítica y una tipología operativa de la intertextualidad en el álbum ilustrado contemporáneo.",
+      "deepDives": [
+        {
+          "id": "int-apertura-1",
+          "triggerLabel": "La intertextualidad de Genette y Bajtín",
+          "type": "theory",
+          "content": "Bajtín concibe todo enunciado como dialógico; Genette desglosa la transtextualidad en intertextualidad, paratextualidad, metatextualidad, hipertextualidad y architextualidad."
+        },
+        {
+          "id": "int-apertura-2",
+          "triggerLabel": "La doble intertextualidad (Visual y Verbal)",
+          "type": "theory",
+          "content": "La imagen puede citar a 'Las Meninas' mientras el texto cita a 'Caperucita', creando una tercera dimensión de sentido irónico."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Con frecuencia, la mediación escolar trata al álbum como un texto aislado y plano, privando a los niños del placer intelectual de descubrir las huellas ocultas de otros relatos y cuadros.",
+      "porQueImporta": "Reconocer ecos intertextuales es el fundamento de la competencia literaria crítica y de la formación de una memoria cultural compartida.",
+      "dataPoints": [
+        "Revisión teórica y análisis de corpus de más de 60 álbumes ilustrados contemporáneos de referencia.",
+        "Tipología en 4 modalidades: Cita directa explícita, Alusión paródica, Reescritura subversiva e Intericonicidad plástica.",
+        "El lector infantil como detective semiótico: satisfacción estética ante el 'efecto reconocimiento'.",
+        "Doble destinatario: guiños que el niño capta a nivel folclórico y que el adulto disfruta a nivel artístico de alta cultura."
+      ],
+      "glossary": [
+        {
+          "term": "Intericonicidad",
+          "definition": "Diálogo visual entre imágenes donde una ilustración evoca, parodia o cita formalmente a otra pintura u obra visual de la historia del arte."
+        },
+        {
+          "term": "Efecto reconocimiento",
+          "definition": "Placer cognitivo y estético que experimenta el lector al identificar un personaje o motivo procedente de otra historia previa."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis semiótico transtextual comparado",
+      "narrativa": "La investigadora sistematizó las teorías de Bajtín, Kristeva y Genette adaptándolas a la gramática visual de Kress y van Leeuwen para construir una taxonomía funcional del álbum.",
+      "detalles": [
+        {
+          "label": "Corpus",
+          "value": "Álbumes de Anthony Browne, Colin McNaughton, Babette Cole, David Wiesner, etc."
+        },
+        {
+          "label": "Enfoque",
+          "value": "Semiótica intertextual y estética de la recepción infantil."
+        }
+      ],
+      "limitaciones": [
+        "Estudio teórico-analítico que requiere contraste empírico en aulas sobre el grado de reconocimiento real de los niños."
+      ],
+      "reflexion": "Leer no es mirar una isla: es navegar por un archipiélago donde todas las islas están conectadas bajo el mar."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El placer del guiño compartido",
+      "narrativa": "La taxonomía propuesta desvela la infinita riqueza del álbum contemporáneo:",
+      "hallazgos": [
+        {
+          "label": "1. El Lobo que ya no da Miedo",
+          "value": "La parodia intertextual desarticula los miedos tradicionales del cuento de hadas mediante el humor y la inversión de roles."
+        },
+        {
+          "label": "2. Museos en el Cuarto de Juegos",
+          "value": "Autores como Anthony Browne acercan a Magritte, Van Gogh o Velázquez a niños de 5 años con una naturalidad lúdica asombrosa."
+        }
+      ],
+      "dataPoints": [
+        "Más del 80% de los álbumes premiados internacionalmente incorpora algún nivel de intertextualidad visual o verbal."
+      ],
+      "reflexion": "Un libro que dialoga con otros libros le enseña al niño que la cultura es una gran conversación humana infinita."
+    },
+    "marco": {
+      "titulo": "Discusión: Didáctica de la red intertextual en la escuela",
+      "narrativa": "Vouillamoz-Pajaro propone conectar las lecturas escolares en 'constelaciones literarias':",
+      "detalles": [
+        {
+          "label": "Constelaciones de Álbumes",
+          "value": "Leer varios libros que dialogan entre sí para que los niños experimenten el gozo de relacionar historias."
+        }
+      ],
+      "reflexion": "Educar la mirada literaria es enseñar a tender hilos dorados de memoria entre páginas."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo opera la intertextualidad verbal y visual en el álbum ilustrado infantil y qué implicaciones tiene para la educación literaria?",
+      "conclusion": "La revisión crítica y taxonómica demuestra que el álbum ilustrado es un artefacto de alta densidad intertextual e intericónica. Al articular citas, alusiones y parodias en los códigos textual y plástico simultáneamente, el álbum interpela a un lector infantil activo capaz de disfrutar del 'efecto reconocimiento'. Se propone la creación de constelaciones literarias en el aula para potenciar la competencia interpretativa y cultural desde la primera infancia.",
+      "formalRef": "Vouillamoz-Pajaro, N. (2024). Intertextualidad y literatura infantil. El diálogo entre textos en el estudio del álbum ilustrado. Ocnos, 23(2). https://doi.org/10.18239/ocnos2024.23.2.466"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué término define el diálogo visual entre una ilustración infantil y una pintura célebre de la historia del arte (como cuando Anthony Browne cita a Magritte)?",
+          "options": [
+            "Fotomontaje industrial.",
+            "Intericonicidad plástica.",
+            "Plagio involuntario.",
+            "Caricatura sin sentido."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué placer estético y cognitivo experimenta el lector infantil al identificar a un personaje de otro cuento dentro de una nueva historia?",
+          "options": [
+            "Sensación de aburrimiento y enfado.",
+            "El 'efecto reconocimiento' (placer de sentirse parte de una comunidad de saberes compartidos y descifrar el guiño del autor).",
+            "Miedo a perderse.",
+            "Deseo de cerrar el libro."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué propuesta didáctica sugiere la autora para trabajar la intertextualidad en las escuelas?",
+          "options": [
+            "Leer un solo libro al año y memorizarlo.",
+            "Diseñar 'constelaciones literarias' (redes de lecturas agrupadas por temas, personajes o mitos que dialogan entre sí).",
+            "Eliminar los dibujos de los libros infantiles.",
+            "Prohibir que los niños comparen historias."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Elige un autor de álbum ilustrado célebre por su juego intertextual (como Anthony Browne con 'Voces en el parque' o Babette Cole con 'Príncipe Ceniciento') y explica cómo diseñarías una actividad para descubrir los cuadros ocultos o las parodias con tus alumnos."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que un niño de 5 años disfruta tanto cuando en un cuento nuevo se encuentra de repente con el lobo feroz pero vestido de abuela o asustado por un cerdito?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "¡Abran paso a los detectives de historias! Vamos a descubrir los cuadros y relatos secretos escondidos en los álbumes infantiles.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Los cuentos infantiles son simples? ¡Para nada! Son complejas máquinas intertextuales que dialogan con toda la historia del arte.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Recorremos las obras de Anthony Browne, Sendak y Babette Cole armados con las teorías de Genette y Bajtín.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Intericonicidad pura! La imagen cita a Magritte mientras el texto parodia a Caperucita: el niño goza con el guiño compartido.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Creemos constelaciones literarias en el colegio: leer varios libros conectados multiplica el placer y la inteligencia.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Cada libro es una ventana abierta a todas las demás bibliotecas de la historia de la humanidad.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo se conectan la intertextualidad, la intericonicidad, el álbum ilustrado y las constelaciones.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y atrévete a rastrear los ecos intertextuales en tus lecturas favoritas.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Intertextualidad e Intericonicidad en el Álbum Ilustrado",
+    "descripcion": "Taxonomía semiótica (teoría de Genette y Bajtín): doble código texto-imagen, parodia de cuentos clásicos, efecto reconocimiento y constelaciones literarias.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Intertextualidad en el Álbum",
+        "color": "#f4d068"
+      },
+      {
+        "id": "2",
+        "label": "Intericonicidad Plástica (Arte)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Doble Código Simultáneo",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "Efecto Reconocimiento",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "5",
+        "label": "Parodia y Subversión de Clásicos",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "6",
+        "label": "Teoría Transtextual (Genette/Bajtín)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "7",
+        "label": "Doble Destinatario (Niño/Adulto)",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "8",
+        "label": "Obras Maestras de Anthony Browne",
+        "color": "#e88b8c"
+      },
+      {
+        "id": "9",
+        "label": "Constelaciones Literarias en Aula",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Competencia Literaria Crítica",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "6",
+        "label": "se fundamenta en la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "opera a través del"
+      },
+      {
+        "from": "3",
+        "to": "2",
+        "label": "despliega en la ilustración la"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "utiliza con frecuencia la"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "provoca en el lector el gozoso"
+      },
+      {
+        "from": "1",
+        "to": "7",
+        "label": "se dirige a un sofisticado"
+      },
+      {
+        "from": "8",
+        "to": "2",
+        "label": "ejemplifica magistralmente la"
+      },
+      {
+        "from": "9",
+        "to": "1",
+        "label": "organiza la didáctica mediante la"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "construye de forma sólida la"
+      },
+      {
+        "from": "10",
+        "to": "4",
+        "label": "capacita para disfrutar del"
+      }
+    ]
+  }
+}

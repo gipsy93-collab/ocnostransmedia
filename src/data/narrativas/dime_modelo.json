@@ -1,0 +1,329 @@
+{
+  "id": "dime_modelo",
+  "metadata": {
+    "title": "Comprobación del modelo de comprensión lectora directo y de la mediación inferencial en alumnado español",
+    "authors": "Juan Martínez-Cubelos y Juan-Cruz Ripoll-Salceda",
+    "year": "2026",
+    "journal": "Ocnos 25(1)",
+    "doi": "10.18239/ocnos_2026.25.1.547",
+    "gancho": "¿Es la comprensión lectora una sola habilidad o un engranaje donde los conocimientos previos y el vocabulario alimentan a las inferencias?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#5b9eaa",
+    "bg": "from-ocean-base/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-1.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-1.png",
+      "name": "Dr. Juan-Cruz Ripoll-Salceda",
+      "role": "Investigador en Psicopedagogía de la Lectura, Universidad de Navarra / Colegio Santa María la Real"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Juan-Cruz Ripoll-Salceda, psicopedagogo e investigador en modelos cognitivos de lectura",
+      "gancho": "¿Por qué un alumno que decodifica perfectamente las palabras fracasa al entender un texto de ciencias sociales?",
+      "contexto": "Durante décadas, la enseñanza escolar se apoyó en la 'Concepción Simple de la Lectura' (Gough y Tunmer), asumiendo que comprender era solo el producto de decodificar bien y entender el lenguaje oral. Sin embargo, en 5.º y 6.º de Primaria los textos se vuelven densos y abstractos. El modelo DIME (Direct and Inferential Mediation Model), formulado por Cromley y Azevedo, postula un sistema de ecuaciones donde conocimientos previos, vocabulario, decodificación y estrategias interactúan a través de la habilidad inferencial. Este estudio somete a prueba por primera vez el modelo DIME en España con 241 estudiantes de Primaria para desvelar qué engranaje tiene mayor peso en la comprensión real.",
+      "deepDives": [
+        {
+          "id": "dime-apertura-1",
+          "triggerLabel": "¿Qué es el modelo DIME?",
+          "type": "theory",
+          "content": "DIME postula que 5 componentes predicen la comprensión: conocimientos previos, lectura de palabras, vocabulario, estrategias e inferencias. Es directo y a la vez mediado por la capacidad inferencial."
+        },
+        {
+          "id": "dime-apertura-2",
+          "triggerLabel": "Ecuaciones estructurales (SEM)",
+          "type": "theory",
+          "content": "El modelado SEM contrasta empíricamente redes de hipótesis causales, evaluando efectos directos, indirectos y varianza explicada."
+        },
+        {
+          "id": "dime-apertura-3",
+          "triggerLabel": "La muestra en La Rioja",
+          "type": "data",
+          "content": "241 estudiantes de 5.º y 6.º de Primaria en centros urbanos y rurales agrupados (CRA) de La Rioja."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Los docentes suelen aplicar actividades aisladas de comprensión sin saber qué componente es el cuello de botella cognitivo real. Se desconocía si en el alumnado de final de Primaria la decodificación de palabras sigue influyendo o si son los conocimientos de fondo y el vocabulario los determinantes.",
+      "porQueImporta": "Diseñar programas sin base empírica malgasta horas lectivas. Si la decodificación ya está automatizada, el andamiaje debe volcarse en construir conocimientos del mundo e inferencias.",
+      "dataPoints": [
+        "Muestra de 241 alumnos de 5.º y 6.º de Primaria.",
+        "El modelo DIME explicó el 60.5% de la varianza total de la comprensión lectora expositiva.",
+        "Los conocimientos previos fueron el predictor con mayor efecto total (beta = 0.44).",
+        "El vocabulario ocupó el segundo lugar en efecto total, seguido por la habilidad inferencial.",
+        "El efecto de la lectura de palabras (decodificación) no resultó estadísticamente significativo.",
+        "Ajuste global excelente (CFI = .97, RMSEA = .04)."
+      ],
+      "glossary": [
+        {
+          "term": "Modelo DIME",
+          "definition": "Modelo directo y de mediación inferencial que conecta conocimientos previos, vocabulario, decodificación, estrategias e inferencias con la comprensión textual."
+        },
+        {
+          "term": "Habilidad inferencial",
+          "definition": "Capacidad de deducir información implícita conectando proposiciones del texto con esquemas mentales previos."
+        },
+        {
+          "term": "Conocimientos previos",
+          "definition": "Red de conceptos y saberes del mundo almacenados en la memoria a largo plazo antes de abordar una lectura."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Modelado de ecuaciones estructurales con 241 escolares",
+      "narrativa": "Los investigadores aplicaron una batería estandarizada de pruebas: TECLE para eficacia lectora, Peabody / EVOCA para vocabulario, pruebas de conocimientos previos específicos, test de inferencias y prueba de comprensión de textos de Conocimiento del Medio.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "241 estudiantes de 5.º y 6.º de Primaria en 4 colegios públicos de La Rioja."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "TECLE (palabras), test de vocabulario receptivo, cuestionario de conocimientos previos y prueba de inferencias."
+        },
+        {
+          "label": "Análisis",
+          "value": "Modelado de ecuaciones estructurales (SEM) con máxima verosimilitud robusta."
+        }
+      ],
+      "limitaciones": [
+        "Muestreo por conveniencia en una única comunidad autónoma española.",
+        "Uso de textos exclusivamente expositivos, no extrapolable a narrativa o poesía."
+      ],
+      "reflexion": "En 5.º y 6.º de Primaria la mecánica pasa a segundo plano: lo que no está en la memoria cultural del niño no puede ser comprendido en el texto."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El triunfo del conocimiento previo sobre la decodificación",
+      "narrativa": "El ajuste estructural validó la arquitectura DIME con datos reveladores para la pedagogía:",
+      "hallazgos": [
+        {
+          "label": "1. El 60.5% de la Comprensión Explicada",
+          "value": "El modelo DIME demostró un poder explicativo sobresaliente, muy superior a modelos simples."
+        },
+        {
+          "label": "2. Los Conocimientos Previos Mandan",
+          "value": "Poseer esquemas conceptuales sobre el tema es el factor con mayor impacto directo e indirecto sobre el éxito lector."
+        },
+        {
+          "label": "3. La Decodificación se Vuelve Irrelevante",
+          "value": "En 5.º y 6.º de Primaria, la lectura de palabras ya está automatizada y no explica diferencias en comprensión."
+        }
+      ],
+      "dataPoints": [
+        "Efecto total de conocimientos previos: beta = 0.44 (p < .001).",
+        "Efecto total del vocabulario: beta = 0.32 (p < .01).",
+        "Lectura de palabras: beta = 0.06 (no significativo)."
+      ],
+      "reflexion": "¿Cómo pretendemos que un niño comprenda la fotosíntesis si el aula no le ha enseñado previamente qué es una molécula?"
+    },
+    "marco": {
+      "titulo": "Discusión: De la técnica mecánica a la pedagogía de contenidos ricos",
+      "narrativa": "Martínez-Cubelos y Ripoll-Salceda discuten las consecuencias curriculares de sus hallazgos:",
+      "detalles": [
+        {
+          "label": "Superar las Estrategias Vacías",
+          "value": "Enseñar estrategias de lectura sin contenido temático es inútil. Solo funcionan si el lector tiene conocimientos del mundo."
+        },
+        {
+          "label": "Enriquecer el Currículo Escolar",
+          "value": "La mejor clase de lectura es una clase fascinante de ciencias o historia que ensanche el vocabulario y los conceptos."
+        }
+      ],
+      "reflexion": "Aprender a leer en los primeros años sirve para leer para aprender durante toda la vida."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué componentes explican con mayor peso la comprensión lectora en escolares españoles según el modelo DIME?",
+      "conclusion": "La validación empírica del modelo DIME con 241 estudiantes españoles de 5.º y 6.º de Primaria demuestra que la comprensión lectora de textos expositivos se explica en un 60.5% por la interacción de cinco componentes. Los conocimientos previos y el vocabulario constituyen los predictores con mayor efecto total, mediando decisivamente en la inferencia, mientras que la decodificación deja de tener efecto significativo. Esto exige volcar la didáctica en saberes de fondo e inferencias.",
+      "formalRef": "Martínez-Cubelos, J., & Ripoll-Salceda, J. C. (2026). Comprobación del modelo de comprensión lectora directo y de la mediación inferencial en alumnado español. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.547"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué componente del modelo DIME obtuvo el mayor efecto total sobre la comprensión lectora en los estudiantes de 5.º y 6.º de Primaria?",
+          "options": [
+            "La velocidad de decodificación de palabras.",
+            "Los conocimientos previos de los estudiantes sobre el tema.",
+            "La habilidad motriz de escritura.",
+            "El número de páginas leídas al año."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de varianza de la comprensión lectora logró explicar el modelo estructural en la muestra española?",
+          "options": [
+            "El 15.2 %",
+            "El 60.5 %",
+            "El 99.9 %",
+            "Menos del 5 %"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué la decodificación de palabras no mostró un efecto estadísticamente significativo en este estudio?",
+          "options": [
+            "Porque los estudiantes leyeron en inglés.",
+            "Porque en 5.º y 6.º de Primaria la mecánica lectora básica ya está automatizada en la inmensa mayoría del alumnado.",
+            "Porque el software estadístico descartó esa variable por error.",
+            "Porque los textos no tenían palabras difíciles."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Si los conocimientos previos explican la mayor parte de la comprensión, ¿cómo diseñarías la fase de 'pre-lectura' en una lección de ciencias naturales para activar y nivelar los saberes de todo el grupo?"
+        },
+        {
+          "type": "open",
+          "q": "Explica con un ejemplo cómo el vocabulario no solo ayuda a entender palabras sueltas, sino que actúa como puente para construir inferencias entre dos oraciones de un texto."
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al análisis del modelo DIME. Desentrañaremos los engranajes cognitivos de la lectura con datos de 241 alumnos reales.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Seguimos practicando lectura mecánica o enriquecemos sus saberes del mundo? La ciencia tiene la respuesta.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Las ecuaciones estructurales nos permiten aislar cada sendero causal con total precisión.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El 60.5% de varianza explicada! Y la decodificación ya no pinta nada en 6.º de primaria: los saberes previos son los reyes.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "No enseñes estrategias al vacío: nutre primero el conocimiento y el léxico de los estudiantes.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La comprensión es el matrimonio entre lo que el texto dice y lo que tú ya sabías antes de abrirlo.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Navega por los 10 nodos para visualizar los senderos del modelo DIME, las inferencias y el vocabulario.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo que has descubierto y diseña experiencias pedagógicas que nutran el saber de tus estudiantes.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Modelo DIME de Comprensión Lectora",
+    "descripcion": "Estructura de interacciones directas y mediadas entre conocimientos previos, vocabulario, inferencias y comprensión en Primaria.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Comprensión Lectora Expositiva",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "2",
+        "label": "Modelo DIME (60.5% Varianza)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "3",
+        "label": "Conocimientos Previos (beta=0.44)",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "Vocabulario Receptivo",
+        "color": "#f4d068"
+      },
+      {
+        "id": "5",
+        "label": "Habilidad Inferencial",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "6",
+        "label": "Estrategias de Comprensión",
+        "color": "#e88b8c"
+      },
+      {
+        "id": "7",
+        "label": "Lectura de Palabras (No Signif.)",
+        "color": "#e76f51"
+      },
+      {
+        "id": "8",
+        "label": "Automatización en 5.º y 6.º",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "9",
+        "label": "Modelado Estructural (SEM)",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Pedagogía de Saberes Ricos",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "explica el 60.5% de"
+      },
+      {
+        "from": "3",
+        "to": "1",
+        "label": "ejerce el mayor efecto en"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "alimenta directamente a la"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "permite tender puentes en"
+      },
+      {
+        "from": "5",
+        "to": "1",
+        "label": "media el impacto hacia"
+      },
+      {
+        "from": "6",
+        "to": "1",
+        "label": "apoya de forma moderada a"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "pierde peso debido a la"
+      },
+      {
+        "from": "9",
+        "to": "2",
+        "label": "valida empíricamente el"
+      },
+      {
+        "from": "10",
+        "to": "3",
+        "label": "prioriza la construcción de"
+      },
+      {
+        "from": "10",
+        "to": "4",
+        "label": "expande masivamente el"
+      }
+    ]
+  }
+}

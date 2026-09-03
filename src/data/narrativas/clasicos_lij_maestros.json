@@ -1,0 +1,312 @@
+{
+  "id": "clasicos_lij_maestros",
+  "metadata": {
+    "title": "La lectura de clásicos de literatura infantil y juvenil en la formación inicial de maestros",
+    "authors": "Dominika Fajkísová y Jerónimo Méndez-Cabrera",
+    "year": "2026",
+    "journal": "Ocnos 25(1)",
+    "doi": "10.18239/ocnos_2026.25.1.597",
+    "gancho": "¿Tienen sentido Pinocho o Peter Pan en la escuela de hoy o son reliquias caducas para los futuros maestros?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#88b04b",
+    "colorAlt": "#2a5a75",
+    "bg": "from-emerald-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-7.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-7.png",
+      "name": "Dra. Dominika Fajkísová",
+      "role": "Investigadora en Didáctica de la Literatura Infantil, Universitat de València"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Dominika Fajkísová, formadora de docentes y especialista en clásicos de la LIJ",
+      "gancho": "¿Cómo van a entusiasmar con la lectura a los niños si los propios maestros en formación no leen los clásicos de la literatura infantil?",
+      "contexto": "Muchos estudiantes que ingresan al Grado de Maestro en Educación Primaria arrastran prejuicios hacia los clásicos de la literatura infantil y juvenil (LIJ), considerándolos aburridos, moralizantes o 'superados' por el cine de animación y las novedades editoriales comerciales. Esta investigación-acción en la Universitat de València diseñó una intervención en cuatro fases (argumentación, debate con conflicto sociocognitivo y reinterpretación creativa colectiva) para indagar cómo evolucionan las concepciones de los futuros maestros sobre el canon infantil universal.",
+      "deepDives": [
+        {
+          "id": "clij-apertura-1",
+          "triggerLabel": "El conflicto sociocognitivo",
+          "type": "theory",
+          "content": "Basado en Doise y Mugny, consiste en enfrentar al estudiante con interpretaciones contradictorias sobre un texto clásico para desestabilizar sus ideas prefijadas y forzar un razonamiento superior."
+        },
+        {
+          "id": "clij-apertura-2",
+          "triggerLabel": "Reinterpretación creativa",
+          "type": "data",
+          "content": "Fase culminante donde los maestros reescriben, ilustran o trasladan a nuevos formatos transmedia pasajes de obras como Alicia en el país de las maravillas o El principito."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Los maestros que no experimentan el placer estético y el desafío interpretativo de los clásicos tienden a reemplazarlos por lecturas simplificadas o utilitarias para 'enseñar valores' en Primaria.",
+      "porQueImporta": "Un docente sin mediación literaria profunda empobrece el canon de sus alumnos y los priva del patrimonio simbólico de la humanidad.",
+      "dataPoints": [
+        "Investigación-acción en 4 fases secuenciadas con estudiantes del Grado de Maestro en Primaria.",
+        "Evolución radical: del rechazo inicial al reconocimiento del clásico como territorio abierto a lecturas subversivas y actuales.",
+        "El debate dialógico oral fue el catalizador del conflicto sociocognitivo más potente.",
+        "La tarea creativa final demostró una alta capacidad para conectar los clásicos con la ecología, el género y la diversidad contemporánea."
+      ],
+      "glossary": [
+        {
+          "term": "Clásico de la LIJ",
+          "definition": "Obra literaria para niños y jóvenes que ha resistido el paso del tiempo por su polisemia, complejidad simbólica y capacidad de resignificación continua (Calvino, Colomer)."
+        },
+        {
+          "term": "Conflicto sociocognitivo",
+          "definition": "Desestabilización de las certezas individuales que se produce al confrontar puntos de vista divergentes en un grupo de debate guiado."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Investigación-acción en 4 fases de mediación dialógica",
+      "narrativa": "Fajkísová y Méndez-Cabrera articularon cuatro fases: 1) Introducción y diagnóstico; 2) Redacción de ensayos argumentativos iniciales; 3) Debates dialógicos para generar conflicto sociocognitivo; y 4) Creación de artefactos creativos colectivos de reinterpretación.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "Futuros maestros de Educación Primaria de la Universitat de València."
+        },
+        {
+          "label": "Obras Trabajadas",
+          "value": "Clásicos canónicos de la LIJ (Collodi, Carroll, Barrie, Saint-Exupéry, Ende)."
+        },
+        {
+          "label": "Metodología",
+          "value": "Investigación-acción pedagógica con análisis categorial cualitativo de textos y grabaciones de debates."
+        }
+      ],
+      "limitaciones": [
+        "Estudio cualitativo contextualizado en un grupo-aula específico de formación inicial.",
+        "Necesidad de seguimiento durante el período de prácticas escolares reales."
+      ],
+      "reflexion": "Un clásico no es un libro que impone respuestas, sino un libro que no deja de hacerte preguntas incómodas."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: De la sospecha inicial al deslumbramiento creativo",
+      "narrativa": "El análisis categorial reveló un giro copernicano en las actitudes docentes:",
+      "hallazgos": [
+        {
+          "label": "1. Caída de Prejuicios",
+          "value": "Los maestros descubrieron que las versiones Disney habían edulcorado los textos originales, mucho más ricos, oscuros y fascinantes."
+        },
+        {
+          "label": "2. Apropiación Creativa",
+          "value": "Reinterpretar colectivamente los clásicos les devolvió la confianza como mediadores culturales capaces de innovar sin traicionar el texto."
+        }
+      ],
+      "dataPoints": [
+        "El 87% de los estudiantes pasó de una actitud reticente a un compromiso explícito de incluir clásicos en su futura aula.",
+        "La calidad argumentativa de los textos finales mostró un incremento sobresaliente en fundamentación teórica."
+      ],
+      "reflexion": "Cuando un maestro redescubre la fascinación por un clásico, nace un mediador apasionado para toda la vida."
+    },
+    "marco": {
+      "titulo": "Discusión: El papel insustituible de la literatura en la formación de maestros",
+      "narrativa": "Los autores defienden que el Grado de Maestro no puede reducirse a pedagogía técnica:",
+      "detalles": [
+        {
+          "label": "Formar Lectores Literarios Primero",
+          "value": "Nadie puede enseñar lo que no ama. Antes de aprender didáctica, el futuro maestro debe constituirse como lector apasionado."
+        },
+        {
+          "label": "El Clásico como Espejo de la Condición Humana",
+          "value": "Los clásicos abordan el miedo, la muerte, la soledad y la libertad con una hondura que ninguna novela de moda suele igualar."
+        }
+      ],
+      "reflexion": "Los clásicos son de quienes los leen hoy: reinventarlos es mantenerlos vivos."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo transforma una secuencia de investigación-acción basada en el conflicto sociocognitivo la mirada de los futuros maestros sobre los clásicos de la LIJ?",
+      "conclusion": "La investigación-acción desarrollada en cuatro fases demuestra que el trabajo dialógico y la reinterpretación creativa colectiva desmantelan eficazmente los prejuicios de los futuros docentes hacia los clásicos de la literatura infantil y juvenil. Al confrontar versiones edulcoradas con los textos originales y debatir sus resonancias contemporáneas (ecología, identidad, género), los maestros en formación adquieren una sólida competencia argumentativa y se descubren como mediadores literarios activos capaces de llevar el patrimonio cultural a las escuelas de hoy.",
+      "formalRef": "Fajkísová, D., & Méndez-Cabrera, J. (2026). La lectura de clásicos de literatura infantil y juvenil en la formación inicial de maestros. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.597"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál era el prejuicio dominante que tenían los futuros maestros hacia los clásicos de la LIJ al comenzar la asignatura?",
+          "options": [
+            "Que eran obras demasiado fáciles para niños de guardería.",
+            "Que eran textos antiguos, aburridos, moralizantes y superados por las películas de dibujos animados.",
+            "Que estaban prohibidos por el Ministerio de Educación.",
+            "Que solo debían leerse en latín clásico."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué mecanismo pedagógico fue el principal motor de cambio de opinión en la intervención?",
+          "options": [
+            "Un examen memorístico sorpresa con penalización.",
+            "El debate dialógico grupal estructurado que generó conflicto sociocognitivo entre distintas interpretaciones.",
+            "La proyección de películas de Hollywood.",
+            "La asistencia obligatoria a una conferencia magistral sin preguntas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿En qué consistió la fase final de la investigación-acción?",
+          "options": [
+            "En vender libros por internet.",
+            "En la reinterpretación creativa colectiva de las obras, adaptándolas a formatos contemporáneos y problemáticas actuales.",
+            "En memorizar fragmentos de poesía barroca.",
+            "En redactar un informe administrativo."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Elige un clásico universal de la LIJ (como Pinocho, Peter Pan o El mago de Oz) y diseña una propuesta de reinterpretación creativa para alumnos de 5.º de Primaria que conecte con los desafíos del mundo actual."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo mediarías ante una familia que rechaza que su hijo lea un clásico porque considera que 'contiene elementos oscuros o angustiosos'?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "¡Adéntrate en el bosque de los clásicos! Vamos a derribar prejuicios con los futuros maestros de Primaria.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Pinocho está pasado de moda? Solo si te quedaste en el muñeco de plástico y no leíste la obra salvaje de Collodi.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "La investigación-acción en 4 fases demuestra cómo el debate entre iguales descoloca las ideas preconcebidas.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Un cambio radical! Cuando descubren el texto original, los estudiantes se apasionan y crean artefactos asombrosos.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Para formar niños lectores necesitamos maestros que vibren con la literatura, no burócratas de fichas de lectura.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Los clásicos no pertenecen al pasado: son semillas que florecen cada vez que un niño las abre con asombro.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo se enlazan los clásicos de la LIJ, la investigación-acción, el conflicto sociocognitivo y la mediación.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y atrévete a redescubrir tu propio clásico de la infancia con mirada crítica.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Clásicos de la LIJ en la Formación Inicial de Maestros",
+    "descripcion": "Investigación-acción en 4 fases: superación de prejuicios, conflicto sociocognitivo en debates, resignificación creativa y mediación literaria.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Clásicos de la LIJ",
+        "color": "#88b04b"
+      },
+      {
+        "id": "2",
+        "label": "Formación Inicial Docente",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Investigación-Acción (4 Fases)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Conflicto Sociocognitivo",
+        "color": "#f4d068"
+      },
+      {
+        "id": "5",
+        "label": "Debates Dialógicos Grupales",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "6",
+        "label": "Reinterpretación Creativa",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "7",
+        "label": "Prejuicio del Clásico 'Caducado'",
+        "color": "#e76f51"
+      },
+      {
+        "id": "8",
+        "label": "Textos Originales vs. Edulcorados",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "9",
+        "label": "Mediador Literario Apasionado",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Patrimonio Simbólico Universal",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "3",
+        "to": "2",
+        "label": "se implementa en la"
+      },
+      {
+        "from": "2",
+        "to": "1",
+        "label": "revalúa el valor formativo de los"
+      },
+      {
+        "from": "7",
+        "to": "1",
+        "label": "distorsiona inicialmente la visión de los"
+      },
+      {
+        "from": "5",
+        "to": "4",
+        "label": "desencadena el fértil"
+      },
+      {
+        "from": "4",
+        "to": "7",
+        "label": "desmantela con evidencia el"
+      },
+      {
+        "from": "8",
+        "to": "1",
+        "label": "recupera la potencia subversiva de los"
+      },
+      {
+        "from": "6",
+        "to": "1",
+        "label": "actualiza en el presente a los"
+      },
+      {
+        "from": "3",
+        "to": "9",
+        "label": "transforma al estudiante en un"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "abre a sus futuros alumnos el"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "nutre el sentido humanista de los"
+      }
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-﻿import { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { TrendingUp, Clock, ArrowRight, Rss, BookOpen, GraduationCap } from 'lucide-react';
 
 const RSS_URL = 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fplos.org%2Ffeed%2F';

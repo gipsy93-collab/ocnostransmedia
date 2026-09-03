@@ -1,0 +1,316 @@
+{
+  "id": "narrativa_digital_comparada",
+  "metadata": {
+    "title": "Narrativa vs. narrativa digital en Educación Primaria y Secundaria: una revisión sistemática",
+    "authors": "Mario Gómez-Martín, Joel-Manuel Prieto-Andreu y Leandro Álvarez-Kurogi",
+    "year": "2026",
+    "journal": "Ocnos 25(1)",
+    "doi": "10.18239/ocnos_2026.25.1.574",
+    "gancho": "¿El relato oral de siempre o el storytelling digital interactivo? ¿Cuál desarrolla mejor el cerebro infantil?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#f4d068",
+    "colorAlt": "#2a5a75",
+    "bg": "from-amber-400/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-3.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-3.png",
+      "name": "Dr. Mario Gómez-Martín",
+      "role": "Investigador en Tecnología Educativa y Narrativa Digital, UNIR (España)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Mario Gómez-Martín, especialista en innovación narrativa y entornos digitales escolares",
+      "gancho": "¿Es la narrativa digital el futuro inevitable del aula o estamos perdiendo la magia ancestral del relato tradicional?",
+      "contexto": "Desde que la humanidad se reunía alrededor del fuego, contar historias ha sido el mecanismo por excelencia para transmitir valores y empatía. En las últimas dos décadas, la digitalización trajo consigo el 'Digital Storytelling': narraciones con audio, video, interactividad y programación por bloques como Scratch. Esta revisión sistemática PRISMA 2020 analiza 154 estudios empíricos (2013-2025) para responder qué aporta de forma única cada técnica en Primaria y Secundaria.",
+      "deepDives": [
+        {
+          "id": "ndig-apertura-1",
+          "triggerLabel": "Evolución histórica (2013-2025)",
+          "type": "data",
+          "content": "154 estudios analizados en Scopus, WoS, Dialnet y SciELO muestran un crecimiento acelerado tras 2020."
+        },
+        {
+          "id": "ndig-apertura-2",
+          "triggerLabel": "Pensamiento computacional y relato",
+          "type": "theory",
+          "content": "La narrativa digital exige secuenciación lógica, ramificación de tramas y resolución de problemas."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "En muchas escuelas se ha creado una falsa dicotomía: o se defienden los cuentos tradicionales en papel o se abraza la tecnología acríticamente. Se necesita un mapa de evidencias que precise qué competencias específicas activa cada modalidad.",
+      "porQueImporta": "Integrar la tecnología sin pedagogía genera distracción; prescindir de ella aísla al aula del lenguaje multimodal de los jóvenes.",
+      "dataPoints": [
+        "Corpus de 154 investigaciones empíricas rigurosamente clasificadas bajo PRISMA 2020.",
+        "Narrativa tradicional: superioridad demostrada en desarrollo socioemocional, empatía interpersonal y alfabetización cultural clásica.",
+        "Narrativa digital: impacto sobresaliente en competencia digital, pensamiento computacional, motivación y expresión oral multimodal.",
+        "Complementariedad sinérgica: las intervenciones más exitosas combinan el guion tradicional con la producción audiovisual posterior."
+      ],
+      "glossary": [
+        {
+          "term": "Digital Storytelling (Narrativa Digital)",
+          "definition": "Práctica de combinar el arte de narrar historias con medios digitales: imágenes, audio, música y video."
+        },
+        {
+          "term": "Pensamiento computacional",
+          "definition": "Proceso de resolución de problemas que incluye descomposición, reconocimiento de patrones, abstracción y diseño de algoritmos."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Protocolo PRISMA 2020 sobre 154 investigaciones mundiales",
+      "narrativa": "Los autores cribaron bases de datos internacionales entre 2013 y 2025. Sistematizaron variables temáticas, áreas curriculares (lengua, ciencias, idiomas), soportes tecnológicos y efectos formativos en Primaria y Secundaria.",
+      "detalles": [
+        {
+          "label": "Bases de Datos",
+          "value": "Scopus, Web of Science, Dialnet y SciELO."
+        },
+        {
+          "label": "Período",
+          "value": "2013 a 2025 (154 estudios incluidos)."
+        },
+        {
+          "label": "Etapas Educativas",
+          "value": "Educación Primaria y Educación Secundaria Obligatoria."
+        }
+      ],
+      "limitaciones": [
+        "Heterogeneidad de herramientas digitales utilizadas en los estudios.",
+        "Escasez de estudios longitudinales a largo plazo."
+      ],
+      "reflexion": "La síntesis desmonta modas pasajeras: el medio digital es un vehículo potente, pero la calidad del mensaje sigue dependiendo de la estructura narrativa."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El reparto de fortalezas entre lo analógico y lo digital",
+      "narrativa": "La revisión sistemática arrojó una clara complementariedad funcional:",
+      "hallazgos": [
+        {
+          "label": "1. Poder Íntimo de la Tradición",
+          "value": "El relato oral y en papel genera mayor introspección emocional, conexión afectiva y comprensión de arquetipos culturales."
+        },
+        {
+          "label": "2. Potencia Creativa de lo Digital",
+          "value": "Crear relatos digitales dispara la autoeficacia de alumnos tímidos, mejora la pronunciación y democratiza la autoría."
+        },
+        {
+          "label": "3. Fusión Híbrida Ideal",
+          "value": "Los mejores resultados se obtienen cuando los estudiantes leen y escriben el borrador en analógico y luego lo trasladan a multimedia."
+        }
+      ],
+      "dataPoints": [
+        "El 78% de los estudios de narrativa digital reportó incrementos significativos en motivación.",
+        "La narrativa tradicional sigue siendo insustituible para la escucha activa y la memoria secuencial."
+      ],
+      "reflexion": "No hay que elegir entre el abuelo que cuenta una leyenda y el niño que programa un videojuego: ambos son narradores de mundos."
+    },
+    "marco": {
+      "titulo": "Discusión: La ecología del relato en el aula del siglo XXI",
+      "narrativa": "Gómez-Martín, Prieto-Andreu y Álvarez-Kurogi proponen una hibridación pedagógica:",
+      "detalles": [
+        {
+          "label": "Superar la Tecnocracia",
+          "value": "Llenar las aulas de pantallas sin enseñar a narrar solo produce ruido visual. La pedagogía debe preceder a la tecnología."
+        },
+        {
+          "label": "Multialfabetización Real",
+          "value": "El currículo debe enseñar a leer palabras, planos de cámara, bandas sonoras y ritmos de edición."
+        }
+      ],
+      "reflexion": "Contar historias es lo que nos hace humanos; la tecnología solo amplifica el eco de nuestra voz."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué competencias específicas diferencian a la narrativa tradicional de la digital en Primaria y Secundaria?",
+      "conclusion": "La revisión sistemática de 154 estudios concluye que la narrativa tradicional y la digital son complementarias. La tradicional estimula competencias socioemocionales, empatía y alfabetización cultural; la digital potencia competencias tecnológicas, pensamiento computacional, motivación y expresión oral multimodal. La excelencia didáctica reside en diseñar itinerarios híbridos.",
+      "formalRef": "Gómez-Martín, M., Prieto-Andreu, J. M., & Álvarez-Kurogi, L. (2026). Narrativa vs. narrativa digital en Educación Primaria y Secundaria. Revisión sistemática. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.574"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "Según la síntesis de 154 estudios de la revisión, ¿en qué área destaca especialmente la narrativa tradicional frente a la digital?",
+          "options": [
+            "En el desarrollo de habilidades socioemocionales, empatía y alfabetización cultural.",
+            "En la velocidad de renderizado de gráficos 3D.",
+            "En la programación de algoritmos de inteligencia artificial.",
+            "En la compra de licencias informáticas escolares."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué beneficio cognitivo adicional aporta la creación de narrativas digitales en los estudiantes?",
+          "options": [
+            "Provoca la pérdida irreversible de la caligrafía.",
+            "Estimula el pensamiento computacional, la secuenciación lógica y la expresión oral multimodal.",
+            "Obliga a memorizar diccionarios en inglés.",
+            "Ninguno, todos los estudios desaconsejan su uso."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál es la propuesta metodológica recomendada por los autores para las aulas de Primaria y Secundaria?",
+          "options": [
+            "Prohibir completamente las pantallas en todas las asignaturas de lengua.",
+            "Un modelo híbrido integrador que utilice el relato tradicional para el desarrollo conceptual y la tecnología digital para la producción creativa.",
+            "Sustituir a los profesores de literatura por avatares virtuales.",
+            "Leer únicamente comentarios de redes sociales."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña una secuencia didáctica de 3 sesiones donde tus estudiantes comiencen escribiendo una leyenda local en papel y terminen transformándola en un podcast o relato digital colaborativo."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo evaluarías un proyecto de narrativa digital para valorar tanto la calidad literaria de la historia como el uso reflexivo de los recursos audiovisuales?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al debate entre el papel y los píxeles. 154 estudios nos ayudarán a entender cómo narrar en el siglo XXI.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Cuento oral o animación interactiva? No caigamos en dogmatismos: la ciencia demuestra que se necesitan mutuamente.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "El protocolo PRISMA 2020 nos garantiza una revisión limpia y exhaustiva desde 2013 hasta 2025.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡La complementariedad es total! La empatía y el alma están en la tradición; la motivación y la estructura lógica explotan con lo digital.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Hibridar es la clave. El buen docente no elige entre el libro y el ordenador: los suma para enriquecer el aprendizaje.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La historia es lo que importa; las pantallas son solo las nuevas velas que iluminan nuestra imaginación.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para conectar la narrativa tradicional, el digital storytelling, el pensamiento computacional y la hibridación de aula.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Evalúa tus conocimientos y atrévete a planificar proyectos de narración multimodal para tus alumnos.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Narrativa Tradicional vs. Narrativa Digital",
+    "descripcion": "Comparativa sistemática de aportaciones pedagógicas, desarrollo socioemocional, pensamiento computacional y modelos híbridos de aula.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Ecología Narrativa Escolar",
+        "color": "#f4d068"
+      },
+      {
+        "id": "2",
+        "label": "Narrativa Tradicional Oral/Papel",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Digital Storytelling",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Competencias Socioemocionales",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Pensamiento Computacional",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "6",
+        "label": "Motivación y Expresión Multimodal",
+        "color": "#e88b8c"
+      },
+      {
+        "id": "7",
+        "label": "Revisión PRISMA (154 Estudios)",
+        "color": "#264653"
+      },
+      {
+        "id": "8",
+        "label": "Falsa Dicotomía Tecnológica",
+        "color": "#e76f51"
+      },
+      {
+        "id": "9",
+        "label": "Modelo Pedagógico Híbrido",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "10",
+        "label": "Inclusión y Diversidad Lingüística",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "7",
+        "to": "1",
+        "label": "sistematiza la"
+      },
+      {
+        "from": "1",
+        "to": "2",
+        "label": "incluye como pilar a la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "integra la potencia del"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "desarrolla de forma superior las"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "estimula directamente el"
+      },
+      {
+        "from": "3",
+        "to": "6",
+        "label": "dispara notablemente la"
+      },
+      {
+        "from": "8",
+        "to": "1",
+        "label": "polariza erróneamente la"
+      },
+      {
+        "from": "9",
+        "to": "8",
+        "label": "desmonta y supera la"
+      },
+      {
+        "from": "9",
+        "to": "2",
+        "label": "parte del guion de la"
+      },
+      {
+        "from": "9",
+        "to": "3",
+        "label": "produce con los medios del"
+      }
+    ]
+  }
+}

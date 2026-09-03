@@ -1,0 +1,298 @@
+{
+  "id": "autorregulacion_lectura_cientifica",
+  "metadata": {
+    "title": "Autorregulación del aprendizaje y lectura científica en docentes en formación. Un estudio exploratorio",
+    "authors": "Marta Torrijos-Muelas, Ana-Rosa Bodoque-Osma y Santiago Yubero",
+    "year": "2024",
+    "journal": "Ocnos 23(2)",
+    "doi": "10.18239/ocnos_2024.23.2.421",
+    "gancho": "¿Saben los futuros maestros leer artículos científicos de educación o solo buscan resúmenes rápidos en internet?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#2a5a75",
+    "bg": "from-teal-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-02.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-02.png",
+      "name": "Dra. Marta Torrijos-Muelas",
+      "role": "Investigadora en Psicología de la Educación y Formación Docente, Universidad de Castilla-La Mancha"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Marta Torrijos-Muelas, especialista en autorregulación del aprendizaje (ARA) y lectura académica",
+      "gancho": "¿Cómo van a enseñar evidencia científica en las escuelas quienes no son capaces de autorregular su propia lectura académica?",
+      "contexto": "La formación de maestros exige el desarrollo del Aprendizaje Autorregulado (ARA) y la competencia para leer literatura científica. En este estudio exploratorio con 184 futuros docentes de la UCLM, los autores examinaron la relación entre los hábitos de autorregulación y su autopercepción y rendimiento al enfrentarse a artículos científicos.",
+      "deepDives": [
+        {
+          "id": "ara-apertura-1",
+          "triggerLabel": "El modelo de Zimmerman sobre ARA",
+          "type": "theory",
+          "content": "Planificación previa, Ejecución supervisada y Autorreflexión final."
+        },
+        {
+          "id": "ara-apertura-2",
+          "triggerLabel": "Muestra de 184 docentes en formación",
+          "type": "data",
+          "content": "Estudiantes de 3.º y 4.º curso de Magisterio evaluados con escalas de autorregulación y tareas reales de lectura de papers."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Muchos estudiantes de Magisterio presentan rechazo hacia los artículos científicos, eludiendo las fuentes primarias de investigación.",
+      "porQueImporta": "Un docente que no sabe leer ciencia es vulnerable a los neuromitos y a las modas pedagógicas sin base empírica.",
+      "dataPoints": [
+        "Muestra de 184 futuros maestros de Educación Primaria e Infantil.",
+        "Fuerte correlación positiva (r = .48) entre autorregulación y comprensión de textos científicos.",
+        "El 62% del alumnado confesó no haber leído jamás un artículo científico completo antes de 3.º de carrera.",
+        "Dificultad crítica en la sección de Metodología y Resultados estadísticos."
+      ],
+      "glossary": [
+        {
+          "term": "Aprendizaje Autorregulado (ARA)",
+          "definition": "Proceso activo mediante el cual los estudiantes establecen metas y monitorean su cognición, motivación y conducta."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Evaluación de ARA y tareas de comprensión de papers",
+      "narrativa": "Los autores aplicaron el cuestionario ARATEX y una prueba de comprensión basada en un artículo científico de impacto en educación.",
+      "detalles": [
+        {
+          "label": "Participantes",
+          "value": "184 estudiantes de Grado de Maestro de la UCLM."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "Cuestionario ARATEX adaptado y prueba objetiva de lectura de paper."
+        }
+      ],
+      "limitaciones": [
+        "Estudio exploratorio circunscrito a una universidad pública española."
+      ],
+      "reflexion": "La docencia rigurosa nace de la lectura de la evidencia, no de la repetición de tópicos."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Los autorregulados no temen a las estadísticas",
+      "narrativa": "Los datos evidenciaron el papel protector de las estrategias metacognitivas:",
+      "hallazgos": [
+        {
+          "label": "1. La Planificación Vence al Miedo",
+          "value": "Los alumnos con alto ARA planifican la lectura por fases, desarmando la ansiedad que producen los datos cuantitativos."
+        },
+        {
+          "label": "2. Ceguera ante la Validez",
+          "value": "El alumnado con bajo ARA asume conclusiones sin revisar el diseño experimental ni las limitaciones."
+        }
+      ],
+      "dataPoints": [
+        "Diferencia estadísticamente significativa (p < .001) en rendimiento lector según el nivel de ARA."
+      ],
+      "reflexion": "Enseñar a leer artículos científicos en Magisterio es blindar la escuela pública contra la pseudociencia."
+    },
+    "marco": {
+      "titulo": "Discusión: Alfabetización científica en la formación del profesorado",
+      "narrativa": "Los autores proponen guías de lectura guiada en todas las asignaturas de la facultad:",
+      "detalles": [
+        {
+          "label": "Seminarios de Lectura Crítica de Papers",
+          "value": "Enseñar a interpretar gráficos y tamaños del efecto de forma accesible."
+        }
+      ],
+      "reflexion": "Un maestro que lee ciencia es un maestro libre y transformador."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo se relaciona la autorregulación del aprendizaje con la comprensión de textos científicos en docentes en formación?",
+      "conclusion": "El estudio exploratorio con 184 futuros maestros de la UCLM demuestra que la autorregulación del aprendizaje (ARA) es un predictor directo de la competencia para leer literatura científica, señalando la urgencia de alfabetizar científicamente al alumnado de Magisterio para dotarlo de criterio empírico.",
+      "formalRef": "Torrijos-Muelas, M., Bodoque-Osma, A. R., & Yubero, S. (2024). Autorregulación del aprendizaje y lectura científica en docentes en formación. Un estudio exploratorio. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.421"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de futuros maestros reconoció no haber leído jamás un artículo científico completo antes de 3.º de carrera?",
+          "options": [
+            "Menos del 1 %.",
+            "El 62 % del alumnado.",
+            "Exactamente el 100 %.",
+            "Ningún alumno."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué estrategia caracteriza a los estudiantes con alto nivel de ARA al leer un artículo científico?",
+          "options": [
+            "Leer solo el título y adivinar el contenido.",
+            "Planificar la lectura por fases y monitorear activamente la comprensión de los datos.",
+            "Memorizar los nombres de los autores sin entender nada.",
+            "Subrayar todo el papel de color amarillo."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué es vital que los maestros en formación aprendan a leer artículos científicos rigurosos?",
+          "options": [
+            "Para poder cobrar más sueldo el primer mes.",
+            "Para fundamentar su práctica docente en la evidencia empírica y protegerse de los neuromitos pedagógicos.",
+            "Para sustituir a los científicos en los laboratorios nucleares.",
+            "No tiene ninguna importancia."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Elige un artículo científico sobre educación y redacta una guía de 4 preguntas de andamiaje dirigidas a estudiantes de Magisterio para que analicen críticamente la sección de Metodología y Limitaciones."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo combatirías la 'fobia a las estadísticas' que manifiestan muchos alumnos de carreras educativas cuando se encuentran tablas cuantitativas en un texto científico?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a la ciencia que enseña a enseñar. ¿Saben los futuros maestros leer artículos científicos?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Muchos universitarios temen a los artículos científicos y caen en neuromitos. La autorregulación es el antídoto.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "184 estudiantes de Magisterio de la UCLM se enfrentan a pruebas de autorregulación y lectura de papers.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Quien planifica, comprende! Los alumnos autorregulados no se asustan con los datos y analizan con mirada crítica.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "El magisterio del siglo XXI debe basarse en la evidencia: formemos docentes capaces de leer y crear ciencia.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Un maestro que lee artículos científicos es un profesional libre que no se deja engañar por modas pasajeras.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo interactúan el ARA, la lectura de artículos científicos, la formación docente y los neuromitos.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Ponte a prueba y diseña estrategias para fomentar el rigor científico en la formación de maestros.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Autorregulación del Aprendizaje y Lectura Científica en Magisterio",
+    "descripcion": "Estudio exploratorio (UCLM, 184 alumnos): Aprendizaje Autorregulado (ARA), cuestionario ARATEX, comprensión de papers y combate de neuromitos.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Lectura de Literatura Científica",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "2",
+        "label": "Aprendizaje Autorregulado (ARA)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Docentes en Formación (184)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Fases de Zimmerman (Plan/Monitoreo)",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Ansiedad ante Datos Estadísticos",
+        "color": "#e76f51"
+      },
+      {
+        "id": "6",
+        "label": "Cuestionario ARATEX",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "7",
+        "label": "Combate de Neuromitos Educativos",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "8",
+        "label": "Lectura Guiada de Metodología",
+        "color": "#f4d068"
+      },
+      {
+        "id": "9",
+        "label": "Práctica Basada en la Evidencia",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Pensamiento Crítico Docente",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "predice con fuerza el éxito en la"
+      },
+      {
+        "from": "3",
+        "to": "2",
+        "label": "es evaluado en su nivel de"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "se estructura a través de las"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "reduce y desarma la"
+      },
+      {
+        "from": "6",
+        "to": "2",
+        "label": "mide psicométricamente el"
+      },
+      {
+        "from": "1",
+        "to": "7",
+        "label": "proporciona herramientas contra los"
+      },
+      {
+        "from": "8",
+        "to": "1",
+        "label": "andamia y facilita la"
+      },
+      {
+        "from": "1",
+        "to": "9",
+        "label": "hace posible la verdadera"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "desarrolla en el futuro maestro el"
+      },
+      {
+        "from": "10",
+        "to": "7",
+        "label": "desmantela de raíz los"
+      }
+    ]
+  }
+}

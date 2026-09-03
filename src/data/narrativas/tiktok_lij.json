@@ -1,0 +1,264 @@
+{
+  "id": "tiktok_lij",
+  "metadata": {
+    "title": "De las páginas a la pantalla: TikTok en la literatura infantil y juvenil",
+    "authors": "Gloria Gómez-Escalonilla",
+    "year": "2026",
+    "journal": "Ocnos 25(2)",
+    "doi": "10.18239/ocnos_2026.25.2.645",
+    "gancho": "¿Por qué mientras el hashtag #BookTok acumula 38.000 millones de visitas, las editoriales infantiles y juveniles apenas logran conectar con la Generación TikTok?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e88b8c",
+    "colorAlt": "#2a5a75",
+    "bg": "from-rose-400/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-8.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-8.png",
+      "name": "Dra. Gloria Gómez-Escalonilla",
+      "role": "Catedrática en Comunicación y Economía del Libro, Universidad Rey Juan Carlos (España)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Gloria Gómez-Escalonilla, investigadora en industrias culturales y ecosistemas del libro",
+      "gancho": "¿Están las editoriales tradicionales listas para hablar el lenguaje visual y desenfadado de TikTok, o siguen usando las redes como un escaparate de cartón piedra?",
+      "contexto": "El sector editorial infantil y juvenil (LIJ) en España goza de excelente salud financiera: en 2024 facturó 551 millones de euros (18.2% del total de la industria cultural española) con más de 56 millones de ejemplares producidos (FGEE, 2025). Además, el 75% de los jóvenes entre 14 y 24 años afirma leer libros en su tiempo libre. Sin embargo, cuando se trata de cómo descubren sus próximas lecturas, el ecosistema ha mutado radicalmente: las redes sociales ya influyen en el 23% de las decisiones de compra, impulsadas por el fenómeno global de #BookTok. ¿Cómo están respondiendo las editoriales españolas a esta revolución? Este estudio analiza por primera vez de forma sistemática la presencia, formatos y métricas de 103 editoriales de LIJ en TikTok.",
+      "deepDives": [
+        {
+          "id": "tiktok-apertura-1",
+          "triggerLabel": "¿Qué es la 'lectura social' y la LIJ 2.0?",
+          "type": "theory",
+          "content": "Rovira-Collado (2013, 2015) conceptualiza la 'LIJ 2.0' como un entorno donde las fronteras tradicionales entre autor, editor y lector se desvanecen. Los jóvenes ya no esperan pasivamente la recomendación escolar: crean contenidos, graban 'unboxings', escenifican reacciones emocionales (wrap-ups) y forman comunidades horizontales de iguales donde la prescripción se basa en la afinidad afectiva."
+        },
+        {
+          "id": "tiktok-apertura-2",
+          "triggerLabel": "La sobreproducción editorial en cifras",
+          "type": "data",
+          "content": "En España se publicaron 10.246 títulos infantiles y juveniles en papel en 2024, con una tirada media de 5.524 ejemplares por título, superando con holgura la media del libro para adultos (3.517 ejemplares). Esta saturación del mercado obliga a las editoriales a buscar urgentemente nuevas ventanas de visibilidad online para evitar que las novedades mueran invisibles en los estantes."
+        },
+        {
+          "id": "tiktok-apertura-3",
+          "triggerLabel": "El fenómeno global de #BookTok",
+          "type": "data",
+          "content": "Desde 2020, la comunidad #BookTok en TikTok ha acumulado más de 38.000 millones de visualizaciones y 55 millones de menciones. Capaz de resucitar novelas descatalogadas y catapultarlas a las listas de bestsellers internacionales, se ha convertido en el mayor prescriptor comercial de literatura juvenil del siglo XXI."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "A pesar de la trascendencia de TikTok entre el público adolescente, existe un profundo desfase entre la vitalidad de la comunidad lectora en la red y las estrategias institucionales de las editoriales. Se desconoce con qué grado de profesionalización participan las editoriales españolas de LIJ, si adoptan los códigos nativos de la plataforma (efectos, música en tendencia, influencers) o si replican lógicas publicitarias unidireccionales que provocan bajas tasas de interacción y un alcance residual.",
+      "porQueImporta": "Si la industria editorial no comprende la lógica del prescriptor entre iguales (peer influence) y el lenguaje audiovisual de las redes sociales, perderá la capacidad de dialogar con los nuevos lectores. La mediación literaria juvenil ya no ocurre en los suplementos culturales de prensa, sino en videos de 30 segundos grabados frente a una estantería.",
+      "dataPoints": [
+        "Universo de 103 editoriales de LIJ listadas en la Federación de Gremios de Editores de España (FGEE).",
+        "Presencia minoritaria: solo 25 editoriales (24.2%) cuentan con perfil institucional en TikTok.",
+        "Ausencia de cuentas especializadas del duopolio: Alfaguara LIJ (Penguin) y Destino LIJ (Planeta) no tienen cuenta propia, diluyéndose en perfiles corporativos generales.",
+        "Muestra de 117 publicaciones recientes analizadas exhaustivamente en sus variables formales, temáticas y de interacción.",
+        "El 72% de las editoriales (18 de 25) no supera las 100 publicaciones en toda su trayectoria en la red.",
+        "Fuerte polarización de seguidores: la gran mayoría tiene menos de 1.000 seguidores, mientras Norma Editorial Manga lidera con 22.400 seguidores y 214.700 'me gusta'.",
+        "Métricas de interacción promedio muy discretas: 853 visualizaciones, 23 likes, 3.5 guardados en favoritos y 1.8 comentarios por video."
+      ],
+      "glossary": [
+        {
+          "term": "BookTok / BookToker",
+          "definition": "Comunidad de creadores y lectores en TikTok que comparten reseñas, recomendaciones, reacciones y listas de lectura mediante videos verticales breves."
+        },
+        {
+          "term": "Prescripción lectora entre iguales",
+          "definition": "Recomendación horizontal entre pares (adolescente a adolescente) basada en la identificación estética y la afinidad lingüística, más persuasiva que la prescripción vertical de docentes o críticos adultos."
+        },
+        {
+          "term": "Unboxing / Book haul",
+          "definition": "Formatos audiovisuales característicos de redes donde se desempaquetan envíos editoriales de novedades o se exhiben las últimas adquisiciones de libros acumuladas."
+        },
+        {
+          "term": "Efecto espejo / Plano invertido",
+          "definition": "Defecto técnico frecuente en grabaciones con cámara frontal donde la portada del libro aparece con el texto invertido, dificultando la identificación visual del título."
+        },
+        {
+          "term": "Engagement rate",
+          "definition": "Tasa de participación e interacción de la audiencia (likes, comentarios, compartidos y guardados) en relación con el número de visualizaciones o seguidores."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis de contenido cuantitativo y cualitativo en TikTok",
+      "narrativa": "La investigadora aplicó una metodología de análisis de contenido sistemático sobre las 103 editoriales censadas por la FGEE en mayo de 2025. Tras identificar los 25 perfiles activos, se diseñó una matriz con más de 20 variables para analizar tanto la identidad de la cuenta como una muestra de 117 publicaciones recientes (las 5 más actuales de cada perfil, excluyendo fijadas).",
+      "detalles": [
+        { "label": "Universo de Estudio", "value": "103 editoriales del directorio oficial FGEE; 25 con perfil activo en TikTok (24.2%)." },
+        { "label": "Muestra de Publicaciones", "value": "117 videos recientes analizados de forma minuciosa." },
+        { "label": "Variables de Perfil", "value": "Identidad visual (logos/fotos), año de creación, total de videos, seguidores y 'me gusta' acumulados." },
+        { "label": "Variables de Video", "value": "Presencia de autor o influencer, género del prescriptor, tipo de plano, voz en off vs. en cámara, música, subtítulos, género literario y percha temática." },
+        { "label": "Métricas de Impacto", "value": "Visualizaciones, likes, comentarios, favoritos y compartidos por publicación." }
+      ],
+      "limitaciones": [
+        "Volatilidad propia del algoritmo de TikTok, donde las métricas de visualización cambian con rapidez.",
+        "Muestra temporal de 5 publicaciones por editorial, que captura una instantánea reciente pero no la totalidad histórica de cada sello.",
+        "Exclusión de cuentas de autores independientes que autopublican en TikTok al margen de las editoriales federadas."
+      ],
+      "reflexion": "La investigación revela que tener cuenta en TikTok no equivale a tener una estrategia: muchas editoriales abrieron perfiles por inercia digital, pero publican esporádicamente y con formatos poco adaptados al algoritmo."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El triunfo del manga, el error del escaparate y la fuerza del influencer",
+      "narrativa": "Los resultados evidencian un panorama de contrastes entre sellos que fracasan usando TikTok como tablón de anuncios y aquellos que conquistan a la comunidad:",
+      "hallazgos": [
+        {
+          "label": "1. Presencia Incipiente y Poco Profesionalizada",
+          "value": "Casi tres cuartas partes del sector infantil y juvenil está ausente de TikTok. De las 25 activas, el 72% publica de manera muy esporádica (menos de 100 videos en total) y todas usan su logotipo corporativo como foto de perfil, restando cercanía humana."
+        },
+        {
+          "label": "2. Manga y Romance Juvenil Lideran con Holgura",
+          "value": "Norma Editorial (@normaedmanga con 22.400 seguidores y 214.700 likes) y Nova Casa Editorial (7.235 seguidores, especializada en romántica) demuestran que el manga y el 'young adult' son los géneros que mejor encajan con el algoritmo."
+        },
+        {
+          "label": "3. El Efecto Multiplicador del Influencer",
+          "value": "Los videos protagonizados por booktokers e influencers o donde el autor dialoga en cámara generan hasta 5 veces más visualizaciones y comentarios que los videos institucionales estáticos donde solo se muestra el libro girando sobre una mesa."
+        },
+        {
+          "label": "4. Descuidos Formales y Falta de Gramática TikTok",
+          "value": "Un porcentaje notable de publicaciones presenta planos invertidos con texto ilegible (grabación frontal sin corregir modo espejo) y prescinde de música viral o subtítulos dinámicos, elementos indispensables para el consumo juvenil sin audio."
+        }
+      ],
+      "dataPoints": [
+        "Media de seguidores del sector: muy modesta, con la mayoría por debajo de 1.000 seguidores.",
+        "El tono predominante es neutro o informativo (mostrar la portada y fecha de lanzamiento), desaprovechando el humor y la emoción propios de #BookTok.",
+        "Los sellos de álbum ilustrado infantil (Zorro Rojo, Tramuntana, Cuento de Luz) encuentran mayores barreras en TikTok porque su comprador final suele ser el padre o docente, no el menor usuario de la red."
+      ],
+      "reflexion": "El algoritmo de TikTok premia la autenticidad y el entusiasmo personal. Cuando una editorial actúa como una corporación fría, el usuario desliza el dedo en 2 segundos; cuando colabora con un lector apasionado, el libro se hace viral."
+    },
+    "marco": {
+      "titulo": "Discusión: Nuevas ecologías de la prescripción editorial",
+      "narrativa": "Gómez-Escalonilla sitúa los hallazgos en el debate contemporáneo sobre la transformación de las industrias culturales:",
+      "detalles": [
+        {
+          "label": "Del Suplemento Cultural a la Prescripción Social",
+          "value": "La legitimación literaria juvenil ya no pasa por la crítica canónica. La 'prescripción entre iguales' democratiza la recomendación y convierte al lector en mediador activo (Lluch-Crespo y Sanz-Tejeda, 2024)."
+        },
+        {
+          "label": "El Desafío de la Adaptación del Lenguaje",
+          "value": "No basta con recortar un video de YouTube o subir un flyer publicitario. TikTok exige narrativa audiovisual vertical, ritmo sincopado, emoción explícita y participación en retos de la comunidad."
+        },
+        {
+          "label": "La Paradoja de los Grupos Grandes",
+          "value": "Que sellos como Destino o Alfaguara no tengan perfil propio evidencia una política de centralización de marca que puede alejar a sus sellos infantiles del nicho joven, favoreciendo a independientes ágiles."
+        },
+        {
+          "label": "El Libro Físico en la Pantalla Digital",
+          "value": "Lejos de destruir al libro de papel, TikTok lo celebra como objeto estético: la belleza de los cantos pintados, las portadas y el acto físico de leer se convierten en fetiches visuales."
+        }
+      ],
+      "reflexion": "TikTok no es el enemigo de la lectura, sino su altavoz más potente en el siglo XXI. Las editoriales que aprendan a cohabitar con su comunidad no solo venderán más libros: formarán parte activa de la cultura juvenil."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo están utilizando las editoriales de literatura infantil y juvenil la plataforma TikTok y cuál es su impacto real en la prescripción lectora?",
+      "conclusion": "La presencia de las editoriales españolas de literatura infantil y juvenil en TikTok es todavía minoritaria (solo el 24.2% cuenta con perfil activo) y se encuentra en una fase exploratoria caracterizada por publicaciones informativas sencillas, escasa interacción y un impacto modesto (media de 23 likes y 853 visualizaciones). No obstante, el éxito rotundo de sellos especializados en manga y novela juvenil romántica (como Norma Editorial y Nova Casa), junto con el impacto disparado de las publicaciones que colaboran con influencers y creadores de #BookTok, demuestra que la plataforma posee un potencial extraordinario para revitalizar la mediación lectora juvenil cuando se adoptan los códigos nativos de la cultura audiovisual digital.",
+      "formalRef": "Gómez-Escalonilla, G. (2026). De las páginas a la pantalla: TikTok en la literatura infantil y juvenil. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.645"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "De las 103 editoriales de literatura infantil y juvenil censadas en España por la FGEE, ¿cuántas tenían un perfil activo en TikTok en el momento del estudio?",
+          "options": [
+            "Únicamente 25 editoriales (el 24.2 %)",
+            "Más de 70 editoriales (cerca del 70 %)",
+            "La totalidad de las 103 editoriales",
+            "Solo 3 editoriales multinacionales"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué género y sello editorial destacó de forma abrumadora en número de seguidores (22.400) y 'me gusta' (214.700) en el estudio?",
+          "options": [
+            "El álbum ilustrado de Libros del Zorro Rojo",
+            "El manga en la cuenta especializada de Norma Editorial (@normaedmanga)",
+            "Los libros de texto escolares de Anaya Infantil",
+            "La poesía infantil de Editorial Juventud"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué las publicaciones que recurren a 'booktokers' o influencers logran un engagement significativamente mayor que las institucionales?",
+          "options": [
+            "Porque los influencers pagan publicidad pagada obligatoria a TikTok.",
+            "Porque operan bajo el principio de 'prescripción entre iguales', usando un lenguaje cercano, empático y códigos nativos de la plataforma.",
+            "Porque en sus videos nunca muestran libros físicos, solo PDFs.",
+            "Porque las editoriales tradicionales tienen prohibido hablar de literatura juvenil."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "El estudio detectó errores técnicos comunes en los videos de las editoriales, como portadas de libros invertidas en modo espejo o falta de subtítulos. Como asesor de comunicación editorial, ¿qué guía de 3 recomendaciones prácticas les darías para conectar con la comunidad lectora de TikTok?"
+        },
+        {
+          "type": "open",
+          "q": "Muchos docentes y mediadores temen que TikTok banalice la literatura o reduzca la atención de los estudiantes. A la luz de los hallazgos sobre #BookTok, ¿cómo se podría integrar esta red social en un proyecto de lectura en el aula de secundaria?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a esta investigación. Exploraremos cómo los libros de papel viajan hacia los videos verticales de TikTok.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Fíjate en el dato: 10.000 títulos publicados al año en España, pero solo 25 editoriales se atreven a entrar en TikTok. ¡Una oportunidad desaprovechada!",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Analizamos 117 videos reales: desde el tipo de plano hasta los me gusta, para desvelar qué funciona y qué fracasa en la red.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "El manga arrasa: Norma Editorial acumula más de 200.000 likes mientras otras cuentas no pasan de 100 seguidores. El secreto está en entender a la comunidad.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La prescripción ya no es un monólogo desde un pedestal: es un diálogo horizontal entre jóvenes que comparten su pasión por leer.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "El libro físico no muere en la pantalla: se vuelve deseable, estético y viral cuando se comunica con autenticidad.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa interactivo para conectar la sobreproducción editorial, los algoritmos de TikTok y el poder de los booktokers.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba tus conocimientos y piensa cómo tenderías un puente entre tu biblioteca y el algoritmo de TikTok.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Ecosistema Editorial de la LIJ en TikTok",
+    "descripcion": "Interacciones entre el sector editorial infantil y juvenil, la cultura algorítmica de TikTok, el fenómeno #BookTok y las nuevas formas de mediación entre iguales.",
+    "nodos": [
+      { "id": "1", "label": "Presencia Editorial en TikTok", "color": "#e88b8c" },
+      { "id": "2", "label": "Prescripción entre Iguales", "color": "#2a5a75" },
+      { "id": "3", "label": "Comunidad #BookTok", "color": "#f4d068" },
+      { "id": "4", "label": "Sobreproducción de Novedades", "color": "#5b9eaa" },
+      { "id": "5", "label": "Éxito del Manga y Young Adult", "color": "#88b04b" },
+      { "id": "6", "label": "Fórmulas Institucionales Frías", "color": "#e76f51" },
+      { "id": "7", "label": "El Libro como Objeto Estético", "color": "#9b82c3" },
+      { "id": "8", "label": "Métricas de Engagement Moderadas", "color": "#2a9d8f" },
+      { "id": "9", "label": "Gramática Audiovisual Nativa", "color": "#264653" },
+      { "id": "10", "label": "Mediación Literaria 2.0", "color": "#f4a261" }
+    ],
+    "aristas": [
+      { "from": "4", "to": "1", "label": "impulsa la búsqueda de" },
+      { "from": "1", "to": "6", "label": "se ve lastrada por" },
+      { "from": "3", "to": "2", "label": "se fundamenta en" },
+      { "from": "2", "to": "10", "label": "transforma la" },
+      { "from": "5", "to": "3", "label": "encaja de forma óptima con" },
+      { "from": "6", "to": "8", "label": "resulta en" },
+      { "from": "7", "to": "3", "label": "es viralizado por" },
+      { "from": "9", "to": "1", "label": "debe ser incorporada en" },
+      { "from": "10", "to": "5", "label": "potencia el consumo de" },
+      { "from": "9", "to": "8", "label": "incrementa notablemente las" }
+    ]
+  }
+}

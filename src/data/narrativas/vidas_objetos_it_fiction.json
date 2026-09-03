@@ -1,0 +1,302 @@
+{
+  "id": "vidas_objetos_it_fiction",
+  "metadata": {
+    "title": "Vidas de objetos en la literatura infantojuvenil y la it-fiction",
+    "authors": "Ana Peñas-Ruiz",
+    "year": "2024",
+    "journal": "Ocnos 23(1)",
+    "doi": "10.18239/ocnos_2024.23.1.409",
+    "gancho": "¿Qué secretos nos contaría un abrigo viejo, un libro abandonado o una moneda si tuvieran voz propia?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#88b04b",
+    "colorAlt": "#2a5a75",
+    "bg": "from-emerald-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-06.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-06.png",
+      "name": "Dra. Ana Peñas-Ruiz",
+      "role": "Investigadora en Literatura Comparada y Teoría del Cuento, UNED"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Ana Peñas-Ruiz, especialista en genealogías narrativas y relatos de cosas parlantes",
+      "gancho": "¿Es darle voz a una muñeca o a una moneda un simple pasatiempo infantil o una profunda crítica a la sociedad materialista?",
+      "contexto": "En los siglos XVIII y XIX triunfó en Europa un fascinante subgénero literario: la 'it-fiction' o 'novela de objetos', donde cosas inanimadas (un billete de banco, un paraguas, un reloj o un alfiler) narraban en primera persona sus andanzas pasando de mano en mano por distintos estratos sociales. En este estudio histórico y comparativo, la investigadora analizó la pervivencia y evolución de este dispositivo en la literatura infantojuvenil contemporánea (LIJ).",
+      "deepDives": [
+        {
+          "id": "itf-apertura-1",
+          "triggerLabel": "El subgénero de la it-fiction",
+          "type": "theory",
+          "content": "Narrativa de circulación donde un objeto testigo revela las hipocresías morales, las desigualdades de clase y el consumismo de los humanos que lo poseen."
+        },
+        {
+          "id": "itf-apertura-2",
+          "triggerLabel": "Corpus contemporáneo de LIJ",
+          "type": "data",
+          "content": "Análisis de álbumes ilustrados y novelas infantiles recientes donde muñecos, monedas y libros cobran conciencia."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La crítica suele reducir estos relatos a mero 'animismo infantil' o 'juguetes que cobran vida tipo Toy Story', pasando por alto su mordaz carga ética, ecológica y social.",
+      "porQueImporta": "En la actual crisis ecológica de usar y tirar, las historias que humanizan a los objetos enseñan a los niños a valorar la memoria, el cuidado y la sostenibilidad.",
+      "dataPoints": [
+        "Estudio comparativo de más de 40 obras clave desde el siglo XVIII hasta la actualidad.",
+        "Evolución del narrador: de la sátira picaresca dieciochesca a la educación afectiva y el duelo ecológico en el álbum ilustrado contemporáneo.",
+        "El objeto como testigo de la fragilidad humana: juguetes rotos que acompañan a niños refugiados o abrigos heredados entre generaciones.",
+        "Subversión del antropocentrismo: el mundo no gira solo alrededor de las personas."
+      ],
+      "glossary": [
+        {
+          "term": "It-fiction (Novela de objetos)",
+          "definition": "Subgénero narrativo donde la voz narrativa o el punto de vista focalizador corresponde a un objeto no humano que circula socialmente."
+        },
+        {
+          "term": "Giro material en literatura",
+          "definition": "Perspectiva crítica que reconoce la agencia, la memoria y la capacidad de afección de los objetos en la configuración de la vida humana."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis narratológico comparado y teoría del objeto",
+      "narrativa": "La autora examinó la focalización, la caracterización somática del objeto y los esquemas de circulación en textos clásicos (Smollett, Andersen) y contemporáneos (Innocenti, Alemagna, Morpurgo).",
+      "detalles": [
+        {
+          "label": "Periodo Analizado",
+          "value": "Del siglo XVIII a la producción editorial de 2023."
+        },
+        {
+          "label": "Obras Destacadas",
+          "value": "'La historia de un alfiler', 'El soldadito de plomo', 'El perro de peluche', 'Rose Blanche'."
+        }
+      ],
+      "limitaciones": [
+        "Vastedad del corpus internacional que obliga a una selección representativa."
+      ],
+      "reflexion": "Un objeto que amamos guarda en sus grietas el eco de todas las manos que lo sostuvieron con ternura."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El objeto como custodio de la memoria",
+      "narrativa": "El análisis comparado demostró una mutación conmovedora del subgénero:",
+      "hallazgos": [
+        {
+          "label": "1. De la Sátira Social a la Empatía Afectiva",
+          "value": "Mientras la it-fiction clásica usaba el objeto para burlarse de la avaricia humana, la LIJ contemporánea lo utiliza para hablar del apego, la pérdida, la migración y la vejez."
+        },
+        {
+          "label": "2. Una Conciencia Contra el Despilfarro",
+          "value": "Los cuentos de objetos reparados transmiten una potente ética del reciclaje y el respeto hacia la materia en un mundo de consumo voraz."
+        }
+      ],
+      "dataPoints": [
+        "Fuerte presencia de objetos textiles (abrigos, colchas, bufandas) como metáforas del tejido familiar intergeneracional."
+      ],
+      "reflexion": "En un mundo que produce basura sin fin, cuidar un juguete viejo es un acto de rebeldía poética."
+    },
+    "marco": {
+      "titulo": "Discusión: Didáctica de las cosas en las escuelas",
+      "narrativa": "Peñas-Ruiz sugiere talleres de escritura creativa a partir de objetos queridos:",
+      "detalles": [
+        {
+          "label": "Biografías de Cosas Cotidianas",
+          "value": "Invitar a los niños a traer un objeto familiar y escribir su historia secreta desde la perspectiva de la cosa."
+        }
+      ],
+      "reflexion": "Aprender a escuchar a los objetos es aprender a mirar el mundo con ojos de compasión y respeto."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo ha evolucionado la tradición de la it-fiction y qué sentido pedagógico y ético tienen las vidas de objetos en la literatura infantil y juvenil contemporánea?",
+      "conclusion": "La investigación comparada revela que la LIJ contemporánea hereda la tradición de la it-fiction para transformarla en un poderoso dispositivo de educación ética y afectiva. Lejos de ser un recurso pueril, dar voz a los objetos permite abordar el duelo, la memoria histórica de las migraciones y la crítica ecológica al consumo compulsivo, educando la sensibilidad de los jóvenes hacia el cuidado del entorno material y humano.",
+      "formalRef": "Peñas-Ruiz, A. (2024). Vidas de objetos en la literatura infantojuvenil y la it-fiction. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.409"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué definía al subgénero literario de la 'it-fiction' surgido en los siglos XVIII y XIX en Europa?",
+          "options": [
+            "Novelas sobre ordenadores e inteligencia artificial.",
+            "Relatos narrados en primera persona por objetos inanimados (monedas, alfileres, abrigos) que van pasando de mano en mano por diferentes clases sociales.",
+            "Manuales de fabricación de muebles.",
+            "Historias sobre viajes espaciales."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cómo ha transformado la literatura infantil y juvenil contemporánea este subgénero frente a la sátira clásica?",
+          "options": [
+            "Haciendo que los objetos solo hablen de videojuegos.",
+            "Utilizando el objeto como testigo afectivo de la memoria familiar, la pérdida, las migraciones y la crítica ética al usar y tirar.",
+            "Eliminando todos los personajes humanos.",
+            "Prohibiendo que los juguetes cobren vida."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de objeto aparece con enorme frecuencia en los álbumes infantiles como metáfora de los vínculos entre abuelos, padres e hijos?",
+          "options": [
+            "Los teléfonos móviles de última generación.",
+            "Los objetos textiles heredados (abrigos de lana, colchas de retales o bufandas cosidas a mano).",
+            "Los coches de carreras.",
+            "Las latas de refresco vacías."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña una actividad de taller de escritura de 1 hora para Primaria o Secundaria titulada 'Si mi objeto hablara', donde los alumnos narren un recuerdo significativo desde el punto de vista de un objeto personal antiguo."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que humanizar las cosas que nos rodean en los cuentos infantiles ayuda a combatir la cultura del hiperconsumo y el desprecio ecológico por los recursos materiales?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "¡Silencio, que las cosas van a hablar! Adéntrate en el misterio de los objetos que narran sus propias vidas.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "De la picaresca del siglo XVIII a los álbumes infantiles sobre refugiados: los objetos son los testigos mudos de nuestra historia.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Recorremos más de dos siglos de literatura comparada analizando desde 'El soldadito de plomo' hasta los cuentos de hoy.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Adiós al consumismo voraz! Los cuentos de objetos nos enseñan el valor sagrado de la memoria, la reparación y el afecto.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Llevemos la biografía de las cosas a la escuela: es el mejor camino para educar en la ecología y la compasión.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Cuidar las cosas que nos acompañan es una hermosa manera de aprender a cuidar a las personas que amamos.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver la evolución de la it-fiction, el giro material, los objetos parlantes y la LIJ ecológica.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba tus conocimientos y descubre el poder narrativo de los objetos que pueblan tu vida cotidiana.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Vidas de Objetos, It-Fiction y Literatura Infantojuvenil",
+    "descripcion": "Estudio de literatura comparada: genealogía de la it-fiction, giro material, memoria afectiva, duelo y crítica ecológica al consumo.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Vidas de Objetos en la LIJ",
+        "color": "#88b04b"
+      },
+      {
+        "id": "2",
+        "label": "Tradición de la It-Fiction (s. XVIII)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Giro Material y No Antropocéntrico",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Memoria Afectiva e Intergeneracional",
+        "color": "#f4d068"
+      },
+      {
+        "id": "5",
+        "label": "Objetos Textiles (Abrigos/Colchas)",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "6",
+        "label": "Testigos de la Historia (Guerra/Exilio)",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "7",
+        "label": "Crítica a la Cultura de Usar y Tirar",
+        "color": "#e76f51"
+      },
+      {
+        "id": "8",
+        "label": "Focalización en Primera Persona",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "9",
+        "label": "Álbum Ilustrado Contemporáneo",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Educación Ecológica y Cuidado",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "recoge la herencia de la clásica"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se fundamenta en el moderno"
+      },
+      {
+        "from": "1",
+        "to": "8",
+        "label": "utiliza preferentemente la"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "convierte al objeto en custodio de la"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se simboliza a menudo en"
+      },
+      {
+        "from": "1",
+        "to": "6",
+        "label": "hace de las cosas mudas los"
+      },
+      {
+        "from": "1",
+        "to": "7",
+        "label": "construye una lúcida"
+      },
+      {
+        "from": "9",
+        "to": "1",
+        "label": "es el soporte idóneo de las"
+      },
+      {
+        "from": "10",
+        "to": "7",
+        "label": "se fortalece mediante la"
+      },
+      {
+        "from": "10",
+        "to": "4",
+        "label": "promueve en la infancia el"
+      }
+    ]
+  }
+}

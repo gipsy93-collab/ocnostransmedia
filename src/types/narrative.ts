@@ -127,6 +127,7 @@ export interface Narrative {
       }>;
     };
   };
+  mapa?: MapaBlock;
 }
 
 export const IMRyD_INDEX: IMRyDIndexItem[] = [
@@ -136,6 +137,8 @@ export const IMRyD_INDEX: IMRyDIndexItem[] = [
   { id: 'revelacion', label: 'Resultados', icon: '💡' },
   { id: 'marco', label: 'Discusión', icon: '📚' },
   { id: 'nucleo', label: 'Conclusión', icon: '🎯' },
+  { id: 'implicancias', label: 'Implicancias', icon: '🏛️' },
   { id: 'juego', label: 'Juego', icon: '🎮' },
   { id: 'mapa', label: 'Mapa', icon: '🗺️' },
+  { id: 'reflexion', label: 'Reflexión', icon: '✨' },
 ];

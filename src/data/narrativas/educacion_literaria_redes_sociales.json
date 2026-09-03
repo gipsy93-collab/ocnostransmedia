@@ -1,0 +1,298 @@
+{
+  "id": "educacion_literaria_redes_sociales",
+  "metadata": {
+    "title": "Educación literaria y redes sociales. Análisis de la producción científica en español",
+    "authors": "Amor Pérez-Rodríguez, Águeda Delgado-Ponce y Noelia Margarita Moreno-Martínez",
+    "year": "2024",
+    "journal": "Ocnos 23(1)",
+    "doi": "10.18239/ocnos_2024.23.1.365",
+    "gancho": "¿Qué dice la ciencia sobre cómo las redes sociales están transformando la enseñanza de la literatura en el siglo XXI?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#2a9d8f",
+    "bg": "from-ocean-base/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-02.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-02.png",
+      "name": "Dra. Amor Pérez-Rodríguez",
+      "role": "Catedrática de Didáctica de la Lengua y la Literatura, Universidad de Huelva"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Amor Pérez-Rodríguez, especialista en educomunicación, multialfabetización y mediación literaria digital",
+      "gancho": "¿Es la relación entre literatura y pantallas una guerra a muerte o el matrimonio más fértil de la didáctica actual?",
+      "contexto": "Las redes sociales han dejado de ser meros canales recreativos para convertirse en los espacios preferentes donde las nuevas generaciones se relacionan con las historias, los autores y la creación cultural. En este estudio cienciométrico y sistemático, las investigadoras cartografiaron toda la producción científica en lengua española indexada en Web of Science, Scopus y Dialnet durante la última década sobre educación literaria y redes sociales.",
+      "deepDives": [
+        {
+          "id": "red-apertura-1",
+          "triggerLabel": "Evolución cienciométrica (2013-2023)",
+          "type": "data",
+          "content": "Análisis de 89 artículos científicos revisados por pares que abordan la didáctica literaria en plataformas digitales."
+        },
+        {
+          "id": "red-apertura-2",
+          "triggerLabel": "El paradigma de la educomunicación",
+          "type": "theory",
+          "content": "Fusión entre recepción crítica, creación activa de contenidos multimedia y socialización compartida de saberes."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Persiste una brecha entre las prácticas letradas vernáculas de los jóvenes en redes y las metodologías academicistas ancladas en el siglo XIX que aún reinan en muchos institutos.",
+      "porQueImporta": "Si la escuela no alfabetiza en el uso crítico y creativo de las redes sociales, entrega a los jóvenes a la manipulación algorítmica y la banalidad.",
+      "dataPoints": [
+        "Corpus de 89 investigaciones empíricas analizadas en profundidad.",
+        "Crecimiento exponencial de publicaciones a partir de 2019 (+140% tras el boom de BookTok e Instagram).",
+        "Plataformas más investigadas: YouTube (Booktubers, 38%), Instagram (Bookstagram, 27%) y TikTok (BookTok, 21%).",
+        "Déficit formativo: el 83% de los artículos denuncia que los profesores carecen de formación para integrar redes en la programación curricular."
+      ],
+      "glossary": [
+        {
+          "term": "Prácticas letradas vernáculas",
+          "definition": "Lecturas y escrituras cotidianas que los jóvenes practican de forma voluntaria y no reglada en sus comunidades digitales de interés."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Protocolo PRISMA y mapeo cienciométrico",
+      "narrativa": "Las autoras seleccionaron y cribaron exhaustivamente los estudios empíricos mediante criterios de inclusión estrictos, analizando autores, metodologías, redes y propuestas pedagógicas.",
+      "detalles": [
+        {
+          "label": "Bases de Datos",
+          "value": "WOS, Scopus, Dialnet Plus y SciELO."
+        },
+        {
+          "label": "Variables",
+          "value": "Etapa educativa, plataforma analizada, competencia clave y diseño metodológico."
+        }
+      ],
+      "limitaciones": [
+        "Enfoque limitado a la producción en lengua española."
+      ],
+      "reflexion": "No se trata de meter el móvil en la clase para hacer lo mismo de siempre, sino de reimaginar qué significa leer y compartir en comunidad."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: De consumidores pasivos a prosumidores literarios",
+      "narrativa": "La producción científica refleja un consenso rotundo:",
+      "hallazgos": [
+        {
+          "label": "1. El Salto al Prosumo",
+          "value": "Las investigaciones exitosas son aquellas donde los alumnos no solo miran vídeos, sino que graban booktrailers, escriben fanfiction o gestionan cuentas literarias de aula."
+        },
+        {
+          "label": "2. Urgencia de Formación Docente",
+          "value": "El principal cuello de botella no es el desinterés de los jóvenes, sino la inseguridad tecnológica y metodológica del profesorado."
+        }
+      ],
+      "dataPoints": [
+        "Más del 65% de los proyectos analizados se concentra en Educación Secundaria Obligatoria y Bachillerato."
+      ],
+      "reflexion": "Las redes sociales son las plazas públicas de nuestro siglo: si la literatura no sale a la plaza, se marchitará en los museos."
+    },
+    "marco": {
+      "titulo": "Discusión: Un currículo literario expandido y transmedia",
+      "narrativa": "Pérez-Rodríguez y su equipo reclaman planes de estudio universitarios actualizados:",
+      "detalles": [
+        {
+          "label": "Formación en Transalfabetización",
+          "value": "Capacitar a los futuros profesores de Lengua en narrativa transmedia y estética de las redes."
+        }
+      ],
+      "reflexion": "Enseñar literatura hoy es enseñar a navegar entre la solidez del papel y la fluidez del océano digital."
+    },
+    "nucleo": {
+      "pregunta": "¿Cuál es el estado actual de la producción científica en español sobre educación literaria y redes sociales?",
+      "conclusion": "La revisión sistemática de 89 investigaciones científicas evidencia una explosión de estudios sobre comunidades literarias digitales (YouTube, Instagram y TikTok) con un impacto pedagógico muy positivo cuando el alumnado asume el rol de prosumidor. Sin embargo, se constata una alarmante carencia de formación en el profesorado, lo que exige una actualización urgente de los planes formativos de Grado y Máster en Didáctica de la Lengua.",
+      "formalRef": "Pérez-Rodríguez, A., Delgado-Ponce, Á., & Moreno-Martínez, N. M. (2024). Educación literaria y redes sociales. Análisis de la producción científica en español. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.365"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es la principal barrera identificada en el 83 % de las investigaciones analizadas para integrar las redes sociales en la educación literaria escolar?",
+          "options": [
+            "Que los alumnos se niegan a usar el teléfono móvil.",
+            "La falta de formación didáctica y metodológica del profesorado para integrar las redes en sus programaciones curriculares.",
+            "El precio de internet en las escuelas.",
+            "Que las leyes educativas prohíben hablar de libros en internet."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué concepto define al lector que no solo consume contenidos culturales en redes sino que crea activamente reseñas, fanfictions y vídeos literarios?",
+          "options": [
+            "Espectador silencioso.",
+            "Prosumidor literario.",
+            "Copista analógico.",
+            "Navegante fantasma."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuáles fueron las tres redes sociales más investigadas en la producción científica analizada?",
+          "options": [
+            "LinkedIn, Tinder y Snapchat.",
+            "YouTube (Booktubers), Instagram (Bookstagram) y TikTok (BookTok).",
+            "Twitter, MySpace y Telegram.",
+            "Facebook exclusivamente."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña una propuesta de innovación pedagógica donde los alumnos de 4.º de ESO creen una cuenta de Instagram o TikTok temática para un personaje de una novela que estén leyendo en clase, publicando publicaciones en primera persona."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo responderías a un directivo escolar que afirma que 'las redes sociales son las enemigas juradas de la lectura y deben prohibirse en todos los colegios'?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al mapa de la ciencia: veamos cómo investigan las universidades el impacto de las redes en la lectura.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Los jóvenes leen y opinan en redes a diario, pero la escuela a veces parece vivir en otro siglo. ¿Dónde está la brecha?",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Analizamos 89 artículos científicos de WOS, Scopus y Dialnet bajo el estricto protocolo internacional PRISMA.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El prosumidor es la clave! Cuando el alumno crea contenidos (BookTok, BookTube), su competencia lectora y crítica se dispara.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Formemos a los docentes: la tecnología sin pedagogía no sirve de nada, pero la pedagogía sin conectar con el mundo real fracasa.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Hacer de la lectura un acto comunitario y participativo es la mejor forma de mantener vivo el amor a los libros.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver la red entre cienciometría, prosumidores, redes sociales, brecha formativa y educación literaria.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Ponte a prueba y formula ideas para transformar las redes sociales en un motor pedagógico de tu aula.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Educación Literaria y Redes Sociales en la Ciencia Española",
+    "descripcion": "Revisión sistemática PRISMA (89 papers): YouTube, Bookstagram, BookTok, prosumidores literarios y brecha en formación docente.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Educación Literaria en Redes",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "2",
+        "label": "Revisión Sistemática (PRISMA)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "3",
+        "label": "Corpus de 89 Artículos",
+        "color": "#264653"
+      },
+      {
+        "id": "4",
+        "label": "El Lector como Prosumidor",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Tríada (BookTube/Gram/Tok)",
+        "color": "#f4d068"
+      },
+      {
+        "id": "6",
+        "label": "Brecha en Formación Docente",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "7",
+        "label": "Prácticas Letradas Vernáculas",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "8",
+        "label": "Crecimiento Exponencial (2019+)",
+        "color": "#e76f51"
+      },
+      {
+        "id": "9",
+        "label": "Educomunicación Crítica",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "10",
+        "label": "Innovación Curricular Transmedia",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "cartografía la evolución de la"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "selecciona y analiza un"
+      },
+      {
+        "from": "3",
+        "to": "8",
+        "label": "constata un vertiginoso"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "sitúa como centro al"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "produce contenidos en la"
+      },
+      {
+        "from": "4",
+        "to": "7",
+        "label": "se apoya en las ricas"
+      },
+      {
+        "from": "3",
+        "to": "6",
+        "label": "denuncia un 83% de"
+      },
+      {
+        "from": "9",
+        "to": "1",
+        "label": "aporta el marco teórico de la"
+      },
+      {
+        "from": "10",
+        "to": "6",
+        "label": "surge como solución para superar la"
+      },
+      {
+        "from": "10",
+        "to": "4",
+        "label": "empodera en las aulas al"
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "id": "tdah_dislexia_lectura_escucha",
+  "metadata": {
+    "title": "Comprensión lectora y auditiva en la narrativa de estudiantes con TDAH comórbidos con dislexia",
+    "authors": "Pilar Vieiro-Iglesias y Mª Dolores González-Fernández",
+    "year": "2025",
+    "journal": "Ocnos 24(1)",
+    "doi": "10.18239/ocnos_2025.24.1.494",
+    "gancho": "¿Comprende mejor un niño con TDAH y dislexia cuando escucha un cuento que cuando lo lee con sus propios ojos?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#2a5a75",
+    "bg": "from-amber-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-29.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-29.png",
+      "name": "Dra. Pilar Vieiro-Iglesias",
+      "role": "Catedrática de Psicología Evolutiva y de la Educación, Universidade da Coruña"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Pilar Vieiro-Iglesias, especialista en comorbilidad neuroevolutiva y dificultades de aprendizaje",
+      "gancho": "¿Por qué obligar a leer en silencio a quien sufre una doble batalla cerebral: no poder frenar su atención y no poder decodificar las letras?",
+      "contexto": "La coexistencia de Trastorno por Déficit de Atención e Hiperactividad (TDAH) y Dislexia del Desarrollo representa uno de los cuadros clínicos más complejos en las aulas de Primaria y Secundaria. En este estudio experimental, las investigadoras evaluaron a estudiantes con esta doble condición comparando su rendimiento en comprensión narrativa bajo dos modalidades de presentación: lectura visual del texto vs. escucha auditiva del mismo relato.",
+      "deepDives": [
+        {
+          "id": "tdah-apertura-1",
+          "triggerLabel": "La comorbilidad TDAH + Dislexia",
+          "type": "theory",
+          "content": "Afecta a entre el 25% y el 40% de los niños diagnosticados con alguno de los dos trastornos, multiplicando el riesgo de fracaso escolar."
+        },
+        {
+          "id": "tdah-apertura-2",
+          "triggerLabel": "La hipótesis del 'cuello de botella' decodificador",
+          "type": "theory",
+          "content": "Al liberar al cerebro de la pesada carga de descifrar grafemas mediante el audio, los recursos atencionales quedan libres para tejer inferencias."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La escuela suele empeñarse en evaluar a estos alumnos mediante exámenes de lectura visual obligatoria, evaluando su decodificación en lugar de su verdadera capacidad intelectual.",
+      "porQueImporta": "Negar el acceso auditivo a los contenidos literarios condena a niños brillantes a creer que son incapaces de entender historias complejas.",
+      "dataPoints": [
+        "Muestra de estudiantes con diagnóstico clínico confirmado de comorbilidad TDAH + Dislexia.",
+        "Salto estadísticamente significativo a favor de la modalidad de escucha auditiva en preguntas inferenciales.",
+        "Mayor resistencia atencional y menos fatiga reportada en la condición de audio.",
+        "La lectura visual provocó pérdidas de la línea narrativa y abandono prematuro de la tarea en el 60% de los sujetos."
+      ],
+      "glossary": [
+        {
+          "term": "Comorbilidad neuroevolutiva",
+          "definition": "Presencia simultánea de dos trastornos del neurodesarrollo en una misma persona que interactúan agravando los síntomas."
+        },
+        {
+          "term": "Comprensión auditiva (Listening comprehension)",
+          "definition": "Proceso cognitivo de construcción de significado a partir del lenguaje oral sin mediación del código alfabético visual."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Diseño intra-sujeto contrabalanceado",
+      "narrativa": "Los estudiantes leyeron y escucharon textos narrativos equivalentes en extensión, dificultad sintáctica y vocabulario. Tras cada texto, respondieron preguntas literales e inferenciales.",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Experimental intra-sujeto con orden contrabalanceado (lectura vs. escucha)."
+        },
+        {
+          "label": "Población",
+          "value": "Estudiantes con doble diagnóstico clínico de TDAH y Dislexia."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "Textos narrativos calibrados con preguntas estandarizadas de comprensión."
+        }
+      ],
+      "limitaciones": [
+        "Muestra clínica específica que exige prudencia al extrapolar a alumnos con TDAH puro sin dislexia."
+      ],
+      "reflexion": "La inteligencia de un niño no se mide por la velocidad con la que sus ojos siguen una línea impresa."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El oído libera a la mente cautiva",
+      "narrativa": "Los resultados confirmaron la hipótesis de la liberación cognitiva:",
+      "hallazgos": [
+        {
+          "label": "1. Triunfo de la Modalidad Auditiva",
+          "value": "Los alumnos con TDAH+Dislexia rindieron significativamente mejor cuando escucharon el relato, duplicando sus aciertos en inferencias causales."
+        },
+        {
+          "label": "2. Mayor Estabilidad Atencional",
+          "value": "La prosodia humana del narrador auditivo actuó como una guía atencional externa que mantuvo al niño enfocado en la trama."
+        }
+      ],
+      "dataPoints": [
+        "Diferencia significativa (p < .01, eta cuadrado = .28) en la comprensión global a favor del formato auditivo."
+      ],
+      "reflexion": "El audiolibro no es una trampa: es una rampa de accesibilidad cognitiva que salva mentes."
+    },
+    "marco": {
+      "titulo": "Discusión: Adaptaciones metodológicas no significativas",
+      "narrativa": "Vieiro-Iglesias y González-Fernández reclaman la normalización de las tecnologías de apoyo:",
+      "detalles": [
+        {
+          "label": "Lectores de Pantalla y Audiolibros",
+          "value": "Permitir que los exámenes y lecturas escolares puedan ser escuchados con auriculares en el aula ordinaria."
+        }
+      ],
+      "reflexion": "Garantizar que un niño disléxico escuche sus libros es tan elemental como ponerle gafas a un niño miope."
+    },
+    "nucleo": {
+      "pregunta": "¿Influye el formato de presentación (lectura visual vs. escucha auditiva) en la comprensión de textos narrativos en estudiantes con comorbilidad TDAH y dislexia?",
+      "conclusion": "El estudio experimental demuestra de forma contundente que los estudiantes con comorbilidad TDAH y dislexia alcanzan niveles de comprensión narrativa significativamente más altos en la modalidad auditiva que en la lectura visual tradicional. La escucha elimina el cuello de botella decodificador y proporciona una guía prosódica externa, demostrando que los audiolibros y lectores de texto a voz son adaptaciones metodológicas urgentes para garantizar su éxito escolar.",
+      "formalRef": "Vieiro-Iglesias, P., & González-Fernández, M. D. (2025). Comprensión lectora y auditiva en la narrativa de estudiantes con TDAH comórbidos con dislexia. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.494"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué formato de presentación de textos narrativos produjo un rendimiento significativamente superior en los estudiantes con TDAH y dislexia comórbidos?",
+          "options": [
+            "La lectura visual obligatoria en papel sin ayuda.",
+            "La modalidad de escucha auditiva (narración oral / audiolibro).",
+            "Leer el texto al revés en un espejo.",
+            "Ambos formatos produjeron exactamente el mismo resultado pésimo."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué la escucha auditiva facilita tanto la comprensión inferencial en este grupo de alumnos?",
+          "options": [
+            "Porque los niños se van a dormir mientras escuchan.",
+            "Porque libera a la memoria de trabajo del sobreesfuerzo de decodificar grafemas y la prosodia oral guía el foco atencional.",
+            "Porque el texto auditivo tiene menos palabras.",
+            "Porque los profesores les dicen las respuestas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué medida de accesibilidad en el aula proponen las investigadoras como adaptación necesaria y de justicia para estos estudiantes?",
+          "options": [
+            "Expulsar a los alumnos de las clases de Lengua.",
+            "Permitir el uso habitual de audiolibros, lectores de pantalla con auriculares y evaluaciones orales de contenidos.",
+            "Obligarles a copiar 10 páginas diarias a mano.",
+            "Prohibir que usen tecnología en el colegio."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Imagina que en tu aula tienes a un estudiante diagnosticado con TDAH y dislexia severa. Diseña una adaptación de evaluación para un examen de historia o literatura que respete su potencial intelectual mediante el canal auditivo."
+        },
+        {
+          "type": "open",
+          "q": "Muchos profesores afirman todavía que 'escuchar un libro no es leer de verdad'. ¿Cómo refutarías esa idea basándote en la neurociencia cognitiva y los datos de este estudio?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al reto de la comorbilidad neuroevolutiva. ¿Qué pasa cuando el TDAH y la dislexia se juntan en el mismo niño?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Obligar a leer con los ojos a quien no puede decodificar es como pedirle a un miope sin gafas que lea un cartel lejano.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Comparamos experimentalmente la comprensión del mismo texto leído vs. escuchado en estudiantes con doble diagnóstico.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El oído es la salvación! Al escuchar, su comprensión inferencial se dispara: el problema no era su inteligencia, era el canal.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "¡Audiolibros en todas las aulas ya! El sonido es una rampa de accesibilidad cognitiva para la mente neurodiversa.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Comprender una historia es recrear mundos en la imaginación, no importa si entraron por los ojos o por los oídos.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo interactúan TDAH, dislexia, modalidad auditiva, decodificación y adaptaciones curriculares.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Consolida tu mirada pedagógica y diseña apoyos basados en la escucha para tus alumnos con dificultades lectoras.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: TDAH, Dislexia y Comprensión Auditiva vs. Lectora",
+    "descripcion": "Estudio experimental: comorbilidad neuroevolutiva, cuello de botella de la decodificación, prosodia como andamio y audiolibros inclusivos.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Comorbilidad TDAH + Dislexia",
+        "color": "#e76f51"
+      },
+      {
+        "id": "2",
+        "label": "Modalidad de Escucha Auditiva",
+        "color": "#88b04b"
+      },
+      {
+        "id": "3",
+        "label": "Modalidad de Lectura Visual",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "4",
+        "label": "Cuello de Botella Decodificador",
+        "color": "#264653"
+      },
+      {
+        "id": "5",
+        "label": "Liberación de Memoria de Trabajo",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "6",
+        "label": "Guía Prosódica Atencional",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "7",
+        "label": "Salto en Comprensión Inferencial",
+        "color": "#f4d068"
+      },
+      {
+        "id": "8",
+        "label": "Fatiga y Abandono en Lectura",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "9",
+        "label": "Tecnologías Texto-a-Voz / Audio",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "10",
+        "label": "Accesibilidad Cognitiva Escolar",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "3",
+        "label": "sufre severas barreras en la"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "provoca la asfixia por el"
+      },
+      {
+        "from": "4",
+        "to": "8",
+        "label": "desemboca en la prematura"
+      },
+      {
+        "from": "1",
+        "to": "2",
+        "label": "florece y rinde con éxito en la"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "consigue la inmediata"
+      },
+      {
+        "from": "2",
+        "to": "6",
+        "label": "se beneficia del soporte de la"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "permite un espectacular"
+      },
+      {
+        "from": "9",
+        "to": "2",
+        "label": "proporciona el acceso mediante"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "hace realidad los principios de la"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "garantiza la equidad y éxito en"
+      }
+    ]
+  }
+}

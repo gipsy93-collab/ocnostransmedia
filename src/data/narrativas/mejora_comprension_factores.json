@@ -1,0 +1,298 @@
+{
+  "id": "mejora_comprension_factores",
+  "metadata": {
+    "title": "Identificación de oportunidades de mejora de los niveles de comprensión lectora: factores y propuestas didácticas",
+    "authors": "María del Carmen Carceller-López, Carmen Romero-García y Raúl Cremades",
+    "year": "2025",
+    "journal": "Ocnos 24(2)",
+    "doi": "10.18239/Ocnos_2025.24.2.533",
+    "gancho": "¿Por qué fracasan los planes escolares de lectura si no diagnostican antes en qué punto exacto tropieza el estudiante?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#5b9eaa",
+    "bg": "from-ocean-base/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-15.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-15.png",
+      "name": "Dra. Carmen Romero-García",
+      "role": "Investigadora en Evaluación Educativa y Comprensión Lectora, Universidad de Málaga"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Carmen Romero-García, especialista en evaluación de la comprensión lectora y diseño instruccional",
+      "gancho": "¿Es la falta de comprensión culpa de los teléfonos móviles o de un modelo pedagógico que confunde evaluar con calificar?",
+      "contexto": "Los informes PIRLS y PISA alertan sobre el estancamiento de la competencia lectora. Muchas escuelas responden aplicando fichas estandarizadas de preguntas literales. En este estudio diagnóstico con 518 estudiantes andaluces de 5.º de Primaria a 2.º de ESO, los autores identificaron las variables críticas que frenan el avance lector y formularon propuestas didácticas transferibles.",
+      "deepDives": [
+        {
+          "id": "mcl-apertura-1",
+          "triggerLabel": "Tipología de errores inferenciales",
+          "type": "theory",
+          "content": "Inferencias puente (coherencia local) vs. inferencias globales (modelo de situación con saberes previos)."
+        },
+        {
+          "id": "mcl-apertura-2",
+          "triggerLabel": "Muestra de 518 escolares",
+          "type": "data",
+          "content": "518 alumnos evaluados con pruebas estandarizadas graduadas por tipología textual."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La escuela suele realizar pruebas que solo dicen 'aprobado o suspenso' sin desglosar si el fallo se debió a vocabulario, sintaxis o falta de inferencia.",
+      "porQueImporta": "Un diagnóstico ciego conduce a recetas didácticas ineficaces que frustran a docentes y estudiantes.",
+      "dataPoints": [
+        "Muestra de 518 estudiantes entre 10 y 14 años.",
+        "El 44% mostró dificultades severas en información no explícita.",
+        "La comprensión de textos discontinuos (gráficos, infografías) fue un 28% inferior a la narrativa.",
+        "Fuerte impacto del vocabulario previo del hogar en la resolución de inferencias globales."
+      ],
+      "glossary": [
+        {
+          "term": "Texto discontinuo",
+          "definition": "Estructura textual no organizada en párrafos continuos: gráficos, mapas, tablas e infografías."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Evaluación diagnóstica y triangulación pedagógica",
+      "narrativa": "Los autores aplicaron pruebas graduadas con textos narrativos, expositivos y discontinuos en centros de Andalucía.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "518 estudiantes de 5.º-6.º Primaria y 1.º-2.º ESO."
+        },
+        {
+          "label": "Textos",
+          "value": "Textos continuos (narrativo/científico) y discontinuos (infografías)."
+        }
+      ],
+      "limitaciones": [
+        "Muestra circunscrita a centros de Andalucía."
+      ],
+      "reflexion": "No se puede curar una dificultad si no se ausculta con precisión dónde sangra el significado."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El naufragio en el texto expositivo y discontinuo",
+      "narrativa": "Los datos revelaron puntos ciegos alarmantes en la competencia lectora escolar:",
+      "hallazgos": [
+        {
+          "label": "1. Espejismo Narrativo",
+          "value": "Los alumnos aprueban cuentos cotidianos pero colapsan ante textos de ciencias."
+        },
+        {
+          "label": "2. Analfabetismo en Infografías",
+          "value": "Más de la mitad no sabe integrar texto con la leyenda o ejes de un gráfico."
+        }
+      ],
+      "dataPoints": [
+        "Diferencia de acierto del 31% entre localización literal y evaluación crítica."
+      ],
+      "reflexion": "En el siglo XXI, saber leer es saber navegar en un mar de textos discontinuos y visuales."
+    },
+    "marco": {
+      "titulo": "Discusión: Propuestas didácticas para una intervención eficaz",
+      "narrativa": "Los autores proponen modelar en voz alta las inferencias y trabajar infografías en todas las disciplinas.",
+      "detalles": [
+        {
+          "label": "Modelado Docente Explícito",
+          "value": "'Pensar en voz alta' mostrando cómo el profesor deduce lo implícito."
+        }
+      ],
+      "reflexion": "La comprensión lectora no es una asignatura: es el aire que respira todo el aprendizaje."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué factores determinan las dificultades de comprensión en escolares de 10 a 14 años?",
+      "conclusion": "El diagnóstico sobre 518 estudiantes evidencia que las principales oportunidades de mejora residen en la comprensión de textos expositivos y discontinuos y en la realización de inferencias globales. Se propone la enseñanza explícita del modelado inferencial y el trabajo con infografías en todas las materias.",
+      "formalRef": "Carceller-López, M. C., Romero-García, C., & Cremades, R. (2025). Identificación de oportunidades de mejora de los niveles de comprensión lectora: factores y propuestas didácticas. Ocnos, 24(2). https://doi.org/10.18239/Ocnos_2025.24.2.533"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué formato textual presentó el mayor nivel de dificultad para los 518 estudiantes evaluados?",
+          "options": [
+            "Los cuentos de aventuras.",
+            "Los textos discontinuos (gráficos, tablas, infografías) y expositivos científicos.",
+            "Los cómics de humor.",
+            "Los mensajes de felicitación."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de inferencia resultó ser el mayor obstáculo para el 44 % del alumnado?",
+          "options": [
+            "Saber qué personaje habla.",
+            "La inferencia global que exige integrar ideas distantes con conocimientos previos.",
+            "Recordar el color del título.",
+            "Contar las páginas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál es la propuesta metodológica recomendada por los autores para enseñar a inferir?",
+          "options": [
+            "Hacer más exámenes sorpresa.",
+            "El modelado docente explícito ('pensar en voz alta' mostrando cómo deducir lo implícito).",
+            "Castigar a quienes no lean rápido.",
+            "Copiar el diccionario."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Elige una infografía y diseña 3 preguntas de comprensión graduadas: literal, inferencial y crítica."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo implementarías la técnica de 'pensar en voz alta' para enseñar a detectar ironías en un texto?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al diagnóstico pedagógico. Vamos a descubrir por qué tantos alumnos tropiezan en los exámenes de lectura.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "No basta con decir que 'los niños no comprenden'. Hay que desglosar en qué tipo de textos y preguntas fallan.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "518 alumnos evaluados con textos narrativos, científicos e infografías para mapear la brecha real.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El problema son las ciencias y los gráficos! El texto discontinuo es el gran agujero negro escolar.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Modelar en voz alta cómo inferir es la mejor técnica docente: enseñar a los alumnos a ver lo invisible en la página.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Comprender no es memorizar palabras: es tejer puentes de sentido entre lo que lees y lo que sabes.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para conectar las inferencias globales, los textos discontinuos, el modelado y la mejora didáctica.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y diseña estrategias para entrenar la lectura crítica e inferencial en tu aula.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Factores y Propuestas de Mejora en Comprensión Lectora",
+    "descripcion": "Estudio con 518 escolares: textos discontinuos, inferencias puente vs. globales, modelado 'pensar en voz alta' e intervención transversal.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Diagnóstico de Comprensión (518 alumnos)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "2",
+        "label": "Textos Discontinuos e Infografías",
+        "color": "#e76f51"
+      },
+      {
+        "id": "3",
+        "label": "Textos Expositivos Científicos",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "4",
+        "label": "Inferencias Globales",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Inferencias Puente (Coherencia Local)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "6",
+        "label": "Espejismo del Éxito Narrativo",
+        "color": "#f4d068"
+      },
+      {
+        "id": "7",
+        "label": "Modelado Docente ('Pensar en Voz Alta')",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "8",
+        "label": "Vocabulario Académico de Fondo",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "9",
+        "label": "Lectura Interdisciplinar",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Evaluación Formativa Analítica",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "identifica severo colapso en"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "evidencia gran dificultad ante"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "constata el obstáculo de las"
+      },
+      {
+        "from": "4",
+        "to": "8",
+        "label": "requiere para su éxito un rico"
+      },
+      {
+        "from": "6",
+        "to": "1",
+        "label": "enmascara la brecha en el"
+      },
+      {
+        "from": "7",
+        "to": "4",
+        "label": "enseña explícitamente a resolver las"
+      },
+      {
+        "from": "7",
+        "to": "5",
+        "label": "modela la construcción de"
+      },
+      {
+        "from": "9",
+        "to": "2",
+        "label": "integra en todas las asignaturas los"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "supera las notas globales mediante una"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "culmina en una sólida"
+      }
+    ]
+  }
+}

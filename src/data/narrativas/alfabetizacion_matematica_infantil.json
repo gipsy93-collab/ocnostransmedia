@@ -1,0 +1,302 @@
+{
+  "id": "alfabetizacion_matematica_infantil",
+  "metadata": {
+    "title": "Alfabetización inicial y conocimiento matemático. Confluencia de prácticas en Educación Infantil",
+    "authors": "Elena Ramírez-Orellana, Jorge Martín-Domínguez, Isabel Martínez-Álvarez y Sara Ramos-Pardo",
+    "year": "2024",
+    "journal": "Ocnos 23(2)",
+    "doi": "10.18239/ocnos_2024.23.2.437",
+    "gancho": "¿Es contar números tan parecido a leer letras que deberíamos enseñarlos juntos en la escuela infantil?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#88b04b",
+    "colorAlt": "#2a5a75",
+    "bg": "from-emerald-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-05.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-05.png",
+      "name": "Dra. Elena Ramírez-Orellana",
+      "role": "Investigadora en Didáctica de la Lengua y la Matemática Inicial, Universidad de Salamanca"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Elena Ramírez-Orellana, especialista en patrones de interacción y semiótica en Educación Infantil",
+      "gancho": "¿Por qué separamos en compartimentos estancos las letras de los números si en la mente de un niño de 4 años todo es significado simbólico?",
+      "contexto": "Históricamente, la escuela ha fragmentado el currículo: la hora de las letras y la hora de los números. Sin embargo, la alfabetización inicial y el sentido numérico emergente comparten las mismas bases cognitivas: el reconocimiento de patrones, la correspondencia simbólica y la argumentación oral. En este estudio observacional y microgenético en aulas de Educación Infantil en Castilla y León, los investigadores analizaron cómo convergen y se potencian mutuamente las prácticas lingüísticas y matemáticas en la asamblea y los rincones de juego.",
+      "deepDives": [
+        {
+          "id": "mat-apertura-1",
+          "triggerLabel": "La teoría de los registros semióticos (Duval)",
+          "type": "theory",
+          "content": "Aprender matemáticas exige transitar entre el lenguaje natural verbal, el código numérico y las representaciones icónicas y manipulativas."
+        },
+        {
+          "id": "mat-apertura-2",
+          "triggerLabel": "Metodología microgenética en aula",
+          "type": "data",
+          "content": "Grabación en vídeo y transcripción detallada de 120 sesiones de asamblea y rincones de trabajo en aulas de 3 a 5 años."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La insistencia tradicional en la grafomotricidad mecánica y las sumas sin contexto amputa la capacidad infantil de razonar y verbalizar hipótesis matemáticas.",
+      "porQueImporta": "Un niño que aprende a verbalizar el 'por qué' de un cálculo numérico desarrolla al mismo tiempo la comprensión lectora inferencial y el pensamiento lógico.",
+      "dataPoints": [
+        "Estudio etnográfico y de interacción discursiva en 8 aulas de Educación Infantil.",
+        "El 71% de las situaciones matemáticas ricas surgieron de la lectura compartida de cuentos y álbumes ilustrados.",
+        "El andamiaje docente mediante preguntas abiertas duplicó las justificaciones orales de los párvulos.",
+        "Confluencia natural en tareas de recuento de personajes, seriaciones temporales y clasificación léxica."
+      ],
+      "glossary": [
+        {
+          "term": "Alfabetización matemática emergente",
+          "definition": "Desarrollo informal del sentido numérico, la estimación y el razonamiento lógico antes de la instrucción formal del algoritmo."
+        },
+        {
+          "term": "Patrón de actividad en el aula",
+          "definition": "Estructura interactiva recurrente (ej. la asamblea matutina) donde docentes y alumnos construyen significados compartidos."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis del discurso y patrones interactivos en vídeo",
+      "narrativa": "Los autores filmaron las dinámicas de aula, transcribieron las interacciones verbales y no verbales y codificaron los turnos de habla entre maestras y niños.",
+      "detalles": [
+        {
+          "label": "Contexto",
+          "value": "Aulas de 3, 4 y 5 años en centros públicos de Salamanca."
+        },
+        {
+          "label": "Técnica",
+          "value": "Videograbación microgenética, análisis conversacional y categorización semiótica."
+        }
+      ],
+      "limitaciones": [
+        "Estudio cualitativo situado que requiere formación docente específica para replicar el análisis de interacción."
+      ],
+      "reflexion": "En el rincón de juegos, contar tres manzanas es al mismo tiempo hacer matemáticas y nombrar la vida."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Los cuentos son el mejor problema matemático",
+      "narrativa": "El registro de aula desveló conexiones mágicas entre cuentos y números:",
+      "hallazgos": [
+        {
+          "label": "1. El Álbum Ilustrado como Detonante Lógico",
+          "value": "Al leer 'Ricitos de Oro' o 'Los tres cerditos', los niños discuten de tamaños, cantidades, secuencias temporales y correspondencias uno a uno sin percibir que están 'haciendo mates'."
+        },
+        {
+          "label": "2. La Potencia de la Asamblea Matutina",
+          "value": "Pasar lista y contar cuántos niños han faltado hoy se reveló como la tarea letrada y numérica más rica del día."
+        }
+      ],
+      "dataPoints": [
+        "Incremento del 55% en el vocabulario matemático específico (más que, menos que, igual) en aulas con lectura dialógica interdisciplinar."
+      ],
+      "reflexion": "No hay ciencia sin lenguaje: las palabras son las que dan sentido a los números en la infancia."
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia un currículo infantil verdaderamente globalizado",
+      "narrativa": "Ramírez-Orellana y sus coautores reclaman desterrar las fichas fotocopiadas mecánicas:",
+      "detalles": [
+        {
+          "label": "Proyectos Globalizados de Aula",
+          "value": "Integrar literatura infantil, resolución de problemas cotidianos y experimentación sensorial en un solo flujo de aprendizaje."
+        }
+      ],
+      "reflexion": "En Educación Infantil no hay asignaturas: hay niños curiosos intentando descifrar el mundo entero."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo confluyen las prácticas de alfabetización inicial y conocimiento matemático en las dinámicas cotidianas de Educación Infantil?",
+      "conclusion": "La investigación microgenética en aulas de 3 a 5 años demuestra que la alfabetización inicial y el pensamiento matemático emergen de manera indisociable cuando se articulan a través de la mediación dialógica docente y la lectura de álbumes ilustrados. Superar la fragmentación curricular tradicional mediante la confluencia de prácticas en la asamblea y los rincones potencia simultáneamente el razonamiento lógico, el léxico abstracto y la comprensión lectora temprana.",
+      "formalRef": "Ramírez-Orellana, E., Martín-Domínguez, J., Martínez-Álvarez, I., & Ramos-Pardo, S. (2024). Alfabetización inicial y conocimiento matemático. Confluencia de prácticas en Educación Infantil. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.437"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué recurso literario cotidiano demostró generar más del 70 % de las situaciones matemáticas significativas en las aulas analizadas?",
+          "options": [
+            "Los libros de cuentas bancarias.",
+            "La lectura compartida de cuentos tradicionales y álbumes ilustrados que plantean secuencias, tamaños y relaciones de cantidad.",
+            "Los folletos de ofertas de juguetes.",
+            "Los carteles de precios de gasolineras."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué momento de la rutina de aula en Infantil se reveló como el espacio más rico para conectar la lista de nombres (letras) con el recuento y cálculo numérico?",
+          "options": [
+            "La hora de la siesta.",
+            "La asamblea matutina (pasar lista, contar presentes y ausentes, el calendario y el tiempo meteorológico).",
+            "La salida al autobús escolar.",
+            "El lavado de manos en silencio."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué impacto lingüístico constataron los autores en aulas donde se dialoga sobre problemas matemáticos en los cuentos?",
+          "options": [
+            "Que los niños dejan de hablar para siempre.",
+            "Un incremento del 55 % en el vocabulario matemático relacional ('más que', 'menos que', 'tantos como').",
+            "Que los niños solo aprenden a decir números en inglés.",
+            "Ningún cambio en el lenguaje."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Elige un cuento popular (como 'Los siete cabritillos' o 'Los tres cerditos') y diseña una dinámica de asamblea para niños de 4 años que combine preguntas de comprensión lectora con retos de conteo y comparación de cantidades."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que obligar a un niño de 4 años a rellenar fichas de sumas en papel le perjudica más que dejarle jugar a repartir frutas en el rincón de la cocinita?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "¡Bienvenidos a la asamblea de Infantil! Donde las palabras y los números bailan juntos en la alfombra.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Por qué separar las letras de los números en la escuela? En la mente de un niño de 4 años, todo es un juego de significados.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Grabamos y analizamos 120 sesiones en aulas de Salamanca para ver cómo las maestras tejen lenguaje y matemáticas.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Los cuentos son el mejor laboratorio matemático! Ricitos de Oro y los tres osos enseñan más lógica que cien fichas de sumas.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Desterremos las fichas mecánicas: la Educación Infantil debe ser un territorio de juego, diálogo y asombro globalizado.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Contar es una forma de nombrar el mundo; nombrar el mundo es el primer paso para amarlo y comprenderlo.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para conectar alfabetización inicial, matemáticas emergentes, álbum ilustrado y asamblea matutina.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y proyecta prácticas interdisciplinares de juego y diálogo para los más pequeños.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Alfabetización Inicial y Conocimiento Matemático en Infantil",
+    "descripcion": "Estudio microgenético en aulas de 3 a 5 años: confluencia semiótica, asamblea matutina, álbum ilustrado y superación de fichas mecánicas.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Confluencia Lengua y Matemáticas",
+        "color": "#88b04b"
+      },
+      {
+        "id": "2",
+        "label": "Alfabetización Inicial Emergente",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Sentido Numérico Infantil",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Álbum Ilustrado como Mediador",
+        "color": "#f4d068"
+      },
+      {
+        "id": "5",
+        "label": "Asamblea Matutina (Rutinas)",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "6",
+        "label": "Andamiaje Docente Dialógico",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "7",
+        "label": "Vocabulario Relacional (+55%)",
+        "color": "#e76f51"
+      },
+      {
+        "id": "8",
+        "label": "Crítica a las Fichas Mecánicas",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "9",
+        "label": "Registros Semióticos (Duval)",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Currículo Globalizado Infantil",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "entrelaza de forma armónica la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "potencia simultáneamente el"
+      },
+      {
+        "from": "4",
+        "to": "1",
+        "label": "detona en el 71% de los casos la"
+      },
+      {
+        "from": "5",
+        "to": "1",
+        "label": "es el escenario privilegiado de la"
+      },
+      {
+        "from": "6",
+        "to": "5",
+        "label": "guía las conversaciones en la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "consigue un aumento del"
+      },
+      {
+        "from": "8",
+        "to": "1",
+        "label": "obstaculiza y fragmenta la"
+      },
+      {
+        "from": "9",
+        "to": "1",
+        "label": "fundamenta teóricamente la"
+      },
+      {
+        "from": "10",
+        "to": "8",
+        "label": "sustituye y supera la rutina de"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "hace realidad en el colegio la"
+      }
+    ]
+  }
+}

@@ -19,48 +19,54 @@ export default function ConflictoBlock({ narrative, openDeepDives, toggleDeepDiv
 
   return (
     <motion.div key="conflicto" role="region" aria-label="El Problema"
-      initial={{ opacity: 0, x: 50 }}
+      initial={{ opacity: 0, x: 30 }}
       animate={{ opacity: 1, x: 0 }}
-      exit={{ opacity: 0, x: -50 }}
-      transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
-      className="max-w-7xl mx-auto px-6 py-12 md:py-20 flex flex-col justify-center min-h-full"
+      exit={{ opacity: 0, x: -30 }}
+      transition={{ duration: 0.4, ease: "easeOut" }}
+      className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 sm:py-10 md:py-14 flex flex-col justify-start min-h-full"
     >
-      <div className="grid lg:grid-cols-12 gap-12 lg:gap-16 items-start">
-        <div className="lg:col-span-7 space-y-8">
-          <h2 className="text-4xl md:text-5xl font-display font-bold text-ocean-dark flex items-center gap-4">
-            <Waves className="text-ocean-base" size={48} />
-            El Problema
+      <div className="grid lg:grid-cols-12 gap-8 lg:gap-14 items-start">
+        <div className="lg:col-span-7 space-y-6 sm:space-y-8">
+          <h2 className="text-2xl sm:text-4xl md:text-5xl font-display font-bold text-ocean-dark flex items-center gap-3 sm:gap-4">
+            <Waves className="text-ocean-base shrink-0" size={36} aria-hidden="true" />
+            <span>El Problema</span>
           </h2>
 
           <div className="prose prose-ocean max-w-none">
-            <p className="text-2xl font-bold text-ocean-dark/80 leading-relaxed">
+            <p className="text-lg sm:text-2xl font-bold text-ocean-dark/85 leading-relaxed">
               {conflicto.problema}
             </p>
           </div>
 
-          <div className="bg-coral/10 border-l-4 border-coral p-8 rounded-r-2xl">
-            <h4 className="text-sm font-black uppercase tracking-widest text-coral mb-4 flex items-center gap-2">
-              <Lightbulb size={18} /> ¿Por qué importa esto?
+          <div className="bg-coral/10 border-l-4 border-coral p-5 sm:p-7 md:p-8 rounded-r-2xl">
+            <h4 className="text-xs sm:text-sm font-black uppercase tracking-widest text-coral mb-3 sm:mb-4 flex items-center gap-2">
+              <Lightbulb size={18} aria-hidden="true" /> ¿Por qué importa esto?
             </h4>
-            <p className="text-lg font-bold text-ocean-dark/80 leading-relaxed">
+            <p className="text-base sm:text-lg font-bold text-ocean-dark/85 leading-relaxed">
               {conflicto.porQueImporta}
             </p>
           </div>
 
           {conflicto.contexto && (
-            <div className="bg-ocean-dark/5 p-8 rounded-[2rem] border border-ocean-dark/10">
-              <p className="text-lg font-medium text-ocean-dark/80 leading-relaxed">
+            <div className="bg-ocean-dark/5 p-5 sm:p-7 md:p-8 rounded-2xl sm:rounded-[2rem] border border-ocean-dark/10">
+              <p className="text-base sm:text-lg font-medium text-ocean-dark/85 leading-relaxed">
                 {conflicto.contexto}
               </p>
             </div>
           )}
 
-          <div className="flex gap-4 pt-8">
-            <button onClick={navigateBackward} className="btn-3d px-6 py-3 bg-ocean-dark/10 text-ocean-dark hover:bg-ocean-dark/20 transition-colors flex items-center gap-2">
-              <ChevronLeft size={18} /> ANTERIOR
+          <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 pt-4 sm:pt-6">
+            <button 
+              onClick={navigateBackward} 
+              className="btn-3d min-h-[48px] px-6 py-3 bg-ocean-dark/10 text-ocean-dark hover:bg-ocean-dark/20 transition-colors flex items-center justify-center gap-2 font-bold focus-visible:ring-4 focus-visible:ring-ocean-base focus-visible:outline-none cursor-pointer"
+            >
+              <ChevronLeft size={18} aria-hidden="true" /> ANTERIOR
             </button>
-            <button onClick={() => navigateTo('viaje')} className="btn-3d px-8 py-3 bg-coral text-white hover:bg-ocean-dark transition-colors flex items-center gap-2">
-              CONTINUAR <ArrowRight size={18} />
+            <button 
+              onClick={() => navigateTo('viaje')} 
+              className="btn-3d min-h-[48px] px-8 py-3 bg-coral text-white hover:bg-ocean-dark transition-colors flex items-center justify-center gap-2 font-bold focus-visible:ring-4 focus-visible:ring-ocean-base focus-visible:outline-none cursor-pointer"
+            >
+              CONTINUAR <ArrowRight size={18} aria-hidden="true" />
             </button>
           </div>
         </div>

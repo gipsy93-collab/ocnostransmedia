@@ -16,45 +16,46 @@ export default function AperturaBlock({ narrative, openDeepDives, toggleDeepDive
   if (!metadata || !apertura) return null;
 
   return (
-    <motion.div key="apertura" role="region" aria-label="Apertura"
-      initial={{ opacity: 0, x: 50 }}
+    <motion.div key="apertura" role="region" aria-label="Apertura de la investigación"
+      initial={{ opacity: 0, x: 30 }}
       animate={{ opacity: 1, x: 0 }}
-      exit={{ opacity: 0, x: -50 }}
-      transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
-      className="max-w-7xl mx-auto px-6 py-12 md:py-20 flex flex-col justify-center min-h-full"
+      exit={{ opacity: 0, x: -30 }}
+      transition={{ duration: 0.4, ease: "easeOut" }}
+      className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 sm:py-10 md:py-14 flex flex-col justify-start min-h-full"
     >
-      <div className="grid lg:grid-cols-12 gap-12 lg:gap-16 items-start">
-        <div className="lg:col-span-7 space-y-8">
-          <div className="flex items-center gap-3">
-            <span className="px-4 py-1.5 bg-seaweed/10 text-seaweed text-xs font-black uppercase tracking-widest rounded-full border border-seaweed/20">
+      <div className="grid lg:grid-cols-12 gap-8 lg:gap-14 items-start">
+        <div className="lg:col-span-7 space-y-6 sm:space-y-8">
+          <div className="flex items-center gap-2.5 sm:gap-3 flex-wrap">
+            <span className="px-3 sm:px-4 py-1.5 bg-seaweed/10 text-seaweed text-xs font-black uppercase tracking-widest rounded-full border border-seaweed/20">
               {metadata.journal}
             </span>
-            <span className="px-4 py-1.5 bg-coral/10 text-coral text-xs font-black uppercase tracking-widest rounded-full border border-coral/20">
+            <span className="px-3 sm:px-4 py-1.5 bg-coral/10 text-coral text-xs font-black uppercase tracking-widest rounded-full border border-coral/20">
               {metadata.year}
             </span>
           </div>
 
-          <h1 className="text-5xl md:text-7xl font-display font-bold text-ocean-dark leading-[1.1] tracking-tight">
+          <h1 className="text-3xl sm:text-5xl md:text-6xl font-display font-bold text-ocean-dark leading-tight tracking-tight break-words">
             {metadata.title}
           </h1>
 
-          <p className="text-xl md:text-2xl text-ocean-dark/60 font-medium italic">
+          <p className="text-base sm:text-xl md:text-2xl text-ocean-dark/70 font-medium italic">
             {metadata.authors}
           </p>
 
-          <div className="bg-ocean-light/10 p-8 rounded-[2rem] border border-white/50 shadow-sm">
-            <p className="text-xl text-ocean-dark font-bold leading-relaxed">
-              <Sparkles className="inline-block mr-3 text-sand" size={28} />
+          <div className="bg-ocean-light/10 p-5 sm:p-7 md:p-8 rounded-2xl sm:rounded-[2rem] border border-white/60 shadow-sm">
+            <p className="text-base sm:text-xl text-ocean-dark font-bold leading-relaxed">
+              <Sparkles className="inline-block mr-2.5 text-sand shrink-0" size={24} aria-hidden="true" />
               {metadata.gancho}
             </p>
           </div>
           
-          <div className="flex items-center gap-6 pt-8">
+          <div className="flex items-center gap-4 pt-4 sm:pt-6">
             <button
               onClick={() => navigateTo('conflicto')}
-              className="btn-3d px-10 py-4 bg-ocean-dark text-white hover:bg-coral transition-colors flex items-center gap-3 text-lg"
+              className="btn-3d min-h-[48px] px-8 py-3.5 bg-ocean-dark text-white hover:bg-coral transition-colors flex items-center justify-center gap-3 text-base sm:text-lg w-full sm:w-auto font-bold focus-visible:ring-4 focus-visible:ring-ocean-base focus-visible:outline-none cursor-pointer"
             >
-              INICIAR EXPLORACIÓN <ArrowRight size={20} />
+              <span>INICIAR EXPLORACIÓN</span>
+              <ArrowRight size={20} aria-hidden="true" />
             </button>
           </div>
         </div>

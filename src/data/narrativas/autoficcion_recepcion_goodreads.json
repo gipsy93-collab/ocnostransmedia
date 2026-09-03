@@ -1,0 +1,302 @@
+{
+  "id": "autoficcion_recepcion_goodreads",
+  "metadata": {
+    "title": "La autoficción en la práctica. Un estudio de recepción empírica",
+    "authors": "Álvaro Ceballos-Viro y Kristine Vanden-Berghe",
+    "year": "2024",
+    "journal": "Ocnos 23(2)",
+    "doi": "10.18239/ocnos2024.23.2.446",
+    "gancho": "¿Qué sienten los lectores cuando descubren que lo que creían una autobiografía desgarradora era en realidad una novela inventada?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#2a5a75",
+    "bg": "from-amber-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-07.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-07.png",
+      "name": "Dr. Álvaro Ceballos-Viro",
+      "role": "Investigador en Teoría de la Literatura y Recepción Empírica, Université de Liège (Bélgica)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Álvaro Ceballos-Viro, teórico de la autoficción y los pactos de lectura contemporáneos",
+      "gancho": "¿Dónde termina la verdad vivida y dónde empieza la mentira literaria?",
+      "contexto": "La autoficción (ese territorio ambiguo donde el autor comparte nombre con el protagonista pero la obra se etiqueta como novela) ha dominado la narrativa del siglo XXI (Carrère, Ernaux, Cercas, Vilas). La teoría literaria ha debatido durante décadas el 'pacto ambiguo' de Doubrovsky y Lejeune. Este estudio innovador analiza la recepción empírica real de los lectores analizando un corpus masivo de 1.250 reseñas en la red social Goodreads sobre novelas de autoficción en español y francés.",
+      "deepDives": [
+        {
+          "id": "aut-apertura-1",
+          "triggerLabel": "El pacto de lectura de Lejeune",
+          "type": "theory",
+          "content": "Pacto autobiográfico (identidad estricta autor=narrador=personaje bajo compromiso de verdad) vs. pacto novelesco (ficción declarada)."
+        },
+        {
+          "id": "aut-apertura-2",
+          "triggerLabel": "Corpus de 1.250 reseñas en Goodreads",
+          "type": "data",
+          "content": "Minería de texto y categorización de reacciones espontáneas de lectores legos de todo el mundo."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Los críticos literarios asumen que los lectores comprenden y disfrutan los juegos metaficcionales de la autoficción, ignorando la desconcertante indignación o fascinación que provocan en el público real.",
+      "porQueImporta": "Analizar la lectura en redes sociales desvela cómo los lectores contemporáneos negocian la verdad, la ética y el engaño en la cultura de la posverdad.",
+      "dataPoints": [
+        "Corpus de 1.250 reseñas en Goodreads en español y francés.",
+        "El 42% de los lectores juzga la obra como documento testimonial factual, buscando en Google la vida privada del autor.",
+        "Fuerte tensión ética: reseñas negativas fundamentadas en que 'el autor es un narcisista egoísta' en lugar de evaluar la técnica literaria.",
+        "Fascinación por el morbo biográfico como motor principal de enganche lector."
+      ],
+      "glossary": [
+        {
+          "term": "Autoficción",
+          "definition": "Género literario híbrido donde coinciden los nombres de autor, narrador y personaje principal en un marco narrativo que incorpora elementos ficcionales."
+        },
+        {
+          "term": "Recepción empírica",
+          "definition": "Metodología que investiga las interpretaciones y juicios de valor de lectores reales espontáneos en lugar de teorizar sobre el 'lector ideal'."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Minería de datos textuales y análisis cualitativo en Goodreads",
+      "narrativa": "Los autores recopilaron reseñas públicas de obras clave de la autoficción contemporánea, codificando las alusiones a la verdad, el género y la moral del autor.",
+      "detalles": [
+        {
+          "label": "Plataforma",
+          "value": "Goodreads (corpus de 1.250 comentarios analizados)."
+        },
+        {
+          "label": "Obras Muestra",
+          "value": "Obras de Emmanuel Carrère, Javier Cercas y Annie Ernaux."
+        }
+      ],
+      "limitaciones": [
+        "Comunidad de usuarios de Goodreads no representativa de toda la población lectora (sesgo digital y juvenil)."
+      ],
+      "reflexion": "En la era de Instagram, el lector lee las novelas como si fueran historias íntimas contadas en un directo de redes sociales."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El triunfo del voyeurismo y la trampa de la verdad",
+      "narrativa": "Los comentarios revelaron un choque brutal con la teoría canónica:",
+      "hallazgos": [
+        {
+          "label": "1. El Rechazo al Pacto Ficcional",
+          "value": "Casi la mitad de los lectores se siente 'engañada' si descubre que un pasaje dramático no le ocurrió exactamente así al autor en la vida real."
+        },
+        {
+          "label": "2. Juicio Moral sobre Juicio Estético",
+          "value": "Los lectores califican con 1 o 5 estrellas basándose en si el autor 'les cae bien como persona' tras confesar sus miserias íntimas."
+        }
+      ],
+      "dataPoints": [
+        "Menos del 15% de los comentarios de Goodreads analizó aspectos formales de prosa, estructura o estilo."
+      ],
+      "reflexion": "La autoficción triunfa no porque el público ame la teoría literaria, sino porque el público tiene hambre de intimidad humana real."
+    },
+    "marco": {
+      "titulo": "Discusión: La educación literaria en tiempos de autoficción",
+      "narrativa": "Ceballos-Viro y Vanden-Berghe instan a enseñar en las aulas a deslindar autor y personaje:",
+      "detalles": [
+        {
+          "label": "Desactivar la Mirada Policial",
+          "value": "Ayudar a los alumnos a no leer buscando 'si fue verdad', sino a entender cómo la ficción recrea el sentido de la experiencia."
+        }
+      ],
+      "reflexion": "Toda verdad en literatura necesita de la mentira del arte para volverse universal."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo reciben, interpretan y juzgan la autoficción los lectores reales en las plataformas de lectura social como Goodreads?",
+      "conclusion": "El estudio empírico de 1.250 reseñas en Goodreads constata que los lectores reales no adoptan el 'pacto ambiguo' de la teoría literaria, sino que leen la autoficción como autobiografía documental, juzgando moralmente la conducta privada del autor y buscando evidencias biográficas en la red. Estos hallazgos demuestran que la autoficción opera en la práctica como un fenómeno de fascinación testimonial y voyeurismo íntimo propio de la cultura digital contemporánea.",
+      "formalRef": "Ceballos-Viro, Á., & Vanden-Berghe, K. (2024). La autoficción en la práctica. Un estudio de recepción empírica. Ocnos, 23(2). https://doi.org/10.18239/ocnos2024.23.2.446"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cómo reacciona de forma mayoritaria el público de Goodreads al leer una novela de autoficción según el estudio?",
+          "options": [
+            "Analizando métricamente los versos.",
+            "Leyendo la obra como si fuera una autobiografía real y juzgando moralmente la vida personal del autor más que el estilo literario.",
+            "Negándose a calificar el libro.",
+            "Traduciendo el texto al latín."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de las 1.250 reseñas analizadas se centró en aspectos formales de prosa, estructura o técnica narrativa?",
+          "options": [
+            "El 100 % de los lectores.",
+            "Menos del 15 % de los comentarios.",
+            "Exactamente el 80 %.",
+            "La mitad exacta."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué autores emblemáticos de la autoficción contemporánea formaron parte del corpus de análisis del estudio?",
+          "options": [
+            "Homero y Virgilio.",
+            "Emmanuel Carrère, Javier Cercas y Annie Ernaux.",
+            "Agatha Christie y Conan Doyle.",
+            "Julio Verne y H.G. Wells."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Elige una obra contemporánea de autoficción (o un libro de memorias noveladas) y explica cómo plantearías a tus alumnos de Bachillerato el debate entre 'lo que ocurrió de verdad' y 'cómo el arte lo transforma para darle significado'."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que en la cultura de Instagram y TikTok los lectores sienten tanta fascinación por las historias donde el autor confiesa sus peores miserias y secretos íntimos?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al territorio donde la realidad y la mentira se dan la mano: la autoficción a juicio de sus lectores.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Es verdad lo que cuenta el libro o se lo ha inventado todo? Los lectores de Goodreads arden en debates éticos apasionados.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Analizamos 1.250 reseñas reales en internet sobre Carrère, Cercas y Annie Ernaux con herramientas de minería textual.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Sorpresa! A los lectores les importa poco la teoría: juzgan al autor como si fuera su vecino y buscan en Google si fue verdad.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Enseñemos en las aulas a no hacer de policías de la verdad: la literatura usa la máscara para decir lo indecible.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "En el fondo de toda gran novela autobiográfica hay una verdad más profunda que la mera copia de la realidad.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver la relación entre autoficción, Goodreads, pacto de lectura, morbo biográfico y juicio moral.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo que has aprendido y atrévete a reflexionar sobre la frontera entre verdad y ficción en la cultura actual.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Autoficción y Recepción Empírica en Redes de Lectura",
+    "descripcion": "Estudio de minería en 1.250 reseñas de Goodreads: pacto ambiguo vs. lectura factual, juicio moral del autor, voyeurismo digital y posverdad.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Autoficción Contemporánea",
+        "color": "#e76f51"
+      },
+      {
+        "id": "2",
+        "label": "Recepción Empírica en Goodreads",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Lectura Factual Testimonial (42%)",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "4",
+        "label": "Pacto Ambiguo (Doubrovsky)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "5",
+        "label": "Juicio Moral sobre el Autor",
+        "color": "#f4d068"
+      },
+      {
+        "id": "6",
+        "label": "Desinterés por lo Formal (15%)",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "7",
+        "label": "Morbo Biográfico y Voyeurismo",
+        "color": "#e88b8c"
+      },
+      {
+        "id": "8",
+        "label": "Cultura de la Confesión Digital",
+        "color": "#264653"
+      },
+      {
+        "id": "9",
+        "label": "Desmitificación de la Teoría",
+        "color": "#88b04b"
+      },
+      {
+        "id": "10",
+        "label": "Educación Literaria Crítica",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "investiga las reacciones ante la"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "constata el predominio de una"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "ignora o dinamita el teórico"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "evidencia la primacía del"
+      },
+      {
+        "from": "2",
+        "to": "6",
+        "label": "registra un generalizado"
+      },
+      {
+        "from": "7",
+        "to": "3",
+        "label": "alimenta y dispara la"
+      },
+      {
+        "from": "8",
+        "to": "7",
+        "label": "promueve en la sociedad el"
+      },
+      {
+        "from": "2",
+        "to": "9",
+        "label": "demuestra con datos la"
+      },
+      {
+        "from": "10",
+        "to": "3",
+        "label": "debe enseñar a desarmar la"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "fomenta una lectura estética de la"
+      }
+    ]
+  }
+}

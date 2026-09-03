@@ -1,0 +1,307 @@
+{
+  "id": "conciencia_fonologica_aula",
+  "metadata": {
+    "title": "Enseñanza de la conciencia fonológica en el aula para favorecer el aprendizaje de la lectura: una revisión",
+    "authors": "Mireia Pérez-Peitx, Alba Castells y Cristina Corcoll",
+    "year": "2025",
+    "journal": "Ocnos 24(2)",
+    "doi": "10.18239/Ocnos_2025.24.2.514",
+    "gancho": "¿Qué métodos de conciencia fonológica funcionan de verdad en el aula ordinaria y cuáles son una pérdida de tiempo?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#2a5a75",
+    "bg": "from-teal-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-12.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-12.png",
+      "name": "Dra. Mireia Pérez-Peitx",
+      "role": "Investigadora en Didáctica de la Lengua y Lectoescritura, Universitat Ramon Llull"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Mireia Pérez-Peitx, especialista en instrucción fonológica y aprendizaje de la lectura",
+      "gancho": "¿Es la conciencia fonológica una moda pedagógica o el andamiaje neurobiológico insustituible para aprender a leer?",
+      "contexto": "La evidencia de la 'Ciencia de la Lectura' señala que decodificar exige tomar conciencia de que las palabras orales están formadas por fonemas. Esta revisión sistemática analiza las intervenciones de aula más rigurosas para determinar la dosis, actividades y combinación con grafemas más eficaz en Infantil y 1.º de Primaria.",
+      "deepDives": [
+        {
+          "id": "cf-apertura-1",
+          "triggerLabel": "Niveles de conciencia fonológica",
+          "type": "theory",
+          "content": "Desde la conciencia rítmica y léxica, pasando por la silábica, hasta la conciencia fonémica pura."
+        },
+        {
+          "id": "cf-apertura-2",
+          "triggerLabel": "La conexión con las letras",
+          "type": "theory",
+          "content": "La instrucción fonológica combinada con la enseñanza explícita del grafema es el doble de eficaz que el entrenamiento puramente auditivo."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Muchos maestros dedican meses a rimas sin llegar al nivel fonémico, o enseñan letras descontextualizadas.",
+      "porQueImporta": "Una instrucción fonológica deficiente es la causa prevenible del 80% de las dificultades de decodificación en primaria.",
+      "dataPoints": [
+        "Revisión sistemática de intervenciones en aula ordinaria.",
+        "Eficacia máxima en sesiones breves: 15 a 20 minutos diarios durante 10 a 16 semanas.",
+        "El nivel de mayor impacto predictivo es la segmentación y mezcla de fonemas individuales.",
+        "La vinculación explícita con el código grafémico acelera la transferencia a la lectura real."
+      ],
+      "glossary": [
+        {
+          "term": "Conciencia fonémica",
+          "definition": "Habilidad de aislar, identificar, segmentar, omitir y combinar los fonemas individuales de las palabras."
+        },
+        {
+          "term": "Blending",
+          "definition": "Operación cognitiva de unir fonemas aislados (/s/ + /o/ + /l/) para pronunciar la palabra ('sol')."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Criterios de efectividad en la instrucción de aula",
+      "narrativa": "Las autoras sistematizaron estudios experimentales con grupo de control, evaluando decodificación, fluidez y ortografía.",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Revisión sistemática de literatura experimental de aula (WoS, Scopus, ERIC)."
+        },
+        {
+          "label": "Edades",
+          "value": "4 a 7 años (Educación Infantil y 1.º de Primaria)."
+        }
+      ],
+      "limitaciones": [
+        "Diferencias ortográficas entre lenguas transparentes y opacas."
+      ],
+      "reflexion": "La lectura no se aprende por ósmosis: el cerebro necesita instrucción explícita del código."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Qué funciona y qué sobra en la enseñanza fonológica",
+      "narrativa": "Los datos permiten establecer una guía de oro para el docente:",
+      "hallazgos": [
+        {
+          "label": "1. Foco en el Fonema",
+          "value": "Lo que verdaderamente enseña a leer es segmentar y fusionar fonemas individuales, no quedarse en la rima."
+        },
+        {
+          "label": "2. Letra y Sonido Juntos",
+          "value": "Usar letras móviles mientras se pronuncia el sonido duplica la retención frente al entrenamiento auditivo puro."
+        },
+        {
+          "label": "3. Pequeños Grupos",
+          "value": "Trabajar 15 minutos en grupos de 4 a 6 niños multiplica los beneficios."
+        }
+      ],
+      "dataPoints": [
+        "Tamaño de efecto medio (fonema + letra): d > 0.70 (alto).",
+        "Reducción del 60% en derivaciones a educación especial tras intervenciones tempranas."
+      ],
+      "reflexion": "Enseñar el código alfabético de forma explícita es un acto de justicia educativa."
+    },
+    "marco": {
+      "titulo": "Discusión: La reconciliación entre método fónico y placer lector",
+      "narrativa": "Pérez-Peitx, Castells y Corcoll desmontan falsas dicotomías metodológicas:",
+      "detalles": [
+        {
+          "label": "Ni Mecanicismo ni Ilusión Global",
+          "value": "La instrucción fónica rigurosa es la que libera la mente para gozar del significado literario."
+        }
+      ],
+      "reflexion": "Quien domina las llaves del código alfabético tiene abiertas las puertas de todas las bibliotecas."
+    },
+    "nucleo": {
+      "pregunta": "¿Cuáles son las características metodológicas más eficaces de la instrucción en conciencia fonológica en el aula?",
+      "conclusion": "La enseñanza de la conciencia fonológica en el aula ordinaria es más eficaz cuando se centra en la manipulación de fonemas, se vincula tempranamente con las letras y se imparte en sesiones breves (15-20 min diarios) en pequeños grupos.",
+      "formalRef": "Pérez-Peitx, M., Castells, A., & Corcoll, C. (2025). Enseñanza de la conciencia fonológica en el aula para favorecer el aprendizaje de la lectura: una revisión. Ocnos, 24(2). https://doi.org/10.18239/Ocnos_2025.24.2.514"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de tarea fonológica tiene el mayor impacto predictivo y directo en el aprendizaje de la lectura de palabras?",
+          "options": [
+            "Recitar poemas largos de memoria.",
+            "La segmentación y mezcla (blending) de fonemas individuales vinculados a sus grafemas.",
+            "Colorear dibujos que empiecen por la misma vocal.",
+            "Aprenderse el abecedario de carrerilla."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué formato de intervención demostró mayor eficacia en los estudios de aula analizados?",
+          "options": [
+            "Una clase magistral de 2 horas una vez al mes.",
+            "Sesiones breves y frecuentes (15-20 minutos diarios) en pequeños grupos guiados por el docente.",
+            "Dejar a los niños jugando libremente en el patio.",
+            "Copiar oraciones de la pizarra durante toda la jornada."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué es crucial conectar la conciencia fonológica con las letras (grafemas)?",
+          "options": [
+            "Porque los niños se cansan de escuchar sonidos sin ver nada.",
+            "Porque la integración multimodal auditivo-visual consolida el circuito neuronal y transfiere la habilidad a la decodificación real.",
+            "Porque las letras son obligatorias por ley.",
+            "Porque no existe ninguna diferencia entre ambos métodos."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña una actividad lúdica de 15 minutos para 5 niños de Infantil utilizando letras magnéticas para segmentar y fusionar palabras de 3 fonemas (ej. 'sol', 'pan')."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo explicarías a un docente que 'enseñar las correspondencias sonido-letra de forma sistemática es la base imprescindible para que el niño disfrute leyendo literatura'?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a la Ciencia de la Lectura. Vamos a mirar bajo el capó del cerebro para ver cómo se aprende a leer.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Rimas, sílabas o letras? La revisión sistemática nos aporta claridad meridiana frente a mitos pedagógicos.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Examinamos qué intervenciones de aula ordinaria tienen evidencia experimental sólida.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El fonema es la clave! 15 minutos al día de segmentar y fusionar con letras en la mano multiplica el éxito lector.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Basta de guerras metodológicas: la técnica fónica rigurosa es el mejor trampolín para amar la literatura.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Aprender a leer no es natural como aprender a hablar: exige un puente explícito entre el oído y la mirada.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver las relaciones entre la conciencia fonémica, el blending, las letras manipulables y el éxito lector.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Consolida tu saber didáctico y diseña rutinas fonológicas eficaces y divertidas para tus alumnos.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Instrucción Eficaz en Conciencia Fonológica en el Aula",
+    "descripcion": "Revisión de intervenciones de aula: conciencia fonémica, fusión (blending), integración con grafemas y sesiones breves multinivel.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Conciencia Fonológica en el Aula",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "2",
+        "label": "Conciencia Fonémica (Nivel Crítico)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Fusión de Fonemas (Blending)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Segmentación de Palabras",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Integración con Grafemas (Letras)",
+        "color": "#f4d068"
+      },
+      {
+        "id": "6",
+        "label": "Sesiones Breves (15-20 min diarios)",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "7",
+        "label": "Pequeños Grupos Homogéneos",
+        "color": "#e88b8c"
+      },
+      {
+        "id": "8",
+        "label": "Ciencia de la Lectura (SoR)",
+        "color": "#264653"
+      },
+      {
+        "id": "9",
+        "label": "Prevención del Fracaso Lector",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "10",
+        "label": "Automatización de la Decodificación",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "8",
+        "to": "1",
+        "label": "fundamenta con evidencia la"
+      },
+      {
+        "from": "1",
+        "to": "2",
+        "label": "alcanza máxima eficacia en la"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "exige el entrenamiento en"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "desarrolla la capacidad de"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "debe vincularse de inmediato con la"
+      },
+      {
+        "from": "1",
+        "to": "6",
+        "label": "requiere una estructura de"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se optimiza trabajando en"
+      },
+      {
+        "from": "5",
+        "to": "10",
+        "label": "conduce directamente a la"
+      },
+      {
+        "from": "10",
+        "to": "9",
+        "label": "asegura con éxito la"
+      },
+      {
+        "from": "9",
+        "to": "8",
+        "label": "confirma empíricamente la"
+      }
+    ]
+  }
+}

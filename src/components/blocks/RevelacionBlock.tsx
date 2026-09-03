@@ -23,7 +23,7 @@ export default function RevelacionBlock({ narrative, openDeepDives, toggleDeepDi
       animate={{ opacity: 1, x: 0 }}
       exit={{ opacity: 0, x: -50 }}
       transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
-      className="max-w-7xl mx-auto px-6 py-12 md:py-20 flex flex-col justify-center min-h-full"
+      className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 sm:py-10 md:py-14 flex flex-col justify-start min-h-full"
     >
       <div className="flex flex-col items-center max-w-4xl mx-auto w-full gap-10">
         <div className="w-full space-y-8">

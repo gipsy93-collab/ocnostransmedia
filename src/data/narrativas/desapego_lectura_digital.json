@@ -1,0 +1,302 @@
+{
+  "id": "desapego_lectura_digital",
+  "metadata": {
+    "title": "Hacia una ontología de factores de desapego en procesos de lectura digital en Educación Superior",
+    "authors": "Javier Merchán-Sánchez-Jara y Ludovica Mastrobattista",
+    "year": "2025",
+    "journal": "Ocnos 24(1)",
+    "doi": "10.18239/ocnos_2025.24.1.438",
+    "gancho": "¿Por qué abrir un PDF académico en el ordenador activa de inmediato el deseo compulsivo de mirar otra pestaña?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#e76f51",
+    "bg": "from-ocean-base/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-21.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-21.png",
+      "name": "Dr. Javier Merchán-Sánchez-Jara",
+      "role": "Investigador en Narrativa Digital y Ecología de Medios, Universidad de Salamanca"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Javier Merchán-Sánchez-Jara, especialista en interfaces cognitivas y lectura universitaria",
+      "gancho": "¿Hemos sustituido la lectura profunda por un picoteo superficial guiado por algoritmos de distracción?",
+      "contexto": "El consumo de textos académicos en pantallas ha generado un fenómeno generalizado en la universidad: el 'desapego lector' (reading disengagement). Los estudiantes leen de forma fragmentaria, rápida y discontinua. Este estudio propone una ontología exhaustiva de factores que causan este desapego en la Educación Superior, clasificando factores endógenos (cognitivos y afectivos) y exógenos (interfaz, hiperenlaces, notificaciones y fatiga visual).",
+      "deepDives": [
+        {
+          "id": "des-apertura-1",
+          "triggerLabel": "La ontología del desapego lector",
+          "type": "theory",
+          "content": "Modelo conceptual que mapea cómo las affordances del dispositivo digital erosionan el estado de inmersión y flujo (flow) lector."
+        },
+        {
+          "id": "des-apertura-2",
+          "triggerLabel": "Efecto Skimming compulsivo",
+          "type": "data",
+          "content": "Patrones de lectura en 'F' y salto continuo entre párrafos que reducen la retención de ideas abstractas complejas."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Las universidades digitalizaron bibliotecas y manuales asumiendo que leer en pantalla es idéntico a leer en papel, ignorando la sobrecarga cognitiva que imponen los interfaces modernos.",
+      "porQueImporta": "El desapego digital crónico destruye la capacidad de concentración sostenida y comprensión crítica en los futuros graduados.",
+      "dataPoints": [
+        "Estudio ontológico y cualitativo con estudiantes y docentes universitarios.",
+        "Identificación de 4 dimensiones de desapego: Atencional, Ergonómica, Emocional e Instrumental.",
+        "El 78% de los alumnos reconoce interrumpir la lectura digital en los primeros 7 minutos.",
+        "La presencia de hipervínculos activos reduce un 24% la memoria de trabajo dedicada al argumento textual."
+      ],
+      "glossary": [
+        {
+          "term": "Desapego lector (Disengagement)",
+          "definition": "Pérdida progresiva de conexión atencional y afectiva con el texto durante la sesión de lectura."
+        },
+        {
+          "term": "Lectura en barrido (Skimming)",
+          "definition": "Estrategia de lectura veloz y superficial donde la mirada busca palabras clave sin procesar la sintaxis profunda."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Modelado ontológico y paneles de expertos",
+      "narrativa": "Los autores aplicaron una metodología ontológica basada en diseño conceptual formal, validada mediante técnica Delphi con expertos internacionales en alfabetización digital.",
+      "detalles": [
+        {
+          "label": "Metodología",
+          "value": "Ingeniería ontológica, análisis cualitativo y panel Delphi."
+        },
+        {
+          "label": "Contexto",
+          "value": "Grados universitarios de Humanidades, Comunicación y Educación."
+        }
+      ],
+      "limitaciones": [
+        "Modelo conceptual que requiere validación experimental biométrica continua."
+      ],
+      "reflexion": "La pantalla no es un papel con luz: es un ecosistema interactivo que compite ferozmente por tu cerebro."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: La arquitectura de la distracción universitaria",
+      "narrativa": "La ontología desveló cómo interactúan los factores de desapego:",
+      "hallazgos": [
+        {
+          "label": "1. Fatiga de Elección Permanente",
+          "value": "Cada enlace, pestaña y botón obliga al cerebro a decidir si hace clic, agotando el control ejecutivo antes de llegar a la mitad del texto."
+        },
+        {
+          "label": "2. Ilusión de Velocidad",
+          "value": "Los universitarios creen que leen más rápido en pantalla, pero su retención y comprensión inferencial caen drásticamente."
+        }
+      ],
+      "dataPoints": [
+        "Matriz ontológica con más de 30 factores interconectados categorizados formalmente."
+      ],
+      "reflexion": "Recuperar la concentración en pantalla requiere una disciplina consciente de higiene digital."
+    },
+    "marco": {
+      "titulo": "Discusión: Rediseño pedagógico para la ecología digital",
+      "narrativa": "Merchán y Mastrobattista proponen soluciones de software y hábitos de lectura:",
+      "detalles": [
+        {
+          "label": "Modos de Lectura Limpia",
+          "value": "Eliminar barras laterales, notificaciones y fuentes desordenadas en plataformas académicas."
+        }
+      ],
+      "reflexion": "La tecnología debe diseñarse para servir al pensamiento profundo, no para secuestrar nuestra atención."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué factores determinan el desapego en los procesos de lectura digital en la Educación Superior?",
+      "conclusion": "La ontología formal desarrollada por los autores desglosa más de 30 factores de desapego clasificados en dimensiones atencionales, ergonómicas, instrumentales y emocionales. Demuestra que la lectura digital fragmentaria no es un mero defecto de voluntad del estudiante, sino el resultado del choque entre la arquitectura cognitiva humana y el diseño dispersivo de las interfaces digitales actuales.",
+      "formalRef": "Merchán-Sánchez-Jara, J., & Mastrobattista, L. (2025). Hacia una ontología de factores de desapego en procesos de lectura digital en Educación Superior. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.438"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué provoca en la memoria de trabajo la presencia continua de hipervínculos activos en un texto digital según el estudio?",
+          "options": [
+            "Un aumento exponencial de la felicidad.",
+            "Fatiga de elección y sobrecarga cognitiva, al obligar al cerebro a decidir constantemente si navega o sigue leyendo.",
+            "Que el lector lea a triple velocidad.",
+            "La memorización automática de todo el texto."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué cuatro dimensiones articula la ontología del desapego lector propuesta por los autores?",
+          "options": [
+            "Financiera, deportiva, meteorológica y culinaria.",
+            "Atencional, ergonómica, instrumental y emocional.",
+            "Únicamente el precio del ordenador.",
+            "La velocidad del wifi y la marca del teclado."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de estudiantes universitarios reconoció interrumpir la lectura digital en los primeros minutos?",
+          "options": [
+            "Menos del 2 %.",
+            "El 78 % de los alumnos.",
+            "Exactamente el 100 % en todos los segundos.",
+            "Ningún estudiante universitario."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Qué protocolo personal de 'higiene digital' recomendarías a un estudiante universitario que debe estudiar 50 páginas de un manual en PDF para evitar saltar a las redes sociales?"
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo deberían rediseñar las editoriales universitarias sus plataformas digitales de lectura para fomentar la inmersión profunda en lugar de la dispersión superficial?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a la ecología de las pantallas. Vamos a entender por qué tu cerebro salta de pestaña en pestaña al leer.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Es culpa tuya o de la interfaz? La ciencia demuestra que las pantallas están diseñadas para la dispersión.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Mapeamos más de 30 factores de desapego mediante ingeniería ontológica y paneles de expertos internacionales.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Fatiga de elección! Cada enlace activo es un peaje cognitivo que agota la mente antes de llegar al final.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Exijamos interfaces académicas limpias y aprendamos a blindar nuestro tiempo de lectura profunda.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Pensar despacio es el acto más revolucionario en un mundo acelerado por pantallas.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa conceptual interactivo para navegar por la ontología del desapego y la ecología digital.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Evalúa tus hábitos de lectura en pantalla y diseña estrategias para recuperar el foco sostenido.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Ontología de Factores de Desapego en Lectura Digital",
+    "descripcion": "Modelo ontológico para Educación Superior: factores atencionales, ergonómicos, hipervínculos, sobrecarga cognitiva y lectura profunda.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Desapego Lector Digital",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "2",
+        "label": "Ontología de Factores (30+)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "3",
+        "label": "Dimensión Atencional",
+        "color": "#e76f51"
+      },
+      {
+        "id": "4",
+        "label": "Dimensión Ergonómica y Fatiga",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Hipervínculos y Multitarea",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "6",
+        "label": "Lectura en Barrido (Skimming)",
+        "color": "#f4d068"
+      },
+      {
+        "id": "7",
+        "label": "Sobrecarga de la Memoria de Trabajo",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "8",
+        "label": "Erosión de la Inmersión (Flow)",
+        "color": "#264653"
+      },
+      {
+        "id": "9",
+        "label": "Diseño de Interfaces Limpias",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "10",
+        "label": "Educación Superior Crítica",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "clasifica y mapea las causas del"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se manifiesta con fuerza en la"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "se agrava debido a la"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "dispara de inmediato la"
+      },
+      {
+        "from": "7",
+        "to": "3",
+        "label": "provoca la dispersión en la"
+      },
+      {
+        "from": "3",
+        "to": "6",
+        "label": "degenera en una superficial"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "causa la total"
+      },
+      {
+        "from": "9",
+        "to": "5",
+        "label": "minimiza el impacto de los"
+      },
+      {
+        "from": "9",
+        "to": "8",
+        "label": "restaura las condiciones de"
+      },
+      {
+        "from": "10",
+        "to": "9",
+        "label": "debe exigir a las plataformas el"
+      }
+    ]
+  }
+}

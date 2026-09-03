@@ -1,0 +1,263 @@
+{
+  "id": "mediacion_vulnerable",
+  "metadata": {
+    "title": "Mediación lectora en familias vulnerables y desarrollo de habilidades prelectoras en párvulos",
+    "authors": "Fernanda-Carolina Cortés-Merino y María-Eugenia Soto-Muñoz",
+    "year": "2026",
+    "journal": "Ocnos 25(2)",
+    "doi": "10.18239/ocnos_2026.25.2.615",
+    "gancho": "¿Por qué las actividades del hogar que más disparan la capacidad lectora infantil son exactamente las que las familias vulnerables realizan con menor frecuencia?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#5b9eaa",
+    "colorAlt": "#2a5a75",
+    "bg": "from-sky-400/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-10.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-10.png",
+      "name": "Mg. Fernanda-Carolina Cortés-Merino",
+      "role": "Especialista en Alfabetización Temprana y Familia, Universidad Católica de la Santísima Concepción (Chile)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Mg. Fernanda-Carolina Cortés-Merino, educadora de párvulos e investigadora en alfabetización emergente",
+      "gancho": "¿Se aprende a leer en la escuela o en las rodillas de quienes nos cuentan un cuento antes de dormir?",
+      "contexto": "En la educación infantil chilena, donde el Índice de Vulnerabilidad Escolar (IVE) supera con frecuencia el 80% en los sectores populares, la brecha lectora no se abre en la primaria: comienza mucho antes de que el niño pise la escuela. La ciencia cognitiva ha demostrado que el éxito lector futuro descansa en tres pilares prelectores: la conciencia fonológica, la velocidad de denominación rápida (RAN) y el conocimiento de las letras del alfabeto. Pero estos cimientos no se construyen rellenando fichas escolares, sino mediante la mediación afectiva en el hogar. Esta investigación indaga en las casas de párvulos en contextos de alta vulnerabilidad para visibilizar una dolorosa encrucijada: las familias aman a sus hijos pero las rutinas que más aceleran su aprendizaje son precisamente las que menos tiempo y recursos tienen para realizar.",
+      "deepDives": [
+        {
+          "id": "med-apertura-1",
+          "triggerLabel": "¿Qué es la alfabetización emergente?",
+          "type": "theory",
+          "content": "Whitehurst y Lonigan (1998) definen la alfabetización emergente como las habilidades, conocimientos y actitudes precursoras de la lectura que el niño adquiere en su vida cotidiana antes de la instrucción formal: escuchar cuentos, cantar rimas, identificar rótulos en la calle y fingir que lee hojeando un libro."
+        },
+        {
+          "id": "med-apertura-2",
+          "triggerLabel": "Los tres predictores de la lectura formal (NELP)",
+          "type": "data",
+          "content": "El National Early Literacy Panel (2008) identificó tres predictores indispensables: (1) Conciencia Fonológica: habilidad para discriminar y manipular los sonidos del habla; (2) Velocidad de Denominación Rápida (RAN): velocidad de acceso léxico automatizado en la memoria; (3) Conocimiento del Alfabeto: reconocimiento visual y sonoro de las letras."
+        },
+        {
+          "id": "med-apertura-3",
+          "triggerLabel": "El Índice de Vulnerabilidad Escolar (IVE) en Chile",
+          "type": "data",
+          "content": "El IVE es un indicador multidimensional que mide el riesgo socioeducativo considerando ingresos del hogar, escolaridad materna, hacinamiento y acceso a servicios básicos, afectando al 80-90% de la matrícula en escuelas públicas periféricas."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Las familias de sectores vulnerables enfrentan barreras estructurales (jornadas laborales extenuantes, baja escolaridad parental y carencia de bibliotecas en casa) que reducen los momentos de interacción lectora compartida. La investigación se pregunta: ¿cuáles son las prácticas reales de mediación en estos hogares y cómo se relacionan estadísticamente con el desarrollo prelector de los párvulos?",
+      "porQueImporta": "Cuando un niño llega a primer año básico sin conciencia fonológica ni velocidad de denominación, la brecha de desigualdad se vuelve casi irreversible. La escuela no puede culpar a las familias vulnerables: debe diseñar políticas públicas de alfabetización familiar comunitaria que lleven libros y andamiajes a los hogares.",
+      "dataPoints": [
+        "Muestra de niños y familias en escuelas de alta vulnerabilidad socioeconómica (IVE > 80%) en Chile.",
+        "Evaluación directa a párvulos mediante la batería estandarizada ABCDeti (Soto et al., 2021).",
+        "Cuestionario de mediación lectora familiar estructurado en 15 prácticas cotidianas.",
+        "Análisis estadístico no paramétrico de correlación de Spearman en software Jamovi.",
+        "Ocho correlaciones positivas y estadísticamente significativas identificadas entre mediación y habilidades infantiles.",
+        "Paradoja detectada: la lectura compartida de cuentos correlaciona significativamente con la conciencia fonológica, pero el 65% de las familias reporta hacerla 'rara vez' o 'nunca'.",
+        "La exposición a canciones y rimas musicales mostró la asociación más fuerte con la velocidad de denominación rápida (RAN)."
+      ],
+      "glossary": [
+        {
+          "term": "Conciencia fonológica",
+          "definition": "Capacidad metalingüística que permite al niño reflexionar sobre los sonidos del lenguaje oral y manipularlos (rimas, sílabas y fonemas)."
+        },
+        {
+          "term": "Velocidad de denominación rápida (RAN)",
+          "definition": "Habilidad para nombrar visualmente y a gran velocidad una serie repetida de estímulos familiares (colores, objetos, letras o números), reflejando la automatización de los circuitos neurológicos de la lectura."
+        },
+        {
+          "term": "Batería ABCDeti",
+          "definition": "Instrumento estandarizado chileno que evalúa de forma lúdica las habilidades precursoras de la lectura en educación infantil."
+        },
+        {
+          "term": "Lectura dialógica compartida",
+          "definition": "Metodología donde el adulto no solo lee en voz alta, sino que formula preguntas abiertas, comenta ilustraciones y anima al niño a convertirse en narrador activo."
+        },
+        {
+          "term": "Alfabetización familiar (Family Literacy)",
+          "definition": "Enfoque socioeducativo que reconoce el hogar como el primer entorno alfabetizador y promueve interacciones culturales entre generaciones."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Evaluación de campo con ABCDeti y cuestionario familiar",
+      "narrativa": "Bajo un diseño cuantitativo, correlacional, transversal y no experimental, las investigadoras evaluaron tanto a los niños como a sus cuidadores principales. Los párvulos fueron evaluados individualmente en sus escuelas con la batería ABCDeti mediante tareas de reconocimiento de letras, segmentación silábica y denominación rápida de colores y figuras, mientras que los padres respondieron un cuestionario sobre frecuencia de prácticas mediadoras en escala Likert.",
+      "detalles": [
+        { "label": "Población", "value": "Párvulos de Kínder (5 a 6 años) y sus familias en colegios con IVE superior al 80% en la Región del Biobío, Chile." },
+        { "label": "Prueba a Niños", "value": "Batería ABCDeti (Soto et al., 2021): Conciencia fonológica, conocimiento del alfabeto y denominación rápida (RAN)." },
+        { "label": "Prueba a Familias", "value": "Cuestionario de Prácticas de Mediación Lectora Familiar validado por juicio de expertos." },
+        { "label": "Tratamiento de Datos", "value": "Software Jamovi: análisis descriptivo de frecuencias y coeficiente de correlación por rangos de Spearman (rho)." }
+      ],
+      "limitaciones": [
+        "Muestra focalizada en un territorio específico, lo que limita la extrapolación a familias rurales o de otros estratos socioeconómicos.",
+        "Uso de autoinforme familiar para la frecuencia de actividades, susceptible de sesgo de deseabilidad social.",
+        "Diseño transversal que establece correlaciones pero no experimentos longitudinales de causa-efecto."
+      ],
+      "reflexion": "Evaluar a los niños en su escuela y contrastarlo con lo que ocurre en sus casas permite tender puentes reales entre la pedagogía formal y la vida comunitaria."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: La brecha entre lo que importa y lo que se puede hacer",
+      "narrativa": "Los análisis en Jamovi revelaron un mapa de correlaciones revelador y una llamada de atención urgente para las políticas públicas:",
+      "hallazgos": [
+        {
+          "label": "1. Baja Frecuencia de Lectura en Casa",
+          "value": "La mayoría de los hogares reporta leer cuentos a sus hijos menos de una vez por semana o de forma excepcional. Las actividades predominantes son ver videos en el televisor o jugar con teléfonos móviles."
+        },
+        {
+          "label": "2. Cuentos y Conciencia Fonológica",
+          "value": "Se encontró una correlación positiva y estadísticamente significativa entre la lectura compartida de cuentos y el puntaje de conciencia fonológica de los párvulos. Quienes escuchan historias en casa segmentan palabras con mayor facilidad."
+        },
+        {
+          "label": "3. Canciones, Rimas y Velocidad de Denominación",
+          "value": "Cantar canciones infantiles y jugar con rimas en el hogar correlacionó intensamente con la velocidad de denominación rápida (RAN), demostrando que la musicalidad lingüística acelera los circuitos de acceso léxico."
+        },
+        {
+          "label": "4. La Paradoja de la Vulnerabilidad",
+          "value": "Las dos prácticas con mayor poder predictivo sobre el éxito lector (leer cuentos juntos y jugar con las letras) resultaron ser las menos practicadas por las familias debido a la falta de libros y a la fatiga laboral de los cuidadores."
+        }
+      ],
+      "dataPoints": [
+        "8 correlaciones bivariadas significativas encontradas entre prácticas de mediación y dimensiones de ABCDeti (p < .05).",
+        "La disponibilidad física de libros infantiles en el hogar apenas promedia entre 3 y 5 ejemplares por familia en los sectores evaluados.",
+        "El 70% de las madres encuestadas expresó que desearía leer más con sus hijos, pero la jornada laboral y las tareas del hogar les impiden hacerlo con regularidad."
+      ],
+      "reflexion": "No estamos ante familias que no quieran educar a sus hijos, sino ante familias atrapadas en la precariedad de tiempo. La solución no es juzgarlas, sino dotarlas de recursos."
+    },
+    "marco": {
+      "titulo": "Discusión: Justicia educativa desde la cuna y alfabetización comunitaria",
+      "narrativa": "Cortés-Merino y Soto-Muñoz debaten sus hallazgos a la luz de los modelos internacionales de alfabetización familiar:",
+      "detalles": [
+        {
+          "label": "El Capital Cultural en el Hogar",
+          "value": "Como advierte Bourdieu, la escuela suele premiar un capital cultural previo que da por sentado. En familias vulnerables, ese capital debe ser nutrido con bibliotecas de aula móviles que presten libros a las casas (Munita-Jordán, 2021)."
+        },
+        {
+          "label": "El Poder de la Oralidad Popular",
+          "value": "Cuando no hay libros impresos, la tradición oral —canciones de cuna, coplas, adivinanzas y relatos familiares— es un potente motor de conciencia fonológica que las escuelas deben legitimar pedagógicamente."
+        },
+        {
+          "label": "Capacitación en Mediación para Padres",
+          "value": "Muchas familias creen que mediar es solo leer de corrido. Talleres breves de 'lectura dialógica' (enseñar a hacer preguntas sobre las imágenes) triplican el impacto del cuento en el vocabulario infantil (Canfield et al., 2020)."
+        },
+        {
+          "label": "Políticas Públicas de Cuidado y Tiempo",
+          "value": "La lectura en la primera infancia es un asunto de justicia social y conciliación laboral: sin tiempo libre de calidad para los padres, no hay alfabetización emergente posible."
+        }
+      ],
+      "reflexion": "Un libro en las manos de una madre o un padre cansado por la noche es el acto de resistencia educativa más luminoso que existe."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo impacta la mediación lectora familiar en las habilidades prelectoras de párvulos en contextos vulnerables?",
+      "conclusion": "El estudio evidencia que las prácticas de mediación lectora en el hogar —particularmente la lectura compartida de cuentos y la exposición a canciones y rimas— guardan una correlación positiva y significativa con el desarrollo de habilidades prelectoras fundamentales como la conciencia fonológica y la velocidad de denominación rápida (RAN) en párvulos de escuelas vulnerables. Sin embargo, se constata una dolorosa paradoja: las actividades con mayor impacto cognitivo son precisamente las que las familias vulnerables realizan con menor frecuencia debido a la escasez de libros y a la precariedad del tiempo familiar. Para cerrar la brecha de desigualdad, las políticas educativas deben implementar programas de alfabetización familiar comunitaria, dotar de bibliotecas itinerantes a los hogares y capacitar a las familias en mediación afectiva no escolarizada.",
+      "formalRef": "Cortés-Merino, F. C., & Soto-Muñoz, M. E. (2026). Mediación lectora en familias vulnerables y desarrollo de habilidades prelectoras en párvulos. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.615"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "En el estudio de Cortés-Merino y Soto-Muñoz (2026), ¿con qué habilidad prelectora infantil correlacionó de forma más intensa la exposición a canciones y rimas musicales en el hogar?",
+          "options": [
+            "Con la caligrafía en cuaderno de doble línea.",
+            "Con la velocidad de denominación rápida (RAN).",
+            "Con la ortografía acentual.",
+            "Con la comprensión de textos científicos abstractos."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál es la 'paradoja de la mediación familiar' identificada en las escuelas con alto índice de vulnerabilidad?",
+          "options": [
+            "Que los niños que leen muchos cuentos obtienen peores notas en matemáticas.",
+            "Que las prácticas que más correlacionan con el éxito lector (leer cuentos y cantar rimas) son precisamente las que las familias vulnerables realizan con menor frecuencia.",
+            "Que las familias de altos ingresos nunca compran libros infantiles.",
+            "Que la prueba ABCDeti solo funciona en estudiantes universitarios."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuáles son los tres predictores clave del desarrollo lector temprano evaluados con la prueba ABCDeti?",
+          "options": [
+            "Conciencia fonológica, velocidad de denominación (RAN) y conocimiento del alfabeto.",
+            "Velocidad mecanográfica, uso de ratón y resolución de pantallas táctiles.",
+            "Gramática estructural, análisis sintáctico y métrica poética.",
+            "Lectura silenciosa, resumen textual y redacción de ensayos."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Muchos padres en contextos vulnerables señalan: 'Yo no sé leer bien, ¿cómo voy a ayudar a mi hijo?'. Desde el enfoque de la alfabetización emergente y la tradición oral, ¿qué estrategias pedagógicas les enseñarías para mediar sin necesidad de ser lectores expertos?"
+        },
+        {
+          "type": "open",
+          "q": "Si tuvieras la oportunidad de crear un programa de 'Bibliotecas Móviles Familiares' para una escuela pública con 85% de vulnerabilidad, ¿cómo diseñarías el préstamo y las actividades lúdicas para involucrar a los cuidadores?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Te doy la bienvenida. Hoy nos adentraremos en el corazón de los hogares populares para entender dónde nace realmente la capacidad de leer.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "La paradoja es estremecedora: lo que más ayuda a los niños a leer es justo lo que las familias menos pueden hacer por falta de tiempo y libros.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Aplicamos la prueba ABCDeti directamente a los pequeños y encuestamos a sus familias. Jamovi nos muestra correlaciones estadísticas muy claras.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Escucha esto! Cantar rimas y nanas acelera la velocidad de denominación, y leer cuentos construye la conciencia de los sonidos en el cerebro infantil.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "No podemos pedirle a una familia que trabaje 12 horas al día y luego exigirle una biblioteca de lujo. La escuela debe salir al barrio y compartir sus libros.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La alfabetización emergente es un derecho social. Cuidar a las familias es la primera política de fomento lector.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora los nodos interactivos para comprender la conexión entre vulnerabilidad, conciencia fonológica, música y bibliotecas móviles.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Pon a prueba tus conocimientos y diseña propuestas de mediación comunitaria para transformar la realidad de los más pequeños.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Mediación Lectora Familiar y Alfabetización Emergente",
+    "descripcion": "Relaciones entre el contexto socioeconómico vulnerable, las prácticas de lectura compartida en el hogar y los predictores cognitivos del aprendizaje lector.",
+    "nodos": [
+      { "id": "1", "label": "Alfabetización Emergente", "color": "#5b9eaa" },
+      { "id": "2", "label": "Mediación Lectora Familiar", "color": "#2a5a75" },
+      { "id": "3", "label": "Vulnerabilidad Escolar (IVE > 80%)", "color": "#e76f51" },
+      { "id": "4", "label": "Conciencia Fonológica", "color": "#88b04b" },
+      { "id": "5", "label": "Velocidad de Denominación (RAN)", "color": "#f4d068" },
+      { "id": "6", "label": "Conocimiento del Alfabeto", "color": "#9b82c3" },
+      { "id": "7", "label": "Lectura Compartida de Cuentos", "color": "#e88b8c" },
+      { "id": "8", "label": "Música, Rimas y Canciones", "color": "#2a9d8f" },
+      { "id": "9", "label": "La Paradoja de la Frecuencia", "color": "#f4a261" },
+      { "id": "10", "label": "Bibliotecas Familiares Comunitarias", "color": "#264653" }
+    ],
+    "aristas": [
+      { "from": "2", "to": "1", "label": "constituye el pilar de la" },
+      { "from": "3", "to": "9", "label": "provoca directamente la" },
+      { "from": "7", "to": "4", "label": "potencia fuertemente la" },
+      { "from": "8", "to": "5", "label": "acelera de forma clave la" },
+      { "from": "1", "to": "6", "label": "facilita el dominio del" },
+      { "from": "9", "to": "7", "label": "reduce al mínimo la" },
+      { "from": "10", "to": "3", "label": "mitiga las barreras de la" },
+      { "from": "10", "to": "7", "label": "garantiza el acceso a la" },
+      { "from": "4", "to": "6", "label": "se articula con el" },
+      { "from": "2", "to": "8", "label": "incorpora la tradición oral de" }
+    ]
+  }
+}

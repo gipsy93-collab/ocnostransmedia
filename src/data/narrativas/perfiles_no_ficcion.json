@@ -1,0 +1,258 @@
+{
+  "id": "perfiles_no_ficcion",
+  "metadata": {
+    "title": "Perfiles lectores no ficcionales: un estudio con estudiantes de Educación Primaria",
+    "authors": "Salvador Gutiérrez-Molero, Hugo Heredia-Ponce y Manuel-Francisco Romero-Oliva",
+    "year": "2026",
+    "journal": "Ocnos 25(2)",
+    "doi": "10.18239/ocnos_2026.25.2.646",
+    "gancho": "¿Es verdad que a los niños ya no les gusta leer, o es que la escuela solo les ofrece historias de ficción cuando muchos preferirían explorar el universo real?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#2a5a75",
+    "bg": "from-purple-400/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-13.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-13.png",
+      "name": "Dr. Hugo Heredia-Ponce",
+      "role": "Investigador en Hábitos Lectores y Didáctica de la Literatura, Universidad de Cádiz (España)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Hugo Heredia-Ponce, especialista en sociología de la lectura y perfiles lectores",
+      "gancho": "¿Por qué asumimos que todos los niños de 11 años quieren leer novelas de fantasía o aventuras, ignorando a quienes vibran con los volcanes, el Antiguo Egipto o la robótica?",
+      "contexto": "El final de la Educación Primaria (6.º curso, 11-12 años) es una etapa crítica: las investigaciones documentan una brusca caída en el hábito lector conocida como el 'bache de la secundaria'. Con frecuencia, los docentes atribuyen esta desconexión a las pantallas o a la desidia juvenil. Sin embargo, ¿se han preguntado si la causa real es la homogeneidad del canon escolar? El currículo tradicional ha privilegiado casi con exclusividad la narrativa de ficción, desatendiendo a aquellos estudiantes cuya curiosidad intelectual se enciende con el mundo tangible. Este estudio con 160 estudiantes en la provincia de Cádiz aplica técnicas avanzadas de minería de datos para descubrir tres perfiles lectores frente al libro ilustrado de no ficción.",
+      "deepDives": [
+        {
+          "id": "perf-apertura-1",
+          "triggerLabel": "¿Qué es un 'perfil lector' multidimensional?",
+          "type": "theory",
+          "content": "Un perfil lector no se reduce a contar cuántos libros lee un niño al mes. Analiza la interacción entre motivación intrínseca vs. extrínseca, hábitos familiares, actitudes emocionales hacia el libro y preferencias de formato (papel, digital, cómic o álbum)."
+        },
+        {
+          "id": "perf-apertura-2",
+          "triggerLabel": "El potencial inclusivo de la no ficción en Primaria",
+          "type": "theory",
+          "content": "Investigaciones internacionales señalan que muchos 'lectores reticentes' —especialmente varones o estudiantes con dificultades de abstracción literaria— encuentran en el libro ilustrado informativo una puerta de entrada al disfrute lector gracias a la combinación de datos reales, esquemas visuales e infografías."
+        },
+        {
+          "id": "perf-apertura-3",
+          "triggerLabel": "La transición hacia la Secundaria",
+          "type": "data",
+          "content": "En 6.º de Primaria se consolida la identidad lectora autónoma. Identificar a tiempo los intereses temáticos del alumnado previene el abandono lector antes de ingresar al instituto."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La escuela suele tratar al grupo de alumnos como si compartieran una única sensibilidad lectora, imponiendo las mismas lecturas ficcionales obligatorias a toda la clase. Se desconoce empíricamente cómo se distribuyen las preferencias hacia la no ficción en el final de la primaria, qué factores predicen la afinidad hacia estos libros y si existen brechas de género o motivación que la didáctica deba atender.",
+      "porQueImporta": "Obligar a leer a quien detesta la ficción sin ofrecerle alternativas informativas o científicas equivale a empujarlo hacia el analfabetismo funcional por elección. Reconocer la diversidad de perfiles lectores es una condición elemental de equidad educativa.",
+      "dataPoints": [
+        "Muestra de 160 estudiantes de 6.º curso de Educación Primaria (11-12 años) en seis centros educativos de la provincia de Cádiz.",
+        "Metodología cuantitativa no experimental transversal con cuestionario validado psicométricamente.",
+        "Análisis estadístico multivariante avanzado: análisis de clúster (K-medias), correspondencias múltiples, árboles de decisión (CHAID) y Chi-cuadrado.",
+        "Identificación de 3 perfiles diferenciados respecto a la recepción del libro ilustrado de no ficción.",
+        "El 'interés lector previo' y la curiosidad epistémica resultaron ser los predictores más potentes del perfil.",
+        "Preferencia mayoritaria por el formato en papel de gran tamaño frente a pantallas para la lectura de álbumes informativos.",
+        "Diferencias significativas por género: mayor afinidad espontánea hacia temas biográficos y naturaleza en niñas, y tecnología y cosmos en niños, pero alta convergencia en álbumes visuales interactivos."
+      ],
+      "glossary": [
+        {
+          "term": "Análisis de clúster (K-medias)",
+          "definition": "Técnica estadística multivariante que agrupa a los sujetos en conglomerados homogéneos en función de sus similitudes en un conjunto de variables analizadas."
+        },
+        {
+          "term": "Curiosidad epistémica",
+          "definition": "Deseo intrínseco de adquirir conocimientos y resolver lagunas intelectuales sobre el funcionamiento del mundo físico y cultural."
+        },
+        {
+          "term": "Árboles de decisión (CHAID)",
+          "definition": "Algoritmo predictivo que divide recursivamente a la muestra en subgrupos basados en variables independientes para predecir una conducta o perfil lector."
+        },
+        {
+          "term": "Lector reticente",
+          "definition": "Estudiante con capacidad cognitiva para decodificar textos pero que experimenta desmotivación o aversión hacia las lecturas escolares impuestas."
+        },
+        {
+          "term": "Canon escolar diversificado",
+          "definition": "Propuesta curricular que equilibra literatura de ficción, poesía, cómic y libros ilustrados informativos adaptándose a los intereses del alumnado."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Minería de datos y árboles de decisión en 6.º de Primaria",
+      "narrativa": "Los investigadores de la Universidad de Cádiz administraron un cuestionario estructurado a 160 escolares de seis colegios (públicos y concertados) de Cádiz. El instrumento evaluó variables sociodemográficas, hábitos en el hogar, motivación de lectura y actitudes concretas ante el libro ilustrado de no ficción. La base de datos fue procesada mediante análisis de conglomerados y árboles de clasificación para determinar qué factores predicen con exactitud la pertenencia a cada perfil.",
+      "detalles": [
+        { "label": "Muestra", "value": "160 estudiantes de 6.º de Primaria (edad media 11.4 años; 51% niñas, 49% niños)." },
+        { "label": "Centros", "value": "6 colegios urbanos y semiurbanos de la provincia de Cádiz con tipologías socioculturales diversas." },
+        { "label": "Instrumento", "value": "Cuestionario de Hábitos y Preferencias Lectoras No Ficcionales validado por juicio de expertos y análisis factorial." },
+        { "label": "Tratamiento Estadístico", "value": "SPSS: Clúster K-means, árboles de decisión con validación cruzada y test Chi-cuadrado de independencia (p < .05)." }
+      ],
+      "limitaciones": [
+        "Muestra de 160 estudiantes acotada a una provincia española específica, requiriendo réplicas en otras comunidades autónomas.",
+        "Uso de encuesta cuantitativa, recomendable de complementar con grupos focales cualitativos donde los niños manipulen directamente los álbumes."
+      ],
+      "reflexion": "Aplicar algoritmos estadísticos avanzados al estudio de la lectura escolar permite derribar prejuicios docentes y ver con precisión matemática lo que los niños demandan en las aulas."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Los tres perfiles y el rescate del lector reticente",
+      "narrativa": "El análisis estadístico clasificó a los 160 escolares en tres perfiles lectores bien diferenciados ante los libros ilustrados de no ficción:",
+      "hallazgos": [
+        {
+          "label": "1. Perfil Ávido / Afín (34% de la muestra)",
+          "value": "Lectores habituales con alta motivación intrínseca. Leen tanto ficción como no ficción por placer, valoran el rigor de los datos, aprecian el diseño visual y buscan temas históricos, científicos y biografías inspiradoras."
+        },
+        {
+          "label": "2. Perfil Ocasional / Curioso (45% de la muestra)",
+          "value": "El grupo mayoritario. Leen esporádicamente cuando un tema les apasiona (dinosaurios, inventos, naturaleza extrema). Su lectura depende fuertemente del atractivo visual y de la recomendación entusiasta del docente."
+        },
+        {
+          "label": "3. Perfil Reticente / Desconectado (21% de la muestra)",
+          "value": "Alumnos que afirman que 'no les gusta leer' en la escuela. Rechazan las novelas obligatorias, pero ante un libro ilustrado de no ficción interactivo (con solapas, mapas o infografías) muestran interés activo y curiosidad por hojearlo."
+        }
+      ],
+      "dataPoints": [
+        "El árbol de decisión determinó que la variable 'Interés previo por aprender cosas nuevas' explica el 68% de la probabilidad de pertenecer al perfil afín.",
+        "El 82% de los alumnos de todos los perfiles prefirió el formato libro impreso de gran formato frente a pantallas para leer no ficción.",
+        "El grupo de 'lectores reticentes' mostró un incremento de actitud positiva del 40% cuando se les presentó un álbum informativo en lugar de un libro de texto estándar."
+      ],
+      "reflexion": "La revelación más hermosa del estudio es que muchos niños calificados de 'malos lectores' no rechazan la lectura: rechazan el aburrimiento. Cuando les das un libro sobre el fondo del mar con ilustraciones prodigiosas, vuelven a leer."
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia una ecología de la lectura en Primaria",
+      "narrativa": "Gutiérrez-Molero, Heredia-Ponce y Romero-Oliva debaten las implicaciones didácticas para la escuela contemporánea:",
+      "detalles": [
+        {
+          "label": "Diversificar el Plan Lector Escolar",
+          "value": "El plan lector no puede ser un menú único de cuentos moralizantes. Debe incorporar biografías ilustradas, tratados botánicos, historias del arte y crónicas de expediciones (Santos-Díaz et al., 2024)."
+        },
+        {
+          "label": "La No Ficción como Puente Inclusivo",
+          "value": "Para los estudiantes con TDAH, dislexia o dificultades de comprensión narrativa prolongada, las cápsulas informativas y la riqueza visual del LINF permiten lecturas no lineales sumamente gratificantes."
+        },
+        {
+          "label": "El Papel de la Pregunta Mediadora",
+          "value": "El perfil 'Curioso' necesita mediación: docentes que conecten el libro de no ficción con retos reales del aula: proyectos STEAM, debates ecológicos e indagación científica."
+        },
+        {
+          "label": "Respetar la Materialidad del Papel",
+          "value": "En un mundo saturado de pantallas, los niños valoran el tacto, las texturas y el gran formato del libro físico. La escuela debe ser el oasis del libro impreso de calidad."
+        }
+      ],
+      "reflexion": "Cada niño tiene una puerta secreta hacia los libros. Para algunos es un poema; para otros, un mapa estelar o la autopsia ilustrada de un escarabajo. La misión de la escuela es tener abiertas todas las puertas."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué perfiles lectores emergen en 6.º de Primaria frente al libro ilustrado de no ficción y cómo impactan en la didáctica escolar?",
+      "conclusion": "El estudio cuantitativo con 160 estudiantes de 6.º de Primaria demuestra la existencia de tres perfiles lectores diferenciados frente al libro ilustrado de no ficción: Ávido/Afín (34%), Ocasional/Curioso (45%) y Reticente/Desconectado (21%). El interés epistémico por aprender y la motivación intrínseca resultan ser los predictores determinantes de la afinidad lectora. Lejos de la visión homogénea tradicional, los resultados evidencian que el libro de no ficción actúa como un potente puente inclusivo para reconectar a los lectores reticentes desmotivados por la ficción escolar impuesta, demostrando la necesidad urgente de diversificar los planes lectores de Educación Primaria con obras científicas, históricas y visuales de alta calidad en papel.",
+      "formalRef": "Gutiérrez-Molero, S., Heredia-Ponce, H., & Romero-Oliva, M. F. (2026). Perfiles lectores no ficcionales. Un estudio con estudiantes de 6.º de Educación Primaria. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.646"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de la muestra de 6.º de Primaria se ubicó en el perfil 'Ocasional / Curioso', convirtiéndose en el grupo mayoritario que requiere mediación activa?",
+          "options": [
+            "El 10 %",
+            "El 45 %",
+            "El 85 %",
+            "Menos del 5 %"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "Según los árboles de decisión (CHAID) del estudio, ¿cuál fue la variable más potente para predecir si un alumno pertenece al perfil afín a los libros informativos?",
+          "options": [
+            "La nota obtenida en el examen de gramática.",
+            "El interés previo y la curiosidad epistémica por aprender cosas nuevas sobre el mundo.",
+            "El número de horas diarias dedicadas a videojuegos de consola.",
+            "El salario mensual de los tutores legales."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué hallazgo sorprendente arrojó el estudio respecto al perfil de 'lectores reticentes' (desmotivados por la lectura escolar)?",
+          "options": [
+            "Que no saben pronunciar consonantes.",
+            "Que muestran una respuesta muy positiva y curiosidad espontánea cuando se les acerca un libro ilustrado de no ficción visual e interactivo en lugar de una novela obligatoria.",
+            "Que rompieron los libros durante la aplicación del cuestionario.",
+            "Que solo aceptan leer textos en latín clásico."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Imagina que tienes en tu aula a un alumno de 11 años que rechaza categóricamente las novelas juveniles pero siente fascinación por la astronomía o la ingeniería. ¿Qué 2 libros o estrategias no ficcionales utilizarías para encender su hábito lector sin obligarlo a un control de lectura tradicional?"
+        },
+        {
+          "type": "open",
+          "q": "El estudio subraya que el 82% del alumnado prefiere el libro informativo impreso en gran formato frente a las pantallas. ¿Cómo defenderías el presupuesto de compra de libros físicos para la biblioteca de aula frente a directivos que prefieren invertir solo en licencias digitales?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido. Nos situamos en el final de la primaria: un momento decisivo donde muchos niños abandonan los libros para siempre.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Por qué obligar a todos los niños a leer la misma novela de fantasía? La curiosidad por la realidad es infinita y está desaprovechada.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Evaluamos a 160 estudiantes de Cádiz con modelos de clúster y árboles de decisión. La estadística revela perfiles que los ojos docentes suelen pasar por alto.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El hallazgo es esperanzador! Los chicos que decían 'odiar leer' recuperan el entusiasmo cuando descubren un libro ilustrado de divulgación científica.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La diversidad de lecturas es justicia escolar. Un plan lector democrático debe abrir espacio a los volcanes, el arte y las expediciones.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "No hay niños que no quieran leer: hay niños que aún no han tenido en sus manos el libro que despierte su curiosidad.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para conectar los 3 perfiles lectores, la curiosidad epistémica, los formatos en papel y la diversificación del canon.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Ponte a prueba y reflexiona sobre cómo construirías un rincón lector donde ningún perfil quede excluido.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Perfiles Lectores No Ficcionales en Educación Primaria",
+    "descripcion": "Segmentación de perfiles lectores, predictores epistémicos, formatos editoriales y estrategias de inclusión a través del libro ilustrado de no ficción.",
+    "nodos": [
+      { "id": "1", "label": "Perfiles Lectores en 6.º Primaria", "color": "#9b82c3" },
+      { "id": "2", "label": "Perfil Ávido / Afín (34%)", "color": "#2a5a75" },
+      { "id": "3", "label": "Perfil Ocasional / Curioso (45%)", "color": "#f4d068" },
+      { "id": "4", "label": "Perfil Reticente / Desconectado (21%)", "color": "#e76f51" },
+      { "id": "5", "label": "Curiosidad Epistémica", "color": "#88b04b" },
+      { "id": "6", "label": "Libro Ilustrado de No Ficción (LINF)", "color": "#2a9d8f" },
+      { "id": "7", "label": "Preferencia por el Papel de Gran Formato", "color": "#5b9eaa" },
+      { "id": "8", "label": "Canon Escolar Homogéneo", "color": "#e88b8c" },
+      { "id": "9", "label": "Mediación Docente Activa", "color": "#264653" },
+      { "id": "10", "label": "Inclusión y Equidad Lectora", "color": "#f4a261" }
+    ],
+    "aristas": [
+      { "from": "1", "to": "2", "label": "se clasifica en" },
+      { "from": "1", "to": "3", "label": "se clasifica en" },
+      { "from": "1", "to": "4", "label": "se clasifica en" },
+      { "from": "5", "to": "2", "label": "predice con fuerza el" },
+      { "from": "8", "to": "4", "label": "provoca el desinterés del" },
+      { "from": "6", "to": "4", "label": "rescata y reconecta al" },
+      { "from": "6", "to": "7", "label": "alcanza máximo atractivo en" },
+      { "from": "9", "to": "3", "label": "guía e incentiva al" },
+      { "from": "6", "to": "10", "label": "garantiza la" },
+      { "from": "10", "to": "8", "label": "rompe y diversifica el" }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "id": "inclusion_discapacidad_lectura",
+  "metadata": {
+    "title": "Lectura, desarrollo socioemocional e inclusión en adultos con discapacidad",
+    "authors": "Susana Sánchez-Herrero, Cristina Yanes-Cabrera y Raquel-Amaya Martínez-González",
+    "year": "2025",
+    "journal": "Ocnos 24(2)",
+    "doi": "10.18239/Ocnos_2025.24.2.532",
+    "gancho": "¿Puede un club de lectura fácil transformar la autoestima y abrir las puertas de la comunidad a adultos con discapacidad intelectual?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#88b04b",
+    "colorAlt": "#2a5a75",
+    "bg": "from-emerald-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-14.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-14.png",
+      "name": "Dra. Susana Sánchez-Herrero",
+      "role": "Investigadora en Educación Inclusiva y Lectura Fácil, Universidad de Oviedo"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Susana Sánchez-Herrero, especialista en accesibilidad cognitiva y clubes de lectura inclusiva",
+      "gancho": "¿Por qué asumimos que quien no domina la lectura académica no tiene derecho a disfrutar de una buena novela?",
+      "contexto": "Las personas adultas con discapacidad intelectual han sido históricamente excluidas de las bibliotecas. El movimiento de 'Lectura Fácil' adapta textos para hacerlos comprensibles sin infantilizarlos. Este estudio etnográfico evaluó el impacto socioemocional de clubes de Lectura Fácil en 42 adultos en Asturias.",
+      "deepDives": [
+        {
+          "id": "inc-apertura-1",
+          "triggerLabel": "¿Qué es la Lectura Fácil (LF)?",
+          "type": "theory",
+          "content": "Directrices europeas de accesibilidad cognitiva: oraciones simples, diseño diáfano e ilustraciones de apoyo."
+        },
+        {
+          "id": "inc-apertura-2",
+          "triggerLabel": "Clubes participativos",
+          "type": "data",
+          "content": "Sesiones semanales en bibliotecas públicas guiadas por mediadores formados."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La infantilización sistemática suele relegar a los adultos con discapacidad a tareas mecánicas, privándolos de experiencias literarias deliberativas.",
+      "porQueImporta": "La lectura es una llave de ciudadanía y autodeterminación reconocida por la Convención de la ONU.",
+      "dataPoints": [
+        "Muestra de 42 adultos con discapacidad intelectual en Asturias.",
+        "Incremento notable en autopercepción de competencia y bienestar emocional.",
+        "Ampliación de redes sociales de apoyo fuera del centro ocupacional."
+      ],
+      "glossary": [
+        {
+          "term": "Accesibilidad cognitiva",
+          "definition": "Característica de los textos y entornos que permite su fácil comprensión a todas las personas."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Etnografía participativa y grupos focales",
+      "narrativa": "Las investigadoras combinaron observación participante, entrevistas semiestructuradas y diarios de campo durante un curso escolar completo en bibliotecas municipales.",
+      "detalles": [
+        {
+          "label": "Participantes",
+          "value": "42 adultos (18 a 60 años) en bibliotecas públicas de Asturias."
+        }
+      ],
+      "limitaciones": [
+        "Estudio cualitativo circunscrito al Principado de Asturias."
+      ],
+      "reflexion": "La biblioteca pública cumple su misión más noble cuando acoge a quienes solían estar en los márgenes."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: De la timidez a la voz propia",
+      "narrativa": "Los testimonios de los lectores mostraron un salto cualitativo vital:",
+      "hallazgos": [
+        {
+          "label": "1. Empoderamiento",
+          "value": "El orgullo de tener carné de biblioteca y decir 'yo leo' transformó su autoconcepto."
+        },
+        {
+          "label": "2. Expresión Afectiva",
+          "value": "Debatir sobre los personajes les permitió expresar duelos y deseos íntimos."
+        }
+      ],
+      "dataPoints": [
+        "El 95% de los participantes deseaba continuar en el club el curso siguiente."
+      ],
+      "reflexion": "Leer juntos no es solo descifrar letras: es mirarse a los ojos y sentirse ciudadano."
+    },
+    "marco": {
+      "titulo": "Discusión: La cultura accesible como derecho humano",
+      "narrativa": "Es indispensable ampliar el catálogo editorial en Lectura Fácil y formar a bibliotecarios en mediación inclusiva.",
+      "detalles": [
+        {
+          "label": "Catálogo en Lectura Fácil",
+          "value": "Adaptar clásicos y novedades para adultos sin caer en tonos infantiles."
+        }
+      ],
+      "reflexion": "Una biblioteca accesible no tiene barreras en la puerta ni en las páginas."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué beneficios aporta la participación en clubes de Lectura Fácil a adultos con discapacidad intelectual?",
+      "conclusion": "La investigación etnográfica con 42 adultos demuestra que los clubes de Lectura Fácil en bibliotecas públicas mejoran significativamente el autoconcepto, la regulación emocional y las habilidades dialógicas, promoviendo una inclusión comunitaria real.",
+      "formalRef": "Sánchez-Herrero, S., Yanes-Cabrera, C., & Martínez-González, R. A. (2025). Lectura, desarrollo socioemocional e inclusión en adultos con discapacidad. Ocnos, 24(2). https://doi.org/10.18239/Ocnos_2025.24.2.532"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué caracteriza a los materiales de 'Lectura Fácil' utilizados en el estudio?",
+          "options": [
+            "Textos en letra diminuta.",
+            "Adaptación del lenguaje y diseño para garantizar accesibilidad cognitiva sin infantilizar la temática.",
+            "Libros que solo contienen dibujos sin letras.",
+            "Folletos de supermercado."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué impacto socioemocional sobresaliente reportaron los participantes?",
+          "options": [
+            "Mayor autoeficacia, orgullo lector y capacidad de expresar emociones en debates compartidos.",
+            "Aumento del aislamiento social.",
+            "Desinterés absoluto por la cultura.",
+            "Pérdida de amigos."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Dónde se desarrollaron preferentemente las sesiones para fomentar la inclusión?",
+          "options": [
+            "En sótanos de residencias.",
+            "En las salas ordinarias de las bibliotecas públicas municipales.",
+            "En despachos médicos.",
+            "Por correo postal."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Qué pautas de acogida aplicarías en un club de lectura fácil para evitar actitudes paternalistas?"
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué tener carné de biblioteca tiene un valor simbólico tan poderoso de ciudadanía y dignidad?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a un espacio de dignidad. La lectura es un derecho de todos, sin importar la capacidad cognitiva.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Basta de infantilizar a los adultos con discapacidad: la Lectura Fácil les abre el mundo de las historias.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Acompañamos a 42 lectores en Asturias en sus sesiones semanales en la biblioteca pública.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El florecimiento es real! La lectura compartida desata la voz, la autoestima y la amistad verdadera.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La accesibilidad cognitiva es un derecho humano consagrado por Naciones Unidas.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Una sociedad justa se mide por cómo acoge a los más vulnerables: abramos los libros a todas las mentes.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para conectar Lectura Fácil, inclusión comunitaria, bienestar emocional y bibliotecas públicas.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Evalúa tus conocimientos y atrévete a proyectar clubes de lectura accesibles en tu entorno.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Lectura Fácil, Desarrollo Socioemocional e Inclusión",
+    "descripcion": "Etnografía con 42 adultos: accesibilidad cognitiva, mediación dialógica, bibliotecas públicas y empoderamiento ciudadano.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Clubes de Lectura Inclusiva",
+        "color": "#88b04b"
+      },
+      {
+        "id": "2",
+        "label": "Lectura Fácil (LF)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Adultos con Discapacidad",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Accesibilidad Cognitiva",
+        "color": "#f4d068"
+      },
+      {
+        "id": "5",
+        "label": "Bienestar Socioemocional",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "6",
+        "label": "Autoeficacia y Orgullo Lector",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "7",
+        "label": "Superación de la Infantilización",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "8",
+        "label": "Biblioteca Pública Comunitaria",
+        "color": "#264653"
+      },
+      {
+        "id": "9",
+        "label": "Convención de la ONU (Derechos)",
+        "color": "#e76f51"
+      },
+      {
+        "id": "10",
+        "label": "Ciudadanía y Autodeterminación",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "proporciona los materiales de"
+      },
+      {
+        "from": "4",
+        "to": "2",
+        "label": "garantiza los estándares de"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "acoge y empodera a los"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "promueve de forma directa el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "consolida en los usuarios la"
+      },
+      {
+        "from": "1",
+        "to": "7",
+        "label": "combate y desmantela la"
+      },
+      {
+        "from": "1",
+        "to": "8",
+        "label": "se desarrolla físicamente en la"
+      },
+      {
+        "from": "9",
+        "to": "4",
+        "label": "reconoce como derecho cívico la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "constituye un espacio para la"
+      },
+      {
+        "from": "10",
+        "to": "3",
+        "label": "asegura la plena inclusión de los"
+      }
+    ]
+  }
+}

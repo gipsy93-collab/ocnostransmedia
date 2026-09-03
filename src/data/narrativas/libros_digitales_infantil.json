@@ -1,0 +1,312 @@
+{
+  "id": "libros_digitales_infantil",
+  "metadata": {
+    "title": "Libros digitales, mediación adulta, lenguaje y alfabetización emergente: una revisión de la literatura",
+    "authors": "Pamela Urra y Susana Mendive",
+    "year": "2026",
+    "journal": "Ocnos 25(1)",
+    "doi": "10.18239/ocnos_2026.25.1.576",
+    "gancho": "¿Ayudan los efectos animados y sonoros de los cuentos interactivos a que los niños aprendan más palabras o son solo distractores ruidosos?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#5b9eaa",
+    "colorAlt": "#2a5a75",
+    "bg": "from-sky-500/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-4.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-4.png",
+      "name": "Dra. Pamela Urra",
+      "role": "Investigadora en Alfabetización Temprana y Recursos Digitales, Pontificia Universidad Católica de Chile"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Pamela Urra, especialista en lectura compartida y tecnologías para la primera infancia",
+      "gancho": "¿Puede una tableta táctil sustituir el regazo materno a la hora de contar un cuento antes de dormir?",
+      "contexto": "La proliferación de 'libros-app' para niños en tabletas y móviles ha generado acalorados debates entre pediatras y educadores. Esta revisión de 32 estudios internacionales indexados en WoS y Scopus evalúa el papel de los 'enriquecimientos digitales' y la mediación adulta en el desarrollo del vocabulario y la alfabetización emergente.",
+      "deepDives": [
+        {
+          "id": "ldig-apertura-1",
+          "triggerLabel": "¿Qué es un 'enriquecimiento digital congruente'?",
+          "type": "theory",
+          "content": "Son interactividades alineadas con la trama del cuento (tocar un animal para escuchar su sonido o ver la definición de una palabra)."
+        },
+        {
+          "id": "ldig-apertura-2",
+          "triggerLabel": "El input interactivo del adulto",
+          "type": "theory",
+          "content": "La calidad de las preguntas y comentarios que el cuidador formula determina si el libro digital es educativo o mero pasatiempo pasivo."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La mayoría de las familias entregan las tabletas a los niños sin acompañamiento o utilizan libros digitales mal diseñados que saturan la memoria de trabajo. Se requería sistematizar qué tipo de libros potencian el lenguaje y qué formación necesitan los padres.",
+      "porQueImporta": "Satanizar las pantallas no ayuda a las familias. La ciencia debe indicar cómo elegir software de calidad y convertir la lectura digital en diálogo y afecto.",
+      "dataPoints": [
+        "Revisión de 32 estudios de la última década (WoS y Scopus) en primera infancia.",
+        "Ligera superioridad de los libros digitales enriquecidos sobre los impresos en vocabulario cuando existe mediación adulta.",
+        "Mayor interactividad del input adulto con animaciones congruentes.",
+        "Carencia crítica: la mayoría de los estudios descuidan la formación pedagógica profunda de los cuidadores."
+      ],
+      "glossary": [
+        {
+          "term": "Libro digital enriquecido (Enhanced E-book)",
+          "definition": "Publicación digital infantil que incorpora animaciones, audio interactivo y puntos táctiles integrados orgánicamente en la historia."
+        },
+        {
+          "term": "Input lingüístico",
+          "definition": "Cantidad y calidad del lenguaje oral al que un niño está expuesto por parte de los adultos durante una interacción comunicativa."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis sistemático de 32 estudios en WoS y Scopus",
+      "narrativa": "Las investigadoras analizaron enriquecimientos de los libros (audio, animación, interactividad), condiciones de mediación (autónoma vs. compartida) y métodos de instrucción aplicados a padres.",
+      "detalles": [
+        {
+          "label": "Corpus",
+          "value": "32 artículos experimentales y cuasiexperimentales en Web of Science y Scopus."
+        },
+        {
+          "label": "Población",
+          "value": "Niños de 2 a 8 años y sus cuidadores/educadores."
+        },
+        {
+          "label": "Variables",
+          "value": "Vocabulario receptivo/expresivo, comprensión de historia, input del adulto y tipo de dispositivo."
+        }
+      ],
+      "limitaciones": [
+        "Muestras centradas en familias de clase media urbana.",
+        "Falta de estudios de seguimiento a largo plazo."
+      ],
+      "reflexion": "El libro digital no es el enemigo ni el salvador: es un artefacto cultural cuya eficacia depende de la presencia cariñosa del adulto."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: La pantalla compartida potencia el léxico",
+      "narrativa": "La síntesis de los 32 estudios reveló conclusiones que matizan mitos consolidados:",
+      "hallazgos": [
+        {
+          "label": "1. Vocabulario Potenciado",
+          "value": "Los libros con animaciones que ilustran directamente palabras complejas superan al papel en retención léxica inmediata."
+        },
+        {
+          "label": "2. La Trampa de la Lectura Solitaria",
+          "value": "Dejar al niño solo produce una exploración táctil errática ('clic a todo') con mínima comprensión narrativa."
+        }
+      ],
+      "dataPoints": [
+        "Los enriquecimientos distractores (minijuegos ajenos) reducen la comprensión en un 30%.",
+        "Desactivar la voz grabada para que lea el padre o madre mejora el vínculo socioemocional."
+      ],
+      "reflexion": "La magia no está en el píxel, sino en la mirada compartida entre quien lee y quien escucha."
+    },
+    "marco": {
+      "titulo": "Discusión: Recomendaciones para familias, escuelas y desarrolladores de software",
+      "narrativa": "Urra y Mendive concluyen con directrices prácticas para el diseño y la mediación:",
+      "detalles": [
+        {
+          "label": "Directrices para Desarrolladores",
+          "value": "Eliminar minijuegos invasivos. Las animaciones deben apoyar la comprensión del texto."
+        },
+        {
+          "label": "Capacitación a Familias",
+          "value": "Brindar talleres breves sobre cómo mediar pantallas con afecto y lenguaje rico."
+        }
+      ],
+      "reflexion": "No se trata de apagar las pantallas, sino de encender las conversaciones alrededor de ellas."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo influyen los libros digitales y sus enriquecimientos en la mediación adulta y la alfabetización emergente infantil?",
+      "conclusion": "La revisión de 32 estudios evidencia que los libros digitales enriquecidos con interactividad congruente muestran una ligera superioridad sobre el papel en adquisición de vocabulario y potencian el input adulto. Sin embargo, este beneficio desaparece sin mediación adulta o con animaciones distractoras. El éxito exige software con diseño pedagógico riguroso y formación a familias.",
+      "formalRef": "Urra, P., & Mendive, S. (2026). Libros digitales, mediación adulta, lenguaje y alfabetización emergente: Una revisión de la literatura. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.576"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué condición es imprescindible para que los libros digitales enriquecidos mejoren el vocabulario infantil frente al papel?",
+          "options": [
+            "Que el niño use la tableta completamente solo en su habitación.",
+            "Que exista mediación dialógica adulta y que las animaciones sean congruentes con la historia.",
+            "Que la tableta cueste más de mil euros.",
+            "Que el libro no contenga ninguna ilustración."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué efecto tienen en los niños pequeños los 'enriquecimientos distractores' (como minijuegos no relacionados)?",
+          "options": [
+            "Aumentan la memoria de trabajo fotográfica.",
+            "Fragmentan la atención y reducen drásticamente la comprensión de la trama del cuento.",
+            "Enseñan física cuántica de forma instantánea.",
+            "Ningún efecto apreciable."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál fue una de las principales carencias detectadas en las intervenciones investigadas?",
+          "options": [
+            "Que no se utilizaron dispositivos táctiles.",
+            "Que los programas se limitaron a entregar dispositivos e instrucciones técnicas, desatendiendo la formación pedagógica y dialógica de las familias.",
+            "Que los niños rechazaron tocar las pantallas.",
+            "Que los libros impresos estaban prohibidos por ley."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Si tuvieras que asesorar a un estudio de videojuegos que va a crear un cuento interactivo para niños de 4 años, ¿qué 3 pautas de diseño les exigirías para proteger la mediación familiar?"
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo convencerías a unos padres preocupados por el exceso de pantallas de que un libro digital bien mediado puede ser un aliado para el vocabulario de su hijo?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al mundo de los libros-app infantiles. Vamos a separar el marketing de la evidencia científica.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Tableta sí o tableta no? La ciencia de 32 estudios da la respuesta: depende de las animaciones y del diálogo adulto.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Revisamos una década de investigación experimental en WoS y Scopus sobre niños de 2 a 8 años.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Sorpresa! Un libro digital bien diseñado enseña más palabras que el papel, pero solo si el adulto conversa a su lado.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Basta de regalar tabletas sin formación. Las familias necesitan pautas para dialogar frente a la pantalla.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La tecnología nunca reemplazará el abrazo de un padre que lee un cuento: solo puede ser su altavoz o su estorbo.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo interactúan los libros digitales enriquecidos, el vocabulario, las animaciones y el input adulto.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Demuestra lo aprendido y proyecta pautas éticas para el uso de la literatura digital infantil en el hogar.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Libros Digitales y Alfabetización Emergente Infantil",
+    "descripcion": "Interacciones entre libros digitales enriquecidos, animaciones congruentes, mediación dialógica adulta y adquisición léxica en la primera infancia.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Alfabetización Emergente",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "2",
+        "label": "Libros Digitales Enriquecidos",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Mediación Dialógica Adulta",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "Adquisición de Vocabulario",
+        "color": "#f4d068"
+      },
+      {
+        "id": "5",
+        "label": "Animaciones Congruentes",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "6",
+        "label": "Enriquecimientos Distractores",
+        "color": "#e76f51"
+      },
+      {
+        "id": "7",
+        "label": "Lectura Solitaria Errática",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "8",
+        "label": "Input Lingüístico Interactivo",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "9",
+        "label": "Formación Pedagógica Familiar",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Diseño Editorial Ético",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "apoya el desarrollo de la"
+      },
+      {
+        "from": "3",
+        "to": "2",
+        "label": "es condición crítica para el éxito de"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "debe incorporar"
+      },
+      {
+        "from": "5",
+        "to": "4",
+        "label": "dispara significativamente la"
+      },
+      {
+        "from": "6",
+        "to": "4",
+        "label": "bloquea y perjudica la"
+      },
+      {
+        "from": "7",
+        "to": "1",
+        "label": "fracasa en construir la"
+      },
+      {
+        "from": "3",
+        "to": "8",
+        "label": "enriquece la calidad del"
+      },
+      {
+        "from": "9",
+        "to": "3",
+        "label": "capacita a los hogares en"
+      },
+      {
+        "from": "10",
+        "to": "5",
+        "label": "prioriza el desarrollo de"
+      },
+      {
+        "from": "10",
+        "to": "6",
+        "label": "elimina radicalmente los"
+      }
+    ]
+  }
+}

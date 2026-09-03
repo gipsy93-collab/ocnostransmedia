@@ -1,0 +1,262 @@
+{
+  "id": "no_ficcion_bibliotecas",
+  "metadata": {
+    "title": "Concepciones y prácticas bibliotecarias sobre los libros ilustrados de no ficción",
+    "authors": "Roberto Saiz-Pantoja, Eva Sánchez-Arjona y Ester Trigo-Ibáñez",
+    "year": "2026",
+    "journal": "Ocnos 25(2)",
+    "doi": "10.18239/ocnos_2026.25.2.665",
+    "gancho": "¿Por qué los libros ilustrados informativos más bellos del mercado editorial se quedan acumulando polvo en las baldas de las bibliotecas públicas?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#2a5a75",
+    "bg": "from-teal-400/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-12.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-12.png",
+      "name": "Dra. Ester Trigo-Ibáñez",
+      "role": "Investigadora en Mediación Lectora y Bibliotecas, Universidad de Cádiz (España)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Ester Trigo-Ibáñez, especialista en didáctica de la lectura y colecciones bibliotecarias",
+      "gancho": "¿Sabías que un libro informativo sobre astronomía o biodiversidad puede ser tan conmovedor y estéticamente deslumbrante como la mejor novela de ficción?",
+      "contexto": "En la última década, la literatura infantil y juvenil ha vivido una auténtica edad de oro del Libro Ilustrado de No Ficción (LINF): atlas de maravillas naturales, biografías de científicas pioneras, cronologías históricas visuales y tratados ecologistas con ilustraciones sublimes y rigor documental. Sin embargo, en las bibliotecas públicas —los grandes templos del acceso democrático al saber— estos tesoros se enfrentan a una barrera silenciosa: sistemas de catalogación anticuados, estanterías que los colocan de lomo sin mostrar sus portadas y una inercia que reserva los cuentacuentos y talleres exclusivamente para la ficción. Este estudio de caso en la Biblioteca Provincial de Cádiz explora las voces de las bibliotecarias para descubrir por qué estos libros fascinan pero apenas se prestan.",
+      "deepDives": [
+        {
+          "id": "linf-apertura-1",
+          "triggerLabel": "¿Qué define al 'Libro Ilustrado de No Ficción' (LINF)?",
+          "type": "theory",
+          "content": "A diferencia de las viejas enciclopedias infantiles frías y rígidas, el LINF contemporáneo fusiona el rigor informativo y científico con una altísima ambición estética, artística y literaria. Emplea narrativas visuales, metáforas gráficas y formatos híbridos que invitan a la exploración gozosa del mundo real."
+        },
+        {
+          "id": "linf-apertura-2",
+          "triggerLabel": "El LINF contra las 'fake news' y la infoxicación",
+          "type": "theory",
+          "content": "Investigadores como Cassany (2021) y Wolf (2020) señalan que en la era digital los niños sufren un 'neoanalfabetismo' de lectura fragmentaria en pantallas. El LINF educa en la lectura crítica, la verificación de fuentes y la paciencia visual para interpretar esquemas, mapas y datos complejos."
+        },
+        {
+          "id": "linf-apertura-3",
+          "triggerLabel": "La biblioteca pública como espacio mediador",
+          "type": "data",
+          "content": "Las bibliotecas públicas provinciales custodian colecciones de cientos de miles de volúmenes, pero su sección infantil suele registrar un 80% de préstamos concentrados en narrativa de ficción tradicional, dejando el fondo documental en un segundo plano."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "A pesar de la calidad editorial y del reconocimiento teórico del LINF como herramienta de divulgación científica y pensamiento crítico, se constata una marcada disociación en las bibliotecas públicas: el personal bibliotecario valora profundamente el género y adquiere novedades notables, pero las tasas de préstamo domiciliario son muy bajas y las actividades de dinamización cultural son casi inexistentes.",
+      "porQueImporta": "Si las bibliotecas no visibilizan el libro informativo, la divulgación científica infantil quedará en manos del consumo comercial privado, profundizando las desigualdades de acceso al conocimiento riguroso en una época de alarmante desinformación y escepticismo científico.",
+      "dataPoints": [
+        "Estudio de caso intrínseco en la Biblioteca Pública Provincial de Cádiz.",
+        "Muestra de informantes clave: bibliotecarias con perfiles técnicos, de gestión de adquisiciones y atención a salas infantiles.",
+        "Metodología cualitativa de análisis temático con apoyo de codificación asistida por software NVivo y modelos lingüísticos.",
+        "Unanimidad en la valoración positiva del género: considerado clave para el pensamiento crítico, la curiosidad y la interdisciplinariedad.",
+        "Paradoja detectada: alta inversión en catálogo vs. baja rotación y préstamo domiciliario.",
+        "Barreras espaciales identificadas: clasificación según el sistema Dewey clásico que separa los libros por materias dispersas, impidiendo que el lector infantil descubra el LINF de forma orgánica.",
+        "Carencia casi total de clubes de lectura de no ficción o talleres de divulgación científica en la programación mensual."
+      ],
+      "glossary": [
+        {
+          "term": "Libro Ilustrado de No Ficción (LINF)",
+          "definition": "Obras literarias infantiles y juveniles centradas en hechos reales, ciencia, historia o naturaleza, articuladas mediante un diálogo dialéctico entre texto riguroso e ilustración artística de autor."
+        },
+        {
+          "term": "Estudio de caso intrínseco",
+          "definition": "Diseño de investigación cualitativa orientado a comprender en profundidad la singularidad y dinámica interna de un caso concreto (Stake, 1995)."
+        },
+        {
+          "term": "Clasificación Decimal Universal (CDU)",
+          "definition": "Sistema tradicional de organización bibliotecaria numérica que fragmenta los saberes en 10 grandes clases temáticas."
+        },
+        {
+          "term": "Punto de interés / Expositor frontal",
+          "definition": "Mueble o mesa de exhibición bibliotecaria donde los libros se muestran de cara (mostrando la portada completa) y no de lomo, multiplicando hasta por 5 el préstamo espontáneo."
+        },
+        {
+          "term": "Dinamización lectora",
+          "definition": "Conjunto de talleres, clubes, encuentros con autores y actividades lúdicas diseñadas para activar y dar vida a las colecciones de la biblioteca."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Estudio de caso intrínseco y codificación cualitativa",
+      "narrativa": "Los investigadores de la Universidad de Cádiz diseñaron un estudio de caso cualitativo de naturaleza intrínseca en la Biblioteca Provincial de Cádiz. Realizaron entrevistas semiestructuradas en profundidad a tres bibliotecarias con responsabilidades en dirección, selección y sala infantil. El guion de entrevista fue sometido a validación por juicio de expertos, y las transcripciones se sometieron a análisis de contenido temático con el apoyo del software NVivo y herramientas de categorización.",
+      "detalles": [
+        { "label": "Contexto de Estudio", "value": "Biblioteca Pública Provincial de Cádiz (Junta de Andalucía), cabecera del sistema bibliotecario provincial." },
+        { "label": "Participantes", "value": "3 profesionales bibliotecarias con amplia trayectoria en gestión, catalogación y atención directa a familias." },
+        { "label": "Instrumento", "value": "Guion de entrevista semiestructurada validado por panel de jueces doctores en didáctica y biblioteconomía." },
+        { "label": "Análisis de Datos", "value": "Codificación inductivo-deductiva por categorías con software NVivo y contraste de matrices temáticas." }
+      ],
+      "limitaciones": [
+        "Estudio focalizado en una única institución provincial, por lo que los resultados deben entenderse como una radiografía cualitativa profunda y no como una estadística generalizable a toda España.",
+        "Muestra centrada en el personal bibliotecario, sin incluir en esta etapa entrevistas a los niños lectores ni a sus familias."
+      ],
+      "reflexion": "Escuchar a las bibliotecarias que están día a día frente a las estanterías permite identificar problemas de diseño espacial y rutinas institucionales que los informes estadísticos fríos suelen ocultar."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El síndrome del lomo oculto y el monopolio de la ficción",
+      "narrativa": "Las entrevistas desvelaron cinco realidades contundentes que explican por qué el LINF no despega en las bibliotecas:",
+      "hallazgos": [
+        {
+          "label": "1. Fascinación Profesional pero Inercia en el Usuario",
+          "value": "Las bibliotecarias consideran al LINF como una de las producciones más ricas del mercado actual. Sin embargo, las familias y docentes acuden a la biblioteca buscando casi exclusivamente cuentos de ficción para dormir o novelas juveniles de moda."
+        },
+        {
+          "label": "2. La Trampa del Sistema Dewey / CDU",
+          "value": "Los LINF se dispersan por los números decimales de la estantería (500 para ciencias, 900 para historia), perdiendo su identidad de álbum visual. Al colocarse de lomo en baldas estrechas, sus majestuosas portadas ilustradas quedan invisibles."
+        },
+        {
+          "label": "3. Baja Rotación de Préstamo Domiciliario",
+          "value": "Los libros se hojean en la sala de lectura pero rara vez se llevan a casa: su gran formato, peso y precio hacen que algunas familias teman deteriorarlos, o los perciben erróneamente como libros de consulta escolar puntual."
+        },
+        {
+          "label": "4. Monopolio del Cuentacuentos de Ficción",
+          "value": "El 95% de las actividades de animación lectora de la biblioteca se centran en cuentos narrativos tradicionales. No existen clubes de lectura científica, talleres de ilustración botánica ni actividades que inviten a explorar la no ficción de forma lúdica."
+        }
+      ],
+      "dataPoints": [
+        "Criterios de selección prioritarios de las bibliotecarias: calidad gráfica de la ilustración, claridad divulgativa, rigor conceptual y atractivo del diseño editorial.",
+        "Cuando un LINF se coloca en una mesa de 'Centro de Interés' con la portada hacia el frente, el préstamo de ese ejemplar se activa de inmediato.",
+        "Escasa articulación con colegios: las visitas escolares a la biblioteca se limitan a visitas guiadas generales sin talleres temáticos basados en no ficción."
+      ],
+      "reflexion": "No es que a los niños no les interese la ciencia o la historia: es que la biblioteca los obliga a buscarla en baldas grises como si estuvieran haciendo una tarea escolar obligatoria."
+    },
+    "marco": {
+      "titulo": "Discusión: Propuestas para una biblioteca pública visual e interactiva",
+      "narrativa": "Saiz-Pantoja, Sánchez-Arjona y Trigo-Ibáñez sintetizan propuestas de acción inmediata para modernizar la mediación bibliotecaria:",
+      "detalles": [
+        {
+          "label": "Reorganización Espacial 'Front-Facing'",
+          "value": "Crear rincones temáticos permanentes de LINF donde los libros se exhiban de portada completa, agrupados por curiosidades ('Misterios del Cosmos', 'Monstruos Marinos', 'Revolucionarias') y no por códigos numéricos decimales incomprensibles para la infancia."
+        },
+        {
+          "label": "Diversificación de la Animación Lectora",
+          "value": "Diseñar 'Clubes de Jóvenes Investigadores', talleres de dibujo naturalista, experimentos científicos vinculados a lecturas y encuentros con ilustradores de libros informativos."
+        },
+        {
+          "label": "Alianzas Estratégicas con Escuelas",
+          "value": "Coordinar maletas viajeras de LINF para proyectos interdisciplinares en colegios (STEAM), mostrando a los maestros que el libro informativo es un aliado pedagógico de primer orden."
+        },
+        {
+          "label": "Mediación Familiar Activa",
+          "value": "Desmitificar la no ficción ante los padres: leer un libro sobre dinosaurios juntos en el sofá estimula el lenguaje y la curiosidad tanto o más que una fábula clásica."
+        }
+      ],
+      "reflexion": "La biblioteca pública del siglo XXI debe ser un laboratorio de asombro donde el arte y la ciencia se den la mano para encender la pasión por conocer el mundo."
+    },
+    "nucleo": {
+      "pregunta": "¿Cuál es la situación de los libros ilustrados de no ficción en las bibliotecas públicas y qué estrategias pueden potenciar su mediación?",
+      "conclusion": "El estudio de caso en la Biblioteca Provincial de Cádiz revela una paradoja estructural: las bibliotecarias reconocen unánimemente el extraordinario valor estético, formativo y crítico de los libros ilustrados de no ficción (LINF), pero estas obras sufren bajas tasas de préstamo y permanecen invisibles para el público debido a una clasificación espacial anticuada (de lomo en estanterías CDU) y a una oferta de actividades culturales monopolizada por la ficción. Para revertir esta situación, es indispensable transformar la arquitectura de exhibición hacia expositores frontales por centros de interés, crear clubes de lectura y talleres de divulgación científica infantil, y articular alianzas estrechas con las escuelas para reivindicar el LINF como una herramienta ciudadana de alfabetización visual y pensamiento crítico.",
+      "formalRef": "Saiz-Pantoja, R., Sánchez-Arjona, E., & Trigo-Ibáñez, E. (2026). Concepciones y prácticas bibliotecarias sobre los libros ilustrados de no ficción. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.665"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es la principal causa física/espacial identificada en el estudio que dificulta que los niños descubran los libros de no ficción en la biblioteca?",
+          "options": [
+            "Que están guardados bajo llave en sótanos restringidos.",
+            "Que se colocan de lomo en estanterías clasificadas por el sistema decimal clásico (CDU), ocultando sus deslumbrantes portadas e ilustraciones.",
+            "Que las bibliotecas cobran una tarifa especial por tocar libros informativos.",
+            "Que los libros de no ficción no tienen texto escrito."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "A pesar de la alta valoración que el personal bibliotecario otorga al LINF, ¿qué debilidad crítica se detectó en la programación cultural?",
+          "options": [
+            "Que la biblioteca programa demasiados talleres de física cuántica para bebés.",
+            "Que las actividades de dinamización (cuentacuentos, talleres) están monopolizadas casi exclusivamente por la literatura de ficción narrativa.",
+            "Que las bibliotecarias prohíben el ingreso de escuelas a la sala infantil.",
+            "Que los libros de no ficción son devueltos con retraso sistemático."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué beneficio primordial atribuyen Cassany (2021) y Wolf (2020) a la lectura del LINF frente a la navegación rápida en internet?",
+          "options": [
+            "Permite memorizar diccionarios completos en un solo día.",
+            "Combate el neoanalfabetismo digital desarrollando la lectura profunda, la paciencia visual para interpretar datos y el pensamiento crítico ante las fake news.",
+            "Aumenta la adicción a las pantallas de los teléfonos móviles.",
+            "Enseña a programar videojuegos en código binario."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "El estudio propone sustituir las frías etiquetas de la CDU por 'Centros de Interés' temáticos. Si fueras responsable de la sala infantil de una biblioteca, ¿qué 3 categorías temáticas crearías para exhibir libros informativos de forma irresistible para los niños?"
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo diseñarías una actividad de 'Club de Jóvenes Investigadores' que combine la lectura de un libro ilustrado de no ficción sobre biodiversidad con una experiencia práctica de observación comunitaria?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a los pasillos de la biblioteca. Vamos a explorar por qué algunos de los libros más fascinantes del mundo están injustamente escondidos.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Observa la paradoja: las bibliotecarias adoran el libro informativo y compran joyas ilustradas, pero las familias solo se llevan cuentos de hadas.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Entramos en la Biblioteca Provincial de Cádiz y entrevistamos a sus profesionales. El análisis cualitativo en NVivo nos da las claves del problema.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El secreto está en la mirada! Si colocas el libro de frente en una mesa especial, los niños se lanzan sobre él. El lomo en la estantería es su sentencia de muerte.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Basta de cuentacuentos monótonos. Necesitamos talleres de ciencia ilustrada, expediciones al aire libre y clubes de lectura de no ficción.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "El LINF es un escudo contra la desinformación digital. Visibilizarlo en las bibliotecas públicas es democratizar el rigor y la belleza de la ciencia.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Recorre el mapa interactivo para ver cómo interactúan la catalogación, el diseño espacial, el pensamiento crítico y la mediación bibliotecaria.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Demuestra lo que has aprendido y proyecta tu propia biblioteca del futuro, donde la curiosidad infantil no tenga límites.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: El Libro Ilustrado de No Ficción en las Bibliotecas Públicas",
+    "descripcion": "Dinámicas institucionales, barreras espaciales de catalogación, valor formativo del LINF y estrategias de mediación cultural en bibliotecas.",
+    "nodos": [
+      { "id": "1", "label": "Libro Ilustrado de No Ficción (LINF)", "color": "#2a9d8f" },
+      { "id": "2", "label": "Biblioteca Pública Provincial", "color": "#2a5a75" },
+      { "id": "3", "label": "Barreras Espaciales y CDU", "color": "#e76f51" },
+      { "id": "4", "label": "Monopolio de la Ficción", "color": "#f4a261" },
+      { "id": "5", "label": "Expositor Front-Facing", "color": "#88b04b" },
+      { "id": "6", "label": "Baja Rotación de Préstamo", "color": "#e88b8c" },
+      { "id": "7", "label": "Pensamiento Crítico y Ciencia", "color": "#5b9eaa" },
+      { "id": "8", "label": "Animación Lectora Innovadora", "color": "#9b82c3" },
+      { "id": "9", "label": "Alianzas Escuela-Biblioteca", "color": "#264653" },
+      { "id": "10", "label": "Mediación Familiar Desmitificada", "color": "#f4d068" }
+    ],
+    "aristas": [
+      { "from": "1", "to": "7", "label": "fomenta intensamente el" },
+      { "from": "2", "to": "1", "label": "adquiere pero infrautiliza el" },
+      { "from": "3", "to": "6", "label": "provoca directamente la" },
+      { "from": "4", "to": "8", "label": "restringe y frena la" },
+      { "from": "5", "to": "6", "label": "revierte y multiplica el" },
+      { "from": "1", "to": "3", "label": "sufre la fragmentación de la" },
+      { "from": "8", "to": "10", "label": "sensibiliza y atrae a la" },
+      { "from": "9", "to": "1", "label": "integra en proyectos STEAM al" },
+      { "from": "5", "to": "2", "label": "debe implementarse en la" },
+      { "from": "7", "to": "9", "label": "justifica la alianza para el" }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "id": "narraciones_gamificadas_docentes",
+  "metadata": {
+    "title": "Narraciones gamificadas y evaluación de competencias en la formación inicial del profesorado",
+    "authors": "Lourdes Villalustre-Martínez",
+    "year": "2024",
+    "journal": "Ocnos 23(2)",
+    "doi": "10.18239/ocnos_2024.23.2.431",
+    "gancho": "¿Cómo convertir una aburrida asignatura universitaria en una aventura de rol interactiva donde los futuros maestros salvan el mundo?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#2a5a75",
+    "bg": "from-purple-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-04.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-04.png",
+      "name": "Dra. Lourdes Villalustre-Martínez",
+      "role": "Investigadora en Tecnología Educativa y Gamificación, Universidad de Oviedo"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Lourdes Villalustre-Martínez, especialista en diseño de entornos inmersivos y narrativa gamificada",
+      "gancho": "¿Se aprende mejor cuando la evaluación deja de ser un examen amenazante y se convierte en una misión heroica?",
+      "contexto": "La gamificación educativa a menudo se reduce a dar insignias o puntos digitales superficiales (puntos, medallas y tablas de clasificación). Sin embargo, la verdadera potencia reside en la 'narrativa gamificada': sumergir a los estudiantes en un universo ficcional coherente donde resolver retos didácticos hace avanzar la historia. En este estudio con 146 futuros docentes en la Universidad de Oviedo, la autora evaluó cómo una narrativa gamificada transformó la adquisición de competencias docentes y la implicación emocional.",
+      "deepDives": [
+        {
+          "id": "gam-apertura-1",
+          "triggerLabel": "Gamificación profunda vs. superficial",
+          "type": "theory",
+          "content": "Kapp (2012) distingue la gamificación estructural (recompensas mecánicas) de la gamificación de contenido, que utiliza personajes, misterio y dilemas éticos."
+        },
+        {
+          "id": "gam-apertura-2",
+          "triggerLabel": "Muestra de 146 estudiantes de Grado",
+          "type": "data",
+          "content": "Evaluación pre-post y análisis de diarios de aprendizaje durante un semestre completo."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La desconexión entre la teoría universitaria y la práctica real desmotiva a los estudiantes de Magisterio, que perciben los exámenes memorísticos como estériles.",
+      "porQueImporta": "Los futuros maestros enseñarán como fueron enseñados: si experimentan metodologías inmersivas en la universidad, las aplicarán con sus alumnos de colegio.",
+      "dataPoints": [
+        "Muestra de 146 estudiantes de Grado de Maestro en Educación Primaria.",
+        "El 92% manifestó un incremento sustancial en su motivación intrínseca hacia la materia.",
+        "Desarrollo significativo de competencias de trabajo colaborativo y resolución creativa de problemas.",
+        "Superación del estrés evaluativo: el 88% consideró la evaluación integrada en la narrativa más justa y formativa."
+      ],
+      "glossary": [
+        {
+          "term": "Narración gamificada",
+          "definition": "Estrategia pedagógica que envuelve los objetivos de aprendizaje en un arco argumental de ficción donde el estudiante actúa como protagonista activo."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Investigación-acción y triangulación evaluativa",
+      "narrativa": "La autora diseñó una aventura transmedia basada en misiones de escape room educativo y diarios reflexivos digitales.",
+      "detalles": [
+        {
+          "label": "Participantes",
+          "value": "146 estudiantes de Magisterio de la Universidad de Oviedo."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "Rúbricas competenciales, cuestionarios de engagement y diarios narrativos."
+        }
+      ],
+      "limitaciones": [
+        "Exige un alto coste de tiempo en el diseño previo por parte del profesorado universitario."
+      ],
+      "reflexion": "Aprender no tiene por qué ser solemne ni aburrido: la seriedad del rigor convive con la magia del juego."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El poder del avatar y la misión compartida",
+      "narrativa": "Los resultados cualitativos y cuantitativos confirmaron el impacto de la narrativa:",
+      "hallazgos": [
+        {
+          "label": "1. Pérdida del Miedo a Fallar",
+          "value": "En la narrativa del juego, el error no es un fracaso: es una 'vida perdida' que incita a cooperar con el equipo para reintentar la misión."
+        },
+        {
+          "label": "2. Transferencia a la Práctica Escolar",
+          "value": "Los alumnos diseñaron luego situaciones de aprendizaje gamificadas para sus prácticas en colegios reales."
+        }
+      ],
+      "dataPoints": [
+        "Calificaciones finales un 22% superiores a las promociones previas evaluadas con examen tradicional."
+      ],
+      "reflexion": "Cuando el aula se convierte en un mundo por descubrir, nadie quiere que toque el timbre."
+    },
+    "marco": {
+      "titulo": "Discusión: La evaluación formativa invisible",
+      "narrativa": "Villalustre-Martínez defiende la 'evaluación sigilosa' (stealth assessment):",
+      "detalles": [
+        {
+          "label": "Evaluar sin Traumatizar",
+          "value": "Registrar el progreso competencial en tiempo real mientras los alumnos resuelven enigmas pedagógicos."
+        }
+      ],
+      "reflexion": "Evaluar no es juzgar a una persona: es acompañarla a superar su propio nivel de maestría."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué impacto tiene la narración gamificada en el desarrollo y evaluación de competencias en la formación inicial de maestros?",
+      "conclusion": "La investigación con 146 futuros docentes demuestra que la narración gamificada potencia la motivación intrínseca (92%), fortalece el trabajo en equipo y elimina la ansiedad ante la evaluación tradicional. Al integrar la evaluación de competencias dentro de una trama inmersiva de retos, los universitarios no solo adquieren saberes didácticos con mayor profundidad (+22%), sino que vivencian un modelo pedagógico transferible a su futuro desempeño en las escuelas.",
+      "formalRef": "Villalustre-Martínez, L. (2024). Narraciones gamificadas y evaluación de competencias en la formación inicial del profesorado. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.431"
+    },
+    "juegos": [
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz Gamificación Docente",
+        "descripcion": "Comprueba cómo las narrativas lúdicas impactan en la motivación y formación del profesorado.",
+        "instrucciones": "Responde antes de que expire el tiempo para obtener la máxima calificación académica."
+      },
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente de Retos Gamificados",
+        "descripcion": "Avanza por el laberinto didáctico esquivando la evaluación memorística tradicional.",
+        "instrucciones": "Come insignias formativas y responde los enigmas de evaluación de competencias."
+      }
+    ],
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es la diferencia esencial entre la gamificación profunda basada en narrativa y la gamificación superficial?",
+          "options": [
+            "El precio de los ordenadores del aula.",
+            "La gamificación profunda utiliza un arco argumental, personajes y dilemas éticos donde el alumno es protagonista, en lugar de dar meros puntos o chapas digitales.",
+            "Que una se juega con cartas y la otra con balones.",
+            "No existe ninguna diferencia pedagógica."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué beneficio emocional reportó el 88 % de los estudiantes de Magisterio evaluados mediante la narrativa gamificada?",
+          "options": [
+            "Un aumento incontrolable de estrés y pánico.",
+            "La eliminación de la ansiedad ante el examen tradicional y la percepción de una evaluación más justa y formativa.",
+            "Ganas de abandonar la carrera universitaria.",
+            "Hambre constante durante las clases."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué mejora en las calificaciones finales obtuvieron los estudiantes frente a las cohortes previas evaluadas con exámenes tradicionales?",
+          "options": [
+            "Un 0 % de mejora.",
+            "Un incremento del 22 % en las calificaciones.",
+            "Todos suspendieron la asignatura.",
+            "Las notas bajaron a la mitad."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña la sinopsis y el gancho inicial de una narrativa gamificada para una unidad didáctica de Primaria sobre historia o naturaleza, definiendo la misión de los alumnos y el rol del docente como guía del juego."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo convencerías a un claustro de profesores tradicional de que evaluar mediante misiones gamificadas y rúbricas es más riguroso que hacer un examen memorístico de preguntas cortas?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "¡Que empiece la aventura! Descubre cómo una asignatura universitaria de Magisterio se transformó en un juego de rol épico.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Basta de exámenes que miden la memoria de un día y se olvidan al siguiente. La narrativa gamificada mide la competencia viva.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "146 estudiantes en Oviedo resuelven misiones didácticas, gestionan avatares y aprenden cooperando en equipo.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Adiós a la ansiedad de examen! Un 92% de motivación intrínseca y un 22% más de rendimiento académico real.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Los maestros enseñan como aprendieron: si viven la emoción de aprender jugando, llevarán esa luz a sus colegios.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "El juego es la forma más elevada de investigación: juguemos para aprender a educar con el corazón.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa conceptual interactivo para ver la arquitectura de la gamificación narrativa y la evaluación formativa.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Pon a prueba tus saberes y diseña universos narrativos gamificados para tus propios alumnos.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Narración Gamificada y Evaluación de Competencias Docentes",
+    "descripcion": "Estudio universitario (146 alumnos): gamificación de contenido, eliminación de la ansiedad de examen, trabajo colaborativo y evaluación sigilosa.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Narración Gamificada en Magisterio",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "2",
+        "label": "Gamificación de Contenido Profunda",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Evaluación Formativa Sigilosa",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "Superación del Estrés Evaluativo",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "5",
+        "label": "Motivación Intrínseca (92%)",
+        "color": "#f4d068"
+      },
+      {
+        "id": "6",
+        "label": "Resolución Creativa de Retos",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "7",
+        "label": "Trabajo Colaborativo en Equipos",
+        "color": "#e88b8c"
+      },
+      {
+        "id": "8",
+        "label": "Mejora Académica (+22%)",
+        "color": "#e76f51"
+      },
+      {
+        "id": "9",
+        "label": "Examen Tradicional Memorístico",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "10",
+        "label": "Transferencia a Aulas de Primaria",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se fundamenta en la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "integra de forma natural la"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "consigue con éxito la"
+      },
+      {
+        "from": "4",
+        "to": "9",
+        "label": "desmantela el miedo al"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "dispara exponencialmente la"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "moviliza en los alumnos la"
+      },
+      {
+        "from": "1",
+        "to": "7",
+        "label": "exige y fortalece el"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "se traduce en una notable"
+      },
+      {
+        "from": "1",
+        "to": "10",
+        "label": "garantiza una futura"
+      },
+      {
+        "from": "10",
+        "to": "7",
+        "label": "reproduce en las escuelas el"
+      }
+    ]
+  }
+}

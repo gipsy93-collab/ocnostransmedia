@@ -13,8 +13,142 @@ import narrativaEnsayoComic from './narrativas/ensayo_comic.json';
 import narrativaBooktuber from './narrativas/booktuber.json';
 import narrativaCompetenciaGlobal from './narrativas/competencia_global.json';
 import narrativaComicSensibilizacion from './narrativas/comic_sensibilizacion.json';
+import narrativaTeaMujeres from './narrativas/tea_mujeres.json';
+import narrativaPlacerSecundaria from './narrativas/placer_secundaria.json';
+import narrativaTiktokLij from './narrativas/tiktok_lij.json';
+import narrativaNaturalezaAlbumes from './narrativas/naturaleza_albumes.json';
+import narrativaMediacionVulnerable from './narrativas/mediacion_vulnerable.json';
+import narrativaCreatividadLectora from './narrativas/creatividad_lectora.json';
+import narrativaNoFiccionBibliotecas from './narrativas/no_ficcion_bibliotecas.json';
+import narrativaPerfilesNoFiccion from './narrativas/perfiles_no_ficcion.json';
+import narrativaFonologicaVulnerabilidad from './narrativas/fonologica_vulnerabilidad.json';
+import narrativaTransmediaVideojuego from './narrativas/transmedia_videojuego.json';
+import narrativaMemoriaMexique from './narrativas/memoria_mexique.json';
+import narrativaDistractoresLectura from './narrativas/distractores_lectura.json';
+import narrativaDimeModelo from './narrativas/dime_modelo.json';
+import narrativaLecturaResistente from './narrativas/lectura_resistente.json';
+import narrativaDigitalComparada from './narrativas/narrativa_digital_comparada.json';
+import narrativaLibrosDigitalesInfantil from './narrativas/libros_digitales_infantil.json';
+import narrativaPantallaVsPapel from './narrativas/pantalla_vs_papel.json';
+import narrativaEscrituraAcademica from './narrativas/escritura_academica.json';
+import narrativaClasicosLijMaestros from './narrativas/clasicos_lij_maestros.json';
+import narrativaSituacionesLomloe from './narrativas/situaciones_lomloe.json';
+import narrativaPatronesBibliotecasMadrid from './narrativas/patrones_bibliotecas_madrid.json';
+import narrativaProsodiaLectoresVasco from './narrativas/prosodia_lectores_vasco.json';
+// Vol. 24 Núm. 2 (2025)
+import narrativaPrelectocatCribado from './narrativas/prelectocat_cribado.json';
+import narrativaConcienciaFonologicaAula from './narrativas/conciencia_fonologica_aula.json';
+import narrativaPequenecesTropologia from './narrativas/pequeneces_tropologia.json';
+import narrativaInclusionDiscapacidadLectura from './narrativas/inclusion_discapacidad_lectura.json';
+import narrativaMejoraComprensionFactores from './narrativas/mejora_comprension_factores.json';
+import narrativaMetacognicionUniversitarios from './narrativas/metacognicion_universitarios.json';
+import narrativaPausasLecturaEvolucion from './narrativas/pausas_lectura_evolucion.json';
+import narrativaAlbumesInfantilValores from './narrativas/albumes_infantil_valores.json';
+import narrativaMotivacionPreferenciasAdolescentes from './narrativas/motivacion_preferencias_adolescentes.json';
+import narrativaEtnografiaLectoresVulnerables from './narrativas/etnografia_lectores_vulnerables.json';
+// Vol. 24 Núm. 1 (2025)
+import narrativaDesapegoLecturaDigital from './narrativas/desapego_lectura_digital.json';
+import narrativaAmbienteAlfabetizadorHogar from './narrativas/ambiente_alfabetizador_hogar.json';
+import narrativaNarracionDigitalAlbumes from './narrativas/narracion_digital_albumes.json';
+import narrativaCuentosHadasCensura from './narrativas/cuentos_hadas_censura.json';
+import narrativaJuegosFuncionesEjecutivas from './narrativas/juegos_funciones_ejecutivas.json';
+import narrativaLiteraturaInfantilSexual from './narrativas/literatura_infantil_sexual.json';
+import narrativaMovimientosOcularesDislexia from './narrativas/movimientos_oculares_dislexia.json';
+import narrativaEmpoderamientoComicPortugues from './narrativas/empoderamiento_comic_portugues.json';
+import narrativaTdahDislexiaLecturaEscucha from './narrativas/tdah_dislexia_lectura_escucha.json';
+import narrativaHermannHesseAdolescente from './narrativas/hermann_hesse_adolescente.json';
+// Vol. 23 Núm. 2 (2024)
+import narrativaEscalaMacronarrativaUniversitaria from './narrativas/escala_macronarrativa_universitaria.json';
+import narrativaAutorregulacionLecturaCientifica from './narrativas/autorregulacion_lectura_cientifica.json';
+import narrativaLecturaDigitalEjecutiva from './narrativas/lectura_digital_ejecutiva.json';
+import narrativaNarracionesGamificadasDocentes from './narrativas/narraciones_gamificadas_docentes.json';
+import narrativaAlfabetizacionMatematicaInfantil from './narrativas/alfabetizacion_matematica_infantil.json';
+import narrativaProfesoresExpertosClasicosEso from './narrativas/profesores_expertos_clasicos_eso.json';
+import narrativaAutoficcionRecepcionGoodreads from './narrativas/autoficcion_recepcion_goodreads.json';
+import narrativaTicComprensionPrimaria from './narrativas/tic_comprension_primaria.json';
+import narrativaIntertextualidadAlbumInfantil from './narrativas/intertextualidad_album_infantil.json';
+import narrativaInfluencersBooktokTiktok from './narrativas/influencers_booktok_tiktok.json';
+// Vol. 23 Núm. 1 (2024)
+import narrativaFernandaMelchorGoodreadsNlp from './narrativas/fernanda_melchor_goodreads_nlp.json';
+import narrativaEducacionLiterariaRedesSociales from './narrativas/educacion_literaria_redes_sociales.json';
+import narrativaAlfabetizacionVideorresenasDocentes from './narrativas/alfabetizacion_videorresenas_docentes.json';
+import narrativaSindromeIrlenLectura from './narrativas/sindrome_irlen_lectura.json';
+import narrativaLecturaRecreativaBibliotecasUniversitarias from './narrativas/lectura_recreativa_bibliotecas_universitarias.json';
+import narrativaVidasObjetosItFiction from './narrativas/vidas_objetos_it_fiction.json';
+import narrativaCuentosClasicosStreamingTransmedia from './narrativas/cuentos_clasicos_streaming_transmedia.json';
+import narrativaDidacticaLiterariaPrimariaVascoNavarra from './narrativas/didactica_literaria_primaria_vasco_navarra.json';
+import narrativaCanonPremiosLij from './narrativas/canon_premios_lij.json';
 
 export const NARRATIVAS: Narrative[] = [
+  // Vol. 25 Núm. 2 (2026)
+  narrativaTeaMujeres as Narrative,
+  narrativaPlacerSecundaria as Narrative,
+  narrativaTiktokLij as Narrative,
+  narrativaNaturalezaAlbumes as Narrative,
+  narrativaMediacionVulnerable as Narrative,
+  narrativaCreatividadLectora as Narrative,
+  narrativaNoFiccionBibliotecas as Narrative,
+  narrativaPerfilesNoFiccion as Narrative,
+  narrativaFonologicaVulnerabilidad as Narrative,
+  narrativaTransmediaVideojuego as Narrative,
+  narrativaMemoriaMexique as Narrative,
+  narrativaDistractoresLectura as Narrative,
+  // Vol. 25 Núm. 1 (2026)
+  narrativaDimeModelo as Narrative,
+  narrativaLecturaResistente as Narrative,
+  narrativaDigitalComparada as Narrative,
+  narrativaLibrosDigitalesInfantil as Narrative,
+  narrativaPantallaVsPapel as Narrative,
+  narrativaEscrituraAcademica as Narrative,
+  narrativaClasicosLijMaestros as Narrative,
+  narrativaSituacionesLomloe as Narrative,
+  narrativaPatronesBibliotecasMadrid as Narrative,
+  narrativaProsodiaLectoresVasco as Narrative,
+  // Vol. 24 Núm. 2 (2025)
+  narrativaPrelectocatCribado as Narrative,
+  narrativaConcienciaFonologicaAula as Narrative,
+  narrativaPequenecesTropologia as Narrative,
+  narrativaInclusionDiscapacidadLectura as Narrative,
+  narrativaMejoraComprensionFactores as Narrative,
+  narrativaMetacognicionUniversitarios as Narrative,
+  narrativaPausasLecturaEvolucion as Narrative,
+  narrativaAlbumesInfantilValores as Narrative,
+  narrativaMotivacionPreferenciasAdolescentes as Narrative,
+  narrativaEtnografiaLectoresVulnerables as Narrative,
+  // Vol. 24 Núm. 1 (2025)
+  narrativaDesapegoLecturaDigital as Narrative,
+  narrativaAmbienteAlfabetizadorHogar as Narrative,
+  narrativaNarracionDigitalAlbumes as Narrative,
+  narrativaCuentosHadasCensura as Narrative,
+  narrativaJuegosFuncionesEjecutivas as Narrative,
+  narrativaLiteraturaInfantilSexual as Narrative,
+  narrativaMovimientosOcularesDislexia as Narrative,
+  narrativaEmpoderamientoComicPortugues as Narrative,
+  narrativaTdahDislexiaLecturaEscucha as Narrative,
+  narrativaHermannHesseAdolescente as Narrative,
+  // Vol. 23 Núm. 2 (2024)
+  narrativaEscalaMacronarrativaUniversitaria as Narrative,
+  narrativaAutorregulacionLecturaCientifica as Narrative,
+  narrativaLecturaDigitalEjecutiva as Narrative,
+  narrativaNarracionesGamificadasDocentes as Narrative,
+  narrativaAlfabetizacionMatematicaInfantil as Narrative,
+  narrativaProfesoresExpertosClasicosEso as Narrative,
+  narrativaAutoficcionRecepcionGoodreads as Narrative,
+  narrativaTicComprensionPrimaria as Narrative,
+  narrativaIntertextualidadAlbumInfantil as Narrative,
+  narrativaInfluencersBooktokTiktok as Narrative,
+  // Vol. 23 Núm. 1 (2024)
+  narrativaFernandaMelchorGoodreadsNlp as Narrative,
+  narrativaEducacionLiterariaRedesSociales as Narrative,
+  narrativaAlfabetizacionVideorresenasDocentes as Narrative,
+  narrativaSindromeIrlenLectura as Narrative,
+  narrativaLecturaRecreativaBibliotecasUniversitarias as Narrative,
+  narrativaBooktuber as Narrative,
+  narrativaVidasObjetosItFiction as Narrative,
+  narrativaCuentosClasicosStreamingTransmedia as Narrative,
+  narrativaDidacticaLiterariaPrimariaVascoNavarra as Narrative,
+  narrativaCanonPremiosLij as Narrative,
+  // Artículos anteriores
   narrativaMultiliteracidad as Narrative,
   narrativaApadrinamiento as Narrative,
   narrativaPdae as Narrative,
@@ -26,7 +160,6 @@ export const NARRATIVAS: Narrative[] = [
   narrativaIconograficos as Narrative,
   narrativaHabitacionEllas as Narrative,
   narrativaEnsayoComic as Narrative,
-  narrativaBooktuber as Narrative,
   narrativaCompetenciaGlobal as Narrative,
   narrativaComicSensibilizacion as Narrative,
   {

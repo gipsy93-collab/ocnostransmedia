@@ -1,0 +1,298 @@
+{
+  "id": "alfabetizacion_videorresenas_docentes",
+  "metadata": {
+    "title": "Alfabetización académica y socialización de la lectura mediante videorreseñas en la formación de docentes",
+    "authors": "Alícia Martí-Climent y Aina Reig",
+    "year": "2024",
+    "journal": "Ocnos 23(1)",
+    "doi": "10.18239/ocnos_2024.23.1.386",
+    "gancho": "¿Qué ocurre cuando les pides a futuros maestros que graben un vídeo recomendando una lectura académica en lugar de entregar un trabajo en PDF?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#2a5a75",
+    "bg": "from-teal-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-03.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-03.png",
+      "name": "Dra. Alícia Martí-Climent",
+      "role": "Investigadora en Didáctica de la Lengua y la Literatura, Universitat de València"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Alícia Martí-Climent, especialista en alfabetización académica multimodal y socialización literaria",
+      "gancho": "¿Es la videorreseña un recurso informal o una exigente prueba de síntesis oral y rigor académico?",
+      "contexto": "La alfabetización académica en la universidad a menudo se estanca en monografías escritas que nadie lee fuera del despacho del profesor. Sin embargo, un maestro del siglo XXI debe ser un comunicador elocuente capaz de transmitir el valor de los textos a través de pantallas. En esta investigación-acción con 124 estudiantes del Grado de Maestro en la Universitat de València, las investigadoras implementaron el diseño de videorreseñas académicas de divulgación como dispositivo de evaluación formativa y socialización letrada.",
+      "deepDives": [
+        {
+          "id": "vid-apertura-1",
+          "triggerLabel": "El género discursivo de la videorreseña",
+          "type": "theory",
+          "content": "Hibridación entre el discurso académico formal, la retórica audiovisual y la empatía comunicativa del booktuber."
+        },
+        {
+          "id": "vid-apertura-2",
+          "triggerLabel": "Muestra de 124 futuros maestros",
+          "type": "data",
+          "content": "Análisis de 124 videorreseñas orales grabadas, transcripciones y encuestas de autopercepción competencial."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Los estudiantes universitarios tienen enormes dificultades para sintetizar ideas complejas en un registro oral fluido y formal sin depender de leer un papel de carrerilla.",
+      "porQueImporta": "Un docente que no domina la comunicación oral persuasiva y multimodal no logrará entusiasmar a sus futuros alumnos en el aula.",
+      "dataPoints": [
+        "Muestra de 124 estudiantes de 2.º y 3.º curso de Magisterio de la UV.",
+        "El 89% destacó que preparar el guion del vídeo le exigió comprender el texto mucho más a fondo que para un examen escrito.",
+        "Mejora notable en el uso de terminología técnica de didáctica de la lengua.",
+        "Desarrollo de la competencia digital docente: encuadre, iluminación, edición y ritmo discursivo."
+      ],
+      "glossary": [
+        {
+          "term": "Socialización de la lectura",
+          "definition": "Proceso por el cual la lectura deja de ser un acto solitario para compartirse en una comunidad mediante la recomendación y el diálogo dialógico."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Investigación-acción con rúbricas multimodales",
+      "narrativa": "Las autoras establecieron una secuencia didáctica en 4 fases: lectura crítica, redacción del guion audiovisual, grabación/edición y coevaluación entre pares en un foro digital de la facultad.",
+      "detalles": [
+        {
+          "label": "Contexto",
+          "value": "Facultat de Magisteri de la Universitat de València."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "Rúbrica de evaluación multimodal y cuestionario mixto de percepción."
+        }
+      ],
+      "limitaciones": [
+        "Inseguridad inicial o vergüenza ante la cámara en una minoría de estudiantes tímidos."
+      ],
+      "reflexion": "Poner el cuerpo y la voz al servicio de una idea es el verdadero bautismo de fuego de un educador."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El salto del papel a la pantalla",
+      "narrativa": "Los resultados cualitativos y las notas finales evidenciaron el éxito del proyecto:",
+      "hallazgos": [
+        {
+          "label": "1. Comprensión Profunda Obligada",
+          "value": "Para explicar un concepto didáctico en 3 minutos sin aburrir a la audiencia, el alumno no puede memorizar: está forzado a interiorizar y reestructurar el saber."
+        },
+        {
+          "label": "2. Coevaluación Enriquecedora",
+          "value": "Ver los vídeos de los compañeros en el campus virtual generó una biblioteca de recursos compartida y un contagio del entusiasmo lector."
+        }
+      ],
+      "dataPoints": [
+        "El 94% de los participantes recomendó mantener la videorreseña como tarea obligatoria para las siguientes promociones."
+      ],
+      "reflexion": "Enseñar es comunicar: quien sabe resumir un libro en tres minutos con brillantez demuestra que lo ha conquistado para siempre."
+    },
+    "marco": {
+      "titulo": "Discusión: Multimodalidad en la formación inicial del profesorado",
+      "narrativa": "Martí-Climent y Reig reivindican la evaluación multimodal en la universidad:",
+      "detalles": [
+        {
+          "label": "Superar la Dictadura del PDF",
+          "value": "Combinar la escritura académica clásica con podcast, videocuentos y videorreseñas profesionales."
+        }
+      ],
+      "reflexion": "Un maestro del siglo XXI es un arquitecto de la palabra oral, escrita y audiovisual."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué valor formativo tiene la creación de videorreseñas en la alfabetización académica y la socialización lectora de los maestros en formación?",
+      "conclusion": "La investigación-acción con 124 estudiantes de Magisterio de la Universitat de València demuestra que la videorreseña académica potencia la comprensión lectora profunda, la síntesis oral formal y la competencia digital docente. Al convertir la lectura en un acto público y audiovisual compartido, los futuros maestros superan el aislamiento del trabajo académico tradicional y vivencian un modelo comunicativo directamente aplicable a sus futuras aulas escolares.",
+      "formalRef": "Martí-Climent, A., & Reig, A. (2024). Alfabetización académica y socialización de la lectura mediante videorreseñas en la formación de docentes. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.386"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Por qué el 89 % de los futuros maestros declaró que preparar la videorreseña les exigió más esfuerzo cognitivo que escribir un trabajo en papel?",
+          "options": [
+            "Porque la cámara se apagaba sola.",
+            "Porque para explicar una lectura académica en un vídeo corto de 3 minutos de forma amena y rigurosa es imprescindible dominar y sintetizar las ideas clave sin leer apuntes.",
+            "Porque tuvieron que comprar ropa nueva para el vídeo.",
+            "No requirió ningún esfuerzo."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué beneficio comunitario produjo publicar las videorreseñas en un repositorio compartido del campus universitario?",
+          "options": [
+            "Que los alumnos se pelearan entre sí.",
+            "Crear una biblioteca audiovisual compartida de recomendaciones didácticas y fomentar el aprendizaje y coevaluación entre pares.",
+            "Que la universidad cobrara entradas por ver los vídeos.",
+            "Ningún beneficio."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué cuatro fases compusieron la secuencia didáctica implementada por las investigadoras?",
+          "options": [
+            "Dormir, comer, jugar y ver la tele.",
+            "Lectura crítica del texto, redacción del guion audiovisual, grabación/edición y coevaluación entre iguales con rúbrica.",
+            "Hacer un examen sorpresa, suspender y reclamar.",
+            "Comprar libros y regalarlos."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Redacta una rúbrica de evaluación de 4 criterios (contenido conceptual, oratoria/entonación, lenguaje corporal/recursos audiovisuales y capacidad de persuasión) para evaluar videorreseñas en tu centro educativo."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo ayudarías a un estudiante excesivamente tímido o con miedo escénico a enfrentarse con éxito a la grabación de una videorreseña oral?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "¡Luces, cámara y lectura! Descubre cómo los futuros maestros aprenden a hablar con elocuencia grabando videorreseñas.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Menos trabajos que se pudren en un cajón y más comunicación viva. ¿Es la videorreseña el nuevo ensayo universitario?",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "124 alumnos de Magisterio en Valencia investigan, guionizan y graban vídeos para socializar lecturas académicas.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Quien sabe resumir en 3 minutos sabe enseñar! La oratoria y el rigor conceptual se dispararon en las grabaciones.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La universidad debe preparar comunicadores del siglo XXI: la voz, la mirada y el discurso audiovisual son armas pedagógicas.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La palabra compartida con entusiasmo es la chispa que enciende el amor por el conocimiento en la escuela.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver la relación entre videorreseñas, alfabetización académica, competencia oral y coevaluación.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Pon a prueba tus conocimientos y diseña actividades multimodales para renovar la didáctica de la lengua.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Videorreseñas y Alfabetización Académica en Formación Docente",
+    "descripcion": "Investigación-acción en Magisterio (124 alumnos): guionización audiovisual, socialización de lecturas, síntesis conceptual y coevaluación.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Videorreseñas Académicas",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "2",
+        "label": "Alfabetización Académica Multimodal",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Socialización de la Lectura",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "Síntesis Conceptual Rigurosa",
+        "color": "#f4d068"
+      },
+      {
+        "id": "5",
+        "label": "Competencia Oral y Elocuencia",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "6",
+        "label": "Docentes en Formación (124)",
+        "color": "#264653"
+      },
+      {
+        "id": "7",
+        "label": "Coevaluación en Repositorio",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "8",
+        "label": "Competencia Digital Docente",
+        "color": "#e76f51"
+      },
+      {
+        "id": "9",
+        "label": "Superación del Trabajo Escrito Plano",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "10",
+        "label": "Comunidad de Práctica Educativa",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "6",
+        "to": "1",
+        "label": "crea y protagoniza las"
+      },
+      {
+        "from": "1",
+        "to": "2",
+        "label": "desarrolla de forma integral la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "hace posible la verdadera"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "obliga a desplegar una alta"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "entrena de forma sistemática la"
+      },
+      {
+        "from": "1",
+        "to": "8",
+        "label": "moviliza destrezas de la"
+      },
+      {
+        "from": "1",
+        "to": "9",
+        "label": "sustituye y renueva el"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "consolida en la facultad una rica"
+      },
+      {
+        "from": "10",
+        "to": "3",
+        "label": "alimenta y multiplica la"
+      },
+      {
+        "from": "10",
+        "to": "4",
+        "label": "premia y reconoce la"
+      }
+    ]
+  }
+}

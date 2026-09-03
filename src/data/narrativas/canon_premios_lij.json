@@ -1,0 +1,302 @@
+{
+  "id": "canon_premios_lij",
+  "metadata": {
+    "title": "Los premios como configuradores de un canon literario infantil y juvenil",
+    "authors": "Raquel Gómez-Díaz y Araceli García-Rodríguez",
+    "year": "2024",
+    "journal": "Ocnos 23(1)",
+    "doi": "10.18239/ocnos_2024.23.1.452",
+    "gancho": "¿Quién decide qué libros infantiles pasan a la historia: los premios literarios, los maestros o el algoritmo de ventas?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#f4d068",
+    "colorAlt": "#2a5a75",
+    "bg": "from-amber-400/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-09.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-09.png",
+      "name": "Dra. Raquel Gómez-Díaz",
+      "role": "Catedrática de Biblioteconomía y Documentación, Universidad de Salamanca"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Raquel Gómez-Díaz, especialista en canon formativo, prescripción y sociología editorial de la LIJ",
+      "gancho": "¿Es la faja dorada de 'Premio Nacional' una garantía de calidad estética o una simple estrategia comercial de marketing?",
+      "contexto": "La formación del canon literario infantil y juvenil es un terreno de disputa entre la calidad estética, los intereses del mercado editorial y las prescripciones escolares. En este exhaustivo estudio documental y cienciométrico en la Universidad de Salamanca, las investigadoras analizaron el papel de los premios literarios institucionales y editoriales en España (Premio Nacional, Lazarillo, Cervantes Chico, Barco de Vapor, Gran Angular) durante dos décadas para dilucidar su peso real en la configuración de las lecturas recomendadas.",
+      "deepDives": [
+        {
+          "id": "can-apertura-1",
+          "triggerLabel": "El concepto de canon en LIJ",
+          "type": "theory",
+          "content": "Fowler y Kermode: el canon accesible vs. el canon selectivo. En LIJ, el canon está mediado por adultos (jueces, editores, maestros)."
+        },
+        {
+          "id": "can-apertura-2",
+          "triggerLabel": "Corpus de 20 años de galardones",
+          "type": "data",
+          "content": "Análisis diacrónico de más de 300 obras premiadas y su permanencia en catálogos y bibliotecas escolares."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La avalancha desmedida de novedades editoriales efímeras satura a los mediadores escolares, que recurren ciegamente a los sellos de premios sin analizar críticamente si la obra conectará con los niños reales.",
+      "porQueImporta": "Un canon infantil anquilosado o dominado por intereses comerciales desconecta a los jóvenes lectores del gozo literario auténtico.",
+      "dataPoints": [
+        "Corpus de más de 300 libros galardonados entre 2002 y 2022 en España.",
+        "Tensión entre premios institucionales (Premio Nacional de LIJ, donde prima la complejidad literaria) y premios comerciales (Barco de Vapor, donde prima la venta escolar).",
+        "La 'vida útil' del libro premiado: solo el 32% de los títulos galardonados sigue disponible en catálogo comercial diez años después.",
+        "Predominio abrumador de temáticas sociales y realistas (enfermedad, diversidad, ecología) frente a la fantasía o el humor puro."
+      ],
+      "glossary": [
+        {
+          "term": "Canon literario",
+          "definition": "Conjunto de obras consideradas modélicas y dignas de ser preservadas, estudiadas y leídas por sucesivas generaciones en una cultura."
+        },
+        {
+          "term": "Filtro de autoridad editorial",
+          "definition": "Mecanismo por el cual jurados y sellos de prestigio legitiman un texto como lectura 'formativa y valiosa' para la infancia."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis bibliométrico, temático y de pervivencia editorial",
+      "narrativa": "Las investigadoras rastrearon las obras premiadas, consultaron las bases de datos de ISBN de la Agencia Española y evaluaron su presencia en las bibliotecas de la Red de Bibliotecas Públicas y escolares.",
+      "detalles": [
+        {
+          "label": "Premios Analizados",
+          "value": "Premio Nacional de LIJ, Premio Lazarillo, Premios SM (Barco de Vapor, Gran Angular), Edebé, Anaya."
+        },
+        {
+          "label": "Periodo",
+          "value": "2002-2022 (20 años)."
+        }
+      ],
+      "limitaciones": [
+        "Centrado en el mercado editorial español en castellano."
+      ],
+      "reflexion": "Un premio puede encumbrar un libro por un año, pero solo el amor de los niños lectores puede mantenerlo vivo durante un siglo."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El destino de los libros con medalla",
+      "narrativa": "Los datos revelaron paradojas llamativas sobre la gloria editorial:",
+      "hallazgos": [
+        {
+          "label": "1. El Efecto Efímero del Galardón",
+          "value": "A pesar de ganar prestigiosos premios, casi dos tercios de las obras desaparecen de las librerías al cabo de una década si no son adoptadas como lectura obligatoria escolar."
+        },
+        {
+          "label": "2. La Moralina Bienintencionada",
+          "value": "Los jurados premian sistemáticamente libros con valores cívicos ejemplares ('libros con mensaje'), castigando a menudo el humor irreverente o el absurdo que tanto apasiona a los niños."
+        }
+      ],
+      "dataPoints": [
+        "Más del 70% de las obras premiadas aborda problemas de maduración personal, duelo o inclusión social."
+      ],
+      "reflexion": "No confundamos un buen sermón moral con una obra maestra de la literatura infantil."
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia una mediación crítica del canon",
+      "narrativa": "Gómez-Díaz y García-Rodríguez instan a los mediadores a tener criterio propio:",
+      "detalles": [
+        {
+          "label": "Superar la Dictadura del Premio",
+          "value": "Evaluar los libros con ojos de niño y no conformarse con la etiqueta brillante de una portada premiada."
+        }
+      ],
+      "reflexion": "El verdadero jurado de un libro infantil no viste de traje en un hotel de lujo: lleva las manos manchadas de chocolate en el patio del colegio."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué papel desempeñan los premios literarios en la configuración, difusión y pervivencia del canon de la literatura infantil y juvenil en España?",
+      "conclusion": "La investigación bibliométrica de dos décadas de galardones en España revela que los premios literarios actúan como potentes filtros de autoridad y prescripción que condicionan las compras de bibliotecas y colegios. Sin embargo, su capacidad para asentar un canon duradero es limitada (el 68% desaparece del catálogo comercial a los diez años) y tiende a primar el realismo bienintencionado sobre el humor o la experimentación formal, lo que exige una mediación docente crítica e independiente.",
+      "formalRef": "Gómez-Díaz, R., & García-Rodríguez, A. (2024). Los premios como configuradores de un canon literario infantil y juvenil. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.452"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de las obras premiadas con galardones de LIJ en España en los últimos 20 años sigue disponible en el catálogo comercial diez años después de ser premiada?",
+          "options": [
+            "El 100 % de los libros.",
+            "Solo el 32 % de los títulos (casi dos tercios desaparecen de las librerías si la escuela no los adopta).",
+            "Exactamente el 90 %.",
+            "Ningún libro se descataloga jamás."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué sesgo temático recurrente detectaron las investigadoras en las decisiones de los jurados de premios infantiles y juveniles?",
+          "options": [
+            "Un predominio del humor absurdo y las gamberradas.",
+            "Un predominio de temas realistas y cívicos bienintencionados (enfermedad, duelo, diversidad, ecología) frente a la fantasía pura o la irreverencia cómica.",
+            "Solo premian obras de ciencia ficción espacial.",
+            "Solo premian libros de matemáticas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál es la principal diferencia entre los premios institucionales (como el Premio Nacional) y los premios de editoriales comerciales (como el Barco de Vapor)?",
+          "options": [
+            "Los institucionales priman la complejidad estética y formal de la obra, mientras que los comerciales buscan la viabilidad de prescripción masiva en colegios.",
+            "Unos se pagan en dólares y otros en caramelos.",
+            "No existe ninguna diferencia.",
+            "Los comerciales están prohibidos en las escuelas."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Elige un libro ganador de un premio de LIJ reciente y analiza críticamente si su éxito se debió a su excelencia estética o a su 'mensaje moral ejemplar', explicando si crees que conectará con los niños de hoy."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que a los jurados adultos les cuesta tanto premiar libros infantiles de humor gamberro o absurdo a pesar de ser los preferidos indiscutibles de los niños lectores?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al palacio de los premios literarios. ¿Quién decide qué libros infantiles merecen una corona de laurel?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Es la etiqueta dorada de una portada una garantía de gozo lector o una operación de marketing editorial bien armada?",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Analizamos 20 años de premios infantiles en España: Nacional de LIJ, Lazarillo, Barco de Vapor y Gran Angular.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El 68% de los libros premiados desaparece en 10 años! Y los jurados premian el sermón moral mucho más que la risa.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Los maestros deben ser jueces con criterio propio: no compres un libro solo porque lleve faja de premiado.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "El mejor premio que puede ganar un libro infantil es que un niño no quiera apagar la luz para seguir leyendo.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver la relación entre canon de LIJ, premios literarios, pervivencia editorial y moralismo.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Pon a prueba tus saberes y debate sobre la formación de los cánones de lectura para las nuevas generaciones.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Premios Literarios y Configuración del Canon de LIJ",
+    "descripcion": "Estudio documental y bibliométrico (2002-2022): premios institucionales vs. comerciales, pervivencia en catálogo (32%), moralina y prescripción escolar.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Canon Literario de LIJ",
+        "color": "#f4d068"
+      },
+      {
+        "id": "2",
+        "label": "Premios Literarios (20 Años)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Premios Institucionales (Nacional)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Premios Comerciales (Barco de Vapor)",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Efimeridad Editorial (32% Pervive)",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "6",
+        "label": "Sesgo Moralista / Temas Cívicos",
+        "color": "#e76f51"
+      },
+      {
+        "id": "7",
+        "label": "Olvido del Humor Irreverente",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "8",
+        "label": "Prescripción Escolar Forzosa",
+        "color": "#264653"
+      },
+      {
+        "id": "9",
+        "label": "Filtros de Autoridad Adulta",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "10",
+        "label": "Mediación Lectora Crítica",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "contribuye a forjar el"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "se divide en prestigiosos"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "incluye exitosos"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "revela una alarmante"
+      },
+      {
+        "from": "2",
+        "to": "6",
+        "label": "manifiesta un reiterado"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "provoca el injusto"
+      },
+      {
+        "from": "4",
+        "to": "8",
+        "label": "busca estratégicamente la"
+      },
+      {
+        "from": "9",
+        "to": "1",
+        "label": "impone sobre los niños los"
+      },
+      {
+        "from": "10",
+        "to": "2",
+        "label": "exige evaluar sin sumisión los"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "reconstruye un auténtico y libre"
+      }
+    ]
+  }
+}

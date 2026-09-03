@@ -21,7 +21,7 @@ export default function ImplicanciasBlock({ narrative, navigateTo, navigateBackw
       animate={{ opacity: 1, x: 0 }}
       exit={{ opacity: 0, x: -50 }}
       transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
-      className="max-w-7xl mx-auto px-6 py-12 md:py-20 flex flex-col justify-center min-h-full"
+      className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 sm:py-10 md:py-14 flex flex-col justify-start min-h-full"
     >
       <div className="grid lg:grid-cols-12 gap-12 lg:gap-16 items-start">
         <div className="lg:col-span-12 text-center mb-4">

@@ -1,0 +1,302 @@
+{
+  "id": "hermann_hesse_adolescente",
+  "metadata": {
+    "title": "Hermann Hesse y el perenne laberinto adolescente en sus obras",
+    "authors": "Núria Obiols-Suari",
+    "year": "2025",
+    "journal": "Ocnos 24(1)",
+    "doi": "10.18239/ocnos_2025.24.1.499",
+    "gancho": "¿Por qué un escritor suizo-alemán de principios del siglo XX sigue siendo el mejor psicólogo para un joven del siglo XXI?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#264653",
+    "colorAlt": "#88b04b",
+    "bg": "from-slate-700/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-30.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-30.png",
+      "name": "Dra. Núria Obiols-Suari",
+      "role": "Investigadora en Pedagogía Social y Teoría de la Educación, Universitat de Barcelona"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Núria Obiols-Suari, pedagoga social y ensayista sobre literatura e identidad juvenil",
+      "gancho": "¿Es la adolescencia una enfermedad pasajera o la crisis espiritual más lúcida de la existencia humana?",
+      "contexto": "Las obras de Hermann Hesse (Premio Nobel de Literatura 1946) —como 'Demian', 'Bajo las ruedas', 'Siddhartha' y 'El lobo estepario'— han acompañado durante generaciones a millones de jóvenes en su dolorosa búsqueda de identidad propia. Esta investigación pedagógica y literaria indaga en cómo las vivencias de ruptura, la presión escolar destructiva, el despertar erótico, la rebeldía espiritual y la necesidad de individuación retratadas por Hesse mantienen una vigencia perenne para la juventud actual.",
+      "deepDives": [
+        {
+          "id": "hes-apertura-1",
+          "triggerLabel": "El proceso de individuación (Jung)",
+          "type": "theory",
+          "content": "Hesse, influido por Carl Jung, concibe la adolescencia como el combate heroico por arrancarse la máscara social y alumbrar el sí-mismo auténtico."
+        },
+        {
+          "id": "hes-apertura-2",
+          "triggerLabel": "'Bajo las ruedas' y el burnout escolar",
+          "type": "theory",
+          "content": "Crítica feroz al sistema académico castrador que exige notas perfectas a costa de la salud mental y la vida de los estudiantes."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La sociedad hiperconectada contemporánea patologiza el malestar adolescente con etiquetas médicas rápidas, perdiendo la dimensión formativa y filosófica de la crisis existencial.",
+      "porQueImporta": "La literatura de Hesse proporciona un espejo donde el adolescente no se siente un 'bicho raro', sino un ser humano atravesando el rito universal de nacer a la propia conciencia.",
+      "dataPoints": [
+        "Análisis pedagógico-hermenéutico de 6 obras clave de Hermann Hesse.",
+        "Identificación de 5 ejes nucleares: La opresión de la escuela autoritaria, La escisión entre el mundo luminoso y el oscuro, La amistad iniciática, La soledad creativa y La búsqueda del propio destino.",
+        "Paralelismos directos entre la angustia de Hans Giebenrath en 'Bajo las ruedas' y los actuales índices de ansiedad escolar adolescente.",
+        "Vigencia del concepto de 'Demian': 'La vida de todo ser humano es un camino hacia sí mismo'."
+      ],
+      "glossary": [
+        {
+          "term": "Individuación",
+          "definition": "Concepto psicológico junguiano que define el proceso de llegar a ser un individuo único, integrando la luz y la sombra de la personalidad."
+        },
+        {
+          "term": "Bildungsroman (Novela de formación)",
+          "definition": "Género narrativo que retrata la transición formativa, moral y psicológica de un personaje desde la juventud hasta la madurez."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Hermenéutica pedagógica y análisis textual comparado",
+      "narrativa": "La autora analiza los textos de Hesse contrastándolos con las teorías de la pedagogía social contemporánea y los estudios sobre salud mental juvenil.",
+      "detalles": [
+        {
+          "label": "Corpus",
+          "value": "'Demian' (1919), 'Bajo las ruedas' (1906), 'Siddhartha' (1922), 'Peter Camenzind' (1904) y ensayos."
+        },
+        {
+          "label": "Marco Teórico",
+          "value": "Pedagogía existencial, psicoanálisis humanista y teoría de la educación."
+        }
+      ],
+      "limitaciones": [
+        "Enfoque cualitativo interpretativo centrado en la tradición humanista europea."
+      ],
+      "reflexion": "Un clásico es un libro que nunca termina de decir lo que tiene que decir a cada nueva generación."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El dolor adolescente como crisol de la libertad",
+      "narrativa": "El estudio subraya la lucidez terapéutica de la prosa hesseana:",
+      "hallazgos": [
+        {
+          "label": "1. El Alivio del Reconocimiento",
+          "value": "Leer que alguien sintió hace un siglo la misma culpa, extrañeza y soledad que tú cura el aislamiento adolescente más que cualquier consejo adulto."
+        },
+        {
+          "label": "2. Denuncia de la Castración Académica",
+          "value": "Hesse nos advierte: una escuela obsesionada con el rendimiento ciego acaba triturando a sus espíritus más sensibles y brillantes."
+        }
+      ],
+      "dataPoints": [
+        "Hesse sigue siendo uno de los autores del siglo XX más releídos espontáneamente por jóvenes de 16 a 25 años en bibliotecas y plataformas digitales."
+      ],
+      "reflexion": "No hay que aplastar las dudas del adolescente: hay que darle libros que las acompañen con grandeza."
+    },
+    "marco": {
+      "titulo": "Discusión: Hesse como lectura de rescate en Secundaria",
+      "narrativa": "Núria Obiols propone recuperar a Hesse en el canon de Educación Secundaria:",
+      "detalles": [
+        {
+          "label": "Lectura Existencial Acompañada",
+          "value": "Crear tertulias literarias sobre 'Demian' para hablar abiertamente de salud mental, sentido de la vida y autenticidad."
+        }
+      ],
+      "reflexion": "La literatura no ofrece recetas para ser feliz: ofrece el coraje de ser uno mismo a pesar de todo."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué claves formativas y pedagógicas explican la vigencia universal de la vivencia adolescente en las obras de Hermann Hesse?",
+      "conclusion": "La investigación hermenéutica en las obras de Hermann Hesse demuestra que su narrativa capta con precisión quirúrgica el periplo existencial de la adolescencia: el choque con las normas escolares, la desgarradura de la individuación y la soledad en la búsqueda de sentido. Lejos de ser piezas de museo, obras como 'Demian' y 'Bajo las ruedas' se revelan como lecturas de rescate humanista para la juventud contemporánea, ofreciendo un refugio poético y ético frente a la presión deshumanizadora de la sociedad actual.",
+      "formalRef": "Obiols-Suari, N. (2025). Hermann Hesse y el perenne laberinto adolescente en sus obras. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.499"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué obra de Hermann Hesse retrata de forma más desgarradora las consecuencias destructivas de la presión escolar autoritaria sobre la salud mental de un joven sensible?",
+          "options": [
+            "'El juego de los abalorios'.",
+            "'Bajo las ruedas' (Unterm Rad, 1906).",
+            "'El lobo estepario'.",
+            "'Siddhartha'."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué concepto del psicoanálisis de Carl Jung impregna la novela 'Demian' y define la maduración adolescente?",
+          "options": [
+            "El complejo de Electra financiero.",
+            "El proceso de individuación (la dolorosa conquista del sí-mismo auténtico integrando luz y sombra).",
+            "La hipnosis regresiva.",
+            "El condicionamiento pavloviano."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué las obras de Hesse mantienen un poder terapéutico y pedagógico tan vivo para los jóvenes de hoy?",
+          "options": [
+            "Porque enseñan trucos para aprobar exámenes de matemáticas.",
+            "Porque legitiman la angustia, la soledad y la duda existencial como fases necesarias de maduración moral en lugar de patologizarlas.",
+            "Porque son libros muy cortos de dos páginas.",
+            "Porque prometen riqueza material a quien los lee."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "La célebre frase de 'Demian' dice: 'El pájaro rompe el cascarón. El cascarón es el mundo. Quien quiera nacer tiene que destruir un mundo'. ¿Cómo debatirías esta metáfora con tus alumnos de 4.º de ESO o 1.º de Bachillerato relacionándola con la presión social de las redes?"
+        },
+        {
+          "type": "open",
+          "q": "¿Qué paralelismos encuentras entre el sufrimiento de Hans Giebenrath en 'Bajo las ruedas' por las expectativas de sus padres y maestros y los problemas de ansiedad y 'burnout' académico que padecen muchos escolares hoy en día?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al laberinto del alma adolescente. Hermann Hesse nos espera para recordarnos quiénes fuimos y quiénes somos.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Es la adolescencia un problema a corregir o el momento más luminoso y rebelde de la vida? Hesse no duda.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Recorremos 'Demian', 'Bajo las ruedas' y 'Siddhartha' con la mirada atenta de la pedagogía existencial.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El dolor del adolescente es la ruptura del cascarón! Romper con el molde impuesto es la única forma de nacer a la libertad.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Cuidado con la escuela que tritura mentes por una nota: Hesse lo denunció hace más de un siglo y sigue ocurriendo.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La vida de todo ser humano es un camino hacia sí mismo: caminemos con valentía y sin máscaras.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver la arquitectura hesseana: individuación, crisis escolar, Demian, sombra y despertar.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y atrévete a acompañar las crisis adolescentes con la hondura de los grandes clásicos.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Hermann Hesse y la Pedagogía de la Individuación Adolescente",
+    "descripcion": "Hermenéutica pedagógica: proceso de individuación (Jung), ruptura del cascarón, crítica al burnout escolar en 'Bajo las ruedas' y 'Demian'.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Hermann Hesse y la Adolescencia",
+        "color": "#264653"
+      },
+      {
+        "id": "2",
+        "label": "Proceso de Individuación (Jung)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "'Demian' y la Ruptura del Cascarón",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "'Bajo las Ruedas' (Burnout Escolar)",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "5",
+        "label": "Escisión Luz vs. Sombra",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "6",
+        "label": "Opresión de la Escuela Autoritaria",
+        "color": "#e76f51"
+      },
+      {
+        "id": "7",
+        "label": "Soledad Creativa y Despertar",
+        "color": "#f4d068"
+      },
+      {
+        "id": "8",
+        "label": "Amistad Iniciática y Guía",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "9",
+        "label": "Rescate Humanista en Secundaria",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "10",
+        "label": "Autenticidad y Sentido Vital",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "fundamenta su visión en el"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "alcanza su cumbre lírica en"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "denuncia el dolor en"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "plantea la angustiosa"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "combate la deshumanización de la"
+      },
+      {
+        "from": "2",
+        "to": "7",
+        "label": "exige atravesar la"
+      },
+      {
+        "from": "3",
+        "to": "8",
+        "label": "encuentra apoyo en la"
+      },
+      {
+        "from": "9",
+        "to": "1",
+        "label": "propone la relectura urgente de"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "guía a los jóvenes hacia la"
+      },
+      {
+        "from": "10",
+        "to": "2",
+        "label": "culmina con éxito la"
+      }
+    ]
+  }
+}

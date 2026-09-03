@@ -1,0 +1,316 @@
+{
+  "id": "prosodia_lectores_vasco",
+  "metadata": {
+    "title": "Clasificación de jóvenes lectores en un modelo de aprendizaje inmersivo",
+    "authors": "Aitor Iglesias y Aintzane Etxebarria",
+    "year": "2026",
+    "journal": "Ocnos 25(1)",
+    "doi": "10.18239/ocnos_2026.25.1.638",
+    "gancho": "¿Qué secretos revela el ritmo de tu voz, tus pausas y tu respiración cuando lees un cuento en voz alta?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#2a5a75",
+    "bg": "from-teal-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-10.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-10.png",
+      "name": "Dr. Aitor Iglesias",
+      "role": "Investigador en Fonética Experimental y Lingüística Vasca, Universidad del País Vasco (UPV/EHU)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Aitor Iglesias, especialista en fonética acústica y prosodia lectora",
+      "gancho": "¿Es la fluidez lectora solo cuestión de correr mucho o de saber cuándo detenerse a respirar?",
+      "contexto": "La lectura en voz alta no es una simple prueba mecánica: la prosodia (entonación, duración de pausas, velocidad de articulación) es la manifestación acústica directa de cómo el cerebro está interpretando el texto en tiempo real. En entornos de aprendizaje inmersivo bilingüe, clasificar con rigor la fluidez lectora permite detectar dificultades encubiertas. En esta investigación con 151 jóvenes universitarios euskaldunes de la UPV/EHU, los autores utilizaron técnicas de 'machine learning' (algoritmos K-means) sobre 6 parámetros acústicos objetivos para identificar clusters de lectores y explorar su relación con variables sociolingüísticas.",
+      "deepDives": [
+        {
+          "id": "plv-apertura-1",
+          "triggerLabel": "¿Qué parámetros prosódicos se midieron?",
+          "type": "theory",
+          "content": "Tiempo total de lectura, tiempo de articulación fonética neta, tiempo acumulado de pausas, velocidad de habla (sílabas/segundo), velocidad de articulación y duración media por pausa."
+        },
+        {
+          "id": "plv-apertura-2",
+          "triggerLabel": "El algoritmo K-means no supervisado",
+          "type": "theory",
+          "content": "Método de agrupamiento estadístico que clasifica a los individuos en K grupos según su proximidad en un espacio euclídeo multidimensional sin sesgos humanos previos."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La fluidez suele evaluarse con un cronómetro contando 'palabras leídas por minuto', un método simplista que premia la velocidad precipitada y castiga las pausas expresivas legítimas. Se requería una taxonomía acústica objetiva que distinguiera los perfiles lectores.",
+      "porQueImporta": "En la formación de futuros docentes en lenguas cooficiales, dominar la prosodia es vital: un maestro con lectura monótona o vacilante no sabrá entusiasmar a sus alumnos con la narración oral.",
+      "dataPoints": [
+        "Muestra de 151 jóvenes universitarios leyendo en voz alta un texto narrativo estandarizado en lengua vasca (euskera).",
+        "El algoritmo K-means identificó 5 perfiles lectores estables ordenados en gradiente (desde lectores muy rápidos con pausas breves hasta lectores lentos con pausas largas y numerosas).",
+        "No se hallaron asociaciones estadísticamente significativas entre los perfiles y variables sociolingüísticas como la lengua materna o el modelo educativo de origen.",
+        "El tiempo dedicado a las pausas y no la velocidad de articulación de los fonemas fue el factor más determinante para separar a los grupos."
+      ],
+      "glossary": [
+        {
+          "term": "Prosodia lectora",
+          "definition": "Conjunto de rasgos fónicos suprasegmentales (entonación, acentuación, ritmo y pausas) que acompañan a la lectura en voz alta y estructuran el significado."
+        },
+        {
+          "term": "K-means (Agrupamiento K-medias)",
+          "definition": "Algoritmo de aprendizaje no supervisado que particiona un conjunto de observaciones en k conglomerados homogéneos."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Registro fonético con Praat y clusterización K-means",
+      "narrativa": "Los 151 participantes leyeron el texto narrativo en cabinas insonorizadas. Las grabaciones fueron procesadas con el software fonético Praat, extrayendo los 6 parámetros acústicos temporales. Luego se normalizaron las variables y se aplicó el algoritmo K-means en SPSS/R.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "151 estudiantes universitarios del País Vasco (bilingües euskera-castellano)."
+        },
+        {
+          "label": "Texto",
+          "value": "Texto narrativo calibrado en euskera estándar (Batua) con complejidad sintáctica media."
+        },
+        {
+          "label": "Software",
+          "value": "Praat para análisis de oscilogramas y espectrogramas; algoritmos K-means y tablas de contingencia chi-cuadrado."
+        }
+      ],
+      "limitaciones": [
+        "Muestra de hablantes bilingües con alta competencia académica, no extrapolable directamente a escolares de Primaria.",
+        "Texto de género exclusivamente narrativo."
+      ],
+      "reflexion": "La ciencia acústica demuestra que quien lee bien no es quien corre, sino quien sabe organizar el silencio entre las palabras."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Los 5 perfiles lectores y el peso del silencio",
+      "narrativa": "La clusterización K-means reveló una distribución sumamente esclarecedora:",
+      "hallazgos": [
+        {
+          "label": "1. Cinco Perfiles en Gradiente Continuo",
+          "value": "Grupo 1 (muy rápidos, pausas mínimas) hasta Grupo 5 (muy lentos, pausas prolongadas y frecuentes), pasando por perfiles medios equilibrados."
+        },
+        {
+          "label": "2. La Pausa como Indicador Crítico",
+          "value": "La diferencia clave entre un buen lector y uno inseguro no radica en cuán rápido mueve la lengua, sino en cuántas pausas titubeantes introduce."
+        },
+        {
+          "label": "3. Independencia de la Lengua Materna",
+          "value": "Los perfiles no dependieron de si el euskera era su primera lengua o la aprendieron en la escuela, demostrando el éxito del modelo de inmersión."
+        }
+      ],
+      "dataPoints": [
+        "El tiempo medio por pausa varió desde 0.38 segundos en el Grupo 1 hasta 0.72 segundos en el Grupo 5.",
+        "Las pruebas de contingencia chi-cuadrado mostraron p > .05 respecto al género y dialecto familiar."
+      ],
+      "reflexion": "La pausa no es tiempo perdido: es el milisegundo en el que la mente del lector respira y comprende lo que viene a continuación."
+    },
+    "marco": {
+      "titulo": "Discusión: Trascender el cronómetro en la evaluación de la lectura oral",
+      "narrativa": "Iglesias y Etxebarria instan a actualizar las metodologías de evaluación docente:",
+      "detalles": [
+        {
+          "label": "Superar la Tiranía de las Palabras por Minuto",
+          "value": "Medir solo velocidad induce a los alumnos a atropellar el texto sin entonación. Hay que evaluar la pertinencia sintáctica de las pausas."
+        },
+        {
+          "label": "Intervenciones Prosódicas Específicas",
+          "value": "Para ayudar a los lectores del Grupo 5, el entrenamiento no debe consistir en 'leer más rápido', sino en aprender a segmentar oraciones en unidades de sentido."
+        }
+      ],
+      "reflexion": "Aprender a leer en voz alta es aprender a musicalizar el pensamiento."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo se clasifican los jóvenes lectores en función de sus parámetros prosódicos y qué factores sociolingüísticos inciden en su perfil?",
+      "conclusion": "El análisis acústico y la clusterización K-means de 151 universitarios en un modelo de inmersión en lengua vasca clasifican de forma estable a los lectores en cinco perfiles prosódicos continuos basados en seis variables temporales. Los resultados demuestran que el factor diferenciador crítico es la gestión de las pausas (tiempo y frecuencia) y no la velocidad articulatoria pura. Asimismo, la ausencia de correlaciones significativas con la lengua materna o el modelo educativo evidencia la consolidación de la competencia lectora en la Educación Superior, exigiendo a la pedagogía abandonar la evaluación por velocidad y priorizar la prosodia expresiva.",
+      "formalRef": "Iglesias, A., & Etxebarria, A. (2026). Clasificación de jóvenes lectores en un modelo de aprendizaje inmersivo. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.638"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál fue el parámetro acústico más determinante para diferenciar los perfiles lectores de los 151 estudiantes según el algoritmo K-means?",
+          "options": [
+            "El volumen o intensidad en decibelios de la voz.",
+            "La duración y frecuencia de las pausas en relación con el tiempo de articulación.",
+            "El tono agudo o grave de la voz.",
+            "El acento regional de cada pueblo."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué relación se encontró entre los perfiles de lectura prosódica y variables como la lengua materna de los participantes?",
+          "options": [
+            "Los hablantes nativos leyeron diez veces más rápido.",
+            "No se encontraron asociaciones estadísticamente significativas, demostrando la eficacia homogeneizadora del modelo inmersivo.",
+            "Los participantes que aprendieron euskera en la escuela se negaron a leer.",
+            "El género determinó el 99 % de los resultados."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué los autores desaconsejan evaluar la lectura en voz alta contando únicamente 'palabras leídas por minuto'?",
+          "options": [
+            "Porque los cronómetros digitales se estropean a menudo.",
+            "Porque premia la velocidad precipitada e ignora la entonación, el ritmo y la correcta delimitación de unidades sintácticas mediante pausas.",
+            "Porque en euskera las palabras no se pueden contar.",
+            "Porque la lectura en voz alta ya no se practica en ningún país."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Si un estudiante de tu aula lee a trompicones con pausas excesivamente largas e intermedias dentro de las frases, ¿qué ejercicio de lectura compartida o teatro leído diseñarías para ayudarle a agrupar palabras en bloques de significado?"
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo explicarías a los padres que su hijo lea despacio pero con una entonación perfecta y respeto a los signos de puntuación es mucho mejor que un niño que lee a toda prisa sin entender lo que dice?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al laboratorio de fonética acústica. Hoy escucharemos el latido del texto a través de las pausas y el ritmo de la voz.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Quién lee mejor: el que corre como una locomotora o el que sabe callar en el momento justo? La ciencia de Praat nos lo revela.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "151 grabaciones de universitarios procesadas con algoritmos K-means no supervisados sobre 6 variables temporales.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡5 perfiles nítidos! Y la clave está en el silencio: las pausas revelan si el cerebro está procesando el sentido o atascado en las letras.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Basta de evaluar con cronómetro en mano. Leer en voz alta no es una carrera de 100 metros lisos: es interpretar música con palabras.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Quien domina el silencio al leer, domina la atención y el corazón de quien escucha.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para conectar la prosodia lectora, Praat, los clusters K-means, las pausas y la inmersión lingüística.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y diseña estrategias para entrenar la musicalidad y la fluidez de tus estudiantes.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Prosodia Lectora y Clasificación Acústica de Lectores",
+    "descripcion": "Modelado no supervisado K-means de 151 lectores: velocidad de habla, pausas, fonética experimental y superación del cronómetro escolar.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Prosodia y Fluidez Lectora",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "2",
+        "label": "Fonética Acústica con Praat",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Algoritmo K-means (5 Perfiles)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Gestión del Silencio (Pausas)",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Velocidad de Articulación",
+        "color": "#f4d068"
+      },
+      {
+        "id": "6",
+        "label": "Modelo Inmersivo Bilingüe",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "7",
+        "label": "Independencia de Lengua Materna",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "8",
+        "label": "Tiranía del Cronómetro Escolar",
+        "color": "#e76f51"
+      },
+      {
+        "id": "9",
+        "label": "Construcción del Significado",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Pedagogía de la Lectura Oral",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "mide objetivamente la"
+      },
+      {
+        "from": "3",
+        "to": "1",
+        "label": "clasifica los perfiles de la"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "demuestra el rol crítico de la"
+      },
+      {
+        "from": "4",
+        "to": "9",
+        "label": "es la manifestación del proceso de"
+      },
+      {
+        "from": "8",
+        "to": "5",
+        "label": "sobrevalora erróneamente la"
+      },
+      {
+        "from": "8",
+        "to": "4",
+        "label": "castiga injustamente la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "logra consolidar la"
+      },
+      {
+        "from": "7",
+        "to": "3",
+        "label": "se refleja en la homogeneidad de"
+      },
+      {
+        "from": "10",
+        "to": "8",
+        "label": "desmantela y supera la"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "enseña a musicalizar la"
+      }
+    ]
+  }
+}

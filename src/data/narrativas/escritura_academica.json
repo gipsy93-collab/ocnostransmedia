@@ -1,0 +1,316 @@
+{
+  "id": "escritura_academica",
+  "metadata": {
+    "title": "La evaluación de la escritura académica en Educación Primaria, Secundaria y Educación Superior",
+    "authors": "Rocío Cuberos-Vicente y Elisa Rosado",
+    "year": "2026",
+    "journal": "Ocnos 25(1)",
+    "doi": "10.18239/ocnos_2026.25.1.588",
+    "gancho": "¿Cómo evoluciona la capacidad de redactar un texto analítico desde un niño de 10 años hasta un graduado universitario?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#2a5a75",
+    "bg": "from-purple-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-6.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-6.png",
+      "name": "Dra. Rocío Cuberos-Vicente",
+      "role": "Investigadora en Lingüística Aplicada y Adquisición de la Escritura, Universidad Complutense de Madrid"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Rocío Cuberos-Vicente, lingüista especializada en desarrollo del registro académico y evaluación textual",
+      "gancho": "¿Qué hace que un texto suene verdaderamente 'académico': las palabras rebuscadas o la arquitectura lógica de sus oraciones?",
+      "contexto": "Escribir un ensayo o informe académico no es una habilidad natural: es un registro lingüístico formal que requiere empaquetar información densa mediante nominalizaciones, subordinación compleja y marcadores discursivos precisos. Docentes de todos los niveles suelen quejarse de que los estudiantes 'no saben redactar', pero faltaban herramientas estandarizadas para medir objetivamente la calidad textual. En esta investigación con 212 textos analíticos de Primaria, Secundaria y Universidad, investigadoras de la UCM y la UB evaluaron el desarrollo evolutivo de los recursos morfosintácticos, léxicos y retóricos mediante rúbricas analíticas validadas.",
+      "deepDives": [
+        {
+          "id": "ea-apertura-1",
+          "triggerLabel": "¿Qué es el 'registro académico'?",
+          "type": "theory",
+          "content": "Biber (2006) y Schleppegrell (2004) lo definen como una variedad funcional caracterizada por alta densidad léxica, despersonalización (pasivas, impersonales) y condensación sintáctica."
+        },
+        {
+          "id": "ea-apertura-2",
+          "triggerLabel": "Corpus de 212 textos analíticos",
+          "type": "data",
+          "content": "Muestra transversal compuesta por 65 alumnos de Primaria (6.º curso), 78 de Secundaria (4.º ESO) y 69 universitarios redactando sobre el mismo dilema social."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La evaluación de la escritura suele ser subjetiva e impresionista: los profesores califican según su 'sensación' sin una rúbrica que desglose qué recursos lingüísticos marcan la diferencia entre un nivel y el siguiente.",
+      "porQueImporta": "El dominio de la escritura académica es el principal filtro de éxito socioeducativo. Sin criterios analíticos explícitos, los estudiantes vulnerables no aprenden cómo mejorar su redacción.",
+      "dataPoints": [
+        "Análisis de 212 textos analíticos codificados morfosintáctica y retóricamente.",
+        "Crecimiento evolutivo constante en la complejidad de cláusulas y longitud media de oración desde Primaria hasta la Universidad.",
+        "Paradoja detectada: la densidad léxica y la proporción de marcadores discursivos no mostraron un incremento lineal, estancándose en Secundaria.",
+        "Alta concordancia interjueces en la rúbrica analítica, demostrando su validez como instrumento de evaluación objetiva."
+      ],
+      "glossary": [
+        {
+          "term": "Densidad léxica",
+          "definition": "Proporción de palabras con contenido semántico pleno (sustantivos, adjetivos, verbos léxicos) en relación con el total de palabras de un texto."
+        },
+        {
+          "term": "Rúbrica analítica",
+          "definition": "Instrumento de evaluación que desglosa un desempeño en criterios independientes con descriptores graduales de logro."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Corpus transversal de 212 textos y rúbricas multidimensionales",
+      "narrativa": "Los estudiantes de los tres niveles redactaron un texto analítico a partir del mismo estímulo. Posteriormente, los textos fueron codificados con software lingüístico y evaluados por paneles docentes independientes.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "65 de Primaria, 78 de Secundaria y 69 universitarios en Madrid y Barcelona."
+        },
+        {
+          "label": "Tarea",
+          "value": "Redacción analítica sobre un dilema moral y cívico a partir de una guía común."
+        },
+        {
+          "label": "Dimensiones",
+          "value": "Morfosintaxis (subordinación), léxico (diversidad y sofisticación) y retórica (estructura argumentativa y voz autoral)."
+        }
+      ],
+      "limitaciones": [
+        "Diseño transversal y no longitudinal de seguimiento a los mismos sujetos.",
+        "Género textual específico (texto analítico de opinión razonada)."
+      ],
+      "reflexion": "La escritura madura no es espontánea: se adquiere peldaño a peldaño mediante instrucción explícita y modelado."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Dónde madura y dónde se atasca la escritura",
+      "narrativa": "El cruce entre codificación lingüística y juicio docente arrojó conclusiones esclarecedoras:",
+      "hallazgos": [
+        {
+          "label": "1. La Morfosintaxis Avanza Siempre",
+          "value": "A medida que crecen, los estudiantes subordinan más y empaquetan más proposiciones por oración de forma natural."
+        },
+        {
+          "label": "2. El Estancamiento de los Conectores",
+          "value": "Muchos universitarios siguen usando los mismos conectores básicos de Primaria ('pero', 'también', 'porque') sin incorporar conectores contraargumentativos refinados ('no obstante', 'por consiguiente')."
+        },
+        {
+          "label": "3. La Rúbrica como Herramienta Formativa",
+          "value": "La rúbrica analítica permitió a los profesores señalar con precisión quirúrgica dónde fallaba el texto de un estudiante."
+        }
+      ],
+      "dataPoints": [
+        "La longitud media de la unidad terminal (T-unit) pasó de 9.4 palabras en Primaria a 16.8 en la Universidad.",
+        "El 60% de los textos universitarios analizados carecía de una conclusión dialéctica balanceada."
+      ],
+      "reflexion": "Escribir bien en la universidad no es tener talento innato: es haber sido entrenado en los códigos del discurso formal."
+    },
+    "marco": {
+      "titulo": "Discusión: Enseñar a escribir a través de todo el currículo escolar y universitario",
+      "narrativa": "Cuberos-Vicente y Rosado instan a desterrar el mito de que 'aprender a escribir' termina en Primaria:",
+      "detalles": [
+        {
+          "label": "Escribir a Través del Currículo (WAC)",
+          "value": "No solo el profesor de Lengua debe enseñar a redactar: los docentes de historia, biología o economía deben modelar la escritura de sus disciplinas."
+        },
+        {
+          "label": "Rúbricas Compartidas con los Alumnos",
+          "value": "Entregar la rúbrica antes de escribir permite al estudiante autorregular su redacción y autoevaluarse con criterio."
+        }
+      ],
+      "reflexion": "La claridad de la escritura es el espejo de la claridad del pensamiento."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo se relacionan los recursos lingüísticos objetivos y la calidad evaluada en textos académicos a lo largo de las etapas educativas?",
+      "conclusion": "El estudio transversal de 212 textos analíticos de Primaria, Secundaria y Universidad confirma un desarrollo continuo en la complejidad sintáctica y longitud oracional, pero revela vacíos en la densidad léxica y el uso de conectores discursivos avanzados. El desarrollo de rúbricas analíticas rigurosas demuestra ser indispensable para desterrar la evaluación intuitiva y proporcionar a docentes y estudiantes un mapa compartido de las características que definen la excelencia en la escritura académica.",
+      "formalRef": "Cuberos-Vicente, R., & Rosado, E. (2026). La evaluación de la escritura académica en Educación Primaria, Secundaria y Educación Superior. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.588"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué característica lingüística mostró un incremento evolutivo continuo y consistente desde Primaria hasta la Universidad?",
+          "options": [
+            "La cantidad de faltas de ortografía.",
+            "La complejidad sintáctica y la longitud de las cláusulas y oraciones.",
+            "El uso de emoticonos en el texto.",
+            "El número de adjetivos calificativos simples."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué aspecto lingüístico experimentó un estancamiento inesperado entre Secundaria y la Universidad?",
+          "options": [
+            "La capacidad de escribir a máquina.",
+            "La proporción de conectores y marcadores discursivos avanzados y la densidad léxica.",
+            "El uso de puntos y comas.",
+            "La letra cursiva."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál es la principal ventaja pedagógica de usar rúbricas analíticas para evaluar la escritura académica?",
+          "options": [
+            "Permite corregir exámenes en un segundo sin leerlos.",
+            "Desglosa criterios objetivos que facilitan el feedback formativo y la autorregulación del estudiante frente a notas subjetivas globales.",
+            "Obliga a poner siempre la misma nota a todos los alumnos.",
+            "Elimina la necesidad de escribir textos en clase."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Si tus estudiantes de Secundaria abusan de los conectores 'pero' y 'porque', ¿qué actividad de andamiaje diseñarías para introducir conectores concesivos y causales formales ('a pesar de que', 'puesto que', 'en consecuencia')?"
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo adaptarías la rúbrica de escritura analítica descrita en el estudio para que los propios alumnos la usen en una sesión de coevaluación por parejas?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al laboratorio de la escritura académica. Vamos a seguir la pista a 212 textos para entender cómo madura la pluma.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Decirle a un alumno 'escribe mejor' no sirve de nada. Necesitamos desglosar los engranajes exactos del registro culto.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Comparamos Primaria, Secundaria y Universidad con el mismo estímulo y con software de análisis lingüístico.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Sorpresa! La sintaxis crece sola, pero el vocabulario y los conectores avanzados se estancan si no se enseñan de forma explícita.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Escribir no es solo cosa del profesor de Lengua. Todas las materias deben enseñar su propia jerga y su forma de argumentar.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Una buena rúbrica no es para poner una nota: es un espejo para que el alumno aprenda a pensar sobre lo que escribe.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para conectar la escritura académica, las rúbricas analíticas, la densidad léxica y el desarrollo evolutivo.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Aplica lo aprendido y diseña herramientas de evaluación formativa para los textos de tus estudiantes.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Evaluación del Desarrollo de la Escritura Académica",
+    "descripcion": "Trayectoria evolutiva desde Primaria hasta la Universidad: complejidad sintáctica, densidad léxica, marcadores discursivos y rúbricas analíticas.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Registro Académico",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "2",
+        "label": "Rúbricas Analíticas Validadas",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Complejidad Sintáctica (T-units)",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "Densidad Léxica",
+        "color": "#f4d068"
+      },
+      {
+        "id": "5",
+        "label": "Marcadores Discursivos y Conectores",
+        "color": "#e88b8c"
+      },
+      {
+        "id": "6",
+        "label": "Estancamiento en Secundaria",
+        "color": "#e76f51"
+      },
+      {
+        "id": "7",
+        "label": "Evaluación Formativa Objetiva",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "8",
+        "label": "Corpus 212 Textos (UCM / UB)",
+        "color": "#264653"
+      },
+      {
+        "id": "9",
+        "label": "Escribir a Través del Currículo",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "10",
+        "label": "Autorregulación del Escritor",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "8",
+        "to": "1",
+        "label": "analiza el desarrollo del"
+      },
+      {
+        "from": "2",
+        "to": "1",
+        "label": "evalúa con rigor los criterios del"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "requiere alta"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "se caracteriza por una elevada"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "se articula mediante"
+      },
+      {
+        "from": "6",
+        "to": "5",
+        "label": "identifica un freno en el uso de"
+      },
+      {
+        "from": "2",
+        "to": "7",
+        "label": "transforma la corrección en"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "fomenta en el estudiante la"
+      },
+      {
+        "from": "9",
+        "to": "1",
+        "label": "generaliza en todas las materias el"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "capacita para dominar el"
+      }
+    ]
+  }
+}

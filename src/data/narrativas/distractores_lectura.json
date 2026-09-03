@@ -1,0 +1,262 @@
+{
+  "id": "distractores_lectura",
+  "metadata": {
+    "title": "Efecto de distractores externos en la comprensión de textos: un metaanálisis",
+    "authors": "Sofía-Soledad Ortiz, Jesica Formoso y Juan-Pablo Barreyro",
+    "year": "2026",
+    "journal": "Ocnos 25(2)",
+    "doi": "10.18239/ocnos_2026.25.2.581",
+    "gancho": "¿Por qué un simple aviso en la pantalla del móvil destruye más tu comprensión lectora que la música a todo volumen en la habitación de al lado?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#2a5a75",
+    "bg": "from-red-500/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-17.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-17.png",
+      "name": "Dra. Sofía-Soledad Ortiz",
+      "role": "Investigadora en Neuropsicología Cognitiva y Memoria de Trabajo, CONICET / UBA (Argentina)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Sofía-Soledad Ortiz, investigadora del CONICET y especialista en atención ejecutiva y lectura",
+      "gancho": "¿Es posible comprender a fondo un texto mientras respondes notificaciones en el teléfono o la multitarea digital es una trampa mortal para el cerebro?",
+      "contexto": "Vivimos en la era de la economía de la atención: los estudiantes leen rodeados de pestañas abiertas, alertas de mensajería instantánea y ruidos ambientales continuos. La cultura popular suele asumir que las nuevas generaciones son 'multitarea nativas' capaces de procesar varios estímulos a la vez sin coste alguno. Pero la neurociencia cognitiva sospechaba lo contrario: la comprensión de textos exige construir y actualizar en la memoria de trabajo un complejo 'modelo de situación' (Kintsch, 1998) que cualquier intrusión puede colapsar. En este riguroso metaanálisis psicométrico, investigadores del CONICET en Argentina recopilaron la evidencia experimental mundial para cuantificar con precisión matemática cuánto daño hacen las distracciones y desvelar si son más destructivos los estímulos visuales o los auditivos.",
+      "deepDives": [
+        {
+          "id": "dist-apertura-1",
+          "triggerLabel": "¿Qué diferencia una 'interferencia' de una 'interrupción'?",
+          "type": "theory",
+          "content": "Una 'interferencia' es un estímulo de fondo continuo que compite pasivamente por recursos (como música ambiental o murmullo de cafetería). Una 'interrupción' es un evento abrupto que obliga al lector a desconectar de la lectura para atender una tarea secundaria activa (como responder un mensaje de WhatsApp o cerrar un pop-up publicitario)."
+        },
+        {
+          "id": "dist-apertura-2",
+          "triggerLabel": "Teoría de la Carga Cognitiva y Memoria de Trabajo",
+          "type": "theory",
+          "content": "Sweller (2011) y Baddeley (2000) explican que la memoria de trabajo tiene una capacidad estrictamente limitada. El bucle fonológico y la agenda visoespacial procesan información de forma selectiva. Si un distractor satura la memoria con 'carga cognitiva extrínseca', no quedan recursos para integrar las ideas del texto en la memoria a largo plazo."
+        },
+        {
+          "id": "dist-apertura-3",
+          "triggerLabel": "El tamaño de efecto g de Hedges",
+          "type": "data",
+          "content": "A diferencia de la d de Cohen simple, la g de Hedges corrige el sesgo por muestras pequeñas en metaanálisis. Un valor de g = 0.45 representa un impacto negativo moderado y altamente significativo en el rendimiento cognitivo."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Aunque existe consenso intuitivo sobre el perjuicio de distraerse, la literatura experimental mostraba resultados contradictorios: algunos estudios afirmaban que la música instrumental facilitaba la concentración, mientras otros denunciaban caídas drásticas en la comprensión. Se requería una síntesis metaanalítica que resolviera estas discrepancias analizando los factores moderadores: ¿qué distractor es más letal, el visual o el auditivo? ¿la música o la notificación?",
+      "porQueImporta": "En un mundo donde la lectura académica se ha desplazado casi por completo a las pantallas digitales, ignorar el impacto del coste atencional condena a los estudiantes a una comprensión superficial e ilusoria, con graves secuelas para el aprendizaje profundo en secundaria y universidad.",
+      "dataPoints": [
+        "Metaanálisis sobre 7 estudios experimentales rigurosos con 16 tamaños de efecto independientes.",
+        "Tamaño del efecto combinado global negativo moderado y estadísticamente significativo: g = 0.45 (IC 95% [0.29, 0.60], p < .001).",
+        "Moderador Tipo de Distractor: las interrupciones activas causan casi el doble de daño (b = 0.68, p < .001) que las interferencias de fondo (b = 0.36, p < .001).",
+        "Moderador Modalidad Sensorial: los distractores visuales en pantalla perjudican mucho más (b = 0.62, p < .001) que los distractores auditivos (b = 0.37, p = .001).",
+        "Competencia de recursos: los distractores visuales compiten directamente por la misma vía retiniana y el mismo subsistema visoespacial que procesa las palabras escritas.",
+        "Persistencia de heterogeneidad residual (I² = 47-56%), indicando que la complejidad del texto y la memoria de trabajo individual modulan el impacto final."
+      ],
+      "glossary": [
+        {
+          "term": "Metaanálisis",
+          "definition": "Técnica estadística avanzada que sintetiza cuantitativamente los resultados de múltiples investigaciones independientes para estimar el tamaño de efecto real de un fenómeno."
+        },
+        {
+          "term": "g de Hedges",
+          "definition": "Medida estandarizada del tamaño del efecto que cuantifica la diferencia entre dos grupos en unidades de desviación estándar, ajustada por tamaño muestral."
+        },
+        {
+          "term": "Atención ejecutiva",
+          "definition": "Capacidad cognitiva de alto nivel encargada de inhibir estímulos irrelevantes y mantener activos los objetivos de procesamiento frente a distracciones (Engle, 2002)."
+        },
+        {
+          "term": "Coste de cambio de tarea (Task Switching Cost)",
+          "definition": "Pérdida de tiempo y precisión cognitiva que se produce cuando el cerebro se ve obligado a alternar entre dos demandas atencionales incompatibles."
+        },
+        {
+          "term": "Heterogeneidad estadística (I²)",
+          "definition": "Porcentaje de variabilidad en los resultados de un metaanálisis que se debe a diferencias verdaderas entre los estudios y no al mero azar."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Protocolo PRISMA, modelos de efectos aleatorios y metarregresión",
+      "narrativa": "Los investigadores de CONICET y la Universidad de Buenos Aires rastrearon bases de datos científicas internacionales (PubMed, Scopus, PsycINFO, ERIC) aplicando directrices PRISMA. Seleccionaron únicamente estudios experimentales con grupo de control sin distractor y medidas objetivas de comprensión textual. Utilizaron un modelo metaanalítico de efectos aleatorios con estimador de varianza robusta para manejar dependencias entre tamaños de efecto y ejecutaron metarregresiones para examinar los moderadores teóricos.",
+      "detalles": [
+        { "label": "Bases de Datos", "value": "PsycINFO, Scopus, PubMed, SciELO y ERIC (búsqueda exhaustiva sin restricción cronológica inicial)." },
+        { "label": "Criterios de Inclusión", "value": "Estudios experimentales con manipulación controlada de distractores externos y pruebas estandarizadas de comprensión." },
+        { "label": "Modelo Estadístico", "value": "Modelo de efectos aleatorios con ponderación inversa de la varianza en lenguaje R (paquetes metafor y robumeta)." },
+        { "label": "Variables Moderadoras", "value": "Tipo de distractor (interrupción vs. interferencia), modalidad sensorial (visual vs. auditiva) y tipo de texto." }
+      ],
+      "limitaciones": [
+        "Número acotado de estudios (7 estudios, 16 tamaños de efecto) que cumplieron con los estándares metodológicos más rigurosos.",
+        "Predominio de muestras de estudiantes universitarios, requiriendo mayor investigación empírica en niños y adolescentes.",
+        "Variabilidad en la duración de las pruebas experimentales de lectura."
+      ],
+      "reflexion": "La precisión estadística del metaanálisis desmonta el mito de la multitarea: el cerebro humano es un procesador de canal único cuando se trata de comprensión textual profunda."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Por qué la pantalla distraída es dos veces más letal que el ruido",
+      "narrativa": "Los resultados de las metarregresiones aportan evidencias inapelables para la ergonomía del estudio y la neurociencia cognitiva:",
+      "hallazgos": [
+        {
+          "label": "1. El Daño Irrefutable de la Distracción (g = 0.45)",
+          "value": "Cualquier distractor externo deteriora la comprensión lectora de forma moderada pero altamente significativa. No existe la 'inmunidad' a la distracción, incluso en sujetos que se creen expertos en multitarea."
+        },
+        {
+          "label": "2. La Interrupción es el Peor Enemigo (b = 0.68)",
+          "value": "Cuando el distractor exige detener la lectura y actuar (como responder un chat), el daño casi duplica al de un ruido de fondo (b = 0.36). El cerebro vacía el modelo mental del texto y reconstruirlo requiere un sobreesfuerzo agotador."
+        },
+        {
+          "label": "3. Los Distractores Visuales Arrasan la Memoria (b = 0.62)",
+          "value": "Las notificaciones visuales en la pantalla o pestañas parpadeantes son significativamente más dañinas que la música o el murmullo auditivo (b = 0.37). Al compartir el mismo canal foveal y visoespacial, expulsan las palabras de la mente de inmediato."
+        },
+        {
+          "label": "4. La Ilusión de Competencia",
+          "value": "Muchos participantes creen haber entendido el texto a pesar de las alertas, pero al responder preguntas inferenciales profundas se demuestra que solo retuvieron datos superficiales fragmentados."
+        }
+      ],
+      "dataPoints": [
+        "La diferencia entre interrupciones e interferencias fue estadísticamente significativa en el modelo de metarregresión (t = 3.42, p = .003).",
+        "Los distractores auditivos sin lenguaje inteligible (como ruido blanco o música instrumental suave) provocaron el menor impacto negativo relativo.",
+        "El habla inteligible en segundo plano (personas conversando cerca) genera interferencia fonológica automática en el bucle articulatorio del lector."
+      ],
+      "reflexion": "Si lees con el teléfono móvil vibrando al lado, estás pagando un peaje cognitivo del 45%: tu cerebro trabaja el doble para aprender la mitad."
+    },
+    "marco": {
+      "titulo": "Discusión: Diseñar santuarios atencionales para la era digital",
+      "narrativa": "Ortiz, Formoso y Barreyro trasladan las conclusiones cuantitativas hacia recomendaciones urgentes para la educación:",
+      "detalles": [
+        {
+          "label": "Desterrar el Mito del 'Nativo Digital Multitarea'",
+          "value": "Nadie puede procesar dos flujos lingüísticos conscientes a la vez. Promover la multitarea en el aula virtual es sabotear el aprendizaje de los estudiantes (Sweller, 2011)."
+        },
+        {
+          "label": "Higiene Atencional en el Estudio",
+          "value": "Para lecturas densas, es imprescindible aplicar modo avión, bloquear pestañas y silenciar pantallas. La fuerza de voluntad no basta: hay que eliminar físicamente el distractor visual."
+        },
+        {
+          "label": "Música vs. Ruido Verbal",
+          "value": "Si el estudiante necesita sonido para aislarse en bibliotecas ruidosas, debe elegir música instrumental sin letra o ruido blanco, ya que las canciones con voz en su propio idioma compiten con la lectura interna."
+        },
+        {
+          "label": "Diseño de Plataformas Educativas",
+          "value": "Las plataformas de lectura digital escolar deben eliminar pop-ups, insignias gamificadas parpadeantes y banners que secuestran la atención del niño."
+        }
+      ],
+      "reflexion": "En el siglo XXI, saber leer no es solo descifrar palabras: es tener el coraje y la disciplina de proteger tu silencio mental."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué impacto tienen los distractores externos en la comprensión lectora según la síntesis metaanalítica y qué factores moderan su efecto?",
+      "conclusion": "El metaanálisis de 7 estudios experimentales (16 tamaños de efecto) confirma que los distractores externos ejercen un impacto negativo moderado y estadísticamente significativo sobre la comprensión de textos (g = 0.45, p < .001). El análisis de moderadores demuestra que las interrupciones activas son casi dos veces más dañinas (b = 0.68) que las interferencias de fondo (b = 0.36), y que los distractores visuales resultan significativamente más destructivos (b = 0.62) que los auditivos (b = 0.37) debido a la competencia por los recursos de la memoria de trabajo visoespacial. Estos hallazgos exigen desterrar el mito pedagógico de la multitarea y diseñar entornos escolares y digitales libres de interferencias para proteger la lectura profunda.",
+      "formalRef": "Ortiz, S. S., Formoso, J., & Barreyro, J. P. (2026). Efecto de distractores externos en la comprensión de textos: un metaanálisis. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.581"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál fue el tamaño de efecto global combinado (g de Hedges) del impacto negativo de los distractores en la comprensión lectora?",
+          "options": [
+            "Efecto nulo (g = 0.00).",
+            "Efecto moderado y altamente significativo (g = 0.45, p < .001).",
+            "Efecto positivo (los distractores mejoraron la comprensión un 80 %).",
+            "Efecto de g = 5.80 (colapso cerebral absoluto)."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué los distractores visuales mostraron un impacto negativo significativamente mayor (b = 0.62) que los distractores auditivos (b = 0.37)?",
+          "options": [
+            "Porque los ojos se cansan más rápido que los oídos al leer.",
+            "Porque los estímulos visuales compiten de forma directa por los mismos recursos cognitivos retinianos y visoespaciales de la memoria de trabajo que procesan el texto escrito.",
+            "Porque la música siempre mejora la inteligencia sin importar el volumen.",
+            "Porque los participantes en los estudios eran todos músicos profesionales."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "En el análisis de moderadores, ¿qué resultó ser más perjudicial para la comprensión lectora?",
+          "options": [
+            "Las interferencias pasivas de fondo (como un ventilador encendido o murmullo lejano).",
+            "Las interrupciones activas (como una notificación que obliga a cambiar la atención hacia una tarea secundaria).",
+            "Leer libros con letra grande.",
+            "Beber un vaso de agua mientras se lee."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "El metaanálisis demuestra que la interrupción activa (como mirar el móvil tras una vibración) destruye el modelo de situación mental. Si tuvieras que redactar un protocolo de 'Higiene Atencional para el Estudio' en una biblioteca universitaria o escolar, ¿qué 3 reglas indispensables propondrías?"
+        },
+        {
+          "type": "open",
+          "q": "Muchas aplicaciones educativas de lectura infantil incluyen animaciones interactivas parpadeantes y sonidos en cada página para supuestamente 'motivar' al niño. A la luz de los datos sobre distractores visuales, ¿qué crítica y rediseño formularías a estas plataformas?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al laboratorio de neurociencia de la atención. Vamos a desvelar con números qué le ocurre a tu cerebro cuando lees con el móvil al lado.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "El mito del 'nativo digital multitarea' ha hecho mucho daño. Nadie puede comprender un texto complejo si su atención se fragmenta cada dos minutos.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "El metaanálisis de Ortiz y Barreyro recopila la evidencia experimental mundial y aplica modelos de efectos aleatorios para dar una respuesta definitiva.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Atento a este dato! Una notificación visual en pantalla es casi el doble de dañina que el ruido de fondo. Compite directamente por tu canal foveal.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La memoria de trabajo no se puede expandir por arte de magia: tiene un límite estricto. Proteger el silencio es la mejor técnica de estudio.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Leer a fondo en el siglo XXI es un acto de resistencia atencional. Desconectar los avisos es el primer paso para volver a pensar por ti mismo.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa conceptual interactivo para ver las conexiones entre la g de Hedges, interrupciones, distractores visuales y memoria de trabajo.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Ponte a prueba en el cuestionario y diseña tu propio santuario de lectura libre de interferencias.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Distractores Externos y Comprensión de Textos",
+    "descripcion": "Síntesis metaanalítica sobre los efectos de interrupciones, interferencias, estímulos visuales y auditivos en la memoria de trabajo y la lectura profunda.",
+    "nodos": [
+      { "id": "1", "label": "Efecto de Distractores Externos", "color": "#e76f51" },
+      { "id": "2", "label": "Tamaño de Efecto Global (g = 0.45)", "color": "#2a5a75" },
+      { "id": "3", "label": "Interrupciones Activas (b = 0.68)", "color": "#c73e1d" },
+      { "id": "4", "label": "Interferencias de Fondo (b = 0.36)", "color": "#f4d068" },
+      { "id": "5", "label": "Distractores Visuales en Pantalla (b = 0.62)", "color": "#88b04b" },
+      { "id": "6", "label": "Distractores Auditivos (b = 0.37)", "color": "#5b9eaa" },
+      { "id": "7", "label": "Memoria de Trabajo y Carga Cognitiva", "color": "#9b82c3" },
+      { "id": "8", "label": "Coste de Cambio de Tarea (Switching)", "color": "#e88b8c" },
+      { "id": "9", "label": "Mito del Nativo Multitarea", "color": "#264653" },
+      { "id": "10", "label": "Higiene Atencional y Santuario Lector", "color": "#2a9d8f" }
+    ],
+    "aristas": [
+      { "from": "1", "to": "2", "label": "se cuantifica mediante el" },
+      { "from": "1", "to": "3", "label": "se agrava intensamente con las" },
+      { "from": "1", "to": "4", "label": "presenta menor daño ante" },
+      { "from": "1", "to": "5", "label": "alcanza máxima letalidad en" },
+      { "from": "5", "to": "7", "label": "satura directamente la" },
+      { "from": "3", "to": "8", "label": "dispara el" },
+      { "from": "8", "to": "7", "label": "destruye el modelo mental en la" },
+      { "from": "9", "to": "1", "label": "ignora erróneamente el" },
+      { "from": "10", "to": "3", "label": "bloquea y silencia las" },
+      { "from": "10", "to": "5", "label": "elimina del campo visual los" }
+    ]
+  }
+}

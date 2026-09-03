@@ -1,4 +1,4 @@
-﻿import { Coffee, BookOpen, PenTool, Clock, MessageSquare, ArrowRight } from 'lucide-react';
+import { Coffee, BookOpen, PenTool, Clock, MessageSquare, ArrowRight } from 'lucide-react';
 
 export default function Blog() {
   return (

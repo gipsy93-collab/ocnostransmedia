@@ -14,23 +14,56 @@ export default function ReflexionBlock({ narrative, answers, setAnswers, reset }
 
   if (!reflexion || !metadata) return null;
 
+  const handleDownloadFicha = () => {
+    const questions = reflexion?.questions || [];
+    let content = `# FICHA DE INVESTIGACIÓN Y LECTURA - REVISTA OCNOS\n\n`;
+    content += `**Título:** ${metadata.title}\n`;
+    content += `**Autores:** ${metadata.authors}\n`;
+    content += `**Revista:** ${metadata.journal} (${metadata.year})\n`;
+    content += `**DOI:** https://doi.org/${metadata.doi}\n\n`;
+    content += `---\n\n`;
+    content += `## PREGUNTAS Y REFLEXIONES DE ASIMILACIÓN\n\n`;
+    questions.forEach((q: any, idx: number) => {
+      content += `### ${idx + 1}. ${q.q}\n`;
+      if (q.type === 'choice' && q.options) {
+        const userChoice = answers[idx] !== undefined ? q.options[answers[idx]] : 'No respondida';
+        const isCorrect = answers[idx] === q.correct;
+        content += `- **Tu respuesta:** ${userChoice} (${isCorrect ? 'Correcta' : 'A revisar'})\n`;
+        content += `- **Respuesta correcta:** ${q.options[q.correct]}\n\n`;
+      } else {
+        content += `*Reflexión abierta registrada en sesión de lectura.*\n\n`;
+      }
+    });
+    content += `\n---\nGenerado en Revista Ocnos Transmedia\n`;
+
+    const blob = new Blob([content], { type: 'text/markdown;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `ficha_${narrative.id || 'ocnos'}.md`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  };
+
   return (
     <motion.div key="reflexion" role="region" aria-label="Consolidación del aprendizaje"
-      initial={{ opacity: 0, x: 50 }}
+      initial={{ opacity: 0, x: 30 }}
       animate={{ opacity: 1, x: 0 }}
-      exit={{ opacity: 0, x: -50 }}
-      transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
-      className="max-w-7xl mx-auto px-6 py-12 md:py-20 flex flex-col justify-center min-h-full"
+      exit={{ opacity: 0, x: -30 }}
+      transition={{ duration: 0.4, ease: "easeOut" }}
+      className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 sm:py-10 md:py-14 flex flex-col justify-start min-h-full"
     >
-      <div className="card-3d p-8 md:p-16">
-        <h2 className="text-3xl md:text-5xl font-display font-bold text-ocean-dark mb-12 text-center">
+      <div className="card-3d p-4 sm:p-8 md:p-12">
+        <h2 className="text-2xl sm:text-4xl md:text-5xl font-display font-bold text-ocean-dark mb-8 sm:mb-12 text-center">
           Consolidación del Aprendizaje
         </h2>
 
-        <div className="space-y-12">
+        <div className="space-y-8 sm:space-y-12">
           {reflexion.questions?.map((q: any, idx: number) => (
-            <div key={idx} className="p-8 bg-white border-4 border-ocean-dark/5 rounded-[2.5rem] shadow-lg" role="group" aria-label={`Pregunta ${idx + 1}`}>
-              <div className="flex items-center gap-3 mb-6">
+            <div key={idx} className="p-4 sm:p-6 md:p-8 bg-white border-2 sm:border-4 border-ocean-dark/5 rounded-2xl sm:rounded-[2rem] shadow-sm" role="group" aria-label={`Pregunta ${idx + 1}`}>
+              <div className="flex items-center gap-3 mb-4 sm:mb-6">
                 <span className="w-8 h-8 rounded-full bg-ocean-dark text-white flex items-center justify-center text-xs font-black" aria-hidden="true">
                   {idx + 1}
                 </span>
@@ -39,7 +72,7 @@ export default function ReflexionBlock({ narrative, answers, setAnswers, reset }
                 </span>
               </div>
 
-              <p className="text-xl font-bold text-ocean-dark mb-8 leading-relaxed drop-shadow-sm">{q.q}</p>
+              <p className="text-base sm:text-xl font-bold text-ocean-dark mb-6 sm:mb-8 leading-relaxed drop-shadow-sm">{q.q}</p>
 
               {q.type === 'choice' ? (
                 <div className="grid gap-3" role="radiogroup" aria-label={`Opciones para pregunta ${idx + 1}`}>
@@ -50,14 +83,14 @@ export default function ReflexionBlock({ narrative, answers, setAnswers, reset }
                       aria-checked={answers[idx] === i}
                       onClick={() => setAnswers({...answers, [idx]: i})}
                       onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setAnswers({...answers, [idx]: i}); } }}
-                      className={`p-4 rounded-2xl border-2 text-left font-bold transition-all ${
+                      className={`min-h-[44px] p-3.5 sm:p-4 rounded-xl sm:rounded-2xl border-2 text-left font-bold transition-all focus-visible:ring-4 focus-visible:ring-ocean-base focus-visible:outline-none cursor-pointer ${
                         answers[idx] === i
                         ? (i === q.correct ? 'bg-seaweed/10 border-seaweed text-seaweed' : 'bg-coral/10 border-coral text-coral')
                         : 'bg-ocean-dark/5 border-transparent text-ocean-dark hover:border-ocean-dark/20'
                       }`}
                     >
-                      {opt}
-                      {answers[idx] === i && i === q.correct && <CheckCircle2 className="inline-block ml-2" size={18} aria-label="Correcto" />}
+                      <span>{opt}</span>
+                      {answers[idx] === i && i === q.correct && <CheckCircle2 className="inline-block ml-2 text-seaweed" size={18} aria-label="Correcto" />}
                     </button>
                   ))}
                   {answers[idx] !== undefined && (
@@ -85,12 +118,14 @@ export default function ReflexionBlock({ narrative, answers, setAnswers, reset }
         <div className="flex flex-col md:flex-row justify-center gap-6 mt-16">
           <button
             onClick={reset}
-            className="btn-3d px-8 py-4 bg-white text-ocean-dark flex items-center justify-center gap-3"
+            className="btn-3d px-8 py-4 bg-white text-ocean-dark flex items-center justify-center gap-3 cursor-pointer"
           >
             <RotateCcw size={20} /> REPETIR EXPERIENCIA
           </button>
           <button
-            className="btn-3d px-8 py-4 bg-ocean-dark text-white flex items-center justify-center gap-3"
+            onClick={handleDownloadFicha}
+            className="btn-3d px-8 py-4 bg-ocean-dark text-white flex items-center justify-center gap-3 cursor-pointer"
+            title="Descargar resumen de la lectura y respuestas"
           >
             <Download size={20} /> DESCARGAR FICHA
           </button>

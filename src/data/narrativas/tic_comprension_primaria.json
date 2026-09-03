@@ -1,0 +1,298 @@
+{
+  "id": "tic_comprension_primaria",
+  "metadata": {
+    "title": "Influencia del uso de las TIC en el desarrollo de la comprensión lectora en Educación Primaria",
+    "authors": "Iris-Orosia Campos y Paula Rivera-Alegre",
+    "year": "2024",
+    "journal": "Ocnos 23(2)",
+    "doi": "10.18239/ocnos_2024.23.2.451",
+    "gancho": "¿Ayudan las tablets y pantallas en clase a comprender mejor o están arruinando la capacidad lectora infantil?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#e76f51",
+    "bg": "from-ocean-base/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-08.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-08.png",
+      "name": "Dra. Iris-Orosia Campos",
+      "role": "Investigadora en Didáctica de la Lengua y Tecnología Educativa, Universidad de Zaragoza"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Iris-Orosia Campos, especialista en impacto tecnológico en la alfabetización escolar",
+      "gancho": "¿Es la digitalización de las aulas de Primaria una bendición pedagógica o una promesa tecnológica incumplida?",
+      "contexto": "El despliegue masivo de tabletas, pantallas interactivas y programas digitales en las escuelas primarias prometía revolucionar el aprendizaje lector. Sin embargo, los últimos datos de informes como PIRLS muestran correlaciones inversas o contradictorias entre tiempo de pantalla y rendimiento lector. En este estudio empírico con 412 escolares de 4.º y 6.º de Primaria en Aragón, las autoras investigaron la relación real entre la frecuencia y tipología de uso de TIC y los niveles de comprensión lectora.",
+      "deepDives": [
+        {
+          "id": "tic-apertura-1",
+          "triggerLabel": "La paradoja de las TIC en la infancia",
+          "type": "theory",
+          "content": "El uso instrumental para tareas creativas potencia competencias, pero el consumo pasivo o lúdico desregulado fragmenta la atención sostenida."
+        },
+        {
+          "id": "tic-apertura-2",
+          "triggerLabel": "Muestra de 412 estudiantes",
+          "type": "data",
+          "content": "412 escolares evaluados con pruebas estandarizadas de comprensión (ACL) y cuestionarios de frecuencia de uso de dispositivos."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Muchas políticas escolares introdujeron tabletas individuales sustituyendo libros de texto sin un modelo pedagógico claro de lectura digital profunda.",
+      "porQueImporta": "El uso abusivo de pantallas no guiadas en la infancia temprana reduce la paciencia cognitiva para procesar narrativas complejas.",
+      "dataPoints": [
+        "Muestra de 412 escolares de 9 a 12 años.",
+        "Correlación negativa significativa entre horas diarias de pantalla recreativa en el hogar y comprensión inferencial (r = -.31).",
+        "Diferencia cualitativa: el uso escolar guiado de TIC para buscar información en proyectos produjo efectos ligeramente positivos.",
+        "El 68% de los alumnos de 6.º declaró usar el smartphone más de 2 horas diarias entre semana."
+      ],
+      "glossary": [
+        {
+          "term": "Paciencia cognitiva",
+          "definition": "Disposición mental para perseverar en la lectura pausada de un texto largo y complejo sin exigir recompensas visuales inmediatas."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Evaluación de comprensión y baremación de hábitos TIC",
+      "narrativa": "Las investigadoras aplicaron la batería estandarizada ACL-4 y ACL-6 y triangularon los resultados con un cuestionario exhaustivo sobre usos tecnológicos en el aula y en casa.",
+      "detalles": [
+        {
+          "label": "Participantes",
+          "value": "412 estudiantes de Educación Primaria en centros de Aragón."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "Batería de Comprensión Lectora ACL y Escala de Hábitos TIC."
+        }
+      ],
+      "limitaciones": [
+        "Estudio de corte transversal que no permite establecer relaciones de causalidad estricta."
+      ],
+      "reflexion": "La tecnología es un amplificador formidable: amplifica el aprendizaje cuando hay método, y amplifica la dispersión cuando no lo hay."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: No es la pantalla, es para qué se usa",
+      "narrativa": "Los datos permitieron matizar el debate entre tecnófilos y tecnófobos:",
+      "hallazgos": [
+        {
+          "label": "1. El Ocio Digital Devora la Lectura",
+          "value": "El tiempo dedicado a videojuegos y redes sociales en casa correlaciona directamente con peores notas en comprensión lectora."
+        },
+        {
+          "label": "2. La Mediación Docente Marca la Diferencia",
+          "value": "Cuando la tableta se usa en el aula bajo una consigna clara de investigación y debate guiado, no daña la comprensión y enriquece el vocabulario."
+        }
+      ],
+      "dataPoints": [
+        "Diferencia de 18 puntos en la escala ACL entre estudiantes con bajo vs. alto consumo de pantallas recreativas."
+      ],
+      "reflexion": "Dar una tableta a un niño sin enseñarle a leer críticamente es dejarlo a la deriva en un océano de estímulos."
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia un equilibrio híbrido en la escuela",
+      "narrativa": "Campos y Rivera-Alegre defienden una coexistencia armónica y regulada:",
+      "detalles": [
+        {
+          "label": "Blindar el Papel en Primaria",
+          "value": "Mantener la lectura de libros impresos en papel como base innegociable de la concentración infantil."
+        }
+      ],
+      "reflexion": "La mejor tecnología educativa inventada en los últimos quinientos años sigue siendo el libro impreso."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo influye el uso escolar y extraescolar de las TIC en el desarrollo de la comprensión lectora en escolares de Educación Primaria?",
+      "conclusion": "El estudio empírico con 412 escolares de 4.º y 6.º de Primaria concluye que el tiempo de uso recreativo de pantallas en el hogar tiene un impacto negativo en la comprensión lectora inferencial. Por el contrario, el uso guiado de TIC en el aula para proyectos cooperativos no merma la comprensión. Se recomienda una dieta digital equilibrada que proteja la lectura en papel como pilar insustituible de la paciencia cognitiva infantil.",
+      "formalRef": "Campos, I. O., & Rivera-Alegre, P. (2024). Influencia del uso de las TIC en el desarrollo de la comprensión lectora en Educación Primaria. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.451"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de uso de dispositivos tecnológicos correlacionó de forma más negativa con la comprensión lectora en los 412 escolares evaluados?",
+          "options": [
+            "El uso de programas de ajedrez en la biblioteca.",
+            "El consumo recreativo no regulado de pantallas en el hogar (videojuegos, redes y vídeos rápidos).",
+            "Buscar palabras en el diccionario digital de la RAE.",
+            "Escribir correos al profesor."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué concepto psicológico define la capacidad de perseverar en la lectura pausada de un texto largo sin exigir estímulos inmediatos?",
+          "options": [
+            "La euforia digital.",
+            "La paciencia cognitiva.",
+            "La memoria fotográfica.",
+            "El reflejo ocular rápido."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué propuesta metodológica defienden las autoras para las aulas de Educación Primaria?",
+          "options": [
+            "Prohibir toda la tecnología y volver a las pizarras de tiza exclusivamente.",
+            "Un modelo híbrido equilibrado que blinde la lectura de libros en papel y use las TIC solo bajo mediación y proyectos guiados.",
+            "Sustituir todos los libros por tabletas individuales.",
+            "No evaluar la comprensión lectora nunca más."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña un 'contrato familiar de dieta digital' para familias de 5.º de Primaria donde se pacten horarios libres de pantallas y tiempos sagrados de lectura compartida de libros en papel."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo diseñarías una sesión de búsqueda de información digital en clase de Ciencias para que tus alumnos lean con espíritu crítico y no se limiten a copiar y pegar de Wikipedia?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al debate más caliente de las escuelas de hoy: ¿ayudan o perjudican las pantallas al cerebro infantil?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Digitalizamos las aulas con promesas deslumbrantes, pero los índices de lectura bajan. ¿Qué dicen los datos empíricos?",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Evaluamos a 412 alumnos de Primaria con pruebas estandarizadas ACL y medimos sus horas reales de pantalla.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El ocio digital desregulado destruye la paciencia cognitiva! Pero el uso escolar guiado puede ser un aliado si se sabe mediar.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Defendamos la dieta digital equilibrada: el libro de papel es el mejor santuario para la mente de un niño.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La mejor pantalla sigue siendo la imaginación de un niño que se sumerge en las páginas de un libro.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa conceptual interactivo para ver la interacción entre TIC, paciencia cognitiva, uso escolar y familiar.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Consolida tu criterio docente y aprende a diseñar un equilibrio saludable entre tecnología y lectura de papel.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: TIC y Comprensión Lectora en Educación Primaria",
+    "descripcion": "Estudio con 412 escolares (Aragón): uso recreativo vs. escolar de pantallas, paciencia cognitiva, batería ACL y modelo híbrido equilibrado.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Uso de TIC en Primaria",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "2",
+        "label": "Paciencia Cognitiva Infantil",
+        "color": "#88b04b"
+      },
+      {
+        "id": "3",
+        "label": "Uso Recreativo en Hogar (-r)",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "4",
+        "label": "Uso Escolar Guiado (+r)",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "5",
+        "label": "Batería de Comprensión ACL",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "6",
+        "label": "Muestra 412 Escolares",
+        "color": "#264653"
+      },
+      {
+        "id": "7",
+        "label": "Fragmentación Atencional",
+        "color": "#e76f51"
+      },
+      {
+        "id": "8",
+        "label": "Blindaje del Libro en Papel",
+        "color": "#f4d068"
+      },
+      {
+        "id": "9",
+        "label": "Dieta Digital Equilibrada",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "10",
+        "label": "Comprensión Inferencial Profunda",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "6",
+        "to": "1",
+        "label": "evalúa los patrones de"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se divide en el peligroso"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "incluye el beneficioso"
+      },
+      {
+        "from": "3",
+        "to": "7",
+        "label": "provoca una severa"
+      },
+      {
+        "from": "7",
+        "to": "2",
+        "label": "erosiona y destruye la"
+      },
+      {
+        "from": "2",
+        "to": "10",
+        "label": "es la base indispensable para la"
+      },
+      {
+        "from": "5",
+        "to": "10",
+        "label": "mide psicométricamente la"
+      },
+      {
+        "from": "4",
+        "to": "10",
+        "label": "apoya cuando hay mediación la"
+      },
+      {
+        "from": "8",
+        "to": "2",
+        "label": "protege y fortalece la"
+      },
+      {
+        "from": "9",
+        "to": "8",
+        "label": "exige en las aulas el"
+      }
+    ]
+  }
+}

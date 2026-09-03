@@ -1,0 +1,269 @@
+{
+  "id": "placer_secundaria",
+  "metadata": {
+    "title": "Lectura por placer en la Educación Secundaria: una revisión sistemática de la literatura",
+    "authors": "Edna-Liliana Herrera-Lozano y Carola Gómez-Medina",
+    "year": "2026",
+    "journal": "Ocnos 25(2)",
+    "doi": "10.18239/ocnos_2026.25.2.658",
+    "gancho": "¿Por qué la escuela secundaria logró que los adolescentes aprendan a leer pero consiguió que más del 50% elija no hacerlo jamás por placer?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#f4d068",
+    "colorAlt": "#2a5a75",
+    "bg": "from-amber-400/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-7.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-7.png",
+      "name": "Prof. Edna-Liliana Herrera-Lozano",
+      "role": "Investigadora en Didáctica de la Lectura y Pedagogía Cultural, Universidad Antonio Nariño (Colombia)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Prof. Edna-Liliana Herrera-Lozano, investigadora en educación lectora y cultura adolescente",
+      "gancho": "¿Y si la obsesión de las escuelas por evaluar la comprensión lectora es exactamente lo que está extinguiendo las ganas de leer de los adolescentes?",
+      "contexto": "Piensa en un aula de secundaria: lecturas obligatorias con control de lectura fechado, preguntas estandarizadas tipo PISA y una biblioteca escolar a menudo cerrada o relegada a sala de castigo. Los datos son alarmantes: en América Latina, el 51% de los jóvenes no incluye la lectura en sus actividades de ocio (Gonçalves-Da-Silva, 2026). La escuela ha instrumentalizado la lectura, transformándola en una herramienta de medición y control académico (Dubet, 2010; Tassone, 2025). Ante esta paradoja, esta revisión sistemática bajo metodología PRISMA examina la producción científica mundial entre 2020 y 2025 para responder una cuestión urgente: ¿qué dice la evidencia sobre los verdaderos beneficios de leer por placer y qué estamos haciendo mal en las aulas?",
+      "deepDives": [
+        {
+          "id": "placer-apertura-1",
+          "triggerLabel": "¿Qué significa realmente 'leer por placer'?",
+          "type": "theory",
+          "content": "La literatura académica no la define únicamente como entretenimiento pasivo. Autores como Cremin et al. (2008) y Henning y Crow (2023) destacan que leer por placer implica tres pilares: autonomía de elección del texto, motivación intrínseca (leer sin esperar una calificación) y una experiencia estética y emocional donde el lector dialoga libremente con la obra sin la amenaza de un examen posterior."
+        },
+        {
+          "id": "placer-apertura-2",
+          "triggerLabel": "El riesgo de la instrumentalización en PISA y PIRLS",
+          "type": "theory",
+          "content": "Múltiples investigadores (Arizpe y Styles, 2016; Cremin et al., 2008) advierten que la presión por rendir en pruebas internacionales (PISA, PIRLS, LLECE) redujo la lectura a una destreza técnica medible. Al convertir cada libro en un objeto evaluable, la escuela anula la dimensión afectiva y provoca resistencia y abandono lector en la adolescencia."
+        },
+        {
+          "id": "placer-apertura-3",
+          "triggerLabel": "El impacto de la pandemia (2020-2025)",
+          "type": "data",
+          "content": "El intervalo 2020-2025 fue seleccionado expresamente para evaluar los cambios tras el confinamiento por COVID-19, período que aceleró la lectura digital y el auge de comunidades juveniles en redes sociales como BookTok y BookTube, generando nuevas formas de sociabilidad lectora."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "A pesar de que los discursos pedagógicos defienden el fomento de hábitos lectores, la investigación sobre lectura por placer en secundaria evidencia una enorme fractura: más del 59% de los estudios se limita a lamentar la pérdida del hábito o a denunciar el abandono de las bibliotecas escolares, pero casi nadie investiga intervenciones pedagógicas reales. De los 22 estudios de alta calidad seleccionados a nivel mundial, ¡solo uno puso a prueba una estrategia didáctica en el aula! El resto son diagnósticos descriptivos que constatan el problema sin ofrecer salidas pedagógicas concretas.",
+      "porQueImporta": "Porque los adolescentes que leen por placer no solo mejoran en ortografía o vocabulario: desarrollan empatía, bienestar socioemocional, criterio ciudadano frente a la desinformación y capacidad de desconexión del estrés escolar. Si la escuela no aprende a mediar la lectura desde el goce y la libertad, la secundaria seguirá egresando 'analfabetos funcionales por elección': personas que saben descifrar un texto pero que jamás volverán a abrir un libro por iniciativa propia.",
+      "dataPoints": [
+        "El 51% de los jóvenes latinoamericanos no lee en sus tiempos libres (Gonçalves-Da-Silva, 2026).",
+        "Corpus final de 22 estudios rigurosos seleccionados tras cribar 237 artículos mediante PRISMA 2020.",
+        "Evaluación metodológica de alta exigencia: QuADS (13 ítems) y ROBIS (análisis de riesgo de sesgo en 4 dominios).",
+        "Hegemonía del idioma inglés en la producción científica: 18 artículos en inglés frente a solo 4 en español.",
+        "Concentración geográfica: Australia (6 estudios) y EE.UU. (3 estudios) lideran la investigación mundial.",
+        "Grave vacío aplicado: solo 1 de los 22 estudios (Ayala-Campoverde y Loyola-Illescas, 2025) aplicó una intervención didáctica real en el aula; el 95% restante son estudios teóricos o descriptivos.",
+        "El 59% de los estudios centra su justificación en dos únicos problemas: caída de hábitos lectores y desvalorización de la biblioteca escolar."
+      ],
+      "glossary": [
+        {
+          "term": "Lectura por placer (Reading for Pleasure)",
+          "definition": "Práctica lectora motivada por el interés personal, la curiosidad o el disfrute estético, caracterizada por la libre elección del texto y la ausencia de fines evaluativos impuestos."
+        },
+        {
+          "term": "Declaración PRISMA",
+          "definition": "Conjunto de directrices basadas en evidencia para la realización y comunicación transparente de revisiones sistemáticas y metaanálisis."
+        },
+        {
+          "term": "Herramienta QuADS",
+          "definition": "Quality Assessment with Diverse Studies: instrumento de 13 ítems que evalúa la solidez metodológica de estudios cualitativos, cuantitativos y mixtos."
+        },
+        {
+          "term": "Herramienta ROBIS",
+          "definition": "Risk of Bias in Systematic Reviews: herramienta especializada en identificar riesgos de sesgo en la selección, diseño, recolección y análisis de datos."
+        },
+        {
+          "term": "Mediación lectora",
+          "definition": "Acción pedagógica y cultural mediante la cual un docente o bibliotecario tiende puentes afectivos entre el lector y las obras, sin imposición ni coerción."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Rigor PRISMA, QuADS y cribado sistemático",
+      "narrativa": "Las investigadoras aplicaron el protocolo PRISMA 2020 en 6 bases de datos científicas de primer nivel (Scopus, Web of Science, ERIC, Dialnet, SciELO y EBSCO) utilizando ecuaciones booleanas avanzadas sobre el período 2020-2025. Tras identificar 237 registros, aplicaron filtros de elegibilidad excluyendo revisiones teóricas, estudios en primaria o publicaciones sin acceso abierto, llegando a 23 artículos que fueron sometidos a evaluación de calidad QuADS y análisis de sesgo ROBIS.",
+      "detalles": [
+        { "label": "Bases de Datos", "value": "Scopus, Web of Science, ERIC, Dialnet, SciELO y EBSCO (búsqueda realizada en abril de 2025)." },
+        { "label": "Criterio Temporal", "value": "2020 a 2025 (impacto post-pandemia y vacíos en revisiones previas)." },
+        { "label": "Evaluación QuADS", "value": "13 criterios con escala 0-3; se descartó el estudio de Milne et al. (2023) por baja calidad (33.3%)." },
+        { "label": "Evaluación ROBIS", "value": "20 estudios con riesgo de sesgo bajo y 2 con riesgo moderado (Reads, 2023; Smith y Nichols, 2023)." },
+        { "label": "Diseños Metodológicos", "value": "50% cualitativos (11 estudios), 36% cuantitativos (8 estudios) y 14% mixtos (3 estudios)." },
+        { "label": "Técnicas de Recolección", "value": "Predominio de encuestas y cuestionarios (33%), entrevistas (25%), análisis documental y BookTok (18%)." }
+      ],
+      "limitaciones": [
+        "Predominio de estudios descriptivos y correlacionales que reflejan percepciones subjetivas mediante autoinformes.",
+        "Sesgo geográfico y lingüístico: fuerte concentración en países anglosajones (Australia, EE.UU., Singapur), con escasa producción en lengua española.",
+        "Escasez de métodos etnográficos in situ (solo un estudio aplicó etnografía móvil y diarios de lectura)."
+      ],
+      "reflexion": "La revisión desnuda una ironía epistemológica: aunque la lectura por placer es una experiencia íntima y emocional, la academia sigue midiéndola mayoritariamente con encuestas estandarizadas y cuestionarios masivos."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Las 5 dimensiones del placer lector y los 4 catalizadores",
+      "narrativa": "El análisis vertical y cruzado de los 22 estudios permitió sintetizar los beneficios de la lectura por placer en cinco grandes dimensiones y cuatro factores contextuales determinantes:",
+      "hallazgos": [
+        {
+          "label": "1. Dimensión Cognitiva y Académica",
+          "value": "Diez estudios confirman que leer por placer mejora el vocabulario, la fluidez y el rendimiento en pruebas de comprensión escrita sin necesidad de instrucción dirigida (Rivera-Jurado y Romero-Oliva, 2020; Bezek et al., 2023)."
+        },
+        {
+          "label": "2. Dimensión Motivacional y Autonomía",
+          "value": "La libertad de elección es el principal predictor del hábito: cuando los estudiantes eligen qué leer, la motivación intrínseca se dispara; cuando se impone un canon obligatorio, surge resistencia activa (Collins et al., 2022)."
+        },
+        {
+          "label": "3. Dimensión Personal y Social",
+          "value": "La lectura compartida en clubes o redes genera sentido de pertenencia. Los adolescentes construyen su identidad reflejándose en personajes y debaten dilemas morales con sus pares."
+        },
+        {
+          "label": "4. Dimensión Emocional y Bienestar",
+          "value": "Leer actúa como un refugio de descompresión frente al estrés escolar y la ansiedad digital, brindando espacios de calma mental y desarrollo de la empatía hacia realidades diversas."
+        },
+        {
+          "label": "5. Dimensión Cultural y Nuevos Ecosistemas",
+          "value": "La cultura digital no es enemiga del libro: plataformas como BookTok y comunidades transmedia movilizan a millones de jóvenes a leer y recomendar libros en formatos colaborativos (Johansson, 2021; Merga, 2021a)."
+        }
+      ],
+      "dataPoints": [
+        "Los 4 catalizadores clave: La biblioteca escolar (espacio de encuentro y no de silencio punitivo), la mediación docente empática, las políticas institucionales de tiempo libre para leer y los entornos digitales.",
+        "El abandono de la biblioteca escolar: en la mitad de los países analizados, las bibliotecas escolares carecen de presupuesto o de personal bibliotecario especializado.",
+        "El efecto secundario de la prescripción: obligar a leer libros canónicos descontextualizados destruye el interés del 70% de los adolescentes en secundaria."
+      ],
+      "reflexion": "El problema no es que los adolescentes no quieran leer; el problema es que la escuela insiste en evaluar lo que deberían disfrutar."
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia una ecología de la lectura emancipada",
+      "narrativa": "La discusión de Herrera-Lozano y Gómez-Medina interpela directamente a las políticas educativas contemporáneas:",
+      "detalles": [
+        {
+          "label": "Desmercantilizar la Lectura Escolar",
+          "value": "La lógica eficientista de rendición de cuentas impuesta por organismos internacionales ha transformado la lectura en una mercancía de acreditación académica (Dubet, 2010; Tassone, 2025)."
+        },
+        {
+          "label": "El Rol del Docente como Lector Modelo",
+          "value": "Cremin et al. (2008) demostraron que los docentes que comparten sus propias lecturas placenteras y leen junto a sus alumnos logran tasas de motivación lectora significativamente mayores que quienes solo asignan tareas."
+        },
+        {
+          "label": "Reivindicación de la Biblioteca Escolar",
+          "value": "Margaret Merga (2021a, 2025) señala que los bibliotecarios escolares son agentes esenciales de equidad: brindan acceso a literatura juvenil diversa y crean espacios seguros de socialización lectora."
+        },
+        {
+          "label": "Integración del Ecosistema Digital",
+          "value": "Ignorar a BookTok, los webcómics o los fanfictions en el aula es renunciar al lenguaje de los adolescentes. La mediación debe dialogar con estos formatos transmedia."
+        }
+      ],
+      "reflexion": "Una educación secundaria verdaderamente humanista no es la que presume de altos puntajes estandarizados, sino la que entrega a sus graduados el hábito permanente y voluntario de buscar un libro para ser más libres."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué demuestra la evidencia científica reciente sobre la lectura por placer en secundaria y qué transformaciones exige a la escuela?",
+      "conclusion": "La revisión sistemática de 22 estudios internacionales (2020-2025) demuestra que la lectura por placer genera beneficios integrales en cinco dimensiones: cognitiva, motivacional, personal, emocional y cultural. Sin embargo, la investigación revela dos graves contradicciones: (1) el campo sigue dominado por diagnósticos descriptivos que denuncian la pérdida del hábito pero apenas generan intervenciones didácticas en el aula (solo 1 de 22 estudios aplicó una propuesta pedagógica); (2) la escuela secundaria continúa sofocando el goce lector mediante evaluaciones utilitarias y el abandono de las bibliotecas escolares. Transformar esta realidad exige desmercantilizar la lectura, validar los intereses y lenguajes juveniles —incluyendo los entornos digitales como BookTok— y garantizar tiempo escolar diario para la lectura libre, autónoma y sin calificación.",
+      "formalRef": "Herrera-Lozano, E. L., & Gómez-Medina, C. (2026). Lectura por placer en la Educación Secundaria: una revisión sistemática de la literatura. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.658"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "De acuerdo con el estudio de Gonçalves-Da-Silva (2026) citado en la revisión, ¿qué porcentaje de jóvenes latinoamericanos NO incluye la lectura entre sus actividades de ocio?",
+          "options": [
+            "El 25 %",
+            "El 38 %",
+            "El 51 %",
+            "El 72 %"
+          ],
+          "correct": 2
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál fue una de las principales carencias o vacíos identificados en el corpus de 22 estudios analizados?",
+          "options": [
+            "Que todos los estudios se concentraron exclusivamente en escuelas rurales sin acceso a libros.",
+            "Que solo un estudio (Ayala-Campoverde y Loyola-Illescas, 2025) implementó una intervención didáctica concreta en el aula, siendo la mayoría investigaciones descriptivas.",
+            "Que ninguna investigación utilizó herramientas de evaluación del riesgo de sesgo como QuADS o ROBIS.",
+            "Que el 90 % de los estudios concluyó que la lectura por placer perjudica el rendimiento académico en PISA."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuáles son las 5 dimensiones en las que se agrupan los beneficios de la lectura por placer según la síntesis del estudio?",
+          "options": [
+            "Cognitiva/académica, motivacional, personal/social, emocional y cultural.",
+            "Económica, política, tecnológica, gramatical y religiosa.",
+            "Memoria de trabajo, conciencia fonológica, decodificación, caligrafía y ortografía.",
+            "Evaluativa, normativa, curricular, bibliotecaria y ministerial."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "El 59% de las investigaciones revisadas señala que la secundaria sufre una caída drástica en el hábito lector debido a lecturas impuestas y evaluadas. Si fueras docente de secundaria, ¿qué política de 'lectura libre en el aula' implementarías y cómo defenderías su valor frente a las exigencias curriculares tradicionales?"
+        },
+        {
+          "type": "open",
+          "q": "La revisión destaca el papel de BookTok y las redes sociales en la formación de comunidades lectoras juveniles. ¿Cómo podría una biblioteca escolar o aula de secundaria articular puentes con estas plataformas digitales sin caer en la imposición escolar?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Te doy la bienvenida a esta investigación. Abordaremos una herida abierta en la educación: ¿por qué la escuela secundaria hace que los jóvenes dejen de leer?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "La paradoja es indignante: más de la mitad de los estudios lamentan que los chicos no lean, pero casi nadie propone estrategias reales en el aula.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Observa el rigor del protocolo PRISMA: filtrar 237 artículos mediante QuADS y ROBIS asegura que solo analicemos la evidencia más robusta.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Aquí están las cinco dimensiones del placer lector! Cuando se lee por gusto, el vocabulario, la empatía y la salud mental florecen juntos.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Dubet y Cremin nos advierten: si convertimos cada página en un examen, destruimos el deseo. La biblioteca escolar debe ser un refugio, no un archivo.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "El reto no es enseñar a descifrar letras, sino garantizar el derecho a leer por pura libertad y goce estético.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Navega por los nodos interactivos para explorar las conexiones entre autonomía, bienestar emocional, BookTok y mediación.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Reflexiona sobre tu propia trayectoria lectora y plantea propuestas para emancipar la lectura en nuestras escuelas.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Ecosistema de la Lectura por Placer en Secundaria",
+    "descripcion": "Dimensiones del placer lector, barreras institucionales, catalizadores pedagógicos y tensiones entre evaluación y disfrute según la revisión sistemática 2020-2025.",
+    "nodos": [
+      { "id": "1", "label": "Lectura por Placer", "color": "#f4d068" },
+      { "id": "2", "label": "Autonomía y Libre Elección", "color": "#2a5a75" },
+      { "id": "3", "label": "Instrumentalización Escolar", "color": "#e76f51" },
+      { "id": "4", "label": "Dimensión Cognitiva y Rendimiento", "color": "#5b9eaa" },
+      { "id": "5", "label": "Dimensión Emocional y Bienestar", "color": "#88b04b" },
+      { "id": "6", "label": "Dimensión Personal y Social", "color": "#9b82c3" },
+      { "id": "7", "label": "Ecosistema Digital (BookTok)", "color": "#e88b8c" },
+      { "id": "8", "label": "Biblioteca Escolar Activa", "color": "#2a9d8f" },
+      { "id": "9", "label": "Mediación Docente No Punitiva", "color": "#264653" },
+      { "id": "10", "label": "Vacío en Intervenciones Prácticas", "color": "#f4a261" }
+    ],
+    "aristas": [
+      { "from": "1", "to": "2", "label": "se fundamenta en" },
+      { "from": "3", "to": "1", "label": "bloquea y desmotiva" },
+      { "from": "1", "to": "4", "label": "potencia indirectamente" },
+      { "from": "1", "to": "5", "label": "brinda descompresión y" },
+      { "from": "1", "to": "6", "label": "construye identidad en" },
+      { "from": "7", "to": "1", "label": "dinamiza en comunidades" },
+      { "from": "8", "to": "1", "label": "actúa como refugio para" },
+      { "from": "9", "to": "2", "label": "garantiza y acompaña" },
+      { "from": "10", "to": "9", "label": "exige desarrollo de" },
+      { "from": "3", "to": "10", "label": "ha perpetuado el" }
+    ]
+  }
+}

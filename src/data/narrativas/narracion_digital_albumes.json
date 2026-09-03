@@ -1,0 +1,302 @@
+{
+  "id": "narracion_digital_albumes",
+  "metadata": {
+    "title": "Lecturas ricas y lecturas reductoras en la narración digital de álbumes ilustrados",
+    "authors": "Cristina Quesada-Padrón y Jesús Díaz-Armas",
+    "year": "2025",
+    "journal": "Ocnos 24(1)",
+    "doi": "10.18239/ocnos2025.24.1.477",
+    "gancho": "¿Qué le ocurre al arte de un álbum ilustrado cuando un youtuber lo convierte en un vídeo animado con música estridente?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#f4d068",
+    "colorAlt": "#2a5a75",
+    "bg": "from-amber-400/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-23.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-23.png",
+      "name": "Dra. Cristina Quesada-Padrón",
+      "role": "Investigadora en Literatura Infantil y Mediación Digital, Universidad de La Laguna"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Cristina Quesada-Padrón, semióloga del álbum ilustrado y transposición audiovisual",
+      "gancho": "¿Multiplica YouTube la belleza de un cuento ilustrado o lo amputa convirtiéndolo en un dibujo animado barato?",
+      "contexto": "Millones de niños consumen cuentos en plataformas digitales como YouTube mediante 'videocuentos' o lecturas en voz alta grabadas. Este estudio analiza un corpus de 28 narraciones digitales del célebre álbum ilustrado 'Hay un oso en el cuarto oscuro' de Helen Cooper (1993). Los autores comparan cómo las diferentes mediaciones audiovisuales generan 'lecturas ricas' (que respetan el tempo, el suspense y la interacción texto-imagen) o 'lecturas reductoras' (que recortan ilustraciones, añaden efectos de sonido invasivos o destruyen la ambigüedad poética).",
+      "deepDives": [
+        {
+          "id": "alb-dig-1",
+          "triggerLabel": "El álbum como 'tercer espacio' semiótico",
+          "type": "theory",
+          "content": "La interacción entre texto verbal e imagen crea un espacio de incertidumbre que el lector infantil debe rellenar activamente con su imaginación."
+        },
+        {
+          "id": "alb-dig-2",
+          "triggerLabel": "Corpus de 28 vídeos en YouTube",
+          "type": "data",
+          "content": "Análisis multimodal de 28 vídeos en español con más de 1.5 millones de visualizaciones acumuladas."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La transposición apresurada a vídeo suele aplanar la polisemia del álbum, sustituyendo el silencio reflexivo y la mirada atenta por estímulos mecánicos y dramatizaciones histriónicas.",
+      "porQueImporta": "Los niños expuestos únicamente a videocuentos reductores pierden la capacidad de leer la sutileza visual y el suspense narrativo en libros impresos.",
+      "dataPoints": [
+        "Corpus de 28 narraciones digitales del álbum de Helen Cooper.",
+        "El 64% de los vídeos incurrió en 'lecturas reductoras' (eliminación de páginas clave, zooms que mutilan el encuadre original).",
+        "Solo el 21% logró una 'lectura rica' que enriquecía la experiencia sin anular la contemplación pausada.",
+        "Efecto perverso de los efectos de sonido cómicos en escenas de miedo o misterio psicológico."
+      ],
+      "glossary": [
+        {
+          "term": "Lectura reductora",
+          "definition": "Transposición que simplifica, mutila o desfigura la riqueza semiótica y estética original de una obra literaria o ilustrada."
+        },
+        {
+          "term": "Lectura rica (Multimodal)",
+          "definition": "Mediación que respeta el ritmo del libro, amplifica sus matices de sentido y guía la mirada del receptor hacia detalles significativos."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis semiótico y multimodal de videocuentos",
+      "narrativa": "Los autores aplicaron un protocolo de análisis multimodal: encuadre de cámara, animación de ilustraciones, calidad de la locución vocal, música incidental y respeto a la maquetación original.",
+      "detalles": [
+        {
+          "label": "Obra Base",
+          "value": "'Hay un oso en el cuarto oscuro' (Helen Cooper, 1993)."
+        },
+        {
+          "label": "Corpus",
+          "value": "28 narraciones audiovisuales en YouTube en castellano."
+        }
+      ],
+      "limitaciones": [
+        "Análisis enfocado en un único título emblemático de la literatura infantil."
+      ],
+      "reflexion": "La tecnología audiovisual no es enemiga del libro si sabe inclinarse con respeto ante el silencio de la ilustración."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El crimen de mutilar el encuadre ilustrado",
+      "narrativa": "Los datos desvelaron errores garrafales cometidos en la red:",
+      "hallazgos": [
+        {
+          "label": "1. El Asesinato del Suspense",
+          "value": "Animar al oso con movimientos ridículos destruye el miedo ancestral a la oscuridad que el álbum construye magistralmente."
+        },
+        {
+          "label": "2. La Voz como Mediadora de Calidad",
+          "value": "Las mejores lecturas fueron aquellas donde una voz cálida leía el libro físico mostrando el paso de página real con las manos."
+        }
+      ],
+      "dataPoints": [
+        "El 40% de los canales monetizados recortó ilustraciones para ajustarlas al formato panorámico 16:9, amputando detalles cruciales."
+      ],
+      "reflexion": "Un buen videocuento no suplanta al libro: invita a correr a la biblioteca a tocar el papel."
+    },
+    "marco": {
+      "titulo": "Discusión: Criterios para seleccionar videocuentos de calidad",
+      "narrativa": "Quesada-Padrón y Díaz-Armas formulan una guía crítica para maestros y familias:",
+      "detalles": [
+        {
+          "label": "Respeto a la Integridad Artística",
+          "value": "Priorizar vídeos que respeten la doble página original y no añadan efectos sonoros innecesarios."
+        }
+      ],
+      "reflexion": "Enseñar a seleccionar pantallas es la primera lección de la nueva alfabetización literaria."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo transforman las narraciones digitales en plataformas de vídeo la recepción y los sentidos del álbum ilustrado?",
+      "conclusion": "El análisis semiótico de 28 adaptaciones en YouTube de 'Hay un oso en el cuarto oscuro' constata el predominio de 'lecturas reductoras' (64%) que trivializan la polisemia del álbum mediante zooms mutiladores y sonorización discordante. Frente a ello, las 'lecturas ricas' demuestran que el medio audiovisual puede potenciar la recepción literaria cuando respeta el tempo contemplativo y la relación dialéctica entre texto e imagen.",
+      "formalRef": "Quesada-Padrón, C., & Díaz-Armas, J. (2025). Lecturas ricas y lecturas reductoras en la narración digital de álbumes ilustrados. Ocnos, 24(1). https://doi.org/10.18239/ocnos2025.24.1.477"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué caracteriza a una 'lectura reductora' en la transposición digital de un álbum ilustrado según el estudio?",
+          "options": [
+            "Hacer el libro más largo y difícil.",
+            "Mutilar los encuadres originales, añadir música estridente o efectos sonoros que anulan el suspense y la ambigüedad artística de la obra.",
+            "Leer el texto en diferentes idiomas.",
+            "Regalar libros de papel a los espectadores."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué célebre álbum ilustrado de Helen Cooper fue el objeto central del corpus de 28 narraciones digitales analizadas?",
+          "options": [
+            "'El Principito'.",
+            "'Hay un oso en el cuarto oscuro' (1993).",
+            "'Don Quijote de la Mancha'.",
+            "'Caperucita Roja'."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de mediación digital obtuvo la mejor valoración estética por parte de los investigadores?",
+          "options": [
+            "Vídeos con fuegos artificiales digitales y avatares 3D.",
+            "Aquellas que muestran el libro impreso real siendo hojeado con una locución sobria que respeta los tiempos de contemplación de las ilustraciones.",
+            "Vídeos reproducidos a triple velocidad con voces de ardilla.",
+            "Ningún vídeo fue aceptable."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Selecciona un videocuento en YouTube y evalúalo utilizando los conceptos del estudio: ¿es una 'lectura rica' o 'reductora'? Analiza la locución, la música y el respeto al encuadre ilustrado."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo enseñarías a tus alumnos de Magisterio o a las familias a distinguir entre una animación comercial que hipnotiza y una verdadera mediación literaria audiovisual?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al cruce entre YouTube y la literatura ilustrada. ¿Qué pasa cuando subes un cuento a las redes?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Muchos videocuentos destrozan la sutileza de los álbumes con música de circo y recortes salvajes de las imágenes.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Analizamos 28 adaptaciones digitales de 'Hay un oso en el cuarto oscuro' con una lupa semiótica implacable.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El 64% de los vídeos son lecturas reductoras! Solo unos pocos logran enriquecer la experiencia infantil.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Un buen videocuento debe ser una reverencia al libro impreso, no un sustituto desalmado.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "El misterio y el miedo infantil no necesitan estridencias: necesitan tiempo para mirar y sentir.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa conceptual interactivo para ver la tensión entre lecturas ricas y reductoras en YouTube.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Pon a prueba tu mirada crítica y aprende a seleccionar contenidos audiovisuales de alta calidad poética.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Lecturas Ricas y Reductoras de Álbumes en Plataformas Digitales",
+    "descripcion": "Análisis multimodal de 28 videocuentos en YouTube: respeto al encuadre, polifonía semiótica, tempo narrativo y mediación audiovisual.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Videocuentos en YouTube",
+        "color": "#f4d068"
+      },
+      {
+        "id": "2",
+        "label": "Álbum de Helen Cooper (1993)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Lecturas Reductoras (64%)",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "4",
+        "label": "Lecturas Ricas (21%)",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Mutilación de Encuadres (16:9)",
+        "color": "#e76f51"
+      },
+      {
+        "id": "6",
+        "label": "Sonorización Invasiva Estridente",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "7",
+        "label": "Pausa y Tempo Contemplativo",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "8",
+        "label": "Polisemia Texto-Imagen",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "9",
+        "label": "Libro Físico como Referencia",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Alfabetización Multimodal Crítica",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "adapta digitalmente el"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "genera predominantemente"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "alcanza en ocasiones"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "incurre en la grave"
+      },
+      {
+        "from": "3",
+        "to": "6",
+        "label": "distrae al niño con una"
+      },
+      {
+        "from": "4",
+        "to": "7",
+        "label": "respeta escrupulosamente la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "permite decodificar la"
+      },
+      {
+        "from": "4",
+        "to": "9",
+        "label": "revaloriza y remite al"
+      },
+      {
+        "from": "10",
+        "to": "3",
+        "label": "aprende a rechazar las"
+      },
+      {
+        "from": "10",
+        "to": "4",
+        "label": "promueve la selección de"
+      }
+    ]
+  }
+}

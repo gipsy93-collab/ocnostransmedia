@@ -1,0 +1,316 @@
+{
+  "id": "juegos_funciones_ejecutivas",
+  "metadata": {
+    "title": "Promoción de funciones ejecutivas y fluencia mediante juegos en estudiantes en situación de incorporación tardía",
+    "authors": "Ana-Belén Domínguez, María-Cruz Sánchez-Gómez y Juan-José Mena",
+    "year": "2025",
+    "journal": "Ocnos 24(1)",
+    "doi": "10.18239/ocnos_2025.24.1.483",
+    "gancho": "¿Pueden los juegos de mesa modernos acelerar la integración lingüística y el control mental de niños recién llegados a otro país?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#88b04b",
+    "colorAlt": "#2a5a75",
+    "bg": "from-emerald-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-25.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-25.png",
+      "name": "Dra. Ana-Belén Domínguez",
+      "role": "Investigadora en Educación Inclusiva y Aprendizaje Basado en Juegos, Universidad de Salamanca"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Ana-Belén Domínguez, especialista en inclusión del alumnado inmigrante y funciones ejecutivas",
+      "gancho": "¿Cómo aprender un nuevo idioma y superar el estrés migratorio mientras te diviertes lanzando dados y cartas?",
+      "contexto": "El alumnado en situación de incorporación tardía al sistema educativo (INTARSE) se enfrenta a una doble barrera: el desconocimiento de la lengua vehicular de enseñanza y el duelo migratorio, lo que sobrecarga sus funciones ejecutivas (atención, memoria de trabajo y flexibilidad cognitiva). Este estudio cuasiexperimental evaluó la eficacia de un programa de 12 semanas basado en juegos de mesa de reglas estructuradas para entrenar el control inhibitorio y la fluidez léxica y lectora en escolares inmigrantes.",
+      "deepDives": [
+        {
+          "id": "jue-apertura-1",
+          "triggerLabel": "Funciones ejecutivas y lectura",
+          "type": "theory",
+          "content": "La inhibición de distractores y la flexibilidad cognitiva son los motores cerebrales que permiten alternar estrategias de decodificación y comprensión."
+        },
+        {
+          "id": "jue-apertura-2",
+          "triggerLabel": "El colectivo INTARSE",
+          "type": "data",
+          "content": "Alumnado que se incorpora al sistema educativo español con desfase curricular o barrera idiomática de origen."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La respuesta educativa tradicional al alumnado inmigrante suele basarse en fichas repetitivas de gramática descontextualizada que aumentan la ansiedad y el aislamiento social.",
+      "porQueImporta": "El juego reglado crea un entorno seguro de andamiaje lingüístico y cooperación que reduce la frustración y activa la plasticidad neurocognitiva.",
+      "dataPoints": [
+        "Diseño cuasiexperimental pre-post con grupo de control.",
+        "Programa de 12 semanas (3 sesiones semanales de 45 minutos) con juegos como Dobble, Fantasma Blitz y Cortex.",
+        "Mejora estadísticamente significativa en memoria de trabajo (d = 0.65) y control inhibitorio.",
+        "Incremento del 34% en la fluidez verbal fonológica y semántica en español en el grupo experimental."
+      ],
+      "glossary": [
+        {
+          "term": "Funciones ejecutivas (FE)",
+          "definition": "Procesos cognitivos de orden superior que permiten planificar, enfocar la atención, recordar instrucciones y gestionar múltiples tareas con éxito."
+        },
+        {
+          "term": "INTARSE",
+          "definition": "Siglas que identifican al alumnado de Incorporación Tardía al Sistema Educativo con necesidades específicas de apoyo."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Intervención lúdica sistemática en el aula de enlace",
+      "narrativa": "Los investigadores evaluaron a los alumnos antes y después del programa mediante pruebas neuropsicológicas estandarizadas (ENFEN, Stroop, fluidez verbal de FAS).",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "Escolares de incorporación tardía de origen marroquí, ucraniano y latinoamericano."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "Batería ENFEN, Test de Stroop y tareas de fluencia lectora."
+        }
+      ],
+      "limitaciones": [
+        "Tamaño muestral acotado a centros de Castilla y León."
+      ],
+      "reflexion": "En el tablero de juego no hay extranjeros: todos comparten las mismas reglas y las mismas risas."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El juego como acelerador de la integración",
+      "narrativa": "Los datos demostraron beneficios que trascendieron lo cognitivo:",
+      "hallazgos": [
+        {
+          "label": "1. Salto en la Fluidez Léxica",
+          "value": "Tener que nombrar objetos a gran velocidad en juegos como Dobble desbloqueó el léxico activo en español mucho más rápido que los ejercicios de papel."
+        },
+        {
+          "label": "2. Cohesión Intercultural",
+          "value": "Los alumnos del grupo experimental redujeron notablemente su ansiedad comunicativa y empezaron a relacionarse con compañeros nativos en los recreos."
+        }
+      ],
+      "dataPoints": [
+        "Efecto superior del juego reglado frente al método tradicional de fichas (p < .005)."
+      ],
+      "reflexion": "Jugar juntos es la forma más bella y rápida de aprender a convivir."
+    },
+    "marco": {
+      "titulo": "Discusión: La ludificación como política de acogida escolar",
+      "narrativa": "Domínguez, Sánchez-Gómez y Mena defienden incluir ludotecas de aula en todos los planes de acogida institucional:",
+      "detalles": [
+        {
+          "label": "Metodología Libre de Fracaso",
+          "value": "El error en el juego no se califica con ceros: se convierte en la oportunidad de probar otra estrategia."
+        }
+      ],
+      "reflexion": "Hacer sitio a un niño recién llegado es poner un tablero de juego entre sus manos y las nuestras."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué impacto tiene un programa basado en juegos de mesa sobre las funciones ejecutivas y la fluencia en alumnado de incorporación tardía?",
+      "conclusion": "La intervención de 12 semanas con juegos de mesa modernos demostró una mejora significativa en las funciones ejecutivas (control inhibitorio y memoria de trabajo) y en la fluidez verbal y lectora del alumnado en situación de incorporación tardía (INTARSE). El juego reglado se consolida como una estrategia inclusiva de alto impacto neuroeducativo que favorece simultáneamente el aprendizaje lingüístico y la cohesión socioemocional.",
+      "formalRef": "Domínguez, A. B., Sánchez-Gómez, M. C., & Mena, J. J. (2025). Promoción de funciones ejecutivas y fluencia mediante juegos en estudiantes en situación de incorporación tardía al sistema educativo. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.483"
+    },
+    "juegos": [
+      {
+        "juegoId": "quiz",
+        "titulo": "Desafío Lúdico-Ejecutivo",
+        "descripcion": "Pon a prueba tus conocimientos sobre funciones ejecutivas, neurodesarrollo y juego reglado.",
+        "instrucciones": "Responde las preguntas del estudio para medir la atención, memoria de trabajo y flexibilidad cognitiva."
+      },
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Atencional",
+        "descripcion": "Entrena el control inhibitorio y la concentración esquivando muros y respondiendo preguntas.",
+        "instrucciones": "Come tokens verdes y responde los desafíos pedagógicos de las investigadoras."
+      }
+    ],
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué funciones ejecutivas experimentaron la mayor ganancia significativa tras el programa de juegos de mesa?",
+          "options": [
+            "La capacidad de dormir durante las explicaciones.",
+            "El control inhibitorio de distractores y la memoria de trabajo operativa.",
+            "La velocidad para correr en educación física.",
+            "El cálculo del precio de los juguetes."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué juegos de mesa modernos formaron parte de la intervención analizada por las investigadoras?",
+          "options": [
+            "La ruleta rusa y el bingo tradicional.",
+            "Juegos de reglas rápidas y percepción como Dobble, Fantasma Blitz y Cortex.",
+            "El solitario de cartas de ordenador.",
+            "Ningún juego comercial."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué beneficio socioemocional complementario aportó el programa al alumnado inmigrante recién llegado?",
+          "options": [
+            "Aislamiento voluntario en las esquinas del patio.",
+            "Reducción drástica de la ansiedad comunicativa y mayor interacción espontánea con compañeros en los recreos.",
+            "Pérdida de la lengua materna.",
+            "Aparición de celos entre jugadores."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Selecciona un juego de mesa comercial moderno (como 'Dixit', 'Fantasma Blitz' o 'Story Cubes') y explica qué funciones ejecutivas entrena y cómo lo adaptarías para un aula con escolares no hispanohablantes."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué el juego de mesa ofrece un entorno psicológicamente más seguro para cometer errores de pronunciación y vocabulario que una pregunta tradicional del profesor frente a toda la clase?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "¡A jugar se ha dicho! Descubre cómo los juegos de mesa son el mejor pasaporte para niños recién llegados a un nuevo país.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Aprender un idioma en un país desconocido es abrumador: las fichas de gramática fría no son la solución.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Acompañamos a escolares inmigrantes durante 12 semanas jugando a Dobble, Fantasma Blitz y Cortex.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Las funciones ejecutivas se dispararon! Mayor memoria de trabajo, menos distracciones y un 34% más de fluidez verbal.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "El juego es un lenguaje universal que borra las fronteras y convierte el aula en una comunidad acogedora.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Enseñar jugando no es perder el tiempo: es entrenar el cerebro con su motor más potente, la alegría.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo se articulan los juegos de mesa, las funciones ejecutivas, el colectivo INTARSE y la inclusión.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo que has aprendido y proyecta dinámicas lúdicas inclusivas para tu escuela.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Juegos de Mesa, Funciones Ejecutivas e Inclusión Lingüística",
+    "descripcion": "Intervención de 12 semanas en INTARSE: control inhibitorio, memoria de trabajo, fluidez verbal, reducción de ansiedad y acogida intercultural.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Juegos de Mesa Modernos",
+        "color": "#88b04b"
+      },
+      {
+        "id": "2",
+        "label": "Alumnado INTARSE (Inmigrante)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Funciones Ejecutivas (FE)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Control Inhibitorio",
+        "color": "#e76f51"
+      },
+      {
+        "id": "5",
+        "label": "Memoria de Trabajo",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "6",
+        "label": "Fluencia Verbal y Lectora (+34%)",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "7",
+        "label": "Reducción de Ansiedad Lingüística",
+        "color": "#f4d068"
+      },
+      {
+        "id": "8",
+        "label": "Entorno Seguro Libre de Fracaso",
+        "color": "#264653"
+      },
+      {
+        "id": "9",
+        "label": "Cohesión Intercultural en Recreos",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "10",
+        "label": "Educación Inclusiva Real",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se aplica como programa para el"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "entrena directamente las"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "potencia de forma notable el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "incrementa la capacidad de la"
+      },
+      {
+        "from": "1",
+        "to": "6",
+        "label": "dispara la adquisición de la"
+      },
+      {
+        "from": "8",
+        "to": "7",
+        "label": "facilita y promueve la"
+      },
+      {
+        "from": "1",
+        "to": "8",
+        "label": "establece en el aula un"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "habilita en el centro la"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "materializa los principios de la"
+      },
+      {
+        "from": "10",
+        "to": "2",
+        "label": "garantiza el éxito y bienestar del"
+      }
+    ]
+  }
+}

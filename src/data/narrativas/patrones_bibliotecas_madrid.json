@@ -1,0 +1,317 @@
+{
+  "id": "patrones_bibliotecas_madrid",
+  "metadata": {
+    "title": "¿Qué leemos? Patrones de lectura entre los usuarios de las bibliotecas públicas de Madrid",
+    "authors": "Ángel Borrego",
+    "year": "2026",
+    "journal": "Ocnos 25(1)",
+    "doi": "10.18239/ocnos_2026.25.1.632",
+    "gancho": "¿Qué eligen los ciudadanos cuando nadie les obliga a leer: grandes clásicos o thrillers vertiginosos y mangas japoneses?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#264653",
+    "colorAlt": "#e76f51",
+    "bg": "from-slate-700/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-9.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-9.png",
+      "name": "Dr. Ángel Borrego",
+      "role": "Catedrático en Biblioteconomía y Documentación, Universitat de Barcelona"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Ángel Borrego, experto en sociología de la lectura y análisis masivo de datos bibliotecarios",
+      "gancho": "¿Qué revelan 1,7 millones de préstamos de libros sobre los verdaderos gustos de una metrópoli europea?",
+      "contexto": "A menudo, las encuestas oficiales de hábitos lectores están sesgadas por el 'efecto de deseabilidad social': la gente declara leer más ensayos y clásicos de lo que realmente hace. La red de bibliotecas públicas del Ayuntamiento de Madrid ofrece un laboratorio empírico inigualable: registros automatizados y anónimos de cada libro físico prestado a lo largo de un año completo. En este macroestudio sociológico, el profesor Borrego analizó 1.700.000 préstamos realizados en 2024 para desvelar qué autores, géneros, procedencias geográficas y formatos triunfan realmente entre lectores adultos e infantiles.",
+      "deepDives": [
+        {
+          "id": "bm-apertura-1",
+          "triggerLabel": "El Big Data bibliotecario",
+          "type": "data",
+          "content": "1.714.288 transacciones de préstamo físico analizadas en 33 bibliotecas municipales madrileñas durante todo el año 2024."
+        },
+        {
+          "id": "bm-apertura-2",
+          "triggerLabel": "El fenómeno del 'Long Tail'",
+          "type": "theory",
+          "content": "La distribución de préstamos muestra una cabeza concentradísima en pocos títulos superventas, acompañada de una larguísima cola de libros prestados una sola vez."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Las bibliotecas públicas se debaten entre dos modelos: ¿deben comprar masivamente los bestsellers comerciales que demanda la masa de usuarios o mantener una colección equilibrada de fondo cultural, alta literatura y autores minoritarios?",
+      "porQueImporta": "Comprender los patrones reales de lectura evita políticas de adquisición a ciegas y permite diseñar planes de fomento lector basados en la realidad y no en mitos elitistas.",
+      "dataPoints": [
+        "Análisis de más de 1,7 millones de préstamos físicos en 2024.",
+        "Fuerte concentración: el 5% de los títulos acumula más del 40% de todos los préstamos anuales.",
+        "Monopolio absoluto del thriller / novela negra en el público adulto (Carmen Mola, Juan Gómez-Jurado, Dolores Redondo).",
+        "Explosión sin precedentes del manga japonés en las salas infantiles y juveniles (superando con creces al cómic francobelga y al cómic nacional).",
+        "Baja presencia de literatura traducida no anglosajona y escasísima demanda de obras clásicas anteriores a 1950."
+      ],
+      "glossary": [
+        {
+          "term": "Préstamo bibliotecario",
+          "definition": "Transacción física o digital en la que un usuario retira temporalmente un documento de la colección pública registrada por código de barras."
+        },
+        {
+          "term": "Deseabilidad social",
+          "definition": "Sesgo en cuestionarios donde los participantes responden lo que consideran socialmente prestigioso en lugar de su conducta real."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Minería de datos sobre 1.714.288 transacciones anuales",
+      "narrativa": "El investigador extrajo los logs del sistema integrado de gestión bibliotecaria (SIGB) de Madrid. Normalizó identificadores ISBN, clasificó por códigos CDU, analizó la nacionalidad del autor, la fecha de edición original y el género editorial.",
+      "detalles": [
+        {
+          "label": "Fuente de Datos",
+          "value": "Registros de préstamo del Ayuntamiento de Madrid (33 bibliotecas públicas de distrito)."
+        },
+        {
+          "label": "Volumen",
+          "value": "1.714.288 préstamos registrados a lo largo de los doce meses de 2024."
+        },
+        {
+          "label": "Variables",
+          "value": "Autor, título, género literario, lengua original, año de publicación, edad del lector."
+        }
+      ],
+      "limitaciones": [
+        "Solo abarca préstamos físicos (no incluye la plataforma eBiblio de préstamo digital).",
+        "Refleja la realidad sociodemográfica de la capital de España, no extrapolable a entornos rurales."
+      ],
+      "reflexion": "Los datos de los lectores no mienten: cuando el ciudadano es libre de elegir, vota con sus manos en las estanterías de la biblioteca."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Thrillers, sagas juveniles y el reinado del Manga",
+      "narrativa": "Los resultados cuantitativos confirmaron tendencias de mercado y revelaron sorpresas:",
+      "hallazgos": [
+        {
+          "label": "1. El Dominio del Thriller Español",
+          "value": "La novela policíaca y de suspense nacional copa casi por completo el top 20 de adultos. El lector medio busca evasión, ritmo frenético y tramas adictivas."
+        },
+        {
+          "label": "2. El Huracán Manga",
+          "value": "En la sección infantil y juvenil, títulos como Spy x Family, Chainsaw Man o Naruto copan los primeros puestos, demostrando que el manga es la puerta de entrada a la lectura."
+        },
+        {
+          "label": "3. El Olvido de los Clásicos",
+          "value": "El Quijote o Galdós apenas registran préstamos espontáneos, asociándose casi exclusivamente a tareas escolares forzosas."
+        }
+      ],
+      "dataPoints": [
+        "Más del 60% de los préstamos adultos fueron ficción contemporánea publicada en los últimos 5 años.",
+        "El manga japonés representó más del 35% del total de cómics prestados en toda la red."
+      ],
+      "reflexion": "No hay que lamentar que lean manga o novela negra: hay que celebrar que las bibliotecas siguen vivas y llenas de gente leyendo."
+    },
+    "marco": {
+      "titulo": "Discusión: El papel democrático de la biblioteca pública contemporánea",
+      "narrativa": "Borrego reflexiona sobre el equilibrio entre demanda popular y curaduría cultural:",
+      "detalles": [
+        {
+          "label": "Ni Paternalismo ni Mera Tienda",
+          "value": "La biblioteca no debe ser un supermercado de novedades ni una torre de marfil. Debe satisfacer la demanda popular y a la vez abrir puertas a lo desconocido."
+        },
+        {
+          "label": "El Cómic como Motor de Nuevos Lectores",
+          "value": "Las secciones de cómic y manga son las que más atraen a preadolescentes y varones jóvenes, colectivos con alto riesgo de abandono lector."
+        }
+      ],
+      "reflexion": "La biblioteca pública es el último refugio del saber común: un templo donde todo es gratis y de todos."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué patrones de género, autoría y formato caracterizan los más de 1,7 millones de préstamos en las bibliotecas públicas de Madrid?",
+      "conclusion": "El macroanálisis de más de 1,7 millones de préstamos físicos en Madrid (2024) revela una alta concentración en un número reducido de títulos mediáticos y una clara predilección por el thriller contemporáneo español en adultos y por el manga japonés en el público infantil y juvenil. Los resultados evidencian la distancia entre el canon académico y los hábitos lectores espontáneos, desafiando a las políticas bibliotecarias a conjugar la atención a la demanda popular con la preservación del patrimonio literario diverso.",
+      "formalRef": "Borrego, Á. (2026). ¿Qué leemos? Patrones de lectura entre los usuarios de las bibliotecas públicas de Madrid. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.632"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué género literario dominó de forma casi absoluta las listas de préstamos entre los lectores adultos madrileños en 2024?",
+          "options": [
+            "La poesía mística renacentista.",
+            "El thriller y la novela policíaca de autores contemporáneos españoles.",
+            "El teatro barroco del Siglo de Oro.",
+            "Los manuales de informática avanzada."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué formato gráfico protagonizó una demanda masiva en las salas infantiles y juveniles de la red de bibliotecas?",
+          "options": [
+            "El manga japonés.",
+            "Las tiras cómicas de periódicos del siglo XIX.",
+            "Los folletos de instrucciones técnicas.",
+            "Las fotonovelas románticas de los años cincuenta."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje aproximado de préstamos acumula el 5% de los títulos más demandados según el estudio?",
+          "options": [
+            "Menos del 1 %.",
+            "Más del 40 % de todos los préstamos anuales (fenómeno de fuerte concentración).",
+            "Exactamente el 100 %.",
+            "El estudio no midió la concentración de títulos."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Como responsable de adquisiciones de una biblioteca municipal con presupuesto limitado, ¿cómo balancearías la compra de ejemplares múltiples del bestseller de moda frente a la adquisición de literatura diversa y de fondo?"
+        },
+        {
+          "type": "open",
+          "q": "El estudio constata el triunfo indiscutible del manga entre los jóvenes lectores. ¿Qué actividad de mediación diseñarías para tender un puente desde un manga popular (como Death Note o Naruto) hacia la narrativa literaria o los clásicos?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "¡1,7 millones de libros prestados en Madrid! Vamos a mirar por el ojo de la cerradura qué leen de verdad los ciudadanos.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Compramos lo que la gente pide a gritos o lo que los críticos dicen que deben leer? El dilema bibliotecario al descubierto.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Minería de datos pura sobre 33 bibliotecas municipales sin el sesgo de las encuestas tradicionales.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El thriller arrasa en adultos y el manga conquista a los chavales! La lectura está más viva que nunca, aunque el canon cambie.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "No despreciemos el gusto popular: quien hoy lee un manga apasionadamente puede ser mañana el lector de una gran novela.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La biblioteca no juzga a quien cruza su puerta: le entrega el libro que necesita para ser libre y soñar.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver la distribución de préstamos, el thriller español, el fenómeno manga y las políticas de biblioteca.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Analiza los datos y reflexiona sobre cómo construir colecciones inclusivas y atractivas para la ciudadanía.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Patrones de Lectura en las Bibliotecas Públicas de Madrid",
+    "descripcion": "Minería masiva de 1,7 millones de préstamos físicos: thriller contemporáneo, explosión del manga, concentración de títulos y políticas culturales.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Patrones de Préstamo (1.7M)",
+        "color": "#264653"
+      },
+      {
+        "id": "2",
+        "label": "Red de Bibliotecas de Madrid",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Concentración de Bestsellers",
+        "color": "#e76f51"
+      },
+      {
+        "id": "4",
+        "label": "Hegemonía del Thriller Adulto",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "5",
+        "label": "Fenómeno Manga Juvenil",
+        "color": "#f4d068"
+      },
+      {
+        "id": "6",
+        "label": "Olvido de los Clásicos",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "7",
+        "label": "Superación de la Deseabilidad Social",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "8",
+        "label": "Políticas de Adquisición",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "9",
+        "label": "Democratización del Hábito Lector",
+        "color": "#88b04b"
+      },
+      {
+        "id": "10",
+        "label": "Curaduría Cultural y Fondo",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "registra las transacciones de"
+      },
+      {
+        "from": "1",
+        "to": "7",
+        "label": "revela datos objetivos gracias a la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "evidencia una altísima"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "confirma en adultos la"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "demuestra en jóvenes el"
+      },
+      {
+        "from": "1",
+        "to": "6",
+        "label": "refleja el preocupante"
+      },
+      {
+        "from": "8",
+        "to": "3",
+        "label": "debe responder sin ceguera a la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "debe equilibrarse con la"
+      },
+      {
+        "from": "5",
+        "to": "9",
+        "label": "actúa como puerta de entrada a la"
+      },
+      {
+        "from": "9",
+        "to": "2",
+        "label": "constituye la misión democrática de la"
+      }
+    ]
+  }
+}

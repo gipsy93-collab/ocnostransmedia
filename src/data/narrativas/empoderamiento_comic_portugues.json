@@ -1,0 +1,302 @@
+{
+  "id": "empoderamiento_comic_portugues",
+  "metadata": {
+    "title": "Empoderamiento femenino en el cómic portugués: un manifiesto por la igualdad de género",
+    "authors": "Ana-Luísa Oliveira y Ângela Balça",
+    "year": "2025",
+    "journal": "Ocnos 24(1)",
+    "doi": "10.18239/ocnos_2025.24.1.490",
+    "gancho": "¿Cómo están redibujando las autoras de cómic portuguesas la historia de un país marcado por décadas de silencio patriarcal?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#2a5a75",
+    "bg": "from-purple-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-28.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-28.png",
+      "name": "Dra. Ana-Luísa Oliveira",
+      "role": "Investigadora en Noveno Arte y Estudios de Género, Universidade de Évora (Portugal)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Ana-Luísa Oliveira, especialista en novela gráfica contemporánea y discursos feministas en Portugal",
+      "gancho": "¿Puede una viñeta romper con medio siglo de estereotipos machistas y misoginia institucional?",
+      "contexto": "El cómic contemporáneo en Portugal vive una auténtica revolución impulsada por una nueva generación de autoras que utilizan la historieta autobiográfica y testimonial como herramienta de combate social. Este estudio analiza un corpus de obras de creadoras lusas publicadas en la última década, examinando cómo abordan el cuerpo femenino, la memoria histórica de la Revolución de los Claveles, la violencia machista, la maternidad no idealizada y la ruptura con el canon androcéntrico del noveno arte.",
+      "deepDives": [
+        {
+          "id": "com-apertura-1",
+          "triggerLabel": "El cómic como manifiesto político",
+          "type": "theory",
+          "content": "Hillary Chute señala que el cómic autobiográfico de mujeres ofrece un lenguaje gráfico único para representar traumas corporales que el texto verbal puro suele censurar."
+        },
+        {
+          "id": "com-apertura-2",
+          "triggerLabel": "Corpus de autoras lusas",
+          "type": "data",
+          "content": "Análisis de obras emblemáticas de autoras como Joana Estrela, Amanda Baeza, Maria João Worm y Regina Guimarães."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La historia oficial del cómic portugués relegó sistemáticamente a las mujeres al papel de musas o personajes secundarios cosificados por la mirada masculina (male gaze).",
+      "porQueImporta": "El noveno arte es una potente herramienta pedagógica para la juventud; si solo reproduce miradas androcéntricas, perpetúa la desigualdad en las nuevas generaciones.",
+      "dataPoints": [
+        "Corpus representativo de novelas gráficas y fanzines feministas publicados en Portugal (2012-2023).",
+        "Reivindicación de la autoedición y el circuito de microeditoriales independientes.",
+        "Representación del cuerpo femenino real: arrugas, menstruación, lactancia, sexualidad diversa y vejez sin retoques idealizadores.",
+        "Conexión con los 50 años de la Revolución del 25 de Abril de 1974 y el papel de las mujeres en la conquista democrática."
+      ],
+      "glossary": [
+        {
+          "term": "Noveno arte",
+          "definition": "Denominación acuñada por la crítica cultural europea para referirse al cómic y la historieta como disciplina artística autónoma."
+        },
+        {
+          "term": "Mirada masculina (Male gaze)",
+          "definition": "Perspectiva visual dominante en los medios visuales que representa el mundo y a las mujeres desde las fantasías y placeres masculinos."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis iconográfico y discursivo feminista",
+      "narrativa": "Las autoras triangularon el análisis semiótico visual (estilo de dibujo, color, montaje de página) con la crítica literaria feminista y la sociología editorial.",
+      "detalles": [
+        {
+          "label": "Corpus",
+          "value": "Novelas gráficas, zines y álbumes ilustrados producidos por mujeres en Portugal."
+        },
+        {
+          "label": "Marco Teórico",
+          "value": "Hillary Chute, Butler, Beauvoir y sociología del cómic ibérico."
+        }
+      ],
+      "limitaciones": [
+        "Dificultad de acceso a fanzines y tiradas underground de corta distribución."
+      ],
+      "reflexion": "Dibujarse a sí misma es un acto de soberanía sobre el propio cuerpo y la propia historia."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Las viñetas de la emancipación",
+      "narrativa": "El análisis de las obras seleccionadas desveló ejes temáticos de gran valentía:",
+      "hallazgos": [
+        {
+          "label": "1. Desmitificación del Cuidado Obligatorio",
+          "value": "Las protagonistas cuestionan el mandato social de ser madres abnegadas o cuidadoras sumisas de la familia."
+        },
+        {
+          "label": "2. Una Estética de la Fragilidad Radical",
+          "value": "Trazos sueltos, acuarelas imperfectas y manchas que desafían el dibujo industrial y reivindican la intimidad."
+        }
+      ],
+      "dataPoints": [
+        "Crecimiento del 300% en la presencia de creadoras premiadas en festivales de cómic en Portugal en la última década."
+      ],
+      "reflexion": "La viñeta feminista no pide permiso: ocupa el espacio y cuenta lo que otros callaron."
+    },
+    "marco": {
+      "titulo": "Discusión: El cómic en las aulas para educar en igualdad",
+      "narrativa": "Oliveira y Balça proponen incorporar estas novelas gráficas en Secundaria y Universidad:",
+      "detalles": [
+        {
+          "label": "Alfabetización Gráfica Inclusiva",
+          "value": "Utilizar el cómic de autoras para debatir sobre relaciones sanas, identidad y memoria democrática."
+        }
+      ],
+      "reflexion": "Leer viñetas diversas es aprender a mirar el mundo con ojos de justicia e igualdad."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo articulan las autoras de cómic portuguesas contemporáneas el discurso de empoderamiento femenino y la igualdad de género?",
+      "conclusion": "El estudio confirma que la nueva generación de autoras de cómic en Portugal ha transformado el noveno arte en un manifiesto visual de empoderamiento e igualdad. A través de la autoficción, el trazo experimental y la representación desmitificada del cuerpo femenino, las creadoras lusas denuncian la violencia patriarcal, recuperan la memoria de las luchas democráticas y ofrecen a la educación literaria artefactos gráficos de extraordinaria potencia emancipadora.",
+      "formalRef": "Oliveira, A. L., & Balça, Â. (2025). Empoderamiento femenino en el cómic portugués: un manifiesto por la igualdad de género. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.490"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué rasgo temático y estético sobresale en las obras de cómic de las autoras portuguesas analizadas?",
+          "options": [
+            "Dibujos de superhéroes musculosos peleando en galaxias lejanas.",
+            "La autoficción, la representación de cuerpos reales sin idealizar y la crítica abierta al mandato patriarcal del cuidado.",
+            "Copia exacta de los mangas comerciales japoneses.",
+            "Historietas que promueven la sumisión de la mujer."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué acontecimiento histórico portugués sirve de marco recurrente de memoria democrática en varias de las obras del corpus?",
+          "options": [
+            "La conquista de América.",
+            "La Revolución de los Claveles del 25 de abril de 1974.",
+            "El terremoto de Lisboa de 1755.",
+            "La entrada en la Unión Europea en 1986."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cómo combate la nueva novela gráfica de autoras la clásica 'mirada masculina' (male gaze) del cómic tradicional?",
+          "options": [
+            "Haciendo que los personajes no tengan cara.",
+            "Poniendo en el centro del relato las vivencias, dolores, deseos y cuerpos de las propias mujeres como sujetos agentes y no como objetos pasivos.",
+            "Prohibiendo que los hombres lean cómics.",
+            "Pintando todas las viñetas de color rosa."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña una actividad para 4.º de la ESO en la que tus alumnos comparen la representación de un personaje femenino en un cómic clásico tradicional vs. una novela gráfica feminista contemporánea (ej. 'Persépolis' o una obra del cómic portugués)."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué el formato visual del cómic (donde texto y dibujo se entrelazan en la viñeta) resulta tan eficaz para transmitir la experiencia de un trauma o de una vivencia íntima?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Viajemos a Portugal a través de sus viñetas. Las creadoras lusas están reescribiendo la historia con tinta rebelde.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "El cómic tradicional era un club masculino que cosificaba a las mujeres. ¡La nueva ola de autoras ha dicho basta!",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Analizamos una década de novelas gráficas y fanzines que cruzan la memoria de la Revolución con los derechos de las mujeres.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Cuerpos reales y voces libres! Viñetas íntimas que derriban el mandato patriarcal y celebran la diversidad.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Llevemos estas novelas gráficas a las aulas: son lecciones vivas de arte, feminismo y democracia.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Dibujar el propio destino en una página en blanco es el mayor grito de libertad que existe.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver la relación entre cómic portugués, empoderamiento femenino, autoficción y memoria democrática.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y atrévete a utilizar el noveno arte como motor de educación en igualdad.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Cómic Portugués, Feminismo y Memoria Gráfica",
+    "descripcion": "Análisis de autoras lusas contemporáneas (2012-2023): deconstrucción del 'male gaze', autoficción, cuerpos reales y memoria del 25 de Abril.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Cómic Femenino Portugués",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "2",
+        "label": "Empoderamiento e Igualdad",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Ruptura con el 'Male Gaze'",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "4",
+        "label": "Autoficción y Testimonio Gráfico",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Cuerpos Femeninos Reales",
+        "color": "#e88b8c"
+      },
+      {
+        "id": "6",
+        "label": "Memoria del 25 de Abril (1974)",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "7",
+        "label": "Microeditoriales y Fanzines",
+        "color": "#f4d068"
+      },
+      {
+        "id": "8",
+        "label": "Crítica a la Maternidad Obligatoria",
+        "color": "#e76f51"
+      },
+      {
+        "id": "9",
+        "label": "Canon Androcéntrico Tradicional",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Educación Literaria Crítica",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se convierte en manifiesto de"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "opera una radical"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "adopta la forma de"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "visibiliza y dibuja"
+      },
+      {
+        "from": "1",
+        "to": "6",
+        "label": "recupera la activa"
+      },
+      {
+        "from": "7",
+        "to": "1",
+        "label": "impulsa la publicación libre en"
+      },
+      {
+        "from": "1",
+        "to": "8",
+        "label": "articula una lúcida"
+      },
+      {
+        "from": "3",
+        "to": "9",
+        "label": "desmantela el hegemónico"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "incorpora al aula la riqueza del"
+      },
+      {
+        "from": "10",
+        "to": "2",
+        "label": "educa a la juventud en la"
+      }
+    ]
+  }
+}

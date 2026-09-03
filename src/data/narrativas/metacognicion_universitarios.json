@@ -1,0 +1,298 @@
+{
+  "id": "metacognicion_universitarios",
+  "metadata": {
+    "title": "Validación psicométrica de un test de comprensión lectora y conciencia metacognitiva en estudiantes universitarios",
+    "authors": "José-Antonio Martínez-González, María-Ángeles Serrano y Lucía Ramos",
+    "year": "2025",
+    "journal": "Ocnos 24(2)",
+    "doi": "10.18239/ocnos_2025.24.2.538",
+    "gancho": "¿Saben realmente los universitarios si han entendido lo que leen o sufren una ceguera metacognitiva crónica?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#2a5a75",
+    "bg": "from-purple-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-16.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-16.png",
+      "name": "Dr. José-Antonio Martínez-González",
+      "role": "Investigador en Psicometría y Metacognición, Universidad de Murcia"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. José-Antonio Martínez-González, psicómetra especializado en autorregulación del aprendizaje",
+      "gancho": "¿Por qué un estudiante universitario afirma haber entendido un artículo al 100% y luego saca un cero en la prueba?",
+      "contexto": "La 'ilusión de saber' es uno de los mayores problemas del aprendizaje en Educación Superior. Los alumnos confunden la familiaridad con el texto con la comprensión real. Para diagnosticar y entrenar la autorregulación, los autores desarrollaron y validaron la batería ARCO en una muestra de 480 estudiantes universitarios de diversas facultades, cruzando pruebas objetivas de rendimiento lector con el inventario de conciencia metacognitiva MARSI.",
+      "deepDives": [
+        {
+          "id": "meta-apertura-1",
+          "triggerLabel": "¿Qué es la calibración metacognitiva?",
+          "type": "theory",
+          "content": "Es la precisión con la que el juicio subjetivo de un estudiante sobre su comprensión coincide con su puntuación real en un test objetivo."
+        },
+        {
+          "id": "meta-apertura-2",
+          "triggerLabel": "La prueba ARCO y el MARSI",
+          "type": "data",
+          "content": "Batería que integra textos expositivos con preguntas de coherencia global y monitoreo de estrategias de resolución de problemas."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Las universidades carecían de pruebas psicométricas breves y fiables para medir simultáneamente la comprensión real y la conciencia metacognitiva en español.",
+      "porQueImporta": "Sin calibración metacognitiva, los alumnos no detectan cuándo no entienden y, por tanto, nunca releen ni aplican estrategias reparadoras.",
+      "dataPoints": [
+        "Muestra de 480 estudiantes de Grado y Máster.",
+        "Estructura bifactorial confirmada (habilidad lectora objetiva y regulación estratégica).",
+        "Pobre calibración inicial: el 52% de los alumnos sobreestimó groseramente su comprensión.",
+        "Alta consistencia interna de la prueba ARCO (Omega de McDonald = .88)."
+      ],
+      "glossary": [
+        {
+          "term": "Monitoreo metacognitivo",
+          "definition": "Proceso cognitivo en línea mediante el cual el lector supervisa activamente si el texto está teniendo sentido durante la lectura."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis factorial confirmatorio y curvas de calibración",
+      "narrativa": "Los autores aplicaron análisis factorial confirmatorio (AFC) y teoría de respuesta al ítem (TRI) para calibrar la dificultad y discriminación de los reactivos de ARCO.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "480 universitarios de Ciencias Sociales, Humanidades y Salud."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "Prueba ARCO e Inventario MARSI adaptado."
+        }
+      ],
+      "limitaciones": [
+        "Aplicación en formato digital online que requiere control de tiempos."
+      ],
+      "reflexion": "Quien no sabe lo que ignora no puede aprender nada nuevo."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: La brecha entre creer que sabes y saber de verdad",
+      "narrativa": "Los resultados confirmaron la disociación entre autopercepción y competencia:",
+      "hallazgos": [
+        {
+          "label": "1. Sobreestimación Masiva",
+          "value": "Los peores lectores mostraron la mayor sobreestimación subjetiva (efecto Dunning-Kruger lector)."
+        },
+        {
+          "label": "2. La Metacognición se Entrena",
+          "value": "La prueba demostró que formular preguntas de estimación previa de dificultad afina la calibración del alumno."
+        }
+      ],
+      "dataPoints": [
+        "Ajuste excelente del modelo psicométrico (CFI = .96, RMSEA = .045)."
+      ],
+      "reflexion": "La humildad intelectual es el primer requisito para convertirse en un lector maduro."
+    },
+    "marco": {
+      "titulo": "Discusión: Implicaciones para la tutoría universitaria",
+      "narrativa": "La batería ARCO se propone como herramienta diagnóstica de acceso para orientar a alumnos de nuevo ingreso.",
+      "detalles": [
+        {
+          "label": "Tutorías de Aprendizaje Autorregulado",
+          "value": "Enseñar a dudar del propio entendimiento y a buscar evidencias en el texto."
+        }
+      ],
+      "reflexion": "Aprender a leer en la universidad es aprender a evaluar críticamente tu propio pensamiento."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué propiedades psicométricas presenta la prueba ARCO para evaluar la comprensión y la metacognición universitaria?",
+      "conclusion": "La prueba ARCO demostró una validez factorial y fiabilidad excelentes (Omega = .88) en 480 universitarios, revelando que más de la mitad del alumnado presenta una mala calibración metacognitiva (sobreestimación del saber). Se consolida como un instrumento clave para programas de autorregulación del estudio en Educación Superior.",
+      "formalRef": "Martínez-González, J. A., Serrano, M. A., & Ramos, L. (2025). Validación psicométrica de un test de comprensión lectora y conciencia metacognitiva en estudiantes universitarios. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.538"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué fenómeno metacognitivo se detectó en más del 50 % de los estudiantes universitarios evaluados?",
+          "options": [
+            "Una infravaloración de sus capacidades.",
+            "Una sobreestimación notable de su propia comprensión real (ilusión de saber).",
+            "Un conocimiento perfecto de sus errores.",
+            "Negativa a responder las preguntas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué evalúa de forma conjunta la batería psicométrica ARCO validada en el estudio?",
+          "options": [
+            "La comprensión lectora objetiva y los procesos de monitoreo y regulación metacognitiva.",
+            "La velocidad de mecanografía en teclado.",
+            "El número de libros comprados al año.",
+            "La capacidad pulmonar al hablar."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué coeficiente psicométrico de fiabilidad obtuvo la prueba ARCO?",
+          "options": [
+            "Omega de McDonald = .88 (alta consistencia interna).",
+            "Cero absoluto.",
+            "Menos de .20 (inconsistente).",
+            "No se calculó la fiabilidad."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "¿Qué rutina de 'parada y verificación' propondrías a tus estudiantes universitarios para que detecten a tiempo si han perdido el hilo de un artículo científico denso?"
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que subrayar con rotuladores de colores sin hacerse preguntas a uno mismo fomenta la 'ilusión de saber' en el estudio?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al análisis de la mente que vigila a la mente: la metacognición universitaria al descubierto.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Crees que entiendes lo que lees? Los datos demuestran que la mitad de los universitarios viven en una ilusión.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "480 estudiantes evaluados con la batería ARCO y el inventario MARSI con rigurosos análisis psicométricos.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Efecto Dunning-Kruger lector! Los que peor leen son los más convencidos de haber entendido todo.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Enseñar a dudar y a comprobar es la mejor lección para los estudiantes de nuevo ingreso en la universidad.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "El sabio no es quien lo sabe todo, sino quien sabe exactamente qué parte del texto no ha comprendido aún.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver la batería ARCO, la calibración metacognitiva, el MARSI y la autorregulación.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Ponte a prueba y descubre tus propios sesgos metacognitivos al enfrentarte a textos académicos.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Test ARCO y Conciencia Metacognitiva Universitaria",
+    "descripcion": "Validación psicométrica en 480 estudiantes: calibración metacognitiva, inventario MARSI, ilusión de saber y autorregulación del estudio.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Batería Psicométrica ARCO",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "2",
+        "label": "Calibración Metacognitiva",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Ilusión de Saber (52%)",
+        "color": "#e76f51"
+      },
+      {
+        "id": "4",
+        "label": "Monitoreo en Línea",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Inventario MARSI Adaptado",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "6",
+        "label": "Muestra 480 Universitarios",
+        "color": "#f4d068"
+      },
+      {
+        "id": "7",
+        "label": "Efecto Dunning-Kruger Lector",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "8",
+        "label": "Estrategias de Reparación",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "9",
+        "label": "Fiabilidad Omega (.88)",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Autorregulación en la Universidad",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "6",
+        "label": "se valida con la"
+      },
+      {
+        "from": "1",
+        "to": "2",
+        "label": "mide la precisión de la"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "revela una extendida"
+      },
+      {
+        "from": "3",
+        "to": "7",
+        "label": "es manifestación directa del"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "se triangula con el"
+      },
+      {
+        "from": "4",
+        "to": "8",
+        "label": "desencadena la aplicación de"
+      },
+      {
+        "from": "1",
+        "to": "9",
+        "label": "demuestra una sólida"
+      },
+      {
+        "from": "10",
+        "to": "4",
+        "label": "promueve el activo"
+      },
+      {
+        "from": "10",
+        "to": "2",
+        "label": "corrige y entrena la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "consolida en el estudiante la"
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "id": "memoria_mexique",
+  "metadata": {
+    "title": "Álbumes ilustrados y memoria histórica: respuestas lectoras en Educación Primaria",
+    "authors": "Berta Echeberria-Arquero, Amaia Mariezkurrena Serrano, Iñigo López-Gazpio y Ursula Luna",
+    "year": "2026",
+    "journal": "Ocnos 25(2)",
+    "doi": "10.18239/ocnos_2026.25.2.614",
+    "gancho": "¿Cómo leen los niños de hoy el exilio infantil de 1937 cuando suben a bordo del barco Mexique?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#c73e1d",
+    "colorAlt": "#2a5a75",
+    "bg": "from-red-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-16.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-16.png",
+      "name": "Dra. Berta Echeberria-Arquero",
+      "role": "Investigadora en Didáctica de la Literatura y Memoria Democrática, UPV/EHU (España)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Berta Echeberria-Arquero, especialista en memoria histórica y respuestas lectoras infantiles",
+      "gancho": "¿Puede un álbum ilustrado conmover a escolares del siglo XXI hasta hacerles sentir el miedo de los niños que huyeron de las bombas en la Guerra Civil?",
+      "contexto": "El 27 de mayo de 1937, en plena Guerra Civil Española, 456 niños y niñas subieron al vapor Mexique en el puerto de Burdeos rumbo a México para ponerse a salvo del horror bélico; casi ninguno de ellos regresó jamás a ver a sus familias. Esta conmovedora tragedia histórica fue plasmada magistralmente en el álbum 'Mexique, el nombre del barco', escrito por María José Ferrada e ilustrado en tonos sobrios por Ana Penyas. Sin embargo, en las escuelas primarias españolas, la Guerra Civil y el exilio siguen siendo temas tabú o explicados como frías fechas de libro de texto. Investigadores de la Universidad del País Vasco (UPV/EHU) llevaron este álbum a 180 escolares de Primaria y grabaron en vídeo sus diálogos espontáneos, transcribiéndolos con modelos de inteligencia artificial para descubrir qué sienten, qué comprenden y qué silencios históricos persisten en las nuevas generaciones.",
+      "deepDives": [
+        {
+          "id": "mex-apertura-1",
+          "triggerLabel": "La historia real de los 'Niños de Morelia'",
+          "type": "data",
+          "content": "En 1937, el gobierno de Lázaro Cárdenas en México ofreció asilo humanitario a hijos de combatientes republicanos. Lo que se planeó como un viaje temporal de pocos meses se convirtió en un exilio forzoso definitivo tras la victoria de la dictadura franquista y el estallido de la Segunda Guerra Mundial."
+        },
+        {
+          "id": "mex-apertura-2",
+          "triggerLabel": "¿Qué es la 'respuesta lectora' (Reader-Response Theory)?",
+          "type": "theory",
+          "content": "Rosenblatt (1978) y Sipe (1998) postulan que el significado de un texto no está encerrado en la página, sino que nace en la transacción viva entre el libro y el lector. En niños, la respuesta abarca desde conexiones personales afectivas hasta análisis hermenéutico de la relación entre imagen y texto."
+        },
+        {
+          "id": "mex-apertura-3",
+          "triggerLabel": "Tecnología de transcripción Conformer-Transducer",
+          "type": "theory",
+          "content": "Para procesar cientos de horas de grabaciones en vídeo de debates de aula sin alterar el habla natural de los niños, los investigadores utilizaron un modelo de reconocimiento automático del habla (ASR) de código abierto de vanguardia, garantizando rigor y trazabilidad analítica."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Persiste una extendida creencia docente de que los niños de Primaria 'son demasiado pequeños' para abordar temas controvertidos o traumáticos como las guerras, las dictaduras y el exilio político. La investigación se propone averiguar si el alumnado de 5.º y 6.º de Primaria es capaz de construir interpretaciones complejas ante un álbum sobre la Guerra Civil o si sus respuestas quedan atrapadas en la superficie literal por falta de mediación histórica.",
+      "porQueImporta": "Una sociedad democrática que oculta su pasado a los más jóvenes cría generaciones vulnerables a los discursos de odio y a la desmemoria. El álbum ilustrado permite acercar el trauma histórico desde la empatía estética y el respeto a la dignidad de las víctimas.",
+      "dataPoints": [
+        "Muestra de 180 alumnos de Educación Primaria del País Vasco.",
+        "Grabación audiovisual exhaustiva de sesiones de lectura dialógica compartida en el aula.",
+        "Uso del modelo ASR Conformer-Transducer para transcribir y codificar con precisión más de 50 horas de debates infantiles.",
+        "El 100% de los grupos estableció conexiones empáticas espontáneas entre el viaje del barco Mexique y sus propios miedos al desamparo.",
+        "Alta capacidad analógica contemporánea: los estudiantes vincularon inmediatamente el exilio español de 1937 con la guerra de Ucrania y las pateras en el mar Mediterráneo.",
+        "Grave carencia detectada: severa limitación en la profundidad histórica; los escolares desconocen los bandos de la Guerra Civil y confunden el conflicto con invasiones extranjeras.",
+        "La ilustración en bicromía y litografía de Ana Penyas fue el detonante principal de las inferencias sobre la tristeza y el silencio del desarraigo."
+      ],
+      "glossary": [
+        {
+          "term": "Memoria histórica / democrática",
+          "definition": "Proceso cívico y pedagógico de recuerdo, homenaje y resignificación crítica del pasado traumático y de las víctimas de la violencia de Estado."
+        },
+        {
+          "term": "Álbum de corte histórico",
+          "definition": "Modalidad de libro ilustrado que recrea acontecimientos documentados del pasado mediante el contrapunto expresivo entre narración poética e ilustración documental."
+        },
+        {
+          "term": "Conexión transaccional",
+          "definition": "Capacidad del lector infantil de enlazar el texto leído con tres niveles: su propia vida cotidiana, otros textos conocidos (intertextualidad) y el contexto sociopolítico del mundo."
+        },
+        {
+          "term": "Tema controvertido",
+          "definition": "Contenido curricular que genera desacuerdo moral, ideológico o emocional en la sociedad y cuya enseñanza escolar exige neutralidad activa y pensamiento crítico."
+        },
+        {
+          "term": "ASR (Automatic Speech Recognition)",
+          "definition": "Tecnología informática de inteligencia artificial que convierte el habla humana continua en texto digital editable y estructurado para su análisis categórico."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Grabación audiovisual, ASR de vanguardia y análisis dialógico",
+      "narrativa": "El equipo de investigadoras y lingüistas computacionales de la UPV/EHU llevó a cabo un estudio cualitativo en aulas de Primaria del País Vasco. Se diseñó una secuencia de mediación en torno al álbum 'Mexique, el nombre del barco'. Las conversaciones espontáneas de los 180 escolares se registraron en vídeo de alta definición. Para superar la lentitud de la transcripción manual, aplicaron el modelo Conformer-Transducer de inteligencia artificial, sometiendo el corpus resultante a un sistema de categorías ad hoc para evaluar la profundidad semiótica y ética de las intervenciones.",
+      "detalles": [
+        { "label": "Población", "value": "180 alumnos de Educación Primaria del País Vasco (aulas de 5.º y 6.º curso)." },
+        { "label": "Obra Mediadora", "value": "'Mexique, el nombre del barco' (Ferrada y Penyas, Ediciones Tecolote / Libros del Zorro Rojo)." },
+        { "label": "Tecnología de Transcripción", "value": "Modelo ASR open-source basado en redes neuronales Conformer-Transducer." },
+        { "label": "Dimensiones del Análisis", "value": "Conexiones personales vivenciales, conexiones intertextuales, conexiones con el mundo actual y nivel de comprensión histórica." }
+      ],
+      "limitaciones": [
+        "Estudio cualitativo focalizado en centros escolares del País Vasco, condicionado por su propia memoria cultural territorial.",
+        "Tiempo de intervención limitado a sesiones de lectura compartida, recomendándose proyectos longitudinales de memoria intergeneracional."
+      ],
+      "reflexion": "La tecnología de IA al servicio de la investigación educativa no sustituye la sensibilidad humana: permite procesar con precisión quirúrgica la voz pura y no filtrada de los niños en el aula."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Mucha empatía, pero un desierto de contexto histórico",
+      "narrativa": "Los diálogos transcritos revelaron una profunda contradicción en el aula de primaria contemporánea:",
+      "hallazgos": [
+        {
+          "label": "1. Inmensa Empatía Emocional",
+          "value": "Los niños conectaron de forma visceral con los pequeños protagonistas: sintieron el frío del barco, el miedo a la oscuridad de las bodegas y el dolor de despedirse de sus padres en el muelle."
+        },
+        {
+          "label": "2. Puentes Inmediatos con los Refugiados Actuales",
+          "value": "Sin necesidad de inducción docente, el alumnado comparó el viaje del Mexique con los niños refugiados de Ucrania o las personas que cruzan el Mediterráneo en pateras, demostrando una viva sensibilidad humanitaria."
+        },
+        {
+          "label": "3. Alarmante Vacío de Conocimiento Histórico",
+          "value": "Cuando se indagó sobre las causas del viaje, la mayoría desconocía la Guerra Civil Española: algunos pensaban que huían de una guerra en Francia o de zombis, o que los 'malos' eran piratas, reflejando el silencio curricular sobre el siglo XX español."
+        },
+        {
+          "label": "4. El Poder Revelador de la Imagen",
+          "value": "Las ilustraciones de Ana Penyas —con caras desdibujadas y collages de fotos de época— provocaron las reflexiones más profundas: los escolares comprendieron que la guerra no solo destruye casas, sino que borra las identidades de las personas."
+        }
+      ],
+      "dataPoints": [
+        "Más del 75% de las intervenciones espontáneas se concentró en la dimensión afectivo-emocional del viaje.",
+        "Menos del 15% de los comentarios logró identificar con exactitud el contexto político de la España republicana de 1937.",
+        "La mediación docente guiada logró multiplicar por tres la profundidad argumentativa cuando se explicaron las cartas reales que los niños enviaban a sus madres desde Morelia."
+      ],
+      "reflexion": "Los niños tienen el corazón abierto para comprender el dolor ajeno; lo que les falta es la escuela que les dé las herramientas históricas para entender por qué ocurrió."
+    },
+    "marco": {
+      "titulo": "Discusión: Romper el tabú del pasado para construir ciudadanía crítica",
+      "narrativa": "Echeberria-Arquero y su equipo confrontan la inercia del sistema educativo español con los retos de la memoria democrática:",
+      "detalles": [
+        {
+          "label": "Superar la Infantilización del Alumnado",
+          "value": "Proteger a los niños ocultándoles la historia es desarmarlos éticamente. La infancia es capaz de procesar temas duros si se hace desde el respeto estético del álbum ilustrado (Colomer-Martínez, 2012)."
+        },
+        {
+          "label": "La Memoria Histórica como Deber Cívico",
+          "value": "La Ley de Memoria Democrática exige introducir estos contenidos en el aula. El álbum de no ficción es el recurso perfecto para cumplir la ley sin caer en el adoctrinamiento ni en la frialdad enciclopédica."
+        },
+        {
+          "label": "La Alfabetización Visual como Código Crítico",
+          "value": "Enseñar a leer la imagen (encuadres, paleta cromática, texturas) es enseñar a detectar la propaganda y la manipulación en el mundo audiovisual contemporáneo (Nikolajeva, 2003)."
+        },
+        {
+          "label": "El Diálogo Intergeneracional con los Abuelos",
+          "value": "El álbum Mexique sirvió de catalizador para que muchos niños llegaran a casa preguntando por las historias de sus propios bisabuelos durante la posguerra, rescatando la memoria familiar del olvido."
+        }
+      ],
+      "reflexion": "La memoria no es mirar hacia atrás con rencor: es encender una luz en el pasado para no tropezar con las mismas piedras en el futuro."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo responden los escolares de Educación Primaria ante la memoria histórica y qué potencial ofrece el álbum ilustrado para abordar el exilio infantil?",
+      "conclusion": "La investigación con 180 alumnos de Primaria tras la lectura de 'Mexique, el nombre del barco' demuestra que los escolares poseen una sobresaliente competencia empática e interpretativa, logrando vincular con naturalidad el exilio de 1937 con sus propias vivencias y con las crisis de refugiados actuales (Ucrania, Mediterráneo). Sin embargo, se constata una grave carencia en la profundidad histórica y en la comprensión de las raíces políticas del conflicto, fruto de la invisibilización escolar de la Guerra Civil. El estudio concluye que el álbum ilustrado es una herramienta imprescindible para superar el tabú pedagógico, articular la alfabetización visual con la memoria democrática y formar ciudadanos críticos e informados desde la escuela primaria.",
+      "formalRef": "Echeberria-Arquero, B., Mariezkurrena-Serrano, A., López-Gazpio, I., & Luna, U. (2026). Álbumes ilustrados y memoria histórica. Respuestas lectoras del alumnado de Educación Primaria. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.614"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué acontecimiento histórico real recrea el álbum ilustrado 'Mexique, el nombre del barco' analizado en la investigación?",
+          "options": [
+            "La llegada de Cristóbal Colón a América en 1492.",
+            "La expedición de 456 niños y niñas republicanos enviados al exilio en México en 1937 para huir de la Guerra Civil Española (los 'Niños de Morelia').",
+            "Un viaje turístico de vacaciones por el Caribe.",
+            "El desembarco de Normandía durante la Segunda Guerra Mundial."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "A pesar de la alta capacidad empática de los 180 alumnos evaluados, ¿cuál fue la principal carencia detectada en sus respuestas?",
+          "options": [
+            "Que no sabían leer en voz alta.",
+            "Una notable falta de profundidad histórica y desconocimiento del contexto político y los bandos de la Guerra Civil Española.",
+            "Que se negaron a ver las ilustraciones del libro.",
+            "Que confundieron el barco con un avión de combate moderno."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué innovadora tecnología de inteligencia artificial de código abierto utilizó el equipo de la UPV/EHU para transcribir las grabaciones de voz de los niños?",
+          "options": [
+            "Modelos ASR basados en arquitectura Conformer-Transducer.",
+            "Un programa de dictado por teléfono analógico.",
+            "Sistemas mecánicos de taquigrafía manual.",
+            "Generadores de imágenes automáticas 3D."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Muchos maestros temen que hablar de la Guerra Civil en Primaria genere enfrentamientos ideológicos entre familias. A la luz de los hallazgos con el álbum 'Mexique', ¿cómo defenderías ante el claustro que trabajar el exilio infantil desde el arte y la empatía es una exigencia de memoria democrática y derechos humanos?"
+        },
+        {
+          "type": "open",
+          "q": "El estudio reveló que los escolares compararon inmediatamente a los niños del barco Mexique con los refugiados de Ucrania y del Mediterráneo. Diseña una consigna de aula que permita a tus estudiantes crear una 'carta ilustrada de solidaridad' conectando el pasado histórico con una crisis migratoria actual."
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a bordo del vapor Mexique. Nos adentramos en una de las heridas más conmovedoras de nuestra historia de la mano de 180 niños.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Son los niños demasiado frágiles para hablar de guerras y dictaduras? La investigación demuestra que la censura escolar solo crea ignorancia.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Escucha cómo hablan los escolares. Gracias a la inteligencia artificial Conformer-Transducer, transcribimos cada palabra de sus debates con rigor ético.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Es fascinante! Sienten el dolor del exilio y lo conectan con los refugiados de hoy, pero nadie les ha explicado qué fue la Guerra Civil. ¡Hay que educar la memoria!",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Ana Penyas y María José Ferrada nos regalan una joya. La imagen en litografía permite comprender que la guerra no es una aventura, sino el robo de la infancia.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Recordar a los niños de Morelia no es mirar al pasado con rencor: es vacunar a las nuevas generaciones contra la indiferencia y el odio.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo se conectan el exilio de 1937, el álbum ilustrado, la empatía infantil, la IA de transcripción y la memoria democrática.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y atrévete a soñar una escuela donde ningún pasado sea silenciado por miedo.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Álbumes Ilustrados y Memoria Histórica en Primaria",
+    "descripcion": "Respuestas lectoras transaccionales, exilio infantil de 1937, vacíos curriculares, ASR de voz y educación para la memoria democrática.",
+    "nodos": [
+      { "id": "1", "label": "Memoria Histórica en Primaria", "color": "#c73e1d" },
+      { "id": "2", "label": "Álbum 'Mexique, el nombre del barco'", "color": "#2a5a75" },
+      { "id": "3", "label": "Niños de Morelia (1937)", "color": "#e76f51" },
+      { "id": "4", "label": "Alta Empatía e Identificación", "color": "#88b04b" },
+      { "id": "5", "label": "Conexión con Refugiados Actuales", "color": "#5b9eaa" },
+      { "id": "6", "label": "Vacío de Conocimiento Histórico", "color": "#f4d068" },
+      { "id": "7", "label": "Ilustración en Bicromía (Ana Penyas)", "color": "#9b82c3" },
+      { "id": "8", "label": "Transcripción IA Conformer", "color": "#2a9d8f" },
+      { "id": "9", "label": "Teoría de la Respuesta Lectora", "color": "#264653" },
+      { "id": "10", "label": "Educación en Memoria Democrática", "color": "#f4a261" }
+    ],
+    "aristas": [
+      { "from": "1", "to": "2", "label": "se investiga mediante el" },
+      { "from": "2", "to": "3", "label": "recrea la tragedia de los" },
+      { "from": "9", "to": "4", "label": "analiza la eclosión de la" },
+      { "from": "4", "to": "5", "label": "facilita el salto hacia la" },
+      { "from": "1", "to": "6", "label": "choca contra el grave" },
+      { "from": "2", "to": "7", "label": "se potencia visualmente con la" },
+      { "from": "8", "to": "9", "label": "procesa el corpus empírico de la" },
+      { "from": "7", "to": "4", "label": "evoca el dolor del desarraigo en la" },
+      { "from": "10", "to": "6", "label": "combate y repara el" },
+      { "from": "10", "to": "1", "label": "fundamenta el mandato cívico de la" }
+    ]
+  }
+}

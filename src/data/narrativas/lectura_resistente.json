@@ -1,0 +1,312 @@
+{
+  "id": "lectura_resistente",
+  "metadata": {
+    "title": "El fomento de la lectura resistente en el aula universitaria: materiales didácticos y metodologías",
+    "authors": "Jordi Serrano-Muñoz y Teresa Iribarren",
+    "year": "2026",
+    "journal": "Ocnos 25(1)",
+    "doi": "10.18239/ocnos_2026.25.1.560",
+    "gancho": "¿Es posible leer una gran obra de la literatura universal sin ser cómplice de las violencias machistas normalizadas en sus páginas?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e88b8c",
+    "colorAlt": "#2a5a75",
+    "bg": "from-rose-500/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-2.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-2.png",
+      "name": "Dr. Jordi Serrano-Muñoz",
+      "role": "Investigador en Literatura y Perspectiva de Género, Ghent University / UOC"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Jordi Serrano-Muñoz, especialista en teoría literaria y lectura crítica contrahegemónica",
+      "gancho": "¿Cómo enseñamos a los estudiantes a amar la literatura sin aceptar pasivamente la violencia patriarcal naturalizada en los clásicos?",
+      "contexto": "Judith Fetterley acuñó en 1978 el concepto de 'la lectora resistente' (the resisting reader) para rebelarse contra los mandatos androcéntricos grabados en el canon literario. En este estudio longitudinal en la UOC, los autores evaluaron el impacto de la guía docente 'Literatura y violencias machistas' para comprobar si capacita a los universitarios —especialmente varones— para desarmar la violencia en el texto sin censurar las obras.",
+      "deepDives": [
+        {
+          "id": "res-apertura-1",
+          "triggerLabel": "¿Qué es la 'lectura resistente' (Fetterley)?",
+          "type": "theory",
+          "content": "Consiste en negarse a identificarse ciegamente con la mirada del narrador patriarcal, interrogando los silencios del texto y visibilizando las violencias simbólicas."
+        },
+        {
+          "id": "res-apertura-2",
+          "triggerLabel": "La guía docente",
+          "type": "data",
+          "content": "Manual de acceso abierto (Iribarren et al., 2023) con pautas metodológicas y protocolos analíticos para trabajos académicos."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Persiste resistencia en las aulas ante la perspectiva de género, acusada erróneamente de 'cancelación'. Se necesita demostrar empíricamente que la formación rigurosa mejora las capacidades analíticas sin caer en juicios moralizantes.",
+      "porQueImporta": "La literatura moldea el imaginario colectivo. Si los graduados no saben decodificar violencias sutiles, las perpetuarán en las aulas de secundaria.",
+      "dataPoints": [
+        "Estudio longitudinal pre y post-test en literatura contemporánea.",
+        "Aumento significativo en acceso a recursos sobre violencia de género (p < .01).",
+        "Mayor salto relativo en los estudiantes varones, corrigiendo el déficit inicial.",
+        "Las tareas colaborativas fueron valoradas como las más innovadoras (85%), y las individuales como las más útiles para el análisis profundo."
+      ],
+      "glossary": [
+        {
+          "term": "Lectura resistente",
+          "definition": "Estrategia crítica que cuestiona los valores ideológicos androcéntricos implícitos en las obras literarias (Fetterley, 1978)."
+        },
+        {
+          "term": "Violencia machista simbólica",
+          "definition": "Representaciones culturales que reproducen y justifican la dominación y subordinación femenina (Bourdieu)."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Evaluación pre-post y ejercicios docentes aplicados",
+      "narrativa": "Los estudiantes trabajaron con la guía a través de debates en foros virtuales, análisis de casos literarios reales y redacción de ensayos críticos, evaluando la utilidad y percepción de innovación de cada ejercicio.",
+      "detalles": [
+        {
+          "label": "Contexto",
+          "value": "Aulas virtuales de Literatura Contemporánea en la UOC."
+        },
+        {
+          "label": "Intervención",
+          "value": "Implementación curricular de la Guía 'Literatura y violencias machistas' (Iribarren et al., 2023)."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "Cuestionarios pre y post-test con escalas Likert y preguntas abiertas."
+        }
+      ],
+      "limitaciones": [
+        "Muestra acotada a una única universidad online.",
+        "Medidas basadas en autopercepción de competencia analítica."
+      ],
+      "reflexion": "La innovación docente no es cambiar de pantalla, sino transformar la mirada crítica con la que interrogamos al texto."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Despertar crítico y superación del sesgo",
+      "narrativa": "Los resultados confirmaron la eficacia de la guía y revelaron un notable efecto nivelador:",
+      "hallazgos": [
+        {
+          "label": "1. Gran Avance en Estudiantes Varones",
+          "value": "Partían de un conocimiento muy bajo y alcanzaron una notable capacidad de detección crítica."
+        },
+        {
+          "label": "2. No a la Censura, Sí a la Crítica",
+          "value": "Comprendieron que la perspectiva de género no prohíbe clásicos, sino que ilumina su contexto histórico."
+        }
+      ],
+      "dataPoints": [
+        "El 92% de los participantes afirmó que la guía transformó su forma de abordar cualquier lectura futura.",
+        "Aumento significativo en la identificación de violencias psicológicas y simbólicas."
+      ],
+      "reflexion": "Hacer lectura resistente no es destruir el clásico: es hacerle las preguntas difíciles que nadie se atrevió a formular."
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia una filología emancipadora en la Educación Superior",
+      "narrativa": "Serrano-Muñoz e Iribarren sitúan sus resultados en los debates contemporáneos sobre el canon:",
+      "detalles": [
+        {
+          "label": "Contra la Apatía Androcéntrica",
+          "value": "La literatura cobra sentido cuando ilumina los dilemas éticos y de derechos humanos del presente."
+        },
+        {
+          "label": "Transferencia a Secundaria",
+          "value": "Los graduados formados en lectura resistente enseñarán a los adolescentes a cuestionar el amor tóxico en la ficción juvenil."
+        }
+      ],
+      "reflexion": "La filología no es arqueología: es un ejercicio ético de libertad e interpretación."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué impacto tiene la incorporación de materiales sobre violencias machistas en la lectura resistente universitaria?",
+      "conclusion": "La evaluación longitudinal de la guía 'Literatura y violencias machistas' demuestra que los materiales estructurados incrementan significativamente el dominio conceptual y la capacidad analítica para identificar violencias en la literatura, con un impacto corrector sobresaliente en el alumnado masculino. La combinación de debate colaborativo y análisis individual consolida la lectura resistente sin recurrir a la censura.",
+      "formalRef": "Serrano-Muñoz, J., & Iribarren, T. (2026). El fomento de la lectura resistente en el aula universitaria: materiales didácticos y metodologías. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.560"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué grupo de estudiantes experimentó el mayor incremento relativo en el acceso a recursos y reconocimiento de violencias machistas en el estudio?",
+          "options": [
+            "Los estudiantes varones, quienes partían de niveles de conocimiento previos significativamente más bajos.",
+            "Las estudiantes con doctorado previo.",
+            "Los alumnos que no entregaron las tareas.",
+            "Únicamente los docentes del claustro."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué propone teóricamente el concepto de 'lectura resistente' formulado por Judith Fetterley?",
+          "options": [
+            "Memorizar los textos clásicos sin cambiarlos.",
+            "Rechazar la identificación pasiva con la perspectiva androcéntrica del narrador, cuestionando y visibilizando las violencias normalizadas.",
+            "Dejar de leer libros de más de cien páginas.",
+            "Exigir la quema pública de novelas antiguas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "Respecto a los ejercicios docentes, ¿cómo valoró el alumnado las tareas colaborativas en grupo frente a las individuales?",
+          "options": [
+            "Las grupales se percibieron como más aburridas y tradicionales.",
+            "Las grupales fueron valoradas como más innovadoras, mientras que las individuales se consideraron más útiles para afinar la detección profunda.",
+            "Ambas fueron consideradas inútiles.",
+            "No se realizaron tareas de ningún tipo."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo responderías a un colega docente que afirma que 'analizar la violencia de género en los clásicos del Siglo de Oro es un anacronismo injusto'?"
+        },
+        {
+          "type": "open",
+          "q": "Elige una obra literaria o cuento tradicional conocido y describe cómo formularías una pregunta de 'lectura resistente' para tus estudiantes."
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Te doy la bienvenida a un espacio de coraje intelectual. Aprenderemos a mirar los textos clásicos con ojos despiertos.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Fetterley nos enseñó que leer no es arrodillarse ante el canon: es dialogar de igual a igual y señalar sus sombras.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "El diseño pre y post-test en la UOC nos permite medir si la guía cambia de verdad la mirada analítica.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Un dato revelador! Los chicos avanzan como nunca cuando se les ofrecen herramientas rigurosas sin juicios morales.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Nada de censurar libros: contextualizar, analizar y resistir. Esa es la verdadera misión universitaria.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La lectura resistente es una vacuna contra la normalización de la violencia en la vida cotidiana.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para conectar la lectura resistente, Judith Fetterley, la innovación docente y la perspectiva de género.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Pon a prueba tu criterio y reflexiona sobre cómo mediar obras polémicas en tus propias aulas.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Fomento de la Lectura Resistente Universitaria",
+    "descripcion": "Estrategias de innovación docente, perspectiva de género, análisis de violencias machistas en la literatura y diseño pre-post.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Lectura Resistente",
+        "color": "#e88b8c"
+      },
+      {
+        "id": "2",
+        "label": "Judith Fetterley (1978)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Guía Docente Universitaria",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Violencias Machistas en la Ficción",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "5",
+        "label": "Evaluación Pre y Post-Test",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "6",
+        "label": "Impacto en Alumnado Masculino",
+        "color": "#88b04b"
+      },
+      {
+        "id": "7",
+        "label": "Tareas Colaborativas vs. Individuales",
+        "color": "#f4d068"
+      },
+      {
+        "id": "8",
+        "label": "Superación de la Censura",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "9",
+        "label": "Canon Literario Crítico",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Competencias Éticas y Cívicas",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "fundamenta teóricamente la"
+      },
+      {
+        "from": "3",
+        "to": "1",
+        "label": "instrumenta en el aula la"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "desenmascara y analiza las"
+      },
+      {
+        "from": "5",
+        "to": "3",
+        "label": "evalúa la efectividad de la"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "evidencia un avance clave en el"
+      },
+      {
+        "from": "3",
+        "to": "7",
+        "label": "articula metodológicamente"
+      },
+      {
+        "from": "1",
+        "to": "8",
+        "label": "se diferencia tajantemente de la"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "permite una relectura viva del"
+      },
+      {
+        "from": "1",
+        "to": "10",
+        "label": "desarrolla en los estudiantes"
+      },
+      {
+        "from": "10",
+        "to": "9",
+        "label": "transforma la enseñanza del"
+      }
+    ]
+  }
+}

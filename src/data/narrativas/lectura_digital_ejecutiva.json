@@ -1,0 +1,298 @@
+{
+  "id": "lectura_digital_ejecutiva",
+  "metadata": {
+    "title": "Lectura digital en estudiantes universitarios: contribuciones del funcionamiento ejecutivo y hábitos lectores",
+    "authors": "Jesús-Nicasio García-Sánchez, Patricia Robledo-Ramón y Raquel Fidalgo",
+    "year": "2024",
+    "journal": "Ocnos 23(2)",
+    "doi": "10.18239/ocnos_2024.23.2.424",
+    "gancho": "¿Qué circuitos cerebrales deciden si entendemos un texto en la pantalla o nos quedamos en la superficie?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#2a5a75",
+    "bg": "from-amber-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-03.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-03.png",
+      "name": "Dr. Jesús-Nicasio García-Sánchez",
+      "role": "Catedrático de Psicología Evolutiva y de la Educación, Universidad de León"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Jesús-Nicasio García-Sánchez, especialista en psicología cognitiva de la lectura y funciones ejecutivas",
+      "gancho": "¿Es la lectura digital un reto intelectual o una trampa mortal para nuestra capacidad de concentración?",
+      "contexto": "Comprender textos digitales exige un potente despliegue de las funciones ejecutivas (control inhibitorio, actualización en memoria de trabajo y flexibilidad cognitiva). En este estudio con 210 estudiantes universitarios, los autores investigaron cómo interactúan el funcionamiento ejecutivo y los hábitos lectores previos en la comprensión de textos en soporte digital.",
+      "deepDives": [
+        {
+          "id": "fe-apertura-1",
+          "triggerLabel": "El trío de Miyake sobre funciones ejecutivas",
+          "type": "theory",
+          "content": "Inhibición, Updating y Shifting."
+        },
+        {
+          "id": "fe-apertura-2",
+          "triggerLabel": "Muestra de 210 universitarios",
+          "type": "data",
+          "content": "Evaluación neuropsicológica computerizada y pruebas estandarizadas de comprensión digital."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La lectura en pantalla expone al sujeto a sobrecarga atencional constante, por lo que quienes tienen funciones ejecutivas más débiles experimentan un colapso en la comprensión inferencial.",
+      "porQueImporta": "En la era digital, la brecha de rendimiento académico entre universitarios está mediada por su capacidad de autorregulación ejecutiva.",
+      "dataPoints": [
+        "Muestra de 210 universitarios de Grado.",
+        "La actualización en memoria de trabajo (updating) explicó el 38% de la varianza en la comprensión de textos expositivos digitales.",
+        "El control inhibitorio amortigua el impacto negativo de las distracciones en pantalla.",
+        "Los hábitos lectores frecuentes en papel protegen el rendimiento cuando se lee en digital."
+      ],
+      "glossary": [
+        {
+          "term": "Updating (Actualización)",
+          "definition": "Habilidad ejecutiva de monitorear y renovar continuamente la información relevante en la memoria operativa."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Batería computerizada y regresión jerárquica",
+      "narrativa": "Los autores aplicaron tareas neuropsicológicas estandarizadas (N-Back, Stroop, WCST) junto a pruebas de comprensión digital de textos científicos y literarios.",
+      "detalles": [
+        {
+          "label": "Participantes",
+          "value": "210 universitarios de la Universidad de León."
+        },
+        {
+          "label": "Análisis",
+          "value": "Modelos de regresión jerárquica y Path Analysis."
+        }
+      ],
+      "limitaciones": [
+        "Evaluación en entorno controlado de laboratorio informático."
+      ],
+      "reflexion": "La pantalla magnifica tanto las virtudes del cerebro disciplinado como los despistes del cerebro no entrenado."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El músculo invisible que sostiene la comprensión digital",
+      "narrativa": "Los análisis de regresión fueron concluyentes:",
+      "hallazgos": [
+        {
+          "label": "1. El 'Updating' es el Rey",
+          "value": "Actualizar la memoria de trabajo es el predictor más fuerte para integrar ideas complejas en pantalla."
+        },
+        {
+          "label": "2. Transferencia Positiva del Papel",
+          "value": "Quienes leen libros impresos transfieren sus hábitos de concentración profunda a la lectura en pantallas."
+        }
+      ],
+      "dataPoints": [
+        "Diferencia significativa (p < .001) en comprensión digital según nivel de control inhibitorio."
+      ],
+      "reflexion": "Leer en papel es el mejor gimnasio mental para no ahogarse en el mar digital."
+    },
+    "marco": {
+      "titulo": "Discusión: Entrenar el control ejecutivo en la era digital",
+      "narrativa": "García-Sánchez y sus colaboradoras recomiendan enseñar estrategias metacognitivas específicas para pantallas:",
+      "detalles": [
+        {
+          "label": "Autointerrogación Guiada",
+          "value": "Detener la lectura en pantalla cada dos párrafos para resumir mentalmente lo leído."
+        }
+      ],
+      "reflexion": "La tecnología avanza a la velocidad de la luz; nuestro cerebro necesita la calma del buen lector."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué contribución específica tienen las funciones ejecutivas y los hábitos lectores en la comprensión digital universitaria?",
+      "conclusion": "El estudio con 210 universitarios demuestra que las funciones ejecutivas, en particular la actualización en memoria de trabajo (updating) y el control inhibitorio, son determinantes críticos para la comprensión de textos expositivos en pantalla. Asimismo, unos hábitos consolidados de lectura en papel actúan como escudo protector que favorece la concentración en entornos digitales.",
+      "formalRef": "García-Sánchez, J. N., Robledo-Ramón, P., & Fidalgo, R. (2024). Lectura digital en estudiantes universitarios: contribuciones del funcionamiento ejecutivo y hábitos lectores. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.424"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué función ejecutiva demostró ser el predictor más potente de la comprensión de textos expositivos digitales?",
+          "options": [
+            "La capacidad de soñar despierto.",
+            "La actualización en la memoria de trabajo (updating).",
+            "La velocidad de clic con el ratón.",
+            "El equilibrio corporal."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué efecto protector demostraron tener los hábitos frecuentes de lectura en papel sobre la lectura en pantalla?",
+          "options": [
+            "Ningún efecto en absoluto.",
+            "Transfieren hábitos de concentración profunda y amortiguan la tendencia a la distracción superficial en entornos digitales.",
+            "Hacen que el ordenador se apague.",
+            "Empeoran la visión en pantalla."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué tarea neuropsicológica clásica evalúa el control inhibitorio frente a estímulos automáticos?",
+          "options": [
+            "El test de Stroop.",
+            "El juego de la oca.",
+            "El sudoku.",
+            "El crucigrama."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Diseña una pauta de estudio de 3 pasos basada en el control inhibitorio y la actualización de memoria para que tus alumnos lean artículos digitales sin dispersarse."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que un estudiante que nunca lee libros impresos tiene muchas más probabilidades de fracasar al estudiar en soportes digitales?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a la maquinaria cognitiva del cerebro. Vamos a medir cómo las funciones ejecutivas sostienen la lectura en pantalla.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Leer en pantalla es cognitivamente más caro que leer en papel: exige un esfuerzo ejecutivo constante para no perderse.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Evaluamos a 210 universitarios con pruebas computerizadas de Stroop, N-Back y comprensión digital.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡La memoria de trabajo y el control inhibitorio son los motores! Y quienes leen en papel rinden mejor en pantalla.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Entrenar el control ejecutivo es la mejor inversión para los estudiantes de la sociedad digital.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "No dejes que la pantalla mande en tu atención: entrena tu mente para mandar sobre la pantalla.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo interactúan lectura digital, funciones ejecutivas, memoria de trabajo y hábitos de papel.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Pon a prueba tus conocimientos sobre neurocognición lectora y diseña apoyos atencionales.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Funciones Ejecutivas y Comprensión en Lectura Digital",
+    "descripcion": "Estudio empírico (210 universitarios): actualización (updating), control inhibitorio, sobrecarga de pantalla y efecto protector del papel.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Lectura Digital Universitaria",
+        "color": "#e76f51"
+      },
+      {
+        "id": "2",
+        "label": "Funciones Ejecutivas (FE)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Actualización en Memoria (Updating)",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "Control Inhibitorio (Stroop)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "5",
+        "label": "Sobrecarga Atencional de Pantalla",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "6",
+        "label": "Comprensión de Textos Expositivos",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "7",
+        "label": "Muestra 210 Universitarios",
+        "color": "#264653"
+      },
+      {
+        "id": "8",
+        "label": "Efecto Protector del Papel",
+        "color": "#f4d068"
+      },
+      {
+        "id": "9",
+        "label": "Estrategias Metacognitivas",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "10",
+        "label": "Autorregulación Neurocognitiva",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "7",
+        "to": "1",
+        "label": "evalúa el rendimiento en"
+      },
+      {
+        "from": "2",
+        "to": "1",
+        "label": "sostiene cognitivamente la"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "despliega el componente crítico de"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "activa el freno del"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "expone al lector a la"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "amortigua y frena la"
+      },
+      {
+        "from": "3",
+        "to": "6",
+        "label": "explica el 38% del éxito en la"
+      },
+      {
+        "from": "8",
+        "to": "1",
+        "label": "mejora sustancialmente la"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "entrena de forma explícita la"
+      },
+      {
+        "from": "10",
+        "to": "6",
+        "label": "garantiza la máxima"
+      }
+    ]
+  }
+}

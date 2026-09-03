@@ -8,18 +8,34 @@ import { BrowserRouter as Router, Routes, Route, Link, Navigate, useNavigate } f
 import Semillero from './pages/Semillero';
 import Actualidad from './pages/Actualidad';
 import Interactivos from './pages/Interactivos';
+import InteractivosLegacy from './pages/InteractivosLegacy';
 import DetectivesLanding from './pages/detectives/DetectivesLanding';
 import Layout from './components/Layout';
 import ScrollToTop from './components/ScrollToTop';
 import QuizGame from './arcade/quiz/QuizGame';
 import PiramidePage from './arcade/piramide/PiramidePage';
-import { motion, MotionConfig, useReducedMotion } from 'motion/react';
-import { Sparkles, ArrowDown } from 'lucide-react';
+import EditorialRoster from './components/EditorialRoster';
+import { motion, MotionConfig, useReducedMotion, useScroll, useTransform } from 'motion/react';
+import { Sparkles, ArrowDown, Compass } from 'lucide-react';
 
 function Home() {
   const navigate = useNavigate();
   const prefersReducedMotion = useReducedMotion();
   const videoRef = useRef<HTMLVideoElement>(null);
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  // Scroll progress for the Hero sinking interaction
+  const { scrollYProgress } = useScroll({
+    target: containerRef,
+    offset: ["start start", "center start"]
+  });
+
+  // Capa 1: El video se hunde en profundidad (escala, oscurecimiento y sutil desenfoque)
+  const heroScale = useTransform(scrollYProgress, [0, 1], [1, 0.80]);
+  const heroDarken = useTransform(scrollYProgress, [0, 1], [0.35, 0.88]);
+  const heroBlur = useTransform(scrollYProgress, [0, 1], ["blur(0px)", "blur(5px)"]);
+  const textOpacity = useTransform(scrollYProgress, [0, 0.4], [1, 0]);
+  const textY = useTransform(scrollYProgress, [0, 0.4], [0, -50]);
 
   useEffect(() => {
     if (prefersReducedMotion && videoRef.current) {
@@ -29,106 +45,139 @@ function Home() {
     }
   }, [prefersReducedMotion]);
 
+  const scrollToCatalog = () => {
+    const catalogElement = document.getElementById('catalogo-editorial');
+    if (catalogElement) {
+      catalogElement.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
   return (
-    <div className="relative w-full overflow-hidden">
-      {/* Cinematic hero - full window */}
-      <motion.div 
-        className="relative w-full h-screen max-h-[900px] cursor-pointer overflow-hidden"
-        initial={{ opacity: 1 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 1 }}
-        onClick={() => navigate('/interactivos')}
-        role="link"
-        tabIndex={0}
-        aria-label="Ir a Interactivos"
-        onKeyDown={(e) => { if (e.key === 'Enter') navigate('/interactivos'); }}
-      >
-        {/* Video background - cinematic full bleed */}
-        <motion.video
-          ref={videoRef}
-          poster="/videos/carrera-ocnos-poster.jpg"
-          preload="metadata"
-          autoPlay
-          loop
-          muted
-          playsInline
-          className="absolute inset-0 w-full h-full object-cover"
-          aria-label="Video de fondo: carrera de lectura OCNOS"
-          initial={{ scale: 1.1 }}
-          animate={{ scale: prefersReducedMotion ? 1 : 1 }}
-          transition={{ duration: 3, ease: "easeOut" }}
-        >
-          <source src="/videos/carrera-ocnos.webm" type="video/webm" />
-          <source src="/videos/carrera-ocnos.mp4" type="video/mp4" />
-        </motion.video>
-
-        {/* Dark gradient overlay - cinematic vignette */}
-        <div className="absolute inset-0 bg-gradient-to-t from-ocean-dark/95 via-ocean-dark/60 to-ocean-dark/40" />
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_30%,rgba(0,0,0,0.5)_100%)]" />
-
-        {/* Centered content */}
-        <div className="absolute inset-0 flex flex-col items-center justify-center z-10 px-6">
-          <motion.h1 
-            className="font-serif text-7xl md:text-9xl font-bold text-white tracking-wide drop-shadow-xl"
-            initial={{ opacity: 0, y: 40 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.5, ease: "easeOut" }}
-          >
-            OCNOS
-          </motion.h1>
-          <motion.p 
-            className="text-2xl md:text-3xl text-white/90 font-serif italic tracking-widest mt-2 drop-shadow-md"
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.7, delay: 0.7, ease: "easeOut" }}
-          >
-            Transmedia
-          </motion.p>
-
-          {/* Floating section icons */}
-          <motion.div 
-            className="flex items-center justify-center gap-6 md:gap-16 mt-14"
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 0.6, delay: 1 }}
-          >
-            <Link to="/interactivos" onClick={(e) => e.stopPropagation()} className="flex flex-col items-center gap-3 group">
-              <div className="w-16 h-16 md:w-20 md:h-20 bg-coral flex items-center justify-center border-2 border-white/20 shadow-[6px_6px_0px_rgba(0,0,0,0.4)] group-hover:bg-coral/90 group-hover:-translate-y-1 group-hover:shadow-[10px_10px_0px_rgba(0,0,0,0.5)] transition-all animate-float" style={{ animationDelay: '0s', borderRadius: '15px 225px 15px 255px/255px 15px 225px 15px' }}>
-                <Sparkles className="text-white drop-shadow-md" size={32} />
-              </div>
-              <span className="text-white/90 text-xs md:text-sm font-serif font-bold tracking-wider uppercase group-hover:text-white transition-colors drop-shadow-sm">Interactivos</span>
-            </Link>
-
-          </motion.div>
-        </div>
-
-        {/* Bottom bar - centered CTA */}
+    <div ref={containerRef} className="relative w-full bg-[#0c1a24] selection:bg-sand/30 selection:text-ocean-dark">
+      
+      {/* ========================================================================= */}
+      {/* CAPA 1 (FONDO): HERO DE VIDEO EN PROFUNDIDAD (Sticky Layer z-10)          */}
+      {/* ========================================================================= */}
+      <div className="sticky top-0 h-[100dvh] w-full z-10 overflow-hidden flex items-center justify-center">
         <motion.div 
-          className="absolute bottom-8 left-0 right-0 z-20 flex justify-center px-6"
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 1.3 }}
+          className="relative w-full h-full origin-center"
+          style={{
+            scale: prefersReducedMotion ? 1 : heroScale,
+            filter: prefersReducedMotion ? 'none' : heroBlur,
+          }}
         >
-          <Link 
-            to="/interactivos" 
-            className="btn-3d px-10 py-3 md:px-12 md:py-4 text-ocean-dark text-base md:text-lg font-black tracking-widest flex items-center gap-3 hover:-translate-y-1 transition-transform"
-            onClick={(e) => e.stopPropagation()}
+          {/* Video Panorámico Cinematográfico */}
+          <motion.video
+            ref={videoRef}
+            poster="/videos/carrera-ocnos-poster.jpg"
+            preload="metadata"
+            autoPlay
+            loop
+            muted
+            playsInline
+            className="absolute inset-0 w-full h-full object-cover"
+            aria-label="Video de fondo: carrera de lectura OCNOS"
           >
-            ENTRAR
-            <ArrowDown size={20} />
-          </Link>
+            <source src="/videos/carrera-ocnos.webm" type="video/webm" />
+            <source src="/videos/carrera-ocnos.mp4" type="video/mp4" />
+          </motion.video>
+
+          {/* Capa de oscurecimiento dinámico: se va haciendo más oscura al hacer scroll */}
+          <motion.div 
+            className="absolute inset-0 bg-[#0c1a24]"
+            style={{ opacity: prefersReducedMotion ? 0.4 : heroDarken }}
+          />
+
+          {/* Viñeta radial permanente */}
+          <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_20%,rgba(5,15,22,0.85)_100%)] pointer-events-none" />
+
+          {/* Contenido Central del Hero (Desaparece velozmente con el primer tramo de scroll) */}
+          <motion.div 
+            className="absolute inset-0 flex flex-col items-center justify-center z-10 px-4 sm:px-6"
+            style={{
+              opacity: prefersReducedMotion ? 1 : textOpacity,
+              y: prefersReducedMotion ? 0 : textY
+            }}
+          >
+            <motion.div
+              initial={{ opacity: 0, scale: 0.9 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ duration: 0.7 }}
+              className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-sand text-[11px] sm:text-xs md:text-sm font-semibold tracking-widest uppercase mb-3 sm:mb-4 shadow-lg text-center"
+            >
+              <Sparkles size={14} className="text-sand shrink-0 animate-pulse" aria-hidden="true" />
+              <span>Revista de Estudios sobre Lectura</span>
+            </motion.div>
+
+            <motion.h1 
+              className="font-serif text-6xl sm:text-8xl md:text-9xl font-black text-white tracking-wider drop-shadow-[0_12px_30px_rgba(0,0,0,0.8)] text-center leading-none"
+              initial={{ opacity: 0, y: 40 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
+            >
+              OCNOS
+            </motion.h1>
+
+            <motion.p 
+              className="text-xl sm:text-3xl md:text-4xl text-sand font-serif italic tracking-widest mt-1 sm:mt-2 drop-shadow-md text-center"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.7, delay: 0.4, ease: "easeOut" }}
+            >
+              Transmedia
+            </motion.p>
+
+            {/* Botones de Acción Principal Accesibles y Responsive */}
+            <motion.div 
+              className="flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-4 mt-8 sm:mt-12 w-full max-w-md sm:max-w-none px-4"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.6 }}
+            >
+              <button 
+                onClick={scrollToCatalog}
+                aria-label="Desplazarse hacia abajo al catálogo de investigaciones"
+                className="w-full sm:w-auto min-h-[48px] px-8 py-3.5 rounded-full bg-gradient-to-r from-coral to-[#e27375] hover:from-coral/90 hover:to-[#e27375]/90 text-white text-sm sm:text-base font-bold tracking-wider flex items-center justify-center gap-2.5 shadow-[0_6px_25px_rgba(232,139,140,0.5)] hover:scale-105 active:scale-95 transition-all cursor-pointer focus-visible:ring-4 focus-visible:ring-sand focus-visible:outline-none"
+              >
+                <Compass size={18} aria-hidden="true" />
+                <span>EXPLORAR INVESTIGACIONES</span>
+                <ArrowDown size={16} className="animate-bounce" aria-hidden="true" />
+              </button>
+
+              <Link 
+                to="/interactivos"
+                aria-label="Ir al Catálogo Editorial interactivo"
+                className="w-full sm:w-auto min-h-[48px] px-6 py-3.5 rounded-full bg-white/10 hover:bg-white/20 text-white text-sm sm:text-base font-medium tracking-wide backdrop-blur-md border border-white/20 transition-all hover:scale-105 flex items-center justify-center focus-visible:ring-4 focus-visible:ring-sand focus-visible:outline-none text-center"
+              >
+                Catálogo Editorial
+              </Link>
+            </motion.div>
+
+            {/* Indicador de scroll */}
+            <div className="absolute bottom-6 sm:bottom-10 left-0 right-0 flex flex-col items-center gap-1.5 pointer-events-none opacity-85" aria-hidden="true">
+              <span className="text-[10px] sm:text-[11px] uppercase tracking-widest text-white/80 font-mono">Desliza para entrar</span>
+              <ArrowDown size={15} className="text-sand animate-bounce" />
+            </div>
+          </motion.div>
         </motion.div>
+      </div>
 
-        {/* Bottom gradient fade */}
-        <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-ocean-dark to-transparent z-0" />
-
-        {/* Hand-drawn ink line separator */}
-        <div className="absolute bottom-0 left-0 w-full z-30 opacity-40 pointer-events-none flex justify-center pb-2">
-          <svg width="100%" height="20" viewBox="0 0 1000 20" preserveAspectRatio="none">
-            <path d="M0,10 Q50,15 100,10 T200,10 T300,10 T400,10 T500,10 T600,10 T700,10 T800,10 T900,10 T1000,10" fill="none" stroke="white" strokeWidth="2" strokeLinecap="round" strokeDasharray="15 8 30 10 40 12"/>
-          </svg>
+      {/* ========================================================================= */}
+      {/* CAPA 2 (FRENTE): CATÁLOGO DE ARTÍCULOS QUE DEVORA AL VIDEO (z-20)          */}
+      {/* ========================================================================= */}
+      <div 
+        id="catalogo-editorial"
+        className="relative z-20 bg-[#f3fbfa] rounded-t-[36px] md:rounded-t-[56px] shadow-[0_-35px_80px_rgba(0,0,0,0.45)] border-t border-outline-variant/40 overflow-hidden"
+      >
+        {/* Pestaña / Indicador de elevación superior */}
+        <div className="w-full flex justify-center pt-5 pb-1">
+          <div className="w-20 h-1.5 rounded-full bg-outline-variant/60" />
         </div>
-      </motion.div>
+
+        {/* Componente del Catálogo / Roster */}
+        <EditorialRoster />
+      </div>
+
     </div>
   );
 }
@@ -145,6 +194,7 @@ export default function App() {
             <Route path="/actualidad" element={<Actualidad />} />
             <Route path="/interactivos" element={<Interactivos />} />
             <Route path="/interactivos/detectives" element={<DetectivesLanding />} />
+            <Route path="/interactivos-archivo-legacy" element={<InteractivosLegacy />} />
             <Route path="/arcade" element={<Navigate to="/interactivos" replace />} />
             <Route path="/arcade/quiz" element={<QuizGame />} />
             <Route path="/arcade/piramide" element={<PiramidePage />} />

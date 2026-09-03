@@ -1,0 +1,298 @@
+{
+  "id": "sindrome_irlen_lectura",
+  "metadata": {
+    "title": "Habilidades de lectura en niños con síndrome de Irlen",
+    "authors": "R. David Tacuri-Reino y M. Rosa Elosúa",
+    "year": "2024",
+    "journal": "Ocnos 23(1)",
+    "doi": "10.18239/ocnos_2024.23.1.387",
+    "gancho": "¿Y si las letras que bailan, tiemblan y se desenfocan en la página no son dislexia sino un problema de procesamiento cerebral de la luz?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#2a5a75",
+    "bg": "from-purple-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-04.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-04.png",
+      "name": "Dr. R. David Tacuri-Reino",
+      "role": "Investigador en Neuropsicología y Procesos Cognitivos de la Lectura, UNED"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. R. David Tacuri-Reino, especialista en neurocognición perceptiva y dificultades del aprendizaje lector",
+      "gancho": "¿Por qué un niño con vista 20/20 y una inteligencia brillante sufre dolores de cabeza insoportables al leer más de cinco minutos?",
+      "contexto": "El Síndrome de Irlen (también llamado estrés visual o sensibilidad escotópica) es un déficit neurosensorial de base genética donde la corteza cerebral no procesa adecuadamente determinadas frecuencias de onda de la luz visible, provocando distorsiones visuales dramáticas: las letras vibran, se solapan, se mueven en olas o el fondo blanco deslumbra como un foco cegador. En este estudio empírico con escolares en Ecuador y España, los investigadores de la UNED examinaron el impacto específico del síndrome en la fluidez, precisión y comprensión lectora.",
+      "deepDives": [
+        {
+          "id": "irl-apertura-1",
+          "triggerLabel": "Estrés visual vs. agudeza visual",
+          "type": "theory",
+          "content": "El síndrome de Irlen no es un problema ocular de la córnea o la retina: los ojos están sanos. Es un fallo en el procesamiento visual magnocelular del cerebro."
+        },
+        {
+          "id": "irl-apertura-2",
+          "triggerLabel": "Diagnóstico con el método Irlen",
+          "type": "data",
+          "content": "Protocolo internacional estandarizado de detección mediante filtros y láminas coloreadas personalizadas."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Miles de niños con síndrome de Irlen son erróneamente diagnosticados como 'disléxicos rebeldes', vagos o con TDAH, sometiéndoles a terapias fonológicas inútiles que no resuelven su sufrimiento físico ante el papel.",
+      "porQueImporta": "Un diagnóstico certero y el uso de simples acetatos de color o filtros espectrales pueden transformar el fracaso escolar en un éxito inmediato.",
+      "dataPoints": [
+        "Estudio cuasiexperimental con grupo control de escolares de Primaria.",
+        "Prevalencia estimada: afecta a entre el 12% y el 14% de la población escolar general, subiendo al 45% en niños con dificultades de lectura.",
+        "Síntomas físicos recurrentes: lagrimeo, frotamiento constante de ojos, somnolencia rápida y cefaleas tensionales.",
+        "Mejora significativa en la tasa de palabras por minuto al utilizar sobrecapas de color personalizadas."
+      ],
+      "glossary": [
+        {
+          "term": "Síndrome de Irlen",
+          "definition": "Condición neuroperceptiva caracterizada por dificultades para procesar información visual bajo iluminación brillante, causando distorsiones del texto y fatiga física."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Batería PROLEC-R y protocolo estandarizado de Irlen",
+      "narrativa": "Los autores evaluaron las rutas de acceso léxico (fonológica y ortográfica) y la comprensión con el test PROLEC-R, comparando el rendimiento con y sin filtros de color translúcidos.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "Niños en edad escolar de Educación Primaria diagnosticados con Irlen."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "Batería PROLEC-R y Baremación del Instituto Internacional de Irlen."
+        }
+      ],
+      "limitaciones": [
+        "Muestra clínica específica que requiere mayor investigación longitudinal en aulas regulares."
+      ],
+      "reflexion": "No hay mayor injusticia que castigar a un niño por no ver lo que su cerebro no puede enfocar."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: La luz que sana la lectura",
+      "narrativa": "La comparación estadística desveló una evidencia conmovedora:",
+      "hallazgos": [
+        {
+          "label": "1. El Efecto Inmediato de los Filtros de Color",
+          "value": "Al colocar una lámina de color adecuada (azul, verde, amarillo o turquesa según cada niño), las distorsiones visuales desaparecen instantáneamente: las letras se quedan quietas."
+        },
+        {
+          "label": "2. Recuperación de la Comprensión",
+          "value": "Al liberarse de la sobrecarga de intentar decodificar letras borrosas, los recursos cognitivos se trasladan a la comprensión inferencial, duplicando la puntuación en comprensión."
+        }
+      ],
+      "dataPoints": [
+        "Aumento medio de un 28% en la velocidad lectora y reducción del 60% de los errores de omisión de palabras."
+      ],
+      "reflexion": "A veces, el mayor milagro pedagógico es tan sencillo como una lámina de plástico coloreada sobre el papel blanco."
+    },
+    "marco": {
+      "titulo": "Discusión: Protocolos de cribado neurosensorial en las escuelas",
+      "narrativa": "Tacuri-Reino y Elosúa urgen a formar a los equipos de orientación escolar:",
+      "detalles": [
+        {
+          "label": "Detección Precoz en el Aula",
+          "value": "Preguntar a los niños que leen mal si las letras se mueven o si la página brilla demasiado antes de etiquetarlos."
+        }
+      ],
+      "reflexion": "Escuchar el dolor silencioso de los niños es el primer deber moral de la escuela inclusiva."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué perfil lector presentan los niños con síndrome de Irlen y qué efecto tiene la mediación con filtros de color en su rendimiento?",
+      "conclusion": "El estudio empírico demuestra que el síndrome de Irlen impacta gravemente en la velocidad, precisión y comprensión lectora debido a la sobrecarga atencional que producen las distorsiones visuales y la fatiga ocular. La aplicación de sobrecapas de color personalizadas reduce de inmediato los síntomas perceptivos (+28% en velocidad y -60% en errores), evidenciando la necesidad de incorporar el cribado de estrés visual en los protocolos escolares de dificultades de aprendizaje.",
+      "formalRef": "Tacuri-Reino, R. D., & Elosúa, M. R. (2024). Habilidades de lectura en niños con síndrome de Irlen. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.387"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es la causa biológica del Síndrome de Irlen en los niños que sufren distorsiones visuales al leer?",
+          "options": [
+            "Una miopía avanzada en la córnea que exige gafas normales.",
+            "Un fallo neuroperceptivo en el procesamiento cerebral de ciertas frecuencias de onda de la luz visible en la corteza visual.",
+            "Falta de vitaminas en la dieta.",
+            "Pereza y falta de motivación para estudiar."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué intervención sencilla y económica demostró en el estudio aumentar un 28 % la velocidad lectora y reducir un 60 % los errores en estos niños?",
+          "options": [
+            "Hacerles copiar el diccionario entero a mano.",
+            "El uso de láminas o sobrecapas de plástico coloreado personalizadas (acetatos) sobre el texto en papel.",
+            "Apagar todas las luces del colegio.",
+            "Obligarles a leer en voz alta delante de toda la clase."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Con qué trastornos del aprendizaje suele confundirse erróneamente el síndrome de Irlen cuando no se realiza un cribado adecuado?",
+          "options": [
+            "Con la varicela.",
+            "Con la dislexia evolutiva o el TDAH debido a los errores de omisión y la inquietud por fatiga física.",
+            "Con el autismo severo.",
+            "Con el daltonismo."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Elabora un protocolo de 5 preguntas sencillas que cualquier maestro de Primaria pueda hacerle a un alumno con bajo rendimiento lector para sospechar si sufre síndrome de Irlen o estrés visual."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que la iluminación con fluorescentes fríos y el papel blanco ultrabrillante de las escuelas convencionales perjudican gravemente a los niños con estrés visual?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a la neurociencia de la visión lectora. ¿Sabías que muchos niños ven cómo las letras tiemblan y se mueven en la página?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "No es dislexia ni vagancia: es el síndrome de Irlen, un estrés visual que satura el cerebro bajo luces brillantes.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Evaluamos a escolares con el test estandarizado PROLEC-R con y sin filtros de color personalizados.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El color calma el cerebro! Una sencilla lámina de acetato de color frena el movimiento de las letras y dispara la comprensión.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Equipemos a los maestros para detectar el estrés visual antes de poner etiquetas injustas a los pequeños.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La inclusión educativa consiste en encender la luz adecuada para que cada mirada pueda brillar.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo interactúan el síndrome de Irlen, el estrés visual, los filtros de color y el PROLEC-R.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Pon a prueba tus saberes y aprende a identificar los síntomas del estrés visual en la infancia.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Síndrome de Irlen y Habilidades Lectoras en Primaria",
+    "descripcion": "Estudio empírico neuropsicológico (UNED): estrés visual magnocelular, distorsiones del texto, filtros de color y batería PROLEC-R.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Síndrome de Irlen / Estrés Visual",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "2",
+        "label": "Déficit Neurosensorial de Luz",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Distorsiones Visuales del Texto",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "4",
+        "label": "Fatiga y Cefaleas Frecuentes",
+        "color": "#e76f51"
+      },
+      {
+        "id": "5",
+        "label": "Diagnóstico Confuso (Falsa Dislexia)",
+        "color": "#f4d068"
+      },
+      {
+        "id": "6",
+        "label": "Filtros de Color / Acetatos",
+        "color": "#88b04b"
+      },
+      {
+        "id": "7",
+        "label": "Aumento Velocidad (+28%)",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "8",
+        "label": "Reducción de Errores (-60%)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "9",
+        "label": "Evaluación con PROLEC-R",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Escuela Inclusiva y Neurodiversa",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "está originado por un"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "provoca en la lectura graves"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "genera agotamiento físico y"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "sufre frecuentemente un"
+      },
+      {
+        "from": "6",
+        "to": "1",
+        "label": "compensa de forma inmediata el"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "produce un notable"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "consigue una drástica"
+      },
+      {
+        "from": "9",
+        "to": "1",
+        "label": "mide el impacto cognitivo del"
+      },
+      {
+        "from": "10",
+        "to": "6",
+        "label": "incorpora en las aulas los"
+      },
+      {
+        "from": "10",
+        "to": "5",
+        "label": "evita mediante el cribado la"
+      }
+    ]
+  }
+}

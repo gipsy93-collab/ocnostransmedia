@@ -22,10 +22,13 @@ export default function Footer() {
                     </div>
 
                     {/* Quick Links */}
-                    <div role="navigation" aria-label="Enlaces del pie de página">
-                        <h4 className="font-display font-bold text-white text-lg mb-6 uppercase tracking-widest">Navegación</h4>
-                        <ul className="space-y-4">
-                            <li><Link to="/interactivos" className="text-white/70 hover:text-white transition-colors font-bold">Interactivos</Link></li>
+                    <div role="navigation" aria-label="Enlaces de indexación del pie de página">
+                        <h4 className="font-display font-bold text-white text-lg mb-6 uppercase tracking-widest">Indexación</h4>
+                        <ul className="space-y-3 text-sm">
+                            <li><a href="https://www.scimagojr.com/journalsearch.php?q=21100819543&tip=sid&exact=no" target="_blank" rel="noopener noreferrer" className="text-white/80 hover:text-sand transition-colors font-medium">Scopus Q1 (SCImago)</a></li>
+                            <li><a href="https://evaluacionfecyt.fecyt.es/" target="_blank" rel="noopener noreferrer" className="text-white/80 hover:text-sand transition-colors font-medium">Sello Calidad FECYT Excelente</a></li>
+                            <li><a href="https://mjl.clarivate.com/search-results?issn=1885-446X" target="_blank" rel="noopener noreferrer" className="text-white/80 hover:text-sand transition-colors font-medium">ESCI / Web of Science</a></li>
+                            <li><a href="https://doaj.org/toc/2254-9099" target="_blank" rel="noopener noreferrer" className="text-white/80 hover:text-sand transition-colors font-medium">DOAJ Open Access</a></li>
                         </ul>
                     </div>
 

@@ -1,0 +1,303 @@
+{
+  "id": "influencers_booktok_tiktok",
+  "metadata": {
+    "title": "Promoción de libros y fomento de la lectura a través de influencers literarios en TikTok",
+    "authors": "Jesús Segarra-Saavedra, Yuri-Edith Torres-Huamanyauri y Tatiana Hidalgo-Marí",
+    "year": "2024",
+    "journal": "Ocnos 23(2)",
+    "doi": "10.18239/ocnos_2024.23.2.479",
+    "gancho": "¿Cómo logran unos vídeos de 30 segundos en TikTok agotar ediciones enteras de novelas en las librerías de todo el país?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#264653",
+    "colorAlt": "#e76f51",
+    "bg": "from-slate-700/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-10.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-10.png",
+      "name": "Dr. Jesús Segarra-Saavedra",
+      "role": "Investigador en Comunicación Digital y Comunidades de Lectura, Universidad de Alicante"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Jesús Segarra-Saavedra, especialista en marketing editorial, redes sociales y comunidades juveniles",
+      "gancho": "¿Es BookTok la salvación de la lectura juvenil o un gigantesco escaparate publicitario disfrazado de pasión lectora?",
+      "contexto": "El hashtag #BookTok ha transformado radicalmente el mercado editorial internacional, acumulando más de 150 mil millones de visualizaciones y colocando obras de romance, fantasía y drama psicológico en la cúspide de las listas de ventas. En este estudio empírico de la comunidad hispanohablante de TikTok, los investigadores analizaron los perfiles de los 10 'booktokers' más influyentes en España y Latinoamérica, examinando sus formatos de contenido, su lenguaje persuasivo y su impacto en la prescripción lectora.",
+      "deepDives": [
+        {
+          "id": "tok-apertura-1",
+          "triggerLabel": "El fenómeno BookTok",
+          "type": "theory",
+          "content": "Ecosistema social donde los creadores comparten recomendaciones mediante dramatizaciones, reacciones emocionales y un montaje audiovisual sincopado."
+        },
+        {
+          "id": "tok-apertura-2",
+          "triggerLabel": "Muestra de 100 vídeos virales",
+          "type": "data",
+          "content": "Análisis de contenido de los 10 perfiles líderes con más de 12 millones de seguidores combinados."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La crítica literaria tradicional suele despreciar a los booktokers por considerarlos superficiales o hipercomerciales, ignorando que han conectado con millones de jóvenes que jamás leían suplementos culturales.",
+      "porQueImporta": "Entender la retórica visual y afectiva de BookTok es fundamental para que colegios y bibliotecas aprendan a recomendar libros en el lenguaje de la juventud actual.",
+      "dataPoints": [
+        "Estudio de los 10 influencers literarios líderes en lengua española.",
+        "Predominio absoluto de los géneros Young Adult: Romantasy, Dark Romance y Thriller psicológico.",
+        "El 73% de los vídeos se basa en la emoción subjetiva ('este libro me destrozó el corazón') en lugar del análisis analítico de la trama.",
+        "Formatos más virales: 'Libros que te harán llorar', 'Enemies to Lovers' y 'Haul de novedades'.",
+        "Fuerte componente estético: exhibición de libros con cantos pintados y portadas llamativas."
+      ],
+      "glossary": [
+        {
+          "term": "BookToker",
+          "definition": "Creador de contenido en TikTok especializado en la prescripción, crítica y recomendación de libros para audiencias juveniles."
+        },
+        {
+          "term": "Trope narrativo (BookTok)",
+          "definition": "Esquema o cliché argumental altamente codificado que sirve de gancho temático (ej. 'Enemies to Lovers', 'Fake Dating', 'Found Family')."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis de contenido cuantitativo-cualitativo en TikTok",
+      "narrativa": "Los autores aplicaron una plantilla de análisis validada: duración del clip, recursos audiovisuales, presencia de patrocinio editorial, tono comunicativo y métricas de interacción (likes, comentarios y compartidos).",
+      "detalles": [
+        {
+          "label": "Plataforma",
+          "value": "TikTok (Comunidad hispanohablante de #BookTok)."
+        },
+        {
+          "label": "Corpus",
+          "value": "100 publicaciones de los 10 creadores líderes en España, México y Argentina."
+        }
+      ],
+      "limitaciones": [
+        "Plataforma algorítmica volátil cuyos formatos mutan con extrema rapidez."
+      ],
+      "reflexion": "Un libro no es un objeto muerto: en TikTok se convierte en un artefacto de performance y comunidad afectiva."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: La victoria de la empatía emocional sobre la crítica fría",
+      "narrativa": "Los datos revelaron el secreto del éxito de prescripción de BookTok:",
+      "hallazgos": [
+        {
+          "label": "1. El Valor de la Vulnerabilidad",
+          "value": "Los vídeos donde el influencer llora frente a la cámara con el libro cerrado obtienen el triple de interacción que aquellos que hacen una sinopsis racional."
+        },
+        {
+          "label": "2. Prescripción entre Iguales",
+          "value": "Los jóvenes compran libros recomendados por sus iguales porque no sienten la distancia autoritaria de la escuela o la crítica tradicional."
+        }
+      ],
+      "dataPoints": [
+        "Tasa de engagement medio superior al 8.5%, triplicando las métricas habituales de Instagram o YouTube."
+      ],
+      "reflexion": "La juventud no ha dejado de leer: ha dejado de escuchar a quienes les hablaban desde pedestales de superioridad."
+    },
+    "marco": {
+      "titulo": "Discusión: Aliarse con BookTok en bibliotecas y aulas",
+      "narrativa": "Segarra-Saavedra y sus colaboradoras proponen crear 'rincones BookTok' en las bibliotecas escolares:",
+      "detalles": [
+        {
+          "label": "Talleres de Microreseñas Audiovisuales",
+          "value": "Enseñar a los estudiantes a recomendar sus lecturas favoritas grabando vídeos cortos con lenguaje de BookTok."
+        }
+      ],
+      "reflexion": "Si quieres que los jóvenes lean, debes encontrarte con ellos en las plazas digitales donde ya están conversando."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué estrategias comunicativas y qué impacto en el fomento lector despliegan los influencers literarios en la comunidad BookTok en español?",
+      "conclusion": "La investigación empírica sobre los 10 principales booktokers en español demuestra que el éxito arrollador de BookTok radica en la prescripción horizontal basada en la empatía emocional, la vulnerabilidad y la categorización por 'tropes' narrativos populares. Lejos de ser una moda banal, BookTok se consolida como el mayor motor contemporáneo de fomento lector y reactivación de ventas en el público juvenil, ofreciendo un puente pedagógico invaluable para centros educativos y bibliotecas públicas.",
+      "formalRef": "Segarra-Saavedra, J., Torres-Huamanyauri, Y. E., & Hidalgo-Marí, T. (2024). Promoción de libros y fomento de la lectura a través de influencers literarios en TikTok. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.479"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es el principal motor comunicativo que hace que las recomendaciones de los booktokers en TikTok se vuelvan virales?",
+          "options": [
+            "Hacer análisis filológicos rigurosos de la sintaxis medieval.",
+            "La empatía emocional y la vulnerabilidad personal (mostrar cómo el libro les hizo llorar, reír o emocionarse de verdad).",
+            "El precio en euros del libro.",
+            "Insultar a los espectadores para obligarles a leer."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué término utiliza la comunidad de BookTok para categorizar las novelas según sus esquemas argumentales típicos (ej. 'Enemies to Lovers' o 'Fake Dating')?",
+          "options": [
+            "Fórmulas matemáticas.",
+            "Tropes narrativos.",
+            "Métricas de verso.",
+            "Glosas marginales."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué propuesta didáctica sugieren los autores para aprovechar la energía de BookTok en los colegios e institutos?",
+          "options": [
+            "Prohibir los teléfonos móviles en todo el municipio.",
+            "Crear 'rincones BookTok' en bibliotecas escolares y realizar talleres donde los alumnos graben microreseñas creativas de sus libros favoritos.",
+            "Obligar a los alumnos a comprar 10 libros al mes.",
+            "Hacer exámenes tipo test sobre TikTok."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña una tarea de evaluación para 3.º o 4.º de la ESO donde los estudiantes deban grabar un vídeo de 60 segundos tipo BookTok recomendando un libro que hayan leído libremente, utilizando un gancho emocional y música de fondo."
+        },
+        {
+          "type": "open",
+          "q": "¿Cuáles crees que son los riesgos de que el mercado de BookTok esté tan dominado por campañas de marketing pagadas por grandes editoriales comerciales y cómo enseñarías a tus alumnos a mantener un criterio crítico independiente?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "¡Desliza la pantalla hacia la revolución lectora! Entramos en el universo de BookTok, donde millones de jóvenes leen y recomiendan.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Es BookTok puro marketing comercial o la mayor fiesta de lectura juvenil de nuestra era? La investigación lo desvela.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Analizamos 100 vídeos de los 10 influencers literarios líderes en español en España, México y Argentina.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡La emoción vence a la crítica fría! Mostrar una lágrima genuina con el libro en las manos vende más que mil reseñas académicas.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Aliémonos con BookTok en las escuelas: los jóvenes leen con pasión cuando sienten que les habla un igual.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "No importa dónde empiece el fuego de la lectura: lo que importa es que arda en el corazón de la juventud.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo se conectan BookTok, influencers, prescripción emocional, tropes y fomento lector.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y atrévete a utilizar la energía de las redes sociales para dinamizar la lectura en tu aula.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Influencers Literarios y Prescripción en BookTok",
+    "descripcion": "Estudio empírico de BookTok en español (10 perfiles líderes): prescripción emocional entre iguales, tropes narrativos, marketing editorial y fomento lector.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Comunidad #BookTok en Español",
+        "color": "#264653"
+      },
+      {
+        "id": "2",
+        "label": "Influencers Literarios (BookTokers)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Prescripción Emocional (73%)",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "4",
+        "label": "Tropes Narrativos ('Enemies to Lovers')",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Prescripción Horizontal entre Iguales",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "6",
+        "label": "Boom de Ventas en Librerías",
+        "color": "#f4d068"
+      },
+      {
+        "id": "7",
+        "label": "Estética Visual del Libro-Objeto",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "8",
+        "label": "Riesgo de Hipercomercialización",
+        "color": "#e76f51"
+      },
+      {
+        "id": "9",
+        "label": "Rincones BookTok en Bibliotecas",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "10",
+        "label": "Fomento Lector Juvenil Real",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se dinamiza a través de los"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "utiliza predominantemente la"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "conecta mediante la auténtica"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "clasifica las recomendaciones en"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "dispara directamente el"
+      },
+      {
+        "from": "2",
+        "to": "7",
+        "label": "revaloriza y luce la"
+      },
+      {
+        "from": "2",
+        "to": "8",
+        "label": "se enfrenta a la amenaza del"
+      },
+      {
+        "from": "9",
+        "to": "1",
+        "label": "aprovecha el lenguaje de"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "transforma las redes en"
+      },
+      {
+        "from": "10",
+        "to": "6",
+        "label": "sostiene a largo plazo el"
+      }
+    ]
+  }
+}

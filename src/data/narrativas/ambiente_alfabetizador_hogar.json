@@ -1,0 +1,298 @@
+{
+  "id": "ambiente_alfabetizador_hogar",
+  "metadata": {
+    "title": "Ambiente alfabetizador del hogar. Análisis de perfiles según nivel socio-económico",
+    "authors": "Carla Muñoz y Nicole Frez-Aróstica",
+    "year": "2025",
+    "journal": "Ocnos 24(1)",
+    "doi": "10.18239/ocnos2025.24.1.475",
+    "gancho": "¿Cuántos libros en casa y cuántas horas de conversación familiar marcan el destino lector de un niño tras la pandemia?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#2a5a75",
+    "bg": "from-amber-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-22.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-22.png",
+      "name": "Dra. Carla Muñoz",
+      "role": "Investigadora en Desarrollo Lector y Familia, Universidad Católica de la Santísima Concepción (Chile)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Carla Muñoz, especialista en ambiente alfabetizador familiar y alfabetización temprana",
+      "gancho": "¿Es el dinero o el tiempo compartido con historias lo que verdaderamente predice el éxito escolar de la infancia?",
+      "contexto": "El confinamiento por Covid-19 cerró las escuelas infantiles y dejó a los niños a merced exclusiva de las prácticas letradas de sus hogares. En este estudio post-pandemia en Chile, las autoras analizaron los perfiles del Ambiente Alfabetizador del Hogar (Home Literacy Environment, HLE) en familias de párvulos de distintos niveles socioeconómicos, examinando recursos materiales, frecuencia de lectura compartida, creencias parentales e interacciones dialógicas.",
+      "deepDives": [
+        {
+          "id": "hle-apertura-1",
+          "triggerLabel": "HLE formal vs. informal (Sénéchal)",
+          "type": "theory",
+          "content": "El HLE formal enseña letras y escritura directa; el HLE informal (leer cuentos por placer y conversar) predice el vocabulario y la comprensión auditiva profunda."
+        },
+        {
+          "id": "hle-apertura-2",
+          "triggerLabel": "Análisis de conglomerados (Clusters)",
+          "type": "data",
+          "content": "Clasificación de las familias en 3 perfiles diferenciados: Enriquecido, Moderado y Vulnerable."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La brecha de oportunidades letradas en el hogar se ensanchó dramáticamente durante la pandemia, afectando a la adquisición del lenguaje inicial.",
+      "porQueImporta": "El capital cultural del hogar antes de los 6 años explica hasta un 40% de la varianza en la comprensión lectora en cursos avanzados de Primaria.",
+      "dataPoints": [
+        "Muestra de familias de párvulos en centros urbanos chilenos.",
+        "Identificación de 3 perfiles claros de ambiente letrado mediante análisis de clústeres.",
+        "El 32% de los hogares vulnerables contaba con menos de 5 libros infantiles en casa.",
+        "Las familias del perfil enriquecido leían cuentos al menos 4 veces por semana frente a menos de 1 vez en el perfil vulnerable."
+      ],
+      "glossary": [
+        {
+          "term": "Ambiente Alfabetizador del Hogar (HLE)",
+          "definition": "Conjunto de recursos, actividades, creencias parentales e interacciones letradas que rodean al niño en su familia."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Escala HLE y modelado de perfiles",
+      "narrativa": "Las investigadoras aplicaron un cuestionario multidimensional baremado sobre prácticas lectoras del hogar y cruzaron los datos con el NSE familiar.",
+      "detalles": [
+        {
+          "label": "Participantes",
+          "value": "Familias de niños de Kínder y Prekínder en Chile."
+        },
+        {
+          "label": "Variables",
+          "value": "Disponibilidad de libros, frecuencia de lectura, actividades fonológicas y modelado adulto."
+        }
+      ],
+      "limitaciones": [
+        "Datos recogidos mediante autoinforme parental."
+      ],
+      "reflexion": "La cuna letrada de un hogar no se compra con dinero: se teje con palabras de amor y cuentos leídos al acostarse."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: La mediación dialógica supera a la mera posesión de libros",
+      "narrativa": "Los resultados aportaron un mensaje de esperanza y acción política:",
+      "hallazgos": [
+        {
+          "label": "1. El Efecto Compensatorio del Diálogo",
+          "value": "Familias de bajos ingresos que conversaban activamente sobre cuentos sencillos igualaron el nivel lingüístico de hogares de ingresos altos."
+        },
+        {
+          "label": "2. Ceguera hacia la Lectura Recreativa",
+          "value": "Muchos hogares vulnerables reducen la lectura a 'hacer tareas escolares', olvidando el placer compartido del cuento nocturno."
+        }
+      ],
+      "dataPoints": [
+        "Correlación significativa (r = .51) entre frecuencia de lectura compartida y riqueza léxica del párvulo."
+      ],
+      "reflexion": "Un libro leído en el regazo materno o paterno vale por cien explicaciones en una pizarra."
+    },
+    "marco": {
+      "titulo": "Discusión: Políticas públicas de préstamo y bibliotecas itinerantes",
+      "narrativa": "Muñoz y Frez-Aróstica instan al Estado a dotar de bibliotecas familiares a los hogares vulnerables:",
+      "detalles": [
+        {
+          "label": "Maletas Viajeras Escolares",
+          "value": "Enviar libros hermosos a los hogares cada semana para dinamizar la interacción familiar."
+        }
+      ],
+      "reflexion": "Regalar libros a una familia pobre es sembrar justicia y futuro en su salón."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo se configuran los perfiles de ambiente alfabetizador en el hogar según el nivel socioeconómico en la etapa preescolar?",
+      "conclusion": "El estudio identifica tres perfiles marcados de ambiente alfabetizador familiar en Chile. Si bien el nivel socioeconómico condiciona la cantidad de libros impresos disponibles, la calidad de la mediación dialógica parental y la frecuencia de lectura recreativa demuestran tener un poder amortiguador decisivo frente a la vulnerabilidad, señalando la necesidad urgente de programas de biblioteca viajera y orientación familiar comunitaria.",
+      "formalRef": "Muñoz, C., & Frez-Aróstica, N. (2025). Ambiente alfabetizador del hogar. Análisis de perfiles según nivel socio-económico. Ocnos, 24(1). https://doi.org/10.18239/ocnos2025.24.1.475"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué aspecto del ambiente familiar demostró ser más potente para amortiguar la desventaja socioeconómica en el vocabulario infantil?",
+          "options": [
+            "Tener una televisión de gran pantalla en el dormitorio.",
+            "La frecuencia de lectura compartida dialógica y las conversaciones sobre historias entre padres e hijos.",
+            "Comprar enciclopedias caras que nadie abre.",
+            "Hacer que el niño copie planas de letras de memoria."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué distinción teórica clásica establece el modelo de Sénéchal sobre el ambiente alfabetizador del hogar?",
+          "options": [
+            "Ambiente legal vs. ambiente ilegal.",
+            "HLE formal (instrucción directa de letras) vs. HLE informal (lectura compartida recreativa por placer).",
+            "Ambiente de día vs. ambiente de noche.",
+            "No existe ninguna clasificación teórica."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué propuesta comunitaria destacan las autoras para apoyar a los hogares de perfiles vulnerables?",
+          "options": [
+            "Multar a los padres que no lean cuentos.",
+            "Implementar programas de 'maletas viajeras' y bibliotecas escolares itinerantes que lleven álbumes ilustrados al hogar semanalmente.",
+            "Cerrar las escuelas infantiles.",
+            "Prohibir que los niños hablen en casa."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo diseñarías una guía sencilla de 5 consejos prácticos para entregar a familias vulnerables para animarlas a leer cuentos aunque los padres tengan bajo nivel de escolaridad?"
+        },
+        {
+          "type": "open",
+          "q": "¿Qué papel pueden desempeñar las bibliotecas públicas de barrio para convertirse en un segundo hogar letrado para las infancias desfavorecidas?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al rincón más cálido de la educación: el hogar y las historias que nos cuentan antes de dormir.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "La pandemia dejó a muchos niños sin libros ni palabras. ¿Cómo se reconstruye el ambiente alfabetizador familiar?",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Analizamos los perfiles letrados de hogares chilenos mediante análisis de conglomerados y escalas HLE.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El diálogo vence al dinero! Hablar sobre los cuentos compensa con creces tener menos libros en la estantería.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Llenemos las casas de libros con maletas viajeras escolares: la equidad empieza en la infancia temprana.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Quien crece arropado por historias jamás estará solo en el camino del saber.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo interactúan el HLE, los perfiles socioeconómicos, el diálogo parental y la equidad.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y diseña proyectos de animación lectora familiar para tu centro educativo.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Ambiente Alfabetizador del Hogar (HLE) y Equidad Infantil",
+    "descripcion": "Estudio de perfiles letrados en Chile: HLE formal vs. informal, nivel socioeconómico, lectura dialógica y maletas viajeras.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Ambiente Alfabetizador Hogar (HLE)",
+        "color": "#e76f51"
+      },
+      {
+        "id": "2",
+        "label": "Perfiles Socioeconómicos",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "HLE Informal (Lectura Placentera)",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "HLE Formal (Enseñanza de Letras)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "5",
+        "label": "Lectura Compartida Dialógica",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "6",
+        "label": "Impacto Post-Pandemia",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "7",
+        "label": "Efecto Amortiguador del Diálogo",
+        "color": "#f4d068"
+      },
+      {
+        "id": "8",
+        "label": "Disponibilidad de Libros Infantiles",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "9",
+        "label": "Maletas Viajeras Escolares",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Desarrollo del Vocabulario y Equidad",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "varía significativamente según los"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "incluye la práctica esencial de"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "incorpora la instrucción directa de"
+      },
+      {
+        "from": "6",
+        "to": "1",
+        "label": "ensanchó las brechas en el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "se enriquece mediante la"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "despliega el potente"
+      },
+      {
+        "from": "7",
+        "to": "2",
+        "label": "compensa las desventajas de los"
+      },
+      {
+        "from": "9",
+        "to": "8",
+        "label": "garantiza en casas vulnerables la"
+      },
+      {
+        "from": "5",
+        "to": "10",
+        "label": "asegura el máximo"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "retroalimenta en el futuro el"
+      }
+    ]
+  }
+}

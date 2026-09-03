@@ -1,0 +1,260 @@
+{
+  "id": "creatividad_lectora",
+  "metadata": {
+    "title": "Pensamiento creativo y competencia lectora: una revisión sistemática",
+    "authors": "Antonio-José Lorca-Garrido, Olivia López-Martínez y María-Isabel De-Vicente-Yagüe-Jara",
+    "year": "2026",
+    "journal": "Ocnos 25(2)",
+    "doi": "10.18239/ocnos_2026.25.2.585",
+    "gancho": "¿Por qué las escuelas siguen enseñando a leer como si fuera una tarea mecánica de responder preguntas tipo test, ignorando que la comprensión profunda es un acto de pura imaginación?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#f4a261",
+    "colorAlt": "#2a5a75",
+    "bg": "from-amber-500/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-11.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-11.png",
+      "name": "Dr. Antonio-José Lorca-Garrido",
+      "role": "Investigador en Creatividad y Didáctica de la Lengua, Universidad de Murcia (España)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Antonio-José Lorca-Garrido, especialista en psicología educativa y alfabetización creativa",
+      "gancho": "¿Es posible comprender verdaderamente lo que lees si no eres capaz de imaginar alternativas a lo que está escrito en la página?",
+      "contexto": "Históricamente, la investigación psicológica relacionó la creatividad con el cociente intelectual o los rasgos de personalidad, mientras que la enseñanza escolar redujo la comprensión lectora a extraer datos literales para aprobar exámenes estandarizados como PIRLS o PISA. Sin embargo, en el siglo XXI, ambas capacidades se reconocen como competencias indispensables para navegar la complejidad del mundo contemporáneo. ¿Qué relación une realmente al pensamiento creativo divergente con la habilidad para comprender un texto entre los 5 y los 18 años? Este estudio desarrolla una rigurosa revisión sistemática bajo directrices PRISMA para demostrar que la lectura y la creatividad no son materias separadas: se retroalimentan mutuamente.",
+      "deepDives": [
+        {
+          "id": "crea-apertura-1",
+          "triggerLabel": "¿Qué es el pensamiento creativo divergente?",
+          "type": "theory",
+          "content": "Guilford (1950) y Torrance (1966) definen el pensamiento divergente como la capacidad de generar múltiples respuestas originales, fluidas y flexibles ante un problema abierto. En lectura, permite al estudiante anticipar tramas, formular hipótesis sobre las motivaciones de los personajes y llenar los vacíos semióticos del texto."
+        },
+        {
+          "id": "crea-apertura-2",
+          "triggerLabel": "El Test de Torrance (TTCT) y la 'Elaboración'",
+          "type": "theory",
+          "content": "El Test de Pensamiento Creativo de Torrance (TTCT) evalúa cuatro factores clásicos: Fluidez, Flexibilidad, Originalidad y Elaboración. La 'elaboración' —el grado de detalle, complejidad y enriquecimiento de una idea inicial— es la dimensión que muestra mayor correlación con la construcción de modelos mentales en la comprensión profunda."
+        },
+        {
+          "id": "crea-apertura-3",
+          "triggerLabel": "La brecha en el currículo escolar",
+          "type": "data",
+          "content": "Pese a que las leyes educativas contemporáneas (como la LOMLOE en España) prescriben el fomento de la creatividad, en las aulas la lectura se sigue evaluando mediante cuestionarios cerrados que castigan la discrepancia interpretativa y la divergencia de los alumnos."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "A pesar de la intuición pedagógica que une arte y literatura, la relación empírica entre el pensamiento creativo y la competencia lectora ha sido escasamente sistematizada. Se desconoce la fuerza de esa correlación, en qué edades se manifiesta con mayor intensidad y qué indicadores específicos de la creatividad (fluidez, originalidad o elaboración) inciden de forma directa en los diferentes niveles de la lectura (literal, inferencial y crítico).",
+      "porQueImporta": "Separar la lectura de la creatividad condena a los estudiantes a un consumo pasivo del texto. Si la escuela no diseña situaciones de aprendizaje donde leer sea un acto de recreación e invención, formaremos ciudadanos capaces de decodificar instrucciones pero incapaces de pensar críticamente o proponer soluciones novedosas.",
+      "dataPoints": [
+        "Revisión sistemática basada en la metodología PRISMA sobre las principales bases de datos internacionales (WoS, Scopus, ERIC, Dialnet).",
+        "Corpus final de 12 estudios empíricos de alta calidad metodológica centrados en población escolar de 5 a 18 años.",
+        "Correlaciones identificadas entre pensamiento creativo y comprensión lectora: débiles a moderadas (coeficientes r oscilando entre .20 y .45).",
+        "El indicador de 'Elaboración' del pensamiento divergente se erige como el vínculo más consistente con la comprensión inferencial.",
+        "Mayor impacto en las dimensiones de orden superior: la creatividad no incide en la decodificación fonética básica, pero es determinante para el juicio crítico y la extrapolación textual.",
+        "Vacío curricular: escasa presencia de intervenciones integradas de 'alfabetización creativa' en secundaria."
+      ],
+      "glossary": [
+        {
+          "term": "Pensamiento divergente",
+          "definition": "Proceso mental orientado a explorar múltiples alternativas y generar respuestas originales e inusuales ante un estímulo o desafío."
+        },
+        {
+          "term": "Competencia lectora (PISA)",
+          "definition": "Capacidad individual para comprender, utilizar, evaluar, reflexionar y comprometerse con textos escritos para alcanzar metas personales y sociales."
+        },
+        {
+          "term": "Elaboración cognitiva",
+          "definition": "Capacidad de agregar detalles, matices y complejidad constructiva a una idea o representación mental durante la lectura."
+        },
+        {
+          "term": "Alfabetización creativa (Creative Literacy)",
+          "definition": "Enfoque didáctico que integra la recepción crítica de textos con la producción expresiva, artística y divergente de los estudiantes."
+        },
+        {
+          "term": "Inferencia de orden superior",
+          "definition": "Deducción compleja que requiere conectar pistas dispersas del texto con conocimientos previos del mundo y teorías sobre las intenciones del autor."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Protocolo PRISMA y cribado sistemático en educación",
+      "narrativa": "Los investigadores de la Universidad de Murcia ejecutaron un protocolo PRISMA riguroso para rastrear la literatura científica mundial sobre creatividad y lectura en la infancia y adolescencia. Se aplicaron ecuaciones booleanas que combinaron descriptores de pensamiento creativo, competencia lectora y rangos de edad escolar, cribando cientos de registros iniciales hasta consolidar un corpus selecto de 12 investigaciones empíricas.",
+      "detalles": [
+        { "label": "Protocolo", "value": "Directrices PRISMA 2020 con diagrama de flujo de cuatro fases." },
+        { "label": "Rango de Edad", "value": "Estudiantes entre 5 y 18 años (Infantil, Primaria y Secundaria)." },
+        { "label": "Corpus Seleccionado", "value": "12 artículos de investigación empírica con metodologías cuantitativas o mixtas robustas." },
+        { "label": "Variables Evaluadas", "value": "Comprensión literal vs. inferencial, dimensiones de Torrance (fluidez, flexibilidad, originalidad, elaboración) y rendimiento escolar." }
+      ],
+      "limitaciones": [
+        "Número reducido de estudios empíricos publicados a nivel global (12 artículos), lo que demuestra que este cruce interdisciplinar aún está desatendido por la investigación.",
+        "Heterogeneidad en los instrumentos utilizados (pruebas estandarizadas tipo PIRLS vs. baterías psicométricas de creatividad como TTCT o PIC)."
+      ],
+      "reflexion": "Constatar que solo 12 estudios en el mundo han examinado con rigor la relación entre creatividad y lectura en niños y adolescentes evidencia la ceguera de un sistema educativo que ha preferido medirlos por separado."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: La sinergia bidireccional entre elaborar y comprender",
+      "narrativa": "La síntesis de los 12 estudios aporta certezas cruciales para la didáctica de la lengua y la psicología cognitiva:",
+      "hallazgos": [
+        {
+          "label": "1. Correlaciones Débiles a Moderadas Constantes",
+          "value": "La relación entre creatividad y lectura arroja correlaciones estadísticas positivas y significativas, generalmente situadas en el rango r = .20 a .45. No son variables idénticas, pero conviven en un diálogo cognitivo continuo."
+        },
+        {
+          "label": "2. La 'Elaboración' como Puente Clave",
+          "value": "De todos los indicadores del pensamiento divergente, la 'elaboración' muestra el vínculo más fuerte: los alumnos capaces de detallar y enriquecer ideas generan representaciones textuales más ricas y coherentes."
+        },
+        {
+          "label": "3. Selectividad por Niveles de Comprensión",
+          "value": "La creatividad apenas se correlaciona con la decodificación literal (recordar un dato explícito), pero se asocia fuertemente con la comprensión inferencial profunda, la resolución de dilemas éticos y la lectura crítica."
+        },
+        {
+          "label": "4. Efecto Bidireccional de Retroalimentación",
+          "value": "Los lectores asiduos nutren su repertorio imaginativo con nuevas metáforas y mundos posibles, lo que dispara su originalidad creadora; a su vez, la mente creativa disfruta más de lecturas desafiantes y polisémicas."
+        }
+      ],
+      "dataPoints": [
+        "En estudiantes de Primaria y Secundaria, los programas que combinan escritura creativa con lectura analítica mejoran los puntajes de comprensión lectora en un 25% frente a métodos memorísticos.",
+        "Los estudiantes con alta creatividad muestran mayor tolerancia a la ambigüedad en textos literarios complejos, evitando el bloqueo ante finales abiertos."
+      ],
+      "reflexion": "Leer no es absorber un significado fijo empaquetado por el autor: es un acto de co-creación donde el lector aporta su imaginación para dar vida a la obra."
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia una pedagogía de la 'Alfabetización Creativa'",
+      "narrativa": "Lorca-Garrido, López-Martínez y De-Vicente-Yagüe-Jara proponen una transformación en la didáctica de las aulas:",
+      "detalles": [
+        {
+          "label": "Superar la Pregunta Literal",
+          "value": "Los cuestionarios tradicionales que preguntan '¿De qué color era el caballo?' desactivan el pensamiento divergente. La didáctica debe formular preguntas abiertas: '¿Qué habría ocurrido si el protagonista tomara otra decisión?'."
+        },
+        {
+          "label": "Situaciones de Aprendizaje Activas",
+          "value": "Integrar la lectura con la creación transmedia: escribir cartas apócrifas entre personajes, diseñar finales alternativos en cómic o dramatizar dilemas morales (Cignetti y Fuster, 2023)."
+        },
+        {
+          "label": "La Creatividad como Derecho Democrático",
+          "value": "En la era de la inteligencia artificial generativa, la destreza humana irremplazable no es repetir información, sino conectar conceptos distantes con sensibilidad y originalidad."
+        },
+        {
+          "label": "Formación Docente Interdisciplinar",
+          "value": "Es indispensable capacitar a los maestros para que pierdan el miedo al error y al juego en el aula de lengua, validando las lecturas inesperadas de sus alumnos."
+        }
+      ],
+      "reflexion": "Cuando un niño lee un libro y se atreve a soñar un final distinto, no está cometiendo un error de lectura: está ejerciendo la libertad creadora que lo hace humano."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué demuestra la evidencia sobre la relación entre el pensamiento creativo y la competencia lectora en la etapa escolar?",
+      "conclusion": "La revisión sistemática de 12 investigaciones empíricas confirma la existencia de relaciones positivas de magnitud débil a moderada (r = .20 - .45) entre el pensamiento creativo y la comprensión lectora en estudiantes de 5 a 18 años. Esta asociación se manifiesta con particular intensidad entre el indicador de elaboración cognitiva y los niveles inferenciales y críticos de la lectura. Los hallazgos fundamentan la urgencia de superar los métodos pedagógicos tradicionales basados en preguntas literales cerradas y avanzar hacia un enfoque de 'alfabetización creativa', donde el aula diseñe situaciones de aprendizaje activas que fusionen la lectura reflexiva con la producción artística, lúdica y divergente.",
+      "formalRef": "Lorca-Garrido, A. J., López-Martínez, O., & De-Vicente-Yagüe-Jara, M. I. (2026). Pensamiento creativo y competencia lectora. Una revisión sistemática. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.585"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "En el análisis de las dimensiones del pensamiento divergente evaluadas en el estudio, ¿cuál mostró la asociación más consistente con la comprensión inferencial profunda?",
+          "options": [
+            "La velocidad de copiado caligráfico.",
+            "La elaboración (capacidad de detallar y enriquecer representaciones cognitivas).",
+            "El número de faltas ortográficas detectadas.",
+            "La memorización estricta de nombres y fechas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué rango de fuerza caracterizó a las correlaciones estadísticas halladas entre el pensamiento creativo y la competencia lectora en la revisión?",
+          "options": [
+            "Correlaciones negativas extremas (a mayor creatividad, peor lectura).",
+            "Relaciones positivas débiles a moderadas (r = .20 a .45).",
+            "Correlación perfecta (r = 1.00), lo que significa que son exactamente la misma habilidad.",
+            "Ausencia total de relación estadística en todos los estudios."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué los autores critican las preguntas escolares tradicionales de control de lectura?",
+          "options": [
+            "Porque son demasiado largas y difíciles de imprimir.",
+            "Porque se limitan a indagar por datos literales explícitos, castigando el pensamiento divergente y la formulación de hipótesis propias del lector.",
+            "Porque están prohibidas expresamente por el informe PISA.",
+            "Porque obligan a los niños a leer libros en inglés."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "El estudio propone el concepto de 'Alfabetización Creativa'. Diseña una consigna de aula para un curso de primaria o secundaria que invite a los alumnos a reescribir el conflicto de una lectura desde la perspectiva de un personaje secundario o antagonista."
+        },
+        {
+          "type": "open",
+          "q": "En un contexto donde la IA puede resumir cualquier texto en segundos, ¿por qué la habilidad humana para el pensamiento creativo y la inferencia crítica se vuelve más crucial que nunca en la formación lectora?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a este laboratorio de ideas. Vamos a descubrir por qué leer y crear son dos caras de la misma moneda mental.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Durante décadas se ha evaluado la lectura como un trámite de memoria. ¡Qué error! Comprender de verdad exige imaginar lo que no está dicho.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Siguiendo PRISMA, localizamos los 12 estudios empíricos más rigurosos del mundo sobre niños y adolescentes entre 5 y 18 años.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "Los datos lo demuestran: la dimensión de 'elaboración' se asocia con las inferencias profundas. Cuanto más rico es tu modelo mental, mejor comprendes.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Cambiemos el aula: sustituyamos los exámenes de opción múltiple por talleres de alfabetización creativa donde escribir y leer se abracen.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Frente a las máquinas que solo procesan datos, la lectura creativa es el bastión del pensamiento crítico y la libertad humana.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Navega por el mapa conceptual para visualizar la interacción entre divergencia, modelos mentales, inferencias y didáctica de la lengua.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Evalúa tus aprendizajes y atrévete a soñar consignas pedagógicas que despierten la chispa creadora de tus alumnos.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Pensamiento Creativo y Competencia Lectora",
+    "descripcion": "Interacciones cognitivas entre el pensamiento divergente, la dimensión de elaboración de Torrance, la comprensión inferencial y la alfabetización creativa.",
+    "nodos": [
+      { "id": "1", "label": "Competencia Lectora", "color": "#f4a261" },
+      { "id": "2", "label": "Pensamiento Creativo Divergente", "color": "#2a5a75" },
+      { "id": "3", "label": "Elaboración Cognitiva", "color": "#88b04b" },
+      { "id": "4", "label": "Comprensión Inferencial y Crítica", "color": "#5b9eaa" },
+      { "id": "5", "label": "Decodificación Literal Básica", "color": "#e76f51" },
+      { "id": "6", "label": "Test de Torrance (TTCT)", "color": "#9b82c3" },
+      { "id": "7", "label": "Sinergia Bidireccional", "color": "#e88b8c" },
+      { "id": "8", "label": "Alfabetización Creativa Escolar", "color": "#2a9d8f" },
+      { "id": "9", "label": "Tolerancia a la Ambigüedad", "color": "#264653" },
+      { "id": "10", "label": "Metodologías Activas y Transmedia", "color": "#f4d068" }
+    ],
+    "aristas": [
+      { "from": "2", "to": "1", "label": "se correlaciona moderadamente con" },
+      { "from": "6", "to": "3", "label": "evalúa como factor a la" },
+      { "from": "3", "to": "4", "label": "se vincula fuertemente con la" },
+      { "from": "2", "to": "5", "label": "apenas incide en la" },
+      { "from": "7", "to": "2", "label": "demuestra que la lectura alimenta al" },
+      { "from": "2", "to": "9", "label": "favorece una mayor" },
+      { "from": "8", "to": "10", "label": "se implementa mediante" },
+      { "from": "10", "to": "4", "label": "potencia el desarrollo de la" },
+      { "from": "1", "to": "8", "label": "debe evolucionar hacia la" },
+      { "from": "7", "to": "4", "label": "refuerza mutuamente la" }
+    ]
+  }
+}

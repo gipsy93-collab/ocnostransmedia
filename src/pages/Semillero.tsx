@@ -1,4 +1,4 @@
-﻿import { Leaf, BookOpen, Users, Star, ArrowRight, Menu, Search, ChevronRight } from 'lucide-react';
+import { Leaf, BookOpen, Users, Star, ArrowRight, Menu, Search, ChevronRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 export default function Semillero() {

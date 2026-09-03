@@ -1,0 +1,302 @@
+{
+  "id": "pausas_lectura_evolucion",
+  "metadata": {
+    "title": "Evolución de las pausas de la lectura en escolares con diferentes trayectorias en comprensión lectora",
+    "authors": "Ruth Campos, Pelusa Orellana y Andrés Segovia",
+    "year": "2025",
+    "journal": "Ocnos 24(2)",
+    "doi": "10.18239/ocnos_2025.24.2.550",
+    "gancho": "¿Dónde se detiene a respirar un niño que entiende lo que lee en comparación con uno que se pierde en el texto?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e88b8c",
+    "colorAlt": "#2a5a75",
+    "bg": "from-rose-500/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-17.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-17.png",
+      "name": "Dra. Ruth Campos",
+      "role": "Investigadora en Psicología de la Lectura y Prosodia, Universidad de los Andes (Chile)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Ruth Campos, psicolingüista especialista en análisis acústico de la lectura oral",
+      "gancho": "¿Es una pausa en la lectura un síntoma de torpeza o la prueba de que el cerebro está pensando?",
+      "contexto": "El análisis acústico de la lectura oral permite asomarse al procesamiento cognitivo en tiempo real. Las pausas entre oraciones o cláusulas (interclausales) reflejan integración semántica legítima, mientras que las pausas arbitrarias dentro de una cláusula (intraclausales) revelan atascos de decodificación. En este estudio longitudinal en Chile, se grabó y analizó el habla de 26 escolares evaluados en 4.º y 6.º de educación básica clasificados según sus trayectorias lectoras (buenos persistentes, lectores pobres y lectores con dificultades tardías).",
+      "deepDives": [
+        {
+          "id": "pau-apertura-1",
+          "triggerLabel": "Pausas intraclausales vs. interclausales",
+          "type": "theory",
+          "content": "Las interclausales coinciden con signos de puntuación y descansos sintácticos; las intraclausales rompen sintagmas ('el perro... ladró... fuerte') por sobrecarga cognitiva."
+        },
+        {
+          "id": "pau-apertura-2",
+          "triggerLabel": "Estudio longitudinal en Chile",
+          "type": "data",
+          "content": "Seguimiento de escolares desde 4.º básico hasta 6.º básico con grabaciones de voz analizadas en Praat."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La escuela suele cronometrar la velocidad global sin distinguir si un alumno se frena para pensar o porque no logra decodificar una palabra.",
+      "porQueImporta": "Intervenir erróneamente forzando a 'leer sin paradas' destruye la prosodia reflexiva que sostiene la comprensión profunda.",
+      "dataPoints": [
+        "Estudio longitudinal con 26 escolares chilenos en dos momentos temporales (4.º y 6.º básico).",
+        "Los buenos comprendedores mostraron una reducción drástica de pausas intraclausales inapropiadas en 6.º.",
+        "Los lectores con dificultades tardías aumentaron sus pausas en 6.º debido a la complejidad abstracta de los textos.",
+        "La duración de las pausas interclausales aumentó en los buenos lectores, evidenciando un procesamiento reflexivo superior."
+      ],
+      "glossary": [
+        {
+          "term": "Pausa intraclausal",
+          "definition": "Detención del habla en el interior de una unidad sintáctica que no responde a un límite gramatical y denota vacilación."
+        },
+        {
+          "term": "Dificultad lectora tardía",
+          "definition": "Aparición de problemas de comprensión a partir de 4.º de Primaria cuando los textos dejan de ser familiares y exigen inferencias abstractas."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis acústico longitudinal con software Praat",
+      "narrativa": "Los investigadores registraron la lectura de textos estandarizados en cabinas insonorizadas en 4.º y 6.º año básico. Segmentaron y cronometraron cada pausa con milisegundos de precisión.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "26 escolares clasificados en 3 grupos de trayectoria lectora."
+        },
+        {
+          "label": "Software",
+          "value": "Praat para análisis oscilográfico y espectrográfico."
+        }
+      ],
+      "limitaciones": [
+        "Muestra reducida debido a la exigencia del análisis fonético exhaustivo milisegundo a milisegundo."
+      ],
+      "reflexion": "En fonética, cada silencio tiene un significado cognitivo."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El buen lector sabe cuándo callar",
+      "narrativa": "Los datos longitudinales demostraron la evolución de la arquitectura del habla lectora:",
+      "hallazgos": [
+        {
+          "label": "1. Desaparición del Titubeo",
+          "value": "En los buenos lectores, las pausas erráticas dentro de la frase cayeron a casi cero en 6.º básico."
+        },
+        {
+          "label": "2. Silencios Estratégicos",
+          "value": "Los mejores comprendedores hicieron pausas más largas al final de párrafo para actualizar su modelo mental."
+        }
+      ],
+      "dataPoints": [
+        "Diferencia significativa (p < .01) en la ratio de pausas inter/intra entre grupos de rendimiento."
+      ],
+      "reflexion": "No leas sin pausas: lee con pausas inteligentes que organicen el sentido."
+    },
+    "marco": {
+      "titulo": "Discusión: La prosodia como termómetro de la comprensión",
+      "narrativa": "Campos, Orellana y Segovia proponen usar la prosodia como herramienta de evaluación cualitativa:",
+      "detalles": [
+        {
+          "label": "Atención a las Dificultades Tardías",
+          "value": "El salto a 5.º y 6.º básico exige vigilar a alumnos que leían bien mecánicamente pero colapsan en textos densos."
+        }
+      ],
+      "reflexion": "Escuchar leer a un niño con atención es escuchar cómo funciona su cerebro."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo evoluciona la distribución de pausas de lectura oral en escolares según su trayectoria en comprensión lectora?",
+      "conclusion": "El seguimiento longitudinal de escolares chilenos demuestra que los buenos comprendedores eliminan las pausas intraclausales vacilantes y aumentan las pausas interclausales estratégicas para procesar el significado. Los lectores con dificultades tardías muestran un incremento de atascos en cursos superiores, confirmando que la prosodia temporal es un biomarcador cognitivo directo de la comprensión.",
+      "formalRef": "Campos, R., Orellana, P., & Segovia, A. (2025). Evolución de las pausas de la lectura en escolares con diferentes trayectorias en comprensión lectora. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.550"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de pausa disminuye casi por completo en los buenos comprendedores entre 4.º y 6.º año básico?",
+          "options": [
+            "Las pausas de punto y final de capítulo.",
+            "Las pausas intraclausales vacilantes que rompen arbitrariamente el interior de una oración.",
+            "Las pausas para respirar entre párrafos.",
+            "Las pausas de recreo escolar."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué los buenos lectores aumentan la duración de sus pausas entre oraciones (interclausales)?",
+          "options": [
+            "Porque se cansan de leer en voz alta.",
+            "Porque utilizan ese silencio para integrar la información y actualizar su modelo mental del texto.",
+            "Porque no saben la palabra siguiente.",
+            "Porque están distraídos mirando el techo."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué grupo de estudiantes mostró un aumento inesperado de pausas al llegar a 6.º básico?",
+          "options": [
+            "Los lectores con dificultades tardías de comprensión ante textos abstractos.",
+            "Los alumnos de educación infantil.",
+            "Los mejores poetas del colegio.",
+            "Los profesores de lenguaje."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo diseñarías una rúbrica de lectura en voz alta que valore positivamente las pausas reflexivas y no solo la velocidad del cronómetro?"
+        },
+        {
+          "type": "open",
+          "q": "¿Qué actividades de lectura dramatizada o doblaje de audio propondrías a escolares con dificultades tardías para entrenar la prosodia natural?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al laboratorio acústico. Vamos a medir con milisegundos dónde respira y piensa el cerebro lector.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Parar al leer es un fallo? No siempre: depende de si te frenas para entender o porque te atascas con una palabra.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Seguimos a 26 escolares en Chile desde 4.º hasta 6.º básico analizando sus oscilogramas en Praat.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El buen lector alarga las pausas entre frases y elimina los frenazos en medio de la oración!",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Cuidado con las 'dificultades tardías': en 6.º básico muchos niños empiezan a fallar porque los textos se vuelven difíciles.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "El silencio en la lectura es el espacio sagrado donde florece el pensamiento.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver la evolución de pausas, Praat, trayectorias lectoras y dificultades tardías.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y atrévete a escuchar la lectura oral con oídos de fonetista.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Evolución Acústica de las Pausas y Comprensión Lectora",
+    "descripcion": "Estudio longitudinal en Chile (4.º a 6.º básico): pausas interclausales vs. intraclausales, software Praat y dificultades tardías.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Evolución de Pausas Orales",
+        "color": "#e88b8c"
+      },
+      {
+        "id": "2",
+        "label": "Pausas Interclausales Estratégicas",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Pausas Intraclausales (Vacilaciones)",
+        "color": "#e76f51"
+      },
+      {
+        "id": "4",
+        "label": "Buenos Comprendedores",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Dificultades Lectoras Tardías",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "6",
+        "label": "Estudio Longitudinal (4.º a 6.º)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "7",
+        "label": "Análisis Acústico con Praat",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "8",
+        "label": "Actualización del Modelo Mental",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "9",
+        "label": "Sobrecarga de Decodificación",
+        "color": "#f4d068"
+      },
+      {
+        "id": "10",
+        "label": "Prosodia como Biomarcador",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "7",
+        "to": "1",
+        "label": "mide con precisión la"
+      },
+      {
+        "from": "6",
+        "to": "1",
+        "label": "sigue a lo largo del tiempo la"
+      },
+      {
+        "from": "4",
+        "to": "2",
+        "label": "incrementa y aprovecha las"
+      },
+      {
+        "from": "2",
+        "to": "8",
+        "label": "permite el tiempo para la"
+      },
+      {
+        "from": "4",
+        "to": "3",
+        "label": "reduce casi a cero las"
+      },
+      {
+        "from": "9",
+        "to": "3",
+        "label": "provoca la aparición de"
+      },
+      {
+        "from": "5",
+        "to": "3",
+        "label": "experimenta un repunte en"
+      },
+      {
+        "from": "1",
+        "to": "10",
+        "label": "convierte a la pausa en un"
+      },
+      {
+        "from": "10",
+        "to": "8",
+        "label": "diagnostica la calidad de la"
+      },
+      {
+        "from": "10",
+        "to": "5",
+        "label": "detecta tempranamente las"
+      }
+    ]
+  }
+}

@@ -265,9 +265,9 @@ export default function ChatFloating() {
         )}
       </AnimatePresence>
 
-      {/* Invitation tooltip */}
+      {/* Invitation tooltip - never in narrative */}
       <AnimatePresence>
-        {showInvitation && !isOpen && (
+        {showInvitation && !isOpen && !activeArticleId && (
           <motion.button
             initial={{ opacity: 0, y: 10, scale: 0.95 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
@@ -286,21 +286,23 @@ export default function ChatFloating() {
         )}
       </AnimatePresence>
 
-      {/* Toggle Button */}
-      <motion.button
-        onClick={() => isOpen ? close() : handleOpen()}
-        onMouseEnter={() => setShowInvitation(false)}
-        whileTap={{ scale: 0.92 }}
-        animate={showInvitation && !isOpen ? { scale: [1, 1.08, 1] } : { scale: 1 }}
-        transition={showInvitation && !isOpen ? { duration: 1.5, repeat: Infinity, ease: 'easeInOut' } : undefined}
-        className={`w-14 h-14 rounded-full shadow-2xl flex items-center justify-center transition-all border-2 ${isOpen
-          ? 'bg-ocean-dark border-white/20 text-white hover:bg-ocean-dark/80'
-          : 'bg-coral border-white/30 text-white hover:bg-coral/90 hover:-translate-y-1'
-        }`}
-        aria-label={isOpen ? 'Cerrar chat' : 'Abrir asistente IA'}
-      >
-        {isOpen ? <X size={24} /> : <MessageCircle size={24} />}
-      </motion.button>
+      {/* Toggle Button - hidden when in narrative because AcademicGuide card triggers it directly */}
+      {!activeArticleId && (
+        <motion.button
+          onClick={() => isOpen ? close() : handleOpen()}
+          onMouseEnter={() => setShowInvitation(false)}
+          whileTap={{ scale: 0.92 }}
+          animate={showInvitation && !isOpen ? { scale: [1, 1.08, 1] } : { scale: 1 }}
+          transition={showInvitation && !isOpen ? { duration: 1.5, repeat: Infinity, ease: 'easeInOut' } : undefined}
+          className={`w-14 h-14 rounded-full shadow-2xl flex items-center justify-center transition-all border-2 ${isOpen
+            ? 'bg-ocean-dark border-white/20 text-white hover:bg-ocean-dark/80'
+            : 'bg-coral border-white/30 text-white hover:bg-coral/90 hover:-translate-y-1'
+          }`}
+          aria-label={isOpen ? 'Cerrar chat' : 'Abrir asistente IA'}
+        >
+          {isOpen ? <X size={24} /> : <MessageCircle size={24} />}
+        </motion.button>
+      )}
     </div>
   );
 }

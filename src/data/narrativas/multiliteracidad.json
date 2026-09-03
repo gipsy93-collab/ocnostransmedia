@@ -252,6 +252,20 @@
       "conclusion": "Sí, con matices importantes. La evidencia empírica de los 26 estudios revisados indica que las prácticas pedagógicas centradas en la multiliteracidad: (1) posibilitan la incorporación de otros modos semióticos además del verbal para fomentar la comunicación en contextos auténticos y locales; (2) generan cambios positivos en las dinámicas de aula —más horizontalidad, reajuste de roles, mayor agencia estudiantil— que se traducen en aulas más participativas; (3) fortalecen la identidad y visibilizan habilidades ocultas en estudiantes de contextos cultural y lingüísticamente diversos. Sin embargo, la implementación requiere un cambio de paradigma docente que va más allá del dominio técnico de la tecnología: exige voluntad de cambio, apropiación teórica y prácticas coherentes con esta perspectiva. Además, la investigación empírica es aún incipiente —el 73% de los estudios se publicó a partir de 2015— y está concentrada en países angloparlantes, lo que limita su transferibilidad. La multiliteracidad no es una receta, sino un horizonte pedagógico hacia aulas donde todos los modos, todas las lenguas y todas las culturas tengan lugar.",
       "formalRef": "Báez-Bargellini, G., & Meneses-Arévalo, A. (2023). Multiliteracidad en la asignatura de Lenguaje. Revisión sistemática de la literatura entre 1996 y 2020. Ocnos, 22(2). https://doi.org/10.18239/ocnos_2023.22.2.346"
     },
+    "juegos": [
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide Semiótica",
+        "descripcion": "Activa los cubos de la pirámide respondiendo sobre los modos semióticos y la multiliteracidad.",
+        "instrucciones": "Explora los diferentes niveles conceptuales respondiendo acertadamente a cada desafío."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz Multiliteracidad",
+        "descripcion": "Desafío rápido sobre la revisión de literatura de Báez-Bargellini y Meneses-Arévalo.",
+        "instrucciones": "5 rondas contra el cronómetro con preguntas clave sobre las nuevas literacidades."
+      }
+    ],
     "reflexion": {
       "questions": [
         {

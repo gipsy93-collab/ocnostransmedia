@@ -1,0 +1,298 @@
+{
+  "id": "cuentos_clasicos_streaming_transmedia",
+  "metadata": {
+    "title": "El reciclaje de cuentos clásicos en plataformas streaming: literatura transmedia en el aula universitaria",
+    "authors": "Ana Zúñiga-Lacruz",
+    "year": "2024",
+    "journal": "Ocnos 23(1)",
+    "doi": "10.18239/ocnos_2024.23.1.417",
+    "gancho": "¿Qué hacen Caperucita y Blancanieves en Netflix, Disney+ y videojuegos interactivos, y cómo usarlas para enseñar literatura en la universidad?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#2a5a75",
+    "bg": "from-amber-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-07.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-07.png",
+      "name": "Dra. Ana Zúñiga-Lacruz",
+      "role": "Investigadora en Literatura Comparada y Transmedia Storytelling, Universidad de La Rioja"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Ana Zúñiga-Lacruz, especialista en reciclaje del folclore en narrativas audiovisuales contemporáneas",
+      "gancho": "¿Siguen vivos los cuentos de Perrault y los hermanos Grimm en la era del binge-watching y los algoritmos de streaming?",
+      "contexto": "Los cuentos de hadas tradicionales forman el cimiento del imaginario cultural occidental. Lejos de quedar fosilizados en libros antiguos, han encontrado en las series de televisión, las películas de streaming y los videojuegos una segunda vida llena de hibridaciones oscuras, empoderamiento femenino y giros de guion sorprendentes ('Once Upon a Time', 'Grimm', 'Tell Me a Story'). En este estudio pedagógico y analítico en la Universidad de La Rioja, la autora diseñó y evaluó una intervención formativa que utiliza el reciclaje de cuentos en streaming para desarrollar la competencia literaria y transmedia en estudiantes universitarios.",
+      "deepDives": [
+        {
+          "id": "rec-apertura-1",
+          "triggerLabel": "El concepto de 'reciclaje narrativo'",
+          "type": "theory",
+          "content": "Apropiación, deconstrucción y resignificación de motivos folclóricos universales en formatos audiovisuales para públicos contemporáneos."
+        },
+        {
+          "id": "rec-apertura-2",
+          "triggerLabel": "Intervención con 95 universitarios",
+          "type": "data",
+          "content": "Diseño de guiones transmedia y reescrituras audiovisuales evaluadas mediante rúbricas analíticas."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Los estudiantes universitarios de Educación y Humanidades suelen tener un conocimiento ingenuo o distorsionado de los cuentos clásicos (limitado a las versiones edulcoradas de Disney), desconociendo sus orígenes antropológicos cruentos.",
+      "porQueImporta": "Analizar cómo el streaming recicla los cuentos permite a los futuros docentes entender cómo se transmiten los valores ideológicos y de género a través de los relatos de masas.",
+      "dataPoints": [
+        "Muestra de 95 estudiantes universitarios de Grado de Maestro en Educación Primaria.",
+        "El 88% desconocía las versiones originales de Perrault y Basile antes del proyecto.",
+        "Fascinación por el análisis de arquetipos subvertidos: la reina malvada como heroína traumatizada o el lobo como alegoría de la violencia de género.",
+        "Creación de proyectos transmedia: podcasts, falsos tráileres y cuentas de redes sociales para personajes de hadas."
+      ],
+      "glossary": [
+        {
+          "term": "Reciclaje transmedia",
+          "definition": "Estrategia narrativa que toma una historia clásica y expande su universo a través de múltiples pantallas y plataformas complementarias."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Investigación didáctica aplicada y creación transmedia",
+      "narrativa": "La autora organizó un itinerario de 5 semanas: lectura comparada de textos originales (Basile, Perrault, Grimm), visionado crítico de series de streaming y producción creativa de extensiones transmedia.",
+      "detalles": [
+        {
+          "label": "Contexto",
+          "value": "Universidad de La Rioja (Facultad de Letras y de la Educación)."
+        },
+        {
+          "label": "Muestra",
+          "value": "95 estudiantes de Grado."
+        }
+      ],
+      "limitaciones": [
+        "Dificultades técnicas puntuales en la edición de vídeo por parte de algunos grupos de trabajo."
+      ],
+      "reflexion": "Un cuento clásico es como un diamante: cada nueva época y cada nueva pantalla le hace brillar con una luz diferente."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Deconstruir para comprender",
+      "narrativa": "Los proyectos de los estudiantes desvelaron un salto cualitativo en su madurez analítica:",
+      "hallazgos": [
+        {
+          "label": "1. Caída de la Mirada Ingenua",
+          "value": "Los alumnos descubrieron que los cuentos clásicos no eran para niños, sino advertencias para adultos sobre el poder, el incesto, el canibalismo y la supervivencia."
+        },
+        {
+          "label": "2. Empoderamiento Creativo",
+          "value": "Diseñar 'spin-offs' en TikTok o Instagram para Caperucita Roja o Cenicienta potenció su competencia narrativa y su pensamiento crítico sobre roles de género."
+        }
+      ],
+      "dataPoints": [
+        "Incremento del 40% en el rendimiento en competencias de análisis semiótico y literario."
+      ],
+      "reflexion": "Quien conoce las raíces de un cuento es dueño de todas sus infinitas ramas en el árbol de las pantallas."
+    },
+    "marco": {
+      "titulo": "Discusión: La literatura en el ecosistema audiovisual de los jóvenes",
+      "narrativa": "Zúñiga-Lacruz propone integrar las series de streaming en las programaciones académicas:",
+      "detalles": [
+        {
+          "label": "Diálogo Intermodal",
+          "value": "No contraponer el libro a Netflix: usar Netflix para que los estudiantes deseen volver al libro original."
+        }
+      ],
+      "reflexion": "Las pantallas no destruyen la literatura: son los nuevos lienzos donde los viejos mitos vuelven a nacer."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué valor formativo tiene el análisis y producción de relatos transmedia basados en el reciclaje de cuentos clásicos en streaming en el aula universitaria?",
+      "conclusion": "La intervención didáctica con 95 universitarios en la Universidad de La Rioja demuestra que el reciclaje de cuentos clásicos a través de series de streaming y creaciones transmedia es una herramienta excepcional para despertar el interés filológico, desmitificar estereotipos morales y de género y desarrollar la competencia narrativa multimodal. Se reivindica el valor pedagógico de articular el patrimonio clásico con las plataformas de ocio favoritas del alumnado.",
+      "formalRef": "Zúñiga-Lacruz, A. (2024). El reciclaje de cuentos clásicos en plataformas streaming: literatura transmedia en el aula universitaria. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.417"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué desconocían el 88 % de los estudiantes universitarios antes de comenzar la intervención didáctica sobre cuentos clásicos?",
+          "options": [
+            "El nombre de los ordenadores del aula.",
+            "Las versiones folclóricas y literarias originales de Perrault, Basile y los Grimm, reduciendo su conocimiento a los filmes infantiles de Disney.",
+            "El final de Caperucita Roja.",
+            "Cómo encender la televisión."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de series contemporáneas sirvieron de corpus para estudiar el reciclaje de cuentos de hadas en plataformas de streaming?",
+          "options": [
+            "Documentales de cocina.",
+            "Series como 'Once Upon a Time', 'Grimm' o 'Tell Me a Story' que subvierten arquetipos clásicos y reubican los mitos en el mundo urbano moderno.",
+            "Retransmisiones de fútbol.",
+            "Concursos de preguntas y respuestas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué beneficio cognitivo y crítico demostró tener la creación de proyectos transmedia por parte de los alumnos?",
+          "options": [
+            "Un incremento del 40 % en la capacidad de análisis semiótico y una deconstrucción madura de los roles tradicionales de género.",
+            "Pérdida total del interés por la literatura.",
+            "Ganas de suspender el grado.",
+            "Ningún cambio apreciable."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Elige un cuento popular (ej. 'La Bella Durmiente' o 'Hansel y Gretel') y diseña una propuesta de miniserie de streaming en 3 capítulos ambientada en un instituto actual, justificando qué arquetipos se subvierten."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que a los estudiantes jóvenes les impacta tanto descubrir que las versiones originales de los cuentos de hadas tenían finales sangrientos y estaban dirigidas a adultos?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "¡Las hadas han invadido Netflix! Descubre cómo los viejos mitos de Perrault renacen en las series de streaming.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Creíamos conocer a Caperucita, pero solo conocíamos a Disney. ¿Qué esconden las versiones originales no censuradas?",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "95 estudiantes universitarios en La Rioja comparan textos del siglo XVII con las series más virales de televisión.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El reciclaje transmedia desata la creatividad! Los alumnos crean podcasts y tráileres donde los villanos cuentan su verdad.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Usemos el streaming para llevar a los jóvenes al libro: las pantallas y las páginas son aliadas inseparables.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Los cuentos clásicos son eternos porque tocan las preguntas que jamás dejaremos de hacernos en la oscuridad.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo interactúan streaming, cuentos clásicos, transmedia, deconstrucción y roles de género.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo que has aprendido y atrévete a reimaginar las historias de siempre con ojos contemporáneos.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Reciclaje de Cuentos Clásicos en Streaming y Transmedia",
+    "descripcion": "Intervención universitaria (95 alumnos): versiones originales (Perrault/Grimm), series de streaming, creación transmedia y deconstrucción de género.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Cuentos Clásicos en Streaming",
+        "color": "#e76f51"
+      },
+      {
+        "id": "2",
+        "label": "Reciclaje Narrativo Audiovisual",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Versiones Originales Cruentas",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "4",
+        "label": "Edulcoración Tradicional Disney",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "5",
+        "label": "Creación de Proyectos Transmedia",
+        "color": "#88b04b"
+      },
+      {
+        "id": "6",
+        "label": "Subversión de Roles de Género",
+        "color": "#f4d068"
+      },
+      {
+        "id": "7",
+        "label": "Alumnos de Magisterio (95)",
+        "color": "#264653"
+      },
+      {
+        "id": "8",
+        "label": "Series Líderes (Grimm, OUAT)",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "9",
+        "label": "Mejora Semiótica (+40%)",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "10",
+        "label": "Didáctica Literaria Expandida",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "7",
+        "to": "1",
+        "label": "investiga y deconstruye los"
+      },
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se fundamenta en el concepto de"
+      },
+      {
+        "from": "1",
+        "to": "8",
+        "label": "se analiza empíricamente en"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "desmiente y supera la histórica"
+      },
+      {
+        "from": "7",
+        "to": "5",
+        "label": "aprende diseñando nuevos"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "fomenta activamente la"
+      },
+      {
+        "from": "5",
+        "to": "9",
+        "label": "se traduce en una notable"
+      },
+      {
+        "from": "10",
+        "to": "1",
+        "label": "propone integrar en la docencia los"
+      },
+      {
+        "from": "10",
+        "to": "3",
+        "label": "recupera en las aulas las ricas"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "sostiene el pensamiento crítico y la"
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "id": "didactica_literaria_primaria_vasco_navarra",
+  "metadata": {
+    "title": "Didáctica de la competencia literaria en Educación Primaria de las Comunidades Vasca y Navarra",
+    "authors": "Nerea Permach-Martín y Amaia Álvarez-Uria",
+    "year": "2024",
+    "journal": "Ocnos 23(1)",
+    "doi": "10.18239/ocnos_2024.23.1.434",
+    "gancho": "¿Se enseña a amar los libros en las escuelas o la literatura sigue atrapada en fichas de control de lectura?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#88b04b",
+    "bg": "from-ocean-base/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-08.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-08.png",
+      "name": "Dra. Nerea Permach-Martín",
+      "role": "Investigadora en Didáctica de la Lengua y la Literatura Vasca, UPV/EHU"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Nerea Permach-Martín, especialista en educación literaria escolar y mediación bilingüe",
+      "gancho": "¿Qué ocurre realmente cuando cerramos la puerta del aula de Primaria a la hora de leer literatura?",
+      "contexto": "Las leyes educativas proclaman que la competencia literaria es el pilar del pensamiento crítico y la sensibilidad estética. Sin embargo, la realidad de las prácticas cotidianas en los colegios sigue siendo un misterio poco explorado empíricamente. En este ambicioso estudio en la Comunidad Autónoma Vasca y la Comunidad Foral de Navarra, las investigadoras de la UPV/EHU examinaron las prácticas declaradas y los recursos didácticos de más de 300 maestros de Educación Primaria en modelos bilingües y plurilingües.",
+      "deepDives": [
+        {
+          "id": "vas-apertura-1",
+          "triggerLabel": "Competencia literaria (Mendoza Fillola)",
+          "type": "theory",
+          "content": "Conjunto de saberes, habilidades y actitudes que permiten a un lector decodificar, interpretar y gozar el texto literario en diálogo con su horizonte de expectativas."
+        },
+        {
+          "id": "vas-apertura-2",
+          "triggerLabel": "Muestra de más de 300 docentes",
+          "type": "data",
+          "content": "Cuestionario representativo en centros públicos y concertados de Álava, Vizcaya, Guipúzcoa y Navarra."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "A pesar de las reformas educativas, gran parte de la enseñanza literaria sigue supeditada al libro de texto comercial y a las preguntas mecánicas de comprensión literal.",
+      "porQueImporta": "Si la escuela no crea comunidades vivas de lectores dialógicos, la competencia literaria decae y los niños abandonan la lectura al llegar a la adolescencia.",
+      "dataPoints": [
+        "Muestra de 312 docentes de Educación Primaria.",
+        "El 68% admite que el libro de texto sigue marcando el ritmo y la selección de lecturas.",
+        "Escasa presencia de la poesía y el teatro: casi el 80% de las lecturas escolares se limita a narrativa en prosa.",
+        "Diferencia positiva: los centros con proyectos de biblioteca escolar activa mostraron un uso significativamente mayor de tertulias dialógicas y clubes de lectura."
+      ],
+      "glossary": [
+        {
+          "term": "Competencia literaria",
+          "definition": "Habilidad no solo de descifrar el mensaje informativo de un texto, sino de percibir su polifonía estética, sus metáforas y su dimensión humana."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Cuestionario cuantitativo-cualitativo y análisis bilingüe",
+      "narrativa": "Las investigadoras administraron un instrumento validado en euskera y castellano para evaluar hábitos de selección de textos, actividades de dinamización, evaluación y papel de la biblioteca de aula.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "312 maestras y maestros de Primaria de Euskadi y Navarra."
+        },
+        {
+          "label": "Modelos Lingüísticos",
+          "value": "Modelos D, B y A (euskera y castellano)."
+        }
+      ],
+      "limitaciones": [
+        "Datos basados en cuestionarios de autoinforme docente que precisan contraste con observación etnográfica directa."
+      ],
+      "reflexion": "La literatura no es una materia que se deba aprobar: es una conversación que se debe compartir."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Luces y sombras en las aulas",
+      "narrativa": "El mapa de la práctica docente reveló tensiones estructurales:",
+      "hallazgos": [
+        {
+          "label": "1. El Olvido de la Poesía y el Teatro",
+          "value": "La lírica y el drama son prácticamente invisibles en el aula regular, privando a los niños del ritmo poético y del juego corporal dramatizado."
+        },
+        {
+          "label": "2. El Poder Transformador de la Biblioteca Escolar",
+          "value": "Allí donde hay una biblioteca de centro dinamizada por un bibliotecario escolar, los maestros diversifican las lecturas y abandonan el libro de texto comercial."
+        }
+      ],
+      "dataPoints": [
+        "Solo el 24% del profesorado utiliza tertulias dialógicas de forma semanal en el aula."
+      ],
+      "reflexion": "Sin poesía en la escuela, el lenguaje se vuelve gris y el corazón de los niños pierde el ritmo del asombro."
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia un plan lector liberador y plurilingüe",
+      "narrativa": "Permach-Martín y Álvarez-Uria proponen desatar las amarras del libro de texto:",
+      "detalles": [
+        {
+          "label": "Espacios de Lectura Libre por Placer",
+          "value": "Garantizar 30 minutos diarios innegociables de lectura autónoma y tertulia en todas las escuelas."
+        }
+      ],
+      "reflexion": "El mejor maestro de literatura no es el que más exámenes corrige, sino el que más contagia su pasión por los libros."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué prácticas didácticas y qué concepciones sobre la competencia literaria predominan en las aulas de Educación Primaria del País Vasco y Navarra?",
+      "conclusion": "La investigación con 312 maestros en las Comunidades Vasca y Navarra constata una dependencia excesiva del libro de texto comercial y un grave arrinconamiento de la poesía y el teatro en Primaria. Sin embargo, destaca el papel crucial de las bibliotecas escolares activas y las tertulias dialógicas como los mejores motores de innovación y democratización lectora en contextos bilingües.",
+      "formalRef": "Permach-Martín, N., & Álvarez-Uria, A. (2024). Didáctica de la competencia literaria en Educación Primaria de las Comunidades Vasca y Navarra. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.434"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué géneros literarios fundamentales resultaron estar casi completamente arrinconados u olvidados en las aulas de Primaria según los 312 maestros encuestados?",
+          "options": [
+            "La novela policiaca.",
+            "La poesía y el teatro (más del 80 % del tiempo se dedica exclusivamente a la narrativa en prosa).",
+            "El cómic de superhéroes.",
+            "Los cuentos de hadas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué elemento escolar demostró ser el factor diferencial que impulsa a los docentes a abandonar el libro de texto comercial y organizar tertulias dialógicas?",
+          "options": [
+            "El timbre de salida.",
+            "La existencia de una biblioteca escolar activa y dinamizada en el centro.",
+            "Tener una pizarra digital nueva.",
+            "Poner notas más bajas a los alumnos."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de maestros encuestados reconoció que el libro de texto sigue marcando de forma predominante la selección y el ritmo de las lecturas?",
+          "options": [
+            "Menos del 5 %.",
+            "El 68 % del profesorado.",
+            "Exactamente el 100 %.",
+            "Ningún maestro."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña un plan semanal de 5 sesiones de 15 minutos para reintroducir la poesía oral y el recital dramatizado en una clase de 4.º de Primaria de forma lúdica y sin exámenes."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo convencerías a un equipo directivo de Primaria de que reservar 30 minutos diarios de lectura por placer mejora el rendimiento académico general más que hacer otra ficha de gramática?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al corazón de la escuela primaria. ¿Cómo se enseña la literatura en Euskadi y Navarra?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "El libro de texto y las fichas mecánicas siguen mandando en muchas aulas, dejando fuera la emoción viva de la lectura.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "312 maestras y maestros de colegios públicos y concertados responden con sinceridad a un cuestionario exhaustivo.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡La poesía y el teatro están olvidados! Pero las bibliotecas escolares activas son el faro que rescata la pasión lectora.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Abramos las ventanas de las aulas: que entren los versos, la dramatización y la tertulia libre entre iguales.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Enseñar a leer no es enseñar a descifrar letras: es enseñar a sentir la música oculta del lenguaje.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo interactúan competencia literaria, libro de texto, poesía, biblioteca escolar y tertulias.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y atrévete a planificar una didáctica de la lengua libre de ataduras mecánicas.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Didáctica Literaria en Primaria (País Vasco y Navarra)",
+    "descripcion": "Estudio empírico (312 docentes): dependencia del libro de texto, arrinconamiento de la poesía, biblioteca escolar y tertulias dialógicas.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Competencia Literaria en Primaria",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "2",
+        "label": "Muestra de 312 Maestros (Euskadi/Navarra)",
+        "color": "#264653"
+      },
+      {
+        "id": "3",
+        "label": "Dominio del Libro de Texto (68%)",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "4",
+        "label": "Arrinconamiento de Poesía y Teatro",
+        "color": "#e76f51"
+      },
+      {
+        "id": "5",
+        "label": "Hegemonía de la Narrativa en Prosa",
+        "color": "#f4d068"
+      },
+      {
+        "id": "6",
+        "label": "Biblioteca Escolar Activa",
+        "color": "#88b04b"
+      },
+      {
+        "id": "7",
+        "label": "Tertulias Literarias Dialógicas",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "8",
+        "label": "Modelos Lingüísticos Bilingües",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "9",
+        "label": "Preguntas de Comprensión Literal",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "10",
+        "label": "Comunidad de Lectores Escolares",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "evalúa las prácticas de enseñanza de la"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "constata una dependencia del"
+      },
+      {
+        "from": "3",
+        "to": "9",
+        "label": "fomenta rutinas mecánicas de"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "denuncia el grave"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "conduce a una monótona"
+      },
+      {
+        "from": "6",
+        "to": "1",
+        "label": "transforma e innova la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "impulsa la celebración de"
+      },
+      {
+        "from": "2",
+        "to": "8",
+        "label": "se contextualiza en diversos"
+      },
+      {
+        "from": "10",
+        "to": "6",
+        "label": "nace y florece alrededor de la"
+      },
+      {
+        "from": "10",
+        "to": "7",
+        "label": "se nutre semanalmente con las"
+      }
+    ]
+  }
+}

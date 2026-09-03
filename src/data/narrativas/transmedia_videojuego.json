@@ -1,0 +1,275 @@
+{
+  "id": "transmedia_videojuego",
+  "metadata": {
+    "title": "La relectura de la cuentística tradicional: un enfoque transmedia para la educación literaria en Educación Superior",
+    "authors": "Álvaro Clavijo-Corchero",
+    "year": "2026",
+    "journal": "Ocnos 25(2)",
+    "doi": "10.18239/ocnos_2026.25.2.625",
+    "gancho": "¿Qué ocurre cuando Blancanieves es la alcaldesa de un barrio marginal de Nueva York y el Lobo Feroz es un detective que intenta no morder a nadie?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#2a5a75",
+    "bg": "from-indigo-500/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-15.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-15.png",
+      "name": "Dr. Álvaro Clavijo-Corchero",
+      "role": "Especialista en Literatura Infantil y Narrativa Transmedia, Universidad de La Rioja (España)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Álvaro Clavijo-Corchero, investigador en literatura comparada y narrativas ludo-ficcionales",
+      "gancho": "¿Siguen vivos los cuentos de Perrault y los Hermanos Grimm en la mente de la Generación Z, o solo sobreviven cuando los encarnamos con un mando en las manos?",
+      "contexto": "Los diagnósticos sobre hábitos lectores en los grados universitarios de Educación son desalentadores: los futuros maestros leen casi exclusivamente por obligación académica y muestran una preocupante desconexión hacia los clásicos literarios. Sin embargo, en sus momentos de ocio devoran narrativas complejas en videojuegos, series y cómics. ¿Cómo tender un puente entre la tradición oral y los nuevos ecosistemas audiovisuales? Este estudio analiza el potencial didáctico del videojuego de culto 'The Wolf Among Us' (Telltale Games), una adaptación transmedia del cómic 'Fables' de Bill Willingham que traslada los arquetipos de los cuentos de hadas a un drama detectivesco neo-noir. Mediante la teoría transtextual de Gérard Genette y la semiótica de Paz-Gago, se demuestra cómo el videojuego puede revolucionar la educación literaria universitaria.",
+      "deepDives": [
+        {
+          "id": "trans-apertura-1",
+          "triggerLabel": "La transtextualidad de Gérard Genette",
+          "type": "theory",
+          "content": "Genette (1989) clasifica las relaciones entre textos en 5 categorías: intertextualidad (citas), paratextualidad (títulos, prefacios), metatextualidad (crítica), architextualidad (géneros) e hipertextualidad (cuando un texto B o 'hipertexto' deriva de un texto A previo o 'hipotexto' mediante transformación o imitación)."
+        },
+        {
+          "id": "trans-apertura-2",
+          "triggerLabel": "¿Qué es la narrativa transmedia (Scolari / Jenkins)?",
+          "type": "theory",
+          "content": "Es una forma de relato donde la historia se expande a través de múltiples medios y plataformas (cómic, libro, videojuego, cine), donde cada medio realiza una aportación única y diferenciada a la construcción del mundo ficticio, requiriendo la participación activa del usuario."
+        },
+        {
+          "id": "trans-apertura-3",
+          "triggerLabel": "El universo de 'Fabletown' (Villa Fábula)",
+          "type": "data",
+          "content": "En 'The Wolf Among Us', los personajes de cuentos de hadas han sido expulsados de sus reinos mágicos por un enemigo tiránico y viven clandestinamente en el Manhattan contemporáneo, obligados a usar costosos hechizos de camuflaje ('glamour') para no ser descubiertos por los humanos."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La formación de maestros suele abordar la literatura infantil clásica como un archivo inerte de moralejas anticuadas, provocando apatía en el estudiantado universitario. Se desconoce cómo utilizar el videojuego narrativo como dispositivo hermenéutico para fomentar la relectura crítica, el análisis comparativo intertextual y la reflexión sobre dilemas éticos contemporáneos.",
+      "porQueImporta": "Los futuros maestros no pueden enseñar literatura a niños del siglo XXI con metodologías del siglo XIX. Si no experimentan en su propia formación universitaria la vitalidad transmedia de los relatos, reproducirán aulas donde el libro se percibe como una reliquia desconectada de la cultura visual contemporánea.",
+      "dataPoints": [
+        "Estudios en el Espacio Europeo de Educación Superior confirman que más del 65% de los universitarios de Educación no lee literatura por placer de forma habitual.",
+        "Análisis semiótico-textual en profundidad de los 5 episodios del videojuego 'The Wolf Among Us' (Telltale Games).",
+        "Cruce analítico con más de 10 hipotextos clásicos: Caperucita Roja, Blancanieves, Los Tres Cerditos, La Bella y la Bestia, La Sirenita y La Leyenda de Sleepy Hollow.",
+        "Metodología mixta de análisis transtextual (Genette, 1989) y semiótico-comunicativo (Paz-Gago, 2004).",
+        "El 100% de las decisiones morales del juego colocan al jugador en la tesitura de reformular los arquetipos tradicionales de bien y mal.",
+        "Guía de orientaciones didácticas interdisciplinares para la Educación Superior vertebrada en tres fases: hipotextual, lúdica y metacrítica."
+      ],
+      "glossary": [
+        {
+          "term": "Hipertextualidad",
+          "definition": "Relación que une un texto B (hipertexto) a un texto anterior A (hipotexto), sobre el cual se injerta de una manera que no es la del comentario (Genette, 1989)."
+        },
+        {
+          "term": "Agencia interactiva lúdica",
+          "definition": "Capacidad que el videojuego otorga al jugador para intervenir en el desarrollo del relato, tomando decisiones que alteran la trama y las relaciones entre personajes."
+        },
+        {
+          "term": "Resignificación arquetípica",
+          "definition": "Proceso mediante el cual un personaje clásico despoja sus atributos moralizantes originales y adquiere matices psicológicos y contradicciones contemporáneas."
+        },
+        {
+          "term": "Neo-noir detectivesco",
+          "definition": "Subgénero cinematográfico y narrativo caracterizado por atmósferas nocturnas urbanas, corrupción institucional, cinismo moral y detectives atormentados."
+        },
+        {
+          "term": "Generación Centennial (Gen Z)",
+          "definition": "Cohorte generacional nacida en el cambio de siglo, caracterizada por su alfabetización multimodal nativa y su socialización en entornos interactivos digitales."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Hermenéutica transtextual y semiótica del videojuego",
+      "narrativa": "Clavijo-Corchero articuló un marco metodológico cualitativo y descriptivo combinando el modelo transtextual de Gérard Genette (1989) y la semiótica textual de Paz-Gago (2004). Analizó cómo el videojuego 'The Wolf Among Us' transforma sus hipotextos folclóricos mediante operaciones de transposición pragmática, desmitificación y focalización interna, diseñando una propuesta de transferencia pedagógica para aulas universitarias de Grado en Educación Infantil y Primaria.",
+      "detalles": [
+        { "label": "Objeto de Estudio", "value": "Videojuego narrativo 'The Wolf Among Us' (5 episodios) y cómic matriz 'Fables' de Vertigo/DC Comics." },
+        { "label": "Hipotextos Analizados", "value": "Cuentos de Charles Perrault, Hermanos Grimm, Hans Christian Andersen y Washington Irving." },
+        { "label": "Marco Teórico", "value": "Palimpsestos de Genette (hipertextualidad e inversión de valores) y semiótica de la interactividad." },
+        { "label": "Fases Didácticas", "value": "1) Arqueología del hipotexto; 2) Inmersión lúdico-interactiva; 3) Debate semiótico y creación transmedia." }
+      ],
+      "limitaciones": [
+        "Estudio descriptivo-propositivo que requiere evaluación experimental de su implementación en cohortes reales de estudiantes universitarios.",
+        "Barrera de acceso tecnológico (necesidad de consolas o PCs en el laboratorio universitario o uso de 'gameplays' comentados)."
+      ],
+      "reflexion": "Tratar al videojuego con la misma dignidad filológica con la que se analiza una tragedia clásica abre caminos insospechados para reconciliar a los jóvenes con los clásicos."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El lobo sheriff, Blancanieves burócrata y la Bestia precaria",
+      "narrativa": "El desmontaje semiótico del videojuego desvela una formidable relectura subversiva de los cuentos tradicionales:",
+      "hallazgos": [
+        {
+          "label": "1. Bigby Wolf: De Monstruo a Sujeto Moral Complejo",
+          "value": "El Lobo Feroz (Big Bad Wolf) es ahora el sheriff de Fabletown. Ya no es la encarnación del mal salvaje: es un antihéroe traumatizado por su pasado carnicero que intenta redimirse protegiendo a los mismos personajes que antes devoraba."
+        },
+        {
+          "label": "2. Blancanieves: Desmitificación de la Princesa Sumisa",
+          "value": "Blancanieves deja de ser la doncella pasiva que espera en el ataúd de cristal. Es la directora adjunta de gobierno, una líder implacable que lidia con la corrupción política, la falta de presupuesto y la desigualdad social de los refugiados mágicos."
+        },
+        {
+          "label": "3. La Bella y la Bestia en la Precariedad Económica",
+          "value": "Lejos del palacio encantado, Bella y Bestia viven en un departamento ruinoso, incapaces de pagar el alquiler ni el hechizo mágico para ocultar los cuernos de Bestia, reflejando el drama de la exclusión social contemporánea."
+        },
+        {
+          "label": "4. La Agencia Moral del Jugador",
+          "value": "El videojuego obliga al futuro maestro a tomar decisiones en segundos: ¿perdonar la vida a un criminal arrepentido o aplicar la ley con puño de hierro? Cada elección transforma la percepción ética del relato."
+        }
+      ],
+      "dataPoints": [
+        "El videojuego recupera motivos olvidados de las versiones orales primitivas (como el desmembramiento y la crudeza medieval) que las versiones burguesas del siglo XIX y Disney habían edulcorado.",
+        "La interacción lúdica incrementa la empatía narrativa: el jugador no solo lee sobre el dolor del personaje, siente el peso de haber causado su destino con un clic.",
+        "La transmedialidad demuestra que los relatos tradicionales son 'matrices vivas' capaces de mutar de formato sin perder su esencia simbólica."
+      ],
+      "reflexion": "Cuando Blancanieves le dice al Lobo Feroz 'Aquí nadie vive feliz para siempre', no está destruyendo el cuento de hadas: lo está rescatando de la cursilería para hablar de la vida real."
+    },
+    "marco": {
+      "titulo": "Discusión: La educación literaria como taller de arqueología transmedia",
+      "narrativa": "Clavijo-Corchero argumenta que el enfoque transmedia es la tabla de salvación de la educación literaria en el siglo XXI:",
+      "detalles": [
+        {
+          "label": "Superar la Fetichización del Papel",
+          "value": "La literatura no reside en el papel, sino en la palabra, el símbolo y la emoción. Reconocer el valor literario del guion del videojuego expande la mirada de los futuros docentes (Zúñiga-Lacruz, 2024)."
+        },
+        {
+          "label": "El Lector como 'Prosumidor' Crítico",
+          "value": "La Generación Z no tolera la recepción pasiva. La experiencia interactiva los convierte en prosumidores: comparan versiones, detectan intertextualidades y debaten en foros comunitarios."
+        },
+        {
+          "label": "Del Tabú del Videojuego al Recurso Didáctico",
+          "value": "Es hora de superar el prejuicio que cataloga al videojuego como 'pérdida de tiempo'. Obras como The Wolf Among Us son piezas maestras de dramaturgia interactiva con una densidad literaria superior a muchos manuales escolares."
+        },
+        {
+          "label": "Diseño de Tareas de Escritura Creativa",
+          "value": "La propuesta culmina con consignas donde los futuros maestros escriben sus propias extensiones transmedia: crear el diario secreto de Caperucita o un podcast policial de Fabletown."
+        }
+      ],
+      "reflexion": "Los cuentos de hadas sobrevivieron durante milenios gracias a la voz de los ancianos junto al fuego. Hoy sobreviven en los píxeles de una pantalla interactiva. El soporte cambia, pero el asombro permanece."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo puede la relectura transmedia de los cuentos tradicionales a través de videojuegos transformar la educación literaria universitaria?",
+      "conclusion": "El análisis semiótico y transtextual de 'The Wolf Among Us' demuestra que el videojuego narrativo constituye un recurso didáctico de extraordinario valor para la Educación Superior. Al transportar los arquetipos de Perrault y los Grimm a un universo neo-noir contemporáneo, el videojuego activa la agencia moral del jugador, desmitifica visiones edulcoradas del canon infantil y estimula la comparación hipertextual crítica en la Generación Z. Integrar estas narrativas lúdicas en la formación de futuros docentes revitaliza el interés por los clásicos y dota al profesorado de herramientas innovadoras para conectar la tradición literaria con la cultura audiovisual de las nuevas generaciones.",
+      "formalRef": "Clavijo-Corchero, A. (2026). La relectura de la cuentística tradicional: un enfoque transmedia para la educación literaria en Educación Superior. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.625"
+    },
+    "juegos": [
+      {
+        "juegoId": "quiz",
+        "titulo": "Desafío Transmedia Fabletown",
+        "descripcion": "Pon a prueba tu conocimiento sobre la semiótica del videojuego, Genette y la relectura de los cuentos clásicos.",
+        "instrucciones": "Responde con rapidez para acumular multiplicadores de combo y demostrar tu pericia hermenéutica."
+      },
+      {
+        "juegoId": "snake",
+        "titulo": "El Rastro del Lobo (Snake)",
+        "descripcion": "Guía a Bigby Wolf a través de Fabletown recolectando pistas y respondiendo enigmas del artículo.",
+        "instrucciones": "Atrapa los tokens verdes y responde a las preguntas clave para avanzar de nivel sin chocar."
+      }
+    ],
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "En el marco teórico de Gérard Genette (1989) aplicado en el artículo, ¿cómo se denomina la relación que une al videojuego 'The Wolf Among Us' (hipertexto) con los cuentos tradicionales clásicos (hipotextos)?",
+          "options": [
+            "Architextualidad de género puro.",
+            "Hipertextualidad (inversión, transformación y derivación de un texto previo).",
+            "Paratextualidad editorial.",
+            "Metatextualidad crítica periodística."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cómo se resignifica el personaje arquetípico del Lobo Feroz (Bigby Wolf) en el videojuego analizado?",
+          "options": [
+            "Se convierte en un dragón mecánico del espacio.",
+            "Pasa de ser un monstruo depredador unívoco a un sheriff detective atormentado que lucha contra su propia naturaleza salvaje para proteger a la comunidad.",
+            "Es un personaje cómico que solo vende disfraces en internet.",
+            "Permanece idéntico a la versión de Charles Perrault sin ningún cambio psicológico."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál es la principal ventaja didáctica de la 'agencia interactiva' que ofrece el videojuego frente a la lectura pasiva tradicional en la formación docente?",
+          "options": [
+            "Que no hace falta leer ningún libro nunca más.",
+            "Que sitúa al estudiante en el centro de la toma de decisiones morales inmediatas, generando una vivencia empática profunda con el destino de los personajes y sus dilemas éticos.",
+            "Que los exámenes universitarios se aprueban automáticamente al pulsar un botón.",
+            "Que reduce el vocabulario de los alumnos a tres palabras técnicas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "En el videojuego, personajes como Bella y Bestia sufren problemas de precariedad económica y marginalidad social urbana. Si fueras docente en un grado de Educación, ¿cómo utilizarías este contraste con el cuento clásico para abrir un debate ético y social en el aula universitaria?"
+        },
+        {
+          "type": "open",
+          "q": "Diseña una propuesta de actividad transmedia donde los estudiantes deban 'rescatar' a un personaje de un cuento tradicional hispánico (como El Lazarillo, La Cenicienta o Garbancito) y ubicarlo como protagonista de un relato interactivo o podcast en la actualidad."
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a Fabletown. Prepárate para descubrir cómo los cuentos de tu infancia cobran una vida salvaje y oscura en el mundo de los videojuegos.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Los universitarios leen poco por gusto y ven a los clásicos como fósiles aburridos. ¡The Wolf Among Us dinamita esa idea desde el primer minuto!",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Genette y Paz-Gago nos dan las gafas teóricas: la hipertextualidad nos permite rastrear cómo cada escena del juego reescribe a Perrault y los Grimm.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "Mira a Bigby Wolf: el lobo carnicero intentando ser un policía honesto. La toma de decisiones interactivas te obliga a sentir la culpa y el peso del monstruo.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La literatura no es un soporte físico: es imaginación en movimiento. Los videojuegos son la nueva gran plaza pública donde renacen los mitos.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Formar a los maestros del mañana exige enseñarles a leer en múltiples pantallas, sin miedo a hibridar la tradición con el mando de la consola.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa interactivo para desentrañar la red entre cuentos de hadas, neo-noir, decisiones morales y educación transmedia.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Ponte a prueba en el cuestionario y atrévete a imaginar tu propia recreación transmedia de una leyenda clásica.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Cuentística Tradicional y Narrativa Transmedia",
+    "descripcion": "Transtextualidad, resignificación arquetípica de cuentos clásicos, estética neo-noir y agencia moral interactiva en The Wolf Among Us.",
+    "nodos": [
+      { "id": "1", "label": "Educación Literaria Transmedia", "color": "#9b82c3" },
+      { "id": "2", "label": "Cuentística Tradicional (Hipotextos)", "color": "#2a5a75" },
+      { "id": "3", "label": "The Wolf Among Us (Hipertexto)", "color": "#e76f51" },
+      { "id": "4", "label": "Transtextualidad de Genette", "color": "#5b9eaa" },
+      { "id": "5", "label": "Bigby Wolf (El Lobo Sheriff)", "color": "#88b04b" },
+      { "id": "6", "label": "Blancanieves Burócrata", "color": "#f4d068" },
+      { "id": "7", "label": "Agencia Moral Interactiva", "color": "#e88b8c" },
+      { "id": "8", "label": "Atmósfera Neo-Noir y Marginación", "color": "#2a9d8f" },
+      { "id": "9", "label": "Formación Inicial Docente", "color": "#264653" },
+      { "id": "10", "label": "Generación Z y Cultura Multimodal", "color": "#f4a261" }
+    ],
+    "aristas": [
+      { "from": "4", "to": "2", "label": "rastrea el origen de los" },
+      { "from": "4", "to": "3", "label": "analiza la transformación en el" },
+      { "from": "3", "to": "5", "label": "reconfigura moralmente a" },
+      { "from": "3", "to": "6", "label": "desmitifica el rol sumiso de" },
+      { "from": "3", "to": "7", "label": "desafía al jugador mediante la" },
+      { "from": "3", "to": "8", "label": "sitúa el conflicto en una" },
+      { "from": "1", "to": "9", "label": "transforma el currículo de la" },
+      { "from": "9", "to": "10", "label": "conecta eficazmente con la" },
+      { "from": "7", "to": "1", "label": "potencia la inmersión de la" },
+      { "from": "10", "to": "3", "label": "consume de forma natural a" }
+    ]
+  }
+}

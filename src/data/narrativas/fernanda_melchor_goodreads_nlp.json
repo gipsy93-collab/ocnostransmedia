@@ -1,0 +1,298 @@
+{
+  "id": "fernanda_melchor_goodreads_nlp",
+  "metadata": {
+    "title": "Experiencia de lectura de la obra de Fernanda Melchor: análisis de reseñas en Goodreads mediante PLN",
+    "authors": "Mariana Reyes-Abundes y Manuel Cebral-Loureda",
+    "year": "2024",
+    "journal": "Ocnos 23(1)",
+    "doi": "10.18239/ocnos_2024.23.1.363",
+    "gancho": "¿Qué siente un lector cuando una novela le desgarra el estómago con violencia, marginalidad y belleza atroz?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#c73e1d",
+    "colorAlt": "#2a5a75",
+    "bg": "from-red-700/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-01.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-01.png",
+      "name": "Dra. Mariana Reyes-Abundes",
+      "role": "Investigadora en Humanidades Digitales y Procesamiento del Lenguaje Natural, Tecnológico de Monterrey"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Mariana Reyes-Abundes, especialista en minería de textos literarios y análisis de sentimientos en redes",
+      "gancho": "¿Cómo reaccionan miles de lectores digitales ante la crudeza de 'Temporada de huracanes' y 'Páradais'?",
+      "contexto": "Fernanda Melchor es una de las voces más arrolladoras y premiadas de la literatura latinoamericana reciente. Sus novelas exploran la violencia estructural, la misoginia, la pobreza y el machismo visceral en México a través de una prosa torrencial sin puntos y aparte. En este estudio pionero de Humanidades Digitales, los autores analizaron cientos de reseñas de usuarios en Goodreads mediante técnicas de Procesamiento de Lenguaje Natural (PLN) y análisis de sentimientos en R.",
+      "deepDives": [
+        {
+          "id": "mel-apertura-1",
+          "triggerLabel": "Procesamiento de Lenguaje Natural (PLN)",
+          "type": "theory",
+          "content": "Técnicas de minería de texto que incluyen lematización, modelado de temas (LDA) y análisis de valencia emocional (polaridad positiva/negativa)."
+        },
+        {
+          "id": "mel-apertura-2",
+          "triggerLabel": "Corpus de Goodreads sobre Melchor",
+          "type": "data",
+          "content": "Cientos de reseñas espontáneas de 'Temporada de huracanes', 'Páradais' y 'Aquí no es Miami'."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La crítica literaria tradicional analiza la obra desde púlpitos académicos aislados, sin comprender cómo el lector común procesa el impacto traumático de narrativas extremas.",
+      "porQueImporta": "El análisis algorítmico de la recepción social permite mapear la geografía emocional de la lectura en la era de los algoritmos.",
+      "dataPoints": [
+        "Corpus de cientos de reseñas en español e inglés en Goodreads.",
+        "Predominio de términos somáticos y viscerales: 'asfixia', 'dolor', 'náusea', 'ritmo', 'brutalidad'.",
+        "Bipolaridad emocional: altas calificaciones (4 y 5 estrellas) acompañadas paradójicamente de léxico de angustia extrema.",
+        "Reconocimiento de la maestría rítmica y oral del lenguaje veracruzano."
+      ],
+      "glossary": [
+        {
+          "term": "Lectura somática / visceral",
+          "definition": "Experiencia estética donde el texto literario provoca reacciones corporales y emocionales intensas (tensión muscular, aceleración cardíaca, desasosiego)."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Minería de datos textuales con R y paquetes Tidytext",
+      "narrativa": "Los autores rasparon las reseñas públicas de Goodreads, depuraron stopwords, calcularon matrices de coocurrencia y aplicaron léxicos de sentimientos estandarizados.",
+      "detalles": [
+        {
+          "label": "Herramientas",
+          "value": "Lenguaje R, paquetes tidytext, syuzhet y topicmodels."
+        },
+        {
+          "label": "Muestra",
+          "value": "Reseñas de 'Temporada de huracanes' y 'Páradais'."
+        }
+      ],
+      "limitaciones": [
+        "Sesgo propio de la comunidad de usuarios anglo e hispanohablantes registrados en Goodreads."
+      ],
+      "reflexion": "La gran literatura no consuela: sacude las conciencias y deja cicatrices imborrables."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: La fascinación estética por el horror",
+      "narrativa": "El modelado de temas y el análisis de sentimiento desvelaron una paradoja fascinante:",
+      "hallazgos": [
+        {
+          "label": "1. El Oxímoron Emocional",
+          "value": "Los lectores describen la experiencia como 'horrible pero sublime', admirando la musicalidad barroca de la prosa mientras sufren por el horror relatado."
+        },
+        {
+          "label": "2. La Denuncia Social Viva",
+          "value": "Los usuarios conectan la ficción de Melchor con los feminicidios reales y la impunidad en América Latina."
+        }
+      ],
+      "dataPoints": [
+        "El 78% de las valoraciones de 5 estrellas incluye advertencias de contenido ('trigger warnings') autoorganizadas por la comunidad."
+      ],
+      "reflexion": "Cuando la belleza del lenguaje se pone al servicio de la verdad, el lector no puede apartar la mirada."
+    },
+    "marco": {
+      "titulo": "Discusión: Humanidades Digitales aplicadas a la didáctica",
+      "narrativa": "Reyes-Abundes y Cebral-Loureda proponen llevar el PLN a las clases de literatura:",
+      "detalles": [
+        {
+          "label": "Talleres de Minería Crítica",
+          "value": "Enseñar a los estudiantes a contrastar sus propias emociones lectoras con mapas globales de nubes semánticas."
+        }
+      ],
+      "reflexion": "Los algoritmos no sustituyen a la sensibilidad humana: nos ayudan a ver el murmullo colectivo de las almas que leen."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué revela el análisis por procesamiento del lenguaje natural sobre la experiencia lectora de la obra de Fernanda Melchor en Goodreads?",
+      "conclusion": "La investigación con técnicas de PLN y análisis de sentimientos en Goodreads demuestra que la recepción de la obra de Fernanda Melchor provoca una vivencia visceral de 'oxímoron estético': repugnancia moral y angustia ante la violencia descrita combinadas con una profunda fascinación por el virtuosismo rítmico y polifónico de su prosa. Se valida el uso de herramientas computacionales para desentrañar las comunidades afectivas de lectura en entornos digitales.",
+      "formalRef": "Reyes-Abundes, M., & Cebral-Loureda, M. (2024). Experiencia de lectura de la obra de Fernanda Melchor: análisis de reseñas en Goodreads mediante PLN. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.363"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué paradoja emocional revelaron los algoritmos de PLN al analizar las reseñas de 5 estrellas de Fernanda Melchor en Goodreads?",
+          "options": [
+            "Que los lectores decían que el libro era aburrido y ligero.",
+            "Un 'oxímoron estético': calificaban con la máxima puntuación novelas cuyo contenido les provocaba náusea, angustia y desasosiego corporal.",
+            "Que nadie entendió el argumento.",
+            "Que solo hablaban de faltas de ortografía."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué técnicas computacionales se utilizaron en el estudio para analizar el corpus textual?",
+          "options": [
+            "Hojas de cálculo manuales.",
+            "Procesamiento de Lenguaje Natural (PLN), análisis de polaridad/sentimientos y modelado de tópicos en R.",
+            "Edición de vídeo en TikTok.",
+            "Encuestas telefónicas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué elemento estilístico de la prosa de Melchor fue unánimemente elogiado por los lectores a pesar de la extrema crudeza de las historias?",
+          "options": [
+            "Sus rimas infantiles.",
+            "La musicalidad torrencial, el ritmo oral y la polifonía del lenguaje popular veracruzano.",
+            "La brevedad de sus capítulos de dos líneas.",
+            "El uso exclusivo de frases en latín."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña una propuesta de actividad para alumnos de Bachillerato o Universidad donde comparen una reseña académica tradicional con un mapa de palabras y sentimientos extraído de Goodreads sobre un libro controvertido."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que una novela que retrata la violencia machista y la marginalidad sin concesiones puede convertirse en un fenómeno de culto entre lectores jóvenes en plataformas digitales?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al choque entre la literatura más cruda y el análisis computacional. ¿Cómo reaccionan los lectores ante Fernanda Melchor?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Novelas brutales sin puntos y aparte que provocan asfixia física: analicemos los sentimientos de cientos de reseñas con R.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Procesamos el lenguaje natural de Goodreads con minería de textos, algoritmos léxicos y modelos de tópicos.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El oxímoron perfecto! Los lectores sufren física y moralmente con el horror de la trama, pero quedan fascinados por el genio verbal de Melchor.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Las Humanidades Digitales abren una ventana única a la recepción lectora espontánea de la sociedad contemporánea.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La literatura no aparta la vista de las sombras del mundo: las ilumina con la antorcha del arte para exigir justicia.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo interactúan Fernanda Melchor, PLN en R, Goodreads, análisis de sentimientos y oxímoron estético.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Pon a prueba tus saberes y reflexiona sobre el poder de las narrativas viscerales en la cultura digital.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Recepción de Fernanda Melchor y Análisis PLN en Goodreads",
+    "descripcion": "Estudio con minería de textos (R/Tidytext): violencia estructural, lenguaje visceral, oxímoron estético y recepción en redes de lectura.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Obra de Fernanda Melchor",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "2",
+        "label": "Reseñas en Red Social Goodreads",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Procesamiento de Lenguaje (PLN)",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Análisis de Sentimientos en R",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Oxímoron Estético (Dolor/Belleza)",
+        "color": "#f4d068"
+      },
+      {
+        "id": "6",
+        "label": "Léxico Visceral y Corporal",
+        "color": "#e76f51"
+      },
+      {
+        "id": "7",
+        "label": "Ritmo y Polifonía Veracruzana",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "8",
+        "label": "Denuncia de Violencia Estructural",
+        "color": "#264653"
+      },
+      {
+        "id": "9",
+        "label": "Advertencias de Contenido (TW)",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "10",
+        "label": "Humanidades Digitales Literarias",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "recoge la recepción espontánea de la"
+      },
+      {
+        "from": "3",
+        "to": "2",
+        "label": "analiza algorítmicamente las"
+      },
+      {
+        "from": "4",
+        "to": "3",
+        "label": "aplica técnicas estadísticas de"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "descubre la prevalencia del"
+      },
+      {
+        "from": "2",
+        "to": "6",
+        "label": "se caracteriza por un denso"
+      },
+      {
+        "from": "1",
+        "to": "7",
+        "label": "deslumbra a los lectores con su"
+      },
+      {
+        "from": "1",
+        "to": "8",
+        "label": "confronta a la sociedad con la"
+      },
+      {
+        "from": "2",
+        "to": "9",
+        "label": "incorpora de forma solidaria"
+      },
+      {
+        "from": "10",
+        "to": "3",
+        "label": "impulsa el uso riguroso del"
+      },
+      {
+        "from": "10",
+        "to": "5",
+        "label": "demuestra la potencia del"
+      }
+    ]
+  }
+}

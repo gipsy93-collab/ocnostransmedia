@@ -1,0 +1,302 @@
+{
+  "id": "literatura_infantil_sexual",
+  "metadata": {
+    "title": "Literatura infantil y educación sexual: fomentando la comunicación entre infancia y familia",
+    "authors": "Aina-Maria Duran-Mestre y Marga Vives-Barceló",
+    "year": "2025",
+    "journal": "Ocnos 24(1)",
+    "doi": "10.18239/ocnos_2025.24.1.486",
+    "gancho": "¿Cómo ayuda un álbum ilustrado a que una niña de 5 años aprenda a decir 'este cuerpo es mío' y prevenga el abuso?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e88b8c",
+    "colorAlt": "#2a5a75",
+    "bg": "from-rose-500/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-26.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-26.png",
+      "name": "Dra. Aina-Maria Duran-Mestre",
+      "role": "Investigadora en Educación Sexual Integral y Literatura Infantil, Universitat de les Illes Balears"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Aina-Maria Duran-Mestre, especialista en educación afectivo-sexual y prevención del abuso en la infancia",
+      "gancho": "¿Por qué sigue siendo un tabú hablar de sexualidad y afectos con los niños en la familia?",
+      "contexto": "La educación sexual integral no comienza en la adolescencia con la anticoncepción: empieza en los primeros años de vida con el conocimiento y respeto del propio cuerpo, la gestión del consentimiento, la diversidad familiar y la prevención de violencias. Este estudio analizó las percepciones de familias de Educación Infantil y Primaria sobre el uso del libro infantil como mediador para abordar la afectividad y la sexualidad en el hogar, identificando miedos, tabúes y oportunidades.",
+      "deepDives": [
+        {
+          "id": "sex-apertura-1",
+          "triggerLabel": "La Educación Sexual Integral (ESI)",
+          "type": "theory",
+          "content": "Enfoque de la UNESCO basado en derechos humanos, igualdad de género, conocimiento de la anatomía sin eufemismos y autoprotección."
+        },
+        {
+          "id": "sex-apertura-2",
+          "triggerLabel": "El libro como objeto mediador",
+          "type": "theory",
+          "content": "El cuento ilustrado actúa como pantalla de proyección segura: permite al adulto poner palabras precisas y al niño hacer preguntas íntimas sin vergüenza."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Persiste en muchas familias el mito de que 'hablar de sexualidad despierta la curiosidad antes de tiempo' o 'roba la inocencia infantil'.",
+      "porQueImporta": "El silencio familiar deja a los menores indefensos frente al abuso sexual infantil y a la desinformación de la pornografía en internet.",
+      "dataPoints": [
+        "Estudio con familias de escolares en las Islas Baleares.",
+        "El 82% de las familias considera indispensable hablar de sexualidad pero reconoce no saber cómo empezar.",
+        "El 89% valora los álbumes ilustrados como el recurso ideal para abrir el diálogo sin incomodidad.",
+        "Temas más demandados: prevención de abusos ('el consentimiento y los secretos malos') y diversidad afectivo-sexual."
+      ],
+      "glossary": [
+        {
+          "term": "Consentimiento en la infancia",
+          "definition": "Conciencia de que el propio cuerpo es inviolable y que el niño tiene derecho a decir 'no' a caricias, besos forzados o tocamientos no deseados."
+        },
+        {
+          "term": "Secretos seguros vs. secretos que dañan",
+          "definition": "Distinción pedagógica entre secretos de juego (una fiesta sorpresa) y secretos impuestos por un adulto bajo amenaza que producen dolor o culpa."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Cuestionarios cualitativo-cuantitativos y grupos focales",
+      "narrativa": "Las investigadoras combinaron encuestas a familias con grupos de discusión, analizando qué títulos conocen y qué barreras sienten al leerlos con sus hijos.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "Familias de centros educativos de Educación Infantil y Primaria en Baleares."
+        },
+        {
+          "label": "Enfoque",
+          "value": "Metodología mixta (cuestionarios Likert y análisis de contenido temático)."
+        }
+      ],
+      "limitaciones": [
+        "Sesgo de autoselección: respondieron mayoritariamente familias ya sensibilizadas con la temática."
+      ],
+      "reflexion": "Llamar a las partes del cuerpo por su nombre científico no roba la inocencia: construye un escudo de seguridad."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El cuento rompe el hielo familiar",
+      "narrativa": "Los testimonios familiares evidenciaron el alivio que aporta la literatura:",
+      "hallazgos": [
+        {
+          "label": "1. El Puente de Papel",
+          "value": "Tener el libro en las manos disuelve la incomodidad: los padres sienten que es el libro el que plantea el tema con naturalidad pedagógica."
+        },
+        {
+          "label": "2. Detección Temprana de Incomodidades",
+          "value": "Leer cuentos sobre caricias y límites permitió a varios menores verbalizar situaciones incómodas vividas en su entorno escolar o familiar."
+        }
+      ],
+      "dataPoints": [
+        "Solo un 12% de las familias declaró haber recibido formación u orientación previa sobre literatura afectivo-sexual."
+      ],
+      "reflexion": "Un libro leído a tiempo puede evitar una vida entera de traumas."
+    },
+    "marco": {
+      "titulo": "Discusión: Guías bibliográficas para escuelas y centros de salud",
+      "narrativa": "Duran-Mestre y Vives-Barceló proponen alianzas entre escuelas, bibliotecas y pediatría:",
+      "detalles": [
+        {
+          "label": "Prescripción Bibliográfica",
+          "value": "Recomendar álbumes sobre autoprotección y cuerpo en las consultas de pediatría y en las escuelas infantiles."
+        }
+      ],
+      "reflexion": "La educación sexual no corrompe: la educación sexual cuida, respeta y salva vidas."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo perciben y utilizan las familias la literatura infantil para la educación afectivo-sexual de sus hijos?",
+      "conclusion": "La investigación revela que la inmensa mayoría de las familias (82%) desea abordar la sexualidad y los afectos pero experimenta inseguridad comunicativa. El álbum ilustrado se perfila como un artefacto mediador insustituible que disuelve la incomodidad adulta, proporciona lenguaje anatómico riguroso y capacita a los menores en el consentimiento y la prevención activa del abuso.",
+      "formalRef": "Duran-Mestre, A. M., & Vives-Barceló, M. (2025). Literatura infantil y educación sexual: fomentando la comunicación entre infancia y familia. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.486"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es la principal ventaja que destacan las familias sobre el uso del álbum ilustrado para hablar de sexualidad en el hogar?",
+          "options": [
+            "Que los libros son gratuitos en todas partes.",
+            "Que actúa como un puente mediador seguro que disuelve la incomodidad y facilita un lenguaje natural y respetuoso sobre el cuerpo y los afectos.",
+            "Que evita que los padres tengan que hablar con sus hijos.",
+            "Que sustituye a los médicos de familia."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué temática relacionada con la educación sexual infantil resultó ser la más demandada por las familias encuestadas?",
+          "options": [
+            "La historia de los métodos anticonceptivos en la Edad Media.",
+            "La prevención del abuso sexual infantil mediante el aprendizaje del consentimiento y la distinción de 'secretos buenos vs. malos'.",
+            "La anatomía del sistema digestivo.",
+            "La moda textil en la adolescencia."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de las familias participantes reconoció no haber recibido jamás orientación o formación sobre cómo abordar estos temas?",
+          "options": [
+            "El 88 % (solo el 12 % había recibido formación previa).",
+            "Menos del 1 %.",
+            "El 0 %, todas eran expertas.",
+            "La mitad exacta."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Selecciona un álbum ilustrado de referencia sobre prevención del abuso o consentimiento (como 'Mi cuerpo es mío', 'Ni un besito a la fuerza' o 'La regla de Kiko') y diseña una propuesta de taller para familias en tu centro educativo."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué llamar a las partes del cuerpo con sus términos anatómicos reales (vulva, pene, pezones) desde la primera infancia es un factor de protección crítico contra el abuso infantil?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a un espacio de cuidado y verdad. Hablemos del cuerpo, los afectos y el respeto desde la más tierna infancia.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "El silencio no protege a los niños: la información veraz y el cariño son su verdadero escudo protector.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Escuchamos a cientos de familias que quieren educar en el consentimiento pero sienten vergüenza o falta de recursos.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El libro ilustrado abre la puerta! Poner un cuento entre padres e hijos transforma el tabú en una charla natural.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La educación sexual no roba la inocencia: empodera a los niños para decir 'no' a cualquier agresión.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Un niño que conoce su cuerpo y confía en su familia es un ser libre, seguro y respetuoso.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo se conectan la literatura infantil, la educación sexual integral, el consentimiento y la familia.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo que has aprendido y proyecta dinámicas de diálogo afectivo-sexual respetuoso.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Literatura Infantil y Educación Afectivo-Sexual Familiar",
+    "descripcion": "Estudio con familias: Educación Sexual Integral (ESI), consentimiento, prevención del abuso, álbum mediador y superación de tabúes.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Literatura Infantil como Mediadora",
+        "color": "#e88b8c"
+      },
+      {
+        "id": "2",
+        "label": "Educación Sexual Integral (ESI)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Comunicación en el Hogar",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "Superación de Tabúes Adultos",
+        "color": "#f4d068"
+      },
+      {
+        "id": "5",
+        "label": "Consentimiento y Límites ('Mi Cuerpo')",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "6",
+        "label": "Prevención del Abuso Infantil",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "7",
+        "label": "Anatomía sin Eufemismos",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "8",
+        "label": "Distinción de Secretos",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "9",
+        "label": "Falta de Formación Familiar (88%)",
+        "color": "#e76f51"
+      },
+      {
+        "id": "10",
+        "label": "Autoprotección y Confianza",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "3",
+        "label": "abre el canal fluido de la"
+      },
+      {
+        "from": "2",
+        "to": "1",
+        "label": "fundamenta los contenidos de la"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "disuelve y ayuda a la"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "enseña de forma visual el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "es la base insustituible para la"
+      },
+      {
+        "from": "1",
+        "to": "7",
+        "label": "normaliza y nombra la"
+      },
+      {
+        "from": "1",
+        "to": "8",
+        "label": "explica pedagógicamente la"
+      },
+      {
+        "from": "9",
+        "to": "4",
+        "label": "perpetúa los miedos y"
+      },
+      {
+        "from": "6",
+        "to": "10",
+        "label": "garantiza a largo plazo la"
+      },
+      {
+        "from": "10",
+        "to": "3",
+        "label": "fortalece los lazos de"
+      }
+    ]
+  }
+}

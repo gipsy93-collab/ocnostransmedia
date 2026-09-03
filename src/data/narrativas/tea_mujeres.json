@@ -1,0 +1,267 @@
+{
+  "id": "tea_mujeres",
+  "metadata": {
+    "title": "Comprensión lectora y habilidades metacomprensivas en mujeres con Trastorno del Espectro Autista en Educación Superior",
+    "authors": "Verónica Rebolledo-Luna, Consuelo Manosalba-Torres y Esther Chiner",
+    "year": "2026",
+    "journal": "Ocnos 25(2)",
+    "doi": "10.18239/ocnos_2026.25.2.667",
+    "gancho": "¿Por qué las universitarias en el espectro autista subestiman drásticamente su comprensión lectora incluso cuando su rendimiento real es sobresaliente?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#5b9eaa",
+    "colorAlt": "#2a5a75",
+    "bg": "from-ocean-base/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-6.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-6.png",
+      "name": "Dra. Verónica Rebolledo-Luna",
+      "role": "Investigadora en Neurodiversidad y Metacognición, Universidad Católica de la Santísima Concepción (Chile)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Verónica Rebolledo-Luna, investigadora en neurodiversidad y procesos metacognitivos",
+      "gancho": "¿Por qué las estudiantes universitarias con autismo tienden a dudar de su capacidad lectora tras finalizar una prueba, a pesar de obtener puntuaciones dentro de la norma?",
+      "contexto": "Históricamente, la investigación sobre el Trastorno del Espectro Autista (TEA) se construyó sobre muestras casi exclusivamente masculinas. Esto provocó que las herramientas diagnósticas tradicionales fueran poco sensibles al 'fenotipo femenino' del autismo: niñas y jóvenes que aprenden a camuflar sus dificultades imitando conductas sociales, lo que posterga su diagnóstico hasta la adolescencia o adultez (media de 16 años en este estudio). Al ingresar a la Educación Superior en carreras como Pedagogía, Derecho, Sociología o Periodismo, estas estudiantes se enfrentan a lecturas académicas masivas y complejas. ¿Cómo gestionan su comprensión? Este estudio exploratorio pionero en Chile examina a 23 universitarias de primer año con diagnóstico formal de TEA para revelar una paradoja fascinante: tienen un desempeño lector global perfectamente normal, pero sufren una profunda descalibración metacognitiva que las lleva a subestimar su propio logro.",
+      "deepDives": [
+        {
+          "id": "tea-apertura-1",
+          "triggerLabel": "El fenómeno del 'camuflaje social' (Masking) en mujeres",
+          "type": "theory",
+          "content": "Diversos estudios (Hull et al., 2020; Dean et al., 2017) señalan que las mujeres con TEA desarrollan estrategias de imitación social consciente y compensación conductual para adaptarse a normas sociales. Este 'camuflaje' enmascara sus necesidades de apoyo durante la infancia, provocando diagnósticos tardíos. Sin embargo, el esfuerzo cognitivo y emocional continuo puede traducirse en mayor agotamiento, alexitimia y una percepción disminuida de la autoeficacia académica."
+        },
+        {
+          "id": "tea-apertura-2",
+          "triggerLabel": "¿Qué es la metacomprensión y el modelo de situación?",
+          "type": "theory",
+          "content": "Comprender un texto no es solo decodificar palabras: implica construir un 'modelo de situación' (Kintsch, 1998), es decir, una representación mental coherente donde el lector combina el texto con su conocimiento del mundo. La metacomprensión (McNamara, 2004) es la capacidad de monitorear este proceso en tiempo real, evaluando si hay incoherencias y activando estrategias reguladoras como releer o generar inferencias puente."
+        },
+        {
+          "id": "tea-apertura-3",
+          "triggerLabel": "La brecha diagnóstica en Chile",
+          "type": "data",
+          "content": "En Chile, estimaciones recientes indican que 1 de cada 51 niños presenta diagnóstico de TEA (Yáñez et al., 2021). Sin embargo, la proporción de diagnósticos en mujeres sigue siendo considerablemente menor debido a sesgos clínicos, lo que vuelve urgente investigar las trayectorias de aquellas que logran acceder a la Educación Superior."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Persiste una notable brecha de conocimiento sobre cómo las mujeres universitarias con TEA procesan textos de nivel superior y regulan su comprensión. Mientras la literatura previa en autismo advertía que solo un tercio alcanza niveles promedio de comprensión lectora (Solari et al., 2019), poco se sabía sobre aquellas que ingresan a la universidad con bajos requerimientos de apoyo pero con diagnósticos tardíos. La pregunta central es: ¿presentan un perfil lector homogéneo o existen discrepancias entre su comprensión literal, su razonamiento inferencial y su capacidad para juzgar con precisión su propio desempeño?",
+      "porQueImporta": "En la Educación Superior, la autonomía académica depende directamente de la capacidad del estudiante para autoevaluar lo que aprende. Si una estudiante universitaria con TEA comprende el texto pero cree sistemáticamente que lo hizo mal, o si no logra regular las pérdidas de coherencia en lecturas metafóricas o críticas, su trayectoria formativa y su bienestar emocional corren peligro de deserción o frustración invisible.",
+      "dataPoints": [
+        "Muestra de 23 mujeres universitarias de primer año en 3 universidades de Concepción (Chile).",
+        "Edad de las participantes: 18 a 24 años, con diagnóstico formal emitido en promedio a los 16 años.",
+        "Carreras cursadas: Humanidades y Ciencias Sociales (Derecho, Periodismo, Pedagogía, Trabajo Social, Sociología).",
+        "Percentil global en Lectum: 73.48 (rendimiento promedio-alto dentro de la norma general).",
+        "Marcada brecha interna: Percentil Textual de 72.57 frente a Percentil Crítico de solo 40.65.",
+        "Subestimación de calibración tras la tarea: diferencia retrospectiva estadísticamente significativa de -16.52 (t(22) = 6.42, p < .001, d = 1.34).",
+        "Asociación lineal exploratoria muy alta entre metacomprensión y comprensión lectora (R² = .825)."
+      ],
+      "glossary": [
+        {
+          "term": "Metacomprensión",
+          "definition": "Conjunto de procesos mediante los cuales un lector evalúa, monitorea y regula la calidad de su propia comprensión mientras lee."
+        },
+        {
+          "term": "Calibración absoluta",
+          "definition": "Diferencia entre el juicio subjetivo de confianza emitido por el lector y su rendimiento objetivo real. Un puntaje negativo indica subestimación; uno positivo, sobreestimación."
+        },
+        {
+          "term": "Juicio prospectivo",
+          "definition": "Predicción que hace el lector sobre su rendimiento futuro antes de enfrentarse a la prueba de lectura."
+        },
+        {
+          "term": "Juicio retrospectivo",
+          "definition": "Estimación del desempeño que emite el lector inmediatamente después de haber concluido la prueba."
+        },
+        {
+          "term": "Dimensión crítica",
+          "definition": "Nivel de comprensión de orden superior que evalúa la emisión de juicios de valor, transferencia a nuevos contextos y captación de ironías o lenguaje no literal."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Evaluación estandarizada y calibración del desempeño",
+      "narrativa": "Para abordar este fenómeno, las investigadoras diseñaron un estudio cuantitativo, no experimental de corte transversal con alcance exploratorio-correlacional. La muestra fue convocada mediante invitación institucional en tres universidades de Concepción, asegurando que las participantes contaran con diagnóstico formal emitido por neurólogo o psiquiatra en los últimos 24 meses y sin comorbilidades del neurodesarrollo que interfirieran en las pruebas.",
+      "detalles": [
+        { "label": "Diseño", "value": "Exploratorio-correlacional, no experimental de corte transversal." },
+        { "label": "Población", "value": "23 estudiantes universitarias de primer año (18-24 años, diagnóstico tardío a los 16 años)." },
+        { "label": "Prueba de Comprensión", "value": "Lectum Forma 7A (Riffo et al., 2011), 32 ítems de selección múltiple sobre 4 textos (Alfa = .872)." },
+        { "label": "Inventario Metacomprensivo", "value": "Inventario MI (Soto et al., 2018): Conocimiento sobre la cognición y 5 dimensiones de control." },
+        { "label": "Métrica de Calibración", "value": "Escala continua de confianza (0-100) antes (prospectiva) y después (retrospectiva) contrastada con el puntaje real." },
+        { "label": "Análisis Estadístico", "value": "Software JASP v0.16.4: correlaciones no paramétricas de Spearman y regresiones lineales simples independientes." }
+      ],
+      "limitaciones": [
+        "Tamaño muestral acotado (n = 23), comprensible por la especificidad poblacional pero que exige cautela ante el riesgo de sobreajuste (overfitting) en los modelos de regresión.",
+        "Ausencia de un grupo de comparación neurotípico de control, lo que impide atribuir exclusivamente los efectos observados al diagnóstico de TEA.",
+        "Uso de autoinformes para las habilidades metacognitivas, sujetos a sesgos de percepción propia.",
+        "Diseño transversal que establece asociaciones estadísticas pero no causalidad."
+      ],
+      "reflexion": "El rigor metodológico del estudio destaca por su prudencia analítica: en lugar de forzar una regresión múltiple con sobreajuste, las autoras evaluaron modelos simples independientes y emplearon pruebas de muestras relacionadas con cálculo de tamaño del efecto (d de Cohen)."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El enigma de la subestimación y la brecha crítica",
+      "narrativa": "El análisis de datos arrojó cuatro hallazgos fundamentales que desafían concepciones previas sobre el perfil cognitivo de las estudiantes con TEA:",
+      "hallazgos": [
+        {
+          "label": "1. Comprensión Global Normal (Percentil 73.48)",
+          "value": "Frente a reportes históricos que señalaban bajo desempeño general en TEA, estas universitarias mostraron un nivel promedio-alto en tareas de decodificación y comprensión general."
+        },
+        {
+          "label": "2. Disociación Textual vs. Crítica",
+          "value": "La dimensión textual obtuvo la media más alta (Percentil 72.57), mientras que la dimensión crítica cayó drásticamente a un percentil de 40.65, con debilidad paralela en preguntas implícitas (69.26 vs. 72.35 explícitas)."
+        },
+        {
+          "label": "3. Fuerte Planificación pero Débil Regulación en Línea",
+          "value": "En el inventario de metacomprensión, la planificación previa fue la subdimensión con mayor puntaje (Media 17.52), mientras que la 'regulación de la comprensión' mientras se lee obtuvo el puntaje más bajo (Media 9.65)."
+        },
+        {
+          "label": "4. Paradoja de Calibración: Subestimación Significativa",
+          "value": "Las estudiantes subestimaron su desempeño antes de la prueba (Media = -3.48), pero la subestimación se agravó intensamente tras terminarla (Media = -16.52, t(22) = 6.42, p < .001, con un efecto muy grande d = 1.34)."
+        }
+      ],
+      "dataPoints": [
+        "Modelo de regresión simple con Metacomprensión Total explica el 82.5% de la varianza en comprensión lectora (R² = .825, R² aj. = .817, RMSE = 12.26).",
+        "Regulación de la Incomprensión comparte un 85% de varianza con el rendimiento lector (R² = .850, p < .0001).",
+        "Planificación y Regulación de la comprensión correlacionan fuertemente entre sí (rho = .553, p < .01).",
+        "La dimensión crítica de Lectum exige habilidades que involucran Teoría de la Mente y sensibilidad a dobles sentidos, donde el procesamiento literal del TEA encuentra mayores barreras."
+      ],
+      "reflexion": "¿Por qué empeora la confianza tras realizar la prueba? Las autoras sugieren que al enfrentarse a preguntas ambiguas o inferenciales, la rigidez cognitiva genera una sensación subjetiva de fracaso, activando recuerdos de baja autoestima académica derivada de años sin diagnóstico."
+    },
+    "marco": {
+      "titulo": "Discusión: Teoría de la Mente, rigor literal y el costo del masking",
+      "narrativa": "Los resultados iluminan la intersección entre procesamiento cognitivo, Teoría de la Mente y autopercepción en el ámbito académico:",
+      "detalles": [
+        {
+          "label": "Teoría de la Mente y Dimensión Crítica",
+          "value": "El bajo puntaje en la dimensión crítica se vincula con las demandas de inferir intenciones del autor, detectar ironías y relativizar perspectivas ajenas (Atkinson et al., 2017; Baron-Cohen et al., 1985)."
+        },
+        {
+          "label": "El Rol Compensatorio de la Metacomprensión",
+          "value": "El alto coeficiente R² (.825) sugiere que conocer estrategias de lectura y aplicarlas conscientemente compensa la tendencia al procesamiento literal y la rigidez cognitiva (Kalandadze et al., 2022)."
+        },
+        {
+          "label": "Alexitimia y Autoestima Académica",
+          "value": "La severa subestimación retrospectiva coincide con la presencia de alexitimia cognitiva (dificultad para descifrar el propio estado interno) y baja percepción de competencia en personas con diagnóstico tardío (Strang et al., 2024; Nguyen et al., 2020)."
+        },
+        {
+          "label": "Implicaciones para la Educación Superior",
+          "value": "La inclusión universitaria no puede limitarse a dar más tiempo en los exámenes; requiere enseñar explícitamente estrategias de autorregulación, monitoreo en línea y desmitificar la ambigüedad en consignas académicas."
+        }
+      ],
+      "reflexion": "El fenotipo femenino del autismo no es una ausencia de dificultades, sino una presencia de estrategias compensatorias invisibles que pagan un alto costo en autoeficacia."
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo se relacionan la comprensión lectora y la metacomprensión en universitarias con TEA, y qué desafíos pedagógicos plantea su perfil?",
+      "conclusion": "Las mujeres universitarias con TEA presentan un rendimiento global en comprensión lectora dentro de rangos normales, caracterizado por una sólida competencia textual pero con marcadas debilidades en la dimensión crítica e inferencial. En el plano metacognitivo, destacan en la planificación previa pero muestran dificultades en la regulación activa durante la lectura y exhiben un patrón sistemático de subestimación de su desempeño (t(22) = 6.42, p < .001, d = 1.34), el cual se agrava tras la tarea. Asimismo, las habilidades metacomprensivas explican una alta proporción de varianza de su rendimiento lector (R² = .825). Estos hallazgos evidencian que la inclusión en Educación Superior debe trascender los ajustes de tiempo e incorporar programas explícitos de andamiaje metacognitivo, fortalecimiento de la autoeficacia académica y sensibilización sobre el fenotipo femenino del autismo.",
+      "formalRef": "Rebolledo-Luna, V., Manosalba-Torres, C., & Chiner, E. (2026). Comprensión lectora y habilidades metacomprensivas en mujeres con Trastorno del Espectro Autista en Educación Superior: un estudio exploratorio correlacional. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.667"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué patrón caracterizó los juicios de calibración de las universitarias con TEA antes y después de realizar la prueba de comprensión?",
+          "options": [
+            "Sobreestimaron notablemente su rendimiento tras finalizar la prueba debido a un exceso de confianza.",
+            "Subestimaron su rendimiento en ambos momentos, pero la subestimación fue significativamente mayor en los juicios retrospectivos (después de la prueba).",
+            "Mostraron una calibración perfecta (error cero) gracias a su alto puntaje en planificación.",
+            "Los juicios prospectivos y retrospectivos no mostraron diferencias estadísticamente significativas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "En la prueba estandarizada Lectum 7A, ¿en qué dimensión obtuvieron el desempeño promedio más bajo?",
+          "options": [
+            "En la dimensión textual (decodificación directa de hechos explícitos).",
+            "En la dimensión pragmática.",
+            "En la dimensión crítica (inferencias de orden superior, juicios de valor y lenguaje no literal).",
+            "En la velocidad lectora por minuto."
+          ],
+          "correct": 2
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué las autoras advierten que el coeficiente de determinación R² = .825 debe interpretarse con cautela?",
+          "options": [
+            "Porque se utilizó una prueba cualitativa sin baremos estandarizados.",
+            "Porque el tamaño reducido de la muestra (n = 23) incrementa el riesgo de sobreajuste (overfitting) e inestabilidad de parámetros.",
+            "Porque el valor p no alcanzó la significación estadística requerida.",
+            "Porque la correlación de Spearman arrojó valores negativos en todas las dimensiones."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "El estudio demuestra que las participantes planifican muy bien antes de leer (Media = 17.52), pero fallan en regular su comprensión mientras leen (Media = 9.65). ¿Qué apoyos o rúbricas explícitas propondrías en un curso universitario para ayudarlas a monitorear pérdidas de coherencia en tiempo real?"
+        },
+        {
+          "type": "open",
+          "q": "Considerando que las participantes recibieron su diagnóstico de forma tardía (a los 16 años en promedio) y suelen camuflar sus dificultades (masking), ¿de qué manera crees que la cultura universitaria puede validar el fenotipo femenino del autismo sin poner en riesgo su autonomía?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a esta investigación. Indagaremos en un territorio casi inexplorado: cómo leen y se autoevalúan las universitarias con autismo.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "La paradoja es impactante: leen con gran precisión literal, pero su juicio crítico y su autoconfianza se ven profundamente afectados.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Fíjate en el diseño metodológico: medir la calibración antes y después nos permite ver cómo cambia su confianza al interactuar con el texto.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Observa los datos! La diferencia retrospectiva (t = 6.42, d = 1.34) demuestra que no es falta de habilidad, sino una severa subestimación.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La Teoría de la Mente explica por qué el lenguaje figurado cuesta más, pero la metacomprensión actúa como un poderoso escudo compensatorio.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La inclusión en la universidad debe ir más allá de conceder 15 minutos extras: necesitamos andamiajes explícitos de autorregulación.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora los nodos del mapa conceptual interactivo para entender cómo se conectan el fenotipo femenino, la calibración y el andamiaje.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Pon a prueba lo que has descubierto y reflexiona sobre cómo transformarías tus propias aulas universitarias.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Comprensión y Metacomprensión en Mujeres con TEA",
+    "descripcion": "Interacciones entre el fenotipo femenino del autismo, la calibración lectora, las dimensiones de Lectum y los andamiajes pedagógicos en Educación Superior.",
+    "nodos": [
+      { "id": "1", "label": "Comprensión Lectora en TEA", "color": "#2a5a75" },
+      { "id": "2", "label": "Fenotipo Femenino y Camuflaje", "color": "#e88b8c" },
+      { "id": "3", "label": "Diagnóstico Tardío (16 años)", "color": "#f4d068" },
+      { "id": "4", "label": "Habilidades Metacomprensivas", "color": "#5b9eaa" },
+      { "id": "5", "label": "Dimensión Textual Sólida", "color": "#88b04b" },
+      { "id": "6", "label": "Debilidad en Dimensión Crítica", "color": "#e76f51" },
+      { "id": "7", "label": "Subestimación Retrospectiva", "color": "#9b82c3" },
+      { "id": "8", "label": "Falla en Regulación Online", "color": "#2a9d8f" },
+      { "id": "9", "label": "Educación Superior Inclusiva", "color": "#264653" },
+      { "id": "10", "label": "Andamiaje Metacognitivo Explícito", "color": "#f4a261" }
+    ],
+    "aristas": [
+      { "from": "2", "to": "3", "label": "ocasiona retraso en" },
+      { "from": "3", "to": "7", "label": "impacta negativamente en" },
+      { "from": "1", "to": "5", "label": "alcanza nivel normal en" },
+      { "from": "1", "to": "6", "label": "presenta brecha en" },
+      { "from": "4", "to": "1", "label": "explica 82% de varianza en" },
+      { "from": "4", "to": "8", "label": "evidencia baja puntuación en" },
+      { "from": "7", "to": "8", "label": "se agudiza debido a" },
+      { "from": "6", "to": "10", "label": "demanda intervención mediante" },
+      { "from": "10", "to": "9", "label": "fortalece la política de" },
+      { "from": "8", "to": "10", "label": "se compensa mediante" }
+    ]
+  }
+}

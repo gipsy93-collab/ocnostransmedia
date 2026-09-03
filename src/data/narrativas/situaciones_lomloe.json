@@ -1,0 +1,315 @@
+{
+  "id": "situaciones_lomloe",
+  "metadata": {
+    "title": "Situaciones de aprendizaje de educación literaria en el grado de Maestro/a en Educación Primaria",
+    "authors": "Patricia Martínez-León y Francesc Rodrigo-Segura",
+    "year": "2026",
+    "journal": "Ocnos 25(1)",
+    "doi": "10.18239/ocnos_2026.25.1.602",
+    "gancho": "¿Es la 'situación de aprendizaje' de la LOMLOE una revolución para la literatura escolar o solo un papeleo burocrático?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#2a5a75",
+    "bg": "from-teal-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-8.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-8.png",
+      "name": "Dra. Patricia Martínez-León",
+      "role": "Investigadora en Didáctica de la Lengua y la Literatura, Universitat de València"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Patricia Martínez-León, formadora de profesorado experta en diseño curricular LOMLOE",
+      "gancho": "¿Cómo convertimos la literatura escolar en un reto del mundo real sin traicionar la emoción poética del texto?",
+      "contexto": "La reforma educativa LOMLOE en España introdujo las 'situaciones de aprendizaje' como piedra angular de la enseñanza por competencias: propuestas didácticas contextualizadas que plantean retos reales y fomentan el trabajo interdisciplinar. Sin embargo, en el ámbito de la Educación Literaria existía el temor de que este enfoque instrumentalizara la lectura, reduciéndola a un mero trámite para 'hacer manualidades' o 'aprender ciencias'. En este estudio longitudinal con 395 futuros maestros a lo largo de tres cursos consecutivos (2022 a 2025) en la Universitat de València, los autores analizaron las situaciones diseñadas para verificar si se adhieren de verdad al nuevo paradigma literario.",
+      "deepDives": [
+        {
+          "id": "lom-apertura-1",
+          "triggerLabel": "¿Qué exige la LOMLOE en educación literaria?",
+          "type": "theory",
+          "content": "El currículo LOMLOE define el perfil competencial con énfasis en la lectura autónoma, la interpretación compartida, el diálogo intercultural y la apropiación creativa, superando la memorización de biografías de autores."
+        },
+        {
+          "id": "lom-apertura-2",
+          "triggerLabel": "Muestra de 395 programaciones",
+          "type": "data",
+          "content": "Diseños completos elaborados por 395 estudiantes en la asignatura de Planificación de la Lengua y Literatura durante los cursos 22/23, 23/24 y 24/25."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Los docentes a menudo caen en dos trampas opuestas: o diseñan actividades hiperacademicistas desconectadas de la vida del niño, o convierten la literatura en una excusa interdisciplinar superficial donde el libro desaparece.",
+      "porQueImporta": "El diseño de situaciones de aprendizaje es la competencia profesional clave exigida hoy en oposiciones y en las aulas. Si los nuevos maestros no aprenden a planificarlas con rigor, la educación literaria perderá su peso específico.",
+      "dataPoints": [
+        "Estudio empírico sobre 395 futuros maestros en 3 cohortes anuales consecutivas.",
+        "El 76% de las propuestas analizadas logró articular un reto motivador vinculado al entorno social y cultural del niño.",
+        "Dificultad recurrente detectada: tendencia a subordinar la lectura literaria a tareas plásticas o morales sin profundizar en el pacto ficcional.",
+        "Evolución positiva: las cohortes más recientes mostraron mayor dominio de la intertextualidad y el trabajo por rincones o talleres."
+      ],
+      "glossary": [
+        {
+          "term": "Situación de aprendizaje",
+          "definition": "Dispositivo pedagógico competencial que plantea un desafío o problema contextualizado cuya resolución requiere la movilización integrada de saberes básicos (LOMLOE)."
+        },
+        {
+          "term": "Educación literaria",
+          "definition": "Paradigma didáctico centrado en formar lectores competentes capaces de disfrutar, interpretar críticamente y crear textos de ficción (Colomer, Mendoza Filisola)."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Análisis documental y rúbrica categorial sobre 395 diseños",
+      "narrativa": "Los autores aplicaron un protocolo de análisis de contenido cualitativo y cuantitativo sobre las programaciones entregadas por los 395 estudiantes. Evaluaron el alineamiento con los objetivos de la LOMLOE, los géneros seleccionados (poesía, teatro, cómic, narrativa) y el tipo de producto final propuesto.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "395 estudiantes del Grado de Maestro en Primaria (UV)."
+        },
+        {
+          "label": "Período",
+          "value": "Tres cursos académicos consecutivos (2022/2023, 2023/2024, 2024/2025)."
+        },
+        {
+          "label": "Instrumento",
+          "value": "Rúbrica de evaluación analítica de situaciones de aprendizaje con 5 dimensiones competenciales."
+        }
+      ],
+      "limitaciones": [
+        "Evaluación de diseños sobre el papel en el contexto universitario, sin seguimiento de su implementación real en centros de Primaria."
+      ],
+      "reflexion": "Una buena situación de aprendizaje no es una ficha de trabajo decorada: es una invitación viva a habitar un mundo posible."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El florecimiento de la creatividad con retos pendientes",
+      "narrativa": "El análisis de las 395 propuestas arrojó conclusiones formativas cruciales:",
+      "hallazgos": [
+        {
+          "label": "1. Riqueza de Retos Contextualizados",
+          "value": "Los futuros maestros idearon festivales poéticos escolares, exposiciones comunitarias de álbumes y podcast de booktubers infantiles con gran acierto."
+        },
+        {
+          "label": "2. Olvido del Género Teatral y Poético",
+          "value": "El 82% de las situaciones se centró exclusivamente en la narrativa, marginando la poesía y la dramatización."
+        },
+        {
+          "label": "3. El Riesgo de la Instrumentalización",
+          "value": "Algunos proyectos usaban el libro solo para 'enseñar a reciclar' o 'hacer manualidades', diluyendo la educación estética."
+        }
+      ],
+      "dataPoints": [
+        "Aumento del 34% en el uso de literatura multimodal y álbumes ilustrados respecto a promociones anteriores.",
+        "Solo un 12% incorporó el teatro de títeres o lectura dramatizada en sus planificaciones."
+      ],
+      "reflexion": "No usemos la literatura como pretexto para enseñar otra cosa: la literatura es ya, en sí misma, una forma suprema de conocimiento."
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia una planificación literaria viva y no burocrática",
+      "narrativa": "Martínez-León y Rodrigo-Segura proponen orientaciones para la formación docente:",
+      "detalles": [
+        {
+          "label": "Respetar la Especificidad Literaria",
+          "value": "La situación de aprendizaje debe poner el texto en el centro: el producto final debe servir para profundizar en la obra, no para distraer de ella."
+        },
+        {
+          "label": "Diversificar los Géneros",
+          "value": "Reivindicar la poesía, el romancero oral y el teatro como espacios privilegiados para el juego lingüístico en Primaria."
+        }
+      ],
+      "reflexion": "Planificar bien no es rellenar casillas normativas: es trazar el mapa de una aventura inolvidable para tus alumnos."
+    },
+    "nucleo": {
+      "pregunta": "¿En qué medida las situaciones de aprendizaje diseñadas por futuros maestros responden al paradigma competencial de la educación literaria de la LOMLOE?",
+      "conclusion": "La investigación longitudinal sobre 395 propuestas de futuros docentes de Primaria (2022-2025) concluye que el alumnado universitario domina la creación de situaciones de aprendizaje motivadoras y contextualizadas, destacando el uso de álbumes ilustrados y proyectos interdisciplinares. No obstante, se detectan retos persistentes: la tendencia a instrumentalizar la lectura al servicio de otros contenidos no literarios y la casi total hegemonía de la narrativa frente a la poesía y el teatro. Se urge a reforzar en las facultades de educación el valor intrínseco de la experiencia estética y la diversidad de géneros.",
+      "formalRef": "Martínez-León, P., & Rodrigo-Segura, F. (2026). Situaciones de aprendizaje de educación literaria en el grado de Maestro/a en Educación Primaria. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.602"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué riesgo didáctico identificaron los autores en algunas de las situaciones de aprendizaje analizadas?",
+          "options": [
+            "Que los alumnos leyeran demasiados libros a la vez.",
+            "La instrumentalización de la literatura, tratándola como una simple excusa para enseñar contenidos transversales (como reciclaje) diluyendo la experiencia estética.",
+            "Que las programaciones costaban demasiado dinero.",
+            "Que los exámenes eran demasiado difíciles."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué géneros literarios quedaron notablemente marginados en las 395 programaciones de los estudiantes universitarios?",
+          "options": [
+            "La novela fantástica.",
+            "La poesía lírica y el teatro o dramatización.",
+            "El cómic de superhéroes.",
+            "Los cuentos clásicos de hadas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué elemento central caracteriza a una 'situación de aprendizaje' según el marco de la LOMLOE?",
+          "options": [
+            "La realización obligatoria de un examen memorístico al final.",
+            "Un desafío, reto o problema contextualizado en el mundo real que moviliza saberes básicos de forma competencial y motivadora.",
+            "El uso exclusivo de ordenadores sin libros en papel.",
+            "La copia al dictado de biografías de escritores ilustres."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña un esbozo de 'Situación de Aprendizaje' para 4.º de Primaria centrada en la poesía infantil donde el producto final sea un 'Recital Poético Radiofónico' para la emisora del colegio."
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo argumentarías ante un equipo directivo escolar que dedicar dos semanas a una situación de aprendizaje sobre álbumes ilustrados no es 'perder el tiempo', sino cumplir rigurosamente el currículo competencial?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al diseño curricular del siglo XXI. Vamos a ver cómo 395 futuros maestros aterrizan la LOMLOE en las aulas.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿La situación de aprendizaje es una oportunidad dorada o un dolor de cabeza burocrático? Depende de cómo coloques la literatura.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Analizamos tres cursos completos de planificaciones reales en la Universitat de València con rúbricas analíticas.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Hay muchísima creatividad en los retos! Pero ojo: no podemos olvidar la poesía ni usar los cuentos solo para enseñar a reciclar.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La literatura tiene valor por sí misma: emancipa el alma y afina el lenguaje. No la convirtamos en un simple adorno de otras materias.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Una gran situación de aprendizaje deja en el corazón del niño una huella que ningún libro de texto jamás podrá borrar.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para conectar las situaciones de aprendizaje, la LOMLOE, los géneros literarios y el paradigma competencial.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Ponte a prueba y diseña tu propio reto literario contextualizado para tus estudiantes.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Situaciones de Aprendizaje y Educación Literaria LOMLOE",
+    "descripcion": "Diseño competencial, retos contextualizados, riesgos de instrumentalización, diversificación de géneros y formación docente en Primaria.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Situaciones de Aprendizaje",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "2",
+        "label": "Marco Curricular LOMLOE",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Educación Literaria Competencial",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "4",
+        "label": "Retos Contextualizados Reales",
+        "color": "#88b04b"
+      },
+      {
+        "id": "5",
+        "label": "Riesgo de Instrumentalización",
+        "color": "#e76f51"
+      },
+      {
+        "id": "6",
+        "label": "Hegemonía de la Narrativa",
+        "color": "#f4d068"
+      },
+      {
+        "id": "7",
+        "label": "Marginación de Poesía y Teatro",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "8",
+        "label": "Álbum Ilustrado y Multimodalidad",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "9",
+        "label": "Estudio 395 Diseños (UV)",
+        "color": "#264653"
+      },
+      {
+        "id": "10",
+        "label": "Experiencia Estética Pura",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "regula y exige el diseño de"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "debe articularse con la"
+      },
+      {
+        "from": "9",
+        "to": "1",
+        "label": "analiza longitudinalmente"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "propone con éxito"
+      },
+      {
+        "from": "9",
+        "to": "5",
+        "label": "alerta contra el"
+      },
+      {
+        "from": "5",
+        "to": "10",
+        "label": "amenaza y diluye la"
+      },
+      {
+        "from": "9",
+        "to": "6",
+        "label": "constata la excesiva"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "conlleva la injusta"
+      },
+      {
+        "from": "4",
+        "to": "8",
+        "label": "aprovecha la potencia del"
+      },
+      {
+        "from": "10",
+        "to": "3",
+        "label": "preserva el corazón de la"
+      }
+    ]
+  }
+}

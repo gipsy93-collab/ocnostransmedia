@@ -9,32 +9,53 @@ interface MapaBlockProps {
 }
 
 export default function MapaBlock({ narrative, navigateTo, navigateBackward }: MapaBlockProps) {
-  const mapa = narrative?.blocks?.mapa;
+  const mapa = narrative?.mapa || narrative?.blocks?.mapa;
 
   if (!mapa) return null;
 
   return (
-    <motion.div key="mapa" role="region" aria-label="Mapa mental"
-      initial={{ opacity: 0, x: 50 }}
+    <motion.div key="mapa" role="region" aria-label="Mapa mental interactivo"
+      initial={{ opacity: 0, x: 30 }}
       animate={{ opacity: 1, x: 0 }}
-      exit={{ opacity: 0, x: -50 }}
-      transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
-      className="max-w-7xl mx-auto px-6 py-12 md:py-20 flex flex-col justify-center min-h-full"
+      exit={{ opacity: 0, x: -30 }}
+      transition={{ duration: 0.4, ease: "easeOut" }}
+      className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 sm:py-10 md:py-14 flex flex-col justify-start min-h-full"
     >
-      <div className="card-3d p-8 md:p-16 border-t-8 border-[#66FCF1]">
-        <div className="flex items-center gap-3 mb-6">
-          <MapIcon className="text-[#66FCF1]" size={32} />
-          <h2 className="text-2xl md:text-3xl font-display font-bold text-ocean-dark">Mapa Mental</h2>
+      <div className="card-3d p-4 sm:p-8 md:p-10 border-t-4 border-[#c5a059]">
+        <div className="flex items-center gap-3.5 mb-6">
+          <div className="w-11 h-11 rounded-2xl bg-[#c5a059]/15 border border-[#c5a059]/30 text-ocean-dark flex items-center justify-center shadow-xs">
+            <MapIcon className="text-[#a4823e]" size={22} aria-hidden="true" />
+          </div>
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif font-bold text-ocean-dark tracking-tight">Mapa Conceptual Interactivo</h2>
+            <p className="text-xs sm:text-sm text-ocean-dark/75 font-serif italic">Red epistémica y conexiones teórico-metodológicas del artículo</p>
+          </div>
         </div>
 
-        <MindMapViewer titulo={mapa.titulo} descripcion={mapa.descripcion} nodos={mapa.nodos} aristas={mapa.aristas} />
+        <MindMapViewer 
+          titulo={mapa.titulo} 
+          descripcion={mapa.descripcion} 
+          nodos={mapa.nodos} 
+          aristas={mapa.aristas}
+          contextData={{
+            glossary: narrative?.blocks?.conflicto?.glossary,
+            authors: narrative?.metadata?.authors
+          }}
+        />
 
-        <div className="flex justify-between items-center pt-6 border-t-2 border-ocean-dark/10 mt-6">
-          <button onClick={navigateBackward} className="btn-3d px-4 py-2 bg-ocean-dark/10 text-ocean-dark hover:bg-ocean-dark/20 transition-colors flex items-center gap-2 text-sm">
-            <ChevronLeft size={16} /> ANTERIOR
+        <div className="flex flex-col sm:flex-row justify-between items-center gap-3 pt-6 border-t-2 border-ocean-dark/10 mt-6">
+          <button 
+            onClick={navigateBackward} 
+            className="btn-3d min-h-[44px] px-5 py-2.5 bg-ocean-dark/10 text-ocean-dark hover:bg-ocean-dark/20 transition-colors flex items-center justify-center gap-2 text-sm font-bold w-full sm:w-auto focus-visible:ring-4 focus-visible:ring-ocean-base focus-visible:outline-none cursor-pointer"
+          >
+            <ChevronLeft size={16} aria-hidden="true" /> ANTERIOR
           </button>
-          <button onClick={() => navigateTo('reflexion')} className="btn-3d px-8 py-3 bg-ocean-dark text-white hover:bg-seaweed transition-colors flex items-center gap-2">
-            CONTINUAR A REFLEXIÓN <ArrowRight size={18} />
+          <button 
+            onClick={() => navigateTo('reflexion')} 
+            className="btn-3d min-h-[44px] px-8 py-3 bg-ocean-dark text-white hover:bg-coral transition-colors flex items-center justify-center gap-2 font-bold w-full sm:w-auto focus-visible:ring-4 focus-visible:ring-ocean-base focus-visible:outline-none cursor-pointer"
+          >
+            <span>CONTINUAR A REFLEXIÓN</span>
+            <ArrowRight size={18} aria-hidden="true" />
           </button>
         </div>
       </div>

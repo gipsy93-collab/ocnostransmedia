@@ -1,0 +1,298 @@
+{
+  "id": "escala_macronarrativa_universitaria",
+  "metadata": {
+    "title": "Diseño y validación de una escala de autopercepción de la competencia macronarrativa en estudiantes universitarios",
+    "authors": "Rosa Núñez-Pacheco, Aymé Barreda-Parra y Rocío Celis-Pinto",
+    "year": "2024",
+    "journal": "Ocnos 23(2)",
+    "doi": "10.18239/ocnos_2024.23.2.418",
+    "gancho": "¿Saben los universitarios estructurar una historia completa o solo encadenan anécdotas sin principio ni fin?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#88b04b",
+    "bg": "from-ocean-base/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-01.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-01.png",
+      "name": "Dra. Rosa Núñez-Pacheco",
+      "role": "Investigadora en Lingüística y Didáctica Narrativa, Universidad Nacional de San Agustín (Perú)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Rosa Núñez-Pacheco, especialista en análisis del discurso y arquitectura macronarrativa",
+      "gancho": "¿Es la habilidad de contar relatos coherentes un don innato o una competencia académica medible?",
+      "contexto": "La competencia macronarrativa es la capacidad de organizar un relato complejo: planteamiento, nudo, clímax, resolución y coherencia causal. En este estudio psicométrico con 542 universitarios en Arequipa (Perú), las autoras diseñaron y validaron la primera escala de autopercepción macronarrativa en Educación Superior.",
+      "deepDives": [
+        {
+          "id": "mac-apertura-1",
+          "triggerLabel": "Macronarrativa vs. micronarrativa",
+          "type": "theory",
+          "content": "La micronarrativa opera a nivel oracional; la macronarrativa gobierna la arquitectura global de la trama y el arco dramático."
+        },
+        {
+          "id": "mac-apertura-2",
+          "triggerLabel": "Muestra de 542 estudiantes",
+          "type": "data",
+          "content": "542 alumnos de pregrado evaluados mediante análisis factorial exploratorio y confirmatorio."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La universidad carecía de instrumentos válidos para diagnosticar la habilidad de construir tramas con sentido estructurado en la formación superior.",
+      "porQueImporta": "Un profesional que no sabe narrar sus proyectos o investigaciones fracasa en la comunicación y transferencia a la sociedad.",
+      "dataPoints": [
+        "Muestra de 542 estudiantes universitarios de diversas carreras.",
+        "Estructura trifactorial confirmada: Estructura del relato, Caracterización de personajes y Gestión del conflicto dramático.",
+        "Alta fiabilidad interna (alfa de Cronbach = .91).",
+        "Los estudiantes de Educación y Comunicación mostraron mayor autopercepción que los de Ingenierías."
+      ],
+      "glossary": [
+        {
+          "term": "Competencia macronarrativa",
+          "definition": "Capacidad cognitiva y discursiva de planificar, secuenciar y resolver una trama compleja con coherencia global."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Desarrollo psicométrico y análisis factorial",
+      "narrativa": "Las autoras diseñaron 24 reactivos originales, realizaron juicio de expertos y aplicaron AFE y AFC con ecuaciones estructurales.",
+      "detalles": [
+        {
+          "label": "Población",
+          "value": "542 universitarios peruanos."
+        },
+        {
+          "label": "Instrumento",
+          "value": "Escala de Autopercepción Macronarrativa (EAM-U)."
+        }
+      ],
+      "limitaciones": [
+        "Instrumento basado en autopercepción que requiere contrastarse con producciones escritas reales."
+      ],
+      "reflexion": "Quien sabe contar una buena historia tiene el poder de transformar la mente de quien escucha."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El nudo gordiano del clímax narrativo",
+      "narrativa": "Los resultados mostraron dónde tropiezan más los universitarios:",
+      "hallazgos": [
+        {
+          "label": "1. Dificultad en el Conflicto",
+          "value": "La dimensión más baja fue la resolución lógica del conflicto dramático (terminar historias de forma verosímil)."
+        },
+        {
+          "label": "2. Fortaleza en la Descripción",
+          "value": "Los estudiantes se perciben muy capaces de describir personajes y escenarios, pero se atascan al hilar la acción."
+        }
+      ],
+      "dataPoints": [
+        "Bondad de ajuste óptima (CFI = .96, RMSEA = .041)."
+      ],
+      "reflexion": "Describir es fácil; tejer una trama que atrape y transforme exige maestría cognitiva."
+    },
+    "marco": {
+      "titulo": "Discusión: Talleres de Storytelling en todos los grados",
+      "narrativa": "Núñez-Pacheco y su equipo proponen talleres de narrativa aplicada para médicos, ingenieros y científicos:",
+      "detalles": [
+        {
+          "label": "Narrativa Transversal",
+          "value": "Enseñar a comunicar informes técnicos con la estructura del viaje del héroe."
+        }
+      ],
+      "reflexion": "La ciencia sin relato se queda encerrada en el laboratorio; con relato, conmueve e ilumina a la sociedad."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué validez y confiabilidad presenta la escala de competencia macronarrativa en estudiantes universitarios?",
+      "conclusion": "La Escala EAM-U demostró excelentes propiedades psicométricas (alfa = .91, CFI = .96) en 542 universitarios, validando una estructura de tres factores: estructura global, personajes y conflicto. Se consolida como una herramienta diagnóstica pionera para promover la alfabetización narrativa interdisciplinar en la Educación Superior.",
+      "formalRef": "Núñez-Pacheco, R., Barreda-Parra, A., & Celis-Pinto, R. (2024). Diseño y validación de una escala de autopercepción de la competencia macronarrativa en estudiantes universitarios. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.418"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué dimensión de la competencia macronarrativa resultó ser la más difícil de resolver para los universitarios evaluados?",
+          "options": [
+            "Poner un título en la portada.",
+            "La gestión y resolución verosímil del conflicto dramático en la trama.",
+            "Elegir el nombre de los personajes.",
+            "Escribir oraciones cortas."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué tres factores componen la escala psicométrica validada en el estudio?",
+          "options": [
+            "Precio, peso y tamaño de los libros.",
+            "Estructura del relato, caracterización de personajes y gestión del conflicto.",
+            "Música, color y tipografía.",
+            "Ortografía, caligrafía y velocidad."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué es crucial la competencia macronarrativa para estudiantes de carreras no literarias como Medicina o Ingeniería?",
+          "options": [
+            "Para escribir novelas en sus ratos libres.",
+            "Porque la comunicación técnica exige estructurar informes, historiales clínicos y proyectos con lógica causal y claridad persuasiva.",
+            "Para hablar en verso durante las operaciones.",
+            "No tiene ninguna utilidad práctica."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña un ejercicio de storytelling de 10 minutos para estudiantes de Ciencias o Ingeniería donde deban explicar un concepto técnico complejo utilizando los 3 momentos clásicos de la macronarrativa."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que a muchos alumnos les resulta fácil describir escenarios pero se bloquean a la hora de resolver el clímax de una historia?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al arte de contar historias. Vamos a ver si los universitarios dominan la gran arquitectura del relato.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Encadenar frases no es narrar: una historia exige conflicto, tensión y clímax. ¿Sabemos enseñarlo en la universidad?",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "542 estudiantes universitarios en Perú responden a la primera escala psicométrica de autopercepción macronarrativa.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El conflicto es el cuello de botella! Todos saben describir personajes, pero muy pocos saben cerrar una trama con maestría.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "El storytelling debe enseñarse en todas las facultades: médicos, científicos e ingenieros necesitan narrar para conectar.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La mente humana piensa en historias: quien domina el relato domina el puente hacia los demás.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo interactúan la macronarrativa, la estructura dramática, el conflicto y la escala EAM-U.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Ponte a prueba y diseña actividades para entrenar la construcción de tramas complejas en el aula.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Escala de Competencia Macronarrativa en Estudiantes Universitarios",
+    "descripcion": "Validación psicométrica (EAM-U, 542 universitarios): estructura del relato, caracterización de personajes, conflicto dramático y storytelling interdisciplinar.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Competencia Macronarrativa (EAM-U)",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "2",
+        "label": "Estructura Global del Relato",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "3",
+        "label": "Caracterización de Personajes",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "Gestión del Conflicto Dramático",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "5",
+        "label": "Muestra 542 Universitarios",
+        "color": "#264653"
+      },
+      {
+        "id": "6",
+        "label": "Fiabilidad Alfa (.91)",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "7",
+        "label": "Dificultad en el Clímax Lógico",
+        "color": "#e76f51"
+      },
+      {
+        "id": "8",
+        "label": "Storytelling Interdisciplinar",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "9",
+        "label": "Diferencias por Área Curricular",
+        "color": "#f4d068"
+      },
+      {
+        "id": "10",
+        "label": "Transferencia y Comunicación Social",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "5",
+        "label": "se valida con la muestra de"
+      },
+      {
+        "from": "1",
+        "to": "2",
+        "label": "evalúa como pilar la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "mide la destreza en la"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "analiza el dominio del"
+      },
+      {
+        "from": "4",
+        "to": "7",
+        "label": "registra la mayor"
+      },
+      {
+        "from": "1",
+        "to": "6",
+        "label": "demuestra una alta"
+      },
+      {
+        "from": "5",
+        "to": "9",
+        "label": "muestra significativas"
+      },
+      {
+        "from": "8",
+        "to": "1",
+        "label": "promueve en el campus la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "garantiza el impacto y la"
+      },
+      {
+        "from": "10",
+        "to": "2",
+        "label": "requiere una sólida"
+      }
+    ]
+  }
+}

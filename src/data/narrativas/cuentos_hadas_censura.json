@@ -1,0 +1,302 @@
+{
+  "id": "cuentos_hadas_censura",
+  "metadata": {
+    "title": "Las enseñanzas de los cuentos de hadas durante las censuras de Franco y Salazar",
+    "authors": "Ramón Tena-Fernández y Sara Reis Da Silva",
+    "year": "2025",
+    "journal": "Ocnos 24(1)",
+    "doi": "10.18239/ocnos_2025.24.1.478",
+    "gancho": "¿Por qué los censores de Franco y Salazar temían que Caperucita Roja o Cenicienta corrompieran a la juventud patriótica?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#2a5a75",
+    "bg": "from-purple-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-24.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-24.png",
+      "name": "Dr. Ramón Tena-Fernández",
+      "role": "Investigador en Literatura Infantil y Censura Histórica, Universidad de Extremadura"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Ramón Tena-Fernández, historiador de la literatura infantil y los aparatos de censura política",
+      "gancho": "¿Cómo convirtieron dos dictaduras ultracatólicas los cuentos populares en instrumentos de adoctrinamiento de género?",
+      "contexto": "Bajo las dictaduras de Franco en España y de Salazar en Portugal, la literatura infantil y juvenil fue sometida a una vigilancia implacable. Los expedientes de censura gubernamentales revelan el pánico moral de los regímenes: expurgar cualquier alusión a la magia no cristiana, reescribir a las protagonistas femeninas como modelos de sumisión hogareña y eliminar el erotismo latente de los cuentos clásicos de Perrault, Grimm y Andersen.",
+      "deepDives": [
+        {
+          "id": "cen-apertura-1",
+          "triggerLabel": "La censura ibérica comparada",
+          "type": "theory",
+          "content": "Análisis paralelo de los expedientes del Servicio de Inspección de Libros (España) y de la Comisión de Censura del Estado Novo (Portugal)."
+        },
+        {
+          "id": "cen-apertura-2",
+          "triggerLabel": "Expurgos documentados",
+          "type": "data",
+          "content": "Tachaduras textuales, prohibiciones fulminantes de importación y exigencia de aprobación eclesiástica para reeditar cuentos de hadas."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Los regímenes totalitarios entendieron que el cuento de hadas modela el inconsciente infantil, por lo que impusieron una férrea reescritura ideológica.",
+      "porQueImporta": "Rastrear la censura del pasado enseña a proteger la libertad creativa de la infancia frente a las nuevas formas de censura moral y política contemporáneas.",
+      "dataPoints": [
+        "Estudio comparado de expedientes de censura entre 1939 y 1975 en España y Portugal.",
+        "Obsesión censora por erradicar 'ideas perniciosas': brujas que vencen a curas, mujeres rebeldes y falta de devoción católica.",
+        "Cenicienta y Blancanieves reescritas como amas de casa ejemplares y sacrificadas al servicio del hogar patriarcal.",
+        "Tolerancia estratégica hacia versiones disneyanas dulcificadas que no cuestionaban el orden social."
+      ],
+      "glossary": [
+        {
+          "term": "Expurgo censor",
+          "definition": "Eliminación forzosa de palabras, párrafos o ilustraciones consideradas inmorales o subversivas por un aparato estatal."
+        },
+        {
+          "term": "Adoctrinamiento patriarcal",
+          "definition": "Transmisión de valores que confinan a la mujer al espacio doméstico y a la obediencia masculina como deber natural y religioso."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Arqueología en los archivos de la censura",
+      "narrativa": "Los autores bucearon en el Archivo General de la Administración (AGA) en Alcalá de Henares y en la Torre do Tombo en Lisboa, contrastando los informes de los censores con las ediciones publicadas.",
+      "detalles": [
+        {
+          "label": "Archivos",
+          "value": "AGA (España) y Arquivo Nacional da Torre do Tombo (Portugal)."
+        },
+        {
+          "label": "Periodo",
+          "value": "1939-1975 (Dictaduras de Franco y Salazar)."
+        }
+      ],
+      "limitaciones": [
+        "Pérdida o destrucción parcial de algunos expedientes administrativos de los años 40."
+      ],
+      "reflexion": "La tinta roja del censor siempre delata el miedo que los poderosos tienen a la imaginación popular."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El cuento domesticado para la patria",
+      "narrativa": "Los informes desclasificados mostraron argumentos delirantes y calculados:",
+      "hallazgos": [
+        {
+          "label": "1. Pánico al 'Paganismo'",
+          "value": "Hadas, duendes y maleficios debían subordinarse a los milagros cristianos para no confundir a los niños."
+        },
+        {
+          "label": "2. Castigo a la Curiosidad Femenina",
+          "value": "El cuento de 'Barba Azul' fue sistemáticamente modificado o prohibido para que la desobediencia femenina no pareciera un acto de supervivencia heroica."
+        }
+      ],
+      "dataPoints": [
+        "Más de 120 expedientes de cuentos populares analizados con tachaduras textuales explícitas."
+      ],
+      "reflexion": "Cuando una dictadura tiene miedo de un cuento de hadas, demuestra su propia debilidad moral."
+    },
+    "marco": {
+      "titulo": "Discusión: La resistencia de la literatura infantil",
+      "narrativa": "Tena-Fernández y Reis Da Silva destacan cómo autores e ilustradores supieron burlar la censura mediante el humor y la metáfora:",
+      "detalles": [
+        {
+          "label": "La Lección Histórica",
+          "value": "Ningún aparato censor logra apagar del todo la rebeldía del relato oral ancestral."
+        }
+      ],
+      "reflexion": "Defender los cuentos populares en su versión genuina es defender el derecho a pensar sin mordazas."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué estrategias de censura y adoctrinamiento aplicaron las dictaduras de Franco y Salazar sobre los cuentos de hadas infantiles?",
+      "conclusion": "El estudio histórico en los archivos de España y Portugal revela que tanto el franquismo como el salazarismo utilizaron los cuentos de hadas como herramientas de ingeniería social para inculcar la moral nacional-católica y la sumisión femenina. Mediante expurgos sistemáticos de elementos mágicos paganos y conductas rebeldes, ambos regímenes trataron de domesticar una narrativa folclórica cuya fuerza simbólica original, no obstante, logró pervivir en los márgenes editoriales.",
+      "formalRef": "Tena-Fernández, R., & Reis Da Silva, S. (2025). Las enseñanzas de los cuentos de hadas durante las censuras de Franco y Salazar. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.478"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál era la principal obsesión moral de los censores de Franco y Salazar al revisar los cuentos de hadas infantiles?",
+          "options": [
+            "Que los libros tuvieran faltas de ortografía.",
+            "Erradicar cualquier elemento pagano, erótico o de rebeldía femenina para imponer la moral nacional-católica y el rol doméstico patriarcal.",
+            "Que las brujas no llevaran escobas modernas.",
+            "Que los príncipes hablaran en francés."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿En qué archivos históricos oficiales investigaron los autores los expedientes de censura de España y Portugal?",
+          "options": [
+            "En la biblioteca de un colegio privado.",
+            "En el Archivo General de la Administración (AGA) en España y en la Torre do Tombo en Lisboa.",
+            "En internet únicamente.",
+            "En los buzones de correos."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Por qué el cuento clásico de 'Barba Azul' resultaba especialmente problemático para los censores de la época?",
+          "options": [
+            "Porque el castillo era demasiado grande.",
+            "Porque la desobediencia de la esposa al abrir la habitación prohibida terminaba desenmascarando los crímenes del marido patriarca.",
+            "Porque la barba del protagonista no estaba afeitada.",
+            "Porque no aparecían animales que hablaran."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Compara la censura franquista de los cuentos de hadas con los debates actuales sobre la 'corrección política' o la reescritura de clásicos infantiles de Roald Dahl o Enid Blyton. ¿Qué diferencias y similitudes encuentras?"
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo trabajarías en una clase de Secundaria la evolución histórica de 'Caperucita Roja' mostrando cómo cada época proyecta en el lobo sus propios temores sociales?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Entramos en los archivos oscuros de dos dictaduras ibéricas. Descubre qué asustaba tanto a los censores de Franco y Salazar.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Hadas cristianas y Caperucitas sumisas? La maquinaria totalitaria quiso doblegar la fantasía popular.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Examinamos expedientes desclasificados en Alcalá de Henares y Lisboa llenos de tachaduras con lápiz rojo.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Pánico a la rebeldía femenina! 'Barba Azul' y las brujas sabias eran las víctimas preferidas de los censores.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La memoria histórica de la literatura infantil es un escudo indispensable contra cualquier censura presente.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Los cuentos de hadas son indestructibles porque nacieron de la voz y el anhelo de libertad de los pueblos.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver la relación entre la censura ibérica, Franco, Salazar, la reescritura patriarcal y el folclore.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Ponte a prueba y reflexiona sobre el valor de la libertad creadora en la literatura infantil.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Cuentos de Hadas y Censura en las Dictaduras Ibéricas",
+    "descripcion": "Estudio archivístico comparado (AGA y Torre do Tombo, 1939-1975): Franco, Salazar, moral nacional-católica, sumisión de género y resistencia simbólica.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Censura Ibérica Infantil",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "2",
+        "label": "Franquismo y Salazarismo",
+        "color": "#264653"
+      },
+      {
+        "id": "3",
+        "label": "Archivos AGA y Torre do Tombo",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "4",
+        "label": "Adoctrinamiento Patriarcal",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "5",
+        "label": "Expurgo de Elementos Mágicos",
+        "color": "#e76f51"
+      },
+      {
+        "id": "6",
+        "label": "Reescritura de Roles Femeninos",
+        "color": "#f4d068"
+      },
+      {
+        "id": "7",
+        "label": "Censura de 'Barba Azul'",
+        "color": "#88b04b"
+      },
+      {
+        "id": "8",
+        "label": "Moral Nacional-Católica",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "9",
+        "label": "Resistencia Folclórica Popular",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "10",
+        "label": "Libertad Creadora Infantil",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "2",
+        "to": "1",
+        "label": "instaura el aparato férreo de"
+      },
+      {
+        "from": "3",
+        "to": "1",
+        "label": "conserva los expedientes de la"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "se orienta prioritariamente al"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "aplica el sistemático"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "obliga a la sumisa"
+      },
+      {
+        "from": "1",
+        "to": "7",
+        "label": "ordena la mutilación y"
+      },
+      {
+        "from": "8",
+        "to": "1",
+        "label": "fundamenta ideológicamente la"
+      },
+      {
+        "from": "9",
+        "to": "1",
+        "label": "resiste y burla en los márgenes a la"
+      },
+      {
+        "from": "10",
+        "to": "9",
+        "label": "reivindica la vigencia de la"
+      },
+      {
+        "from": "10",
+        "to": "4",
+        "label": "combate y desmantela el"
+      }
+    ]
+  }
+}

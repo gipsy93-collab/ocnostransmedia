@@ -1,0 +1,302 @@
+{
+  "id": "profesores_expertos_clasicos_eso",
+  "metadata": {
+    "title": "Creencias, representaciones y saberes de profesores expertos sobre la lectura de los clásicos en ESO",
+    "authors": "Lucía Hernández-Heras y Rosa Tabernero-Sala",
+    "year": "2024",
+    "journal": "Ocnos 23(2)",
+    "doi": "10.18239/ocnos_2024.23.2.445",
+    "gancho": "¿Cómo consiguen los mejores profesores de instituto que adolescentes de 14 años se enamoren del Quijote o de la Celestina?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#264653",
+    "colorAlt": "#e76f51",
+    "bg": "from-slate-700/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-06.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-06.png",
+      "name": "Dra. Lucía Hernández-Heras",
+      "role": "Investigadora en Didáctica de la Literatura y Educación Literaria, Universidad de Zaragoza"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Lucía Hernández-Heras, investigadora en mediación docente de clásicos literarios en Secundaria",
+      "gancho": "¿Es la lectura obligatoria de los clásicos una tortura garantizada o el mayor regalo intelectual que puede hacer un profesor?",
+      "contexto": "El tratamiento de los clásicos literarios en la Educación Secundaria Obligatoria (ESO) suscita una batalla pedagógica permanente: ¿debemos mantener las lecturas canónicas o sustituirlas por novelas juveniles comerciales? En este riguroso estudio de casos múltiples, las investigadoras de la Universidad de Zaragoza exploraron las creencias, saberes prácticos y estrategias didácticas de docentes de Secundaria reconocidos como 'profesores expertos' por sus trayectorias de éxito lector.",
+      "deepDives": [
+        {
+          "id": "cla-apertura-1",
+          "triggerLabel": "El concepto de 'profesor experto' (Shulman)",
+          "type": "theory",
+          "content": "Conocimiento Didáctico del Contenido (PCK): no basta con saber literatura, hay que saber cómo transformar un texto del siglo XVII en una experiencia viva para un adolescente del siglo XXI."
+        },
+        {
+          "id": "cla-apertura-2",
+          "triggerLabel": "Estudio de casos en Aragón",
+          "type": "data",
+          "content": "Entrevistas en profundidad, observación de clases y análisis de programaciones de docentes con reconocimientos pedagógicos oficiales."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La enseñanza tradicional de los clásicos como historia memorística de fechas, métricas y biografías genera rechazo visceral y vacía las bibliotecas escolares.",
+      "porQueImporta": "Si la escuela pública renuncia a los clásicos, priva a los jóvenes de las obras que contienen los grandes dilemas éticos y existenciales de la humanidad.",
+      "dataPoints": [
+        "Estudio de casos múltiples con profesorado de acreditada excelencia didáctica.",
+        "Rechazo unánime a la lectura literal descontextualizada y al examen tradicional de control.",
+        "Defensa del clásico como 'texto vivo' que interpela a los problemas actuales de los jóvenes (amor, celos, ambición, injusticia).",
+        "Uso estratégico de adaptaciones rigurosas en 1.º y 2.º de ESO como pasarela hacia los textos originales en cursos superiores."
+      ],
+      "glossary": [
+        {
+          "term": "Transposición didáctica del clásico",
+          "definition": "Proceso de mediación pedagógica que hace accesible la complejidad formal y lingüística de una obra canónica sin desvirtuar su potencia estética."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica: Estudio de casos cualitativo y triangulación hermenéutica",
+      "narrativa": "Las autoras realizaron entrevistas semiestructuradas, grabaron debates de aula y analizaron las guías de lectura diseñadas por los docentes expertos.",
+      "detalles": [
+        {
+          "label": "Participantes",
+          "value": "Docentes de Secundaria seleccionados por criterios de prestigio pedagógico."
+        },
+        {
+          "label": "Obras Trabajadas",
+          "value": "El Quijote, La Celestina, El Lazarillo, tragedias de Lorca y poesía del Siglo de Oro."
+        }
+      ],
+      "limitaciones": [
+        "Muestra reducida e intencional propia de la metodología de estudio de casos en profundidad."
+      ],
+      "reflexion": "El secreto del buen maestro no está en imponer el libro, sino en tender un puente entre dos mundos distantes."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: Los tres pilares del docente experto",
+      "narrativa": "El análisis desveló la fórmula pedagógica que hace vibrar a los clásicos:",
+      "hallazgos": [
+        {
+          "label": "1. El Diálogo Antes del Examen",
+          "value": "Los expertos sustituyen las fichas de comprobación por tertulias dialógicas donde los alumnos discuten las decisiones morales de los personajes."
+        },
+        {
+          "label": "2. La Hibridación Transmedia",
+          "value": "Conectar el monólogo de Segismundo con la película Matrix o La Celestina con las relaciones tóxicas contemporáneas genera un enganche instantáneo."
+        },
+        {
+          "label": "3. Lectura en Voz Alta Compartida",
+          "value": "El profesor no manda leer el clásico a casa a solas: lee en voz alta en clase, modulando la voz y desgranando el significado al vuelo."
+        }
+      ],
+      "dataPoints": [
+        "El 100% de los docentes expertos señaló la lectura oral dramatizada en el aula como su herramienta más eficaz."
+      ],
+      "reflexion": "Un clásico no es un libro viejo: es un libro que nunca envejecerá si alguien sabe prestarle su propia voz."
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia una ecología de la educación literaria en Secundaria",
+      "narrativa": "Hernández-Heras y Tabernero-Sala sintetizan las claves para la formación docente inicial:",
+      "detalles": [
+        {
+          "label": "Enseñar a Mediar, no a Recitar",
+          "value": "El máster de profesorado debe enseñar a dinamizar debates literarios y no solo historia de la lengua."
+        }
+      ],
+      "reflexion": "Quien lee un clásico en la adolescencia acompañado por un maestro sabio gana un amigo para toda la vida."
+    },
+    "nucleo": {
+      "pregunta": "¿Qué saberes didácticos y representaciones caracterizan a los profesores expertos en la enseñanza de los clásicos literarios en la ESO?",
+      "conclusion": "El estudio de casos revela que los docentes expertos no conciben el clásico como un monumento intocable, sino como un artefacto dialógico vivo. Su práctica se fundamenta en la lectura en voz alta en el aula, la transposición transmedia a dilemas juveniles actuales y la sustitución de exámenes punitivos por tertulias literarias. Demuestran que el clásico puede ser una fuente apasionante de sentido para los adolescentes cuando media una docencia apasionada y andamiada.",
+      "formalRef": "Hernández-Heras, L., & Tabernero-Sala, R. (2024). Creencias, representaciones y saberes de profesores expertos sobre la lectura de los clásicos en ESO. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.445"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué práctica didáctica compartieron al 100 % todos los profesores expertos entrevistados como su herramienta más poderosa para enseñar un clásico en la ESO?",
+          "options": [
+            "Poner una película y no leer el libro.",
+            "La lectura oral compartida y dramatizada por el profesor en el aula ordinaria para desgranar el sentido.",
+            "Mandar leer el libro en casa y hacer un examen sorpresa al día siguiente.",
+            "Hacer que los alumnos copien el texto a mano."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cómo conectan los docentes expertos las obras canónicas del Siglo de Oro o del Renacimiento con los adolescentes del siglo XXI?",
+          "options": [
+            "Obligando a los alumnos a vestirse con trajes de época.",
+            "Hibridando la trama clásica con referencias transmedia contemporáneas (cine, música urbana, series) y debatiendo sobre dilemas éticos actuales (celos, apariencias, libertad).",
+            "Traduciendo todo el texto a lenguaje de emojis.",
+            "Diciendo a los alumnos que si no leen suspenderán la selectividad."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué postura adoptan los expertos frente al uso de adaptaciones de los clásicos en los primeros cursos de la ESO?",
+          "options": [
+            "Las consideran una blasfemia y las prohíben.",
+            "Las utilizan estratégicamente como pasarelas de andamiaje lingüístico para preparar al alumnado hacia las obras originales en cursos superiores.",
+            "Solo leen adaptaciones en cómic y nunca leen texto escrito.",
+            "Obligan a leer exclusivamente en latín antiguo."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Elige un pasaje de 'El Lazarillo de Tormes' o de 'El Quijote' y explica cómo lo mediarías en una clase de 3.º de ESO mediante una tertulia dialógica conectándolo con un problema social o juvenil de nuestro tiempo (ej. la precariedad o la salud mental)."
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que un examen memorístico de fechas y biografías de autores clásicos es la forma más eficaz de conseguir que un adolescente odie la literatura para siempre?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido al aula de los maestros inspiradores. ¿Cómo consiguen que adolescentes de 14 años amen a Cervantes o a Lope?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "¿Obligar a memorizar fechas o debatir sobre el amor y la muerte? Los profesores expertos nos muestran el camino.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Entramos en las clases de docentes de Secundaria con trayectorias reconocidas en Aragón y descubrimos sus secretos.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡La voz del maestro es el puente! Leer en voz alta en clase y conectar los clásicos con series y dilemas éticos juveniles lo cambia todo.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "No cambiemos los clásicos por libros fáciles: cambiemos la forma de enseñarlos para hacerlos inolvidables.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Un clásico no es un fósil del pasado: es una antorcha que ilumina las dudas y las pasiones del presente.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo interactúan profesores expertos, clásicos en ESO, tertulias dialógicas y transmedia.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido y atrévete a soñar clases de literatura vivas, apasionadas y libres de aburrimiento.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Profesores Expertos y Didáctica de los Clásicos en Secundaria",
+    "descripcion": "Estudio de casos en ESO: conocimiento didáctico del contenido (PCK), lectura oral dramatizada, tertulias dialógicas y transposición transmedia.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Docentes Expertos en Secundaria",
+        "color": "#264653"
+      },
+      {
+        "id": "2",
+        "label": "Clásicos Literarios en ESO",
+        "color": "#2a5a75"
+      },
+      {
+        "id": "3",
+        "label": "Lectura en Voz Alta Compartida (100%)",
+        "color": "#88b04b"
+      },
+      {
+        "id": "4",
+        "label": "Tertulias Literarias Dialógicas",
+        "color": "#2a9d8f"
+      },
+      {
+        "id": "5",
+        "label": "Hibridación Transmedia y Conexión",
+        "color": "#5b9eaa"
+      },
+      {
+        "id": "6",
+        "label": "Adaptaciones como Pasarela",
+        "color": "#f4d068"
+      },
+      {
+        "id": "7",
+        "label": "Rechazo del Examen Memorístico",
+        "color": "#c73e1d"
+      },
+      {
+        "id": "8",
+        "label": "Dilemas Morales Juveniles",
+        "color": "#e76f51"
+      },
+      {
+        "id": "9",
+        "label": "Conocimiento Didáctico (PCK)",
+        "color": "#9b82c3"
+      },
+      {
+        "id": "10",
+        "label": "Comunidad de Lectores en Aula",
+        "color": "#f4a261"
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "transforma la enseñanza de los"
+      },
+      {
+        "from": "1",
+        "to": "9",
+        "label": "despliega en el aula un rico"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "aplica sistemáticamente la"
+      },
+      {
+        "from": "3",
+        "to": "2",
+        "label": "hace comprensible y vivo el"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "sustituye los exámenes por"
+      },
+      {
+        "from": "4",
+        "to": "7",
+        "label": "desmantela la rutina del"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "vincula los textos mediante"
+      },
+      {
+        "from": "5",
+        "to": "8",
+        "label": "interpela directamente a los"
+      },
+      {
+        "from": "6",
+        "to": "2",
+        "label": "sirve de andamiaje hacia el"
+      },
+      {
+        "from": "10",
+        "to": "4",
+        "label": "florece gracias a las"
+      }
+    ]
+  }
+}
