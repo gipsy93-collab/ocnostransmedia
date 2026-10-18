@@ -1,8 +1,8 @@
 {
   "id": "conciencia_fonologica_aula",
   "metadata": {
-    "title": "Enseñanza de la conciencia fonológica en el aula para favorecer el aprendizaje de la lectura: una revisión",
-    "authors": "Mireia Pérez-Peitx, Alba Castells y Cristina Corcoll",
+    "title": "Enseñanza de la conciencia fonológica en el aula para favorecer el aprendizaje de la lectura: una revisión sistemática",
+    "authors": "Durley-Ruth Amaya-Medina, Daniela González-Fernández, Juan-Felipe Flores-González y Daniela Iturra-Osorio",
     "year": "2025",
     "journal": "Ocnos 24(2)",
     "doi": "10.18239/Ocnos_2025.24.2.514",
@@ -12,18 +12,18 @@
     "color": "#2a9d8f",
     "colorAlt": "#2a5a75",
     "bg": "from-teal-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-12.png",
+    "image": "/assets/portadas/conciencia_fonologica_aula.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-12.png",
-      "name": "Dra. Mireia Pérez-Peitx",
-      "role": "Investigadora en Didáctica de la Lengua y Lectoescritura, Universitat Ramon Llull"
+      "name": "Dra. Durley-Ruth Amaya-Medina",
+      "role": "Investigadora en Educación, Universidad Autónoma de Chile"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Mireia Pérez-Peitx, especialista en instrucción fonológica y aprendizaje de la lectura",
-      "gancho": "¿Es la conciencia fonológica una moda pedagógica o el andamiaje neurobiológico insustituible para aprender a leer?",
-      "contexto": "La evidencia de la 'Ciencia de la Lectura' señala que decodificar exige tomar conciencia de que las palabras orales están formadas por fonemas. Esta revisión sistemática analiza las intervenciones de aula más rigurosas para determinar la dosis, actividades y combinación con grafemas más eficaz en Infantil y 1.º de Primaria.",
+      "personaje": "Dra. Durley-Ruth Amaya-Medina, especialista en conciencia fonológica y educación inclusiva",
+      "gancho": "¿Es la conciencia fonológica una moda pedagógica o el andamiaje insustituible para aprender a leer?",
+      "contexto": "La evidencia señala que la conciencia fonológica (CF) es un precursor clave de la lectoescritura. Esta revisión sistemática, adherida a PRISMA, analiza 18 programas de intervención en CF aplicados al aula completa para determinar sus pilares de enseñanza y los resultados observados en contextos escolares inclusivos.",
       "deepDives": [
         {
           "id": "cf-apertura-1",
@@ -33,20 +33,20 @@
         },
         {
           "id": "cf-apertura-2",
-          "triggerLabel": "La conexión con las letras",
+          "triggerLabel": "La conexión con otras habilidades",
           "type": "theory",
-          "content": "La instrucción fonológica combinada con la enseñanza explícita del grafema es el doble de eficaz que el entrenamiento puramente auditivo."
+          "content": "La instrucción en conciencia fonológica resulta más beneficiosa cuando se combina con otras habilidades del alfabetismo emergente, como el conocimiento alfabético, la velocidad de denominación, el vocabulario y la conciencia morfológica."
         }
       ]
     },
     "conflicto": {
-      "problema": "Muchos maestros dedican meses a rimas sin llegar al nivel fonémico, o enseñan letras descontextualizadas.",
-      "porQueImporta": "Una instrucción fonológica deficiente es la causa prevenible del 80% de las dificultades de decodificación en primaria.",
+      "problema": "Muchos programas de aula no explicitan las estrategias empleadas ni existe consenso sobre la dosis, lo que dificulta su replicabilidad.",
+      "porQueImporta": "Las dificultades en conciencia fonológica se asocian a problemas para aprender las correspondencias entre letras y sonidos y, por tanto, en el aprendizaje de la lectura.",
       "dataPoints": [
-        "Revisión sistemática de intervenciones en aula ordinaria.",
-        "Eficacia máxima en sesiones breves: 15 a 20 minutos diarios durante 10 a 16 semanas.",
-        "El nivel de mayor impacto predictivo es la segmentación y mezcla de fonemas individuales.",
-        "La vinculación explícita con el código grafémico acelera la transferencia a la lectura real."
+        "Revisión sistemática de 18 programas de intervención aplicados al aula completa.",
+        "No hay consenso en la dosis: la duración total varió de 7 a 38 semanas.",
+        "La conciencia fonémica es el nivel de mayor efecto en el aprendizaje de la lectura.",
+        "Combinarla con el conocimiento alfabético y la conversión grafema-fonema mejora los resultados."
       ],
       "glossary": [
         {
@@ -61,19 +61,20 @@
     },
     "viaje": {
       "titulo": "Ruta metodológica: Criterios de efectividad en la instrucción de aula",
-      "narrativa": "Las autoras sistematizaron estudios experimentales con grupo de control, evaluando decodificación, fluidez y ortografía.",
+      "narrativa": "Las autoras sistematizaron 18 programas de intervención en CF aplicados al aula completa, en todos los idiomas, conforme a las directrices PRISMA.",
       "detalles": [
         {
           "label": "Diseño",
-          "value": "Revisión sistemática de literatura experimental de aula (WoS, Scopus, ERIC)."
+          "value": "Revisión sistemática (PRISMA) en Web of Science, Scopus y Ebsco."
         },
         {
           "label": "Edades",
-          "value": "4 a 7 años (Educación Infantil y 1.º de Primaria)."
+          "value": "3 a 7 años (Educación Infantil y primeros cursos de Primaria)."
         }
       ],
       "limitaciones": [
-        "Diferencias ortográficas entre lenguas transparentes y opacas."
+        "El número limitado de bases de datos utilizadas.",
+        "El análisis no permite determinar qué programas son efectivos para entrenar la CF."
       ],
       "reflexion": "La lectura no se aprende por ósmosis: el cerebro necesita instrucción explícita del código."
     },
@@ -87,22 +88,22 @@
         },
         {
           "label": "2. Letra y Sonido Juntos",
-          "value": "Usar letras móviles mientras se pronuncia el sonido duplica la retención frente al entrenamiento auditivo puro."
+          "value": "Combinar la CF con el conocimiento alfabético y la conversión grafema-fonema beneficia al estudiantado en riesgo."
         },
         {
-          "label": "3. Pequeños Grupos",
-          "value": "Trabajar 15 minutos en grupos de 4 a 6 niños multiplica los beneficios."
+          "label": "3. El Rol del Profesorado",
+          "value": "En 12 de los 18 programas la intervención estuvo a cargo del profesorado de aula, lo que facilita su aplicación inclusiva."
         }
       ],
       "dataPoints": [
-        "Tamaño de efecto medio (fonema + letra): d > 0.70 (alto).",
-        "Reducción del 60% en derivaciones a educación especial tras intervenciones tempranas."
+        "El 61% de los estudios empleó un diseño experimental y el 44% se realizó en español.",
+        "Ocho de los 18 programas incluyeron personas con discapacidad o en riesgo académico."
       ],
       "reflexion": "Enseñar el código alfabético de forma explícita es un acto de justicia educativa."
     },
     "marco": {
       "titulo": "Discusión: La reconciliación entre método fónico y placer lector",
-      "narrativa": "Pérez-Peitx, Castells y Corcoll desmontan falsas dicotomías metodológicas:",
+      "narrativa": "Amaya-Medina, González-Fernández, Flores-González e Iturra-Osorio subrayan una enseñanza inclusiva de la CF:",
       "detalles": [
         {
           "label": "Ni Mecanicismo ni Ilusión Global",
@@ -113,8 +114,8 @@
     },
     "nucleo": {
       "pregunta": "¿Cuáles son las características metodológicas más eficaces de la instrucción en conciencia fonológica en el aula?",
-      "conclusion": "La enseñanza de la conciencia fonológica en el aula ordinaria es más eficaz cuando se centra en la manipulación de fonemas, se vincula tempranamente con las letras y se imparte en sesiones breves (15-20 min diarios) en pequeños grupos.",
-      "formalRef": "Pérez-Peitx, M., Castells, A., & Corcoll, C. (2025). Enseñanza de la conciencia fonológica en el aula para favorecer el aprendizaje de la lectura: una revisión. Ocnos, 24(2). https://doi.org/10.18239/Ocnos_2025.24.2.514"
+      "conclusion": "La conciencia fonológica puede enseñarse eficazmente en el aula completa y es más beneficiosa cuando se centra en la conciencia fonémica y se combina con otras habilidades del alfabetismo emergente, si bien no existe consenso sobre la dosis ni sobre las estrategias y se recomienda avanzar hacia metaanálisis.",
+      "formalRef": "Amaya-Medina, D. R., González-Fernández, D., Flores-González, J. F., & Iturra-Osorio, D. (2025). Enseñanza de la conciencia fonológica en el aula para favorecer el aprendizaje de la lectura: una revisión sistemática. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.514"
     },
     "reflexion": {
       "questions": [
@@ -131,12 +132,12 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué formato de intervención demostró mayor eficacia en los estudios de aula analizados?",
+          "q": "¿Quién asumió la intervención en la mayoría de los programas de aula analizados?",
           "options": [
-            "Una clase magistral de 2 horas una vez al mes.",
-            "Sesiones breves y frecuentes (15-20 minutos diarios) en pequeños grupos guiados por el docente.",
-            "Dejar a los niños jugando libremente en el patio.",
-            "Copiar oraciones de la pizarra durante toda la jornada."
+            "Un logopeda externo en todos los casos.",
+            "El profesorado de aula en 12 de los 18 programas.",
+            "Las familias voluntarias sin formación.",
+            "Plataformas digitales automáticas."
           ],
           "correct": 1
         },
@@ -176,7 +177,7 @@
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El fonema es la clave! 15 minutos al día de segmentar y fusionar con letras en la mano multiplica el éxito lector.",
+      "text": "¡El fonema es la clave! La conciencia fonémica es la que tiene mayor efecto en el aprendizaje de la lectura.",
       "position": "bottom-right"
     },
     "marco": {
@@ -197,110 +198,224 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Instrucción Eficaz en Conciencia Fonológica en el Aula",
-    "descripcion": "Revisión de intervenciones de aula: conciencia fonémica, fusión (blending), integración con grafemas y sesiones breves multinivel.",
+    "titulo": "Mapa conceptual: Conciencia fonológica en el aula (Ocnos 24(2) 2025)",
+    "descripcion": "Revisión sistemática PRISMA que sistematiza 18 programas de intervención en conciencia fonológica aplicados al aula completa, desde sus pilares teóricos y método hasta características, resultados, problemas de dosis y estrategias, limitaciones y aportes a la inclusión y las políticas educativas.",
     "nodos": [
       {
         "id": "1",
-        "label": "Conciencia Fonológica en el Aula",
-        "color": "#2a9d8f"
+        "label": "Conciencia fonológica como precursor lector",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Habilidad metalingüística que permite reflexionar sobre las unidades del lenguaje y manipular sus componentes en los niveles de palabra, sílaba, rima y fonema (McNeill et al., 2017; Justi et al., 2021). Es precursor clave del aprendizaje de la lectoescritura y su dificultad afecta a las correspondencias letra-sonido (Gutiérrez-Fresneda et al., 2020)."
       },
       {
         "id": "2",
-        "label": "Conciencia Fonémica (Nivel Crítico)",
-        "color": "#2a5a75"
+        "label": "Prevalencia del nivel fonémico",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "El nivel fonémico es especialmente importante para el desarrollo de la lectura y la intervención educativa (Castles et al., 2018; Moll et al., 2014). Se espera que el estudiantado lo adquiera en la primera etapa escolar mediante instrucción formal (Double et al., 2019)."
       },
       {
         "id": "3",
-        "label": "Fusión de Fonemas (Blending)",
-        "color": "#5b9eaa"
+        "label": "Inclusión educativa en el aula",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "La inclusión impulsa que todo el estudiantado aprenda preferentemente dentro del aula (Wallace et al., 2021). Existe evidencia convincente de que la conciencia fonológica puede enseñarse eficazmente mediante colaboración entre profesorado y logopedas (Archibald, 2017)."
       },
       {
         "id": "4",
-        "label": "Segmentación de Palabras",
-        "color": "#88b04b"
+        "label": "Objetivo: sistematizar programas de aula",
+        "color": "#c73e1d",
+        "role": "Objetivo",
+        "descripcion": "Sistematizar la información relevante sobre programas de intervención en conciencia fonológica aplicados al aula completa, ante revisiones previas que no se centran en el aula. Plantea dos preguntas: pilares fundamentales de la enseñanza y resultados observados."
       },
       {
         "id": "5",
-        "label": "Integración con Grafemas (Letras)",
-        "color": "#f4d068"
+        "label": "Revisión sistemática bajo PRISMA",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Revisión adherida a las directrices PRISMA (Page et al., 2021). Búsqueda en agosto de 2021 en Web of Science, Scopus y Ebsco con operadores booleanos, sin restricciones de idioma ni fecha, que arrojó 559 artículos."
       },
       {
         "id": "6",
-        "label": "Sesiones Breves (15-20 min diarios)",
-        "color": "#9b82c3"
+        "label": "Criterios de inclusión y exclusión",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Se incluyeron programas de intervención en CF aplicados en el aula y a toda la clase, en todos los idiomas. Se excluyeron intervenciones en grupos reducidos, la CF usada solo como medida de evaluación, y revisiones, metaanálisis, libros y tesis."
       },
       {
         "id": "7",
-        "label": "Pequeños Grupos Homogéneos",
-        "color": "#e88b8c"
+        "label": "Selección de 18 y calidad QuADS",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Tras duplicados y cribado quedaron 82 textos completos, con verificación ciega del 20% y fuerte fiabilidad inter-evaluadores (κ = 0,81); finalmente se incluyeron 18 artículos. La calidad se evaluó con QuADS (13 ítems de 0 a 3, máximo 39) (Harrison et al., 2021)."
       },
       {
         "id": "8",
-        "label": "Ciencia de la Lectura (SoR)",
-        "color": "#264653"
+        "label": "Extracción de datos de los programas",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Con la propuesta de Labra et al. (2022) se extrajeron y organizó en tres tablas la información de autor, lenguaje y país, participantes, duración, habilidad intervenida, profesional interventor, estrategias, resultados y contribuciones."
       },
       {
         "id": "9",
-        "label": "Prevención del Fracaso Lector",
-        "color": "#c73e1d"
+        "label": "Características y calidad de los estudios",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "El 61% empleó diseño experimental y el 44% se realizó en español. Las puntuaciones QuADS oscilaron entre 20 y 34 (calidad del 51% al 87%); el ítem mejor valorado fue la declaración de objetivos (x̄=2,9) y el peor, considerar a los interesados en el diseño (x̄=0,3)."
       },
       {
         "id": "10",
-        "label": "Automatización de la Decodificación",
-        "color": "#f4a261"
+        "label": "Intervención a cargo del profesorado",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "En 12 de los 18 estudios intervino el profesorado; solo Ritter y Saxon (2011) fue liderado por un logopeda, y Schuele et al. (2008) y Acosta-Rodríguez et al. (2011) trabajaron de forma colaborativa. Trece investigaciones capacitaron a los facilitadores."
+      },
+      {
+        "id": "11",
+        "label": "Conciencia fonémica en todos los programas",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "Las 18 intervenciones incluyeron la enseñanza de la conciencia fonémica; siete vincularon resultados con la lectura, dos con la escritura y uno con el rendimiento académico. Solo ocho muestras incorporaron personas con discapacidad o riesgo académico."
+      },
+      {
+        "id": "12",
+        "label": "Enseñanza temprana previene dificultades",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "La CF puede enseñarse desde etapas tempranas y previene dificultades en la adquisición de lectura y escritura (Stuart, 1999; Kelly et al., 2019), con logros positivos incluso en estudiantado con trastornos del lenguaje."
+      },
+      {
+        "id": "13",
+        "label": "Combinación con alfabetismo emergente",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El estudiantado en riesgo se beneficia de intervenir la CF en el aula combinada con velocidad de denominación, conocimiento alfabético, vocabulario y conciencia morfológica (Mayer y Motsch, 2015; Porta y Ramírez, 2020)."
+      },
+      {
+        "id": "14",
+        "label": "Más económica que la intervención clínica",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Según Stuart (1999) es tan eficaz como los programas clínicos, evita personal, materiales y tiempo adicionales (Linan-Thompson et al., 2005) y facilita la detección temprana de quien necesita apoyo (Schuele et al., 2008)."
+      },
+      {
+        "id": "15",
+        "label": "Sin consenso en dosis y estrategias",
+        "color": "#e76f51",
+        "role": "Discusión",
+        "descripcion": "Solo tres estudios detallaron estrategias (modelado, instrucción explícita, retroalimentación, andamiaje) y no hay consenso en duración, frecuencia ni minutos por sesión pese a su relevancia (ASHA, 2016), lo que dificulta la replicabilidad y la práctica basada en evidencia."
+      },
+      {
+        "id": "16",
+        "label": "Límites: bases de datos y efectividad",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "Las limitaciones incluyen el número de bases de datos utilizadas y que el análisis no permite determinar qué programas son efectivos, por lo que se recomienda avanzar hacia metaanálisis."
+      },
+      {
+        "id": "17",
+        "label": "Conclusión: orientar políticas educativas",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "Los hallazgos mejoran la toma de decisiones de quienes diseñan programas de intervención, planes y políticas educativas. La alta variabilidad subraya la urgencia de más investigaciones, incluidas personas con mayores necesidades de apoyo."
       }
     ],
     "aristas": [
       {
-        "from": "8",
-        "to": "1",
-        "label": "fundamenta con evidencia la"
-      },
-      {
         "from": "1",
-        "to": "2",
-        "label": "alcanza máxima eficacia en la"
-      },
-      {
-        "from": "2",
-        "to": "3",
-        "label": "exige el entrenamiento en"
+        "to": "4",
+        "label": "fundamenta el"
       },
       {
         "from": "2",
         "to": "4",
-        "label": "desarrolla la capacidad de"
+        "label": "centra el foco del"
       },
       {
-        "from": "1",
+        "from": "3",
+        "to": "4",
+        "label": "justifica la necesidad del"
+      },
+      {
+        "from": "4",
         "to": "5",
-        "label": "debe vincularse de inmediato con la"
+        "label": "se aborda mediante la"
       },
       {
-        "from": "1",
+        "from": "5",
         "to": "6",
-        "label": "requiere una estructura de"
+        "label": "se criba con los"
       },
       {
         "from": "6",
         "to": "7",
-        "label": "se optimiza trabajando en"
+        "label": "da lugar al"
       },
       {
-        "from": "5",
-        "to": "10",
-        "label": "conduce directamente a la"
+        "from": "7",
+        "to": "8",
+        "label": "sustenta la"
       },
       {
-        "from": "10",
+        "from": "8",
         "to": "9",
-        "label": "asegura con éxito la"
+        "label": "aporta las"
       },
       {
         "from": "9",
-        "to": "8",
-        "label": "confirma empíricamente la"
+        "to": "10",
+        "label": "documenta el"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "caracteriza las"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "abarata la"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "respalda la"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "se complementa con la"
+      },
+      {
+        "from": "12",
+        "to": "3",
+        "label": "atiende a la"
+      },
+      {
+        "from": "14",
+        "to": "3",
+        "label": "se alinea con la"
+      },
+      {
+        "from": "9",
+        "to": "15",
+        "label": "evidencia la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "se agrava con los"
+      },
+      {
+        "from": "16",
+        "to": "17",
+        "label": "urge en la"
+      },
+      {
+        "from": "17",
+        "to": "4",
+        "label": "retoma el"
       }
     ]
   }

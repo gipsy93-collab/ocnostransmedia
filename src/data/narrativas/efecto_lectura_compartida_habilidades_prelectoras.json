@@ -1,0 +1,375 @@
+{
+  "id": "efecto_lectura_compartida_habilidades_prelectoras",
+  "metadata": {
+    "id": "efecto_lectura_compartida_habilidades_prelectoras",
+    "title": "Efecto de la lectura compartida y las habilidades prelectoras en el aprendizaje lector",
+    "authors": [
+      "Raúl Gutiérrez-Fresneda"
+    ],
+    "year": 2017,
+    "volume": "16",
+    "issue": "2",
+    "pages": "17-26",
+    "doi": "10.18239/ocnos_2017.16.2.1356",
+    "keywords": [
+      "lectura compartida",
+      "habilidades prelectoras",
+      "conciencia fonológica",
+      "educación infantil",
+      "aprendizaje lector inicial"
+    ],
+    "abstract": "Estudio cuasiexperimental pretest-postest con grupo de control no equivalente en 402 escolares de Educación Infantil (5 años) en España. Compara un programa de intervención estructurado que integra lectura compartida dialógica, entrenamiento fonológico y velocidad de denominación frente a la enseñanza reglada tradicional con libro de texto. Evidencia ventajas estadísticamente significativas en todos los procesos prelectores y en el aprendizaje inicial de la lectura."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo deben iniciarse los niños de 5 años en la lectura? ¿Mediante cartillas mecánicas y fichas aisladas de caligrafía, o a través de la magia dialógica de la lectura compartida de álbumes ilustrados combinada con juegos explícitos de conciencia fonológica? Este estudio con 402 escolares aporta respuestas científicas concluyentes.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis psicopedagógico:",
+        "opciones": [
+          {
+            "id": "experimental",
+            "texto": "Diseño cuasiexperimental: programa estructurado frente a libro de texto ordinario"
+          },
+          {
+            "id": "psicolinguistica",
+            "texto": "Componentes cognitivos: conciencia silábica, fonémica y denominación rápida"
+          },
+          {
+            "id": "dialogica",
+            "texto": "Lectura compartida: preguntas abiertas, andamiaje afectivo y enriquecimiento léxico"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Persiste en muchas aulas de Educación Infantil la práctica rutinaria de centrar el aprendizaje de la lectoescritura en la copia reiterativa de letras desprovistas de significado, desatendiendo el desarrollo oral de la conciencia fonológica y el disfrute compartido de la literatura infantil, lo que genera desmotivación y dificultades tempranas.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué combinación metodológica potencia con mayor fuerza el aprendizaje lector temprano?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "La lectura compartida dialógica enriquecida junto con el entrenamiento lúdico y explícito de la conciencia fonológica.",
+            "correcta": true,
+            "explicacion": "Exacto: la lectura dialógica aporta significado, vocabulario y amor por los libros, mientras los juegos fonológicos consolidan el principio alfabético."
+          },
+          {
+            "id": "c2",
+            "texto": "La repetición silenciosa de planas de caligrafía hasta memorizar el trazo de las consonantes.",
+            "correcta": false,
+            "explicacion": "El trazo motor aislado no desarrolla las habilidades de discriminación de sonidos ni la comprensión del lenguaje escrito."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "El investigador intervino durante un curso académico completo con 402 alumnos de tercer curso de Educación Infantil en ocho centros escolares de la provincia de Alicante. Asignó aulas al grupo experimental (programa integrado de lectura dialógica y habilidades prelectoras) y al grupo control (metodología ordinaria basada en libro de texto comercial).",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra amplia",
+            "detalle": "402 niños y niñas de 5 años escolarizados en ocho colegios públicos y concertados."
+          },
+          {
+            "fase": "Evaluación pretest",
+            "detalle": "Batería estandarizada para evaluar homogeneidad basal en lenguaje y destrezas fonológicas."
+          },
+          {
+            "fase": "Programa de intervención",
+            "detalle": "Sesiones semanales estructuradas de lectura compartida dialógica y juegos fonológicos."
+          },
+          {
+            "fase": "Evaluación postest y ANCOVA",
+            "detalle": "Contraste riguroso de ganancias en conciencia silábica, fonémica y lectura inicial."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El grupo experimental logró ganancias altamente significativas (p < .001) y con gran tamaño del efecto frente al grupo de control en conciencia silábica, conciencia fonémica, velocidad de denominación y precisión en lectura de palabras y pseudopalabras, demostrando la contundente superioridad del enfoque integrado.",
+      "datos_clave": [
+        "Muestra robusta de 402 escolares de 5 años seguidos cuasiexperimentalmente.",
+        "Diferencias estadísticamente significativas con gran tamaño del efecto en todas las variables.",
+        "Progreso excepcional en la identificación y manipulación de fonemas individuales.",
+        "Consolidación de la lectura compartida como el entorno más fértil para el aprendizaje lector inicial."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El estudio se apoya en los modelos de alfabetización emergente de Whitehurst y Lonigan (1998), las investigaciones sobre lectura dialógica de Hargrave y Sénéchal (2000), y las evidencias psicolingüísticas de Defior (2008) sobre conciencia fonológica en español.",
+      "referencias_clave": [
+        "Whitehurst & Lonigan (1998)",
+        "Hargrave & Sénéchal (2000)",
+        "Defior (2008)",
+        "Gutiérrez-Fresneda (2017)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "Aprender a leer en la infancia no tiene por qué ser un entrenamiento árido y mecánico. Cuando los cuentos maravillosos se leen en voz alta conversando con los niños y se acompañan de divertidos juegos sonoros, las puertas de la cultura escrita se abren con naturalidad, asombro y éxito.",
+      "hallazgo_central": "La combinación de lectura compartida dialógica y estimulación sistemática de habilidades prelectoras acelera significativamente el aprendizaje lector infantil frente a la enseñanza reglada tradicional con libro de texto."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los componentes del programa prelector con su objetivo formativo:",
+          "pares": [
+            {
+              "concepto": "Lectura dialógica",
+              "definicion": "Estrategia interactiva donde el adulto formula preguntas abiertas y estimula la expresión del niño."
+            },
+            {
+              "concepto": "Conciencia fonémica",
+              "definicion": "Habilidad para aislar, omitir y sustituir los sonidos mínimos de las palabras habladas."
+            },
+            {
+              "concepto": "Velocidad de denominación",
+              "definicion": "Rapidez en el acceso y recuperación léxica de nombres de colores, letras u objetos familiares."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Efecto de la Lectura Compartida y Habilidades Prelectoras",
+      "descripcion": "Estudio cuasiexperimental sobre el impacto de un programa integrado de lectura dialógica y destrezas fonológicas en Infantil.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Efecto de la Lectura Compartida y Prelectura en Infantil",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo de la investigación: evaluar la eficacia de un programa de lectura compartida dialógica y estimulación de habilidades prelectoras frente a la enseñanza tradicional con libro de texto en niños de 5 años."
+        },
+        {
+          "id": "2",
+          "label": "Debate Metodológico en Lectura Inicial",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco contextual que contrasta los enfoques fónicos tradicionales basados en cartillas comerciales mecánicas frente a modelos integrados y holísticos fundamentados en la interacción dialógica rica."
+        },
+        {
+          "id": "3",
+          "label": "Constructo de Alfabetización Emergente",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Modelo teórico de Whitehurst y Lonigan sobre las destrezas precursoras del lenguaje oral y escrito que sientan las bases neurocognitivas indispensables para la adquisición formal de la lectura."
+        },
+        {
+          "id": "4",
+          "label": "Fundamentos de la Conciencia Fonológica y RAN",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Evidencia psicolingüística sobre el papel determinante de la sensibilidad metafonológica (sílabas y fonemas) y la velocidad de denominación rápida (RAN) en la precisión decodificadora alfabética."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Cuasiexperimental Pretest-Postest",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico cuasiexperimental con grupo de control no equivalente y evaluaciones antes y después de la intervención escolar desarrollada a lo largo de un curso académico completo."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 402 Escolares de Educación Infantil",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Muestra representativa de 402 escolares de cinco años (tercer curso de segundo ciclo de Infantil) escolarizados en ocho centros educativos de titularidad pública y concertada de Alicante."
+        },
+        {
+          "id": "7",
+          "label": "Grupo Experimental y Grupo de Control Reglado",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Distribución en grupo experimental (aplicación sistemática del programa de lectura dialógica y juegos fonológicos) y grupo de control (enseñanza habitual basada en libro de texto comercial)."
+        },
+        {
+          "id": "8",
+          "label": "Baterías de Evaluación Estandarizadas",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Administración de pruebas validadas para medir conciencia silábica, conciencia fonémica, velocidad de denominación rápida (fotos/objetos) y decodificación léxica de palabras y pseudopalabras."
+        },
+        {
+          "id": "9",
+          "label": "Ganancia Significativa en Conciencia Fonológica",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los análisis inferenciales (ANCOVA) evidenciaron que el grupo experimental superó significativamente al grupo control (p menor a punto cero cero uno) en manipulación silábica y aislamiento fonémico."
+        },
+        {
+          "id": "10",
+          "label": "Optimización de la Velocidad de Denominación",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Reducción estadísticamente significativa de los tiempos de latencia en tareas de denominación rápida seriada en el alumnado del grupo experimental gracias a la estimulación léxica dialógica."
+        },
+        {
+          "id": "11",
+          "label": "Superioridad en Precisión y Decodificación Léxica",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Rendimiento notablemente superior de los escolares del programa en lectura temprana de palabras frecuentes y pseudopalabras, constatando la correcta transferencia al código alfabético formal."
+        },
+        {
+          "id": "12",
+          "label": "Sinergia entre Significado y Código Fonológico",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica que demuestra que la lectura compartida proporciona el contexto comunicativo y afectivo idóneo para que los ejercicios fonológicos adquieran sentido pleno para el menor."
+        },
+        {
+          "id": "13",
+          "label": "Insuficiencia del Libro de Texto Comercial",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate crítico sobre los límites de las metodologías rígidas de libro de texto en Infantil, que a menudo desatienden la oralidad dialógica y la ejercitación metafonológica intensiva."
+        },
+        {
+          "id": "14",
+          "label": "Idoneidad Curricular del Enfoque Integrado",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental que defiende la inclusión obligatoria de secuencias de lectura compartida estructurada y juegos fonológicos diarios en los proyectos curriculares de Educación Infantil."
+        },
+        {
+          "id": "15",
+          "label": "Capacitación Docente en Estrategias Dialógicas",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación formativa prioritaria dirigida a dotar a los maestros de Infantil de estrategias para formular preguntas desafiantes, expandir el vocabulario y modelar el amor por la literatura."
+        },
+        {
+          "id": "16",
+          "label": "Limitaciones en la Asignación Aleatoria de Aulas",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite inherente al diseño en aulas naturales sin aleatorización individual de sujetos, requiriendo cautela en la generalización e invitando a realizar estudios longitudinales en Primaria."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se sitúa en"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se fundamenta en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se comprueba mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se articula con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "selecciona"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "establece"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "evalúa mediante"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "demuestra ventaja en"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "mide avances en"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "registra progreso en"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "confirma superioridad en"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "avala"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "refuerza"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "permite cuestionar"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "fundamenta"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "justifica"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se traduce en"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "asume"
+        },
+        {
+          "from": "7",
+          "to": "16",
+          "label": "conlleva condición en"
+        },
+        {
+          "from": "4",
+          "to": "9",
+          "label": "sustenta teóricamente a"
+        },
+        {
+          "from": "12",
+          "to": "15",
+          "label": "guía"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Enseñar a leer no es adiestrar los ojos para descifrar signos secos: es encender en el corazón del niño el deseo de descubrir mundos. Cuando un maestro abre un libro hermoso y juega con los sonidos de las palabras, la lectura deja de ser una tarea y se transforma en una fiesta de la inteligencia.",
+      "preguntas": [
+        "¿Se sigue abusando en las aulas de 5 años de fichas comerciales mecánicas en lugar de dedicar tiempo diario a la lectura compartida de álbumes ilustrados?",
+        "¿Cómo pueden las familias apoyar desde casa el desarrollo fonológico mediante rimas, trabalenguas y canciones tradicionales?"
+      ]
+    }
+  }
+}

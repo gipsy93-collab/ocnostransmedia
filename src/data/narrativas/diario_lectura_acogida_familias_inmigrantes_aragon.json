@@ -1,0 +1,375 @@
+{
+  "id": "diario_lectura_acogida_familias_inmigrantes_aragon",
+  "metadata": {
+    "id": "diario_lectura_acogida_familias_inmigrantes_aragon",
+    "title": "El diario de lectura en los procesos de acogida de familias inmigrantes",
+    "authors": [
+      "Virginia Calvo"
+    ],
+    "year": 2019,
+    "volume": "18",
+    "issue": "1",
+    "pages": "41-51",
+    "doi": "10.18239/ocnos_2019.18.1.1789",
+    "keywords": [
+      "diario de lectura",
+      "familias inmigrantes",
+      "inclusión escolar",
+      "etnografía educativa",
+      "duelo migratorio"
+    ],
+    "abstract": "Estudio de caso exploratorio y etnográfico que analiza el diario de lectura en la acogida de seis madres inmigrantes en Aragón. La lectura literaria compartida funciona como memoria vivencial e instrumento de apropiación de la lengua escolar."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo puede la lectura de textos literarios ayudar a madres inmigrantes a superar la barrera del idioma y construir un sentido de pertenencia en la escuela de sus hijos? Este estudio etnográfico explora el uso del diario de lectura como espacio de acogida intercultural y expresión emocional.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva para examinar la experiencia en Aragón:",
+        "opciones": [
+          {
+            "id": "etnografica",
+            "texto": "Perspectiva etnográfica y estudio de caso situado"
+          },
+          {
+            "id": "emocional",
+            "texto": "Dimensión emocional: duelo migratorio y construcción de identidad"
+          },
+          {
+            "id": "sociolinguistica",
+            "texto": "Dimensión sociolingüística: apropiación de la lengua de acogida"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Las políticas de integración escolar suelen centrarse de forma exclusiva en los niños inmigrantes, dejando de lado a sus madres. Aisladas por barreras lingüísticas, culturales y el miedo al juicio ajeno, las familias quedan desconectadas de la vida escolar, debilitando el apoyo educativo en el hogar.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué papel cumple la lectura dialógica compartida en mujeres en situación de duelo migratorio?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Ofrece un marco simbólico seguro para elaborar ausencias, resignificar vivencias y tejer lazos comunitarios en la lengua de acogida.",
+            "correcta": true,
+            "explicacion": "Exacto: la literatura abre espacios transaccionales donde las metáforas permiten expresar dolores y avances identitarios compartidos."
+          },
+          {
+            "id": "c2",
+            "texto": "Funciona como una prueba académica formal para evaluar la velocidad de pronunciación.",
+            "correcta": false,
+            "explicacion": "El objetivo no es evaluativo ni mecánico, sino de mediación intercultural y contención emocional."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "La investigadora implementó un taller semanal de lectura y escritura en la biblioteca escolar durante un curso académico con seis madres de procedencia diversa (Marruecos, Argelia, Rumanía, Brasil, Senegal). Se utilizó la observación participante, grabaciones en audio y el análisis de los diarios personales de lectura.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Diagnóstico CAREI",
+            "detalle": "Detección inicial de necesidades lingüísticas y aislamiento en el centro escolar aragonés."
+          },
+          {
+            "fase": "Taller en biblioteca",
+            "detalle": "Encuentros dialógicos semanales en torno a álbumes ilustrados y literatura infantil universal."
+          },
+          {
+            "fase": "Escritura del diario",
+            "detalle": "Redacción reflexiva personal donde cada madre registraba impresiones, recuerdos y preguntas."
+          },
+          {
+            "fase": "Análisis de contenido",
+            "detalle": "Categorización inductiva de dimensiones lingüísticas, vivenciales, estéticas y relacionales."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El diario de lectura demostró una triple funcionalidad transformadora: operó como archivo de memoria literaria, como artefacto lingüístico de interlengua para apropiarse del español, y como refugio emocional para reconciliar la cultura de origen con la de adopción.",
+      "datos_clave": [
+        "Estudio etnográfico longitudinal con 6 madres inmigrantes en Aragón.",
+        "Superación radical del miedo a expresarse oralmente en español.",
+        "Aumento directo de la participación familiar en reuniones del centro escolar.",
+        "Consolidación de una comunidad interpretativa afectiva en la biblioteca."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El trabajo se fundamenta en las tesis sobre lectura y crisis de Michèle Petit, la poética de la inclusión de Laura Devetach y María Teresa Andruetto, la teoría de la respuesta del lector de Louise Rosenblatt y los modelos de interlengua de Selinker.",
+      "referencias_clave": [
+        "Petit (2015)",
+        "Andruetto (2015)",
+        "Rosenblatt (2002)",
+        "Bruner (2002)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "Incluir a los escolares vulnerables exige acoger a sus familias: el diario de lectura literario se erige como una potente herramienta socioeducativa que transforma la biblioteca en un umbral hospitalario de ciudadanía y convivencia.",
+      "hallazgo_central": "La lectura literaria compartida y el diario reflexivo facilitan la apropiación lingüística del español y la sanación del duelo migratorio en madres de la comunidad escolar."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos etnográficos con su manifestación en el estudio:",
+          "pares": [
+            {
+              "concepto": "Comunidad interpretativa",
+              "definicion": "Grupo de madres que co-construyen significados en torno a relatos leídos en común."
+            },
+            {
+              "concepto": "Duelo migratorio",
+              "definicion": "Proceso de recomposición de afectos, distancias y códigos de pertenencia cultural."
+            },
+            {
+              "concepto": "Secuencia potencialmente adquisitiva",
+              "definicion": "Intercambio conversacional auténtico donde se interiorizan vocablos en la nueva lengua."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: El Diario de Lectura en la Acogida Escolar de Familias Inmigrantes",
+      "descripcion": "Articulación etnográfica y pedagógica de la lectura literaria y el diario reflexivo en la inclusión de madres inmigrantes.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Diario de Lectura y Familias Inmigrantes",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo medular: analizar cómo el diario de lectura y los talleres literarios compartidos dinamizan los procesos de acogida e integración sociocultural de madres inmigrantes en una escuela de Aragón."
+        },
+        {
+          "id": "2",
+          "label": "Desatención Institucional a Familias",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Diagnóstico crítico sobre la tendencia generalizada de las medidas de apoyo escolar a focalizarse exclusivamente en los menores, desatendiendo el aislamiento lingüístico y cultural de los progenitores."
+        },
+        {
+          "id": "3",
+          "label": "Teoría del Duelo Migratorio",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco conceptual que describe el desgarro identitario derivado de la emigración, exigiendo reconstruir vínculos afectivos, marcos de referencia simbólica y puentes entre el origen y el contexto receptor."
+        },
+        {
+          "id": "4",
+          "label": "Lectura Literaria Transaccional",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Modelo de Louise Rosenblatt y Michèle Petit donde el texto opera como un territorio de resonancia íntima que moviliza emociones personales, memorias biográficas y resignificaciones existenciales."
+        },
+        {
+          "id": "5",
+          "label": "Estudio de Caso Etnográfico",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico cualitativo y exploratorio de corte etnográfico prolongado a lo largo de un curso completo en un centro público de Educación Infantil y Primaria de la comunidad aragonesa."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de Seis Madres Inmigrantes",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Participantes seleccionadas intencionalmente: seis mujeres de diversas nacionalidades y bagajes lingüísticos (Marruecos, Rumanía, Brasil, Senegal) convocadas a través del equipo directivo del centro."
+        },
+        {
+          "id": "7",
+          "label": "Triangulación de Datos Cualitativos",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Estrategia metodológica que combinó transcripciones de observaciones participantes en los talleres, grabaciones de audio de las tertulias y análisis inductivo de los diarios escritos."
+        },
+        {
+          "id": "8",
+          "label": "Función de Memoria y Resonancia",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "El diario operó como un archivo vivencial donde las madres consignaron huellas de sus lecturas, evocando recuerdos de sus patrias y proyectando anhelos para el porvenir de sus hijos."
+        },
+        {
+          "id": "9",
+          "label": "Desarrollo de la Interlengua Española",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación empírica de avances notables en la fluidez comunicativa y precisión léxica en español, superando el bloqueo expresivo y la inseguridad oratoria inicial."
+        },
+        {
+          "id": "10",
+          "label": "Empoderamiento y Participación Escolar",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Incremento tangible y documentado en la asistencia a asambleas escolares, tutorías y celebraciones comunitarias, erradicando el miedo reverencial a la institución escolar formal."
+        },
+        {
+          "id": "11",
+          "label": "Biblioteca Escolar como Refugio",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reconceptualización teórica de la biblioteca del colegio no como mero almacén de libros, sino como un tercer espacio de hospitalidad, escucha mutua y recomposición comunitaria."
+        },
+        {
+          "id": "12",
+          "label": "Comunidad Interpretativa Solidaria",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión sobre cómo la escucha dialógica entre mujeres de culturas dispares disuelve prejuicios étnicos y teje una red comunitaria de apoyo mutuo ante la vulnerabilidad compartida."
+        },
+        {
+          "id": "13",
+          "label": "Políticas de Acogida Holísticas",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión propositiva: los centros educativos deben implantar protocolos de acogida que reconozcan a las madres como interlocutoras fundamentales y agentes de éxito lector de sus hijos."
+        },
+        {
+          "id": "14",
+          "label": "Diario como Dispositivo Pedagógico",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Validación del diario reflexivo de lectura como una herramienta versátil y de bajo coste que articula con naturalidad la alfabetización funcional y el acompañamiento psicosocial."
+        },
+        {
+          "id": "15",
+          "label": "Humanización de la Escuela Pública",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión ética: la literatura compartida transforma la escuela en un espacio democrático donde todas las identidades lingüísticas tienen voz y dignidad reconocida."
+        },
+        {
+          "id": "16",
+          "label": "Grupo Muestral Pequeño y Específico",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación intrínseca al tamaño reducido de la muestra (seis participantes en un único centro), lo que desaconseja extrapolaciones cuantitativas pero aporta una riqueza descriptiva profunda."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "denuncia y responde a la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "ignora los efectos del"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "encuentra mediación en la"
+        },
+        {
+          "from": "4",
+          "to": "8",
+          "label": "se plasma en la"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se concreta con la"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "aporta datos a la"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "demuestra empíricamente la"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "constata avances en el"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "documenta un claro"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "convierte a la"
+        },
+        {
+          "from": "9",
+          "to": "10",
+          "label": "posibilita el"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "cristaliza en una"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "fundamenta el diseño de"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "avala el uso del"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "culmina en la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "contribuye a la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "se circunscribe a"
+        },
+        {
+          "from": "4",
+          "to": "12",
+          "label": "fomenta la creación de"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "proporciona base a"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "El testimonio de las madres recogido por Virginia Calvo nos enseña que un libro abierto en un aula acogedora puede ser el mapa que oriente a quien ha cruzado fronteras en busca de futuro.",
+      "preguntas_guiadas": [
+        "¿De qué manera abre tu centro escolar sus bibliotecas para implicar a las familias recién llegadas?",
+        "¿Qué potencial sanador tiene la escritura en primera persona cuando atravesamos cambios vitales profundos?"
+      ]
+    }
+  }
+}

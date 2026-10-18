@@ -1,0 +1,379 @@
+{
+  "id": "habitos_lectura_lenguas_extranjeras_estudiantes_extremadura",
+  "metadata": {
+    "id": "habitos_lectura_lenguas_extranjeras_estudiantes_extremadura",
+    "title": "Hábitos de lectura en lenguas extranjeras en los estudiantes de Extremadura",
+    "authors": [
+      "Ramón Pérez-Parejo",
+      "Álvaro Gutiérrez-Cabezas",
+      "José Soto-Vázquez",
+      "Francisco Javier Jaraíz-Cabanillas",
+      "José Antonio Gutiérrez-Gallego"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "2",
+    "pages": "67-81",
+    "doi": "10.18239/ocnos_2018.17.2.1714",
+    "keywords": [
+      "hábitos de lectura",
+      "lenguas extranjeras",
+      "Extremadura",
+      "AICLE",
+      "sociología de la lectura"
+    ],
+    "abstract": "Estudio empírico territorial con 1458 estudiantes en Extremadura (desde Primaria a Universidad). Analiza la lectura en lenguas extranjeras mediante muestreo bietápico, revelando el dominio del inglés, mayor afición femenina e impacto del bilingüismo escolar."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cuánto y en qué idiomas leen los jóvenes cuando abren un libro en una lengua que no es el español? Este ambicioso estudio territorial en Extremadura evalúa los hábitos de lectura en lenguas extranjeras en 1458 estudiantes de Primaria, Secundaria, Bachillerato y Universidad.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis sociológico y territorial:",
+        "opciones": [
+          {
+            "id": "sociodemografica",
+            "texto": "Variables sociodemográficas: género, edad y nivel educativo"
+          },
+          {
+            "id": "territorial",
+            "texto": "Cartografía territorial: impacto de la ruralidad y frontera con Portugal"
+          },
+          {
+            "id": "bilingue",
+            "texto": "Políticas educativas: eficacia de las secciones bilingües AICLE"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Las administraciones públicas invierten ingentes recursos en planes de bilingüismo y fomento lingüístico, pero rara vez auditan si esa inversión se traduce en lectores autónomos en lenguas extranjeras. En una región con un 96% de municipios rurales y retos socioeconómicos específicos, la brecha de competencias lingüísticas es una prioridad de equidad.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cuál es el factor más determinante para predecir si un joven leerá habitualmente en otro idioma?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Haber sido escolarizado en una sección bilingüe AICLE y mantener un hábito lector voluntario consolidado en lengua materna.",
+            "correcta": true,
+            "explicacion": "Exacto: la competencia bilingüe interactúa directamente con el hábito lector previo; quien no lee en su lengua rara vez lee en otra."
+          },
+          {
+            "id": "c2",
+            "texto": "Comprar libros caros importados sin ninguna mediación educativa.",
+            "correcta": false,
+            "explicacion": "El acceso material no garantiza la competencia ni el hábito voluntario."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "El equipo de la Universidad de Extremadura diseñó un muestreo bietápico estratificado en 2017, recogiendo datos de 1458 estudiantes en centros urbanos y rurales. Aplicaron cartografía temática SIG para cruzar variables de sexo, etapa escolar, idioma (inglés, portugués, francés), origen familiar y uso de bibliotecas.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestreo estratificado",
+            "detalle": "1458 encuestas válidas representativas de las dos provincias extremeñas."
+          },
+          {
+            "fase": "Diseño instrumental",
+            "detalle": "Cuestionario estructurado validado que audita soportes, frecuencias y lenguas."
+          },
+          {
+            "fase": "Análisis SIG",
+            "detalle": "Georreferenciación espacial de los índices lectores para detectar brechas territoriales."
+          },
+          {
+            "fase": "Contraste de hipótesis",
+            "detalle": "Verificación de seis hipótesis sobre género, idiomas dominantes y bilingüismo."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados confirman que el inglés lidera de forma aplastante la lectura juvenil (seguido a gran distancia por el portugués y el francés). Las mujeres leen significativamente más en lenguas extranjeras que los hombres, y la asistencia a centros bilingües AICLE multiplica los índices de lectura autónoma.",
+      "datos_clave": [
+        "Estudio a gran escala con 1458 escolares y universitarios en Extremadura.",
+        "El inglés acapara más del 85% de las lecturas en idioma no materno.",
+        "Brecha de género favorable a las mujeres en lectura voluntaria en otros idiomas.",
+        "Impacto decisivo de las secciones bilingües frente a centros no bilingües ordinarios."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El trabajo se fundamenta en la sociología de la lectura de la Fundación Germán Sánchez Ruipérez, los marcos metodológicos AICLE/CLIL de Coyle, Marsh y Oliver, y las investigaciones sociodemográficas del INE y PISA.",
+      "referencias_clave": [
+        "Pérez-Parejo et al. (2018)",
+        "Coyle et al. (2010)",
+        "FGSR (2008)",
+        "MECD (2016)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "Aprender otra lengua es conquistar otra mirada: la investigación demuestra que los programas bilingües funcionan cuando van acompañados de una buena mediación bibliotecaria que acerque libros atractivos a los entornos rurales.",
+      "hallazgo_central": "Las secciones bilingües y el hábito lector femenino lideran los índices de lectura en lenguas extranjeras en Extremadura, con el inglés como idioma hegemónico y el portugués como riqueza transfronteriza."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los idiomas evaluados con su comportamiento sociolingüístico:",
+          "pares": [
+            {
+              "concepto": "Inglés",
+              "definicion": "Lengua hegemónica indiscutible con más del 85% de preferencia lectora juvenil."
+            },
+            {
+              "concepto": "Portugués",
+              "definicion": "Segundo idioma en Extremadura favorecido por la proximidad geográfica de frontera."
+            },
+            {
+              "concepto": "AICLE / CLIL",
+              "definicion": "Metodología bilingüe de aprendizaje integrado de contenidos en lengua extranjera."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Hábitos de Lectura en Lenguas Extranjeras en Extremadura",
+      "descripcion": "Estructura sociodemográfica, territorial y pedagógica de la investigación sobre hábitos de lectura en idiomas foráneos en Extremadura.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Lectura en Lenguas Extranjeras en Extremadura",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo primordial: cuantificar, cartografiar y analizar de forma exhaustiva los hábitos de lectura en idiomas distintos del español en estudiantes de Extremadura desde Primaria hasta la Universidad."
+        },
+        {
+          "id": "2",
+          "label": "Políticas de Bilingüismo y Evaluación",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Diagnóstico crítico sobre los planes institucionales de fomento lingüístico que invierten cuantiosos presupuestos sin auditar con datos objetivos el impacto real sobre las prácticas lectoras autónomas."
+        },
+        {
+          "id": "3",
+          "label": "Metodología AICLE / CLIL",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Paradigma pedagógico de Aprendizaje Integrado de Contenidos y Lenguas Extranjeras que fundamenta las secciones bilingües en centros escolares españoles para el desarrollo plurilingüe."
+        },
+        {
+          "id": "4",
+          "label": "Estructura Geográfica y Ruralidad Extremeña",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco contextual regional marcado por la baja densidad demográfica, donde más del 96% de los municipios cuenta con menos de 10 000 habitantes, planteando retos específicos de equidad."
+        },
+        {
+          "id": "5",
+          "label": "Muestra Estratificada de 1458 Estudiantes",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Muestra empírica amplia y representativa de 1458 estudiantes evaluados mediante muestreo bietápico estratificado por conglomerados geográficos cubriendo todas las comarcas de Cáceres y Badajoz."
+        },
+        {
+          "id": "6",
+          "label": "Encuesta Específica de Hábitos Lectores",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Instrumento estructurado administrado en 2017 para recoger variables de sexo, edad, etapa formativa, tipo de centro (bilingüe/ordinario), idioma leído, soporte y procedencia migrante."
+        },
+        {
+          "id": "7",
+          "label": "Tratamiento Estadístico y Cartografía SIG",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Análisis descriptivo e inferencial con software estadístico combinado con Sistemas de Información Geográfica para generar mapas temáticos espaciales del comportamiento lector regional."
+        },
+        {
+          "id": "8",
+          "label": "Hegemonía Aplastante de la Lengua Inglesa",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación empírica contundente: el inglés acapara más del 85% del volumen de lectura voluntaria foránea, consolidándose como la lengua franca vehicular casi exclusiva entre los jóvenes."
+        },
+        {
+          "id": "9",
+          "label": "Relevancia Transfronteriza del Portugués",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo singular del contexto extremeño donde el portugués ocupa la segunda posición por delante del francés, impulsado por la cercanía limítrofe con el territorio lusitano en La Raya."
+        },
+        {
+          "id": "10",
+          "label": "Mayor Implicación Lectora Femenina",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Evidencia estadística de una marcada ventaja femenina: las alumnas leen significativamente más en lenguas extranjeras y dedican mayor tiempo voluntario a la lectura que sus compañeros varones."
+        },
+        {
+          "id": "11",
+          "label": "Eficacia de las Secciones Bilingües",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Verificación empírica de que el alumnado escolarizado en centros con programas AICLE exhibe tasas sensiblemente superiores de lectura en lengua extranjera frente a centros regulares."
+        },
+        {
+          "id": "12",
+          "label": "Desarticulación en Contextos Rurales",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica sobre las disparidades territoriales entre cabeceras de comarca urbanas y pequeños núcleos rurales desprovistos de librerías y con bibliotecas menos abastecidas en otros idiomas."
+        },
+        {
+          "id": "13",
+          "label": "Aprovechamiento de la Riqueza Migrante",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión sobre el capital lingüístico del alumnado de familias inmigrantes, cuya competencia lectora en sus lenguas maternas de origen no suele ser aprovechada por el sistema escolar."
+        },
+        {
+          "id": "14",
+          "label": "Fortalecimiento de Bibliotecas Escolares AICLE",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión propositiva: dotar presupuestariamente a las bibliotecas escolares y municipales de colecciones atractivas de literatura juvenil en inglés y portugués adaptadas por niveles."
+        },
+        {
+          "id": "15",
+          "label": "Estrategia Transfronteriza con Portugal",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta de potenciar las redes escolares de intercambio y lectura compartida con el Alentejo y la región Centro de Portugal para revitalizar el plurilingüismo peninsular."
+        },
+        {
+          "id": "16",
+          "label": "Datos de Autoinforme no Observacionales",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación inherente al empleo de cuestionarios de autoinforme de frecuencias declaradas, sugiriendo triangular en futuras olas con pruebas objetivas de comprensión lectora en idioma extranjero."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "responde a la necesidad de"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga con muestra de"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se vincula a la"
+        },
+        {
+          "from": "3",
+          "to": "11",
+          "label": "se valida mediante la"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "condiciona el diseño de"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "es evaluada con"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se procesa mediante"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "demuestra empíricamente la"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "revela la"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "constata la"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "evidencia la"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "se matiza ante la"
+        },
+        {
+          "from": "9",
+          "to": "15",
+          "label": "fundamenta la"
+        },
+        {
+          "from": "10",
+          "to": "14",
+          "label": "orienta el"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "exige el"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "reclama el"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "contribuye a la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "acotada por el"
+        },
+        {
+          "from": "4",
+          "to": "12",
+          "label": "explica la"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "impulsa el consumo de"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Pérez-Parejo y sus colaboradores nos abren una ventana a la geografía del saber: en una región con horizontes amplios como Extremadura, leer en portugués y en inglés no es un lujo elitista, sino la pasarela indispensable para dialogar con el mundo entero.",
+      "preguntas_guiadas": [
+        "¿Qué porcentaje de tus lecturas anuales realizas en una lengua extranjera y cómo influyen tus aficiones digitales en esa elección?",
+        "¿Cómo pueden las escuelas rurales de frontera aprovechar la cercanía de otro idioma para fomentar el bilingüismo natural y afectivo?"
+      ]
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "id": "mejora_comprension_factores",
   "metadata": {
     "title": "Identificación de oportunidades de mejora de los niveles de comprensión lectora: factores y propuestas didácticas",
-    "authors": "María del Carmen Carceller-López, Carmen Romero-García y Raúl Cremades",
+    "authors": "Inmaculada Mena-Bernal y Beatriz Hoster",
     "year": "2025",
     "journal": "Ocnos 24(2)",
     "doi": "10.18239/Ocnos_2025.24.2.533",
@@ -12,131 +12,132 @@
     "color": "#2a5a75",
     "colorAlt": "#5b9eaa",
     "bg": "from-ocean-base/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-15.png",
+    "image": "/assets/portadas/mejora_comprension_factores.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-15.png",
-      "name": "Dra. Carmen Romero-García",
-      "role": "Investigadora en Evaluación Educativa y Comprensión Lectora, Universidad de Málaga"
+      "name": "Dra. Inmaculada Mena-Bernal",
+      "role": "Investigadora en Didáctica de la Lectura, Cardenal Spínola CEU"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Carmen Romero-García, especialista en evaluación de la comprensión lectora y diseño instruccional",
+      "personaje": "Dra. Inmaculada Mena-Bernal, especialista en didáctica de la comprensión lectora y factores de aula",
       "gancho": "¿Es la falta de comprensión culpa de los teléfonos móviles o de un modelo pedagógico que confunde evaluar con calificar?",
-      "contexto": "Los informes PIRLS y PISA alertan sobre el estancamiento de la competencia lectora. Muchas escuelas responden aplicando fichas estandarizadas de preguntas literales. En este estudio diagnóstico con 518 estudiantes andaluces de 5.º de Primaria a 2.º de ESO, los autores identificaron las variables críticas que frenan el avance lector y formularon propuestas didácticas transferibles.",
+      "contexto": "Los resultados de PIRLS 2021 sitúan a España con 521 puntos, por debajo del promedio de la OCDE (533) y de la UE (528). Esta revisión integradora mixta analiza 66 estudios publicados entre 2018 y 2023 para evaluar la presencia real en la literatura de los factores contextuales de aula y las propuestas didácticas que determinan la mejora de la comprensión lectora.",
       "deepDives": [
         {
           "id": "mcl-apertura-1",
-          "triggerLabel": "Tipología de errores inferenciales",
+          "triggerLabel": "Los nueve factores del PIRLS",
           "type": "theory",
-          "content": "Inferencias puente (coherencia local) vs. inferencias globales (modelo de situación con saberes previos)."
+          "content": "El cuestionario de contexto PIRLS 2021 identifica nueve factores de influencia directa: compromiso del estudiante, estrategias lectoras, tipos de textos, organización del aula, biblioteca escolar, evaluación, tecnologías, propuestas didácticas y formación docente."
         },
         {
           "id": "mcl-apertura-2",
-          "triggerLabel": "Muestra de 518 escolares",
+          "triggerLabel": "Revisión integradora de 66 estudios",
           "type": "data",
-          "content": "518 alumnos evaluados con pruebas estandarizadas graduadas por tipología textual."
+          "content": "Búsqueda en Dialnet, WOS, SCINAPSE y Google Scholar (2018-2023): de 1.689 resultados se incluyeron finalmente 66 estudios."
         }
       ]
     },
     "conflicto": {
-      "problema": "La escuela suele realizar pruebas que solo dicen 'aprobado o suspenso' sin desglosar si el fallo se debió a vocabulario, sintaxis o falta de inferencia.",
+      "problema": "La literatura científica se centra en elementos formales de la planificación y apenas aborda factores decisivos como la biblioteca escolar, la autonomía del alumnado, la formación docente o la evaluación.",
       "porQueImporta": "Un diagnóstico ciego conduce a recetas didácticas ineficaces que frustran a docentes y estudiantes.",
       "dataPoints": [
-        "Muestra de 518 estudiantes entre 10 y 14 años.",
-        "El 44% mostró dificultades severas en información no explícita.",
-        "La comprensión de textos discontinuos (gráficos, infografías) fue un 28% inferior a la narrativa.",
-        "Fuerte impacto del vocabulario previo del hogar en la resolución de inferencias globales."
+        "Revisión integradora de 66 estudios sobre comprensión lectora en Primaria.",
+        "La biblioteca escolar solo aparece en el 3,1% de los documentos.",
+        "La evaluación-retroalimentación aparece en el 17% y las propuestas didácticas en el 19,7% (ausentes en el 80,3%).",
+        "El 90,8% de los estudios aborda la tipología textual y el 82% el propósito de lectura."
       ],
       "glossary": [
         {
-          "term": "Texto discontinuo",
-          "definition": "Estructura textual no organizada en párrafos continuos: gráficos, mapas, tablas e infografías."
+          "term": "Factores contextuales de aula",
+          "definition": "Elementos del entorno de enseñanza (biblioteca escolar, evaluación, tecnologías, formación docente, etc.) que influyen directamente en la comprensión lectora, según el marco PIRLS 2021."
         }
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Evaluación diagnóstica y triangulación pedagógica",
-      "narrativa": "Los autores aplicaron pruebas graduadas con textos narrativos, expositivos y discontinuos en centros de Andalucía.",
+      "titulo": "Ruta metodológica: Revisión integradora mixta en dos fases",
+      "narrativa": "Las autoras combinaron una revisión integradora con análisis estadístico descriptivo (tablas de contingencia y chi-cuadrado) y un examen crítico de las conclusiones de los estudios seleccionados.",
       "detalles": [
         {
           "label": "Población",
-          "value": "518 estudiantes de 5.º-6.º Primaria y 1.º-2.º ESO."
+          "value": "66 estudios sobre comprensión lectora en Educación Primaria (2018-2023)."
         },
         {
           "label": "Textos",
-          "value": "Textos continuos (narrativo/científico) y discontinuos (infografías)."
+          "value": "Búsquedas en Dialnet, WOS, SCINAPSE y Google Scholar."
         }
       ],
       "limitaciones": [
-        "Muestra circunscrita a centros de Andalucía."
+        "No incluye publicaciones en lenguas distintas del español y del inglés.",
+        "Carece de un instrumento validado de recogida de datos."
       ],
       "reflexion": "No se puede curar una dificultad si no se ausculta con precisión dónde sangra el significado."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: El naufragio en el texto expositivo y discontinuo",
-      "narrativa": "Los datos revelaron puntos ciegos alarmantes en la competencia lectora escolar:",
+      "titulo": "Hallazgos: La biblioteca escolar y la evaluación, grandes ausentes",
+      "narrativa": "Los datos revelaron puntos ciegos alarmantes en la investigación sobre comprensión:",
       "hallazgos": [
         {
-          "label": "1. Espejismo Narrativo",
-          "value": "Los alumnos aprueban cuentos cotidianos pero colapsan ante textos de ciencias."
+          "label": "1. Ausencia de la Biblioteca Escolar",
+          "value": "La biblioteca escolar apenas aparece en el 3,1% de los documentos analizados."
         },
         {
-          "label": "2. Analfabetismo en Infografías",
-          "value": "Más de la mitad no sabe integrar texto con la leyenda o ejes de un gráfico."
+          "label": "2. Propuestas Didácticas Escasas",
+          "value": "Solo el 19,7% de los estudios presenta una propuesta didáctica, ausente en el 80,3%."
         }
       ],
       "dataPoints": [
-        "Diferencia de acierto del 31% entre localización literal y evaluación crítica."
+        "En los estudios con propuesta didáctica, la biblioteca escolar no aparece en ninguno (0%)."
       ],
-      "reflexion": "En el siglo XXI, saber leer es saber navegar en un mar de textos discontinuos y visuales."
+      "reflexion": "En el siglo XXI, saber leer es tarea de toda la escuela: ningún factor de aula puede quedar al margen."
     },
     "marco": {
-      "titulo": "Discusión: Propuestas didácticas para una intervención eficaz",
-      "narrativa": "Los autores proponen modelar en voz alta las inferencias y trabajar infografías en todas las disciplinas.",
+      "titulo": "Discusión: Atender sistemáticamente todos los factores de aula",
+      "narrativa": "Las autoras insisten en planificar propuestas didácticas que atiendan cada factor y ponerlas al servicio de las aulas.",
       "detalles": [
         {
-          "label": "Modelado Docente Explícito",
-          "value": "'Pensar en voz alta' mostrando cómo el profesor deduce lo implícito."
+          "label": "Práctica Docente como Eje",
+          "value": "La práctica docente es el eje vertebrador: selecciona técnicas que activan estrategias metacognitivas y cognitivas."
         }
       ],
       "reflexion": "La comprensión lectora no es una asignatura: es el aire que respira todo el aprendizaje."
     },
     "nucleo": {
-      "pregunta": "¿Qué factores determinan las dificultades de comprensión en escolares de 10 a 14 años?",
-      "conclusion": "El diagnóstico sobre 518 estudiantes evidencia que las principales oportunidades de mejora residen en la comprensión de textos expositivos y discontinuos y en la realización de inferencias globales. Se propone la enseñanza explícita del modelado inferencial y el trabajo con infografías en todas las materias.",
-      "formalRef": "Carceller-López, M. C., Romero-García, C., & Cremades, R. (2025). Identificación de oportunidades de mejora de los niveles de comprensión lectora: factores y propuestas didácticas. Ocnos, 24(2). https://doi.org/10.18239/Ocnos_2025.24.2.533"
+      "pregunta": "¿Qué presencia tienen los factores contextuales de aula y las propuestas didácticas en la literatura sobre comprensión lectora?",
+      "conclusion": "La revisión integradora de 66 estudios evidencia que la literatura se centra en factores formales (tipología textual, propósito, organización del aula) y descuida otros decisivos como la biblioteca escolar (3,1%), la evaluación (17%), las propuestas didácticas (19,7%), la formación docente y la autonomía (20%). Se concluye la necesidad de atender sistemáticamente todos los factores contextuales de aula mediante propuestas didácticas.",
+      "formalRef": "Mena-Bernal, I., & Hoster, B. (2025). Identificación de oportunidades de mejora de los niveles de comprensión lectora: factores y propuestas didácticas. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.533"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué formato textual presentó el mayor nivel de dificultad para los 518 estudiantes evaluados?",
+          "q": "¿Qué factor contextual de aula resultó ser el menos presente en la literatura analizada?",
           "options": [
-            "Los cuentos de aventuras.",
-            "Los textos discontinuos (gráficos, tablas, infografías) y expositivos científicos.",
-            "Los cómics de humor.",
-            "Los mensajes de felicitación."
+            "La tipología textual.",
+            "La biblioteca escolar (solo en el 3,1% de los documentos).",
+            "El propósito de lectura.",
+            "La organización del aula."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué tipo de inferencia resultó ser el mayor obstáculo para el 44 % del alumnado?",
+          "q": "¿Qué porcentaje de los estudios analizados incluye alguna propuesta didáctica?",
           "options": [
-            "Saber qué personaje habla.",
-            "La inferencia global que exige integrar ideas distantes con conocimientos previos.",
-            "Recordar el color del título.",
-            "Contar las páginas."
+            "El 80,3%.",
+            "El 19,7%.",
+            "El 90,8%.",
+            "El 100%."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Cuál es la propuesta metodológica recomendada por los autores para enseñar a inferir?",
+          "q": "¿Qué recomiendan las autoras para mejorar la comprensión lectora en el aula?",
           "options": [
             "Hacer más exámenes sorpresa.",
-            "El modelado docente explícito ('pensar en voz alta' mostrando cómo deducir lo implícito).",
+            "Atender sistemáticamente todos los factores contextuales de aula mediante propuestas didácticas.",
             "Castigar a quienes no lean rápido.",
             "Copiar el diccionario."
           ],
@@ -144,34 +145,34 @@
         },
         {
           "type": "open",
-          "q": "Elige una infografía y diseña 3 preguntas de comprensión graduadas: literal, inferencial y crítica."
+          "q": "Diseña una propuesta didáctica de comprensión lectora que integre la biblioteca escolar, la evaluación formativa y el fomento de la autonomía."
         },
         {
           "type": "open",
-          "q": "¿Cómo implementarías la técnica de 'pensar en voz alta' para enseñar a detectar ironías en un texto?"
+          "q": "¿Cómo diseñarías una formación docente para que el profesorado atienda los nueve factores contextuales de aula del PIRLS?"
         }
       ]
     }
   },
   "tutorTexts": {
     "apertura": {
-      "text": "Bienvenido al diagnóstico pedagógico. Vamos a descubrir por qué tantos alumnos tropiezan en los exámenes de lectura.",
+      "text": "Bienvenido al diagnóstico pedagógico. Vamos a descubrir qué factores de aula desatiende la investigación sobre lectura.",
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "No basta con decir que 'los niños no comprenden'. Hay que desglosar en qué tipo de textos y preguntas fallan.",
+      "text": "No basta con constatar los bajos resultados. Hay que revisar qué factores de aula atiende de verdad la literatura científica.",
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "518 alumnos evaluados con textos narrativos, científicos e infografías para mapear la brecha real.",
+      "text": "66 estudios revisados (2018-2023) para medir la presencia real de los factores de aula.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El problema son las ciencias y los gráficos! El texto discontinuo es el gran agujero negro escolar.",
+      "text": "¡La biblioteca escolar y la evaluación son las grandes ausentes! La literatura se olvida de los factores decisivos.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "Modelar en voz alta cómo inferir es la mejor técnica docente: enseñar a los alumnos a ver lo invisible en la página.",
+      "text": "La práctica docente es el eje: seleccionar técnicas que activen estrategias metacognitivas y cognitivas.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -179,119 +180,238 @@
       "position": "bottom-right"
     },
     "mapa": {
-      "text": "Explora el mapa para conectar las inferencias globales, los textos discontinuos, el modelado y la mejora didáctica.",
+      "text": "Explora el mapa para conectar los factores contextuales de aula, las propuestas didácticas y las oportunidades de mejora.",
       "position": "bottom-right"
     },
     "reflexion": {
-      "text": "Comprueba lo aprendido y diseña estrategias para entrenar la lectura crítica e inferencial en tu aula.",
+      "text": "Comprueba lo aprendido y diseña propuestas didácticas que atiendan todos los factores de aula.",
       "position": "bottom-right"
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Factores y Propuestas de Mejora en Comprensión Lectora",
-    "descripcion": "Estudio con 518 escolares: textos discontinuos, inferencias puente vs. globales, modelado 'pensar en voz alta' e intervención transversal.",
+    "titulo": "Mapa conceptual: Factores de mejora de la comprensión lectora (Ocnos 24(2) 2025)",
+    "descripcion": "Desde los bajos resultados PIRLS 2021 y el marco legislativo de la comprensión lectora, la revisión mixta en dos fases de 66 estudios cuantifica la presencia desigual de los factores contextuales de aula, extrae los argumentos coincidentes de la literatura y perfila oportunidades de mejora, limitaciones y líneas futuras.",
     "nodos": [
       {
         "id": "1",
-        "label": "Diagnóstico de Comprensión (518 alumnos)",
-        "color": "#2a5a75"
+        "label": "PIRLS 2021: España 521 puntos",
+        "color": "#e76f51",
+        "role": "Marco teórico",
+        "descripcion": "El Estudio Internacional de Progreso en Comprensión Lectora sitúa a España con una media de 521, por debajo del promedio OCDE (533) y de la UE (528), lo que exige enfocar la investigación hacia la mejora de la comprensión en las aulas."
       },
       {
         "id": "2",
-        "label": "Textos Discontinuos e Infografías",
-        "color": "#e76f51"
+        "label": "Marco legal de la comprensión lectora",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "El Real Decreto 157/2022 define al final de Primaria el desarrollo de estrategias de comprensión antes, durante y después de la lectura, la identificación de ideas relevantes, las inferencias, la valoración crítica y los elementos paratextuales."
       },
       {
         "id": "3",
-        "label": "Textos Expositivos Científicos",
-        "color": "#c73e1d"
+        "label": "CompL, rendimiento y funciones ejecutivas",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La comprensión lectora se correlaciona con el rendimiento académico (Jover-Mira et al., 2020; Gómez-Chacón et al., 2014) y con destrezas como velocidad, fluidez e idea principal (Viramontes-Anaya et al., 2019). Su nivel se extiende a la memoria de trabajo, inhibición y atención (Rello-Segovia et al., 2018) y a la construcción de autonomía (Agudelo-Palacio, 2019)."
       },
       {
         "id": "4",
-        "label": "Inferencias Globales",
-        "color": "#88b04b"
+        "label": "Factores contextuales de aula del PIRLS",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "El cuestionario de contexto PIRLS 2021 (Mullis y Martin, 2021) identifica nueve factores de influencia directa: compromiso del estudiante, estrategias lectoras, tipos de textos, organización del aula, biblioteca escolar, evaluación de los procesos, tecnologías, propuestas didácticas y formación del profesorado."
       },
       {
         "id": "5",
-        "label": "Inferencias Puente (Coherencia Local)",
-        "color": "#5b9eaa"
+        "label": "Objetivos e hipótesis sobre la literatura",
+        "color": "#c73e1d",
+        "role": "Objetivo",
+        "descripcion": "O1: investigar y evaluar la presencia de factores contextuales y propuestas didácticas en la literatura. O2: establecer los argumentos comunes de sus conclusiones como oportunidad de mejora en PIRLS. H1: la literatura no aborda factores y propuestas fundamentales; H2: sí pueden establecerse argumentos de mejora."
       },
       {
         "id": "6",
-        "label": "Espejismo del Éxito Narrativo",
-        "color": "#f4d068"
+        "label": "Método mixto en dos fases",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Fase 1: mediciones objetivas de presencia/no presencia de factores con revisión integradora (Guirao-Goris, 2015; Hart, 2018). Fase 2: examen crítico de los textos científicos para identificar argumentos coincidentes mediante análisis de contenido (López-Noguero, 2002; Pole, 2009)."
       },
       {
         "id": "7",
-        "label": "Modelado Docente ('Pensar en Voz Alta')",
-        "color": "#2a9d8f"
+        "label": "Revisión integradora de 66 estudios",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Búsquedas en Dialnet, WOS, SCINAPSE y Google Scholar (2018-2023) sobre comprensión lectora de hablantes españoles de Primaria: 1.689 resultados, 106 pre-incluidos y 66 incluidos; se excluyeron TFG, TFM, tesis, documentos no referenciables y sesgos de autoría."
       },
       {
         "id": "8",
-        "label": "Vocabulario Académico de Fondo",
-        "color": "#9b82c3"
+        "label": "Categorías equivalentes al PIRLS",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Por equivalencia con el marco PIRLS se definen variables dicotómicas: motivación (MA), características de estudiantes (CE), propósito (PL) y estrategias de lectura (EL), tipología textual (TT), organización del aula (OA), biblioteca escolar (BE), evaluación (EA), tecnologías (TI), propuestas didácticas (PD), fomento de autonomía (FA) y preparación docente."
       },
       {
         "id": "9",
-        "label": "Lectura Interdisciplinar",
-        "color": "#264653"
+        "label": "Tablas de contingencia y chi-cuadrado",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "El estadístico descriptivo relaciona variables dicotómicas con tablas de contingencia para obtener frecuencias absolutas y porcentajes de presencia, y el chi-cuadrado estima la asociación de cada factor con las propuestas didácticas al 5% de significación (Moreno-Rebollo y Pascual-Acosta, 2006)."
       },
       {
         "id": "10",
-        "label": "Evaluación Formativa Analítica",
-        "color": "#f4a261"
+        "label": "Baja presencia de factores clave",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "La biblioteca escolar aparece solo en el 3,1% de los documentos; la evaluación-retroalimentación en el 17%; las propuestas didácticas en el 19,7% (ausentes en el 80,3%); la preparación docente y el fomento de la autonomía en el 20%; las TIC en el 29%."
+      },
+      {
+        "id": "11",
+        "label": "Alta presencia de factores formales",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "El 90,8% aborda la tipología textual, el 82% el propósito de lectura y el 76,9% la organización del aula; en nivel intermedio quedan las características de estudiantes (54%), las estrategias de lectura (49%) y la motivación (36,4%)."
+      },
+      {
+        "id": "12",
+        "label": "Variables asociadas a la propuesta didáctica",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Dado que el 100% de los documentos contempla dos o más variables, el análisis chi-cuadrado muestra p-valores menores que 0,05: todas las variables están asociadas a la presencia de propuesta didáctica."
+      },
+      {
+        "id": "13",
+        "label": "Déficits de las PD localizadas",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "En los estudios con propuesta didáctica ningún trabajo (0%) incluye la biblioteca escolar; bajan también las características de estudiantes (33,3%), la preparación docente (41,7%) y la evaluación (46,2%), frente a tipología (92,3%) y propósito de lectura (84,6%)."
+      },
+      {
+        "id": "14",
+        "label": "Conclusiones comunes en cuatro aspectos",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El examen crítico detecta coincidencias en: práctica docente como eje motivador y de técnicas; estrategias metacognitivas, cognitivas y ejecutivas ligadas a memoria de trabajo y atención (De-la-Peña y Ballell, 2019; Mesía-Vargas et al., 2021); selección de materiales y TIC como factor motivador; y confianza del alumno, resiliencia y autoconcepto lector (García-Crespo et al., 2019; Orellana et al., 2020)."
+      },
+      {
+        "id": "15",
+        "label": "Atención sistemática a todos los factores",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "La literatura se centra en elementos formales de la planificación y obvia biblioteca, autonomía, formación docente y evaluación, lo que condiciona la mejora; es necesario planificar propuestas didácticas que atiendan cada factor y ponerlas al servicio de las aulas."
+      },
+      {
+        "id": "16",
+        "label": "Implicaciones y línea futura",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "Los docentes deben analizar si su proceso incluye los factores y rediseñar sus propuestas; las instituciones deben considerar los condicionantes contextuales en los planes de estudio. Como línea futura se plantea explorar cuánto conocen y atienden estos factores los docentes de aulas españolas y diseñar formaciones."
+      },
+      {
+        "id": "17",
+        "label": "Límites de la revisión",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "El estudio no incluye publicaciones en lenguas distintas del español y el inglés y convive con la aparición continua de nuevas publicaciones; además, la falta de un instrumento validado de recogida de datos limita la futura exploración y evidencia la necesidad de diseñarlo."
       }
     ],
     "aristas": [
       {
         "from": "1",
-        "to": "2",
-        "label": "identifica severo colapso en"
+        "to": "5",
+        "label": "motiva el"
       },
       {
-        "from": "1",
-        "to": "3",
-        "label": "evidencia gran dificultad ante"
-      },
-      {
-        "from": "1",
-        "to": "4",
-        "label": "constata el obstáculo de las"
+        "from": "2",
+        "to": "5",
+        "label": "exige el"
       },
       {
         "from": "4",
-        "to": "8",
-        "label": "requiere para su éxito un rico"
+        "to": "3",
+        "label": "condicionan el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "justifica el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se aborda con un"
       },
       {
         "from": "6",
-        "to": "1",
-        "label": "enmascara la brecha en el"
+        "to": "7",
+        "label": "se materializa en la"
+      },
+      {
+        "from": "4",
+        "to": "7",
+        "label": "orienta las categorías de la"
       },
       {
         "from": "7",
-        "to": "4",
-        "label": "enseña explícitamente a resolver las"
+        "to": "8",
+        "label": "declara las"
       },
       {
-        "from": "7",
-        "to": "5",
-        "label": "modela la construcción de"
-      },
-      {
-        "from": "9",
-        "to": "2",
-        "label": "integra en todas las asignaturas los"
-      },
-      {
-        "from": "10",
-        "to": "1",
-        "label": "supera las notas globales mediante una"
+        "from": "8",
+        "to": "9",
+        "label": "se procesan con"
       },
       {
         "from": "9",
         "to": "10",
-        "label": "culmina en una sólida"
+        "label": "cuantifica la"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "cuantifica la"
+      },
+      {
+        "from": "10",
+        "to": "12",
+        "label": "motiva el estudio de la"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "detallan los déficits de la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "contrastan con los"
+      },
+      {
+        "from": "6",
+        "to": "14",
+        "label": "extrae las"
+      },
+      {
+        "from": "11",
+        "to": "15",
+        "label": "contrasta con la"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "exigen la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "refuerza la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "desemboca en las"
+      },
+      {
+        "from": "17",
+        "to": "16",
+        "label": "acotan las"
       }
     ]
   }

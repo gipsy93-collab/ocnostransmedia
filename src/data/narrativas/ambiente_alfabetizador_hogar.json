@@ -2,51 +2,51 @@
   "id": "ambiente_alfabetizador_hogar",
   "metadata": {
     "title": "Ambiente alfabetizador del hogar. Análisis de perfiles según nivel socio-económico",
-    "authors": "Carla Muñoz y Nicole Frez-Aróstica",
+    "authors": "Carla Muñoz, Nicole Frez-Aróstica, Jorge Valenzuela y Alex Centeno",
     "year": "2025",
     "journal": "Ocnos 24(1)",
-    "doi": "10.18239/ocnos2025.24.1.475",
-    "gancho": "¿Cuántos libros en casa y cuántas horas de conversación familiar marcan el destino lector de un niño tras la pandemia?",
+    "doi": "10.18239/ocnos_2025.24.1.475",
+    "gancho": "¿Cuánto manda realmente el bolsillo familiar en el ambiente alfabetizador del hogar después de la pandemia?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#e76f51",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-22.png",
+    "image": "/assets/portadas/ambiente_alfabetizador_hogar.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-22.png",
       "name": "Dra. Carla Muñoz",
-      "role": "Investigadora en Desarrollo Lector y Familia, Universidad Católica de la Santísima Concepción (Chile)"
+      "role": "Investigadora en Desarrollo Lector y Familia, Universidad Católica del Maule (Chile)"
     }
   },
   "blocks": {
     "apertura": {
       "personaje": "Dra. Carla Muñoz, especialista en ambiente alfabetizador familiar y alfabetización temprana",
       "gancho": "¿Es el dinero o el tiempo compartido con historias lo que verdaderamente predice el éxito escolar de la infancia?",
-      "contexto": "El confinamiento por Covid-19 cerró las escuelas infantiles y dejó a los niños a merced exclusiva de las prácticas letradas de sus hogares. En este estudio post-pandemia en Chile, las autoras analizaron los perfiles del Ambiente Alfabetizador del Hogar (Home Literacy Environment, HLE) en familias de párvulos de distintos niveles socioeconómicos, examinando recursos materiales, frecuencia de lectura compartida, creencias parentales e interacciones dialógicas.",
+      "contexto": "El confinamiento por Covid-19 cerró las escuelas infantiles y dejó a los niños a merced exclusiva de las prácticas letradas de sus hogares. En este estudio post-pandemia en Chile, los autores analizaron los perfiles del Ambiente Alfabetizador del Hogar (AAH) en 326 familias de Pre-Kínder de la Región del Maule de distintos niveles socioeconómicos, examinando prácticas orientadas al código y a la cultura, creencias parentales sobre la literacidad y valor por la lectura.",
       "deepDives": [
         {
           "id": "hle-apertura-1",
           "triggerLabel": "HLE formal vs. informal (Sénéchal)",
           "type": "theory",
-          "content": "El HLE formal enseña letras y escritura directa; el HLE informal (leer cuentos por placer y conversar) predice el vocabulario y la comprensión auditiva profunda."
+          "content": "Las experiencias formales enseñan explícitamente el código y se ligan al conocimiento de las letras; las informales, centradas en el significado, se relacionan con el lenguaje oral y el vocabulario."
         },
         {
           "id": "hle-apertura-2",
           "triggerLabel": "Análisis de conglomerados (Clusters)",
           "type": "data",
-          "content": "Clasificación de las familias en 3 perfiles diferenciados: Enriquecido, Moderado y Vulnerable."
+          "content": "Clasificación de las familias en 2 perfiles: Enriquecido (n=225) y Discreto (n=101); la solución de tres clústeres fue descartada por incluir un único sujeto."
         }
       ]
     },
     "conflicto": {
       "problema": "La brecha de oportunidades letradas en el hogar se ensanchó dramáticamente durante la pandemia, afectando a la adquisición del lenguaje inicial.",
-      "porQueImporta": "El capital cultural del hogar antes de los 6 años explica hasta un 40% de la varianza en la comprensión lectora en cursos avanzados de Primaria.",
+      "porQueImporta": "El AAH es predictor reconocido del desarrollo temprano: el metaanálisis de Dong et al. (2020) halló una correlación de tamaño moderado (z = .32) con la comprensión lectora.",
       "dataPoints": [
-        "Muestra de familias de párvulos en centros urbanos chilenos.",
-        "Identificación de 3 perfiles claros de ambiente letrado mediante análisis de clústeres.",
-        "El 32% de los hogares vulnerables contaba con menos de 5 libros infantiles en casa.",
-        "Las familias del perfil enriquecido leían cuentos al menos 4 veces por semana frente a menos de 1 vez en el perfil vulnerable."
+        "Muestra de 326 familias de Pre-Kínder de establecimientos urbanos y rurales de la Región del Maule (NSE bajo 31,9%, medio 32,8%, alto 36,2%).",
+        "Identificación de 2 perfiles de ambiente letrado mediante análisis de conglomerados K-means: enriquecido (n=225) y discreto (n=101).",
+        "Contra lo esperado, los perfiles no mostraron asociación con el nivel socioeconómico (prueba chi cuadrado, p = .727).",
+        "Los niños promediaban 4,69 años y carecían de experiencia preescolar previa por el confinamiento."
       ],
       "glossary": [
         {
@@ -57,15 +57,15 @@
     },
     "viaje": {
       "titulo": "Ruta metodológica: Escala HLE y modelado de perfiles",
-      "narrativa": "Las investigadoras aplicaron un cuestionario multidimensional baremado sobre prácticas lectoras del hogar y cruzaron los datos con el NSE familiar.",
+      "narrativa": "Los autores aplicaron el cuestionario AAH de cuatro subescalas Likert (1 a 6) y clasificaron a las familias con un análisis de conglomerados K-means, contrastando los perfiles con el NSE mediante una prueba chi cuadrado.",
       "detalles": [
         {
           "label": "Participantes",
-          "value": "Familias de niños de Kínder y Prekínder en Chile."
+          "value": "326 familias con hijos matriculados en Pre-Kínder en 2022, sin experiencia preescolar previa, en la Región del Maule, Chile."
         },
         {
           "label": "Variables",
-          "value": "Disponibilidad de libros, frecuencia de lectura, actividades fonológicas y modelado adulto."
+          "value": "Prácticas orientadas al código, prácticas orientadas a la cultura, creencias parentales sobre literacidad y valor por la lectura."
         }
       ],
       "limitaciones": [
@@ -74,49 +74,49 @@
       "reflexion": "La cuna letrada de un hogar no se compra con dinero: se teje con palabras de amor y cuentos leídos al acostarse."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: La mediación dialógica supera a la mera posesión de libros",
+      "titulo": "Hallazgos empíricos: dos perfiles sin marca socioeconómica",
       "narrativa": "Los resultados aportaron un mensaje de esperanza y acción política:",
       "hallazgos": [
         {
-          "label": "1. El Efecto Compensatorio del Diálogo",
-          "value": "Familias de bajos ingresos que conversaban activamente sobre cuentos sencillos igualaron el nivel lingüístico de hogares de ingresos altos."
+          "label": "1. Dos perfiles claros",
+          "value": "El análisis K-means separó un perfil enriquecido, con puntuaciones altas y coherentes en prácticas, creencias y valor por la lectura, y un perfil discreto con el patrón inverso (p < .001)."
         },
         {
-          "label": "2. Ceguera hacia la Lectura Recreativa",
-          "value": "Muchos hogares vulnerables reducen la lectura a 'hacer tareas escolares', olvidando el placer compartido del cuento nocturno."
+          "label": "2. El NSE no explica los perfiles",
+          "value": "Los ambientes enriquecidos y discretos se distribuyeron en proporción al tamaño de cada grupo socioeconómico, sin sobre-representación alguna, contradiciendo hallazgos precedentes."
         }
       ],
       "dataPoints": [
-        "Correlación significativa (r = .51) entre frecuencia de lectura compartida y riqueza léxica del párvulo."
+        "Las subescalas del AAH se correlacionaron positiva y significativamente: prácticas código-cultura .76 y creencias-valor por la lectura .66 (p < .001)."
       ],
       "reflexion": "Un libro leído en el regazo materno o paterno vale por cien explicaciones en una pizarra."
     },
     "marco": {
-      "titulo": "Discusión: Políticas públicas de préstamo y bibliotecas itinerantes",
-      "narrativa": "Muñoz y Frez-Aróstica instan al Estado a dotar de bibliotecas familiares a los hogares vulnerables:",
+      "titulo": "Discusión: detección temprana de ambientes discretos",
+      "narrativa": "Muñoz, Frez-Aróstica, Valenzuela y Centeno destacan el valor del instrumento para la intervención educativa en la postpandemia:",
       "detalles": [
         {
-          "label": "Maletas Viajeras Escolares",
-          "value": "Enviar libros hermosos a los hogares cada semana para dinamizar la interacción familiar."
+          "label": "Identificación temprana",
+          "value": "El cuestionario AAH, una medida válida, confiable, de fácil aplicación y bajo costo en español, permitiría a las educadoras detectar familias con ambientes discretos y disminuir las brechas de literacidad."
         }
       ],
       "reflexion": "Regalar libros a una familia pobre es sembrar justicia y futuro en su salón."
     },
     "nucleo": {
       "pregunta": "¿Cómo se configuran los perfiles de ambiente alfabetizador en el hogar según el nivel socioeconómico en la etapa preescolar?",
-      "conclusion": "El estudio identifica tres perfiles marcados de ambiente alfabetizador familiar en Chile. Si bien el nivel socioeconómico condiciona la cantidad de libros impresos disponibles, la calidad de la mediación dialógica parental y la frecuencia de lectura recreativa demuestran tener un poder amortiguador decisivo frente a la vulnerabilidad, señalando la necesidad urgente de programas de biblioteca viajera y orientación familiar comunitaria.",
-      "formalRef": "Muñoz, C., & Frez-Aróstica, N. (2025). Ambiente alfabetizador del hogar. Análisis de perfiles según nivel socio-económico. Ocnos, 24(1). https://doi.org/10.18239/ocnos2025.24.1.475"
+      "conclusion": "El estudio identifica dos perfiles de ambiente alfabetizador: enriquecido (n=225) y discreto (n=101). Contra lo esperado, los perfiles no mostraron asociación con el nivel socioeconómico de las familias, un resultado que los autores vinculan a las dinámicas del confinamiento. La fortaleza central es una medida válida y confiable del AAH en español, útil para identificar tempranamente perfiles de riesgo e intervenir en la postpandemia.",
+      "formalRef": "Muñoz, C., Frez-Aróstica, N., Valenzuela, J., & Centeno, A. (2025). Ambiente alfabetizador del hogar. Análisis de perfiles según nivel socio-económico. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.475"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué aspecto del ambiente familiar demostró ser más potente para amortiguar la desventaja socioeconómica en el vocabulario infantil?",
+          "q": "¿Con qué variable social se asociaron los perfiles de ambiente alfabetizador hallados en el estudio?",
           "options": [
-            "Tener una televisión de gran pantalla en el dormitorio.",
-            "La frecuencia de lectura compartida dialógica y las conversaciones sobre historias entre padres e hijos.",
-            "Comprar enciclopedias caras que nadie abre.",
-            "Hacer que el niño copie planas de letras de memoria."
+            "Con el nivel socioeconómico de forma marcada.",
+            "Con ninguna: contra lo esperado, los perfiles no mostraron asociación con el nivel socioeconómico (p = .727).",
+            "Con el número de libros comprados en el último año.",
+            "Con la asistencia previa a guardería."
           ],
           "correct": 1
         },
@@ -133,10 +133,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué propuesta comunitaria destacan las autoras para apoyar a los hogares de perfiles vulnerables?",
+          "q": "¿Qué aplicación práctica destacan los autores para el cuestionario AAH?",
           "options": [
             "Multar a los padres que no lean cuentos.",
-            "Implementar programas de 'maletas viajeras' y bibliotecas escolares itinerantes que lleven álbumes ilustrados al hogar semanalmente.",
+            "Que las educadoras lo usen para identificar temprano a las familias con ambientes discretos y disminuir las brechas de literacidad.",
             "Cerrar las escuelas infantiles.",
             "Prohibir que los niños hablen en casa."
           ],
@@ -144,11 +144,11 @@
         },
         {
           "type": "open",
-          "q": "¿Cómo diseñarías una guía sencilla de 5 consejos prácticos para entregar a familias vulnerables para animarlas a leer cuentos aunque los padres tengan bajo nivel de escolaridad?"
+          "q": "¿Cómo diseñarías una guía sencilla de 5 consejos prácticos para entregar a familias con ambiente discreto, animándolas a leer cuentos aunque los padres tengan bajo nivel de escolaridad?"
         },
         {
           "type": "open",
-          "q": "¿Qué papel pueden desempeñar las bibliotecas públicas de barrio para convertirse en un segundo hogar letrado para las infancias desfavorecidas?"
+          "q": "Según las conclusiones del estudio, ¿qué papel juega la familia como primer agente educativo en la vida de los niños y cómo podrían apoyarlo las educadoras con el cuestionario AAH?"
         }
       ]
     }
@@ -159,7 +159,7 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "La pandemia dejó a muchos niños sin libros ni palabras. ¿Cómo se reconstruye el ambiente alfabetizador familiar?",
+      "text": "La pandemia dejó a la familia como único acceso a la cultura escrita. ¿Qué ocurre en esos hogares?",
       "position": "bottom-right"
     },
     "viaje": {
@@ -167,11 +167,11 @@
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El diálogo vence al dinero! Hablar sobre los cuentos compensa con creces tener menos libros en la estantería.",
+      "text": "¡Sorpresa! El nivel socioeconómico no marca los perfiles: ambientes enriquecidos y discretos conviven en todos los grupos.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "Llenemos las casas de libros con maletas viajeras escolares: la equidad empieza en la infancia temprana.",
+      "text": "Detectar temprano los ambientes discretos con el cuestionario AAH es la llave para cerrar las brechas de la pandemia.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -188,110 +188,215 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Ambiente Alfabetizador del Hogar (HLE) y Equidad Infantil",
-    "descripcion": "Estudio de perfiles letrados en Chile: HLE formal vs. informal, nivel socioeconómico, lectura dialógica y maletas viajeras.",
+    "titulo": "Mapa conceptual: Perfiles de ambiente alfabetizador del hogar y nivel socioeconómico (Ocnos 24(1) 2025)",
+    "descripcion": "Del marco del AAH y del contexto pandémico chileno al cuestionario aplicado a 326 familias: el análisis K-means reveló dos perfiles, enriquecido y discreto, sin asociación con el nivel socioeconómico, con implicaciones para la identificación temprana.",
     "nodos": [
       {
         "id": "1",
-        "label": "Ambiente Alfabetizador Hogar (HLE)",
-        "color": "#e76f51"
+        "label": "Ambiente alfabetizador del hogar (AAH)",
+        "color": "#e76f51",
+        "role": "Marco teórico",
+        "descripcion": "Entorno familiar de actividades, experiencias y actitudes que potencian los precursores de lectura, escritura y lenguaje (Burgess et al., 2002; Sénéchal et al., 2017). Predictor reconocido del desarrollo temprano de la alfabetización."
       },
       {
         "id": "2",
-        "label": "Perfiles Socioeconómicos",
-        "color": "#2a5a75"
+        "label": "Prácticas orientadas al código y la cultura",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Reformulación de las experiencias formales e informales (Sénéchal et al., 1998) y los procesos activos y pasivos (Burgess et al., 2002). Las prácticas orientadas al código enseñan letras y números; las culturales vinculan al niño con lo escrito mediado por la familia (Barton y Hamilton, 2012)."
       },
       {
         "id": "3",
-        "label": "HLE Informal (Lectura Placentera)",
-        "color": "#88b04b"
+        "label": "Creencias parentales y valor por la lectura",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Las creencias sobre la literacidad influyen en los precursores de lectura y el lenguaje (Lai et al., 2022; Niklas et al., 2020). Weigel et al. (2006) mostraron que creencias positivas crean una atmósfera de interés. El meta-análisis de Dong et al. (2020) halló correlación moderada del AAH con comprensión lectora (z=.32)."
       },
       {
         "id": "4",
-        "label": "HLE Formal (Enseñanza de Letras)",
-        "color": "#5b9eaa"
+        "label": "Confinamiento y cierre escolar en Chile",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Chile acumuló 147 y 112 días de cierre escolar en 2020 y 2021, el máximo de la OCDE. La familia quedó como único agente de socialización con la cultura escrita y los niños de bajo NSE fueron los más afectados (Abufhele y Bravo, 2021; Goudeau et al., 2021)."
       },
       {
         "id": "5",
-        "label": "Lectura Compartida Dialógica",
-        "color": "#2a9d8f"
+        "label": "Objetivo: perfiles de AAH y nivel socioeconómico",
+        "color": "#f4a261",
+        "role": "Objetivo",
+        "descripcion": "Caracterizar los perfiles de ambiente alfabetizador del hogar en familias chilenas preescolares en contexto post-pandémico, a partir de prácticas, creencias y valor por la lectura. Se testea la hipótesis de que los perfiles se relacionan con el nivel socioeconómico."
       },
       {
         "id": "6",
-        "label": "Impacto Post-Pandemia",
-        "color": "#c73e1d"
+        "label": "326 familias de Pre-Kínder (Maule)",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Familias con hijos de 4,69 años promedio que ingresaron a Pre-Kínder en 2022 sin experiencia preescolar previa por el confinamiento, en establecimientos de la Región del Maule. NSE bajo (31,9%), medio (32,8%) y alto (36,2%), con la dependencia administrativa como proxy (González, 2017)."
       },
       {
         "id": "7",
-        "label": "Efecto Amortiguador del Diálogo",
-        "color": "#f4d068"
+        "label": "Cuestionario AAH de cuatro subescalas",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Instrumento ad hoc de autorreporte con subescalas Likert (1-6): prácticas al código, prácticas culturales, creencias parentales y valor por la lectura. Confiabilidades de Cronbach .76 a .88 y ajuste factorial confirmatorio adecuado (DWLS). Respondieron 99%, madres en 86,3% de los casos."
       },
       {
         "id": "8",
-        "label": "Disponibilidad de Libros Infantiles",
-        "color": "#9b82c3"
+        "label": "K-means y chi cuadrado",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Análisis de conglomerados K-means con puntajes estandarizados de las cuatro subescalas y prueba chi cuadrado para la asociación con el NSE, en Jamovi y JASP. Una solución de tres clústeres se descartó por incluir un único sujeto."
       },
       {
         "id": "9",
-        "label": "Maletas Viajeras Escolares",
-        "color": "#264653"
+        "label": "AAH como constructo latente válido",
+        "color": "#2a5a75",
+        "role": "Resultados",
+        "descripcion": "El modelo de cuatro factores mostró evidencia de validez (CFI=1, RMSEA=.00) para asumir el AAH como constructo latente. Las medias fueron altas con asimetría negativa y sin efecto techo. Las subescalas se correlacionaron: código-cultura .76, creencias-valor .66 (p<.001)."
       },
       {
         "id": "10",
-        "label": "Desarrollo del Vocabulario y Equidad",
-        "color": "#f4a261"
+        "label": "Dos perfiles: enriquecido y discreto",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "La solución óptima de dos conglomerados (Davies-Bouldin=.90) separó un perfil enriquecido (n=225) con puntuaciones altas en todas las dimensiones y uno discreto (n=101) con puntuaciones bajas. Las diferencias fueron significativas en todas las variables (p<.001)."
+      },
+      {
+        "id": "11",
+        "label": "Sin asociación con el NSE",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Contra lo esperado, los perfiles no se asociaron al nivel socioeconómico (p=.727): se distribuyeron en proporción al tamaño de cada subgrupo. Ninguna variable individual del AAH mostró diferencias significativas por NSE, contradiciendo hallazgos precedentes."
+      },
+      {
+        "id": "12",
+        "label": "Coherencia entre prácticas y creencias",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Las familias enriquecidas muestran alta coherencia: creencias favorables a contar historias y conversar sobre ellas, junto a enseñanza explícita de letras y trazos. Los ambientes discretos exhiben el perfil inverso, con baja valoración de la lectura consistente con sus prácticas."
+      },
+      {
+        "id": "13",
+        "label": "El confinamiento explicaría la ausencia de diferencias",
+        "color": "#c73e1d",
+        "role": "Discusión",
+        "descripcion": "La convivencia forzada de carga laboral y crianza durante el confinamiento pudo alterar las dinámicas de los hogares. Se considera el estrés parental asociado a menor participación en alfabetización (Zambrana y Hart, 2022) y la caída del 31% de la capacidad lectora reportada durante los cierres (Bao et al., 2020)."
+      },
+      {
+        "id": "14",
+        "label": "Limitaciones: autorreporte y proxy del NSE",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "Al ser un instrumento de autorreporte puede influir la deseabilidad social (Marlow y Crowne, 1961). El NSE se midió con la dependencia educativa como proxy, sin ingresos ni escolaridad directos. Se proyecta un enfoque mixto con observación y preguntas abiertas sobre prácticas vernaculares."
+      },
+      {
+        "id": "15",
+        "label": "Identificación temprana de ambientes discretos",
+        "color": "#f4a261",
+        "role": "Conclusiones",
+        "descripcion": "El cuestionario AAH es una medida válida, de fácil aplicación y bajo costo en español. Su uso por educadoras permitiría detectar perfiles de riesgo, disminuir las brechas de literacidad acrecentadas por la pandemia y visibilizar a la familia como primer agente educativo."
       }
     ],
     "aristas": [
       {
         "from": "1",
-        "to": "2",
-        "label": "varía significativamente según los"
+        "to": "5",
+        "label": "define el objeto del"
       },
       {
         "from": "1",
         "to": "3",
-        "label": "incluye la práctica esencial de"
+        "label": "incluye las"
       },
       {
-        "from": "1",
-        "to": "4",
-        "label": "incorpora la instrucción directa de"
-      },
-      {
-        "from": "6",
-        "to": "1",
-        "label": "ensanchó las brechas en el"
+        "from": "2",
+        "to": "5",
+        "label": "distingue las variables del"
       },
       {
         "from": "3",
         "to": "5",
-        "label": "se enriquece mediante la"
+        "label": "suma dimensiones al"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "sitúa cronológicamente el"
       },
       {
         "from": "5",
+        "to": "6",
+        "label": "se contrastó en las"
+      },
+      {
+        "from": "6",
         "to": "7",
-        "label": "despliega el potente"
+        "label": "respondió el"
       },
       {
         "from": "7",
-        "to": "2",
-        "label": "compensa las desventajas de los"
-      },
-      {
-        "from": "9",
         "to": "8",
-        "label": "garantiza en casas vulnerables la"
+        "label": "fue analizado con"
       },
       {
-        "from": "5",
+        "from": "7",
+        "to": "9",
+        "label": "aportó evidencia del"
+      },
+      {
+        "from": "2",
+        "to": "9",
+        "label": "quedó validado en el"
+      },
+      {
+        "from": "8",
         "to": "10",
-        "label": "asegura el máximo"
+        "label": "reveló"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "puso a prueba la"
+      },
+      {
+        "from": "6",
+        "to": "11",
+        "label": "permitió examinar la"
       },
       {
         "from": "10",
-        "to": "1",
-        "label": "retroalimenta en el futuro el"
+        "to": "12",
+        "label": "muestra la"
+      },
+      {
+        "from": "3",
+        "to": "12",
+        "label": "sustenta la"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "se atribuye al"
+      },
+      {
+        "from": "4",
+        "to": "13",
+        "label": "contextualiza el"
+      },
+      {
+        "from": "9",
+        "to": "15",
+        "label": "respalda la"
+      },
+      {
+        "from": "10",
+        "to": "15",
+        "label": "posibilita la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "acota el alcance de la"
       }
     ]
   }

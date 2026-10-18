@@ -1,0 +1,376 @@
+{
+  "id": "fluidez_lectora_competencia_secundaria_dominicana",
+  "metadata": {
+    "id": "fluidez_lectora_competencia_secundaria_dominicana",
+    "title": "Explorando la relación entre fluidez lectora y competencia lectora en Educación Secundaria",
+    "authors": [
+      "Cristina Amiama-Espaillat",
+      "Cristina Mayor-Ruiz"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "1",
+    "pages": "21-31",
+    "doi": "10.18239/ocnos_2018.17.1.1278",
+    "keywords": [
+      "fluidez lectora",
+      "competencia lectora",
+      "educación secundaria",
+      "evaluación de la lectura",
+      "escala EFLE"
+    ],
+    "abstract": "Estudio descriptivo-correlacional con 382 estudiantes dominicanos de 4º de Secundaria que analiza la relación entre fluidez lectora (precisión, velocidad, prosodia evaluadas con EFLE adaptada) y competencia lectora (CoLeP con modelo Rasch). Revela una correlación positiva pero débil, enfatizando el valor formativo intrínseco de la fluidez en secundaria."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿De qué sirve que un adolescente lea con rapidez y precisión mecánica en voz alta si no logra construir significado profundo a partir del texto? ¿Y es posible una comprensión lectora compleja sin un umbral mínimo de fluidez y prosodia expresiva? Este estudio con 382 estudiantes de Secundaria en República Dominicana examina la tensión entre fluidez y comprensión lectora.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis psicométrico y pedagógico:",
+        "opciones": [
+          {
+            "id": "psicometrica",
+            "texto": "Ruta psicométrica: adaptación de la escala EFLE y modelización Rasch en CoLeP"
+          },
+          {
+            "id": "didactica",
+            "texto": "Ruta didáctica: prosodia, velocidad y segmentación sintáctica en el aula de secundaria"
+          },
+          {
+            "id": "politica",
+            "texto": "Ruta de política educativa: análisis del rendimiento crítico tras los informes PISA"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "República Dominicana registró en PISA que más del 70% de sus estudiantes se ubica por debajo del nivel básico de competencia lectora. Paralelamente, la investigación educativa suele limitar la enseñanza explícita de la fluidez a los primeros cursos de Primaria, asumiendo erróneamente que en Secundaria la decodificación fluida ya está consolidada de manera automática.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Por qué la prosodia (entonación y segmentación) es crucial para la comprensión en secundaria?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Porque refleja la capacidad del lector de interpretar las estructuras sintácticas y las pausas del texto para proyectar significado mientras decodifica.",
+            "correcta": true,
+            "explicacion": "Exacto: la prosodia no es mero adorno escénico, sino la traducción sonora de la sintaxis y de la coherencia proposicional del texto."
+          },
+          {
+            "id": "c2",
+            "texto": "Porque asegura que el alumno memorice todas las palabras del texto con máxima rapidez mecánica.",
+            "correcta": false,
+            "explicacion": "La prosodia evalúa expresividad y significado contextual, en contraposición al mero automatismo veloz desprovisto de sentido."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Las autoras evaluaron a 382 estudiantes de 4º de Secundaria en Santo Domingo. Administraron la Escala de Fluidez Lectora en Español (EFLE) adaptada al nivel secundario mediante una rúbrica multidimensional grabada en audio, y evaluaron la competencia lectora mediante la prueba CoLeP (textos PISA calibrados mediante el modelo de Rasch).",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra y muestreo",
+            "detalle": "382 alumnos de 4º de Secundaria distribuidos en 15 centros públicos y privados de Santo Domingo."
+          },
+          {
+            "fase": "Adaptación EFLE",
+            "detalle": "Evaluación de precisión, ritmo, volumen y fraseo prosódico mediante lectura oral grabada de texto narrativo."
+          },
+          {
+            "fase": "Prueba CoLeP (Rasch)",
+            "detalle": "Calibración de habilidades de comprensión literal, inferencial y crítica con ítems liberados de PISA."
+          },
+          {
+            "fase": "Análisis correlacional",
+            "detalle": "Cálculo de correlaciones de Pearson/Spearman y análisis de varianza por cuadrantes de fluidez y nivel lector."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Se halló una correlación positiva estadísticamente significativa pero moderada/baja (r = .29) entre fluidez global y competencia lectora. La dimensión que mejor correlacionó fue la prosodia/fraseo sintáctico. Esto evidencia que la fluidez es condición facilitadora pero no suficiente para el pensamiento crítico y la comprensión profunda en secundaria.",
+      "datos_clave": [
+        "Muestra representativa de 382 adolescentes evaluados con audio digital y pruebas estandarizadas.",
+        "Correlación positiva estadísticamente significativa (r = .29, p < .001) entre fluidez y comprensión.",
+        "La prosodia y el respeto a la segmentación oracional mostraron mayor peso explicativo que la velocidad bruta.",
+        "Validación empírica de la escala EFLE adaptada como instrumento psicométrico confiable para Secundaria."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El estudio se apoya en los informes del National Reading Panel (2000), el modelo de capacidad de LaBerge y Samuels (1974), los aportes sobre prosodia de Kuhn y Stahl (2003), y el marco de competencia lectora de PISA evaluado psicométricamente con el modelo Rasch.",
+      "referencias_clave": [
+        "National Reading Panel (2000)",
+        "LaBerge & Samuels (1974)",
+        "Kuhn & Stahl (2003)",
+        "Amiama-Espaillat & Mayor-Ruiz (2018)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "La fluidez lectora en secundaria no debe ser abandonada ni reducida a cronometrar palabras por minuto: el trabajo explícito sobre la prosodia y el fraseo sintáctico libera recursos cognitivos y promueve la apropiación significativa de textos complejos en el aula adolescente.",
+      "hallazgo_central": "Existe una relación positiva y significativa aunque moderada entre fluidez y comprensión en secundaria, donde la prosodia actúa como puente clave entre la decodificación y el significado."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los componentes de la lectura evaluados con su rol en la investigación:",
+          "pares": [
+            {
+              "concepto": "Prosodia expresiva",
+              "definicion": "Fraseo sintáctico, entonación y pausas que demuestran la comprensión implícita del texto."
+            },
+            {
+              "concepto": "Modelo Rasch (CoLeP)",
+              "definicion": "Alineación psicométrica de la dificultad del ítem con el rasgo latente de competencia lectora."
+            },
+            {
+              "concepto": "Escala EFLE adaptada",
+              "definicion": "Rúbrica multidimensional para evaluar la calidad y precisión de la lectura oral en adolescentes."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Fluidez Lectora y Competencia Lectora en Secundaria Dominicana",
+      "descripcion": "Relación psicométrica y didáctica entre las dimensiones de fluidez oral y la comprensión de textos en adolescentes.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Fluidez y Competencia en Secundaria Dominicana",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo central de la investigación: analizar la relación empírica entre las dimensiones de fluidez lectora oral y el nivel de competencia lectora en estudiantes de cuarto de Secundaria de Santo Domingo."
+        },
+        {
+          "id": "2",
+          "label": "Crisis Lectora en Contexto PISA",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco contextual que parte de los bajos resultados de República Dominicana en PISA, donde el setenta por ciento del alumnado se sitúa por debajo del umbral mínimo de suficiencia lectora en pruebas internacionales."
+        },
+        {
+          "id": "3",
+          "label": "Dimensiones Teóricas de la Fluidez",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Constructo multidimensional según el National Reading Panel que integra precisión decodificadora, velocidad de procesamiento léxico y prosodia o expresividad oracional sintácticamente situada."
+        },
+        {
+          "id": "4",
+          "label": "Prosodia como Enlace Cognitivo",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Aportes teóricos de Kuhn y Stahl que identifican la entonación y el respeto a la segmentación del texto como evidencia acústica de que el lector interpreta activamente las relaciones sintácticas del contenido."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Descriptivo Correlacional",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico no experimental, cuantitativo y correlacional orientado a determinar la magnitud y dirección de la covariación entre componentes orales de fluidez y destrezas de comprensión escrita."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 382 Estudiantes de Secundaria",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Muestra probabilística compuesta por 382 alumnos de cuarto curso de Educación Secundaria procedentes de quince centros educativos públicos y privados del Distrito Nacional de Santo Domingo."
+        },
+        {
+          "id": "7",
+          "label": "Adaptación de la Escala EFLE",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Instrumento adaptado para Secundaria que evalúa cuatro dimensiones cualitativas de lectura oral en audio: expresión/volumen, fraseo/prosodia, fluidez/suavidad y ritmo, con sólida consistencia interna."
+        },
+        {
+          "id": "8",
+          "label": "Prueba CoLeP con Modelo Rasch",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Instrumento estandarizado de evaluación de competencia lectora conformado por textos liberados de PISA, calibrado psicométricamente con el modelo de Rasch para estimar niveles de habilidad comprensiva."
+        },
+        {
+          "id": "9",
+          "label": "Correlación Significativa Moderada/Baja",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los análisis estadísticos evidenciaron una correlación positiva y significativa de r igual a punto veintinueve (p menor a punto cero cero uno) entre la puntuación en la EFLE y la competencia global en CoLeP."
+        },
+        {
+          "id": "10",
+          "label": "Predominancia Predictiva de la Prosodia",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "El fraseo prosódico y la entonación oracional demostraron una capacidad discriminativa significativamente mayor para predecir comprensión que la mera tasa de velocidad o exactitud decodificadora bruta."
+        },
+        {
+          "id": "11",
+          "label": "Dispersión en Cuadrantes de Rendimiento",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Identificación de perfiles diferenciados de alumnado: lectores precisos pero no comprensivos (cuadrante de decodificación vacía) y lectores lentos que compensan cognitivamente y logran comprender con éxito."
+        },
+        {
+          "id": "12",
+          "label": "Insuficiencia del Automatismo Mecánico",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica que refuta el reduccionismo de suponer que acelerar la tasa de lectura automática en voz alta redunda mecánicamente en una comprensión profunda o un razonamiento crítico más elaborado."
+        },
+        {
+          "id": "13",
+          "label": "Superación del Desatendimiento en Secundaria",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate en torno a la práctica pedagógica habitual de discontinuar la enseñanza explícita de la lectura en Secundaria, reclamando intervenciones prosódicas y pragmáticas estructuradas para el alumnado mayor."
+        },
+        {
+          "id": "14",
+          "label": "Valor Autónomo de la Fluidez Expresiva",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental que defiende la fluidez expresiva como una meta pedagógica valiosa por sí misma en el desarrollo lector, facilitando la oralidad culta, la retención y la participación dialógica."
+        },
+        {
+          "id": "15",
+          "label": "Prescripción de Prácticas de Lectura Expresiva",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación curricular de implementar lecturas dramatizadas, teatro de lectores y análisis de la segmentación oracional para robustecer la fluidez lectora integrada en las aulas de Secundaria."
+        },
+        {
+          "id": "16",
+          "label": "Limitaciones de Causalidad y Representatividad",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite metodológico reconocido por el diseño transversal correlacional, que impide formular inferencias causales unívocas y requiere ampliar el muestreo hacia zonas rurales y regiones adicionales del país."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se sitúa en"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "fundamenta en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "destaca papel de"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "selecciona"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "aplica"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "evalúa mediante"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "correlaciona en"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "aporta datos a"
+        },
+        {
+          "from": "9",
+          "to": "10",
+          "label": "revela"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "se desglosa en"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "argumenta en"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "evidencia necesidad en"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "respalda"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "orienta"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "concluye con"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "reconoce"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "mide directamente"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "demuestra complejidad en"
+        },
+        {
+          "from": "4",
+          "to": "14",
+          "label": "nutre conceptualmente a"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "restringe alcance en"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "La fluidez lectora no es una carrera de velocidad ni un mero trámite mecánico de primaria. Como demuestra la evidencia empírica en República Dominicana, la expresividad, el ritmo y el fraseo prosódico constituyen la voz viva de la comprensión oracional.",
+      "preguntas": [
+        "¿Se evalúa en las aulas de secundaria la expresividad y el fraseo oracional o se asume erróneamente que la lectura ya está consolidada?",
+        "¿Cómo pueden las lecturas compartidas y el teatro de lectores enriquecer la competencia lectora de adolescentes con dificultades de decodificación?"
+      ]
+    }
+  }
+}

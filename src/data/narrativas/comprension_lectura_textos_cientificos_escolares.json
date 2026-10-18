@@ -1,0 +1,376 @@
+{
+  "id": "comprension_lectura_textos_cientificos_escolares",
+  "metadata": {
+    "title": "Comprensión de lectura de textos informativos de carácter científico en escolares",
+    "authors": "Marcela Bizama-Muñoz, Sergio Gatica-Ferrero, Cecilia Aqueveque, Beatriz Arancibia-Gutiérrez y Katia Sáez-Carrillo",
+    "year": "2020",
+    "journal": "Ocnos 19(1)",
+    "doi": "10.18239/ocnos_2020.19.1.2156",
+    "gancho": "¿Qué habilidad predice mejor si un niño de primaria entenderá la ciencia: su cociente intelectual o cómo lee los signos de puntuación?",
+    "duration": "12-15 min",
+    "badge": "Comprensión Lectora y Habilidades Metalingüísticas",
+    "disciplina": "Psicolingüística Educativa y Didáctica de las Ciencias",
+    "dimensiones": [
+      "Textos Científicos Escolares",
+      "Conciencia Sintáctica y Puntuación",
+      "Control Inhibitorio Stroop",
+      "Modelos de Regresión Predictivos"
+    ],
+    "tags": [
+      "textos_cientificos",
+      "comprension_lectora",
+      "conciencia_sintactica",
+      "signos_de_puntuacion",
+      "control_inhibitorio",
+      "educacion_primaria"
+    ],
+    "pistas": [
+      "Estudio transversal correlacional predictivo con 175 escolares chilenos de 4.º y 5.º básico en Biobío, Concepción.",
+      "Evaluación exhaustiva de inteligencia fluida (Raven), memoria de trabajo (TOMAL), inhibición (Stroop) y sintaxis (PROLEC-R).",
+      "El manejo expresivo de los signos de puntuación emerge como el predictor más consistente y potente de la comprensión científica.",
+      "El control inhibitorio suma capacidad explicativa significativa en 5.º básico, elevando la varianza explicada al 28,3%."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "Los manuales escolares de ciencias exigen procesar densos conceptos abstractos y relaciones causales complejas; sin embargo, se desconoce qué habilidades cognitivas específicas marcan la diferencia entre comprender o fracasar en la lectura científica.",
+      "desafio": "Determinar la contribución diferencial de factores cognitivos generales (inteligencia fluida, memoria de trabajo, inhibición) y metalingüísticos (conciencia sintáctica) en la comprensión de textos científicos en escolares.",
+      "relevancia": "Desvela que la enseñanza explícita de la segmentación oracional y el respeto a la puntuación constituye una palanca didáctica insospechada para democratizar el aprendizaje de las ciencias."
+    },
+    "conflicto": {
+      "pregunta": "¿Depende la comprensión de textos científicos del potencial intelectual general o de habilidades lingüísticas de dominio específico como la sintaxis?",
+      "posiciones": [
+        "Enfoque cognitivo generalista: la comprensión de textos expositivos depende primariamente del razonamiento abstracto fluido y la capacidad mnemónica.",
+        "Perspectiva psicolingüística específica: el procesamiento sintáctico y la delimitación de fronteras proposicionales mediante la puntuación son los mediadores determinantes."
+      ],
+      "tension": "La tensión entre la creencia pedagógica tradicional que atribuye las dificultades en ciencias a la falta de inteligencia y la evidencia que señala déficits de procesamiento sintáctico.",
+      "deepDives": [
+        {
+          "id": "sci-conf-1",
+          "triggerLabel": "El enigma de la puntuación en la lectura",
+          "type": "context",
+          "content": "Respetar una coma o un punto no es un mero adorno prosódico: delimita cláusulas proposicionales en la memoria operativa, permitiendo al escolar integrar causas y efectos en los textos científicos sin sobrecargar su cognición."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Evaluación psicométrica multimétodo en 175 escolares de 4.º y 5.º básico",
+      "narrativa": "Los investigadores administraron una batería compuesta por matrices de Raven, subpruebas de span de dígitos y letras, el test de Stroop, los módulos de gramática y puntuación de PROLEC-R y la prueba CL-PT de textos científicos continuos y discontinuos a estudiantes chilenos.",
+      "detalles": [
+        {
+          "label": "Población y muestra",
+          "value": "175 escolares chilenos (105 de 4.º y 70 de 5.º básico, edad media 9,7 y 10,5 años) de centros subvencionados de Concepción."
+        },
+        {
+          "label": "Constructos medidos",
+          "value": "Inteligencia fluida (Raven coloreado), memoria de trabajo (TOMAL), inhibición (Stroop) y conciencia sintáctica (PROLEC-R)."
+        },
+        {
+          "label": "Evaluación de comprensión",
+          "value": "Batería CL-PT con textos informativos de ciencias (infografías del elefante y mapas de pérdida de biodiversidad)."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "Frente a relaciones débiles de la inteligencia fluida y la memoria de trabajo, la conciencia sintáctica centrada en el dominio de signos de puntuación resultó ser el predictor más robusto de la comprensión científica en ambos cursos.",
+      "datosClave": [
+        {
+          "label": "Correlación dominante",
+          "value": "El manejo de signos de puntuación correlacionó r = .287 (p < .01) en 4.º y r = .421 (p < .01) en 5.º con la comprensión científica."
+        },
+        {
+          "label": "Modelo de 4.º básico",
+          "value": "Signos de puntuación (β = .413) y span de letras (β = -.292) explican conjuntamente el 15.2% de la varianza lectora (R² = .152)."
+        },
+        {
+          "label": "Modelo de 5.º básico",
+          "value": "Signos de puntuación (β = .457) e interferencia Stroop (β = .327) explican de forma combinada el 28.3% de la varianza (R² = .283)."
+        }
+      ],
+      "implicacion": "Enseñar a leer textos científicos en la escuela primaria exige modelar explícitamente cómo la puntuación organiza la jerarquía de las ideas y la causalidad de los fenómenos."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "John Horn y Raymond Cattell (1966)",
+          "concepto": "Inteligencia fluida: capacidad biológica de resolver problemas novedosos independientemente de la instrucción previa."
+        },
+        {
+          "autor": "Alan Baddeley y Graham Hitch (1974)",
+          "concepto": "Memoria de trabajo: sistema multicomponente de retención temporal y procesamiento concurrente de información."
+        },
+        {
+          "autor": "Fernando Cuetos et al. (PROLEC-R, 2010)",
+          "concepto": "Procesamiento sintáctico: asignación de roles gramaticales y reconocimiento de claves de puntuación en la decodificación."
+        }
+      ],
+      "enfoque": "Psicología cognitiva del procesamiento textual y psicolingüística aplicada a la alfabetización científica temprana.",
+      "sinergia": "La integración de funciones ejecutivas e índices metalingüísticos permite desentrañar la arquitectura cognitiva de la lectura expositiva."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Qué factores cognitivos y metalingüísticos explican el rendimiento en comprensión de textos científicos en educación básica?",
+      "hallazgos": [
+        "La inteligencia fluida y la memoria de trabajo muestran correlaciones estadísticamente significativas pero débiles con la comprensión.",
+        "La conciencia sintáctica referida a los signos de puntuación es el predictor más potente y transversal en 4.º y 5.º grado.",
+        "El control inhibitorio (Stroop) adquiere un papel predictivo sustancial a partir de 5.º grado para suprimir información irrelevante.",
+        "La estructura sintáctica de los textos informativos (oraciones pasivas, subordinación causal) demanda destrezas gramaticales explícitas."
+      ],
+      "conclusion": "El dominio de los signos de puntuación y la inhibición ejecutiva constituyen los pilares del procesamiento exitoso de textos científicos en escolares de educación primaria."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Cuál fue la variable que mejor predijo la comprensión de textos científicos en ambos grados escolares?",
+          "opciones": [
+            "El cociente intelectual evaluado mediante las Matrices Progresivas de Raven",
+            "La conciencia sintáctica referida al manejo de los signos de puntuación en lectura",
+            "La velocidad de lectura mecánica de palabras aisladas"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El módulo de signos de puntuación de PROLEC-R obtuvo los coeficientes beta más elevados tanto en 4.º (β=.413) como en 5.º (β=.457)."
+        },
+        {
+          "pregunta": "¿Qué habilidad cognitiva ejecutiva sumó peso explicativo determinante en 5.º básico?",
+          "opciones": [
+            "El control inhibitorio medido por el Test de Stroop, explicando junto a la puntuación el 28,3% de la varianza",
+            "La orientación espacial y el cálculo algorítmico",
+            "La memoria auditiva inmediata sin interferencia"
+          ],
+          "respuestaCorrecta": 0,
+          "justificacion": "En 5.º básico, la interferencia Stroop alcanzó β=.327, reflejando la necesidad de inhibir distractores en textos científicos complejos."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Habilidades Cognitivas y Sintácticas en la Lectura Científica Escolar",
+      "descripcion": "Red analítica que vincula la inteligencia fluida, funciones ejecutivas, conciencia sintáctica y comprensión de textos informativos en 175 escolares.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Texto Informativo Científico",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Género discursivo expositivo escolar caracterizado por densidad conceptual, vocabulario técnico, pistas multimodales y complejas estructuras sintácticas causales y descriptivas."
+        },
+        {
+          "id": "2",
+          "label": "Conciencia Sintáctica",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Habilidad metalingüística orientada a reflexionar conscientemente sobre la estructura gramatical del mensaje y manipular los roles oracionales y las marcas de segmentación del texto escrito."
+        },
+        {
+          "id": "3",
+          "label": "Funciones Ejecutivas",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Conjunto de procesos cognitivos de control consciente que incluye la memoria de trabajo y la inhibición de respuestas automáticas (Diamond), facilitando la autorregulación durante la lectura."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Contribución Predictiva",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Determinar el aporte de la inteligencia fluida, memoria de trabajo, inhibición y conciencia sintáctica a la comprensión lectora de textos científicos en escolares chilenos de 4.º y 5.º básico."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 175 Escolares",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Selección intencionada de 175 estudiantes (105 de 4.º y 70 de 5.º básico, edades entre 9 y 11 años) procedentes de colegios subvencionados de Concepción, Región del Biobío, Chile."
+        },
+        {
+          "id": "6",
+          "label": "Batería de Pruebas Cognitivas",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Aplicación de Matrices de Raven (inteligencia fluida), span directo e inverso de dígitos y letras de TOMAL (memoria de trabajo) y Test de Colores y Palabras de Stroop (control inhibitorio)."
+        },
+        {
+          "id": "7",
+          "label": "Módulos PROLEC-R y CL-PT",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Administración de subpruebas de estructuras gramaticales y signos de puntuación de PROLEC-R junto a la prueba CL-PT con textos continuos y discontinuos sobre biodiversidad y zoología."
+        },
+        {
+          "id": "8",
+          "label": "Primacía de Signos de Puntuación",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "El manejo adecuado de signos de puntuación demostró las correlaciones más robustas (r=.287 en 4.º y r=.421 en 5.º) y los mayores coeficientes beta estandarizados en los modelos de regresión."
+        },
+        {
+          "id": "9",
+          "label": "Modelo Predictivo en 4.º Básico",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "En cuarto grado, la conciencia de puntuación (β=.413) combinada con el span de letras (β=-.292) explica de manera estadísticamente significativa el 15.2% de la varianza en comprensión lectora."
+        },
+        {
+          "id": "10",
+          "label": "Aporte del Control Inhibitorio en 5.º",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "En quinto grado, la inclusión de la interferencia Stroop (β=.327) junto a la puntuación (β=.457) incrementa notablemente la varianza explicada hasta alcanzar un 28.3% (R²=.283, p<.01)."
+        },
+        {
+          "id": "11",
+          "label": "Efecto Modesto de Inteligencia Fluida",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Las Matrices de Raven mostraron correlaciones bajas que no alcanzaron significación en 4.º básico (r=.126) y apenas moderadas en 5.º (r=.245), perdiendo peso ante las variables metalingüísticas."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: Puntuación como Segmentador",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Los signos de puntuación operan como delimitadores cognitivos indispensables que guían el empaquetamiento de cláusulas proposicionales y la jerarquización causal en textos densos de ciencias."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Maduración Ejecutiva",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "La emergencia del control inhibitorio en 5.º básico refleja la maduración frontal necesaria para descartar hipótesis superficiales y resistir la sobrecarga informativa en textos discontinuos."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Didáctica Lingüística en Ciencias",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "La alfabetización científica no debe restringirse al léxico especializado; requiere un andamiaje sintáctico explícito que enseñe al aprendiz a interpretar la prosodia y pausas del texto escrito."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Muestra Localizada",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Muestra de conveniencia limitada a dos colegios de la Región del Biobío en Chile, lo que aconseja cautela al generalizar los coeficientes predictivos a otros entornos socioeconómicos o países."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Naturaleza de la Inhibición",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Uso de una única medida clásica de interferencia verbal (Stroop) sin incorporar pruebas de inhibición comportamental o actualización atencional ecológica en situaciones de lectura libre."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "constituye dominio evaluado en"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "aporta dimensión lingüística a"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "aporta dimensión ejecutiva a"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se examina empíricamente en"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "responde a baterías de"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "completa pruebas de"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "revela peso capital de"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "conforma predictor clave en"
+        },
+        {
+          "from": "6",
+          "to": "10",
+          "label": "incorpora interferencia en"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "lidera peso explicativo en"
+        },
+        {
+          "from": "6",
+          "to": "11",
+          "label": "evidencia bajo impacto en"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "fundamenta teoría sobre"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "evidencia progreso en"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "orienta propuestas para"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "completa recomendaciones de"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "acota alcance contextual de"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "restringe instrumentación con"
+        },
+        {
+          "from": "2",
+          "to": "8",
+          "label": "se operacionaliza mediante"
+        },
+        {
+          "from": "3",
+          "to": "10",
+          "label": "explica varianza con"
+        },
+        {
+          "from": "1",
+          "to": "12",
+          "label": "requiere procesamiento de"
+        },
+        {
+          "from": "9",
+          "to": "14",
+          "label": "aporta datos empíricos a"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Cómo podrías enseñar a tus alumnos a utilizar los signos de puntuación para descifrar oraciones difíciles de ciencias?",
+      "enfoque": "Modelar lecturas en voz alta marcando con entonación deliberada cómo cada coma y punto cambia la relación causa-efecto del fenómeno.",
+      "cierre": "La puntuación es el mapa de navegación del pensamiento: enseñar a leer los signos transforma la ciencia de un jeroglífico a una explicación transparente."
+    }
+  }
+}

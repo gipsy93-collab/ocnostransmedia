@@ -1,0 +1,395 @@
+{
+  "id": "jovenes_lectores_satisfaccion_vida_familiar",
+  "metadata": {
+    "title": "Jóvenes lectores y satisfacción con la vida familiar",
+    "authors": "María Ángeles Valdemoros-San-Emeterio, Eva Sanz-Arazuri, Ana Ponce-de-León-Elizondo y Mª del Carmen Duque-Palacios",
+    "year": "2020",
+    "journal": "Ocnos 19(3)",
+    "doi": "10.18239/ocnos_2020.19.3.2361",
+    "gancho": "¿Los adolescentes que leen por placer en su tiempo libre están más o menos satisfechos con su vida familiar?",
+    "duration": "12-15 min",
+    "badge": "Sociología de la Lectura",
+    "disciplina": "Pedagogía del Ocio y Familia",
+    "dimensiones": [
+      "Bienestar Subjetivo",
+      "Ocio Cultural",
+      "Dinámicas Familiares",
+      "Lectura Dialógica"
+    ],
+    "tags": [
+      "lectura_ocio",
+      "adolescencia",
+      "satisfaccion_familiar",
+      "bienestar_subjetivo",
+      "bachillerato"
+    ],
+    "pistas": [
+      "Muestra probabilística de 1085 estudiantes de Bachillerato de La Rioja (15 a 19 años).",
+      "Escala ESVF de satisfacción familiar de Diener y cuestionario ad hoc de ocio cultural.",
+      "Solo el 21.4% comparte ocio cultural en familia y la lectura compartida familiar cae al 0.6%.",
+      "Paradoja empírica: los jóvenes más lectores declaran significativamente menor satisfacción con su vida familiar."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "La lectura como ocio se considera un pilar del bienestar subjetivo juvenil, pero existía una ausencia total de estudios científicos que exploraran de forma empírica su relación directa con la satisfacción que los adolescentes perciben en su vida familiar.",
+      "desafio": "Comprobar si la dedicación al ocio lector cultural por elección propia se asocia a un entorno familiar más armónico y satisfactorio durante la etapa clave del Bachillerato.",
+      "relevancia": "Desmonta prejuicios idílicos sobre la lectura juvenil y aporta claves para entender el papel de los libros como refugio reflexivo ante tensiones familiares."
+    },
+    "conflicto": {
+      "pregunta": "¿Incrementa el hábito lector voluntario la satisfacción del adolescente con su vida de familia o cumple una función compensatoria frente a conflictos en el hogar?",
+      "posiciones": [
+        "Hipótesis de la armonía: la lectura familiar compartida genera vínculos afectivos sólidos y eleva la satisfacción vital en el hogar.",
+        "Hipótesis del refugio reflexivo: el joven que lee intensamente busca en los libros un espacio de autonomía, distanciamiento crítico y consuelo ante dinámicas familiares insatisfactorias."
+      ],
+      "tension": "La creencia social en que los jóvenes lectores provienen de familias modélicas frente a los datos empíricos que revelan mayor disonancia y juicio crítico familiar en los más lectores.",
+      "deepDives": [
+        {
+          "id": "fam-conf-1",
+          "triggerLabel": "El ocio cultural como derecho humano",
+          "type": "theory",
+          "content": "Siguiendo a Cuenca (2009, 2014), el ocio cultural valioso no es mero entretenimiento pasivo, sino una experiencia humanista autorrealizadora que potencia la autoconciencia y la criticidad."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Muestreo estratificado en Bachillerato y análisis ex post facto con ESVF",
+      "narrativa": "El equipo seleccionó al azar a 1085 estudiantes de 16 centros de Bachillerato en La Rioja mediante muestreo estratificado probabilístico, aplicando la Escala de Satisfacción con la Vida de Familia (ESVF) de Diener junto a un cuestionario exhaustivo de hábitos de ocio.",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "1085 estudiantes de 15 a 19 años (51.52% chicos, 48.48% chicas) sin mortalidad experimental."
+        },
+        {
+          "label": "Centros",
+          "value": "16 centros seleccionados por afijación proporcional según ubicación y titularidad (pública/privada)."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "Cuestionario de ocio cultural (44 ítems) y Escala ESVF validada para Bachillerato (alfa .84)."
+        },
+        {
+          "label": "Análisis estadístico",
+          "value": "Frecuencias descriptivas, prueba de Levene y t de Student para muestras independientes en SPSS."
+        }
+      ],
+      "limitaciones": [
+        "Diseño ex post facto correlacional que impide deducir relaciones de causa-efecto directas.",
+        "Muestra circunscrita a la comunidad autónoma de La Rioja sin seguimiento longitudinal de cohortes."
+      ],
+      "reflexion": "¿Es la lectura la que agudiza la mirada crítica del adolescente hacia sus padres o es la insatisfacción familiar la que empuja al joven hacia los libros?",
+      "deepDives": [
+        {
+          "id": "fam-viaje-1",
+          "triggerLabel": "Escala ESVF adaptada por Luna y Laca",
+          "type": "method",
+          "content": "La Escala de Satisfacción con la Vida de Familia cuenta con 5 ítems Likert de 1 a 5 que evalúan condiciones ideales, logros importantes y evaluación afectiva de la convivencia familiar."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Se confirmó un hallazgo contraintuitivo: los adolescentes más lectores obtuvieron puntuaciones significativamente más bajas en satisfacción con la vida familiar (vida ideal: 3.44 vs. 3.67, p = .006; condiciones excelentes: 3.58 vs. 3.82, p = .030), revelando que la lectura actúa como refugio subjetivo y desarrollo de juicio crítico frente al hogar.",
+      "evidenciaCualitativa": "Solo el 21.4% de los jóvenes realiza ocio cultural con su familia y la lectura compartida familiar es prácticamente nula (0.6%), evidenciando que leer es una práctica solitaria y desvinculada de la vida hogareña.",
+      "citaClave": "'¿Puede constituirse la lectura tanto en refugio ante los problemas como en proveedora de soluciones para los mismos? Quienes más leen son quienes perciben menor idealización de su vida familiar.'",
+      "implicacionesDocentes": [
+        "Fomentar clubes de lectura dialógica y actividades intergeneracionales para reactivar la conversación literaria en el hogar.",
+        "Comprender la lectura adolescente no solo como deber escolar sino como espacio íntimo de resiliencia emocional y autonomía.",
+        "Evitar juzgar el desapego del estudiante lector como desinterés, reconociendo su agudeza crítica hacia las normas familiares."
+      ],
+      "deepDives": [
+        {
+          "id": "fam-rev-1",
+          "triggerLabel": "Brecha de género en la lectura de ocio",
+          "type": "data",
+          "content": "El estudio corroboró que las chicas de Bachillerato presentan una tasa de práctica lectora voluntaria significativamente superior a la de los varones, en línea con los patrones sociológicos internacionales."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Pedagogía del ocio humanista, bienestar subjetivo y mediación familiar",
+      "tensiones": [
+        "Ocio compartido integrador vs. aislamiento reflexivo individual en el cuarto propio.",
+        "Idealización de la armonía familiar vs. pensamiento divergente forjado en la lectura autónoma."
+      ],
+      "autoresClave": [
+        "Valdemoros et al. (2020)",
+        "Cuenca & Goytia (2012)",
+        "Diener et al. (1985, 1999)",
+        "Csikszentmihalyi (2001)",
+        "Basanta (2017)"
+      ],
+      "deepDives": [
+        {
+          "id": "fam-marco-1",
+          "triggerLabel": "Lectura dialógica intergeneracional",
+          "type": "theory",
+          "content": "Soler-Gallart y Flecha postulan que la lectura dialógica en familia transforma las relaciones domésticas, convirtiendo el hogar en una comunidad de aprendizaje igualitaria."
+        }
+      ]
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo se relaciona la práctica de la lectura de ocio con la percepción que los jóvenes de Bachillerato tienen sobre su bienestar familiar?",
+      "mecanismoClave": "La lectura autónoma dota al adolescente de horizontes simbólicos divergentes y pensamiento crítico, lo que reduce la complacencia acrítica hacia las dinámicas domésticas y convierte el libro en un refugio de resiliencia íntima.",
+      "conclusionGeneral": "Lejos de ser un reflejo pasivo de una familia idílica, la lectura de ocio en la adolescencia opera como un refugio emancipador de autodescubrimiento y juicio reflexivo frente a las tensiones cotidianas del hogar."
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente del Ocio Familiar",
+        "descripcion": "Recoge ítems de bienestar subjetivo y ocio cultural mientras esquivas mitos sobre la lectura juvenil.",
+        "instrucciones": "Come tokens de lectura dialógica y responde preguntas sobre los hallazgos de Valdemoros et al. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Juventud, Lectura y Familia",
+        "descripcion": "Pon a prueba tus conocimientos sobre los datos de satisfacción, porcentajes y paradojas del estudio riojano.",
+        "instrucciones": "Responde antes de que expire el tiempo para acumular puntos y liderar el ranking sociológico."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide del Bienestar Lector",
+        "descripcion": "Asciende desde la lectura obligatoria solitaria hasta la lectura dialógica compartida en el hogar.",
+        "instrucciones": "Acierta en cada nivel sobre las dimensiones de la escala ESVF y la pedagogía del ocio."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Jóvenes lectores y satisfacción con la vida familiar (Valdemoros et al., 2020)",
+      "descripcion": "Investigación ex post facto sobre 1085 jóvenes de Bachillerato que analiza la relación entre el ocio lector autónomo, las prácticas culturales compartidas y la escala de satisfacción familiar ESVF.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Teoría del bienestar subjetivo y satisfacción vital",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Marco conceptual de Diener que concibe la satisfacción vital como el juicio cognitivo global de la propia existencia, identificando el dominio familiar como un predictor cardinal de la salud y el equilibrio emocional en la juventud."
+        },
+        {
+          "id": "2",
+          "label": "Pedagogía del ocio cultural y lectura humanista",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Enfoque de Cuenca y Csikszentmihalyi que define el ocio valioso como experiencia creativa, libre y humanizadora, donde la lectura desinteresada potencia la autorrealización personal y la autonomía crítica del sujeto."
+        },
+        {
+          "id": "3",
+          "label": "Vacío de investigación en lectura y dinámicas familiares",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Constatación teórica de que, pese a la abundante literatura sobre animación lectora escolar, existía un vacío empírico sobre cómo se asocia la lectura de ocio con la satisfacción explícita del adolescente en su hogar."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: vincular lectura de ocio y satisfacción familiar",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Determinar si existe relación estadísticamente significativa entre el tiempo dedicado a la lectura voluntaria por placer y el nivel de satisfacción subjetiva que los estudiantes de Bachillerato perciben en su vida familiar."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: caracterizar el ocio cultural compartido en el hogar",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Cuantificar la presencia de actividades culturales compartidas en familia (cine, música, lectura, museos) y describir las diferencias por género en los hábitos lectores de la juventud escolarizada."
+        },
+        {
+          "id": "6",
+          "label": "Diseño empírico cuantitativo ex post facto",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Investigación cuantitativa transversal no experimental ex post facto orientada a examinar relaciones y diferencias entre grupos naturales sin manipulación directa de variables independientes."
+        },
+        {
+          "id": "7",
+          "label": "Muestra probabilística de 1085 estudiantes de Bachillerato",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Muestra representativa de 1085 adolescentes de 15 a 19 años (51.52% chicos y 48.48% chicas) seleccionados mediante muestreo estratificado probabilístico por conglomerados en 16 centros de La Rioja sin mortalidad muestral."
+        },
+        {
+          "id": "8",
+          "label": "Escala ESVF y cuestionario de ocio cultural",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Aplicación combinada de un cuestionario ad hoc de 44 ítems sobre hábitos culturales y la Escala de Satisfacción con la Vida de Familia (ESVF) de Diener (5 ítems Likert, alfa de Cronbach de .84 en esta muestra)."
+        },
+        {
+          "id": "9",
+          "label": "Tercera posición del ocio cultural frente al físico y festivo",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El 42.7% del alumnado prioriza el ocio cultural, pero este ocupa el tercer lugar general (18.8%), ampliamente superado por el ocio físico-deportivo (30.3%) y el ocio festivo-nocturno (27.7%) en las preferencias juveniles."
+        },
+        {
+          "id": "10",
+          "label": "Música y cine predominan sobre los libros",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Dentro de las actividades culturales preferidas, escuchar música lidera con 54%, seguido de ver películas (18%) y leer libros por gusto personal (14.9%), siendo las mujeres significativamente más lectoras que los varones."
+        },
+        {
+          "id": "11",
+          "label": "Dramática escasez de ocio cultural familiar compartido",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Solo el 21.4% de los jóvenes comparte alguna actividad cultural con su familia, y la lectura familiar cae al quinto lugar con apenas un 0.6%, demostrando que leer en la adolescencia es un acto estrictamente individual."
+        },
+        {
+          "id": "12",
+          "label": "Paradoja: lectores con menor satisfacción familiar",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "La prueba t de Student reveló que los jóvenes más lectores puntúan significativamente más bajo en vida familiar ideal (3.44 vs 3.67, p = .006) y condiciones familiares excelentes (3.58 vs 3.82, p = .030) que los no lectores."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: la lectura como refugio y resiliencia emocional",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se discute la hipótesis de la lectura como refugio psicológico: ante tensiones, incomprensión o rigidez en el hogar, los libros brindan un espacio de consuelo, introspección personal y modelos de resolución de conflictos."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: juicio crítico vs. complacencia doméstica",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El hábito lector agudiza la sensibilidad y el juicio crítico del adolescente, haciéndolo menos complaciente frente a las normas familiares tradicionales y más exigente respecto a la calidad del clima del hogar."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: transversalidad sin causalidad demostrada",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "El diseño transversal ex post facto constata una asociación estadística robusta pero no permite dilucidar si la insatisfacción empuja a la lectura o si la lectura engendra una mirada más crítica hacia la familia."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: revalorización de la lectura dialógica familiar",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye la urgencia de promover la lectura dialógica y los debates intergeneracionales en el hogar para transformar la lectura solitaria en un puente de entendimiento y cohesión afectiva entre padres e hijos."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "aporta el constructo clave para"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "fundamenta el valor del ocio en"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "justifica la originalidad de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se aborda mediante el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "guía los contrastes del"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se aplica sobre una"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "recoge datos mediante la"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "cuantifica en los datos la"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "evidencia que"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "revela la"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "descubre la"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "fundamenta la hipótesis de"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "explica el fenómeno del"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "contextualiza el aislamiento de"
+        },
+        {
+          "from": "11",
+          "to": "16",
+          "label": "demuestra la urgencia de"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "inspira las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "conduce a las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el alcance inferencial del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las conclusiones de"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "reconceptualiza el impacto en"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál fue el hallazgo empírico más sorprendente respecto a los jóvenes más lectores en la escala ESVF de satisfacción familiar?",
+          "options": [
+            "Presentaron niveles de satisfacción familiar significativamente más altos que los no lectores.",
+            "Puntuaron significativamente más bajo en dimensiones clave como percibir su vida familiar como ideal.",
+            "Mostraron una coincidencia perfecta con el tipo de centro educativo al que asistían.",
+            "La totalidad leía regularmente libros en compañía de sus padres y hermanos."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que compartir la lectura en familia es una práctica tan minoritaria (0.6%) y cómo podría una escuela de familias impulsar tertulias dialógicas en el hogar?"
+        }
+      ]
+    }
+  }
+}

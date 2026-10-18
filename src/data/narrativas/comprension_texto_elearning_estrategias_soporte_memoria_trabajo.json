@@ -1,0 +1,379 @@
+{
+  "id": "comprension_texto_elearning_estrategias_soporte_memoria_trabajo",
+  "metadata": {
+    "id": "comprension_texto_elearning_estrategias_soporte_memoria_trabajo",
+    "title": "Comprensión de texto en e-Learning: estrategias de soporte y memoria de trabajo",
+    "authors": [
+      "Magalí Martínez",
+      "Jonathan Marrujo",
+      "Martina Perillo",
+      "Federico M. González",
+      "Débora Burin"
+    ],
+    "year": 2019,
+    "volume": "18",
+    "issue": "2",
+    "pages": "31-43",
+    "doi": "10.18239/ocnos_2019.18.2.1988",
+    "keywords": [
+      "comprensión lectora",
+      "e-learning",
+      "estrategias de lectura",
+      "memoria de trabajo",
+      "textos expositivos"
+    ],
+    "abstract": "Con 224 estudiantes universitarios que leen textos expositivos en un aula virtual, este estudio analiza las estrategias de soporte espontáneas (memorizar, tomar notas, estrategias digitales) y su interacción con la memoria de trabajo para explicar la comprensión lectora."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo leen y comprenden textos expositivos los estudiantes universitarios en plataformas de e-Learning cuando navegan por su cuenta? Este estudio examina las estrategias de soporte espontáneas y la capacidad de la memoria de trabajo en 224 alumnos en un entorno virtual auténtico.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva para indagar en la lectura digital en e-learning:",
+        "opciones": [
+          {
+            "id": "cognitiva",
+            "texto": "Enfoque cognitivo: memoria de trabajo y arquitectura mental"
+          },
+          {
+            "id": "estrategica",
+            "texto": "Enfoque estratégico: notas, memorización y herramientas digitales"
+          },
+          {
+            "id": "didactica",
+            "texto": "Enfoque de diseño instruccional para plataformas e-learning"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "La lectura en pantalla dentro de plataformas virtuales exige seleccionar, integrar y evaluar información dinámicamente en navegación no lineal. Sin supervisión directa, muchos alumnos adoptan estrategias superficiales de lectura pasiva o memorización ciega, colapsando su memoria de trabajo y fracasando en la construcción del modelo de situación.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué diferencia clave distingue la lectura de textos expositivos en e-learning de la lectura en papel?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Exige coordinar demandas metacognitivas de navegación y autorregulación con recursos de memoria de trabajo en un soporte propenso a la distracción.",
+            "correcta": true,
+            "explicacion": "Exacto: la arquitectura digital exige simultanear la decodificación expositiva profunda con decisiones de navegación y filtrado sin guía docente presencial."
+          },
+          {
+            "id": "c2",
+            "texto": "No existe ninguna diferencia cognitiva real, solo un cambio cosmético de formato visual.",
+            "correcta": false,
+            "explicacion": "La investigación demuestra patrones estratégicos distintos y una sobrecarga específica en memoria de trabajo."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los investigadores evaluaron a 224 universitarios en una plataforma Moodle con lecciones de psicología cognitiva. Midieron la memoria de trabajo mediante el subtest de Ordenamiento Números-Letras del WAIS-III y administraron un cuestionario de estrategias de soporte de lectura digital post-tarea, cruzando estos factores con el rendimiento en comprensión profunda.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra y contexto",
+            "detalle": "224 estudiantes universitarios de grado resolviendo tareas en su plataforma Moodle habitual."
+          },
+          {
+            "fase": "Medición cognitiva",
+            "detalle": "Evaluación estandarizada de memoria de trabajo con la tarea Números-Letras (WAIS-III)."
+          },
+          {
+            "fase": "Registro de estrategias",
+            "detalle": "Cuestionario estructurado clasificando estrategias espontáneas: notas, memorización, digitales."
+          },
+          {
+            "fase": "Modelado estadístico",
+            "detalle": "Regresiones jerárquicas y análisis multivariante para aislar efectos directos e interactivos."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados demostraron que las estrategias de soporte activas (tomar notas personales manuscritas o digitales y elaborar resúmenes) predicen positivamente la comprensión profunda, mientras que memorizar pasivamente perjudica el desempeño. La memoria de trabajo modera significativamente esta relación: amortigua los efectos de una baja destreza estratégica.",
+      "datos_clave": [
+        "224 estudiantes universitarios evaluados en condiciones ecológicas de e-learning.",
+        "Tomar notas y elaborar resúmenes predice mayor nivel de comprensión inferencial.",
+        "La memorización pasiva correlaciona negativamente con el modelo de situación.",
+        "La memoria de trabajo alta compensa parcialmente la adopción de estrategias débiles."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El marco teórico se apoya en el modelo de construcción-integración de Kintsch, la teoría de carga cognitiva de Sweller y los modelos de lectura en entornos digitales y no lineales de Goldman, Rouet y Burin.",
+      "referencias_clave": [
+        "Kintsch (1998)",
+        "Sweller (2011)",
+        "Rouet (2006)",
+        "Burin et al. (2015)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El estudio concluye que el éxito en el aprendizaje virtual no reside en el soporte tecnológico en sí, sino en las estrategias metacognitivas activas de procesamiento que el estudiante despliega espontáneamente para transformar información digital fragmentada en conocimiento integrado.",
+      "hallazgo_central": "Las estrategias activas de toma de notas y la capacidad de memoria de trabajo interactúan decisivamente para garantizar la comprensión profunda en plataformas universitarias de e-learning."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja la estrategia lectora con su impacto cognitivo:",
+          "pares": [
+            {
+              "concepto": "Toma de notas activa",
+              "definicion": "Procesamiento generativo que favorece la construcción del modelo de situación."
+            },
+            {
+              "concepto": "Lectura memorística pasiva",
+              "definicion": "Retención superficial del texto base con sobrecarga de memoria de trabajo."
+            },
+            {
+              "concepto": "Ordenamiento Números-Letras",
+              "definicion": "Medida psicométrica de la capacidad de mantenimiento y manipulación en línea."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Comprensión en e-Learning, Estrategias de Soporte y Memoria de Trabajo",
+      "descripcion": "Relaciones entre procesos cognitivos de memoria de trabajo, estrategias de lectura espontáneas y rendimiento comprensivo en e-learning.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Comprensión en e-Learning",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo medular: investigar exhaustivamente cómo las estrategias espontáneas de soporte lector y la memoria de trabajo predicen la comprensión profunda de textos expositivos digitales en estudiantes universitarios dentro de aulas virtuales."
+        },
+        {
+          "id": "2",
+          "label": "Texto Expositivo Digital",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Formato textual no lineal y dinámico que integra hipervínculos estructurados y navegación interactiva, demandando selección continua de itinerarios y autorregulación consciente durante el procesamiento cognitivo de contenidos académicos."
+        },
+        {
+          "id": "3",
+          "label": "Modelo Construcción-Integración",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Paradigma cognitivo de Walter Kintsch que distingue netamente entre la retención superficial de la estructura base textual y la edificación representacional profunda y perdurable del modelo de situación a partir de inferencias lectoras."
+        },
+        {
+          "id": "4",
+          "label": "Memoria de Trabajo (MT)",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Sistema cognitivo de capacidad finita responsable del almacenamiento temporal activo y la manipulación operativa simultánea de la información verbal compleja durante tareas de razonamiento, navegación web y comprensión lectora."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 224 Universitarios",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Participantes empíricos: 224 estudiantes universitarios evaluados en condiciones ecológicas auténticas de aprendizaje telemático dentro de la plataforma Moodle del campus virtual de la Universidad de Buenos Aires cursando Psicología."
+        },
+        {
+          "id": "6",
+          "label": "Subtest Números-Letras (WAIS-III)",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Prueba psicométrica estandarizada administrada individualmente para cuantificar la capacidad operativa de la memoria de trabajo mediante el reordenamiento mental de secuencias alfanuméricas complejas presentadas oralmente."
+        },
+        {
+          "id": "7",
+          "label": "Cuestionario de Estrategias",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Instrumento estructurado de autoinforme post-tarea diseñado y validado empíricamente para clasificar el despliegue espontáneo de recursos auxiliares de lectura agrupados en toma de notas, memorización pasiva y soportes digitales."
+        },
+        {
+          "id": "8",
+          "label": "Estrategias de Toma de Notas",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Estrategia activa y generativa consistente en sintetizar ideas centrales o redactar anotaciones personales que mostró una robusta correlación positiva con elevados índices de comprensión inferencial y consolidación del modelo situacional."
+        },
+        {
+          "id": "9",
+          "label": "Estrategia de Memorización Pasiva",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Práctica espontánea focalizada en releer mecánicamente fragmentos y memorizar datos aislados sin elaboración conceptual, asociada significativamente a rendimientos deficientes en integración semántica e inferencias profundas."
+        },
+        {
+          "id": "10",
+          "label": "Efecto Moderador de la MT",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo empírico de interacción estadística: una elevada capacidad de memoria de trabajo amortigua y compensa parcialmente el impacto negativo derivado del empleo de estrategias de lectura débiles o deficientemente autorreguladas."
+        },
+        {
+          "id": "11",
+          "label": "Sobrecarga Cognitiva en Pantalla",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica en torno a la sobrecarga atencional del entorno virtual al exigir la coordinación simultánea de decodificación de conceptos expositivos densos con decisiones de navegación hipertextual sin supervisión presencial docente."
+        },
+        {
+          "id": "12",
+          "label": "Metacognición y Lectura Virtual",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Análisis sobre la necesidad inaplazable de fomentar la autorregulación metacognitiva en los lectores para planificar itinerarios, monitorizar la comprensión en pantalla y rectificar lagunas interpretativas durante el estudio en línea."
+        },
+        {
+          "id": "13",
+          "label": "Diseño Instruccional Andamiado",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación directa para diseñadores de e-learning: incorporar andamiajes pedagógicos y herramientas explícitas que promuevan la síntesis activa, la formulación de preguntas y la toma de notas estructuradas en las plataformas."
+        },
+        {
+          "id": "14",
+          "label": "Entrenamiento Estratégico Universitario",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta didáctica integral orientada a capacitar explícitamente al alumnado superior en el manejo de estrategias profundas de lectura digital para optimizar el aprendizaje autorregulado en campus virtuales universitarios."
+        },
+        {
+          "id": "15",
+          "label": "Superación de Mitos Tecnológicos",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión epistemológica fundamental: la mera digitalización tecnológica de contenidos no garantiza mejoras pedagógicas sin un procesamiento cognitivo reflexivo, activo y mediado estratégicamente por el propio estudiante."
+        },
+        {
+          "id": "16",
+          "label": "Autoinforme y Validez Ecológica",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación metodológica derivada del uso de cuestionarios retrospectivos de autoinforme para capturar las estrategias, sugiriendo triangular futuros estudios con registros objetivos de telemetría computacional y seguimiento ocular."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "analiza la lectura en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se valida en muestra de"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "requiere construir el"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "depende críticamente de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "es evaluada mediante"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "responde al"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "categoriza el uso de"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "identifica la"
+        },
+        {
+          "from": "6",
+          "to": "10",
+          "label": "permite comprobar el"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "interactúa con"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "se asocia con"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "evidencia el rol de"
+        },
+        {
+          "from": "11",
+          "to": "12",
+          "label": "exige mayor"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "fundamenta el"
+        },
+        {
+          "from": "8",
+          "to": "14",
+          "label": "justifica el"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "contribuye a la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "presenta como límite"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "se potencia con"
+        },
+        {
+          "from": "4",
+          "to": "11",
+          "label": "se satura ante"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se alinea con"
+        },
+        {
+          "from": "7",
+          "to": "16",
+          "label": "debe triangularse ante"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "El estudio de Martínez, Marrujo, Perillo, González y Burin pone en evidencia que en los entornos virtuales no basta con conectar a los alumnos a textos digitales bien diseñados: si no les enseñamos a dialogar activamente con ellos tomando notas y resumiendo, la memoria de trabajo sucumbe a la pasividad.",
+      "preguntas_guiadas": [
+        "¿Qué herramientas de anotación y síntesis utilizas espontáneamente cuando estudias en plataformas virtuales?",
+        "¿Cómo pueden los diseñadores instruccionales estructurar lecciones digitales para desincentivar la lectura pasiva y el copiado literal?"
+      ]
+    }
+  }
+}

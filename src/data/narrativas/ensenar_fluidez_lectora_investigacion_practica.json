@@ -1,0 +1,377 @@
+{
+  "id": "ensenar_fluidez_lectora_investigacion_practica",
+  "metadata": {
+    "id": "ensenar_fluidez_lectora_investigacion_practica",
+    "title": "Enseñar fluidez lectora en el aula: de la investigación a la práctica",
+    "authors": [
+      "Luis A. Castejón",
+      "Soledad González-Pumariega",
+      "Ana Cuetos"
+    ],
+    "year": 2019,
+    "volume": "18",
+    "issue": "2",
+    "pages": "75-84",
+    "doi": "10.18239/ocnos_2019.18.2.1961",
+    "keywords": [
+      "fluidez lectora",
+      "lecturas repetidas",
+      "colaboración escuela-universidad",
+      "educación primaria",
+      "velocidad lectora"
+    ],
+    "abstract": "Los autores describen una experiencia de colaboración entre universidad y escuela para diseñar e implementar un programa de fluidez lectora basado en lecturas repetidas, con 36 alumnos de 2º de Primaria y sus maestras formadas como grupo de trabajo durante siete meses."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo transformar la evidencia psicopedagógica sobre fluidez lectora en una intervención cotidiana viable en el aula ordinaria? Este estudio describe una experiencia de colaboración de siete meses entre investigadoras universitarias y maestras de 2º de Educación Primaria para diseñar, aplicar y evaluar un programa de lecturas repetidas estructurado.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva para explorar esta experiencia de transferencia educativa:",
+        "opciones": [
+          {
+            "id": "investigacion",
+            "texto": "Perspectiva metodológica y diseño de la intervención en fluidez"
+          },
+          {
+            "id": "practica",
+            "texto": "Perspectiva didáctica y aplicación del programa de lecturas repetidas"
+          },
+          {
+            "id": "colaboracion",
+            "texto": "Perspectiva dialógica sobre la alianza universidad-escuela"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Existe una persistente brecha entre los avances de la investigación empírica en fluidez lectora y las rutinas pedagógicas en los centros escolares. Aunque la precisión decodificadora suele consolidarse temprano en lenguas de ortografía transparente como el español, la adquisición de una velocidad fluida y prosódica es mucho más lenta y suele desatenderse sistemáticamente.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Por qué la fluidez lectora tiende a estancarse en Primaria si no se entrena de forma deliberada?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Porque la decodificación subléxica precisa no se automatiza por sí sola sin práctica reiterada que consolide representaciones léxicas ortográficas directas.",
+            "correcta": true,
+            "explicacion": "Exacto: sin el paso deliberado a la vía léxica automática mediante exposiciones múltiples, el lector consume excesiva capacidad de memoria de trabajo en decodificar."
+          },
+          {
+            "id": "c2",
+            "texto": "Porque los alumnos pierden interés y comprensión sin relación con la velocidad.",
+            "correcta": false,
+            "explicacion": "La evidencia demuestra que la velocidad y precisión automatizadas liberan recursos cognitivos indispensables para la comprensión."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "El programa constituyó un grupo de trabajo colaborativo durante siete meses con maestras de segundo de Primaria y 36 escolares. Se utilizó la batería de fluidez lectora (BFL), estratificando al alumnado en niveles de riesgo, emergente y establecido, implementando sesiones de lecturas repetidas con modelado, feedback correctivo y registro explícito de ganancias.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Diagnóstico",
+            "detalle": "Evaluación inicial con BFL para establecer la línea base en velocidad y precisión de palabras y pseudopalabras."
+          },
+          {
+            "fase": "Formación docente",
+            "detalle": "Seminarios dialógicos escuela-universidad sobre psicofisiología de la lectura y técnicas de lectura repetida."
+          },
+          {
+            "fase": "Intervención en aula",
+            "detalle": "Práctica sistemática guiada de lecturas reiteradas con tiempos cronometrados y registro visual de progreso."
+          },
+          {
+            "fase": "Evaluación de impacto",
+            "detalle": "Cálculo de la Ganancia en Aprendizaje (GA) y verificación de adhesión docente a la práctica evidenciada."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados evidenciaron un impacto altamente significativo: el alumnado de nivel de riesgo experimentó las mayores ganancias de aprendizaje proporcionales, logrando alcanzar los umbrales esperados para su curso. Las maestras manifestaron una alta intención de continuidad y modificaron sus concepciones previas sobre la enseñanza explícita de la fluidez.",
+      "datos_clave": [
+        "36 escolares de 2º de Primaria evaluados e intervenidos longitudinalmente.",
+        "Máxima Ganancia de Aprendizaje concentrada en el grupo de riesgo lector inicial.",
+        "100% de maestras participantes integraron lecturas repetidas en su programación habitual.",
+        "Consolidación demostrada del modelo colaborativo micro de centro frente a reformas macro impuestas."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El marco teórico integra la teoría de la doble ruta en lectura con el modelo de desarrollo de la fluidez de Kuhn y Stahl, complementado con la literatura sobre desarrollo profesional docente y transferencia universidad-escuela basada en el diálogo horizontal y la investigación-acción.",
+      "referencias_clave": [
+        "Kuhn & Stahl (2003)",
+        "Lane et al. (2009)",
+        "Castles & Coltheart (2004)",
+        "Rasinski (2010)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El corazón del estudio demuestra que la transferencia investigadora más eficaz en lectoescritura opera en la escala micro: la co-construcción de programas de fluidez con los docentes genera comprensión metodológica profunda y produce avances clínicos y pedagógicos inmediatos en los escolares con mayores dificultades.",
+      "hallazgo_central": "Las intervenciones breves y estructuradas de lecturas repetidas, guiadas por docentes capacitadas en modelos cognitivos, reducen drásticamente las brechas de fluidez en los primeros cursos escolares."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja el componente de la intervención con su función pedagógica:",
+          "pares": [
+            {
+              "concepto": "Lectura repetida cronometrada",
+              "definicion": "Consolidación de huellas léxicas ortográficas directas mediante exposición reiterada."
+            },
+            {
+              "concepto": "BFL (Batería Fluidez Lectora)",
+              "definicion": "Estratificación diagnóstica en niveles de riesgo, emergente y establecido."
+            },
+            {
+              "concepto": "Grupo de trabajo dialógico",
+              "definicion": "Alianza horizontal escuela-universidad para la capacitación y sostenibilidad didáctica."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Fluidez Lectora y Transferencia Colaborativa Escuela-Universidad",
+      "descripcion": "Estructura sistémica de la experiencia colaborativa de intervención en fluidez lectora mediante lecturas repetidas en Educación Primaria.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Fluidez Lectora y Transferencia",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo medular: evaluar la eficacia de un programa colaborativo escuela-universidad de lecturas repetidas para desarrollar fluidez lectora en 2º de Primaria mediante un grupo de trabajo."
+        },
+        {
+          "id": "2",
+          "label": "Brecha Investigación-Práctica",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco contextual sobre el distanciamiento crónico entre los hallazgos psicopedagógicos experimentales y las prácticas cotidianas de enseñanza de la lectura en aulas ordinarias de centros educativos."
+        },
+        {
+          "id": "3",
+          "label": "Modelo de Doble Ruta Cognitiva",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Fundamento teórico de la transición cognitiva de la vía fonológica subléxica lenta y costosa hacia la ruta léxica directa, automatizada y precisa para el reconocimiento visual de palabras."
+        },
+        {
+          "id": "4",
+          "label": "Metodología de Lecturas Repetidas",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Estrategia instructiva fundamentada en releer reiteradamente textos y listas de palabras con modelado adulto y feedback para afianzar automatización prosódica y velocidad decodificadora."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 36 Alumnos de 2º",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Muestra empírica compuesta por 36 escolares de segundo curso de Educación Primaria junto con sus maestras tutoras, estructurados en un diseño cuasi-experimental longitudinal de siete meses."
+        },
+        {
+          "id": "6",
+          "label": "Batería de Fluidez Lectora (BFL)",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Instrumento estandarizado de evaluación de la velocidad, precisión y prosodia en palabras y pseudopalabras, utilizado para el cribado inicial y la medición de seguimiento del progreso lector."
+        },
+        {
+          "id": "7",
+          "label": "Estratificación Diagnóstica",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Procedimiento de clasificación del alumnado en tres perfiles funcionales según sus puntuaciones iniciales: grupo en riesgo lector, lectores emergentes y lectores en nivel establecido."
+        },
+        {
+          "id": "8",
+          "label": "Grupo de Trabajo Dialógico",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Estructura de formación continua colaborativa horizontal entre investigadoras universitarias y maestras escolares para co-diseñar materiales, coordinar sesiones y resolver dilemas didácticos."
+        },
+        {
+          "id": "9",
+          "label": "Ganancia en Aprendizaje (GA)",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Métrica cuantitativa principal que cuantifica la reducción del tiempo de decodificación y el aumento de la exactitud entre la línea base inicial y la evaluación final post-intervención."
+        },
+        {
+          "id": "10",
+          "label": "Progreso Acelerado en Riesgo",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Resultado empírico sobresaliente: los escolares del grupo de riesgo inicial obtuvieron la mayor ganancia de aprendizaje proporcional, cerrando significativamente la brecha con sus pares."
+        },
+        {
+          "id": "11",
+          "label": "Adhesión Docente al Programa",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación de una altísima intención de continuidad pedagógica en el claustro, con incorporación estable de rutinas de fluidez lectora en las programaciones didácticas de aula regular."
+        },
+        {
+          "id": "12",
+          "label": "Liberación de Recursos Cognitivos",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica sobre cómo la automatización de la lectura veloz descongestiona la memoria de trabajo, permitiendo al escolar focalizar sus recursos en procesos profundos de comprensión."
+        },
+        {
+          "id": "13",
+          "label": "Superioridad del Enfoque Micro",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Contraste teórico que demuestra que la colaboración situada en centros específicos (nivel micro) supera las limitaciones de las reformas burocráticas centralizadas (nivel macro)."
+        },
+        {
+          "id": "14",
+          "label": "Eficacia de Intervención Temprana",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental: la aplicación deliberada de lecturas repetidas en los primeros cursos previene el fracaso lector crónico y consolida hábitos de precisión y cadencia prosódica."
+        },
+        {
+          "id": "15",
+          "label": "Sostenibilidad de Transferencia",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Demostración de que la formación docente basada en evidencia y diálogo continuo garantiza la permanencia y sostenibilidad a largo plazo de las innovaciones didácticas en la escuela."
+        },
+        {
+          "id": "16",
+          "label": "Muestra Reducida y Generalización",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación reconocida por los autores derivada del tamaño muestral acotado a un único centro educativo público, demandando réplicas con diseños experimentales a mayor escala territorial."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "aborda directamente"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se implementa con"
+        },
+        {
+          "from": "2",
+          "to": "8",
+          "label": "se supera mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "fundamenta técnicamente"
+        },
+        {
+          "from": "4",
+          "to": "8",
+          "label": "se aplica dentro de"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "es evaluada con"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "permite la"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "se monitoriza con"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "promueve la"
+        },
+        {
+          "from": "9",
+          "to": "10",
+          "label": "evidencia un"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "conlleva a la"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "valida empíricamente"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "respalda la"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "conduce hacia la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se complementa con"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matizada por la"
+        },
+        {
+          "from": "3",
+          "to": "12",
+          "label": "explica el proceso de"
+        },
+        {
+          "from": "4",
+          "to": "10",
+          "label": "produce directamente"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "debe replicarse ante"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "focaliza ayuda en"
+        },
+        {
+          "from": "1",
+          "to": "14",
+          "label": "culmina verificando"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "La experiencia de Castejón, González-Pumariega y Cuetos nos recuerda que la mejora del rendimiento lector no depende de recetas mágicas ni de decretos administrativos, sino del empoderamiento científico del profesorado mediante la investigación-acción situada.",
+      "preguntas_guiadas": [
+        "¿Cómo se puede implementar un protocolo breve de lecturas repetidas en las rutinas diarias de lectura en el aula?",
+        "¿Qué alianzas entre universidades y centros educativos de tu entorno facilitarían una transferencia rigurosa de evidencias psicopedagógicas?"
+      ]
+    }
+  }
+}

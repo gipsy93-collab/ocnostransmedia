@@ -1,0 +1,138 @@
+{
+  "id": "desarrollo_competencia_prosodica_lectura_voz",
+  "metadata": {
+    "title": "Desarrollo de la competencia prosódica en la lectura en voz alta: importancia de las pausas",
+    "authors": "Aintzane Etxebarria, Iñaki Gaminde, Asier Romero y Aitor Iglesias",
+    "year": "2016",
+    "journal": "Ocnos. Revista de estudios sobre lectura, 15(2), 2016",
+    "doi": "https://doi.org/10.18239/ocnos_2016.15.2.1047",
+    "gancho": "Este estudio analiza las pausas como elementos que estructuran el discurso en la lectura en voz alta. A partir de un experimento con 100 estudiantes universitarios vascos bilingües que leen una noticia periodística, computa los tipos de pausa, identifica aspectos a trabajar en su",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#fa5457",
+    "colorAlt": "#b5179e",
+    "bg": "from-rose-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-4.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-4.png",
+      "name": "Aintzane Etxebarria",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Aintzane Etxebarria, autor/a en Revista Ocnos",
+      "gancho": "Este estudio analiza las pausas como elementos que estructuran el discurso en la lectura en voz alta. A partir de un experimento con 100 estudiantes universitarios vascos bilingües que leen una notici",
+      "contexto": "El texto define la prosodia como un conjunto de rasgos suprasegmentales que incluyen el acento, la entonación, el tono, el ritmo, la melodía, las pausas, la velocidad de elocución y la cualidad de la voz (Llisterri, 2016) . Estos rasgos transmiten el contenido del mensaje oral y, además, informan sobre la identidad del hablante (género, edad, procedencia y estatus social), su estado emocional y su actitud hacia el tema, la situación o el interloc",
+      "deepDives": [
+        {
+          "id": "desarrollo_competencia_prosodica_lectura_voz-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "La lectura en voz alta depende de la **prosodia**, pero en la enseñanza de lenguas los rasgos suprasegmentales suelen quedar de lado frente a la repetición y la descripción de elementos fonológicos. El artículo sostiene que desarrollar la competencia prosódica es clave para la comprensión del texto "
+        },
+        {
+          "id": "desarrollo_competencia_prosodica_lectura_voz-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "El texto define la prosodia como un conjunto de rasgos suprasegmentales que incluyen el acento, la entonación, el tono, el ritmo, la melodía, las pausas, la velocidad de elocución y la cualidad de la voz (Llisterri, 2016) . Estos rasgos transmiten el contenido del mensaje oral y, además, informan so"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La lectura en voz alta depende de la **prosodia**, pero en la enseñanza de lenguas los rasgos suprasegmentales suelen quedar de lado frente a la repetición y la descripción de elementos fonológicos. El artículo sostiene que desarrollar la competencia prosódica es clave para la comprensión del texto leído y, sin embargo, aún se sabe poco sobre cómo ",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "112; Conclusiones, p. 116].",
+        "113]. Esa relación se apoya en el planteamiento teórico del experimento de Cohen et al. (2001), donde la competencia prosódica se ubica por encima de las demás subcompetencias y, a la vez, conectada con todas ellas en el contexto de la lengua oral ."
+      ],
+      "glossary": [
+        {
+          "term": "Prosodia",
+          "definition": "conjunto de rasgos suprasegmentales (acento, entonación, tono, ritmo, pausas, velocidad). (p. 111)"
+        },
+        {
+          "term": "Pausa silenciosa",
+          "definition": "silencio intercalado en el discurso; puede llevar o no alargamiento o inserción de vocal. (p. 112)"
+        },
+        {
+          "term": "Pausa sonora (llena)",
+          "definition": "alargamiento vocálico o vocalización como \"eh\" o \"mm\" en lugar de silencio. (p. 112)"
+        },
+        {
+          "term": "Estructura indivisible",
+          "definition": "sintagma nominal o verbal (o palabra) que no debería fragmentarse con una pausa. (p. 114)"
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Se trata de un **estudio empírico de producción oral** con análisis acústico y estadístico, estructurado en tres objetivos: (1) computar los tipos de pausa según la tipología del artículo, (2) identificar aspectos a trabajar relacionados con el emplazamiento y la duración de las pausas silenciosas y (3) especificar el peso de las variables lengua materna, género y procedencia .\n\n**Participantes**:",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Análisis empírico o teórico de corpus según fuentes primarias"
+        }
+      ],
+      "limitaciones": [
+        "El artículo **no incluye un apartado formal de limitaciones**. Sí declara de forma explícita las cuestiones que quedan **sin estudiar**: no se comprueba si estas características de las pausas influyen"
+      ],
+      "reflexion": "Si replicaras este experimento en tu contexto, ¿qué texto y qué variables de control elegirías —longitud, género discursivo, lengua— para que la comparación entre lectores fuera realmente informativa?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "Predominan las pausas silenciosas",
+          "value": ". En el corpus analizado la cantidad de pausas silenciosas es mayor que la marcada gráficamente: la media es de 13,45 pausas (desviación típica 4,06); el alumno que más realiza llega a 35 y el que menos, a 8 . De un total de 1.353 pausas, las más recurrentes son las silenciosas `"
+        },
+        {
+          "label": "La duración es muy heterogénea",
+          "value": ". Algunas pausas duran 20 ms y otras 2.600 ms; la duración media es de 360,71 ms, con una desviación típica muy elevada (286,89) ."
+        },
+        {
+          "label": "Emplazamiento incorrecto frecuente",
+          "value": ". El 4,8 % de las pausas aparece dentro de estructuras como sintagmas nominales o verbales, y el 0,9 % separa palabras; este último dato revela problemas de decodificación. La realización de ambos errores se observa en el **35 % de los lectores**. El 19,11 % de las pausas coincid"
+        },
+        {
+          "label": "Duración según el tipo de pausa",
+          "value": ". La duración media de las pausas que dividen sintagmas (550 ms) es mayor que la de las que coinciden con signos gráficos (486 ms); la de la coma (485 ms) es casi igual a la del punto (486 ms). De aquí se deduce que un **5,7 % de las pausas no son correctas**, porque se realizan "
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El artículo se apoya en la investigación sobre **prosodia y fluidez lectora**. La prosodia se entiende como un conjunto de rasgos suprasegmentales (acento, entonación, tono, ritmo, melodía, pausas, velocidad de elocución, cualidad de la voz) descritos por Llisterri (2016) . Su función va más allá de la información: permite inferir la identidad del hablante y su estado emocional o actitudinal (Mozz",
+      "detalles": [
+        {
+          "label": "Tradición Teórica",
+          "value": "Teorías de la lectura, didáctica de la lengua y estudios literarios."
+        }
+      ],
+      "reflexion": "El estudio aporta un diagnóstico detallado de las pausas, pero no prueba su efecto en la comprensión. ¿Basta ese diagnóstico para justificar una intervención didáctica, o exigirías antes una evidencia experimental del impacto?"
+    },
+    "nucleo": {
+      "pregunta": "¿Qué tipos de pausa emplean los jóvenes universitarios bilingües al leer en voz alta, dónde y cuánto las realizan, y en qué medida influyen la lengua materna, el género y la procedencia?",
+      "conclusion": "La mayoría de las pausas producidas por los jóvenes lectores son **silenciosas** y, en un porcentaje sustancial, **deberían evitarse**, porque a menudo dividen estructuras (sintagmas y palabras) de forma incorrecta. La duración media de esas pausas es muy parecida a la de las pausas indicadas por referencias gráficas. La **lengua materna influye**: quienes provienen del norte del País Vasco separan significativamente más estructuras indivisibles ",
+      "formalRef": "Etxebarria, A., Gaminde, I., Romero, A., & Iglesias, A. (2016). Desarrollo de la competencia prosódica en la lectura en voz alta: importancia de las pausas. *Ocnos. Revista de estudios sobre lectura*, 15(2), 110-118. https://doi.org/10.18239/ocnos_2016.15.2.1047"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es el foco central de la investigación sobre Desarrollo de la competencia prosódica e...?",
+          "options": [
+            "Aporte conceptual y empírico al campo lector",
+            "Revisión histórica secundaria"
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "id": "escala_riesgo_dislexia_primaria",
+  "metadata": {
+    "title": "Diseño y validación de una escala para la identificación de la dislexia al inicio de Educación Primaria",
+    "authors": "Raúl Gutiérrez-Fresneda y Teresa Pozo-Rico",
+    "year": "2022",
+    "journal": "Ocnos 21(2)",
+    "doi": "10.18239/ocnos_2022.21.2.2973",
+    "gancho": "¿Es posible que los maestros de 1º de Primaria detecten fiablemente el riesgo de dislexia en pocos minutos sin esperar al fracaso escolar de los 8 años?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#3a86ff",
+    "colorAlt": "#1d3557",
+    "bg": "from-blue-500/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/dislexia-escala/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-fresneda/200/200",
+      "name": "Dr. Raúl Gutiérrez-Fresneda",
+      "role": "Profesor Titular de Psicología Evolutiva y de la Educación, Universidad de Alicante"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Raúl Gutiérrez-Fresneda, investigador en dificultades del aprendizaje y lectura inicial",
+      "gancho": "¿Por qué el 67% del alumnado con dislexia no es detectado hasta tener entre 8 y 11 años, cuando el desfase curricular ya es difícil de revertir?",
+      "contexto": "La dislexia es la dificultad de aprendizaje más frecuente en la escuela y una de las causas directas de que 1 de cada 4 casos de fracaso escolar se consolide en nuestro sistema educativo. Tradicionalmente, la identificación depende de pruebas clínicas individualizadas (Prolexia, DST-J, Dytective) administradas por especialistas externos con altos costes temporales. En este estudio, se diseña y valida la escala EIRD-EP, un instrumento psicométrico de 20 ítems validado con 458 docentes de los primeros cursos de Primaria para permitir un cribado preventivo ágil, robusto y directamente aplicable en el aula antes de que el retraso lectoescritor se cronifique.",
+      "deepDives": [
+        {
+          "id": "dislex-apertura-1",
+          "triggerLabel": "La falacia del 'modelo de espera al fracaso'",
+          "type": "theory",
+          "content": "Históricamente, la identificación de la dislexia se ha demorado hasta que el desfase lector respecto a los pares resultaba evidente. Los autores denominan a esta inercia 'modelo de espera al fracaso', al que los actuales modelos de prevención y el enfoque de Respuesta a la Intervención (Arrimada et al., 2020; Jiménez, 2019) tratan de dar respuesta detectando el riesgo antes de que se consolide."
+        },
+        {
+          "id": "dislex-apertura-2",
+          "triggerLabel": "Por qué el docente de Primaria es clave",
+          "type": "theory",
+          "content": "La dislexia manifiesta sus primeras señales cuando se afianza el proceso lectoescritor, durante el primer curso de Educación Primaria, por una combinación de déficits en el procesamiento fonológico, auditivo y/o visual. Son los docentes quienes con mayor eficacia pueden detectar esos indicios, pero su formación específica sobre el trastorno es escasa (Echegaray-Bengoa y Soriano-Ferrer, 2016; Gutiérrez-Fresneda y Díez, 2020)."
+        },
+        {
+          "id": "dislex-apertura-3",
+          "triggerLabel": "Mitos docentes persistentes sobre la dislexia",
+          "type": "data",
+          "content": "Los estudios revelan que numerosos docentes conservan concepciones erróneas: creer que la dislexia es un problema de mala percepción visual, que las inversiones de letras o palabras son el criterio más importante para identificarla, que las gafas de colores ayudan a tratarla o que se supera con el paso del tiempo sin reeducación."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Los docentes de los primeros cursos de Primaria son los observadores directos de los primeros tropiezos con el código escrito, pero carecen de herramientas de cribado estandarizadas, rápidas y validadas científicamente para uso escolar. Los orientadores se ven desbordados por protocolos extensos y las evaluaciones diagnósticas llegan con años de retraso.",
+      "porQueImporta": "En España, la tasa de abandono educativo temprano se sitúa en el 16% (Eurostat, 2021), y la dificultad no atendida para decodificar textos destruye la autoeficacia académica del alumno, desencadenando problemas de conducta, desmotivación y exclusión formativa.",
+      "dataPoints": [
+        "1 de cada 4 casos de fracaso académico infantil está directamente asociado a dificultades no identificadas de dislexia.",
+        "El 67% del alumnado con dislexia se sitúa entre los 8 y los 11 años de edad (3º a 5º de Primaria).",
+        "Muestra de validación de 458 docentes de los primeros cursos de Primaria (74.7% mujeres, 25.3% varones; 64.4% con más de 15 años de experiencia docente).",
+        "Juicio de expertos Delphi con 18 especialistas: coeficientes kappa de Fleiss de .81 (claridad), .78 (coherencia), .83 (suficiencia) y .93 (relevancia).",
+        "El análisis factorial confirmatorio ratifica un ajuste óptimo con S-Bχ² = 435.60, gl = 237, razón χ²/gl = 2.12, RMSEA = .006, CFI = .957 y NNFI = .932."
+      ],
+      "glossary": [
+        {
+          "term": "EIRD-EP",
+          "definition": "Escala de Indicadores de Riesgo de la Dislexia en Educación Primaria; cuestionario docente de 20 ítems en escala Likert (0-3) estructurado en 4 dimensiones."
+        },
+        {
+          "term": "Análisis Factorial Confirmatorio (AFC)",
+          "definition": "Técnica estadística multivariante de ecuaciones estructurales que contrasta si la estructura teórica de factores correlacionados reproduce fielmente la matriz de covarianzas empíricas."
+        },
+        {
+          "term": "Varianza Media Extraída (AVE)",
+          "definition": "Indicador psicométrico de validez convergente que mide la cantidad de varianza capturada por un constructo respecto a la varianza debida al error de medida; debe ser superior a .50."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "dislex-conflicto-1",
+          "triggerLabel": "Estructura de las baterías clínicas previas",
+          "type": "method",
+          "content": "Pruebas como Prolexia, el test Bangor, el Cognitive Profiling System, Dytective o el DST-J exigen una administración individualizada por parte de un especialista, con un coste de tiempo elevado por alumno, lo que hace inviable su uso como protocolo de cribado masivo en todas las aulas ordinarias."
+        },
+        {
+          "id": "dislex-conflicto-2",
+          "triggerLabel": "Criterio de Fornell y Larcker para validez discriminante",
+          "type": "data",
+          "content": "Para certificar que los 4 factores miden dimensiones distintas, la raíz cuadrada del AVE de cada factor (entre .68 y .79) debe ser mayor que las correlaciones que mantiene con los demás factores (entre .245 y .416); en la EIRD-EP este criterio se cumplió en todas las combinaciones."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología psicométrica: Del panel Delphi al modelo de ecuaciones estructurales con muestra dividida",
+      "narrativa": "La investigación adoptó un diseño instrumental riguroso en varias etapas: construcción teórica de reactivos, validación de contenido con panel de expertos, depuración métrica preliminar y validación cruzada mediante partición muestral (AFE y AFC independientes).",
+      "detalles": [
+        {
+          "label": "Fase 1: Banco Inicial",
+          "value": "24 reactivos originales derivados de la literatura sobre predictores tempranos y de instrumentos validados previos (Prolexia, Cognitive Profiling System y DST-J), orientados a detectar dificultades en el aprendizaje del lenguaje escrito."
+        },
+        {
+          "label": "Fase 2: Juicio de Expertos (Delphi)",
+          "value": "18 expertos (9 orientadores y 9 profesores universitarios). Evaluaron claridad (M=2.96), coherencia (M=2.87), relevancia (M=2.93) y suficiencia (M=2.91). Índices de concordancia kappa de Fleiss entre .78 y .93."
+        },
+        {
+          "label": "Fase 3: Muestra y Depuración",
+          "value": "N=458 docentes. Eliminación de 4 ítems por bajas correlaciones ítem-total o incremento del alfa si se eliminan, consolidando la escala final en 20 ítems."
+        },
+        {
+          "label": "Fase 4: Validación Cruzada (Split-Sample)",
+          "value": "Primera mitad de la muestra para el AFE (extracción de componentes principales y rotación ortogonal Varimax); segunda mitad para el AFC con estimación robusta Satorra-Bentler en EQS 6.2."
+        }
+      ],
+      "limitaciones": [
+        "La escala evalúa exclusivamente indicadores observables por el docente en el contexto escolar, prescindiendo deliberadamente de reactivos sobre antecedentes sociofamiliares y desarrollo evolutivo temprano.",
+        "Se precisa validar longitudinalmente el valor predictivo de la escala mediante el seguimiento del rendimiento lector real de los escolares detectados a lo largo de los primeros cursos de Primaria."
+      ],
+      "reflexion": "¿Por qué es psicométricamente superior dividir la muestra en dos mitades independientes para hacer AFE y AFC en lugar de aplicar ambos análisis sobre el mismo conjunto de datos?",
+      "deepDives": [
+        {
+          "id": "dislex-viaje-1",
+          "triggerLabel": "Estrategia de estimación robusta Satorra-Bentler",
+          "type": "method",
+          "content": "Dado que las respuestas Likert pueden presentar asimetría y desviaciones de la normalidad multivariante, el software EQS 6.2 aplicó correcciones robustas que proporcionan estadísticos chi-cuadrado y errores estándar no sesgados."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados psicométricos: Una estructura factorial cuádruple con 73.45% de varianza explicada",
+      "narrativa": "Los análisis confirmaron de manera concluyente que el riesgo de dislexia al inicio de Primaria se articula en cuatro pilares complementarios de observación docente:",
+      "hallazgos": [
+        {
+          "label": "Aprendizajes Instrumentales (F2)",
+          "value": "Es el núcleo más potente del instrumento: errores en correspondencia fonema-grafema, decodificación vacilante, omisiones/sustituciones, ortografía natural y cálculo básico. Ej.: 27.29% de varianza explicada (7 ítems, α = .987)."
+        },
+        {
+          "label": "Capacidades Cognitivas (F4)",
+          "value": "Captura el funcionamiento ejecutivo: memoria de trabajo auditivo-verbal, atención sostenida en tareas de lectura, desorganización y fatiga cognitiva temprana. Ej.: 18.26% de varianza explicada (6 ítems, α = .873)."
+        },
+        {
+          "label": "Lenguaje Oral (F1)",
+          "value": "Refleja fluidez léxica, riqueza de vocabulario receptivo y capacidad para seguir instrucciones complejas en el aula. Ej.: 15.73% de varianza explicada (3 ítems, α = .892)."
+        },
+        {
+          "label": "Desarrollo Grafomotor (F3)",
+          "value": "Audita la calidad de la pinza digital, tonicidad y presión sobre el soporte, alineación gráfica y lentitud en la copia manuscrita. Ej.: 12.17% de varianza explicada (4 ítems, α = .835)."
+        }
+      ],
+      "dataPoints": [
+        "Varianza total explicada por los 4 factores: 73.45%, con comunalidades entre .65 y .96.",
+        "Consistencia interna global: Alfa de Cronbach total de .896 para los 20 reactivos.",
+        "Fiabilidad compuesta (CR) por dimensión: oscila entre .86 y .93, superando ampliamente el umbral crítico de .70.",
+        "Varianza Media Extraída (AVE): todos los factores obtuvieron valores entre .68 y .79, certificando excelente validez convergente.",
+        "Bondad de ajuste del modelo estructural: RMSEA = .006, CFI = .957, IFI = .952 y NNFI = .932."
+      ],
+      "reflexion": "La inclusión del 'Desarrollo Grafomotor' y las 'Capacidades Cognitivas' junto a los 'Aprendizajes Instrumentales' confirma que la dislexia no es un mero fallo de pronunciación o lectura mecánica, sino un fenómeno neuroevolutivo integral.",
+      "deepDives": [
+        {
+          "id": "dislex-revelacion-1",
+          "triggerLabel": "Matriz de correlaciones inter-factoriales",
+          "type": "data",
+          "content": "Las correlaciones entre los factores se situaron entre .245 y .416, evidenciando que aunque las cuatro dimensiones coexisten en el perfil del alumno, representan constructos diferenciados y no redundantes."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión teórica: Hacia un paradigma preventivo de cribado escolar",
+      "narrativa": "Los autores debaten cómo la EIRD-EP permite superar las barreras estructurales que impiden una detección temprana real en el sistema escolar:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Modelos de prevención y Respuesta a la Intervención: La escala encaja en los enfoques que apuestan por detectar el riesgo antes de que se acumule el retraso, como alternativa a los modelos de espera al fracaso (Arrimada et al., 2020; Jiménez, 2019)."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Bases neurocognitivas del aprendizaje lector: Coherencia con las explicaciones teóricas sobre el déficit de procesamiento fonológico, complementado con el papel de la memoria de trabajo y las dificultades grafomotoras (Cuetos et al., 2017; Luque, 2018)."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Validez social de las escalas docentes: Los profesores son informantes de alta precisión ecológica porque observan el comportamiento cotidiano en interacción con tareas reales."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Diagnóstico clínico extensivo vs. Cribado pedagógico rápido: La EIRD-EP no pretende emitir un diagnóstico clínico formal, sino activar medidas inmediatas de refuerzo pedagógico dentro del aula ordinaria."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Mitos visuales vs. Evidencia psicométrica: Los datos demuestran que las dificultades se asocian a procesamiento fonológico, léxico y grafomotor, desterrando mitos sobre problemas puramente visuales o espaciales."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Falta de ítems sobre la influencia del contexto sociofamiliar y el desarrollo evolutivo temprano en la manifestación de los síntomas."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Necesidad de estudios longitudinales que correlacionen las puntuaciones de riesgo con el progreso lector real del alumnado detectado."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la práctica del aula El docente de Primaria puede cumplimentar la escala de forma rápida por alumno sospechoso, obteniendo un perfil claro de qué dimensiones reforzar de inmediato."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para los equipos de orientación educativa Disponer de un informe docente estandarizado agiliza las listas de espera de evaluación psicopedagógica y prioriza a los casos de riesgo severo."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las políticas educativas Instituir protocolos de cribado universal en los primeros cursos de Primaria para erradicar el fracaso escolar derivado de la detección tardía."
+        },
+        {
+          "label": "Tabla",
+          "value": "Dimensión / Indicador | Nº Ítems | Varianza Explicada | Alfa de Cronbach | Fiabilidad Compuesta (CR) | AVE\nLenguaje Oral (LO) | 3 | 15.73% | .892 | .86 | .68\nAprendizajes Instrumentales (AI) | 7 | 27.29% | .987 | .93 | .79\nDesarrollo Grafomotor (DG) | 4 | 12.17% | .835 | .87 | .76\nCapacidades Cognitivas (CC) | 6 | 18.26% | .873 | .92 | .73\nModelo Global / Total | 20 | 73.45% | .896 | CFI = .957 | RMSEA = .006"
+        }
+      ],
+      "reflexion": "Si contamos con una herramienta validada que se aplica en muy poco tiempo, ¿por qué los centros siguen esperando a cursos avanzados para diagnosticar formalmente la dislexia?",
+      "deepDives": [
+        {
+          "id": "dislex-marco-1",
+          "triggerLabel": "Estrategias de intervención por dimensión afectada",
+          "type": "theory",
+          "content": "Puntuaciones bajas en Aprendizajes Instrumentales exigen instrucción fónica sistemática; dificultades en Desarrollo Grafomotor requieren ergonomía del agarre y ejercicios grafomotores; la afectación en Capacidades Cognitivas demanda andamiajes de memoria externa y reducción de la carga cognitiva en las tareas."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo diseñar y validar un instrumento fiable, rápido y accesible para que los docentes identifiquen el riesgo de dislexia al inicio de Educación Primaria?",
+      "conclusion": "La escala EIRD-EP (20 ítems) presenta una estructura robusta de 4 factores: Aprendizajes Instrumentales, Capacidades Cognitivas, Lenguaje Oral y Desarrollo Grafomotor. El modelo factorial explica el 73.45% de la varianza total y muestra un ajuste confirmatorio excepcional (RMSEA = .006, CFI = .957, NNFI = .932). La consistencia interna global (α = .896) y las fiabilidades compuestas (.86-.93) avalan su alta precisión de medida. El instrumento permite al docente una identificación rápida y traduce los resultados en líneas de intervención pedagógica directa. Implementar la escala EIRD-EP como instrumento de cribado en los primeros cursos de Educación Primaria. Activar medidas de respuesta a la intervención inmediatas en conciencia fonológica y decodificación ante puntuaciones de riesgo en Aprendizajes Instrumentales. Capacitar al profesorado novel en la observación sistemática de las cuatro dimensiones psicométricas validadas. Articular la coordinación entre tutores y equipos de orientación psicopedagógica a partir de los perfiles dimensionales de la escala. Detectar a tiempo no es etiquetar al niño: es garantizar su derecho a aprender a leer antes de que la frustración apague su deseo de aprender.",
+      "formalRef": "Raúl Gutiérrez-Fresneda y Teresa Pozo-Rico. (2022). Diseño y validación de una escala para la identificación de la dislexia al inicio de Educación Primaria. Ocnos 21(2). https://doi.org/10.18239/ocnos_2022.21.2.2973"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es la dimensión que explica el mayor porcentaje de varianza (27.29%) en la estructura factorial de la escala EIRD-EP?",
+          "options": [
+            "Desarrollo Grafomotor (trazo y pinza digital)",
+            "Aprendizajes Instrumentales (conciencia fonológica, decodificación y cálculo)",
+            "Lenguaje Oral (riqueza de vocabulario)",
+            "Capacidades Cognitivas (atención y memoria)"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué índice de ajuste absoluto obtuvo el modelo factorial confirmatorio de la escala EIRD-EP, situándose muy por debajo del umbral recomendado de .05?",
+          "options": [
+            "RMSEA = .006",
+            "CFI = .750",
+            "Razón χ²/gl = 8.45",
+            "SRMR = .185"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Si un alumno de 1º de Primaria obtiene puntuaciones de alto riesgo en 'Capacidades Cognitivas' pero normalidad en 'Lenguaje Oral', ¿qué adaptaciones de aula específicas propondrías para no saturar su memoria de trabajo durante la lectura?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Validación de la escala EIRD-EP para identificar riesgo de dislexia (Ocnos 21(2) 2022)",
+    "descripcion": "Recorre el diseño y validación de la Escala de Indicadores de Riesgo de la Dislexia al inicio de Educación Primaria (EIRD-EP) de Gutiérrez-Fresneda y Pozo-Rico: desde la detección tardía y la laguna de instrumentos docentes, pasando por el juicio de expertos y la validación cruzada con AFE y AFC sobre 458 docentes, hasta la estructura de cuatro factores (73.45% de varianza), el ajuste confirmatorio y la propuesta de cribado preventivo en el aula.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Dislexia y fracaso escolar temprano",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La dislexia es el problema escolar más frecuente en la infancia y uno de los principales factores de fracaso y abandono escolar: uno de cada cuatro casos de fracaso académico deriva de esta dificultad (Ruiz-López et al., 2010; Gutiérrez-Fresneda et al., 2021). El 67% del alumnado afectado se sitúa entre los 8 y los 11 años y el 18% entre los 12 y los 16."
+      },
+      {
+        "id": "2",
+        "label": "Laguna de instrumentos de cribado docente",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Existen pruebas estandarizadas como Prolexia, el test Bangor, el Cognitive Profiling System, Dytective o el DST-J, pero exigen evaluación individualizada por especialistas con altos costes de tiempo. Son escasos los instrumentos dirigidos a los docentes para una identificación rápida y fiable en el aula."
+      },
+      {
+        "id": "3",
+        "label": "Modelo preventivo y espera al fracaso",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Los autores denuncian que los modelos de espera al fracaso han predominado durante décadas sin reducir el abandono. Frente a ellos surgen los modelos de prevención y el enfoque de Respuesta a la Intervención (Arrimada et al., 2020; Jiménez, 2019), que apuestan por detectar el riesgo antes de que se consolide."
+      },
+      {
+        "id": "4",
+        "label": "Señales tempranas y papel del docente",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "La dislexia se manifiesta cuando se afianza el proceso lectoescritor, durante el primer curso de Primaria, por déficits en el procesamiento fonológico, auditivo y/o visual. Los docentes son quienes con mayor eficacia pueden detectar los primeros indicios, aunque su formación específica es escasa (Echegaray-Bengoa y Soriano-Ferrer, 2016)."
+      },
+      {
+        "id": "5",
+        "label": "Mitos y concepciones erróneas docentes",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Persisten falsos mitos: considerar que la dislexia se debe a una mala percepción visual, que las inversiones de letras son el criterio más importante o que se supera con el paso del tiempo. Los conocimientos docentes correlacionan con la experiencia y el trabajo con alumnado diagnosticado."
+      },
+      {
+        "id": "6",
+        "label": "Objetivo: diseñar la escala EIRD-EP",
+        "color": "#264653",
+        "role": "Objetivo",
+        "descripcion": "Elaborar y validar una escala que permita identificar de forma rápida y confiable a los estudiantes de los primeros niveles de Educación Primaria que presenten síntomas propios de la dislexia al inicio del aprendizaje de la lectura y la escritura."
+      },
+      {
+        "id": "7",
+        "label": "Objetivo: validar psicométricamente la escala",
+        "color": "#2a9d8f",
+        "role": "Objetivo",
+        "descripcion": "Comprobar la fiabilidad, la validez de contenido y la validez de constructo (exploratoria y confirmatoria) del instrumento mediante un riguroso proceso psicométrico sobre una muestra amplia de docentes."
+      },
+      {
+        "id": "8",
+        "label": "Juicio de expertos (método Delphi)",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "18 expertos (nueve orientadores y nueve profesores universitarios) valoraron claridad, coherencia, relevancia y suficiencia de los ítems, con medias entre 2.87 y 2.96. La concordancia interobservador (kappa de Fleiss) osciló entre .78 y .93, indicando un acuerdo muy elevado."
+      },
+      {
+        "id": "9",
+        "label": "Muestra de 458 docentes de Primaria",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Participaron 458 docentes de los primeros cursos de Educación Primaria de centros públicos y concertados (74.7% mujeres y 25.3% varones), mediante muestreo aleatorio simple. El 64.4% acumulaba más de 15 años de experiencia."
+      },
+      {
+        "id": "10",
+        "label": "Validación cruzada: AFE y AFC",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "La muestra se dividió en dos mitades: una para el análisis factorial exploratorio (componentes principales con rotación Varimax) y otra para el confirmatorio con estimación robusta Satorra-Bentler en EQS 6.2. Se partió de 24 ítems y se eliminaron 4, quedando 20."
+      },
+      {
+        "id": "11",
+        "label": "Estructura de cuatro factores (73.45%)",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El AFE reveló cuatro dimensiones que explican el 73.45% de la varianza: Aprendizajes Instrumentales (27.29%), Capacidades Cognitivas (18.26%), Lenguaje Oral (15.73%) y Desarrollo Grafomotor (12.17%). Las comunalidades oscilaron entre .65 y .96."
+      },
+      {
+        "id": "12",
+        "label": "Consistencia interna y fiabilidad",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "El alfa de Cronbach total fue de .896 (factores entre .835 y .987). Las fiabilidades compuestas (CR) se situaron entre .86 y .93 y las varianzas medias extraídas (AVE) entre .68 y .79, avalando la fiabilidad y la validez convergente."
+      },
+      {
+        "id": "13",
+        "label": "Ajuste confirmatorio óptimo (RMSEA = .006)",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "El modelo de cuatro factores mostró un ajuste excelente: S-Bχ²=435.60, gl=237, razón χ²/gl=2.12, RMSEA=.006, CFI=.957, IFI=.952 y NNFI=.932. Las correlaciones interfactoriales (.245-.416) confirmaron la validez discriminante según Fornell y Larcker."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: cribado preventivo en el aula",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "La EIRD-EP permite al docente identificar de forma rápida a los escolares en riesgo evitando exploraciones individualizadas extensas y costosas. Es una herramienta breve que genera actitudes positivas hacia metodologías inclusivas y agiliza la coordinación con los servicios de orientación."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones y seguimiento longitudinal",
+        "color": "#f4d068",
+        "role": "Limitaciones",
+        "descripcion": "El estudio no incluyó el contexto sociofamiliar, que podría aportar información añadida sobre el desarrollo evolutivo. Sería deseable realizar análisis longitudinales para conocer el progreso académico del alumnado detectado en función de las medidas implementadas."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: herramienta preventiva válida",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "El instrumento presenta buenas propiedades psicométricas y constituye una alternativa válida y consistente para identificar al alumnado en riesgo de dislexia al inicio de Primaria. La intervención temprana es uno de los mejores medios para mejorar el progreso académico."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se ve agravada por la"
+      },
+      {
+        "from": "1",
+        "to": "6",
+        "label": "justifica la necesidad del"
+      },
+      {
+        "from": "2",
+        "to": "6",
+        "label": "impulsa el desarrollo del"
+      },
+      {
+        "from": "3",
+        "to": "6",
+        "label": "proporciona el marco preventivo para el"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "establece el momento crítico para el"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "exige ser superado mediante la"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "se somete inicialmente al"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "se administra a la"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "se comprueba mediante la"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "se subdivide para la"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "confirma empíricamente la"
+      },
+      {
+        "from": "10",
+        "to": "12",
+        "label": "garantiza la elevada"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "obtiene un índice de"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "fundamenta la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "otorga solidez a la"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "valida estadísticamente la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "conduce a la consideración como"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "matiza y proyecta el alcance de la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "depura los reactivos de la"
+      },
+      {
+        "from": "3",
+        "to": "16",
+        "label": "converge en el propósito de la"
+      },
+      {
+        "from": "4",
+        "to": "14",
+        "label": "refuerza la urgencia de la"
+      }
+    ]
+  }
+}

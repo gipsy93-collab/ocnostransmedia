@@ -2,7 +2,7 @@
   "id": "prosodia_lectores_vasco",
   "metadata": {
     "title": "Clasificación de jóvenes lectores en un modelo de aprendizaje inmersivo",
-    "authors": "Aitor Iglesias y Aintzane Etxebarria",
+    "authors": "Aitor Iglesias, Aintzane Etxebarria y Miquel Salicrú",
     "year": "2026",
     "journal": "Ocnos 25(1)",
     "doi": "10.18239/ocnos_2026.25.1.638",
@@ -12,9 +12,9 @@
     "color": "#2a9d8f",
     "colorAlt": "#2a5a75",
     "bg": "from-teal-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-10.png",
+    "image": "/assets/portadas/prosodia_lectores_vasco.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-10.png",
+      "image": "/assets/portadas/prosodia_lectores_vasco.jpg",
       "name": "Dr. Aitor Iglesias",
       "role": "Investigador en Fonética Experimental y Lingüística Vasca, Universidad del País Vasco (UPV/EHU)"
     }
@@ -45,7 +45,7 @@
       "dataPoints": [
         "Muestra de 151 jóvenes universitarios leyendo en voz alta un texto narrativo estandarizado en lengua vasca (euskera).",
         "El algoritmo K-means identificó 5 perfiles lectores estables ordenados en gradiente (desde lectores muy rápidos con pausas breves hasta lectores lentos con pausas largas y numerosas).",
-        "No se hallaron asociaciones estadísticamente significativas entre los perfiles y variables sociolingüísticas como la lengua materna o el modelo educativo de origen.",
+        "No se hallaron asociaciones estadísticamente significativas entre los perfiles y variables sociolingüísticas como la primera lengua o el ámbito de aprendizaje del euskera (hogar o escuela).",
         "El tiempo dedicado a las pausas y no la velocidad de articulación de los fonemas fue el factor más determinante para separar a los grupos."
       ],
       "glossary": [
@@ -61,7 +61,7 @@
     },
     "viaje": {
       "titulo": "Ruta metodológica: Registro fonético con Praat y clusterización K-means",
-      "narrativa": "Los 151 participantes leyeron el texto narrativo en cabinas insonorizadas. Las grabaciones fueron procesadas con el software fonético Praat, extrayendo los 6 parámetros acústicos temporales. Luego se normalizaron las variables y se aplicó el algoritmo K-means en SPSS/R.",
+      "narrativa": "Los 151 participantes leyeron el texto narrativo en el laboratorio de lectura Irakurlab con una grabadora ZOOM H1n. Las grabaciones fueron transcritas y etiquetadas con el software fonético Praat, extrayendo los 6 parámetros acústicos temporales. Luego se estandarizaron las variables y se aplicó el método K-mean (K-medias).",
       "detalles": [
         {
           "label": "Población",
@@ -69,11 +69,11 @@
         },
         {
           "label": "Texto",
-          "value": "Texto narrativo calibrado en euskera estándar (Batua) con complejidad sintáctica media."
+          "value": "Cuento tradicional en euskera Peru eta Maria (47 palabras en 13 grupos fónicos)."
         },
         {
           "label": "Software",
-          "value": "Praat para análisis de oscilogramas y espectrogramas; algoritmos K-means y tablas de contingencia chi-cuadrado."
+          "value": "Praat para la transcripción y el etiquetado; método K-mean validado con los estadísticos Pseudo-F y Silueta; tablas de contingencia con chi-cuadrado."
         }
       ],
       "limitaciones": [
@@ -100,8 +100,8 @@
         }
       ],
       "dataPoints": [
-        "El tiempo medio por pausa varió desde 0.38 segundos en el Grupo 1 hasta 0.72 segundos en el Grupo 5.",
-        "Las pruebas de contingencia chi-cuadrado mostraron p > .05 respecto al género y dialecto familiar."
+        "El tiempo medio por pausa varió desde 345 ms en el grupo más rápido (G-1.1) hasta 721 ms en el más lento (G-2.2).",
+        "Las pruebas de contingencia chi-cuadrado mostraron p > .05 respecto al sexo (p=.2491), la primera lengua (p=.6826) y el lugar de aprendizaje del euskera (p=.8137)."
       ],
       "reflexion": "La pausa no es tiempo perdido: es el milisegundo en el que la mente del lector respira y comprende lo que viene a continuación."
     },
@@ -122,7 +122,7 @@
     },
     "nucleo": {
       "pregunta": "¿Cómo se clasifican los jóvenes lectores en función de sus parámetros prosódicos y qué factores sociolingüísticos inciden en su perfil?",
-      "conclusion": "El análisis acústico y la clusterización K-means de 151 universitarios en un modelo de inmersión en lengua vasca clasifican de forma estable a los lectores en cinco perfiles prosódicos continuos basados en seis variables temporales. Los resultados demuestran que el factor diferenciador crítico es la gestión de las pausas (tiempo y frecuencia) y no la velocidad articulatoria pura. Asimismo, la ausencia de correlaciones significativas con la lengua materna o el modelo educativo evidencia la consolidación de la competencia lectora en la Educación Superior, exigiendo a la pedagogía abandonar la evaluación por velocidad y priorizar la prosodia expresiva.",
+      "conclusion": "El análisis acústico y la clusterización K-means de 151 universitarios en un modelo de inmersión en lengua vasca clasifican de forma estable a los lectores en cinco perfiles prosódicos continuos basados en seis variables temporales. Los resultados demuestran que el factor diferenciador crítico es la gestión de las pausas (tiempo y frecuencia) y no la velocidad articulatoria pura. Asimismo, la ausencia de correlaciones significativas con la primera lengua o el ámbito de aprendizaje del euskera evidencia la consolidación de la competencia lectora en la Educación Superior, exigiendo a la pedagogía abandonar la evaluación por velocidad y priorizar la prosodia expresiva.",
       "formalRef": "Iglesias, A., & Etxebarria, A. (2026). Clasificación de jóvenes lectores en un modelo de aprendizaje inmersivo. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.638"
     },
     "reflexion": {
@@ -206,110 +206,205 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Prosodia Lectora y Clasificación Acústica de Lectores",
-    "descripcion": "Modelado no supervisado K-means de 151 lectores: velocidad de habla, pausas, fonética experimental y superación del cronómetro escolar.",
+    "titulo": "Mapa conceptual: Clasificación prosódica de lectores en inmersión lingüística (Ocnos 25(1) 2026)",
+    "descripcion": "Recorre el artículo desde la teoría de la lectura y los modelos de inmersión hasta el registro acústico del cuento Peru eta Maria con Praat, la clusterización K-mean de 151 universitarios vascos en cinco perfiles, la ausencia de asociación con variables sociolingüísticas, sus implicaciones pedagógicas y limitaciones.",
     "nodos": [
       {
         "id": "1",
-        "label": "Prosodia y Fluidez Lectora",
-        "color": "#2a9d8f"
+        "label": "Lectura como proceso interactivo",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La lectura combina decodificación, conciencia fonológica, reconocimiento visual-ortográfico e identificación semántica (Bravo, 2000; Lorenzo, 2001) y construye sentido con estrategias antes, durante y después del texto (Carrell y Eisterhold, 1983; Solé, 1992)."
       },
       {
         "id": "2",
-        "label": "Fonética Acústica con Praat",
-        "color": "#2a5a75"
+        "label": "Inmersión: de Saint-Lambert al modelo D",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Nacida en Saint-Lambert (Canadá) en 1965, la inmersión reúne hoy más de 400.000 estudiantes canadienses y unos 3.600 programas duales en EE.UU. En Euskadi conviven los modelos A (5%), B (31,2%) y D (61,8%), con el euskera como lengua vehicular en este último."
       },
       {
         "id": "3",
-        "label": "Algoritmo K-means (5 Perfiles)",
-        "color": "#5b9eaa"
+        "label": "Estrategia de lectura del sistema educativo vasco",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "El Departamento de Educación articula tres ejes: aprender a leer, leer para aprender y afición a la lectura-hábito lector. El estadio de fluidez lectora (3º-4º de Primaria) comprende exactitud, entonación y velocidad, las variables que luego se miden."
       },
       {
         "id": "4",
-        "label": "Gestión del Silencio (Pausas)",
-        "color": "#88b04b"
+        "label": "Objetivo: clasificar lectores y asociar variables",
+        "color": "#264653",
+        "role": "Objetivo",
+        "descripcion": "Clasificar 151 universitarios bilingües por perfiles de lectura en voz alta y evaluar la asociación entre perfil y primera lengua, ámbito de aprendizaje del euskera y sexo, usando la lectura como indicador de inclusión lingüística."
       },
       {
         "id": "5",
-        "label": "Velocidad de Articulación",
-        "color": "#f4d068"
+        "label": "Cuento Peru eta Maria (47 palabras)",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Cuento tradicional en euskera (Badihardugu, 2023) de 47 palabras en 13 grupos fónicos delimitados por la puntuación, con voces de narrador y personajes. Los informantes lo lean en voz alta tras una lectura silenciosa previa que prepara la entonación."
       },
       {
         "id": "6",
-        "label": "Modelo Inmersivo Bilingüe",
-        "color": "#9b82c3"
+        "label": "Grabación en Irakurlab y etiquetado en Praat",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Las grabaciones se realizaron en el laboratorio de lectura Irakurlab con una ZOOM H1n y se transcribieron y etiquetaron con Praat (Boersma y Weenink, 2025). La muestra: 151 estudiantes del Grado de Educación, 110 mujeres y 41 hombres, todos del modelo D."
       },
       {
         "id": "7",
-        "label": "Independencia de Lengua Materna",
-        "color": "#2a9d8f"
+        "label": "Seis variables prosódicas estandarizadas",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "Tiempo total de lectura, tiempo de articulación, tiempo de pausa, velocidad de habla, velocidad de articulación y tiempo por pausa. Se estandarizan para neutralizar la escala y las analogías entre lectores se cuantifican con distancia euclídea."
       },
       {
         "id": "8",
-        "label": "Tiranía del Cronómetro Escolar",
-        "color": "#e76f51"
+        "label": "K-mean con Pseudo-F y Silueta",
+        "color": "#e76f51",
+        "role": "Método",
+        "descripcion": "El agrupamiento K-mean barre g=2 a 6 y se valida con los estadísticos Pseudo-F (Caliński y Harabasz, 1974) y Silueta (Rousseeuw, 1987), con visualización MDS-métrica, test F de Fisher-Snedecor y tablas de contingencia con chi-cuadrado."
       },
       {
         "id": "9",
-        "label": "Construcción del Significado",
-        "color": "#264653"
+        "label": "Clasificaciones estables en g=2 y g=5",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Máximo absoluto en g=2 (Pseudo-F=132,04; Silueta=0,4121): 88 lectores rápidos frente a 63 lentos. Máximo relativo en g=5 (Pseudo-F=98,07; Silueta=0,3070). En ningún grupo se observaron repeticiones o lapsus."
       },
       {
         "id": "10",
-        "label": "Pedagogía de la Lectura Oral",
-        "color": "#f4a261"
+        "label": "Gradiente de cinco perfiles (g=5)",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Dos extremos y tres grupos intermedios: G-1.1 (27 lectores, los más rápidos, pausas de 345 ms) frente a G-2.2 (16 lectores, los más lentos, 721 ms y más pausas), con G-1.2 (45) y G-2.1 (31) intermedios y un grupo de transición G-1*G-2 (32)."
+      },
+      {
+        "id": "11",
+        "label": "Sin asociación con primera lengua o sexo",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Las tablas de contingencia no muestran dependencia entre perfiles y el lugar de aprendizaje del euskera (p=.8137), la primera lengua (p=.6826) o el sexo (p=.2491), resultado que se mantiene en la clasificación g=5."
+      },
+      {
+        "id": "12",
+        "label": "Fluidez relacionada con comprensión y ansiedad",
+        "color": "#5b9eaa",
+        "role": "Discusión",
+        "descripcion": "Los lectores rápidos con pausas ajustadas a los grupos fónicos se asocian a comprensión y práctica habitual de lectura; la lectura lenta con pausas excesivas se vincula a dificultades de reconocimiento, procesamiento lento, intención de facilitar la escucha o ansiedad (Miller y Schwanenflugel, 2006; 2008)."
+      },
+      {
+        "id": "13",
+        "label": "Normalización lingüística del euskera",
+        "color": "#9b82c3",
+        "role": "Discusión",
+        "descripcion": "La homogeneidad lectora con independencia del origen lingüístico se relaciona con las políticas activas de normalización: Ley 10/1982, IRALE (1981), EIMA (1982), NOLEGA (1984), el Programa Ulibarri y los planes de inclusión para alumnado inmigrante."
+      },
+      {
+        "id": "14",
+        "label": "Intervención en gestión temporal y segmentación",
+        "color": "#f4d068",
+        "role": "Conclusiones",
+        "descripcion": "La identificación objetiva de los patrones prosódicos permite diseñar intervenciones pedagógicas personalizadas centradas en la gestión temporal y la segmentación del discurso, con atención específica al alumnado de lectura lenta y pausas prolongadas."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: texto narrativo y universitarios",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "Los resultados valen para textos narrativos y jóvenes universitarios, por lo que es necesario replicar con otros textos, etapas educativas y perfiles socioeconómicos, y matizar la clasificación con los patrones entonativos y la intensidad segmental."
       }
     ],
     "aristas": [
       {
-        "from": "2",
-        "to": "1",
-        "label": "mide objetivamente la"
+        "from": "1",
+        "to": "4",
+        "label": "sustenta conceptualmente el"
       },
       {
-        "from": "3",
-        "to": "1",
-        "label": "clasifica los perfiles de la"
+        "from": "2",
+        "to": "4",
+        "label": "sitúa el problema del"
       },
       {
         "from": "3",
         "to": "4",
-        "label": "demuestra el rol crítico de la"
+        "label": "define el estadio de fluidez analizado por el"
       },
       {
         "from": "4",
-        "to": "9",
-        "label": "es la manifestación del proceso de"
-      },
-      {
-        "from": "8",
         "to": "5",
-        "label": "sobrevalora erróneamente la"
+        "label": "se ejecuta con la lectura del"
       },
       {
-        "from": "8",
-        "to": "4",
-        "label": "castiga injustamente la"
+        "from": "5",
+        "to": "6",
+        "label": "se registró y etiquetó mediante la"
       },
       {
         "from": "6",
         "to": "7",
-        "label": "logra consolidar la"
+        "label": "permite extraer las"
       },
       {
         "from": "7",
-        "to": "3",
-        "label": "se refleja en la homogeneidad de"
-      },
-      {
-        "from": "10",
         "to": "8",
-        "label": "desmantela y supera la"
+        "label": "normalizadas, alimentan el"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "determina la estructura de las"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "se refina en el gradiente de"
       },
       {
         "from": "10",
-        "to": "1",
-        "label": "enseña a musicalizar la"
+        "to": "11",
+        "label": "se cruza con las variables sociolingüísticas sin"
+      },
+      {
+        "from": "12",
+        "to": "10",
+        "label": "interpreta los extremos del"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "respalda la eficacia de la"
+      },
+      {
+        "from": "2",
+        "to": "13",
+        "label": "contextualiza el éxito de la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "orienta las"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "enmarca socialmente las"
+      },
+      {
+        "from": "15",
+        "to": "5",
+        "label": "restringe el alcance del"
+      },
+      {
+        "from": "15",
+        "to": "9",
+        "label": "acota la extrapolación de las"
+      },
+      {
+        "from": "15",
+        "to": "14",
+        "label": "condiciona la generalización de las"
       }
     ]
   }

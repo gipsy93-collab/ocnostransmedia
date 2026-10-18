@@ -1,0 +1,140 @@
+{
+  "id": "cuantas_palabras_puede_tener_album_sin_palabr",
+  "metadata": {
+    "title": "¿Cuántas palabras puede tener un álbum sin palabras?",
+    "authors": "Emma Bosch",
+    "year": "2012",
+    "journal": "Ocnos. Revista de estudios sobre lectura, V(8) 2012",
+    "doi": "https://doi.org/10.18239/ocnos_2012.08.07",
+    "gancho": "El artículo propone una tipología de los álbumes «sin palabras» según las palabras que realmente contienen: las imprescindibles (créditos y título), las que comentan la obra (peritextos autorales y editoriales) y las que presentan un juego. A partir de una colección particular de",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#f4a261",
+    "bg": "from-amber-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-2.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-2.png",
+      "name": "Emma Bosch",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Emma Bosch, autor/a en Revista Ocnos",
+      "gancho": "El artículo propone una tipología de los álbumes «sin palabras» según las palabras que realmente contienen: las imprescindibles (créditos y título), las que comentan la obra (peritextos autorales y ed",
+      "contexto": "El estudio parte de una definición operativa de álbum: una narración de imágenes secuenciales fijas e impresas, afianzada en la estructura de libro, cuya unidad es la página, donde la ilustración es primordial y el texto puede ser subyacente. En los álbumes sin palabras, precisamente, ese texto es subyacente . Con ese punto de partida, la autora descarta libros no narrativos (imagiarios y libro-juegos) y también los cómics, cuya unidad de secuenc",
+      "deepDives": [
+        {
+          "id": "cuantas_palabras_puede_tener_album_sin_palabr-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "La autora parte de una paradoja: si se fuera estricto, **no existiría ningún álbum sin palabras**, porque todo libro editado contiene al menos un título, el nombre de los autores, la casa editorial y los créditos. Aceptada esa premisa, la pregunta que da título al trabajo —cuántas palabras se le per"
+        },
+        {
+          "id": "cuantas_palabras_puede_tener_album_sin_palabr-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "El estudio parte de una definición operativa de álbum: una narración de imágenes secuenciales fijas e impresas, afianzada en la estructura de libro, cuya unidad es la página, donde la ilustración es primordial y el texto puede ser subyacente. En los álbumes sin palabras, precisamente, ese texto es s"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La autora parte de una paradoja: si se fuera estricto, **no existiría ningún álbum sin palabras**, porque todo libro editado contiene al menos un título, el nombre de los autores, la casa editorial y los créditos. Aceptada esa premisa, la pregunta que da título al trabajo —cuántas palabras se le permiten a un álbum sin palabras para seguir siéndolo",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "juegos) y también los cómics, cuya unidad de secuenciación es la viñeta .",
+        "juegos) y los cómics, porque en estos últimos la unidad de secuenciación es la viñeta y no la página . Este recorte delimita qué palabras se cuentan y bajo qué definición de álbum.",
+        "24 de septiembre de 2011), dato que figura en nota .",
+        "sequence* . El artículo anticipa esta clasificación porque la suya se define, en parte, por contraste con ella."
+      ],
+      "glossary": [
+        {
+          "term": "Álbum sin palabras",
+          "definition": "narración de imágenes secuenciales en que el texto es subyacente o ausente. (p. 1)"
+        },
+        {
+          "term": "Peritexto",
+          "definition": "texto producido por autor o editorial que presenta y comenta la obra (solapas, páginas interiores, cubierta posterior). (p. 6)"
+        },
+        {
+          "term": "Título temático",
+          "definition": "nombra el contenido del libro («este libro habla de…»); es el más habitual. (p. 4)"
+        },
+        {
+          "term": "Función de anclaje",
+          "definition": "función de un texto breve que fija el sentido de la imagen. (p. 9)"
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Se trata de un **estudio taxonómico-descriptivo** basado en el análisis documental de una colección privada. No hay muestreo probabilístico ni instrumentos psicométricos: el «instrumento» es una parrilla de clasificación aplicada a cada álbum según tres ejes —**cantidad** de palabras, su **ubicación** y su **función**— .\nEl procedimiento distingue, en primer lugar, las **palabras imprescindibles**",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Análisis empírico o teórico de corpus según fuentes primarias"
+        }
+      ],
+      "limitaciones": [
+        "La autora **sí declara cautelas metodológicas**: el corpus (296 álbumes) proviene de su colección particular y «los datos que presento no tienen una intención estadística»; los porcentajes son «simple"
+      ],
+      "reflexion": "Si clasificaras los álbumes sin palabras de tu biblioteca escolar, ¿la procedencia de la colección (privada vs. fondos variados) cambiaría tus porcentajes? ¿Cómo registrarías cantidad, ubicación y función de las palabras en una ficha reutilizable?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "Los álbumes sin palabras «auténticos» son pocos.",
+          "value": "De 296 álbumes, solo **33** no contienen otro texto que el título y los créditos; sumando los **103** que incluyen peritextos, el grupo «sin palabras» llega a **136**. El grupo «casi sin palabras» reúne **36** libros más **90** con peritextos = **126**; los «falsos» suman **34** "
+        },
+        {
+          "label": "El título es el contextualizador por excelencia.",
+          "value": "Al ser el único texto de un libro sin palabras, «condiciona las expectativas del futuro lector» y funciona como «un contrato de participación con el lector» . Nodelman (1988) sostiene que en los álbumes el proveedor de contexto más importante es el texto, y aquí ese texto se redu"
+        },
+        {
+          "label": "Predominan los títulos temáticos.",
+          "value": "El **95% de los libros (129 de 136)** son temáticos; los remáticos y mixtos son escasos . Sorprende que solo **el 17%** de las obras dé a conocer el nombre propio de sus protagonistas, cuando podría suponerse lo contrario ."
+        },
+        {
+          "label": "Los peritextos editoriales cuentan la obra por adelantado.",
+          "value": "En los 103 álbumes sin palabras analizados, un **48%** se refiere a la recepción lectora, un **45%** señala la edad del lector y un **49%** etiqueta el tipo de libro y anuncia la ausencia de palabras; un **31%** relata el argumento ."
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El andamiaje conceptual del artículo se apoya en autorías citadas explícitamente. Para el **título**, la autora parte de *Umbrales* de Gérard Genette (1987) y recoge la distinción de Charles Grivel entre tres funciones: identificar la obra, designar su contenido y ponerla de relieve; Genette objeta que solo la primera es obligatoria . Genette rebautiza las categorías de Leo H. Hoek y las amplía a ",
+      "detalles": [
+        {
+          "label": "Tradición Teórica",
+          "value": "Teorías de la lectura, didáctica de la lengua y estudios literarios."
+        }
+      ],
+      "reflexion": "Si el anclaje (Barthes) puede ser necesario para leer una imagen, ¿dónde situarías el límite entre «palabra que ancla» y «palabra que sustituye» la narración visual? ¿Qué ganaría y qué perdería un álbum sin palabras con ese aporte?"
+    },
+    "nucleo": {
+      "pregunta": "¿Cuántas palabras se le permiten a un álbum sin palabras para ser considerado como tal, y cómo clasificar los álbumes según las palabras —cantidad, ubicación y función— que realmente contienen?",
+      "conclusion": "No hay una cifra: la respuesta «depende del grado de escrupulosidad de quien defina los criterios de selección» . Para quien sea muy estricto, un álbum sin palabras solo puede contener «las palabras imprescindibles, es decir las de los créditos y las del título» . El aporte del artículo es, en cambio, una **tipología** que ordena los álbumes en tres grupos —sin palabras, casi sin palabras y falsos álbumes sin palabras— construida sobre 296 álbume",
+      "formalRef": "Bosch, E. (2012). ¿Cuántas palabras puede tener un álbum sin palabras? *Ocnos. Revista de estudios sobre lectura*, V(8), 75-88. https://doi.org/10.18239/ocnos_2012.08.07"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es el foco central de la investigación sobre ¿Cuántas palabras puede tener un álbum s...?",
+          "options": [
+            "Aporte conceptual y empírico al campo lector",
+            "Revisión histórica secundaria"
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  }
+}

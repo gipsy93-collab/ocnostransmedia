@@ -1,0 +1,396 @@
+{
+  "id": "interpretacion_literaria_dialogo_posiciones",
+  "metadata": {
+    "title": "La interpretación literaria como diálogo entre posiciones",
+    "authors": "Paula-Reyes Álvarez-Bernárdez y Carles Monereo",
+    "year": "2020",
+    "journal": "Ocnos 19(2)",
+    "doi": "10.18239/ocnos_2020.19.2.2281",
+    "gancho": "¿Qué voces dialogan en tu mente cuando lees un clásico y cómo evitas que tu empatía devore el sentido de la obra?",
+    "duration": "12-15 min",
+    "badge": "Teoría Literaria y Psicología",
+    "disciplina": "Didáctica de la Literatura y Psicología de la Educación",
+    "dimensiones": [
+      "Yo Dialógico",
+      "Dialogismo Bajtiniano",
+      "Endopatía vs. Exotopía",
+      "Comprensión Responsiva"
+    ],
+    "tags": [
+      "interpretacion_literaria",
+      "dialogismo",
+      "bajtín",
+      "yo_dialogico",
+      "hermans",
+      "lolita"
+    ],
+    "pistas": [
+      "Integración teórica del Dialogismo de Mijaíl Bajtín y la Teoría del Yo Dialógico de Hubert Hermans.",
+      "Análisis ilustrativo de casos complejos: desdoblamiento de Humbert en Lolita de Nabokov y Pálido Fuego.",
+      "Modelo tridimensional de voces en la mente del lector: nivel interno, nivel externo y nivel exterior.",
+      "Advertencia estética contra la endopatía (empatía ciega sin frontera) que degenera en sobreinterpretación."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "La enseñanza tradicional concibe la lectura literaria como la decodificación pasiva de una intención autoral única, ignorando que en la mente del lector confluyen múltiples voces en pugna que negocian activamente el sentido.",
+      "desafio": "Desarrollar un modelo explicativo integral de la interpretación literaria sustentado en el Dialogismo de Bajtín y la Teoría del Yo Dialógico de Hermans para fundamentar la crítica literaria y la formación de lectores reflexivos.",
+      "relevancia": "Permite enseñar a los estudiantes a reconocer sus propias posiciones de Yo (I-positions), calibrar la credibilidad de las voces textuales y evitar lecturas sesgadas o manipuladas en la era de la posverdad."
+    },
+    "conflicto": {
+      "pregunta": "¿Cómo se construye el significado literario en la mente del lector y de qué depende que una interpretación sea estéticamente profunda o caiga en el solipsismo?",
+      "posiciones": [
+        "Enfoque inmanentista formalista: el significado está fijado objetivamente en la estructura material del texto y el lector debe reproducirlo fielmente.",
+        "Enfoque dialógico intersubjetivo: la mente lectora es una sociedad polifónica de voces internas y externas donde interpretar es responder desde una posición ética y estética situada."
+      ],
+      "tension": "La tensión entre la apertura polisémica del texto literario y la necesidad de mantener la distancia estética (exotopía) frente a la proyección egocéntrica del lector.",
+      "deepDives": [
+        {
+          "id": "dial-conf-1",
+          "triggerLabel": "El caso paradigmático de Lolita",
+          "type": "context",
+          "content": "Nabokov protestó en 1975 contra los lectores que fusionaron al narrador Humbert con el autor, convirtiendo una trágica historia de abuso infantil en una supuesta fábula romántica por empatía desmedida."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Revisión teórica integradora y modelo analítico del Yo Dialógico",
+      "narrativa": "Los autores articularon el pensamiento bajtiniano con la psicología del Yo Dialógico de Hermans, extrayendo una taxonomía tridimensional de voces y aplicando el método del Repertorio de Posiciones Personales (PPR) al lector de novela policiaca y al análisis de Nabokov.",
+      "detalles": [
+        {
+          "label": "Corpus teórico nuclear",
+          "value": "Bajtín (1979, 2000, 2005) y Hubert Hermans (2001, 2002, 2012), complementados con Wertsch y Volóshinov."
+        },
+        {
+          "label": "Casos analizados",
+          "value": "Lolita (desdoblamiento moralista, terapeuta, sensualista) y Pálido Fuego de Nabokov, más la analogía del lector policiaco."
+        },
+        {
+          "label": "Estructura del modelo",
+          "value": "Tres niveles de voces en interacción: nivel interno (I-positions), externo (otros-en-mí) y exterior (normas y género)."
+        },
+        {
+          "label": "Concepto clave",
+          "value": "Perspectivismo empático y comprensión responsiva ('answerability') que fusiona estética y juicio ético."
+        }
+      ],
+      "limitaciones": [
+        "Ensayo teórico-conceptual de humanidades sin trabajo de campo empírico directo con grupos de lectores reales.",
+        "Pendiente de contrastar empíricamente la actividad lectora de obras dialógicas complejas en lectores de diversas edades."
+      ],
+      "reflexion": "¿Cómo cambia nuestra lectura de un relato cuando tomamos conciencia de que la voz del narrador intenta manipular nuestras propias debilidades morales?",
+      "deepDives": [
+        {
+          "id": "dial-viaje-1",
+          "triggerLabel": "Personal Position Repertoire (PPR)",
+          "type": "method",
+          "content": "El método PPR de Hermans describe cómo el sujeto moviliza diferentes identidades contextuales en función de la situación comunicativa, trasladable al modo en que un lector dialoga con un texto."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Se demostró que la interpretación literaria no es un acto directo ni transparente, sino el resultado emergente de la voz que logra imponerse en la sociedad mental del lector; asimismo, se identificó la 'endopatía' (empatía extrema sin frontera) como la principal causa de sobreinterpretación aberrante que disuelve la otredad del personaje.",
+      "evidenciaCualitativa": "En Lolita, los lectores que cayeron en la endopatía fusionaron autor-persona, autor-creador y narrador, justificando al abusador al perder la exotopía necesaria para juzgar éticamente la manipulación discursiva.",
+      "citaClave": "'La lectura no es un acto directo; nadie lee de manera inmediata un texto. De aquellas voces que logran posicionarse sobre otras dependerá la interpretación final que el lector construya de la obra.'",
+      "implicacionesDocentes": [
+        "Fomentar en el aula tertulias dialógicas donde los estudiantes expliciten desde qué 'posición de Yo' están juzgando a los personajes.",
+        "Enseñar a detectar narradores no fiables mediante el distanciamiento crítico frente a la identificación afectiva primaria.",
+        "Promover el perspectivismo empático como herramienta para comprender ideologías ajenas sin perder los propios anclajes éticos."
+      ],
+      "deepDives": [
+        {
+          "id": "dial-rev-1",
+          "triggerLabel": "Lectores e ingenuidad consciente",
+          "type": "data",
+          "content": "El artículo vincula en su Nota 1 la complicidad del lector de ficción que 'quiere seguir creyendo la ilusión' con el auge contemporáneo de las noticias falsas y la manipulación mediática."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Filosofía del lenguaje de Bajtín, psicología del Yo Dialógico de Hermans y estética de la recepción",
+      "tensiones": [
+        "Decodificación mecánica unívoca vs. polifonía interpretativa autorregulada.",
+        "Fusión afectiva endopática descontrolada vs. distanciamiento crítico exotópico."
+      ],
+      "autoresClave": [
+        "Álvarez-Bernárdez & Monereo (2020)",
+        "Bajtín (1979/2003, 2000)",
+        "Hermans (2001, 2002)",
+        "Volóshinov (1930)",
+        "Wertsch (1993)"
+      ],
+      "deepDives": [
+        {
+          "id": "dial-marco-1",
+          "triggerLabel": "Exotopía e Intersubjetividad",
+          "type": "theory",
+          "content": "Para Bajtín, la exotopía es el privilegio de situarse fuera del otro: solo desde la frontera exterior es posible contemplar la totalidad de una vida y otorgarle un sentido estético pleno."
+        }
+      ]
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo modulan las voces internas y la distancia empática la calidad de la interpretación literaria en la mente del lector?",
+      "mecanismoClave": "La mente opera como una polifonía donde dialogan posiciones internas del lector con voces del texto; si el lector preserva la exotopía logra una comprensión responsiva rica, pero si se funde por endopatía genera sobreinterpretaciones sesgadas.",
+      "conclusionGeneral": "Formar lectores literarios expertos exige cultivar un perspectivismo empático autoconsciente, capaz de dialogar críticamente con la alteridad de las obras sin proyectar narcisistamente las propias obsesiones sobre el texto."
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Polifónica",
+        "descripcion": "Recorre la sociedad mental del lector atrapando voces internas, externas y normas de género.",
+        "instrucciones": "Recoge tokens de exotopía y esquiva trampas de endopatía mientras respondes sobre Bajtín y Hermans. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: El Yo Dialógico y la Literatura",
+        "descripcion": "Pon a prueba tu comprensión sobre las posiciones de Yo, la crítica a Nabokov y los tres niveles de voces.",
+        "instrucciones": "Acierta contrarreloj para elevar tu multiplicador dialógico y coronar la clasificación hermenéutica."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de la Comprensión Responsiva",
+        "descripcion": "Asciende desde la decodificación pasiva hasta la comprensión responsiva ética y estética plena.",
+        "instrucciones": "Supera cada nivel respondiendo sobre los principios del dialogismo y la psicología educativa."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: La interpretación literaria como diálogo entre posiciones (Álvarez-Bernárdez & Monereo, 2020)",
+      "descripcion": "Modelo teórico que integra el Dialogismo bajtiniano y la Teoría del Yo Dialógico de Hermans para explicar la lectura como una negociación polifónica entre voces internas y externas.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "El Dialogismo y la polifonía de Mijaíl Bajtín",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Marco filosófico-lingüístico que postula que la conciencia humana se constituye exclusivamente en el diálogo con voces ajenas, concibiendo el texto no como objeto inerte sino como enunciado vivo."
+        },
+        {
+          "id": "2",
+          "label": "Teoría del Yo Dialógico de Hubert Hermans",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Modelo psicológico que concibe la mente como una sociedad polifónica de posiciones de Yo (I-positions) internas y externas que dialogan, negocian o compiten entre sí según el contexto."
+        },
+        {
+          "id": "3",
+          "label": "Crítica a la decodificación unívoca formalista",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Cuestionamiento de las teorías de lectura que reducen la comprensión a extraer una única intención del autor, reivindicando que toda interpretación es mediada, dialógica y situada."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: modelar la interpretación literaria dialógica",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Formular una explicación integral de los procesos dialógicos intrapsíquicos e intersubjetivos mediante los cuales un lector atribuye sentido a las obras literarias complejas."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: caracterizar la credibilidad de las voces",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Analizar cómo la potencialidad, dominancia y credibilidad que el lector asigna a cada voz textual condicionan la versión interpretativa final que construye de la obra."
+        },
+        {
+          "id": "6",
+          "label": "Diseño ensayístico y teórico-conceptual integrador",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Investigación teórica de corte cualitativo y hermenéutico que cruza la lingüística bajtiniana, la psicología educativa y la teoría de la recepción literaria contemporánea."
+        },
+        {
+          "id": "7",
+          "label": "Corpus analítico de casos de alta complejidad",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Examen ilustrativo de obras maestras polifónicas: los desdoblamientos de Humbert en Lolita y Pálido Fuego de Nabokov, contrastados con la mente del lector de novela policiaca."
+        },
+        {
+          "id": "8",
+          "label": "Aplicación del Repertorio de Posiciones Personales (PPR)",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Adaptación del método PPR de Hermans para tipificar el repertorio de posiciones internas (I-positions) y externas (otros-en-mí) que el lector activa ante las tensiones del texto."
+        },
+        {
+          "id": "9",
+          "label": "La lectura como acto mediado e intersubjetivo",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Constatación teórica de que nadie lee de forma directa o neutral: en la mente del lector confluyen las expectativas del autor, las voces de los personajes y sus propios prejuicios biográficos."
+        },
+        {
+          "id": "10",
+          "label": "Tipología tridimensional de voces en el lector",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Identificación de tres niveles dinámicos: nivel interno (conversación del Yo consigo mismo), nivel externo (voces de personajes y críticas) y nivel exterior (normas y géneros literarios)."
+        },
+        {
+          "id": "11",
+          "label": "Dominancia de voces y resolución interpretativa",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Demostración de que la interpretación final no depende de la suma pasiva de datos, sino de qué voz o posición de Yo logra imponer su hegemonía en la deliberación mental del lector."
+        },
+        {
+          "id": "12",
+          "label": "Peligro de la endopatía y la sobreinterpretación",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Evidencia de que la empatía ciega sin frontera exterior (endopatía) destruye la distancia crítica y fusiona al lector con el narrador manipulador, provocando sobreinterpretaciones aberrantes."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: la necesidad innegociable de la exotopía",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se discute la exigencia bajtiniana de mantener la exotopía (mirada desde fuera): el buen lector debe empatizar con el personaje sin perder su frontera exterior para juzgarlo con rigor ético."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: la comprensión responsiva estética y ética",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se debate que la auténtica comprensión literaria es 'responsiva' (answerability): exige un acto de respuesta activa donde el lector asume responsabilidad ética ante el texto que lee."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: ausencia de contraste empírico de campo",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "Los autores reconocen el carácter preliminar de su modelo teórico, señalando como tarea indispensable su contraste empírico mediante protocolos de pensamiento en voz alta con lectores reales."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: el perspectivismo empático en educación",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que la didáctica de la literatura debe enseñar un perspectivismo empático consciente, formando lectores capaces de dialogar con la diversidad de voces sin dejarse manipular."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "establece la base dialógica de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "aporta la estructura psicológica a"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "justifica la superación en"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se desarrolla a través del"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "guía la tipología del"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "analiza en profundidad el"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "instrumentaliza el método con la"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "evidencia la premisa de que"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "organiza sistemáticamente la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "revela el mecanismo de"
+        },
+        {
+          "from": "7",
+          "to": "12",
+          "label": "ejemplifica en Lolita el"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "fundamenta la necesidad de"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "conduce directamente a la"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "advierte sobre la pérdida de"
+        },
+        {
+          "from": "9",
+          "to": "14",
+          "label": "hace indispensable la"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "orienta las bases de las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "inspira la propuesta de las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el marco formal del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las proyecciones de las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "cierra el ciclo humanista de"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué riesgo interpretativo produce la 'endopatía' (empatía extrema sin frontera) según Álvarez-Bernárdez y Monereo?",
+          "options": [
+            "Provoca un distanciamiento frío que impide conectar emocionalmente con la obra.",
+            "Desemboca en sobreinterpretación al proyectar las propias obsesiones del lector y justificar ciegamente al narrador.",
+            "Obliga a leer el texto exclusivamente desde su estructura métrica formal.",
+            "Anula las voces de los personajes para escuchar únicamente al autor biográfico."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo enseñarías a los alumnos de Secundaria a mantener la 'exotopía' (distancia crítica) cuando leen obras narradas por personajes éticamente reprobables?"
+        }
+      ]
+    }
+  }
+}

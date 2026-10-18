@@ -1,0 +1,434 @@
+{
+  "id": "aprendizaje_logico_matematico_cuento_infantil",
+  "metadata": {
+    "title": "El aprendizaje de contenidos lógico-matemáticos a través del cuento popular en Educación Infantil",
+    "authors": "Blanca Arteaga-Martínez, Adolfo Hernández y Jesús Macías-Sánchez",
+    "year": "2021",
+    "journal": "Ocnos 20(3)",
+    "doi": "10.18239/ocnos_2021.20.3.2619",
+    "gancho": "¿Es posible enseñar pensamiento matemático abstracto a niños de 5 años usando las aventuras de 'El Patito Feo'?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#88b04b",
+    "colorAlt": "#2a5a75",
+    "bg": "from-emerald-900/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/patito-matematicas/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-arteaga/200/200",
+      "name": "Dra. Blanca Arteaga-Martínez",
+      "role": "Investigadora en Didáctica de las Matemáticas, UNED (Madrid)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Blanca Arteaga-Martínez, especialista en educación matemática temprana y situaciones didácticas",
+      "gancho": "Casi todos recordamos los cuentos de nuestra infancia con cariño, pero casi nadie los vivió vinculados a las matemáticas. ¿Y si la literatura fuera el andamiaje natural para aprender a contar y clasificar?",
+      "contexto": "Las habilidades matemáticas tempranas constituyen el cimiento sobre el que descansará todo el rendimiento académico posterior. Sin embargo, en Educación Infantil suele predominar la ficha de trabajo descontextualizada. Este estudio cuasiexperimental con 62 escolares de Madrid demuestra cómo articular la estructura narrativa de 'El Patito Feo' en situaciones didácticas de indagación manipulativa produce avances estadísticamente significativos en la competencia matemática temprana.",
+      "deepDives": [
+        {
+          "id": "art-apertura-1",
+          "triggerLabel": "La teoría de situaciones didácticas de Brousseau",
+          "type": "theory",
+          "content": "Guy Brousseau (1998) postula que el alumno aprende adaptándose a un medio que le plantea problemas; el cuento popular actúa como ese medio significativo donde resolver retos matemáticos cobra sentido dentro de la trama."
+        },
+        {
+          "id": "art-apertura-2",
+          "triggerLabel": "El Test de Competencia Matemática Temprana (TEMT)",
+          "type": "data",
+          "content": "Estandarizado en España por Navarro et al. (2011), evalúa 40 ítems (20 de pensamiento lógico y 20 de habilidades numéricas) con una fiabilidad sobresaliente (alfa de Cronbach = .95) en niños de 4 a 7 años."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Existe el temor extendido a 'instrumentalizar' la literatura infantil (Cerrillo, 2007) subordinándola a contenidos curriculares fríos. Por otro lado, la enseñanza tradicional de las matemáticas tempranas adolece de falta de contextos sociales estimulantes que vinculen los números con el lenguaje y la emoción.",
+      "porQueImporta": "Integrar el relato folclórico sin desvirtuar su esencia poética permite que los preescolares construyan conceptos numéricos complejos y espaciales desde la empatía narrativa y el juego activo, reduciendo la ansiedad matemática futura.",
+      "dataPoints": [
+        "Muestra de 62 escolares de 3.º de Educación Infantil (edad media 5 años y 9 meses) en centros concertados de Madrid.",
+        "Diseño cuasiexperimental con dos aulas experimentales (N=19 y N=18) y un aula de control equivalente (N=25).",
+        "Punto de partida homogéneo comprobado: sin diferencias significativas en la prueba diagnóstica inicial de 9 ítems.",
+        "Puntuación media global NCM postest: 30.5 puntos en el grupo experimental frente a 25.9 en el control (p = .002).",
+        "Mejora crítica en los ítems de mayor dificultad psicométrica del TEMT: conteo de dos en dos (P25), conteo hacia atrás (P30) y suma oculta (P35).",
+        "Covariables neutras en el cómputo global: ni el sexo (p = .740) ni la edad cronológica en días (p = .277) condicionaron el NCM, aunque unos pocos ítems puntuaron mejor en las chicas."
+      ],
+      "glossary": [
+        {
+          "term": "NCM (Nivel de Competencia Matemática)",
+          "definition": "Puntuación directa global obtenida en la batería estandarizada TEMT que clasifica el desempeño lógico y numérico."
+        },
+        {
+          "term": "Estructura trifásica de Campbell",
+          "definition": "Patrón narrativo universal del héroe que parte de su hogar, supera pruebas desafiantes en el exilio y regresa transformado."
+        },
+        {
+          "term": "Conteo resultante",
+          "definition": "Capacidad de comprender que el último número enunciado en una secuencia representa el cardinal total de la colección."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "art-conflicto-1",
+          "triggerLabel": "¿Cómo evitar la instrumentalización del cuento?",
+          "type": "theory",
+          "content": "Los autores mantuvieron intacto el ciclo del relato: los retos matemáticos surgían naturalmente de las peripecias del patito (el tamaño de los huevos, las huellas dejadas en el suelo, el reflejo en el agua), sin forzar problemas artificiales."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Diseño cuasiexperimental con situaciones didácticas de aula",
+      "narrativa": "Arteaga-Martínez y colaboradores articularon una secuencia rigurosa en colaboración con los maestros de aula:",
+      "detalles": [
+        {
+          "label": "1. Diagnóstico inicial individualizado",
+          "value": "Prueba de 9 ítems ad hoc para verificar homogeneidad en clasificación, correspondencia, seriación, conteo verbal y cardinalidad."
+        },
+        {
+          "label": "2. Intervención basada en 'El Patito Feo'",
+          "value": "Sesiones diarias que iniciaban con narración oral en asamblea y continuaban con retos manipulativos (balanzas, harina, espejos de simetría)."
+        },
+        {
+          "label": "3. Evaluación estandarizada con TEMT",
+          "value": "Aplicación individual por un único investigador entrenado en el instrumento durante 20-30 minutos por niño, recorriendo los 40 ítems lógicos y numéricos."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Victoria rotunda en los conceptos de mayor abstracción",
+      "narrativa": "Los análisis estadísticos confirmaron la superioridad del enfoque narrativo-manipulativo:",
+      "hallazgos": [
+        {
+          "label": "Ventaja cuantitativa neta: El grupo experimental superó significativamente al control en el 27.5% de los ítems del TEMT, empatando en los restantes.",
+          "value": ""
+        },
+        {
+          "label": "Dominio de ítems de alta dificultad: Los escolares del grupo experimental resolvieron con éxito el conteo inverso desde 17 (P30) y el conteo de 2 en 2 hasta 14 (P25).",
+          "value": ""
+        },
+        {
+          "label": "Competencia aditiva temprana: En el ítem P35 (contar hasta 12 como estrategia aditiva, dando primero 5 objetos que se ocultan y añadiendo 7 más), el grupo del cuento mostró diferencias significativas a su favor (p = .015).",
+          "value": ""
+        },
+        {
+          "label": "Expresión lingüística espontánea: Los docentes reportaron una rápida incorporación del vocabulario matemático formal en las conversaciones cotidianas infantiles.",
+          "value": ""
+        }
+      ],
+      "reflexion": "Cuando las matemáticas tienen rostro, plumas y emociones, los niños no calculan por obligación: piensan para ayudar al personaje.",
+      "deepDives": [
+        {
+          "id": "art-revelacion-1",
+          "triggerLabel": "El misterio de los huevos y la balanza",
+          "type": "data",
+          "content": "Comparar el huevo más grande del patito con los demás sobre una balanza real permitió a los niños percibir que la ordenación por tamaño no equivale a la ordenación por masa, trabajando la medición y la comprensión de adjetivos comparativos."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Aprendizaje situado y superación de brechas tempranas",
+      "narrativa": "Los autores debaten las implicaciones de su hallazgo frente a la literatura internacional:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Matemática situada (Sawatzki y Sullivan): El aprendizaje numérico se acelera cuando está anclado en contextos sociales y afectivos compartidos."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Directrices NAEYC y NCTM: Plena sintonía con las recomendaciones internacionales que exigen resolver problemas matemáticos mediante indagación lúdica."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Escasas diferencias por sexo: el contraste global del NCM no mostró diferencias por sexo (p = .740), coincidiendo con estudios previos (Alsina y Berciano, 2018; Navarro et al., 2010), aunque algunos ítems (P9, P24 y P29) resultaron mejores en las chicas."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Fichas de lápiz y papel vs. Manipulación narrativa: Crítica a la primacía de los cuadernos comerciales descontextualizados en las aulas de 5 años."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Madurez cronológica vs. Mediación: La edad en días no explicó el éxito matemático; la mediación didáctica rica compensó la relativa juventud de los aprendices."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El TEMT no evalúa destrezas geométricas complejas, quedando fuera de la medición el impacto del trabajo con simetrías y planos."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "La intervención se restringió a un único cuento popular durante pocas semanas, precisando ensayos longitudinales con múltiples relatos."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la formación inicial de maestros de Infantil Diseñar asignaturas interdisciplinares que combinen la didáctica de la literatura infantil con la didáctica de las matemáticas manipulativas."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la práctica docente cotidiana Sustituir las fichas repetitivas por talleres basados en cuentos populares que desafíen a los niños a medir, clasificar y contar con objetos reales."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la evaluación psicopedagógica Utilizar baterías estandarizadas como el TEMT para detectar dificultades matemáticas antes del paso crucial a Educación Primaria."
+        },
+        {
+          "label": "Tabla",
+          "value": "Atributo | Resultado | Significación\nReparto de la muestra | A (experimental, N=19), B (experimental, N=18), C (control, N=25) | 62 escolares de 5 años y 9 meses\nNCM global (TEMT, 40 ítems) | Experimental: 30.5 | Control: 25.9 | p = .002 (t de Student)\nÍtems con mejores resultados en el experimental | 11 de 40 (27.5%): P9, P10, P13, P16, P18, P23, P25, P29, P30, P35, P36 | el resto, mismos resultados\nÍtems «muy difíciles» a favor del cuento | P25, P30 y P35 | tres de los cuatro más difíciles del TEMT\nDiferencias por sexo (mejores en chicas) | P9, P24 y P29 | p = .087, .093 y .025\nDiferencias por edad (en días) | Ejemplo P28, β = .005 | p = .067, efecto prácticamente nulo\nFiabilidad del TEMT | α = .95 total; .94 lógica; .93 numérica | consistencia interna alta"
+        }
+      ],
+      "reflexion": "La literatura no es el enemigo de la ciencia: es la llave que abre la mente del niño para que la ciencia pueda entrar jugando.",
+      "deepDives": [
+        {
+          "id": "art-marco-1",
+          "triggerLabel": "El espejo y la noción de simetría",
+          "type": "theory",
+          "content": "Trabajar el reflejo del patito en el agua con un libro de espejos permitió a los niños visualizar el espacio como un todo y crear sus propios patrones, acercándose a las transformaciones geométricas gobernadas por la percepción."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Mejora significativamente la competencia lógico-matemática en Educación Infantil mediante situaciones didácticas basadas en un cuento popular?",
+      "conclusion": "El grupo experimental alcanzó un NCM de 30.5 puntos frente a 25.9 del grupo control (diferencia altamente significativa, p = .002). Las mayores ventajas se concentraron en tareas abstractas de alta dificultad: conteo hacia atrás, series de dos en dos y suma oculta. El contraste global del NCM no arrojó diferencias por sexo, aunque unos pocos ítems puntuaron mejor en las chicas. La edad cronológica relativa en días no condicionó el éxito cuando se aplicó una mediación didáctica estimulante. Articular unidades didácticas integradas donde el relato literario plantee los problemas y los materiales manipulativos permitan resolverlos. Erradicar el uso abusivo de fichas gráficas prematuras en las aulas de 4 y 5 años en favor de situaciones de indagación física. Diseñar pautas de observación compartida entre docentes para registrar la adquisición del vocabulario matemático en el aula. Evaluar sistemáticamente la competencia matemática temprana para intervenir precozmente antes de la escolarización primaria obligatoria. Érase una vez unos niños que contaron las penas de un patito y descubrieron, sin saberlo, la belleza eterna de las matemáticas.",
+      "formalRef": "Blanca Arteaga-Martínez, Adolfo Hernández y Jesús Macías-Sánchez. (2021). El aprendizaje de contenidos lógico-matemáticos a través del cuento popular en Educación Infantil. Ocnos 20(3). https://doi.org/10.18239/ocnos_2021.20.3.2619"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué cuento clásico de Hans Christian Andersen estructuró las situaciones didácticas matemáticas de la investigación?",
+          "options": [
+            "Caperucita Roja",
+            "El Patito Feo",
+            "Los Tres Cerditos",
+            "Blancanieves"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué puntuación media de Competencia Matemática (NCM) obtuvo el grupo experimental frente al control (p = .002)?",
+          "options": [
+            "30.5 puntos frente a 25.9",
+            "18.2 puntos frente a 12.0",
+            "40.0 puntos frente a 39.5",
+            "15.0 puntos frente a 14.8"
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Educación matemática temprana",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Desarrollo de habilidades lógicas y numéricas basales en Educación Infantil que constituyen el predictor más robusto del rendimiento curricular posterior en educación primaria y secundaria obligatoria."
+      },
+      {
+        "id": "2",
+        "label": "El cuento como mediador didáctico",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Potencial del relato folclórico tradicional para vehicular conceptos abstractos de manera lúdica, estimulando la indagación activa sin caer en la instrumentalización desvirtuadora del texto literario."
+      },
+      {
+        "id": "3",
+        "label": "Teoría de situaciones didácticas (Brousseau)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Marco pedagógico de Guy Brousseau que postula que el conocimiento matemático emerge de la interacción del alumno con un medio estructurado que le demanda resolver problemas significativos para avanzar."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Evaluar el impacto de 'El Patito Feo'",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Contrastar con evidencia empírica cuantitativa si una intervención didáctica anclada en el cuento popular de 'El Patito Feo' mejora la competencia matemática temprana de preescolares de 5 años de edad."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Analizar efectos de sexo y edad relativa",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Verificar si las diferencias de género o la edad cronológica relativa medida en días influyen en el nivel de logro matemático alcanzado tras la intervención de aula en el grupo experimental y control."
+      },
+      {
+        "id": "6",
+        "label": "Diseño cuasiexperimental con grupo control",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Esquema experimental transversal con grupos preformados asignados aleatoriamente: dos aulas experimentales que trabajaron con el cuento y un aula de control que siguió la enseñanza convencional de centro."
+      },
+      {
+        "id": "7",
+        "label": "Muestra de 62 escolares de Infantil",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Muestra de 62 escolares de 5 años y 9 meses en colegios concertados de Madrid distribuidos en Grupo A (N=19), Grupo B (N=18) y Grupo Control C (N=25) con estricto equilibrio y paridad de género."
+      },
+      {
+        "id": "8",
+        "label": "Batería TEMT y diagnóstico ad hoc",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Test estandarizado de Navarro et al. (40 ítems lógicos y numéricos, alfa = .95) aplicado individualmente por un único investigador entrenado durante 20-30 minutos por niño, junto a la prueba ad hoc de 9 ítems usada como diagnóstico inicial."
+      },
+      {
+        "id": "9",
+        "label": "Punto de partida homogéneo comprobado",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Ausencia total de diferencias significativas en la prueba diagnóstica previa de 9 ítems entre grupos, garantizando la equivalencia basal y la validez interna del contraste cuasiexperimental realizado."
+      },
+      {
+        "id": "10",
+        "label": "Superioridad del NCM experimental (p=.002)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Puntuación global media de 30.5 puntos en el grupo experimental frente a 25.9 en el control (prueba t de Student, p = .002), con ventaja neta estadísticamente significativa en el 27.5% de los ítems del TEMT."
+      },
+      {
+        "id": "11",
+        "label": "Dominio de ítems de alta dificultad",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Diferencias masivas a favor del grupo del cuento en los ítems más complejos: conteo de dos en dos hasta 14 (P25), conteo hacia atrás desde 17 (P30) y adición mental con objetos parcialmente ocultos (P35)."
+      },
+      {
+        "id": "12",
+        "label": "Inexistencia de brecha de sexo y edad",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "El contraste global del NCM no mostró diferencias por sexo (p = .740) ni la edad cronológica en días resultó significativa (p = .277), si bien unos pocos ítems (P9, P24 y P29) puntuaron mejor en las chicas."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Efecto del contexto narrativo",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Debate apoyado en Sawatzki y Sullivan: el escenario socioemocional del cuento facilita la interacción dialógica y acelera la verbalización y asimilación espontánea de conceptos y términos matemáticos."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Crítica a la ficha mecánica",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Cuestionamiento pedagógico a las rutinas de lápiz y papel descontextualizadas en fichas comerciales frente al andamiaje manipulativo con materiales cotidianos como balanzas, harina y espejos en el aula."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Tamaño muestral y ausencia de geometría",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Investigación circunscrita a un único relato durante pocas semanas; la batería TEMT no evalúa geometría formal, dejando fuera del registro estadístico el impacto del trabajo con simetrías y planos."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: La literatura como motor cognitivo",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "El estudio prueba que el cuento popular es un catalizador extraordinario de la alfabetización científica y matemática temprana si se articula con rigor mediante situaciones didácticas manipulativas."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se dinamiza mediante"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se fundamenta en la"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "motiva verificar el"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "aporta diseño para el"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "plantea controlar"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se operacionaliza en"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se incorpora en el"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se aplica sobre"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se evalúa mediante"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "constata inicialmente"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "revela la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "demuestra el"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "comprueba la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "apoya la tesis del"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "refuerza el"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "sustenta la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "desmiente prejuicios en"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "se delimita por"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "concluye en"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "orienta réplicas hacia"
+      }
+    ]
+  }
+}

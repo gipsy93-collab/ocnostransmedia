@@ -1,0 +1,376 @@
+{
+  "id": "canales_booktuber_socializacion_practicas_lectoras",
+  "metadata": {
+    "title": "Los canales booktuber como espacio de socialización de prácticas lectoras juveniles",
+    "authors": "Lenin-Vladimir Paladines-Paredes y Ana-María Margallo",
+    "year": "2020",
+    "journal": "Ocnos 19(1)",
+    "doi": "10.18239/ocnos_2020.19.1.1975",
+    "gancho": "¿Alejan las pantallas a los jóvenes de los libros o están creando los booktubers una nueva cultura lectora participativa en la red?",
+    "duration": "12-15 min",
+    "badge": "Comunidades Virtuales y Prácticas Lectoras",
+    "disciplina": "Didáctica de la Literatura y Cultura Digital",
+    "dimensiones": [
+      "Fenómeno Booktuber",
+      "Prácticas Letradas Vernáculas",
+      "Tipologías Funcionales de Video",
+      "Socialización Literaria Juvenil"
+    ],
+    "tags": [
+      "booktubers",
+      "youtube",
+      "practicas_vernaculas",
+      "socializacion_lectora",
+      "jovenes_lectores",
+      "videoreseña"
+    ],
+    "pistas": [
+      "Estudio exploratorio con análisis de contenido inductivo sobre seis canales booktuber hispanoamericanos consolidados.",
+      "Identificación de tres macrofunciones operativas de los videos: análisis crítico, exhibición de colección y selección lúdica.",
+      "Correlación entre el perfil etario y el tipo de contenido: los creadores mayores priorizan el análisis y los menores el coleccionismo masivo.",
+      "Propuesta de tender puentes entre la mediación informal en redes y la educación literaria escolar para revitalizar el aula."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "El discurso escolar suele culpar a las pantallas y redes sociales del abandono de la lectura juvenil, ignorando los vibrantes ecosistemas virtuales donde los adolescentes dialogan apasionadamente sobre libros.",
+      "desafio": "Comprender cómo se organizan y especializan las prácticas de socialización literaria en los canales de YouTube de booktubers hispanohablantes para derivar modelos de dinamización aplicables al aula.",
+      "relevancia": "Ofrece claves pedagógicas para que la escuela supere la dicotomía papel-pantalla y reconozca las identidades lectoras vernáculas forjadas en la cultura participativa de internet."
+    },
+    "conflicto": {
+      "pregunta": "¿Qué funciones cumplen los videos de los booktubers en la socialización de la lectura y cómo se configuran las identidades lectoras en la red?",
+      "posiciones": [
+        "Postura apocalíptica tradicional: las redes digitales fragmentan la atención, promueven un consumo efímero y anulan la recepción literaria profunda.",
+        "Perspectiva de la cultura participativa: YouTube funciona como una comunidad de práctica donde la juventud ejerce una mediación entre iguales activa y afectiva."
+      ],
+      "tension": "La tensión entre la apropiación mercantilista del fenómeno por parte de las editoriales juveniles y la genuina construcción comunitaria de juicios críticos literarios.",
+      "deepDives": [
+        {
+          "id": "book-conf-1",
+          "triggerLabel": "La tensión entre consumo y crítica",
+          "type": "context",
+          "content": "Formatos como el Book Haul o Bookshelf Tour exhiben consumismo editorial, pero conviven con videoreseñas de 10 minutos donde el booktuber desmenuza argumentos, estilo y coherencia narrativa."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Análisis inductivo de prácticas letradas en el ecosistema booktuber",
+      "narrativa": "A través de un corpus de 6 canales hispanohablantes (con más de 200 videos examinados), los investigadores clasificaron las tipologías discursivas en matrices funcionales de análisis, colección y selección, vinculándolas a la edad, audiencia y trayectoria.",
+      "detalles": [
+        {
+          "label": "Muestra seleccionada",
+          "value": "6 canales de España, México y Argentina (16 a 23 años; 3.500 a 24.300 suscriptores) filtrados de un corpus inicial de 30 canales."
+        },
+        {
+          "label": "Metodología de categorización",
+          "value": "Análisis documental y codificación inductiva basada en Bardin (1991) y Taylor-Bogdan (1989) sobre más de 200 videos."
+        },
+        {
+          "label": "Ejes funcionales",
+          "value": "Análisis (reseñas y lecturas temáticas), Colección (Book Hauls y Wrap Ups) y Selección (Book Tags, listas y Tops)."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "Los canales de booktubers muestran una clara especialización: los creadores de mayor edad y menor audiencia profundizan en el análisis crítico, mientras los más jóvenes concentran el coleccionismo y retos lúdicos con audiencias masivas.",
+      "datosClave": [
+        {
+          "label": "Predominio de la reseña",
+          "value": "La videoreseña es el género nuclear en los 6 canales analizados, con una duración promedio de 5 a 10 minutos."
+        },
+        {
+          "label": "Especialización por edad",
+          "value": "Canales de 21-23 años dedican hasta un 83% al análisis literario; canales de 16-18 años dedican más del 65% a selección y retos."
+        },
+        {
+          "label": "Intensidad lectora revelada",
+          "value": "Los videos de Wrap Up mensual documentan ritmos sostenidos de lectura personal de entre 5 y 6 libros al mes."
+        }
+      ],
+      "implicacion": "El docente puede incorporar formatos booktuber en clase de literatura para transformar la reseña escrita estandarizada en un ejercicio dialógico y multimodal de crítica entre pares."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "Néstor García-Canclini (2015)",
+          "concepto": "Transformación de los hábitos culturales juveniles ante la convergencia digital y las nuevas plataformas comunicativas."
+        },
+        {
+          "autor": "David Barton (2010)",
+          "concepto": "Prácticas letradas vernáculas: usos cotidianos y voluntarios de la lectoescritura al margen de la prescripción escolar."
+        },
+        {
+          "autor": "Gustavo Bombini (2006)",
+          "concepto": "El lector empírico: necesidad de conocer las experiencias reales de lectura juvenil para renovar la didáctica literaria."
+        }
+      ],
+      "enfoque": "Sociología de la lectura digital y didáctica sociocultural de la literatura orientada a la ecología de medios.",
+      "sinergia": "La hibridación de la oralidad audiovisual con la literatura escrita configura nuevas comunidades de afinidad lectora."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo estructuran los jóvenes booktubers sus prácticas lectoras en red y qué funciones comunicativas desempeñan?",
+      "hallazgos": [
+        "Consolidación de la videoreseña como formato epistémico central para analizar argumentos, personajes y valores literarios.",
+        "Diferenciación funcional marcada entre canales analítico-reflexivos y canales centrados en selección lúdica y captación de audiencia.",
+        "Uso del coleccionismo (Book Haul, Wrap Up) como constructor de identidad comunitaria y señal de prestigio lector.",
+        "Potencial pedagógico de estas prácticas para redefinir las tareas escolares de comentario de texto y fomentar la animación lectora."
+      ],
+      "conclusion": "Los booktubers actúan como mediadores intermedios eficaces que demuestran una alta competencia lectora vernácula, ofreciendo modelos fértiles para oxigenar la formación literaria escolar."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Qué diferencia a los canales booktuber analíticos de los centrados en selección?",
+          "opciones": [
+            "Los analíticos solo leen libros de dominio público sin emitir juicios de valor",
+            "Los analíticos son guiados por creadores de mayor edad y menor audiencia que desmenuzan el texto, mientras los de selección apuestan por retos masivos",
+            "Los analíticos rechazan el uso de video y prefieren foros de texto estático"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El estudio documenta que la mayor edad correlaciona con profundidad analítica, frente a los canales juveniles volcados en Book Tags y Tops."
+        },
+        {
+          "pregunta": "¿Cuál es la principal recomendación educativa que se desprende de la investigación?",
+          "opciones": [
+            "Prohibir los teléfonos y el acceso a YouTube en las clases de lengua",
+            "Aprovechar los formatos de videoreseña y discusión entre iguales para dinamizar la lectura literaria en el currículo formal",
+            "Obligar a todos los estudiantes a convertirse en influencers comerciales de editoriales"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "Los autores abogan por conectar las prácticas letradas vernáculas de YouTube con la didáctica literaria institucional."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Socialización Lectora y Comunidades Booktuber en YouTube",
+      "descripcion": "Estructura teórica y empírica que desglosa las funciones de análisis, colección y selección en las prácticas vernáculas de booktubers hispanohablantes.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Comunidad Booktuber",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Comunidad de práctica virtual en YouTube integrada por jóvenes que comparten, reseñan y debaten lecturas literarias, generando lazos de afinidad y modelos vernáculos de mediación lectora entre iguales."
+        },
+        {
+          "id": "2",
+          "label": "Prácticas Vernáculas",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Prácticas letradas autónomas surgidas por interés personal en entornos no formales (Barton), caracterizadas por su tono desinhibido, multimodalidad y distanciamiento del canon y la evaluación institucional."
+        },
+        {
+          "id": "3",
+          "label": "Cultura Participativa Digital",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Paradigma comunicativo donde los usuarios transitan de receptores pasivos a prosumidores que producen contenidos, comentan obras y tejen redes colectivas de interpretación en plataformas audiovisuales."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Tipología y Funciones",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Caracterizar la organización funcional de los contenidos en canales de booktubers hispanohablantes y analizar si la distribución de formatos configura especializaciones asociadas a la edad o la audiencia."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de Seis Canales",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Selección intencional de 6 canales activos de España, México y Argentina (de 16 a 23 años) con más de 50 videos y trayectoria verificada, filtrados rigurosamente a partir de un muestreo inicial de 30 canales."
+        },
+        {
+          "id": "6",
+          "label": "Análisis de Contenido Inductivo",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Procedimiento analítico basado en Bardin y Taylor-Bogdan sobre un corpus de más de 200 videos, codificando categorías emergentes según la función comunicativa y socializadora desempeñada en la red."
+        },
+        {
+          "id": "7",
+          "label": "Función de Análisis (Reseña)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Categoría nuclear presente en todos los canales que comprende videoreseñas de 5 a 10 minutos, guías temáticas y valoraciones críticas sobre tramas, personajes y estilo literario de obras contemporáneas."
+        },
+        {
+          "id": "8",
+          "label": "Función de Colección",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Formatos como Book Haul y Bookshelf Tour donde el booktuber exhibe compras y bibliotecas personales, construyendo prestigio lector comunitario aunque evidenciando presiones de consumo editorial."
+        },
+        {
+          "id": "9",
+          "label": "Función de Selección (Tags/Tops)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Dinámicas lúdicas basadas en Book Tags, retos intercanales y listas de favoritos (Tops) orientadas prioritariamente a captar seguidores, fidelizar audiencia e incentivar la interacción en comentarios."
+        },
+        {
+          "id": "10",
+          "label": "Especialización por Edad",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Correlación observada donde los creadores de mayor edad (21-23 años) priorizan el análisis reflexivo (hasta 83%), mientras los más jóvenes (16-18 años) se concentran en formatos de selección y retos virales."
+        },
+        {
+          "id": "11",
+          "label": "Intensidad y Hábito Lector",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Evidencia cuantitativa aportada por los balances mensuales (Wrap Ups) que certifica ritmos sostenidos de lectura de 5 a 6 libros por mes, desmitificando el presunto desinterés juvenil por los libros."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: Mediación Horizontal",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "El booktuber emerge como mediador paritario eficaz que habla el mismo código de los jóvenes lectores, operando como puente afectivo donde la prescripción escolar autoritaria suele fracasar."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Diálogo Aula-Redes",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Necesidad perentoria de que la didáctica literaria escolar supere el recelo hacia las pantallas e integre los formatos audiovisuales de videoensayo y reseña para actualizar el canon y motivar al alumnado."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Nuevas Ecologías Lectoras",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "El ecosistema booktuber demuestra que la tecnología digital no erradica la lectura profunda sino que la reconfigura en una experiencia social comunitaria, multimodal y altamente participativa."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Muestra Reducida",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Corpus exploratorio acotado a 6 creadores que impide generalizaciones universales sobre toda la comunidad booktuber hispanohablante, aconsejando ampliar muestras en estudios posteriores."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Análisis Estructural",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Focalización exclusiva en la clasificación funcional de los formatos de video sin abordar un análisis crítico del discurso verbal o de la interacción dialógica producida en la sección de comentarios."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "constituye objeto de"
+        },
+        {
+          "from": "2",
+          "to": "1",
+          "label": "enmarca la práctica de"
+        },
+        {
+          "from": "3",
+          "to": "1",
+          "label": "proporciona entorno a"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se analiza mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se examina con"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "identifica categoría de"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "identifica categoría de"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "identifica categoría de"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "se asocia con"
+        },
+        {
+          "from": "9",
+          "to": "10",
+          "label": "diverge según"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "demuestra datos sobre"
+        },
+        {
+          "from": "7",
+          "to": "12",
+          "label": "sustenta noción de"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "matiza dinámica de"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "motiva traslación hacia"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "fundamenta tesis sobre"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "aporta evidencia a"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "acota alcance de"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "complementa sesgos con"
+        },
+        {
+          "from": "1",
+          "to": "14",
+          "label": "redefine paradigma de"
+        },
+        {
+          "from": "2",
+          "to": "13",
+          "label": "reclama integración en"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "proyecta identidad en"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Cómo podrías trasladar los formatos de Book Tag y videoreseña a tu aula para que los alumnos dialoguen críticamente sobre sus lecturas?",
+      "enfoque": "Crear un canal de reseñas literarias del aula donde los estudiantes graben recomendaciones breves justificando sus elecciones estéticas.",
+      "cierre": "Reconocer las prácticas lectoras juveniles en entornos digitales es el primer paso para construir una didáctica literaria viva y significativa."
+    }
+  }
+}

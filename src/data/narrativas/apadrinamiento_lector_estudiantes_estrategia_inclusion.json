@@ -1,0 +1,375 @@
+{
+  "id": "apadrinamiento_lector_estudiantes_estrategia_inclusion",
+  "metadata": {
+    "id": "apadrinamiento_lector_estudiantes_estrategia_inclusion",
+    "title": "El apadrinamiento lector entre estudiantes. Una estrategia favorecedora de la inclusión en la escuela",
+    "authors": [
+      "Cecilia M. Azorín"
+    ],
+    "year": 2017,
+    "volume": "16",
+    "issue": "2",
+    "pages": "27-36",
+    "doi": "10.18239/ocnos_2017.16.2.1402",
+    "keywords": [
+      "apadrinamiento lector",
+      "educación inclusiva",
+      "tutoría entre iguales",
+      "innovación educativa",
+      "animación a la lectura"
+    ],
+    "abstract": "Estudio de caso evaluativo sobre el diseño, aplicación y valoración de un Proyecto de Apadrinamiento Lector (PAL) en un centro de Educación Infantil y Primaria de la Región de Murcia. Mediante parejas lectoras interetarias (alumnado de 5º y 6º de Primaria apadrinando a escolares de Infantil y primer ciclo), demuestra cómo esta tutoría entre iguales fomenta la inclusión educativa, la convivencia positiva y el hábito lector compartido."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Qué sucede cuando un niño mayor de 11 años toma de la mano a un pequeño de 5 para sentarse en el patio y leerle un cuento con paciencia, ternura y entusiasmo? El Proyecto de Apadrinamiento Lector rompe las barreras de las edades escolares y demuestra que la inclusión educativa germina cuando aprendemos a cuidar al otro a través de los libros.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis pedagógico y social:",
+        "opciones": [
+          {
+            "id": "inclusiva",
+            "texto": "Ruta de inclusión escolar: atención a la diversidad y superación del individualismo"
+          },
+          {
+            "id": "tutoria",
+            "texto": "Ruta de aprendizaje cooperativo: beneficios de la tutoría entre iguales para padrinos y ahijados"
+          },
+          {
+            "id": "organizativa",
+            "texto": "Ruta de gestión de centro: diseño, tiempos, espacios y evaluación del proyecto PAL"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Las escuelas tradicionales suelen estar rígidamente compartimentadas por edades y cursos cerrados, dificultando los lazos comunitarios y segregando a menudo al alumnado con dificultades de aprendizaje o en riesgo de exclusión social en intervenciones individuales aisladas.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Por qué la tutoría entre iguales en la lectura beneficia especialmente a los alumnos tutores (padrinos)?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Porque asumir la responsabilidad de guiar a otro refuerza su autoestima, mejora su fluidez expresiva y consolida su propio compromiso con la lectura.",
+            "correcta": true,
+            "explicacion": "Exacto: enseñar a otro es la forma más potente de aprender y de sentirse competente y valioso en la comunidad escolar."
+          },
+          {
+            "id": "c2",
+            "texto": "Porque les permite descansar mientras el alumno pequeño lee en voz baja sin ayuda.",
+            "correcta": false,
+            "explicacion": "El apadrinamiento exige un andamiaje activo, diálogo continuo y modelado expresivo por parte del padrino."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "La investigadora analizó la implementación del PAL en un colegio público murciano de Infantil y Primaria. Estructuró parejas interetarias emparejando a alumnos mayores con escolares más pequeños (incluyendo alumnado con necesidades de apoyo educativo), recogiendo valoraciones mediante diarios docentes, observaciones y encuestas a toda la comunidad escolar.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Diseño del PAL",
+            "detalle": "Firma de contratos de compromiso, preparación de lecturas y emparejamiento empático."
+          },
+          {
+            "fase": "Sesiones de lectura",
+            "detalle": "Encuentros semanales en biblioteca, aulas y patios con lectura dialógica y juegos letrados."
+          },
+          {
+            "fase": "Recogida de datos",
+            "detalle": "Cuestionarios al alumnado, registros de observación sistemática y grupos focales con profesorado."
+          },
+          {
+            "fase": "Evaluación integral",
+            "detalle": "Análisis de impacto en convivencia, fluidez lectora, empatía y clima de centro."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El PAL logró una transformación visible de la convivencia escolar: redujo los conflictos en el recreo, integró con éxito a escolares con barreras para el aprendizaje y despertó un genuino entusiasmo por los libros tanto en los padrinos mayores como en los ahijados pequeños.",
+      "datos_clave": [
+        "Investigación evaluativa sobre el Proyecto de Apadrinamiento Lector en un centro de Primaria.",
+        "Mejora sustancial en la convivencia, el respeto interetario y la reducción del acoso escolar.",
+        "Incremento de la motivación lectora y la competencia comunicativa oral en ambos roles.",
+        "Validación del apadrinamiento como estrategia de innovación inclusiva de bajo coste y altísimo impacto."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se fundamenta en los principios de educación inclusiva de Ainscow y Booth (2002), el modelo de tutoría entre iguales de Topping (1996) y Duran y Vidal (2004), y las teorías de la zona de desarrollo próximo de Vygotsky.",
+      "referencias_clave": [
+        "Ainscow & Booth (2002)",
+        "Topping (1996)",
+        "Duran & Vidal (2004)",
+        "Azorín (2017)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "La inclusión no es una teoría en un documento oficial: es una mirada de afecto entre dos niños que leen juntos. Cuando la escuela crea puentes de fraternidad y lectura compartida entre distintas edades, nadie se queda atrás y toda la comunidad florece.",
+      "hallazgo_central": "El apadrinamiento lector entre estudiantes es una práctica inclusiva altamente eficaz que fortalece los vínculos afectivos, dinamiza el hábito lector y mejora la convivencia comunitaria en la escuela."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los elementos del Proyecto de Apadrinamiento Lector con su finalidad:",
+          "pares": [
+            {
+              "concepto": "Contrato de apadrinamiento",
+              "definicion": "Compromiso simbólico donde padrino y ahijado pactan cuidarse y disfrutar de la lectura."
+            },
+            {
+              "concepto": "Tutoría entre iguales",
+              "definicion": "Estrategia metodológica donde un estudiante apoya el aprendizaje de otro con beneficio mutuo."
+            },
+            {
+              "concepto": "Inclusión comunitaria",
+              "definicion": "Cultura escolar donde la diversidad es valorada como una oportunidad de enriquecimiento."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Apadrinamiento Lector y Estrategias Inclusivas Escolares",
+      "descripcion": "Diseño, aplicación e impacto socioafectivo y lector del proyecto de tutoría interetaria en Educación Primaria.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Apadrinamiento Lector como Estrategia Inclusiva",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo primordial del estudio: diseñar, implementar y evaluar el impacto educativo, social y lector de un Proyecto de Apadrinamiento Lector (PAL) entre estudiantes de diversas edades en un centro de Infantil y Primaria."
+        },
+        {
+          "id": "2",
+          "label": "Compartimentación Escolar Tradicional",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco contextual que denuncia la fragmentación de la escuela graduada convencional en aulas herméticas por edades, lo que dificulta la cooperación intergeneracional y fomenta dinámicas competitivas o excluyentes."
+        },
+        {
+          "id": "3",
+          "label": "Marco de Educación Inclusiva según Ainscow",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Principios de Mel Ainscow y Tony Booth (Index for Inclusion) que conciben la inclusión como la eliminación sistemática de barreras al aprendizaje y a la participación de todo el alumnado de la comunidad."
+        },
+        {
+          "id": "4",
+          "label": "Teoría de la Tutoría entre Iguales",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Fundamentación de Topping, David Duran y Vygotsky sobre la mediación entre pares, donde el andamiaje afectivo y cognitivo produce ganancias sustantivas tanto en el tutor como en el tutorado."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Metodológico de Estudio de Caso Evaluativo",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño evaluativo de investigación-acción e intervención en un contexto escolar natural para valorar de forma continua la viabilidad organizativa y el impacto socioeducativo del proyecto."
+        },
+        {
+          "id": "6",
+          "label": "Participantes: Comunidad del CEIP de Murcia",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Muestra integrada por alumnado de quinto y sexto de Primaria (padrinos) emparejado con escolares de Educación Infantil y primeros cursos (ahijados), junto con el claustro docente y familias."
+        },
+        {
+          "id": "7",
+          "label": "Protocolo de Emparejamiento y Contrato Lector",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Procedimiento de formalización que incluye la asignación reflexiva de parejas, talleres de preparación para padrinos sobre narración en voz alta y firma de compromisos afectivos de colaboración."
+        },
+        {
+          "id": "8",
+          "label": "Instrumentos Mixtos de Recogida de Datos",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Uso combinado de escalas de satisfacción, cuestionarios al alumnado, rúbricas de observación del clima de lectura en espacios comunes y sesiones de reflexión docente en claustro."
+        },
+        {
+          "id": "9",
+          "label": "Fortalecimiento de la Autoestima de los Padrinos",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los alumnos mayores desarrollaron un gran sentido de responsabilidad cívica y madurez personal al sentirse referentes y protectores de los más pequeños, mejorando su propia actitud escolar."
+        },
+        {
+          "id": "10",
+          "label": "Estimulación del Deseo Lector en los Ahijados",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Los escolares pequeños experimentaron un notable incremento de la motivación por descifrar historias y compartir libros al percibir la lectura como un juego afectivo compartido con los mayores."
+        },
+        {
+          "id": "11",
+          "label": "Mejora Visible del Clima y Convivencia Escolar",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Reducción drástica de conductas disruptivas y situaciones de acoso en los momentos de recreo, creando lazos interetarios de cuidado mutuo y protección espontánea en los espacios comunes."
+        },
+        {
+          "id": "12",
+          "label": "Desarticulación de la Exclusión en Aulas Ordinarias",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica que constata cómo el apadrinamiento diluye las etiquetas diagnósticas: los alumnos con necesidades de apoyo escolar ejercieron con éxito tanto de padrinos como de ahijados."
+        },
+        {
+          "id": "13",
+          "label": "La Escuela como Comunidad Dialógica Viva",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate en torno a la superación del individualismo docente y discente mediante proyectos colaborativos que involucran a todo el centro en una meta formativa y cultural unificada."
+        },
+        {
+          "id": "14",
+          "label": "Sostenibilidad y Transferibilidad del Modelo PAL",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental que acredita al Proyecto de Apadrinamiento Lector como una práctica innovadora altamente transferible, de coste cero y con profundos beneficios inclusivos y letrados."
+        },
+        {
+          "id": "15",
+          "label": "Institucionalización en los Planes de Convivencia",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación organizativa para integrar de manera estable el apadrinamiento lector en la Programación General Anual y en el Plan de Fomento de la Lectura de los centros educativos."
+        },
+        {
+          "id": "16",
+          "label": "Limitaciones Temporales y de Continuidad Docente",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite señalado respecto a la dificultad de coordinar horarios entre ciclos educativos y a la inestabilidad de las plantillas docentes interinas para garantizar la continuidad del proyecto en el tiempo."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "pretende transformar"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se fundamenta en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se materializa mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se apoya en"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "involucra a"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "estructura"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "evalúa mediante"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "potencia"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "estimula"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "demuestra"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "favorece"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "contribuye a"
+        },
+        {
+          "from": "11",
+          "to": "12",
+          "label": "evidencia"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "respalda"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "fundamenta"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "orienta hacia"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "reconoce"
+        },
+        {
+          "from": "7",
+          "to": "16",
+          "label": "enfrenta retos de"
+        },
+        {
+          "from": "4",
+          "to": "9",
+          "label": "explica teóricamente a"
+        },
+        {
+          "from": "3",
+          "to": "14",
+          "label": "avala"
+        },
+        {
+          "from": "11",
+          "to": "15",
+          "label": "justifica"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Un colegio donde los niños mayores leen cuentos a los más pequeños es un colegio donde el acoso y la soledad no encuentran lugar para crecer. La lectura compartida une lo que las paredes del aula separan y nos recuerda que educar es, ante todo, aprender a cuidarnos los unos a los otros.",
+      "preguntas": [
+        "¿Se promueven en su centro educativo proyectos interetarios de apadrinamiento o sigue existiendo una separación estricta entre ciclos?",
+        "¿Cómo puede la tutoría entre iguales empoderar a los estudiantes con baja autoestima o dificultades de aprendizaje?"
+      ]
+    }
+  }
+}

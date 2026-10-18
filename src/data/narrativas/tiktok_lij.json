@@ -12,9 +12,9 @@
     "color": "#e88b8c",
     "colorAlt": "#2a5a75",
     "bg": "from-rose-400/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-8.png",
+    "image": "/assets/portadas/tiktok_lij.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-8.png",
+      "image": "/assets/portadas/tiktok_lij.jpg",
       "name": "Dra. Gloria Gómez-Escalonilla",
       "role": "Catedrática en Comunicación y Economía del Libro, Universidad Rey Juan Carlos (España)"
     }
@@ -23,7 +23,7 @@
     "apertura": {
       "personaje": "Dra. Gloria Gómez-Escalonilla, investigadora en industrias culturales y ecosistemas del libro",
       "gancho": "¿Están las editoriales tradicionales listas para hablar el lenguaje visual y desenfadado de TikTok, o siguen usando las redes como un escaparate de cartón piedra?",
-      "contexto": "El sector editorial infantil y juvenil (LIJ) en España goza de excelente salud financiera: en 2024 facturó 551 millones de euros (18.2% del total de la industria cultural española) con más de 56 millones de ejemplares producidos (FGEE, 2025). Además, el 75% de los jóvenes entre 14 y 24 años afirma leer libros en su tiempo libre. Sin embargo, cuando se trata de cómo descubren sus próximas lecturas, el ecosistema ha mutado radicalmente: las redes sociales ya influyen en el 23% de las decisiones de compra, impulsadas por el fenómeno global de #BookTok. ¿Cómo están respondiendo las editoriales españolas a esta revolución? Este estudio analiza por primera vez de forma sistemática la presencia, formatos y métricas de 103 editoriales de LIJ en TikTok.",
+      "contexto": "El sector editorial infantil y juvenil (LIJ) en España goza de excelente salud financiera: en 2024 facturó 551,48 millones de euros (18,2% del total del sector editorial español) con más de 56 millones de ejemplares producidos (FGEE, 2025). Además, el 75,3% de los jóvenes entre 14 y 24 años afirma leer libros en su tiempo libre. Sin embargo, cuando se trata de cómo descubren sus próximas lecturas, el ecosistema ha mutado radicalmente: las redes sociales ya influyen en el 23% de las decisiones de compra, impulsadas por el fenómeno global de #BookTok. ¿Cómo están respondiendo las editoriales españolas a esta revolución? Este estudio analiza por primera vez de forma sistemática la presencia, formatos y métricas de 103 editoriales de LIJ en TikTok.",
       "deepDives": [
         {
           "id": "tiktok-apertura-1",
@@ -84,11 +84,26 @@
       "titulo": "Ruta metodológica: Análisis de contenido cuantitativo y cualitativo en TikTok",
       "narrativa": "La investigadora aplicó una metodología de análisis de contenido sistemático sobre las 103 editoriales censadas por la FGEE en mayo de 2025. Tras identificar los 25 perfiles activos, se diseñó una matriz con más de 20 variables para analizar tanto la identidad de la cuenta como una muestra de 117 publicaciones recientes (las 5 más actuales de cada perfil, excluyendo fijadas).",
       "detalles": [
-        { "label": "Universo de Estudio", "value": "103 editoriales del directorio oficial FGEE; 25 con perfil activo en TikTok (24.2%)." },
-        { "label": "Muestra de Publicaciones", "value": "117 videos recientes analizados de forma minuciosa." },
-        { "label": "Variables de Perfil", "value": "Identidad visual (logos/fotos), año de creación, total de videos, seguidores y 'me gusta' acumulados." },
-        { "label": "Variables de Video", "value": "Presencia de autor o influencer, género del prescriptor, tipo de plano, voz en off vs. en cámara, música, subtítulos, género literario y percha temática." },
-        { "label": "Métricas de Impacto", "value": "Visualizaciones, likes, comentarios, favoritos y compartidos por publicación." }
+        {
+          "label": "Universo de Estudio",
+          "value": "103 editoriales del directorio oficial FGEE; 25 con perfil activo en TikTok (24.2%)."
+        },
+        {
+          "label": "Muestra de Publicaciones",
+          "value": "117 videos recientes analizados de forma minuciosa."
+        },
+        {
+          "label": "Variables de Perfil",
+          "value": "Identidad visual (logos/fotos), año de creación, total de videos, seguidores y 'me gusta' acumulados."
+        },
+        {
+          "label": "Variables de Video",
+          "value": "Presencia de autor o influencer, género del prescriptor, tipo de plano, voz en off vs. en cámara, música, subtítulos, género literario y percha temática."
+        },
+        {
+          "label": "Métricas de Impacto",
+          "value": "Visualizaciones, likes, comentarios, favoritos y compartidos por publicación."
+        }
       ],
       "limitaciones": [
         "Volatilidad propia del algoritmo de TikTok, donde las métricas de visualización cambian con rapidez.",
@@ -111,17 +126,17 @@
         },
         {
           "label": "3. El Efecto Multiplicador del Influencer",
-          "value": "Los videos protagonizados por booktokers e influencers o donde el autor dialoga en cámara generan hasta 5 veces más visualizaciones y comentarios que los videos institucionales estáticos donde solo se muestra el libro girando sobre una mesa."
+          "value": "Los videos protagonizados por booktokers e influencers o donde el autor dialoga en cámara generan un alcance muy superior al de los videos institucionales estáticos donde solo se muestra el libro girando sobre una mesa, confirmando el valor estratégico de estos mediadores."
         },
         {
           "label": "4. Descuidos Formales y Falta de Gramática TikTok",
-          "value": "Un porcentaje notable de publicaciones presenta planos invertidos con texto ilegible (grabación frontal sin corregir modo espejo) y prescinde de música viral o subtítulos dinámicos, elementos indispensables para el consumo juvenil sin audio."
+          "value": "Un número apreciable de publicaciones muestra portadas invertidas (grabación frontal sin corregir el modo espejo) y un uso escaso de efectos visuales y sonoros (22 y 8 casos), recursos clave de la gramática nativa de TikTok."
         }
       ],
       "dataPoints": [
         "Media de seguidores del sector: muy modesta, con la mayoría por debajo de 1.000 seguidores.",
-        "El tono predominante es neutro o informativo (mostrar la portada y fecha de lanzamiento), desaprovechando el humor y la emoción propios de #BookTok.",
-        "Los sellos de álbum ilustrado infantil (Zorro Rojo, Tramuntana, Cuento de Luz) encuentran mayores barreras en TikTok porque su comprador final suele ser el padre o docente, no el menor usuario de la red."
+        "El tono es mayoritariamente positivo (70 %), aunque de marcado carácter informativo (mostrar la portada y la novedad), desaprovechando el humor y la emoción propios de #BookTok.",
+        "Los sellos de álbum ilustrado (Libros del Zorro Rojo, Tramuntana) y los de enfoque infantil como Cuento de Luz —la cuenta más constante, con 468 vídeos— mantienen una presencia heterogénea dentro del corpus."
       ],
       "reflexion": "El algoritmo de TikTok premia la autenticidad y el entusiasmo personal. Cuando una editorial actúa como una corporación fría, el usuario desliza el dedo en 2 segundos; cuando colabora con un lector apasionado, el libro se hace viral."
     },
@@ -234,31 +249,240 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Ecosistema Editorial de la LIJ en TikTok",
-    "descripcion": "Interacciones entre el sector editorial infantil y juvenil, la cultura algorítmica de TikTok, el fenómeno #BookTok y las nuevas formas de mediación entre iguales.",
+    "titulo": "Mapa conceptual: Editoriales de LIJ en TikTok (Ocnos 25(2) 2026)",
+    "descripcion": "Recorre el estudio desde la digitalización editorial, la LIJ 2.0 y el fenómeno BookTok hasta el análisis de contenido de los 25 perfiles y 117 publicaciones de las editoriales FGEE en TikTok: presencia minoritaria, métricas modestas, éxito del manga y los influencers, la discusión sobre la transposición de estrategias y las limitaciones del corpus.",
     "nodos": [
-      { "id": "1", "label": "Presencia Editorial en TikTok", "color": "#e88b8c" },
-      { "id": "2", "label": "Prescripción entre Iguales", "color": "#2a5a75" },
-      { "id": "3", "label": "Comunidad #BookTok", "color": "#f4d068" },
-      { "id": "4", "label": "Sobreproducción de Novedades", "color": "#5b9eaa" },
-      { "id": "5", "label": "Éxito del Manga y Young Adult", "color": "#88b04b" },
-      { "id": "6", "label": "Fórmulas Institucionales Frías", "color": "#e76f51" },
-      { "id": "7", "label": "El Libro como Objeto Estético", "color": "#9b82c3" },
-      { "id": "8", "label": "Métricas de Engagement Moderadas", "color": "#2a9d8f" },
-      { "id": "9", "label": "Gramática Audiovisual Nativa", "color": "#264653" },
-      { "id": "10", "label": "Mediación Literaria 2.0", "color": "#f4a261" }
+      {
+        "id": "1",
+        "label": "Digitalización del sector editorial",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La digitalización transformó distribución y promoción (venta virtual, webs, redes) sin desbancar al libro de papel: 2.858 millones de euros facturados en impreso frente a 165,5 en digital (FGEE, 2025; Gómez-Escalonilla, 2002; Chartier y Scolari, 2019)."
+      },
+      {
+        "id": "2",
+        "label": "LIJ 2.0 y lectura social (Rovira-Collado)",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "La LIJ 2.0 difumina las barreras entre autor, editor y lector (Rovira-Collado, 2013; 2015); desde 2012 proliferan booktubers, booktagramers y booktokers que personalizan la recomendación como prescriptores de confianza (Pretel-Jiménez et al., 2024)."
+      },
+      {
+        "id": "3",
+        "label": "#BookTok: 38.000 millones de visualizaciones",
+        "color": "#f4d068",
+        "role": "Marco teórico",
+        "descripcion": "TikTok nació como Douyin en 2016 (ByteDance), se globalizó en 2017 y creció con la compra de Musical.ly en 2018. Desde 2020 la comunidad BookTok, con más de 38.000 millones de visualizaciones y 55 millones de menciones bajo #booktok, impacta directamente en las ventas."
+      },
+      {
+        "id": "4",
+        "label": "Sobreproducción: 10.246 títulos LIJ en 2024",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "En 2024 se publicaron 59.758 títulos en papel, 10.246 de LIJ, con tirada media de 5.524 ejemplares frente a 3.517 de los libros adultos; el sector LIJ facturó 551,48 millones (18,2% del total). La sobreproducción, ligada al efecto catálogo, exige nuevas ventanas de visibilidad."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: editoriales LIJ en TikTok",
+        "color": "#264653",
+        "role": "Objetivo",
+        "descripcion": "Conocer cuántas editoriales tienen perfil, su identidad visual, antigüedad y productividad, sus métricas de interacción y las narrativas, libros y formatos de sus publicaciones, pues las redes ya intervienen en el 23% de la prescripción lectora (Conecta, 2025)."
+      },
+      {
+        "id": "6",
+        "label": "Análisis de contenido (Berelson) sobre FGEE",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Análisis «objetivo, sistemático y cuantitativo del contenido manifiesto» (Berelson, 1952) aplicado al universo de las 103 editoriales de LIJ del directorio de la FGEE, buscadas en TikTok en mayo de 2025 identificando los perfiles por logo y descripción."
+      },
+      {
+        "id": "7",
+        "label": "Corpus: 25 perfiles y 117 publicaciones",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Doble análisis de contenido: sobre los 25 perfiles hallados y sobre las cinco publicaciones más recientes de cada uno, excluidas las fijadas. Como Triqueta Editora no tiene contenido y Conecto solo dos, el corpus quedó en 117 vídeos codificados en Excel con tablas de frecuencias."
+      },
+      {
+        "id": "8",
+        "label": "Ficha de variables de perfil y video",
+        "color": "#e76f51",
+        "role": "Método",
+        "descripcion": "En perfiles: imagen, año de inicio, número de publicaciones, seguidores y me gusta. En vídeos: influencer o autor y su género, fondo, tipo de plano, voz, efectos, música, subtítulos, libros y género literario, portada invertida, tipo de publicación, tono, percha y métricas de interacción."
+      },
+      {
+        "id": "9",
+        "label": "Presencia minoritaria: 24,2% del sector",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Solo 25 de las 103 editoriales (24,2%) tienen perfil en TikTok, con una composición heterogénea y experimental: sellos infantiles, juveniles, educativos y de álbum ilustrado conviven sin una estrategia común del sector."
+      },
+      {
+        "id": "10",
+        "label": "Ausencia del duopolio: Alfaguara y Destino",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "Alfaguara LIJ (PRH) y Destino LIJ (Planeta) operan solo desde cuentas corporativas (Penguinlibros y Planetadelibros); SM carece de cuenta pese a unas 150 menciones de usuarios. Anaya LIJ y Edelvives sí están presentes."
+      },
+      {
+        "id": "11",
+        "label": "Cuentas recientes y actividad limitada",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Ningún perfil es anterior a 2020, con aperturas concentradas en 2020-2022. Dieciocho editoriales no superan las 100 publicaciones y ninguna llega a 500 (Cuento de Luz, la más constante, con 468); todas usan su logotipo como imagen de perfil."
+      },
+      {
+        "id": "12",
+        "label": "Éxito del manga: Norma y Nova Casa",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Norma Editorial (@normaedmanga) llega a 22.400 seguidores y 214.700 me gusta y Nova Casa (romántica juvenil) a 7.235 y 66.300, frente a la mayoría con menos de 1.000 seguidores: el manga y el young adult encajan mejor con el algoritmo (Alcalá-Pérez, 2024)."
+      },
+      {
+        "id": "13",
+        "label": "Media: 853 visualizaciones y 23 likes",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "Interacción reducida: medias de 853 visualizaciones (de menos de 100 a más de 6.000), 23 me gusta, 3,5 favoritos y 1,8 comentarios, con solo tres comparticiones; los contenidos resultan expositivos y poco orientados a la participación."
+      },
+      {
+        "id": "14",
+        "label": "Narrativa escaparate y formato book haul",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Predomina la exhibición del libro (portadas e interiores): 55 publicaciones tipo book haul, 109 títulos mencionados (58 de LIJ), 70% de tono positivo, 36 con percha temática y 49 vídeos con personas (61% protagonistas mujeres; 23 influencers externos; 19 autores e ilustradores)."
+      },
+      {
+        "id": "15",
+        "label": "Transposición de estrategias desde otras redes",
+        "color": "#e76f51",
+        "role": "Discusión",
+        "descripcion": "Los formatos expositivos trasladan a TikTok la lógica de Facebook e Instagram, dominantes en la comunicación editorial (Gómez-López y Hellín-Ortuño, 2019; Mihal y Saferstein, 2024; López-Verdejo et al., 2024), con uso marginal de audios virales, duos y retos propios de la cultura del remix (Francés, 2021)."
+      },
+      {
+        "id": "16",
+        "label": "Visibilidad según lenguaje nativo, no tamaño",
+        "color": "#f4a261",
+        "role": "Conclusiones",
+        "descripcion": "El algoritmo premia la adaptación al lenguaje de la plataforma: editoriales pequeñas y medianas logran engagement comparable o superior al de las grandes (Tobeña, 2020), lo que abre una oportunidad de democratizar la prescripción cultural mediante estrategias creativas y participativas."
+      },
+      {
+        "id": "17",
+        "label": "Limitaciones: período corto y representatividad",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "El corto período temporal y la variabilidad de la actividad impiden establecer tendencias concluyentes y la ausencia de grandes grupos corporativos condiciona la representatividad del sector. Futuras investigaciones deberían ampliar el corpus e incluir a los usuarios."
+      }
     ],
     "aristas": [
-      { "from": "4", "to": "1", "label": "impulsa la búsqueda de" },
-      { "from": "1", "to": "6", "label": "se ve lastrada por" },
-      { "from": "3", "to": "2", "label": "se fundamenta en" },
-      { "from": "2", "to": "10", "label": "transforma la" },
-      { "from": "5", "to": "3", "label": "encaja de forma óptima con" },
-      { "from": "6", "to": "8", "label": "resulta en" },
-      { "from": "7", "to": "3", "label": "es viralizado por" },
-      { "from": "9", "to": "1", "label": "debe ser incorporada en" },
-      { "from": "10", "to": "5", "label": "potencia el consumo de" },
-      { "from": "9", "to": "8", "label": "incrementa notablemente las" }
+      {
+        "from": "1",
+        "to": "2",
+        "label": "posibilita el surgimiento de la"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "desemboca en la comunidad de"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "justifica el"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "presiona para responder al"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se abordó con el"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "delimita el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se codificó con la"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "revela una"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "evidencia la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "constata la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "identifica el"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "cuantifica una"
+      },
+      {
+        "from": "8",
+        "to": "14",
+        "label": "describe la"
+      },
+      {
+        "from": "3",
+        "to": "9",
+        "label": "convive con la"
+      },
+      {
+        "from": "9",
+        "to": "15",
+        "label": "ratifica la"
+      },
+      {
+        "from": "11",
+        "to": "15",
+        "label": "confirma la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "expresa una"
+      },
+      {
+        "from": "12",
+        "to": "16",
+        "label": "demuestra que la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "contrasta con la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "matiza el potencial de la"
+      },
+      {
+        "from": "17",
+        "to": "16",
+        "label": "acota la generalización de la"
+      },
+      {
+        "from": "17",
+        "to": "9",
+        "label": "condiciona la lectura de la"
+      }
     ]
   }
 }

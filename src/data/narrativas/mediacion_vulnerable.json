@@ -12,9 +12,9 @@
     "color": "#5b9eaa",
     "colorAlt": "#2a5a75",
     "bg": "from-sky-400/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-10.png",
+    "image": "/assets/portadas/mediacion_vulnerable.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-10.png",
+      "image": "/assets/portadas/mediacion_vulnerable.jpg",
       "name": "Mg. Fernanda-Carolina Cortés-Merino",
       "role": "Especialista en Alfabetización Temprana y Familia, Universidad Católica de la Santísima Concepción (Chile)"
     }
@@ -23,7 +23,7 @@
     "apertura": {
       "personaje": "Mg. Fernanda-Carolina Cortés-Merino, educadora de párvulos e investigadora en alfabetización emergente",
       "gancho": "¿Se aprende a leer en la escuela o en las rodillas de quienes nos cuentan un cuento antes de dormir?",
-      "contexto": "En la educación infantil chilena, donde el Índice de Vulnerabilidad Escolar (IVE) supera con frecuencia el 80% en los sectores populares, la brecha lectora no se abre en la primaria: comienza mucho antes de que el niño pise la escuela. La ciencia cognitiva ha demostrado que el éxito lector futuro descansa en tres pilares prelectores: la conciencia fonológica, la velocidad de denominación rápida (RAN) y el conocimiento de las letras del alfabeto. Pero estos cimientos no se construyen rellenando fichas escolares, sino mediante la mediación afectiva en el hogar. Esta investigación indaga en las casas de párvulos en contextos de alta vulnerabilidad para visibilizar una dolorosa encrucijada: las familias aman a sus hijos pero las rutinas que más aceleran su aprendizaje son precisamente las que menos tiempo y recursos tienen para realizar.",
+      "contexto": "En la educación infantil chilena, donde el Índice de Vulnerabilidad Escolar (IVE) alcanza el 79% en los establecimientos públicos, la brecha lectora no se abre en la primaria: comienza mucho antes de que el niño pise la escuela. La ciencia cognitiva ha demostrado que el éxito lector futuro descansa en tres pilares prelectores: la conciencia fonológica, la velocidad de denominación rápida (RAN) y el conocimiento de las letras del alfabeto. Pero estos cimientos no se construyen rellenando fichas escolares, sino mediante la mediación afectiva en el hogar. Esta investigación indaga en las casas de párvulos en contextos de alta vulnerabilidad para visibilizar una dolorosa encrucijada: las familias aman a sus hijos pero las rutinas que más aceleran su aprendizaje son precisamente las que menos tiempo y recursos tienen para realizar.",
       "deepDives": [
         {
           "id": "med-apertura-1",
@@ -41,7 +41,7 @@
           "id": "med-apertura-3",
           "triggerLabel": "El Índice de Vulnerabilidad Escolar (IVE) en Chile",
           "type": "data",
-          "content": "El IVE es un indicador multidimensional que mide el riesgo socioeducativo considerando ingresos del hogar, escolaridad materna, hacinamiento y acceso a servicios básicos, afectando al 80-90% de la matrícula en escuelas públicas periféricas."
+          "content": "El IVE es un indicador multidimensional que mide el riesgo socioeducativo considerando ingresos del hogar, escolaridad materna, hacinamiento y acceso a servicios básicos, alcanzando el 79% de la matrícula en establecimientos públicos."
         }
       ]
     },
@@ -49,13 +49,13 @@
       "problema": "Las familias de sectores vulnerables enfrentan barreras estructurales (jornadas laborales extenuantes, baja escolaridad parental y carencia de bibliotecas en casa) que reducen los momentos de interacción lectora compartida. La investigación se pregunta: ¿cuáles son las prácticas reales de mediación en estos hogares y cómo se relacionan estadísticamente con el desarrollo prelector de los párvulos?",
       "porQueImporta": "Cuando un niño llega a primer año básico sin conciencia fonológica ni velocidad de denominación, la brecha de desigualdad se vuelve casi irreversible. La escuela no puede culpar a las familias vulnerables: debe diseñar políticas públicas de alfabetización familiar comunitaria que lleven libros y andamiajes a los hogares.",
       "dataPoints": [
-        "Muestra de niños y familias en escuelas de alta vulnerabilidad socioeconómica (IVE > 80%) en Chile.",
-        "Evaluación directa a párvulos mediante la batería estandarizada ABCDeti (Soto et al., 2021).",
-        "Cuestionario de mediación lectora familiar estructurado en 15 prácticas cotidianas.",
+        "Muestra de niños y familias en escuelas de alta vulnerabilidad socioeconómica (IVE igual o superior al 75%) en Chile.",
+        "Evaluación directa a párvulos mediante la prueba ABCDeti (CEDETI UC; Rosas-Díaz et al., 2011).",
+        "Cuestionario de mediación lectora familiar adaptado a 13 prácticas cotidianas.",
         "Análisis estadístico no paramétrico de correlación de Spearman en software Jamovi.",
         "Ocho correlaciones positivas y estadísticamente significativas identificadas entre mediación y habilidades infantiles.",
-        "Paradoja detectada: la lectura compartida de cuentos correlaciona significativamente con la conciencia fonológica, pero el 65% de las familias reporta hacerla 'rara vez' o 'nunca'.",
-        "La exposición a canciones y rimas musicales mostró la asociación más fuerte con la velocidad de denominación rápida (RAN)."
+        "Paradoja detectada: la lectura compartida de cuentos correlaciona significativamente con la conciencia fonológica, pero la mayoría de las familias la realiza 'rara vez' (un tercio de los casos).",
+        "La asistencia a conciertos musicales mostró una asociación significativa con la velocidad de denominación (RAN)."
       ],
       "glossary": [
         {
@@ -84,10 +84,22 @@
       "titulo": "Ruta metodológica: Evaluación de campo con ABCDeti y cuestionario familiar",
       "narrativa": "Bajo un diseño cuantitativo, correlacional, transversal y no experimental, las investigadoras evaluaron tanto a los niños como a sus cuidadores principales. Los párvulos fueron evaluados individualmente en sus escuelas con la batería ABCDeti mediante tareas de reconocimiento de letras, segmentación silábica y denominación rápida de colores y figuras, mientras que los padres respondieron un cuestionario sobre frecuencia de prácticas mediadoras en escala Likert.",
       "detalles": [
-        { "label": "Población", "value": "Párvulos de Kínder (5 a 6 años) y sus familias en colegios con IVE superior al 80% en la Región del Biobío, Chile." },
-        { "label": "Prueba a Niños", "value": "Batería ABCDeti (Soto et al., 2021): Conciencia fonológica, conocimiento del alfabeto y denominación rápida (RAN)." },
-        { "label": "Prueba a Familias", "value": "Cuestionario de Prácticas de Mediación Lectora Familiar validado por juicio de expertos." },
-        { "label": "Tratamiento de Datos", "value": "Software Jamovi: análisis descriptivo de frecuencias y coeficiente de correlación por rangos de Spearman (rho)." }
+        {
+          "label": "Población",
+          "value": "96 párvulos de NT2 (5 a 6 años) y sus familias en seis colegios con IVE igual o superior al 75% en la Región del Biobío, Chile."
+        },
+        {
+          "label": "Prueba a Niños",
+          "value": "Prueba ABCDeti (CEDETI UC; Rosas-Díaz et al., 2011): conciencia fonológica, conocimiento del alfabeto y denominación rápida (RAN)."
+        },
+        {
+          "label": "Prueba a Familias",
+          "value": "Cuestionario de Prácticas de Mediación Lectora Familiar validado por juicio de expertos."
+        },
+        {
+          "label": "Tratamiento de Datos",
+          "value": "Software Jamovi: análisis descriptivo de frecuencias y coeficiente de correlación por rangos de Spearman (rho)."
+        }
       ],
       "limitaciones": [
         "Muestra focalizada en un territorio específico, lo que limita la extrapolación a familias rurales o de otros estratos socioeconómicos.",
@@ -102,7 +114,7 @@
       "hallazgos": [
         {
           "label": "1. Baja Frecuencia de Lectura en Casa",
-          "value": "La mayoría de los hogares reporta leer cuentos a sus hijos menos de una vez por semana o de forma excepcional. Las actividades predominantes son ver videos en el televisor o jugar con teléfonos móviles."
+          "value": "La mayoría de los hogares reporta leer cuentos a sus hijos menos de una vez por semana o de forma excepcional. Las actividades predominantes son rutinarias o de exposición visual: nombrar objetos del hogar, identificar letreros y logos y reconocer letras del abecedario en textos escritos."
         },
         {
           "label": "2. Cuentos y Conciencia Fonológica",
@@ -110,7 +122,7 @@
         },
         {
           "label": "3. Canciones, Rimas y Velocidad de Denominación",
-          "value": "Cantar canciones infantiles y jugar con rimas en el hogar correlacionó intensamente con la velocidad de denominación rápida (RAN), demostrando que la musicalidad lingüística acelera los circuitos de acceso léxico."
+          "value": "La asistencia a conciertos musicales correlacionó de forma significativa con la velocidad de denominación (RAN), un vínculo no tradicional atribuible al procesamiento auditivo y rítmico asociado a la música."
         },
         {
           "label": "4. La Paradoja de la Vulnerabilidad",
@@ -119,8 +131,8 @@
       ],
       "dataPoints": [
         "8 correlaciones bivariadas significativas encontradas entre prácticas de mediación y dimensiones de ABCDeti (p < .05).",
-        "La disponibilidad física de libros infantiles en el hogar apenas promedia entre 3 y 5 ejemplares por familia en los sectores evaluados.",
-        "El 70% de las madres encuestadas expresó que desearía leer más con sus hijos, pero la jornada laboral y las tareas del hogar les impiden hacerlo con regularidad."
+        "El 55,2% del estudiantado presenta una velocidad de denominación lenta o muy lenta: entre 11 y 20 segundos para nombrar una secuencia de seis objetos.",
+        "Solo el 5% de las familias 'le lee cuentos antes de dormir' y el 6% 'lee cuentos en conjunto' la mayoría de los días de la semana; un tercio lo hace 'rara vez'."
       ],
       "reflexion": "No estamos ante familias que no quieran educar a sus hijos, sino ante familias atrapadas en la precariedad de tiempo. La solución no es juzgarlas, sino dotarlas de recursos."
     },
@@ -138,7 +150,7 @@
         },
         {
           "label": "Capacitación en Mediación para Padres",
-          "value": "Muchas familias creen que mediar es solo leer de corrido. Talleres breves de 'lectura dialógica' (enseñar a hacer preguntas sobre las imágenes) triplican el impacto del cuento en el vocabulario infantil (Canfield et al., 2020)."
+          "value": "Muchas familias creen que mediar es solo leer de corrido. Talleres breves de 'lectura dialógica' (enseñar a hacer preguntas sobre las imágenes) fortalecen el impacto del cuento en el lenguaje y el vocabulario infantil (Canfield et al., 2020)."
         },
         {
           "label": "Políticas Públicas de Cuidado y Tiempo",
@@ -149,14 +161,14 @@
     },
     "nucleo": {
       "pregunta": "¿Cómo impacta la mediación lectora familiar en las habilidades prelectoras de párvulos en contextos vulnerables?",
-      "conclusion": "El estudio evidencia que las prácticas de mediación lectora en el hogar —particularmente la lectura compartida de cuentos y la exposición a canciones y rimas— guardan una correlación positiva y significativa con el desarrollo de habilidades prelectoras fundamentales como la conciencia fonológica y la velocidad de denominación rápida (RAN) en párvulos de escuelas vulnerables. Sin embargo, se constata una dolorosa paradoja: las actividades con mayor impacto cognitivo son precisamente las que las familias vulnerables realizan con menor frecuencia debido a la escasez de libros y a la precariedad del tiempo familiar. Para cerrar la brecha de desigualdad, las políticas educativas deben implementar programas de alfabetización familiar comunitaria, dotar de bibliotecas itinerantes a los hogares y capacitar a las familias en mediación afectiva no escolarizada.",
+      "conclusion": "El estudio evidencia que las prácticas de mediación lectora en el hogar —particularmente la lectura compartida de cuentos y la exposición a canciones y rimas— guardan una correlación positiva y significativa con el desarrollo de habilidades prelectoras fundamentales como la conciencia fonológica y la velocidad de denominación rápida (RAN) en párvulos de escuelas vulnerables. Sin embargo, se constata una dolorosa paradoja: las actividades con mayor impacto cognitivo son precisamente las que las familias vulnerables no llegan a priorizar. Para cerrar la brecha de desigualdad, las políticas educativas deben implementar programas de alfabetización familiar comunitaria, dotar de bibliotecas itinerantes a los hogares y capacitar a las familias en mediación afectiva no escolarizada.",
       "formalRef": "Cortés-Merino, F. C., & Soto-Muñoz, M. E. (2026). Mediación lectora en familias vulnerables y desarrollo de habilidades prelectoras en párvulos. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.615"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "En el estudio de Cortés-Merino y Soto-Muñoz (2026), ¿con qué habilidad prelectora infantil correlacionó de forma más intensa la exposición a canciones y rimas musicales en el hogar?",
+          "q": "En el estudio de Cortés-Merino y Soto-Muñoz (2026), ¿con qué habilidad prelectora infantil correlacionó de forma significativa la asistencia a conciertos musicales en el hogar?",
           "options": [
             "Con la caligrafía en cuaderno de doble línea.",
             "Con la velocidad de denominación rápida (RAN).",
@@ -204,7 +216,7 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "La paradoja es estremecedora: lo que más ayuda a los niños a leer es justo lo que las familias menos pueden hacer por falta de tiempo y libros.",
+      "text": "La paradoja es estremecedora: lo que más ayuda a los niños a leer es justo lo que las familias no llegan a priorizar en su rutina diaria.",
       "position": "bottom-right"
     },
     "viaje": {
@@ -212,7 +224,7 @@
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Escucha esto! Cantar rimas y nanas acelera la velocidad de denominación, y leer cuentos construye la conciencia de los sonidos en el cerebro infantil.",
+      "text": "¡Escucha esto! La asistencia a conciertos musicales se asocia con la velocidad de denominación, y leer cuentos en conjunto construye la conciencia de los sonidos en el cerebro infantil.",
       "position": "bottom-right"
     },
     "marco": {
@@ -233,31 +245,240 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Mediación Lectora Familiar y Alfabetización Emergente",
-    "descripcion": "Relaciones entre el contexto socioeconómico vulnerable, las prácticas de lectura compartida en el hogar y los predictores cognitivos del aprendizaje lector.",
+    "titulo": "Mapa conceptual: Mediación lectora familiar y habilidades prelectoras en familias vulnerables (Ocnos 25(2) 2026)",
+    "descripcion": "Recorre el artículo desde los predictores del NELP y la alfabetización emergente, pasando por el diseño correlacional con ABCDeti y CSDAE aplicado a 96 familias del Biobío, hasta las ocho correlaciones significativas, la paradoja de las prácticas más influyentes realizadas «rara vez», las implicancias educativas y las limitaciones.",
     "nodos": [
-      { "id": "1", "label": "Alfabetización Emergente", "color": "#5b9eaa" },
-      { "id": "2", "label": "Mediación Lectora Familiar", "color": "#2a5a75" },
-      { "id": "3", "label": "Vulnerabilidad Escolar (IVE > 80%)", "color": "#e76f51" },
-      { "id": "4", "label": "Conciencia Fonológica", "color": "#88b04b" },
-      { "id": "5", "label": "Velocidad de Denominación (RAN)", "color": "#f4d068" },
-      { "id": "6", "label": "Conocimiento del Alfabeto", "color": "#9b82c3" },
-      { "id": "7", "label": "Lectura Compartida de Cuentos", "color": "#e88b8c" },
-      { "id": "8", "label": "Música, Rimas y Canciones", "color": "#2a9d8f" },
-      { "id": "9", "label": "La Paradoja de la Frecuencia", "color": "#f4a261" },
-      { "id": "10", "label": "Bibliotecas Familiares Comunitarias", "color": "#264653" }
+      {
+        "id": "1",
+        "label": "Predictores lectores tempranos (NELP)",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "El National Early Literacy Panel (2008) y Soto et al. (2021) identifican tres habilidades predictoras del desempeño lector: conciencia fonológica, velocidad de denominación y conocimiento del alfabeto. Son el foco evaluado en párvulos de Nivel Transición 2."
+      },
+      {
+        "id": "2",
+        "label": "Alfabetización emergente en el hogar",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Según Whitehurst y Lonigan (1998), la lectura y la escritura se adquieren inicialmente en contextos cotidianos y no formales, antes de la instrucción. En Chile la enseñanza formal de la lectura recién comienza en los niveles de transición (Ramírez-Leyva, 2009)."
+      },
+      {
+        "id": "3",
+        "label": "Mediación lectora familiar afectiva",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "A través de la mediación lectora, los padres acercan a los niños al lenguaje escrito con componentes afectivos, emocionales y motivacionales (Saldaña-Gómez et al., 2020; Munita-Jordán, 2021). La lectura compartida incide positivamente en las futuras habilidades lectoras (Canfield et al., 2020; Izquierdo-Rus et al., 2019)."
+      },
+      {
+        "id": "4",
+        "label": "Vulnerabilidad educativa en Chile",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "El IVE alcanza el 79% en establecimientos públicos (JUNAEB, 2023), en clases D y E más del 60% de los padres no completó la escolaridad (AIM Chile, 2023) y el SIMCE 2022 muestra una brecha de 55 puntos entre grupos socioeconómicos extremos."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo sobre prácticas y habilidades",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "Analizar las prácticas de mediación lectora de familias vulnerables y su relación con la conciencia fonológica, la velocidad de denominación y el conocimiento del alfabeto en estudiantes NT2 de la Región del Biobío. Cubre un vacío en la literatura nacional sobre qué prácticas son más efectivas."
+      },
+      {
+        "id": "6",
+        "label": "Diseño correlacional transversal con Spearman",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Paradigma positivista, enfoque no experimental y transversal, correlacional simple (Ato et al., 2013; Hernández-Sampieri y Mendoza-Torres, 2018). La prueba de Shapiro-Wilk mostró asimetría en la mayoría de las variables, por lo que se estimaron correlaciones de Spearman en el software Jamovi."
+      },
+      {
+        "id": "7",
+        "label": "Muestra de 96 familias NT2",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Muestreo no probabilístico intencional: 96 niños de NT2 y sus familias de seis establecimientos de la Región del Biobío con IVE igual o superior al 75%, adheridos al proyecto Fondecyt 11230995. Se excluyeron estudiantes con NEE, trastornos de aprendizaje y hogares de menores."
+      },
+      {
+        "id": "8",
+        "label": "Prueba ABCDeti de CEDETI",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Evaluación individual computarizada de competencia lectora inicial (Rosas-Díaz et al., 2011), aplicada en mayo de 2024 por dos evaluadoras capacitadas. Mide conciencia fonológica (0-32), conocimiento del alfabeto (0-10) y velocidad de denominación, con niveles de intervención, proceso y esperado."
+      },
+      {
+        "id": "9",
+        "label": "Cuestionario CSDAE adaptado",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Cuestionario socio-familiar de los dominios de alfabetización emergente (Manosalba-Torres y Arancibia-Gutiérrez, 2021), en la dimensión Actividades de Aprendizaje en el Hogar. Se adaptó a 13 ítems con escala Likert de 1 («rara vez») a 5 («la mayoría de los días de la semana»)."
+      },
+      {
+        "id": "10",
+        "label": "Prácticas rutinarias de alta frecuencia",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Las familias priorizan actividades rutinarias o de exposición visual: nombrar objetos del hogar (M=4,27), identificar letreros y logos (M=4,02) y reconocer letras del abecedario en textos (M=3,96), realizadas la mayoría de los días."
+      },
+      {
+        "id": "11",
+        "label": "Lectura compartida realizada rara vez",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Solo el 5% de las familias «le leer cuentos» y el 6% «leer cuentos en conjunto» la mayoría de los días; un tercio las hace rara vez. Las frecuencias más bajas son asistir a conciertos (M=1,34), rimas cortas (M=2,26) y leer cuentos (M=2,53-2,59)."
+      },
+      {
+        "id": "12",
+        "label": "Ocho correlaciones positivas débiles",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "De doce cifras, se consideraron ocho correlaciones significativas (p<.05, rho .205-.238): leer cuentos en conjunto con reconocer la sílaba final (rho=.213), y reconocer títulos y autores con la segmentación silábica (rho=.221) y con grafemas y nombre de letras (PA2/PA3)."
+      },
+      {
+        "id": "13",
+        "label": "Música asociada a velocidad de denominación",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "La asistencia a conciertos musicales se correlaciona con la velocidad de denominación (rho=.218), un vínculo no tradicional atribuible al procesamiento auditivo y rítmico. Cantar o recitar poesías se asocia al conocimiento de grafemas (rho=.205)."
+      },
+      {
+        "id": "14",
+        "label": "Denominación lenta en 55,2%",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "El 55,2% del grupo (16,7% muy lenta, 38,5% lenta) tarda entre 11 y 20 segundos en nombrar seis objetos; solo el 17,7% es rápido. En cambio, el 94,8% está «en proceso» en conciencia fonológica y el 56,3% en conocimiento del alfabeto."
+      },
+      {
+        "id": "15",
+        "label": "Paradoja de la frecuencia",
+        "color": "#e76f51",
+        "role": "Discusión",
+        "descripcion": "El hallazgo central: las prácticas con correlaciones positivas más fuertes con el desarrollo prelector son justamente las que las familias vulnerables realizan «rara vez». La baja lectura compartida concuerda con Strasser y Lissi (2009) y Susperreguy et al. (2007)."
+      },
+      {
+        "id": "16",
+        "label": "Talleres parentales y omisión curricular",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "Se concluye incentivando la lectura compartida, explorando la exposición musical e interviniendo con talleres y guías para padres. La velocidad de denominación, clave como predictor de fluidez, muestra una omisión curricular en Educación Parvularia que exige reformular los planes (González-Seijas et al., 2013; Pujals et al., 2019)."
+      },
+      {
+        "id": "17",
+        "label": "Limitaciones: muestra y adaptación del CSDAE",
+        "color": "#f4a261",
+        "role": "Limitaciones",
+        "descripcion": "La muestra se restringe a establecimientos públicos de alta vulnerabilidad, impidiendo comparar con colegios particulares o de menor riesgo. La adaptación del CSDAE obligó a omitir ítems, y se proyecta un instrumento más específico y una muestra ampliada."
+      }
     ],
     "aristas": [
-      { "from": "2", "to": "1", "label": "constituye el pilar de la" },
-      { "from": "3", "to": "9", "label": "provoca directamente la" },
-      { "from": "7", "to": "4", "label": "potencia fuertemente la" },
-      { "from": "8", "to": "5", "label": "acelera de forma clave la" },
-      { "from": "1", "to": "6", "label": "facilita el dominio del" },
-      { "from": "9", "to": "7", "label": "reduce al mínimo la" },
-      { "from": "10", "to": "3", "label": "mitiga las barreras de la" },
-      { "from": "10", "to": "7", "label": "garantiza el acceso a la" },
-      { "from": "4", "to": "6", "label": "se articula con el" },
-      { "from": "2", "to": "8", "label": "incorpora la tradición oral de" }
+      {
+        "from": "2",
+        "to": "3",
+        "label": "reconoce el valor de la"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "delimita las habilidades del"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "motiva el"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "contextualiza el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se aborda desde el"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se aplicó a la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "fue evaluada con la"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "fue encuestada con el"
+      },
+      {
+        "from": "6",
+        "to": "12",
+        "label": "los análisis estimaron las"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "los ítems registraron las"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "las escalas revelaron la rareza de la"
+      },
+      {
+        "from": "8",
+        "to": "14",
+        "label": "la prueba detectó la"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "contrastan con la escasez de la"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "destaca además la"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "dialoga con la"
+      },
+      {
+        "from": "11",
+        "to": "15",
+        "label": "expone la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "sustenta la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "demanda las"
+      },
+      {
+        "from": "16",
+        "to": "1",
+        "label": "apunta a fortalecer los"
+      },
+      {
+        "from": "16",
+        "to": "13",
+        "label": "insta a aprovechar la"
+      },
+      {
+        "from": "17",
+        "to": "6",
+        "label": "restringe la proyección del"
+      },
+      {
+        "from": "17",
+        "to": "9",
+        "label": "condicionó la adaptación del"
+      }
     ]
   }
 }

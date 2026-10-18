@@ -1,0 +1,377 @@
+{
+  "id": "evaluacion_creatividad_apps_relatos_digitales_primaria",
+  "metadata": {
+    "id": "evaluacion_creatividad_apps_relatos_digitales_primaria",
+    "title": "Evaluación de la potencialidad creativa de aplicaciones móviles creadoras de relatos digitales para Educación Primaria",
+    "authors": [
+      "M. Esther Del-Moral",
+      "M. Carmen Bellver",
+      "Alba-Patricia Guzmán-Duque"
+    ],
+    "year": 2019,
+    "volume": "18",
+    "issue": "1",
+    "pages": "7-20",
+    "doi": "10.18239/ocnos_2019.18.1.1866",
+    "keywords": [
+      "relatos digitales",
+      "creatividad infantil",
+      "aplicaciones móviles",
+      "educación primaria",
+      "CREAPP K6-12"
+    ],
+    "abstract": "Evaluación de la potencialidad creativa de 20 apps móviles gratuitas para diseño de relatos digitales (DST) en escolares de 6 a 12 años mediante el instrumento CREAPP K6-12, aportando un ranking de competitividad para el profesorado."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo distinguir entre aplicaciones móviles que solo facilitan la edición técnica y aquellas que estimulan verdaderamente la creatividad narrativa de los niños? Este estudio evalúa 20 apps de relatos digitales mediante el instrumento CREAPP K6-12 para orientar la selección docente en Educación Primaria.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de evaluación tecnopedagógica:",
+        "opciones": [
+          {
+            "id": "evaluativa",
+            "texto": "Marco evaluativo: dimensiones e indicadores de CREAPP K6-12"
+          },
+          {
+            "id": "ranking",
+            "texto": "Ranking de competitividad y análisis comparativo de apps"
+          },
+          {
+            "id": "didactica",
+            "texto": "Criterios de integración del digital storytelling en el aula"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "El mercado de aplicaciones educativas para dispositivos móviles prolifera sin filtros pedagógicos claros. Muchas herramientas publicitadas como creativas restringen la agencia infantil a plantillas rígidas, limitando la originalidad, la toma de decisiones estéticas y la construcción autónoma de relatos.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué rasgo distingue a una aplicación móvil con alta potencialidad creativa?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Permite al escolar personalizar personajes y escenarios, manipular múltiples modos semióticos y divergir sin restricciones mecánicas.",
+            "correcta": true,
+            "explicacion": "Exacto: la flexibilidad semiótica y la apertura estructural son indispensables para que se activen el pensamiento divergente y la inventiva."
+          },
+          {
+            "id": "c2",
+            "texto": "Ofrece una plantilla cerrada donde solo se completan huecos preestablecidos con rapidez.",
+            "correcta": false,
+            "explicacion": "Las plantillas cerradas agilizan el producto pero anulan el proceso creativo genuino."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Las autoras diseñaron y aplicaron la herramienta CREAPP K6-12, compuesta por 48 indicadores distribuidos en seis dimensiones (originalidad, fluidez, flexibilidad, elaboración, conectividad y comunicabilidad). Evaluaron 20 apps accesibles y gratuitas para 6-12 años mediante juicio de expertos y análisis factorial.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestreo de apps",
+            "detalle": "Selección de 20 aplicaciones móviles gratuitas y operativas para creación de historias."
+          },
+          {
+            "fase": "Diseño instrumental",
+            "detalle": "Creación de CREAPP K6-12 con 48 indicadores analíticos y validación psicométrica."
+          },
+          {
+            "fase": "Evaluación experta",
+            "detalle": "Calificación ponderada en escala Likert por parte de evaluadores especializados en tecnología educativa."
+          },
+          {
+            "fase": "Índice y ranking",
+            "detalle": "Cálculo del índice de potencialidad creativa y clasificación jerárquica de competitividad."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados revelaron una marcada dispersión en el potencial creativo de las herramientas. Apps como Toontastic 3D, Puppet Pals y CreAPPcuentos lideraron el ranking por su soporte multimodal abierto, mientras que muchas aplicaciones populares quedaron rezagadas por limitar la flexibilidad compositiva.",
+      "datos_clave": [
+        "Evaluación rigurosa de 20 aplicaciones móviles de narración digital infantil.",
+        "Instrumento CREAPP K6-12 con 48 indicadores y 6 dimensiones de creatividad.",
+        "Diferenciación nítida entre apps de consumo cerrado y entornos de co-creación abierta.",
+        "Guía empírica de prescripción y selección tecnológica para profesorado de Primaria."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El estudio articula los modelos clásicos de creatividad de Torrance y Guilford con los paradigmas contemporáneos de narración digital (digital storytelling, DST) de Robin y Lambert y la alfabetización multimodal de Jewitt y Kress.",
+      "referencias_clave": [
+        "Torrance (1974)",
+        "Guilford (1950)",
+        "Robin (2008)",
+        "Del-Moral et al. (2018)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El digital storytelling en Primaria solo se convierte en un motor de desarrollo cognitivo si los docentes seleccionan aplicaciones móviles cuya arquitectura técnica incentive la divergencia, la invención multimodal y la autonomía narrativa del niño.",
+      "hallazgo_central": "El instrumento CREAPP K6-12 permite discriminar con rigor psicométrico la potencialidad creativa de apps de relato digital, demostrando que la apertura semiótica es clave para la inventiva escolar."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja la dimensión de creatividad con su indicador técnico en apps:",
+          "pares": [
+            {
+              "concepto": "Flexibilidad compositiva",
+              "definicion": "Capacidad de combinar imagen, texto propio, audio grabado y efectos sonoros libres."
+            },
+            {
+              "concepto": "Originalidad narrativa",
+              "definicion": "Posibilidad de crear escenarios y personajes inéditos sin encasillarse en plantillas fijas."
+            },
+            {
+              "concepto": "Comunicabilidad y difusión",
+              "definicion": "Opciones de exportación, reproducción y socialización del relato digital elaborado."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Evaluación de la Creatividad en Apps de Relato Digital",
+      "descripcion": "Estructura tecnopedagógica de las dimensiones evaluativas y potencial creativo de apps para Educación Primaria.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Potencial Creativo de Apps de Relato",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo principal: evaluar y comparar de manera empírica la potencialidad creativa de aplicaciones móviles para la creación de relatos digitales (DST) en Educación Primaria mediante un instrumento validado."
+        },
+        {
+          "id": "2",
+          "label": "Educación Primaria y Sensibilidad Creativa",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Etapa evolutiva fundamental entre 6 y 12 años considerada un período crítico para estimular las habilidades de pensamiento divergente, imaginación y expresión narrativa autónoma del alumnado."
+        },
+        {
+          "id": "3",
+          "label": "Digital Storytelling (DST) Educativo",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Metodología pedagógica centrada en la producción de narrativas digitales que integran modos verbales, sonoros y visuales para articular una estructura dramática coherente con sentido propio."
+        },
+        {
+          "id": "4",
+          "label": "Dimensiones Clásicas de la Creatividad",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Fundamentación psicológica basada en Guilford y Torrance que descompone el constructo creativo en originalidad, fluidez productiva, flexibilidad cognitiva, elaboración estética y comunicabilidad."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 20 Apps Móviles Gratuitas",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Selección empírica de 20 aplicaciones móviles gratuitas disponibles en tiendas digitales para sistemas Android e iOS orientadas específicamente a la creación de cuentos infantiles."
+        },
+        {
+          "id": "6",
+          "label": "Instrumento CREAPP K6-12",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Herramienta de evaluación ad hoc validada por juicio de expertos y análisis factorial, articulada en 48 indicadores analíticos medidos en escala Likert graduada de uno a cuatro puntos."
+        },
+        {
+          "id": "7",
+          "label": "Evaluación Experta y Análisis Factorial",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Procedimiento de calificación colegiada por especialistas en tecnología educativa que garantizó una alta consistencia interna y fiabilidad métrica en la valoración de cada aplicación."
+        },
+        {
+          "id": "8",
+          "label": "Índice de Potenciación Creativa",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Métrica sintética cuantitativa obtenida por cada app que pondera su capacidad efectiva para estimular procesos de divergencia semiótica frente a meras interfaces de ejecución técnica."
+        },
+        {
+          "id": "9",
+          "label": "Ranking Jerárquico de Competitividad",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Clasificación comparativa del conjunto muestral que situó en los puestos superiores a herramientas como Toontastic 3D, Puppet Pals y CreAPPcuentos por su riqueza expresiva."
+        },
+        {
+          "id": "10",
+          "label": "Limitaciones de Plantillas Cerradas",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación empírica de que una porción considerable de apps restringe severamente la creatividad infantil al constreñir las decisiones a marcos predeterminados e inmodificables."
+        },
+        {
+          "id": "11",
+          "label": "Facilidad Técnica versus Creatividad",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Debate en torno a la confusión recurrente en los centros escolares entre herramientas amigables que facilitan un acabado visual rápido y entornos que provocan verdadero desafío cognitivo."
+        },
+        {
+          "id": "12",
+          "label": "Agencia Infantil y Alfabetización Multimodal",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión pedagógica sobre la necesidad de empoderar a los escolares como autores y prosumidores activos capaces de diseñar sus propios recursos visuales, orales y textuales."
+        },
+        {
+          "id": "13",
+          "label": "Criterios de Selección Tecnopedagógica",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación directa para maestros: utilizar el marco CREAPP K6-12 para auditar recursos digitales antes de integrarlos en las secuencias didácticas de lengua y comunicación."
+        },
+        {
+          "id": "14",
+          "label": "Formación Docente en Curaduría Digital",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta de capacitar al profesorado en criterios científicos de curaduría de software educativo, trascendiendo el atractivo estético o la publicidad de las empresas tecnológicas."
+        },
+        {
+          "id": "15",
+          "label": "Fomento del Pensamiento Divergente",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión global: el potencial transformador de las tecnologías móviles en la escuela reside en su capacidad para abrir preguntas imprevistas y expandir los horizontes creativos de los niños."
+        },
+        {
+          "id": "16",
+          "label": "Mercado Tecnológico Cambiante",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación intrínseca a la rápida obsolescencia del ecosistema de aplicaciones móviles, lo que exige actualizaciones periódicas del banco de apps evaluadas y sus versiones disponibles."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se sitúa en la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga con"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se dinamiza mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se fundamenta en las"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se operativiza en"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "es evaluada por"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se valida mediante"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "produce el"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "se plasma en el"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "identifica las"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "alimenta la discusión de"
+        },
+        {
+          "from": "10",
+          "to": "11",
+          "label": "demuestra la tensión de"
+        },
+        {
+          "from": "11",
+          "to": "12",
+          "label": "exige potenciar la"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "proporciona base a los"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "requiere fortalecer la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "conduce hacia el"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "garantiza el"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "presenta como condición crítica"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "está sujeta al"
+        },
+        {
+          "from": "4",
+          "to": "8",
+          "label": "sirve de patrón a"
+        },
+        {
+          "from": "3",
+          "to": "12",
+          "label": "consolida la"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Del-Moral, Bellver y Guzmán-Duque nos advierten con lucidez que la tecnología en el aula solo humaniza si abre posibilidades insólitas. Una pantalla que encasilla al niño en opciones predeterminadas es un molde mecánico; una pantalla que le invita a narrar su voz es un lienzo creador.",
+      "preguntas_guiadas": [
+        "¿Qué aplicaciones utilizas en el aula o en tu trabajo que verdaderamente favorezcan la invención libre y no el copiado?",
+        "¿Cómo pueden evaluarse los procesos creativos de los escolares más allá del producto audiovisual final?"
+      ]
+    }
+  }
+}

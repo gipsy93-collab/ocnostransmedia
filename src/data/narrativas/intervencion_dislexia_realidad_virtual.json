@@ -1,0 +1,502 @@
+{
+  "id": "intervencion_dislexia_realidad_virtual",
+  "metadata": {
+    "title": "Áreas de desarrollo para intervención en dislexia: una propuesta de realidad virtual",
+    "authors": "Sonia Rodríguez-Cano, Vanesa Delgado-Benito y Vanesa Ausín-Villaverde",
+    "year": "2022",
+    "journal": "Ocnos 21(1)",
+    "doi": "10.18239/ocnos_2022.21.1.2701",
+    "gancho": "¿Puede un videojuego inmersivo en 3D eliminar el miedo al error y rehabilitar la lectura en niños con dislexia?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#7209b7",
+    "colorAlt": "#3a0ca3",
+    "bg": "from-violet-600/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/dislexia-virtual/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-rodriguez/200/200",
+      "name": "Dra. Sonia Rodríguez-Cano",
+      "role": "Investigadora en Tecnología Educativa y Dificultades de Aprendizaje, Universidad de Burgos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Sonia Rodríguez-Cano, investigadora principal del proyecto europeo FORDYSVAR y experta en tecnología inclusiva",
+      "gancho": "¿Por qué los métodos tradicionales de reeducación lectora generan tanta ansiedad y rechazo en los niños con dislexia, y cómo unas gafas de realidad virtual pueden transformar su motivación?",
+      "contexto": "La dislexia es la dificultad específica de aprendizaje más prevalente en las aulas ordinarias, caracterizada por un déficit nuclear en el procesamiento fonológico que entorpece la decodificación y la fluidez lectora. Los tratamientos clásicos basados en fichas repetitivas suelen provocar frustración y abandono escolar. En el marco del proyecto europeo Erasmus+ FORDYSVAR, este estudio cualitativo transnacional aplica una metodología de Diseño Centrado en el Usuario (ISO 9241-210) con 30 participantes (especialistas, familias, docentes y escolares de 10-16 años de España, Italia y Rumanía) para definir las siete áreas esenciales de desarrollo que deben integrar los entornos inmersivos de realidad virtual.",
+      "deepDives": [
+        {
+          "id": "rv-apertura-1",
+          "triggerLabel": "El proyecto europeo Erasmus+ FORDYSVAR",
+          "type": "data",
+          "content": "Iniciativa europea multidisciplinar liderada por la Universidad de Burgos orientada a crear una herramienta software de realidad virtual gamificada y accesible para la detección e intervención temprana de la dislexia en menores de 10 a 16 años."
+        },
+        {
+          "id": "rv-apertura-2",
+          "triggerLabel": "La realidad virtual como entorno seguro de aprendizaje",
+          "type": "theory",
+          "content": "La inmersión tridimensional en RV proporciona una experiencia multisensorial interactiva donde el error se percibe como parte natural del juego lúdico sin juicio social negativo, eliminando la ansiedad y maximizando la adherencia terapéutica."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "A pesar de la proliferación de aplicaciones educativas móviles, existía una absoluta carencia de pautas científicas que tradujeran las necesidades reales de los escolares disléxicos, sus familias y sus terapeutas en especificaciones técnicas de intervención tridimensional en realidad virtual.",
+      "porQueImporta": "Diseñar videojuegos educativos sin fundamentación neuropsicológica ni consulta directa a los usuarios finales produce herramientas llamativas pero ineficaces que no estimulan los componentes fonológicos ni ejecutivos que la dislexia requiere.",
+      "dataPoints": [
+        "Metodología de Diseño Centrado en el Usuario (DCU) conforme al estándar internacional ISO 9241-210.",
+        "Muestra cualitativa transnacional de 30 informantes clave: España (12), Italia (9) y Rumanía (9).",
+        "Composición equilibrada de participantes: 9 especialistas (logopedas, psicólogos), 9 familias, 9 escolares diagnosticados (10-16 años) y 3 docentes.",
+        "Revisión sistemática previa en Scopus (últimos 10 años) seleccionando 21 investigaciones de alto impacto en ciencias sociales.",
+        "Panel de validación de 5 expertos españoles (3 especialistas en lenguaje y dislexia y 2 tecnólogos en realidad virtual).",
+        "Reducción inductiva rigurosa: de 10 categorías clínicas iniciales a 7 áreas maestras de desarrollo para el software inmersivo."
+      ],
+      "glossary": [
+        {
+          "term": "Diseño Centrado en el Usuario (DCU)",
+          "definition": "Enfoque metodológico de diseño de software que sitúa las necesidades, expectativas y limitaciones de los destinatarios finales en el centro de todas las fases de desarrollo iterativo."
+        },
+        {
+          "term": "Pseudopalabras",
+          "definition": "Secuencias silábicas bien estructuradas que carecen de significado real, obligando al lector a recurrir exclusivamente a la ruta fonológica subléxica sin apoyarse en la memoria visual."
+        },
+        {
+          "term": "Coordinación visomotora 3D",
+          "definition": "Capacidad para integrar la percepción espacial tridimensional con el movimiento físico de manos y cabeza al interactuar con objetos virtuales en tiempo real."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "rv-conflicto-1",
+          "triggerLabel": "El valor del juicio de expertos transnacional",
+          "type": "method",
+          "content": "Las entrevistas semiestructuradas originales en inglés se tradujeron y adaptaron culturalmente a los tres idiomas del consorcio, permitiendo contrastar cómo se aborda la dislexia en ortografías transparentes (español e italiano) frente al rumano."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Diseño centrado en el usuario e investigación cualitativa en dos fases",
+      "narrativa": "Las investigadoras articularon un proceso iterativo en dos fases consecutivas que garantizó la validez ecológica y clínica de las especificaciones pedagógicas:",
+      "detalles": [
+        {
+          "label": "Fase 1: Revisión y Entrevistas Semi-estructuradas",
+          "value": "Revisión documental en Scopus y diseño por consenso de guiones de entrevista administrados a 30 informantes hasta alcanzar la saturación teórica de datos."
+        },
+        {
+          "label": "Fase 2: Análisis de Contenido y Validación de Expertos",
+          "value": "Análisis temático inductivo con matrices de frecuencias y sombreado crítico por un panel de 5 expertos independientes (logopeda, PT, psicóloga y tecnólogos)."
+        },
+        {
+          "label": "Marco Normativo ISO 9241-210",
+          "value": "Ciclo iterativo en 3 pasos: comprender el contexto de uso, especificar requisitos pedagógicos y testar prototipos en entornos 3D interactivos."
+        }
+      ],
+      "limitaciones": [
+        "Estudio cualitativo de fase preliminar de diseño que define las áreas de intervención pero no mide aún la ganancia lectora tras el uso del software final.",
+        "La realidad virtual inmersiva basada en dispositivos digitales móviles aún tiene poco recorrido, por lo que se necesitan más estudios científicos que avalen su eficacia en el tratamiento de la dislexia."
+      ],
+      "reflexion": "¿Por qué es imprescindible que un niño de 12 años con dislexia participe directamente en decidir cómo deben ser las actividades de un videojuego terapéutico?",
+      "deepDives": [
+        {
+          "id": "rv-viaje-1",
+          "triggerLabel": "El criterio de saturación teórica",
+          "type": "method",
+          "content": "Siguiendo a Corbetta (2003), la recogida de entrevistas se detuvo cuando los nuevos participantes de los tres países dejaron de aportar categorías clínicas novedosas, asegurando una taxonomía exhaustiva."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Las 7 áreas de desarrollo para el entorno inmersivo",
+      "narrativa": "El consenso entre especialistas, familias y escolares cristalizó en siete bloques curriculares integrados en el motor de juego en 3D:",
+      "hallazgos": [
+        {
+          "label": "1. Conciencia Fonológica Transversal",
+          "value": "Correspondencia grafema-fonema, síntesis silábica y decodificación intensiva con pseudopalabras para forzar la ruta fonológica sin apoyos memorísticos. Ej.: Bloque vertebral del software."
+        },
+        {
+          "label": "2. Memoria de Trabajo y Funciones Ejecutivas",
+          "value": "Retención de secuencias de letras y números virtuales, identificación de instrucciones complejas para resolver acertijos y repetición de patrones auditivos. Ej.: Desafíos de retención a corto plazo."
+        },
+        {
+          "label": "3. Atención Sostenida y Selectiva",
+          "value": "Búsqueda de diferencias en escenarios 3D inmersivos y detección de sonidos consonánticos diana en presencia de distractores controlados. Ej.: Gamificación atencional lúdica."
+        },
+        {
+          "label": "4 y 5. Desarrollo Perceptivo Visual y Auditivo",
+          "value": "Discriminación de series espaciales, completamiento de figuras y afinación auditiva de frecuencias tonales y timbres mediante personajes con voces contrastadas. Ej.: Estimulación bimodal coordinada."
+        },
+        {
+          "label": "6 y 7. Desarrollo semántico-léxico y desarrollo motor",
+          "value": "Comprensión de narrativas interactivas, orientación espacial 3D con mapas virtuales, coordinación visomotora y resolución de problemas de lateralidad. Ej.: Integración del cuerpo y el significado."
+        }
+      ],
+      "dataPoints": [
+        "Transición metodológica: condensación de 10 categorías de dificultad en 7 áreas operativas de software.",
+        "Relación bidireccional avalada: la conciencia fonológica favorece la lectura y la práctica en RV fortalece la conciencia fonológica.",
+        "Prevención del error punitivo: la RV permite reiniciar retos sin penalización, aumentando la perseverancia del escolar.",
+        "Muestreo transnacional no compensado económicamente, garantizando la honestidad de las respuestas cualitativas."
+      ],
+      "reflexion": "En el aula ordinaria, fallar una palabra ante los compañeros genera vergüenza; en el mundo virtual, esquivar un obstáculo o fallar una letra es solo un intento más para subir de nivel.",
+      "deepDives": [
+        {
+          "id": "rv-revelacion-1",
+          "triggerLabel": "El papel del componente motor y la lateralidad",
+          "type": "data",
+          "content": "Los informantes coincidieron en que los escolares disléxicos presentan frecuentes tropiezos en orientación espacial y lateralidad; la RV permite trabajar la coordinación ojo-mano apuntando con punteros 3D a letras en movimiento."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia la personalización lúdica de la reeducación lectora",
+      "narrativa": "Las autoras debaten el salto cualitativo que supone la realidad virtual frente a las herramientas digitales planas tradicionales:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Aportaciones de la Tecnología Educativa (Cidrim, Dymora, Jiménez): La RV supera a las aplicaciones en tabletas al ofrecer inmersión sensorial completa y control experimental de estímulos."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Enfoque multisensorial (Broadhead et al., 2018; Birsh, 2011): Aprender una letra viendo su forma en 3D, oyendo su sonido y manipulándola con un puntero activa múltiples vías de acceso simultáneas."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Motivación y gamificación (Phipps et al., 2002; Dymora y Niemiec, 2019): Los entornos lúdicos y seguros generan motivación, retroalimentación inmediata y mayor adherencia al tratamiento en el alumnado con necesidades especiales."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Tecnología como fin vs. Pedagogía como guía: Las autoras advierten contra la fascinación tecnológica vacía; la RV solo es útil si sus mecánicas de juego están subordinadas a objetivos fonológicos estrictos."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Intervención aislada vs. Ecosistema de apoyo: El software no sustituye al logopeda ni al docente; es una herramienta auxiliar que fortalece el trabajo interdisciplinar entre escuela y familia."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Falta evaluar el coste económico y la accesibilidad de las gafas de RV para familias de contextos socioeconómicos vulnerables."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Necesidad de vigilar posibles barreras de accesibilidad en alumnos con problemas vestibulares o epilepsia fotosensible."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para el diseño de software educativo Adoptar la norma ISO 9241-210 para co-diseñar productos tecnológicos con niños con dificultades de aprendizaje desde la fase conceptual."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la práctica clínica y escolar Incorporar sesiones de realidad virtual gamificada como complemento motivacional para reducir la ansiedad asociada a la lectura."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las familias y asociaciones de dislexia Disponer de herramientas de entrenamiento domiciliario seguras que transformen los deberes escolares en experiencias lúdicas compartidas."
+        },
+        {
+          "label": "Tabla",
+          "value": "Área de Desarrollo | Objetivo Pedagógico | Mecánica en Realidad Virtual (3D) | Fundamento Científico\n1. Conciencia Fonológica | Conversión grafema-fonema | Lectura de pseudopalabras en carteles flotantes | Déficit fonológico nuclear (Rosselli)\n2. Memoria de Trabajo | Retención y manipulación activa | Repetición de series y retención de instrucciones | Memoria operativa y comprensión lectora (Martín-Lobo; Bonfill et al.)\n3. Atención Selectiva | Inhibición de distractores | Búsqueda de diferencias y sonidos diana en 3D | Control ejecutivo (Regan & Woods)\n4. Percepción Visual | Discriminación grafémica fina | Completar palabras y series en perspectiva | Atención visoespacial (Franceschini)\n5. Percepción Auditiva | Afinación fonémica | Identificar primer/último sonido con timbres | Procesamiento auditivo temporal\n6. Semántica y Léxico | Comprensión del discurso | Seguir pistas narrativas para avanzar la historia | Acceso léxico (Aguado et al.)\n7. Lateralidad y Motor | Coordinación visomotora | Esquivar obstáculos y orientarse con mapas 3D | Desarrollo motor (Capellini, Ruíz)"
+        }
+      ],
+      "reflexion": "La tecnología más avanzada no es la que deslumbra con gráficos hiperrealistas, sino la que devuelve a un niño la sonrisa y la confianza en su propia capacidad de aprender.",
+      "deepDives": [
+        {
+          "id": "rv-marco-1",
+          "triggerLabel": "El futuro de FORDYSVAR en las aulas",
+          "type": "theory",
+          "content": "El proyecto europeo prevé validar la versión final del software mediante ensayos de intervención controlados en colegios de España, Italia y Rumanía, evaluando mejoras en velocidad y precisión lectora."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cuáles son las áreas esenciales de intervención educativa que deben fundamentar una aplicación de realidad virtual para escolares con dislexia de 10 a 16 años?",
+      "conclusion": "El proceso de Diseño Centrado en el Usuario (ISO 9241-210) definió siete áreas maestras de desarrollo pedagógico y neuropsicológico. La conciencia fonológica y la memoria de trabajo constituyen el núcleo vertebral que atraviesa todas las mecánicas inmersivas en 3D. La realidad virtual proporciona un entorno seguro donde el error carece de consecuencias punitivas, mejorando sustantivamente la adherencia al tratamiento. Se demuestra la necesidad de estimular simultáneamente las vías perceptivas visuales, auditivas y la coordinación visomotora y de lateralidad. Implementar las 7 áreas identificadas en el desarrollo técnico de entornos virtuales y videojuegos educativos accesibles. Involucrar activamente a niños con dislexia y a sus familias en el co-diseño de las mecánicas lúdicas de software educativo. Utilizar pseudopalabras en entornos gamificados para forzar la ruta fonológica sin apoyos de memoria visual previa. Articular el uso de la realidad virtual con el seguimiento presencial de docentes, terapeutas y equipos de orientación escolar. Cuando la tecnología se pone al servicio de la empatía, las dificultades de aprendizaje dejan de ser una barrera insalvable para convertirse en una aventura de superación.",
+      "formalRef": "Sonia Rodríguez-Cano, Vanesa Delgado-Benito y Vanesa Ausín-Villaverde. (2022). Áreas de desarrollo para intervención en dislexia: una propuesta de realidad virtual. Ocnos 21(1). https://doi.org/10.18239/ocnos_2022.21.1.2701"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué norma internacional de Diseño Centrado en el Usuario guió el proceso metodológico de investigación del proyecto FORDYSVAR?",
+          "options": [
+            "ISO 9001 de gestión de calidad",
+            "ISO 9241-210 de diseño centrado en el usuario",
+            "ISO 14001 de medio ambiente",
+            "IEEE 802.11 de telecomunicaciones"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuántas áreas maestras de desarrollo consensuó el panel transnacional de expertos para vertebrar las actividades del software inmersivo de realidad virtual?",
+          "options": [
+            "Tres áreas",
+            "Siete áreas",
+            "Veinte áreas",
+            "Dos áreas"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué el uso de pseudopalabras dentro de un entorno virtual gamificado es más eficaz para rehabilitar la ruta fonológica en la dislexia que utilizar palabras cotidianas conocidas?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "La dislexia es la dificultad específica de aprendizaje más frecuente en el aula, pero también la que menos herramientas motivadoras ha tenido.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Diseñar videojuegos sin escuchar a los niños y a sus familias produce aplicaciones llamativas pero inútiles: el diseño centrado en el usuario lo cambia.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "30 informantes de España, Italia y Rumanía participaron en entrevistas semiestructuradas validadas mediante juicio de expertos.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "El consenso condensó diez categorías iniciales en siete áreas: fonología, memoria de trabajo, atención, percepción visual y auditiva, semántica y desarrollo motor.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La realidad virtual no sustituye al logopeda: solo funciona si sus mecánicas de juego se subordinan a objetivos fonológicos estrictos.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Cuando la tecnología se pone al servicio de la empatía, las dificultades de aprendizaje se convierten en una aventura de superación.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo el proyecto FORDYSVAR definió las áreas de intervención de su software de realidad virtual.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido sobre el diseño centrado en el usuario y la realidad virtual en la intervención de la dislexia.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Intervención en dislexia mediante realidad virtual (Ocnos 21(1), 2022)",
+    "descripcion": "Recorrido desde la conceptualización de la dislexia y el potencial de la realidad virtual, pasando por el diseño centrado en el usuario (ISO 9241-210) y las entrevistas a 30 informantes de España, Italia y Rumanía, hasta las siete áreas de desarrollo identificadas y las limitaciones de esta fase de diseño.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Prevalencia e impacto de la dislexia escolar",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Dificultad específica del aprendizaje de origen neurobiológico que afecta el reconocimiento fluido de palabras, la decodificación fonológica y la ortografía, acarreando consecuencias emocionales y desmotivación en la escuela."
+      },
+      {
+        "id": "2",
+        "label": "Tecnología educativa y Realidad Virtual (RV)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Potencial pedagógico y terapéutico de los entornos tridimensionales inmersivos que permiten la interacción multisensorial en tiempo real, el control preciso de estímulos perceptivos y la experimentación sin consecuencias punitivas."
+      },
+      {
+        "id": "3",
+        "label": "Diseño Centrado en el Usuario (ISO 9241-210)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Estándar internacional de ingeniería humana que postula que la creación de software educativo interactivo debe partir de la indagación exhaustiva de las necesidades, capacidades y vivencias de los usuarios finales y especialistas."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Definir áreas de desarrollo en RV",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Identificar, consensuar y fundamentar pedagógicamente las áreas clave de intervención psicopedagógica que debe incorporar un software de realidad virtual inmersiva para escolares con dislexia con edades entre 10 y 16 años."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Co-diseño transnacional (FORDYSVAR)",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Diseñar de manera participativa con especialistas en dislexia, familias y estudiantes de España, Italia y Rumanía la arquitectura funcional y los requisitos lúdico-educativos del videojuego inmersivo europeo FORDYSVAR."
+      },
+      {
+        "id": "6",
+        "label": "Muestra cualitativa de 30 informantes clave",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Muestra cualitativa transnacional de 30 informantes clave (9 especialistas clínicos, 9 familias, 9 escolares diagnosticados de dislexia y 3 docentes de apoyo escolar) distribuidos en España, Italia y Rumanía dentro de Erasmus+."
+      },
+      {
+        "id": "7",
+        "label": "Revisión sistemática en Scopus (21 estudios)",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Revisión bibliográfica de la literatura científica publicada en los últimos diez años en la base de datos Scopus (de 114 documentos se seleccionaron 21 investigaciones del ámbito educativo y pedagógico) sobre dislexia y enfoques de tratamiento."
+      },
+      {
+        "id": "8",
+        "label": "Análisis de contenido temático y panel experto",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Análisis de contenido temático de carácter inductivo sobre las entrevistas transcritas y traducidas al inglés, con posterior validación mediante juicio de expertos de un panel de 5 profesionales (3 especialistas en dislexia y 2 expertos en realidad virtual)."
+      },
+      {
+        "id": "9",
+        "label": "Consenso en 7 áreas maestras de desarrollo",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Consenso unánime que condensó 10 propuestas clínicas preliminares en 7 áreas esenciales integradas en mecánicas de juego inmersivo: fonología, memoria ejecutiva, atención sostenida, visión, audición, semántica y control motor."
+      },
+      {
+        "id": "10",
+        "label": "Conciencia fonológica y pseudopalabras",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Módulo central del sistema enfocado en la conversión grafema-fonema, la segmentación silábica y la lectura de pseudopalabras en entornos virtuales 3D para activar intensivamente la ruta fonológica de procesamiento lector."
+      },
+      {
+        "id": "11",
+        "label": "Memoria de trabajo y control atencional",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Dinámicas lúdicas de retención secuencial y focalización auditiva y visual frente a distractores 3D dinámicos, reforzando la inhibición ejecutiva y la memoria operativa verbal en situaciones de alta carga cognitiva lúdica."
+      },
+      {
+        "id": "12",
+        "label": "Desarrollo motor, lateralidad y visión 3D",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Tareas de desarrollo motor centradas en la coordinación visomotora (apuntar y disparar con el puntero, arrastrar fichas con el dedo), el equilibrio (esquivar obstáculos) y la orientación espacial mediante el trabajo de localización en mapas o GPS."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Reducción de ansiedad y adherencia",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "La inmersión virtual reduce la ansiedad ante el error al convertir la reeducación lectora en una experiencia lúdica donde el fallo es interpretado como parte del desafío de juego y no como una calificación escolar deficiente."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Primacía pedagógica sobre el efectismo",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Los entornos virtuales inmersivos no reemplazan el juicio clínico ni la mediación pedagógica humana, sino que potencian la adherencia al tratamiento psicopedagógico gracias a mecánicas de gamificación y personalización adaptativa."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Fase previa de diseño y hardware",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "La investigación se centró en la fase cualitativa de diseño y especificación funcional, precisando estudios cuasi-experimentales futuros con grupos de control para cuantificar el tamaño de efecto clínico en fluidez lectora."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Innovación tecnológica inclusiva",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "La realidad virtual constituye una herramienta de vanguardia para la inclusión educativa si se fundamenta en un diseño riguroso centrado en el usuario que combine estimulación neurocognitiva con compromiso lúdico motivador."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "encuentra nuevas soluciones en la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "exige ser abordada con el"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "fundamenta la viabilidad del"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "orienta los procedimientos del"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se investiga a través de la"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se nutre inicialmente de la"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "es procesada mediante el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "aporta categorías al"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "cristaliza en el"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "establece como núcleo la"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "integra el entrenamiento de"
+      },
+      {
+        "from": "9",
+        "to": "12",
+        "label": "incorpora la estimulación de"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "contribuye directamente a la"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "promueve la"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "justifica la exigencia de"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "sustenta los beneficios de la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "garantiza el rigor de la"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "reconoce como límite la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "delimita el alcance real de la"
+      },
+      {
+        "from": "12",
+        "to": "16",
+        "label": "aporta la dimensión física a la"
+      },
+      {
+        "from": "2",
+        "to": "16",
+        "label": "culmina con el desarrollo de la"
+      }
+    ]
+  }
+}

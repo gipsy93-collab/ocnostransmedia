@@ -1,0 +1,376 @@
+{
+  "id": "publicidad_poesia_ilustrada_ecosistema_youtube",
+  "metadata": {
+    "title": "Publicidad y poesía ilustrada en el nuevo ecosistema literario: un estudio en el marco de YouTube",
+    "authors": "Juan Senís",
+    "year": "2019",
+    "journal": "Ocnos 18(2)",
+    "doi": "10.18239/ocnos_2019.18.2.1779",
+    "gancho": "¿Reacciona el público de YouTube de forma estética y literaria ante un anuncio de perfume que recita versos de E. E. Cummings o solo mira a los famosos?",
+    "duration": "12-15 min",
+    "badge": "Poesía Audiovisual y Mediación en Redes",
+    "disciplina": "Didáctica de la Lengua y la Literatura y Comunicación Digital",
+    "dimensiones": [
+      "Poesía y Publicidad Audiovisual",
+      "El Anuncio 'Eternity' y Cummings",
+      "Análisis de Comentarios en YouTube",
+      "Fijación Semántica por la Imagen"
+    ],
+    "tags": [
+      "poesia_ilustrada",
+      "publicidad",
+      "youtube",
+      "cummings",
+      "recepcion_lectora",
+      "comunicacion_audiovisual"
+    ],
+    "pistas": [
+      "Estudio de caso sobre el anuncio de colonia 'Eternity' (Calvin Klein) basado en el poema 'i carry your heart with me' de E. E. Cummings.",
+      "Comparación semiótica del spot con el álbum ilustrado homónimo de Mati McDonough para analizar la transposición multimodal del verso.",
+      "Análisis de contenido de 222 comentarios directos de usuarios en YouTube clasificados en seis categorías de respuesta estética y ética.",
+      "Resultados: primacía de reacciones estéticas superficiales y éticas sobre la familia birracial; la respuesta literaria representa solo el 5,4%."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "En la era digital, la escuela ya no monopoliza la mediación lectora: los jóvenes descubren textos líricos en anuncios televisivos, videoclips y canales de YouTube sin saber muchas veces que están escuchando gran poesía.",
+      "desafio": "Comprobar si la difusión de poesía en formatos publicitarios comerciales audiovisuales es capaz de suscitar respuestas estéticas y literarias auténticas en el público masivo que comenta en internet.",
+      "relevancia": "Ofrece a los mediadores claves didácticas para trabajar en el aula la permeabilidad entre publicidad, cine y poesía, enseñando a los estudiantes a reconocer el intertexto literario en la cultura visual."
+    },
+    "conflicto": {
+      "pregunta": "¿Puede un anuncio comercial en YouTube funcionar como vehículo de educación poética o la imagen publicitaria anula la polisemia lírica original?",
+      "posiciones": [
+        "Postura optimista de la democratización digital: los formatos transmedia y comerciales acercan la alta poesía a públicos que jamás abrirían un poemario en papel.",
+        "Crítica estética y semiótica: la fijación de imágenes concretas y la intencionalidad consumista clausuran la ambigüedad sugerente del verso y desnaturalizan el poema."
+      ],
+      "tension": "La tensión entre la sofisticación retórica del poema de Cummings y la reducción del mensaje audiovisual a un reclamo publicitario de fragancia o belleza física.",
+      "deepDives": [
+        {
+          "id": "pub-conf-1",
+          "triggerLabel": "La clausura de la polisemia",
+          "type": "context",
+          "content": "El poema de Cummings carece de género y destinatario explícitos, permitiendo lecturas místicas, amorosas o filiales; el spot y el álbum ilustrado eligen mostrar a una niña, imponiendo una única interpretación filial sentimental."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Cotejo semiótico del spot con el álbum poético y análisis discursivo de 222 comentarios",
+      "narrativa": "El investigador comparó el spot dirigido por Cary Fukunaga con el álbum poético ilustrado por Mati McDonough, analizando posteriormente 222 comentarios directos de YouTube registrados en el canal oficial de Calvin Klein mediante seis categorías ad hoc.",
+      "detalles": [
+        {
+          "label": "Corpus analizado",
+          "value": "El spot 'Eternity' (19 secuencias), el álbum ilustrado (12 secuencias) y el poema original 'i carry your heart with me' de Cummings."
+        },
+        {
+          "label": "Muestra de comentarios",
+          "value": "222 comentarios directos analizados entre 396 registrados, descartando hilos secundarios para medir la respuesta inmediata."
+        },
+        {
+          "label": "Categorías aplicadas",
+          "value": "Seis tipologías de reacción: estéticas (108), éticas (51), emocionales (31), literarias (12), consumistas (6) y otras (14)."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "El anuncio despierta un fuerte impacto estético y ético en el público de YouTube, pero la respuesta literaria es insignificante: casi nadie percibe el lenguaje lírico si no conocía previamente al autor.",
+      "datosClave": [
+        {
+          "label": "Respuestas estéticas dominantes",
+          "value": "108 comentarios (48.6%) alaban la belleza visual o de los actores (Jake Gyllenhaal y Liya Kebede) con expresiones breves sin razonamiento."
+        },
+        {
+          "label": "Debate ético e ideológico",
+          "value": "51 comentarios (23%) debaten apasionadamente sobre la visibilidad de una familia birracial en una gran campaña de moda."
+        },
+        {
+          "label": "Respuesta literaria residual",
+          "value": "Apenas 12 comentarios (5.4%) reconocen los versos de Cummings, emitidos por usuarios que ya guardaban memoria del poema."
+        }
+      ],
+      "implicacion": "El docente de literatura no puede confiar en que la red forme lectores por ósmosis: es indispensable guiar la lectura desnudando el texto poético de sus ropajes publicitarios."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "Edward Estlin Cummings (1952)",
+          "concepto": "Poesía vanguardista: ruptura de la puntuación canónica, minúsculas deliberadas y alta polisemia en 'i carry your heart with me'."
+        },
+        {
+          "autor": "Antonio Mendoza Fillola (2001, 2008)",
+          "concepto": "El intertexto lector: enciclopedia cultural que el receptor activa para reconocer citas literarias en discursos heterogéneos."
+        },
+        {
+          "autor": "Gemma Lluch (2014, 2017)",
+          "concepto": "Comunicación y promoción de la lectura en redes: nuevas formas de mediación donde convergen ocio, consumo y literatura."
+        }
+      ],
+      "enfoque": "Semiótica de la publicidad, didáctica de la poesía y estudios de recepción lectora en plataformas de vídeo en línea.",
+      "sinergia": "La comparación del álbum poético con el spot desvela cómo ambos lenguajes adaptan y domestican la indeterminación lírica."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Qué tipo de recepción genera la transposición de un poema canónico a un anuncio de perfume difundido en YouTube?",
+      "hallazgos": [
+        "El spot funciona de forma análoga a un álbum poético: segmenta, recontextualiza y fija visualmente el significado del verso.",
+        "Los usuarios reaccionan masivamente a la belleza física de las celebridades y a la representación de la diversidad racial familiar.",
+        "La conciencia literaria es puramente testimonial y se restringe a lectores que ya poseían el texto en su competencia lectora previa.",
+        "El deseo explícito de compra del perfume resulta marginal (apenas 6 comentarios), primando la fascinación estética general."
+      ],
+      "conclusion": "La publicidad audiovisual democratiza el contacto con la poesía pero clausura su riqueza interpretativa; la escuela sigue siendo irremplazable para enseñar a leer lírica en profundidad."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Cuántos comentarios de los 222 analizados hicieron referencia explícita al contenido o autoría literaria del poema?",
+          "opciones": [
+            "Más de la mitad, reconociendo a E. E. Cummings",
+            "Apenas 12 comentarios (un 5,4%), casi todos de personas que ya conocían la obra con anterioridad",
+            "Ninguno, nadie identificó que se trataba de un poema"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "Solo 12 comentarios pertenecieron a la categoría literaria, demostrando la invisibilidad del texto lírico en la recepción masiva."
+        },
+        {
+          "pregunta": "¿Qué efecto semiótico comparten el spot publicitario y el álbum ilustrado frente al poema original?",
+          "opciones": [
+            "Ambos mantienen intacta la ambigüedad sin poner rostro a los protagonistas",
+            "Concretan la voz poética y el destinatario en un vínculo filial madre-padre-hija, cerrando la polisemia abierta de los versos",
+            "Eliminan completamente las palabras y solo usan música instrumental"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "Ambos formatos fijan visualmente la relación como amor paternofilial, eliminando la apertura interpretativa de Cummings."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Poesía, Publicidad y Recepción en el Marco de YouTube",
+      "descripcion": "Red conceptual que articula la adaptación poética multimodal del anuncio de Calvin Klein con la categorización de 222 comentarios en YouTube.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Poesía y Publicidad Transmedia",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Convergencia contemporánea donde las marcas comerciales adoptan versos literarios de prestigio para dotar de aura estética a sus productos dentro del ecosistema digital de redes sociales."
+        },
+        {
+          "id": "2",
+          "label": "El Álbum Poético Ilustrado",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Subgénero editorial consolidado donde la interacción entre ilustración y texto lírico exige procesos de descontextualización, secuenciación y recontextualización visual de la palabra poética."
+        },
+        {
+          "id": "3",
+          "label": "Intertexto Lector (Mendoza)",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Conjunto organizado de saberes, lecturas previas y esquemas interpretativos que permiten al receptor identificar citas alusivas y reinterpretar textos integrados en contextos no literarios."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Recepción de Poesía en Spot",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Analizar el anuncio 'Eternity' como adaptación lírica multimodal y clasificar empíricamente las respuestas del público en YouTube para constatar si se produce una recepción genuinamente literaria."
+        },
+        {
+          "id": "5",
+          "label": "Estudio de Caso Único",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Diseño cualitativo centrado en un fenómeno singular relevante, combinando el análisis semiótico comparativo del material audiovisual e impreso con el examen discursivo de comunidades virtuales."
+        },
+        {
+          "id": "6",
+          "label": "Corpus Textual e Iconográfico",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Cotejo entre el poema 'i carry your heart with me' de Cummings, el spot de Fukunaga para Calvin Klein (19 secuencias) y el libro ilustrado por Mati McDonough (12 secuencias gráficas)."
+        },
+        {
+          "id": "7",
+          "label": "Clasificación de 222 Comentarios",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Muestra de 222 comentarios directos inmediatos recopilados en el canal oficial de YouTube hasta agosto de 2018, codificados en seis categorías ad hoc de recepción discursiva."
+        },
+        {
+          "id": "8",
+          "label": "Mayoría de Reacciones Estéticas (108)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Casi la mitad de las intervenciones (108 casos) expresan elogios breves hacia la belleza del vídeo, la fotografía en blanco y negro o el atractivo físico de Jake Gyllenhaal y Liya Kebede."
+        },
+        {
+          "id": "9",
+          "label": "Debate Ético sobre Familia Birracial (51)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Segunda categoría más frecuente (51 casos) caracterizada por debates apasionados y réplicas cruzadas en torno a la representación positiva y normalizada de la diversidad racial en medios masivos."
+        },
+        {
+          "id": "10",
+          "label": "Marginalidad de Respuesta Literaria (12)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Solo 12 intervenciones (5.4%) identifican a Cummings o valoran la calidad poética del texto, procedentes en su totalidad de usuarios que ya contaban con dicho intertexto antes de ver el anuncio."
+        },
+        {
+          "id": "11",
+          "label": "Clausura de la Polisemia del Verso",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "La imagen impone una interpretación unívoca centrada en el amor filial entre padres e hija, cerrando la apertura semántica y mística original que caracteriza la poética experimental de Cummings."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: Límites de la Difusión Viral",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "La presencia masiva de poesía en redes audiovisuales no garantiza alfabetización literaria: el consumo apresurado tiende a deglutir el texto como mero sonido ambiental decorativo."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Domesticación Multimodal",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Tanto la publicidad comercial como el álbum ilustrado tienden a domesticar la vanguardia lírica, adaptando los textos complejos a esquemas familiares convencionales más tranquilizadores."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Mediación Escolar Necesaria",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "El estudio ratifica que la mediación pedagógica formal sigue siendo imprescindible para enseñar a decodificar la especificidad del lenguaje poético frente a la fascinación de las pantallas."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Estudio de Caso Acotado",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Investigación focalizada en un único anuncio audiovisual y en un solo canal corporativo, lo que impide extrapolar los porcentajes de comentarios a otras campañas o plataformas como TikTok."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Exclusión de Hilos Secundarios",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Descarte deliberado de los 174 comentarios indirectos organizados en conversaciones secundarias, perdiéndose posibles matices deliberativos sobre la autoría o significado del texto."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "plantea el contexto de"
+        },
+        {
+          "from": "2",
+          "to": "1",
+          "label": "comparte mecanismos con"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "sirve de marco a"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se aborda mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "utiliza corpus de"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "clasifica muestra de"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "identifica predominio de"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "cuantifica controversia en"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "demuestra escasez de"
+        },
+        {
+          "from": "6",
+          "to": "11",
+          "label": "evidencia efecto de"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "aporta evidencia a"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "sustenta premisa de"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "demuestra tendencia de"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "fundamenta imperativo de"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "conduce a necesidad de"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "acota alcance de"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "restringe muestra con"
+        },
+        {
+          "from": "1",
+          "to": "11",
+          "label": "provoca fenómeno de"
+        },
+        {
+          "from": "3",
+          "to": "10",
+          "label": "explica activación de"
+        },
+        {
+          "from": "2",
+          "to": "13",
+          "label": "ejemplifica proceso de"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "desplaza atención en"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Cómo podrías utilizar un anuncio poético de YouTube en el aula para enseñar la diferencia entre el texto original y la versión audiovisual?",
+      "enfoque": "Leer primero el poema a ciegas para que los alumnos imaginen quién habla y contrastarlo después con las imágenes del anuncio para ver qué cambió.",
+      "cierre": "Descubrir cómo la imagen condiciona lo que leemos es el primer paso para liberar la imaginación de los mandatos del mercado."
+    }
+  }
+}

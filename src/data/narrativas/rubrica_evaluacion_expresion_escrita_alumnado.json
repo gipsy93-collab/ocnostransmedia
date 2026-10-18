@@ -1,0 +1,378 @@
+{
+  "id": "rubrica_evaluacion_expresion_escrita_alumnado",
+  "metadata": {
+    "id": "rubrica_evaluacion_expresion_escrita_alumnado",
+    "title": "La rúbrica de evaluación de la competencia en expresión escrita. Percepción del alumnado sobre su funcionalidad",
+    "authors": [
+      "Rocío Ruiz-Terrobán",
+      "Esteban Vázquez-Cano",
+      "María Luisa Sevillano-García"
+    ],
+    "year": 2017,
+    "volume": "16",
+    "issue": "2",
+    "pages": "107-117",
+    "doi": "10.18239/ocnos_2017.16.2.1349",
+    "keywords": [
+      "rúbrica de evaluación",
+      "expresión escrita",
+      "educación primaria",
+      "evaluación formativa",
+      "autorregulación"
+    ],
+    "abstract": "Investigación cuantitativa descriptiva que encuesta a 431 estudiantes de 5º y 6º de Educación Primaria para evaluar su percepción sobre la funcionalidad y utilidad de una rúbrica de expresión escrita en tres fases: antes de redactar (planificación), durante la escritura (monitorización) y tras la entrega (autocorrección y retroalimentación). Muestra una alta valoración del instrumento como guía formativa."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Sirve realmente de algo una rúbrica de evaluación si los escolares la perciben como una lista burocrática incomprensible de exigencias del profesor? ¿O puede transformarse en una brújula transparente que empodere al niño para planificar, revisar y mejorar su propia escritura? Este estudio con 431 alumnos de Primaria examina su utilidad real.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva de indagación evaluativa:",
+        "opciones": [
+          {
+            "id": "formativa",
+            "texto": "Evaluación formativa: transparencia de criterios y retroalimentación procesual"
+          },
+          {
+            "id": "autorregulacion",
+            "texto": "Autorregulación cognitiva: uso de la rúbrica antes, durante y después de escribir"
+          },
+          {
+            "id": "alumnado",
+            "texto": "Voz del estudiante: percepción de utilidad y motivación en el aula de Primaria"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Tradicionalmente, la corrección de composiciones escritas en la escuela ha sido opaca y unilateral: el docente asigna una nota numérica acompañada de tachaduras rojas, sin que el alumno entienda con claridad qué se esperaba de él ni cómo subsanar sus fallos de cohesión y coherencia en el siguiente texto.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿En qué momento procesual resulta más útil la rúbrica según los propios escolares?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Antes y durante la redacción, porque les proporciona metas claras de antemano y les permite autorregularse mientras componen el texto.",
+            "correcta": true,
+            "explicacion": "Exacto: la rúbrica deja de ser un instrumento punitivo cuando se utiliza como guía de andamiaje durante la producción escrita."
+          },
+          {
+            "id": "c2",
+            "texto": "Únicamente después de haber recibido la calificación final para discutir la nota con el maestro.",
+            "correcta": false,
+            "explicacion": "El mayor potencial formativo de la rúbrica radica en guiar el proceso de redacción, no en justificar a posteriori la nota."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los autores diseñaron e implementaron una rúbrica analítica de expresión escrita en aulas de 5º y 6º de Primaria en centros de la Comunidad de Madrid. Posteriormente, aplicaron un cuestionario cerrado en escala Likert a 431 escolares para medir su percepción sobre la claridad de los criterios, el andamiaje en la escritura y la retroalimentación recibida.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra escolar",
+            "detalle": "431 alumnos de 5º y 6º de Primaria de centros públicos y concertados."
+          },
+          {
+            "fase": "Diseño de la rúbrica",
+            "detalle": "Dimensiones analíticas: adecuación, coherencia, cohesión, corrección ortográfica y presentación."
+          },
+          {
+            "fase": "Cuestionario de percepción",
+            "detalle": "Escala Likert de 4 niveles valorando la funcionalidad en las fases inicial, intermedia y final."
+          },
+          {
+            "fase": "Tratamiento estadístico",
+            "detalle": "Análisis descriptivo de medias, frecuencias y contrastes no paramétricos por curso y género."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados arrojaron valoraciones sumamente positivas: más del 80% de los escolares consideró que la rúbrica les ayudó a saber qué tenían que escribir y a corregir sus textos con mayor autonomía. Destacaron que conocer de antemano los criterios redujo su ansiedad y mejoró su confianza frente a la hoja en blanco.",
+      "datos_clave": [
+        "Muestra amplia de 431 estudiantes de tercer ciclo de Educación Primaria.",
+        "Altísima valoración de la funcionalidad orientadora de la rúbrica (medias superiores a 3.2 sobre 4).",
+        "Mayor autonomía percibida en la revisión de la coherencia y la organización de párrafos.",
+        "Consolidación de la rúbrica como herramienta clave para la evaluación formadora y dialógica."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "La investigación dialoga con el modelo de escritura de Hayes y Flower (1980), las teorías de evaluación formativa de Black y Wiliam (1998), los estudios sobre rúbricas de Andrade (2005) y Panadero y Jonsson (2013).",
+      "referencias_clave": [
+        "Hayes & Flower (1980)",
+        "Black & Wiliam (1998)",
+        "Andrade (2005)",
+        "Panadero & Jonsson (2013)",
+        "Ruiz-Terrobán et al. (2017)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "Evaluar no es juzgar al final del camino, sino encender faros que iluminen el trayecto. Cuando los estudiantes conocen con claridad qué hace que un texto sea excelente, asumen el timón de su propio aprendizaje y escriben con mayor seguridad, libertad y rigor.",
+      "hallazgo_central": "Los escolares de Primaria perciben la rúbrica como un andamiaje altamente eficaz que clarifica las expectativas docentes, fomenta la autorregulación y transforma la evaluación de la escritura en un proceso transparente."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja las dimensiones de la expresión escrita evaluadas con su indicador en la rúbrica:",
+          "pares": [
+            {
+              "concepto": "Coherencia textual",
+              "definicion": "Estructuración lógica de las ideas en párrafos sin digresiones ni contradicciones."
+            },
+            {
+              "concepto": "Cohesión lingüística",
+              "definicion": "Uso variado y correcto de conectores discursivos, pronombres y signos de puntuación."
+            },
+            {
+              "concepto": "Adecuación pragmática",
+              "definicion": "Ajuste del registro, tono y vocabulario al propósito comunicativo y al destinatario."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Funcionalidad de la Rúbrica en Expresión Escrita",
+      "descripcion": "Percepción del alumnado de Primaria sobre la utilidad de la rúbrica analítica en las fases de producción textual.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Funcionalidad de la Rúbrica de Escritura en Primaria",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo de la investigación: analizar la percepción del alumnado de Educación Primaria sobre la utilidad y funcionalidad de una rúbrica analítica para orientar y evaluar su competencia en expresión escrita."
+        },
+        {
+          "id": "2",
+          "label": "Opacidad Histórica de la Evaluación Escrita",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco contextual que denuncia la tradición escolar de corrección impresionista, punitiva y unilateral, donde los alumnos desconocen los criterios y se limitan a recibir notas numéricas finales."
+        },
+        {
+          "id": "3",
+          "label": "Teoría de la Evaluación Formativa y Formadora",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Aportes de Black, Wiliam y Sanmartí que conciben la evaluación como un proceso continuo de retroalimentación orientadora orientado a que el propio estudiante aprenda a autorregular su producción."
+        },
+        {
+          "id": "4",
+          "label": "Modelo Cognitivo de Escritura de Hayes y Flower",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Marco sobre los procesos de composición escrita que articula planificación de ideas, redacción textual y revisión continua, fases en las que la rúbrica actúa como andamiaje metacognitivo externo."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Cuantitativo Descriptivo por Encuesta",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico no experimental, descriptivo y transversal mediante encuesta estandarizada para recabar valoraciones de los escolares tras la aplicación de la rúbrica en tareas reales."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 431 Escolares de Primaria",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Participación de 431 estudiantes escolarizados en quinto y sexto de Primaria en diversos centros educativos públicos y concertados de la Comunidad de Madrid con perfiles socioeconómicos variados."
+        },
+        {
+          "id": "7",
+          "label": "Estructuración Analítica de la Rúbrica",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Instrumento analítico con niveles progresivos de dominio para cinco dimensiones: adecuación comunicativa, coherencia estructural, cohesión y puntuación, riqueza léxica y ortografía/presentación."
+        },
+        {
+          "id": "8",
+          "label": "Cuestionario de Percepción en Tres Fases",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Instrumento tipo Likert que evalúa la funcionalidad percibida en tres momentos temporales clave: antes de escribir (guía previa), durante la escritura (monitorización) y después (revisión)."
+        },
+        {
+          "id": "9",
+          "label": "Alta Valoración Global de la Funcionalidad",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los escolares otorgaron medias muy elevadas (superiores al ochenta por ciento de acuerdo favorable), valorando la rúbrica como una herramienta extraordinariamente útil y clarificadora."
+        },
+        {
+          "id": "10",
+          "label": "Clarificación Previa de Expectativas Docentes",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Los alumnos señalaron como mayor beneficio saber con exactitud de antemano qué esperaba el maestro que incluyeran en el texto, disipando la incertidumbre y la ansiedad ante la redacción."
+        },
+        {
+          "id": "11",
+          "label": "Fomento de la Autonomía en la Corrección",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Incremento de la capacidad autónoma para detectar errores de ordenación temática y enriquecer el vocabulario antes de la entrega definitiva, mejorando la calidad final de las composiciones."
+        },
+        {
+          "id": "12",
+          "label": "Democratización del Acto de Calificar",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica sobre cómo las rúbricas compartidas democratizan la relación pedagógica en el aula, transformando la evaluación de un misterio calificador en un contrato didáctico transparente."
+        },
+        {
+          "id": "13",
+          "label": "Estimulación del Diálogo Metalingüístico",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate en torno a la función de la rúbrica como andamio dialógico que proporciona un vocabulario común entre docente y alumnado para hablar sobre la calidad de la lengua escrita."
+        },
+        {
+          "id": "14",
+          "label": "Consolidación de la Evaluación para el Aprendizaje",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental que ratifica la eficacia pedagógica de la rúbrica analítica como motor de autorregulación y aprendizaje significativo de la escritura en el tercer ciclo de Primaria."
+        },
+        {
+          "id": "15",
+          "label": "Recomendaciones de Co-diseño con el Alumnado",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta didáctica que aconseja no solo entregar rúbricas cerradas, sino implicar progresivamente a los propios alumnos en la co-construcción de los criterios e indicadores evaluativos."
+        },
+        {
+          "id": "16",
+          "label": "Límites de Deseabilidad Social y Medición",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite metodológico reconocido al basarse en cuestionarios de autoinforme susceptibles de sesgo de complacencia hacia el profesorado, demandando contrastes directos con análisis textuales."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "pretende superar"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se fundamenta en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se operativiza con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "selecciona"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "aplica"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "recaba datos con"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "arroja"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "revela"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "propicia"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "respalda"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "fundamenta"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "estimula"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "conduce a"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "afianza"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "proyecta hacia"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "reconoce"
+        },
+        {
+          "from": "8",
+          "to": "16",
+          "label": "conlleva sesgo en"
+        },
+        {
+          "from": "4",
+          "to": "10",
+          "label": "explica teóricamente a"
+        },
+        {
+          "from": "3",
+          "to": "14",
+          "label": "se confirma en"
+        },
+        {
+          "from": "7",
+          "to": "13",
+          "label": "suministra léxico a"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Una rúbrica bien explicada no es una jaula para la creatividad: es el mapa que permite al escolar navegar con certeza las aguas de la lengua escrita. Cuando el estudiante comprende qué hace valiosa una frase, escribir deja de ser una lotería y se convierte en un arte consciente y gozoso.",
+      "preguntas": [
+        "¿Utilizan nuestros colegios rúbricas transparentes antes de escribir o se siguen limitando a calificar con una nota numérica el texto final?",
+        "¿Cómo pueden los docentes invitar a los alumnos a redactar juntos los criterios de evaluación de sus propios textos?"
+      ]
+    }
+  }
+}

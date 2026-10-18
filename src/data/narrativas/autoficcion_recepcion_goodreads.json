@@ -5,14 +5,14 @@
     "authors": "Álvaro Ceballos-Viro y Kristine Vanden-Berghe",
     "year": "2024",
     "journal": "Ocnos 23(2)",
-    "doi": "10.18239/ocnos2024.23.2.446",
+    "doi": "10.18239/ocnos_2024.23.2.446",
     "gancho": "¿Qué sienten los lectores cuando descubren que lo que creían una autobiografía desgarradora era en realidad una novela inventada?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#e76f51",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-07.png",
+    "image": "/assets/portadas/autoficcion_recepcion_goodreads.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-07.png",
       "name": "Dr. Álvaro Ceballos-Viro",
@@ -23,30 +23,30 @@
     "apertura": {
       "personaje": "Dr. Álvaro Ceballos-Viro, teórico de la autoficción y los pactos de lectura contemporáneos",
       "gancho": "¿Dónde termina la verdad vivida y dónde empieza la mentira literaria?",
-      "contexto": "La autoficción (ese territorio ambiguo donde el autor comparte nombre con el protagonista pero la obra se etiqueta como novela) ha dominado la narrativa del siglo XXI (Carrère, Ernaux, Cercas, Vilas). La teoría literaria ha debatido durante décadas el 'pacto ambiguo' de Doubrovsky y Lejeune. Este estudio innovador analiza la recepción empírica real de los lectores analizando un corpus masivo de 1.250 reseñas en la red social Goodreads sobre novelas de autoficción en español y francés.",
+      "contexto": "La autoficción (ese territorio ambiguo donde el autor comparte nombre con el narrador y personaje pero la obra se presenta como ficticia) tiene un vasto desarrollo teórico. La crítica ha debatido durante décadas el 'pacto ambiguo' formulado por Alberca a partir de Lecarme y Lecarme-Tabone. Este estudio innovador analiza la recepción empírica de los lectores ordinarios en la red social Goodreads: seis autoficciones hispanoamericanas recientes valoradas con un índice de literariedad a partir de 287 reseñas.",
       "deepDives": [
         {
           "id": "aut-apertura-1",
-          "triggerLabel": "El pacto de lectura de Lejeune",
+          "triggerLabel": "Los pactos de lectura tras el 'pacto ambiguo'",
           "type": "theory",
-          "content": "Pacto autobiográfico (identidad estricta autor=narrador=personaje bajo compromiso de verdad) vs. pacto novelesco (ficción declarada)."
+          "content": "Identidad onomástica entre narrador, personaje y autor (anuncio autobiográfico, pacto de veracidad) junto a la presentación del texto como ficticio: dos contratos de lectura cruzados (Alberca, 2007; Lecarme y Lecarme-Tabone, 1997)."
         },
         {
           "id": "aut-apertura-2",
-          "triggerLabel": "Corpus de 1.250 reseñas en Goodreads",
+          "triggerLabel": "Corpus de 287 reseñas en Goodreads",
           "type": "data",
-          "content": "Minería de texto y categorización de reacciones espontáneas de lectores legos de todo el mundo."
+          "content": "Reseñas amateur en español sobre seis autoficciones hispanoamericanas, valoradas independientemente por tres jueces en un seminario de la Universidad de Lieja."
         }
       ]
     },
     "conflicto": {
-      "problema": "Los críticos literarios asumen que los lectores comprenden y disfrutan los juegos metaficcionales de la autoficción, ignorando la desconcertante indignación o fascinación que provocan en el público real.",
+      "problema": "La crítica asume que el lector ordinario se deleita en la duda sobre el estatuto del texto (el pacto ambiguo), sin comprobar cómo reaccionan realmente quienes leen autoficciones fuera del ámbito educativo.",
       "porQueImporta": "Analizar la lectura en redes sociales desvela cómo los lectores contemporáneos negocian la verdad, la ética y el engaño en la cultura de la posverdad.",
       "dataPoints": [
-        "Corpus de 1.250 reseñas en Goodreads en español y francés.",
-        "El 42% de los lectores juzga la obra como documento testimonial factual, buscando en Google la vida privada del autor.",
-        "Fuerte tensión ética: reseñas negativas fundamentadas en que 'el autor es un narcisista egoísta' en lugar de evaluar la técnica literaria.",
-        "Fascinación por el morbo biográfico como motor principal de enganche lector."
+        "Corpus de 287 reseñas en Goodreads, todas en español, sobre seis autoficciones hispanoamericanas.",
+        "El olvido que seremos obtiene un promedio de literariedad de 1,75 sobre 12: la mayoría lo lee como documento factual.",
+        "Las lecturas factuales se delatan al juzgar la narración en términos de honestidad y sinceridad, sometiendo el texto a un contrato de veracidad.",
+        "Muchos lectores no aciertan a discernir 'cuál es la parte de ficción, cuál el testimonio, cuál la autobiografía'."
       ],
       "glossary": [
         {
@@ -60,55 +60,55 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Minería de datos textuales y análisis cualitativo en Goodreads",
-      "narrativa": "Los autores recopilaron reseñas públicas de obras clave de la autoficción contemporánea, codificando las alusiones a la verdad, el género y la moral del autor.",
+      "titulo": "Ruta metodológica: Testimonios de lectura e índice de literariedad en Goodreads",
+      "narrativa": "Los autores recopilaron los testimonios de lectura de seis obras que la crítica tiene por autoficcionales y clasificaron los indicios de lectura [+literaria] (ocho topoi) y [+factual] (cinco), asignando a cada reseña un índice de 0 a 12.",
       "detalles": [
         {
           "label": "Plataforma",
-          "value": "Goodreads (corpus de 1.250 comentarios analizados)."
+          "value": "Goodreads (287 testimonios evaluados, todos en español)."
         },
         {
           "label": "Obras Muestra",
-          "value": "Obras de Emmanuel Carrère, Javier Cercas y Annie Ernaux."
+          "value": "Nettel (El cuerpo en que nací), Meruane (Sangre en el ojo), Zambra (Formas de volver a casa), Alcoba (La casa de los conejos), Pron (El espíritu de mis padres...) y Abad Faciolince (El olvido que seremos)."
         }
       ],
       "limitaciones": [
-        "Comunidad de usuarios de Goodreads no representativa de toda la población lectora (sesgo digital y juvenil)."
+        "Corpus de testimonios perfectible y ampliable: la clasificación cualitativa exige ponderar subjetivamente muchos elementos y no puede aspirar a la exactitud."
       ],
       "reflexion": "En la era de Instagram, el lector lee las novelas como si fueran historias íntimas contadas en un directo de redes sociales."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: El triunfo del voyeurismo y la trampa de la verdad",
-      "narrativa": "Los comentarios revelaron un choque brutal con la teoría canónica:",
+      "titulo": "Hallazgos empíricos: los lectores polarizan y no disfrutan de la duda",
+      "narrativa": "Los índices asignados a las reseñas revelaron una tensión con la teoría canónica:",
       "hallazgos": [
         {
-          "label": "1. El Rechazo al Pacto Ficcional",
-          "value": "Casi la mitad de los lectores se siente 'engañada' si descubre que un pasaje dramático no le ocurrió exactamente así al autor en la vida real."
+          "label": "1. Modas polarizadas",
+          "value": "Las modas estadísticas se concentran en los extremos: la mayoría escoge una lectura fundamentalmente factual o fundamentalmente literaria."
         },
         {
-          "label": "2. Juicio Moral sobre Juicio Estético",
-          "value": "Los lectores califican con 1 o 5 estrellas basándose en si el autor 'les cae bien como persona' tras confesar sus miserias íntimas."
+          "label": "2. La posición intermedia es la más dispersa",
+          "value": "Los promedios más intermedios (La casa de los conejos, El cuerpo en que nací, Formas de volver a casa) presentan a la vez las desviaciones estándar más elevadas."
         }
       ],
       "dataPoints": [
-        "Menos del 15% de los comentarios de Goodreads analizó aspectos formales de prosa, estructura o estilo."
+        "La obra percibida como más literaria es Sangre en el ojo (promedio 9,77 sobre 12), precisamente la que acumula más indicios de literariedad del corpus."
       ],
-      "reflexion": "La autoficción triunfa no porque el público ame la teoría literaria, sino porque el público tiene hambre de intimidad humana real."
+      "reflexion": "La autoficción triunfa no porque el público ame la teoría literaria, sino porque obliga a cada lector a elegir entre la verdad del documento y el juego de la ficción."
     },
     "marco": {
-      "titulo": "Discusión: La educación literaria en tiempos de autoficción",
-      "narrativa": "Ceballos-Viro y Vanden-Berghe instan a enseñar en las aulas a deslindar autor y personaje:",
+      "titulo": "Discusión: La autoficción como categoría analítica",
+      "narrativa": "Ceballos-Viro y Vanden-Berghe concluyen que la autoficción definida como pacto ambiguo existe ante todo como categoría analítica y no como estrategia de lectura:",
       "detalles": [
         {
-          "label": "Desactivar la Mirada Policial",
-          "value": "Ayudar a los alumnos a no leer buscando 'si fue verdad', sino a entender cómo la ficción recrea el sentido de la experiencia."
+          "label": "El lector decide el estatuto",
+          "value": "Es el lector quien 'tranche et reconnaît ou non le caractère littéraire d'un discours' (Saint-Jacques), según interprete las marcas autobiográficas y ficcionales del texto (Gasparini)."
         }
       ],
       "reflexion": "Toda verdad en literatura necesita de la mentira del arte para volverse universal."
     },
     "nucleo": {
       "pregunta": "¿Cómo reciben, interpretan y juzgan la autoficción los lectores reales en las plataformas de lectura social como Goodreads?",
-      "conclusion": "El estudio empírico de 1.250 reseñas en Goodreads constata que los lectores reales no adoptan el 'pacto ambiguo' de la teoría literaria, sino que leen la autoficción como autobiografía documental, juzgando moralmente la conducta privada del autor y buscando evidencias biográficas en la red. Estos hallazgos demuestran que la autoficción opera en la práctica como un fenómeno de fascinación testimonial y voyeurismo íntimo propio de la cultura digital contemporánea.",
+      "conclusion": "El estudio empírico de 287 reseñas en Goodreads constata que la mayoría de los lectores reales no suscribe el 'pacto ambiguo' de la teoría: arrima el texto a uno de los dos polos, la lectura factual (El olvido que seremos) o la literaria (Sangre en el ojo). La posición intermedia, estadísticamente más autoficticia, resulta la más dispersa, lo que sugiere que la autoficción con pacto ambiguo funciona ante todo como categoría analítica de la crítica y no como estrategia habitual de lectura.",
       "formalRef": "Ceballos-Viro, Á., & Vanden-Berghe, K. (2024). La autoficción en la práctica. Un estudio de recepción empírica. Ocnos, 23(2). https://doi.org/10.18239/ocnos2024.23.2.446"
     },
     "reflexion": {
@@ -118,7 +118,7 @@
           "q": "¿Cómo reacciona de forma mayoritaria el público de Goodreads al leer una novela de autoficción según el estudio?",
           "options": [
             "Analizando métricamente los versos.",
-            "Leyendo la obra como si fuera una autobiografía real y juzgando moralmente la vida personal del autor más que el estilo literario.",
+            "Escogiendo entre una lectura fundamentalmente factual o una fundamentalmente literaria, en lugar de recrearse en la duda.",
             "Negándose a calificar el libro.",
             "Traduciendo el texto al latín."
           ],
@@ -126,21 +126,21 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué porcentaje de las 1.250 reseñas analizadas se centró en aspectos formales de prosa, estructura o técnica narrativa?",
+          "q": "¿Qué promedio de literariedad (escala de 0 a 12) obtuvo El olvido que seremos, la obra del corpus leída de manera más factual?",
           "options": [
-            "El 100 % de los lectores.",
-            "Menos del 15 % de los comentarios.",
-            "Exactamente el 80 %.",
-            "La mitad exacta."
+            "1,75 sobre 12.",
+            "9,77 sobre 12.",
+            "6,08 sobre 12.",
+            "12 sobre 12."
           ],
-          "correct": 1
+          "correct": 0
         },
         {
           "type": "choice",
-          "q": "¿Qué autores emblemáticos de la autoficción contemporánea formaron parte del corpus de análisis del estudio?",
+          "q": "¿Qué autoras y autores hispanoamericanos formaron parte del corpus de análisis del estudio?",
           "options": [
             "Homero y Virgilio.",
-            "Emmanuel Carrère, Javier Cercas y Annie Ernaux.",
+            "Guadalupe Nettel, Lina Meruane, Alejandro Zambra, Laura Alcoba, Patricio Pron y Héctor Abad Faciolince.",
             "Agatha Christie y Conan Doyle.",
             "Julio Verne y H.G. Wells."
           ],
@@ -152,7 +152,7 @@
         },
         {
           "type": "open",
-          "q": "¿Por qué crees que en la cultura de Instagram y TikTok los lectores sienten tanta fascinación por las historias donde el autor confiesa sus peores miserias y secretos íntimos?"
+          "q": "¿Por qué crees que tantos lectores ordinarios dudan entre novela, autobiografía y testimonio ante una autoficción, y acaban eligiendo uno de los dos estatutos en lugar de disfrutar de la ambigüedad?"
         }
       ]
     }
@@ -163,19 +163,19 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "¿Es verdad lo que cuenta el libro o se lo ha inventado todo? Los lectores de Goodreads arden en debates éticos apasionados.",
+      "text": "¿Es verdad lo que cuenta el libro o se lo ha inventado todo? Cada lector decide por su cuenta: en Goodreads estos testimonios no dialogan entre sí.",
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Analizamos 1.250 reseñas reales en internet sobre Carrère, Cercas y Annie Ernaux con herramientas de minería textual.",
+      "text": "Analizamos 287 reseñas reales, todas en español, sobre seis autoficciones hispanoamericanas con un índice de literariedad.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Sorpresa! A los lectores les importa poco la teoría: juzgan al autor como si fuera su vecino y buscan en Google si fue verdad.",
+      "text": "¡Sorpresa! A los lectores les importa poco la teoría: se decantan por tomarse el texto al pie de la letra o por leerlo como novela.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "Enseñemos en las aulas a no hacer de policías de la verdad: la literatura usa la máscara para decir lo indecible.",
+      "text": "El pacto ambiguo de la autoficción vive sobre todo en el cuaderno del analista: el lector ordinario rara vez se recrea en la duda.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -192,110 +192,229 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Autoficción y Recepción Empírica en Redes de Lectura",
-    "descripcion": "Estudio de minería en 1.250 reseñas de Goodreads: pacto ambiguo vs. lectura factual, juicio moral del autor, voyeurismo digital y posverdad.",
+    "titulo": "Mapa conceptual: Recepción empírica de la autoficción en Goodreads (Ocnos 23(2), 2024)",
+    "descripcion": "Estudio que asigna un índice de literariedad a 287 reseñas de lectores en Goodreads sobre seis autoficciones hispanoamericanas y muestra que la mayoría de los lectores opta por una lectura factual o literaria sin recrearse en el pacto ambiguo.",
     "nodos": [
       {
         "id": "1",
-        "label": "Autoficción Contemporánea",
-        "color": "#e76f51"
+        "label": "Pacto ambiguo de la autoficción (Alberca)",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Alberca (2007) llamó pacto ambiguo a la reunión de la identidad onomástica entre autor, narrador y personaje y la presentación del texto como ficticio (Lecarme y Lecarme-Tabone, 1997). Gasparini (2012) habla de la 'viscosidad semántica' de un concepto teórico aún irresuelto."
       },
       {
         "id": "2",
-        "label": "Recepción Empírica en Goodreads",
-        "color": "#2a5a75"
+        "label": "Distinción entre literario y factual",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Los textos literarios quedan liberados del requisito de veracidad (Genette, 1979; Fish, 1980) y presentan marcas paratextuales y lingüísticas (Cohn, 1999; Schaeffer, 1999). 'Literario' y 'factual' son categorías que los adultos lectores diferencian con rapidez (Hayward, 1994; Lavocat, 2016), aunque hay textos ambiguos como los del corpus."
       },
       {
         "id": "3",
-        "label": "Lectura Factual Testimonial (42%)",
-        "color": "#c73e1d"
+        "label": "Lectura como imagen de autor (Schmitt)",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Schmitt (2010) propone ver la autoficción como adherencia semántica nacida de la construcción de una imagen de autor, y califica El olvido que seremos de autonarración. Este acercamiento alternativo anima a preguntar qué estatuto otorgan los lectores a la obra."
       },
       {
         "id": "4",
-        "label": "Pacto Ambiguo (Doubrovsky)",
-        "color": "#5b9eaa"
+        "label": "Recepción empírica de lectores ordinarios",
+        "color": "#f4a261",
+        "role": "Objetivo",
+        "descripcion": "Investiga qué consideración dan fuera del ámbito académico los lectores no especializados a obras que la crítica tiene por autoficcionales: ¿subgénero novelesco, duda sobre su estatuto como prevé Alberca, o lectura autobiográfica al pie de la letra?"
       },
       {
         "id": "5",
-        "label": "Juicio Moral sobre el Autor",
-        "color": "#f4d068"
+        "label": "Corpus de seis autoficciones recientes",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "El cuerpo en que nací (Nettel), Sangre en el ojo (Meruane), Formas de volver a casa (Zambra), La casa de los conejos (Alcoba), El espíritu de mis padres... (Pron) y El olvido que seremos (Abad Faciolince), con abundantes reseñas en la red y consenso crítico como autoficciones."
       },
       {
         "id": "6",
-        "label": "Desinterés por lo Formal (15%)",
-        "color": "#9b82c3"
+        "label": "Testimonios de lectura en Goodreads",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "Se repasarón las reseñas amateur de las seis obras hasta octubre de 2019 en el marco de un seminario de la Universidad de Lieja con seis estudiantes de máster. Finalmente se evaluaron 287 testimonios, todos en español."
       },
       {
         "id": "7",
-        "label": "Morbo Biográfico y Voyeurismo",
-        "color": "#e88b8c"
+        "label": "Topoi de lectura literaria y factual",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Ocho topoi delatan una lectura [+literaria] (trama como elección autorial, comparación con novelas canónicas, hablar de 'narrador' y 'personajes') y cinco una [+factual] (juzgar la honestidad, adscribirla a crónica o autobiografía), más cuatro factores que dificultan la adscripción."
       },
       {
         "id": "8",
-        "label": "Cultura de la Confesión Digital",
-        "color": "#264653"
+        "label": "Índice de literariedad (0 a 12)",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Cada evaluador asigna al testimonio una valencia de 0 (completamente factual) a 4 (completamente literario); la suma de tres valoraciones independientes da el índice final, método de atribución humana de valencias (cf. Wimmer et al., 2021). El objetivo era reconocer tendencias generales del corpus, no diagnósticos individuales."
       },
       {
         "id": "9",
-        "label": "Desmitificación de la Teoría",
-        "color": "#88b04b"
+        "label": "El olvido que seremos, lectura factual",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Promedio 1,75 sobre 12 y moda 0: gran consenso en leer el libro de Abad Faciolince como documento verídico, pese a recibir más denominaciones neutras que ninguna otra obra. Fue el texto con más reseñas valorables (158 de 307)."
       },
       {
         "id": "10",
-        "label": "Educación Literaria Crítica",
-        "color": "#f4a261"
+        "label": "Sangre en el ojo, lectura literaria",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Promedio 9,77 y moda 12: la obra de Meruane se lee mayoritariamente como novela, coherente con ser el título del corpus con más indicios de literariedad, incluido un episodio imposible según la enciclopedia del mundo empírico (el trasplante de ojos completos)."
+      },
+      {
+        "id": "11",
+        "label": "Escasa correspondencia temporal",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Los coeficientes R2 del índice con el tiempo son muy bajos (máximos en funciones polinómicas entre 0,0388 y 0,2428; EE llega a 0,3425 pero con datos escasos). Los testimonios almacenados no dialogan entre sí ni construyen interpretaciones consensuadas."
+      },
+      {
+        "id": "12",
+        "label": "Alta desviación en promedios intermedios",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "La casa de los conejos, El cuerpo en que nací y Formas de volver a casa combinan promedios intermedios con las desviaciones estándar más elevadas: la posición estadísticamente más autoficticia es la más dispersa y la lectura en duda es infrecuente."
+      },
+      {
+        "id": "13",
+        "label": "Etiqueta 'autoficción' excepcional",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "El término aparece solo tres veces en todo el corpus. Abundan en cambio etiquetas genéricas neutras ('historia', 'relato', 'obra') que reflejan desconcierto o cautela, y hibridaciones explícitas como 'novela autobiográfica'."
+      },
+      {
+        "id": "14",
+        "label": "Transposición no indica literariedad",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Los 23 comentarios que aplican la obra a contextos ajenos obtienen un índice medio de 3,91, muy inferior al promedio de promedios (6,08). Leer trasladando lo vivido a la propia experiencia no es señal inequívoca de lectura literaria."
+      },
+      {
+        "id": "15",
+        "label": "Autoficción como categoría analítica",
+        "color": "#f4a261",
+        "role": "Conclusiones",
+        "descripcion": "Concluye que la autoficción definida como pacto ambiguo existe ante todo como categoría analítica y no como estrategia de lectura: las modas están polarizadas y la mayoría escoge el polo factual o el literario, confirmando a Cohn (1999) y Schmitt (2010), aunque una proporción nada desdeñable sí suscribe la duda (Gibbons, 2019)."
+      },
+      {
+        "id": "16",
+        "label": "El lector decide el estatuto ontológico",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "Es el lector 'quien tranche et reconnaît ou non le caractère littéraire d'un discours' (Saint-Jacques, 1991). Según Gasparini (2012), la recepción depende de cómo interprete las marcas autobiográficas y ficcionales que el texto distribuye generosamente."
+      },
+      {
+        "id": "17",
+        "label": "Corpus perfectible y clasificación subjetiva",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "Los autores reconocen un corpus perfectible y ampliable (solo valorable 158 de 307 testimonios de OS), la renuncia a un corpus de control factual y que la clasificación cualitativa exige ponderar subjetivamente sin aspirar a la exactitud."
       }
     ],
     "aristas": [
       {
-        "from": "2",
-        "to": "1",
-        "label": "investiga las reacciones ante la"
+        "from": "1",
+        "to": "4",
+        "label": "motiva el estudio de la"
       },
       {
         "from": "2",
-        "to": "3",
-        "label": "constata el predominio de una"
+        "to": "4",
+        "label": "sustenta la pregunta de la"
       },
       {
         "from": "3",
         "to": "4",
-        "label": "ignora o dinamita el teórico"
+        "label": "invita a analizar la"
       },
       {
-        "from": "2",
+        "from": "4",
         "to": "5",
-        "label": "evidencia la primacía del"
+        "label": "se aborda con el"
       },
       {
-        "from": "2",
+        "from": "5",
         "to": "6",
-        "label": "registra un generalizado"
+        "label": "generan testimonios de lectura en las"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se clasifican mediante los"
       },
       {
         "from": "7",
-        "to": "3",
-        "label": "alimenta y dispara la"
+        "to": "8",
+        "label": "permiten asignar el"
       },
       {
         "from": "8",
-        "to": "7",
-        "label": "promueve en la sociedad el"
-      },
-      {
-        "from": "2",
         "to": "9",
-        "label": "demuestra con datos la"
+        "label": "revela en"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "muestra en"
       },
       {
         "from": "10",
-        "to": "3",
-        "label": "debe enseñar a desarmar la"
+        "to": "2",
+        "label": "acumula los indicios propios de la lectura"
+      },
+      {
+        "from": "6",
+        "to": "11",
+        "label": "evidencian su"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "arroja una"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "demuestra que la"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "refuerza que la"
+      },
+      {
+        "from": "14",
+        "to": "8",
+        "label": "rebaja el"
+      },
+      {
+        "from": "1",
+        "to": "15",
+        "label": "resulta ser sobre todo la"
+      },
+      {
+        "from": "9",
+        "to": "16",
+        "label": "confirma que"
       },
       {
         "from": "10",
-        "to": "1",
-        "label": "fomenta una lectura estética de la"
+        "to": "16",
+        "label": "evidencia que"
+      },
+      {
+        "from": "17",
+        "to": "4",
+        "label": "acota el alcance de la"
+      },
+      {
+        "from": "5",
+        "to": "13",
+        "label": "apenas recibe la"
       }
     ]
   }

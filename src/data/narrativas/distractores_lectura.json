@@ -12,9 +12,9 @@
     "color": "#e76f51",
     "colorAlt": "#2a5a75",
     "bg": "from-red-500/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-17.png",
+    "image": "/assets/portadas/distractores_lectura.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-17.png",
+      "image": "/assets/portadas/distractores_lectura.jpg",
       "name": "Dra. Sofía-Soledad Ortiz",
       "role": "Investigadora en Neuropsicología Cognitiva y Memoria de Trabajo, CONICET / UBA (Argentina)"
     }
@@ -35,7 +35,7 @@
           "id": "dist-apertura-2",
           "triggerLabel": "Teoría de la Carga Cognitiva y Memoria de Trabajo",
           "type": "theory",
-          "content": "Sweller (2011) y Baddeley (2000) explican que la memoria de trabajo tiene una capacidad estrictamente limitada. El bucle fonológico y la agenda visoespacial procesan información de forma selectiva. Si un distractor satura la memoria con 'carga cognitiva extrínseca', no quedan recursos para integrar las ideas del texto en la memoria a largo plazo."
+          "content": "Sweller (2003) y Baddeley (2000) explican que la memoria de trabajo tiene una capacidad estrictamente limitada. El bucle fonológico y la agenda visoespacial procesan información de forma selectiva. Si un distractor satura la memoria con 'carga cognitiva extrínseca', no quedan recursos para integrar las ideas del texto en la memoria a largo plazo."
         },
         {
           "id": "dist-apertura-3",
@@ -53,7 +53,7 @@
         "Tamaño del efecto combinado global negativo moderado y estadísticamente significativo: g = 0.45 (IC 95% [0.29, 0.60], p < .001).",
         "Moderador Tipo de Distractor: las interrupciones activas causan casi el doble de daño (b = 0.68, p < .001) que las interferencias de fondo (b = 0.36, p < .001).",
         "Moderador Modalidad Sensorial: los distractores visuales en pantalla perjudican mucho más (b = 0.62, p < .001) que los distractores auditivos (b = 0.37, p = .001).",
-        "Competencia de recursos: los distractores visuales compiten directamente por la misma vía retiniana y el mismo subsistema visoespacial que procesa las palabras escritas.",
+        "Competencia de recursos: los distractores visuales compiten directamente por los mismos recursos sensoriales y atencionales que la lectura del texto escrito.",
         "Persistencia de heterogeneidad residual (I² = 47-56%), indicando que la complejidad del texto y la memoria de trabajo individual modulan el impacto final."
       ],
       "glossary": [
@@ -67,7 +67,7 @@
         },
         {
           "term": "Atención ejecutiva",
-          "definition": "Capacidad cognitiva de alto nivel encargada de inhibir estímulos irrelevantes y mantener activos los objetivos de procesamiento frente a distracciones (Engle, 2002)."
+          "definition": "Capacidad cognitiva de alto nivel encargada de inhibir estímulos irrelevantes y mantener activos los objetivos de procesamiento frente a distracciones (Engle et al., 1999)."
         },
         {
           "term": "Coste de cambio de tarea (Task Switching Cost)",
@@ -81,12 +81,24 @@
     },
     "viaje": {
       "titulo": "Ruta metodológica: Protocolo PRISMA, modelos de efectos aleatorios y metarregresión",
-      "narrativa": "Los investigadores de CONICET y la Universidad de Buenos Aires rastrearon bases de datos científicas internacionales (PubMed, Scopus, PsycINFO, ERIC) aplicando directrices PRISMA. Seleccionaron únicamente estudios experimentales con grupo de control sin distractor y medidas objetivas de comprensión textual. Utilizaron un modelo metaanalítico de efectos aleatorios con estimador de varianza robusta para manejar dependencias entre tamaños de efecto y ejecutaron metarregresiones para examinar los moderadores teóricos.",
+      "narrativa": "Los investigadores de CONICET y la Universidad de Buenos Aires rastrearon bases de datos científicas internacionales (Ebsco Discovery Science, PubMed y Wiley Online Library) aplicando directrices PRISMA. Seleccionaron únicamente estudios experimentales con grupo de control sin distractor y medidas objetivas de comprensión textual. Utilizaron un modelo metaanalítico de efectos aleatorios para estimar el efecto promedio considerando la heterogeneidad entre estudios y ajustaron modelos con moderadores teóricos.",
       "detalles": [
-        { "label": "Bases de Datos", "value": "PsycINFO, Scopus, PubMed, SciELO y ERIC (búsqueda exhaustiva sin restricción cronológica inicial)." },
-        { "label": "Criterios de Inclusión", "value": "Estudios experimentales con manipulación controlada de distractores externos y pruebas estandarizadas de comprensión." },
-        { "label": "Modelo Estadístico", "value": "Modelo de efectos aleatorios con ponderación inversa de la varianza en lenguaje R (paquetes metafor y robumeta)." },
-        { "label": "Variables Moderadoras", "value": "Tipo de distractor (interrupción vs. interferencia), modalidad sensorial (visual vs. auditiva) y tipo de texto." }
+        {
+          "label": "Bases de Datos",
+          "value": "Ebsco Discovery Science (con Academic Search Ultimate, ERIC, MEDLINE, entre otras), PubMed y Wiley Online Library, para artículos de 2000 a 2024."
+        },
+        {
+          "label": "Criterios de Inclusión",
+          "value": "Estudios experimentales con manipulación controlada de distractores externos y pruebas estandarizadas de comprensión."
+        },
+        {
+          "label": "Modelo Estadístico",
+          "value": "Modelo de efectos aleatorios en lenguaje R (paquetes metafor y tidyverse), con el estadístico I² y la prueba Q de Cochran."
+        },
+        {
+          "label": "Variables Moderadoras",
+          "value": "Tipo de distractor (interrupción vs. interferencia), modalidad sensorial (visual vs. auditiva) y tipo de texto."
+        }
       ],
       "limitaciones": [
         "Número acotado de estudios (7 estudios, 16 tamaños de efecto) que cumplieron con los estándares metodológicos más rigurosos.",
@@ -117,11 +129,11 @@
         }
       ],
       "dataPoints": [
-        "La diferencia entre interrupciones e interferencias fue estadísticamente significativa en el modelo de metarregresión (t = 3.42, p = .003).",
-        "Los distractores auditivos sin lenguaje inteligible (como ruido blanco o música instrumental suave) provocaron el menor impacto negativo relativo.",
-        "El habla inteligible en segundo plano (personas conversando cerca) genera interferencia fonológica automática en el bucle articulatorio del lector."
+        "El tipo de distractor (interrupción vs. interferencia) resultó un moderador significativo (Q_M(2) = 43.47, p < .001).",
+        "La música sin letra y el silencio mostraron mejor desempeño en comprensión que la música con letra, les gustara o no al participante (Perham y Currie, 2014).",
+        "El habla irrelevante de fondo (personas conversando cerca) disminuyó de forma significativa el rendimiento en la comprensión lectora (Sörqvist et al., 2010)."
       ],
-      "reflexion": "Si lees con el teléfono móvil vibrando al lado, estás pagando un peaje cognitivo del 45%: tu cerebro trabaja el doble para aprender la mitad."
+      "reflexion": "Si lees con el teléfono móvil vibrando al lado, estás pagando un peaje cognitivo moderado pero real: tu cerebro trabaja el doble para aprender la mitad."
     },
     "marco": {
       "titulo": "Discusión: Diseñar santuarios atencionales para la era digital",
@@ -129,7 +141,7 @@
       "detalles": [
         {
           "label": "Desterrar el Mito del 'Nativo Digital Multitarea'",
-          "value": "Nadie puede procesar dos flujos lingüísticos conscientes a la vez. Promover la multitarea en el aula virtual es sabotear el aprendizaje de los estudiantes (Sweller, 2011)."
+          "value": "Nadie puede procesar dos flujos lingüísticos conscientes a la vez. Promover la multitarea en el aula virtual es sabotear el aprendizaje de los estudiantes (Sweller, 2003)."
         },
         {
           "label": "Higiene Atencional en el Estudio",
@@ -232,31 +244,257 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Distractores Externos y Comprensión de Textos",
-    "descripcion": "Síntesis metaanalítica sobre los efectos de interrupciones, interferencias, estímulos visuales y auditivos en la memoria de trabajo y la lectura profunda.",
+    "titulo": "Mapa conceptual: Efecto de distractores en la comprensión lectora (Ocnos 25(2), 2026)",
+    "descripcion": "Desde los modelos de memoria de trabajo y la distinción entre interferencias e interrupciones, el metaanálisis PRISMA de 7 estudios estima un efecto negativo global de g = 0.45, con moderadores (interrupción y pantalla más dañinas), implicancias para entornos digitales y límites de generalización.",
     "nodos": [
-      { "id": "1", "label": "Efecto de Distractores Externos", "color": "#e76f51" },
-      { "id": "2", "label": "Tamaño de Efecto Global (g = 0.45)", "color": "#2a5a75" },
-      { "id": "3", "label": "Interrupciones Activas (b = 0.68)", "color": "#c73e1d" },
-      { "id": "4", "label": "Interferencias de Fondo (b = 0.36)", "color": "#f4d068" },
-      { "id": "5", "label": "Distractores Visuales en Pantalla (b = 0.62)", "color": "#88b04b" },
-      { "id": "6", "label": "Distractores Auditivos (b = 0.37)", "color": "#5b9eaa" },
-      { "id": "7", "label": "Memoria de Trabajo y Carga Cognitiva", "color": "#9b82c3" },
-      { "id": "8", "label": "Coste de Cambio de Tarea (Switching)", "color": "#e88b8c" },
-      { "id": "9", "label": "Mito del Nativo Multitarea", "color": "#264653" },
-      { "id": "10", "label": "Higiene Atencional y Santuario Lector", "color": "#2a9d8f" }
+      {
+        "id": "1",
+        "label": "Representación mental del texto",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Comprender un texto implica integrar información nueva con el conocimiento previo, inferir relaciones y construir una representación mental coherente (Kintsch, 1998; Kintsch y Van Dijk, 1978). Puede decodificarse sin atender, pero resulta difícil comprender con éxito si no se está centrado en la tarea (Reichle et al., 2010; Steindorf y Rummel, 2020)."
+      },
+      {
+        "id": "2",
+        "label": "Interferencias e interrupciones",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Las interferencias son estímulos concurrentes que compiten por recursos sin detener la tarea (música, ruido, habla irrelevante); las interrupciones redirigen la atención a una actividad secundaria y exigen reanudar la lectura (Couffe y Michael, 2017; Stangl y Riedl, 2023). Esta distinción no había sido estudiada de forma exhaustiva."
+      },
+      {
+        "id": "3",
+        "label": "Memoria de trabajo de capacidad limitada",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Cowan (2005) la concibe como un sistema limitado de retención en el foco atencional, y los modelos de capacidad (Engle et al., 1999) añaden variación individual en los recursos. Las distracciones reducen velocidad y precisión (Brumby et al., 2013) y aumentan la carga de trabajo (Wickens, 2008)."
+      },
+      {
+        "id": "4",
+        "label": "Evidencia previa sobre distracción auditiva",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "El ruido de fondo, el habla y la música perjudican el rendimiento lector (Vasilev et al., 2018); se documentaron efectos del discurso de fondo, la radio, el televisor y sirenas (Cauchard et al., 2012; Ylias y Heaven, 2003). También se estudiaron el celular y la interferencia visoespacial, peor que la auditiva o visual (Chen y Yan, 2016; Fincher-Kiefer, 2001)."
+      },
+      {
+        "id": "5",
+        "label": "Sintetizar el efecto de los distractores",
+        "color": "#f4a261",
+        "role": "Objetivo",
+        "descripcion": "El metaanálisis busca sintetizar la agenda sobre el rol de los distractores respondiendo dos preguntas: ¿cuál es el tamaño de su efecto en la comprensión lectora? ¿Está moderado por el tipo de texto o de distractor? El foco está en comparar interferencia frente a interrupción y presentación visual frente a auditiva."
+      },
+      {
+        "id": "6",
+        "label": "Búsqueda sistemática con PRISMA",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Tres búsquedas bajo los estándares PRISMA (Page et al., 2021) en Ebsco Discovery Science, PubMed y Wiley Online Library, para artículos de 2000 a 2024, arrojaron 503 registros. Se excluyeron 38 duplicados y 445 por título y resumen, y 17 de 24 textos completos; se añadieron cuatro estudios desde citas y referencias."
+      },
+      {
+        "id": "7",
+        "label": "Siete estudios y 16 tamaños de efecto",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Quedaron 7 estudios con 16 tamaños de efecto, publicados entre 2003 y 2023, en adultos sanos y en su mayoría universitarios (N entre 24 y 178). Usaron diseños experimentales intersujeto e intrasujeto con medidas de logro en comprensión, como preguntas de opción múltiple."
+      },
+      {
+        "id": "8",
+        "label": "Codificación de textos y distractores",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "Cada distractor se codificó por tipo (interferencia o interrupción) y modalidad (visual o auditiva), junto al medio del texto (pantalla 50 %, papel 44 %, audio 6 %) y su tipo (75 % expositivo). El 69 % de los estudios usó interferencias y la distracción se presentó por audio en el 62,5 % de los casos."
+      },
+      {
+        "id": "9",
+        "label": "Efectos aleatorios, Egger y sensibilidad",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Se empleó un modelo de efectos aleatorios que estima el efecto promedio considerando la heterogeneidad (Borenstein et al., 2010), con el estadístico I² y la prueba Q de Cochran. El sesgo de publicación se evaluó con gráfico de embudo y test de Egger, todo en R con los paquetes metafor y tidyverse."
+      },
+      {
+        "id": "10",
+        "label": "Efecto global moderado (g = 0.45)",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "El tamaño de efecto combinado fue moderado y estadísticamente significativo: g = 0.45, IC 95 % [0.29, 0.60] (z = 5.72, p < .0001), indicando un impacto negativo de los distractores sobre la comprensión de textos."
+      },
+      {
+        "id": "11",
+        "label": "Heterogeneidad no explicada del 44-56 %",
+        "color": "#2a5a75",
+        "role": "Resultados",
+        "descripcion": "La heterogeneidad inicial fue moderada (I² = 55.75 %; Q = 33.9, p < .003). Al incluir los moderadores, persistió variabilidad significativa (I² = 44.41-47.89 %), lo que sugiere factores no controlados como la complejidad del texto, los instrumentos o el año de publicación."
+      },
+      {
+        "id": "12",
+        "label": "Interrupciones más dañinas (b = 0.68)",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "El tipo de distractor explicó parte de la heterogeneidad (Q = 43.47, p < .001): las interrupciones, como resolver problemas matemáticos entre párrafos (Foroughi et al., 2015) o preguntas de opinión en pantalla (Pashler et al., 2013), mostraron mayor efecto (b = 0.68) que las interferencias (b = 0.36)."
+      },
+      {
+        "id": "13",
+        "label": "Distractores en pantalla más disruptivos",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "La forma de presentación influyó significativamente (Q = 40.15, p < .001): los distractores en pantalla alcanzaron b = 0.62 frente a b = 0.37 de los auditivos, probablemente por la competencia con la lectura por los mismos recursos sensoriales y atencionales visuales (Mandal et al., 2024)."
+      },
+      {
+        "id": "14",
+        "label": "Desenlaces dispares en interferencias",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "La música con letra empeoró el desempeño frente al silencio y la música sin letra (Perham y Currie, 2014) y el habla irrelevante redujo la comprensión (Sörqvist et al., 2010). Sin embargo, las condiciones musicales de Wong et al. (2023) y el ruido de bar de Robison y Unsworth (2015) no hallaron diferencias significativas."
+      },
+      {
+        "id": "15",
+        "label": "Robustez al sesgo de publicación",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "El test de Egger no fue significativo (b = -0.02, p = .07) y los estimadores DL, REML y ML arrojaron g = .45. La sensibilidad mostró una leve disminución a g = 0.41 al excluir estudios con n < 30, y Trim-and-Fill ajustó el efecto a g = .40."
+      },
+      {
+        "id": "16",
+        "label": "Implicancias para entornos digitales",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "Se recomienda minimizar los distractores visuales (como notificaciones) en materiales educativos, introduciendo gráficos, imágenes e hipervínculos de forma gradual tras procesar el contenido. También estructurar la lectura en bloques temporales protegidos de interrupciones y promover estrategias metacognitivas para anticipar, regular y recuperar la atención."
+      },
+      {
+        "id": "17",
+        "label": "Antecedente para la investigación futura",
+        "color": "#2a9d8f",
+        "role": "Conclusiones",
+        "descripcion": "Se concluye que los distractores tienen un efecto moderado y significativo, alineado con la evidencia en tareas cognitivas complejas (Denning et al., 2018), y que varía según tipo y modalidad. Los resultados caracterizan las condiciones en que la distracción resulta perjudicial y se configuran como antecedente de futuros estudios."
+      },
+      {
+        "id": "18",
+        "label": "Limitada evidencia y generalización restringida",
+        "color": "#f4d068",
+        "role": "Limitaciones",
+        "descripcion": "La baja cantidad de artículos limita los análisis y restringe la generalización de los efectos, junto con la heterogeneidad residual. Las diferencias entre tipos de distractor deben interpretarse con cautela por el escaso uso de interrupciones, y quedan pendientes poblaciones como niños, otras dimensiones de comprensión y la duración de los distractores."
+      }
     ],
     "aristas": [
-      { "from": "1", "to": "2", "label": "se cuantifica mediante el" },
-      { "from": "1", "to": "3", "label": "se agrava intensamente con las" },
-      { "from": "1", "to": "4", "label": "presenta menor daño ante" },
-      { "from": "1", "to": "5", "label": "alcanza máxima letalidad en" },
-      { "from": "5", "to": "7", "label": "satura directamente la" },
-      { "from": "3", "to": "8", "label": "dispara el" },
-      { "from": "8", "to": "7", "label": "destruye el modelo mental en la" },
-      { "from": "9", "to": "1", "label": "ignora erróneamente el" },
-      { "from": "10", "to": "3", "label": "bloquea y silencia las" },
-      { "from": "10", "to": "5", "label": "elimina del campo visual los" }
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se sostiene en la"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "orienta el foco del"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "precisa la pregunta del"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se aborda con la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "identificó los"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "entrega sus estudios a la"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "codifica las variables de la"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "estima el"
+      },
+      {
+        "from": "10",
+        "to": "3",
+        "label": "se explica por la"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "coexiste con la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "detecta la mayor nocividad de las"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "detecta la mayor nocividad de los"
+      },
+      {
+        "from": "13",
+        "to": "3",
+        "label": "disputan los recursos de la"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "se refleja en los"
+      },
+      {
+        "from": "14",
+        "to": "12",
+        "label": "confirma el efecto de las"
+      },
+      {
+        "from": "4",
+        "to": "14",
+        "label": "documenta desenlaces como los"
+      },
+      {
+        "from": "15",
+        "to": "10",
+        "label": "consolidan el"
+      },
+      {
+        "from": "10",
+        "to": "16",
+        "label": "fundamenta las"
+      },
+      {
+        "from": "12",
+        "to": "16",
+        "label": "sustentan las"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "respaldan las"
+      },
+      {
+        "from": "10",
+        "to": "17",
+        "label": "sustentan la"
+      },
+      {
+        "from": "18",
+        "to": "10",
+        "label": "restringen la generalización del"
+      },
+      {
+        "from": "18",
+        "to": "17",
+        "label": "matizan la solidez de la"
+      },
+      {
+        "from": "9",
+        "to": "15",
+        "label": "permiten verificar la"
+      }
     ]
   }
 }

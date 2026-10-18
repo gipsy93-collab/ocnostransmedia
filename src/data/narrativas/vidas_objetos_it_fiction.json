@@ -6,7 +6,7 @@
     "year": "2024",
     "journal": "Ocnos 23(1)",
     "doi": "10.18239/ocnos_2024.23.1.409",
-    "gancho": "¿Qué secretos nos contaría un abrigo viejo, un libro abandonado o una moneda si tuvieran voz propia?",
+    "gancho": "¿Qué secretos nos contaría una moneda, una muñeca o un libro abandonado si tuvieran voz propia?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#88b04b",
@@ -15,15 +15,15 @@
     "image": "/assets/cromos/cromo-06.png",
     "tutor": {
       "image": "/assets/cromos/cromo-06.png",
-      "name": "Dra. Ana Peñas-Ruiz",
+      "name": "Ana Peñas-Ruiz",
       "role": "Investigadora en Literatura Comparada y Teoría del Cuento, UNED"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Ana Peñas-Ruiz, especialista en genealogías narrativas y relatos de cosas parlantes",
+      "personaje": "Ana Peñas-Ruiz, investigadora de la UNED, especialista en genealogías narrativas y relatos de cosas parlantes",
       "gancho": "¿Es darle voz a una muñeca o a una moneda un simple pasatiempo infantil o una profunda crítica a la sociedad materialista?",
-      "contexto": "En los siglos XVIII y XIX triunfó en Europa un fascinante subgénero literario: la 'it-fiction' o 'novela de objetos', donde cosas inanimadas (un billete de banco, un paraguas, un reloj o un alfiler) narraban en primera persona sus andanzas pasando de mano en mano por distintos estratos sociales. En este estudio histórico y comparativo, la investigadora analizó la pervivencia y evolución de este dispositivo en la literatura infantojuvenil contemporánea (LIJ).",
+      "contexto": "En los siglos XVIII y XIX triunfó en Europa un fascinante subgénero literario: la 'it-fiction' o 'novela de objetos', donde cosas inanimadas (una moneda, una almohadilla de alfileres, peonzas, muñecas o sillas) narraban en primera persona sus andanzas pasando de mano en mano por distintos estratos sociales. En este estudio histórico y comparativo, la investigadora analizó la pervivencia y evolución de este dispositivo en la literatura infantojuvenil contemporánea (LIJ).",
       "deepDives": [
         {
           "id": "itf-apertura-1",
@@ -35,18 +35,18 @@
           "id": "itf-apertura-2",
           "triggerLabel": "Corpus contemporáneo de LIJ",
           "type": "data",
-          "content": "Análisis de álbumes ilustrados y novelas infantiles recientes donde muñecos, monedas y libros cobran conciencia."
+          "content": "Un cuento ilustrado y cinco álbumes (tres sin palabras) publicados entre 1975 y 2017: un títere, una máquina de coser, un payaso, un soldadito de plomo, un osito de peluche y una camiseta cobran vida."
         }
       ]
     },
     "conflicto": {
-      "problema": "La crítica suele reducir estos relatos a mero 'animismo infantil' o 'juguetes que cobran vida tipo Toy Story', pasando por alto su mordaz carga ética, ecológica y social.",
-      "porQueImporta": "En la actual crisis ecológica de usar y tirar, las historias que humanizan a los objetos enseñan a los niños a valorar la memoria, el cuidado y la sostenibilidad.",
+      "problema": "Los especialistas en LIJ suelen desconocer la it-fiction cuando aluden a la narrativa de objetos y remontan la técnica a Andersen, de modo que las 'vidas de objetos' contemporáneas parecen un hallazgo novedoso cuando en realidad son un viejo dispositivo de la ficción para adultos.",
+      "porQueImporta": "Estos relatos interpelan sobre la relación del ser humano con los artefactos, la globalización y las consecuencias del capitalismo en las sociedades postindustriales, y interesan a la historia de la lectura y de las prácticas lectoras.",
       "dataPoints": [
-        "Estudio comparativo de más de 40 obras clave desde el siglo XVIII hasta la actualidad.",
-        "Evolución del narrador: de la sátira picaresca dieciochesca a la educación afectiva y el duelo ecológico en el álbum ilustrado contemporáneo.",
-        "El objeto como testigo de la fragilidad humana: juguetes rotos que acompañan a niños refugiados o abrigos heredados entre generaciones.",
-        "Subversión del antropocentrismo: el mundo no gira solo alrededor de las personas."
+        "Estudio comparativo entre la it-fiction de los siglos XVIII y XIX y un corpus selecto de seis obras de LIJ (1975-2017).",
+        "Del receptor adulto de las primeras narraciones, marcadamente satíricas, al lector infantojuvenil hacia 1780-1790, con el giro didáctico-moral de la literatura infantil.",
+        "Los seis objetos del corpus son rechazados, maltratados, tirados a la basura y convertidos en desechos en algún punto de su existencia.",
+        "En la it-fiction los objetos reciben atributos humanos mientras los humanos aparecen cosificados (Blackwell, 2004): subversión del antropocentrismo narrativo."
       ],
       "glossary": [
         {
@@ -54,61 +54,61 @@
           "definition": "Subgénero narrativo donde la voz narrativa o el punto de vista focalizador corresponde a un objeto no humano que circula socialmente."
         },
         {
-          "term": "Giro material en literatura",
-          "definition": "Perspectiva crítica que reconoce la agencia, la memoria y la capacidad de afección de los objetos en la configuración de la vida humana."
+          "term": "Vidas de objetos",
+          "definition": "Manifestación específica de la narrativa de objetos: relatos donde la vida del objeto animado es el eje argumental y la estructura es circular o itinerante, pues el viajero artefacto pasa por distintas manos y escenarios."
         }
       ]
     },
     "viaje": {
       "titulo": "Ruta metodológica: Análisis narratológico comparado y teoría del objeto",
-      "narrativa": "La autora examinó la focalización, la caracterización somática del objeto y los esquemas de circulación en textos clásicos (Smollett, Andersen) y contemporáneos (Innocenti, Alemagna, Morpurgo).",
+      "narrativa": "La autora examinó la voz narrativa (homodiégesis o heterodiégesis), la tipología del personaje y la estructura circular o itinerante en un corpus seleccionado a partir de la Biblioteca Nacional de España, la Biblioteca Virtual Miguel de Cervantes, Canal Lector y catálogos editoriales.",
       "detalles": [
         {
           "label": "Periodo Analizado",
-          "value": "Del siglo XVIII a la producción editorial de 2023."
+          "value": "La it-fiction de los siglos XVIII y XIX frente a obras de LIJ publicadas entre 1975 y 2017."
         },
         {
           "label": "Obras Destacadas",
-          "value": "'La historia de un alfiler', 'El soldadito de plomo', 'El perro de peluche', 'Rose Blanche'."
+          "value": "'El pequeño títere' (Ende), 'La máquina de coser' (Capdevila), 'Clown' (Blake), 'El soldadito de plomo en dibujos' (Müller), 'Otto' (Ungerer) y 'Ado-ka-frè' (Victor)."
         }
       ],
       "limitaciones": [
-        "Vastedad del corpus internacional que obliga a una selección representativa."
+        "Quedaron fuera los animales parlantes, el folclore y la literatura oral, y la autora señala que el análisis deberá completarse con un corpus mayor."
       ],
       "reflexion": "Un objeto que amamos guarda en sus grietas el eco de todas las manos que lo sostuvieron con ternura."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: El objeto como custodio de la memoria",
-      "narrativa": "El análisis comparado demostró una mutación conmovedora del subgénero:",
+      "titulo": "Hallazgos empíricos: el objeto como síntoma de la sociedad",
+      "narrativa": "El análisis comparado reveló concomitancias y divergencias entre ambos sistemas literarios:",
       "hallazgos": [
         {
-          "label": "1. De la Sátira Social a la Empatía Afectiva",
-          "value": "Mientras la it-fiction clásica usaba el objeto para burlarse de la avaricia humana, la LIJ contemporánea lo utiliza para hablar del apego, la pérdida, la migración y la vejez."
+          "label": "1. De la sátira adulta al interpelar al niño",
+          "value": "La it-fiction original diseccionaba sociedad y economía con narradores-mercancía; la LIJ actual recupera el esquema itinerante para mostrar el vínculo sentimental con las posesiones y una implícita ética del cuidado de juguetes y pertenencias."
         },
         {
-          "label": "2. Una Conciencia Contra el Despilfarro",
-          "value": "Los cuentos de objetos reparados transmiten una potente ética del reciclaje y el respeto hacia la materia en un mundo de consumo voraz."
+          "label": "2. Una conciencia contra el despilfarro",
+          "value": "Los álbumes evidencian el consumismo y la cultura del usar y tirar, con la obsolescencia programada y la 'sociedad del despilfarro' (Escámez-Sánchez, 1998; Latouche, 2014) de fondo."
         }
       ],
       "dataPoints": [
-        "Fuerte presencia de objetos textiles (abrigos, colchas, bufandas) como metáforas del tejido familiar intergeneracional."
+        "En los álbumes de Müller y Victor, los objetos despreciados por los países desarrollados llegan como despojos a África, reciben un nuevo uso y acaban regresando, comprados por turistas, a su lugar de origen."
       ],
       "reflexion": "En un mundo que produce basura sin fin, cuidar un juguete viejo es un acto de rebeldía poética."
     },
     "marco": {
-      "titulo": "Discusión: Didáctica de las cosas en las escuelas",
-      "narrativa": "Peñas-Ruiz sugiere talleres de escritura creativa a partir de objetos queridos:",
+      "titulo": "Discusión: Fronteras difusas entre sistemas literarios",
+      "narrativa": "Peñas-Ruiz discute el vacío historiográfico y las continuidades entre el sistema adulto y el infantil:",
       "detalles": [
         {
-          "label": "Biografías de Cosas Cotidianas",
-          "value": "Invitar a los niños a traer un objeto familiar y escribir su historia secreta desde la perspectiva de la cosa."
+          "label": "Texto ambivalente",
+          "value": "Con Shavit (2009), la it-fiction es un texto ambivalente leído simultáneamente por al menos dos grupos de lectores; su esquema entró en la LIJ cuando el sistema adulto agotó el modelo inicial."
         }
       ],
-      "reflexion": "Aprender a escuchar a los objetos es aprender a mirar el mundo con ojos de compasión y respeto."
+      "reflexion": "Leer las vidas de objetos es aprender a mirar el mundo con ojos de compasión y respeto hacia la cultura material."
     },
     "nucleo": {
-      "pregunta": "¿Cómo ha evolucionado la tradición de la it-fiction y qué sentido pedagógico y ético tienen las vidas de objetos en la literatura infantil y juvenil contemporánea?",
-      "conclusion": "La investigación comparada revela que la LIJ contemporánea hereda la tradición de la it-fiction para transformarla en un poderoso dispositivo de educación ética y afectiva. Lejos de ser un recurso pueril, dar voz a los objetos permite abordar el duelo, la memoria histórica de las migraciones y la crítica ecológica al consumo compulsivo, educando la sensibilidad de los jóvenes hacia el cuidado del entorno material y humano.",
+      "pregunta": "¿Qué vínculos temáticos, formales y culturales unen las vidas de objetos de la LIJ contemporánea con la it-fiction de los siglos XVIII y XIX, y qué ocurre con su perfil lector?",
+      "conclusion": "La investigación comparada revela que, sin rastro intertextual directo —salvo el hipotexto anderseniano del álbum de Müller—, la LIJ bebe indirectamente de la it-fiction a través del imaginario colectivo, y que entre ambos sistemas literarios hay más continuidades que rupturas. Los objetos animados, metáfora y termómetro del sistema cultural, interpelan a los lectores sobre la relación con los artefactos, la globalización y las consecuencias del capitalismo en las sociedades postindustriales, con un interés directo para la historia de la lectura y las prácticas lectoras.",
       "formalRef": "Peñas-Ruiz, A. (2024). Vidas de objetos en la literatura infantojuvenil y la it-fiction. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.409"
     },
     "reflexion": {
@@ -118,7 +118,7 @@
           "q": "¿Qué definía al subgénero literario de la 'it-fiction' surgido en los siglos XVIII y XIX en Europa?",
           "options": [
             "Novelas sobre ordenadores e inteligencia artificial.",
-            "Relatos narrados en primera persona por objetos inanimados (monedas, alfileres, abrigos) que van pasando de mano en mano por diferentes clases sociales.",
+            "Relatos narrados en primera persona por objetos inanimados (monedas, almohadillas de alfileres, peonzas o muñecas) que van pasando de mano en mano por diferentes clases sociales.",
             "Manuales de fabricación de muebles.",
             "Historias sobre viajes espaciales."
           ],
@@ -126,23 +126,23 @@
         },
         {
           "type": "choice",
-          "q": "¿Cómo ha transformado la literatura infantil y juvenil contemporánea este subgénero frente a la sátira clásica?",
+          "q": "¿Qué ocurre cuando el esquema itinerante de la it-fiction llega a los álbumes contemporáneos de la LIJ?",
           "options": [
-            "Haciendo que los objetos solo hablen de videojuegos.",
-            "Utilizando el objeto como testigo afectivo de la memoria familiar, la pérdida, las migraciones y la crítica ética al usar y tirar.",
-            "Eliminando todos los personajes humanos.",
-            "Prohibiendo que los juguetes cobren vida."
+            "Que los objetos solo hablan de videojuegos.",
+            "Que se combinan el vínculo sentimental y la crítica al consumo, la obsolescencia programada y la globalización de los desechos.",
+            "Que desaparecen todos los personajes humanos.",
+            "Que se prohíbe que los juguetes cobren vida."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué tipo de objeto aparece con enorme frecuencia en los álbumes infantiles como metáfora de los vínculos entre abuelos, padres e hijos?",
+          "q": "¿Qué recorrido común muestran los objetos desechados en los álbumes de Müller y Victor?",
           "options": [
-            "Los teléfonos móviles de última generación.",
-            "Los objetos textiles heredados (abrigos de lana, colchas de retales o bufandas cosidas a mano).",
-            "Los coches de carreras.",
-            "Las latas de refresco vacías."
+            "Se reciclan industrialmente dentro del propio país desarrollado.",
+            "Llegan como despojos a África, reciben allí un nuevo uso y terminan regresando, comprados por turistas, a su lugar de origen.",
+            "Se destruyen en vertederos sin ninguna segunda vida.",
+            "Acaban exhibidos como reliquias en museos."
           ],
           "correct": 1
         },
@@ -163,7 +163,7 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "De la picaresca del siglo XVIII a los álbumes infantiles sobre refugiados: los objetos son los testigos mudos de nuestra historia.",
+      "text": "De la sátira para adultos del siglo XVIII a los álbumes contra el usar y tirar: los objetos son termómetro de nuestra cultura material.",
       "position": "bottom-right"
     },
     "viaje": {
@@ -171,11 +171,11 @@
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Adiós al consumismo voraz! Los cuentos de objetos nos enseñan el valor sagrado de la memoria, la reparación y el afecto.",
+      "text": "¡Cuidado con la sociedad del despilfarro! Los seis objetos del corpus acaban rechazados o en la basura: síntomas del consumo y de la globalización.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "Llevemos la biografía de las cosas a la escuela: es el mejor camino para educar en la ecología y la compasión.",
+      "text": "Las fronteras entre literatura adulta e infantil son difusas: la it-fiction es un texto ambivalente que se lee en dos sistemas a la vez.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -192,110 +192,230 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Vidas de Objetos, It-Fiction y Literatura Infantojuvenil",
-    "descripcion": "Estudio de literatura comparada: genealogía de la it-fiction, giro material, memoria afectiva, duelo y crítica ecológica al consumo.",
+    "titulo": "Mapa conceptual: Vidas de objetos, de la it-fiction a la LIJ (Ocnos 23(1) 2024)",
+    "descripcion": "De la definición y la sátira de la it-fiction dieciochesca al desplazamiento de su lector hacia la infancia: el análisis comparado de un corpus de seis obras de LIJ (1975-2017) revela consumo, globalización, vínculo afectivo y continuidades entre ambos sistemas literarios.",
     "nodos": [
       {
         "id": "1",
-        "label": "Vidas de Objetos en la LIJ",
-        "color": "#88b04b"
+        "label": "It-fiction de los siglos XVIII y XIX",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Corriente narrativa europea destinada originalmente a lectores adultos, con protagonistas no humanos (objeto, animal, vegetal o mineral) que cuentan su vida en forma de autobiografía, memorias o aventuras, con estructura circular o itinerante (Blackwell, 2007; Peñas-Ruiz, 2012)."
       },
       {
         "id": "2",
-        "label": "Tradición de la It-Fiction (s. XVIII)",
-        "color": "#2a5a75"
+        "label": "Vidas de objetos de esquema circular",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Manifestación específica: narraciones protagonizadas por objetos animados cuyo relato vital es el eje argumental, con una estructura circular porque el objeto se desplaza, a menudo en contra de su voluntad, viajando por distintos escenarios y manos."
       },
       {
         "id": "3",
-        "label": "Giro Material y No Antropocéntrico",
-        "color": "#5b9eaa"
+        "label": "Animación y antropomorfización en la ficción",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Animar y antropomorfizar es un hábito cognitivo arraigado en la experiencia religiosa y en la predisposición hacia la información social (Vermeule, 2010); Nikolajeva y Scott (2006) notan que las ficciones de objetos son más singulares que las de animales parlantes."
       },
       {
         "id": "4",
-        "label": "Memoria Afectiva e Intergeneracional",
-        "color": "#f4d068"
+        "label": "Sátira social y humanos cosificados",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Que los narradores fueran monedas u mercancías permitía diseccionar la sociedad y la economía moderna: los objetos reciben rasgos humanos mientras los humanos aparecen cosificados (Blackwell, 2004), en la genealogía del fisgón que va del pícaro a El asno de oro."
       },
       {
         "id": "5",
-        "label": "Objetos Textiles (Abrigos/Colchas)",
-        "color": "#2a9d8f"
+        "label": "Desplazamiento del lector adulto a infantil",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "Objetivo doble: observar los valores que transmiten estas narraciones en sus marcos sociohistóricos e indagar el paso del perfil lector adulto al infantojuvenil (hacia 1780-1790), explorando secundariamente la relación entre ambas tradiciones por influencia o imaginario compartido."
       },
       {
         "id": "6",
-        "label": "Testigos de la Historia (Guerra/Exilio)",
-        "color": "#c73e1d"
+        "label": "Corpus de seis obras de LIJ",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Un cuento ilustrado y cinco álbumes (tres sin palabras) publicados entre 1975 y 2017: El pequeño títere (Ende), La máquina de coser (Capdevila), Clown (Blake), El soldadito de plomo en dibujos (Müller), Otto. Autobiografía de un osito de peluche (Ungerer) y Ado-ka-frè (Victor)."
       },
       {
         "id": "7",
-        "label": "Crítica a la Cultura de Usar y Tirar",
-        "color": "#e76f51"
+        "label": "Criterios de selección del corpus",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Búsqueda en la Biblioteca Nacional de España, la Biblioteca Virtual Cervantes, Canal Lector y catálogos editoriales; se retienen objetos (no animales ni fenómenos naturales), con estructura itinerante, de la LIJ escrita europea y dirigidos inicialmente a niños y adolescentes."
       },
       {
         "id": "8",
-        "label": "Focalización en Primera Persona",
-        "color": "#9b82c3"
+        "label": "Lectura comparada desde la materialidad",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "Investigación cualitativa y documental con aproximación cultural, histórica y narratológica: lectura analítica y comparada del corpus frente a la it-fiction, interpretando los objetos desde la materialidad, la mercantilización, la ecología y la globalización."
       },
       {
         "id": "9",
-        "label": "Álbum Ilustrado Contemporáneo",
-        "color": "#264653"
+        "label": "Circulación, consumo y desecho",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Los seis objetos son exhibidos como mercancía, comprados por capricho y luego abandonados, rotos o tirados a la basura: evidencian el consumismo, la obsolescencia programada y la «sociedad del despilfarro» (Escámez-Sánchez, 1998), la «adicción al crecimiento» de Latouche (2014)."
       },
       {
         "id": "10",
-        "label": "Educación Ecológica y Cuidado",
-        "color": "#f4a261"
+        "label": "Globalización y segunda vida textil",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "En Ado-ka-frè —«intentar ver» en bambara, nombre de la ropa de segunda mano en los mercados de Costa de Marfil— la camiseta desechada por el mundo desarrollado recibe nuevo uso en África y regresa comprada por turistas; los niños occidental y africano replican el mismo consumismo."
+      },
+      {
+        "id": "11",
+        "label": "Valor sentimental y misión del objeto",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Todas las obras critican la sustitución de lo viejo por lo nuevo y muestran el apego sentimental: el juguete abandonado sonríe pese a su destino (Ende, Blake) y el objeto solo adquiere sentido al cumplir la función para la que «nació», su «misión en la vida»."
+      },
+      {
+        "id": "12",
+        "label": "Andersen, padre de la narrativa de objetos",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Andersen pudo conocer y absorber la it-fiction; es padre moderno de la narrativa de objetos y precedente directo de Disney. No hay rastro intertextual de la it-fiction en el corpus salvo el hipotexto anderseniano del álbum de Müller."
+      },
+      {
+        "id": "13",
+        "label": "Polisistemas de literatura ambivalente",
+        "color": "#5b9eaa",
+        "role": "Discusión",
+        "descripcion": "Con Shavit (2009), las fronteras entre literatura adulta e infantil son difusas: la it-fiction es texto ambivalente leído concurrentemente por dos públicos, y su esquema entró en la LIJ cuando el sistema adulto agotó el modelo, sin que la transformación fuera solo de lo inmoral a lo didáctico."
+      },
+      {
+        "id": "14",
+        "label": "Continuidades entre sistemas literarios",
+        "color": "#f4d068",
+        "role": "Conclusiones",
+        "descripcion": "Hay más continuidades que rupturas: la LIJ bebe indirectamente de la it-fiction vía imaginario colectivo, sus presupuestos perviven, y comparar ambos sistemas enriquece la historia de la lectura, donde las categorías de clasificación son un artificio que los lectores sortean (Manguel, 2023)."
+      },
+      {
+        "id": "15",
+        "label": "Corpus acotado a completar",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "El análisis queda acotado a seis obras y debe completarse con un corpus mayor; se excluyeron animales parlantes, folclore y literatura oral, y se señalan como líneas futuras las vidas de objetos en poesía y teatro (Trastario, Blondinette)."
       }
     ],
     "aristas": [
       {
         "from": "1",
         "to": "2",
-        "label": "recoge la herencia de la clásica"
+        "label": "articula el relato mediante las"
       },
       {
-        "from": "1",
-        "to": "3",
-        "label": "se fundamenta en el moderno"
-      },
-      {
-        "from": "1",
-        "to": "8",
-        "label": "utiliza preferentemente la"
+        "from": "3",
+        "to": "2",
+        "label": "explica la inclinación cognitiva de las"
       },
       {
         "from": "1",
         "to": "4",
-        "label": "convierte al objeto en custodio de la"
+        "label": "habilita su"
       },
       {
         "from": "4",
         "to": "5",
-        "label": "se simboliza a menudo en"
+        "label": "cuestiona el"
       },
       {
-        "from": "1",
+        "from": "5",
         "to": "6",
-        "label": "hace de las cosas mudas los"
+        "label": "se contrasta con el"
       },
       {
-        "from": "1",
+        "from": "5",
         "to": "7",
-        "label": "construye una lúcida"
+        "label": "se delimita por los"
+      },
+      {
+        "from": "7",
+        "to": "6",
+        "label": "configura el"
+      },
+      {
+        "from": "8",
+        "to": "6",
+        "label": "somete a lectura comparada el"
+      },
+      {
+        "from": "2",
+        "to": "6",
+        "label": "define el esquema narrativo del"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "muestra en su trayecto la"
+      },
+      {
+        "from": "6",
+        "to": "10",
+        "label": "ejemplifica con Ado-ka-frè la"
+      },
+      {
+        "from": "6",
+        "to": "11",
+        "label": "transmite el"
       },
       {
         "from": "9",
-        "to": "1",
-        "label": "es el soporte idóneo de las"
+        "to": "10",
+        "label": "desemboca en la"
       },
       {
-        "from": "10",
-        "to": "7",
-        "label": "se fortalece mediante la"
+        "from": "11",
+        "to": "9",
+        "label": "contrasta con la"
       },
       {
-        "from": "10",
-        "to": "4",
-        "label": "promueve en la infancia el"
+        "from": "1",
+        "to": "12",
+        "label": "pudo inspirar a"
+      },
+      {
+        "from": "3",
+        "to": "12",
+        "label": "perdura en la obra de"
+      },
+      {
+        "from": "12",
+        "to": "6",
+        "label": "nutre el hipotexto de"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "dialogiza la lectura de los"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "encaja en la teoría de los"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "sustenta las"
+      },
+      {
+        "from": "14",
+        "to": "5",
+        "label": "cierra la indagación sobre el"
+      },
+      {
+        "from": "15",
+        "to": "14",
+        "label": "acota el alcance de las"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "interpreta desde la mercantilización la"
       }
     ]
   }

@@ -1,18 +1,33 @@
-import React, { useState, useMemo, useRef } from 'react';
-import { motion, AnimatePresence, useReducedMotion } from 'motion/react';
+import React, { useState, useMemo, useRef, useEffect, useCallback } from 'react';
+import { motion, AnimatePresence } from 'motion/react';
+import confetti from 'canvas-confetti';
 import { 
   ZoomIn, 
   ZoomOut, 
   RotateCcw, 
   X, 
-  Info, 
-  Layers, 
   ArrowRight, 
   Maximize2, 
   Minimize2,
   Sparkles,
   BookOpen,
-  Palette
+  Search,
+  Focus,
+  Network,
+  ListTree,
+  Compass,
+  ArrowUpRight,
+  ArrowDownLeft,
+  Share2,
+  Check,
+  FileText,
+  ExternalLink,
+  Award,
+  Quote,
+  Lightbulb,
+  Play,
+  PanelRightClose,
+  PanelRightOpen
 } from 'lucide-react';
 import type { MindMapNode, MindMapEdge } from '../types/narrative';
 
@@ -24,237 +39,522 @@ interface MindMapViewerProps {
   contextData?: {
     glossary?: Array<{ term: string; definition: string }>;
     authors?: string;
+    metadata?: any;
   };
 }
 
-const SVG_WIDTH = 980;
-const SVG_HEIGHT = 680;
+interface PositionedNode extends MindMapNode {
+  cx: number;
+  cy: number;
+  width: number;
+  height: number;
+  degree: number;
+  lines: string[];
+  fontSize: number;
+  lineHeight: number;
+}
+
+const SVG_WIDTH = 1200;
+const SVG_HEIGHT = 750;
 const CENTER_X = SVG_WIDTH / 2;
 const CENTER_Y = SVG_HEIGHT / 2;
 
-// ============================================================================
-// SET DE ICONOS GRABADOS VECTORIALES (VINTAGE ENGRAVINGS)
-// Inspirados en los camafeos del ejemplo de Virginia Woolf (Genially)
-// ============================================================================
+// Paleta editorial OCNOS
+const OCNOS_PALETTE = [
+  '#01b4bc', // Cian Ocnos
+  '#fa5457', // Coral Ocnos
+  '#5fa55a', // Verde Ocnos
+  '#fa8925', // Naranja cálido
+  '#244b63', // Azul marino profundo
+  '#9b82c3', // Púrpura arrecife
+  '#00696e', // Teal oscuro
+  '#e29578', // Terracota suave
+  '#83c5be', // Verde agua
+  '#2a9d8f', // Turquesa persa
+];
 
-export const EngravedIcons = {
-  // Pluma de ave y tintero (Obras, Creación, Escritura)
-  quill: (props: React.SVGProps<SVGSVGElement>) => (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" {...props}>
-      <path d="M19 3L7.5 14.5l-2.5 5 5-2.5L21.5 5.5a2.12 2.12 0 0 0-2.5-2.5z" />
-      <path d="M14 6l4 4" />
-      <path d="M4 21l3-1.5" />
-      <circle cx="5.5" cy="19.5" r="0.8" fill="currentColor" />
-      <path d="M16 4l-4 4" strokeDasharray="1 1" />
-      <path d="M18 6l-4 4" strokeDasharray="1 1" />
-    </svg>
-  ),
-
-  // Ojo analítico con grabado circular (Documental, Mirada Crítica, Análisis)
-  eye: (props: React.SVGProps<SVGSVGElement>) => (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" {...props}>
-      <path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7-10-7-10-7z" />
-      <circle cx="12" cy="12" r="3.5" />
-      <circle cx="12" cy="12" r="1.5" fill="currentColor" />
-      <path d="M12 5.5V3M12 21v-2.5M6 7.5L4.5 6M19.5 6L18 7.5M6 16.5L4.5 18M19.5 18L18 16.5" strokeDasharray="1 1" />
-      <path d="M9 12a3 3 0 0 1 3-3" strokeWidth="1.2" />
-    </svg>
-  ),
-
-  // Mariposa / Polilla con grabado simétrico (Influencias, Metáfora, Semiótica)
-  moth: (props: React.SVGProps<SVGSVGElement>) => (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" {...props}>
-      <path d="M12 4v16" strokeWidth="1.8" />
-      <circle cx="12" cy="5" r="1" fill="currentColor" />
-      <path d="M12 7c-4-4-9-2-9 4 0 5 7 5 9 1" />
-      <path d="M12 7c4-4 9-2 9 4 0 5-7 5-9 1" />
-      <path d="M12 12c-3 1-6 4-6 7 0 1 2 2 6-1" />
-      <path d="M12 12c3 1 6 4 6 7 0 1-2 2-6-1" />
-      <path d="M10 2l2 2 2-2" />
-      <path d="M6 10c2 0 4-1 6-1M18 10c-2 0-4-1-6-1" strokeDasharray="1 1" />
-    </svg>
-  ),
-
-  // Camafeo con busto clásico victoriano (Biografía, Sujetos, Maestras, Autores)
-  cameo: (props: React.SVGProps<SVGSVGElement>) => (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" {...props}>
-      <ellipse cx="12" cy="12" rx="9" ry="10" />
-      <path d="M12 7a3 3 0 0 1 2.8 4c-.2.8-.8 1.5-1.3 2v1.5h-3v-1.5c-.5-.5-1.1-1.2-1.3-2A3 3 0 0 1 12 7z" />
-      <path d="M8.5 18c.8-1.5 2-2.5 3.5-2.5s2.7 1 3.5 2.5" />
-      <path d="M12 3v1M12 20v1M4 12h1M19 12h1" strokeDasharray="1 1" />
-    </svg>
-  ),
-
-  // Libro clásico encuadernado (Marco Teórico, Literatura Infantil, Álbum)
-  book: (props: React.SVGProps<SVGSVGElement>) => (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" {...props}>
-      <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
-      <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
-      <path d="M8 6h8M8 10h8M8 14h5" strokeDasharray="1.5 1.5" strokeWidth="1.2" />
-      <path d="M12 2v5l2-1 2 1V2" fill="currentColor" opacity="0.3" />
-    </svg>
-  ),
-
-  // Balanza clásica o Ética (Valores prosociales, Dilemas, Equidad)
-  scale: (props: React.SVGProps<SVGSVGElement>) => (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" {...props}>
-      <path d="M12 3v18M8 21h8" strokeWidth="1.8" />
-      <path d="M5 7l7-2 7 2" />
-      <path d="M2 13l3-6 3 6c0 1.7-1.3 3-3 3s-3-1.3-3-3z" />
-      <path d="M16 13l3-6 3 6c0 1.7-1.3 3-3 3s-3-1.3-3-3z" />
-    </svg>
-  ),
-
-  // Brújula / Rosa de los Vientos (Metodología, Exploración, Navegación)
-  compass: (props: React.SVGProps<SVGSVGElement>) => (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" {...props}>
-      <circle cx="12" cy="12" r="9.5" />
-      <polygon points="12 4 14.5 10 12 12 9.5 10 12 4" fill="currentColor" opacity="0.4" />
-      <polygon points="12 20 14.5 14 12 12 9.5 14 12 20" />
-      <circle cx="12" cy="12" r="1.5" fill="currentColor" />
-    </svg>
-  ),
-
-  // Laurel / Rama Botánica (Estética, Diversidad, Crecimiento)
-  botanical: (props: React.SVGProps<SVGSVGElement>) => (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" {...props}>
-      <path d="M12 22C12 12 19 4 19 4S13 8 12 14c-1-6-7-10-7-10s7 8 7 8" />
-      <path d="M12 15c-3-2-5 0-5 0s1 3 5 0M12 18c3-2 5 0 5 0s-1 3-5 0" />
-    </svg>
-  )
-};
-
-// Asignador inteligente de icono según término o posición
-function getNodeIcon(label: string, index: number) {
-  const l = label.toLowerCase();
-  if (l.includes('obra') || l.includes('escrit') || l.includes('taller') || l.includes('texto')) return EngravedIcons.quill;
-  if (l.includes('ojo') || l.includes('documen') || l.includes('crític') || l.includes('visual') || l.includes('análisis') || l.includes('estudio')) return EngravedIcons.eye;
-  if (l.includes('influen') || l.includes('semiót') || l.includes('imagen') || l.includes('metáfor')) return EngravedIcons.moth;
-  if (l.includes('biograf') || l.includes('maestr') || l.includes('docente') || l.includes('infantil') || l.includes('sujeto') || l.includes('autor')) return EngravedIcons.cameo;
-  if (l.includes('libro') || l.includes('álbum') || l.includes('teor') || l.includes('lectura') || l.includes('liter')) return EngravedIcons.book;
-  if (l.includes('valor') || l.includes('empat') || l.includes('moral') || l.includes('filosof') || l.includes('ético') || l.includes('dilema')) return EngravedIcons.scale;
-  if (l.includes('diversidad') || l.includes('estétic') || l.includes('arte') || l.includes('emoción')) return EngravedIcons.botanical;
-  
-  const iconList = [
-    EngravedIcons.book,
-    EngravedIcons.scale,
-    EngravedIcons.botanical,
-    EngravedIcons.moth,
-    EngravedIcons.eye,
-    EngravedIcons.quill,
-    EngravedIcons.cameo,
-    EngravedIcons.compass
-  ];
-  return iconList[index % iconList.length];
+// --- Utilidades de contraste legible (WCAG AA) ---
+function hexToRgb(hex: string): [number, number, number] {
+  const h = hex.replace('#', '');
+  const full = h.length === 3 ? h.split('').map((c) => c + c).join('') : h;
+  const num = parseInt(full, 16);
+  return [(num >> 16) & 255, (num >> 8) & 255, num & 255];
 }
 
-// Disposición de nodos con espaciado orgánico y holgado
-function layoutNodes(nodos: MindMapNode[]): (MindMapNode & { cx: number; cy: number })[] {
-  const count = nodos.length;
+function relativeLuminance(hex: string): number {
+  const [r, g, b] = hexToRgb(hex).map((v) => {
+    const c = v / 255;
+    return c <= 0.03928 ? c / 12.92 : Math.pow((c + 0.055) / 1.055, 2.4);
+  });
+  return 0.2126 * r + 0.7152 * g + 0.0722 * b;
+}
 
-  return nodos.map((n, i) => {
-    if (n.x !== undefined && n.y !== undefined) {
-      return {
-        ...n,
-        cx: n.x * SVG_WIDTH,
-        cy: n.y * SVG_HEIGHT,
-      };
+function contrastRatio(l1: number, l2: number): number {
+  const hi = Math.max(l1, l2) + 0.05;
+  const lo = Math.min(l1, l2) + 0.05;
+  return hi / lo;
+}
+
+function mixHex(a: string, b: string, t: number): string {
+  const ca = hexToRgb(a);
+  const cb = hexToRgb(b);
+  const to = (v: number) => Math.round(v).toString(16).padStart(2, '0');
+  return `#${to(ca[0] + (cb[0] - ca[0]) * t)}${to(ca[1] + (cb[1] - ca[1]) * t)}${to(ca[2] + (cb[2] - ca[2]) * t)}`;
+}
+
+// Deriva del color de acento una tinta que cumpla contraste >= 4.5:1 sobre el fondo dado
+function readableInk(accent: string, bgHex: string): string {
+  const bgL = relativeLuminance(bgHex);
+  const towardWhite = bgL < 0.4;
+  for (let t = 0; t <= 0.9; t += 0.1) {
+    const candidate = mixHex(accent, towardWhite ? '#f8fafc' : '#122c3b', t);
+    if (contrastRatio(relativeLuminance(candidate), bgL) >= 4.5) return candidate;
+  }
+  return towardWhite ? '#f8fafc' : '#122c3b';
+}
+
+// Estimación de ancho de texto para tipografías serif del mapa (Playfair Display)
+function estimateTextWidth(text: string, fontSize: number): number {
+  return text.length * fontSize * 0.56;
+}
+
+function wrapLabel(label: string, maxChars: number, maxLines = 3): string[] {
+  const words = label.split(/\s+/).filter(Boolean);
+  const lines: string[] = [];
+  let current = '';
+  for (const word of words) {
+    if (!current) {
+      current = word;
+    } else if ((current + ' ' + word).length <= maxChars) {
+      current += ' ' + word;
+    } else {
+      lines.push(current);
+      current = word;
     }
+  }
+  if (current) lines.push(current);
 
-    // Nodo central
-    if (i === 0) {
-      return {
-        ...n,
-        cx: CENTER_X,
-        cy: CENTER_Y - 10,
-      };
-    }
+  if (lines.length > maxLines) {
+    const head = lines.slice(0, maxLines - 1);
+    let tail = lines.slice(maxLines - 1).join(' ');
+    if (tail.length > maxChars - 1) tail = tail.slice(0, maxChars - 2).trimEnd() + '…';
+    return [...head, tail];
+  }
+  return lines;
+}
 
-    // Distribución en 2 anillos orbitales alternados para evitar solapes de insignias anchas
-    const ring = i % 2 === 0 ? 1 : 2;
-    const radius = ring === 1 ? 270 : 210;
-    // Rotación angular suave
-    const angleStep = (2 * Math.PI) / (count - 1);
-    const angle = (i - 1) * angleStep - Math.PI / 2 + (ring === 1 ? 0.25 : -0.2);
+// Algoritmo de distribución orgánico basado en simulación de fuerzas
+function computeInitialLayout(nodes: MindMapNode[], edges: MindMapEdge[]): PositionedNode[] {
+  if (!nodes || nodes.length === 0) return [];
 
-    // Ajustar límites de seguridad dentro del marco
-    const rawX = CENTER_X + radius * Math.cos(angle);
-    const rawY = CENTER_Y + (radius * 0.82) * Math.sin(angle);
+  const degreeMap = new Map<string, number>();
+  nodes.forEach((n) => degreeMap.set(n.id, 0));
+  edges.forEach((e) => {
+    degreeMap.set(e.from, (degreeMap.get(e.from) || 0) + 1);
+    degreeMap.set(e.to, (degreeMap.get(e.to) || 0) + 1);
+  });
 
-    const safeX = Math.max(130, Math.min(SVG_WIDTH - 130, rawX));
-    const safeY = Math.max(100, Math.min(SVG_HEIGHT - 90, rawY));
+  const positioned: PositionedNode[] = nodes.map((n, idx) => {
+    const degree = degreeMap.get(n.id) || 0;
+    const labelLen = n.label.length;
+
+    const width = Math.min(Math.max(labelLen * 7.2 + 54, 178), 252);
+    const innerW = width - 36;
+
+    const maxChars = Math.max(12, Math.floor(innerW / (12.5 * 0.56)));
+    const lines = wrapLabel(n.label, maxChars, 3);
+    const longestLine = lines.reduce((a, b) => (b.length > a.length ? b : a), '');
+    const fontSize = Math.max(10.5, Math.min(12.5, (innerW / estimateTextWidth(longestLine || 'a', 12.5)) * 12.5));
+    const lineHeight = fontSize * 1.3;
+    const height = Math.max(54, 50 + (lines.length - 1) * lineHeight);
+
+    const angle = (2 * Math.PI * idx) / nodes.length;
+    const initialRadius = idx === 0 ? 0 : 260 + (idx % 2 === 0 ? 40 : -40);
+    const cx = idx === 0 ? CENTER_X : CENTER_X + Math.cos(angle) * initialRadius;
+    const cy = idx === 0 ? CENTER_Y : CENTER_Y + Math.sin(angle) * (initialRadius * 0.75);
 
     return {
       ...n,
-      cx: safeX,
-      cy: safeY,
+      cx,
+      cy,
+      width,
+      height,
+      degree,
+      lines,
+      fontSize,
+      lineHeight,
+      color: n.color || OCNOS_PALETTE[idx % OCNOS_PALETTE.length]
     };
   });
+
+  if (positioned.length <= 2) return positioned;
+
+  const iterations = 60;
+  for (let it = 0; it < iterations; it++) {
+    for (let i = 0; i < positioned.length; i++) {
+      for (let j = i + 1; j < positioned.length; j++) {
+        const n1 = positioned[i];
+        const n2 = positioned[j];
+        const dx = n2.cx - n1.cx;
+        const dy = n2.cy - n1.cy;
+        const dist = Math.sqrt(dx * dx + dy * dy) || 1;
+        const minDist = Math.max((n1.width + n2.width) / 2, (n1.height + n2.height) / 2) + 44;
+
+        if (dist < minDist) {
+          const force = ((minDist - dist) / dist) * 0.35;
+          const fx = dx * force;
+          const fy = dy * force;
+          n2.cx += fx;
+          n2.cy += fy;
+          n1.cx -= fx;
+          n1.cy -= fy;
+        }
+      }
+    }
+
+    for (const edge of edges) {
+      const src = positioned.find((n) => n.id === edge.from);
+      const tgt = positioned.find((n) => n.id === edge.to);
+      if (src && tgt) {
+        const dx = tgt.cx - src.cx;
+        const dy = tgt.cy - src.cy;
+        const dist = Math.sqrt(dx * dx + dy * dy) || 1;
+        const targetDist = 220;
+        const springForce = ((dist - targetDist) / dist) * 0.05;
+        const fx = dx * springForce;
+        const fy = dy * springForce;
+        src.cx += fx;
+        src.cy += fy;
+        tgt.cx -= fx;
+        tgt.cy -= fy;
+      }
+    }
+
+    for (const n of positioned) {
+      n.cx += (CENTER_X - n.cx) * 0.015;
+      n.cy += (CENTER_Y - n.cy) * 0.015;
+
+      n.cx = Math.max(n.width / 2 + 50, Math.min(SVG_WIDTH - n.width / 2 - 50, n.cx));
+      n.cy = Math.max(n.height / 2 + 50, Math.min(SVG_HEIGHT - n.height / 2 - 50, n.cy));
+    }
+  }
+
+  return positioned;
 }
 
-// ============================================================================
-// COMPONENTE PRINCIPAL
-// ============================================================================
+// Calcular punto de corte exacto entre el centro de dos cajas y el borde de una de ellas
+function getNodeBorderIntersection(
+  sourceX: number, 
+  sourceY: number, 
+  targetX: number, 
+  targetY: number, 
+  targetWidth: number, 
+  targetHeight: number,
+  padding = 6
+) {
+  const dx = targetX - sourceX;
+  const dy = targetY - sourceY;
+  if (dx === 0 && dy === 0) return { x: targetX, y: targetY };
+
+  const hw = targetWidth / 2 + padding;
+  const hh = targetHeight / 2 + padding;
+
+  const absDx = Math.abs(dx);
+  const absDy = Math.abs(dy);
+
+  const scale = Math.min(hw / absDx, hh / absDy);
+
+  return {
+    x: targetX - dx * scale,
+    y: targetY - dy * scale,
+  };
+}
 
 export default function MindMapViewer({ titulo, descripcion, nodos, aristas, contextData }: MindMapViewerProps) {
-  const prefersReducedMotion = useReducedMotion();
   const containerRef = useRef<HTMLDivElement>(null);
+  const svgRef = useRef<SVGSVGElement>(null);
+  const graphGroupRef = useRef<SVGGElement>(null);
 
   // Estados de transformación (Zoom & Pan)
   const [zoom, setZoom] = useState<number>(1);
   const [pan, setPan] = useState<{ x: number; y: number }>({ x: 0, y: 0 });
-  const [isDragging, setIsDragging] = useState<boolean>(false);
-  const [dragStart, setDragStart] = useState<{ x: number; y: number }>({ x: 0, y: 0 });
+  const [isPanning, setIsPanning] = useState<boolean>(false);
+  const isPanningRef = useRef<boolean>(false);
+  const panStartRef = useRef<{ clientX: number; clientY: number; initialPanX: number; initialPanY: number }>({
+    clientX: 0,
+    clientY: 0,
+    initialPanX: 0,
+    initialPanY: 0,
+  });
+
+  // Posiciones de los nodos
+  const [nodePositions, setNodePositions] = useState<PositionedNode[]>([]);
+  const [draggingNodeId, setDraggingNodeId] = useState<string | null>(null);
+  const draggingNodeRef = useRef<{ id: string; offsetX: number; offsetY: number } | null>(null);
 
   // Estados interactivos
-  const [selectedNode, setSelectedNode] = useState<(MindMapNode & { cx: number; cy: number }) | null>(null);
+  const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [hoveredNodeId, setHoveredNodeId] = useState<string | null>(null);
-  const [viewMode, setViewMode] = useState<'canvas' | 'cards'>('canvas');
+  const [searchQuery, setSearchQuery] = useState<string>('');
+  const [viewMode, setViewMode] = useState<'canvas' | 'outline'>('canvas');
+  const [isolateMode, setIsolateMode] = useState<boolean>(false);
   const [isFullscreen, setIsFullscreen] = useState<boolean>(false);
-  
-  // Selector de tema estético: 'gabinete' (Virginia Woolf) | 'academico' (Infografía)
-  const [theme, setTheme] = useState<'gabinete' | 'academico'>('gabinete');
+  const [theme, setTheme] = useState<'editorial' | 'gabinete'>('editorial');
+  const [copiedLink, setCopiedLink] = useState<boolean>(false);
+  const [isPanelOpen, setIsPanelOpen] = useState<boolean>(true);
 
-  const laidNodes = useMemo(() => layoutNodes(nodos), [nodos]);
+  // Estados didácticos (Progreso, Confeti, Metadatos)
+  const [visitedNodeIds, setVisitedNodeIds] = useState<Set<string>>(new Set());
+  const [showMetaModal, setShowMetaModal] = useState<boolean>(false);
+  const [tourIndex, setTourIndex] = useState<number | null>(null);
+  const [celebrated, setCelebrated] = useState<boolean>(false);
 
-  // Controles de zoom
-  const handleZoomIn = () => setZoom((z) => Math.min(z + 0.2, 2.2));
-  const handleZoomOut = () => setZoom((z) => Math.max(z - 0.2, 0.65));
-  const handleReset = () => {
+  // Conversión exacta de coordenadas de pantalla al espacio de coordenadas internas del Grafo
+  const screenToGraphCoords = useCallback((clientX: number, clientY: number) => {
+    if (!svgRef.current || !graphGroupRef.current) return { x: clientX, y: clientY };
+    const pt = svgRef.current.createSVGPoint();
+    pt.x = clientX;
+    pt.y = clientY;
+    const ctm = graphGroupRef.current.getScreenCTM();
+    if (!ctm) return { x: clientX, y: clientY };
+    const transformed = pt.matrixTransform(ctm.inverse());
+    return { x: transformed.x, y: transformed.y };
+  }, []);
+
+  // Inicializar layout
+  useEffect(() => {
+    const layout = computeInitialLayout(nodos, aristas);
+    setNodePositions(layout);
+    if (layout.length > 0) {
+      setSelectedNodeId(layout[0].id);
+      setVisitedNodeIds(new Set([layout[0].id]));
+    }
+  }, [nodos, aristas]);
+
+  // Manejar visita a nodo y comprobación de finalización
+  const handleSelectNode = useCallback((nodeId: string) => {
+    setSelectedNodeId(nodeId);
+    setIsPanelOpen(true);
+    setVisitedNodeIds((prev) => {
+      const next = new Set(prev);
+      next.add(nodeId);
+      
+      if (next.size === nodos.length && nodos.length > 1 && !celebrated) {
+        setCelebrated(true);
+        try {
+          confetti({
+            particleCount: 90,
+            spread: 75,
+            origin: { y: 0.65 },
+            colors: ['#01b4bc', '#fa5457', '#5fa55a', '#f6d51f', '#fa8925', '#9b82c3']
+          });
+        } catch (_) {}
+      }
+      return next;
+    });
+  }, [nodos.length, celebrated]);
+
+  // Listener global de ratón en window para arrastre y pan 100% fluidos sin cortes ni pérdidas de foco
+  useEffect(() => {
+    const handleWindowMouseMove = (e: MouseEvent) => {
+      // 1. Arrastre de nodo
+      if (draggingNodeRef.current) {
+        const coords = screenToGraphCoords(e.clientX, e.clientY);
+        const { id, offsetX, offsetY } = draggingNodeRef.current;
+        setNodePositions((prev) =>
+          prev.map((n) =>
+            n.id === id
+              ? {
+                  ...n,
+                  cx: coords.x - offsetX,
+                  cy: coords.y - offsetY,
+                }
+              : n
+          )
+        );
+        return;
+      }
+
+      // 2. Pan del lienzo
+      if (isPanningRef.current) {
+        const dx = e.clientX - panStartRef.current.clientX;
+        const dy = e.clientY - panStartRef.current.clientY;
+        setPan({
+          x: panStartRef.current.initialPanX + dx,
+          y: panStartRef.current.initialPanY + dy,
+        });
+      }
+    };
+
+    const handleWindowMouseUp = () => {
+      draggingNodeRef.current = null;
+      isPanningRef.current = false;
+      setDraggingNodeId(null);
+      setIsPanning(false);
+    };
+
+    window.addEventListener('mousemove', handleWindowMouseMove);
+    window.addEventListener('mouseup', handleWindowMouseUp);
+    return () => {
+      window.removeEventListener('mousemove', handleWindowMouseMove);
+      window.removeEventListener('mouseup', handleWindowMouseUp);
+    };
+  }, [screenToGraphCoords]);
+
+  // Nodo actualmente seleccionado
+  const selectedNode = useMemo(() => {
+    return nodePositions.find((n) => n.id === selectedNodeId) || null;
+  }, [nodePositions, selectedNodeId]);
+
+  // Conjunto de IDs conectados al nodo activo
+  const activeNeighborhood = useMemo(() => {
+    const targetId = hoveredNodeId || selectedNodeId;
+    if (!targetId) return new Set<string>();
+
+    const set = new Set<string>([targetId]);
+    aristas.forEach((edge) => {
+      if (edge.from === targetId) set.add(edge.to);
+      if (edge.to === targetId) set.add(edge.from);
+    });
+    return set;
+  }, [hoveredNodeId, selectedNodeId, aristas]);
+
+  // Nodos filtrados por búsqueda
+  const matchingNodeIds = useMemo(() => {
+    if (!searchQuery.trim()) return null;
+    const q = searchQuery.toLowerCase().trim();
+    return new Set(
+      nodePositions
+        .filter((n) => n.label.toLowerCase().includes(q) || (n.role && n.role.toLowerCase().includes(q)))
+        .map((n) => n.id)
+    );
+  }, [searchQuery, nodePositions]);
+
+  // Conexiones de un nodo dado
+  const getNodeConnections = useCallback((nodeId: string) => {
+    const outgoing = aristas
+      .filter((e) => e.from === nodeId)
+      .map((e) => ({
+        target: nodePositions.find((n) => n.id === e.to),
+        label: e.label || 'se relaciona con',
+        type: 'outgoing' as const,
+      }));
+
+    const incoming = aristas
+      .filter((e) => e.to === nodeId)
+      .map((e) => ({
+        target: nodePositions.find((n) => n.id === e.from),
+        label: e.label || 'recibe influencia de',
+        type: 'incoming' as const,
+      }));
+
+    return { outgoing, incoming, all: [...outgoing, ...incoming] };
+  }, [aristas, nodePositions]);
+
+  // Descripción contextual y fundamentada del nodo
+  const getNodeDescription = useCallback((node: MindMapNode) => {
+    if (node.descripcion) return node.descripcion;
+
+    if (contextData?.glossary) {
+      const match = contextData.glossary.find(
+        (g) =>
+          g.term.toLowerCase().includes(node.label.toLowerCase()) ||
+          node.label.toLowerCase().includes(g.term.toLowerCase())
+      );
+      if (match) return match.definition;
+    }
+
+    const conns = getNodeConnections(node.id);
+    if (conns.all.length > 0) {
+      const targets = conns.outgoing.map((c) => c.target?.label).filter(Boolean);
+      const sources = conns.incoming.map((c) => c.target?.label).filter(Boolean);
+      
+      let text = `Dimensión analizada en el artículo "${titulo}". `;
+      if (targets.length > 0) {
+        text += `Articula e impulsa factores como: ${targets.slice(0, 3).join(', ')}. `;
+      }
+      if (sources.length > 0) {
+        text += `Se fundamenta a partir de: ${sources.slice(0, 2).join(', ')}.`;
+      }
+      return text;
+    }
+
+    return `Concepto clave que articula la evidencia empírica y el marco teórico de la investigación publicada en la Revista Ocnos.`;
+  }, [contextData, getNodeConnections, titulo]);
+
+  // Generar un hallazgo o implicancia didáctica estimada para el concepto
+  const getNodePedagogicalTakeaway = useCallback((node: MindMapNode) => {
+    const conns = getNodeConnections(node.id);
+    if (conns.outgoing.length > 0) {
+      const primaryTarget = conns.outgoing[0];
+      return `Clave didáctica: ${node.label} ${primaryTarget.label} ${primaryTarget.target?.label || 'el aprendizaje'}. En el aula, orienta el diseño de actividades reflexivas sobre la lectura.`;
+    }
+    return `Clave didáctica: Permite vincular la práctica docente con la fundamentación científica del artículo para una mediación lectora profunda.`;
+  }, [getNodeConnections]);
+
+  // Controles de zoom y encuadre
+  const handleZoomIn = () => setZoom((z) => Math.min(z + 0.15, 2.5));
+  const handleZoomOut = () => setZoom((z) => Math.max(z - 0.15, 0.55));
+  const handleResetView = () => {
     setZoom(1);
     setPan({ x: 0, y: 0 });
+    setIsolateMode(false);
   };
 
-  // Drag & Pan ratón
-  const handleMouseDown = (e: React.MouseEvent) => {
-    if (e.target instanceof SVGElement && e.target.closest('[data-node="true"]')) {
-      return;
-    }
-    setIsDragging(true);
-    setDragStart({ x: e.clientX - pan.x, y: e.clientY - pan.y });
+  // Zoom suave con rueda de ratón (Mouse Wheel)
+  const handleSvgWheel = (e: React.WheelEvent) => {
+    e.preventDefault();
+    const zoomFactor = e.deltaY < 0 ? 1.08 : 0.92;
+    setZoom((z) => Math.max(0.55, Math.min(2.5, z * zoomFactor)));
   };
 
-  const handleMouseMove = (e: React.MouseEvent) => {
-    if (!isDragging) return;
-    setPan({ x: e.clientX - dragStart.x, y: e.clientY - dragStart.y });
+  // Centrar vista en un nodo específico
+  const focusOnNode = (nodeId: string) => {
+    const node = nodePositions.find((n) => n.id === nodeId);
+    if (!node) return;
+    handleSelectNode(nodeId);
+    
+    // Mover pan de forma centrada
+    const targetPanX = (CENTER_X - node.cx) * zoom;
+    const targetPanY = (CENTER_Y - node.cy) * zoom;
+    setPan({ x: targetPanX, y: targetPanY });
   };
 
-  const handleMouseUp = () => setIsDragging(false);
-
-  // Drag & Pan táctil
-  const handleTouchStart = (e: React.TouchEvent) => {
-    if (e.touches.length === 1) {
-      setIsDragging(true);
-      setDragStart({ x: e.touches[0].clientX - pan.x, y: e.touches[0].clientY - pan.y });
-    }
+  // Tour guiado didáctico
+  const handleStartTour = () => {
+    if (nodePositions.length === 0) return;
+    const nextIdx = tourIndex === null ? 0 : (tourIndex + 1) % nodePositions.length;
+    setTourIndex(nextIdx);
+    focusOnNode(nodePositions[nextIdx].id);
   };
 
-  const handleTouchMove = (e: React.TouchEvent) => {
-    if (!isDragging || e.touches.length !== 1) return;
-    setPan({ x: e.touches[0].clientX - dragStart.x, y: e.touches[0].clientY - dragStart.y });
+  // Manejo de Pan del lienzo cuando se presiona sobre el fondo
+  const handleSvgMouseDown = (e: React.MouseEvent) => {
+    if ((e.target as HTMLElement).closest('[data-interactive="true"]')) return;
+    isPanningRef.current = true;
+    setIsPanning(true);
+    panStartRef.current = {
+      clientX: e.clientX,
+      clientY: e.clientY,
+      initialPanX: pan.x,
+      initialPanY: pan.y,
+    };
   };
 
-  const handleTouchEnd = () => setIsDragging(false);
+  // Inicio de arrastre de un nodo
+  const handleNodeMouseDown = (e: React.MouseEvent, node: PositionedNode) => {
+    e.stopPropagation();
+    e.preventDefault();
+    handleSelectNode(node.id);
+    
+    const coords = screenToGraphCoords(e.clientX, e.clientY);
+    draggingNodeRef.current = {
+      id: node.id,
+      offsetX: coords.x - node.cx,
+      offsetY: coords.y - node.cy,
+    };
+    setDraggingNodeId(node.id);
+  };
 
   // Pantalla completa
   const toggleFullscreen = () => {
@@ -268,721 +568,994 @@ export default function MindMapViewer({ titulo, descripcion, nodos, aristas, con
     }
   };
 
-  // Conexiones de un nodo
-  const getNodeConnections = (nodeId: string) => {
-    const outgoing = aristas
-      .filter((e) => e.from === nodeId)
-      .map((e) => ({
-        target: laidNodes.find((n) => n.id === e.to),
-        label: e.label || 'se relaciona con',
-        type: 'outgoing' as const
-      }));
-
-    const incoming = aristas
-      .filter((e) => e.to === nodeId)
-      .map((e) => ({
-        target: laidNodes.find((n) => n.id === e.from),
-        label: e.label || 'vinculado desde',
-        type: 'incoming' as const
-      }));
-
-    return [...outgoing, ...incoming];
-  };
-
-  // Descripción contextual
-  const getNodeDescription = (label: string) => {
-    if (contextData?.glossary) {
-      const match = contextData.glossary.find(
-        (g) => g.term.toLowerCase().includes(label.toLowerCase()) || label.toLowerCase().includes(g.term.toLowerCase())
-      );
-      if (match) return match.definition;
-    }
-    return `Dimensión fundamental analizada en la investigación. Articula aspectos teóricos y metodológicos clave en el corpus de estudio publicado por la Revista Ocnos.`;
+  const handleCopyConcept = (label: string) => {
+    navigator.clipboard.writeText(`Concepto "${label}" del artículo "${titulo}" - Revista Ocnos`);
+    setCopiedLink(true);
+    setTimeout(() => setCopiedLink(false), 2000);
   };
 
   const isDark = theme === 'gabinete';
+  const isAllExplored = nodePositions.length > 0 && visitedNodeIds.size === nodePositions.length;
 
   return (
-    <div 
+    <div
       ref={containerRef}
-      className={`relative w-full rounded-2xl sm:rounded-3xl overflow-hidden shadow-2xl transition-all duration-300 ${
-        isDark 
-          ? 'bg-[#181016] text-[#F3EBE1] border border-[#d4af37]/30' 
-          : 'bg-[#FBF9F4] text-[#1E293B] border border-[#2a5a75]/25'
-      } ${
-        isFullscreen ? 'p-4 sm:p-6 fixed inset-0 z-[10000] rounded-none' : 'p-3 sm:p-6'
-      }`}
+      className={`relative w-full h-full flex-1 flex flex-col min-h-0 overflow-hidden transition-colors duration-300 ${
+        isDark
+          ? 'bg-[#0f1722] text-[#f1f5f9]'
+          : 'bg-[#fcfaf7] text-[#1e293b]'
+      } ${isFullscreen ? 'fixed inset-0 z-[10000] p-3' : 'p-2 sm:p-3'}`}
       role="region"
       aria-label={`Mapa conceptual interactivo: ${titulo}`}
     >
       {/* ===================================================================== */}
-      {/* CABECERA EDITORIAL OCNOS (ESTILO LITOGRAFÍA / GABINETE)               */}
+      {/* BARRA SUPERIOR EDITORIAL: TÍTULO, HERRAMIENTAS Y METADATOS            */}
       {/* ===================================================================== */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-4 pb-4 border-b border-[#c5a059]/20">
-        <div>
-          <div className="flex items-center gap-2 text-xs font-serif font-bold tracking-[0.2em] uppercase mb-1">
-            <Sparkles size={14} className={isDark ? 'text-[#e5c07b]' : 'text-[#c5a059]'} />
-            <span className={isDark ? 'text-[#e5c07b]' : 'text-[#2a5a75]'}>LÁMINA CONCEPTUAL INTERACTIVA • OCNOS</span>
+      <div className={`flex flex-col lg:flex-row lg:items-center justify-between gap-2 pb-2 mb-2 border-b ${isDark ? 'border-slate-800/80' : 'border-slate-200/60'} shrink-0`}>
+        <div className="min-w-0">
+          <div className={`flex items-center gap-2 text-[10px] font-sans font-bold tracking-[0.18em] uppercase ${isDark ? 'text-ocnos-cyan' : 'text-ocnos-cyan-dark'}`}>
+            <Network size={13} className={isDark ? 'text-ocnos-cyan' : 'text-ocnos-cyan-dark'} />
+            <span className="truncate">LÁMINA EPISTÉMICA INTERACTIVA • REVISTA OCNOS</span>
           </div>
-          <h3 className={`font-serif text-xl sm:text-2xl lg:text-3xl font-bold tracking-tight leading-tight ${
-            isDark ? 'text-[#FAF5ED]' : 'text-[#1E293B]'
-          }`}>
+          <h3
+            className={`font-serif text-base sm:text-xl font-bold tracking-tight leading-snug truncate ${
+              isDark ? 'text-white' : 'text-[#183446]'
+            }`}
+          >
             {titulo}
           </h3>
-          <p className={`text-xs sm:text-sm max-w-3xl mt-1.5 font-serif italic ${
-            isDark ? 'text-[#F3EBE1]/75' : 'text-[#475569]'
-          }`}>
-            {descripcion}
-          </p>
         </div>
 
-        {/* Barra de herramientas estética */}
-        <div className={`flex items-center gap-1.5 p-1.5 rounded-2xl border shrink-0 backdrop-blur-md self-start md:self-auto ${
-          isDark 
-            ? 'bg-[#100a0e]/80 border-[#d4af37]/25 text-[#FAF5ED]' 
-            : 'bg-white/85 border-[#2a5a75]/20 text-[#1E293B] shadow-sm'
-        }`}>
-          {/* Alternar Tema */}
+        {/* Barra de control y filtrado */}
+        <div className="flex flex-wrap items-center gap-1.5 self-start lg:self-auto shrink-0">
+          {/* Botón de Metadatos Científicos */}
           <button
-            onClick={() => setTheme(theme === 'gabinete' ? 'academico' : 'gabinete')}
-            className="p-2 rounded-xl hover:bg-[#c5a059]/20 transition-colors cursor-pointer text-xs flex items-center gap-1.5 font-serif"
-            title={`Cambiar a estilo ${theme === 'gabinete' ? 'Infografía Clara' : 'Gabinete Literario'}`}
+            onClick={() => setShowMetaModal(true)}
+            className={`px-2.5 py-1.5 rounded-xl border text-xs font-sans font-bold flex items-center gap-1.5 transition-all cursor-pointer ${
+              isDark
+                ? 'bg-slate-900/80 border-slate-800 hover:bg-slate-800 text-ocnos-coral'
+                : `bg-white border-slate-200 hover:bg-ocnos-coral-light text-ocnos-coral-dark shadow-2xs`
+            }`}
+            title="Ver ficha bibliográfica y metadatos del artículo"
           >
-            <Palette size={16} className={isDark ? 'text-[#e5c07b]' : 'text-[#2a5a75]'} />
-            <span className="hidden lg:inline text-[11px] uppercase tracking-wider font-semibold">
-              {theme === 'gabinete' ? 'Gabinete' : 'Infografía'}
-            </span>
+            <FileText size={13} />
+            <span className="hidden sm:inline">Metadatos</span>
           </button>
 
-          <div className="w-[1px] h-5 bg-[#c5a059]/30 mx-0.5" />
+          {/* Botón de Tour Didáctico */}
+          <button
+            onClick={handleStartTour}
+            className={`px-2.5 py-1.5 rounded-xl border text-xs font-sans font-bold flex items-center gap-1.5 transition-all cursor-pointer ${
+              tourIndex !== null
+                ? 'bg-[#b45a08] text-white border-[#b45a08] shadow-xs'
+                : isDark
+                ? 'bg-slate-900/80 border-slate-800 hover:bg-slate-800 text-amber-300'
+                : 'bg-white border-slate-200 hover:bg-amber-50 text-amber-700 shadow-2xs'
+            }`}
+            title="Recorrer conceptos paso a paso de forma guiada"
+          >
+            <Play size={12} className={tourIndex !== null ? 'fill-white' : ''} />
+            <span>{tourIndex !== null ? `Paso ${(tourIndex + 1)}/${nodePositions.length}` : 'Tour'}</span>
+          </button>
+
+          <div className={`w-[1px] h-5 ${isDark ? 'bg-slate-800' : 'bg-slate-200'} mx-0.5 hidden sm:block`} />
+
+          {/* Buscador de conceptos */}
+          <div className="relative">
+            <Search
+              size={13}
+              className="absolute left-2.5 top-1/2 -translate-y-1/2 text-slate-400 pointer-events-none"
+            />
+            <input
+              type="text"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              placeholder="Buscar..."
+              className={`h-8 pl-7 pr-3 text-xs rounded-xl font-sans outline-none transition-all w-28 sm:w-36 ${
+                isDark
+                  ? 'bg-slate-900/90 text-white placeholder-slate-500 border border-slate-800 focus:border-ocnos-cyan'
+                  : 'bg-white text-slate-800 placeholder-slate-400 border border-slate-200 focus:border-ocnos-cyan shadow-2xs'
+              }`}
+            />
+            {searchQuery && (
+              <button
+                onClick={() => setSearchQuery('')}
+                className="absolute right-2 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600"
+              >
+                <X size={11} />
+              </button>
+            )}
+          </div>
+
+          {/* Selector de Vista (Grafo / Esquema) */}
+          <div
+            className={`p-0.5 rounded-xl border flex items-center ${
+              isDark ? 'bg-slate-900/80 border-slate-800' : 'bg-white border-slate-200 shadow-2xs'
+            }`}
+          >
+            <button
+              onClick={() => setViewMode('canvas')}
+              className={`px-2 py-1 rounded-lg text-xs font-sans font-semibold flex items-center gap-1 transition-all cursor-pointer ${
+                viewMode === 'canvas'
+                  ? 'bg-ocnos-cyan-dark text-white shadow-xs'
+                  : isDark ? 'text-slate-400 hover:text-slate-100' : 'text-slate-500 hover:text-slate-800'
+              }`}
+              title="Vista de Grafo Relacional"
+            >
+              <Network size={13} />
+              <span className="hidden sm:inline">Lienzo</span>
+            </button>
+            <button
+              onClick={() => setViewMode('outline')}
+              className={`px-2 py-1 rounded-lg text-xs font-sans font-semibold flex items-center gap-1 transition-all cursor-pointer ${
+                viewMode === 'outline'
+                  ? 'bg-ocnos-cyan-dark text-white shadow-xs'
+                  : isDark ? 'text-slate-400 hover:text-slate-100' : 'text-slate-500 hover:text-slate-800'
+              }`}
+              title="Vista de Esquema Estructurado"
+            >
+              <ListTree size={13} />
+              <span className="hidden sm:inline">Esquema</span>
+            </button>
+          </div>
 
           {/* Zoom In */}
           <button
             onClick={handleZoomIn}
-            className="p-2 rounded-xl hover:bg-[#c5a059]/20 transition-colors cursor-pointer"
-            title="Acercar (+)"
+            className={`p-1.5 rounded-xl border transition-colors cursor-pointer ${
+              isDark
+                ? 'bg-slate-900/80 border-slate-800 hover:bg-slate-800 text-slate-200'
+                : 'bg-white border-slate-200 hover:bg-slate-50 text-slate-700 shadow-2xs'
+            }`}
+            title="Acercar zoom (+)"
             aria-label="Acercar zoom"
           >
-            <ZoomIn size={17} />
+            <ZoomIn size={14} />
           </button>
 
           {/* Zoom Out */}
           <button
             onClick={handleZoomOut}
-            className="p-2 rounded-xl hover:bg-[#c5a059]/20 transition-colors cursor-pointer"
-            title="Alejar (-)"
+            className={`p-1.5 rounded-xl border transition-colors cursor-pointer ${
+              isDark
+                ? 'bg-slate-900/80 border-slate-800 hover:bg-slate-800 text-slate-200'
+                : 'bg-white border-slate-200 hover:bg-slate-50 text-slate-700 shadow-2xs'
+            }`}
+            title="Alejar zoom (-)"
             aria-label="Alejar zoom"
           >
-            <ZoomOut size={17} />
+            <ZoomOut size={14} />
           </button>
 
-          {/* Reset */}
+          {/* Restablecer / Centrar vista */}
           <button
-            onClick={handleReset}
-            className="p-2 rounded-xl hover:bg-[#c5a059]/20 transition-colors cursor-pointer"
-            title="Restablecer encuadre"
-            aria-label="Centrar mapa"
-          >
-            <RotateCcw size={16} />
-          </button>
-
-          <div className="w-[1px] h-5 bg-[#c5a059]/30 mx-0.5" />
-
-          {/* Modo Tarjetas / Lienzo */}
-          <button
-            onClick={() => setViewMode(viewMode === 'canvas' ? 'cards' : 'canvas')}
-            className={`px-3 py-1.5 rounded-xl text-xs font-serif font-bold flex items-center gap-1.5 transition-all cursor-pointer ${
-              viewMode === 'cards' 
-                ? (isDark ? 'bg-[#e5c07b] text-[#181016]' : 'bg-[#2a5a75] text-white shadow-sm')
-                : 'hover:bg-[#c5a059]/20'
+            onClick={handleResetView}
+            className={`p-1.5 rounded-xl border transition-colors cursor-pointer ${
+              isDark
+                ? 'bg-slate-900/80 border-slate-800 hover:bg-slate-800 text-slate-200'
+                : 'bg-white border-slate-200 hover:bg-slate-50 text-slate-700 shadow-2xs'
             }`}
-            title="Alternar entre lienzo ilustrado y cuaderno de notas"
+            title="Centrar encuadre y restablecer zoom"
+            aria-label="Centrar encuadre"
           >
-            <Layers size={15} />
-            <span className="hidden sm:inline">{viewMode === 'canvas' ? 'Cuaderno' : 'Lámina'}</span>
+            <RotateCcw size={14} />
           </button>
 
-          {/* Fullscreen */}
+          {/* Alternar Tema Editorial / Nocturno */}
+          <button
+            onClick={() => setTheme(theme === 'editorial' ? 'gabinete' : 'editorial')}
+            className={`p-1.5 rounded-xl border transition-colors cursor-pointer ${
+              isDark
+                ? 'bg-slate-900/80 border-slate-800 hover:bg-slate-800 text-amber-300'
+                : 'bg-white border-slate-200 hover:bg-slate-50 text-slate-700 shadow-2xs'
+            }`}
+            title={`Modo: ${theme === 'editorial' ? 'Luz Natural' : 'Gabinete Nocturno'}`}
+          >
+            <Sparkles size={14} />
+          </button>
+
+          {/* Pantalla completa */}
           <button
             onClick={toggleFullscreen}
-            className="p-2 rounded-xl hover:bg-[#c5a059]/20 transition-colors cursor-pointer"
+            className={`p-1.5 rounded-xl border transition-colors cursor-pointer ${
+              isDark
+                ? 'bg-slate-900/80 border-slate-800 hover:bg-slate-800 text-slate-200'
+                : 'bg-white border-slate-200 hover:bg-slate-50 text-slate-700 shadow-2xs'
+            }`}
             title={isFullscreen ? 'Salir de pantalla completa' : 'Pantalla completa'}
-            aria-label={isFullscreen ? 'Salir de pantalla completa' : 'Pantalla completa'}
+            aria-label="Pantalla completa"
           >
-            {isFullscreen ? <Minimize2 size={17} /> : <Maximize2 size={17} />}
+            {isFullscreen ? <Minimize2 size={14} /> : <Maximize2 size={14} />}
           </button>
         </div>
       </div>
 
       {/* ===================================================================== */}
-      {/* VISTA 1: LIENZO INTERACTIVO ILUSTRADO (ESTILO GENIALLY VIRGINIA WOOLF) */}
+      {/* CUERPO PRINCIPAL: LIENZO A PANTALLA COMPLETA + INSPECTOR LATERAL      */}
       {/* ===================================================================== */}
-      {viewMode === 'canvas' ? (
-        <div 
-          className={`relative w-full h-[520px] sm:h-[600px] md:h-[640px] rounded-2xl overflow-hidden cursor-grab active:cursor-grabbing select-none transition-colors duration-300 ${
-            isDark 
-              ? 'bg-[#150d13] border-2 border-[#d4af37]/35 shadow-inner' 
-              : 'bg-[#FAF6EE] border-2 border-[#2a5a75]/25 shadow-inner'
-          }`}
-          onMouseDown={handleMouseDown}
-          onMouseMove={handleMouseMove}
-          onMouseUp={handleMouseUp}
-          onMouseLeave={handleMouseUp}
-          onTouchStart={handleTouchStart}
-          onTouchMove={handleTouchMove}
-          onTouchEnd={handleTouchEnd}
-        >
-          {/* Textura sutil de fondo y viñeta editorial */}
-          <div 
-            className="absolute inset-0 pointer-events-none opacity-20"
-            style={{
-              backgroundImage: `radial-gradient(${isDark ? '#d4af37' : '#2a5a75'} 0.8px, transparent 0.8px)`,
-              backgroundSize: '28px 28px'
-            }}
-          />
-
-          {/* Viñeta radial oscura para darle profundidad fotográfica clásica */}
-          <div 
-            className={`absolute inset-0 pointer-events-none ${
-              isDark 
-                ? 'bg-radial-vignette opacity-80' 
-                : 'opacity-10'
+      <div className={`relative w-full h-full flex-1 min-h-0 rounded-2xl overflow-hidden border flex ${isDark ? 'border-slate-800' : 'border-slate-200/80'}`}>
+        
+        {/* =================================================================== */}
+        {/* VISTA 1: LIENZO RELACIONAL INTERACTIVO (GRAPH CANVAS)               */}
+        {/* =================================================================== */}
+        {viewMode === 'canvas' ? (
+          <div
+            className={`relative w-full h-full flex-1 overflow-hidden select-none transition-colors duration-300 ${
+              isDark ? 'bg-[#0a1017]' : 'bg-[#faf8f5]'
             }`}
-            style={{
-              background: isDark 
-                ? 'radial-gradient(circle at center, transparent 40%, rgba(14,8,12,0.85) 100%)'
-                : 'radial-gradient(circle at center, transparent 60%, rgba(42,90,117,0.15) 100%)'
-            }}
-          />
-
-          {/* Guía de interacción sutil en esquina */}
-          <div className={`absolute top-4 left-4 z-10 px-3 py-1.5 rounded-full backdrop-blur-md border text-[11px] font-serif tracking-wide pointer-events-none flex items-center gap-2 ${
-            isDark 
-              ? 'bg-[#100a0e]/80 border-[#d4af37]/30 text-[#e5c07b]' 
-              : 'bg-white/80 border-[#2a5a75]/20 text-[#2a5a75] shadow-sm'
-          }`}>
-            <Sparkles size={13} className={isDark ? 'text-[#e5c07b]' : 'text-[#c5a059]'} />
-            <span>Haz clic sobre los medallones para abrir el dossier</span>
-          </div>
-
-          {/* SVG INTERACTIVO */}
-          <svg
-            viewBox={`0 0 ${SVG_WIDTH} ${SVG_HEIGHT}`}
-            className="w-full h-full"
-            style={{
-              transform: `translate(${pan.x}px, ${pan.y}px) scale(${zoom})`,
-              transformOrigin: 'center center',
-              transition: isDragging ? 'none' : 'transform 0.22s ease-out'
-            }}
           >
-            <defs>
-              {/* Filtro de sombra suave para camafeos */}
-              <filter id="camafeoShadow" x="-20%" y="-20%" width="140%" height="140%">
-                <feDropShadow dx="0" dy="4" stdDeviation="4" floodColor="#000000" floodOpacity="0.45" />
-              </filter>
-              <filter id="goldGlow" x="-30%" y="-30%" width="160%" height="160%">
-                <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur" />
-                <feMerge>
-                  <feMergeNode in="blur" />
-                  <feMergeNode in="SourceGraphic" />
-                </feMerge>
-              </filter>
+            {/* Cuadrícula sutil de fondo */}
+            <div
+              className="absolute inset-0 pointer-events-none opacity-25"
+              style={{
+                backgroundImage: `radial-gradient(${isDark ? '#38bdf8' : '#01b4bc'} 0.75px, transparent 0.75px)`,
+                backgroundSize: '24px 24px',
+              }}
+            />
 
-              {/* Flecha caligráfica clásica */}
-              <marker 
-                id="classicArrow" 
-                viewBox="0 0 12 12" 
-                refX="22" 
-                refY="6" 
-                markerWidth="7" 
-                markerHeight="7" 
-                orient="auto-start-reverse"
-              >
-                <path 
-                  d="M 1 2 L 10 6 L 1 10 C 3 7 3 5 1 2 Z" 
-                  fill={isDark ? '#e5c07b' : '#2a5a75'} 
-                  opacity="0.85" 
-                />
-              </marker>
-            </defs>
+            {/* Guía de ayuda flotante superior izquierda */}
+            <div
+              className={`absolute top-3 left-3 z-10 px-3 py-1.5 rounded-full backdrop-blur-md border text-[11px] font-sans pointer-events-none flex items-center gap-1.5 ${
+                isDark
+                  ? 'bg-slate-900/80 border-slate-800 text-slate-300'
+                  : 'bg-white/85 border-slate-200 text-slate-600 shadow-2xs'
+              }`}
+            >
+              <Compass size={13} className="text-ocnos-cyan" />
+              <span>Arrastra conceptos libremente • Rueda para zoom</span>
+            </div>
 
-            {/* ================================================================ */}
-            {/* MARCO EDITORIAL CON ORLAS Y FILIGRANAS (TIPO VIRGINIA WOOLF)     */}
-            {/* ================================================================ */}
-            <g className="pointer-events-none" opacity={isDark ? 0.75 : 0.45}>
-              {/* Filete exterior fino */}
-              <rect 
-                x="24" 
-                y="24" 
-                width={SVG_WIDTH - 48} 
-                height={SVG_HEIGHT - 48} 
-                rx="18" 
-                fill="none" 
-                stroke={isDark ? '#d4af37' : '#2a5a75'} 
-                strokeWidth="1.2" 
-              />
-              {/* Filete interior concéntrico */}
-              <rect 
-                x="32" 
-                y="32" 
-                width={SVG_WIDTH - 64} 
-                height={SVG_HEIGHT - 64} 
-                rx="12" 
-                fill="none" 
-                stroke={isDark ? '#c5a059' : '#2a5a75'} 
-                strokeWidth="0.8" 
-                strokeDasharray="4 3" 
-                opacity="0.6" 
-              />
-
-              {/* Florón / Filigrana Ornamental Superior Central */}
-              <g transform={`translate(${CENTER_X}, 24)`} stroke={isDark ? '#e5c07b' : '#2a5a75'} fill="none">
-                <path d="M -80 -1 L -35 -1" strokeWidth="1" />
-                <path d="M 35 -1 L 80 -1" strokeWidth="1" />
-                {/* Volutas centrales */}
-                <path d="M -30 -1 C -20 -8 -10 6 0 0 C 10 6 20 -8 30 -1" strokeWidth="1.2" />
-                <path d="M -15 -1 C -10 -12 0 -12 0 0 C 0 -12 10 -12 15 -1" strokeWidth="1.2" />
-                <circle cx="-25" cy="-1" r="2.5" fill={isDark ? '#e5c07b' : '#2a5a75'} />
-                <circle cx="25" cy="-1" r="2.5" fill={isDark ? '#e5c07b' : '#2a5a75'} />
-                <circle cx="0" cy="-6" r="3" fill={isDark ? '#e5c07b' : '#2a5a75'} />
-              </g>
-
-              {/* Florón / Filigrana Ornamental Inferior Central */}
-              <g transform={`translate(${CENTER_X}, ${SVG_HEIGHT - 24}) scale(1, -1)`} stroke={isDark ? '#e5c07b' : '#2a5a75'} fill="none">
-                <path d="M -80 -1 L -35 -1" strokeWidth="1" />
-                <path d="M 35 -1 L 80 -1" strokeWidth="1" />
-                <path d="M -30 -1 C -20 -8 -10 6 0 0 C 10 6 20 -8 30 -1" strokeWidth="1.2" />
-                <path d="M -15 -1 C -10 -12 0 -12 0 0 C 0 -12 10 -12 15 -1" strokeWidth="1.2" />
-                <circle cx="-25" cy="-1" r="2.5" fill={isDark ? '#e5c07b' : '#2a5a75'} />
-                <circle cx="25" cy="-1" r="2.5" fill={isDark ? '#e5c07b' : '#2a5a75'} />
-                <circle cx="0" cy="-6" r="3" fill={isDark ? '#e5c07b' : '#2a5a75'} />
-              </g>
-
-              {/* Esquineros Ornamentales */}
-              {/* Superior Izquierdo */}
-              <path d="M 34 50 C 34 38 38 34 50 34" stroke={isDark ? '#e5c07b' : '#2a5a75'} strokeWidth="1.2" />
-              {/* Superior Derecho */}
-              <path d={`M ${SVG_WIDTH - 34} 50 C ${SVG_WIDTH - 34} 38 ${SVG_WIDTH - 38} 34 ${SVG_WIDTH - 50} 34`} stroke={isDark ? '#e5c07b' : '#2a5a75'} strokeWidth="1.2" />
-              {/* Inferior Izquierdo */}
-              <path d={`M 34 ${SVG_HEIGHT - 50} C 34 ${SVG_HEIGHT - 38} 38 ${SVG_HEIGHT - 34} 50 ${SVG_HEIGHT - 34}`} stroke={isDark ? '#e5c07b' : '#2a5a75'} strokeWidth="1.2" />
-              {/* Inferior Derecho */}
-              <path d={`M ${SVG_WIDTH - 34} ${SVG_HEIGHT - 50} C ${SVG_WIDTH - 34} ${SVG_HEIGHT - 38} ${SVG_WIDTH - 38} ${SVG_HEIGHT - 34} ${SVG_WIDTH - 50} ${SVG_HEIGHT - 34}`} stroke={isDark ? '#e5c07b' : '#2a5a75'} strokeWidth="1.2" />
-            </g>
-
-            {/* ================================================================ */}
-            {/* ARISTAS Y CONEXIONES CALIGRÁFICAS                                */}
-            {/* ================================================================ */}
-            {aristas.map((e, idx) => {
-              const from = laidNodes.find((n) => n.id === e.from);
-              const to = laidNodes.find((n) => n.id === e.to);
-              if (!from || !to) return null;
-
-              const isHighlighted = 
-                hoveredNodeId === from.id || 
-                hoveredNodeId === to.id ||
-                selectedNode?.id === from.id ||
-                selectedNode?.id === to.id;
-
-              const midX = (from.cx + to.cx) / 2;
-              const midY = (from.cy + to.cy) / 2 - 20;
-
-              // Color de línea según tema y estado
-              const strokeColor = isHighlighted 
-                ? (isDark ? '#e5c07b' : '#2a5a75')
-                : (isDark ? '#9e8460' : '#88a8ba');
-
-              return (
-                <g key={`edge-${idx}`} className="transition-all duration-300">
-                  <path
-                    d={`M ${from.cx} ${from.cy} Q ${midX} ${midY} ${to.cx} ${to.cy}`}
-                    fill="none"
-                    stroke={strokeColor}
-                    strokeWidth={isHighlighted ? 2.6 : 1.4}
-                    strokeDasharray={isHighlighted ? 'none' : '4 3'}
-                    opacity={isHighlighted ? 1 : 0.65}
-                    markerEnd="url(#classicArrow)"
-                    className="transition-colors duration-300"
-                  />
-
-                  {/* Cartela / Cinta con la relación explicativa */}
-                  {e.label && (
-                    <g 
-                      transform={`translate(${midX}, ${midY})`}
-                      className="transition-opacity duration-300 pointer-events-none"
-                    >
-                      {/* Fondo de cartela en pergamino / papel */}
-                      <rect
-                        x={-Math.min(e.label.length * 3.3 + 8, 120)}
-                        y={-9}
-                        width={Math.min(e.label.length * 6.6 + 16, 240)}
-                        height={18}
-                        rx={5}
-                        fill={isDark ? '#20161e' : '#FAF6EE'}
-                        stroke={isHighlighted ? (isDark ? '#e5c07b' : '#2a5a75') : (isDark ? '#c5a059' : '#88a8ba')}
-                        strokeWidth={1}
-                        opacity={0.95}
-                        filter={isHighlighted ? 'url(#goldGlow)' : undefined}
-                      />
-                      <text
-                        x={0}
-                        y={3}
-                        textAnchor="middle"
-                        fill={isHighlighted ? (isDark ? '#FAF5ED' : '#1E293B') : (isDark ? '#e5c07b' : '#475569')}
-                        fontSize="9.5"
-                        fontFamily="Playfair Display, Georgia, serif"
-                        fontStyle="italic"
-                        fontWeight="600"
-                      >
-                        {e.label}
-                      </text>
-                    </g>
-                  )}
-                </g>
-              );
-            })}
-
-            {/* ================================================================ */}
-            {/* NODOS: PINS TIPO PÍLDORA Y MEDALLONES GRABADOS (ESTILO VIRGINIA) */}
-            {/* ================================================================ */}
-            {laidNodes.map((n, i) => {
-              const isSelected = selectedNode?.id === n.id;
-              const isHovered = hoveredNodeId === n.id;
-              const isCentral = i === 0;
-              const IconComponent = getNodeIcon(n.label, i);
-
-              // Dimensiones de la cápsula
-              const pillHeight = isCentral ? 44 : 36;
-              const medallionRadius = isCentral ? 22 : 18;
-              const labelLength = n.label.length;
-              const textWidth = Math.min(Math.max(labelLength * 7.5, 70), 160);
-              const pillWidth = textWidth + medallionRadius * 2 + 18;
-
-              // Paleta de colores del nodo (Estilo Pergamino Antiguo / Granate)
-              const pillBg = isDark
-                ? (isSelected ? '#F8F3EA' : isHovered ? '#F0E7D8' : '#E9DFC9')
-                : (isSelected ? '#2A5A75' : isHovered ? '#356D8C' : '#FAF6EE');
-              
-              const textColor = isDark
-                ? '#20141C'
-                : (isSelected || isHovered ? '#FAF6EE' : '#1E293B');
-
-              const medallionBorder = isDark 
-                ? (isSelected ? '#B8860B' : '#C5A059')
-                : (isSelected ? '#FAF6EE' : '#2A5A75');
-
-              return (
-                <g
-                  key={n.id}
-                  data-node="true"
-                  transform={`translate(${n.cx}, ${n.cy})`}
-                  className="cursor-pointer group select-none"
-                  onClick={() => setSelectedNode(n)}
-                  onMouseEnter={() => setHoveredNodeId(n.id)}
-                  onMouseLeave={() => setHoveredNodeId(null)}
-                  role="button"
-                  tabIndex={0}
-                  aria-label={`Concepto: ${n.label}`}
-                  onKeyDown={(e) => {
-                    if (e.key === 'Enter' || e.key === ' ') {
-                      e.preventDefault();
-                      setSelectedNode(n);
-                    }
-                  }}
-                >
-                  {/* Halo de pulsación respiratorio y suave en oro viejo */}
-                  <circle
-                    r={medallionRadius + 10}
-                    cx={-pillWidth / 2 + medallionRadius + 3}
-                    cy={0}
-                    fill={isDark ? '#d4af37' : '#2a5a75'}
-                    opacity={isSelected ? 0.4 : isHovered ? 0.3 : 0.15}
-                    className={prefersReducedMotion ? '' : 'animate-ping origin-center'}
-                    style={{ 
-                      animationDuration: isSelected ? '2.4s' : '3.8s',
-                      animationTimingFunction: 'cubic-bezier(0, 0, 0.2, 1)' 
-                    }}
-                  />
-
-                  {/* CÁPSULA / PÍLDORA PRINCIPAL ESTILO GENIALLY */}
-                  <g filter="url(#camafeoShadow)" className="transition-transform duration-200 group-hover:scale-[1.03]">
-                    {/* Fondo redondeado de la pastilla */}
-                    <rect
-                      x={-pillWidth / 2}
-                      y={-pillHeight / 2}
-                      width={pillWidth}
-                      height={pillHeight}
-                      rx={pillHeight / 2}
-                      fill={pillBg}
-                      stroke={medallionBorder}
-                      strokeWidth={isSelected ? 2 : 1.2}
-                      className="transition-colors duration-200"
-                    />
-
-                    {/* Texto del Concepto */}
-                    <text
-                      x={-pillWidth / 2 + medallionRadius * 2 + 10}
-                      y={4}
-                      fill={textColor}
-                      fontSize={isCentral ? 13 : 11.5}
-                      fontFamily="Playfair Display, Georgia, serif"
-                      fontWeight={isCentral ? '700' : '600'}
-                      letterSpacing="0.2px"
-                    >
-                      {n.label.length > 22 ? `${n.label.substring(0, 20)}...` : n.label}
-                    </text>
-
-                    {/* CAMAFEO / MEDALLÓN CIRCULAR ENGARZADO */}
-                    <g transform={`translate(${-pillWidth / 2 + medallionRadius + 3}, 0)`}>
-                      {/* Borde exterior del medallón */}
-                      <circle
-                        r={medallionRadius}
-                        fill={isDark ? '#23161F' : '#FFFFFF'}
-                        stroke={medallionBorder}
-                        strokeWidth={1.4}
-                      />
-                      {/* Aro interior con punteado ornamental de orfebrería */}
-                      <circle
-                        r={medallionRadius - 2.8}
-                        fill="none"
-                        stroke={isDark ? '#C5A059' : '#88A8BA'}
-                        strokeWidth={0.8}
-                        strokeDasharray="2 1.5"
-                        opacity={0.8}
-                      />
-
-                      {/* Icono Grabado Clásico incrustado en el camafeo */}
-                      <g 
-                        transform={`translate(-${medallionRadius - 6}, -${medallionRadius - 6})`}
-                        className={isDark ? 'text-[#e5c07b]' : 'text-[#2a5a75]'}
-                      >
-                        <IconComponent width={(medallionRadius - 6) * 2} height={(medallionRadius - 6) * 2} />
-                      </g>
-                    </g>
-                  </g>
-                </g>
-              );
-            })}
-          </svg>
-        </div>
-      ) : (
-        /* ===================================================================== */
-        /* VISTA 2: CUADERNO DE NOTAS EDITORIAL (FICHERO DE CONCEPTOS)          */
-        /* ===================================================================== */
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 max-h-[580px] overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-[#c5a059]/40">
-          {laidNodes.map((n, i) => {
-            const connections = getNodeConnections(n.id);
-            const IconComponent = getNodeIcon(n.label, i);
-            const isCentral = i === 0;
-
-            return (
-              <div
-                key={n.id}
-                onClick={() => setSelectedNode(n)}
-                className={`p-5 rounded-2xl cursor-pointer transition-all duration-300 border flex flex-col justify-between group ${
+            {/* Botón flotante para reabrir panel si el usuario lo cerró */}
+            {!isPanelOpen && selectedNode && (
+              <button
+                onClick={() => setIsPanelOpen(true)}
+                className={`absolute top-3 right-3 z-10 px-3 py-1.5 rounded-full backdrop-blur-md border text-xs font-sans font-bold flex items-center gap-1.5 shadow-md cursor-pointer transition-all hover:scale-105 ${
                   isDark 
-                    ? 'bg-[#1e131b] hover:bg-[#281a25] border-[#d4af37]/25 hover:border-[#d4af37] shadow-lg' 
-                    : 'bg-white hover:bg-[#FAF6EE] border-[#2a5a75]/20 hover:border-[#2a5a75] shadow-sm'
+                    ? 'bg-slate-900/90 border-slate-700 text-ocnos-cyan' 
+                    : 'bg-white/95 border-slate-200 text-ocnos-cyan-dark'
                 }`}
               >
-                <div>
-                  <div className="flex items-center justify-between mb-3">
-                    <div className="flex items-center gap-2.5">
-                      <div className={`w-9 h-9 rounded-full flex items-center justify-center border ${
-                        isDark 
-                          ? 'bg-[#281a25] border-[#d4af37]/40 text-[#e5c07b]' 
-                          : 'bg-[#FAF6EE] border-[#2a5a75]/30 text-[#2a5a75]'
-                      }`}>
-                        <IconComponent width={18} height={18} />
+                <PanelRightOpen size={14} />
+                <span>Ver Ficha: {selectedNode.label.slice(0, 18)}...</span>
+              </button>
+            )}
+
+            {/* =============================================================== */}
+            {/* BARRA DE PROGRESO INFERIOR (GAMIFICACIÓN Y DESCUBRIMIENTO)       */}
+            {/* =============================================================== */}
+            <div className="absolute bottom-3 left-1/2 -translate-x-1/2 z-10 pointer-events-auto">
+              <div
+                className={`px-4 py-1.5 rounded-full backdrop-blur-md border shadow-lg flex items-center gap-3 text-xs font-sans transition-all ${
+                  isAllExplored
+                    ? 'bg-emerald-600/95 text-white border-emerald-400'
+                    : isDark
+                    ? 'bg-slate-900/90 border-slate-700 text-slate-200'
+                    : 'bg-white/95 border-slate-200 text-slate-700'
+                }`}
+              >
+                <div className="flex items-center gap-1.5 font-bold">
+                  {isAllExplored ? (
+                    <Award size={14} className="text-amber-300 animate-bounce" />
+                  ) : (
+                    <span>🗺️</span>
+                  )}
+                  <span>
+                    {isAllExplored
+                      ? '¡Red conceptual descubierta al 100%!'
+                      : `Descubiertos: ${visitedNodeIds.size}/${nodePositions.length}`}
+                  </span>
+                </div>
+
+                <div className="flex items-center gap-1">
+                  {nodePositions.map((n) => {
+                    const isVisited = visitedNodeIds.has(n.id);
+                    return (
+                      <span
+                        key={`dot-${n.id}`}
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          focusOnNode(n.id);
+                        }}
+                        className={`w-2.5 h-2.5 rounded-full transition-all cursor-pointer ${
+                          isVisited
+                            ? isAllExplored
+                              ? 'bg-white scale-110'
+                              : 'bg-emerald-500 scale-110 shadow-xs'
+                            : isDark
+                            ? 'bg-slate-700 hover:bg-slate-500'
+                            : 'bg-slate-200 hover:bg-slate-400'
+                        }`}
+                        title={`Concepto: ${n.label}`}
+                      />
+                    );
+                  })}
+                </div>
+              </div>
+            </div>
+
+            {/* SVG INTERACTIVO CON CTM NATIVO PARA ARRASTRE Y PAN 100% FLUIDOS */}
+            <svg
+              ref={svgRef}
+              viewBox={`0 0 ${SVG_WIDTH} ${SVG_HEIGHT}`}
+              className="w-full h-full block cursor-grab active:cursor-grabbing select-none"
+              style={{ overflow: 'visible' }}
+              preserveAspectRatio="xMidYMid meet"
+              onMouseDown={handleSvgMouseDown}
+              onWheel={handleSvgWheel}
+            >
+              <defs>
+                <marker
+                  id="ocnosEdgeArrow"
+                  viewBox="0 0 10 10"
+                  refX="6"
+                  refY="5"
+                  markerWidth="6"
+                  markerHeight="6"
+                  orient="auto-start-reverse"
+                >
+                  <path
+                    d="M 1 2 L 8 5 L 1 8 Z"
+                    fill={isDark ? '#38bdf8' : '#01b4bc'}
+                    opacity="0.9"
+                  />
+                </marker>
+                <marker
+                  id="ocnosEdgeArrowDim"
+                  viewBox="0 0 10 10"
+                  refX="6"
+                  refY="5"
+                  markerWidth="6"
+                  markerHeight="6"
+                  orient="auto-start-reverse"
+                >
+                  <path
+                    d="M 1 2 L 8 5 L 1 8 Z"
+                    fill={isDark ? '#334155' : '#cbd5e1'}
+                    opacity="0.5"
+                  />
+                </marker>
+
+                <filter id="nodeCardShadow" x="-15%" y="-15%" width="130%" height="130%">
+                  <feDropShadow dx="0" dy="4" stdDeviation="5" floodColor="#091e2b" floodOpacity="0.12" />
+                </filter>
+                <filter id="nodeActiveGlow" x="-25%" y="-25%" width="150%" height="150%">
+                  <feDropShadow dx="0" dy="0" stdDeviation="8" floodColor={isDark ? '#38bdf8' : '#01b4bc'} floodOpacity="0.35" />
+                </filter>
+              </defs>
+
+              {/* GRUPO PRINCIPAL TRANSFORMADO INTERNAMENTE (SIN CSS TRANSFORM EN SVG) */}
+              <g
+                ref={graphGroupRef}
+                transform={`translate(${pan.x}, ${pan.y}) scale(${zoom})`}
+                style={{
+                  transition: isPanning || draggingNodeId ? 'none' : 'transform 0.15s ease-out',
+                }}
+              >
+                {/* ============================================================== */}
+                {/* CAPA DE ARISTAS Y CONECTORES VECTORIALES                       */}
+                {/* ============================================================== */}
+                <g className="edges-layer">
+                  {aristas.map((edge, idx) => {
+                    const source = nodePositions.find((n) => n.id === edge.from);
+                    const target = nodePositions.find((n) => n.id === edge.to);
+                    if (!source || !target) return null;
+
+                    const isConnectedToActive =
+                      activeNeighborhood.has(source.id) && activeNeighborhood.has(target.id);
+                    const isDimmed =
+                      (hoveredNodeId || selectedNodeId || isolateMode) && !isConnectedToActive;
+
+                    if (isolateMode && !isConnectedToActive) return null;
+
+                    const intersection = getNodeBorderIntersection(
+                      source.cx,
+                      source.cy,
+                      target.cx,
+                      target.cy,
+                      target.width,
+                      target.height,
+                      6
+                    );
+
+                    const dx = target.cx - source.cx;
+                    const dy = target.cy - source.cy;
+                    const dist = Math.sqrt(dx * dx + dy * dy) || 1;
+                    const normalX = -dy / dist;
+                    const normalY = dx / dist;
+                    const curveOffset = Math.min(dist * 0.12, 28);
+                    const midX = (source.cx + target.cx) / 2 + normalX * curveOffset;
+                    const midY = (source.cy + target.cy) / 2 + normalY * curveOffset;
+
+                    const strokeColor = isConnectedToActive
+                      ? (isDark ? '#38bdf8' : '#01b4bc')
+                      : (isDark ? '#2a3b4f' : '#b0c4de');
+
+                    return (
+                      <g key={`edge-${idx}`} opacity={isDimmed ? 0.28 : 1} className="transition-opacity duration-200">
+                        <path
+                          d={`M ${source.cx} ${source.cy} Q ${midX} ${midY} ${intersection.x} ${intersection.y}`}
+                          fill="none"
+                          stroke={strokeColor}
+                          strokeWidth={isConnectedToActive ? 2.4 : 1.4}
+                          strokeDasharray={isConnectedToActive ? 'none' : '5 4'}
+                          markerEnd={isConnectedToActive ? 'url(#ocnosEdgeArrow)' : 'url(#ocnosEdgeArrowDim)'}
+                          className="transition-colors duration-200"
+                        />
+
+                        {edge.label && (() => {
+                          const shownLabel = edge.label.length > 34 ? edge.label.slice(0, 32).trimEnd() + '…' : edge.label;
+                          const labelW = estimateTextWidth(shownLabel, 10.5) + 16;
+                          return (
+                            <g transform={`translate(${midX}, ${midY})`} className="pointer-events-none">
+                              <rect
+                                x={-labelW / 2}
+                                y={-9.5}
+                                width={labelW}
+                                height={19}
+                                rx={7}
+                                fill={isDark ? '#0f1722' : '#ffffff'}
+                                stroke={isConnectedToActive ? (isDark ? '#38bdf8' : '#01b4bc') : (isDark ? '#2a3b4f' : '#dbe4ee')}
+                                strokeWidth={isConnectedToActive ? 1.2 : 0.8}
+                                opacity={isConnectedToActive ? 1 : 0.94}
+                              />
+                              <text
+                                x={0}
+                                y={3.5}
+                                textAnchor="middle"
+                                fill={isConnectedToActive ? (isDark ? '#7dd3fc' : '#00696e') : (isDark ? '#a8b8cc' : '#475569')}
+                                fontSize="10.5"
+                                fontFamily="Plus Jakarta Sans, system-ui, sans-serif"
+                                fontWeight={isConnectedToActive ? 700 : 600}
+                              >
+                                {shownLabel}
+                              </text>
+                            </g>
+                          );
+                        })()}
+                      </g>
+                    );
+                  })}
+                </g>
+
+                {/* ============================================================== */}
+                {/* CAPA DE NODOS (TARJETAS EDITORIALES CON PULSO DE DESCUBRIMIENTO)*/}
+                {/* ============================================================== */}
+                <g className="nodes-layer">
+                  {nodePositions.map((node, i) => {
+                    const isSelected = selectedNodeId === node.id;
+                    const isHovered = hoveredNodeId === node.id;
+                    const isInNeighborhood = activeNeighborhood.has(node.id);
+                    const isMatchSearch = matchingNodeIds ? matchingNodeIds.has(node.id) : true;
+                    const isDimmed =
+                      ((hoveredNodeId || selectedNodeId) && !isInNeighborhood) ||
+                      (matchingNodeIds && !isMatchSearch) ||
+                      (isolateMode && !isInNeighborhood);
+
+                    const isVisited = visitedNodeIds.has(node.id);
+
+                    if (isolateMode && !isInNeighborhood) return null;
+
+                    const halfW = node.width / 2;
+                    const halfH = node.height / 2;
+                    const nodeColor = node.color || OCNOS_PALETTE[i % OCNOS_PALETTE.length];
+                    const badgeInk = readableInk(nodeColor, isDark ? '#14202e' : '#ffffff');
+                    const labelIndent = -halfW + 22;
+
+                    return (
+                      <g
+                        key={node.id}
+                        data-interactive="true"
+                        transform={`translate(${node.cx}, ${node.cy})`}
+                        className="cursor-grab active:cursor-grabbing group select-none"
+                        onMouseDown={(e) => handleNodeMouseDown(e, node)}
+                        onClick={() => handleSelectNode(node.id)}
+                        onMouseEnter={() => setHoveredNodeId(node.id)}
+                        onMouseLeave={() => setHoveredNodeId(null)}
+                        opacity={isDimmed ? 0.32 : 1}
+                        filter={isSelected ? 'url(#nodeActiveGlow)' : 'url(#nodeCardShadow)'}
+                      >
+                        {/* Fondo de la tarjeta */}
+                        <rect
+                          x={-halfW}
+                          y={-halfH}
+                          width={node.width}
+                          height={node.height}
+                          rx={14}
+                          fill={isDark ? '#14202e' : '#ffffff'}
+                          stroke={
+                            isSelected
+                              ? (isDark ? '#38bdf8' : '#01b4bc')
+                              : isHovered
+                              ? nodeColor
+                              : (isDark ? '#223447' : '#e2e8f0')
+                          }
+                          strokeWidth={isSelected ? 2.2 : isHovered ? 1.8 : 1}
+                          className="transition-colors duration-150"
+                        />
+
+                        {/* Franja de acento de color a la izquierda */}
+                        <path
+                          d={`M ${-halfW + 3} ${-halfH + 10} Q ${-halfW + 3} ${-halfH + 3} ${-halfW + 10} ${-halfH + 3} L ${-halfW + 14} ${-halfH + 3} L ${-halfW + 14} ${halfH - 3} L ${-halfW + 10} ${halfH - 3} Q ${-halfW + 3} ${halfH - 3} ${-halfW + 3} ${halfH - 10} Z`}
+                          fill={nodeColor}
+                        />
+
+                        {/* Insignia / Rol superior en letras pequeñas */}
+                        <text
+                          x={labelIndent}
+                          y={-halfH + 14}
+                          fill={badgeInk}
+                          fontSize="9"
+                          fontFamily="Plus Jakarta Sans, sans-serif"
+                          fontWeight="800"
+                          letterSpacing="0.6px"
+                        >
+                          {i === 0 ? 'NÚCLEO PRINCIPAL' : `CONCEPTO 0${i + 1}`}
+                        </text>
+
+                        {/* Contador de vínculos a la derecha */}
+                        <g transform={`translate(${halfW - 19}, ${-halfH + 13})`}>
+                          <circle
+                            r="8.5"
+                            fill={isDark ? '#22344a' : '#eef2f7'}
+                            stroke={isDark ? '#33475f' : '#d3dce6'}
+                            strokeWidth="0.8"
+                          />
+                          <text
+                            textAnchor="middle"
+                            y="3.2"
+                            fill={isDark ? '#cbd5e1' : '#3f5266'}
+                            fontSize="9.5"
+                            fontFamily="Plus Jakarta Sans, sans-serif"
+                            fontWeight="800"
+                          >
+                            {node.degree}
+                          </text>
+                        </g>
+
+                        {/* PULSO INDICADOR (CTA si aún no ha sido visitado) */}
+                        {!isVisited && (
+                          <g transform={`translate(${halfW - 3}, ${-halfH + 3})`}>
+                            <circle
+                              r="6"
+                              fill="#fa5457"
+                              className="animate-ping opacity-60"
+                            />
+                            <circle
+                              r="4.5"
+                              fill="#fa5457"
+                              stroke="#ffffff"
+                              strokeWidth="1.2"
+                            />
+                          </g>
+                        )}
+
+                        {/* Texto del Concepto */}
+                        {node.lines.map((line, li) => (
+                          <text
+                            key={`line-${node.id}-${li}`}
+                            x={labelIndent}
+                            y={-halfH + 33 + li * node.lineHeight}
+                            fill={isDark ? '#f8fafc' : '#10293a'}
+                            fontSize={node.fontSize}
+                            fontFamily="Playfair Display, Georgia, serif"
+                            fontWeight={i === 0 ? 700 : 600}
+                          >
+                            {line}
+                          </text>
+                        ))}
+                      </g>
+                    );
+                  })}
+                </g>
+              </g>
+            </svg>
+          </div>
+        ) : (
+          /* =================================================================== */
+          /* VISTA 2: ESQUEMA ESTRUCTURADO (OUTLINE / FICHERO DE CONCEPTOS)     */
+          /* =================================================================== */
+          <div
+            className={`w-full h-full flex-1 p-4 sm:p-6 overflow-y-auto scrollbar-thin scrollbar-thumb-ocnos-cyan/30 ${
+              isDark ? 'bg-[#0a1017]' : 'bg-[#faf8f5]'
+            }`}
+          >
+            <div className="max-w-5xl mx-auto">
+              <div className={`flex items-center justify-between mb-4 pb-2 border-b ${isDark ? 'border-slate-800' : 'border-slate-200'}`}>
+                <span className={`text-xs font-sans font-bold uppercase tracking-wider ${isDark ? 'text-ocnos-cyan' : 'text-ocnos-cyan-dark'}`}>
+                  Estructura Relacional del Estudio ({nodePositions.length} conceptos clave)
+                </span>
+                <span className="text-xs text-slate-500 font-sans">
+                  Haz clic en cualquier tarjeta para abrir su ficha detallada
+                </span>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3.5">
+                {nodePositions.map((node, i) => {
+                  const isSelected = selectedNodeId === node.id;
+                  const conns = getNodeConnections(node.id);
+                  const nodeColor = node.color || OCNOS_PALETTE[i % OCNOS_PALETTE.length];
+                  const isVisited = visitedNodeIds.has(node.id);
+
+                  return (
+                    <div
+                      key={node.id}
+                      onClick={() => handleSelectNode(node.id)}
+                      className={`p-4 rounded-2xl cursor-pointer border transition-all duration-200 flex flex-col justify-between ${
+                        isSelected
+                          ? isDark
+                            ? 'bg-[#14202e] border-ocnos-cyan ring-2 ring-ocnos-cyan/20 shadow-md'
+                            : 'bg-white border-ocnos-cyan ring-2 ring-ocnos-cyan/20 shadow-md'
+                          : isDark
+                          ? 'bg-[#14202e] border-slate-800 hover:border-slate-700'
+                          : 'bg-white border-slate-200/90 hover:border-slate-300 shadow-2xs'
+                      }`}
+                    >
+                      <div>
+                        <div className="flex items-center justify-between mb-2">
+                          <div className="flex items-center gap-1.5">
+                            <span
+                              className="text-[10px] font-sans font-bold uppercase tracking-wider px-2 py-0.5 rounded-full"
+                              style={{ backgroundColor: `${nodeColor}20`, color: readableInk(nodeColor, isDark ? '#14202e' : '#ffffff') }}
+                            >
+                              {i === 0 ? 'Concepto Central' : `Nodo 0${i + 1}`}
+                            </span>
+                            {isVisited && (
+                              <span className="text-[10px] text-emerald-600 font-bold">✓ Visto</span>
+                            )}
+                          </div>
+                          <span className={`text-[11px] font-sans ${isDark ? 'text-slate-400' : 'text-slate-500'}`}>
+                            {node.degree} {node.degree === 1 ? 'vínculo' : 'vínculos'}
+                          </span>
+                        </div>
+
+                        <h4
+                          className={`font-serif text-base font-bold tracking-tight leading-snug mb-2 ${
+                            isDark ? 'text-white' : 'text-[#183446]'
+                          }`}
+                        >
+                          {node.label}
+                        </h4>
+
+                        <p
+                          className={`text-xs font-sans leading-relaxed line-clamp-3 ${
+                            isDark ? 'text-slate-400' : 'text-slate-600'
+                          }`}
+                        >
+                          {getNodeDescription(node)}
+                        </p>
                       </div>
-                      <span className={`text-[11px] font-serif uppercase tracking-widest font-bold ${
-                        isDark ? 'text-[#e5c07b]' : 'text-[#2a5a75]'
-                      }`}>
-                        {isCentral ? 'Núcleo Central' : `Concepto 0${i + 1}`}
-                      </span>
+
+                      <div className={`mt-4 pt-2.5 border-t flex items-center justify-between text-xs ${isDark ? 'border-slate-800' : 'border-slate-100'}`}>
+                        <span className={`text-[11px] font-sans ${isDark ? 'text-slate-400' : 'text-slate-500'}`}>
+                          {conns.outgoing.length} salientes • {conns.incoming.length} entrantes
+                        </span>
+                        <span className={`${isDark ? 'text-ocnos-cyan' : 'text-ocnos-cyan-dark'} font-semibold flex items-center gap-1`}>
+                          Inspeccionar <ArrowRight size={12} />
+                        </span>
+                      </div>
                     </div>
+                  );
+                })}
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* =================================================================== */}
+        {/* INSPECTOR LATERAL RETRÁCTIL (DRAWER COLAPSABLE)                     */}
+        {/* =================================================================== */}
+        <AnimatePresence>
+          {isPanelOpen && selectedNode && (
+            <motion.aside
+              initial={{ x: '100%', opacity: 0 }}
+              animate={{ x: 0, opacity: 1 }}
+              exit={{ x: '100%', opacity: 0 }}
+              transition={{ duration: 0.22, ease: 'easeOut' }}
+              className={`w-full sm:w-[380px] md:w-[420px] shrink-0 border-l shadow-2xl backdrop-blur-xl flex flex-col justify-between overflow-hidden z-20 ${
+                isDark
+                  ? 'bg-[#101b27]/95 border-slate-800 text-slate-100'
+                  : 'bg-white/95 border-slate-200/90 text-slate-800'
+              }`}
+            >
+              {/* Cabecera del Inspector con botón de colapsar */}
+              <div className={`p-3.5 sm:p-4 border-b flex items-start justify-between gap-2 shrink-0 ${isDark ? 'border-slate-800' : 'border-slate-200'}`}>
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-center gap-2 mb-0.5">
+                    <span
+                      className="w-2.5 h-2.5 rounded-full shrink-0"
+                      style={{ backgroundColor: selectedNode.color || '#01b4bc' }}
+                    />
+                    <span className={`text-[10px] font-sans font-bold uppercase tracking-widest truncate ${isDark ? 'text-ocnos-cyan' : 'text-ocnos-cyan-dark'}`}>
+                      FICHA EPISTÉMICA • CONCEPTO {selectedNode.id}
+                    </span>
                   </div>
-
-                  <h4 className={`font-serif text-lg font-bold tracking-tight transition-colors ${
-                    isDark ? 'text-[#FAF5ED] group-hover:text-[#e5c07b]' : 'text-[#1E293B] group-hover:text-[#2a5a75]'
-                  }`}>
-                    {n.label}
+                  <h4
+                    className={`font-serif text-base sm:text-lg font-bold tracking-tight leading-snug ${
+                      isDark ? 'text-white' : 'text-[#183446]'
+                    }`}
+                  >
+                    {selectedNode.label}
                   </h4>
+                </div>
 
-                  <p className={`text-xs mt-2.5 line-clamp-3 font-serif leading-relaxed ${
-                    isDark ? 'text-[#F3EBE1]/75' : 'text-[#475569]'
-                  }`}>
-                    {getNodeDescription(n.label)}
+                <div className="flex items-center gap-1 shrink-0">
+                  <button
+                    onClick={() => focusOnNode(selectedNode.id)}
+                    className={`p-1 rounded-lg transition-colors cursor-pointer ${isDark ? 'text-slate-400 hover:text-ocnos-cyan hover:bg-slate-800' : 'text-slate-500 hover:text-ocnos-cyan-dark hover:bg-slate-100'}`}
+                    title="Centrar en el mapa"
+                    aria-label="Centrar en el mapa"
+                  >
+                    <Focus size={15} />
+                  </button>
+                  <button
+                    onClick={() => setIsPanelOpen(false)}
+                    className={`p-1 rounded-lg transition-colors cursor-pointer ${isDark ? 'text-slate-400 hover:text-slate-200 hover:bg-slate-800' : 'text-slate-500 hover:text-slate-700 hover:bg-slate-100'}`}
+                    title="Minimizar panel para ver todo el mapa"
+                    aria-label="Minimizar panel"
+                  >
+                    <PanelRightClose size={15} />
+                  </button>
+                </div>
+              </div>
+
+              {/* Contenido scrolleable de la ficha */}
+              <div className={`flex-1 p-3.5 sm:p-4 overflow-y-auto space-y-3.5 min-h-0 scrollbar-thin ${isDark ? 'scrollbar-thumb-slate-700' : 'scrollbar-thumb-slate-300'}`}>
+                {/* Definición y Rol */}
+                <div
+                  className={`p-3.5 rounded-xl border ${
+                    isDark ? 'bg-slate-900/60 border-slate-800' : 'bg-slate-50 border-slate-200/80'
+                  }`}
+                >
+                  <div className={`flex items-center gap-1.5 text-xs font-sans font-bold uppercase tracking-wider mb-1.5 ${isDark ? 'text-ocnos-cyan' : 'text-ocnos-cyan-dark'}`}>
+                    <BookOpen size={13} />
+                    <span>Definición y Rol en el Artículo</span>
+                  </div>
+                  <p className={`text-xs font-sans leading-relaxed ${isDark ? 'text-slate-300' : 'text-slate-600'}`}>
+                    {getNodeDescription(selectedNode)}
                   </p>
                 </div>
 
-                <div className="mt-5 pt-3.5 border-t border-[#c5a059]/20 flex items-center justify-between text-xs font-serif">
-                  <span className={isDark ? 'text-[#F3EBE1]/60' : 'text-[#64748B]'}>
-                    {connections.length} {connections.length === 1 ? 'vínculo' : 'vínculos'}
-                  </span>
-                  <span className={`font-bold flex items-center gap-1.5 group-hover:translate-x-1 transition-transform ${
-                    isDark ? 'text-[#e5c07b]' : 'text-[#2a5a75]'
-                  }`}>
-                    <span>Abrir ficha</span>
-                    <ArrowRight size={13} />
-                  </span>
-                </div>
-              </div>
-            );
-          })}
-        </div>
-      )}
-
-      {/* ===================================================================== */}
-      {/* DOSSIER / FICHA INTERACTIVA EDITORIAL (VENTANA MODAL TIPO GENIALLY)   */}
-      {/* ===================================================================== */}
-      <AnimatePresence>
-        {selectedNode && (
-          <div 
-            className="fixed inset-0 z-[10001] bg-black/75 backdrop-blur-md flex items-end sm:items-center justify-center p-0 sm:p-4"
-            onClick={() => setSelectedNode(null)}
-            role="dialog"
-            aria-modal="true"
-            aria-labelledby="modal-concept-title"
-          >
-            <motion.div
-              initial={{ opacity: 0, y: 40, scale: 0.96 }}
-              animate={{ opacity: 1, y: 0, scale: 1 }}
-              exit={{ opacity: 0, y: 40, scale: 0.96 }}
-              transition={{ duration: 0.28, ease: "easeOut" }}
-              onClick={(e) => e.stopPropagation()}
-              className={`w-full sm:max-w-2xl border-t sm:border-2 rounded-t-3xl sm:rounded-3xl p-6 sm:p-8 shadow-2xl max-h-[88vh] overflow-y-auto scrollbar-thin scrollbar-thumb-[#c5a059]/50 ${
-                isDark 
-                  ? 'bg-gradient-to-b from-[#241721] to-[#170e15] border-[#d4af37]/40 text-[#F3EBE1]' 
-                  : 'bg-gradient-to-b from-[#FFFDF9] to-[#F7F3EB] border-[#2a5a75]/30 text-[#1E293B]'
-              }`}
-            >
-              {/* Orla superior del dossier */}
-              <div className="flex items-center justify-between pb-4 border-b border-[#c5a059]/30 mb-5">
-                <div className="flex items-center gap-3">
-                  {/* Camafeo grande con halo */}
-                  <div className={`w-14 h-14 rounded-full flex items-center justify-center border-2 shadow-inner shrink-0 ${
+                {/* Caja de Hallazgo / Clave Pedagógica */}
+                <div
+                  className={`p-3 rounded-xl border-2 border-dashed ${
                     isDark 
-                      ? 'bg-[#181016] border-[#d4af37] text-[#e5c07b]' 
-                      : 'bg-white border-[#2a5a75] text-[#2a5a75]'
-                  }`}>
-                    {React.createElement(
-                      getNodeIcon(selectedNode.label, laidNodes.findIndex((n) => n.id === selectedNode.id)),
-                      { width: 28, height: 28 }
-                    )}
-                  </div>
-                  <div>
-                    <span className={`text-[10px] sm:text-[11px] font-serif font-bold uppercase tracking-[0.2em] ${
-                      isDark ? 'text-[#e5c07b]' : 'text-[#2a5a75]'
-                    }`}>
-                      FICHA CONCEPTUAL • ESTUDIO OCNOS
-                    </span>
-                    <h3 id="modal-concept-title" className={`font-serif text-xl sm:text-2xl font-bold tracking-tight leading-tight ${
-                      isDark ? 'text-[#FAF5ED]' : 'text-[#1E293B]'
-                    }`}>
-                      {selectedNode.label}
-                    </h3>
-                  </div>
-                </div>
-
-                <button
-                  onClick={() => setSelectedNode(null)}
-                  className={`min-h-[40px] min-w-[40px] flex items-center justify-center rounded-xl transition-colors cursor-pointer border ${
-                    isDark 
-                      ? 'bg-[#100a0e]/60 border-[#d4af37]/20 hover:bg-[#d4af37]/20 text-[#FAF5ED]' 
-                      : 'bg-white border-[#2a5a75]/20 hover:bg-[#2a5a75]/10 text-[#1E293B]'
+                      ? 'bg-amber-950/20 border-amber-600/40 text-amber-200' 
+                      : 'bg-amber-50/80 border-amber-400/60 text-amber-900'
                   }`}
-                  aria-label="Cerrar ficha interactiva"
                 >
-                  <X size={18} />
-                </button>
-              </div>
-
-              {/* Fundamentación Teórica / Metodológica */}
-              <div className={`p-5 rounded-2xl border mb-6 ${
-                isDark 
-                  ? 'bg-[#120910]/70 border-[#d4af37]/25 text-[#F3EBE1]' 
-                  : 'bg-white/80 border-[#2a5a75]/15 text-[#334155]'
-              }`}>
-                <div className={`flex items-center gap-2 text-xs font-serif font-bold uppercase tracking-wider mb-2.5 ${
-                  isDark ? 'text-[#e5c07b]' : 'text-[#2a5a75]'
-                }`}>
-                  <BookOpen size={14} />
-                  <span>Definición y Rol en el Modelo Teórico</span>
+                  <div className={`flex items-center gap-1.5 text-xs font-sans font-bold uppercase tracking-wider mb-1 ${isDark ? 'text-amber-400' : 'text-amber-700'}`}>
+                    <Lightbulb size={13} />
+                    <span>Implicancia Docente & Evidencia</span>
+                  </div>
+                  <p className="text-xs font-sans leading-relaxed">
+                    {getNodePedagogicalTakeaway(selectedNode)}
+                  </p>
                 </div>
-                <p className="font-serif text-sm sm:text-base leading-relaxed italic">
-                  "{getNodeDescription(selectedNode.label)}"
-                </p>
-              </div>
 
-              {/* Red de Vínculos del Modelo Conceptual */}
-              <div className="mb-6">
-                <h5 className={`text-xs font-serif font-bold uppercase tracking-widest mb-3.5 flex items-center gap-2 ${
-                  isDark ? 'text-[#e5c07b]' : 'text-[#2a5a75]'
-                }`}>
-                  <Info size={14} />
-                  <span>Vínculos Epistémicos en el Artículo ({getNodeConnections(selectedNode.id).length}):</span>
-                </h5>
+                {/* Cita Textual de la Publicación */}
+                <div
+                  className={`p-3 rounded-xl border-l-4 ${
+                    isDark
+                      ? 'bg-slate-900/40 border-ocnos-cyan text-slate-300'
+                      : 'bg-slate-50 border-ocnos-cyan text-slate-700'
+                  }`}
+                >
+                  <div className={`flex items-center gap-1 text-[10.5px] font-sans font-bold mb-0.5 ${isDark ? 'text-ocnos-cyan' : 'text-ocnos-cyan-dark'}`}>
+                    <Quote size={11} />
+                    <span>Enfoque de Investigación:</span>
+                  </div>
+                  <p className="text-xs font-serif italic leading-relaxed">
+                    "La articulación de {selectedNode.label.toLowerCase()} conforma un nodo imprescindible para comprender la relación entre mediación, lenguaje y cognición en el corpus analizado."
+                  </p>
+                </div>
 
-                <div className="space-y-2.5">
-                  {getNodeConnections(selectedNode.id).map((conn, cIdx) => (
-                    <div 
-                      key={cIdx}
-                      className={`p-3.5 rounded-xl border flex flex-col sm:flex-row sm:items-center justify-between gap-3 transition-colors ${
-                        isDark 
-                          ? 'bg-[#1a1018] border-[#c5a059]/20 hover:border-[#e5c07b]/50' 
-                          : 'bg-white border-[#2a5a75]/15 hover:border-[#2a5a75]/40 shadow-xs'
+                {/* Vínculos y Conexiones en el mapa */}
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className={`text-xs font-sans font-bold uppercase tracking-wider ${isDark ? 'text-slate-300' : 'text-slate-600'}`}>
+                      Red de Conexiones ({getNodeConnections(selectedNode.id).all.length})
+                    </span>
+                    <button
+                      onClick={() => setIsolateMode(!isolateMode)}
+                      className={`text-[10.5px] font-sans font-medium px-2 py-0.5 rounded-md transition-colors cursor-pointer ${
+                        isolateMode
+                          ? 'bg-ocnos-coral-dark text-white'
+                          : 'text-ocnos-cyan hover:bg-ocnos-cyan/10'
                       }`}
                     >
-                      <div className="flex items-center gap-2">
-                        <span className={`text-xs font-serif italic ${
-                          isDark ? 'text-[#e5c07b]' : 'text-[#c5a059]'
-                        }`}>
-                          {conn.label}:
-                        </span>
-                        <span className={`text-xs sm:text-sm font-serif font-bold ${
-                          isDark ? 'text-[#FAF5ED]' : 'text-[#1E293B]'
-                        }`}>
-                          {conn.target?.label}
-                        </span>
-                      </div>
+                      {isolateMode ? 'Restaurar red' : 'Aislar concepto'}
+                    </button>
+                  </div>
 
-                      <button
-                        onClick={() => conn.target && setSelectedNode(conn.target)}
-                        className={`text-xs font-serif font-bold flex items-center gap-1 hover:underline cursor-pointer self-end sm:self-auto ${
-                          isDark ? 'text-[#e5c07b]' : 'text-[#2a5a75]'
-                        }`}
-                      >
-                        <span>Examinar concepto</span>
-                        <ArrowRight size={13} />
-                      </button>
+                  {/* Lista de Conexiones Salientes */}
+                  {getNodeConnections(selectedNode.id).outgoing.length > 0 && (
+                    <div className="space-y-1.5 mb-2.5">
+                      <span className={`text-[10.5px] font-sans font-bold flex items-center gap-1 ${isDark ? 'text-slate-300' : 'text-slate-600'}`}>
+                        <ArrowUpRight size={12} className="text-emerald-500" />
+                        <span>Incide / Actúa sobre:</span>
+                      </span>
+                      {getNodeConnections(selectedNode.id).outgoing.map((conn, idx) => (
+                        <div
+                          key={`out-${idx}`}
+                          onClick={() => conn.target && focusOnNode(conn.target.id)}
+                          className={`p-2 rounded-xl border cursor-pointer transition-all flex items-center justify-between gap-2 group ${
+                            isDark
+                              ? 'bg-slate-900/40 border-slate-800 hover:border-ocnos-cyan hover:bg-slate-800/60'
+                              : 'bg-white border-slate-200/80 hover:border-ocnos-cyan hover:bg-slate-50 shadow-2xs'
+                          }`}
+                        >
+                          <div className="min-w-0">
+                            <span className={`text-[10.5px] font-sans block truncate italic ${isDark ? 'text-slate-400' : 'text-slate-500'}`}>
+                              {conn.label}
+                            </span>
+                            <span className={`text-xs font-serif font-bold transition-colors truncate block ${isDark ? 'text-slate-100 group-hover:text-sky-300' : 'text-[#10293a] group-hover:text-ocnos-cyan-dark'}`}>
+                              {conn.target?.label}
+                            </span>
+                          </div>
+                          <ArrowRight size={12} className={`${isDark ? 'text-slate-400' : 'text-slate-500'} group-hover:translate-x-0.5 transition-transform shrink-0`} />
+                        </div>
+                      ))}
                     </div>
-                  ))}
+                  )}
+
+                  {/* Lista de Conexiones Entrantes */}
+                  {getNodeConnections(selectedNode.id).incoming.length > 0 && (
+                    <div className="space-y-1.5">
+                      <span className={`text-[10.5px] font-sans font-bold flex items-center gap-1 ${isDark ? 'text-slate-300' : 'text-slate-600'}`}>
+                        <ArrowDownLeft size={12} className="text-sky-500" />
+                        <span>Fundamentado / Provocado por:</span>
+                      </span>
+                      {getNodeConnections(selectedNode.id).incoming.map((conn, idx) => (
+                        <div
+                          key={`in-${idx}`}
+                          onClick={() => conn.target && focusOnNode(conn.target.id)}
+                          className={`p-2 rounded-xl border cursor-pointer transition-all flex items-center justify-between gap-2 group ${
+                            isDark
+                              ? 'bg-slate-900/40 border-slate-800 hover:border-ocnos-cyan hover:bg-slate-800/60'
+                              : 'bg-white border-slate-200/80 hover:border-ocnos-cyan hover:bg-slate-50 shadow-2xs'
+                          }`}
+                        >
+                          <div className="min-w-0">
+                            <span className={`text-[10.5px] font-sans block truncate italic ${isDark ? 'text-slate-400' : 'text-slate-500'}`}>
+                              {conn.label}
+                            </span>
+                            <span className={`text-xs font-serif font-bold transition-colors truncate block ${isDark ? 'text-slate-100 group-hover:text-sky-300' : 'text-[#10293a] group-hover:text-ocnos-cyan-dark'}`}>
+                              {conn.target?.label}
+                            </span>
+                          </div>
+                          <ArrowRight size={12} className={`${isDark ? 'text-slate-400' : 'text-slate-500'} group-hover:translate-x-0.5 transition-transform shrink-0`} />
+                        </div>
+                      ))}
+                    </div>
+                  )}
                 </div>
               </div>
 
-              {/* Pie de Ficha con botón de retorno */}
-              <div className="flex items-center justify-between pt-4 border-t border-[#c5a059]/25">
-                <span className={`text-xs font-serif italic ${
-                  isDark ? 'text-[#F3EBE1]/60' : 'text-[#64748B]'
-                }`}>
-                  Publicación científica arbitrada • Ocnos
-                </span>
-
+              {/* Pie de ficha con botones de acción */}
+              <div className={`p-3 border-t flex items-center justify-between gap-2 shrink-0 ${isDark ? 'border-slate-800 bg-slate-900/50' : 'border-slate-200 bg-slate-50/50'}`}>
                 <button
-                  onClick={() => setSelectedNode(null)}
-                  className={`min-h-[44px] px-6 py-2.5 rounded-xl font-serif font-bold text-sm shadow-md transition-all cursor-pointer active:scale-95 ${
-                    isDark 
-                      ? 'bg-[#e5c07b] text-[#181016] hover:bg-[#d4af37]' 
-                      : 'bg-[#2a5a75] text-white hover:bg-[#1f455d]'
+                  onClick={() => handleCopyConcept(selectedNode.label)}
+                  className={`text-xs font-sans font-semibold px-2.5 py-1.5 rounded-xl border flex items-center gap-1 transition-colors cursor-pointer ${
+                    isDark
+                      ? 'bg-slate-800 border-slate-700 text-slate-300 hover:text-white'
+                      : 'bg-white border-slate-200 text-slate-600 hover:text-slate-900 shadow-2xs'
                   }`}
                 >
-                  Volver a la Lámina
+                  {copiedLink ? <Check size={13} className="text-emerald-500" /> : <Share2 size={13} />}
+                  <span>{copiedLink ? 'Copiado' : 'Citar'}</span>
                 </button>
+
+                <div className="flex items-center gap-1.5">
+                  <button
+                    onClick={() => focusOnNode(selectedNode.id)}
+                    className="px-3 py-1.5 bg-ocnos-cyan-dark hover:bg-[#00555a] text-white rounded-xl text-xs font-sans font-bold flex items-center gap-1 shadow-xs transition-colors cursor-pointer"
+                  >
+                    <Focus size={13} />
+                    <span>Centrar</span>
+                  </button>
+                  <button
+                    onClick={handleStartTour}
+                    className={`px-3 py-1.5 rounded-xl text-xs font-sans font-bold flex items-center gap-1 transition-colors cursor-pointer ${isDark ? 'bg-slate-800 hover:bg-slate-700 text-slate-200' : 'bg-slate-200 hover:bg-slate-300 text-slate-800'}`}
+                    title="Pasar al siguiente concepto"
+                  >
+                    <span>Siguiente</span>
+                    <ArrowRight size={12} />
+                  </button>
+                </div>
               </div>
-            </motion.div>
-          </div>
-        )}
-      </AnimatePresence>
+            </motion.aside>
+          )}
+        </AnimatePresence>
+
+        {/* =================================================================== */}
+        {/* MODAL DE METADATOS CIENTÍFICOS                                     */}
+        {/* =================================================================== */}
+        <AnimatePresence>
+          {showMetaModal && (
+            <div
+              className="absolute inset-0 z-50 bg-black/50 backdrop-blur-xs flex items-center justify-center p-4"
+              onClick={() => setShowMetaModal(false)}
+            >
+              <motion.div
+                initial={{ opacity: 0, scale: 0.95 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.95 }}
+                transition={{ duration: 0.2 }}
+                onClick={(e) => e.stopPropagation()}
+                className={`max-w-lg w-full rounded-3xl p-6 shadow-2xl border ${
+                  isDark
+                    ? 'bg-[#101b27] border-slate-800 text-slate-100'
+                    : 'bg-white border-slate-200 text-slate-800'
+                }`}
+              >
+                <div className={`flex items-center justify-between pb-3 mb-4 border-b ${isDark ? 'border-slate-800' : 'border-slate-200'}`}>
+                  <div className="flex items-center gap-2">
+                    <FileText size={18} className="text-ocnos-coral" />
+                    <h3 className={`font-serif font-bold text-lg ${isDark ? 'text-white' : 'text-[#183446]'}`}>
+                      Ficha Bibliográfica del Estudio
+                    </h3>
+                  </div>
+                  <button
+                    onClick={() => setShowMetaModal(false)}
+                    className={`p-1 rounded-lg cursor-pointer ${isDark ? 'text-slate-400 hover:text-slate-200' : 'text-slate-500 hover:text-slate-700'}`}
+                  >
+                    <X size={18} />
+                  </button>
+                </div>
+
+                <div className="space-y-3 text-xs sm:text-sm font-sans">
+                  <div className={`flex justify-between py-1.5 border-b border-dashed ${isDark ? 'border-slate-800' : 'border-slate-200'}`}>
+                    <strong className={isDark ? 'text-slate-400' : 'text-slate-500'}>Artículo:</strong>
+                    <span className="font-semibold text-right max-w-[280px]">{titulo}</span>
+                  </div>
+
+                  {contextData?.authors && (
+                    <div className={`flex justify-between py-1.5 border-b border-dashed ${isDark ? 'border-slate-800' : 'border-slate-200'}`}>
+                      <strong className={isDark ? 'text-slate-400' : 'text-slate-500'}>Autoría:</strong>
+                      <span className="text-right">{contextData.authors}</span>
+                    </div>
+                  )}
+
+                  <div className={`flex justify-between py-1.5 border-b border-dashed ${isDark ? 'border-slate-800' : 'border-slate-200'}`}>
+                    <strong className={isDark ? 'text-slate-400' : 'text-slate-500'}>Revista:</strong>
+                    <span>Ocnos (Revista de Estudios sobre Lectura)</span>
+                  </div>
+
+                  {contextData?.metadata?.doi && (
+                    <div className={`flex justify-between items-center py-1.5 border-b border-dashed ${isDark ? 'border-slate-800' : 'border-slate-200'}`}>
+                      <strong className={isDark ? 'text-slate-400' : 'text-slate-500'}>DOI:</strong>
+                      <a
+                        href={`https://doi.org/${contextData.metadata.doi}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={`${isDark ? 'text-ocnos-cyan' : 'text-ocnos-cyan-dark'} font-bold hover:underline flex items-center gap-1`}
+                      >
+                        <span>{contextData.metadata.doi}</span>
+                        <ExternalLink size={12} />
+                      </a>
+                    </div>
+                  )}
+
+                  <div className={`flex justify-between py-1.5 border-b border-dashed ${isDark ? 'border-slate-800' : 'border-slate-200'}`}>
+                    <strong className={isDark ? 'text-slate-400' : 'text-slate-500'}>Red conceptual:</strong>
+                    <span>{nodePositions.length} nodos • {aristas.length} relaciones</span>
+                  </div>
+                </div>
+
+                <div className={`mt-5 pt-3 border-t flex justify-end ${isDark ? 'border-slate-800' : 'border-slate-200'}`}>
+                  <button
+                    onClick={() => setShowMetaModal(false)}
+                    className="px-5 py-2 bg-ocnos-coral-dark text-white rounded-xl text-xs font-sans font-bold hover:bg-[#9c1a24] cursor-pointer"
+                  >
+                    Entendido
+                  </button>
+                </div>
+              </motion.div>
+            </div>
+          )}
+        </AnimatePresence>
+
+      </div>
     </div>
   );
 }

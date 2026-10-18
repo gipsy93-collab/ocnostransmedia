@@ -1,0 +1,376 @@
+{
+  "id": "analisis_adaptaciones_literarias_hamlet_didactica_aula",
+  "metadata": {
+    "id": "analisis_adaptaciones_literarias_hamlet_didactica_aula",
+    "title": "Análisis de las adaptaciones literarias de Hamlet para su uso didáctico en el aula",
+    "authors": [
+      "María-Isabel de Vicente-Yagüe-Jara",
+      "Marta García-Gómez"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "2",
+    "pages": "20-32",
+    "doi": "10.18239/ocnos_2018.17.2.1608",
+    "keywords": [
+      "Hamlet",
+      "adaptaciones literarias",
+      "didáctica de la literatura",
+      "educación primaria y secundaria",
+      "transtextualidad"
+    ],
+    "abstract": "Análisis descriptivo de siete adaptaciones de Hamlet (álbum ilustrado, cómic, relato bilingüe y novela) con ATLAS.ti, clasificando procedimientos de transmodalización y aportando criterios de selección docente según la madurez lectora."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo acercar la densidad existencial y la tragedia de Hamlet a niños y adolescentes sin traicionar a Shakespeare ni aburrir al alumnado? Este estudio analiza siete adaptaciones literarias contemporáneas para dotar al profesorado de criterios científicos de selección según la edad.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis de la transposición shakespeariana:",
+        "opciones": [
+          {
+            "id": "transtextual",
+            "texto": "Enfoque transtextual: del drama isabelino al cómic y álbum ilustrado"
+          },
+          {
+            "id": "didactica",
+            "texto": "Criterios pedagógicos de selección: edad, lenguaje y tratamiento de la muerte"
+          },
+          {
+            "id": "categorica",
+            "texto": "Análisis de contenido cualitativo con ATLAS.ti en 7 versiones"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "La enseñanza de los clásicos universales oscila entre dos extremos nocivos: el inmovilismo purista que exige leer el original arcaico incomprensible para el joven, y las adaptaciones comerciales descuidadas que mutilan la obra convirtiéndola en un resumen insustancial.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cuál es la función didáctica legítima de una adaptación de un clásico como Hamlet?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Actuar como puente mediador que allana la comprensión y alimenta el intertexto lector, preparando el camino hacia el original.",
+            "correcta": true,
+            "explicacion": "Exacto: la adaptación no busca reemplazar al clásico, sino ofrecer una puerta de entrada accesible y estimulante a su universo simbólico."
+          },
+          {
+            "id": "c2",
+            "texto": "Sustituir para siempre la obra original para que nadie tenga que leer teatro nunca más.",
+            "correcta": false,
+            "explicacion": "La adaptación es un medio formativo transicional, no una clausura del canon."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Las autoras seleccionaron una muestra intencional de siete adaptaciones publicadas en España entre 2006 y 2016. Mediante análisis de contenido en ATLAS.ti, codificaron variables de formato (cómic, novela, álbum), destinatario, procedimientos de transmodalización, lenguaje y adecuación curricular.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra intencional",
+            "detalle": "Siete adaptaciones de Hamlet cubriendo diversos formatos y edades de 6 a 16 años."
+          },
+          {
+            "fase": "Categorización en ATLAS.ti",
+            "detalle": "Codificación sistemática de núcleos temáticos: venganza, locura, muerte y amor."
+          },
+          {
+            "fase": "Transmodalización",
+            "detalle": "Análisis de la conversión del texto teatral en prosa narrativa y secuencias de cómic."
+          },
+          {
+            "fase": "Guía prescriptiva",
+            "detalle": "Propuesta de asignación didáctica según etapas de Primaria y Secundaria."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El estudio desvela que no existe una única forma válida de adaptar a Shakespeare: los formatos gráficos como el cómic o el álbum facilitan la entrada visual en Primaria modulando el horror de las muertes, mientras que las versiones bilingües y teatrales se adaptan mejor a Secundaria.",
+      "datos_clave": [
+        "Auditoría rigurosa de 7 adaptaciones de Hamlet destinadas a público infantil y juvenil.",
+        "Identificación de los procedimientos de elipsis, amplificación y transmodalización.",
+        "Tratamiento diferenciado de temas tabú (locura de Ofelia y suicidio) según la edad.",
+        "Catálogo orientativo de prescripción lectora para docentes de Primaria y ESO."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "La investigación se fundamenta en las teorías de la adaptación y transtextualidad de Gérard Genette, la poética de la educación literaria de Teresa Colomer y Pedro Cerrillo, y las reflexiones sobre la salvación del clásico de Ortega y Gasset.",
+      "referencias_clave": [
+        "Genette (1989)",
+        "Cerrillo (2013)",
+        "Colomer (1998)",
+        "Ortega y Gasset (1983)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "Salvar a Shakespeare para los jóvenes exige reinventarlo con rigor y belleza: adaptar Hamlet es tender una escala de cuerda sobre el abismo del tiempo para que los niños puedan asomarse a las grandes preguntas de la condición humana.",
+      "hallazgo_central": "El análisis de contenido de adaptaciones de Hamlet proporciona criterios científicos para seleccionar versiones literarias óptimas según la madurez lectora del alumnado."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los formatos de adaptación con su idoneidad pedagógica:",
+          "pares": [
+            {
+              "concepto": "Álbum ilustrado y cuento",
+              "definicion": "Ideal para Primaria: suaviza la violencia explícita y apoya la trama en la imagen."
+            },
+            {
+              "concepto": "Novela gráfica y cómic",
+              "definicion": "Óptimo para primer ciclo de ESO: dinamismo visual y lenguaje cercano juvenil."
+            },
+            {
+              "concepto": "Versión teatral bilingüe",
+              "definicion": "Idónea para Bachillerato: cotejo con el inglés original y puesta en escena dramática."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Análisis Didáctico de Adaptaciones Literarias de Hamlet",
+      "descripcion": "Estructura metodológica y formativa del análisis de contenido de adaptaciones de Hamlet para el aula.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Adaptaciones Didácticas de Hamlet",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo primordial: analizar de forma comparativa, cualitativa y descriptiva siete adaptaciones literarias infantiles y juveniles de Hamlet para determinar su idoneidad pedagógica según niveles de madurez lectora."
+        },
+        {
+          "id": "2",
+          "label": "El Dilema de los Clásicos en el Aula",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Debate en educación literaria entre el inmovilismo de considerar al texto clásico inalterable y la urgencia pedagógica de adaptarlo para evitar que duerma el sueño de los libros cerrados y olvidados en las estanterías escolares."
+        },
+        {
+          "id": "3",
+          "label": "Transtextualidad e Hipertextualidad",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Fundamentación semiótica de Gérard Genette que conceptualiza la adaptación literaria como una operación hipertextual estructurada de transmodalización y transformación a partir de un hipotexto dramático fuente canónico."
+        },
+        {
+          "id": "4",
+          "label": "Construcción del Intertexto Lector",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco formativo de Cerrillo y Colomer que defiende que la frecuentación temprana y guiada de los grandes mitos shakespearianos enriquece sustancialmente el imaginario simbólico y la competencia interpretativa juvenil."
+        },
+        {
+          "id": "5",
+          "label": "Corpus de Siete Adaptaciones (2006-2016)",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Muestra intencional integrada por siete ediciones comerciales publicadas en España representativas de múltiples lenguajes y géneros: álbum ilustrado infantil, cuento adaptado, novela juvenil, cómic y versión teatral bilingüe."
+        },
+        {
+          "id": "6",
+          "label": "Análisis de Contenido Cualitativo con ATLAS.ti",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Metodología analítica asistida por software informático cualitativo para codificar y cruzar sistemáticamente categorías de adecuación lingüística, tratamiento de tabúes temáticos, fidelidad argumental y formato multimodal."
+        },
+        {
+          "id": "7",
+          "label": "Categorización de Transmodalizaciones",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Procedimiento analítico pormenorizado que examinó el trasvase del verso dramático teatral original hacia la prosa narrativa en tercera persona, la elipsis condensatoria y la secuenciación gráfico-visual en viñetas de cómic."
+        },
+        {
+          "id": "8",
+          "label": "Gradación Temática según la Edad",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo empírico clave: las adaptaciones gradúan los núcleos conflictivos más escabrosos (la locura de Ofelia, la traición materna y las muertes trágicas) suprimiendo crueldad explícita en las ediciones para Primaria."
+        },
+        {
+          "id": "9",
+          "label": "Eficacia Mediadora del Cómic y Álbum",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación del enorme potencial mediador de los formatos gráficos multimodales para allanar la comprensión de la atmósfera gótica de Elsinor y los estados psicológicos de los personajes en lectores infantiles tempranos."
+        },
+        {
+          "id": "10",
+          "label": "Mantenimiento del Conflicto Existencial",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Evidencia analítica de que las adaptaciones rigurosas preservan la densidad dramática del dilema ser o no ser y el conflicto moral de la duda, modulando el vocabulario arcaico sin trivializar la hondura filosófica."
+        },
+        {
+          "id": "11",
+          "label": "La Adaptación como Puerta, no como Destino",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica que supera viejas polémicas: la adaptación literaria no suplanta ni degrada al clásico, sino que constituye el andamiaje cognitivo y afectivo imprescindible para acceder al original en la madurez adulta."
+        },
+        {
+          "id": "12",
+          "label": "Responsabilidad Docente en la Selección",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión crítica sobre el papel mediador insustituible del profesorado, quien debe auditar la calidad estética y adecuación evolutiva de las versiones en el mercado para evitar resúmenes insustanciales o fallidos."
+        },
+        {
+          "id": "13",
+          "label": "Criterios Científicos de Prescripción",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental: la investigación proporciona al profesorado de Primaria y Secundaria una guía analítica rigurosa para seleccionar la adaptación de Hamlet más idónea para sus necesidades pedagógicas concretas."
+        },
+        {
+          "id": "14",
+          "label": "Superación del Prejuicio Escolar Anticlásico",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta didáctica integral orientada a erradicar el rechazo preventivo del alumnado hacia las obras canónicas mediante soportes visuales y narrativos accesibles y estimulantes que despierten su fascinación."
+        },
+        {
+          "id": "15",
+          "label": "Transmisión del Patrimonio Humanístico",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión formativa final: adaptar con rigor a los grandes autores universales es un ejercicio indispensable para democratizar el patrimonio cultural y mantener vivas las grandes preguntas humanísticas en la juventud."
+        },
+        {
+          "id": "16",
+          "label": "Muestra Delimitada a Siete Obras Españolas",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación metodológica derivada del tamaño intencional de la muestra centrado en publicaciones en España, recomendando ampliar el examen a adaptaciones audiovisuales, teatrales y transmedia digitales."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se propone resolver"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se ejecuta analizando"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se encuadra en la"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "contribuye a la"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se procesa mediante"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "examina las"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "identifica la"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "demuestra la"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "comprueba el"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "avala la tesis de que"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "confirma que"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "exige la"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "posibilita formular"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "promueve la"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "hace viable la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "conduce hacia la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "acotada por su"
+        },
+        {
+          "from": "4",
+          "to": "14",
+          "label": "facilita la"
+        },
+        {
+          "from": "3",
+          "to": "10",
+          "label": "fundamenta el"
+        },
+        {
+          "from": "2",
+          "to": "11",
+          "label": "se resuelve con"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "De Vicente-Yagüe-Jara y García-Gómez nos transmiten una convicción luminosa: ningún niño es demasiado pequeño para emocionarse con las dudas de Hamlet si encontramos la mano que sepa dibujárselo con ternura e inteligencia.",
+      "preguntas_guiadas": [
+        "¿Cuál fue tu primer contacto con un clásico universal: a través de la obra original íntegra o mediante una adaptación infantil o juvenil?",
+        "¿Qué límites éticos y estéticos consideras que no deberían rebasarse al adaptar textos clásicos de gran violencia para los más pequeños?"
+      ]
+    }
+  }
+}

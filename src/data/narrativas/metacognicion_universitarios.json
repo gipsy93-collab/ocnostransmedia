@@ -2,51 +2,51 @@
   "id": "metacognicion_universitarios",
   "metadata": {
     "title": "Validación psicométrica de un test de comprensión lectora y conciencia metacognitiva en estudiantes universitarios",
-    "authors": "José-Antonio Martínez-González, María-Ángeles Serrano y Lucía Ramos",
+    "authors": "Aníbal Puente, Antonio P. Gutiérrez-de-Blume, Juan Calderón y Luis Rojas",
     "year": "2025",
     "journal": "Ocnos 24(2)",
     "doi": "10.18239/ocnos_2025.24.2.538",
-    "gancho": "¿Saben realmente los universitarios si han entendido lo que leen o sufren una ceguera metacognitiva crónica?",
+    "gancho": "¿Saben realmente los universitarios si han entendido lo que leen o su metacomprensión pasa desapercibida?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#9b82c3",
     "colorAlt": "#2a5a75",
     "bg": "from-purple-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-16.png",
+    "image": "/assets/portadas/metacognicion_universitarios.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-16.png",
-      "name": "Dr. José-Antonio Martínez-González",
-      "role": "Investigador en Psicometría y Metacognición, Universidad de Murcia"
+      "name": "Dr. Aníbal Puente",
+      "role": "Investigador en Psicología de la Lectura y Metacognición, Universidad Complutense de Madrid"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dr. José-Antonio Martínez-González, psicómetra especializado en autorregulación del aprendizaje",
-      "gancho": "¿Por qué un estudiante universitario afirma haber entendido un artículo al 100% y luego saca un cero en la prueba?",
-      "contexto": "La 'ilusión de saber' es uno de los mayores problemas del aprendizaje en Educación Superior. Los alumnos confunden la familiaridad con el texto con la comprensión real. Para diagnosticar y entrenar la autorregulación, los autores desarrollaron y validaron la batería ARCO en una muestra de 480 estudiantes universitarios de diversas facultades, cruzando pruebas objetivas de rendimiento lector con el inventario de conciencia metacognitiva MARSI.",
+      "personaje": "Dr. Aníbal Puente, psicólogo de la lectura especializado en comprensión y metacomprensión",
+      "gancho": "¿Por qué muchos estudiantes llegan a la universidad con un repertorio limitado de estrategias para leer textos académicos densos?",
+      "contexto": "La comprensión lectora es una competencia esencial para el éxito académico en la Educación Superior. Sin embargo, escasean las pruebas en español diseñadas específicamente para universitarios y con un modelo de medición riguroso. Para cubrir ese vacío, los autores desarrollaron y validaron la prueba ELCU (Estrategias de Lectura y Comprensión Universitaria) con 507 estudiantes de carreras de educación de una universidad chilena, combinando textos académicos de distintos géneros discursivos con tareas de comprensión y una sección de estrategias metacognitivas, y analizando sus propiedades mediante la Teoría de Respuesta al Ítem.",
       "deepDives": [
         {
           "id": "meta-apertura-1",
-          "triggerLabel": "¿Qué es la calibración metacognitiva?",
+          "triggerLabel": "¿Qué es la metacomprensión lectora?",
           "type": "theory",
-          "content": "Es la precisión con la que el juicio subjetivo de un estudiante sobre su comprensión coincide con su puntuación real en un test objetivo."
+          "content": "Es la capacidad del lector para reflexionar y regular su propia comprensión mediante la planificación previa, la supervisión en tiempo real y la evaluación posterior de lo leído."
         },
         {
           "id": "meta-apertura-2",
-          "triggerLabel": "La prueba ARCO y el MARSI",
+          "triggerLabel": "La prueba ELCU",
           "type": "data",
-          "content": "Batería que integra textos expositivos con preguntas de coherencia global y monitoreo de estrategias de resolución de problemas."
+          "content": "Instrumento que integra textos académicos de diferentes géneros discursivos con tareas de comprensión literal y estratégica, más una sección de estrategias metacognitivas durante la lectura."
         }
       ]
     },
     "conflicto": {
-      "problema": "Las universidades carecían de pruebas psicométricas breves y fiables para medir simultáneamente la comprensión real y la conciencia metacognitiva en español.",
-      "porQueImporta": "Sin calibración metacognitiva, los alumnos no detectan cuándo no entienden y, por tanto, nunca releen ni aplican estrategias reparadoras.",
+      "problema": "Las universidades carecían de pruebas psicométricas en español, con un modelo de medición riguroso, capaces de evaluar a la vez la comprensión lectora y la conciencia metacognitiva de sus estudiantes de nuevo ingreso.",
+      "porQueImporta": "Sin instrumentos válidos y fiables no es posible diagnosticar las fortalezas y debilidades lectoras del alumnado ni diseñar apoyos pedagógicos ajustados a sus necesidades reales.",
       "dataPoints": [
-        "Muestra de 480 estudiantes de Grado y Máster.",
-        "Estructura bifactorial confirmada (habilidad lectora objetiva y regulación estratégica).",
-        "Pobre calibración inicial: el 52% de los alumnos sobreestimó groseramente su comprensión.",
-        "Alta consistencia interna de la prueba ARCO (Omega de McDonald = .88)."
+        "Muestra por conveniencia de 507 estudiantes de primer año de carreras de educación.",
+        "Unidimensionalidad respaldada por el PCA de los residuos estandarizados (ZRED).",
+        "Dificultad de los ítems entre 1,03 y 2,22 logits y discriminación entre 0,69 y 1,12.",
+        "Fiabilidad de separación entre 0,75 y 0,90 para ítems y entre 0,79 y 0,89 para personas."
       ],
       "glossary": [
         {
@@ -56,73 +56,73 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Análisis factorial confirmatorio y curvas de calibración",
-      "narrativa": "Los autores aplicaron análisis factorial confirmatorio (AFC) y teoría de respuesta al ítem (TRI) para calibrar la dificultad y discriminación de los reactivos de ARCO.",
+      "titulo": "Ruta metodológica: Teoría de Respuesta al Ítem y modelo de Rasch con jMetrik",
+      "narrativa": "Los autores aplicaron el modelo de Rasch mediante jMetrik v4.2.2 para examinar la unidimensionalidad (PCA de residuos estandarizados), la dificultad y la discriminación de los ítems, y la fiabilidad de separación de ítems y personas.",
       "detalles": [
         {
           "label": "Población",
-          "value": "480 universitarios de Ciencias Sociales, Humanidades y Salud."
+          "value": "507 estudiantes de primer año de carreras de educación en una universidad chilena."
         },
         {
           "label": "Instrumentos",
-          "value": "Prueba ARCO e Inventario MARSI adaptado."
+          "value": "Prueba ELCU, con textos de distintos géneros y una sección de estrategias metacognitivas."
         }
       ],
       "limitaciones": [
-        "Aplicación en formato digital online que requiere control de tiempos."
+        "Muestreo por conveniencia que limita la generalización y exige replicar en otras universidades, regiones y disciplinas."
       ],
-      "reflexion": "Quien no sabe lo que ignora no puede aprender nada nuevo."
+      "reflexion": "Medir bien la lectura exige modelos de medición tan rigurosos como los de cualquier otra ciencia."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: La brecha entre creer que sabes y saber de verdad",
-      "narrativa": "Los resultados confirmaron la disociación entre autopercepción y competencia:",
+      "titulo": "Hallazgos empíricos: Una prueba que discrimina y retrata al lector universitario",
+      "narrativa": "Los resultados mostraron evidencia suficiente de validez interna, fiabilidad y sensibilidad del instrumento:",
       "hallazgos": [
         {
-          "label": "1. Sobreestimación Masiva",
-          "value": "Los peores lectores mostraron la mayor sobreestimación subjetiva (efecto Dunning-Kruger lector)."
+          "label": "1. Unidimensionalidad",
+          "value": "La varianza explicada por las medidas alcanzó el 52,6% y el primer contraste no explicado apenas el 6,4%, confirmando la unidimensionalidad de los ítems de texto y del Texto 7."
         },
         {
-          "label": "2. La Metacognición se Entrena",
-          "value": "La prueba demostró que formular preguntas de estimación previa de dificultad afina la calibración del alumno."
+          "label": "2. Ítems de estrategias metacognitivas",
+          "value": "Salvo la relación Texto2_Q1-Texto2_Q2 (r=0,19), los ítems resultaron en gran medida ortogonales, destacando las correlaciones de las estrategias metacognitivas del Texto 7 (entre r=0,25 y r=0,46)."
         }
       ],
       "dataPoints": [
-        "Ajuste excelente del modelo psicométrico (CFI = .96, RMSEA = .045)."
+        "La dificultad osciló entre 1,03 (Texto1_Q3, el más fácil) y 2,22 (Texto7_Q4, el más difícil); la discriminación, entre 0,69 y 1,12."
       ],
-      "reflexion": "La humildad intelectual es el primer requisito para convertirse en un lector maduro."
+      "reflexion": "Una buena prueba no solo mide: revela con precisión en qué punto de su desarrollo lector se encuentra cada estudiante."
     },
     "marco": {
-      "titulo": "Discusión: Implicaciones para la tutoría universitaria",
-      "narrativa": "La batería ARCO se propone como herramienta diagnóstica de acceso para orientar a alumnos de nuevo ingreso.",
+      "titulo": "Discusión: Implicaciones para el diagnóstico y la tutoría universitaria",
+      "narrativa": "La ELCU se propone como herramienta diagnóstica para orientar a los alumnos de nuevo ingreso y nutrir decisiones institucionales de acompañamiento.",
       "detalles": [
         {
-          "label": "Tutorías de Aprendizaje Autorregulado",
-          "value": "Enseñar a dudar del propio entendimiento y a buscar evidencias en el texto."
+          "label": "Diagnóstico temprano",
+          "value": "Identificar fortalezas y debilidades lectoras para diseñar apoyos pedagógicos más eficaces."
         }
       ],
-      "reflexion": "Aprender a leer en la universidad es aprender a evaluar críticamente tu propio pensamiento."
+      "reflexion": "Aprender a leer en la universidad es aprender a regular estratégicamente la propia comprensión."
     },
     "nucleo": {
-      "pregunta": "¿Qué propiedades psicométricas presenta la prueba ARCO para evaluar la comprensión y la metacognición universitaria?",
-      "conclusion": "La prueba ARCO demostró una validez factorial y fiabilidad excelentes (Omega = .88) en 480 universitarios, revelando que más de la mitad del alumnado presenta una mala calibración metacognitiva (sobreestimación del saber). Se consolida como un instrumento clave para programas de autorregulación del estudio en Educación Superior.",
-      "formalRef": "Martínez-González, J. A., Serrano, M. A., & Ramos, L. (2025). Validación psicométrica de un test de comprensión lectora y conciencia metacognitiva en estudiantes universitarios. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.538"
+      "pregunta": "¿Presenta la prueba ELCU suficiente validez interna, fiabilidad y sensibilidad para evaluar la comprensión y la metacomprensión lectora universitaria?",
+      "conclusion": "La ELCU mostró evidencia de unidimensionalidad en los textos 1, 2, 4 y 6 y en las estrategias metacognitivas del Texto 7, con una medida media r=0,72 y fiabilidades de separación aceptables (ítems 0,75-0,90; personas 0,79-0,89) en 507 universitarios. Se consolida como un instrumento válido y fiable para el diagnóstico de ingreso y el acompañamiento académico en Educación Superior.",
+      "formalRef": "Puente, A., Gutiérrez-de-Blume, A. P., Calderón, J., & Rojas, L. (2025). Validación psicométrica de un test de comprensión lectora y conciencia metacognitiva en estudiantes universitarios. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.538"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué fenómeno metacognitivo se detectó en más del 50 % de los estudiantes universitarios evaluados?",
+          "q": "¿Cuántos estudiantes universitarios participaron en la validación de la prueba ELCU?",
           "options": [
-            "Una infravaloración de sus capacidades.",
-            "Una sobreestimación notable de su propia comprensión real (ilusión de saber).",
-            "Un conocimiento perfecto de sus errores.",
-            "Negativa a responder las preguntas."
+            "36 estudiantes de ingeniería.",
+            "507 estudiantes de primer año de carreras de educación.",
+            "20 estudiantes de posgrado.",
+            "9 docentes de universidad."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué evalúa de forma conjunta la batería psicométrica ARCO validada en el estudio?",
+          "q": "¿Qué evalúa de forma conjunta la prueba ELCU validada en el estudio?",
           "options": [
             "La comprensión lectora objetiva y los procesos de monitoreo y regulación metacognitiva.",
             "La velocidad de mecanografía en teclado.",
@@ -133,12 +133,12 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué coeficiente psicométrico de fiabilidad obtuvo la prueba ARCO?",
+          "q": "¿Qué rango de dificultad presentaron los ítems de la prueba ELCU según el modelo de Rasch?",
           "options": [
-            "Omega de McDonald = .88 (alta consistencia interna).",
-            "Cero absoluto.",
-            "Menos de .20 (inconsistente).",
-            "No se calculó la fiabilidad."
+            "Entre 1,03 logits (el más fácil, Texto1_Q3) y 2,22 (el más difícil, Texto7_Q4).",
+            "Todos con exactamente la misma dificultad.",
+            "Entre -5 y -3 logits.",
+            "No se calculó la dificultad."
           ],
           "correct": 0
         },
@@ -155,23 +155,23 @@
   },
   "tutorTexts": {
     "apertura": {
-      "text": "Bienvenido al análisis de la mente que vigila a la mente: la metacognición universitaria al descubierto.",
+      "text": "Bienvenido al análisis de la lectura universitaria: comprender y ser consciente de cómo comprendemos.",
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "¿Crees que entiendes lo que lees? Los datos demuestran que la mitad de los universitarios viven en una ilusión.",
+      "text": "Sin pruebas válidas no sabemos qué fortalezas y debilidades lectoras traen los estudiantes al llegar a la universidad.",
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "480 estudiantes evaluados con la batería ARCO y el inventario MARSI con rigurosos análisis psicométricos.",
+      "text": "507 universitarios chilenos evaluados con la prueba ELCU y rigurosos análisis de Teoría de Respuesta al Ítem.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Efecto Dunning-Kruger lector! Los que peor leen son los más convencidos de haber entendido todo.",
+      "text": "¡El modelo de Rasch funciona! La ELCU distingue con precisión la dificultad de los ítems y la habilidad de cada lector.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "Enseñar a dudar y a comprobar es la mejor lección para los estudiantes de nuevo ingreso en la universidad.",
+      "text": "Diagnosticar a tiempo el perfil lector de los ingresantes permite diseñar apoyos pedagógicos más eficaces.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -179,7 +179,7 @@
       "position": "bottom-right"
     },
     "mapa": {
-      "text": "Explora el mapa para ver la batería ARCO, la calibración metacognitiva, el MARSI y la autorregulación.",
+      "text": "Explora el mapa para ver la prueba ELCU, la metacomprensión lectora, el modelo de Rasch y la autorregulación.",
       "position": "bottom-right"
     },
     "reflexion": {
@@ -188,110 +188,234 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Test ARCO y Conciencia Metacognitiva Universitaria",
-    "descripcion": "Validación psicométrica en 480 estudiantes: calibración metacognitiva, inventario MARSI, ilusión de saber y autorregulación del estudio.",
+    "titulo": "Mapa conceptual: Validación del test ELCU (Ocnos 24(2) 2025)",
+    "descripcion": "Desde la visión multidimensional de la comprensión lectora y la carencia de pruebas para universitarios hispanohablantes, la validación con el modelo de Rasch del test ELCU en 507 estudiantes chilenos de primer año, hasta las evidencias de unidimensionalidad, dificultad, discriminación y fiabilidad, sus implicaciones diagnósticas, limitaciones y proyecciones futuras.",
     "nodos": [
       {
         "id": "1",
-        "label": "Batería Psicométrica ARCO",
-        "color": "#9b82c3"
+        "label": "Comprensión lectora multidimensional",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "La visión actual abarca procesos cognitivos y metacognitivos de la construcción de sentido: monitorear la comprensión, inferir, vincular información con conocimientos previos y autorregular el proceso lector (Afflerbach et al., 2015; Cain y Oakhill, 2014; Schraw, 2009)."
       },
       {
         "id": "2",
-        "label": "Calibración Metacognitiva",
-        "color": "#2a5a75"
+        "label": "Lectura crítica en la universidad",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La lectura universitaria exige operaciones interpretativas de complementación y confrontación (García-Sánchez, 2000; Carlino, 2009), pero muchos ingresantes muestran repertorio estratégico limitado y escasa conciencia metacognitiva (Vega et al., 2012; Gutiérrez y Schraw, 2015), pese a la correlación positiva entre comprensión y rendimiento académico (Bashir y Mattoo, 2012)."
       },
       {
         "id": "3",
-        "label": "Ilusión de Saber (52%)",
-        "color": "#e76f51"
+        "label": "Modelo situacional e identificación de palabras",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La comprensión ocurre cuando el lector construye representaciones mentales y un modelo situacional del texto (Kintsch y Rawson, 2005; Van Dijk y Kintsch, 1983). Perfetti y Adlof (2012) distinguen la identificación de palabras, fuertemente correlacionada con la comprensión, y los mecanismos de procesamiento del lenguaje."
       },
       {
         "id": "4",
-        "label": "Monitoreo en Línea",
-        "color": "#88b04b"
+        "label": "Metacomprensión lectora",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Capacidad de reflexionar y regular la propia comprensión mediante planificación previa, supervisión en tiempo real y evaluación posterior (Flavell, 1979; Schraw y Moshman, 1995). Moos y Azevedo (2008) mostraron que el mayor conocimiento previo planifica y monitorea mejor; Vega et al. (2012) detectaron en universitarios escasa planificación y estrategias superficiales."
       },
       {
         "id": "5",
-        "label": "Inventario MARSI Adaptado",
-        "color": "#5b9eaa"
+        "label": "Escasez de pruebas universitarias",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "PISA evalúa enseñanza media, no el contexto universitario (OECD, 2019); las pruebas en español para adultos jóvenes presentan límites de validez ecológica y sustento teórico (Brizuela-Rodríguez et al., 2019; Calderón-Maureira et al., 2020), y escalas como ESCOLA se dirigen a niños de 8 a 13 años (Jiménez-Rodríguez et al., 2009)."
       },
       {
         "id": "6",
-        "label": "Muestra 480 Universitarios",
-        "color": "#f4d068"
+        "label": "Objetivo: validar el test ELCU",
+        "color": "#c73e1d",
+        "role": "Objetivo",
+        "descripcion": "Ante la pregunta de si es posible desarrollar un instrumento válido y fiable, el estudio construye y analiza psicométricamente la prueba Estrategias de Lectura y Comprensión Universitaria (ELCU) para evaluar comprensión lectora y conciencia metacognitiva en universitarios chilenos de primer año."
       },
       {
         "id": "7",
-        "label": "Efecto Dunning-Kruger Lector",
-        "color": "#c73e1d"
+        "label": "ELCU: textos académicos y estrategias",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "La prueba comprende textos de diferentes géneros discursivos con tareas de comprensión literal y estratégica más una sección de estrategias metacognitivas. Textos e ítems fueron validados previamente aplicándolos a 36 estudiantes de ingeniería y 219 de educación (Rojas et al., 2024)."
       },
       {
         "id": "8",
-        "label": "Estrategias de Reparación",
-        "color": "#2a9d8f"
+        "label": "507 estudiantes de primer año",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Muestra por conveniencia de 507 admitidos en carreras de educación de una universidad chilena; edad media de 19 años y 2 meses, 70% mujeres y 30% hombres; la mayoría participó en la PSU, con puntajes entre 384 y 646."
       },
       {
         "id": "9",
-        "label": "Fiabilidad Omega (.88)",
-        "color": "#264653"
+        "label": "Aplicación remota en SIGECOL",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "La prueba se administró de manera remota entre marzo y junio de 2020 mediante la plataforma SIGECOL, con cuenta personal por participante y un documento con instrucciones detalladas de ejecución."
       },
       {
         "id": "10",
-        "label": "Autorregulación en la Universidad",
-        "color": "#f4a261"
+        "label": "TRI de Rasch con jMetrik",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Tras verificar supuestos y valores atípicos, los datos se analizaron con jMetrik v4.2.2 bajo Teoría de Respuesta al Ítem y el modelo de Rasch: unidimensionalidad mediante PCA de residuos estandarizados (ZRED), dificultad y discriminación en logits y fiabilidad de separación (Rasch, 1960; Bond y Fox, 2015)."
+      },
+      {
+        "id": "11",
+        "label": "Ortogonalidad de los ítems",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "La mayoría de las correlaciones entre ítems resultó insignificante, salvo la relación entre Texto2_Q1 y Texto2_Q2 (r=0,19) y las de los ítems de estrategias metacognitivas del Texto 7, con correlaciones entre r=0,25 y r=0,46."
+      },
+      {
+        "id": "12",
+        "label": "Unidimensionalidad confirmada por PCA",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "La varianza explicada por las medidas alcanzó el 52,6% y el primer contraste no explicado el 6,4%, evidenciando unidimensionalidad de los ítems de texto y del Texto 7; los ítems de los textos 3 y 5 y otros (Texto1_Q5, Texto2_Q5, Texto4_Q1) se omitieron por aportar varianza no explicada excesiva."
+      },
+      {
+        "id": "13",
+        "label": "Rango de dificultad y discriminación",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "La dificultad de los ítems osciló entre 1,03 logits (Texto1_Q3, el más fácil) y 2,22 (Texto7_Q4, el más difícil), y la discriminación entre 0,69 y 1,12, con distribución adecuada respecto al valor típico de 1 en el modelo de Rasch."
+      },
+      {
+        "id": "14",
+        "label": "Fiabilidad de separación ítems-personas",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Las fiabilidades de separación de ítems oscilaron entre 0,75 y 0,90, y las de personas entre 0,79 y 0,89, lo que indica que los textos de la ELCU diferencian tanto la dificultad de los ítems como la habilidad supuesta en metacomprensión lectora y estrategias metacognitivas."
+      },
+      {
+        "id": "15",
+        "label": "ELCU diferencia niveles de habilidad",
+        "color": "#e76f51",
+        "role": "Discusión",
+        "descripcion": "Con evidencia de unidimensionalidad en los textos 1, 2, 4, 6 y 7, una medida media r=0,72 y fiabilidades aceptables, hay evidencia de validez interna, fiabilidad y sensibilidad para diferenciar niveles de habilidad lectora. El modelo de Rasch, poco frecuente en evaluación lectora latinoamericana, permitió detectar y excluir los ítems desajustados (Textos 3 y 5), una innovación metodológica frente a pruebas escolares de habilidades básicas (Bond y Fox, 2015)."
+      },
+      {
+        "id": "16",
+        "label": "Límites del muestreo por conveniencia",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "El muestreo por conveniencia limita la generalización y exige replicar en otras universidades, regiones y áreas disciplinares; restan refinar ítems con desajuste o patrones erráticos y analizar el funcionamiento diferencial de los ítems por género, carrera o trayectoria lectora."
+      },
+      {
+        "id": "17",
+        "label": "Síntesis y proyecciones del instrumento",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "La ELCU consolida la metacomprensión lectora como constructo evaluable con un modelo de validación replicable y útil para el diagnóstico de ingreso y las decisiones institucionales de acompañamiento, con potencial a gran escala. Se proyecta aplicarla a otras disciplinas, incorporar tecnología digital adaptativa con retroalimentación automatizada y realizar estudios longitudinales ligados al desempeño académico."
       }
     ],
     "aristas": [
       {
         "from": "1",
-        "to": "6",
-        "label": "se valida con la"
+        "to": "4",
+        "label": "se despliega con la"
       },
       {
         "from": "1",
-        "to": "2",
-        "label": "mide la precisión de la"
+        "to": "6",
+        "label": "exige el"
       },
       {
         "from": "2",
-        "to": "3",
-        "label": "revela una extendida"
+        "to": "5",
+        "label": "evidencia la necesidad de la"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "motiva el"
       },
       {
         "from": "3",
         "to": "7",
-        "label": "es manifestación directa del"
-      },
-      {
-        "from": "1",
-        "to": "5",
-        "label": "se triangula con el"
+        "label": "orienta los contenidos del"
       },
       {
         "from": "4",
+        "to": "7",
+        "label": "incorpora las tareas del"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se operacionaliza en el"
+      },
+      {
+        "from": "6",
         "to": "8",
-        "label": "desencadena la aplicación de"
-      },
-      {
-        "from": "1",
-        "to": "9",
-        "label": "demuestra una sólida"
-      },
-      {
-        "from": "10",
-        "to": "4",
-        "label": "promueve el activo"
-      },
-      {
-        "from": "10",
-        "to": "2",
-        "label": "corrige y entrena la"
+        "label": "se validó en la"
       },
       {
         "from": "8",
+        "to": "9",
+        "label": "participó en la"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "se administró mediante la"
+      },
+      {
+        "from": "9",
         "to": "10",
-        "label": "consolida en el estudiante la"
+        "label": "alimenta el"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "examina la"
+      },
+      {
+        "from": "10",
+        "to": "12",
+        "label": "prueba la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "calibra la"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "estima la"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "mejora la"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "respalda que la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "respalda que la"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "acotan el alcance de la"
+      },
+      {
+        "from": "15",
+        "to": "17",
+        "label": "sustentan la"
+      },
+      {
+        "from": "16",
+        "to": "17",
+        "label": "acotan la"
       }
     ]
   }

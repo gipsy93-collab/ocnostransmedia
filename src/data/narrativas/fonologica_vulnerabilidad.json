@@ -12,9 +12,9 @@
     "color": "#e76f51",
     "colorAlt": "#2a5a75",
     "bg": "from-orange-500/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-14.png",
+    "image": "/assets/portadas/fonologica_vulnerabilidad.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-14.png",
+      "image": "/assets/portadas/fonologica_vulnerabilidad.jpg",
       "name": "Dr. Daniel Cubilla-Bonnetier",
       "role": "Investigador en Neurociencia Cognitiva y Dificultades Lectoras, CIEDU Panamá / UCM"
     }
@@ -23,19 +23,19 @@
     "apertura": {
       "personaje": "Dr. Daniel Cubilla-Bonnetier, investigador en neuropsicología infantil y lectura inicial",
       "gancho": "¿Por qué un niño de 6 años que vive en un barrio vulnerable tropieza al leer una palabra que nunca antes ha visto?",
-      "contexto": "Aprender a leer no es un proceso biológico natural como aprender a hablar: exige recablear circuitos cerebrales para conectar grafemas visuales con fonemas sonoros. En América Latina, las evaluaciones regionales revelan que más del 50% de los niños de tercer grado no comprende un texto simple, una tragedia educativa que se incuba en primer grado. En las escuelas públicas metropolitanas de Panamá, donde convergen abismales desigualdades socioeconómicas, el Centro de Investigación Educativa (CIEDU) y la Universidad Complutense implementaron un ambicioso ensayo cuasiexperimental de un año completo con 318 niños de primer grado: 20 minutos diarios de juegos orales multisensoriales para comprobar si la ciencia fonológica puede doblegar la barrera de la pobreza.",
+      "contexto": "Aprender a leer no es un proceso biológico natural como aprender a hablar: exige recablear circuitos cerebrales para conectar grafemas visuales con fonemas sonoros. En Panamá, uno de cada cinco escolares de mediados de segundo de Primaria no establece la correspondencia grafema-fonema y el 50% de los niños de 4 años de sectores vulnerables no accede a la educación inicial, una tragedia educativa que se incuba en los primeros grados. En las escuelas públicas metropolitanas de Panamá, donde convergen abismales desigualdades socioeconómicas, el Centro de Investigación Educativa (CIEDU) y la Universidad Complutense implementaron un ambicioso ensayo cuasiexperimental de un año completo con 318 niños de primer grado: 20 minutos diarios de juegos orales multisensoriales para comprobar si la ciencia fonológica puede doblegar la barrera de la pobreza.",
       "deepDives": [
         {
           "id": "fono-apertura-1",
           "triggerLabel": "¿Qué es la vía fonológica y por qué se usan pseudopalabras?",
           "type": "theory",
-          "content": "El modelo de doble ruta de lectura (Coltheart et al., 2001) postula dos vías: la ruta léxica (reconocimiento visual directo de palabras conocidas) y la ruta subléxica/fonológica (conversión grafema a fonema). Las pseudopalabras (palabras inventadas sin significado, como 'bleto' o 'plaspio') son la prueba de oro científica: como el niño no puede memorizarlas visualmente, se ve forzado a aplicar su mecanismo de decodificación fonológica pura."
+          "content": "El modelo de doble ruta de lectura (Coltheart y Rastle, 1994) postula dos vías: la ruta léxica (reconocimiento visual directo de palabras conocidas) y la ruta subléxica/fonológica (conversión grafema a fonema). Las pseudopalabras (palabras inventadas sin significado, como 'bleto' o 'plaspio') son la prueba de oro científica: como el niño no puede memorizarlas visualmente, se ve forzado a aplicar su mecanismo de decodificación fonológica pura."
         },
         {
           "id": "fono-apertura-2",
           "triggerLabel": "El impacto de la pobreza multidimensional en el lenguaje",
           "type": "data",
-          "content": "Estudios neurocognitivos (Noble et al., 2015) demuestran que el estrés crónico, la escasez de libros en casa y la menor exposición a vocabulario elaborado en contextos de vulnerabilidad afectan el desarrollo del lóbulo temporal izquierdo, ralentizando la adquisición de la conciencia fonológica."
+          "content": "Estudios neurocognitivos (Noble et al., 2006) demuestran que el estrés crónico, la escasez de libros en casa y la menor exposición a vocabulario elaborado en contextos de vulnerabilidad afectan el desarrollo del lóbulo temporal izquierdo, ralentizando la adquisición de la conciencia fonológica."
         },
         {
           "id": "fono-apertura-3",
@@ -50,9 +50,9 @@
       "porQueImporta": "El fracaso en la lectura inicial en primer grado es el predictor más certero de deserción escolar futura. Si las políticas públicas aplican métodos globales no científicos, condenan a los sectores vulnerables a un retraso acumulativo insalvable.",
       "dataPoints": [
         "Muestra de 318 estudiantes de 1.º de Primaria en escuelas públicas de la región metropolitana de Panamá.",
-        "Diseño cuasiexperimental riguroso con Grupo Experimental (n = 154) y Grupo Control (n = 164) emparejados.",
+        "Diseño cuasiexperimental riguroso con Grupo Experimental (n = 154) y Grupo Control (n = 164) asignados aleatoriamente por aula.",
         "Duración del programa: 1 año escolar completo con sesiones diarias de 20 minutos de intervención lúdico-multisensorial.",
-        "Efecto estadísticamente significativo en la precisión lectora de pseudopalabras (p < .05, F = 4.82).",
+        "Efecto estadísticamente significativo en la precisión lectora de pseudopalabras (p < .05; r = .11).",
         "Efecto diferencial positivo: los niños de sectores altamente vulnerables mostraron mayores ganancias relativas que sus pares de sectores medios.",
         "Límite de la intervención: las ganancias fonológicas NO bastaron para cerrar totalmente la brecha socioeconómica global entre colegios.",
         "Ausencia de diferencias significativas en velocidad lectora ni en comprensión lectora al final de primer grado."
@@ -82,12 +82,24 @@
     },
     "viaje": {
       "titulo": "Ruta metodológica: Ensayo cuasiexperimental de un año en escuelas panameñas",
-      "narrativa": "El equipo internacional de investigadores del CIEDU y universidades de España y República Dominicana seleccionó escuelas públicas panameñas de diversos quintiles de vulnerabilidad. Los docentes del grupo experimental recibieron formación para aplicar un programa estructurado diario de conciencia fonológica con canciones, rimas corporales y fichas táctiles. Se realizaron evaluaciones pretest al inicio del curso escolar y postest estandarizadas al finalizar el año, controlando variables sociodemográficas y de conocimiento alfabético previo.",
+      "narrativa": "El equipo internacional de investigadores del CIEDU y universidades de España y República Dominicana seleccionó escuelas públicas panameñas de diversos quintiles de vulnerabilidad. Los docentes del grupo experimental recibieron formación para aplicar un programa estructurado diario de conciencia fonológica con articulemas, kinestemas, claves visuales y táctiles y un video musical. Se realizaron evaluaciones pretest al inicio del curso escolar y postest estandarizadas al finalizar el año, controlando variables sociodemográficas y de conocimiento alfabético previo.",
       "detalles": [
-        { "label": "Población y Muestra", "value": "318 alumnos de 1.º de Primaria (154 experimental, 164 control) en Panamá Metro." },
-        { "label": "Duración y Dosis", "value": "1 año lectivo completo; 20 minutos diarios integrados en el horario escolar habitual." },
-        { "label": "Evaluación Pre y Post", "value": "Baterías de conciencia fonológica, conocimiento alfabético y pruebas de rendimiento lector (EGRA y pruebas psicométricas de lectura de palabras y pseudopalabras)." },
-        { "label": "Análisis de Datos", "value": "Modelos lineales mixtos y ANOVA de medidas repetidas en SPSS/R para evaluar interacción Grupo × Tiempo × Nivel Socioeconómico." }
+        {
+          "label": "Población y Muestra",
+          "value": "318 alumnos de 1.º de Primaria (154 experimental, 164 control) en Panamá Metro."
+        },
+        {
+          "label": "Duración y Dosis",
+          "value": "1 año lectivo completo; 20 minutos diarios integrados en el horario escolar habitual."
+        },
+        {
+          "label": "Evaluación Pre y Post",
+          "value": "Subpruebas de conciencia fonológica de PROLEXIA y de dominio alfabético y rendimiento lector de PROLEC-R (letras, palabras, pseudopalabras y comprensión de textos)."
+        },
+        {
+          "label": "Análisis de Datos",
+          "value": "ANOVAs de medidas repetidas, Kruskal-Wallis y U de Mann-Whitney en SPSS 27 y JASP para evaluar la interacción Grupo × Tiempo y el efecto por nivel socioeconómico."
+        }
       ],
       "limitaciones": [
         "Diseño cuasiexperimental con grupos intactos donde no fue posible la aleatorización por estudiante individual.",
@@ -118,8 +130,8 @@
         }
       ],
       "dataPoints": [
-        "Interacción estadísticamente significativa entre Grupo × Tiempo en pseudopalabras: F(1, 314) = 4.82, p = .029, d = 0.38.",
-        "El 80% de los niños del grupo experimental logró dominar la correspondencia fonema-grafema frente al 58% del grupo control.",
+        "Efecto significativo del grupo experimental en la precisión de pseudopalabras (p < .05; r = .11, equivalente a g de Hedges de .30).",
+        "El grupo experimental también mejoró significativamente en la tarea «Número de sílabas» (F(1,273) = 6.804; p < .05).",
         "La velocidad lectora (fluidez automatizada) requiere velocidad de denominación rápida (RAN) y práctica acumulativa de lectura que se consolida en 2.º grado."
       ],
       "reflexion": "La conciencia fonológica es la llave que abre la puerta del código escrito. Si no tienes la llave, nunca entrarás a la habitación; pero una vez dentro, necesitas vocabulario y cultura para entender lo que hay allí."
@@ -178,7 +190,7 @@
         },
         {
           "type": "choice",
-          "q": "De acuerdo con el modelo 'Simple View of Reading' (Gough y Tunmer) citado en la discusión, ¿qué factor adicional a la decodificación es indispensable para lograr la comprensión lectora?",
+          "q": "De acuerdo con el modelo 'Simple View of Reading' (Gough y Tunmer), ¿qué factor adicional a la decodificación es indispensable para lograr la comprensión lectora?",
           "options": [
             "La estatura y el peso físico del estudiante.",
             "La comprensión lingüística oral (vocabulario, conocimiento del mundo y sintaxis).",
@@ -233,31 +245,245 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Conciencia Fonológica y Vulnerabilidad Socioeconómica",
-    "descripcion": "Efectos del entrenamiento fonológico diario, ruta subléxica, pseudopalabras, brecha socioeconómica y modelo Simple View of Reading.",
+    "titulo": "Mapa conceptual: Intervención en conciencia fonológica y vulnerabilidad socioeconómica en Panamá (Ocnos 25(2) 2026)",
+    "descripcion": "Recorre el artículo desde los predictores psicolingüísticos y el contexto de desigualdad panameño, pasando por la cuasi-experimentación con 318 niños, 68 actividades multisensoriales y las pruebas PROLEXIA/PROLEC-R, hasta la segunda brecha lectora, la mejora significativa solo en precisión de pseudopalabras y escuelas vulnerables, las limitaciones de fidelidad y las recomendaciones de política educativa.",
     "nodos": [
-      { "id": "1", "label": "Conciencia Fonológica", "color": "#e76f51" },
-      { "id": "2", "label": "Precisión en Pseudopalabras", "color": "#2a5a75" },
-      { "id": "3", "label": "Vulnerabilidad Socioeconómica", "color": "#f4a261" },
-      { "id": "4", "label": "Intervención Diaria de 20 min", "color": "#88b04b" },
-      { "id": "5", "label": "Ruta Subléxica de Doble Vía", "color": "#5b9eaa" },
-      { "id": "6", "label": "Persistencia de la Brecha", "color": "#e88b8c" },
-      { "id": "7", "label": "Velocidad y Fluidez Lectora", "color": "#9b82c3" },
-      { "id": "8", "label": "Comprensión Lingüística Oral", "color": "#2a9d8f" },
-      { "id": "9", "label": "Simple View of Reading", "color": "#264653" },
-      { "id": "10", "label": "Educación Inicial Temprana", "color": "#f4d068" }
+      {
+        "id": "1",
+        "label": "Conciencia fonológica como predictor",
+        "color": "#e76f51",
+        "role": "Marco teórico",
+        "descripcion": "La conciencia fonológica, conocimiento explícito de los sonidos del habla (Gutiérrez-Fresneda, 2017; Defior, 2008), es una de las habilidades más reconocidas del aprendizaje inicial y afecta directamente a la precisión de la decodificación (González-Seijas et al., 2017; Ripoll-Salceda y Zevallos-Polo, 2023). La velocidad de denominación contribuye a su vez a la automatización lectora (Suárez-Coalla et al., 2013)."
+      },
+      {
+        "id": "2",
+        "label": "Efectividad de intervenciones fonológicas",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Los programas funcionan mejor a los 5-7 años y con duración de al menos un año, unas 70 sesiones (Arco-Tirado et al., 2024; Chávez-Delgado et al., 2022). Los tamaños del efecto oscilan entre d=.33 y .61 (Ripoll-Salceda y Zevallos-Polo, 2023), .25-.72 en poblaciones no hispanohablantes (Pfost et al., 2019) y alcanzan d=.77-1.29 en intervenciones tempranas con poblaciones de riesgo (Hodgins y Harrison, 2021)."
+      },
+      {
+        "id": "3",
+        "label": "Socioeconomía y entorno lingüístico",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "El contexto socioeconómico condiciona la cantidad y calidad de los inputs lingüísticos (Dailey y Bergelson, 2022; Piot et al., 2022) y el desarrollo de la conciencia fonológica (Noble et al., 2006; Balbi et al., 2020), junto a la lectura compartida, la disponibilidad de libros en el hogar (Andrés et al., 2010) y el equilibrio nutricional (UNESCO et al., 2023)."
+      },
+      {
+        "id": "4",
+        "label": "Desigualdad educativa en Panamá",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Panamá es uno de los países más desiguales (Banco Mundial, 2021) y en 2022 creó el Plan Colmena contra la pobreza multidimensional (10 indicadores en cinco dimensiones). En el sistema público, uno de cada cinco escolares de segundo no establece la correspondencia grafema-fonema (Cubilla-Bonnetier y Sánchez-Vincitore, 2025) y el 50% de los niños vulnerables de 4 años no accede a educación inicial (UNICEF, 2023)."
+      },
+      {
+        "id": "5",
+        "label": "Modelo de doble ruta",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Según el modelo de doble ruta (Coltheart y Rastle, 1994), la lectura de pseudopalabras se apoya exclusivamente en la ruta fonológica o subléxica: al no existir forma ortográfica que reconocer, se obliga a usar estrategias de descomposición grafema-fonema sustentadas en la conciencia fonémica."
+      },
+      {
+        "id": "6",
+        "label": "Tres objetivos sobre vulnerabilidad e intervención",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "Describir el efecto de la vulnerabilidad sobre el aprendizaje lector; evaluar la efectividad de la intervención en conciencia fonológica en primero de primaria; y medir esa efectividad de manera independiente en grupos de mayor y menor vulnerabilidad socioeconómica."
+      },
+      {
+        "id": "7",
+        "label": "Cuasi-experimento en ocho escuelas públicas",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Diseño cuasiexperimental con ocho escuelas de la región metropolitana de Panamá, cinco en corregimientos vulnerables del Plan Colmena; en cada una se asignó aleatoriamente un aula experimental y una de control. Con 329 escolares iniciales (edad media 6,4 años), se descartaron 38 por condiciones diagnosticadas y 16 abandonos, quedando n=318 (154 experimentales, 164 control)."
+      },
+      {
+        "id": "8",
+        "label": "Programa de 68 actividades multisensoriales",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Programa estructurado de conciencia silábica y fonémica con actividades lúdicas grupales de máximo 20 minutos diarios, ejecutadas por la docente entre abril y octubre de 2024 dentro de la asignatura de español: categorización, detección, evocación, eliminación, adición y sustitución, con articulemas, kinestemas, claves visuales y táctiles, correspondencias grafema-fonema y un video musical."
+      },
+      {
+        "id": "9",
+        "label": "Capacitación docente de 50 horas",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Aprobación ética de USMA (PT-007.2), capacitación inicial de 25 horas y otra de actualización en junio de 2024, con seguimiento telemático, visitas de modelado y observación con retroalimentación. No se intervino sobre la metodología de enseñanza lectora de cada docente, que iba de métodos fonético-fonológicos a globales."
+      },
+      {
+        "id": "10",
+        "label": "Medición con PROLEXIA y PROLEC-R",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Pre (marzo 2024) y post (noviembre 2024) con las seis subpruebas de conciencia fonológica de PROLEXIA (Cuetos et al., 2020; alfas ordinales .76-.94) y PROLEC-R (Cuetos et al., 2014; α=.79): letras, lectura de palabras, pseudopalabras y comprensión de textos. Los análisis usaron ANOVAs de medidas repetidas, Kruskal-Wallis y U de Mann-Whitney con r biserial (Cohen, 1988) en SPSS 27 y JASP."
+      },
+      {
+        "id": "11",
+        "label": "Segunda brecha lectora por vulnerabilidad",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Los 216 escolares vulnerables (menor escolaridad paterna r=.31, ingresos r=.17, libros r=.19) parten con menos conciencia fonológica (r=.16) y agravan la diferencia al final (r=.22), con desventajas en letras (r=.23-.40), palabras, pseudopalabras, textos y comprensión lectora (44,00 vs 25,17; r=.31): una brecha dentro del propio sistema público que se suma a la pública-privada."
+      },
+      {
+        "id": "12",
+        "label": "Mejora en precisión de pseudopalabras",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "El único efecto post significativo del grupo experimental fue la precisión en pseudopalabras (54,84 vs 48,67; p<.05; r=.11, convertible a g de Hedges .30), además de una mejora pre-post en la tarea «Número de sílabas» (F(1.273)=6.804; p<.05). No hubo efectos en velocidad de lectura ni en comprensión."
+      },
+      {
+        "id": "13",
+        "label": "Efecto significativo solo en escuelas vulnerables",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "El programa produjo efectos en precisión del principio alfabético solo en las escuelas vulnerables (F(1.180)=4.762; p<.05; η²p=.026) y diferencias significativas a favor del experimental en precisión de palabras y pseudopalabras (r=.13 y .15), sin efectos en las no vulnerables: atenuó el impacto de la vulnerabilidad en la precisión, pero no eliminó la brecha."
+      },
+      {
+        "id": "14",
+        "label": "Menos días de asistencia",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Hallazgo adicional: los estudiantes de escuelas no vulnerables acumularon más días de asistencia (135,03 frente a 125,73; U de Mann-Whitney p<.001; r=.32), un factor que reduce las horas efectivas de estimulación y podría explicar parte de los peores resultados lectores en los centros vulnerables."
+      },
+      {
+        "id": "15",
+        "label": "Alcance limitado del efecto pequeño",
+        "color": "#9b82c3",
+        "role": "Discusión",
+        "descripcion": "La especificidad del efecto sobre pseudopalabras es coherente con la ruta fonológica (Coltheart y Rastle, 1994) y el g=.30 se alinea con el metaanálisis en español (g=.36; Ripoll-Salceda y Zevallos-Polo, 2023). La discusión atribuye la magnitud limitada al volumen insuficiente de estimulación, la variabilidad de metodologías docentes, los retos de acompañamiento y las variables de infraestructura y asistencia."
+      },
+      {
+        "id": "16",
+        "label": "Recomendaciones de política educativa",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "Se recomienda aumentar el tiempo diario de estimulación y realizarla en los años previos a la lectoescritura, ampliando la cobertura de educación inicial en los sectores vulnerables; incorporar la velocidad de denominación para lograr fluidez en una lengua de ortografía transparente (Nikolopoulos et al., 2006); integrar metodologías basadas en evidencia en la formación docente; y acompañar con familias, materiales y seguimiento pedagógico."
+      },
+      {
+        "id": "17",
+        "label": "Fidelidad de implementación no medida",
+        "color": "#f4a261",
+        "role": "Limitaciones",
+        "descripcion": "El contexto escolar panameño —cancelación frecuente de clases, absentismo, abandono, problemas de agua y electricidad— pudo impactar la efectividad. No se midieron sistemáticamente la adherencia ni la fidelidad docente, pese al acompañamiento; se sugieren registros de implementación, observaciones estructuradas y capacitación reforzada."
+      }
     ],
     "aristas": [
-      { "from": "4", "to": "1", "label": "entrena de forma sistemática la" },
-      { "from": "1", "to": "2", "label": "incrementa notablemente la" },
-      { "from": "5", "to": "2", "label": "sustenta cognitivamente la" },
-      { "from": "4", "to": "3", "label": "genera mayor beneficio en" },
-      { "from": "3", "to": "6", "label": "mantiene como desafío la" },
-      { "from": "2", "to": "7", "label": "es paso previo pero no garantiza la" },
-      { "from": "9", "to": "2", "label": "combina la decodificación de" },
-      { "from": "9", "to": "8", "label": "integra el vocabulario de la" },
-      { "from": "10", "to": "1", "label": "debe estimular desde los 4 años la" },
-      { "from": "8", "to": "6", "label": "es indispensable para reducir la" }
+      {
+        "from": "1",
+        "to": "6",
+        "label": "sustentan el"
+      },
+      {
+        "from": "2",
+        "to": "6",
+        "label": "orientan el"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "configura el"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "contextualiza el"
+      },
+      {
+        "from": "3",
+        "to": "11",
+        "label": "preanunciaba la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se ejecutó como un"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "aplicó el"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "exigió la"
+      },
+      {
+        "from": "9",
+        "to": "8",
+        "label": "capacitó para sostener el"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "se evaluó con"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "confirmó la"
+      },
+      {
+        "from": "10",
+        "to": "12",
+        "label": "detectó la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "evidenció el"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "registró además la"
+      },
+      {
+        "from": "5",
+        "to": "12",
+        "label": "explica la especificidad de la"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "solo se atenúa en la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "cuyo tamaño se debate en la"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "cuya focalización discute la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "suma a la discusión un factor de la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "de la que derivan las"
+      },
+      {
+        "from": "16",
+        "to": "8",
+        "label": "recomienda ampliar la dosis del"
+      },
+      {
+        "from": "16",
+        "to": "4",
+        "label": "intenta revertir en el"
+      },
+      {
+        "from": "17",
+        "to": "8",
+        "label": "compromete la fidelidad del"
+      }
     ]
   }
 }

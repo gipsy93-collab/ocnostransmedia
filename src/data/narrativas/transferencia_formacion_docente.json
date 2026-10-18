@@ -1,0 +1,451 @@
+{
+  "id": "transferencia_formacion_docente",
+  "metadata": {
+    "title": "Transferencia de la formación continua del profesorado para el fomento de la lectura",
+    "authors": "Marcial Pamies-Berenguer, María Ángeles Gomariz-Vicente y Antonia Cascales-Martínez",
+    "year": "2023",
+    "journal": "Ocnos 22(2)",
+    "doi": "10.18239/ocnos_2023.22.2.371",
+    "gancho": "¿Por qué miles de docentes asisten a cursos de fomento lector pero menos del 10% logra aplicar lo aprendido de manera sistemática en sus aulas?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#264653",
+    "bg": "from-teal-500/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/transferencia-docente/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-pamies/200/200",
+      "name": "Dr. Marcial Pamies-Berenguer",
+      "role": "Investigador en Formación del Profesorado y Didáctica de la Lengua, Universidad de Murcia"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Marcial Pamies-Berenguer, investigador en evaluación de la formación permanente docente en la Universidad de Murcia",
+      "gancho": "¿Por qué la inversión pública en formación permanente del profesorado rara vez se traduce en cambios reales en las prácticas de fomento lector dentro del aula?",
+      "contexto": "La formación permanente del profesorado suele asumirse como útil per se, pero la investigación educativa ha avanzado muy poco sobre su eficacia real en términos de impacto y transferencia al aula (Kirkpatrick y Kirkpatrick, 2016; Blume et al., 2019). Este estudio empírico pionero en la Región de Murcia evalúa a 227 docentes de educación no universitaria que participaron en 14 actividades del programa oficial 'Fomento de la lectura y bibliotecas escolares' para desvelar qué factores facilitan u obstaculizan dos momentos clave: identificar escenarios propicios para aplicar lo aprendido y tomar la decisión efectiva de aplicarlo.",
+      "deepDives": [
+        {
+          "id": "transf-apertura-1",
+          "triggerLabel": "¿Qué es la transferencia de la formación docente?",
+          "type": "theory",
+          "content": "La transferencia no es solo memorizar o valorar un curso; es la capacidad de generalizar y mantener en el tiempo los conocimientos, actitudes y estrategias adquiridas aplicándolos de forma efectiva al puesto docente diario (Huang et al., 2015; Baldwin et al., 2017)."
+        },
+        {
+          "id": "transf-apertura-2",
+          "triggerLabel": "El modelo jerárquico de Kirkpatrick",
+          "type": "theory",
+          "content": "Kirkpatrick y Kirkpatrick (2016) estructuran la evaluación formativa en cuatro niveles progresivos: (1) Reacciones, (2) Aprendizajes, (3) Comportamiento/transferencia al puesto de trabajo y (4) Resultados e impacto organizacional. La transferencia describe en profundidad el tercer nivel."
+        },
+        {
+          "id": "transf-apertura-3",
+          "triggerLabel": "El programa formativo en la Región de Murcia",
+          "type": "data",
+          "content": "Los Planes Trienales de la Región de Murcia priorizan la competencia comunicativa lingüística. En los cursos 2018/19 y 2019/20, el Centro de Profesores y Recursos (CPR) ofertó 14 actividades formativas sobre metodologías lectoras, dinamización de bibliotecas escolares y recursos web 2.0."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Persiste una grave laguna investigadora sobre qué factores individuales, formativos o del entorno escolar determinan que un docente aplique los aprendizajes de animación lectora. Frecuentemente se asume que asistir a un curso garantiza la innovación, pero los docentes experimentan sobrecarga laboral, falta de apoyo institucional y desalineación metodológica que bloquean la transferencia práctica.",
+      "porQueImporta": "Si las administraciones educativas diseñan planes de formación sin comprender los mecanismos de transferencia, los recursos públicos se dilapidan en cursos teóricos estériles y el alumnado sigue recibiendo prácticas de lectura descontextualizadas.",
+      "dataPoints": [
+        "Muestra de 227 docentes en activo de centros sostenidos con fondos públicos en la Región de Murcia (44.16% del universo formativo).",
+        "Perfil docente: 62.56% mujeres, edad media de 44.41 años, 16.46 años de experiencia media y 71.81% funcionarios de carrera.",
+        "Equilibrio de etapas educativas: 47.14% en Infantil/Primaria y 48.46% en Educación Secundaria.",
+        "Únicamente 1 de los 8 factores evaluados ('Diseño y desarrollo de la formación', Media = 4.02) alcanzó la condición de facilitador fuerte.",
+        "El 9.25% de los docentes admite aplicar lo aprendido en menos del 20% de las ocasiones favorables en su aula.",
+        "Modelos logísticos multinomiales revelan que el diseño formativo (F1) y el locus de control externo (F8) son los predictores determinantes (R² de Nagelkerke de 12.99% en PPA y 24.28% en PAR)."
+      ],
+      "glossary": [
+        {
+          "term": "Transferencia de la formación",
+          "definition": "Proceso de generalización y mantenimiento en el tiempo de los aprendizajes adquiridos aplicado a la práctica profesional cotidiana."
+        },
+        {
+          "term": "PPA (Percepción de Posibilidad de Aplicación)",
+          "definition": "Porcentaje autoestimado de ocasiones en que el docente identifica situaciones propicias en el aula para aplicar lo aprendido."
+        },
+        {
+          "term": "PAR (Percepción de Aplicación Real)",
+          "definition": "Porcentaje autoestimado de aplicación efectiva de los aprendizajes ante las situaciones favorables identificadas."
+        },
+        {
+          "term": "Locus de control externo",
+          "definition": "Percepción de que factores externos (sobrecarga horaria, exigencias burocráticas, falta de tiempo) condicionan la toma de decisiones pedagógicas."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "El viaje metodológico: Modelos logísticos multinomiales sobre 227 docentes",
+      "narrativa": "Para superar las limitaciones de los estudios puramente anecdóticos, el equipo diseñó una investigación transversal exploratoria y rigurosa basada en el Cuestionario de Transferencia de 56 ítems (Pamies-Berenguer et al., 2022) y escalas ordinales de estimación de transferencia (PPA y PAR) en cinco marcas porcentuales.",
+      "detalles": [
+        {
+          "label": "Diseño y Muestreo",
+          "value": "Estudio cuantitativo tipo encuesta con muestreo no probabilístico por conveniencia (n = 227, 44.16% de respuesta voluntaria) en R 4.0.5."
+        },
+        {
+          "label": "Instrumentos Psicométricos",
+          "value": "Escala Likert de 56 ítems sobre 8 factores de transferencia, validada con aprobación del Comité de Ética de la Universidad de Murcia y Consejería de Educación."
+        },
+        {
+          "label": "Modelización Estadística",
+          "value": "Regresión logística multinomial con selección descendente guiada por minimización de AIC (paquetes nnet, car, caret y dplyr) tomando como referencia la marca 80-100%."
+        }
+      ],
+      "limitaciones": [
+        "Variables dependientes basadas en autopercepción declarada por los docentes sin observación etnográfica directa de aula.",
+        "Diseño transversal que captura una fotografía temporal sin seguimiento longitudinal diferido a varios años."
+      ],
+      "reflexion": "Evaluar la formación docente no consiste en medir cuántos diplomas se expiden, sino cuántas aulas transforman su forma de leer."
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos: El diseño formativo y el escudo contra la presión externa",
+      "narrativa": "Los modelos logísticos multinomiales revelan con exactitud matemática el cuello de botella de la transferencia docente. El factor F1 ('Diseño y desarrollo') es el único facilitador fuerte que explica la identificación de ocasiones (PPA, AIC = 675.77). Sin embargo, para dar el salto a la aplicación real (PAR, AIC = 665.68), se requiere además un favorable 'Locus de control externo' (F8): la sobrecarga laboral y la presión burocrática desactivan la motivación del docente más capacitado.",
+      "hallazgos": [
+        {
+          "label": "Facilitadores débiles: 7 de los 8 factores obtuvieron medias entre 3.00 y 3.88, demostrando amplio margen de mejora en el seguimiento institucional.",
+          "value": ""
+        },
+        {
+          "label": "Efecto protector del diseño: cada incremento unitario en calidad del diseño formativo reduce drásticamente la probabilidad de caer en rangos bajos de aplicación (OR = 0.106 a 0.563).",
+          "value": ""
+        },
+        {
+          "label": "La paradoja de la oportunidad perdida: casi un 10% de los docentes reconoce que, aun identificando el momento ideal para aplicar una técnica de fomento lector, decide no hacerlo por falta de tiempo o apoyo.",
+          "value": ""
+        }
+      ],
+      "dataPoints": [
+        "F1 Diseño formativo: Media = 4.02 (único factor > 4.00 según criterio de Feixas et al., 2013).",
+        "Modelo PPA: AIC = 675.77, R² de Nagelkerke = 12.99%, retiene únicamente el factor F1.",
+        "Modelo PAR: AIC = 665.68, R² de Nagelkerke = 24.28%, retiene conjuntamente F1 y F8."
+      ],
+      "reflexion": "Un curso excelente fracasa si el centro educativo no ofrece tiempo protegido y andamiaje para que el docente experimente sin miedo al error."
+    },
+    "marco": {
+      "titulo": "Marco teórico: De la evaluación estática al modelo dinámico e iterativo",
+      "narrativa": "El estudio entrelaza el marco evaluativo clásico de Kirkpatrick con el modelo de factores de Pamies-Berenguer et al. (2022) y el modelo dinámico de transferencia de Blume et al. (2019). Este último concibe la transferencia no como un acto puntual, sino como una cadena temporal de intentos de aplicación, retroalimentación y decisiones de ajuste.",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Coincidencia con Bhat et al. (2022) y Tzafilkou et al. (2022): la relevancia práctica y el modelado de casos en el curso son los mejores predictores de transferencia."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Sintonía con Na-Nan y Sanamthong (2020) y Gegenfurtner et al. (2020) sobre la motivación intrínseca como mediadora entre el diseño y la conducta de aula."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Frente a modelos que priorizan la autoeficacia individual aislada, los datos murcianos demuestran que las condiciones del entorno institucional pesan más que la mera confianza docente."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Falta de estudios que identifiquen características transitorias específicas de los programas de fomento de la lectura que complementen el efecto de los factores condicionantes ya conocidos."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Diseñar la formación con ejemplos reales de aplicación y con formadores que ejemplifiquen cómo llevar los aprendizajes a la práctica, manteniendo la motivación para transferir."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Que las administraciones educativas cuiden el componente emocional y el reconocimiento del esfuerzo docente para mitigar el efecto negativo de la presión externa y la carga de trabajo."
+        }
+      ],
+      "reflexion": "¿Cómo diseñarías una sesión formativa de fomento lector para asegurar que los participantes salgan con una propuesta lista para el lunes por la mañana?"
+    },
+    "nucleo": {
+      "pregunta": "La transferencia de la formación permanente en fomento de la lectura no depende de la voluntariedad individual, sino de la arquitectura didáctica del curso y de la liberación de barreras burocráticas en los centros.",
+      "conclusion": "El diseño práctico de la formación es el motor indispensable para que el profesorado reconozca oportunidades didácticas de lectura en su currículo ordinario. El locus de control externo es el modulador crítico de la acción: reducir la sobrecarga de trabajo es condición necesaria para que la innovación lectora eche raíces. Proponer diseños formativos que den valor a los ejemplos de aplicación, a la motivación para transferir y al modelado de los formadores al llevar los aprendizajes a la práctica. Cuidar desde las administraciones educativas el componente emocional y el reconocimiento del esfuerzo que hace el profesorado al realizar las actividades formativas. La lectura en la escuela no florece por decreto normativo, sino cuando los maestros disponen de herramientas probadas y tiempo para compartirlas.",
+      "formalRef": "Marcial Pamies-Berenguer, María Ángeles Gomariz-Vicente y Antonia Cascales-Martínez. (2023). Transferencia de la formación continua del profesorado para el fomento de la lectura. Ocnos 22(2). https://doi.org/10.18239/ocnos_2023.22.2.371"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué factor de la formación permanente resultó ser el único facilitador fuerte (Media > 4.0) en el estudio de Pamies-Berenguer et al.?",
+          "options": [
+            "Diseño y desarrollo de la formación (F1)",
+            "Autoeficacia docente individual (F2)",
+            "Seguimiento de la institución formadora (F7)",
+            "Recursos del entorno y dotación bibliotecaria (F5)"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "En el modelo de regresión logística multinomial para la Aplicación Real (PAR), ¿qué dos factores quedaron retenidos en el modelo final con R² = 24.28%?",
+          "options": [
+            "Diseño y desarrollo de la formación (F1) y Locus de control externo (F8)",
+            "Autoeficacia (F2) y Resistencia al cambio en el centro (F6)",
+            "Feedback de estudiantes (F4) y Recursos del entorno (F5)",
+            "F1 junto con Seguimiento de la institución formadora (F7)"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "El estudio revela que casi un 10% de los profesores nunca aplica lo aprendido aunque detecte la ocasión por la presión de factores externos. ¿Qué medidas concretas propondrías a la dirección de tu centro para desatascar ese obstáculo?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a esta investigación sobre el retorno de la formación docente. Analizaremos por qué muchos cursos de fomento lector quedan en papel mojado.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Fíjate en las cifras: 227 docentes de Murcia nos muestran que las buenas intenciones chocan con la falta de diseño práctico y la sobrecarga laboral.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Observa el rigor psicométrico: cuestionario de 56 ítems y modelos logísticos multinomiales con AIC para descartar ruido estadístico.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡Aquí está la clave! El diseño del curso explica la detección de ocasiones, pero el locus de control externo decide si el docente se atreve a aplicar.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Kirkpatrick y Blume nos recuerdan que la transferencia no es una foto fija: es una espiral iterativa de intentos que requiere sostén continuo.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Si queremos bibliotecas escolares vivas, debemos formar a los docentes con ejemplos reales y proteger su tiempo de experimentación.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora los 16 nodos del mapa para entender las relaciones entre diseño formativo, variables PPA/PAR y barreras contextuales.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Ponte a prueba y reflexiona sobre cómo convertirías tus propios cursos en cambios tangibles en las estanterías de tu aula.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Transferencia de la formación docente en fomento de la lectura (Ocnos 22(2) 2023)",
+    "descripcion": "Recorre el estudio empírico de Pamies-Berenguer, Gomariz-Vicente y Cascales-Martínez sobre 227 docentes en la Región de Murcia: del marco de Kirkpatrick y Blume a los 8 factores condicionantes, los modelos logísticos multinomiales para PPA y PAR, el peso del diseño formativo frente a la sobrecarga laboral externa y las implicaciones para la formación continua.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Eficacia de la formación permanente docente",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La formación permanente se asume como palanca de cambio, pero existe escasa evidencia empírica sobre su impacto, retorno y transferencia real a las aulas en programas de comunicación y lectura (Kirkpatrick y Kirkpatrick, 2016; Blume et al., 2019)."
+      },
+      {
+        "id": "2",
+        "label": "Modelo jerárquico de 4 niveles (Kirkpatrick)",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Estructura la evaluación formativa en reacción, aprendizaje, comportamiento y resultados; la transferencia describe de forma profunda el tercer nivel al exigir generalización y mantenimiento de conductas en el aula."
+      },
+      {
+        "id": "3",
+        "label": "Modelo dinámico e iterativo (Blume et al.)",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Concibe la transferencia como una serie sucesiva de intentos de aplicación que detonan evaluación y reajuste en el tiempo, donde el diseño formativo inicial actúa como catalizador de todo el ciclo."
+      },
+      {
+        "id": "4",
+        "label": "Ocho factores de transferencia docente",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Pamies-Berenguer et al. (2022) tipifican ocho factores: Diseño y desarrollo de la formación (F1), Autoeficacia (F2), Fomento de la formación por los órganos del centro (F3), Feedback de los estudiantes y familias (F4), Recursos del entorno (F5), Resistencia al cambio en el centro (F6), Seguimiento de la institución formadora (F7) y Locus de control externo (F8)."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: predictores de PPA y PAR en lectura",
+        "color": "#88b04b",
+        "role": "Objetivo",
+        "descripcion": "Determinar qué factores condicionantes se asocian con la identificación de escenarios de aplicación (PPA) y con la decisión efectiva de aplicar lo aprendido (PAR) en programas de fomento de la lectura."
+      },
+      {
+        "id": "6",
+        "label": "Diseño transversal sobre 227 docentes en Murcia",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Estudio cuantitativo no experimental tipo encuesta en la Región de Murcia sobre 227 docentes (44.16% de la población de 14 actividades del CPR; 62.56% mujeres; edad media 44.41 años; 71.81% funcionarios)."
+      },
+      {
+        "id": "7",
+        "label": "Escala psicométrica y variables PPA/PAR",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "Cuestionario de 56 ítems Likert (1-5) para los 8 factores y escala ordinal de 5 marcas porcentuales (0-20% a 80-100%) para PPA (identificación) y PAR (aplicación efectiva ante ocasiones propicias)."
+      },
+      {
+        "id": "8",
+        "label": "Regresión logística multinomial en R (AIC)",
+        "color": "#e76f51",
+        "role": "Método",
+        "descripcion": "Modelos ajustados por comparación descendente minimizando el Criterio de Información de Akaike (AIC) en R 4.0.5 (paquetes nnet, caret y car), contrastando categorías frente a la referencia de alta transferencia (80-100%)."
+      },
+      {
+        "id": "9",
+        "label": "Diseño formativo (F1): único facilitador fuerte",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Con el criterio de Feixas et al. (2013) (media > 4.0), solo 'Diseño y desarrollo' (F1, Media = 4.02) es facilitador fuerte; los otros 7 factores puntúan entre 3.00 y 3.88, catalogados como facilitadores débiles."
+      },
+      {
+        "id": "10",
+        "label": "Modelo PPA: F1 explica la identificación (R²=13%)",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "El modelo para PPA (AIC = 675.77; Nagelkerke R² = 12.99%) retiene exclusivamente F1: a mayor calidad y relevancia del diseño del curso, menor probabilidad de caer en marcas bajas de detección de ocasiones (OR = 0.204 a 0.879)."
+      },
+      {
+        "id": "11",
+        "label": "Modelo PAR: F1 y Locus externo (R²=24%)",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "El modelo para PAR (AIC = 665.68; Nagelkerke R² = 24.28%) retiene F1 (OR = 0.106 a 0.563) y suma Locus de control externo (F8: OR = 0.439 a 1.842), confirmando que decidir aplicar exige diseño sólido y baja presión externa."
+      },
+      {
+        "id": "12",
+        "label": "Paradoja: 9.25% de ocasiones desaprovechadas",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Aunque la marca modal es 60-80%, un 9.25% de los docentes declara aplicar lo aprendido en menos del 20% de las situaciones propicias detectadas, evidenciando un bloqueo entre detectar la oportunidad y ejecutarla."
+      },
+      {
+        "id": "13",
+        "label": "Sobrecarga laboral como barrera extintiva",
+        "color": "#2a5a75",
+        "role": "Discusión",
+        "descripcion": "Coincide con Sahoo y Mishra (2017) y Tantanawat (2020): la sobrecarga horaria y las exigencias administrativas externas apagan la motivación por aplicar (Gegenfurtner et al., 2020), anulando los efectos del aprendizaje."
+      },
+      {
+        "id": "14",
+        "label": "Relevancia de ejemplos prácticos y modelado",
+        "color": "#88b04b",
+        "role": "Discusión",
+        "descripcion": "Los hallazgos respaldan a Bhat et al. (2022) y Tzafilkou et al. (2022): la formación en fomento lector debe basarse en ejemplos reales de aplicación, en la motivación para transferir y en formadores que ejemplifiquen cómo llevar los aprendizajes a la práctica."
+      },
+      {
+        "id": "15",
+        "label": "Implicaciones: cuidar la motivación y el reconocimiento docente",
+        "color": "#f4a261",
+        "role": "Conclusiones",
+        "descripcion": "Proponer diseños formativos con ejemplos de aplicación y formadores que ejemplifiquen la práctica, y que las administraciones educativas atiendan el componente emocional y el reconocimiento del esfuerzo docente para mitigar el efecto de la presión externa."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones: datos de autoinforme transversal",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "El estudio se apoya en autopercepciones subjetivas del profesorado sin auditoría observacional directa en el aula, y el corte transversal no mide la sostenibilidad de la transferencia en ciclos escolares posteriores."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se fundamenta en el"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se dinamiza mediante el"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "se operacionaliza en los"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "fundamenta el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se investigó con el"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "aplicó la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "alimentó el análisis de"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "evidenció que el"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "ajustó el"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "ajustó el"
+      },
+      {
+        "from": "10",
+        "to": "12",
+        "label": "revela la"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "explica los motivos de la"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "confirma el impacto de la"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "demuestra la"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "justifica las"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "orienta las"
+      },
+      {
+        "from": "16",
+        "to": "8",
+        "label": "acota la interpretación de la"
+      },
+      {
+        "from": "16",
+        "to": "6",
+        "label": "condiciona el diseño del"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "exige resolver la"
+      },
+      {
+        "from": "3",
+        "to": "15",
+        "label": "sustenta el ciclo continuo de"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "actúa como precursor necesario de"
+      }
+    ]
+  }
+}

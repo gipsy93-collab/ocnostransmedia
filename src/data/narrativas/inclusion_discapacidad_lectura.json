@@ -2,7 +2,7 @@
   "id": "inclusion_discapacidad_lectura",
   "metadata": {
     "title": "Lectura, desarrollo socioemocional e inclusión en adultos con discapacidad",
-    "authors": "Susana Sánchez-Herrero, Cristina Yanes-Cabrera y Raquel-Amaya Martínez-González",
+    "authors": "Cristina Borau-Viu, Cecilia Latorre-Cosculluela y Mireya Mallén-Berdejo",
     "year": "2025",
     "journal": "Ocnos 24(2)",
     "doi": "10.18239/Ocnos_2025.24.2.532",
@@ -12,18 +12,18 @@
     "color": "#88b04b",
     "colorAlt": "#2a5a75",
     "bg": "from-emerald-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-14.png",
+    "image": "/assets/portadas/inclusion_discapacidad_lectura.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-14.png",
-      "name": "Dra. Susana Sánchez-Herrero",
-      "role": "Investigadora en Educación Inclusiva y Lectura Fácil, Universidad de Oviedo"
+      "name": "Dra. Cristina Borau-Viu",
+      "role": "Investigadora en Educación Inclusiva, Universidad de Zaragoza"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Susana Sánchez-Herrero, especialista en accesibilidad cognitiva y clubes de lectura inclusiva",
+      "personaje": "Dra. Cristina Borau-Viu, especialista en accesibilidad cognitiva y clubes de lectura inclusiva",
       "gancho": "¿Por qué asumimos que quien no domina la lectura académica no tiene derecho a disfrutar de una buena novela?",
-      "contexto": "Las personas adultas con discapacidad intelectual han sido históricamente excluidas de las bibliotecas. El movimiento de 'Lectura Fácil' adapta textos para hacerlos comprensibles sin infantilizarlos. Este estudio etnográfico evaluó el impacto socioemocional de clubes de Lectura Fácil en 42 adultos en Asturias.",
+      "contexto": "Las personas adultas con discapacidad intelectual han sido históricamente excluidas de las bibliotecas. Este estudio de caso cualitativo analizó el impacto socioemocional del club 'Lectura + Inclusiva' en la Biblioteca Municipal Ramón J. Sender de Huesca, con 22 entrevistados (11 usuarios con DI, 4 bibliovoluntarias y 7 profesionales).",
       "deepDives": [
         {
           "id": "inc-apertura-1",
@@ -35,7 +35,7 @@
           "id": "inc-apertura-2",
           "triggerLabel": "Clubes participativos",
           "type": "data",
-          "content": "Sesiones semanales en bibliotecas públicas guiadas por mediadores formados."
+          "content": "Ocho sesiones mensuales en la Biblioteca Municipal Ramón J. Sender de Huesca, con tertulias, debates y escritura creativa."
         }
       ]
     },
@@ -43,7 +43,7 @@
       "problema": "La infantilización sistemática suele relegar a los adultos con discapacidad a tareas mecánicas, privándolos de experiencias literarias deliberativas.",
       "porQueImporta": "La lectura es una llave de ciudadanía y autodeterminación reconocida por la Convención de la ONU.",
       "dataPoints": [
-        "Muestra de 42 adultos con discapacidad intelectual en Asturias.",
+        "Muestra de 22 entrevistados, de los cuales 11 son usuarios con discapacidad intelectual, en Huesca.",
         "Incremento notable en autopercepción de competencia y bienestar emocional.",
         "Ampliación de redes sociales de apoyo fuera del centro ocupacional."
       ],
@@ -55,16 +55,16 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Etnografía participativa y grupos focales",
-      "narrativa": "Las investigadoras combinaron observación participante, entrevistas semiestructuradas y diarios de campo durante un curso escolar completo en bibliotecas municipales.",
+      "titulo": "Ruta metodológica: Estudio de caso cualitativo con entrevistas semiestructuradas",
+      "narrativa": "Las investigadoras realizaron entrevistas semiestructuradas de 40 a 60 minutos durante el curso 2023-2024 en la Biblioteca Municipal Ramón J. Sender de Huesca.",
       "detalles": [
         {
           "label": "Participantes",
-          "value": "42 adultos (18 a 60 años) en bibliotecas públicas de Asturias."
+          "value": "22 entrevistados: 11 usuarios con DI, 4 bibliovoluntarias y 7 profesionales de entidades locales."
         }
       ],
       "limitaciones": [
-        "Estudio cualitativo circunscrito al Principado de Asturias."
+        "Estudio de caso cualitativo circunscrito al club de Huesca."
       ],
       "reflexion": "La biblioteca pública cumple su misión más noble cuando acoge a quienes solían estar en los márgenes."
     },
@@ -82,7 +82,7 @@
         }
       ],
       "dataPoints": [
-        "El 95% de los participantes deseaba continuar en el club el curso siguiente."
+        "Los usuarios esperaban continuar disfrutando de la lectura y mantener los vínculos establecidos."
       ],
       "reflexion": "Leer juntos no es solo descifrar letras: es mirarse a los ojos y sentirse ciudadano."
     },
@@ -99,8 +99,8 @@
     },
     "nucleo": {
       "pregunta": "¿Qué beneficios aporta la participación en clubes de Lectura Fácil a adultos con discapacidad intelectual?",
-      "conclusion": "La investigación etnográfica con 42 adultos demuestra que los clubes de Lectura Fácil en bibliotecas públicas mejoran significativamente el autoconcepto, la regulación emocional y las habilidades dialógicas, promoviendo una inclusión comunitaria real.",
-      "formalRef": "Sánchez-Herrero, S., Yanes-Cabrera, C., & Martínez-González, R. A. (2025). Lectura, desarrollo socioemocional e inclusión en adultos con discapacidad. Ocnos, 24(2). https://doi.org/10.18239/Ocnos_2025.24.2.532"
+      "conclusion": "La investigación cualitativa con 22 entrevistados demuestra que el club de lectura inclusivo de Huesca mejora el autoconcepto, la regulación emocional y las habilidades dialógicas de los adultos con discapacidad intelectual, promoviendo una inclusión comunitaria real.",
+      "formalRef": "Borau-Viu, C., Latorre-Cosculluela, C., & Mallén-Berdejo, M. (2025). Lectura, desarrollo socioemocional e inclusión en adultos con discapacidad. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.532"
     },
     "reflexion": {
       "questions": [
@@ -158,7 +158,7 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Acompañamos a 42 lectores en Asturias en sus sesiones semanales en la biblioteca pública.",
+      "text": "Acompañamos a 11 lectores con discapacidad intelectual en Huesca en sus sesiones mensuales en la biblioteca pública.",
       "position": "bottom-right"
     },
     "revelacion": {
@@ -183,110 +183,229 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Lectura Fácil, Desarrollo Socioemocional e Inclusión",
-    "descripcion": "Etnografía con 42 adultos: accesibilidad cognitiva, mediación dialógica, bibliotecas públicas y empoderamiento ciudadano.",
+    "titulo": "Mapa conceptual: Clubes de lectura y discapacidad intelectual (Ocnos 24(2) 2025)",
+    "descripcion": "Del marco de participación social, autodeterminación y clubes de lectura inclusivos al estudio de caso cualitativo del club \"Lectura + Inclusiva\" de Huesca, con 22 entrevistados, y de sus seis categorías de impacto a las implicaciones sobre materiales accesibles y cultura inclusiva.",
     "nodos": [
       {
         "id": "1",
-        "label": "Clubes de Lectura Inclusiva",
-        "color": "#88b04b"
+        "label": "Participación social en la discapacidad intelectual",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La participación social y cultural mejora la calidad de vida y la inclusión equitativa (Alqsaireen et al., 2023; Ainscow, 2005). La inclusión va más allá de la integración y exige sentido de pertenencia y valoración de la comunidad (Alzahranı, 2020; Lindner et al., 2022)."
       },
       {
         "id": "2",
-        "label": "Lectura Fácil (LF)",
-        "color": "#2a5a75"
+        "label": "Autodeterminación y ocio",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La autodeterminación permite controlar la propia vida y ser agente activo del proceso de inclusión (Skarsaune, 2022). El ocio, incluida la lectura, aumenta la autoconfianza, la autoestima y la satisfacción vital (Freire y Teixeira, 2018)."
       },
       {
         "id": "3",
-        "label": "Adultos con Discapacidad",
-        "color": "#5b9eaa"
+        "label": "Lectura como desarrollo cognitivo y emocional",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "La lectura ofrece acceso a información y contribuye al desarrollo cognitivo y emocional (Baba y Affendi, 2020; Tijms et al., 2018). En adultos con DI expande conocimientos, mejora habilidades comunicativas y enriquece la calidad de vida (González-Ramírez et al., 2023)."
       },
       {
         "id": "4",
-        "label": "Accesibilidad Cognitiva",
-        "color": "#f4d068"
+        "label": "Clubes de lectura inclusivos",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Espacios que facilitan la participación social y el disfrute lector con ayuda de un moderador o facilitador (Moreno-Mulas et al., 2020; Hales et al., 2021). En España surgieron en bibliotecas en los años ochenta (Arana-Palacios y Galindo-Lizaldre, 2009), pero pocos estudios se centran en personas con discapacidad (Fish et al., 2006; Goatley, 1996)."
       },
       {
         "id": "5",
-        "label": "Bienestar Socioemocional",
-        "color": "#2a9d8f"
+        "label": "Objetivo: analizar percepciones de los agentes",
+        "color": "#c73e1d",
+        "role": "Objetivo",
+        "descripcion": "Pregunta central: ¿cuáles son las percepciones de los profesionales sobre su participación en clubes de lectura inclusivos dirigidos a personas con discapacidad? Se busca comprender el impacto en la comunidad, identificar áreas de fortalecimiento y explorar la contribución al bienestar y la inclusión."
       },
       {
         "id": "6",
-        "label": "Autoeficacia y Orgullo Lector",
-        "color": "#9b82c3"
+        "label": "Enfoque cualitativo y estudio de caso",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Recogida de evidencias con datos descriptivos desde las experiencias de los protagonistas (Denny y Weckesser, 2022; Sandoval-Casilisma, 1996), mediante entrevistas semiestructuradas adaptadas a cada grupo (Kakilla, 2021)."
       },
       {
         "id": "7",
-        "label": "Superación de la Infantilización",
-        "color": "#c73e1d"
+        "label": "Club Lectura + Inclusiva en Huesca",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Parte del proyecto \"Huesca más inclusiva\" del Ayuntamiento, celebrado en la Biblioteca Municipal Ramón J. Sender. En 2023-2024 organizó ocho sesiones mensuales en seis fases, con tertulias, debates y escritura creativa, libros accesibles y audiolibros para discapacidad visual."
       },
       {
         "id": "8",
-        "label": "Biblioteca Pública Comunitaria",
-        "color": "#264653"
+        "label": "22 entrevistados en tres grupos",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Once usuarios adultos con DI (mayoritariamente con grado de discapacidad superior al 33%, algunos con deficiencia visual o TEA), cuatro bibliovoluntarias universitarias y siete profesionales organizadores de entidades locales; el único criterio era la relación directa con el club."
       },
       {
         "id": "9",
-        "label": "Convención de la ONU (Derechos)",
-        "color": "#e76f51"
+        "label": "Análisis de Miles y Huberman",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Entrevistas de 40 a 60 minutos, grabadas y transcritas, con catorce preguntas sobre las dinámicas del club; seis categorías predefinidas, codificación y principio de saturación (Miles y Huberman, 1994), con triangulación entre los tres grupos para asegurar credibilidad (Byram, 2022; Natow, 2020)."
       },
       {
         "id": "10",
-        "label": "Ciudadanía y Autodeterminación",
-        "color": "#f4a261"
+        "label": "Valor añadido al ocio",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "La participación aporta entretenimiento, crecimiento personal y socialización en un ambiente seguro; los organizadores lo describen como un valor importante para el ocio y el tiempo libre que proporciona un espacio vital de desarrollo personal."
+      },
+      {
+        "id": "11",
+        "label": "Nuevas relaciones sociales",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "El club facilita hacer amigos a través de los debates y crea un ambiente de apoyo y solidaridad, descrito por las bibliovoluntarias como espacio de \"colegueo\" que beneficia a personas con discapacidad y voluntarias por igual."
+      },
+      {
+        "id": "12",
+        "label": "Bienestar emocional y autoestima",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Mejora del estado emocional, la motivación y la sensación de pertenencia al sentirse escuchados y respetados; las opiniones valoradas dan confianza e importancia a los participantes, como observan voluntarias y organizadores."
+      },
+      {
+        "id": "13",
+        "label": "Cambios en los hábitos lectores",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Usuarios que antes leían poco o nada aumentan frecuencia y disfrute, experimentan con nuevos géneros y amplían horizontes literarios; las bibliovoluntarias ven el club como catalizador de la apreciación por la literatura."
+      },
+      {
+        "id": "14",
+        "label": "Beneficios cognitivos y empáticos de la lectura",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Aumento de concentración, vocabulario y relajación, con mejora de la calidad de vida; los organizadores destacan el pensamiento crítico, la empatía al ponerse en la piel de los personajes y el ejercicio de derechos culturales."
+      },
+      {
+        "id": "15",
+        "label": "Recursos y apoyos a mejorar",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Se valoran la variedad de libros y la coordinación entre entidades, pero se sugiere mejorar los recursos para personas con discapacidad visual (audiolibros y materiales en braille) e intercambiar experiencias con otros clubes."
+      },
+      {
+        "id": "16",
+        "label": "Lectura dialógica y educación en valores",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "Los hallazgos concuerdan con la lectura dialógica que promueve reflexión crítica (Michelini, 2023), con el desarrollo de habilidades comunicativas y reflexivas al compartir experiencias (De-Amo-Sánchez-Fortún et al., 2023) y con una comprensión literaria que educa en valores (Henriksson y Laakso, 2019)."
+      },
+      {
+        "id": "17",
+        "label": "Materiales accesibles y cultura inclusiva",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "Se recomienda lectura fácil, lenguaje simplificado, pictogramas, catálogos de lecturas adaptadas inclusivas en formato y contenido, y colaboración entre bibliotecas y entidades (Ladias et al., 2022; Tárraga-Mínguez y Gómez-Marí, 2023; Saunders y Corning, 2020). El alcance positivo exige seguir adaptando los clubes a las necesidades específicas y crear una cultura inclusiva que reconozca la autodeterminación como factor crucial de la integración social."
       }
     ],
     "aristas": [
       {
         "from": "2",
         "to": "1",
-        "label": "proporciona los materiales de"
+        "label": "es crucial para la"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "se promueve mediante los"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "se cultiva en los"
       },
       {
         "from": "4",
-        "to": "2",
-        "label": "garantiza los estándares de"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "acoge y empodera a los"
-      },
-      {
-        "from": "1",
         "to": "5",
-        "label": "promueve de forma directa el"
+        "label": "motiva el"
       },
       {
         "from": "5",
         "to": "6",
-        "label": "consolida en los usuarios la"
+        "label": "se aborda con un"
       },
       {
-        "from": "1",
+        "from": "5",
         "to": "7",
-        "label": "combate y desmantela la"
+        "label": "se centra en el"
       },
       {
-        "from": "1",
+        "from": "7",
         "to": "8",
-        "label": "se desarrolla físicamente en la"
+        "label": "reúne a los"
       },
       {
-        "from": "9",
-        "to": "4",
-        "label": "reconoce como derecho cívico la"
+        "from": "6",
+        "to": "9",
+        "label": "se procesa con el"
       },
       {
         "from": "8",
+        "to": "9",
+        "label": "alimenta el"
+      },
+      {
+        "from": "7",
         "to": "10",
-        "label": "constituye un espacio para la"
+        "label": "genera el"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "ordena el"
       },
       {
         "from": "10",
-        "to": "3",
-        "label": "asegura la plena inclusión de los"
+        "to": "11",
+        "label": "potencia las"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "sustenta el"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "acompaña los"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "evidencia los"
+      },
+      {
+        "from": "9",
+        "to": "15",
+        "label": "registra la necesidad de"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "conecta con la"
+      },
+      {
+        "from": "15",
+        "to": "17",
+        "label": "impulsa los"
+      },
+      {
+        "from": "16",
+        "to": "17",
+        "label": "respalda una"
+      },
+      {
+        "from": "17",
+        "to": "2",
+        "label": "reconoce la"
       }
     ]
   }

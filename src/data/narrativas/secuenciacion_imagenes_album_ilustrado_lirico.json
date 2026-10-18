@@ -1,0 +1,375 @@
+{
+  "id": "secuenciacion_imagenes_album_ilustrado_lirico",
+  "metadata": {
+    "id": "secuenciacion_imagenes_album_ilustrado_lirico",
+    "title": "Posibilidades de secuenciación de las imágenes en el álbum ilustrado lírico",
+    "authors": [
+      "María-del-Rosario Neira-Piñeiro"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "1",
+    "pages": "55-67",
+    "doi": "10.18239/ocnos_2018.17.1.1527",
+    "keywords": [
+      "álbum ilustrado lírico",
+      "secuenciación de imágenes",
+      "poesía visual",
+      "lectura multimodal",
+      "literatura infantil y juvenil"
+    ],
+    "abstract": "Estudio teórico-analítico que examina la articulación visual en el álbum ilustrado lírico en español a partir de una muestra de 55 obras que combinan ilustraciones con textos poéticos carentes de trama narrativa previa. Propone una tipología de secuenciación de la imagen (narrativa, lírico-visual, espacial y flujo de conciencia) y analiza su papel como andamiaje cognitivo y estético para el lector infantil."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo se encadenan las imágenes en un álbum ilustrado cuando el texto no cuenta una historia con principio y final, sino que despliega emociones poéticas, metáforas y ritmos líricos? Este estudio pionero sobre 55 álbumes en español desentraña las complejas leyes visuales que estructuran el álbum ilustrado lírico contemporáneo.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis semiótico y poético:",
+        "opciones": [
+          {
+            "id": "semiotica",
+            "texto": "Ruta semiótica: interacción bimodal palabra-imagen y gramática del diseño visual"
+          },
+          {
+            "id": "tipologica",
+            "texto": "Ruta tipológica: procedimientos de secuenciación narrativa, lírica y espacial"
+          },
+          {
+            "id": "didactica",
+            "texto": "Ruta didáctica: el álbum lírico como andamiaje de la competencia metaafectiva infantil"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "La inmensa mayoría de las investigaciones sobre el álbum ilustrado dan por supuesta la presencia de una narración lineal de acontecimientos. Al enfrentarse a álbumes poéticos puros, la teoría crítica tradicional carecía de categorías para explicar cómo la sucesión gráfica de dobles páginas produce coherencia global sin recurrir a una trama convencional.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué aporta la imagen al texto poético en un álbum ilustrado lírico?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Puede construir una micro-narración complementaria o desplegar asociaciones visuales metafóricas que actúan como andamiaje interpretativo para el niño.",
+            "correcta": true,
+            "explicacion": "Exacto: la imagen no decora pasivamente el poema, sino que crea un contrapunto visual que facilita la comprensión de nociones abstractas y estados anímicos."
+          },
+          {
+            "id": "c2",
+            "texto": "Se limita a repetir miméticamente y palabra por palabra lo que el poema dice sin añadir nada nuevo.",
+            "correcta": false,
+            "explicacion": "El álbum de calidad huye de la redundancia mecánica: genera una polifonía visual rica en simbolismo y diálogo intermodal."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "La investigadora conformó un riguroso corpus de 55 álbumes ilustrados líricos publicados en español entre 1990 y 2017, seleccionando únicamente obras con poemas autónomos y unidad gráfica global. Aplicó herramientas de la semiótica visual de Kress y van Leeuwen y la narratología iconotextual para clasificar los mecanismos de conexión entre láminas.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Construcción del corpus",
+            "detalle": "55 álbumes líricos en español seleccionados por calidad artística y representatividad tipológica."
+          },
+          {
+            "fase": "Criterios de inclusión",
+            "detalle": "Presencia de texto lírico no narrativo, formato álbum con doble página y propuesta visual continuada."
+          },
+          {
+            "fase": "Análisis iconotextual",
+            "detalle": "Desglose de recurrencias cromáticas, personajes hilo conductor, rimas plásticas y saltos espaciales."
+          },
+          {
+            "fase": "Clasificación taxonómica",
+            "detalle": "Establecimiento de cuatro grandes matrices de encadenamiento secuencial visual."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "La autora identifica cuatro grandes procedimientos de secuenciación: 1) Secuenciación narrativa (la imagen inventa una historia que el poema no cuenta), 2) Secuenciación lírico-visual (asociaciones metafóricas y rimas formales), 3) Secuenciación espacial (recorrido por paisajes y escenarios), y 4) Secuenciación por flujo de conciencia o ensueño.",
+      "datos_clave": [
+        "Análisis empírico y sistemático de un corpus de 55 álbumes ilustrados poéticos en español.",
+        "Formulación de una tipología inédita de 4 matrices de secuenciación de imágenes en ausencia de trama escrita.",
+        "Demostración de que la ilustración proporciona un andamiaje crucial para la interpretación de metáforas líricas.",
+        "Reivindicación del álbum poético como género clave para la alfabetización visual y la educación estética infantil."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "La investigación dialoga con la teoría del álbum de Nikolajeva y Scott (2001), la gramática visual de Kress y van Leeuwen (2006), los estudios sobre poesía infantil de Pedro C. Cerrillo (2007) y la semiótica de la lectura estética de Rosenblatt (1978).",
+      "referencias_clave": [
+        "Nikolajeva & Scott (2001)",
+        "Kress & van Leeuwen (2006)",
+        "Cerrillo (2007)",
+        "Neira-Piñeiro (2018)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El álbum ilustrado lírico demuestra que mirar también es leer versos. Cuando el texto calla la historia, los pinceles tejen una partitura visual de rimas, colores y trayectorias espaciales que guían la mirada infantil hacia el asombro poético y la construcción personal del sentido.",
+      "hallazgo_central": "La secuenciación de imágenes en el álbum ilustrado lírico se articula mediante procedimientos narrativos, lírico-visuales, espaciales y de flujo de conciencia que andamian la lectura poética infantil."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los procedimientos de secuenciación visual con su rasgo distintivo:",
+          "pares": [
+            {
+              "concepto": "Secuenciación narrativa",
+              "definicion": "La imagen introduce personajes y una progresión de acciones temporales no explicitadas en el poema."
+            },
+            {
+              "concepto": "Secuenciación lírico-visual",
+              "definicion": "Encadenamiento basado en rimas cromáticas, metáforas gráficas y resonancias plásticas."
+            },
+            {
+              "concepto": "Secuenciación espacial",
+              "definicion": "Recorrido panorámico de la mirada a través de un territorio, viaje geográfico o estancia íntima."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Secuenciación de Imágenes en el Álbum Ilustrado Lírico",
+      "descripcion": "Tipología semiótica y funciones cognitivo-estéticas de la sucesión visual en álbumes poéticos infantiles.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Secuenciación Visual en el Álbum Lírico",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo principal: analizar los procedimientos de organización y sucesión de las ilustraciones en el álbum ilustrado lírico en español, evaluando su función estética y de andamiaje para el lector infantil."
+        },
+        {
+          "id": "2",
+          "label": "Silencio Teórico sobre el Álbum Poético",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco contextual que denuncia la preponderancia casi absoluta del estudio del álbum de ficción narrativa lineal, desatendiendo las especificidades iconotextuales de las obras fundamentadas en textos líricos."
+        },
+        {
+          "id": "3",
+          "label": "Gramática Semiótica de la Imagen Multimodal",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Aportes teóricos de Kress y van Leeuwen sobre el diseño visual y la multimodalidad, considerando la composición, el encuadre, la modalidad y el vector de lectura gráfica en la página."
+        },
+        {
+          "id": "4",
+          "label": "Interacción Iconotextual según Nikolajeva",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Categorización de relaciones palabra-imagen de Nikolajeva y Scott (simetría, complementariedad, contrapunto y contradicción), adaptada al análisis de la condensación metafórica poética."
+        },
+        {
+          "id": "5",
+          "label": "Metodología Semiótica e Iconotextual",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño analítico-descriptivo cualitativo basado en el examen iconotextual sistemático de la doble página como unidad estructural básica de sentido y progresión rítmica del álbum."
+        },
+        {
+          "id": "6",
+          "label": "Corpus Selecto de 55 Álbumes en Español",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Muestra intencional compuesta por 55 álbumes ilustrados poéticos publicados en el ámbito hispanohablante entre 1990 y 2017, seleccionados por su alta calidad plástica y reconocimiento editorial."
+        },
+        {
+          "id": "7",
+          "label": "Criterios Taxonómicos de Encadenamiento",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Establecimiento de indicadores de análisis: presencia de personajes recurrentes, continuidad espacial, mutaciones cromáticas, paralelismos visuales y coherencia atmosférica global."
+        },
+        {
+          "id": "8",
+          "label": "Tipología de 4 Matrices Secuenciales",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Sistematización teórica de los cuatro grandes procedimientos de ordenación visual observados en el corpus: narrativa, lírico-visual, espacial y de flujo de conciencia o ensoñación."
+        },
+        {
+          "id": "9",
+          "label": "Secuenciación Narrativa Complementaria",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Procedimiento donde las ilustraciones construyen una historia autónoma con personajes y progresión temporal que no figuraba en el poema original, dotando de anclaje figurativo al texto lírico."
+        },
+        {
+          "id": "10",
+          "label": "Secuenciación Lírico-Visual y Rimas Plásticas",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Encadenamiento visual guiado por metamorfosis formales, resonancias cromáticas, motivos simbólicos recurrentes y analogías gráficas que emulan visualmente los tropos poéticos."
+        },
+        {
+          "id": "11",
+          "label": "Secuenciación Espacial y Flujo de Conciencia",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Estructuración articulada en torno a desplazamientos geográficos, mapas o paisajes continuos, así como sucesiones de imágenes oníricas que reproducen el curso errático del pensamiento infantil."
+        },
+        {
+          "id": "12",
+          "label": "Andamiaje para la Comprensión de la Metáfora",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica sobre cómo la concreción plástica de la imagen ayuda al lector incipiente a acceder al sentido figurado y a la polivalencia simbólica de la poesía sin clausurar su misterio."
+        },
+        {
+          "id": "13",
+          "label": "Polifonía Iconotextual sin Trama Lineal",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate en torno a la capacidad del álbum de generar unidad estética profunda prescindiendo del canon narrativo tradicional, transformando la lectura en una experiencia sensorial y contemplativa."
+        },
+        {
+          "id": "14",
+          "label": "Valor del Álbum Lírico en la Educación Estética",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión que reivindica el álbum ilustrado lírico como un dispositivo insustituible para formar la sensibilidad artística, el ritmo y el pensamiento metafórico en la infancia."
+        },
+        {
+          "id": "15",
+          "label": "Orientaciones para la Mediación Docente",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación formativa para docentes y mediadores sobre la necesidad de ralentizar el pase de páginas, fomentando el diálogo visual y la exploración minuciosa de los detalles plásticos."
+        },
+        {
+          "id": "16",
+          "label": "Límites del Corpus y Diversidad Cultural",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite asumido al ceñir el análisis a 55 obras en lengua española, señalando el interés de extender futuras investigaciones hacia álbumes líricos de otras tradiciones culturales e idiomáticas."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "parte de"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se apoya en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se realiza mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se complementa con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "selecciona"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "define"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "establece"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "aporta casos de"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "identifica"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "sistematiza"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "agrupa"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "demuestra función de"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "potencia"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "evidencia"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "respalda"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "sustenta"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "conduce a"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "reconoce"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "restringe ámbito en"
+        },
+        {
+          "from": "4",
+          "to": "9",
+          "label": "clasifica semióticamente a"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "enriquece"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "El álbum ilustrado lírico nos enseña a demorar la mirada. Cuando el libro no impone una carrera de sucesos, las imágenes se convierten en un refugio de contemplación donde la infancia aprende a descifrar la metáfora, a paladear el color y a descubrir la poesía que late en cada rincón del mundo.",
+      "preguntas": [
+        "¿Se ofrece a los niños en las escuelas suficiente contacto con álbumes líricos o predomina de manera casi exclusiva la narrativa convencional?",
+        "¿Cómo puede la mediación docente enseñar a leer las pausas, los silencios y las rimas cromáticas que conectan las ilustraciones poéticas?"
+      ]
+    }
+  }
+}

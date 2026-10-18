@@ -1,0 +1,395 @@
+{
+  "id": "dificultades_alfabetizacion_emergente_tel_preescolares",
+  "metadata": {
+    "title": "Dificultades en habilidades de alfabetización emergente en preescolares con trastorno específico del lenguaje. Revisión sistemática",
+    "authors": "Nicole B. Vargas",
+    "year": "2020",
+    "journal": "Ocnos 19(2)",
+    "doi": "10.18239/ocnos_2020.19.2.2202",
+    "gancho": "¿Qué dificultades invisibles presentan los niños con TEL antes de empezar a leer y cómo podemos detectarlas en la etapa preescolar?",
+    "duration": "12-15 min",
+    "badge": "Educación Especial y Logopedia",
+    "disciplina": "Dificultades del Aprendizaje y Trastornos del Lenguaje",
+    "dimensiones": [
+      "Alfabetización Emergente",
+      "Trastorno Específico del Lenguaje",
+      "Vista Simple de la Lectura",
+      "Conciencia Fonológica"
+    ],
+    "tags": [
+      "alfabetizacion_emergente",
+      "tel_tdl",
+      "preescolar",
+      "conciencia_fonologica",
+      "revision_sistematica"
+    ],
+    "pistas": [
+      "Revisión sistemática con pautas PRISMA-P en 9 bases de datos (3193 registros iniciales, 4 estudios finales evaluados con STROBE).",
+      "Muestra transversal de 113 preescolares de 3 a 6 años con diagnóstico formal de TEL/TDL.",
+      "Debilidades generalizadas y significativas en Conocimiento Alfabético (CA), Conciencia Fonológica (CF) y Conocimiento de lo Impreso (CI).",
+      "La escritura del propio nombre se revela como un potente marcador clínico temprano de dificultades lectoras futuras."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "El Trastorno Específico del Lenguaje (TEL/TDL) afecta al 7% de la población infantil, pero mientras sus fracasos en la lectura escolar están ampliamente documentados, existía una alarmante falta de síntesis sobre qué ocurre en la etapa previa: la alfabetización emergente (AE).",
+      "desafio": "Identificar y sistematizar con rigor metodológico internacional las debilidades precursoras de la decodificación y la comprensión lectora en preescolares con TEL antes del inicio de la instrucción formal.",
+      "relevancia": "Permite diseñar herramientas de cribado temprano e intervenciones logopédicas preventivas en Educación Infantil para frenar el fracaso lector antes de que se consolide."
+    },
+    "conflicto": {
+      "pregunta": "¿Afecta el TEL a todas las dimensiones de la alfabetización emergente por igual o compromete selectivamente la decodificación frente al lenguaje oral en preescolar?",
+      "posiciones": [
+        "Hipótesis del déficit oral aislado: los niños con TEL tienen dificultades en el habla pero adquieren espontáneamente el conocimiento de las letras y lo impreso.",
+        "Hipótesis del compromiso dual precursor: el retraso en el lenguaje oral impacta en cascada tanto en precursores de la decodificación (CF, CA) como en la comprensión narrativa previa a la lectura."
+      ],
+      "tension": "La tensión entre la percepción social tardía de los problemas del lenguaje y la urgencia de actuar en los precursores de 3 a 6 años cuando la plasticidad cerebral es máxima.",
+      "deepDives": [
+        {
+          "id": "tel-conf-1",
+          "triggerLabel": "Prevalencia y persistencia del TEL",
+          "type": "context",
+          "content": "Siguiendo a Tomblin y Bishop, el TEL es un trastorno del neurodesarrollo de causa multifactorial que no desaparece con la edad y condiciona la vida académica hasta la adultez."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Revisión sistemática PRISMA-P en nueve bases de datos y evaluación STROBE",
+      "narrativa": "La autora rastreó exhaustivamente 3193 artículos en 9 bases de datos internacionales (PubMed, WoS, Scopus, SciELO, etc.) aplicando las directrices PRISMA-P, seleccionando finalmente cuatro investigaciones empíricas rigurosas evaluadas con la pauta STROBE.",
+      "detalles": [
+        {
+          "label": "Bases de datos consultadas",
+          "value": "9 plataformas: EBSCO, MEDES, MEDLINE, LILACS, PubMed, SciELO, Scopus, SpeechBITE y Web of Science."
+        },
+        {
+          "label": "Proceso de cribado",
+          "value": "3193 identificados, 3185 excluidos por título/resumen, 9 a texto completo y 4 estudios seleccionados (STROBE 16-21 pts)."
+        },
+        {
+          "label": "Población acumulada",
+          "value": "113 niños con TEL (78 niños, 35 niñas de 3 a 6 años) evaluados transversalmente frente a controles con desarrollo típico."
+        },
+        {
+          "label": "Criterios diagnósticos",
+          "value": "Audición normal, CI no verbal >= 80 y pruebas estandarizadas de lenguaje bajo el percentil 10 o puntaje < 85."
+        }
+      ],
+      "limitaciones": [
+        "Escasez de literatura mundial que superara los filtros de calidad (solo 4 estudios en dos décadas).",
+        "Ausencia total de investigaciones empíricas en población infantil hispanohablante (todos los estudios fueron en inglés)."
+      ],
+      "reflexion": "¿Cómo evaluar la conciencia fonológica en niños de 4 años sin confundir la dificultad para pronunciar un fonema con la incapacidad cognitiva de aislarlo?",
+      "deepDives": [
+        {
+          "id": "tel-viaje-1",
+          "triggerLabel": "Evaluación con escala STROBE",
+          "type": "method",
+          "content": "Los cuatro estudios incluidos (Boudreau, Cabell, Justice y Pavelko) demostraron alta calidad metodológica al cumplir entre 16 y 21 de los 22 ítems de la pauta STROBE para estudios observacionales."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Se confirmó que los preescolares con TEL rinden significativamente por debajo de los controles en todas las medidas de alfabetización emergente: Conocimiento Alfabético (CA), Conciencia Fonológica (CF) y Conocimiento de lo Impreso (CI), destacando la escritura del propio nombre como el predictor clínico más sensible que integra el nivel de lenguaje oral con la destreza grafofonológica.",
+      "evidenciaCualitativa": "Boudreau y Hedberg hallaron que los niños con TEL retienen menos información y usan menos vocabulario al recordar cuentos; Pavelko demostró que la escritura de letras explica la brecha en la representación del nombre.",
+      "citaClave": "'Los niños con TEL exhiben un desempeño persistentemente por debajo de lo esperado en las medidas precursoras de la alfabetización emergente, comprometiendo tanto la decodificación futura como la comprensión lectora.'",
+      "implicacionesDocentes": [
+        "Incorporar la tarea de escritura espontánea del propio nombre en preescolar como screening rápido de riesgo lector.",
+        "Trabajar sistemáticamente juegos de rimas, aliteraciones y conocimiento de letras impresas desde los 3 años en escuelas infantiles.",
+        "Ofrecer apoyo logopédico centrado en la estructura narrativa de cuentos antes de la entrada en Educación Primaria."
+      ],
+      "deepDives": [
+        {
+          "id": "tel-rev-1",
+          "triggerLabel": "La excepción grafema-fonema de Boudreau",
+          "type": "data",
+          "content": "Curiosamente, Boudreau y Hedberg no hallaron diferencias en correspondencia grafema-fonema aislada porque ambos grupos (TEL y controles) rindieron muy bajo, demostrando que dicha habilidad es tardía en preescolar."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Vista Simple de la Lectura (Hoover & Gough) y Modelo de Alfabetización Emergente (NELP)",
+      "tensiones": [
+        "Foco exclusivo en decodificación mecánica vs. abordaje integral de la comprensión del lenguaje oral.",
+        "Transferencia acrítica de datos de ortografías opacas (inglés) a ortografías transparentes (español)."
+      ],
+      "autoresClave": [
+        "Vargas (2020)",
+        "Hoover & Gough (1990)",
+        "Catts et al. (2003, 2005)",
+        "NELP (2008)",
+        "Tomblin et al. (1997)"
+      ],
+      "deepDives": [
+        {
+          "id": "tel-marco-1",
+          "triggerLabel": "La asimetría temporal de Catts",
+          "type": "theory",
+          "content": "Catts et al. demostraron que al inicio de la escolaridad la decodificación explica el 27% de la comprensión lectora y el lenguaje oral el 9%, pero a los 8 años la relación se invierte (1% decodificación vs. 36% lenguaje oral)."
+        }
+      ]
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Qué habilidades de alfabetización emergente se encuentran alteradas en preescolares con TEL según la evidencia empírica acumulada?",
+      "mecanismoClave": "El déficit estructural en el procesamiento del lenguaje oral obstaculiza la toma de conciencia de las unidades sonoras y la asociación con las formas impresas, deteriorando simultáneamente los precursores de la decodificación y los recursos léxico-narrativos.",
+      "conclusionGeneral": "Las debilidades de los niños con TEL están plenamente instauradas antes de que empiece la enseñanza formal de la lectura, exigiendo protocolos de detección e intervención en alfabetización emergente en la educación preescolar."
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Alfabética",
+        "descripcion": "Recoge tokens de conciencia fonológica y conocimiento de lo impreso evitando errores diagnósticos.",
+        "instrucciones": "Come tokens de CA y CF mientras respondes sobre los estudios revisados por Nicole Vargas. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: TEL y Alfabetización Emergente",
+        "descripcion": "Evalúa tus conocimientos sobre los criterios PRISMA, la Vista Simple de la Lectura y los hallazgos en preescolar.",
+        "instrucciones": "Acierta contrarreloj para mantener tu racha de screening y liderar la tabla logopédica."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de los Precursores Lectores",
+        "descripcion": "Asciende desde el balbuceo del lenguaje oral hasta la decodificación fonológica y la comprensión autónoma.",
+        "instrucciones": "Supera cada nivel demostrando dominio de las etapas de la alfabetización emergente."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Alfabetización emergente en preescolares con TEL (Vargas, 2020)",
+      "descripcion": "Revisión sistemática internacional basada en PRISMA-P que analiza las debilidades precursoras en conciencia fonológica, conocimiento alfabético y lenguaje oral en niños de 3 a 6 años con TEL.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Modelo de la Vista Simple de la Lectura (Hoover & Gough)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico que postula que la comprensión lectora es el producto interactivo entre la decodificación de palabras y la comprensión del lenguaje oral, explicando el 80% de la varianza lectora."
+        },
+        {
+          "id": "2",
+          "label": "Constructo de Alfabetización Emergente (AE)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Conjunto de habilidades, conocimientos y actitudes precursoras hacia el lenguaje escrito que los niños desarrollan en la etapa preescolar de 3 a 6 años antes de la instrucción formal."
+        },
+        {
+          "id": "3",
+          "label": "Perfil clínico del Trastorno Específico del Lenguaje (TEL/TDL)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Trastorno del neurodesarrollo que afecta al 7% de la población infantil caracterizado por dificultades persistentes en el lenguaje oral sin retraso mental, sensorial ni déficit neurológico."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: sintetizar debilidades de AE en preescolar",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Analizar sistemáticamente la literatura empírica disponible para caracterizar el desempeño en habilidades precursoras de la lectura en niños de 3 a 6 años con diagnóstico formal de TEL."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: evaluar precursores de decodificación y comprensión",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Contrastar el rendimiento en habilidades asociadas al reconocimiento de palabras (CF, CA, CI) frente a destrezas narrativas y de lenguaje oral vinculadas a la comprensión futura."
+        },
+        {
+          "id": "6",
+          "label": "Diseño de revisión sistemática con protocolo PRISMA-P",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Metodología rigurosa de revisión sistemática basada en directrices PRISMA-P con búsqueda en nueve bases de datos internacionales entre 1998 y 2018 y evaluación de calidad con pauta STROBE."
+        },
+        {
+          "id": "7",
+          "label": "Cribado exhaustivo de 3193 registros iniciales",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Filtrado en EndNote X8 de 3193 referencias, descartando estudios no cuantitativos o con comorbilidades (TEA, DI) hasta seleccionar cuatro investigaciones empíricas de alta calidad."
+        },
+        {
+          "id": "8",
+          "label": "Muestra de 113 preescolares con TEL en 4 estudios",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Participación acumulada de 113 niños con TEL (78 varones y 35 mujeres) de 3 a 6 años evaluados frente a controles típicos en los estudios de Boudreau, Cabell, Justice y Pavelko."
+        },
+        {
+          "id": "9",
+          "label": "Déficit generalizado en Conocimiento Alfabético (CA)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Los cuatro estudios constataron que los preescolares con TEL rinden significativamente por debajo de los controles en reconocer y nominar las letras del abecedario en edades tempranas."
+        },
+        {
+          "id": "10",
+          "label": "Bajo rendimiento en Conciencia Fonológica (CF)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Se registraron puntuaciones deficientes en tareas de discriminación y manipulación de unidades sonoras del habla (rimas, segmentación silábica y aislamiento de fonemas iniciales)."
+        },
+        {
+          "id": "11",
+          "label": "Dificultades en Conocimiento de lo Impreso (CI)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Los niños con TEL mostraron un entendimiento más inmaduro sobre las convenciones de los libros impresos (orientación, conceptos de palabra y función comunicativa del texto)."
+        },
+        {
+          "id": "12",
+          "label": "La escritura del propio nombre como predictor clave",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Cabell y Pavelko demostraron que la capacidad para escribir el nombre propio es un indicador temprano sumamente sensible que refleja la integración entre lenguaje oral y conciencia alfabética."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: la asimetría temporal en la comprensión",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se discute cómo los problemas del lenguaje oral impactan primero en la decodificación inicial y posteriormente se transforman en barreras insalvables para la comprensión de textos escolares."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: invisibilidad de los precursores en el aula",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se alerta de que las dificultades en la etapa preescolar suelen ser ignoradas hasta que el niño fracasa en 1º de Primaria, perdiéndose la ventana de oro de la plasticidad neuronal infantil."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: vacío empírico en lengua española",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "La autora resalta como limitación crítica que todos los estudios disponibles se desarrollaron en inglés (lengua opaca), haciendo urgente investigar precursores de AE en español (lengua transparente)."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: urgencia de screening e intervención temprana",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye la imperiosa necesidad de implantar pruebas de cribado de AE en preescolar y programas de estimulación fonológica y narrativa para prevenir el fracaso lector en niños con TEL."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "aporta el modelo dual para"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "define el constructo evaluado por"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "establece la población diana de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se operativiza a través del"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "guía los criterios de inclusión del"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se ejecuta mediante el"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "culmina seleccionando la"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "evidencia empíricamente el"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "demuestra en las pruebas el"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "constata en los datos las"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "descubre el valor de"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "aporta evidencia directa a la"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "conecta con el debate de la"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "ejemplifica en la práctica la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "sustenta la alerta sobre la"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "fundamenta la propuesta de"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "conduce directamente a las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el alcance geográfico del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las recomendaciones de las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "cierra el ciclo preventivo de"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál fue una de las tareas tempranas más sensibles identificadas en la revisión para predecir dificultades en alfabetización emergente en niños con TEL?",
+          "options": [
+            "La copia de figuras geométricas complejas.",
+            "La escritura del propio nombre y la escritura de letras aisladas.",
+            "La repetición memorística de series numéricas inversas.",
+            "La lectura silenciosa de textos narrativos breves."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo diseñarías una rutina lúdica de 10 minutos diarios en un aula de 4 años para estimular la conciencia fonológica y el conocimiento alfabético en niños con dificultades del lenguaje?"
+        }
+      ]
+    }
+  }
+}

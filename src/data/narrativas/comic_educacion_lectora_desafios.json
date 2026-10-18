@@ -1,0 +1,434 @@
+{
+  "id": "comic_educacion_lectora_desafios",
+  "metadata": {
+    "title": "El cómic desde la educación lectora: confluencias, interrogantes y desafíos para la investigación",
+    "authors": "Noelia Ibarra-Rius y Josep Ballester-Roca",
+    "year": "2022",
+    "journal": "Ocnos 21(1)",
+    "doi": "10.18239/ocnos_2022.21.1.2753",
+    "gancho": "¿Por qué un medio con un crecimiento del 290% en tesis doctorales sigue siendo casi invisible en las aulas escolares?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#264653",
+    "bg": "from-indigo-900/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/comic-educacion/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-ibarra/200/200",
+      "name": "Dra. Noelia Ibarra-Rius",
+      "role": "Catedrática de Didáctica de la Lengua y la Literatura, Universitat de València"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Noelia Ibarra-Rius, referente en didáctica de la lectura y estudios culturales del noveno arte",
+      "gancho": "En España, las tesis sobre cómic se multiplicaron de 30 a 87 en una década. Sin embargo, en los planes docentes de primaria y secundaria, el tebeo sigue relegado al rincón de las lecturas 'fáciles' o de castigo.",
+      "contexto": "A pesar de su eclosión editorial y su progresiva legitimación institucional mediante másteres universitarios y cátedras dedicadas, el cómic arrastra una pesada hipoteca histórica de sospecha cultural. Analizando críticamente el discurso académico producido en España e internacionalmente, este ensayo fundamenta por qué el noveno arte comparte con la literatura infantil un destino común de marginación epistemológica y propone los desafíos ineludibles para integrarlo en el canon de la educación lectora.",
+      "deepDives": [
+        {
+          "id": "iba-apertura-1",
+          "triggerLabel": "El aumento del 290% en tesis doctorales",
+          "type": "data",
+          "content": "Gracia-Lana (2020) contabilizó 30 tesis sobre historieta defendidas en universidades españolas entre 1996 y 2006, frente a 87 en la década siguiente, lo que representa un aumento del 290%. El autor advierte que este aumento se explica en parte por las reformas normativas de postgrado (Real Decreto 99/2011)."
+        },
+        {
+          "id": "iba-apertura-2",
+          "triggerLabel": "La teoría de los polisistemas de Even-Zohar",
+          "type": "theory",
+          "content": "Itamar Even-Zohar concibe la literatura como un sistema dinámico estratificado donde géneros canónicos ocupan el centro consagrado, mientras formatos populares como el cómic o la LIJ son empujados históricamente a la periferia marginal."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Persiste una brecha flagrante entre la alta atracción que el cómic ejerce sobre los jóvenes y su presencia casi anecdótica en bibliotecas escolares y prescripciones curriculares. El cómic continúa asociado al prejuicio decimonónico de producto de masas infantilizador que atenta contra el hábito del 'buen libro' de texto continuo.",
+      "porQueImporta": "En la era de la convergencia digital, privar a los estudiantes de la formación en lectura secuencial bimodal amputa el desarrollo de competencias semióticas, críticas, estéticas y visuales indispensables para la alfabetización del siglo XXI.",
+      "dataPoints": [
+        "Auge investigador: 87 tesis doctorales defendidas en España en la última década auditada frente a 30 previas.",
+        "Institucionalización: Creación de la Cátedra de Estudios del Cómic (Fundación SM - UV) y másteres especializados.",
+        "Paradoja escolar: pese a la eclosión investigadora y editorial, la presencia del cómic en bibliotecas y aulas es casi anecdótica frente a otras posibilidades de lectura.",
+        "Evolución terminológica: de la etiqueta peyorativa heredada del 'tebeo' hasta la consagración comercial y cultural de la 'novela gráfica'.",
+        "Expansión interdisciplinar: eclosión de la medicina gráfica (Gallardo, Roca) y del cómic de no ficción como herramienta social y humanizadora.",
+        "Prejuicio del 'receptor infantil': se sigue asociando el cómic a un producto de baja calidad por ir dirigido a niños, sin atender a la competencia lectora que realmente exige."
+      ],
+      "glossary": [
+        {
+          "term": "Novela gráfica",
+          "definition": "Formato editorial de cómic de lomo grueso, autoconclusivo y temáticas adultas que facilitó su entrada en librerías generalistas y círculos cultos."
+        },
+        {
+          "term": "Medicina gráfica",
+          "definition": "Corriente de novela gráfica testimonial que narra experiencias de enfermedad y cuidados (Alzheimer, autismo) para humanizar la práctica clínica."
+        },
+        {
+          "term": "Iconotextualidad",
+          "definition": "Relación indisociable entre lenguaje verbal e icónico donde el significado emerge de la articulación simultánea de ambos códigos."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "iba-conflicto-1",
+          "triggerLabel": "¿Por qué el cómic y la LIJ comparten destino?",
+          "type": "theory",
+          "content": "Ambos campos fueron ninguneados por la crítica literaria tradicional bajo la premisa de estar dirigidos a menores; su reivindicación ha exigido demostrar que el lector infantil es un sujeto estético pleno."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Análisis crítico del discurso académico",
+      "narrativa": "Los investigadores articularon un ensayo analítico riguroso estructurado en cuatro ejes discursivos transversales:",
+      "detalles": [
+        {
+          "label": "1. Mapeo documental y fuentes de autoridad",
+          "value": "Revisión sistemática de monografías, tesis y artículos de referencia internacional (McCloud, Groensteen, Kunzle, Altarriba, Boltanski, Cerrillo)."
+        },
+        {
+          "label": "2. Auditoría de 'lugares comunes' discursivos",
+          "value": "Desmontaje de lugares comunes acríticamente iterados en la academia, como la definición reduccionista de 'arte secuencial' sin problematizar su alcance."
+        },
+        {
+          "label": "3. Análisis de políticas de institucionalización",
+          "value": "Examen de la evolución del cómic en el sistema universitario, la formación docente inicial y los planes oficiales de lectura escolar."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Confluencias, resistencias y nuevas fronteras",
+      "narrativa": "El análisis saca a la luz las tensiones no resueltas en el campo epistemológico del noveno arte:",
+      "hallazgos": [
+        {
+          "label": "La trampa de la novela gráfica: La adopción del término sirvió para legitimar el medio ante las élites cultas, pero corre el riesgo de renegar de la rica tradición popular del tebeo serializado.",
+          "value": ""
+        },
+        {
+          "label": "Pánico moral histórico: Se rastrean las raíces ideológicas de la censura (Fredric Wertham y la supuesta 'perversión infantil') que aún condiciona la desconfianza de sectores pedagógicos conservadores.",
+          "value": ""
+        },
+        {
+          "label": "Potencial multimodal probado: La investigación demuestra que el cómic favorece el desarrollo de la empatía, el pensamiento divergente y el acceso a la literatura en alumnos reacios.",
+          "value": ""
+        },
+        {
+          "label": "Medicina gráfica y no ficción: Obras como 'Arrugas' (Paco Roca) o 'María y yo' (Miguel Gallardo) lideran la conquista de nuevos públicos y su validación universitaria.",
+          "value": ""
+        }
+      ],
+      "reflexion": "El cómic no necesita pedir perdón por ser accesible: su grandeza reside precisamente en hacer complejo lo visible y cercano lo profundo.",
+      "deepDives": [
+        {
+          "id": "iba-revelacion-1",
+          "triggerLabel": "El legado de Paco Roca y Miguel Gallardo",
+          "type": "data",
+          "content": "Vilches (2019b) señala 2007 como hito del mercado del cómic adulto por dos motivos: la creación del Premio Nacional del Cómic y la publicación en Astiberri de 'María y yo' (Gallardo) y 'Arrugas' (Roca), éxitos de público y crítica que abrieron el camino hacia la medicina gráfica y el cómic de no ficción en España."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Desafíos formativos y transformación del currículo",
+      "narrativa": "Ibarra y Ballester formulan una hoja de ruta para la didáctica del cómic en el siglo XXI:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Alfabetización multimodal: el cómic exige un lector activo que construye significado combinando imagen, texto y paratextos, y conecta con las nuevas y múltiples literacidades que reclama la ciudadanía digital."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Apertura del canon escolar (Ibarra y Ballester): superar un canon de aula construido solo con clásicos y abrirlo, como estrategia clave, a otras voces, géneros, temas y lecturas cercanas a los intereses del alumnado."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Justicia cultural: Descolonizar el canon escolar abriéndolo a las expresiones artísticas que forman parte del universo vivencial de los estudiantes."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Cebo instrumental vs. Experiencia estética: Crítica a quienes usan el cómic solo como un 'cebo fácil' para pasar después a los libros 'de verdad'."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Retórica académica vs. Realidad de aula: Alerta sobre la proliferación de artículos teóricos que no se traducen en guías didácticas ni en dotaciones materiales escolares."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El estudio no ofrece datos cuantitativos sobre las compras reales de cómic por parte de las redes de bibliotecas escolares autonómicas."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "La propia dispersión disciplinar (filología, traducción, comunicación, semiótica, didácticas específicas) fragmenta el conocimiento y dificulta las convergencias epistemológicas y el acceso unificado a las fuentes."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para los planes de estudio universitarios Incorporar asignaturas obligatorias sobre cómic y narrativa gráfica en los grados de Maestro en Primaria e Infantil."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las bibliotecas escolares Asignar partidas presupuestarias específicas para nutrir las colecciones de cómic infantil, juvenil y documental de no ficción."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la investigación en didáctica Diseñar investigaciones empíricas de diseño de aprendizaje (DBR) que evalúen secuencias didácticas con cómic en las aulas."
+        },
+        {
+          "label": "Tabla",
+          "value": "Eje Problemático | Discurso Tradicional / Prejuicio | Evidencia Investigadora | Desafío Didáctico en el Aula\nEstatus cultural | Subproducto de masas infantil y efímero | Complejidad semiótica y reconocimiento artístico pleno | Integración paritaria en los cánones oficiales\nDestinatario modelo | Lectura exclusiva para prelectores o niños | Diversidad de géneros y madurez temática adulta | Selección crítica según etapas educativas\nFunción escolar | Cebo pasajero o premio compensatorio | Desarrollo de competencias multimodales complejas | Enseñanza formal de gramática del cómic\nFormato editorial | Sospecha del tebeo popular grapado | Consagración de la novela gráfica y medicina gráfica | Diversificación de soportes sin elitismo"
+        }
+      ],
+      "reflexion": "Enseñar a leer cómics es enseñar a comprender la gramática visual del mundo en que vivimos.",
+      "deepDives": [
+        {
+          "id": "iba-marco-1",
+          "triggerLabel": "El cómic en la formación inicial docente",
+          "type": "data",
+          "content": "Los autores alertan de que la inmensa mayoría de los futuros maestros nunca han recibido una sola hora de formación sobre cómo analizar o mediar un cómic en clase."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Qué confluencias, prejuicios y desafíos epistemológicos definen la investigación sobre el cómic desde la educación lectora?",
+      "conclusion": "El cómic y la literatura infantil comparten una historia paralela de marginación académica basada en la sospecha del receptor infantil. El crecimiento de tesis doctorales (290% en España) contrasta radicalmente con su escasa implantación real en las programaciones escolares. La etiqueta de 'novela gráfica' ha permitido ganar respetabilidad cultural, pero corre el riesgo de elitizar el medio. El cómic demuestra un potencial insustituible para desarrollar el pensamiento crítico, la alfabetización visual y la empatía ciudadana. Incluir de forma preceptiva la narrativa gráfica en los currículos oficiales de Lengua y Literatura de todas las etapas educativas. Crear becas y fondos públicos específicos para la dotación de cómic contemporáneo en todas las bibliotecas de centros escolares. Formar al profesorado en activo en estrategias de análisis iconotextual y diseño de itinerarios lectores con cómic. Superar la instrumentalización utilitarista del medio, valorando las historietas como creaciones artísticas autónomas de primer orden. El cómic no es un puente hacia los libros: es una isla maravillosa con sus propios tesoros que ningún lector debería perderse.",
+      "formalRef": "Noelia Ibarra-Rius y Josep Ballester-Roca. (2022). El cómic desde la educación lectora: confluencias, interrogantes y desafíos para la investigación. Ocnos 21(1). https://doi.org/10.18239/ocnos_2022.21.1.2753"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿En qué porcentaje aumentaron las tesis doctorales sobre cómic defendidas en España entre 1996-2006 y la década siguiente, según Gracia-Lana (2020)?",
+          "options": [
+            "Un 50%",
+            "Un 120%",
+            "Un 290% (de 30 a 87 tesis)",
+            "Más del 500%"
+          ],
+          "correct": 2
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué teoría socioliteraria de Itamar Even-Zohar utilizan los autores para explicar la marginación del cómic en la periferia cultural?",
+          "options": [
+            "Teoría de la recepción estética",
+            "Teoría de los polisistemas",
+            "Teoría de la deconstrucción",
+            "Teoría de la gramática generativa"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "El cómic en la educación lectora",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Artefacto artístico e iconotextual de arraigo masivo cuya incorporación formal a las programaciones de educación lectora y literaria sigue enfrentando prejuicios heredados y reticencias curriculares notables."
+      },
+      {
+        "id": "2",
+        "label": "Teoría de los polisistemas (Even-Zohar)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Modelo de Itamar Even-Zohar que explica la estratificación cultural entre géneros canónicos consagrados que ocupan el centro del sistema y manifestaciones populares periféricas empujadas a la marginalidad."
+      },
+      {
+        "id": "3",
+        "label": "Historias paralelas de marginación: Cómic y LIJ",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Vínculo epistemológico paralelo entre la historieta y la literatura infantil y juvenil (LIJ), ambas desacreditadas por la crítica tradicional debido a su identificación histórica con el receptor infantil."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Analizar el discurso académico del cómic",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Examinar de forma crítica y sistemática los debates epistemológicos, marcos conceptuales y confluencias que articulan la investigación académica sobre el noveno arte y la formación de lectores en España."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Diagnosticar la brecha universidad-aula",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Identificar y desentrañar las causas institucionales y pedagógicas por las cuales la eclosión investigadora y editorial del cómic no se traduce en una presencia real en las aulas escolares y bibliotecas."
+      },
+      {
+        "id": "6",
+        "label": "Revisión crítica de tipo ensayístico",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Enfoque cualitativo interpretativo de corte ensayístico basado en el análisis del discurso académico generado en torno al cómic en tesis doctorales, monografías, artículos y actas de congresos especializados."
+      },
+      {
+        "id": "7",
+        "label": "Corpus discursivo de fuentes autorizadas",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Selección rigurosa de fuentes de autoridad teóricas y metodológicas de referencia (McCloud, Groensteen, Kunzle, Altarriba, Boltanski, Cerrillo, Vilches) analizadas en sus categorías e iteraciones discursivas."
+      },
+      {
+        "id": "8",
+        "label": "Cuatro ejes transversales de indagación",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Estructuración del análisis en cuatro ejes problemáticos: identidad y terminología, el receptor modelo y el pánico moral infantil, la conquista del estatus institucional y los prejuicios docentes de aula."
+      },
+      {
+        "id": "9",
+        "label": "Aumento del 290% en tesis doctorales",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Constatación cuantitativa del incremento del 290% en la defensa de tesis sobre historieta en universidades españolas (de 30 en 1996-2006 a 87 en 2007-2017), consolidando una masa investigadora crítica."
+      },
+      {
+        "id": "10",
+        "label": "Institucionalización y cátedras especializadas",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Creación de hitos académicos pioneros como la Cátedra de Estudios del Cómic en Valencia y másteres oficiales en educación lectora y medicina gráfica, legitimando el noveno arte en la educación superior."
+      },
+      {
+        "id": "11",
+        "label": "Persistencia del prejuicio del 'cebo fácil'",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Supervivencia en el profesorado de primaria y secundaria del prejuicio que concibe el cómic como un mero cebo o escalón compensatorio transitorio hacia la lectura 'auténtica' de letra impresa continua."
+      },
+      {
+        "id": "12",
+        "label": "Emergencia de la medicina gráfica y no ficción",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Consolidación de obras autobiográficas y de no ficción social (Paco Roca, Miguel Gallardo) que han abierto el cómic a la empatía clínica, la sensibilización bioética y el trabajo con la diversidad funcional."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: La paradoja de la 'novela gráfica'",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Debate crítico sobre la etiqueta comercial de 'novela gráfica', que aportó respetabilidad cultural burguesa al formato en librerías pero corre el riesgo de elitizar el medio y descalificar al tebeo popular."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Alfabetización multimodal en el siglo XXI",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Defensa incondicional de la enseñanza explícita de la gramática visual e iconotextual en las escuelas para dotar a los estudiantes de herramientas críticas frente a la saturación icónica de la cultura digital."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Delimitación discursiva sin datos de aula",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Investigación ensayística de análisis discursivo y bibliográfico que no incorpora datos cuantitativos directos sobre dotaciones presupuestarias o compras efectivas de cómic en bibliotecas escolares."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Integración paritaria en el canon",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "Reivindicación final de la integración paritaria y preceptiva del cómic en los cánones escolares oficiales de Lengua y Literatura, reconociéndolo como una forma estética autónoma, madura y emancipadora."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se enmarca en la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "comparte origen con"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "justifica formular el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "motiva examinar el"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se desarrolla mediante"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se analiza con"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se nutre del"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se clasifica en"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "demuestra el"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "registra la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "denuncia la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "destaca la"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "contrasta con la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "impulsa el debate sobre"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "reclama superar mediante"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "ejemplifica el valor de la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "orienta la meta de"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "se delimita por"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "concluye en la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "marca el horizonte de"
+      }
+    ]
+  }
+}

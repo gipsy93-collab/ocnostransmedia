@@ -1,0 +1,163 @@
+{
+  "id": "poesia_castellano_educacion_primaria_algunas",
+  "metadata": {
+    "title": "Poesía en castellano para la Educación Primaria: algunas secuencias prácticas de trabajo con textos poéticos",
+    "authors": "Moisés Selfa y Fernando Azevedo",
+    "year": "2013",
+    "journal": "Ocnos. Revista de estudios sobre lectura, 10 (2013), pp. 55-69",
+    "doi": "https://doi.org/10.18239/ocnos_2013.10.03",
+    "gancho": "Propuesta didáctica para trabajar la poesía en castellano en Educación Primaria. Los autores diseñan un Plan de Lectura, seleccionan poemas según forma y estructura, y proponen secuencias de análisis y escritura para desarrollar la competencia lectora, escritora y literaria. La e",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#fa5457",
+    "colorAlt": "#b5179e",
+    "bg": "from-rose-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-14.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-14.png",
+      "name": "Moisés Selfa y Fernando Azevedo",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Moisés Selfa y Fernando Azevedo, autor/a en Revista Ocnos",
+      "gancho": "Propuesta didáctica para trabajar la poesía en castellano en Educación Primaria. Los autores diseñan un Plan de Lectura, seleccionan poemas según forma y estructura, y proponen secuencias de análisis ",
+      "contexto": "El trabajo se enmarca en la Educación Primaria (EP) y en la enseñanza obligatoria. Los autores parten de que la lectura y comprensión de textos poéticos \"favorece el desarrollo de las habilidades intelectuales y de reflexión\" que el estudiante debe adquirir en esta etapa (p. 2). El diseño de un Plan de Lectura (en adelante PL) exige objetivos específicos, secuenciados y evaluables; para la poesía, el currículo oficial marca tres: la comprensión y",
+      "deepDives": [
+        {
+          "id": "poesia_castellano_educacion_primaria_algunas-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "El artículo parte de una constatación: la poesía es un género \"importantísimo\" que, \"según algunos autores (Pérez Daza, 2011), olvidado a la hora de formar y desarrollar las competencias lectora, escrita y literaria de los jóvenes lectores en edad escolar\" (p. 3). Frente a ese olvido, los autores so"
+        },
+        {
+          "id": "poesia_castellano_educacion_primaria_algunas-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "El trabajo se enmarca en la Educación Primaria (EP) y en la enseñanza obligatoria. Los autores parten de que la lectura y comprensión de textos poéticos \"favorece el desarrollo de las habilidades intelectuales y de reflexión\" que el estudiante debe adquirir en esta etapa (p. 2). El diseño de un Plan"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El artículo parte de una constatación: la poesía es un género \"importantísimo\" que, \"según algunos autores (Pérez Daza, 2011), olvidado a la hora de formar y desarrollar las competencias lectora, escrita y literaria de los jóvenes lectores en edad escolar\" (p. 3). Frente a ese olvido, los autores sostienen que la poesía tiene \"unas enormes posibili",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "-- | --- | --- |",
+        "¿Por qué la poesía, siendo un género con tanto valor didáctico, tiende a quedar relegada en la escuela?",
+        "¿Cómo se traducen los objetivos del currículo en actividades concretas por ciclo?",
+        "¿Qué diferencia hay entre trabajar la poesía de forma lúdica y evaluarla con rigor?"
+      ],
+      "glossary": [
+        {
+          "term": "Plan de Lectura (PL)",
+          "definition": "plan de centro con objetivos secuenciados y evaluables para trabajar la poesía. (p. 2)"
+        },
+        {
+          "term": "Biblioteca Escolar (BE)",
+          "definition": "espacio pedagógico con recursos de búsqueda y consulta para apoyar las secuencias. (p. 4)"
+        },
+        {
+          "term": "Aliteración",
+          "definition": "fenómeno fónico por el que se repiten sonidos —aquí las letras *j* y *l*— en un verso. (p. 7)"
+        },
+        {
+          "term": "Caligrama",
+          "definition": "composición escrita cuya disposición dibuja la imagen de lo que el poema nombra. (p. 9)"
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "No es un estudio empírico con muestra e instrumentos psicométricos, sino una **propuesta didáctica** llevada a cabo en un contexto escolar con el fin de que el alumnado de EP desarrolle una buena competencia lectora, escritora y literaria del género poético (p. 1). El \"diseño\" se organiza en tres piezas. Primera, la **construcción del PL**: fijar objetivos (comprensión/memorización, ritmo/entonaci",
+      "detalles": [
+        {
+          "label": "Inicial (1º-2º)",
+          "value": "Villancicos, adivinanzas, pareados, poemas plásticos - Lorca; Méndez; Granados; Fuertes"
+        },
+        {
+          "label": "Medio (3º-4º)",
+          "value": "Cómicos, paralelísticos, paisajísticos, dialogados - Gil; Polo; Machado; Pérez"
+        },
+        {
+          "label": "Superior (5º-6º)",
+          "value": "Romances, narrativos, alegóricos - Conde Olinos; Alberti; Fuertes"
+        },
+        {
+          "label": "Tipo de poema",
+          "value": "Actividad propuesta - Recurso / ancla"
+        }
+      ],
+      "limitaciones": [
+        "**Los autores no declaran límites** metodológicos ni una sección de limitaciones. Se trata de una propuesta didáctica y no de un estudio con muestra probabilística, grupo de control o medición estanda"
+      ],
+      "reflexion": "Si tu centro quisiera replicar este PL, ¿qué evidencia mínima necesitarías recoger —más allá de las impresiones de clase— para saber si las secuencias mejoran de verdad la lectura rítmica y la comprensión, y no confundir entusiasmo con aprendizaje?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "La poesía es un género relegado pero de alto valor didáctico.",
+          "value": "El texto reivindica el género como \"clave en la educación literaria del público más joven\" (p. 3) y sostiene que, como lenguaje intensificado, contribuye al desarrollo lingüístico, estético y crítico. Se apoya en Sloan (1991), para quien la poesía \"es importante para el desarroll"
+        },
+        {
+          "label": "El currículo obliga a trabajarla, pero acotado por ciclos.",
+          "value": "El Bloque 3 de Educación Literaria exige fomentar la \"comprensión, memorización y recitado de poemas con el ritmo, la pronunciación y la entonación adecuados\" en el Primer y Segundo Ciclo (p. 4), y la \"lectura comentada\" con atención a \"las convenciones literarias (géneros, figur"
+        },
+        {
+          "label": "La selección de poemas responde a dos criterios básicos.",
+          "value": "Correspondencia entre el motivo del poema y las experiencias emocionales del estudiante; y calidad del poema con un nivel lingüístico \"adecuado para cada uno de los tres ciclos\" (p. 2)."
+        },
+        {
+          "label": "Cada ciclo recibe una tipología y una actividad propias.",
+          "value": "Ciclo Inicial: cantar, adivinar y dibujar (p. 5-6); Ciclo Medio: aliteración, retahílas y caligramas (p. 7-9); Ciclo Superior: romance octosílabo, diálogo dramático y figuras retóricas (p. 11-12). La tipología procede de Gómez Martín (1993), que los autores \"desarrollamos con otr"
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El marco del artículo se construye con autorías citadas por los propios autores. La reivindicación del género poético se apoya en Pérez Daza (2011), cuyo trabajo \"Posturas y estrategias sobre la poesía en el aula\" sostiene que la poesía fue olvidada al formar las competencias lectora, escrita y literaria de los jóvenes (p. 3). Para el valor lingüístico y estético, los autores recurren a Sloan (199",
+      "detalles": [
+        {
+          "label": "Pérez Daza (2011) (\"Posturas y estrategias sobre l",
+          "value": "Diagnóstico: género olvidado."
+        },
+        {
+          "label": "Sloan (1991) (*The child as critic*)",
+          "value": "Valor de la poesía para la lengua."
+        },
+        {
+          "label": "Mendoza (2001) (*El intertexto lector*)",
+          "value": "Desarrollo del intertexto literario."
+        },
+        {
+          "label": "Gómez Martín (1993) (*Didáctica de la poesía en la",
+          "value": "Tipología de poemas por temática."
+        }
+      ],
+      "reflexion": "Si un crítico te dijera que esta propuesta confunde \"actividad atractiva\" con \"aprendizaje demostrado\", ¿qué contra-argumento tomarías del propio texto —por ejemplo, los indicadores de la p. 13— y qué le faltaría añadir para cerrar esa brecha?"
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo diseñar y aplicar un Plan de Lectura de poesía en castellano para la Educación Primaria que desarrolle la competencia lectora, escritora y literaria en los tres ciclos, y cómo evaluar —mediante la lectura rítmica, la comprensión y la escritura poética— que ese trabajo funciona?",
+      "conclusion": "La propuesta se sostiene en tres objetivos secuenciados del currículo: comprensión y memorización del contenido; ritmo y entonación adecuados; y, en el Ciclo Superior, comentario de poemas atendiendo a su forma y estructura interna (p. 2). Sobre esa base, los autores organizan un corpus por tipologías y ciclos (villancicos y adivinanzas en el Inicial; cómicos, paralelísticos, paisajísticos y dialogados en el Medio; romances, narrativos y alegóric",
+      "formalRef": "Selfa, M. y Azevedo, F. (2013). Poesía en castellano para la Educación Primaria: Algunas secuencias prácticas de trabajo con textos poéticos. *Ocnos: Revista de Estudios sobre lectura*, 10, 55-69. https://doi.org/10.18239/ocnos_2013.10.03\n> *Nota*: el DOI procede del dato aportado y no aparece en el texto plano; el título, los autores, el volumen y las páginas sí se confirman en la p. 1 del txt. La autoría es de dos personas (no hay \"y cols.\" en el artículo)."
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "open",
+          "q": "**Diseña una micro-intervención de aula**, en 5 a 8 líneas, a partir de la secuencia de aliteración del Ciclo Medio: con \"Para ser una bruja\", de Carmen Gil, el alumnado busca la definición de *aliteración*, subraya las sílabas con *j* y *l* y recita \"en voz alta haciendo especial énfasis en estos sonidos\" (p. 7). Indica el curso, la consigna y cómo evaluarías la mejora en la discriminación auditiva del ritmo."
+        },
+        {
+          "type": "open",
+          "q": "**Conecta este artículo con otra práctica o texto de tu contexto.** ¿Con qué trabajo sobre lectura en voz alta, biblioteca escolar o creación poética dialoga? Explica qué tomarías del PL de Selfa y Azevedo y qué adaptarías, y señala al menos un punto en el que tu contexto difiera de la Escuela La Candela de Valls (p. 5)."
+        }
+      ]
+    }
+  }
+}

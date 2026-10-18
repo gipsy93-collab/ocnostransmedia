@@ -1,0 +1,412 @@
+{
+  "id": "booktubers_en_aula_critica_literaria_red",
+  "metadata": {
+    "title": "Booktubers en el aula: experiencias didácticas alrededor de las dinámicas de crítica literaria en red",
+    "authors": "María Isabel Morales-Sánchez, Juan Pedro Martín-Villarreal y Fátima Coca-Ramírez",
+    "year": "2021",
+    "journal": "Ocnos 20(2)",
+    "doi": "10.18239/ocnos_2021.20.2.2426",
+    "gancho": "¿Qué ocurre cuando 191 universitarios dejan de ser oyentes pasivos y se convierten en booktubers para explicar conceptos teóricos de Aristóteles a Bajtín?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#88b04b",
+    "colorAlt": "#264653",
+    "bg": "from-seaweed/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/booktuber-aula/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. María Isabel Morales-Sánchez, catedrática de Teoría de la Literatura",
+      "gancho": "¿Qué ocurre cuando 191 universitarios dejan de ser oyentes pasivos y se convierten en booktubers para explicar conceptos teóricos de Aristóteles a Bajtín?",
+      "contexto": "La Teoría de la Literatura suele percibirse como una disciplina abstracta y compleja en el primer curso universitario. A través de un proyecto de innovación docente en la Universidad de Cádiz, 191 alumnos produjeron 51 vídeos breves en formato booktuber para divulgar conceptos teóricos clave, combinando canon clásico y cultura pop.",
+      "deepDives": [
+        {
+          "id": "bk-au-ap-1",
+          "triggerLabel": "Proyecto INNOVA (Universidad de Cádiz)",
+          "type": "context",
+          "content": "Proyecto de innovación docente 'YouTube como herramienta de crítica literaria en el aula' (2019/20) implementado en seis grados humanísticos y filológicos."
+        },
+        {
+          "id": "bk-au-ap-2",
+          "triggerLabel": "Convergencia de medios de Jenkins",
+          "type": "theory",
+          "content": "Henry Jenkins (2008) anticipó la desaparición de jerarquías tradicionales en entornos digitales donde los prosumidores debaten y construyen saberes de manera colaborativa y horizontal."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "A pesar de ser etiquetados como nativos digitales, los estudiantes consumen habitualmente contenidos audiovisuales pero carecen de competencias reales para producir discursos orales argumentativos y rigurosos en red.",
+      "porQueImporta": "Transformar a los alumnos en creadores activos de contenidos permite superar la aversión hacia textos teóricos densos y democratiza la discusión crítica conectándola con su vida cotidiana.",
+      "dataPoints": [
+        "Participación de 191 de 241 matriculados (79%) organizados en equipos de 3 a 5 estudiantes.",
+        "Elaboración de 51 vídeos con una duración media de 4 minutos y 3 segundos que abordaron 24 conceptos teóricos."
+      ],
+      "glossary": [
+        {
+          "term": "Crítica literaria en red",
+          "definition": "Práctica dialógica y horizontal de valoración estética de obras entre iguales sin jerarquía institucional."
+        },
+        {
+          "term": "Ginocrítica",
+          "definition": "Enfoque de Elaine Showalter centrado en la historia, estilos, temas y estructuras de la escritura femenina."
+        },
+        {
+          "term": "Desautomatización",
+          "definition": "Concepto de Viktor Shklovski sobre hacer extraño lo cotidiano para renovar la percepción estética."
+        },
+        {
+          "term": "Horizonte de expectativas",
+          "definition": "Conjunto de convenciones culturales y literarias con las que un lector aborda una obra (Jauss)."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "bk-au-conf-1",
+          "triggerLabel": "El mito del nativo digital",
+          "type": "theory",
+          "content": "Siguiendo a Kirschner y Bruyckere (2017), el estudio denuncia que el uso recreativo de plataformas no garantiza habilidades de alfabetización digital académica ni solvencia comunicativa oral."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Secuencia didáctica en cuatro fases a lo largo de un cuatrimestre",
+      "narrativa": "La experiencia se estructuró durante cuatro meses: presentación de conceptos teóricos, diseño autónomo de planes de divulgación, grabación y edición audiovisual de vídeos, y retroalimentación entre pares con evaluación final.",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "191 estudiantes universitarios de 6 titulaciones filológicas (Universidad de Cádiz)."
+        },
+        {
+          "label": "Corpus creado",
+          "value": "51 vídeos divulgativos evaluados mediante rúbrica y encuesta de satisfacción (n=142)."
+        },
+        {
+          "label": "Duración vídeos",
+          "value": "4:03 minutos de media por pieza, publicados en foros virtuales cerrados de la asignatura."
+        },
+        {
+          "label": "Conceptos",
+          "value": "24 conceptos abordados con ejemplos desde Aristóteles y Bajtín hasta Harry Potter y Knives Out."
+        }
+      ],
+      "limitaciones": [
+        "Actividad opcional (ponderada en un 15% de la calificación) sin grupo de control experimental formal.",
+        "Falta de medición longitudinal para verificar la retención de los conceptos teóricos a largo plazo en cursos superiores."
+      ],
+      "reflexion": "¿Cómo evaluar el equilibrio entre la frescura divulgativa de YouTube y el rigor conceptual exigido en la universidad sin desalentar la creatividad del alumnado?",
+      "deepDives": [
+        {
+          "id": "bk-au-viaje-1",
+          "triggerLabel": "Modelos audiovisuales empleados",
+          "type": "method",
+          "content": "El 68.5% de los vídeos adoptó el formato clásico de videoblog con primer plano; el 23.5% utilizó software de animación (Animaker, Moovly) y el 7.8% recreó escenas teatrales o clases magistrales."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "La adopción del rol booktuber redujo drásticamente el fracaso académico (0% suspensos y 50.3% sobresalientes en la tarea), logrando que el 87.8% del alumnado considerase la práctica muy útil para comprender la teoría literaria.",
+      "evidenciaCualitativa": "Los vídeos demostraron una notable capacidad de hibridación cultural: el concepto de 'obra abierta' de Umberto Eco se ejemplificó con Rayuela y la película Knives Out, y la mímesis aristotélica con el mito creepypasta de Slenderman.",
+      "citaClave": "'Ser solo consumidor pasivo de vídeos no capacita para ser productor: producir crítica en red obliga a estructurar el pensamiento y transforma las nociones abstractas en aprendizajes significativos.'",
+      "implicacionesDocentes": [
+        "Incorporar tareas de producción audiovisual como estrategia activa para desmitificar asignaturas con alto contenido teórico.",
+        "Implementar fases obligatorias de corrección de guiones previos para evitar que los estudiantes confundan espontaneidad con lectura improvisada.",
+        "Estimular el uso de analogías contemporáneas para anclar conceptos canónicos en los intereses estéticos juveniles."
+      ],
+      "deepDives": [
+        {
+          "id": "bk-au-rev-1",
+          "triggerLabel": "La brecha consumo-producción",
+          "type": "data",
+          "content": "El 69.1% del alumnado consume habitualmente booktubers, pero solo un 25% se había planteado alguna vez producir contenido audiovisual, confirmando la pasividad estructural de partida."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Innovación docente universitaria, alfabetización multimodal y teoría literaria",
+      "tensiones": [
+        "Aversión tradicional al texto teórico árido vs. motivación intrínseca mediante lenguajes audiovisuales.",
+        "Rigor académico de la crítica culta vs. desacralización dialógica en redes sociales abiertas."
+      ],
+      "autoresClave": [
+        "Morales-Sánchez et al. (2021)",
+        "Jenkins (2008)",
+        "Carlino (2008)",
+        "Cassany (2012)",
+        "Kirschner & Bruyckere (2017)",
+        "Eco (1992)"
+      ],
+      "deepDives": [
+        {
+          "id": "bk-au-marco-1",
+          "triggerLabel": "Alfabetización académica según Carlino",
+          "type": "theory",
+          "content": "Paula Carlino (2008) sostiene que cada disciplina debe enseñar a sus alumnos a hablar, leer y escribir en sus propios códigos discursivos; el proyecto traslada esta premisa a la alfabetización mediática digital."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Puede la producción de vídeos booktuber mejorar la comprensión y discusión de la teoría literaria en las aulas universitarias?",
+      "conclusion": "Sí. Producir videocríticas invierte los roles formativos tradicionales, incrementa el rendimiento académico y permite al alumnado apropiarse significativamente de conceptos abstractos.",
+      "formalRef": "Morales-Sánchez, M. I., Martín-Villarreal, J. P., & Coca-Ramírez, F. (2021). Booktubers en el aula: experiencias didácticas alrededor de las dinámicas de crítica literaria en red. Ocnos, 20(2), 68-79. https://doi.org/10.18239/ocnos_2021.20.2.2426"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Teórica del Aula",
+        "descripcion": "Atrapa conceptos teóricos de Bajtín, Eco y Aristóteles mientras respondes preguntas sobre innovación docente.",
+        "instrucciones": "Recoge tokens de nociones literarias para desbloquear preguntas de la experiencia booktuber. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Teoría Literaria en YouTube",
+        "descripcion": "Comprueba tu asimilación de conceptos clave (ginocrítica, polifonía, mímesis) y su aplicación didáctica en vídeo.",
+        "instrucciones": "Acierta preguntas consecutivas para obtener combos y convertirte en el mejor booktuber académico."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide del Aprendizaje Crítico",
+        "descripcion": "Asciende desde el consumo pasivo de pantallas hasta la producción colaborativa de teoría literaria.",
+        "instrucciones": "Supera cada nivel respondiendo sobre las fases metodológicas y los resultados de la experiencia en Cádiz."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Booktubers en el aula: experiencias didácticas de crítica en red (Morales-Sánchez et al., 2021)",
+      "descripcion": "Proyecto de innovación docente en la Universidad de Cádiz: 191 estudiantes y 51 vídeos de teoría literaria, desmitificación del nativo digital, hibridación de canon y cultura pop, y superación del fracaso académico.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Desafíos didácticos en Teoría de la Literatura",
+          "color": "#88b04b",
+          "role": "Marco teórico",
+          "descripcion": "Dificultad recurrente del alumnado universitario de primer curso para asimilar conceptos teóricos abstractos y desinterés hacia los manuales tradicionales de crítica y poética."
+        },
+        {
+          "id": "2",
+          "label": "Convergencia mediática y cultura participativa",
+          "color": "#88b04b",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico de Henry Jenkins sobre plataformas de afinidad en red donde las fronteras entre creador y consumidor se disuelven mediante la producción colaborativa de saberes."
+        },
+        {
+          "id": "3",
+          "label": "Crítica al mito del nativo digital (Kirschner)",
+          "color": "#88b04b",
+          "role": "Marco teórico",
+          "descripcion": "Advertencia epistemológica de Kirschner y Bruyckere que constata que el uso habitual y recreativo de las redes sociales no confiere destrezas críticas ni comunicativas para el ámbito académico."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: evaluar la práctica booktuber como palanca teórica",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Analizar en qué medida el paso del consumo pasivo a la producción audiovisual en red capacita al alumnado para discutir y asentar con rigor contenidos teórico-literarios complejos."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: diagnosticar hábitos y percepciones del medio",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Conocer los patrones de consumo de crítica literaria en YouTube de los estudiantes, su valoración de la experiencia formativa y la autopercepción de su competencia comunicativa."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 191 estudiantes en 6 titulaciones filológicas",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Participación activa de 191 de 241 alumnos matriculados (79% de involucración) en el Grado de Filología Hispánica, Estudios Ingleses, Clásicas, Francés, Árabe y Lingüística."
+        },
+        {
+          "id": "7",
+          "label": "Secuencia didáctica cuatrimestral en 4 fases",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Organización en fases progresivas: discusión de 24 conceptos teóricos en clase, diseño de planes de divulgación con retroalimentación, grabación/edición de vídeos y coevaluación entre pares."
+        },
+        {
+          "id": "8",
+          "label": "Corpus de 51 vídeos breves (media 4:03 min)",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Producción grupal (3 a 5 miembros) de 51 piezas audiovisuales con duración media de 4 minutos y 3 segundos alojadas en el campus virtual de la Universidad de Cádiz."
+        },
+        {
+          "id": "9",
+          "label": "Éxito académico extraordinario (0% suspensos, 50.3% sobresalientes)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Los resultados de la actividad arrojaron un 0% de suspensos, un 7.3% de aprobados, 42.4% de notables y un rotundo 50.3% de sobresalientes (96 alumnos), elevando el rendimiento global."
+        },
+        {
+          "id": "10",
+          "label": "Formatos audiovisuales: predominio del videoblog (68.5%)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Fidelidad mayoritaria a la estética de primer plano del booktuber clásico (68.5%), acompañada de un 23.5% que recurrió a software de animación con avatares y un 7.8% a dramatizaciones."
+        },
+        {
+          "id": "11",
+          "label": "Hibridación conceptual: canon teórico y cultura popular",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Capacidad demostrada para ejemplificar conceptos áridos (ginocrítica, polifonía, obra abierta, mímesis) mediante textos clásicos y referentes juveniles contemporáneos como Harry Potter o Slenderman."
+        },
+        {
+          "id": "12",
+          "label": "Valoración entusiasta de utilidad formativa (87.8%)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El 87.8% de los 142 encuestados calificó la experiencia booktuber como útil o muy útil para afianzar los contenidos teóricos y mejorar su seguridad en la exposición pública."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: superación de la brecha consumo-producción",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "La experiencia evidencia que el mero consumo recreativo (69.1%) no genera competencias activas, requiriéndose la producción guiada para transformar la información en saber crítico."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: dificultad en la oralidad ensayada",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Detección de carencias en el discurso oral: tendencia de algunos grupos a leer maquinalmente textos redactados previamente y confusión entre espontaneidad y falta de preparación técnica."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: actividad opcional y sin control longitudinal",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "El diseño fue opcional ponderado al 15% sin grupo de control para contraste experimental, requiriendo estudios longitudinales sobre la transferencia a cursos superiores."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: inversión del rol discente en la universidad",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que las prácticas booktuber en el aula universitaria invierten eficazmente el rol del estudiante de receptor pasivo a productor activo, revitalizando la enseñanza literaria."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "plantea el reto formativo de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "proporciona el marco pedagógico para"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "justifica el diagnóstico de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se implementa con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se evalúa mediante encuesta en"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "participa activamente en la"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "culmina con la creación del"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "se traduce en un"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "se distribuye según"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "evidencia procesos de"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "recibe una"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "demuestra empíricamente la"
+        },
+        {
+          "from": "10",
+          "to": "14",
+          "label": "revela matices en la"
+        },
+        {
+          "from": "9",
+          "to": "16",
+          "label": "avala el valor de"
+        },
+        {
+          "from": "12",
+          "to": "16",
+          "label": "respalda las"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "sustenta la propuesta de"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "señala mejoras docentes para"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "acota las condiciones de"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "marca precauciones en las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "resuelve con éxito el problema de"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál fue una de las principales conclusiones pedagógicas del proyecto de innovación docente en Cádiz?",
+          "options": [
+            "Que la producción audiovisual sustituye por completo la necesidad de leer textos escritos.",
+            "Que el mero consumo pasivo de vídeos no capacita para ser productor crítico, requiriéndose la creación guiada para asimilar la teoría.",
+            "Que los estudiantes rechazaron unánimemente el formato booktuber por considerarlo infantil.",
+            "Que la duración de los vídeos debe superar siempre los 30 minutos académicos."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Si tuvieras que diseñar un proyecto similar en Secundaria o Bachillerato, ¿qué concepto de tu temario seleccionarías y qué ejemplos de la cultura pop actual propondrías a los estudiantes para ilustrarlo en un vídeo de 4 minutos?"
+        }
+      ]
+    }
+  }
+}

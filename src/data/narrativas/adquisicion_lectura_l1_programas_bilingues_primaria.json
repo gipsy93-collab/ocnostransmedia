@@ -1,0 +1,375 @@
+{
+  "id": "adquisicion_lectura_l1_programas_bilingues_primaria",
+  "metadata": {
+    "id": "adquisicion_lectura_l1_programas_bilingues_primaria",
+    "title": "Adquisición de la lectura en L1 en programas bilingües de Educación Primaria. Un estudio comparativo",
+    "authors": [
+      "Esther Nieto-Moreno-de-Diezmas"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "1",
+    "pages": "43-55",
+    "doi": "10.18239/ocnos_2018.17.1.1471",
+    "keywords": [
+      "programas bilingües",
+      "AICLE",
+      "competencia lectora L1",
+      "educación primaria",
+      "lectura en lengua materna"
+    ],
+    "abstract": "Estudio empírico cuasiexperimental comparativo con 316 alumnos de 2º y 3º de Primaria en Castilla-La Mancha que evalúa si la enseñanza de contenidos a través de una lengua extranjera (AICLE/CLIL en inglés) perjudica la adquisición y desarrollo de la competencia lectora en lengua materna (español). Concluye que no hay perjuicio en L1, registrando incluso ventajas en fluidez y comprensión lectora."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Afecta negativamente aprender ciencias o arte en inglés al aprendizaje y dominio de la lectura en español durante los primeros años de Educación Primaria? Uno de los mayores temores de familias y docentes ante los programas bilingües AICLE es el supuesto empobrecimiento de la lengua materna. Este estudio empírico con 316 escolares despeja la controversia con datos científicos.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis didáctico y lingüístico:",
+        "opciones": [
+          {
+            "id": "bilingue",
+            "texto": "Ruta sociolingüística: interdependencia lingüística de Cummins y enfoque AICLE"
+          },
+          {
+            "id": "evaluativa",
+            "texto": "Ruta psicométrica: pruebas estandarizadas de lectura PROLEC-R en lengua materna"
+          },
+          {
+            "id": "politica",
+            "texto": "Ruta de política escolar: gestión del bilingüismo y equidad en el aula pública"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "La expansión vertiginosa de las secciones y colegios bilingües en España generó un intenso debate social y pedagógico. Quienes se oponían argumentaban que recortar horas de instrucción en español en favor del inglés retrasaría el aprendizaje lectoescritor en L1 y provocaría confusión fonológica en los niños más pequeños.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué predice la hipótesis de la interdependencia lingüística de Jim Cummins?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Que las habilidades subyacentes de lectura y pensamiento desarrolladas en una lengua se transfieren positivamente y benefician el desarrollo de la otra.",
+            "correcta": true,
+            "explicacion": "Exacto: las habilidades académicas y de procesamiento metalingüístico forman un iceberg común con transferencia interlingüística bidireccional."
+          },
+          {
+            "id": "c2",
+            "texto": "Que el cerebro infantil tiene una capacidad rígida y cerrada, de modo que aprender una lengua resta espacio a la otra.",
+            "correcta": false,
+            "explicacion": "Esa visión de \"resta lingüística\" ha sido refutada extensamente por la neurociencia y la psicolingüística contemporánea."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "La investigadora comparó el rendimiento lector en español de 316 escolares de 2º y 3º de Educación Primaria en centros públicos de Castilla-La Mancha, divididos en un grupo experimental (programa bilingüe AICLE) y un grupo control (enseñanza ordinaria monolingüe). Aplicó la batería estandarizada PROLEC-R para medir precisión, velocidad, comprensión de oraciones y textos.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra comparada",
+            "detalle": "316 escolares de 2º y 3º de Primaria equiparados en contexto socioeducativo."
+          },
+          {
+            "fase": "Grupos AICLE vs Ordinario",
+            "detalle": "Contraste entre alumnos con más del 30% de currículo en inglés y alumnos en programa tradicional."
+          },
+          {
+            "fase": "Batería PROLEC-R",
+            "detalle": "Medición individualizada de lectura de palabras, pseudopalabras, sintaxis y comprensión textual en español."
+          },
+          {
+            "fase": "Análisis estadístico",
+            "detalle": "Pruebas t de Student y ANCOVA controlando variables contextuales previas."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados demostraron de forma contundente que el alumnado de programas bilingües no sufre ningún deterioro en la lectura en L1. Más aún, los estudiantes bilingües obtuvieron puntuaciones significativamente superiores en velocidad lectora y comprensión de textos en español frente al grupo monolingüe.",
+      "datos_clave": [
+        "Muestra de 316 alumnos de 2º y 3º de Primaria evaluados en lengua española.",
+        "Ausencia de efectos adversos en decodificación o comprensión de la lengua materna.",
+        "Rendimiento superior estadísticamente significativo (p < .05) en velocidad y comprensión global en L1.",
+        "Evidencia empírica en favor de una mayor conciencia metalingüística y flexibilidad cognitiva en niños bilingües."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El estudio se fundamenta en el principio de interdependencia lingüística de Cummins (1979, 1981), los principios metodológicos del enfoque AICLE/CLIL descritos por Coyle et al. (2010), y las investigaciones de Bialystok sobre plasticidad cognitiva.",
+      "referencias_clave": [
+        "Cummins (1979)",
+        "Coyle, Hood & Marsh (2010)",
+        "Bialystok (2001)",
+        "Nieto-Moreno-de-Diezmas (2018)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "Aprender mediante dos lenguas no debilita la lengua materna: la robustece. El plurilingüismo temprano enriquece el procesamiento metalingüístico general, permitiendo que las competencias de decodificación y comprensión se transfieran de manera armónica y ventajosa.",
+      "hallazgo_central": "La escolarización bilingüe AICLE en Primaria no merma las habilidades lectoras en lengua materna (español), sino que se asocia con ventajas en fluidez y comprensión textual."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos sociolingüísticos con su definición:",
+          "pares": [
+            {
+              "concepto": "Enfoque AICLE / CLIL",
+              "definicion": "Aprendizaje integrado de contenidos curriculares no lingüísticos a través de una lengua extranjera."
+            },
+            {
+              "concepto": "Interdependencia lingüística",
+              "definicion": "Competencia lingüística subyacente común que permite transferir habilidades cognitivas entre lenguas."
+            },
+            {
+              "concepto": "Batería PROLEC-R",
+              "definicion": "Herramienta diagnóstica estandarizada para evaluar procesos lectores iniciales en español."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Adquisición de la Lectura en L1 en Programas Bilingües de Primaria",
+      "descripcion": "Estudio empírico sobre el impacto del modelo bilingüe AICLE en el rendimiento lector en lengua española.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Lectura en L1 en Aulas Bilingües de Primaria",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo de la investigación: comprobar empíricamente si la enseñanza de contenidos a través de inglés en programas AICLE de Primaria menoscaba o beneficia la competencia lectora en lengua materna española."
+        },
+        {
+          "id": "2",
+          "label": "Polémica Social sobre el Bilingüismo",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Contexto de controversia pedagógica y social en España donde sectores críticos alertaban sobre el riesgo de semilingüismo o retraso lectoescritor en español debido a la reducción de horas lectivas en L1."
+        },
+        {
+          "id": "3",
+          "label": "Hipótesis de Interdependencia de Cummins",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico de Jim Cummins que postula una competencia subyacente común donde los procesos cognitivos y destrezas letradas adquiridas en una lengua se transfieren positivamente a la otra."
+        },
+        {
+          "id": "4",
+          "label": "Conciencia Metalingüística y Ventaja Cognitiva",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Evidencia sobre la estimulación de funciones ejecutivas y flexibilidad metalingüística superior en menores expuestos tempranamente a dos sistemas fonológicos y gramaticales según Bialystok."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Cuasiexperimental Comparativo",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico cuasiexperimental con grupo de control no equivalente y postest, controlando variables socioeducativas y contextuales para aislar el efecto atribuible al programa bilingüe."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 316 Alumnos de 2º y 3º de Primaria",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Muestra conformada por 316 estudiantes de segundo y tercer curso de Educación Primaria escolarizados en colegios públicos de la comunidad autónoma de Castilla-La Mancha."
+        },
+        {
+          "id": "7",
+          "label": "Grupo Experimental AICLE y Grupo Control",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Segmentación de la muestra entre estudiantes expuestos al programa bilingüe de contenidos integrados en inglés y estudiantes que seguían el currículo ordinario en modalidad monolingüe española."
+        },
+        {
+          "id": "8",
+          "label": "Batería Estandarizada PROLEC-R",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Aplicación individual de la batería PROLEC-R que evalúa procesos de decodificación léxica, procesamiento fonológico, estructuras sintácticas y niveles de comprensión textual en español."
+        },
+        {
+          "id": "9",
+          "label": "Inexistencia de Perjuicio en L1",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los resultados contrastados demostraron de forma contundente que los alumnos del programa bilingüe no sufren ningún déficit en precisión fonológica ni en decodificación léxica en español."
+        },
+        {
+          "id": "10",
+          "label": "Ventaja en Velocidad y Fluidez Lectora",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "El grupo experimental bilingüe alcanzó medias significativamente superiores en velocidad de lectura de palabras y textos en español en comparación directa con el grupo de control ordinario."
+        },
+        {
+          "id": "11",
+          "label": "Mayor Comprensión Textual en Español",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Puntuaciones estadísticamente superiores en tareas de comprensión lectora profunda e inferencial en lengua materna en los escolares del programa bilingüe durante el segundo ciclo inicial."
+        },
+        {
+          "id": "12",
+          "label": "Validación de la Transferencia Interlingüística",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión de hallazgos que confirma empíricamente la hipótesis del iceberg de Cummins: el esfuerzo cognitivo en L2 activa mecanismos profundos que optimizan el procesamiento textual en L1."
+        },
+        {
+          "id": "13",
+          "label": "Refutación de Temores Lingüísticos",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Desarticulación discursiva de los discursos catastrofistas sobre el empobrecimiento de la lengua materna, demostrando que la metodología bilingüe bien estructurada enriquece la escolarización."
+        },
+        {
+          "id": "14",
+          "label": "Sostenibilidad Curricular del Enfoque AICLE",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión que ratifica la viabilidad pedagógica y el beneficio cognitivo de los programas bilingües en Educación Primaria sin comprometer el dominio de la lengua vehicular autóctona."
+        },
+        {
+          "id": "15",
+          "label": "Formación Docente y Coordinación Metodológica",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación institucional orientada a reforzar la coordinación entre el profesorado de lengua castellana y el de secciones bilingües para maximizar las sinergias de aprendizaje letrado."
+        },
+        {
+          "id": "16",
+          "label": "Limitaciones de Asignación no Aleatoria",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite inherente al diseño cuasiexperimental de campo en centros reales, donde la asignación a los grupos no es plenamente aleatoria, demandando estudios longitudinales de seguimiento posterior."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "responde a"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se apoya en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se examina mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se complementa con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "selecciona"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "establece"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "evalúa mediante"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "evidencia"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "confirma"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "revela"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "demuestra"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "respalda"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "aporta evidencia a"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "permite refutar"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "conduce a"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "avala"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "orienta"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "conlleva"
+        },
+        {
+          "from": "7",
+          "to": "16",
+          "label": "presenta sesgos en"
+        },
+        {
+          "from": "4",
+          "to": "10",
+          "label": "explica teóricamente"
+        },
+        {
+          "from": "3",
+          "to": "11",
+          "label": "fundamenta"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Aprender una segunda lengua no divide la mente: la expande. La evidencia empírica demuestra con nitidez que los programas bilingües en Educación Primaria no merman la lectura en lengua española, sino que promueven destrezas de análisis y comprensión más ricas y veloces.",
+      "preguntas": [
+        "¿Se transmiten a las familias datos contrastados sobre las ventajas cognitivas del bilingüismo o prevalecen miedos infundados?",
+        "¿Cómo coordinan los centros educativos las metodologías de lectura en español y en lengua extranjera para potenciar su enriquecimiento mutuo?"
+      ]
+    }
+  }
+}

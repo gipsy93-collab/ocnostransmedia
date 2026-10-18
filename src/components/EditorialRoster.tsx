@@ -208,7 +208,8 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
       if (selectedIssue !== 'todos') {
         const targetIssue = OCNOS_ISSUES.find(i => i.id === selectedIssue);
         if (targetIssue) {
-          const matches = n.metadata.journal.includes(targetIssue.volume) && n.metadata.journal.includes(`(${targetIssue.number})`);
+          const journal = n.metadata?.journal || '';
+          const matches = journal.includes(targetIssue.volume) && journal.includes(`(${targetIssue.number})`);
           if (!matches) return false;
         }
       }
@@ -222,13 +223,14 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
       if (searchQuery.trim()) {
         const q = searchQuery.toLowerCase().trim();
         const npc = NPC_CLASSES[n.id];
-        const matchTitle = n.metadata.title.toLowerCase().includes(q);
-        const matchAuthors = n.metadata.authors.toLowerCase().includes(q);
-        const matchDoi = n.metadata.doi.toLowerCase().includes(q);
-        const matchJournal = n.metadata.journal.toLowerCase().includes(q);
+        const matchTitle = (n.metadata?.title || '').toLowerCase().includes(q);
+        const authorsStr = typeof n.metadata?.authors === 'string' ? n.metadata.authors : Array.isArray(n.metadata?.authors) ? (n.metadata.authors as string[]).join(' ') : '';
+        const matchAuthors = authorsStr.toLowerCase().includes(q);
+        const matchDoi = (n.metadata?.doi || '').toLowerCase().includes(q);
+        const matchJournal = (n.metadata?.journal || '').toLowerCase().includes(q);
         const matchRole = npc ? npc.role.toLowerCase().includes(q) : false;
         const matchTag = npc ? npc.tag.toLowerCase().includes(q) : false;
-        const matchGancho = n.metadata.gancho ? n.metadata.gancho.toLowerCase().includes(q) : false;
+        const matchGancho = n.metadata?.gancho ? n.metadata.gancho.toLowerCase().includes(q) : false;
         if (!matchTitle && !matchAuthors && !matchDoi && !matchJournal && !matchRole && !matchTag && !matchGancho) {
           return false;
         }
@@ -243,9 +245,10 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
     const groups: Array<{ issue: IssueGroup; items: Narrative[] }> = [];
     for (const issue of OCNOS_ISSUES) {
       if (selectedIssue !== 'todos' && issue.id !== selectedIssue) continue;
-      const items = filteredNarrativas.filter(n => 
-        n.metadata.journal.includes(issue.volume) && n.metadata.journal.includes(`(${issue.number})`)
-      );
+      const items = filteredNarrativas.filter(n => {
+        const journal = n.metadata?.journal || '';
+        return journal.includes(issue.volume) && journal.includes(`(${issue.number})`);
+      });
       if (items.length > 0) {
         groups.push({ issue, items });
       }
@@ -269,10 +272,10 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
     tag: "Ciencia Transmedia",
     icon: "🔬",
     statImpact: 90,
-    statRigor: 92
+    statRigor: 90,
   };
 
-  const cromoImage = `/assets/cromos/cromo-${(selectedIndex % 20) + 1}.png`;
+  const cromoImage = selectedNarrative.metadata?.image || `/assets/cromos/cromo-${(selectedIndex % 20) + 1}.png`;
 
   // Anunciar a lectores de pantalla cuando cambia de personaje
   const handleSelectCharacter = (index: number, announce: boolean = true) => {
@@ -292,7 +295,9 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
         return;
       }
     }
-    navigate('/interactivos', { state: { autoSelectId: idToOpen, targetBlock } });
+    const query = new URLSearchParams({ nar: idToOpen });
+    if (targetBlock) query.set('b', String(targetBlock));
+    navigate(`/interactivos?${query.toString()}`);
   };
 
   // Navegación rápida de personajes (Siguiente / Anterior)
@@ -435,7 +440,7 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
               </button>
               {OCNOS_ISSUES.map(issue => {
                 const isIssueActive = selectedIssue === issue.id;
-                const count = NARRATIVAS.filter(n => n.metadata.journal.includes(issue.volume) && n.metadata.journal.includes(`(${issue.number})`)).length;
+                const count = NARRATIVAS.filter(n => (n.metadata?.journal || '').includes(issue.volume) && (n.metadata?.journal || '').includes(`(${issue.number})`)).length;
                 return (
                   <button
                     key={issue.id}
@@ -564,7 +569,7 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
             {filteredNarrativas.map((item) => {
               const actualIdx = NARRATIVAS.findIndex(n => n.id === item.id);
               const isSelected = actualIdx === selectedIndex;
-              const miniCromo = `/assets/cromos/cromo-${(actualIdx % 20) + 1}.png`;
+              const miniCromo = item.metadata?.image || `/assets/cromos/cromo-${(actualIdx % 20) + 1}.png`;
 
               return (
                 <button
@@ -577,8 +582,8 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
                       : 'bg-white/10 text-white/90 border-white/10 hover:bg-white/15'
                   }`}
                 >
-                  <img src={miniCromo} alt="" className="w-6 h-6 object-contain" aria-hidden="true" />
-                  <span className="text-xs truncate max-w-[130px]">{item.metadata.authors.split(' ')[0]}</span>
+                  <img src={miniCromo} alt="" className="w-6 h-6 object-cover rounded-md" aria-hidden="true" />
+                  <span className="text-xs truncate max-w-[130px]">{typeof item.metadata?.authors === 'string' ? item.metadata.authors.split(' ')[0] : ''}</span>
                 </button>
               );
             })}
@@ -634,11 +639,11 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
                   className="relative my-6 rounded-2xl overflow-hidden bg-gradient-to-b from-surface-container to-surface-container-high p-2.5 border border-outline-variant/50 shadow-inner group cursor-pointer focus-visible:ring-4 focus-visible:ring-ocnos-cyan focus-visible:outline-none"
                   title="Haz clic para entrar a la narrativa"
                 >
-                  <div className="relative rounded-xl overflow-hidden aspect-[16/11] flex items-center justify-center bg-slate-100">
+                  <div className="relative rounded-xl overflow-hidden aspect-[16/11] flex items-center justify-center bg-[#fdfbf7]">
                     <motion.img
                       src={cromoImage}
                       alt={`Ilustración de la investigación ${selectedNarrative.metadata.title}`}
-                      className="w-full h-full object-contain filter drop-shadow-md group-hover:scale-105 transition-transform duration-500"
+                      className="w-full h-full object-cover filter drop-shadow-sm group-hover:scale-105 transition-transform duration-500"
                       animate={prefersReducedMotion ? {} : { 
                         y: [0, -4, 0],
                       }}
@@ -877,7 +882,7 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
                           statImpact: 90,
                           statRigor: 90
                         };
-                        const itemCromo = `/assets/cromos/cromo-${(actualIndex % 20) + 1}.png`;
+                        const itemCromo = item.metadata?.image || `/assets/cromos/cromo-${(actualIndex % 20) + 1}.png`;
                         const itemPlayable = isNarrativePlayable(item);
 
                         return (
@@ -936,12 +941,12 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
 
                             <div className="flex items-start gap-3">
                               {/* Miniatura de Cromo con indicador de portada */}
-                              <div className="relative w-14 h-14 sm:w-16 sm:h-16 shrink-0 rounded-xl bg-surface-container-low border border-outline-variant/40 overflow-hidden flex items-center justify-center p-1">
+                              <div className="relative w-14 h-14 sm:w-16 sm:h-16 shrink-0 rounded-xl bg-[#fdfbf7] border border-outline-variant/40 overflow-hidden flex items-center justify-center p-0.5">
                                 <img
                                   src={itemCromo}
                                   alt=""
                                   aria-hidden="true"
-                                  className="w-full h-full object-contain filter drop-shadow group-hover:scale-110 transition-transform duration-300"
+                                  className="w-full h-full object-cover rounded-lg filter drop-shadow-xs group-hover:scale-110 transition-transform duration-300"
                                   loading="lazy"
                                 />
                               </div>

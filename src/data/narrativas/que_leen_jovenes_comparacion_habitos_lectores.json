@@ -1,0 +1,151 @@
+{
+  "id": "que_leen_jovenes_comparacion_habitos_lectores",
+  "metadata": {
+    "title": "¿Qué leen los jóvenes? Una comparación de los hábitos lectores en Australia, Dinamarca, Inglaterra e Irlanda",
+    "authors": "Kimberly Reynolds. **",
+    "year": "2005",
+    "journal": "Ocnos. Revista de estudios sobre lectura, Vol. 1 (2005), pp. 87-107.",
+    "doi": "https://doi.org/10.18239/ocnos_2005.01.07",
+    "gancho": "Reynolds sintetiza cinco encuestas del NCRCL sobre hábitos lectores en Inglaterra y las compara con estudios de Australia, Dinamarca e Irlanda. El balance es claro: entre los jóvenes de esos cuatro países hay muchas más similitudes que diferencias, la lectura compite con múltiple",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#f4a261",
+    "bg": "from-amber-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-7.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-7.png",
+      "name": "Kimberly Reynolds. **",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Kimberly Reynolds. **, autor/a en Revista Ocnos",
+      "gancho": "Reynolds sintetiza cinco encuestas del NCRCL sobre hábitos lectores en Inglaterra y las compara con estudios de Australia, Dinamarca e Irlanda. El balance es claro: entre los jóvenes de esos cuatro pa",
+      "contexto": "Desde los años 70 no existía un estudio fiable a gran escala sobre lo que leían los jóvenes. Académicos y periodistas recurrían sistemáticamente al informe Whitehead de 1977, que subrayaba el \"abrumador sabor decimonónico\" de las lecturas infantiles: el libro más popular era *Mujercitas* de Louisa May Alcott, seguido de *Belleza negra*, *La isla del tesoro* y *El jardín secreto*. Ninguno de esos títulos aparecía como texto significativo en los es",
+      "deepDives": [
+        {
+          "id": "que_leen_jovenes_comparacion_habitos_lectores-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "El artículo parte de una carencia documental concreta: cuando la autora comenzó a investigar, los datos disponibles sobre hábitos lectores de la población juvenil eran obsoletos; resultaba más fácil obtener detalles sobre los niños del siglo XIX que sobre los del XX. Ante esa brecha, el Centro Nacio"
+        },
+        {
+          "id": "que_leen_jovenes_comparacion_habitos_lectores-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "Desde los años 70 no existía un estudio fiable a gran escala sobre lo que leían los jóvenes. Académicos y periodistas recurrían sistemáticamente al informe Whitehead de 1977, que subrayaba el \"abrumador sabor decimonónico\" de las lecturas infantiles: el libro más popular era *Mujercitas* de Louisa M"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El artículo parte de una carencia documental concreta: cuando la autora comenzó a investigar, los datos disponibles sobre hábitos lectores de la población juvenil eran obsoletos; resultaba más fácil obtener detalles sobre los niños del siglo XIX que sobre los del XX. Ante esa brecha, el Centro Nacional de Investigación de Literatura Infantil (NCRCL",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "1994: proyecto piloto.",
+        "1996: primer estudio completo (*Young People's Reading at the End of the Century*).",
+        "1999: estudios focalizados sobre necesidades especiales y sobre minorías étnicas.",
+        "2001: nuevo proyecto piloto para probar software electrónico y la administración del cuestionario central."
+      ],
+      "glossary": [
+        {
+          "term": "NCRCL",
+          "definition": "Centro Nacional de Investigación de Literatura Infantil del Reino Unido, fundado en 1991."
+        },
+        {
+          "term": "Book droppers",
+          "definition": "término danés que designa a quienes abandonan la lectura por el camino."
+        },
+        {
+          "term": "Key Stage",
+          "definition": "etapa educativa inglesa; la muestra del NCRCL cubrió las cuatro (4-16 años)."
+        },
+        {
+          "term": "Lectura recreativa",
+          "definition": "lectura por placer, distinta de la escolar y ligada a tiempo y espacio propios."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Se trata de un artículo de síntesis comparada: la autora no ejecuta un experimento nuevo, sino que pone en diálogo seis encuestas ya realizadas en cuatro países, seleccionadas por ofrecer datos recientes y de un mismo periodo temporal. La tabla siguiente resume el corpus:\n\n| País | Estudio (año) | Muestra |\n| --- | --- | --- |\n| Australia | *Young Australians Reading* (2002) | 801 encuestados de 1",
+      "detalles": [
+        {
+          "label": "Australia",
+          "value": "*Young Australians Reading* (2002) - 801 encuestados de 10-18 años"
+        },
+        {
+          "label": "Australia",
+          "value": "*An Investigation of Young People's Reading in South Australia* (2001) - 357 estudiantes de 5-17 años"
+        },
+        {
+          "label": "Dinamarca",
+          "value": "*Børn læser bøger* (Children Read Books, 2000) - 901 niños de 9-12 años"
+        },
+        {
+          "label": "Dinamarca",
+          "value": "*Den dyrbare tid* (The Precious Time, 2001) - 417 jóvenes de 14-15 años"
+        }
+      ],
+      "limitaciones": [
+        "La autora declara abiertamente que el primer plan quinquenal fracasó por demoras en la concesión de fondos, aunque después se retomó. Reconoce que la escala de los estudios de Londres y Oxford (2000-2"
+      ],
+      "reflexion": "Si tuvieras que replicar esta comparación en tu contexto, ¿qué preguntas del cuestionario conservarías para que los datos fueran comparables y cuáles añadirías para captar prácticas digitales actuales?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "Hallazgo principal",
+          "value": "Evidencias y resultados derivados del corpus analizado."
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El artículo se sitúa en el cruce entre la historia de la infancia, la literatura infantil y el estudio de los hábitos lectores. La propia autora se define como historiadora de la infancia y de la literatura infantil, y advierte que ese campo, en el momento del texto, \"no tiene límites y tolera pocas especializaciones\". La noción de lectura que sostiene el trabajo es funcional y amplia: leer incluy",
+      "detalles": [
+        {
+          "label": "Tradición Teórica",
+          "value": "Teorías de la lectura, didáctica de la lengua y estudios literarios."
+        }
+      ],
+      "reflexion": "¿Qué aporta tratar el humor y la lectura compartida como categorías conceptuales —y no solo como preferencias— frente al contra-argumento de que la escuela debe priorizar el realismo y la novela-problema?"
+    },
+    "nucleo": {
+      "pregunta": "¿Qué tienen en común —y qué distancia a los jóvenes lectores de Australia, Dinamarca, Inglaterra e Irlanda, y por qué la lectura tiende a perderse con la edad?",
+      "conclusion": "Los seis estudios muestran que los jóvenes valoran la lectura: la mayoría se siente lectores competentes y lee con regularidad, pero reconoce hacerlo con menos frecuencia que cuando era más joven. La tendencia a convertirse en *book droppers* podría invertirse si los jóvenes tuvieran:\n\n- Más tiempo libre para leer.\n- Más momentos relajados (\"cosy\") para compartir libros.\n- Acceso a una amplia oferta de textos divertidos.\n\nLa principal lección es ",
+      "formalRef": "Reynolds, K. (2005). ¿Qué leen los jóvenes? Una comparación de los hábitos lectores en Australia, Dinamarca, Inglaterra e Irlanda [*What are they reading? A comparison of the reading habits of young people in Australia, Denmark, England and Ireland*]. *Ocnos. Revista de estudios sobre lectura*, (1), 87-107. https://doi.org/10.18239/ocnos_2005.01.07"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "- A) Los de 9 años leen \"rara vez\" (65%) y los de 12, \"a menudo\" (45%).",
+          "options": [
+            "B) Los de 9 años leen \"a menudo\" (65%) y a los 12 aumentan tanto quienes leen \"a menudo\" (45%) como quienes leen \"rara vez\" (31%).",
+            "C) No hay diferencias de frecuencia entre los 9 y los 12 años.",
+            "D) Las chicas leen menos que los chicos a todas las edades."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "- A) Entrevistas presenciales a 250 alumnos de Londres y Oxford.",
+          "options": [
+            "B) Cuestionarios a 2.114 alumnos irlandeses de 7 a 16 años.",
+            "C) Cuestionarios anónimos a casi 9.000 jóvenes de Inglaterra, cubriendo las cuatro Key Stages.",
+            "D) Observación de aula en Dinamarca a 417 jóvenes de 14 y 15 años."
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  }
+}

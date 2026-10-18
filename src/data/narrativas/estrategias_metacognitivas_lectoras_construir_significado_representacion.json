@@ -1,0 +1,378 @@
+{
+  "id": "estrategias_metacognitivas_lectoras_construir_significado_representacion",
+  "metadata": {
+    "id": "estrategias_metacognitivas_lectoras_construir_significado_representacion",
+    "title": "Estrategias metacognitivas lectoras para construir el significado y la representación de los textos escritos",
+    "authors": [
+      "Aníbal Puente",
+      "Michelle Mendoza-Lira",
+      "Juan-Felipe Calderón",
+      "Carolina Zúñiga"
+    ],
+    "year": 2019,
+    "volume": "18",
+    "issue": "1",
+    "pages": "21-30",
+    "doi": "10.18239/ocnos_2019.18.1.1781",
+    "keywords": [
+      "estrategias metacognitivas",
+      "comprensión lectora",
+      "niveles de representación",
+      "modelo de situación",
+      "evaluación PISA"
+    ],
+    "abstract": "Revisión teórica exhaustiva que recorre los niveles de representación mental (base de texto y modelo de situación) y perfila las estrategias metacognitivas requeridas para construir el significado global de los textos escritos en el marco PISA."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Por qué la decodificación mecánica es insuficiente para garantizar la comprensión lectora profunda? Este artículo sintetiza las bases de la psicología cognitiva contemporánea para delimitar cómo los lectores competentes activan estrategias metacognitivas y construyen representaciones semánticas estructuradas.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la aproximación conceptual para profundizar en la arquitectura lectora:",
+        "opciones": [
+          {
+            "id": "cognitiva",
+            "texto": "Niveles de representación mental: de las proposiciones al modelo de situación"
+          },
+          {
+            "id": "metacognitiva",
+            "texto": "Supervisión y control consciente de la comprensión: estrategias metacognitivas"
+          },
+          {
+            "id": "evaluativa",
+            "texto": "Implicaciones para la didáctica escolar y el marco competencial PISA"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Durante décadas predominó la concepción mecanicista de que enseñar a descifrar letras conducía de forma automática a comprender textos. El choque con la realidad escolar demostró que muchos estudiantes decodifican con precisión pero son completamente incapaces de inferir significados globales ni resolver ambigüedades.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cuál es la función nuclear de las macrorreglas en el modelo de Kintsch y Van Dijk?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Reducir la multiplicidad de proposiciones locales mediante supresión, generalización e integración para erigir la macroestructura.",
+            "correcta": true,
+            "explicacion": "Exacto: las macrorreglas filtran la información accidental y sintetizan las proposiciones en núcleos temáticos coherentes."
+          },
+          {
+            "id": "c2",
+            "texto": "Memorizar literalmente cada frase para asegurar una reproducción exacta del texto base.",
+            "correcta": false,
+            "explicacion": "La memorización literal se queda en la microestructura sin alcanzar la macroestructura ni el modelo situacional."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los autores trazan una genealogía teórica desde los modelos seminales de procesamiento de información de los años setenta hasta los marcos contemporáneos de lectura en pantallas. Describen la microestructura, macroestructura y modelo de situación, distinguiendo al lector ingenuo del lector autorregulado.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Decodificación vs Comprensión",
+            "detalle": "Crítica al mito de la comprensión automática derivada de la mera precisión léxica."
+          },
+          {
+            "fase": "Niveles representacionales",
+            "detalle": "Diferenciación entre el texto superficial, la base textual proposicional y el modelo de situación episódico."
+          },
+          {
+            "fase": "Regulación metacognitiva",
+            "detalle": "Procesos de planificación, autoobservación, detección de fallos y corrección estratégica."
+          },
+          {
+            "fase": "Marco PISA y entornos digitales",
+            "detalle": "Actualización competencial: navegación no lineal, evaluación de fuentes e integración multifuente."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Comprender no consiste en absorber un contenido implícito en el papel, sino en una actividad constructiva donde el lector elabora un modelo mental propio integrando el texto con sus conocimientos previos mediante un monitoreo metacognitivo constante.",
+      "datos_clave": [
+        "La decodificación fluida es condición necesaria pero no suficiente para la comprensión.",
+        "El modelo de situación es la única representación que permite transferir aprendizajes a contextos nuevos.",
+        "Los lectores expertos regulan activamente su ritmo y reparan fallos de coherencia.",
+        "PISA 2018 sitúa la evaluación reflexiva de textos como eje central del siglo XXI."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo estructura su revisión en los modelos clásicos de Kintsch y Van Dijk (1978, 1983), la teoría de Perfetti sobre eficiencia léxica y las directrices evaluativas de la OCDE (PISA 2018).",
+      "referencias_clave": [
+        "Kintsch & Van Dijk (1978)",
+        "Perfetti (2007)",
+        "Mendoza (2008)",
+        "OCDE (2018)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "La enseñanza de la lectura en las escuelas debe transitar urgentemente desde el adiestramiento decodificador hacia el entrenamiento explícito de estrategias metacognitivas de supervisión, resumen y modelado situacional.",
+      "hallazgo_central": "La verdadera competencia lectora radica en la capacidad metacognitiva de construir, evaluar y reparar activamente el modelo de situación del texto escrito."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja el nivel de representación con su naturaleza operativa:",
+          "pares": [
+            {
+              "concepto": "Base de texto",
+              "definicion": "Red proposicional que capta el significado literal e inferencial directo."
+            },
+            {
+              "concepto": "Modelo de situación",
+              "definicion": "Representación mental integrada en memoria episódica con los conocimientos previos."
+            },
+            {
+              "concepto": "Monitoreo metacognitivo",
+              "definicion": "Supervisión en línea que detecta incoherencias y activa maniobras de relectura."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Estrategias Metacognitivas y Niveles de Representación Textual",
+      "descripcion": "Estructura teórica de la comprensión lectora como procesamiento cognitivo multinivel regulado por la metacognición.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Comprensión y Metacognición Lectora",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo fundamental: desentrañar y sistematizar teóricamente los niveles de representación mental y las estrategias metacognitivas que capacitan al lector para construir el significado profundo de los textos escritos."
+        },
+        {
+          "id": "2",
+          "label": "Insuficiencia de la Decodificación",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Fundamento teórico que desmantela el supuesto tradicional de que el dominio fonológico y la precisión léxica conllevan automáticamente la comprensión, demostrando la necesidad de destrezas cognitivas de orden superior."
+        },
+        {
+          "id": "3",
+          "label": "Modelo Kintsch y Van Dijk",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Paradigma seminal de procesamiento discursivo que postula la coexistencia estructurada de tres niveles representacionales: código de superficie formal, base de texto proposicional y modelo de situación mental."
+        },
+        {
+          "id": "4",
+          "label": "Microestructura y Macroestructura",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Componentes de la base textual organizados jerárquicamente donde las proposiciones locales lineales se integran mediante macrorreglas de supresión y generalización en un significado global coherente."
+        },
+        {
+          "id": "5",
+          "label": "Modelo de Situación Episódico",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Nivel más profundo de comprensión mental almacenado en la memoria episódica del individuo, resultante de la fusión dialéctica entre la información textual explícita y los esquemas de conocimiento previo."
+        },
+        {
+          "id": "6",
+          "label": "Revisión Teórico-Conceptual",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Metodología documental basada en el rastreo analítico y síntesis comparativa de la literatura científica internacional sobre psicología cognitiva de la lectura, procesamiento de discurso y evaluación educativa."
+        },
+        {
+          "id": "7",
+          "label": "Marco Competencial PISA",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Referente evaluativo de la OCDE que define la competencia lectora contemporánea no como mero desciframiento, sino como la capacidad de usar, reflexionar, evaluar y comprometerse críticamente con textos diversos."
+        },
+        {
+          "id": "8",
+          "label": "Perfil del Lector Ingenuo",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Caracterización del estudiante que permanece estancado en la decodificación superficial pasiva, carece de metas de lectura claras y es incapaz de identificar rupturas de coherencia o lagunas de comprensión."
+        },
+        {
+          "id": "9",
+          "label": "Perfil del Lector Competente",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Descripción del sujeto lector activo que autoobserva su rendimiento, modula conscientemente la velocidad de lectura según la dificultad textual y aplica estrategias deliberadas de reparación de sentido."
+        },
+        {
+          "id": "10",
+          "label": "Regulación y Monitoreo Metacognitivo",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Mecanismo ejecutivo central integrado por la planificación de la lectura, la supervisión en línea de la coherencia semántica y el despliegue flexible de tácticas compensatorias ante fallos de comprensión."
+        },
+        {
+          "id": "11",
+          "label": "Lectura en Entornos Digitales",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión sobre la mutación de los procesos cognitivos lectores en soportes electrónicos no lineales, demandando navegación hipertextual crítica y discriminación de la fiabilidad de múltiples fuentes online."
+        },
+        {
+          "id": "12",
+          "label": "Desajuste de Textos Escolares",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Problematización didáctica sobre materiales curriculares escolares estructurados con exigencias lingüísticas inadecuadas que provocan frustración o aburrimiento al distanciar al lector de su zona de desarrollo."
+        },
+        {
+          "id": "13",
+          "label": "Instrucción Estratégica Explícita",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión imperativa: la didáctica de la lengua debe enseñar de forma directa, modelada y progresiva el uso de estrategias metacognitivas para asegurar que todos los alumnos alcancen el modelo de situación."
+        },
+        {
+          "id": "14",
+          "label": "Formación Docente en Psicología Cognitiva",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación formativa esencial orientada a dotar al profesorado de herramientas teóricas sólidas sobre arquitectura de la lectura para erradicar enfoques mecánicos simplistas de alfabetización."
+        },
+        {
+          "id": "15",
+          "label": "Lectura Crítica como Herramienta Vital",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Proyección final: consolidar la lectura profunda como vehículo de pensamiento autónomo, alfabetización informacional indispensable y ejercicio de ciudadanía crítica en la sociedad del conocimiento."
+        },
+        {
+          "id": "16",
+          "label": "Ausencia de Datos Empíricos Propios",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación intrínseca al tratarse de un ensayo y revisión teórica de síntesis, lo cual demanda contrastar sus proposiciones mediante investigaciones cuasi-experimentales de aula en contextos hispanohablantes."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "parte de constatar la"
+        },
+        {
+          "from": "1",
+          "to": "6",
+          "label": "se ejecuta mediante"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se supera con el"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se desglosa en"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "culmina en el"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "integra el"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "permite contrastar al"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "permite caracterizar al"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "se contrapone diametralmente al"
+        },
+        {
+          "from": "9",
+          "to": "10",
+          "label": "se distingue por la"
+        },
+        {
+          "from": "5",
+          "to": "10",
+          "label": "es edificado mediante"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "se proyecta en la"
+        },
+        {
+          "from": "10",
+          "to": "11",
+          "label": "resulta decisivo en la"
+        },
+        {
+          "from": "2",
+          "to": "12",
+          "label": "se agrava ante el"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "fundamenta la"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "exige urgente"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "conduce hacia la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "presenta como condición de borde"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "queda acotada por la"
+        },
+        {
+          "from": "5",
+          "to": "15",
+          "label": "garantiza el logro de"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "posibilita el desarrollo de"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "El trabajo de Puente, Mendoza-Lira, Calderón y Zúñiga esclarece que decodificar letras es abrir la puerta de una biblioteca, pero solo la regulación metacognitiva permite habitarla y dialogar con sus ideas.",
+      "preguntas_guiadas": [
+        "¿Qué rutinas de pensamiento utilizas para comprobar que realmente has entendido un texto expositivo complejo?",
+        "¿Cómo pueden los docentes estructurar actividades de lectura que hagan visibles las estrategias de autorregulación de los alumnos?"
+      ]
+    }
+  }
+}

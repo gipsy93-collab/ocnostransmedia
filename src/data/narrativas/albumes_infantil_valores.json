@@ -2,7 +2,7 @@
   "id": "albumes_infantil_valores",
   "metadata": {
     "title": "Trabajar con álbumes ilustrados en Educación Infantil y educar en valores",
-    "authors": "Esther Trigo-Ibáñez, Inmaculada Clotilde Santos-Díaz y Hugo Heredia-Ponce",
+    "authors": "Raquel Gutiérrez García y Carmen Álvarez-Álvarez",
     "year": "2025",
     "journal": "Ocnos 24(2)",
     "doi": "10.18239/ocnos_2025.24.2.564",
@@ -12,41 +12,41 @@
     "color": "#f4d068",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-400/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-18.png",
+    "image": "/assets/portadas/albumes_infantil_valores.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-18.png",
-      "name": "Dra. Esther Trigo-Ibáñez",
-      "role": "Investigadora en Didáctica de la Lengua y Literatura Infantil, Universidad de Cádiz"
+      "name": "Dra. Carmen Álvarez-Álvarez",
+      "role": "Investigadora en Didáctica de la Lengua y la Literatura, Universidad de Cantabria"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Esther Trigo-Ibáñez, especialista en álbum ilustrado y educación en valores prosociales",
-      "gancho": "¿Cómo enseñamos empatía, respeto a la diversidad y ecología a niños de 4 años antes de que aprendan a leer letras?",
-      "contexto": "El álbum ilustrado es una forma artística singular donde texto e imagen dialogan de manera interdependiente. En la etapa de Educación Infantil (3 a 6 años), cuando la lectura autónoma aún no ha comenzado, el álbum es la principal puerta de entrada al pensamiento simbólico y moral. Esta investigación analizó las prácticas y concepciones de 151 maestras de Educación Infantil en España para averiguar qué valores priorizan en el aula y cómo median la lectura de imágenes.",
+      "personaje": "Dra. Carmen Álvarez-Álvarez, especialista en álbum ilustrado y educación en valores",
+      "gancho": "¿Cómo enseñamos diversidad, convivencia e igualdad a niños de 4 años antes de que aprendan a leer letras?",
+      "contexto": "El álbum ilustrado es una obra artístico-literaria singular donde texto e imagen dialogan de manera complementaria. En la etapa de Educación Infantil (3 a 6 años), cuando la lectura autónoma aún no ha comenzado, el álbum es una vía privilegiada para acercar a los niños a la literatura y educar en valores. Esta investigación cualitativa entrevistó en profundidad a 22 docentes de Educación Infantil en Cantabria para conocer cómo usan los álbumes en su día a día y cómo abordan la educación en valores.",
       "deepDives": [
         {
           "id": "alb-apertura-1",
           "triggerLabel": "La interdependencia semiótica del álbum",
           "type": "theory",
-          "content": "Nikolajeva y Scott (2001) señalan que en el álbum ilustrado la imagen no decora: aporta información que contradice, expande o matiza el texto verbal."
+          "content": "Martín-Rogero y Villalba-Salvador (2020) y Borda-Crespo (2024) describen el álbum como una obra artístico-literaria narrada con un armónico doble lenguaje: texto e imágenes complementarias."
         },
         {
           "id": "alb-apertura-2",
-          "triggerLabel": "Muestra de 151 docentes en activo",
+          "triggerLabel": "Muestra de 22 docentes en activo",
           "type": "data",
-          "content": "151 maestras de Infantil evaluadas mediante cuestionarios validados y análisis de corpus de libros utilizados en sus aulas."
+          "content": "22 docentes de Educación Infantil de centros públicos y concertados de Cantabria, entrevistados en profundidad mediante una entrevista semiestructurada."
         }
       ]
     },
     "conflicto": {
-      "problema": "Muchos colegios utilizan el álbum con un enfoque moralizante plano ('este cuento es para no morder'), perdiendo su valor literario, artístico y filosófico.",
+      "problema": "Muchos colegios utilizan el álbum con un enfoque moralizante plano, perdiendo su valor literario, artístico y filosófico.",
       "porQueImporta": "Educar en valores desde la literatura exige suscitar preguntas éticas complejas, no adoctrinar con moralejas simplistas.",
       "dataPoints": [
-        "Estudio con 151 maestras de Educación Infantil.",
-        "Valores más trabajados: empatía (84%), respeto a la diversidad (79%) y resolución pacífica de conflictos (76%).",
-        "Déficit detectado: escaso trabajo de la alfabetización visual crítica (encuadres, paleta cromática, texturas).",
-        "Predominio de títulos comerciales contemporáneos frente a fondos de clásicos ilustrados universales."
+        "Estudio cualitativo con 22 docentes de Educación Infantil en Cantabria.",
+        "Valores priorizados en el estudio: diversidad cultural, convivencia e igualdad.",
+        "Todos los docentes usan el álbum y lo consideran un material fundamental en la etapa.",
+        "Amplio corpus de títulos citados organizados por temáticas: amistad, emociones, diversidad, igualdad y trabajo en equipo."
       ],
       "glossary": [
         {
@@ -54,96 +54,96 @@
           "definition": "Género editorial infantil caracterizado por la integración indisoluble de código lingüístico y visual para construir la narrativa."
         },
         {
-          "term": "Educación en valores prosociales",
-          "definition": "Formación de actitudes de solidaridad, empatía, cuidado mutuo y justicia social a través de la mediación educativa."
+          "term": "Educación en valores",
+          "definition": "Formación de actitudes cívicas (diversidad cultural, convivencia e igualdad) a través de la mediación educativa con álbumes ilustrados."
         }
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Encuesta analítica y análisis de corpus bibliográfico",
-      "narrativa": "Las investigadoras aplicaron un cuestionario con escalas Likert y preguntas abiertas sobre frecuencia, selección de títulos y dinámicas de mediación lectora.",
+      "titulo": "Ruta metodológica: Entrevistas semiestructuradas y análisis de contenido",
+      "narrativa": "Las investigadoras diseñaron una entrevista semiestructurada con 13 preguntas y realizaron entrevistas en profundidad a 22 docentes, grabadas, transcritas y organizadas en una matriz de análisis de contenido.",
       "detalles": [
         {
           "label": "Población",
-          "value": "151 maestras de Educación Infantil en centros públicos y concertados."
+          "value": "22 docentes de Educación Infantil de centros públicos y concertados de Cantabria."
         },
         {
           "label": "Análisis",
-          "value": "Estadística descriptiva, análisis inferencial chi-cuadrado y categorización temática de corpus."
+          "value": "Análisis de contenido de las respuestas, agrupadas por categorías temáticas (Ruslin et al., 2022)."
         }
       ],
       "limitaciones": [
-        "Muestra compuesta predominantemente por maestras de Andalucía y Comunidad Valenciana."
+        "Estudio exploratorio con 22 docentes de una sola comunidad autónoma (Cantabria)."
       ],
       "reflexion": "Mirar una ilustración junto a un niño es enseñarle a descifrar la belleza y el dolor del mundo."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: Mucho corazón, pero poca alfabetización visual",
-      "narrativa": "Los resultados mostraron un gran compromiso docente acompañado de necesidades formativas:",
+      "titulo": "Hallazgos empíricos: Todos usan el álbum para educar en valores",
+      "narrativa": "Los resultados mostraron un gran compromiso docente con el álbum y la educación en valores:",
       "hallazgos": [
         {
-          "label": "1. Compromiso Ético Firme",
-          "value": "Las maestras consideran el álbum como el recurso número uno para crear convivencia y clima de aula positivo."
+          "label": "1. Uso prioritario",
+          "value": "Todos los entrevistados usan el álbum y lo consideran un material fundamental en la etapa de Educación Infantil."
         },
         {
-          "label": "2. Ceguera de la Gramática Visual",
-          "value": "La mayoría no enseña a leer los códigos de la ilustración (colores fríos/cálidos, metáforas visuales), centrándose solo en la moraleja textual."
+          "label": "2. Educar en valores",
+          "value": "La mayoría usa el álbum con la intención expresa de educar en valores, abordando diversidad cultural, convivencia e igualdad."
         }
       ],
       "dataPoints": [
-        "El 91% de las maestras realiza lectura compartida de álbumes a diario.",
-        "Solo el 18% declara haber recibido formación específica en álbum ilustrado en la universidad."
+        "Todos los entrevistados afirman leer al menos un álbum al día en el aula.",
+        "Los docentes citan decenas de títulos organizados por temáticas (amistad, emociones, diversidad, igualdad y trabajo en equipo)."
       ],
-      "reflexion": "No basta con que el libro tenga un buen mensaje: debe ser una obra de arte que eduque la mirada."
+      "reflexion": "No basta con que el libro tenga un buen mensaje: debe ser una obra que eduque la mirada."
     },
     "marco": {
       "titulo": "Discusión: Formar la mirada estética en el Grado de Infantil",
-      "narrativa": "Trigo-Ibáñez y sus coautores reclaman mayor presencia del arte ilustrado en los planes universitarios:",
+      "narrativa": "Gutiérrez-García y Álvarez-Álvarez reclaman mayor presencia del álbum ilustrado y de la reflexión en los planes universitarios:",
       "detalles": [
         {
-          "label": "Más Allá de la Moraleja",
-          "value": "El álbum debe plantear dilemas éticos abiertos que estimulen la deliberación infantil (filosofía para niños)."
+          "label": "Tertulias tras la lectura",
+          "value": "Crear tertulias después de leer para comentar las historias y las situaciones vividas semejantes."
         }
       ],
       "reflexion": "Un buen álbum ilustrado no cierra el debate con una lección: lo abre de par en par."
     },
     "nucleo": {
       "pregunta": "¿Cómo utilizan las maestras de Educación Infantil los álbumes ilustrados para educar en valores y qué concepciones sostienen?",
-      "conclusion": "La investigación con 151 maestras de Infantil confirma que el álbum ilustrado es el recurso vertebral para educar en empatía, diversidad y resolución de conflictos. Sin embargo, se detecta una brecha formativa: se prioriza el mensaje moral sobre la educación artística y visual. Se urge a capacitar al profesorado en semiótica de la imagen para desplegar toda la potencia humanista y estética del álbum.",
-      "formalRef": "Trigo-Ibáñez, E., Santos-Díaz, I. C., & Heredia-Ponce, H. (2025). Trabajar con álbumes ilustrados en Educación Infantil y educar en valores. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.564"
+      "conclusion": "La investigación con 22 docentes de Infantil de Cantabria confirma que el álbum ilustrado es un recurso polivalente, relevante y necesario, válido para educar en diversidad, convivencia e igualdad. Todos los entrevistados lo usan a diario y leen en asamblea mostrando las imágenes. El estudio deja un corpus de lecturas útil y proyecta estudios etnográficos que escuchen la voz del alumnado.",
+      "formalRef": "Gutiérrez-García, R., & Álvarez-Álvarez, C. (2025). Trabajar con álbumes ilustrados en Educación Infantil y educar en valores. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.564"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué valores prosociales destacaron como los más trabajados a través del álbum ilustrado en las aulas de Infantil?",
+          "q": "¿Qué instrumento emplearon las investigadoras para recoger la información de los docentes?",
           "options": [
-            "La competitividad individual y el ahorro financiero.",
-            "La empatía, el respeto a la diversidad y la resolución pacífica de conflictos.",
-            "La obediencia militar estricta.",
-            "El silencio absoluto en clase."
+            "Una entrevista semiestructurada en profundidad.",
+            "Un cuestionario con escalas Likert.",
+            "Un test psicométrico estandarizado.",
+            "Una encuesta telefónica cerrada."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué valores priorizó el estudio en el trabajo con álbumes ilustrados?",
+          "options": [
+            "El ahorro financiero y la competitividad.",
+            "La diversidad cultural, la convivencia y la igualdad.",
+            "La obediencia y el silencio en clase.",
+            "La memorización de listas de vocabulario."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué carencia formativa identificaron los autores en la mediación con álbumes que realizan las docentes?",
+          "q": "¿Cuántos docentes de Educación Infantil participaron en el estudio?",
           "options": [
-            "Que no leen en voz alta.",
-            "Una escasa alfabetización visual crítica: se centran en la moraleja y desaprovechan los códigos plásticos y narrativos de la ilustración.",
-            "Que no compran libros.",
-            "Que prefieren poner películas de televisión."
-          ],
-          "correct": 1
-        },
-        {
-          "type": "choice",
-          "q": "¿Qué porcentaje de las 151 maestras encuestadas afirmó realizar lectura compartida de álbumes a diario?",
-          "options": [
-            "Menos del 5 %.",
-            "Más del 90 % (el 91 %).",
-            "Exactamente la mitad.",
-            "Ninguna maestra leía cuentos."
+            "Cien maestras.",
+            "22 docentes de centros de Cantabria.",
+            "507 estudiantes.",
+            "Ocho directores."
           ],
           "correct": 1
         },
@@ -168,11 +168,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "151 maestras de Infantil en España nos cuentan cómo seleccionan y median los cuentos cada mañana.",
+      "text": "22 docentes de Infantil en Cantabria nos cuentan cómo seleccionan y leen los álbumes cada mañana.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Hay muchísima vocación y empatía! Pero falta enseñar a leer los colores, los encuadres y el lenguaje del ilustrador.",
+      "text": "¡Todos usan el álbum cada día y lo consideran un material fundamental para educar en valores!",
       "position": "bottom-right"
     },
     "marco": {
@@ -184,119 +184,224 @@
       "position": "bottom-right"
     },
     "mapa": {
-      "text": "Explora el mapa para ver cómo interactúan el álbum ilustrado, los valores prosociales, la empatía y la alfabetización visual.",
+      "text": "Explora el mapa para ver cómo el álbum ilustrado educa en diversidad, convivencia e igualdad en el aula de Infantil.",
       "position": "bottom-right"
     },
     "reflexion": {
-      "text": "Comprueba lo aprendido y planifica mediaciones estéticas y profundas para los más pequeños.",
+      "text": "Comprueba lo aprendido y planifica mediaciones ricas y profundas para los más pequeños.",
       "position": "bottom-right"
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Álbum Ilustrado y Educación en Valores en Infantil",
-    "descripcion": "Estudio con 151 docentes: valores prosociales, empatía, interdependencia texto-imagen, alfabetización visual y superación de moralejas planas.",
+    "titulo": "Mapa conceptual: Álbumes ilustrados y valores en Educación Infantil (Ocnos 24(2), 2025)",
+    "descripcion": "Recorrido desde el álbum como doble lenguaje texto-imagen y los antecedentes de educación en valores, hasta el estudio cualitativo con 22 entrevistas a docentes de Cantabria, sus prácticas de lectura, corpus de títulos y las líneas futuras etnográficas propuestas.",
     "nodos": [
       {
         "id": "1",
-        "label": "Álbum Ilustrado en Infantil",
-        "color": "#f4d068"
+        "label": "Doble lenguaje texto-imagen",
+        "color": "#f4d068",
+        "role": "Marco teórico",
+        "descripcion": "Obra artístico-literaria que narra con texto e imágenes complementarias (Martín-Rogero y Villalba-Salvador, 2020; Borda-Crespo, 2024). Conecta ficción y mundo real (Strouse et al., 2018) y permite trabajar lectura y alfabetización visual simultáneamente en quienes aún no leen (Borda, 2018; Hoster-Cabo y Gómez-Camacho, 2013)."
       },
       {
         "id": "2",
-        "label": "Valores Prosociales (Empatía)",
-        "color": "#2a5a75"
+        "label": "Diversidad, convivencia e igualdad",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "El estudio prioriza tres valores: diversidad cultural, convivencia e igualdad, necesarios ante el aumento de inmigración, acoso y discriminación (Heinsbergen, 2013; Hortigüela-Alcalá y Hernando-Garijo, 2018). Los mediadores adultos deben analizar los álbumes para no transmitir estereotipos hegemónicos de género, etnia o discapacidad."
       },
       {
         "id": "3",
-        "label": "Respeto a la Diversidad",
-        "color": "#88b04b"
+        "label": "Antecedentes de álbumes y valores",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Hoster-Cabo (2007) seleccionó 66 títulos y propuso debates tras la lectura; García y Rodríguez (2014) mostraron que los valores aumentan con la edad; Encabo-Fernández et al. (2012) trabajaron la interculturalidad con seis libros. Díaz-Seoane et al. (2021) analizaron Monstruo rosa y Beacon (2021) Me and You de Anthony Browne desde la perspectiva de género."
       },
       {
         "id": "4",
-        "label": "Interdependencia Semiótica",
-        "color": "#5b9eaa"
+        "label": "Objetivo: práctica docente y valores",
+        "color": "#9b82c3",
+        "role": "Objetivo",
+        "descripcion": "Conocer cómo los docentes de Educación Infantil trabajan cotidianamente con álbumes ilustrados y cómo abordan la educación en valores. Objetivos específicos: diseñar una entrevista semiestructurada y conocer qué títulos usan, con qué fines, dinámicas, posibilidades y dificultades."
       },
       {
         "id": "5",
-        "label": "Alfabetización Visual Crítica",
-        "color": "#9b82c3"
+        "label": "Cualitativo: 22 entrevistas en Cantabria",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Método cualitativo con entrevistas semiestructuradas a 22 docentes en ejercicio de centros públicos y concertados de Cantabria, reclutados por bola de nieve buscando variedad de edad, sexo y centro. Contó con consentimiento informado, grabación, transcripción y aval del Comité de Ética de la Universidad."
       },
       {
         "id": "6",
-        "label": "Riesgo de Moraleja Simplista",
-        "color": "#e76f51"
+        "label": "Trece categorías de análisis",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Guion con 13 preguntas y 13 categorías (uso, formato, fines, satisfacción, forma de leer, valores, títulos destacados, actividades, posibilidades, dificultades) que luego se agruparon en 11. La información se organizó en tablas Excel y se analizó por análisis de contenido (Ruslin et al., 2022) con seudónimos como Maestra1,41-50P."
       },
       {
         "id": "7",
-        "label": "Estudio 151 Maestras",
-        "color": "#264653"
+        "label": "Uso diario priorizando el papel",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Todos los entrevistados usan el álbum y lo consideran material prioritario: «todos los días les leo al menos un álbum» (Maestra5). Usan papel y digital, priorizando el papel; algunos rechazan el formato digital. Se lee para preceder aprendizajes, gestionar conflictos y emociones, aunque dos lo usan sobre todo para el disfrute."
       },
       {
         "id": "8",
-        "label": "Lectura Compartida Diaria (91%)",
-        "color": "#2a9d8f"
+        "label": "Lectura en asamblea dramatizada",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "La mayoría lee en asamblea, mostrando portada e imágenes, señalando el texto con el dedo y teatralizando con gestos y voces. Hay ritos del cuento (vela, campana, canción), primeros lectores que leen una cara cada uno en 5 años, y quien se sorpresa con la historia a la vez que los niños o busca un momento de intimidad afectiva."
       },
       {
         "id": "9",
-        "label": "Filosofía para Niños (Dilemas)",
-        "color": "#c73e1d"
+        "label": "Valores explícitos e implícitos",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "La mayor parte usa los álbumes con el objetivo expreso de educar en valores: «es más fácil aproximarles a un valor a través de una historia» (Maestra18). Dos participantes no lo hacen así, aunque reconocen valores implícitos: «muy pocas veces el álbum queda al servicio del valor» (Maestro13). Un colaborador sostiene que importa más cómo lo cuenta el maestro que el contenido."
       },
       {
         "id": "10",
-        "label": "Experiencia Estética y Ética",
-        "color": "#f4a261"
+        "label": "Corpus de títulos destacados",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Los docentes citaron numerous títulos organizados en tablas temáticas: amistad y convivencia (El pez arcoíris, Nos tratamos bien, Orejas de mariposa), emociones (El monstruo de colores, Así es mi corazón), diversidad cultural (Monstruo rosa, El cazo de Lorenzo, Por cuatro esquinitas de nada), igualdad (Rosa Caramelo, ¡Vivan las uñas de colores!) y trabajo en equipo (¿A qué sabe la luna?)."
+      },
+      {
+        "id": "11",
+        "label": "Actividades antes, durante y después",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Antes: descripción de portada, hipótesis sobre la historia y canción inicial. Durante: el maestro ejerce de modelo lector cuidando entonación y pausas. Después: tertulias, verificación de hipótesis, dibujo, dramatización y reescritura de finales, vinculando la ficción con conflictos reales del aula: «¿te acuerdas del día que leímos el cuento?» (Maestra1)."
+      },
+      {
+        "id": "12",
+        "label": "Posibilidades amplias, pocas dificultades",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Todos ven infinidad de posibilidades: pictogramas, lectoescritura, identificación de emociones, creatividad y «vuelta a la calma», con uso diario sistemático. La mayoría no halla dificultades; quienes sí mencionan grupos numerosos, diferencia de niveles y NEE, y cuentos impuestos que no gustan a la propia persona docente."
+      },
+      {
+        "id": "13",
+        "label": "Recurso polivalente y necesario",
+        "color": "#f4d068",
+        "role": "Conclusiones",
+        "descripcion": "El álbum ilustrado resulta recurso polivalente, relevante, necesario y actual, válido para convivencia, diversidad e igualdad, con un doble objetivo: educar en valores mientras se desarrollan otros aprendizajes. El estudio deja un corpus de lecturas útil para docentes experimentados o noveles."
+      },
+      {
+        "id": "14",
+        "label": "Etnografía y observación futuras",
+        "color": "#5b9eaa",
+        "role": "Discusión",
+        "descripcion": "Las autoras proponen observar aulas y realizar estudios etnográficos que escuchen la voz del alumnado para verificar cómo se produce la educación en valores e identificar valores hegemónicos y estereotipos transmitidos (Heinsbergen, 2013; Koss, 2015), así como recabar la visión de los estudiantes."
+      },
+      {
+        "id": "15",
+        "label": "Estudio exploratorio a replicar",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "Se trata de un estudio exploratorio con 22 docentes de una sola comunidad autónoma. Sería deseable replicarlo en contextos nacionales e internacionales con más participantes y técnicas cualitativas y cuantitativas, y estudiar temas específicos como la lectura digital de álbumes."
       }
     ],
     "aristas": [
       {
-        "from": "7",
-        "to": "1",
-        "label": "analiza la práctica con el"
-      },
-      {
-        "from": "1",
-        "to": "2",
-        "label": "se utiliza prioritariamente para educar en"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "promueve de forma sobresaliente el"
-      },
-      {
         "from": "1",
         "to": "4",
-        "label": "se estructura mediante la"
+        "label": "motiva el"
       },
       {
-        "from": "7",
+        "from": "2",
+        "to": "3",
+        "label": "ha sido trabajado en los"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "fundamenta el"
+      },
+      {
+        "from": "4",
         "to": "5",
-        "label": "detecta carencias formativas en"
+        "label": "se abordó mediante el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se organizó con"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "reveló el"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "describió la"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "documentó la tensión entre"
       },
       {
         "from": "6",
         "to": "10",
-        "label": "amenaza y empobrece la"
+        "label": "compiló el"
+      },
+      {
+        "from": "6",
+        "to": "11",
+        "label": "sistematizó las"
+      },
+      {
+        "from": "6",
+        "to": "12",
+        "label": "contrastó las"
       },
       {
         "from": "7",
-        "to": "8",
-        "label": "evidencia una altísima tasa de"
+        "to": "9",
+        "label": "se instrumenta a menudo en"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "se complementa con las"
       },
       {
         "from": "9",
-        "to": "1",
-        "label": "plantea dilemas morales a través del"
+        "to": "13",
+        "label": "respalda la valoración del álbum como"
       },
       {
         "from": "10",
-        "to": "2",
-        "label": "fundamenta con hondura los"
+        "to": "13",
+        "label": "sustenta el"
       },
       {
-        "from": "5",
+        "from": "12",
+        "to": "13",
+        "label": "muestra escasos obstáculos para el"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "demanda"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "nace de un"
+      },
+      {
+        "from": "2",
         "to": "10",
-        "label": "despliega plenamente la"
+        "label": "organiza temáticamente el"
+      },
+      {
+        "from": "1",
+        "to": "8",
+        "label": "exige en el aula la"
       }
     ]
   }

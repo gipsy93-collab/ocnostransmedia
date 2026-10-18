@@ -9,6 +9,49 @@ Si no hay contexto de articulo, presentate: "Hola, soy Ocnos, puedo ayudarte a e
 Cuando recomiendes un articulo, incluye SIEMPRE al final el DOI como URL simple en una linea aparte, ej: "https://doi.org/10.18239/ocnos_2023.22.2.342". No uses formato markdown.
 Si el contexto incluye articulos especificos, responde con sus datos concretos.`;
 
+const API_KEYS = [process.env.GEMINI_API_KEY, process.env.GEMINI_API_KEY_FALLBACK]
+  .map(k => (k || '').trim())
+  .filter(Boolean);
+
+function describeGeminiError(error: unknown) {
+  const raw = String((error as { message?: string })?.message || error || '');
+  const code = Number((error as { status?: number })?.status) || undefined;
+
+  if (code === 403 || /reported as leaked/i.test(raw)) {
+    return { status: 503, message: 'El asistente esta temporalmente fuera de servicio por una credencial de API. Intenta de nuevo mas tarde.', detail: 'API key reported as leaked (revocada por Google).' };
+  }
+  if (code === 401 || /API key not valid|API_KEY_INVALID|UNAUTHENTICATED/i.test(raw)) {
+    return { status: 503, message: 'El asistente esta temporalmente fuera de servicio por una credencial de API. Intenta de nuevo mas tarde.', detail: 'API key invalida o no autenticada.' };
+  }
+  if (code === 429 || /RESOURCE_EXHAUSTED|quota/i.test(raw)) {
+    return { status: 429, message: 'Se alcanzo el limite de consultas del asistente por ahora. Espera un momento e intentalo de nuevo.', detail: 'Cuota agotada (429).' };
+  }
+  return { status: 500, message: 'No pude procesar tu pregunta. Intenta de nuevo.', detail: raw };
+}
+
+async function generateWithFallback(request: Parameters<GoogleGenAI['models']['generateContent']>[0]) {
+  if (API_KEYS.length === 0) {
+    const err = new Error('GEMINI_API_KEY not configured') as Error & { status?: number };
+    err.status = 500;
+    throw err;
+  }
+
+  let lastError: unknown;
+  for (const apiKey of API_KEYS) {
+    const ai = new GoogleGenAI({ apiKey });
+    try {
+      return await ai.models.generateContent(request);
+    } catch (error) {
+      lastError = error;
+      const code = Number((error as { status?: number })?.status);
+      const recoverable = code === 403 || code === 401 || code === 429 || code >= 500;
+      if (!recoverable || apiKey === API_KEYS[API_KEYS.length - 1]) throw error;
+      console.warn(`Gemini fallo (${code || 'sin codigo'}), probando clave de respaldo...`);
+    }
+  }
+  throw lastError;
+}
+
 function loadArticles() {
   const agenteDir = path.join(process.cwd(), 'api', 'content');
   if (!fs.existsSync(agenteDir)) return [];
@@ -62,9 +105,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return res.status(400).json({ error: 'message is required' });
   }
 
-  const apiKey = process.env.GEMINI_API_KEY;
-  if (!apiKey) {
-    return res.status(500).json({ error: 'GEMINI_API_KEY not configured' });
+  if (API_KEYS.length === 0) {
+    return res.status(500).json({ error: 'El asistente no esta disponible en este momento.' });
   }
 
   const articles = loadArticles();
@@ -72,11 +114,13 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   try {
     let contextForAI = '';
     let detectedArticle: { id: string; title: string } | null = null;
+    let hasArticleContext = false;
 
     if (articleId) {
       const article = articles.find(a => a.id === articleId);
       if (article) {
         contextForAI = article.context;
+        hasArticleContext = true;
         detectedArticle = { id: article.id, title: article.title };
       }
     }
@@ -85,6 +129,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       const mentioned = detectArticleMention(message, articles);
       if (mentioned && mentioned.context) {
         contextForAI = mentioned.context;
+        hasArticleContext = true;
         detectedArticle = { id: mentioned.id, title: mentioned.title };
       }
     }
@@ -102,17 +147,15 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       }
     }
 
-    const ai = new GoogleGenAI({ apiKey });
-
     const historyText = conversationHistory && conversationHistory.length > 0
       ? `Historial: ${conversationHistory.slice(-3).map((m: { role: string; text: string }) => `${m.role}: ${m.text}`).join(' | ')}\n`
       : '';
 
-    const fullPrompt = detectedArticle?.context
+    const fullPrompt = hasArticleContext && detectedArticle
       ? `${historyText}Contexto del articulo "${detectedArticle.title}":\n${contextForAI}\nUsuario: ${message}`
       : `${historyText}Contexto:\n${contextForAI}\nUsuario: ${message}`;
 
-    const response = await ai.models.generateContent({
+    const response = await generateWithFallback({
       model: 'gemini-2.5-flash',
       contents: fullPrompt,
       config: {
@@ -126,8 +169,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
     return res.status(200).json({ reply, detectedArticle });
   } catch (error) {
-    console.error('Gemini API error:', error);
-    const msg = error instanceof Error ? error.message : 'Error desconocido';
-    return res.status(500).json({ error: msg });
+    const { status, message, detail } = describeGeminiError(error);
+    console.error(`Gemini API error (${status}):`, detail);
+    return res.status(status).json({ error: message });
   }
 }

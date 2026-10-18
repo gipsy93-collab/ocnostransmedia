@@ -12,9 +12,9 @@
     "color": "#e88b8c",
     "colorAlt": "#2a5a75",
     "bg": "from-rose-500/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-2.png",
+    "image": "/assets/portadas/lectura_resistente.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-2.png",
+      "image": "/assets/portadas/lectura_resistente.jpg",
       "name": "Dr. Jordi Serrano-Muñoz",
       "role": "Investigador en Literatura y Perspectiva de Género, Ghent University / UOC"
     }
@@ -44,9 +44,9 @@
       "porQueImporta": "La literatura moldea el imaginario colectivo. Si los graduados no saben decodificar violencias sutiles, las perpetuarán en las aulas de secundaria.",
       "dataPoints": [
         "Estudio longitudinal pre y post-test en literatura contemporánea.",
-        "Aumento significativo en acceso a recursos sobre violencia de género (p < .01).",
+        "Aumento significativo en acceso a recursos sobre violencia de género (+22% global).",
         "Mayor salto relativo en los estudiantes varones, corrigiendo el déficit inicial.",
-        "Las tareas colaborativas fueron valoradas como las más innovadoras (85%), y las individuales como las más útiles para el análisis profundo."
+        "Las tareas colaborativas fueron valoradas como las más innovadoras, y las individuales como las más útiles para el análisis profundo."
       ],
       "glossary": [
         {
@@ -73,7 +73,7 @@
         },
         {
           "label": "Instrumentos",
-          "value": "Cuestionarios pre y post-test con escalas Likert y preguntas abiertas."
+          "value": "Cuestionarios pre y post-test con escalas Likert de 7 niveles, ítems cerrados Sí/No y ejercicios de ordenación del 1 al 4."
         }
       ],
       "limitaciones": [
@@ -96,8 +96,8 @@
         }
       ],
       "dataPoints": [
-        "El 92% de los participantes afirmó que la guía transformó su forma de abordar cualquier lectura futura.",
-        "Aumento significativo en la identificación de violencias psicológicas y simbólicas."
+        "El 92% de los participantes afirmó haber tenido acceso a materiales sobre violencias machistas tras cursar la asignatura (+22%).",
+        "Aumento significativo en la identificación de violencias simbólicas e institucionales."
       ],
       "reflexion": "Hacer lectura resistente no es destruir el clásico: es hacerle las preguntas difíciles que nadie se atrevió a formular."
     },
@@ -202,110 +202,217 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Fomento de la Lectura Resistente Universitaria",
-    "descripcion": "Estrategias de innovación docente, perspectiva de género, análisis de violencias machistas en la literatura y diseño pre-post.",
+    "titulo": "Mapa conceptual: La lectura resistente en el aula universitaria (Ocnos 25(1) 2026)",
+    "descripcion": "Recorrido desde el concepto de lectura resistente de Fetterley y su mirada interseccional hasta la evaluación longitudinal con pre/post-test de la Guía 'Literatura y violencias machistas' en la UOC, pasando por los aumentos de acceso, conceptos y capacidades, la valoración de los ejercicios de innovación docente, las conclusiones curriculares y sus limitaciones.",
     "nodos": [
       {
         "id": "1",
-        "label": "Lectura Resistente",
-        "color": "#e88b8c"
+        "label": "Lectura Resistente (Fetterley, 1978)",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Exhorta a abandonar ideas preconcebidas y patrones de lectura androcéntricos reproducidos acríticamente. Pena (2019) la vincula al empoderamiento lector de quienes fueron educadas para identificarse con el punto de vista masculino."
       },
       {
         "id": "2",
-        "label": "Judith Fetterley (1978)",
-        "color": "#2a5a75"
+        "label": "Perspectiva Interseccional (Crenshaw, 1991)",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Atiende el entrelazamiento del género con el origen, el estatus económico y social y el capital cultural y lingüístico. Integrada en la lectura resistente, convierte el texto literario en escuela de vida para la igualdad."
       },
       {
         "id": "3",
-        "label": "Guía Docente Universitaria",
-        "color": "#5b9eaa"
+        "label": "Perspectiva de Género y #MeToo",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Su doble impulso favoreció la investigación sobre la representación literaria de la violencia machista (Brewster y Kossew, 2019; Holland y Hewett, 2021; Tamas, 2023, sobre textos canónicos). El artículo se alinea con las propuestas de la ONU para erradicar la cultura de la violación."
       },
       {
         "id": "4",
-        "label": "Violencias Machistas en la Ficción",
-        "color": "#c73e1d"
+        "label": "Pedagogías Feministas de los Cuidados",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Desde el curso 2020-21 se promovieron cuatro iniciativas (Narratives of Violence, la Guía, el portal Lecturas resistentes y la innovación docente) para convertir el aula en espacio de cuidados y liberación (Wilkinson, 2025)."
       },
       {
         "id": "5",
-        "label": "Evaluación Pre y Post-Test",
-        "color": "#9b82c3"
+        "label": "Guía: Literatura y Violencias Machistas",
+        "color": "#f4a261",
+        "role": "Método",
+        "descripcion": "Recurso de acceso abierto (Iribarren et al., 2023) con marco teórico, metodología hermenéutica, propuestas de innovación, glosario y corpus. Su aplicación en la asignatura Temas de literatura contemporánea de la UOC constituye la intervención evaluada."
       },
       {
         "id": "6",
-        "label": "Impacto en Alumnado Masculino",
-        "color": "#88b04b"
+        "label": "Objetivo: Impacto de Materiales Didácticos",
+        "color": "#e76f51",
+        "role": "Objetivo",
+        "descripcion": "Objetivo principal: medir el impacto de la Guía en la identificación de violencias machistas en textos literarios; secundario: medir originalidad y utilidad de los ejercicios de innovación basados en la colaboración, con sus hipótesis correspondientes."
       },
       {
         "id": "7",
-        "label": "Tareas Colaborativas vs. Individuales",
-        "color": "#f4d068"
+        "label": "Diseño Longitudinal con Pre/Post-Test",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Diseño selectivo no probabilístico de corte longitudinal (Ato et al., 2013), con encuestas Google Forms entre febrero y marzo de 2024 y en junio de 2024, estructurando la macroestructura en cuatro etapas según Meza y González (2020)."
       },
       {
         "id": "8",
-        "label": "Superación de la Censura",
-        "color": "#2a9d8f"
+        "label": "Muestra de Estudiantes de la UOC",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "Muestra potencial de 84 matriculados en 2023-24; participaron 78 en la primera encuesta (margen de error 2.98%) y 67 en la segunda (5.98%), con perfil diverso en origen, edad y condición socioeconómica por ser una universidad en línea."
       },
       {
         "id": "9",
-        "label": "Canon Literario Crítico",
-        "color": "#264653"
+        "label": "Alfa de Cronbach de 0.87",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Coeficiente que valida la cohesión interna del instrumento. Las encuestas combinan escalas Likert de 7 niveles con ítems cerrados sobre conceptos (interseccionalidad, mansplaining, purplewashing) y tipos de violencia (física, psicológica, simbólica, institucional)."
       },
       {
         "id": "10",
-        "label": "Competencias Éticas y Cívicas",
-        "color": "#f4a261"
+        "label": "Acceso Subió del 70.5% al 92%",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "El acceso previo a materiales sobre violencias machistas era del 69% en mujeres y solo del 37.5% en hombres; tras la asignatura alcanzó el 93% y el 90%, con una variación masculina del +53% que revela el efecto nivelador de la Guía."
+      },
+      {
+        "id": "11",
+        "label": "Mayor Conocimiento de Conceptos Clave",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "La lectura resistente pasó del 15.5% al 73% (+57%) y la interseccionalidad del 70.5% al 100% (+30%); la violencia simbólica subió del 65% al 98% (100% en hombres), mientras física y psicológica no mostraron cambios por su conocimiento previo."
+      },
+      {
+        "id": "12",
+        "label": "Autopercepción de Capacidades en Alza",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "La prueba t mostró diferencias significativas en el conocimiento autopercibido (de M=4.88 a M=5.82; t(161)=5.35; p<.001; d de Cohen 0.85). La seguridad para detectar violencias en la literatura creció +0.90 en total y +1.09 en los hombres."
+      },
+      {
+        "id": "13",
+        "label": "Cuatro Ejercicios de Innovación Docente",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Se evaluaron dietario de lectura, ensayo por fases, debate síncrono y revisión por pares. La revisión por pares fue percibida como la más innovadora, mientras el dietario resultó el más útil para identificar violencias (1.78/4) y la revisión el menos (3.06/4)."
+      },
+      {
+        "id": "14",
+        "label": "Innovador no Equivale a Más Útil",
+        "color": "#c73e1d",
+        "role": "Discusión",
+        "descripcion": "Las actividades colaborativas y socializadoras se ven como más originales y se alinean con las directrices de la ONU y el aula como espacio de cuidados (Wilkinson, 2025), pero los ejercicios individuales resultan más útiles para detectar violencias en la literatura."
+      },
+      {
+        "id": "15",
+        "label": "Conclusiones para el Diseño Curricular",
+        "color": "#2a5a75",
+        "role": "Conclusiones",
+        "descripcion": "Incorporar materiales sobre violencias machistas incrementa la conciencia de género, el dominio de conceptos y las competencias analíticas, con especial efecto en el alumnado masculino. Los hallazgos orientan futuras decisiones curriculares y estrategias pedagógicas en Educación Superior."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones y Falta de Control",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "La normativa de la universidad impidió crear un grupo de control, compensado con el estudio previo (Iribarren et al., 2024). La muestra pequeña, el autorreporte y el criterio acotado de utilidad limitan la generalización; se sugiere el pre-test retrospectivo (Rockwell y Kohn, 1989)."
       }
     ],
     "aristas": [
       {
-        "from": "2",
-        "to": "1",
-        "label": "fundamenta teóricamente la"
-      },
-      {
         "from": "3",
         "to": "1",
-        "label": "instrumenta en el aula la"
+        "label": "impulsó la aplicación didáctica de la"
       },
       {
         "from": "1",
-        "to": "4",
-        "label": "desenmascara y analiza las"
+        "to": "2",
+        "label": "se profundiza con la"
       },
       {
-        "from": "5",
-        "to": "3",
-        "label": "evalúa la efectividad de la"
-      },
-      {
-        "from": "5",
+        "from": "4",
         "to": "6",
-        "label": "evidencia un avance clave en el"
+        "label": "enmarca el"
       },
       {
-        "from": "3",
+        "from": "6",
+        "to": "5",
+        "label": "se operacionaliza mediante la"
+      },
+      {
+        "from": "5",
         "to": "7",
-        "label": "articula metodológicamente"
+        "label": "se evaluó con el"
       },
       {
-        "from": "1",
+        "from": "7",
         "to": "8",
-        "label": "se diferencia tajantemente de la"
+        "label": "se aplicó a la"
       },
       {
         "from": "8",
         "to": "9",
-        "label": "permite una relectura viva del"
+        "label": "validó su cohesión con el"
       },
       {
-        "from": "1",
+        "from": "7",
         "to": "10",
-        "label": "desarrolla en los estudiantes"
+        "label": "midió el"
       },
       {
         "from": "10",
-        "to": "9",
-        "label": "transforma la enseñanza del"
+        "to": "11",
+        "label": "se acompañó del"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "se complementó con la"
+      },
+      {
+        "from": "5",
+        "to": "13",
+        "label": "propone los"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "evidenciaron que lo más"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "respaldan las"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "matiza las"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "condujo a las"
+      },
+      {
+        "from": "7",
+        "to": "16",
+        "label": "adolece de la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "se formulan pese a las"
+      },
+      {
+        "from": "4",
+        "to": "13",
+        "label": "inspiró los"
+      },
+      {
+        "from": "1",
+        "to": "15",
+        "label": "impulsa las"
       }
     ]
   }

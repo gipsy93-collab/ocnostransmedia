@@ -1,0 +1,377 @@
+{
+  "id": "factores_comprension_lectora_hipertexto",
+  "metadata": {
+    "id": "factores_comprension_lectora_hipertexto",
+    "title": "Factores que influyen en la comprensión lectora de hipertexto",
+    "authors": [
+      "Gabriel Herrada-Valverde",
+      "Rosario I. Herrada-Valverde"
+    ],
+    "year": 2017,
+    "volume": "16",
+    "issue": "2",
+    "pages": "7-16",
+    "doi": "10.18239/ocnos_2017.16.2.1287",
+    "keywords": [
+      "comprensión lectora",
+      "hipertexto",
+      "lectura digital",
+      "carga cognitiva",
+      "navegación web"
+    ],
+    "abstract": "Artículo de revisión teórica y metaanalítica que sintetiza las investigaciones empíricas sobre los factores que inciden en la comprensión lectora de hipertextos. Agrupa las variables determinantes en tres dimensiones clave: factores del sujeto lector (conocimiento previo, memoria de trabajo, metacognición), del texto y sistema (estructura de enlaces, ayudas a la navegación) y de la tarea demandada."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Por qué navegar y leer en internet puede resultar cognitivamente agotador en comparación con la lectura lineal de un libro impreso? ¿Qué ocurre en nuestro cerebro cuando cada clic en un hipervínculo nos obliga a decidir una nueva trayectoria de lectura? Este estudio revisa la literatura científica sobre comprensión de hipertexto.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la dimensión de análisis cognitivo del hipertexto:",
+        "opciones": [
+          {
+            "id": "sujeto",
+            "texto": "Factores del lector: conocimiento previo, memoria de trabajo y autorregulación"
+          },
+          {
+            "id": "diseno",
+            "texto": "Factores del sistema: arquitectura de enlaces, menús jerárquicos y sobrecarga cognitiva"
+          },
+          {
+            "id": "didactica",
+            "texto": "Factores de instrucción: tareas de búsqueda guiada y andamiaje educativo"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "La promesa del hipertexto como herramienta de aprendizaje autónomo choca con dos graves problemas cognitivos descritos por la psicología: la desorientación espacial (el efecto de sentirse \"perdido en el hiperespacio\") y la sobrecarga cognitiva provocada por la toma continua de decisiones de navegación en lugar de procesar los contenidos.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cómo afecta un bajo conocimiento previo a la lectura de un hipertexto complejo?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Incrementa la probabilidad de desorientación y saturación de la memoria operativa, impidiendo al lector construir un modelo mental coherente del tema.",
+            "correcta": true,
+            "explicacion": "Exacto: sin esquemas previos de referencia, el lector novato carece de criterios para decidir qué enlaces son relevantes y cuáles accesorios."
+          },
+          {
+            "id": "c2",
+            "texto": "Mejora su creatividad porque salta libremente entre nodos de información al azar.",
+            "correcta": false,
+            "explicacion": "La navegación errática sin rumbo deteriora severamente la comprensión profunda y la retención del contenido."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los autores llevaron a cabo una revisión bibliográfica sistemática de los principales modelos teóricos de procesamiento hipertextual (CoLiDeS, HiCE, Modelo de Construcción-Integración adaptado a hipertexto). Analizaron experimentos empíricos y sintetizaron las variables más determinantes en el éxito lector digital.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Búsqueda sistemática",
+            "detalle": "Revisión de literatura científica internacional sobre lectura digital e hipermedia."
+          },
+          {
+            "fase": "Modelos cognitivos",
+            "detalle": "Examen de modelos explicativos de comprensión no lineal y navegación estratégica."
+          },
+          {
+            "fase": "Categorización de variables",
+            "detalle": "Taxonomía en tres ejes: características del lector, diseño hipertextual y tipo de tarea."
+          },
+          {
+            "fase": "Síntesis de directrices",
+            "detalle": "Elaboración de recomendaciones de diseño web educativo y entrenamiento metacognitivo."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "La revisión concluye que el hipertexto favorece el aprendizaje significativo solo cuando el lector posee alto conocimiento previo y sólidas habilidades metacognitivas. Para lectores novatos, las estructuras jerárquicas con mapas visuales de navegación claros reducen drásticamente la sobrecarga y mejoran la comprensión.",
+      "datos_clave": [
+        "Síntesis exhaustiva de la literatura empírica sobre procesamiento y comprensión de hipertexto.",
+        "Identificación del conocimiento previo y la memoria de trabajo como los moduladores más críticos.",
+        "Superioridad de las estructuras arbóreas y mapas conceptuales sobre las redes difusas sin guía.",
+        "Necesidad urgente de enseñar estrategias explícitas de navegación crítica en la escuela digital."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se asienta en la teoría de la carga cognitiva de Sweller (1988), el modelo de construcción-integración de Kintsch (1988), el modelo CoLiDeS de Kitajima et al. (2000), y las investigaciones sobre hipertexto de Rouet (2006) y Salmerón et al. (2005).",
+      "referencias_clave": [
+        "Sweller (1988)",
+        "Kintsch (1988)",
+        "Rouet (2006)",
+        "Salmerón et al. (2005)",
+        "Herrada-Valverde & Herrada-Valverde (2017)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "Leer en la pantalla hiperconectada no es un acto automático: es una actividad de resolución de problemas continua. Para que el hipertexto emancipe al estudiante en vez de confundirlo, la educación debe formar lectores con brújula metacognitiva capaces de seleccionar su rumbo con criterio.",
+      "hallazgo_central": "La comprensión de hipertexto depende de la interacción entre los recursos cognitivos del lector (conocimiento previo y autorregulación) y la arquitectura del diseño web (estructuración y ayudas de navegación)."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los fenómenos cognitivos del hipertexto con su descripción:",
+          "pares": [
+            {
+              "concepto": "Desorientación del lector",
+              "definicion": "Sensación de extravío espacial en la que el usuario desconoce dónde se encuentra y cómo volver atrás."
+            },
+            {
+              "concepto": "Sobrecarga cognitiva extraña",
+              "definicion": "Consumo excesivo de memoria de trabajo debido a la toma constante de decisiones sobre enlaces."
+            },
+            {
+              "concepto": "Estructura hipertextual jerárquica",
+              "definicion": "Organización arborescente que proporciona un andamio claro sobre los niveles del contenido."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Factores de la Comprensión Lectora de Hipertexto",
+      "descripcion": "Modelo teórico y factores condicionantes de la comprensión y navegación en entornos digitales.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Comprensión Lectora en Entornos de Hipertexto",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo central: sistematizar y analizar los factores cognitivos, estructurales e instruccionales que influyen de manera determinante en el éxito de la comprensión lectora en formato hipertextual."
+        },
+        {
+          "id": "2",
+          "label": "Transformación del Ecosistema Lector Digital",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco contextual que describe la mutación desde la linealidad del libro impreso hacia entornos digitales abiertos y multimodales caracterizados por la fragmentación y la no secuencialidad."
+        },
+        {
+          "id": "3",
+          "label": "Teoría de la Carga Cognitiva de Sweller",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Modelo de John Sweller sobre la limitada capacidad de la memoria de trabajo, diferenciando la carga cognitiva intrínseca (del tema), pertinente (aprendizaje) y extraña (navegación y diseño web)."
+        },
+        {
+          "id": "4",
+          "label": "Modelos Cognitivos de Navegación Hipertextual",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Modelos teóricos de Kitajima (CoLiDeS) y Rouet que explican la toma interactiva de decisiones basada en la evaluación del atractivo semántico del enlace (information scent) antes del clic."
+        },
+        {
+          "id": "5",
+          "label": "Metodología de Revisión Sistemática Teórica",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico fundamentado en la revisión bibliográfica y metaanalítica de estudios empíricos experimentales sobre procesamiento y comprensión lectora en pantallas e hipertexto."
+        },
+        {
+          "id": "6",
+          "label": "Taxonomía Tripartita de Factores Condicionantes",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Clasificación analítica que desglosa las variables en tres grandes núcleos interdependientes: características del sujeto lector, factores del texto y del sistema hipermedial, y factores de la tarea."
+        },
+        {
+          "id": "7",
+          "label": "Análisis de Factores del Lector Individual",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Examen de variables psicolingüísticas: nivel de conocimiento previo específico, amplitud de la memoria operativa, motivación intrínseca y habilidades de autorregulación metacognitiva."
+        },
+        {
+          "id": "8",
+          "label": "Análisis de la Arquitectura del Sistema Web",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Revisión de variables de diseño: topología de la red de enlaces (lineal, jerárquica o reticular libre), presencia de sumarios interactivos, migas de pan y mapas gráficos de orientación."
+        },
+        {
+          "id": "9",
+          "label": "Impacto Decisivo del Conocimiento Previo",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "La evidencia empírica corrobora que el conocimiento previo es el predictor más potente: los expertos se benefician de la navegación abierta mientras los novatos fracasan sin esquemas de anclaje."
+        },
+        {
+          "id": "10",
+          "label": "Efecto de Desorientación y Sobrecarga Mental",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Constatación de que la multiplicidad de hipervínculos irrelevantes desvía la atención del procesamiento semántico profundo hacia el esfuerzo mecánico de navegación, empobreciendo el recuerdo."
+        },
+        {
+          "id": "11",
+          "label": "Ventaja de las Estructuras Arbóreas Claras",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Los sistemas con jerarquías conceptuales explícitas y mapas visuales de navegación facilitan la construcción del modelo de situación textual, minimizando el extravío en el hiperespacio."
+        },
+        {
+          "id": "12",
+          "label": "Debate sobre la Ilusión de Competencia Digital",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión crítica que desmitifica la idea del nativo digital: la fluidez táctil e instrumental con dispositivos no se traduce automáticamente en capacidad analítica para comprender hipertextos."
+        },
+        {
+          "id": "13",
+          "label": "Interacción Dinámica Sujeto-Arquitectura Web",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate en torno a la necesidad de ajustar la complejidad del hipertexto al perfil cognitivo del usuario, evitando diseños sobrecargados de estímulos multimedia que saturan la atención."
+        },
+        {
+          "id": "14",
+          "label": "Importancia del Andamiaje Metacognitivo Escolar",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental que subraya que la lectura digital requiere un entrenamiento explícito en estrategias de búsqueda selectiva, filtrado crítico de fuentes y autorregulación atencional."
+        },
+        {
+          "id": "15",
+          "label": "Pautas para el Diseño de Materiales Educativos",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación técnica para desarrolladores de contenidos pedagógicos de incluir organizadores previos, limitar los saltos hipertextuales innecesarios y proporcionar índices navegables."
+        },
+        {
+          "id": "16",
+          "label": "Límites de Diversidad en Dispositivos y Medios",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite reconocido ante la rápida evolución de la tecnología, donde la proliferación de smartphones y redes introduce variables no plenamente cubiertas por la literatura clásica revisada."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "contextualiza en"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se apoya en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se examina mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se complementa con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "formula"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "desglosa en"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "examina en"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "evidencia"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "condiciona"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "demuestra"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "suscita debate sobre"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "explica teóricamente"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "modula"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "justifica"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "fundamenta"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se concreta en"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "asume"
+        },
+        {
+          "from": "4",
+          "to": "10",
+          "label": "analiza causas de"
+        },
+        {
+          "from": "3",
+          "to": "11",
+          "label": "sustenta diseño de"
+        },
+        {
+          "from": "9",
+          "to": "14",
+          "label": "demanda apoyo en"
+        },
+        {
+          "from": "8",
+          "to": "16",
+          "label": "evoluciona frente a"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "El hipertexto no es bueno ni malo por naturaleza: es una herramienta que amplifica tanto la lucidez como la desorientación. Si dejamos a los escolares solos frente a la red sin enseñarles a trazar su propio rumbo, el mar de enlaces terminará devorando su capacidad de concentración y pensamiento profundo.",
+      "preguntas": [
+        "¿Se enseña en las aulas a navegar estratégicamente o se confunde el dominio tecnológico con la comprensión lectora digital?",
+        "¿Cómo pueden los diseñadores web educativos reducir la carga cognitiva extraña para favorecer el aprendizaje autónomo?"
+      ]
+    }
+  }
+}

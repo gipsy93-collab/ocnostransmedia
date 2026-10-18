@@ -1,0 +1,399 @@
+{
+  "id": "metodologias_docentes_comprension_lectora_universidad",
+  "metadata": {
+    "title": "Metodologías utilizadas por los profesores universitarios en la docencia y evaluación de la comprensión lectora",
+    "authors": "Judit García-Martín y Jesús-Nicasio García-Sánchez",
+    "year": "2020",
+    "journal": "Ocnos 19(3)",
+    "doi": "10.18239/ocnos_2020.19.3.2378",
+    "gancho": "¿Enseñan igual la lectura crítica un profesor de Humanidades y uno de Informática o Economía?",
+    "duration": "12-15 min",
+    "badge": "Docencia Universitaria",
+    "disciplina": "Educación Superior y Didáctica de la Lengua",
+    "dimensiones": [
+      "Comprensión Lectora Avanzada",
+      "Metodologías Activas",
+      "Evaluación Formativa",
+      "Tecnología Educativa"
+    ],
+    "tags": [
+      "comprension_lectora",
+      "educacion_superior",
+      "metodologia_docente",
+      "evaluacion",
+      "saber_pro"
+    ],
+    "pistas": [
+      "203 docentes universitarios con respuestas completas en 8 departamentos académicos.",
+      "Cuestionario EMICOG con fiabilidad superior a .90 en subescalas.",
+      "Humanidades destaca en estrategias cognitivas y géneros textuales complejos.",
+      "Informática y Económicas lideran el uso y utilidad percibida de herramientas web 2.0 y entornos digitales."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "La comprensión lectora avanzada (CLA) es una competencia genérica transversal exigida por el Espacio de Educación Superior y evaluada en pruebas estandarizadas nacionales como Saber Pro, pero se desconocía cómo la enseñan y evalúan realmente los docentes en sus aulas.",
+      "desafio": "Identificar si el profesorado universitario posee metodologías específicas para transversalizar la CLA y si existen divergencias según el departamento disciplinar al que pertenecen.",
+      "relevancia": "Permite diseñar programas de formación docente basados en evidencias para superar la fragmentación entre disciplinas técnicas y humanísticas."
+    },
+    "conflicto": {
+      "pregunta": "¿Existen patrones diferenciales en la docencia y evaluación de la lectura crítica según el departamento universitario del profesorado?",
+      "posiciones": [
+        "Enfoque homogeneizador: las competencias genéricas se adquieren espontáneamente en todas las carreras sin requerir mediación pedagógica diferenciada.",
+        "Enfoque disciplinar específico: cada campo de conocimiento desarrolla géneros y formatos propios que exigen estrategias didácticas contextualizadas."
+      ],
+      "tension": "La tensión entre la exigencia de transversalizar la lectura en todo el currículo universitario y la falta de formación pedagógica específica en docentes de áreas técnicas.",
+      "deepDives": [
+        {
+          "id": "cla-conf-1",
+          "triggerLabel": "Prueba Saber Pro y lectura crítica",
+          "type": "context",
+          "content": "En Colombia, la prueba estatal Saber Pro evalúa la competencia de lectura crítica con 35 ítems de selección múltiple sobre textos cotidianos y académicos, condicionando la acreditación institucional de alta calidad."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Encuesta institucional con el cuestionario EMICOG y contrastes multivariados",
+      "narrativa": "Los investigadores diseñaron y validaron mediante método Delphi el cuestionario ad hoc EMICOG, administrándolo a docentes de 8 departamentos en una universidad de la costa Caribe colombiana y aplicando contrastes multivariados mediante el Modelo Lineal General.",
+      "detalles": [
+        {
+          "label": "Muestra accesible",
+          "value": "280 docentes participantes; 203 con respuestas completas (125 varones, 78 mujeres; edad media 40 años)."
+        },
+        {
+          "label": "Departamentos",
+          "value": "8 unidades: Informática, Economía, Exactas, Ambiental, Derecho, Energía, Industria y Humanidades."
+        },
+        {
+          "label": "Instrumento",
+          "value": "EMICOG en SurveyMonkey: subescalas DGD, CON-INT y TEI-CLA (estrategias, géneros y medios digitales)."
+        },
+        {
+          "label": "Psicometría",
+          "value": "Alfas de Cronbach (.88 a .96) y omegas de McDonald (> .90); AFE con máxima verosimilitud y rotación oblimin."
+        },
+        {
+          "label": "Análisis inferencial",
+          "value": "Modelo Lineal General (MLG) multivariado con el departamento como factor de agrupamiento."
+        }
+      ],
+      "limitaciones": [
+        "Estudio circumscrito a una sola universidad acreditada de la costa Caribe colombiana.",
+        "Basado en autoinformes declarados por el profesorado sin contraste directo de observación en aula o calificaciones del alumnado."
+      ],
+      "reflexion": "¿Cómo conciliar la riqueza conceptual de los géneros humanísticos con el potencial interactivo de las plataformas digitales técnicas?",
+      "deepDives": [
+        {
+          "id": "cla-viaje-1",
+          "triggerLabel": "Triple perspectiva evaluativa en EMICOG",
+          "type": "method",
+          "content": "El instrumento evalúa cada proceso bajo una triple métrica de escala Likert (1-5): frecuencia con que el docente lo enseña, frecuencia con que lo evalúa y grado de utilidad pedagógica percibida."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "El departamento universitario determina diferencias estadísticamente significativas con alto tamaño del efecto (Wilks λ = .003, η² = .523), mostrando una clara especialización: Humanidades domina estrategias cognitivas y géneros analíticos, mientras Informática y Económicas lideran en medios y herramientas web 2.0.",
+      "evidenciaCualitativa": "Las variables sociodemográficas (género, edad, categoría docente) no mostraron diferencias significativas; la cultura de la disciplina académica es la que modela la práctica de lectura.",
+      "citaClave": "'Los patrones diferenciales estadísticamente significativos confirman que la cultura departamental condiciona decisivamente las estrategias de lectura avanzada desplegadas en el aula universitaria.'",
+      "implicacionesDocentes": [
+        "Fomentar la transferencia cruzada de buenas prácticas entre departamentos humanísticos y tecnológicos.",
+        "Integrar wikis, blogs y entornos hipertextuales en asignaturas de Humanidades para potenciar la producción colaborativa.",
+        "Capacitar al profesorado de Ingeniería y Economía en estrategias inferenciales y géneros argumentativos complejos."
+      ],
+      "deepDives": [
+        {
+          "id": "cla-rev-1",
+          "triggerLabel": "Liderazgo inesperado de Económicas",
+          "type": "data",
+          "content": "El profesorado del departamento de Ciencias Económicas superó incluso a Informática en la utilidad percibida y uso didáctico regular de herramientas colaborativas web 2.0 como blogs y wikis."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Literacy across the curriculum, Modelo Psicolingüístico y Espacio de Educación Superior",
+      "tensiones": [
+        "Transversalización curricular formal vs. fragmentación metodológica real en los planes de estudio.",
+        "Enseñanza declarada en encuestas vs. rendimiento efectivo de los estudiantes en pruebas estandarizadas."
+      ],
+      "autoresClave": [
+        "García-Martín & García-Sánchez (2020)",
+        "Cassany et al. (2015)",
+        "Scott et al. (2018)",
+        "OCDE (2016)",
+        "Li et al. (2018)"
+      ],
+      "deepDives": [
+        {
+          "id": "cla-marco-1",
+          "triggerLabel": "Vacío de 50 años en investigación empírica",
+          "type": "theory",
+          "content": "Scott et al. (2018) identificaron que en medio siglo de investigación sobre lectura en el currículo en EE. UU., solo 29 estudios poseían rigor metodológico y apenas cuatro eran cuantitativos."
+        }
+      ]
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo incide el departamento académico en las metodologías docentes de comprensión lectora avanzada en la educación superior?",
+      "mecanismoClave": "La epistemología disciplinar moldea los recursos docentes: las ciencias humanas priorizan el análisis de textos argumentativos impresos, mientras las ciencias socioeconómicas y tecnológicas recurren a la interactividad digital.",
+      "conclusionGeneral": "Transversalizar con éxito la comprensión lectora exige superar los feudos disciplinares combinando la profundidad argumentativa de las humanidades con la versatilidad de los entornos digitales contemporáneos."
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente de la Lectura Crítica",
+        "descripcion": "Recoge conceptos de CLA, EMICOG y Saber Pro mientras esquivas barreras disciplinares.",
+        "instrucciones": "Come tokens de estrategias instruccionales y responde preguntas metodológicas. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Docencia y CLA en Educación Superior",
+        "descripcion": "Evalúa tus conocimientos sobre los contrastes estadísticos y hallazgos por departamento del estudio.",
+        "instrucciones": "Acierta contrarreloj para mantener tu multiplicador de racha docente y coronar la tabla clasificatoria."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de la Transversalización",
+        "descripcion": "Asciende desde el aula departamental aislada hasta un modelo integrado e interdepartamental de CLA.",
+        "instrucciones": "Supera cada nivel respondiendo sobre las fortalezas didácticas de cada departamento."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Metodologías docentes en comprensión lectora universitaria (García-Martín & García-Sánchez, 2020)",
+      "descripcion": "Análisis empírico multivariado sobre cómo enseñan, evalúan y valoran la comprensión lectora avanzada 203 docentes universitarios de 8 departamentos académicos en Colombia.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Comprensión Lectora Avanzada (CLA) como competencia",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Constructo que define la competencia genérica de lectura crítica en la educación superior según directrices de la OCDE y marcos ministeriales, evaluada en Colombia mediante la prueba obligatoria de Estado Saber Pro."
+        },
+        {
+          "id": "2",
+          "label": "Modelo de Literacy Across the Curriculum",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Marco pedagógico internacional que exige transversalizar la lectura y escritura académicas en todas las disciplinas universitarias, superando la creencia errónea de que la comprensión solo compete al área de lenguaje."
+        },
+        {
+          "id": "3",
+          "label": "Vacío empírico en la literatura internacional",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Revisiones sistemáticas evidencian que en 50 años de investigación en EE. UU. apenas cuatro trabajos abordaban cuantitativamente la docencia de la lectura en facultades universitarias, existiendo un marcado vacío empírico."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: diagnosticar metodologías docentes de CLA",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Identificar y clasificar las técnicas, procesos instruccionales, géneros textuales y medios didácticos utilizados por el profesorado universitario para enseñar y evaluar la comprensión lectora avanzada en sus aulas."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: contrastar patrones según departamento",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Analizar si las variables sociodemográficas y la adscripción a los ocho departamentos académicos de la institución generan diferencias estadísticamente significativas en la instrucción y evaluación de la lectura crítica."
+        },
+        {
+          "id": "6",
+          "label": "Diseño descriptivo transversal mediante encuesta",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Investigación cuantitativa por encuesta transversal online administrada a través de SurveyMonkey, dirigida al cuerpo profesoral de una universidad de la costa Caribe acreditada institucionalmente con alta calidad."
+        },
+        {
+          "id": "7",
+          "label": "Muestra representativa de 203 docentes universitarios",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Muestra final depurada con respuestas íntegras de 203 profesores (125 varones y 78 mujeres, edad promedio 40 años), pertenecientes a 8 departamentos académicos, garantizando un margen de error muestral inferior al 1%."
+        },
+        {
+          "id": "8",
+          "label": "Cuestionario psicométrico ad hoc EMICOG",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Instrumento validado por panel Delphi con subescalas de Conocimiento/Interés y Técnicas Instruccionales en escala Likert 1-5, que analiza cada proceso bajo la triple perspectiva de enseñar, evaluar y utilidad percibida."
+        },
+        {
+          "id": "9",
+          "label": "Invarianza de las variables demográficas del docente",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Los contrastes estadísticos confirmaron que factores como género, titulación de origen y categoría contractual del profesorado no explican diferencias significativas en las prácticas metodológicas de lectura declaradas."
+        },
+        {
+          "id": "10",
+          "label": "Efecto significativo del departamento académico",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El Modelo Lineal General multivariado reveló diferencias estadísticamente significativas con tamaño del efecto alto según departamento (Wilks Lambda = .003; F = 1.277; p = .001; eta parcial al cuadrado = .523)."
+        },
+        {
+          "id": "11",
+          "label": "Liderazgo de Humanidades en estrategias y géneros",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El profesorado de Humanidades obtuvo puntuaciones significativamente superiores en relacionar conocimientos previos, textos argumentativos, ensayos y síntesis crítica, superando claramente a las facultades tecnológicas."
+        },
+        {
+          "id": "12",
+          "label": "Liderazgo de Informática y Económicas en medios digitales",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "La tendencia se invirtió en entornos hipertextuales: Informática y Ciencias Económicas mostraron mayor frecuencia y utilidad de wikis, blogs y formatos digitales para dinamizar tareas de lectura y producción textual."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: culturas epistémicas y feudos disciplinares",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Los resultados discuten cómo las identidades académicas disciplinares actúan como culturas epistémicas diferenciadas, condicionando los géneros que se leen y los canales mediáticos mediante los cuales se accede al saber."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: necesidad de evaluación integrada",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se debate la urgencia de diseñar sistemas de evaluación de la CLA que trasciendan los cuestionarios de opción múltiple, incorporando rúbricas comprehensivas de argumentación y producción colaborativa en línea."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: muestra monocéntrica y autoinformes",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "El estudio se acota a una única institución colombiana y se sustenta en prácticas declaradas por autoinforme docente, requiriendo validación futura con observación directa de aula y calificaciones del alumnado."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: convergencia interdisciplinar para la CLA",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que la transversalización efectiva de la lectura crítica universitaria requiere cruzar las destrezas argumentativas de Humanidades con el dominio instrumental y colaborativo digital de las áreas técnicas."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "establece el marco normativo para"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "fundamenta la necesidad de"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "justifica el vacío abordado por"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se operativiza mediante el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "guía el análisis estadístico del"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se administra sobre la"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "utiliza como herramienta el"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "demuestra en los datos la"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "revela mediante el MLG el"
+        },
+        {
+          "from": "10",
+          "to": "11",
+          "label": "se manifiesta en el"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "se traduce paralelamente en el"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "aporta evidencia empírica a la"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "nutre el debate sobre"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "plantea el desafío de una"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "impulsa la propuesta de"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el alcance institucional del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las recomendaciones de las"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "conduce directamente a las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "fundamenta la propuesta de"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "cierra el ciclo competencial de"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué variable produjo diferencias estadísticamente significativas en las prácticas de comprensión lectora avanzada del profesorado universitario?",
+          "options": [
+            "El género y los años de experiencia profesional del profesorado.",
+            "El departamento académico al que está adscrito el docente en la universidad.",
+            "La titulación de pregrado obtenida por los profesores.",
+            "El tipo de contrato temporal o de planta en la institución."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo diseñarías una experiencia interdisciplinar de lectura crítica entre docentes de Humanidades e Informática para aprovechar las fortalezas de ambos campos?"
+        }
+      ]
+    }
+  }
+}

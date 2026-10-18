@@ -2,7 +2,7 @@
   "id": "autorregulacion_lectura_cientifica",
   "metadata": {
     "title": "Autorregulación del aprendizaje y lectura científica en docentes en formación. Un estudio exploratorio",
-    "authors": "Marta Torrijos-Muelas, Ana-Rosa Bodoque-Osma y Santiago Yubero",
+    "authors": "Marta Torrijos-Muelas, Ana-Rosa Bodoque-Osma y Sixto González-Víllora",
     "year": "2024",
     "journal": "Ocnos 23(2)",
     "doi": "10.18239/ocnos_2024.23.2.421",
@@ -23,30 +23,30 @@
     "apertura": {
       "personaje": "Dra. Marta Torrijos-Muelas, especialista en autorregulación del aprendizaje (ARA) y lectura académica",
       "gancho": "¿Cómo van a enseñar evidencia científica en las escuelas quienes no son capaces de autorregular su propia lectura académica?",
-      "contexto": "La formación de maestros exige el desarrollo del Aprendizaje Autorregulado (ARA) y la competencia para leer literatura científica. En este estudio exploratorio con 184 futuros docentes de la UCLM, los autores examinaron la relación entre los hábitos de autorregulación y su autopercepción y rendimiento al enfrentarse a artículos científicos.",
+      "contexto": "La formación de maestros exige el desarrollo del Aprendizaje Autorregulado (ARA) y la competencia para leer literatura científica. En este estudio exploratorio con 1.253 futuros docentes de la UCLM, los autores examinaron las habilidades de autorregulación y el rango de artículos científicos leídos por cuatrimestre, y la relación entre ambas variables.",
       "deepDives": [
         {
           "id": "ara-apertura-1",
           "triggerLabel": "El modelo de Zimmerman sobre ARA",
           "type": "theory",
-          "content": "Planificación previa, Ejecución supervisada y Autorreflexión final."
+          "content": "Procesos cognitivos, metacognitivos, motivacionales y emocionales autoiniciados: establecer y ajustar metas, planificar y monitorear, evaluar el desempeño y emplear estrategias adaptativas (Zimmerman y Schunk, 2017)."
         },
         {
           "id": "ara-apertura-2",
-          "triggerLabel": "Muestra de 184 docentes en formación",
+          "triggerLabel": "Muestra de 1.253 docentes en formación",
           "type": "data",
-          "content": "Estudiantes de 3.º y 4.º curso de Magisterio evaluados con escalas de autorregulación y tareas reales de lectura de papers."
+          "content": "Estudiantes de Infantil (32.7 %) y Primaria (67.3 %) de primero a cuarto curso, evaluados con un cuestionario digital que incluía la escala SRSI-SR adaptada."
         }
       ]
     },
     "conflicto": {
-      "problema": "Muchos estudiantes de Magisterio presentan rechazo hacia los artículos científicos, eludiendo las fuentes primarias de investigación.",
+      "problema": "Muchos estudiantes de Magisterio se muestran como lectores inmaduros ante los textos académicos, con escasa dedicación a la lectura de artículos científicos.",
       "porQueImporta": "Un docente que no sabe leer ciencia es vulnerable a los neuromitos y a las modas pedagógicas sin base empírica.",
       "dataPoints": [
-        "Muestra de 184 futuros maestros de Educación Primaria e Infantil.",
-        "Fuerte correlación positiva (r = .48) entre autorregulación y comprensión de textos científicos.",
-        "El 62% del alumnado confesó no haber leído jamás un artículo científico completo antes de 3.º de carrera.",
-        "Dificultad crítica en la sección de Metodología y Resultados estadísticos."
+        "Muestra de 1.253 futuros maestros de Educación Primaria e Infantil.",
+        "Todas las puntuaciones de la escala SRSI-SR mejoran con el aumento de la lectura científica (p < .001 en la escala total).",
+        "Más de la mitad de la muestra leyó menos de tres artículos científicos en el cuatrimestre; la moda fue uno o dos.",
+        "Los estudiantes tienden a centrarse en información superficial y a depender de interpretaciones ajenas de los textos (Lennox et al., 2020)."
       ],
       "glossary": [
         {
@@ -56,16 +56,16 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Evaluación de ARA y tareas de comprensión de papers",
-      "narrativa": "Los autores aplicaron el cuestionario ARATEX y una prueba de comprensión basada en un artículo científico de impacto en educación.",
+      "titulo": "Ruta metodológica: Cuestionario digital de autorregulación y lectura científica",
+      "narrativa": "Los autores administraron un cuestionario digital con datos sociodemográficos, el rango de artículos científicos leídos en el cuatrimestre y la adaptación al español del inventario SRSI-SR de Cleary (Hernández-Barrios y Camargo-Uribe, 2017).",
       "detalles": [
         {
           "label": "Participantes",
-          "value": "184 estudiantes de Grado de Maestro de la UCLM."
+          "value": "1.253 estudiantes de los Grados de Maestro de la UCLM."
         },
         {
           "label": "Instrumentos",
-          "value": "Cuestionario ARATEX adaptado y prueba objetiva de lectura de paper."
+          "value": "Escala SRSI-SR adaptada (18 ítems tipo Likert) y rango cerrado de artículos científicos leídos."
         }
       ],
       "limitaciones": [
@@ -74,47 +74,47 @@
       "reflexion": "La docencia rigurosa nace de la lectura de la evidencia, no de la repetición de tópicos."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: Los autorregulados no temen a las estadísticas",
+      "titulo": "Hallazgos empíricos: a más lectura científica, mejor autorregulación",
       "narrativa": "Los datos evidenciaron el papel protector de las estrategias metacognitivas:",
       "hallazgos": [
         {
-          "label": "1. La Planificación Vence al Miedo",
-          "value": "Los alumnos con alto ARA planifican la lectura por fases, desarmando la ansiedad que producen los datos cuantitativos."
+          "label": "1. Leer más, regular mejor",
+          "value": "Quienes leen más artículos científicos mejoran en todas las escalas, especialmente en búsqueda de información y organización de la tarea."
         },
         {
-          "label": "2. Ceguera ante la Validez",
-          "value": "El alumnado con bajo ARA asume conclusiones sin revisar el diseño experimental ni las limitaciones."
+          "label": "2. El umbral de los tres artículos",
+          "value": "No hay ventaja medible entre no leer ningún artículo y leer uno o dos; las mejoras aparecen a partir de tres, con el mayor efecto al comparar ninguno con más de diez (A = .697)."
         }
       ],
       "dataPoints": [
-        "Diferencia estadísticamente significativa (p < .001) en rendimiento lector según el nivel de ARA."
+        "Diferencia estadísticamente significativa (p < .001) en las puntuaciones de ARA según el rango de artículos científicos leídos."
       ],
       "reflexion": "Enseñar a leer artículos científicos en Magisterio es blindar la escuela pública contra la pseudociencia."
     },
     "marco": {
       "titulo": "Discusión: Alfabetización científica en la formación del profesorado",
-      "narrativa": "Los autores proponen guías de lectura guiada en todas las asignaturas de la facultad:",
+      "narrativa": "Los autores proponen entrenar la lectura científica durante la formación docente, con textos académicos adaptados, lectura grupal e infografías:",
       "detalles": [
         {
-          "label": "Seminarios de Lectura Crítica de Papers",
-          "value": "Enseñar a interpretar gráficos y tamaños del efecto de forma accesible."
+          "label": "Lectura científica en el currículum del Grado",
+          "value": "Integrar los artículos en el currículo fomentando la elección voluntaria y la motivación intrínseca del alumnado."
         }
       ],
       "reflexion": "Un maestro que lee ciencia es un maestro libre y transformador."
     },
     "nucleo": {
-      "pregunta": "¿Cómo se relaciona la autorregulación del aprendizaje con la comprensión de textos científicos en docentes en formación?",
-      "conclusion": "El estudio exploratorio con 184 futuros maestros de la UCLM demuestra que la autorregulación del aprendizaje (ARA) es un predictor directo de la competencia para leer literatura científica, señalando la urgencia de alfabetizar científicamente al alumnado de Magisterio para dotarlo de criterio empírico.",
-      "formalRef": "Torrijos-Muelas, M., Bodoque-Osma, A. R., & Yubero, S. (2024). Autorregulación del aprendizaje y lectura científica en docentes en formación. Un estudio exploratorio. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.421"
+      "pregunta": "¿Cómo se relaciona la autorregulación del aprendizaje con la lectura de artículos científicos en docentes en formación?",
+      "conclusion": "El estudio exploratorio con 1.253 futuros maestros de la UCLM muestra que la autorregulación del aprendizaje (ARA) mejora con el aumento de la lectura científica, señalando la urgencia de alfabetizar científicamente al alumnado de Magisterio para dotarlo de criterio empírico.",
+      "formalRef": "Torrijos-Muelas, M., González-Víllora, S., & Bodoque-Osma, A. R. (2024). Autorregulación del aprendizaje y lectura científica en docentes en formación. Un estudio exploratorio. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.421"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué porcentaje de futuros maestros reconoció no haber leído jamás un artículo científico completo antes de 3.º de carrera?",
+          "q": "¿Qué proporción de la muestra leyó menos de tres artículos científicos en el cuatrimestre anterior?",
           "options": [
             "Menos del 1 %.",
-            "El 62 % del alumnado.",
+            "Más de la mitad de la muestra.",
             "Exactamente el 100 %.",
             "Ningún alumno."
           ],
@@ -148,7 +148,7 @@
         },
         {
           "type": "open",
-          "q": "¿Cómo combatirías la 'fobia a las estadísticas' que manifiestan muchos alumnos de carreras educativas cuando se encuentran tablas cuantitativas en un texto científico?"
+          "q": "¿Cómo combatirías la escasa dedicación que muchos alumnos de carreras educativas muestran ante los artículos científicos y sus datos cuantitativos?"
         }
       ]
     }
@@ -159,11 +159,11 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "Muchos universitarios temen a los artículos científicos y caen en neuromitos. La autorregulación es el antídoto.",
+      "text": "Muchos universitarios apenas leen artículos científicos y se quedan en información superficial. La autorregulación es el antídoto.",
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "184 estudiantes de Magisterio de la UCLM se enfrentan a pruebas de autorregulación y lectura de papers.",
+      "text": "1.253 estudiantes de Magisterio de la UCLM responden a un cuestionario digital de autorregulación y lectura científica.",
       "position": "bottom-right"
     },
     "revelacion": {
@@ -188,111 +188,49 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Autorregulación del Aprendizaje y Lectura Científica en Magisterio",
-    "descripcion": "Estudio exploratorio (UCLM, 184 alumnos): Aprendizaje Autorregulado (ARA), cuestionario ARATEX, comprensión de papers y combate de neuromitos.",
+    "titulo": "Mapa conceptual: Autorregulación y lectura científica en docentes en formación (Ocnos 23(2), 2024)",
+    "descripcion": "Estudio exploratorio con 1.253 estudiantes de Magisterio que describe el aprendizaje autorregulado (ARA), el rango de artículos científicos leídos por cuatrimestre y la asociación entre más lectura científica y mejor autorregulación.",
     "nodos": [
-      {
-        "id": "1",
-        "label": "Lectura de Literatura Científica",
-        "color": "#2a9d8f"
-      },
-      {
-        "id": "2",
-        "label": "Aprendizaje Autorregulado (ARA)",
-        "color": "#2a5a75"
-      },
-      {
-        "id": "3",
-        "label": "Docentes en Formación (184)",
-        "color": "#5b9eaa"
-      },
-      {
-        "id": "4",
-        "label": "Fases de Zimmerman (Plan/Monitoreo)",
-        "color": "#88b04b"
-      },
-      {
-        "id": "5",
-        "label": "Ansiedad ante Datos Estadísticos",
-        "color": "#e76f51"
-      },
-      {
-        "id": "6",
-        "label": "Cuestionario ARATEX",
-        "color": "#9b82c3"
-      },
-      {
-        "id": "7",
-        "label": "Combate de Neuromitos Educativos",
-        "color": "#c73e1d"
-      },
-      {
-        "id": "8",
-        "label": "Lectura Guiada de Metodología",
-        "color": "#f4d068"
-      },
-      {
-        "id": "9",
-        "label": "Práctica Basada en la Evidencia",
-        "color": "#264653"
-      },
-      {
-        "id": "10",
-        "label": "Pensamiento Crítico Docente",
-        "color": "#f4a261"
-      }
+      {"id": "1", "label": "Aprendizaje Autorregulado (ARA)", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Procesos cognitivos, metacognitivos, motivacionales y emocionales autoiniciados para alcanzar metas de aprendizaje (Zimmerman y Schunk, 2017). En la universidad sustenta el éxito académico y el aprendizaje a lo largo de la vida profesional."},
+      {"id": "2", "label": "Perfil de lectores inmaduros en futuros maestros", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "Prefieren novelas y títulos comerciales con escasa dedicación a la lectura académica (Alcocer-Vázquez y Zapata-González, 2021; Granado y Puig, 2014). Suelen quedarse en la información superficial y depender de interpretaciones ajenas de los textos (Lennox et al., 2020)."},
+      {"id": "3", "label": "Alfabetización científica y pensamiento crítico", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "La lectura académica exige una actitud activa de análisis e interpretación de datos que contribuye a la alfabetización científica (Dori et al., 2018). Se plantea como proceso clave de la capacidad crítica en el campo de estudio (Cardona Puello et al., 2018)."},
+      {"id": "4", "label": "Objetivos: ARA y lectura científica", "color": "#f4a261", "role": "Objetivo", "descripcion": "Describir las habilidades de ARA del Grado en Maestro según variables sociodemográficas, conocer el rango de artículos científicos leídos por cuatrimestre y explorar las diferencias en ARA según ese rango."},
+      {"id": "5", "label": "Diseño descriptivo transversal", "color": "#264653", "role": "Método", "descripcion": "Estudio no experimental de tipo selectivo y transversal siguiendo la clasificación de Ato et al. (2013), con medición de las variables en un único momento. La recogida se hizo en el segundo cuatrimestre para evitar distorsiones del trabajo de fin de grado."},
+      {"id": "6", "label": "Muestra de 1.253 estudiantes", "color": "#2a5a75", "role": "Método", "descripcion": "Estudiantes de una universidad pública española (34.12% del alumnado de los grados): Primaria 67.3%, Infantil 32.7%, edad media 20.78 años y 74.9% mujeres. Muestreo por conveniencia en clases obligatorias, con consentimiento informado y aprobación CEIS-631156-N6M6."},
+      {"id": "7", "label": "Escala SRSI-SR adaptada al español", "color": "#9b82c3", "role": "Método", "descripcion": "Adaptación de Hernández-Barrios y Camargo-Uribe (2017) del inventario de Cleary (2006), con 18 ítems tipo Likert de frecuencia y alfa de Cronbach total de .81. Incluye un factor desadaptativo (hábitos inadecuados) y tres adaptativos: organización del entorno, búsqueda de información y organización de la tarea."},
+      {"id": "8", "label": "Análisis no paramétrico de datos", "color": "#5b9eaa", "role": "Método", "descripcion": "Pruebas con SPSS v.29: Mann-Whitney para género y grado, Kruskal-Wallis para curso y rango lector, chi-cuadrado de independencia y correlación. El tamaño del efecto se estimó con el estadístico A de Vargha y corrección de Bonferroni."},
+      {"id": "9", "label": "Puntuaciones intermedias-altas en ARA", "color": "#88b04b", "role": "Resultados", "descripcion": "Media total de 6.59 sobre diez, con 7.29 en la subescala adaptativa y 4.5 en la desadaptativa. Los futuros maestros muestran buenas estrategias de organización pero deben mejorar la comprensión de temas complejos y evitar distracciones."},
+      {"id": "10", "label": "Superioridad femenina en ARA", "color": "#f4d068", "role": "Resultados", "descripcion": "Diferencias significativas (p < .001) a favor de las mujeres en todas las puntuaciones de la escala, con tamaños del efecto moderados (A entre .548 y .665). Coincide con Baldan-Babayigit y Guven (2020) y Larruzea-Urkixo y Cardeñoso-Ramírez (2020)."},
+      {"id": "11", "label": "Uno o dos artículos por cuatrimestre", "color": "#e76f51", "role": "Resultados", "descripcion": "La moda de la muestra es uno o dos artículos y más de la mitad leyó menos de tres. Hay diferencia significativa por género (A = .545 a favor de ellas), pero no entre Infantil y Primaria."},
+      {"id": "12", "label": "El ARA mejora desde tres artículos", "color": "#2a9d8f", "role": "Resultados", "descripcion": "Diferencias significativas en todas las escalas del SRSI-SR según el rango leído (total p < .001). No hay ventaja entre no leer y leer uno o dos, pero las puntuaciones mejoran a partir de tres artículos, con el mayor efecto al comparar ninguno con más de diez (A = .697)."},
+      {"id": "13", "label": "Diferencias por curso sin progreso ascendente", "color": "#c73e1d", "role": "Resultados", "descripcion": "En lectura científica, segundo curso supera a primero (A = .626) y a tercero (A = .645), por lo que el perfil lector no crece al avanzar la formación. En ARA, cuarto curso muestra peor organización del entorno (FII), contradiciendo la literatura previa."},
+      {"id": "14", "label": "Uso instrumental de la lectura académica", "color": "#f4a261", "role": "Discusión", "descripcion": "Los universitarios prefieren textos literarios o de autoayuda y reducen los textos informativos a lo obligatorio para superar asignaturas (Alcocer-Vázquez y Zapata-González, 2021; García-Gutiérrez et al., 2019). La falta de hábitos de lectura académica se correlaciona con bajo ARA y débil lectura crítica."},
+      {"id": "15", "label": "Formación docente basada en evidencia", "color": "#88b04b", "role": "Conclusiones", "descripcion": "Incrementar la lectura científica mejora el ARA, el pensamiento crítico y la elección voluntaria de lecturas, fomentando modelos de enseñanza basados en evidencia. Se sugieren lectura grupal, infografías, textos adaptados y motivación intrínseca en el currículo del Grado."},
+      {"id": "16", "label": "Limitaciones: autoinforme y muestra", "color": "#c73e1d", "role": "Limitaciones", "descripcion": "Los autores reconocen la limitada representatividad de la muestra y el enfoque individual y exclusivamente cuantitativo con medidas autoinformadas. Recomiendan evaluar el ARA antes y después de intervenciones y réplicas con eye tracking y neurodidáctica."}
     ],
     "aristas": [
-      {
-        "from": "2",
-        "to": "1",
-        "label": "predice con fuerza el éxito en la"
-      },
-      {
-        "from": "3",
-        "to": "2",
-        "label": "es evaluado en su nivel de"
-      },
-      {
-        "from": "2",
-        "to": "4",
-        "label": "se estructura a través de las"
-      },
-      {
-        "from": "4",
-        "to": "5",
-        "label": "reduce y desarma la"
-      },
-      {
-        "from": "6",
-        "to": "2",
-        "label": "mide psicométricamente el"
-      },
-      {
-        "from": "1",
-        "to": "7",
-        "label": "proporciona herramientas contra los"
-      },
-      {
-        "from": "8",
-        "to": "1",
-        "label": "andamia y facilita la"
-      },
-      {
-        "from": "1",
-        "to": "9",
-        "label": "hace posible la verdadera"
-      },
-      {
-        "from": "9",
-        "to": "10",
-        "label": "desarrolla en el futuro maestro el"
-      },
-      {
-        "from": "10",
-        "to": "7",
-        "label": "desmantela de raíz los"
-      }
+      {"from": "4", "to": "1", "label": "el objetivo describe el"},
+      {"from": "4", "to": "2", "label": "el objetivo también perfila el"},
+      {"from": "4", "to": "5", "label": "se operacionaliza mediante el"},
+      {"from": "1", "to": "3", "label": "sustenta el desarrollo de la"},
+      {"from": "2", "to": "3", "label": "dificulta la"},
+      {"from": "5", "to": "6", "label": "el diseño se aplica a la"},
+      {"from": "6", "to": "7", "label": "se evalúa con la"},
+      {"from": "7", "to": "8", "label": "las respuestas se procesan con el"},
+      {"from": "7", "to": "9", "label": "la escala mide unas"},
+      {"from": "8", "to": "9", "label": "el análisis revela"},
+      {"from": "9", "to": "10", "label": "se diferencia a favor de la"},
+      {"from": "10", "to": "11", "label": "también supera en la"},
+      {"from": "2", "to": "11", "label": "se manifiesta en la"},
+      {"from": "11", "to": "12", "label": "no alcanza el umbral del"},
+      {"from": "11", "to": "13", "label": "varía según las"},
+      {"from": "2", "to": "14", "label": "condiciona el"},
+      {"from": "14", "to": "13", "label": "explica las"},
+      {"from": "14", "to": "15", "label": "exige una"},
+      {"from": "12", "to": "15", "label": "respalda la"},
+      {"from": "3", "to": "15", "label": "es meta de la"},
+      {"from": "5", "to": "16", "label": "su transversalidad implica las"},
+      {"from": "16", "to": "15", "label": "restringen la"}
     ]
   }
 }

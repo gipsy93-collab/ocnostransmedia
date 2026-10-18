@@ -2,7 +2,7 @@
   "id": "pantalla_vs_papel",
   "metadata": {
     "title": "Efectos del medio de lectura en la comprensión de textos en estudiantes universitarios",
-    "authors": "Ángel-Javier Tabullo y Pablo-Yoshin Teruya",
+    "authors": "Ángel-Javier Tabullo, Pablo-Yoshin Teruya, Johanna Casado, Enrique-Salvador Puliafito-Hamann y Natasha Bertaina-Lucero",
     "year": "2026",
     "journal": "Ocnos 25(1)",
     "doi": "10.18239/ocnos_2026.25.1.583",
@@ -12,9 +12,9 @@
     "color": "#c73e1d",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-5.png",
+    "image": "/assets/portadas/pantalla_vs_papel.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-5.png",
+      "image": "/assets/portadas/pantalla_vs_papel.jpg",
       "name": "Dr. Ángel-Javier Tabullo",
       "role": "Investigador en Neurociencia Cognitiva y Lectura, INCIHUSA - CONICET / Universidad de Mendoza (Argentina)"
     }
@@ -22,20 +22,20 @@
   "blocks": {
     "apertura": {
       "personaje": "Dr. Ángel-Javier Tabullo, neurocientífico cognitivo del CONICET y especialista en comprensión lectora",
-      "gancho": "¿Por qué los estudiantes universitarios aseguran entender igual en el móvil, pero suspenden las preguntas inferenciales?",
-      "contexto": "El auge de los libros de texto digitales y los campus virtuales ha generalizado el estudio en pantallas. Sin embargo, diversos metaanálisis internacionales sugieren la existencia de una 'desventaja de la pantalla' (screen inferiority effect), atribuida al desplazamiento continuo (scrolling), la fatiga visual y una menor calibración metacognitiva. En este experimento riguroso en Argentina, 128 estudiantes universitarios de primer año de Ingeniería y Ciencias de la Salud leyeron un texto expositivo idéntico en tres soportes: papel impreso, ordenador personal (PC) o smartphone, evaluando además el impacto modulador del vocabulario y los hábitos lectores previos.",
+      "gancho": "¿Por qué a veces no comprendemos igual un manual leído en el móvil que en el ordenador o en papel?",
+      "contexto": "El auge de los libros de texto digitales y los campus virtuales ha generalizado el estudio en pantallas. Sin embargo, diversos metaanálisis internacionales sugieren la existencia de una 'desventaja de la pantalla' (screen inferiority effect), atribuida a un modo de lectura menos atento y más superficial. En este experimento riguroso en Argentina, 128 estudiantes universitarios de primer año de Ingeniería y Ciencias de la Salud leyeron un texto expositivo idéntico en tres soportes: papel impreso, ordenador personal (PC) o smartphone, evaluando además el impacto modulador del vocabulario y los hábitos lectores previos.",
       "deepDives": [
         {
           "id": "pvp-apertura-1",
           "triggerLabel": "Efecto de inferioridad de la pantalla",
           "type": "theory",
-          "content": "Delgado et al. (2018) y Clinton (2019) evidenciaron que la lectura digital perjudica la comprensión profunda, especialmente bajo presión temporal y en textos informativos largos."
+          "content": "Delgado et al. (2018) y Clinton-Lisell (2019) evidenciaron que la lectura digital perjudica la comprensión profunda, especialmente bajo presión temporal y en textos informativos largos."
         },
         {
           "id": "pvp-apertura-2",
           "triggerLabel": "Diseño experimental de 3 condiciones",
           "type": "data",
-          "content": "128 estudiantes (edad media: 18.6 años) asignados aleatoriamente a: Grupo Papel (n=43), Grupo PC (n=42) y Grupo Smartphone (n=43)."
+          "content": "128 estudiantes (edad media: 18.6 años) distribuidos en tres condiciones: Grupo Papel (n=42), Grupo PC (n=44) y Grupo Smartphone (n=42)."
         }
       ]
     },
@@ -44,10 +44,10 @@
       "porQueImporta": "Estudiar en teléfonos móviles puede condenar a los estudiantes a un aprendizaje fragmentario y superficial, incrementando el fracaso en los primeros años de universidad.",
       "dataPoints": [
         "Muestra de 128 universitarios argentinos de carreras científicas y técnicas.",
-        "Ventaja significativa del papel sobre el smartphone en preguntas inferenciales complejas (p = .021).",
-        "La lectura en PC mostró un rendimiento intermedio, sin diferencias significativas con el papel en comprensión literal.",
-        "Fuerte efecto moderador del vocabulario: los estudiantes con alto vocabulario resistieron mejor la desventaja de la pantalla.",
-        "Ilusión de comprensión: los lectores en smartphone reportaron igual confianza subjetiva pese a obtener las peores notas objetivas."
+        "Menor comprensión en smartphone que en pantalla de PC (p = .048) en el análisis general.",
+        "La lectura en PC no difirió significativamente del papel en el análisis general.",
+        "El vocabulario moderó el efecto: los ingresantes de Ingeniería con vocabulario bajo rindieron peor en smartphone.",
+        "Los ingresantes de Ingeniería comprendieron mejor que los de Ciencias de la Salud en todos los medios (p < .001)."
       ],
       "glossary": [
         {
@@ -55,14 +55,14 @@
           "definition": "Fenómeno cognitivo documentado donde la comprensión y el recuerdo profundo son inferiores al leer en pantallas digitales respecto al papel."
         },
         {
-          "term": "Calibración metacognitiva",
-          "definition": "Grado de correspondencia entre la estimación subjetiva que tiene un estudiante sobre lo que ha comprendido y su rendimiento objetivo real en la prueba."
+          "term": "Vocabulario (K-BIT)",
+          "definition": "Habilidad léxica evaluada con el subtest de definiciones del Test Breve de Inteligencia de Kaufman; fue el único predictor significativo de la comprensión."
         }
       ]
     },
     "viaje": {
       "titulo": "Ruta metodológica: Experimento factorial entre Papel, PC y Smartphone",
-      "narrativa": "Los estudiantes leyeron un texto expositivo de divulgación científica de 1.400 palabras en uno de los tres soportes asignados aleatoriamente, completando pruebas de comprensión literal, inferencial, vocabulario de dominio general y cuestionarios de hábitos.",
+      "narrativa": "Los estudiantes leyeron un texto expositivo de divulgación científica de 1.113 palabras en uno de los tres soportes asignados, completando 12 preguntas de comprensión de opción múltiple, un test de vocabulario K-BIT y cuestionarios de hábitos.",
       "detalles": [
         {
           "label": "Población",
@@ -70,39 +70,39 @@
         },
         {
           "label": "Condiciones",
-          "value": "Papel impreso (A4), Monitor de PC (21 pulgadas) y Smartphone (pantalla 6 pulgadas)."
+          "value": "Papel impreso, monitores LED de PC y teléfonos inteligentes personales de los estudiantes."
         },
         {
           "label": "Medidas",
-          "value": "Batería de 16 preguntas (literal vs. inferencial), test de vocabulario BAIRES y escala de hábitos."
+          "value": "Batería de 12 preguntas de opción múltiple, subtest de definiciones del K-BIT para vocabulario y encuesta ad hoc de hábitos."
         }
       ],
       "limitaciones": [
-        "Muestra acotada a carreras STEM en una universidad privada argentina.",
-        "Lectura de un único texto expositivo en sesión única de laboratorio."
+        "Muestra relativamente pequeña, que afecta la generalización de los resultados.",
+        "No se midieron variables cognitivas generales como la inteligencia fluida o las funciones ejecutivas."
       ],
       "reflexion": "El tamaño de la pantalla y la naturaleza física del soporte modifican la arquitectura espacial que el cerebro construye del texto."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: El teléfono móvil hunde la comprensión inferencial",
+      "titulo": "Hallazgos empíricos: El teléfono móvil reduce la comprensión",
       "narrativa": "Los datos del experimento confirmaron hipótesis clave de la neurociencia de la lectura:",
       "hallazgos": [
         {
-          "label": "1. El Papel Mantiene el Liderazgo",
-          "value": "El soporte papel logró las mayores puntuaciones globales, especialmente en preguntas que requerían conectar ideas distantes en el texto."
+          "label": "1. El Papel Resiste Frente al Móvil",
+          "value": "El papel no difirió significativamente de la pantalla de PC, pero superó al smartphone entre los ingresantes de Ingeniería con bajo vocabulario."
         },
         {
-          "label": "2. El Smartphone Sufre en la Inferencia",
-          "value": "El desplazamiento constante en pantalla pequeña rompe los mapas espaciales del texto, colapsando el razonamiento inferencial."
+          "label": "2. El Smartphone Reduce la Comprensión",
+          "value": "La lectura en teléfono móvil mostró peor comprensión que la pantalla de PC, atribuible a mayores costos cognitivos o menor profundidad de procesamiento."
         },
         {
           "label": "3. El Vocabulario como Escudo Cognitivo",
-          "value": "Los alumnos con vocabulario rico sufrieron menos el impacto de las pantallas, al disponer de más recursos de memoria de trabajo."
+          "value": "Los ingresantes de Ingeniería con vocabulario alto compensaron mejor la dificultad del dispositivo que sus pares con vocabulario bajo."
         }
       ],
       "dataPoints": [
-        "Diferencia significativa en comprensión inferencial entre Papel (M = 7.42) y Smartphone (M = 5.88; p < .05).",
-        "El tiempo de lectura no difirió significativamente entre soportes, indicando que en el móvil leyeron con la misma prisa que en papel pero procesando peor."
+        "La comprensión fue menor en smartphone que en PC (p = .048); entre los ingresantes de Ingeniería con bajo vocabulario también fue menor que en papel (p = .043) y que en PC (p = .004).",
+        "El vocabulario fue el único predictor significativo de la comprensión (rho = .198; p = .023)."
       ],
       "reflexion": "La pantalla del móvil te hace sentir que lees rápido, pero te deja con las manos vacías de sentido profundo."
     },
@@ -116,7 +116,7 @@
         },
         {
           "label": "Estrategias de Lectura en PC",
-          "value": "Si se lee en ordenador, es indispensable evitar el scroll infinito, usando vista de doble página estática y herramientas de anotación activa."
+          "value": "Si se lee en ordenador, conviene promover un procesamiento semántico profundo con instrucciones de tarea, como resumir o elaborar listas de palabras clave."
         },
         {
           "label": "Desarrollo del Vocabulario Académico",
@@ -127,19 +127,19 @@
     },
     "nucleo": {
       "pregunta": "¿Cómo influye el medio de lectura (papel vs. PC vs. smartphone) en la comprensión textual de estudiantes universitarios?",
-      "conclusion": "El estudio experimental con 128 estudiantes universitarios demuestra que el medio de lectura afecta significativamente la comprensión de textos expositivos. El papel impreso produce un rendimiento superior al smartphone, especialmente en preguntas de nivel inferencial que exigen construir un modelo de situación coherente. La lectura en teléfono móvil degrada la retención profunda debido a la pérdida de referencias espaciales y a la fatiga del scroll vertical. El vocabulario actúa como factor amortiguador fundamental, subrayando la necesidad de reservar los textos complejos para el papel o pantallas grandes con lectura reflexiva.",
-      "formalRef": "Tabullo, A. J., & Teruya, P. Y. (2026). Efectos del medio de lectura en la comprensión de textos en estudiantes universitarios. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.583"
+      "conclusion": "El estudio experimental con 128 estudiantes universitarios demuestra que el medio de lectura afecta significativamente la comprensión de textos expositivos. La comprensión fue menor al leer en smartphone que en pantalla de PC, y entre los ingresantes de Ingeniería con vocabulario bajo también fue peor que en papel. Los ingresantes de Ingeniería comprendieron mejor que los de Ciencias de la Salud en todos los medios, sin que ello se deba a su vocabulario. Los resultados sugieren mayores costos cognitivos y una lectura más superficial en el móvil, por lo que se recomienda desalentar su uso para estudiar.",
+      "formalRef": "Tabullo, Á. J., Teruya, P. Y., Puliafito-Hamann, E. S., & Bertaina-Lucero, N. (2026). Efectos del medio de lectura en la comprensión de textos en estudiantes universitarios de primer año. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.583"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿En qué tipo de preguntas se observó una desventaja estadísticamente significativa del smartphone frente al papel impreso?",
+          "q": "¿Qué comparación mostró una diferencia estadísticamente significativa en el análisis general del estudio?",
           "options": [
-            "En las preguntas de memoria literal sobre fechas.",
-            "En las preguntas inferenciales complejas que exigían conectar ideas a lo largo del texto.",
-            "En preguntas de verdadero o falso sobre el título.",
-            "En ninguna, el smartphone fue superior en todo."
+            "Mayor comprensión en papel que en pantalla de PC.",
+            "Menor comprensión en smartphone que en pantalla de PC.",
+            "Mayor comprensión en smartphone que en PC.",
+            "Ninguna diferencia significativa entre medios."
           ],
           "correct": 1
         },
@@ -156,12 +156,12 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué fenómeno metacognitivo se detectó en los lectores de smartphone a pesar de sus peores calificaciones?",
+          "q": "¿Qué grupo de estudiantes mostró la peor comprensión al leer en smartphone?",
           "options": [
-            "Una baja autoestima injustificada.",
-            "Una ilusión de comprensión: sobreestimaron su rendimiento creyendo haber entendido igual que los lectores en papel.",
-            "Reconocieron espontáneamente que no habían entendido nada.",
-            "Se negaron a completar el cuestionario."
+            "Los ingresantes de Ciencias de la Salud con alto vocabulario.",
+            "Los ingresantes de Ingeniería con vocabulario bajo.",
+            "Los estudiantes con mayor hábito de lectura recreativa.",
+            "Los estudiantes con mayor edad."
           ],
           "correct": 1
         },
@@ -182,7 +182,7 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "La ilusión de la pantalla es peligrosa: creemos que leemos mejor porque scrolleamos rápido, pero retenemos menos.",
+      "text": "Leer en el móvil puede parecer cómodo y rápido, pero la comprensión de textos densos se resiente.",
       "position": "bottom-right"
     },
     "viaje": {
@@ -190,11 +190,11 @@
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El smartphone se desploma en las preguntas inferenciales! El papel sigue siendo el rey de la profundidad mental.",
+      "text": "¡El smartphone rinde peor que la pantalla de PC! Y entre los futuros ingenieros con bajo vocabulario, el papel marca la diferencia.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "Usa el móvil para mensajearte, pero si quieres aprobar un examen difícil, imprímelo o léelo en monitor grande sin scroll.",
+      "text": "Usa el móvil para mensajes breves, pero para estudiar textos densos, mejor imprímelos o léelos en una pantalla de computadora.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -211,110 +211,217 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Efecto del Medio de Lectura en la Comprensión Universitaria",
-    "descripcion": "Comparativa experimental entre papel, PC y smartphone: impacto en comprensión literal e inferencial, ilusión metacognitiva y efecto protector del vocabulario.",
+    "titulo": "Mapa conceptual: Efectos del medio de lectura en la comprensión universitaria (Ocnos 25(1) 2026)",
+    "descripcion": "Experimento transversal que compara en 128 ingresantes argentinos la comprensión de un texto expositivo leído en papel, PC o smartphone, examinando el aporte del vocabulario, el área de estudio y los hábitos lectores, y concluye desalentando el estudio en el teléfono móvil.",
     "nodos": [
       {
         "id": "1",
-        "label": "Efecto del Medio de Lectura",
-        "color": "#c73e1d"
+        "label": "Enfoque Multicomponencial de la Comprensión",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Abusamra et al. (2009) jerarquizan la información mediante componentes de contenido (esquema del texto, hechos y secuencias, semántica léxica), de elaboración (sintaxis, cohesión, inferencias) y metacognitivos; el test de 12 ítems se construyó sobre ellos."
       },
       {
         "id": "2",
-        "label": "Papel Impreso (Liderazgo)",
-        "color": "#2a5a75"
+        "label": "Vista Simple y Activa de la Lectura",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La comprensión resulta del reconocimiento de palabras y la comprensión del lenguaje (Hoover y Tunmer, 2018); su actualización (Duke y Cartwright, 2021) identifica la fluidez y el vocabulario como habilidades puente entre ambos componentes."
       },
       {
         "id": "3",
-        "label": "Smartphone (Caída Inferencial)",
-        "color": "#e76f51"
+        "label": "Desventaja de la Pantalla",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Los metaanálisis de Delgado et al. (2018) y Clinton-Lisell (2019) muestran ventaja del papel en textos expositivos (no narrativos) por una lectura menos atenta y más superficial. En Argentina, Cotton et al. (2023) hallaron peor comprensión en smartphone que en computadora, y Honma et al. (2022) mayor demanda cognitiva."
       },
       {
         "id": "4",
-        "label": "Monitor PC (Rendimiento Medio)",
-        "color": "#5b9eaa"
+        "label": "Baja Comprensión en Argentina",
+        "color": "#f4d068",
+        "role": "Marco teórico",
+        "descripcion": "Según PISA, el 54.5% de los adolescentes argentinos evaluados presenta serias dificultades de comprensión (OCDE, 2023), y en universidades latinoamericanas la comprensión rara vez supera el nivel literal (De-la-Peña y Luque-Rojas, 2021), con masificación de los medios digitales (OCDE, 2021)."
       },
       {
         "id": "5",
-        "label": "Comprensión Inferencial Profunda",
-        "color": "#88b04b"
+        "label": "Objetivo: Comparar Tres Medios",
+        "color": "#e76f51",
+        "role": "Objetivo",
+        "descripcion": "Comparar la comprensión de un texto expositivo en papel, pantalla de computadora y smartphone en ingresantes universitarios, y examinar los efectos del área de estudio, el vocabulario y los hábitos de lectura y uso de pantallas, con sus posibles interacciones con el medio."
       },
       {
         "id": "6",
-        "label": "Desplazamiento Vertical (Scroll)",
-        "color": "#f4d068"
+        "label": "Muestra de 128 Ingresantes en Mendoza",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "128 estudiantes de primer año de Ingeniería (52.3%) y Ciencias de la Salud (47.7%) de la Universidad de Mendoza (43.7% mujeres; edad media 18.6 ± 2.61), asignados a tres condiciones de lectura; muestreo por conveniencia con exclusión de trastornos del desarrollo, psicológicos, neurológicos o de lectura."
       },
       {
         "id": "7",
-        "label": "Mapa Espacial del Texto",
-        "color": "#2a9d8f"
+        "label": "Texto Expositivo sobre Discalculia",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "'Matemática, cerebro y discalculia' de Valeria Abusamra: 1113 palabras calificadas como 'algo difícil' con la escala INFLESZ, evaluadas con 12 preguntas de opción múltiple construidas para el modelo multicomponencial (α = .67), test estandarizado por Cotton et al. (2023)."
       },
       {
         "id": "8",
-        "label": "Ilusión de Comprensión",
-        "color": "#9b82c3"
+        "label": "Vocabulario K-BIT y Encuesta de Hábitos",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "Versión informatizada del subtest de definiciones del K-BIT (37 ítems; Kaufman y Kaufman, 2000) y una encuesta ad hoc con escala Likert de 0 a 7 sobre exposición a pantallas, lectura de estudio y recreativa y medio preferido (papel, PC o celular)."
       },
       {
         "id": "9",
-        "label": "Vocabulario como Escudo",
-        "color": "#264653"
+        "label": "Análisis: ANOVA, ANCOVA y Correlaciones",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Correlaciones de Spearman para hábitos ordinales; ANOVA factorial 2 × 2 y ANCOVA con vocabulario o edad como covariables, prueba de Shapiro-Wilk, ajuste de Bonferroni y tamaño del efecto eta-cuadrado parcial."
       },
       {
         "id": "10",
-        "label": "Ergonomía del Estudio Universitario",
-        "color": "#f4a261"
+        "label": "Menor Comprensión en Smartphone",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Efecto principal del medio (F(2,123)=3.13; p=.048; η²=.026): en post-hoc la comprensión fue menor en smartphone que en PC (p=.048), sin diferencia significativa con papel en el análisis general. El 21.4% declaró el smartphone como medio preferido para estudiar."
+      },
+      {
+        "id": "11",
+        "label": "Ingeniería Supera a Ciencias de la Salud",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "Efecto del área (F(1,123)=40.14; p<.001; η²=.239): comprensión media de 51.4% en Ingeniería frente a 36.2% en Ciencias de la Salud, pese a puntajes de vocabulario equivalentes (13.9 vs. 14; p=.909), por lo que la ventaja no se atribuye al léxico."
+      },
+      {
+        "id": "12",
+        "label": "Interacción Medio, Carrera y Vocabulario",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Con el vocabulario como factor (interacción F(2,98)=3.553; p=.032), los ingresantes a Ingeniería con vocabulario bajo comprendieron menos en smartphone que en PC (p=.004) y papel (p=.043), y menos que sus pares con vocabulario alto en el mismo dispositivo (p=.002)."
+      },
+      {
+        "id": "13",
+        "label": "Vocabulario: Único Predictor Significativo",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "El vocabulario fue el único predictor de la comprensión (rho=.198; p=.023; F(1,123)=4.41; p=.038 como covariable). Contrariamente a las hipótesis, no hubo efectos de los hábitos de lectura, del uso de pantallas ni del medio preferido o coincidente."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Costo Cognitivo del Móvil",
+        "color": "#c73e1d",
+        "role": "Discusión",
+        "descripcion": "Los costos atribuidos a distracciones y menor profundidad de procesamiento concuerdan con neuroimagen: mayor costo metabólico prefrontal (Lee et al., 2024; Honma et al., 2022) y menor procesamiento semántico por N400 (Froud et al., 2024). Se hipotetiza un efecto piso en Salud y, para la ventaja de Ingeniería, trayectoria escolar, nivel socioeconómico de la escuela o inteligencia fluida (Raven; González et al., 2008)."
+      },
+      {
+        "id": "15",
+        "label": "Conclusión: Desalentar el Estudio Móvil",
+        "color": "#2a5a75",
+        "role": "Conclusiones",
+        "descripcion": "Ante el bajo rendimiento general y la peor comprensión en smartphone, se recomienda desalentar el uso de teléfonos para estudiar, máxime con el avance de la lectura digital tras la pandemia. Se proponen estudios con inteligencia fluida, funciones ejecutivas, variables motivacionales y diseños longitudinales."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones: Muestra y Autorreporte",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "Muestra pequeña que acota la generalización; supervisión en aula que puede enmascarar diferencias (Fontaine et al., 2021); ausencia de medidas cognitivas generales; autorreporte insuficiente para los hábitos (alternativa: Test de Reconocimiento de Autores); y exclusión de actitud, motivación e interés por el texto."
       }
     ],
     "aristas": [
       {
         "from": "1",
-        "to": "2",
-        "label": "demuestra la superioridad del"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "revela los riesgos del"
-      },
-      {
-        "from": "1",
-        "to": "4",
-        "label": "evalúa el papel de la"
+        "to": "5",
+        "label": "plantea el"
       },
       {
         "from": "2",
         "to": "5",
-        "label": "preserva de forma óptima la"
+        "label": "respalda el"
       },
       {
         "from": "3",
+        "to": "5",
+        "label": "motiva el"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "contextualiza el"
+      },
+      {
+        "from": "5",
         "to": "6",
-        "label": "abusa del perjudicial"
+        "label": "se ejecutó con la"
       },
       {
         "from": "6",
         "to": "7",
-        "label": "destruye la formación del"
+        "label": "leyó el"
       },
       {
-        "from": "3",
+        "from": "6",
         "to": "8",
-        "label": "induce una peligrosa"
+        "label": "completó la"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "aportó datos al"
+      },
+      {
+        "from": "7",
+        "to": "1",
+        "label": "se construyó según el"
       },
       {
         "from": "9",
-        "to": "5",
-        "label": "amortigua la pérdida en la"
+        "to": "10",
+        "label": "detectó la"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "detectó la"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "confirmó que el"
+      },
+      {
+        "from": "12",
+        "to": "9",
+        "label": "emergió del"
       },
       {
         "from": "10",
-        "to": "2",
-        "label": "recomienda para el estudio denso el"
+        "to": "14",
+        "label": "se explica por el"
       },
       {
-        "from": "10",
-        "to": "3",
-        "label": "desaconseja enfáticamente el uso del"
+        "from": "11",
+        "to": "14",
+        "label": "se atribuye en la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "ilumina la"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "converge con la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "concluye en la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "se acota por las"
       }
     ]
   }

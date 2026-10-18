@@ -6,15 +6,15 @@
     "year": "2026",
     "journal": "Ocnos 25(2)",
     "doi": "10.18239/ocnos_2026.25.2.667",
-    "gancho": "¿Por qué las universitarias en el espectro autista subestiman drásticamente su comprensión lectora incluso cuando su rendimiento real es sobresaliente?",
+    "gancho": "¿Por qué las universitarias en el espectro autista subestiman drásticamente su comprensión lectora incluso cuando su rendimiento real está dentro de la norma?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#5b9eaa",
     "colorAlt": "#2a5a75",
     "bg": "from-ocean-base/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-6.png",
+    "image": "/assets/portadas/tea_mujeres.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-6.png",
+      "image": "/assets/portadas/tea_mujeres.jpg",
       "name": "Dra. Verónica Rebolledo-Luna",
       "role": "Investigadora en Neurodiversidad y Metacognición, Universidad Católica de la Santísima Concepción (Chile)"
     }
@@ -46,7 +46,7 @@
       ]
     },
     "conflicto": {
-      "problema": "Persiste una notable brecha de conocimiento sobre cómo las mujeres universitarias con TEA procesan textos de nivel superior y regulan su comprensión. Mientras la literatura previa en autismo advertía que solo un tercio alcanza niveles promedio de comprensión lectora (Solari et al., 2019), poco se sabía sobre aquellas que ingresan a la universidad con bajos requerimientos de apoyo pero con diagnósticos tardíos. La pregunta central es: ¿presentan un perfil lector homogéneo o existen discrepancias entre su comprensión literal, su razonamiento inferencial y su capacidad para juzgar con precisión su propio desempeño?",
+      "problema": "Persiste una notable brecha de conocimiento sobre cómo las mujeres universitarias con TEA procesan textos de nivel superior y regulan su comprensión. Mientras la literatura previa en autismo advertía que solo el 31.2% alcanza niveles promedio de comprensión lectora (Solari et al., 2019), poco se sabía sobre aquellas que ingresan a la universidad con bajos requerimientos de apoyo pero con diagnósticos tardíos. La pregunta central es: ¿presentan un perfil lector homogéneo o existen discrepancias entre su comprensión literal, su razonamiento inferencial y su capacidad para juzgar con precisión su propio desempeño?",
       "porQueImporta": "En la Educación Superior, la autonomía académica depende directamente de la capacidad del estudiante para autoevaluar lo que aprende. Si una estudiante universitaria con TEA comprende el texto pero cree sistemáticamente que lo hizo mal, o si no logra regular las pérdidas de coherencia en lecturas metafóricas o críticas, su trayectoria formativa y su bienestar emocional corren peligro de deserción o frustración invisible.",
       "dataPoints": [
         "Muestra de 23 mujeres universitarias de primer año en 3 universidades de Concepción (Chile).",
@@ -84,12 +84,30 @@
       "titulo": "Ruta metodológica: Evaluación estandarizada y calibración del desempeño",
       "narrativa": "Para abordar este fenómeno, las investigadoras diseñaron un estudio cuantitativo, no experimental de corte transversal con alcance exploratorio-correlacional. La muestra fue convocada mediante invitación institucional en tres universidades de Concepción, asegurando que las participantes contaran con diagnóstico formal emitido por neurólogo o psiquiatra en los últimos 24 meses y sin comorbilidades del neurodesarrollo que interfirieran en las pruebas.",
       "detalles": [
-        { "label": "Diseño", "value": "Exploratorio-correlacional, no experimental de corte transversal." },
-        { "label": "Población", "value": "23 estudiantes universitarias de primer año (18-24 años, diagnóstico tardío a los 16 años)." },
-        { "label": "Prueba de Comprensión", "value": "Lectum Forma 7A (Riffo et al., 2011), 32 ítems de selección múltiple sobre 4 textos (Alfa = .872)." },
-        { "label": "Inventario Metacomprensivo", "value": "Inventario MI (Soto et al., 2018): Conocimiento sobre la cognición y 5 dimensiones de control." },
-        { "label": "Métrica de Calibración", "value": "Escala continua de confianza (0-100) antes (prospectiva) y después (retrospectiva) contrastada con el puntaje real." },
-        { "label": "Análisis Estadístico", "value": "Software JASP v0.16.4: correlaciones no paramétricas de Spearman y regresiones lineales simples independientes." }
+        {
+          "label": "Diseño",
+          "value": "Exploratorio-correlacional, no experimental de corte transversal."
+        },
+        {
+          "label": "Población",
+          "value": "23 estudiantes universitarias de primer año (18-24 años, diagnóstico tardío a los 16 años)."
+        },
+        {
+          "label": "Prueba de Comprensión",
+          "value": "Lectum Forma 7A (Riffo et al., 2011), 32 ítems de selección múltiple sobre 4 textos (Alfa = .872)."
+        },
+        {
+          "label": "Inventario Metacomprensivo",
+          "value": "Inventario MI (Soto et al., 2018): Conocimiento sobre la cognición y 5 dimensiones de control."
+        },
+        {
+          "label": "Métrica de Calibración",
+          "value": "Escala continua de confianza (0-100) antes (prospectiva) y después (retrospectiva) contrastada con el puntaje real."
+        },
+        {
+          "label": "Análisis Estadístico",
+          "value": "Software JASP v0.16.4: correlaciones no paramétricas de Spearman y regresiones lineales simples independientes."
+        }
       ],
       "limitaciones": [
         "Tamaño muestral acotado (n = 23), comprensible por la especificidad poblacional pero que exige cautela ante el riesgo de sobreajuste (overfitting) en los modelos de regresión.",
@@ -237,31 +255,240 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Comprensión y Metacomprensión en Mujeres con TEA",
-    "descripcion": "Interacciones entre el fenotipo femenino del autismo, la calibración lectora, las dimensiones de Lectum y los andamiajes pedagógicos en Educación Superior.",
+    "titulo": "Mapa conceptual: Comprensión y metacomprensión en universitarias con TEA (Ocnos 25(2) 2026)",
+    "descripcion": "Recorre el estudio exploratorio-correlacional desde la detección tardía y el camuflaje social en el TEA femenino hasta la medición con Lectum 7A, el Inventario MI y los juicios de calibración en 23 universitarias de Concepción: comprensión normativa con brecha crítica, subestimación retrospectiva, asociaciones de regresión, su discusión con la teoría de la mente y la alexitimia, y las limitaciones de la muestra.",
     "nodos": [
-      { "id": "1", "label": "Comprensión Lectora en TEA", "color": "#2a5a75" },
-      { "id": "2", "label": "Fenotipo Femenino y Camuflaje", "color": "#e88b8c" },
-      { "id": "3", "label": "Diagnóstico Tardío (16 años)", "color": "#f4d068" },
-      { "id": "4", "label": "Habilidades Metacomprensivas", "color": "#5b9eaa" },
-      { "id": "5", "label": "Dimensión Textual Sólida", "color": "#88b04b" },
-      { "id": "6", "label": "Debilidad en Dimensión Crítica", "color": "#e76f51" },
-      { "id": "7", "label": "Subestimación Retrospectiva", "color": "#9b82c3" },
-      { "id": "8", "label": "Falla en Regulación Online", "color": "#2a9d8f" },
-      { "id": "9", "label": "Educación Superior Inclusiva", "color": "#264653" },
-      { "id": "10", "label": "Andamiaje Metacognitivo Explícito", "color": "#f4a261" }
+      {
+        "id": "1",
+        "label": "Detección tardía del TEA en niñas",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "El DSM-5-TR (APA, 2022) define el TEA por desafíos de interacción y comunicación y patrones restringidos; en Chile afecta a 1 de cada 51 niños (Yáñez et al., 2021). La detección es significativamente menor en niñas, cuyas conductas se perciben más adaptadas (Hiller et al., 2014; López-Espejo, 2025)."
+      },
+      {
+        "id": "2",
+        "label": "Camuflaje social en mujeres con TEA",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Las estrategias de camuflaje —imitación de comportamientos y cumplimiento superficial de normas sociales— complican la detección y afectan el bienestar y desempeño académico (Hull et al., 2020; Dean et al., 2017). Las herramientas tradicionales han sido poco sensibles a la expresión femenina del espectro (Begeer et al., 2013)."
+      },
+      {
+        "id": "3",
+        "label": "Modelo de situación y metacomprensión",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Comprender un texto es construir un modelo de situación coherente (Kintsch, 1998) que la metacomprensión evalúa y regula en línea (McNamara, 2004). La precisión metacomprensiva es la correspondencia entre los juicios del lector y su rendimiento real (Soto et al., 2018)."
+      },
+      {
+        "id": "4",
+        "label": "Objetivos: niveles, calibración y asociación",
+        "color": "#264653",
+        "role": "Objetivo",
+        "descripcion": "Describir los niveles de comprensión lectora y metacomprensión en universitarias con TEA; analizar la precisión de los juicios prospectivos y retrospectivos mediante calibración absoluta; y explorar la asociación lineal entre cada dimensión metacomprensiva y el rendimiento lector."
+      },
+      {
+        "id": "5",
+        "label": "Diseño exploratorio-correlacional transversal",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Estudio cuantitativo, no experimental y de corte transversal (Sánchez-Flores, 2019), con alcance exploratorio-correlacional. Se usaron correlaciones de Spearman por incumplimiento de normalidad y regresiones lineales simples independientes, sin regresión múltiple por riesgo de sobreajuste."
+      },
+      {
+        "id": "6",
+        "label": "23 universitarias de Concepción, Chile",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Muestreo por conveniencia de 23 mujeres de 18 a 24 años, primer año de Humanidades y Ciencias Sociales (Pedagogía, Sociología, Derecho, Periodismo, Trabajo Social) en tres universidades de Concepción. Criterios: diagnóstico formal por neurólogo o psiquiatra no mayor a 24 meses y sin otros diagnósticos del neurodesarrollo; edad media de diagnóstico: 16 años."
+      },
+      {
+        "id": "7",
+        "label": "Lectum 7A y Inventario MI",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "Lectum versión 7 forma A: cuatro textos y 32 ítems sobre las dimensiones textual, pragmática y crítica, con Alfa=.872 (Riffo et al., 2011). Inventario de Metacomprensión (Soto et al., 2018): conocimiento de la cognición y cinco dimensiones de control (planificación, evaluación de proceso y resultado, regulación de la comprensión y de la incomprensión)."
+      },
+      {
+        "id": "8",
+        "label": "Juicios prospectivo y retrospectivo",
+        "color": "#e76f51",
+        "role": "Método",
+        "descripcion": "Escala continua de confianza 0-100 antes y después de la prueba; la calibración absoluta se estimó por diferencia simple, con enfoque de puntuación residual (Schraw, 2009). Dos sesiones de 90 minutos aplicadas por una investigadora y analizadas en JASP v0.16.4."
+      },
+      {
+        "id": "9",
+        "label": "Percentil global 73,5 en Lectum",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "El percentil total medio (73,478) se ubica en rango normal, en contraste con el 31,2% de desempeño promedio reportado en población TEA por Solari et al. (2019), diferencia que las autoras atribuyen también al perfil de la muestra universitaria."
+      },
+      {
+        "id": "10",
+        "label": "Dimensión crítica 40,7: la más baja",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "La dimensión textual alcanzó el percentil medio más alto (72,565) y la crítica el más bajo (40,652), con desempeño inferior en ítems implícitos (69,261) frente a explícitos (72,348), lo que señala fragilidad inferencial."
+      },
+      {
+        "id": "11",
+        "label": "Planificación alta, regulación en línea baja",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "En el Inventario MI la planificación obtuvo la media más alta (17,522) y la regulación de la comprensión la más baja (9,652), indicando dificultades para monitorear la comprensión mientras leen y detectar cuando no comprenden."
+      },
+      {
+        "id": "12",
+        "label": "Subestimación retrospectiva (t=6,42; d=1,34)",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "Las participantes subestimaron su desempeño antes (-3,478) y después (-16,522) de la prueba, con una diferencia retrospectiva-prospectiva estadísticamente significativa: t(22)=6,423, p<.001 y tamaño del efecto grande (d=1,34), contraviniendo la ventaja habitual de los juicios retrospectivos."
+      },
+      {
+        "id": "13",
+        "label": "Regresiones simples con R² .77 a .85",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "Cada dimensión metacomprensiva mostró asociación lineal elevada con la comprensión lectora: total del inventario R²=.825 (R² aj. .817; RMSE 12,264), regulación de la incomprensión .850 y regulación de la comprensión .773. Las autoras advierten que podrían estar inflados por el tamaño muestral."
+      },
+      {
+        "id": "14",
+        "label": "Teoría de la mente y lectura literal",
+        "color": "#c73e1d",
+        "role": "Discusión",
+        "descripcion": "La dimensión crítica exige inferir intenciones del autor, detectar ironías y transferir información, habilidades ligadas a la teoría de la mente (Baron-Cohen et al., 1985; Atkinson et al., 2017) y trabadas por la interpretación literal del lenguaje (McIntyre et al., 2017)."
+      },
+      {
+        "id": "15",
+        "label": "Alexitimia y autoestima académica",
+        "color": "#2a9d8f",
+        "role": "Discusión",
+        "descripcion": "La subestimación sistemática concuerda con niveles más bajos de autoestima global y percepción de poder (Nguyen et al., 2020) y con la alexitimia cognitiva descrita en TEA (Strang et al., 2024; Sifneos, 1973), que dificultaría identificar el propio estado interno al juzgar el desempeño."
+      },
+      {
+        "id": "16",
+        "label": "Andamiaje metacognitivo en Educación Superior",
+        "color": "#f4a261",
+        "role": "Conclusiones",
+        "descripcion": "Los hallazgos piden enseñar explícitamente a identificar fallos de comprensión durante la lectura y a usar relectura, parafraseo e inferencias, con menor automatismo estratégico en mujeres con TEA (Carpenter y Williams, 2023) y superando los ajustes meramente de tiempo."
+      },
+      {
+        "id": "17",
+        "label": "Limitaciones: n=23, sin grupo control",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "La muestra pequeña limita estabilidad y generalización (autoselección posible; solo autoinformes; ausencia de comparación sin TEA; exclusión de comorbilidades; influencia del diagnóstico tardío en la autopercepción) y el diseño transversal impide concluir causalidad, solo asociación."
+      }
     ],
     "aristas": [
-      { "from": "2", "to": "3", "label": "ocasiona retraso en" },
-      { "from": "3", "to": "7", "label": "impacta negativamente en" },
-      { "from": "1", "to": "5", "label": "alcanza nivel normal en" },
-      { "from": "1", "to": "6", "label": "presenta brecha en" },
-      { "from": "4", "to": "1", "label": "explica 82% de varianza en" },
-      { "from": "4", "to": "8", "label": "evidencia baja puntuación en" },
-      { "from": "7", "to": "8", "label": "se agudiza debido a" },
-      { "from": "6", "to": "10", "label": "demanda intervención mediante" },
-      { "from": "10", "to": "9", "label": "fortalece la política de" },
-      { "from": "8", "to": "10", "label": "se compensa mediante" }
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se explica en parte por el"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "urgencia que fundamenta el"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "aporta los constructos del"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "contextualiza el"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se ejecutó con un"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "reclutó por conveniencia a las"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "completaron la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se acompañó de los"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "registró el"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "evidenció la brecha por la"
+      },
+      {
+        "from": "7",
+        "to": "11",
+        "label": "destacó el contraste entre"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "reveló la"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "alimentó los"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "se atribuye a la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "se relaciona con la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "demanda el"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "justifica el"
+      },
+      {
+        "from": "11",
+        "to": "16",
+        "label": "se contrarresta con el"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "respalda la eficacia del"
+      },
+      {
+        "from": "17",
+        "to": "13",
+        "label": "acota la interpretación de las"
+      },
+      {
+        "from": "17",
+        "to": "9",
+        "label": "matiza la lectura del"
+      },
+      {
+        "from": "6",
+        "to": "17",
+        "label": "su tamaño determina las"
+      }
     ]
   }
 }

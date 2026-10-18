@@ -1,0 +1,395 @@
+{
+  "id": "lecturas_diversidad_competencias_futuros_maestros",
+  "metadata": {
+    "title": "Lecturas para la diversidad: competencias y variables de uso en los futuros maestros",
+    "authors": "Aurora Martínez-Ezquerro",
+    "year": "2020",
+    "journal": "Ocnos 19(3)",
+    "doi": "10.18239/ocnos_2020.19.3.2316",
+    "gancho": "¿Qué libros eligen los futuros maestros para atender la diversidad y de qué fuentes se informan realmente?",
+    "duration": "12-15 min",
+    "badge": "Formación Docente",
+    "disciplina": "Didáctica de la Lengua y Educación Especial",
+    "dimensiones": [
+      "Atención a la Diversidad",
+      "Criterios de Selección",
+      "Literatura Infantil",
+      "Competencia Mediadora"
+    ],
+    "tags": [
+      "formacion_docente",
+      "diversidad",
+      "seleccion_lecturas",
+      "pedagogia_terapeutica",
+      "lij"
+    ],
+    "pistas": [
+      "Estudio de caso longitudinal de 3 promociones (70 alumnos de Pedagogía Terapéutica en La Rioja).",
+      "Hegemonía de búsquedas en Internet y webs editoriales comerciales (32.86%).",
+      "Sesgo temático: el 31.43% elige discapacidades individuales (Down, autismo, dislexia) y olvida ritmos de aprendizaje.",
+      "92.86% elige LIJ narrativa comercial y solo un 7.14% recurre a autores del canon literario tradicional."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "La escuela inclusiva exige docentes capaces de seleccionar lecturas que sensibilicen y aborden la diversidad humana, pero existía una ausencia de estudios empíricos sobre las fuentes de información, motivos y criterios reales que guían la elección de los futuros maestros.",
+      "desafio": "Evaluar el conocimiento previo de los maestros en formación antes de la intervención universitaria para detectar sesgos, debilidades y dependencias del mercado comercial.",
+      "relevancia": "Ofrece claves para reorientar los planes de estudio del Grado en Educación Primaria hacia una mediación lectora crítica y plural."
+    },
+    "conflicto": {
+      "pregunta": "¿Eligen los futuros docentes sus lecturas para la diversidad con criterio pedagógico fundado o dependen de búsquedas superficiales en internet y experiencias personales aisladas?",
+      "posiciones": [
+        "Criterio formativo profesional: la selección de obras debe fundamentarse en rigor psicopedagógico, calidad estética y diversidad holística.",
+        "Criterio vicario y comercial: la elección se guía por la oferta hegemónica de las editoriales en la red, recomendaciones informales y vivencias familiares personales."
+      ],
+      "tension": "La tensión entre la aspiración de una escuela inclusiva multidiversa y la tendencia a reducir la diversidad a discapacidades clínicas visibles a través de obras comerciales edulcoradas.",
+      "deepDives": [
+        {
+          "id": "div-conf-1",
+          "triggerLabel": "Normativa española y atención a la diversidad",
+          "type": "context",
+          "content": "El RD 126/2014 fijó un tiempo diario de lectura obligatoria y detalló las Necesidades Específicas de Apoyo Educativo (NEAE), exigiendo maestros preparados para su abordaje curricular."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Estudio exploratorio con tres encuestas en la mención de Pedagogía Terapéutica",
+      "narrativa": "La investigadora siguió a 70 estudiantes de 4º de Grado en Educación Primaria durante tres cursos consecutivos (2017-2020) en la Universidad de La Rioja, administrando tres encuestas diagnósticas antes de impartir los contenidos didácticos.",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "70 estudiantes de la mención de Pedagogía Terapéutica (88.57% mujeres, 87% de 21 años) de 3 promociones."
+        },
+        {
+          "label": "Corpus temporal",
+          "value": "Cursos académicos 2017/2018 (23 alumnos), 2018/2019 (22) y 2019/2020 (25)."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "Tres encuestas: canales de información utilizados, motivos de selección y elección de una obra específica."
+        },
+        {
+          "label": "Clasificación analítica",
+          "value": "Modelo tripartito de diversidad: diferencias individuales (capacidades), sociales y contextuales."
+        }
+      ],
+      "limitaciones": [
+        "Muestra de conveniencia reducida a una única universidad y a una mención específica previamente sensibilizada.",
+        "Ausencia de estudios empíricos previos específicos en la literatura para realizar contrastes comparativos."
+      ],
+      "reflexion": "¿Cómo superar la dependencia pasiva de los motores de búsqueda de internet en la formación de mediadores de lectura?",
+      "deepDives": [
+        {
+          "id": "div-viaje-1",
+          "triggerLabel": "Momento de administración de las encuestas",
+          "type": "method",
+          "content": "Las tres encuestas se aplicaron en la segunda semana lectiva de la asignatura 'Lengua Castellana para la Atención a la Diversidad' para asegurar el registro de ideas previas sin contaminación docente."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Se constató una triple brecha formativa: primacía de búsquedas en internet y páginas editoriales comerciales (32.86%), justificación de la selección por experiencias personales afectivas (convivencia familiar, empatía) antes que por criterios pedagógicos, y una concentración abrumadora en diferencias individuales clínicas (31.43%) con olvido sistemático de ritmos de aprendizaje e itinerancia.",
+      "evidenciaCualitativa": "El 92.86% de las obras elegidas fueron novelas de LIJ comercial y solo el 7.14% correspondió a autores canónicos universales (Dahl, Matute, Andersen, Grimm, Unamuno); la poesía y el teatro obtuvieron solo un caso cada uno.",
+      "citaClave": "'Las razones de selección denotan que la experiencia personal condiciona la respuesta por encima de la deseada formación profesional; la complementariedad sería lo deseable.'",
+      "implicacionesDocentes": [
+        "Incorporar en los grados de educación el entrenamiento en búsqueda bibliográfica especializada fuera de los algoritmos comerciales.",
+        "Ampliar el canon formativo integrando poesía, álbum ilustrado y teatro para la diversidad.",
+        "Capacitar al futuro profesorado en diferencias contextuales, ritmos de aprendizaje y situaciones de vulnerabilidad social."
+      ],
+      "deepDives": [
+        {
+          "id": "div-rev-1",
+          "triggerLabel": "Dependencia de librerías y dependientes",
+          "type": "data",
+          "content": "En la búsqueda física en librerías (11.43%), varios futuros docentes reconocieron dejarse convencer ciegamente por el criterio comercial del dependiente ante la falta de secciones especializadas."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Educación inclusiva, modelo tripartito de diversidad y canon formativo",
+      "tensiones": [
+        "Sensibilidad personal espontánea vs. competencia profesional pedagógica fundada.",
+        "Consumo acrítico del mercado editorial de LIJ vs. selección de obras de alta densidad estética."
+      ],
+      "autoresClave": [
+        "Martínez-Ezquerro (2016, 2020)",
+        "Caride et al. (2018)",
+        "Arnáiz (2003)",
+        "Moriña (2008)",
+        "Campos & Quiles (2019)"
+      ],
+      "deepDives": [
+        {
+          "id": "div-marco-1",
+          "triggerLabel": "Modelo de tres órdenes de diversidad",
+          "type": "theory",
+          "content": "Martínez-Ezquerro clasifica la diversidad en diferencias individuales (cognitivas, sensoriales), sociales (etnia, género, cultura) y contextuales (itinerancia, hospitalización, ritmos), superando taxonomías médicas cerradas."
+        }
+      ]
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Qué competencias mediadoras y fuentes de selección demuestran los futuros maestros de Primaria al elegir lecturas sobre diversidad?",
+      "mecanismoClave": "La ausencia de una formación literaria sistemática en diversidad conduce a que los maestros elijan libros guiados por algoritmos comerciales de internet y vivencias biográficas familiares, restringiendo la mirada a la discapacidad visible.",
+      "conclusionGeneral": "La formación docente inicial debe capacitar explícitamente en la selección crítica de lecturas para la diversidad, complementando las vivencias afectivas con rigor estético y una comprensión multidiversa e inclusiva de la infancia."
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente de las Lecturas Inclusivas",
+        "descripcion": "Atrapa conceptos de diversidad individual, social y contextual evitando trampas comerciales.",
+        "instrucciones": "Recoge tokens de obras canónicas y supera preguntas sobre los hallazgos de Martínez-Ezquerro. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Futuros Maestros y Diversidad",
+        "descripcion": "Comprueba tus conocimientos sobre los porcentajes de elección, canales de información y sesgos de la muestra.",
+        "instrucciones": "Acierta contrarreloj para mantener tu racha docente y encabezar el tablero de mediadores."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de la Mediación Inclusiva",
+        "descripcion": "Asciende desde la dependencia comercial de internet hasta la selección curricular experta y emancipadora.",
+        "instrucciones": "Supera cada nivel demostrando dominio de los criterios de selección de lecturas inclusivas."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Lecturas para la diversidad en la formación docente (Martínez-Ezquerro, 2020)",
+      "descripcion": "Estudio de caso longitudinal sobre 70 futuros maestros de Pedagogía Terapéutica que analiza canales de búsqueda, motivos de elección y géneros literarios seleccionados para abordar la diversidad.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Modelo de escuela inclusiva y atención a la diversidad",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Marco pedagógico y legal (ODS 4, LOMCE, RD 126/2014) que concibe la atención a la diversidad como un principio transversal de equidad que exige mediadores docentes preparados para atender a todo el alumnado."
+        },
+        {
+          "id": "2",
+          "label": "La lectura literaria como vía de sensibilización empática",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Fundamentación teórica (Caride, Arnáiz, Moriña) que defiende la lectura como experiencia formativa insustituible para construir una mirada comprensiva, sensible y respetuosa hacia las diferencias humanas."
+        },
+        {
+          "id": "3",
+          "label": "Modelo tripartito de diversidad de Martínez-Ezquerro",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Taxonomía analítica que estructura la diversidad en tres dimensiones complementarias: diferencias individuales (físicas, cognitivas), diferencias sociales (étnicas, culturales) y diferencias contextuales o ambientales."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: explorar canales de información de futuros maestros",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Indagar qué medios físicos o digitales emplean los estudiantes de último curso de Grado en Educación Primaria para localizar y consultar obras de lectura destinadas al trabajo de la diversidad en las aulas."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: analizar razones de selección y títulos elegidos",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Describir los motivos explícitos que justifican la elección de las lecturas y catalogar las obras concretas escogidas para diseñar una intervención didáctica curricular en la mención de Pedagogía Terapéutica."
+        },
+        {
+          "id": "6",
+          "label": "Diseño de estudio de caso exploratorio longitudinal",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Investigación empírico-descriptiva de corte exploratorio desarrollada a lo largo de tres cursos académicos consecutivos (2017/18 a 2019/20) en la Facultad de Educación de la Universidad de La Rioja."
+        },
+        {
+          "id": "7",
+          "label": "Muestra de 70 alumnos de Pedagogía Terapéutica",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Participación de 70 estudiantes de 4º curso de Grado en Primaria (88.57% mujeres, 87% de 21 años, sin variaciones sociodemográficas significativas entre promociones) matriculados en asignatura específica."
+        },
+        {
+          "id": "8",
+          "label": "Administración de tres encuestas diagnósticas previas",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Instrumentación estructurada en tres cuestionarios aplicados en la segunda semana de curso para recabar ideas previas sobre: (1) canales de búsqueda, (2) motivos de elección y (3) selección de una obra única."
+        },
+        {
+          "id": "9",
+          "label": "Hegemonía de búsquedas en Internet y webs comerciales",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Internet aglutinó el 32.86% de las respuestas de búsqueda (13 páginas de editoriales comerciales y 10 blogs), mientras que las bibliotecas físicas solo aportaron el 14.29% y las redes sociales el 11.43%."
+        },
+        {
+          "id": "10",
+          "label": "Primacía de la experiencia personal sobre el criterio profesional",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Las razones de selección empataron en cuatro factores vivenciales (11.43% cada uno): curiosidad, empatía, origen sociocultural propio y convivencia familiar directa con situaciones de discapacidad o enfermedad."
+        },
+        {
+          "id": "11",
+          "label": "Concentración en diferencias individuales y discapacidad",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El 31.43% de las obras seleccionadas abordó diferencias individuales visibles (Down, autismo, dislexia, parálisis), relegando a la invisibilidad los ritmos de aprendizaje, la itinerancia y la hospitalización infantil."
+        },
+        {
+          "id": "12",
+          "label": "Monopolio de LIJ comercial y marginación del canon",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "De 70 obras, 65 fueron novelas y relatos de LIJ comercial reciente (92.86%), con solo 5 obras del canon literario universal (7.14%) y una presencia prácticamente testimonial de poesía (1 caso) y teatro (1 caso)."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: vulnerabilidad ante algoritmos comerciales",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se discute cómo la falta de alfabetización informacional especializada deja a los futuros docentes expuestos a los catálogos y algoritmos del mercado editorial, cercenando la amplitud temática de la diversidad."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: complementariedad entre afectividad y formación",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se debate que, si bien la empatía personal es un motor vocacional valioso, la selección docente requiere criterios pedagógicos y estéticos fundados para no caer en el didactismo moralizante o superficial."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: muestra específica y carácter preliminar",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "El estudio reconoce limitaciones por centrarse en una muestra reducida de Pedagogía Terapéutica ya sensibilizada hacia las necesidades especiales, sugiriendo ampliar la investigación al conjunto del profesorado."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: urgencia de capacitar en mediación literaria",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye la necesidad de transformar los planes de formación docente inicial, capacitando a los maestros en la selección crítica de obras y diversificando géneros literarios más allá del mercado comercial."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "establece las exigencias formativas de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "fundamenta el valor mediador de"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "aporta la matriz taxonómica a"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se operativiza en el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "guía el análisis de contenido del"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se administra sobre la"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "recopila información mediante la"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "revela cuantitativamente la"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "evidencia en las motivaciones la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "constata en los temas la"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "demuestra en los catálogos el"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "nutre la discusión sobre la"
+        },
+        {
+          "from": "10",
+          "to": "14",
+          "label": "sustenta el debate de la"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "ejemplifica el sesgo en la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "alerta sobre la necesidad de"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "conduce a las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "inspira la propuesta de las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el alcance institucional del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las recomendaciones de las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "revalida los objetivos inclusivos de"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál fue el canal principal utilizado por los futuros maestros para localizar lecturas sobre atención a la diversidad?",
+          "options": [
+            "Búsquedas en motores de internet, blogs y páginas webs de editoriales comerciales.",
+            "Catálogos impresos y fondos especializados de bibliotecas universitarias.",
+            "Recomendaciones de asesores de los centros de formación del profesorado.",
+            "Listados oficiales prescritos por la Consejería de Educación."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "¿Por qué crees que géneros como el teatro y la poesía están prácticamente ausentes (1 caso cada uno) en la selección de lecturas inclusivas de los maestros en formación?"
+        }
+      ]
+    }
+  }
+}

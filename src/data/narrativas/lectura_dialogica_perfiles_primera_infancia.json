@@ -1,0 +1,376 @@
+{
+  "id": "lectura_dialogica_perfiles_primera_infancia",
+  "metadata": {
+    "title": "La lectura dialógica en la promoción de perfiles cognitivos, emocionales y comportamentales en primera infancia",
+    "authors": "Viviana-Andrea Vargas-García, Jessica-Valeria Sánchez-López, Andrés-Camilo Delgado-Reyes, Lorena Aguirre-Aldana y Felipe Agudelo-Hernández",
+    "year": "2020",
+    "journal": "Ocnos 19(1)",
+    "doi": "10.18239/ocnos_2020.19.1.1888",
+    "gancho": "¿Puede la lectura dialógica de libros álbum coordinada entre escuela y hogar con apoyo móvil transformar la memoria y las emociones en preescolares?",
+    "duration": "12-15 min",
+    "badge": "Lectura Dialógica y Neurodesarrollo",
+    "disciplina": "Psicología del Desarrollo y Didáctica de la Lectura",
+    "dimensiones": [
+      "Lectura Dialógica de Whitehurst",
+      "Perfiles Neuropsicológicos BANPE",
+      "Competencias Emocionales",
+      "Aplicación Móvil FamiLectura"
+    ],
+    "tags": [
+      "lectura_dialogica",
+      "primera_infancia",
+      "neurodesarrollo",
+      "lenguaje_expresivo",
+      "familectura",
+      "libro_album"
+    ],
+    "pistas": [
+      "Diseño cuasiexperimental pretest-postest con grupo control (N=34) en preescolares de 4 a 5 años en Cali, Colombia.",
+      "Intervención de seis semanas con 18 talleres en aula y una media de 23 rutinas lectoras familiares guiadas por la app FamiLectura.",
+      "Incrementos significativos en memoria y recuperación, lenguaje comprensivo y lenguaje expresivo evaluados con la batería BANPE.",
+      "Reducción percibida de la tristeza y la rabia sin variaciones comportamentales significativas atribuibles a la corta duración."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "La lectura compartida en la primera infancia suele abordarse de manera fragmentada, estudiando los beneficios cognitivos o emocionales por separado sin integrar su impacto simultáneo en el aula y en el hogar.",
+      "desafio": "Evaluar el impacto multidimensional de una intervención de lectura dialógica basada en libros álbum y mediada tecnológicamente sobre el desarrollo cognitivo, emocional y conductual en niños preescolares.",
+      "relevancia": "Demuestra que la mediación dialógica articulada entre familia y escuela mediante herramientas móviles potencia los procesos mnemónicos y lingüísticos tempranos, reconfigurando la alfabetización inicial."
+    },
+    "conflicto": {
+      "pregunta": "¿De qué forma modifica la lectura dialógica simultánea en escuela y hogar las dimensiones cognitivas, emocionales y comportamentales en la infancia temprana?",
+      "posiciones": [
+        "Enfoque transmisionista tradicional: la lectura de cuentos es una actividad receptiva pasiva centrada en la audición y la decodificación elemental sin andamiaje conversacional.",
+        "Modelo dialógico interactivo: la lectura mediada y reflexiva estimula activamente las funciones ejecutivas, la semántica expresiva y la alfabetización emocional infantil."
+      ],
+      "tension": "La tensión entre la alta exigencia de compromiso familiar para sostener rutinas dialógicas diarias y la brevedad del tiempo de exposición para producir cambios conductuales estables.",
+      "deepDives": [
+        {
+          "id": "read-conf-1",
+          "triggerLabel": "El papel mediador de FamiLectura",
+          "type": "context",
+          "content": "La aplicación móvil FamiLectura permitió registrar en tiempo real las sesiones de lectura en casa, prescribir libros álbum adaptados y sostener la adherencia parental con retroalimentación estadística periódica."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Intervención cuasiexperimental articulada en escuela y familia",
+      "narrativa": "Durante seis semanas, 34 preescolares fueron asignados a un grupo experimental (con 18 talleres docentes y rutinas guiadas en casa con FamiLectura) y un grupo control sin intervención, aplicándose la batería neuropsicológica BANPE, escalas de Conners y cuestionarios socioemocionales.",
+      "detalles": [
+        {
+          "label": "Población y muestra",
+          "value": "34 niños y niñas de 4 a 5 años (17 en grupo experimental y 17 en control) de un colegio privado en Cali, Colombia."
+        },
+        {
+          "label": "Instrumentos estandarizados",
+          "value": "Batería Neuropsicológica BANPE (41 subpruebas), cuestionario ad hoc de exploración emocional y escala Conners / Checklist DSM-IV."
+        },
+        {
+          "label": "Dispositivo de intervención",
+          "value": "Lectura dialógica de Whitehurst (18 sesiones escolares y promedio de 23 rutinas familiares con libros álbum y la app FamiLectura)."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "La lectura dialógica generó mejoras estadísticamente significativas en memoria de trabajo, recuperación de información y lenguaje (comprensivo y expresivo), acompañadas de una reducción cualitativa de la labilidad emocional en el hogar.",
+      "datosClave": [
+        {
+          "label": "Memoria y lenguaje BANPE",
+          "value": "Incrementos significativos (p < .05) exclusivos del grupo experimental en dominios de recuperación y competencia lingüística."
+        },
+        {
+          "label": "Expresión emocional infantil",
+          "value": "Aumento del reconocimiento y expresión emocional de 88% a 99% en el experimental, frente a caídas en el grupo control."
+        },
+        {
+          "label": "Rutinas familiares registradas",
+          "value": "Las familias alcanzaron un promedio de 23 rutinas lectoras mediadas durante las 6 semanas de intervención mediante FamiLectura."
+        }
+      ],
+      "implicacion": "Integrar la lectura dialógica sistemática en la rutina preescolar y en las prácticas de crianza fortalece los cimientos ejecutivos del aprendizaje y la autorregulación emocional temprana."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "Grover J. Whitehurst et al. (1988, 1994)",
+          "concepto": "Lectura dialógica: técnica interactiva donde el adulto interroga, expande y cede progresivamente el rol narrativo al infante."
+        },
+        {
+          "autor": "Feggy Ostrosky et al. (2016)",
+          "concepto": "Batería Neuropsicológica para Preescolares (BANPE) para evaluar dominios de memoria, atención y funciones ejecutivas."
+        },
+        {
+          "autor": "Enrique Riquelme y Felipe Munita (2011, 2013)",
+          "concepto": "Competencia emocional mediada por literatura infantil: reconocimiento, expresión y modulación afectiva en el aula."
+        }
+      ],
+      "enfoque": "Integración de la neuropsicología del desarrollo cognitivo con la didáctica dialógica de la literatura infantil y la tecnología móvil.",
+      "sinergia": "La convergencia del libro álbum como detonante semiótico y la app móvil como andamiaje parental potencia de forma integrada cognición y afecto."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cuáles son los efectos neuropsicológicos, emocionales y conductuales de la lectura dialógica compartida en primera infancia?",
+      "hallazgos": [
+        "Mejora significativa en memoria de recuperación y lenguaje compresivo y expresivo evaluados mediante la batería BANPE.",
+        "Mayor precisión en el reconocimiento y expresión de emociones básicas (alegría, tristeza, rabia y miedo) según docentes y padres.",
+        "Ausencia de variaciones conductuales cuantitativas en Conners, lo que ratifica que la conducta exige intervenciones más prolongadas.",
+        "Alta adherencia familiar gracias a la monitorización formativa y la prescripción de lecturas mediante la aplicación FamiLectura."
+      ],
+      "conclusion": "La lectura dialógica intensiva con libros álbum en la transición familia-escuela estimula selectivamente las redes neurocognitivas del lenguaje y la memoria, consolidando la alfabetización emocional inicial."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Qué dominio cognitivo evidenció ganancias estadísticamente significativas tras la intervención dialógica?",
+          "opciones": [
+            "Atención sostenida y cálculo temprano",
+            "Memoria de recuperación y lenguaje tanto comprensivo como expresivo",
+            "Habilidades visomotoras y razonamiento abstracto"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "La batería BANPE acreditó mejoras significativas en memoria y procesos lingüísticos, mientras atención y destrezas académicas no variaron."
+        },
+        {
+          "pregunta": "¿Por qué no se observaron cambios conductuales significativos en el test de Conners?",
+          "opciones": [
+            "Porque la lectura no influye en absoluto en la esfera afectiva",
+            "Porque la ventana de seis semanas resulta demasiado breve para reestructurar patrones de conducta consolidados",
+            "Porque los instrumentos empleados carecían de validez psicométrica"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "Los autores señalan que modificar patrones conductuales o hiperactividad exige periodos de intervención mucho más extensos."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Lectura Dialógica, Neurocognición y Emociones en Primera Infancia",
+      "descripcion": "Red conceptual que articula la lectura dialógica de Whitehurst, la evaluación neuropsicológica BANPE, el soporte de FamiLectura y los perfiles integrales evaluados.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Lectura Dialógica",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Metodología interactiva formulada por Whitehurst donde el adulto formula preguntas abiertas, modela vocabulario complejo y convierte al niño en relator protagónico del texto para potenciar sus facultades lingüísticas."
+        },
+        {
+          "id": "2",
+          "label": "Desarrollo Integral Preescolar",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Enfoque holístico que concibe de forma sinérgica e interdependiente las dimensiones cognitivas, emocionales y comportamentales en la infancia temprana, superando visiones pedagógicas atomizadas y reduccionistas."
+        },
+        {
+          "id": "3",
+          "label": "Formato Libro Álbum",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Dispositivo estético y multimodal donde la interacción recíproca entre ilustración y texto escrito estimula la inferencia, la formulación de hipótesis narrativas y el diálogo reflexivo entre mediador y aprendiz."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Perfiles Multidimensionales",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Determinar el impacto de una intervención estructurada de lectura dialógica escolar y familiar sobre los perfiles neurocognitivos, la expresión emocional y las pautas conductuales en infantes de 4 a 5 años de Cali."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Cuasiexperimental",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Diseño comparativo preprueba-posprueba con grupo experimental (N=17) y grupo control activo (N=17) sin intervención en un colegio privado colombiano, evaluando los cambios a lo largo de un ciclo de seis semanas."
+        },
+        {
+          "id": "6",
+          "label": "Batería BANPE",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Batería Neuropsicológica para Preescolares compuesta por 41 subpruebas baremadas que miden atención selectiva, memoria de trabajo, flexibilidad mental, lenguaje comprensivo y habilidades ejecutivas incipientes."
+        },
+        {
+          "id": "7",
+          "label": "App FamiLectura",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Plataforma tecnológica móvil desarrollada ad hoc para el estudio que facilitó el registro de 23 rutinas lectoras familiares por hogar, prescribiendo títulos y ofreciendo pautas de mediación dialógica a padres."
+        },
+        {
+          "id": "8",
+          "label": "Ganancias en Memoria y Recuperación",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Incrementos estadísticamente significativos (p < .05) registrados exclusivamente en el grupo experimental en tareas de evocación mnemónica y memoria de trabajo verbal dentro de las escalas aplicadas de la BANPE."
+        },
+        {
+          "id": "9",
+          "label": "Progreso en Lenguaje Oral",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Avances altamente significativos en fluidez léxica, expresión verbal autónoma y comprensión semántica compleja demostrados por los niños receptores de la mediación dialógica frente al grupo de comparación."
+        },
+        {
+          "id": "10",
+          "label": "Modulación de Afectos y Tristeza",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Reducción perceptible en la frecuencia e intensidad de manifestaciones emocionales displacenteras como la rabia y la tristeza según el reporte concordante de docentes y progenitores en la prueba posintervención."
+        },
+        {
+          "id": "11",
+          "label": "Estabilidad en Conducta y Conners",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Ausencia de modificaciones cuantitativas significativas en las escalas de conducta disruptiva y déficit atencional, confirmando que las pautas comportamentales demandan tiempos de mediación más prolongados."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: Andamiaje Dialógico",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Los hallazgos confirman la tesis de Whitehurst y Riquelme: la conversación andamiada en torno al libro álbum reestructura activamente las redes del lenguaje expresivo y los esquemas interpretativos infantiles."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Alianza Familia-Escuela",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "La concurrencia sincronizada de rutinas lectoras entre el aula de clase y el hogar optimiza la transferencia cognitiva, superando la brecha tradicional entre alfabetización formal y prácticas vernáculas."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Potencia Neuroeducativa",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "La lectura dialógica con mediación digital constituye una estrategia costo-efectiva de alto impacto para robustecer el lenguaje y la memoria en preescolar, promoviendo trayectorias lectoras tempranas exitosas."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Muestra y Temporalidad",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Muestra restringida de 34 participantes de estrato medio-alto y ventana de intervención de seis semanas, aspectos que impiden generalizar hallazgos a contextos vulnerables o constatar variaciones conductuales."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Control y Cegamiento",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Imposibilidad ética de privar totalmente de lectura al grupo control y dependencia de informes parentales no cegados para la valoración de los rasgos conductuales y emocionales en el entorno del hogar."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "fundamenta intervención de"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se ejecuta mediante"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "orienta dimensiones de"
+        },
+        {
+          "from": "3",
+          "to": "7",
+          "label": "se vehicula a través de"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "administra pruebas de"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "implementa seguimiento con"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "constata incrementos en"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "evidencia mejoras en"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "facilita reporte de"
+        },
+        {
+          "from": "6",
+          "to": "11",
+          "label": "registra ausencia de cambio en"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "valida empíricamente"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "confirma premisas de"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "demuestra impacto de"
+        },
+        {
+          "from": "11",
+          "to": "15",
+          "label": "se explica por brevedad de"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "sintetiza aportes en"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "funda recomendaciones de"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "establece cautelas sobre"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "delimita alcance metodológico con"
+        },
+        {
+          "from": "1",
+          "to": "12",
+          "label": "proporciona modelo teórico a"
+        },
+        {
+          "from": "7",
+          "to": "13",
+          "label": "consolida articulación entre"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Cómo podrías integrar la lectura dialógica apoyada en micro-rutinas familiares en tu contexto institucional?",
+      "enfoque": "Planificar talleres dialógicos donde el libro álbum active preguntas de andamiaje y la familia comparta pequeñas rutinas cotidianas.",
+      "cierre": "Transformar la lectura de un acto solitario a una conversación compartida reconfigura los cimientos cognitivos y afectivos de la infancia."
+    }
+  }
+}

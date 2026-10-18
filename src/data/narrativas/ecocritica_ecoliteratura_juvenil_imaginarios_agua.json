@@ -1,0 +1,376 @@
+{
+  "id": "ecocritica_ecoliteratura_juvenil_imaginarios_agua",
+  "metadata": {
+    "id": "ecocritica_ecoliteratura_juvenil_imaginarios_agua",
+    "title": "Aproximación a la ecocrítica y la ecoliteratura: literatura juvenil clásica e imaginarios del agua",
+    "authors": [
+      "Mar Campos-F.-Fígares",
+      "Gloria García-Rivera"
+    ],
+    "year": 2017,
+    "volume": "16",
+    "issue": "2",
+    "pages": "95-106",
+    "doi": "10.18239/ocnos_2017.16.2.1511",
+    "keywords": [
+      "ecocrítica",
+      "ecoliteratura",
+      "literatura juvenil clásica",
+      "imaginarios del agua",
+      "educación ambiental"
+    ],
+    "abstract": "Estudio teórico-hermenéutico enmarcado en la ecocrítica y la literatura comparada que examina los imaginarios del agua (ríos, mares y océanos) en obras maestras de la literatura juvenil clásica (Defoe, Stevenson, Verne, Melville, London). Propone articular la educación literaria con la conciencia ecológica planetaria para educar la mirada ambiental del lector joven contemporáneo."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Puede la lectura de los grandes viajes marinos de Julio Verne, la isla misteriosa de Robinson Crusoe o el abismo salvaje de Moby Dick ayudarnos a salvar los océanos contemporáneos asfixiados por el plástico y la crisis climática? Este estudio pionero explora cómo la ecocrítica y la ecoliteratura juvenil despiertan la conciencia planetaria.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis ecocrítico y literario:",
+        "opciones": [
+          {
+            "id": "ecocritica",
+            "texto": "Ruta ecocrítica: fundamentos teóricos y superación del antropocentrismo"
+          },
+          {
+            "id": "imaginarios",
+            "texto": "Ruta de los imaginarios: mares, ríos y tempestades en el canon juvenil clásico"
+          },
+          {
+            "id": "pedagogica",
+            "texto": "Ruta pedagógica: educar la mirada ambiental a través de la educación literaria"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "La educación ambiental en las escuelas suele abordarse a través de datos técnicos fríos, estadísticas de contaminación o discursos catastrofistas que generan ecoansiedad y parálisis en la juventud, olvidando que las emociones profundas y el amor por la naturaleza se forjan a través de los símbolos y relatos literarios.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué aporta la ecocrítica a la lectura de los clásicos de aventuras juveniles?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Permite desentrañar cómo la relación entre el ser humano y el medio ambiente (el mar o el río) revela actitudes de armonía, respeto o dominación destructiva.",
+            "correcta": true,
+            "explicacion": "Exacto: la ecocrítica interroga al texto literario para comprender cómo la cultura concibe y trata a la naturaleza viva."
+          },
+          {
+            "id": "c2",
+            "texto": "Demuestra que los autores clásicos eran meteorólogos profesionales que predecían tormentas con rigor científico.",
+            "correcta": false,
+            "explicacion": "El valor de la literatura es simbólico, existencial y estético, no una mera predicción técnica meteorológica."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Las autoras desarrollan una rigurosa fundamentación de la ecocrítica y la tematología comparada. Analizan un corpus representativo del canon de aventuras clásicas vinculadas al agua: Robinson Crusoe (Defoe), La isla del tesoro (Stevenson), Veinte mil leguas de viaje submarino (Verne), Moby Dick (Melville) y La llamada de lo salvaje (London).",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Fundamento ecocrítico",
+            "detalle": "Revisión de la ecocrítica anglófona (Glotfelty, Buell) y su adaptación a la didáctica hispánica."
+          },
+          {
+            "fase": "Corpus marítimo y fluvial",
+            "detalle": "Selección de obras universales de aventura donde el elemento acuático vertebra la trama."
+          },
+          {
+            "fase": "Análisis de imaginarios",
+            "detalle": "Desglose del mar como espacio de iniciación, misterio sublime, fuente de vida o botín a explotar."
+          },
+          {
+            "fase": "Propuesta educativa",
+            "detalle": "Pautas para educar la sensibilidad medioambiental de los jóvenes a través de la lectura estética."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El estudio concluye que las grandes ficciones del agua ofrecen un mapa afectivo insustituible para comprender la fragilidad humana ante la inmensidad del cosmos. Releer estos clásicos con lentes ecológicas permite al lector joven transitar del egoísmo depredador hacia una ética de cuidado y veneración de la biosfera.",
+      "datos_clave": [
+        "Articulación teórica y didáctica de la ecocrítica aplicada a la literatura juvenil clásica.",
+        "Análisis hermenéutico de los imaginarios del agua en autores universales (Verne, Melville, Stevenson).",
+        "Superación del antropocentrismo tradicional mediante la fascinación estética por la naturaleza viva.",
+        "Modelo interdisciplinar que hermana la educación literaria con los Objetivos de Desarrollo Sostenible."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se apoya en los postulados de la ecocrítica de Cheryll Glotfelty (1996) y Lawrence Buell (2005), la filosofía de la imaginación material del agua de Gaston Bachelard (1942), y las teorías de educación literaria de Pedro C. Cerrillo.",
+      "referencias_clave": [
+        "Glotfelty (1996)",
+        "Buell (2005)",
+        "Bachelard (1942)",
+        "Campos-F.-Fígares & García-Rivera (2017)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "No se puede proteger aquello que no se ama, y no se puede amar lo que nunca nos ha conmovido el alma. La literatura juvenil clásica nos sumerge en las aguas sagradas de la Tierra para recordarnos que el ser humano no es el dueño de la creación, sino una gota más en el océano infinito de la vida.",
+      "hallazgo_central": "La ecocrítica aplicada a los imaginarios del agua en la literatura juvenil clásica proporciona una poderosa herramienta pedagógica para transformar la conciencia ambiental y superar el antropocentrismo depredador."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos de la ecocrítica con su sentido en el análisis literario:",
+          "pares": [
+            {
+              "concepto": "Ecocrítica literaria",
+              "definicion": "Estudio de las relaciones entre la literatura y el medio ambiente físico y natural."
+            },
+            {
+              "concepto": "Imaginario del agua",
+              "definicion": "Conjunto de significados simbólicos, míticos y afectivos asociados a ríos, mares y océanos."
+            },
+            {
+              "concepto": "Giro biocéntrico",
+              "definicion": "Transición ética que sitúa a la vida y la biosfera en el centro, superando el dominio humano egoísta."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Ecocrítica, Ecoliteratura e Imaginarios del Agua en Clásicos Juveniles",
+      "descripcion": "Estudio comparativo y ecocrítico de la representación del agua en la literatura juvenil y su potencial pedagógico ambiental.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Ecocrítica e Imaginarios del Agua en Literatura Juvenil",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo central: fundamentar la perspectiva ecocrítica y analizar los imaginarios simbólicos del agua en la literatura juvenil clásica para proponer un modelo interdisciplinar de educación ambiental literaria."
+        },
+        {
+          "id": "2",
+          "label": "Crisis Ecológica Global y Ecoansiedad",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Contexto de emergencia climática planetaria, agotamiento de recursos hídricos y contaminación marina que exige nuevas respuestas formativas más allá del discurso científico puramente técnico."
+        },
+        {
+          "id": "3",
+          "label": "Fundamentos Epistemológicos de la Ecocrítica",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico formulado por Cheryll Glotfelty y Lawrence Buell que investiga las interrelaciones entre la creación literaria, los discursos culturales y el entorno biofísico natural."
+        },
+        {
+          "id": "4",
+          "label": "Filosofía del Agua según Gaston Bachelard",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Aportes de Bachelard sobre el agua como sustancia poética fundamental de la imaginación material, asociada a la pureza, el misterio abisal, la transformación y el viaje iniciático."
+        },
+        {
+          "id": "5",
+          "label": "Metodología Tematológica y Hermenéutica Comparada",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico cualitativo sustentado en la literatura comparada y la tematología ecocrítica, analizando motivos recurrentes, metáforas y representaciones del medio acuático."
+        },
+        {
+          "id": "6",
+          "label": "Corpus Canónico de Aventuras Juveniles",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Selección de obras maestras universales: Robinson Crusoe de Daniel Defoe, La isla del tesoro de Stevenson, Veinte mil leguas de viaje submarino de Verne, Moby Dick de Melville y novelas de Jack London."
+        },
+        {
+          "id": "7",
+          "label": "Análisis de Espacios Acuáticos: Ríos y Océanos",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Examen de los escenarios hídricos como agentes activos de la trama narrativa y no como meros telones de fondo estáticos: el mar bravío, la corriente fluvial, el abismo submarino y el hielo polar."
+        },
+        {
+          "id": "8",
+          "label": "Tipificación de Actitudes Humanas hacia la Biosfera",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Categorización axiológica de conductas: la dominación extractivista destructiva, la soberbia tecnológica frente a los elementos y la contemplación reverencial de lo sublime natural."
+        },
+        {
+          "id": "9",
+          "label": "El Mar como Territorio de Iniciación y Misterio",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los resultados confirman que el agua actúa en el canon juvenil como un espacio iniciático donde los protagonistas confrontan su vulnerabilidad, superan pruebas y alcanzan madurez ética."
+        },
+        {
+          "id": "10",
+          "label": "Crítica de la Desmesura y Depredación Humana",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Constatación de que obras como Moby Dick o las novelas de Verne anticipan la condena moral a la explotación desmedida de las criaturas marinas y la autodestrucción por soberbia."
+        },
+        {
+          "id": "11",
+          "label": "Fascinación Estética por la Vida Submarina",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Identificación en Veinte mil leguas de viaje submarino de una precoz sensibilidad conservacionista que describe la biodiversidad abisal con asombro científico y reverencia estética."
+        },
+        {
+          "id": "12",
+          "label": "Superación del Antropocentrismo Predador",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica que argumenta cómo la literatura puede desactivar la falacia antropocéntrica que concibe la naturaleza como simple mercancía, transitando hacia una mirada biocéntrica armónica."
+        },
+        {
+          "id": "13",
+          "label": "La Emoción Literaria como Motor de Conciencia Verde",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate pedagógico sobre el fracaso de la información ambiental puramente alarmista, defendiendo que solo el apego afectivo y la belleza estética del relato mueven al compromiso cívico duradero."
+        },
+        {
+          "id": "14",
+          "label": "Alianza entre Educación Literaria y Ambiental",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental que propone una alianza pedagógica indisoluble entre las humanidades y la ecología para educar la mirada del lector joven hacia la sostenibilidad planetaria."
+        },
+        {
+          "id": "15",
+          "label": "Propuestas de Itinerarios Lectores Ecomarinos",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación curricular para diseñar itinerarios de lectura juvenil que combinen textos clásicos del mar con problemáticas contemporáneas de conservación de los mares y ríos."
+        },
+        {
+          "id": "16",
+          "label": "Límites de Universalización del Canon Occidental",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite asumido al concentrar el estudio en obras clásicas del canon occidental moderno, sugiriendo la incorporación futura de literaturas indígenas y tradiciones no hegemónicas del agua."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "responde a"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se fundamenta en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se complementa con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "selecciona"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "analiza"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "categoriza"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "muestra"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "configura"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "evidencia"
+        },
+        {
+          "from": "6",
+          "to": "11",
+          "label": "revela"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "impulsa"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "fundamenta"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "nutre"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "conduce a"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "avala"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se concreta en"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "reconoce"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "acota su corpus por"
+        },
+        {
+          "from": "4",
+          "to": "9",
+          "label": "teoriza sobre"
+        },
+        {
+          "from": "12",
+          "to": "15",
+          "label": "orienta"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Los océanos no necesitan más discursos fríos; necesitan que aprendamos a mirarlos con el mismo asombro sagrado con que los contemplaron Julio Verne o Herman Melville. Educar la mirada ecológica de los jóvenes a través de la gran literatura es devolverle a la Tierra el amor que siempre nos ha dado.",
+      "preguntas": [
+        "¿Cómo pueden articularse en los institutos las clases de literatura y las de ciencias naturales para abordar juntos la crisis ecológica de los océanos?",
+        "¿Qué novelas clásicas o contemporáneas sobre el agua han despertado en usted una emoción inolvidable de comunión con la naturaleza?"
+      ]
+    }
+  }
+}

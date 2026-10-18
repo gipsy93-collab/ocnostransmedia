@@ -1,0 +1,448 @@
+{
+  "id": "elena_fortun_lij_estado_cuestion",
+  "metadata": {
+    "title": "Elena Fortún en la Literatura Infantil y Juvenil. Un estado de la cuestión",
+    "authors": "Diana Muela-Bermejo",
+    "year": "2021",
+    "journal": "Ocnos 20(3)",
+    "doi": "10.18239/ocnos_2021.20.3.2519",
+    "gancho": "¿Por qué Celia, la niña rebelde que desafió las convenciones burguesas de los años 30, fue censurada y sigue siendo vital hoy?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#2a5a75",
+    "bg": "from-purple-950/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/elena-fortun/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-muela/200/200",
+      "name": "Dra. Diana Muela-Bermejo",
+      "role": "Investigadora en Literatura Infantil y Memoria Histórica, Universidad de Zaragoza"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Diana Muela-Bermejo, historiadora de la literatura infantil y especialista en autoras silenciadas",
+      "gancho": "Lejos de los niños cursis y dóciles del siglo XIX, Celia llegó al mundo gritando verdades y cuestionando a los adultos. ¿Qué ha investigado la ciencia literaria sobre la gran Elena Fortún en las últimas seis décadas?",
+      "contexto": "Elena Fortún (seudónimo de Encarnación Aragoneses, 1886-1952) revolucionó las letras hispánicas al dotar a su protagonista de una voz infantil autónoma, perspicaz y libre de moralina pedagógica. Tras décadas de censura franquista y exilio, su obra ha experimentado una fecunda revalorización crítica. Este estado de la cuestión sistematiza la bibliografía especializada desde los años sesenta hasta hoy, articulando los estudios sobre discurso literario con las investigaciones de género e identidad.",
+      "deepDives": [
+        {
+          "id": "mue-apertura-1",
+          "triggerLabel": "El pionero homenaje del centenario (1986)",
+          "type": "data",
+          "content": "Coordinado por Bravo-Villasante, Field, García y García-Padrino, el homenaje del centenario del nacimiento de Fortún en 1986 rescató a la autora del olvido y abrió las líneas modernas de análisis filológico y biográfico."
+        },
+        {
+          "id": "mue-apertura-2",
+          "triggerLabel": "La censura franquista de sus novelas",
+          "type": "theory",
+          "content": "Craig (2000) documentó la censura franquista: la retirada de 'Celia, institutriz en América' (1945), la prohibición de 'Celia en el colegio' (1946 y 1950) y las supresiones textuales en otras tres novelas de la serie en 1946."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La investigación académica sobre Fortún ha sido intensa pero fragmentaria: mientras abundan los estudios filológicos sobre la lengua de Celia y los análisis biográficos sobre el exilio y la orientación sexual de la autora, existe un vacío flagrante sobre el valor didáctico de sus novelas para los lectores del siglo XXI.",
+      "porQueImporta": "Sin mediación formativa contemporánea, un clásico indiscutible de la literatura infantil corre el riesgo de convertirse en una reliquia para anticuarios en lugar de un artefacto vivo de educación crítica, memoria histórica y perspectiva de género en las escuelas.",
+      "dataPoints": [
+        "Periodo historiográfico analizado: desde los primeros años del siglo XX, con terminus a quo canónico en los trabajos de Carmen Bravo-Villasante (1958, 1979, 1983).",
+        "Dos grandes bloques estructurantes: diacrónico (análisis del discurso y recopilaciones) y sincrónico (género e identidad).",
+        "Censura franquista acreditada: retirada de 'Celia, institutriz en América' (1945), prohibición formal de 'Celia en el colegio' (1946 y 1950) y supresiones textuales en otras tres novelas en 1946.",
+        "Ola divulgativa contemporánea: serie de TVE de Borau (1993), documental de RNE (2016), ciclo Sendero Fortún en el Centro Dramático Nacional (2020).",
+        "Línea de género en auge: rescate de la obra 'Oculto sendero' (2016) y del epistolario con Carmen Laforet (2016)."
+      ],
+      "glossary": [
+        {
+          "term": "Terminus a quo",
+          "definition": "Punto de partida temporal que marca el inicio formal de la recepción crítica de una autora en la historiografía literaria; en este caso, Bravo-Villasante (1958)."
+        },
+        {
+          "term": "Bildungsroman fortuniano",
+          "definition": "Novela de formación y maduración donde la protagonista crece psicológicamente en tensión constante con las normas patriarcales."
+        },
+        {
+          "term": "Narrador extradiegético",
+          "definition": "Voz narrativa externa que introduce los capítulos de Celia pero desaparece rápidamente cediendo la palabra al monólogo y la mirada de la niña."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "mue-conflicto-1",
+          "triggerLabel": "El descubrimiento de Oculto sendero",
+          "type": "theory",
+          "content": "Editada por Capdevila-Argüelles y Fraga-Fernández-Cuevas en 2016, esta novela inédita escrita en el exilio asume inequívocamente la homosexualidad de Elena Fortún a través de un bildungsroman."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Estado de la cuestión con análisis crítico de fuentes",
+      "narrativa": "Muela-Bermejo estructuró una revisión bibliográfica selectiva y valorativa:",
+      "detalles": [
+        {
+          "label": "1. Delimitación del corpus crítico",
+          "value": "Recopilación de monografías, artículos, actas y ediciones críticas surgidas en torno a la producción de Encarnación Aragoneses, organizadas diacrónica y sincrónicamente."
+        },
+        {
+          "label": "2. Organización diacrónica y sincrónica",
+          "value": "Articulación del discurso histórico en dos vertientes: evolución del canon infantil fortuniano y giro hacia las lecturas queer y feministas."
+        },
+        {
+          "label": "3. Examen crítico de controversias historiográficas",
+          "value": "Discrepancia explícita con Dorao-Orduña sobre la imagen del internado de Celia y análisis del madrinazgo de María Martínez Sierra (Lejárraga) y de la filiación narrativa de sus 'Cuentos breves' con los de Fortún."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Del niño ejemplar del siglo XIX al icono de la modernidad literaria",
+      "narrativa": "La revisión documenta cómo cambió la interpretación de Fortún a lo largo de las décadas:",
+      "hallazgos": [
+        {
+          "label": "El quiebre de la moralina del siglo XIX: Bravo-Villasante consagró a Celia porque hablaba como los niños de verdad, rompiendo con el didacticismo beato.",
+          "value": ""
+        },
+        {
+          "label": "Agotamiento del enfoque lingüístico: El estudio del habla infantil de Celia dominó los años 80 pero dejó sin explorar las complejas estructuras narrativas de la serie.",
+          "value": ""
+        },
+        {
+          "label": "La centralidad del exilio y el trauma: Los trabajos del siglo XXI rescatan a la Fortún madura de Buenos Aires, marcada por el desarraigo, la pobreza y la Guerra Civil.",
+          "value": ""
+        },
+        {
+          "label": "El gran vacío: la ausencia en las aulas: A pesar de las reediciones y montajes teatrales, Fortún sigue ausente de los libros de texto y programaciones escolares actuales.",
+          "value": ""
+        }
+      ],
+      "reflexion": "Elena Fortún no escribió solo para entretener a los niños: escribió para enseñarles a ser libres en un país que se preparaba para la oscuridad.",
+      "deepDives": [
+        {
+          "id": "mue-revelacion-1",
+          "triggerLabel": "El epistolario con Carmen Laforet",
+          "type": "data",
+          "content": "Publicado en 2016 por la Fundación Banco Santander, recoge 46 cartas íntimas entre ambas autoras que revelan su profunda complicidad literaria, espiritual y afectiva."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Desafíos para la didáctica de la literatura del siglo XXI",
+      "narrativa": "La autora reclama una transición urgente de la historiografía filológica a la mediación de aula:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Estudios de género e identidad: Fortún como precursora indiscutible del pensamiento feminista literario en la Edad de Plata de la cultura española."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Memoria democrática en la escuela: Potencial de 'Celia en la revolución' como testimonio ético e histórico insustituible sobre la contienda civil."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Educación literaria patrimonial: Necesidad de reivindicar los clásicos infantiles propios frente a la colonización comercial de la LIJ anglosajona."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Mirada nostálgica vs. Lectura crítica: Desmarque de las visiones dulcificadas que ven en Celia un producto 'antiguo' y burgués sin vigencia política."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Discurso filológico cerrado vs. Práctica de mediación: Crítica a la academia por acumular estudios que no se transfieren en guías de lectura para colegios e institutos."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El estado de la cuestión no utiliza un protocolo bibliométrico sistemático con fórmulas booleanas ni bases de datos estandarizadas."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "No se analizan las adaptaciones divulgativas (teatro, series, documentales) desde la perspectiva de la respuesta del lector joven contemporáneo."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para el currículo de Lengua y Literatura Incorporar pasajes de 'Celia en la revolución' en Secundaria y Bachillerato para trabajar la Guerra Civil desde la perspectiva infantil y civil."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las bibliotecas públicas y escolares Adquirir las reediciones de Alianza y promover clubes de lectura intergeneracionales entre abuelas, madres e hijas."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la investigación didáctica futura Diseñar investigaciones de aula que evalúen cómo los niños y jóvenes del siglo XXI interpretan la ironía y el humor emancipador de Celia."
+        },
+        {
+          "label": "Tabla",
+          "value": "Etapa Histórica | Hito o Enfoque Principal | Autores de Referencia | Aporte Fundamental a la LIJ\n1958 - 1983 | Canonización e historiografía inicial | Carmen Bravo-Villasante | Ruptura con el niño ejemplar del XIX; consagración de Celia\n1986 (Centenario) | Homenaje y apertura filológica | Bravo-Villasante, García-Padrino, Field | Ediciones críticas, lingüística del habla infantil y exilio\nAños 90 - 2000 | Análisis de censura y discurso | Craig, García-Padrino, Dorao-Orduña | Documentación de prohibiciones franquistas y primera biografía\n2010 - 2020 | Perspectiva de género, memoria y queer | Capdevila-Argüelles, Fraga, Belmonte | Rescate de Oculto sendero, cartas Laforet y Celia en la revolución"
+        }
+      ],
+      "reflexion": "Celia sigue esperando en las páginas de sus libros a que una nueva generación de niños descubra en sus preguntas el valor de la desobediencia inteligente.",
+      "deepDives": [
+        {
+          "id": "mue-marco-1",
+          "triggerLabel": "El ciclo teatral Sendero Fortún",
+          "type": "data",
+          "content": "Representado por el Centro Dramático Nacional (febrero-marzo de 2020) con texto de María Folguera, el ciclo 'Sendero Fortún' demuestra la tremenda actualidad escénica y política de su voz."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Qué balance arrojan seis décadas de investigación crítica sobre Elena Fortún y qué desafíos pendientes plantea su obra para la educación literaria actual?",
+      "conclusion": "La canonización arrancó con Bravo-Villasante al reconocer la ruptura radical con el cuento moralizante del siglo XIX. La censura franquista mutiló y prohibió novelas clave de la serie Celia por su inconformismo social y su visión civil de la guerra. Los estudios de género y la publicación de 'Oculto sendero' han resignificado la figura de Fortún como referente cultural y queer. Falta casi por completo la investigación aplicada que traduzca el patrimonio fortuniano en propuestas didácticas para la escuela contemporánea. Resta investigar la obra de Elena Fortún desde la perspectiva de la didáctica de la literatura: valorar las posibilidades que ofrece en el aula actual y las respuestas lectoras de los niños del siglo XXI. Leer a Elena Fortún hoy no es un ejercicio de arqueología literaria: es un recordatorio luminoso de que la infancia tiene derecho a su propia verdad.",
+      "formalRef": "Diana Muela-Bermejo. (2021). Elena Fortún en la Literatura Infantil y Juvenil. Un estado de la cuestión. Ocnos 20(3). https://doi.org/10.18239/ocnos_2021.20.3.2519"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué investigadora pionera inició la canonización académica de Elena Fortún en la historiografía de la LIJ española desde 1958?",
+          "options": [
+            "Carmen Martín Gaite",
+            "Carmen Bravo-Villasante",
+            "Nuria Amat",
+            "Ana María Matute"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué novela inédita y autobiográfica sobre la identidad oculta de Fortún fue recuperada y publicada en 2016?",
+          "options": [
+            "Celia en el colegio",
+            "Oculto sendero",
+            "Celia madrecita",
+            "Celia en la revolución"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Elena Fortún en la historiografía de la LIJ",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Elena Fortún (seudónimo de Encarnación Aragoneses, 1886-1952) es figura central de la modernización de la literatura infantil española del primer tercio del siglo XX; su presencia en la historiografía arranca del terminus a quo de Bravo-Villasante (1958, 1979, 1983)."
+      },
+      {
+        "id": "2",
+        "label": "Ruptura con el niño ejemplar decimonónico",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Bravo-Villasante (1958) consagró la originalidad del discurso de Celia al alejarse de 'aquellos niños cursis del siglo XIX' y convertir al personaje en un ser independiente y crítico, con voz espontánea y sentido del humor grato al lector joven y adulto."
+      },
+      {
+        "id": "3",
+        "label": "Análisis del discurso y lengua de Celia",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Primer gran bloque del estado de la cuestión: los estudios sobre el discurso literario infantil fortuniano y sobre la lengua de Celia (García-Padrino, 2000; Escobar-Bonilla, 1997; Cerrillo, 2000), con la corriente lingüística de los años ochenta (García-Ruiz, 1987; De la Fuente, 1987; De Hoyos, 1992)."
+      },
+      {
+        "id": "4",
+        "label": "Perspectiva de género e identidad",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Segundo gran bloque: las investigaciones biobibliográficas sobre la construcción de la identidad de Aragoneses, su homosexualidad, su pertenencia al Lyceum Club y su relación con otras escritoras (Dorao-Orduña, Capdevila-Argüelles, Fraga-Fernández-Cuevas, Melián-Pérez)."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: trazar el estado de la cuestión bibliográfico",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Analizar la bibliografía existente en torno a la figura y la obra de Encarnación Aragoneses, organizada en dos grandes bloques —diacrónico y sincrónico— para dar cuenta del lugar que ocupa Elena Fortún en la LIJ del siglo XX."
+      },
+      {
+        "id": "6",
+        "label": "Objetivo: identificar el vacío en educación literaria",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Objetivo complementario: visibilizar el vacío bibliográfico en torno a la presencia de Fortún en la educación literaria del siglo XXI y presentar líneas de investigación futuras que faciliten a los mediadores su puesta en práctica en el aula."
+      },
+      {
+        "id": "7",
+        "label": "Método: organización diacrónica y sincrónica",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Revisión teórica y valorativa de la bibliografía especializada desde los años sesenta hasta la actualidad, articulada en un bloque diacrónico (análisis del discurso y recopilación de textos) y otro sincrónico (perspectiva de género y construcción de identidades)."
+      },
+      {
+        "id": "8",
+        "label": "Método: corpus crítico selectivo y enjuiciado",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Selección y comentario crítico de los trabajos más relevantes, incluida la labor de rescate de textos inéditos de Fortún ('Oculto sendero', 2016; 'El camino es nuestro', 2015) por parte de María Jesús Fraga y Nuria Capdevila-Argüelles."
+      },
+      {
+        "id": "9",
+        "label": "Resultados: el homenaje del centenario (1986)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "El homenaje coordinado por Bravo-Villasante, Field, García y García-Padrino con motivo del centenario del nacimiento (1986) abrió la revalorización: biografía de la autora, análisis de su discurso literario, problemas bibliográficos y exilio en Argentina."
+      },
+      {
+        "id": "10",
+        "label": "Resultados: documentación de la censura franquista",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Craig (2000) analizó la censura franquista: la retirada de 'Celia, institutriz en América' (1945), la prohibición de 'Celia en el colegio' (1946 y 1950) y las supresiones textuales en 'Celia, lo que dice', 'Celia madrecita' y 'Celia y sus amigos' (1946)."
+      },
+      {
+        "id": "11",
+        "label": "Resultados: revalorización de la narrativa y de Celia en la revolución",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Escobar-Bonilla (1997) situó a Fortún en la 'Edad de Plata'; Uría-Ríos (2000) y Sotomayor (2008) analizaron 'Celia en la revolución' (1943) y Belmonte-Serrano (2013) resaltó su objetividad como documento bélico y el papel del humor."
+      },
+      {
+        "id": "12",
+        "label": "Resultados: emergencia de lecturas de género y queer",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "La publicación de 'Oculto sendero' (2016) y de 'El camino es nuestro' (2015) consolidó la línea identitaria y feminista, subrayando la homosexualidad de la autora y sus vínculos con Matilde Ras y el Lyceum Club."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: la recuperación didáctica pendiente",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Resta investigar la obra de Fortún desde la didáctica de la literatura: valorar las posibilidades que ofrece en el aula actual y las respuestas lectoras de los niños del siglo XXI, para determinar su actualidad y discutir su inserción en el canon de clásicos infantiles."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: memoria, exilio y redes femeninas",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "El epistolario con Carmen Laforet (Fundación Banco Santander, 2016, 46 cartas) y las cartas a Inés Field (2020), junto a las relaciones con Matilde Ras o María Martínez Sierra, revelan las redes intelectuales femeninas y la etapa del exilio argentino."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: vacíos del campo y ausencia de protocolo bibliométrico",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "El estado de la cuestión no emplea un protocolo bibliométrico sistemático; persisten vacíos en el análisis pormenorizado de las fórmulas narrativas de las novelas, así como en el estudio del teatro, la producción periodística y los textos pedagógicos de la autora."
+      },
+      {
+        "id": "16",
+        "label": "Conclusiones: hacia la didáctica de la literatura",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "Se concluye que la recuperación de Fortún se ha consolidado desde el análisis del discurso hacia una línea marcada de estudios de género e identidad; la tarea pendiente es investigar su obra desde la didáctica de la literatura y su recepción lectora contemporánea."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se sustenta en la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se despliega en el"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "se amplía hacia la"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "justifica el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "alimenta el"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "motiva el"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se ejecuta mediante el"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se integra en el"
+      },
+      {
+        "from": "5",
+        "to": "8",
+        "label": "se concreta en el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "incorpora el"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "identifica como hito el"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "documenta la"
+      },
+      {
+        "from": "7",
+        "to": "11",
+        "label": "revaloriza la"
+      },
+      {
+        "from": "7",
+        "to": "12",
+        "label": "evidencia la"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "abre paso a la"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "condiciona la"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "interpela la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "se proyecta en"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "concluye en las"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "enriquece las"
+      },
+      {
+        "from": "8",
+        "to": "15",
+        "label": "reconoce las"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "orienta las"
+      },
+      {
+        "from": "9",
+        "to": "16",
+        "label": "respalda el estatus de"
+      }
+    ]
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "id": "efecto_longitud_silabica_espanol_adultos",
+  "metadata": {
+    "title": "Efecto de longitud silábica en español: evidencia en lectores adultos",
+    "authors": "Micaela Difalcis, Aldo Ferreres y Valeria Abusamra",
+    "year": "2020",
+    "journal": "Ocnos 19(3)",
+    "doi": "10.18239/ocnos_2020.19.3.2295",
+    "gancho": "¿Leemos las palabras de un solo vistazo o letra a letra? ¿Cambia el mecanismo cuando leemos palabras inventadas en español?",
+    "duration": "12-15 min",
+    "badge": "Psicolingüística Experimental",
+    "disciplina": "Psicolingüística y Neuropsicología Cognitiva",
+    "dimensiones": [
+      "Modelo de Doble Ruta",
+      "Longitud Silábica",
+      "Tiempos de Reacción",
+      "Ortografía Transparente"
+    ],
+    "tags": [
+      "psicolinguistica",
+      "lectura_voz_alta",
+      "doble_ruta",
+      "efecto_longitud",
+      "no_palabras"
+    ],
+    "pistas": [
+      "Diseño experimental de medidas repetidas (2x3) con 84 adultos universitarios en la Universidad de Buenos Aires.",
+      "Registro cronométrico milimétrico de tiempos de reacción (TR) con SuperLab y Batería Transpruebas.",
+      "Ventaja léxica contundente: palabras leídas 158 ms más rápido que no-palabras (p < .001, eta parcial al cuadrado = .730).",
+      "Interacción robusta: el efecto de longitud silábica es moderado en palabras pero masivo y serial en no-palabras."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "La psicolingüística debate si la lectura en español —un sistema ortográfico transparente— recurre a un único mecanismo fonológico o si activa dos vías independientes: una ruta léxica paralela directa y una subléxica serial de ensamblaje.",
+      "desafio": "Comprobar si el efecto de longitud silábica varía sistemáticamente entre palabras reales y no-palabras equilibradas en frecuencia y fonotáctica en lectores adultos expertos.",
+      "relevancia": "Aporta evidencia experimental crucial para validar el modelo computacional de doble ruta en lenguas romances y guiar la evaluación de dislexias adquiridas y del desarrollo."
+    },
+    "conflicto": {
+      "pregunta": "¿Opera la lectura en español a través de un único procedimiento de correspondencia grafema-fonema o coexisten rutas léxica y subléxica con dinámicas temporales distintas?",
+      "posiciones": [
+        "Hipótesis de ruta única transparente: la alta regularidad del español hace innecesaria la mediación de un léxico visual complejo, procesándose todo estímulo mediante reglas fonológicas.",
+        "Hipótesis de doble ruta interactiva: las palabras familiares se reconocen globalmente en paralelo amortiguando la longitud, mientras las no-palabras exigen un ensamblaje serial letra a letra."
+      ],
+      "tension": "La tensión entre la supuesta simplicidad de un idioma fonéticamente transparente y la complejidad de una arquitectura cognitiva dual que optimiza la velocidad del lector experto.",
+      "deepDives": [
+        {
+          "id": "psico-conf-1",
+          "triggerLabel": "Modelo DRC de Coltheart et al.",
+          "type": "theory",
+          "content": "El modelo de Doble Ruta en Cascada (DRC) postula una vía léxica que accede directamente al significado y una vía subléxica analítica que convierte grafemas en fonemas de izquierda a derecha."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Experimento de medidas repetidas 2×3 con la Batería Transpruebas en SuperLab",
+      "narrativa": "El equipo evaluó individualmente a 84 estudiantes universitarios hispanohablantes nativos en una tarea de lectura en voz alta cronometrada en SuperLab, administrando 45 palabras y 45 no-palabras emparejadas de 2, 3 y 4 sílabas procedentes de la Batería Transpruebas.",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "84 estudiantes de Psicología de la UBA (63 mujeres, 21 varones, edad media 23.4 años, 14.8 años de escolaridad)."
+        },
+        {
+          "label": "Diseño experimental",
+          "value": "Medidas repetidas factorial 2 (tipo de estímulo: palabra / no-palabra) × 3 (longitud: 2, 3 y 4 sílabas)."
+        },
+        {
+          "label": "Control de estímulos",
+          "value": "45 sustantivos concretos balanceados en frecuencia y 45 no-palabras recombinando sílabas en misma posición y acento."
+        },
+        {
+          "label": "Registro y depuración",
+          "value": "Tiempos de reacción (TR) en ms con SuperLab y micrófono sensible; eliminación de errores y percentiles extremos."
+        },
+        {
+          "label": "Análisis estadístico",
+          "value": "ANOVA por participantes (F1) y por ítems (F2) en SPSS 23 con comparaciones post-hoc de Tukey."
+        }
+      ],
+      "limitaciones": [
+        "Muestra compuesta íntegramente por estudiantes universitarios con alto nivel de escolaridad formal.",
+        "Uso exclusivo de lectura en voz alta sin contrastar los mismos estímulos en tarea de decisión léxica visual."
+      ],
+      "reflexion": "¿Por qué una palabra trisilábica infrecuente como 'caparazón' tarda más en leerse que una palabra bisilábica común como 'foca'?",
+      "deepDives": [
+        {
+          "id": "psico-viaje-1",
+          "triggerLabel": "Control fonotáctico riguroso",
+          "type": "method",
+          "content": "Para evitar artefactos acústicos, las no-palabras (ej. 'beráfolo') se construyeron recombinando exactamente las mismas sílabas y acentuaciones de las palabras reales del experimento."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Se confirmó la ventaja léxica (palabras 733.1 ms vs. no-palabras 891.4 ms; p < .001, η²p = .730) y el efecto de longitud silábica (p < .001), pero la revelación nuclear fue la interacción contundente (η²p = .617): la cantidad de sílabas apenas ralentiza a las palabras reales (salto de 39.6 ms entre 2 y 4 sílabas) mientras que en no-palabras genera una ralentización masiva de 196 ms, probando el ensamblaje serial subléxico.",
+      "evidenciaCualitativa": "Si el español se leyera por un único mecanismo fonológico lineal, la longitud afectaría con la misma pendiente a palabras y no-palabras; la brecha empírica demuestra empíricamente la vía léxica en paralelo.",
+      "citaClave": "'Si las palabras y no-palabras del español fueran leídas por un mismo mecanismo, no deberían mostrar la interacción estadísticamente significativa registrada por nuestros datos cronométricos.'",
+      "implicacionesDocentes": [
+        "Enseñar la decodificación subléxica como base inicial, pero automatizar el reconocimiento léxico global mediante lecturas repetidas.",
+        "Utilizar no-palabras en la evaluación clínica para aislar el funcionamiento específico de la vía fonológica sin auxilio de la memoria semántica.",
+        "Graduar los textos escolares introduciendo progresivamente palabras polisilábicas de baja frecuencia para afianzar la fluidez."
+      ],
+      "deepDives": [
+        {
+          "id": "psico-rev-1",
+          "triggerLabel": "Valores extremos de latencia",
+          "type": "data",
+          "content": "La palabra más rápida fue 'botella' (685.6 ms), mientras que la no-palabra más lenta, 'teparrita', demandó 1142 ms, una diferencia de casi medio segundo de procesamiento cerebral."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Modelos cognitivos computacionales de lectura (DRC y CDP+) y psicolingüística del español",
+      "tensiones": [
+        "Mecanismo de ruta única conexionista vs. arquitectura modular de doble ruta en cascada.",
+        "Transparencia ortográfica del español vs. dependencia universal del léxico ortográfico mental."
+      ],
+      "autoresClave": [
+        "Difalcis et al. (2020)",
+        "Coltheart et al. (2001)",
+        "Cuetos & Barbón (2006)",
+        "Ferrand (2000)",
+        "Ardila & Cuetos (2016)"
+      ],
+      "deepDives": [
+        {
+          "id": "psico-marco-1",
+          "triggerLabel": "Modelo CDP+ de Perry, Ziegler y Zorzi",
+          "type": "theory",
+          "content": "El modelo CDP+ predice que el procesamiento en paralelo de la ruta léxica actúa como un atractor que neutraliza el coste temporal que impone la suma de sílabas en estímulos conocidos."
+        }
+      ]
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo afecta la cantidad de sílabas a los tiempos de reacción al leer en voz alta palabras y no-palabras en español?",
+      "mecanismoClave": "Las palabras conocidas acceden a un almacén léxico ortográfico que procesa sus constituyentes en paralelo minimizando el coste de la longitud; en cambio, las no-palabras activan la vía subléxica que decodifica secuencialmente cada sílaba acumulando latencia temporal.",
+      "conclusionGeneral": "El experimento demuestra de forma concluyente que la lectura en adultos hispanohablantes involucra dos vías diferenciadas: una léxica global y otra subléxica serial, zanjando el debate sobre la doble ruta en ortografías transparentes."
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Cronocognitiva",
+        "descripcion": "Devora estímulos léxicos y subléxicos mientras controlas los milisegundos de latencia lectora.",
+        "instrucciones": "Come tokens de 2, 3 y 4 sílabas respondiendo sobre las pruebas de Difalcis, Ferreres y Abusamra. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Doble Ruta y Longitud Silábica",
+        "descripcion": "Comprueba tu dominio sobre los tiempos de reacción, las variables F1/F2 y la ventaja léxica en español.",
+        "instrucciones": "Acierta contrarreloj para mantener tu multiplicador de racha neuropsicológica en la clasificación."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide del Procesamiento Lector",
+        "descripcion": "Asciende desde la conversión grafema-fonema serial hasta el reconocimiento léxico automático y fluido.",
+        "instrucciones": "Supera cada nivel demostrando comprensión de los modelos computacionales DRC y CDP+."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Efecto de longitud silábica y modelo de doble ruta en español (Difalcis et al., 2020)",
+      "descripcion": "Investigación experimental cronométrica con 84 adultos que evalúa tiempos de reacción en lectura en voz alta de palabras y no-palabras para validar la arquitectura de doble ruta en ortografía transparente.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Arquitectura cognitiva del Modelo de Doble Ruta (DRC)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico computacional de Coltheart et al. que postula dos procedimientos complementarios en lectura: una vía léxica directa visual que reconoce la palabra completa y una vía subléxica fonológica analítica."
+        },
+        {
+          "id": "2",
+          "label": "La sílaba como unidad funcional de procesamiento",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Evidencias en psicolingüística experimental (Carreiras, Ferrand, Chetail) que demuestran que en lenguas de base silábica como el español la sílaba opera como la unidad estructural básica de segmentación lectora."
+        },
+        {
+          "id": "3",
+          "label": "Debate sobre ortografías transparentes y doble ruta",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Controversia teórica abierta sobre si un sistema ortográfico regular como el español exige una ruta léxica paralela o si puede sustentarse exclusivamente en un único mecanismo de correspondencia grafema-fonema."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: evaluar el efecto de longitud silábica en TR",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Medir experimentalmente los tiempos de reacción cronométricos al leer en voz alta estímulos de dos, tres y cuatro sílabas para comprobar si la longitud modula la velocidad de procesamiento en adultos expertos."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: contrastar palabras reales frente a no-palabras",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Determinar si existe interacción estadísticamente significativa entre la longitud silábica y la condición léxica del estímulo, comparando palabras de significado conocido con secuencias inventadas pseudopalabras."
+        },
+        {
+          "id": "6",
+          "label": "Diseño experimental factorial de medidas repetidas 2×3",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Diseño intra-sujeto donde cada participante responde a todas las condiciones experimentales: 2 tipos de estímulo (palabra / no-palabra) combinados con 3 longitudes silábicas (2, 3 y 4 sílabas)."
+        },
+        {
+          "id": "7",
+          "label": "Muestra de 84 estudiantes universitarios de la UBA",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Muestra homogénea de 84 adultos hispanohablantes nativos (63 mujeres y 21 varones, edad promedio 23.4 años y 14.8 años de escolaridad) de primer año de Psicología de la Universidad de Buenos Aires."
+        },
+        {
+          "id": "8",
+          "label": "Batería Transpruebas cronometrada en SuperLab",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Presentación individual en pantalla de 45 palabras y 45 no-palabras emparejadas en frecuencia silábica y fonotáctica, registrando latencias en milisegundos mediante micrófono de voz en software SuperLab."
+        },
+        {
+          "id": "9",
+          "label": "Ventaja léxica masiva a favor de las palabras reales",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Las palabras reales se leyeron significativamente más rápido que las no-palabras (733.1 ms frente a 891.4 ms; p < .001, tamaño del efecto muy alto con eta parcial al cuadrado de .730 en F1 y .760 en F2)."
+        },
+        {
+          "id": "10",
+          "label": "Efecto principal robusto de la longitud silábica",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "A mayor número de sílabas se incrementaron linealmente los tiempos de reacción generales (2 sílabas: 754.9 ms; 3 sílabas: 809.1 ms; 4 sílabas: 872.7 ms; p < .001, eta parcial al cuadrado de .658 en F1)."
+        },
+        {
+          "id": "11",
+          "label": "Interacción contundente entre estímulo y longitud",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "La interacción resultó altamente significativa (p < .001, eta cuadrado = .617): en palabras la longitud añade apenas 39.6 ms entre 2 y 4 sílabas, mientras que en no-palabras el retraso se dispara hasta 196.0 ms."
+        },
+        {
+          "id": "12",
+          "label": "Dispersión extrema en estímulos de baja frecuencia",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Palabras polisilábicas de baja frecuencia como 'caparazón' (829.9 ms) exigieron mayor tiempo, mientras que no-palabras complejas como 'teparrita' alcanzaron latencias récord superiores a 1142 ms."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: confirmación del procesamiento serial subléxico",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El incremento exponencial del tiempo en no-palabras demuestra empíricamente que la vía subléxica opera de forma secuencial y aditiva, requiriendo un ciclo de conversión fonológica por cada sílaba adicional."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: amortiguación léxica del procesamiento en paralelo",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El mínimo efecto de longitud en palabras familiares confirma que el acceso léxico en paralelo amortigua el coste silábico, permitiendo al lector experto reconocer la estructura ortográfica de un solo vistazo."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: muestra universitaria y tarea única en voz alta",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "Los autores advierten que la muestra se restringe a lectores universitarios expertos y sugieren contrastar los datos futuros con tareas de decisión léxica visual silenciosa y poblaciones infantiles."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: validación de la doble ruta en español",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que la lectura en español involucra dos procedimientos cognitivos cualitativamente diferenciados, descartando las teorías de mecanismo fonológico único incluso en ortografías transparentes."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "establece las predicciones de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "justifica el uso de sílabas en"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "plantea la controversia de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se operativiza mediante el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "define los factores cruzados del"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se administra sobre la"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "utiliza para la recogida la"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "demuestra cronométricamente la"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "constata en los milisegundos el"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "revela mediante el ANOVA la"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "identifica casos como la"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "aporta soporte directo a la"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "sustenta la tesis de la"
+        },
+        {
+          "from": "9",
+          "to": "14",
+          "label": "corrobora empíricamente la"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "evidencia la naturaleza de la"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "conduce a las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "fundamenta las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el alcance muestral del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las proyecciones de las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "valida experimentalmente el"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué efecto tuvo la cantidad de sílabas en los tiempos de reacción de las palabras frente a las no-palabras en español?",
+          "options": [
+            "Afectó por igual con una pendiente idéntica a palabras y no-palabras.",
+            "Afectó de forma mínima a las palabras reales, pero aumentó masivamente los tiempos en las no-palabras.",
+            "Redujo el tiempo de lectura en las no-palabras largas por efecto de facilitación.",
+            "No produjo ningún efecto estadísticamente significativo en ninguna de las condiciones."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo aplicarías el contraste entre palabras reales y no-palabras para diagnosticar dificultades en la ruta fonológica en escolares de Primaria?"
+        }
+      ]
+    }
+  }
+}

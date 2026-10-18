@@ -1,0 +1,376 @@
+{
+  "id": "album_sin_palabras_comunidad_lectora_biblioteca_rural",
+  "metadata": {
+    "id": "album_sin_palabras_comunidad_lectora_biblioteca_rural",
+    "title": "El álbum sin palabras y la construcción de una comunidad lectora en la biblioteca pública",
+    "authors": [
+      "María Jesús Colón",
+      "Rosa Tabernero-Sala"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "3",
+    "pages": "31-41",
+    "doi": "10.18239/ocnos_2018.17.3.1796",
+    "keywords": [
+      "álbum sin palabras",
+      "biblioteca pública",
+      "medio rural",
+      "comunidad lectora",
+      "Suzy Lee"
+    ],
+    "abstract": "Investigación longitudinal con 41 niños de 3 a 11 años en una biblioteca rural aragonesa que analiza la lectura compartida de álbumes sin palabras de Suzy Lee, desvelando estrategias interpretativas complejas y la regeneración comunitaria del espacio público."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Puede un libro compuesto exclusivamente por imágenes sin texto escrito regenerar el tejido social de una biblioteca pública en la España despoblada? Este estudio documenta cómo 41 niños de 3 a 11 años en un municipio rural de Aragón construyeron una comunidad lectora en torno a los álbumes de Suzy Lee.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva para sumergirte en el taller de lectura rural:",
+        "opciones": [
+          {
+            "id": "semiotica",
+            "texto": "Semiótica del álbum sin palabras: la sombra textual de Suzy Lee"
+          },
+          {
+            "id": "estrategias",
+            "texto": "Estrategias interpretativas infantiles: textos intercalados y diálogo"
+          },
+          {
+            "id": "comunitaria",
+            "texto": "Dimensión comunitaria: revitalización de la biblioteca en el medio rural"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Los mediadores adultos suelen desdeñar el álbum sin palabras, relegándolo a un mero juguete prelector para bebés. Este prejuicio empobrece el canon y desaprovecha su potencial semiótico: al prescindir del texto, la imagen exige un esfuerzo inferencial profundo que desafía a lectores de todas las edades.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Por qué el álbum sin palabras propicia la creación de comunidades de lectura heterogéneas?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Porque al no depender de la decodificación de letras, permite que niños de 3 a 11 años dialoguen en igualdad de condiciones sobre las imágenes.",
+            "correcta": true,
+            "explicacion": "Exacto: la ausencia de texto verbal democratiza la participación y favorece que los mayores y pequeños co-construyan hipótesis narrativas."
+          },
+          {
+            "id": "c2",
+            "texto": "Porque los libros sin texto son tan fáciles que no requieren ningún esfuerzo interpretativo.",
+            "correcta": false,
+            "explicacion": "Al contrario: exigen coordinar secuencias visuales, elipsis y sombras textuales complejas."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Las investigadoras aplicaron el método comparativo constante de la Teoría Fundamentada a lo largo de un curso escolar. Analizaron grabaciones de vídeo de las sesiones de lectura, diarios de campo, dibujos infantiles y entrevistas a familias, bibliotecarias y responsables municipales.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Contexto rural",
+            "detalle": "Biblioteca municipal de un pequeño pueblo aragonés afectado por despoblación estructural."
+          },
+          {
+            "fase": "Obras seleccionadas",
+            "detalle": "Lectura compartida de la trilogía del límite de Suzy Lee (La ola, Espejo, Sombras)."
+          },
+          {
+            "fase": "Método constante",
+            "detalle": "Análisis iterativo de Glaser y Strauss codificando respuestas verbales y corporales."
+          },
+          {
+            "fase": "Impacto comunitario",
+            "detalle": "Multiplicación de préstamos, asistencia familiar y respaldo institucional del ayuntamiento."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los niños desplegaron estrategias narrativas sofisticadas: crearon \"textos intercalados\" conectando las imágenes con sus vivencias íntimas y descubrieron la metaliteratura visual. Paralelamente, la biblioteca pasó de ser un recinto silencioso y desierto a convertirse en el corazón cultural del pueblo.",
+      "datos_clave": [
+        "41 participantes de 3 a 11 años durante un curso escolar completo.",
+        "Superación radical del prejuicio adulto sobre el álbum mudo como género menor.",
+        "Generación de textos intercalados intertextuales y proyecciones identitarias.",
+        "Consolidación demostrada de la biblioteca rural como bastión de bienestar social."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El marco teórico integra la teoría del álbum ilustrado de Perry Nodelman y Teresa Colomer, los estudios de respuesta lectora visual de Evelyn Arizpe y Morag Styles, y la sociología de las bibliotecas rurales de Yubero y Lluch.",
+      "referencias_clave": [
+        "Nodelman (2008)",
+        "Arizpe & Styles (2004)",
+        "Lee (2010)",
+        "Lluch et al. (2017)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El álbum sin palabras no es la ausencia de literatura, sino la presencia pura de la mirada: en la biblioteca rural, las imágenes de Suzy Lee tejieron un espacio democrático donde los niños aprendieron a leer el mundo juntos.",
+      "hallazgo_central": "El álbum sin palabras activa estrategias lectoras complejas en la infancia y cataliza la construcción de una comunidad lectora intergeneracional en el medio rural despoblado."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos teóricos con su evidencia en el estudio:",
+          "pares": [
+            {
+              "concepto": "Sombra textual",
+              "definicion": "Relato implícito y polifónico que subyace a la composición visual de la imagen."
+            },
+            {
+              "concepto": "Textos intercalados",
+              "definicion": "Narraciones personales que los niños tejen espontáneamente al interpretar la lámina."
+            },
+            {
+              "concepto": "Teoría fundamentada",
+              "definicion": "Método comparativo constante que genera inductivamente categorías teóricas desde los datos."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Álbum sin Palabras y Comunidad Lectora en Biblioteca Rural",
+      "descripcion": "Estructura analítica y sociopedagógica del impacto del álbum sin palabras en la creación de comunidades lectoras rurales.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Álbum sin Palabras y Comunidad Rural",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo medular: analizar las estrategias lectoras desplegadas por niños de 3 a 11 años ante álbumes sin palabras y documentar la emergencia de una comunidad lectora en una biblioteca pública rural."
+        },
+        {
+          "id": "2",
+          "label": "Prejuicio Adulto y Canon Escolar",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Diagnóstico crítico sobre la tendencia de familias y maestros a considerar el álbum sin palabras como un producto infantil menor reservado a bebés que aún no saben decodificar grafías."
+        },
+        {
+          "id": "3",
+          "label": "Semiótica Visual y Sombra Textual",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico de Perry Nodelman que conceptualiza la sombra textual: la rica densidad narrativa subyacente a la ilustración fija que demanda una lectura inferencial activa y sofisticada."
+        },
+        {
+          "id": "4",
+          "label": "La Biblioteca Pública en la Despoblación",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Rol sociológico de la biblioteca en territorios rurales despoblados de Aragón como el único equipamiento cultural accesible capaz de generar cohesión comunitaria y calidad de vida colectiva."
+        },
+        {
+          "id": "5",
+          "label": "Estudio Longitudinal con 41 Menores",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico cualitativo y participativo desarrollado a lo largo de un curso completo con 41 participantes de 3 a 11 años agrupados en sesiones semanales en una biblioteca municipal."
+        },
+        {
+          "id": "6",
+          "label": "Corpus Visual de Suzy Lee",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Selección de obras maestras del género visual: La trilogía del límite de la creadora coreana Suzy Lee (La ola, Espejo y Sombras), caracterizadas por tensiones entre realidad y fantasía."
+        },
+        {
+          "id": "7",
+          "label": "Método Comparativo Constante",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Estrategia inductiva de la Teoría Fundamentada de Glaser y Strauss que trianguló grabaciones de vídeo, diarios de observación, dibujos infantiles y entrevistas etnográficas a familias y gestores."
+        },
+        {
+          "id": "8",
+          "label": "Despliegue de Textos Intercalados",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo empírico sobresaliente: los niños no se limitaron a describir imágenes, sino que crearon relatos orales paralelos vinculando los gestos de los personajes con memorias afectivas propias."
+        },
+        {
+          "id": "9",
+          "label": "Lectura Dialógica Intergeneracional",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación de que la heterogeneidad de edades enriqueció el taller: los mayores aportaban hipótesis causales y los pequeños detectaban detalles visuales desapercibidos en plena simetría."
+        },
+        {
+          "id": "10",
+          "label": "Regeneración Social de la Biblioteca",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Impacto socioeducativo documentado: aumento espectacular del préstamo de libros, afluencia continuada de madres y abuelas y revalorización municipal del centro cívico como ágora del pueblo."
+        },
+        {
+          "id": "11",
+          "label": "Desmitificación del Alfabetocentrismo",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión en torno a la necesidad de superar la primacía excluyente de la letra impresa en el currículo, reivindicando la alfabetización visual como competencia cognitiva de primer orden."
+        },
+        {
+          "id": "12",
+          "label": "Resiliencia Cultural en la España Vaciada",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión sobre el valor de la mediación cultural situada en pueblos amenazados por la despoblación, demostrando que la cultura literaria frena el desarraigo y afianza el sentido de pertenencia."
+        },
+        {
+          "id": "13",
+          "label": "Inclusión del Álbum Mudo en el Canon",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión imperativa: incorporar el álbum sin palabras en las programaciones escolares y bibliotecarias como recurso insustituible para el desarrollo de la imaginación y el pensamiento crítico."
+        },
+        {
+          "id": "14",
+          "label": "Profesionalización de la Mediación Rural",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación de apoyar y formar continuamente a los responsables de bibliotecas rurales para dotarlos de herramientas de dinamización lectora comunitaria y de gestión de públicos."
+        },
+        {
+          "id": "15",
+          "label": "Democracia Lectora y Cohesión Vecinal",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión global: una comunidad que lee y debate junta en torno a obras artísticas abiertas se vuelve más hospitalaria, reflexiva y resistente frente a las adversidades socioeconómicas."
+        },
+        {
+          "id": "16",
+          "label": "Estudio de Caso en Demarcación Única",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación inherente al diseño de caso único en una localidad aragonesa específica, demandando contrastar la intervención en otras áreas rurales y entornos urbanos periféricos."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se propone superar el"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "ignora el valor de la"
+        },
+        {
+          "from": "3",
+          "to": "6",
+          "label": "se materializa en el"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "constituye el escenario de"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "trabaja con el"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "aplica el"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "evidencia el"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "documenta la"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "demuestra la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "justifica la"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "propicia la"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "aporta evidencia sobre"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "fundamenta la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "reclama la"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "conduce hacia la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "hace sostenible la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "acotada por su"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "habilita la aparición de"
+        },
+        {
+          "from": "4",
+          "to": "10",
+          "label": "culmina con la"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Colón y Tabernero-Sala nos ofrecen una lección inolvidable: donde no hay palabras impresas, nacen las voces de los lectores. En un pequeño pueblo que resiste al olvido, los libros ilustrados devolvieron a los niños y a sus abuelos el milagro de soñar juntos.",
+      "preguntas_guiadas": [
+        "¿Cómo reaccionan los adultos cuando les propones leer un libro que carece por completo de texto escrito?",
+        "¿Qué papel desempeñan las bibliotecas municipales de tu entorno en la revitalización de la convivencia vecinal?"
+      ]
+    }
+  }
+}

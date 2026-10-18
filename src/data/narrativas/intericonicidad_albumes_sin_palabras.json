@@ -1,0 +1,439 @@
+{
+  "id": "intericonicidad_albumes_sin_palabras",
+  "metadata": {
+    "title": "Sin haberlo visto antes, no se puede ver: intericonicidad en álbumes y cómics sin palabras",
+    "authors": "Emma Bosch",
+    "year": "2022",
+    "journal": "Ocnos 21(1)",
+    "doi": "10.18239/ocnos_2022.21.1.2757",
+    "gancho": "¿Qué ocurre cuando un lector se asoma a una ilustración sin texto y jamás ha visto en su vida los objetos representados?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#2a5a75",
+    "bg": "from-purple-900/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/intericonicidad/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-bosch/200/200",
+      "name": "Dra. Emma Bosch",
+      "role": "Investigadora en LIJ y Narrativa Visual, Universitat de Barcelona"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Emma Bosch, especialista en álbumes silentes y semiótica visual de la literatura infantil",
+      "gancho": "Si nunca has visto la carátula de Pink Floyd 'The Dark Side of the Moon', un felpudo con un prisma descomponiendo la luz te parecerá solo un dibujo geométrico. Lo no visto resulta invisible.",
+      "contexto": "En las narraciones gráficas sin palabras, la ausencia de texto transfiere toda la responsabilidad interpretativa a la mirada del lector. Apoyándose en la semiótica de Genette y la teoría del arte, este estudio pionero conceptualiza la 'intericonicidad' —el diálogo entre hiperimágenes citantes e hipoimágenes citadas— y somete la hipótesis a una prueba empírica con 17 lectores de distintas edades y culturas enfrentados al álbum 'Unser haus!' de Antje Von Stemm.",
+      "deepDives": [
+        {
+          "id": "bos-apertura-1",
+          "triggerLabel": "Hipoimagen vs. Hiperimagen",
+          "type": "theory",
+          "content": "Inspirada en la intertextualidad de Gérard Genette (1989), la hipoimagen representa la obra visual o artefacto material preexistente (origen), mientras que la hiperimagen es la ilustración derivada que cita, recrea o transforma dicho referente dentro del álbum."
+        },
+        {
+          "id": "bos-apertura-2",
+          "triggerLabel": "El dispositivo de Unser haus!",
+          "type": "data",
+          "content": "Publicado en 2005 por Antje Von Stemm, el libro presenta una encuadernación de doble espiral con apertura 'french door' y páginas seccionadas horizontalmente, permitiendo combinar libremente las estancias de seis apartamentos de un edificio residencial."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Existe la presunción común de que los libros sin texto son universales y accesibles de inmediato para cualquier niño. Sin embargo, cuando la caracterización de personajes descansa en objetos intericónicos (cuadros, discos, diseño industrial), el lector que carece del bagaje cultural previo es completamente ciego al significado.",
+      "porQueImporta": "Sin mediación cultural deliberada, los álbumes complejos generan exclusión estética: el lector infantil no solo no comprende la profesión o identidad del personaje, sino que ni siquiera advierte que hay un indicio semiótico que descifrar.",
+      "dataPoints": [
+        "Muestra de 17 participantes (6 niños de 6-11 años, 5 jóvenes de 15-21 y 6 adultos de 47-79 años) de Barcelona y Alemania.",
+        "Experimento cualitativo de lectura '¿Quién vive aquí?' con borrado digital de los personajes humanos en 6 láminas DIN-A3.",
+        "Reconocimiento universal: Mickey Mouse y el ordenador Macintosh de Apple fueron las únicas imágenes que traspasaron todas las fronteras de sexo, edad y origen.",
+        "Invisibilidad cultural: el juego tradicional 'topfschlagen' y el jabón ecológico 'Frosch' solo fueron identificados por lectores alemanes o con relación con Alemania.",
+        "Especialización técnica: la historiadora del arte identificó el movimiento Op Art; cuatro lectores mayores reconocieron el nombre de Mondrian y una arquitecta detectó fallos de normativa constructiva.",
+        "Sesgos de género: la mayoría de los lectores leyó como 'femeninos' las lámparas de corazón, las cocinitas y las cosas rosas, y como 'masculinos' los coches, las bicicletas y todo lo verde."
+      ],
+      "glossary": [
+        {
+          "term": "Intericonicidad",
+          "definition": "Proceso semiótico de generación de una imagen mediante la apelación, cita, apropiación o transformación deliberada de otra imagen previa."
+        },
+        {
+          "term": "Vacío iconotextual",
+          "definition": "Hueco narrativo y de significado originado por la supresión de la guía verbal que exige al lector realizar inferencias apoyado en su enciclopedia visual."
+        },
+        {
+          "term": "Filtro cultural experiencial",
+          "definition": "Conjunto de saberes vivenciales, geográficos y generacionales que condicionan la capacidad perceptiva de distinguir un objeto como signo."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "bos-conflicto-1",
+          "triggerLabel": "¿Por qué un signo no visto resulta inexistente?",
+          "type": "theory",
+          "content": "A diferencia del texto, donde una palabra desconocida puede buscarse en un diccionario, en la imagen el elemento no reconocido se asimila a mero adorno escenográfico y desaparece como pista narrativa."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: El juego experimental '¿Quién vive aquí?'",
+      "narrativa": "Emma Bosch diseñó un protocolo empírico riguroso para aislar el papel de los objetos en la reconstrucción del relato visual:",
+      "detalles": [
+        {
+          "label": "1. Estímulo visual intervenido",
+          "value": "Digitalización a escala real de 'Unser haus!' con supresión gráfica completa de los habitantes mediante retoque digital, dejando únicamente el espacio arquitectónico y el atrezzo."
+        },
+        {
+          "label": "2. Tarea de elicitación e indagación",
+          "value": "Los informantes debían deducir edad, profesión, sexo y aficiones de los inquilinos señalando las pruebas materiales concretas y explicando dónde habían visto antes esos elementos."
+        },
+        {
+          "label": "3. Grabación y triangulación cualitativa",
+          "value": "Transcripción de las sesiones orales individuales, categorización de respuestas según acierto y procedencia cultural, y contraste con el perfil biográfico del informante."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: La cultura compartida determina los límites de lo visible",
+      "narrativa": "El experimento confirmó de forma taxativa la hipótesis central del estudio:",
+      "hallazgos": [
+        {
+          "label": "Identificación profesional asimétrica: la cantante de ópera fue la más fácil (atril con partitura, retratos y fotos); en cambio, solo cuatro lectores vieron del cocinero el gorro, el libro de cocina y la caja de cuchillos, leídos como caja de herramientas o instrumentos de laboratorio.",
+          "value": ""
+        },
+        {
+          "label": "Fronteras nacionales: el póster del Che Guevara solo fue nombrado por los lectores de mayor edad, y la única niña que dijo conocerlo falló en su interpretación: «es un rockero porque mi padre lo tiene y a él le gusta el rock».",
+          "value": ""
+        },
+        {
+          "label": "Efecto de la pericia profesional: la arquitecta detectó infracciones de normativa constructiva y la profesora de música catalogó bongos, maracas y güiros donde otros veían simples tambores.",
+          "value": ""
+        },
+        {
+          "label": "Estilos lectores independientes: los perfiles cognitivos variaron entre la inspección meticulosa habitación por habitación y la fabulación asociativa global, sin correlacionar con la edad.",
+          "value": ""
+        }
+      ],
+      "reflexion": "Mirar no equivale a ver: el ojo solo reconoce aquello que la mente y la experiencia previa han investido de significado cultural previo.",
+      "deepDives": [
+        {
+          "id": "bos-revelacion-1",
+          "triggerLabel": "El felpudo de Pink Floyd como prueba de fuego",
+          "type": "data",
+          "content": "El felpudo del ático reproduce la carátula de 'Dark Side of the Moon'. Quien nunca ha visto esa imagen solo percibe «un prisma que descompone la luz en un arco iris»: sin enciclopedia compartida, la hipoimagen es invisible y no llega a leerse como pista musical."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Tipología intericónica y el rol del mediador docente",
+      "narrativa": "Bosch articula una propuesta teórica sistemática para la didáctica del álbum sin palabras:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Semiótica de Genette (1989): Traslación precisa de las categorías de hipotexto/hipertexto al lenguaje icónico infantil."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Showing vs Telling (Nikolajeva y Scott): Los objetos asumen en el álbum silente la función descriptiva que en la narrativa tradicional desempeña la adjetivación verbal."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Pedagogía de la mirada (Arizpe, Styles, Beckett): La lectura de imágenes complejas requiere alfabetización visual explícita y andamiaje colaborativo."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Mito de la universalidad ingenua: Refutación de que el libro sin texto es autoexplicativo; sin mediación, fomenta la frustración o la lectura superficial."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Historiografía del arte vs Semiótica de LIJ: Superación de la disputa terminológica (interpictorialidad, transvisualidad) en favor de una matriz operativa para el aula."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El tamaño reducido de la muestra (N=17) impide contrastes inferenciales estadísticos por subgrupos socioeconómicos."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El experimento se concibe como un piloto sin pretensiones estadísticas: para ganar valor inferencial se propone ampliarlo con un equipo internacional España-Alemania y una muestra equilibrada por edad, género y nivel socioeconómico."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la mediación en bibliotecas y aulas Diseñar sesiones de lectura compartida donde el mediador formule preguntas que visibilicen las hipoimágenes ocultas en la ilustración."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la formación docente Capacitar al profesorado en semiótica visual y lectura intertextual para desterrar la creencia de que el libro silente carece de dificultad."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la investigación en LIJ Extender el experimento '¿Quién vive aquí?' a estudios transculturales cuantitativos con cohortes diversas de Educación Primaria."
+        },
+        {
+          "label": "Tabla",
+          "value": "Criterio Taxonómico | Categorías (tabla 1 del artículo)\nAutor | Intraicónico / Extraicónico\nNaturaleza | Bidimensional (ilustración, diseño gráfico, obra de arte); Tridimensional (objeto: diseño industrial, obra de arte, arquitectura); Sujeto (persona célebre, personaje de ficción)\nAmplitud | Obra completa / Fragmento / Elemento descontextualizado / Composición\nGrado de fidelidad | Calco / Evocación"
+        }
+      ],
+      "reflexion": "El mediador literario es el puente que transforma un objeto invisible en un universo de preguntas compartidas.",
+      "deepDives": [
+        {
+          "id": "bos-marco-1",
+          "triggerLabel": "La transferencia espontánea al hogar",
+          "type": "data",
+          "content": "Una niña participante reprodujo el juego en su propia vivienda inventando misterios a partir del mobiliario familiar, demostrando el poder metacognitivo de la actividad."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo influye el bagaje cultural previo en la capacidad del lector para descifrar indicios intericónicos en álbumes sin palabras?",
+      "conclusion": "Las imágenes que traspasan todas las fronteras (edad, sexo, origen) fueron Mickey Mouse y el ordenador Macintosh de Apple, confirmando el peso de la iconografía de consumo masivo. Los objetos vinculados a tradiciones locales (juegos centroeuropeos, marcas de limpieza) resultaron completamente ilegibles para lectores españoles. Los adultos infieren profesiones y aficiones desde su biografía laboral, mientras los niños proyectan estereotipos familiares inmediatos. El borrado de personajes demostró que la escenografía y el mobiliario poseen autonomía narrativa plena en los álbumes silentes. Utilizar el álbum silente como herramienta dialógica en el aula para ampliar colectivamente la enciclopedia visual infantil. Descartar la asignación de libros sin palabras como meras lecturas autónomas 'fáciles' para prelectores sin acompañamiento docente. Incorporar el modelado docente en la búsqueda de pistas iconográficas antes de solicitar la redacción o el resumen de la historia. Promover proyectos interdisciplinares que conecten la lectura de álbumes con la historia del arte, el diseño industrial y la música. Aprender a leer literatura visual es aprender a descifrar la memoria colectiva que late en cada trazo artístico.",
+      "formalRef": "Emma Bosch. (2022). Sin haberlo visto antes, no se puede ver: intericonicidad en álbumes y cómics sin palabras. Ocnos 21(1). https://doi.org/10.18239/ocnos_2022.21.1.2757"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué término define a la obra u objeto original al que una ilustración remite mediante una cita o transformación visual?",
+          "options": [
+            "Hiperimagen",
+            "Hipoimagen",
+            "Paratexto icónico",
+            "Iconema aislado"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuáles fueron las dos únicas imágenes que, según el experimento, traspasaron todas las fronteras de edad, sexo y origen?",
+          "options": [
+            "El cuadro de Mondrian y la cafetera italiana",
+            "Mickey Mouse y el logotipo de Apple",
+            "El Che Guevara y el felpudo de Pink Floyd",
+            "El juego topfschlagen y el muñeco de Playmobil"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Intericonicidad y semiótica visual",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Conceptualización de la intericonicidad como proceso de creación artística donde una imagen apela, incorpora o transforma activamente otra imagen u objeto material preexistente en la cultura visual compartida."
+      },
+      {
+        "id": "2",
+        "label": "Intertextualidad de Genette (1989)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Traslación operativa de las categorías literarias de hipotexto e hipertexto (Genette, 1989) al campo icónico, delimitando la relación semiótica entre la hipoimagen original y la hiperimagen que la cita o recrea dentro del álbum."
+      },
+      {
+        "id": "3",
+        "label": "Showing vs. Telling en álbumes silentes",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Marco de Maria Nikolajeva y Carole Scott sobre la capacidad de la escenografía, el vestuario y el mobiliario para vehicular caracterización psicológica y social de los personajes sin recurrir al texto verbal."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Tipificar imágenes intericónicas",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Establecer una taxonomía sistemática de la intericonicidad en la literatura infantil basada en cuatro ejes: autoría (intra/extra), naturaleza del referente (2D/3D/sujeto), amplitud y grado de fidelidad mimética."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Evaluar empíricamente la mirada lectora",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Comprobar mediante un protocolo experimental riguroso si lectores de diversas edades y procedencias reconocen los indicios materiales presentes en las ilustraciones cuando se eliminan los personajes humanos."
+      },
+      {
+        "id": "6",
+        "label": "Experimento '¿Quién vive aquí?'",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Dispositivo empírico de elicitación que utiliza el álbum 'Unser haus!' de Antje Von Stemm (2005) escaneado a escala real en hojas DIN-A3 con borrado digital deliberado de todos los habitantes de los seis apartamentos."
+      },
+      {
+        "id": "7",
+        "label": "Muestra transgeneracional (N=17)",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Muestra cualitativa intencional integrada por 17 personas: 6 niños (6-11 años), 5 jóvenes (15-21 años) y 6 adultos (47-79 años) de Barcelona y Alemania vinculados a las artes, educación, medicina y diseño."
+      },
+      {
+        "id": "8",
+        "label": "Entrevistas en profundidad y triangulación",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Grabación de audio de las sesiones deductivas individuales, transcripción literal de las inferencias y contraste cruzado con las experiencias biográficas, formativas y geográficas declaradas por los informantes."
+      },
+      {
+        "id": "9",
+        "label": "Invisibilidad de lo no experimentado",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Confirmación empírica de la hipótesis principal: cuando un lector no ha visto previamente el referente cultural, el objeto deviene invisible perceptivamente y desaparece por completo como pista narrativa útil."
+      },
+      {
+        "id": "10",
+        "label": "Divergencia cultural España-Alemania",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Manifestación contundente de la brecha geográfica: elementos tradicionales de la cultura cotidiana alemana como el juego 'topfschlagen' o el jabón Frosch solo fueron descifrados por los participantes germanos."
+      },
+      {
+        "id": "11",
+        "label": "Hegemonía de marcas globales de consumo",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Universalidad perceptiva de iconos comerciales globales: Mickey Mouse y el ordenador Macintosh de Apple fueron las únicas imágenes reconocidas por lectores de toda edad, sexo y nacionalidad."
+      },
+      {
+        "id": "12",
+        "label": "Efecto de la pericia técnica y profesional",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "La formación profesional afina la mirada estética: informantes con experiencia en arquitectura o musicología detectaron infracciones constructivas e identificaron instrumentos étnicos con precisión técnica superior."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Crítica al mito de universalidad",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Debate epistémico que desmonta la falacia de que los libros silentes son autoexplicativos, demostrando que su desciframiento exige andamiaje cultural y destrezas complejas de alfabetización semiótica y visual."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: El rol insustituible de la mediación",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Propuesta didáctica que sitúa al mediador docente como agente imprescindible para visibilizar las hipoimágenes ocultas y ayudar al lector infantil a llenar los vacíos iconotextuales mediante el diálogo guiado."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Diseño piloto cualitativo",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Estudio exploratorio con muestra pequeña no probabilística y sesgo socioeconómico homogéneo hacia clases medias-altas, lo que demanda réplicas internacionales ampliadas con grupos representativos diversos."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Alfabetización semiótica para el aula",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "El análisis intericónico provee un marco formativo indispensable para transformar la recepción pasiva de imágenes en una indagación estética activa, crítica y dialógica en las aulas escolares de primaria y secundaria."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se fundamenta en"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se articula con"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "propone como meta"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "aporta categorías para"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "motiva verificar"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se operacionaliza en"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "diseña el dispositivo"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se aplica sobre"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "suministra datos a"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "se analiza mediante"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "evidencia empíricamente"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "detecta la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "constata la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "revela el"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "sustenta críticamente"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "argumenta en contra de"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "matiza los límites de"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "exige la acción de"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "concluye la urgencia de"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "se circunscribe por"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "proyecta finalmente"
+      }
+    ]
+  }
+}

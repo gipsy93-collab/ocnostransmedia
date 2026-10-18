@@ -61,7 +61,7 @@ export default function OcnosLogo({
           fontSize="7.5"
           fontWeight="700"
           letterSpacing="2"
-          textTransform="uppercase"
+          style={{ textTransform: 'uppercase' }}
           x="69"
           y="44"
         >

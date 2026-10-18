@@ -1,0 +1,177 @@
+{
+  "id": "habito_lector_como_actitud_origen_categoria_f",
+  "metadata": {
+    "title": "El hábito lector como actitud. El origen de la categoría de \"falsos lectores\"",
+    "authors": "Elisa Larrañaga Rubio y Santiago Yubero Jiménez",
+    "year": "2005",
+    "journal": "Ocnos. Revista de estudios sobre lectura, 1 (2005), pp. 43-60",
+    "doi": "https://doi.org/10.18239/ocnos_2005.01.04",
+    "gancho": "Estudio empírico que analiza el hábito lector como una actitud compuesta por tres elementos —conductual, afectivo y cognitivo— en 1.011 estudiantes universitarios. Los resultados muestran que la lectura se comporta como una actitud y que la deseabilidad social genera un grupo de ",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#fa5457",
+    "colorAlt": "#b5179e",
+    "bg": "from-rose-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-4.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-4.png",
+      "name": "Elisa Larrañaga Rubio y Santiago Yubero Jiménez",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Elisa Larrañaga Rubio y Santiago Yubero Jiménez, autor/a en Revista Ocnos",
+      "gancho": "Estudio empírico que analiza el hábito lector como una actitud compuesta por tres elementos —conductual, afectivo y cognitivo— en 1.011 estudiantes universitarios. Los resultados muestran que la lectu",
+      "contexto": "Los autores parten de la doble acepción del concepto de hábito: como \"la facilidad que se adquiere por la constante práctica de un mismo ejercicio\" y como \"la tendencia a repetir una determinada conducta\". De ahí se sigue que la conducta lectora debe entrar a formar parte del repertorio conductual del sujeto, insertándose en su propio estilo de vida. Leer es, dicen, una conducta individual, pero con un significado social y cultural: aunque la dec",
+      "deepDives": [
+        {
+          "id": "habito_lector_como_actitud_origen_categoria_f-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "El artículo parte de una paradoja observable: existen altos índices de lectura en la población infantil, pero la tasa de abandono de la actividad lectora es muy elevada una vez terminada la escolaridad obligatoria, \"incluso antes\". La brecha que abordan los autores es conceptual y de medición: si el"
+        },
+        {
+          "id": "habito_lector_como_actitud_origen_categoria_f-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "Los autores parten de la doble acepción del concepto de hábito: como \"la facilidad que se adquiere por la constante práctica de un mismo ejercicio\" y como \"la tendencia a repetir una determinada conducta\". De ahí se sigue que la conducta lectora debe entrar a formar parte del repertorio conductual d"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El artículo parte de una paradoja observable: existen altos índices de lectura en la población infantil, pero la tasa de abandono de la actividad lectora es muy elevada una vez terminada la escolaridad obligatoria, \"incluso antes\". La brecha que abordan los autores es conceptual y de medición: si el hábito lector se ha entendido solo como conducta,",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "Paradoja de partida: altos índices de lectura infantil, pero abandono elevado al terminar la escolaridad obligatoria. [Ref: p. 1]",
+        "Doble acepción de hábito: facilidad adquirida por la práctica + tendencia a repetir la conducta. [Ref: p. 1]",
+        "Dos tipos de lectura: instrumental (obtener información) vs. ociosa (voluntaria, por diversión). [Ref: p. 2]",
+        "Estereotipo dominante: la lectura se asocia a lo intelectual y utilitario, no al placer. [Ref: p. 2]"
+      ],
+      "glossary": [
+        {
+          "term": "Actitud",
+          "definition": "constructo psicológico que unifica los componentes conductual, afectivo y cognitivo hacia un objeto."
+        },
+        {
+          "term": "Representación social",
+          "definition": "forma de pensar, sentir y actuar compartida por un grupo ante un objeto social."
+        },
+        {
+          "term": "Estereotipo",
+          "definition": "representación social colectiva de alta extensión que guía la percepción de un grupo."
+        },
+        {
+          "term": "Favoritismo endogrupal",
+          "definition": "tendencia a favorecer al grupo propio y discriminar al externo para proteger la autoestima."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Es un estudio empírico cuantitativo mediante encuesta. Los datos provienen de una investigación más amplia cuyo objetivo es analizar las variables psicosociales que están en la base de la formación de los hábitos lectores. Para la recogida de datos se empleó la técnica de encuesta con un cuestionario escrito, cumplimentado de forma individual por los sujetos del estudio. En su construcción se tuvi",
+      "detalles": [
+        {
+          "label": "Tiempo de lectura voluntaria",
+          "value": "Autoinforme de dedicación - No lector / Ocasional / Habitual"
+        },
+        {
+          "label": "Número de libros leídos",
+          "value": "Libros en el último año - No lector (0; 1-2) / Ocasional (2-10) / Habitual (≥10)"
+        },
+        {
+          "label": "Asignación lectora",
+          "value": "Cruce de ambas variables - NL / FL / LO / LH"
+        },
+        {
+          "label": "Estereotipo lector",
+          "value": "Evocación de 3 rasgos - Buen lector / Mal lector"
+        }
+      ],
+      "limitaciones": [
+        "El artículo **no incluye un apartado formal de limitaciones**, pero los propios autores señalan varias cautelas a lo largo del texto: los instrumentos fueron administrados por un profesor y presentado"
+      ],
+      "reflexion": "Si tuvieras que medir el hábito lector en tu propio centro, ¿replicarías el cruce de \"tiempo\" y \"número de libros\" o añadirías alguna variable para reducir el sesgo de autoinforme?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "La mayoría distorsiona su imagen lectora.",
+          "value": "Solo el 45.7% de los sujetos da una respuesta concordante entre las dos variables de conducta. Es decir, más de la mitad pueden estar distorsionando su imagen como sujetos lectores. Un 19.1% aparece como lector en una variable y como no lector en la otra: son los \"falsos lectores"
+        },
+        {
+          "label": "Distribución de la asignación lectora.",
+          "value": "El reparto final es: 19.1% de \"falsos lectores\", 9.3% de \"no lectores\" (casi un 30% que no leen aún estando en la universidad), 18.1% de \"lectores habituales\" y el 53.5% restante como \"lectores ocasionales\". Los autores señalan que coinciden, en líneas generales, con los índices "
+        },
+        {
+          "label": "El componente conductual discrimina con claridad.",
+          "value": "Al preguntar si estaban leyendo un libro e indicar el título, se hallaron diferencias significativas (p = 0.00): un 13% de \"no lectores\", el 50% de \"lectores ocasionales\", un 80% de \"lectores habituales\" y un 30% de \"falsos lectores\"."
+        },
+        {
+          "label": "La lectura obligatoria contamina la respuesta.",
+          "value": "Solo un 1% de los \"no lectores\" parece reflejar lectura voluntaria; el resto informa de títulos que han aparecido como lectura obligatoria de su currículum. En el grupo de \"falsos lectores\" esta situación se reproduce en el 62% de los sujetos, quedando solo un 38% con aparente ac"
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El andamiaje conceptual se compone de autorías citadas dentro del propio artículo. La base es la teoría de las **representaciones sociales**, de la que los autores toman la definición de Jodelet (1991: 30) —representaciones \"compartidas por los miembros de un mismo grupo\" que constituyen \"una visión consensuada de la realidad\"—, junto con Wagner y Elejebarrieta (1994), Cabruja (1998) y Banchs (200",
+      "detalles": [
+        {
+          "label": "Representaciones sociales (Jodelet (1991); Wagner ",
+          "value": "Visión consensuada que orienta la conducta"
+        },
+        {
+          "label": "Estereotipos y categorización (Tajfel (1984); Nava",
+          "value": "Estereotipo como consecuencia de la categorización"
+        },
+        {
+          "label": "Identidad social (Tajfel y Turner (1986); Capozza ",
+          "value": "Autoestima e identidad social positiva"
+        },
+        {
+          "label": "Sesgos atributivos (Mullen y cols. (1992); Ross (1",
+          "value": "Favoritismo endogrupal; error de atribución"
+        }
+      ],
+      "reflexion": "¿Es el \"falso lector\" un sujeto que miente al investigador o que se miente a sí mismo? ¿Cómo afectaría esa distinción al modo de intervenir en el aula?"
+    },
+    "nucleo": {
+      "pregunta": "¿Se comporta el hábito lector como una actitud —integrando componentes conductual, afectivo y cognitivo— y qué papel juega la deseabilidad social en la medición de la conducta lectora de los estudiantes universitarios?",
+      "conclusion": "La conclusión central es que los resultados llenan de contenido los tres componentes del hábito lector como actitud (cognitivo, afectivo, conductual), produciéndose además concordancia entre los tres en cada uno de los grupos de asignación lectora analizados. Esto marca un **patrón actitudinal diferencial** entre lectores y no lectores. \nEl **estudiante no lector** realiza la conducta lectora con poca frecuencia, orientada hacia la \"lectura oblig",
+      "formalRef": "Larrañaga Rubio, E., & Yubero Jiménez, S. (2005). El hábito lector como actitud. El origen de la categoría de falsos lectores. *Ocnos. Revista de estudios sobre lectura*, 1, 43-60. https://doi.org/10.18239/ocnos_2005.01.04"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es la conclusión principal del estudio?",
+          "options": [
+            "A) El hábito lector es exclusivamente una conducta observable e instrumental.",
+            "B) El hábito lector se comporta como una actitud y la deseabilidad social origina \"falsos lectores\".",
+            "C) Los universitarios leen más de lo que declaran en las encuestas.",
+            "D) La lectura obligatoria no influye en la medición del hábito."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de la muestra resultó clasificado como \"falsos lectores\"?",
+          "options": [
+            "A) 45.7%",
+            "B) 53.5%",
+            "C) 19.1%",
+            "D) 9.3%"
+          ],
+          "correct": 2
+        }
+      ]
+    }
+  }
+}

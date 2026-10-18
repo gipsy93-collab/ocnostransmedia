@@ -12,41 +12,41 @@
     "color": "#e76f51",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-29.png",
+    "image": "/assets/portadas/tdah_dislexia_lectura_escucha.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-29.png",
       "name": "Dra. Pilar Vieiro-Iglesias",
-      "role": "Catedrática de Psicología Evolutiva y de la Educación, Universidade da Coruña"
+      "role": "Investigadora en dificultades de aprendizaje y comprensión lectora, Universidade da Coruña"
     }
   },
   "blocks": {
     "apertura": {
       "personaje": "Dra. Pilar Vieiro-Iglesias, especialista en comorbilidad neuroevolutiva y dificultades de aprendizaje",
-      "gancho": "¿Por qué obligar a leer en silencio a quien sufre una doble batalla cerebral: no poder frenar su atención y no poder decodificar las letras?",
-      "contexto": "La coexistencia de Trastorno por Déficit de Atención e Hiperactividad (TDAH) y Dislexia del Desarrollo representa uno de los cuadros clínicos más complejos en las aulas de Primaria y Secundaria. En este estudio experimental, las investigadoras evaluaron a estudiantes con esta doble condición comparando su rendimiento en comprensión narrativa bajo dos modalidades de presentación: lectura visual del texto vs. escucha auditiva del mismo relato.",
+      "gancho": "¿Por qué dar por sentado que la escucha siempre libera a quien no puede decodificar las letras sin esfuerzo?",
+      "contexto": "La coexistencia de Trastorno por Déficit de Atención e Hiperactividad (TDAH) y Dislexia del Desarrollo representa uno de los cuadros clínicos más complejos en las aulas de Primaria. En este estudio experimental, las investigadoras compararon, en 36 estudiantes con esta doble condición y 36 controles de unos 8-9 años, la comprensión de textos narrativos bajo dos modalidades de presentación —lectura y escucha— analizando sus resúmenes escritos mediante la diversidad léxica, los recursos cohesivos y la estructura episódica.",
       "deepDives": [
         {
           "id": "tdah-apertura-1",
           "triggerLabel": "La comorbilidad TDAH + Dislexia",
           "type": "theory",
-          "content": "Afecta a entre el 25% y el 40% de los niños diagnosticados con alguno de los dos trastornos, multiplicando el riesgo de fracaso escolar."
+          "content": "Más del 80% de los niños con TDAH y el 60% de los niños con dislexia cumplen criterios de al menos un diagnóstico adicional (Willcutt y Pennington, 2000; Willcutt y Petrill, 2023), con una etiología genética parcialmente compartida."
         },
         {
           "id": "tdah-apertura-2",
           "triggerLabel": "La hipótesis del 'cuello de botella' decodificador",
           "type": "theory",
-          "content": "Al liberar al cerebro de la pesada carga de descifrar grafemas mediante el audio, los recursos atencionales quedan libres para tejer inferencias."
+          "content": "Se atribuye a la escucha el potencial de liberar los recursos atencionales de la carga de descifrar grafemas; las investigadoras pusieron a prueba esa intuición comparando ambas modalidades."
         }
       ]
     },
     "conflicto": {
       "problema": "La escuela suele empeñarse en evaluar a estos alumnos mediante exámenes de lectura visual obligatoria, evaluando su decodificación en lugar de su verdadera capacidad intelectual.",
-      "porQueImporta": "Negar el acceso auditivo a los contenidos literarios condena a niños brillantes a creer que son incapaces de entender historias complejas.",
+      "porQueImporta": "Conocer el efecto real del canal de presentación —leer o escuchar— permite decidir qué apoyos son pedagógicamente eficaces, en lugar de actuar por suposiciones.",
       "dataPoints": [
-        "Muestra de estudiantes con diagnóstico clínico confirmado de comorbilidad TDAH + Dislexia.",
-        "Salto estadísticamente significativo a favor de la modalidad de escucha auditiva en preguntas inferenciales.",
-        "Mayor resistencia atencional y menos fatiga reportada en la condición de audio.",
-        "La lectura visual provocó pérdidas de la línea narrativa y abandono prematuro de la tarea en el 60% de los sujetos."
+        "Muestra de 36 estudiantes con comorbilidad TDAH y dislexia (16 niñas y 20 niños; edad media 8,5 años) frente a 36 controles sin trastornos (edad media 8,82 años).",
+        "No hubo diferencias significativas entre lectura y escucha en el grupo control, pero sí en el experimental, y a favor de la lectura.",
+        "En la escucha, el grupo TDAH-dislexia difería del control en todos los conectores: temporales (t = 4,61; p = ,001), causales, adversativos, consecutivos y condicionales.",
+        "La lectura favoreció en los comórbidos los conectores condicionales (t = 9,11; p = ,041) y las palabras función (t = 12,88; p = ,033)."
       ],
       "glossary": [
         {
@@ -60,80 +60,80 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Diseño intra-sujeto contrabalanceado",
-      "narrativa": "Los estudiantes leyeron y escucharon textos narrativos equivalentes en extensión, dificultad sintáctica y vocabulario. Tras cada texto, respondieron preguntas literales e inferenciales.",
+      "titulo": "Ruta metodológica: Resúmenes escritos tras leer y escuchar",
+      "narrativa": "El primer texto narrativo lo leía en voz alta la investigadora (escucha) y el segundo lo leían los propios participantes; tras cada uno redactaban un resumen escrito, con los grupos previamente igualados en edad lectora mediante la prueba PEREL.",
       "detalles": [
         {
           "label": "Diseño",
-          "value": "Experimental intra-sujeto con orden contrabalanceado (lectura vs. escucha)."
+          "value": "Comparación entre grupos (TDAH-dislexia vs. control) en dos situaciones experimentales: escucha y lectura, con resumen escrito en ambas."
         },
         {
           "label": "Población",
-          "value": "Estudiantes con doble diagnóstico clínico de TDAH y Dislexia."
+          "value": "36 comórbidos según criterios DSM-5 (edad media 8,5; DT = 1,02) y 36 controles (8,82; DT = 1,59), emparejados en edad (F = 0,23; p = ,79) y género (c² = 0,99; p = ,71)."
         },
         {
           "label": "Instrumentos",
-          "value": "Textos narrativos calibrados con preguntas estandarizadas de comprensión."
+          "value": "PEREL (Maldonado et al., 1992) para la edad lectora, Peabody PPVT-III para vocabulario, matrices de Raven (1990) para inteligencia; codificación interjueces con kappa de Cohen = ,80."
         }
       ],
       "limitaciones": [
-        "Muestra clínica específica que exige prudencia al extrapolar a alumnos con TDAH puro sin dislexia."
+        "La selección fue accidental y no aleatoria, y quedan pendientes el análisis macroestructural y el estudio en profundidad de la comprensión en situación de escucha."
       ],
       "reflexion": "La inteligencia de un niño no se mide por la velocidad con la que sus ojos siguen una línea impresa."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: El oído libera a la mente cautiva",
-      "narrativa": "Los resultados confirmaron la hipótesis de la liberación cognitiva:",
+      "titulo": "Hallazgos empíricos: Leer también libera la mente",
+      "narrativa": "Los resultados invirtieron la intuición de partida y señalaron a la lectura como canal facilitador:",
       "hallazgos": [
         {
-          "label": "1. Triunfo de la Modalidad Auditiva",
-          "value": "Los alumnos con TDAH+Dislexia rindieron significativamente mejor cuando escucharon el relato, duplicando sus aciertos en inferencias causales."
+          "label": "1. La lectura activa la cohesión",
+          "value": "En el grupo TDAH-dislexia la lectura favoreció el uso de conectores condicionales y acercó al control en los causales, añadiendo complejidad a la estructura sintáctica de la frase, un aspecto no analizado antes en la literatura."
         },
         {
-          "label": "2. Mayor Estabilidad Atencional",
-          "value": "La prosodia humana del narrador auditivo actuó como una guía atencional externa que mantuvo al niño enfocado en la trama."
+          "label": "2. La escucha sobrecarga",
+          "value": "Sin apoyo visual, los comórbidos usaron muchos menos conectores que el control y menos palabras diferentes: la memoria operativa, con recursos limitados, se resiente cuando no se puede volver atrás en el texto."
         }
       ],
       "dataPoints": [
-        "Diferencia significativa (p < .01, eta cuadrado = .28) en la comprensión global a favor del formato auditivo."
+        "La estructura episódica (Marco, Tema, Trama y Resolución) no varió significativamente con la modalidad de presentación en ninguno de los dos grupos."
       ],
-      "reflexion": "El audiolibro no es una trampa: es una rampa de accesibilidad cognitiva que salva mentes."
+      "reflexion": "Ni el audiolibro es una varita mágica ni la lectura un castigo: cada canal tiene su coste cognitivo."
     },
     "marco": {
-      "titulo": "Discusión: Adaptaciones metodológicas no significativas",
-      "narrativa": "Vieiro-Iglesias y González-Fernández reclaman la normalización de las tecnologías de apoyo:",
+      "titulo": "Discusión: El margen de la relectura",
+      "narrativa": "Vieiro-Iglesias y González-Fernández confirman el beneficio de la lectura en los perfiles TDAH-dislexia y abren nuevas líneas de investigación:",
       "detalles": [
         {
-          "label": "Lectores de Pantalla y Audiolibros",
-          "value": "Permitir que los exámenes y lecturas escolares puedan ser escuchados con auriculares en el aula ordinaria."
+          "label": "Lectura que permite volver",
+          "value": "Leer favorece la comprensión frente a escuchar porque la presentación visual del texto permite volver atrás cuando algo no ha quedado claro o se pierde el hilo del discurso (Cain y Bignell, 2014)."
         }
       ],
-      "reflexion": "Garantizar que un niño disléxico escuche sus libros es tan elemental como ponerle gafas a un niño miope."
+      "reflexion": "Conceder a un alumno tiempo y texto para releer es tan elemental como ponerle gafas a un niño miope."
     },
     "nucleo": {
       "pregunta": "¿Influye el formato de presentación (lectura visual vs. escucha auditiva) en la comprensión de textos narrativos en estudiantes con comorbilidad TDAH y dislexia?",
-      "conclusion": "El estudio experimental demuestra de forma contundente que los estudiantes con comorbilidad TDAH y dislexia alcanzan niveles de comprensión narrativa significativamente más altos en la modalidad auditiva que en la lectura visual tradicional. La escucha elimina el cuello de botella decodificador y proporciona una guía prosódica externa, demostrando que los audiolibros y lectores de texto a voz son adaptaciones metodológicas urgentes para garantizar su éxito escolar.",
+      "conclusion": "El estudio demuestra que la modalidad influye de forma desigual: en los estudiantes con TDAH y dislexia comórbidos, la lectura favoreció los recursos cohesivos —sobre todo los conectores condicionales— y la diversidad léxica —más palabras función—, mientras que el grupo control rindió mejor en cohesión y palabras contenido, en especial en la escucha. La estructura episódica de los resúmenes no difería entre modalidades, lo que apunta a que el déficit está en la cohesión y el léxico, no en el recuerdo de la superestructura narrativa. La evidencia respalda así el beneficio del canal de lectura en este perfil y deja abierta la exploración de los fallos de comprensión oral.",
       "formalRef": "Vieiro-Iglesias, P., & González-Fernández, M. D. (2025). Comprensión lectora y auditiva en la narrativa de estudiantes con TDAH comórbidos con dislexia. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.494"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué formato de presentación de textos narrativos produjo un rendimiento significativamente superior en los estudiantes con TDAH y dislexia comórbidos?",
+          "q": "¿Qué formato de presentación favoreció las medidas de cohesión y diversidad léxica en los resúmenes de los estudiantes con TDAH y dislexia comórbidos?",
           "options": [
-            "La lectura visual obligatoria en papel sin ayuda.",
+            "La lectura del texto, que favoreció los conectores condicionales y las palabras función.",
             "La modalidad de escucha auditiva (narración oral / audiolibro).",
             "Leer el texto al revés en un espejo.",
-            "Ambos formatos produjeron exactamente el mismo resultado pésimo."
+            "Ambos formatos produjeron exactamente el mismo resultado."
           ],
-          "correct": 1
+          "correct": 0
         },
         {
           "type": "choice",
-          "q": "¿Por qué la escucha auditiva facilita tanto la comprensión inferencial en este grupo de alumnos?",
+          "q": "¿Qué explicación ofrecen las autoras para el beneficio de la lectura frente a la escucha?",
           "options": [
             "Porque los niños se van a dormir mientras escuchan.",
-            "Porque libera a la memoria de trabajo del sobreesfuerzo de decodificar grafemas y la prosodia oral guía el foco atencional.",
+            "Porque la presentación visual permite volver atrás cuando algo no queda claro, mientras que la escucha sobrecarga los limitados recursos de la memoria operativa.",
             "Porque el texto auditivo tiene menos palabras.",
             "Porque los profesores les dicen las respuestas."
           ],
@@ -141,22 +141,22 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué medida de accesibilidad en el aula proponen las investigadoras como adaptación necesaria y de justicia para estos estudiantes?",
+          "q": "¿Qué medida de los resúmenes NO varió significativamente entre lectura y escucha en ninguno de los grupos?",
           "options": [
-            "Expulsar a los alumnos de las clases de Lengua.",
-            "Permitir el uso habitual de audiolibros, lectores de pantalla con auriculares y evaluaciones orales de contenidos.",
-            "Obligarles a copiar 10 páginas diarias a mano.",
-            "Prohibir que usen tecnología en el colegio."
+            "El uso de conectores condicionales en el grupo comórbido.",
+            "La estructura episódica (Marco, Tema, Trama y Resolución).",
+            "El número de palabras diferentes (TTR).",
+            "El uso de verbos y adverbios del grupo control."
           ],
           "correct": 1
         },
         {
           "type": "open",
-          "q": "Imagina que en tu aula tienes a un estudiante diagnosticado con TDAH y dislexia severa. Diseña una adaptación de evaluación para un examen de historia o literatura que respete su potencial intelectual mediante el canal auditivo."
+          "q": "Imagina que en tu aula tienes a un estudiante diagnosticado con TDAH y dislexia. Diseña una adaptación de evaluación para un examen de historia o literatura que tenga en cuenta que la lectura con posibilidad de releer le favorece: tiempo adicional, texto a la vista, preguntas guía."
         },
         {
           "type": "open",
-          "q": "Muchos profesores afirman todavía que 'escuchar un libro no es leer de verdad'. ¿Cómo refutarías esa idea basándote en la neurociencia cognitiva y los datos de este estudio?"
+          "q": "Muchos profesores afirman que 'escuchar un libro es igual de eficaz que leerlo'. ¿Cómo matizarías esa idea con los datos de este estudio, que muestran beneficios de la lectura sobre la escucha en cohesión y léxico?"
         }
       ]
     }
@@ -167,23 +167,23 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "Obligar a leer con los ojos a quien no puede decodificar es como pedirle a un miope sin gafas que lea un cartel lejano.",
+      "text": "Antes de dar el audio por supuesto, la ciencia pide datos: ni el oído ni el ojo son enemigos de quien lee con dificultad.",
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Comparamos experimentalmente la comprensión del mismo texto leído vs. escuchado en estudiantes con doble diagnóstico.",
+      "text": "Comparamos los resúmenes escritos tras escuchar un cuento y tras leer otro, en alumnos con doble diagnóstico y controles.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El oído es la salvación! Al escuchar, su comprensión inferencial se dispara: el problema no era su inteligencia, era el canal.",
+      "text": "¡Fue la lectura! Los comórbidos ganaron conectores condicionales y palabras función al leer: el canal importa.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "¡Audiolibros en todas las aulas ya! El sonido es una rampa de accesibilidad cognitiva para la mente neurodiversa.",
+      "text": "Poder volver atrás en el texto es la rampa de accesibilidad cognitiva que los datos de este estudio respaldan.",
       "position": "bottom-right"
     },
     "nucleo": {
-      "text": "Comprender una historia es recrear mundos en la imaginación, no importa si entraron por los ojos o por los oídos.",
+      "text": "Comprender una historia es recrear mundos en la imaginación, y a veces la ventana más ancha es la del texto que puedes releer.",
       "position": "bottom-right"
     },
     "mapa": {
@@ -196,110 +196,225 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: TDAH, Dislexia y Comprensión Auditiva vs. Lectora",
-    "descripcion": "Estudio experimental: comorbilidad neuroevolutiva, cuello de botella de la decodificación, prosodia como andamio y audiolibros inclusivos.",
+    "titulo": "Mapa conceptual: Comprensión lectora y auditiva en TDAH con dislexia (Ocnos 24(1) 2025)",
+    "descripcion": "Recorrido del artículo: de los diagnósticos de dislexia y TDAH y su alta comorbilidad, a la comparación experimental de lectura frente a escucha en resúmenes narrativos, los hallazgos sobre cohesión, léxico y estructura episódica, y la discusión sobre la sobrecarga cognitiva de la escucha.",
     "nodos": [
       {
         "id": "1",
-        "label": "Comorbilidad TDAH + Dislexia",
-        "color": "#e76f51"
+        "label": "Dislexia en el DSM-5",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "El DSM-5 la describe como trastorno específico del aprendizaje dentro de los trastornos del neurodesarrollo: una dificultad de lectura persistente, inesperada e ineficazmente resuelta por la instrucción convencional, que no se explica por déficits sensoriales, cognitivos ni falta de oportunidad (APA, 2013)."
       },
       {
         "id": "2",
-        "label": "Modalidad de Escucha Auditiva",
-        "color": "#88b04b"
+        "label": "TDAH, prevalente trastorno del desarrollo",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Caracterizado por actividad excesiva, baja atención e impulsividad, con continuidad de la infancia a la adultez; afecta a cerca del 5% de los niños y del 2.5% de los adultos (APA, 2013), y la lectura se le vuelve difícil ante actividades intensas y prolongadas."
       },
       {
         "id": "3",
-        "label": "Modalidad de Lectura Visual",
-        "color": "#c73e1d"
+        "label": "Comorbilidad TDAH y dislexia",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Más del 80% de los niños con TDAH y el 60% con dislexia cumplen criterios de al menos otro diagnóstico (Willcutt y Pennington, 2000; Willcutt y Petrill, 2023), con etiología genética parcialmente compartida; las dificultades lectoras se ligan al tipo desatento (Gooch et al., 2011)."
       },
       {
         "id": "4",
-        "label": "Cuello de Botella Decodificador",
-        "color": "#264653"
+        "label": "Déficit de centralidad en TDAH",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "El TDAH agota los recursos cognitivos para conectar ideas del texto, generando un déficit de centralidad incluso sin problemas de decodificación (Herrera-Gutiérrez, 2021; Flake et al., 2007; Lorch et al., 2000), con déficits de organización e ideas principales tras la escucha (Miller et al., 2013; Purvis y Tannock, 1997)."
       },
       {
         "id": "5",
-        "label": "Liberación de Memoria de Trabajo",
-        "color": "#2a9d8f"
+        "label": "Influencia del formato lectura o escucha",
+        "color": "#c73e1d",
+        "role": "Objetivo",
+        "descripcion": "El estudio busca conocer la influencia de la modalidad de recepción (escucha-lectura) en la comprensión de textos narrativos en alumnado con TDAH comórbido con dislexia y examinar organización episódica, cohesión y diversidad léxica, con la hipótesis de que la lectura favorece las medidas de organización."
       },
       {
         "id": "6",
-        "label": "Guía Prosódica Atencional",
-        "color": "#5b9eaa"
+        "label": "Grupos de 36 comórbidos y 36 controles",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "De 42 participantes iniciales con TDAH y dislexia, la muestra quedó en 36 (16 niñas, 20 niños; edad media 8,5) tras igualar la edad lectora, frente a 36 controles sin dificultades (edad media 8,82); grupos homogeneizados en edad (F=0,23; p=,79) y género (c²=0,99; p=,71), con criterios DSM-5."
       },
       {
         "id": "7",
-        "label": "Salto en Comprensión Inferencial",
-        "color": "#f4d068"
+        "label": "PEREL, Peabody y Raven",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "La prueba PEREL (Maldonado et al., 1992) igualó la edad mental lectora (percentiles 50-80); el Peabody PPVT-III (Dunn et al., 2006) evaluó el vocabulario y las matrices Raven (1990) el desarrollo intelectual mediante analogías y estímulos figurativos."
       },
       {
         "id": "8",
-        "label": "Fatiga y Abandono en Lectura",
-        "color": "#9b82c3"
+        "label": "Estructura episódica, cohesión y léxico",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Tres medidas sobre los resúmenes: estructura episódica como porcentaje de proposiciones de Marco, Tema, Trama y Resolución según la Gramática de los Cuentos (Thorndyke, 1977); recursos cohesivos como porcentaje de conectores temporales, causales, adversativos, consecutivos y condicionales; y diversidad léxica (TTR y palabras contenido/función)."
       },
       {
         "id": "9",
-        "label": "Tecnologías Texto-a-Voz / Audio",
-        "color": "#2a5a75"
+        "label": "Resumen escrito tras cada texto",
+        "color": "#e76f51",
+        "role": "Método",
+        "descripcion": "En el centro educativo y con consentimiento familiar, el primer texto lo leía la investigadora (escucha) y el segundo lo leían los participantes, redactando cada vez un resumen escrito; dos jueces expertos codificaron con kappa de Cohen = ,80 y los datos se analizaron con SPSS 26 y pruebas t."
       },
       {
         "id": "10",
-        "label": "Accesibilidad Cognitiva Escolar",
-        "color": "#f4a261"
+        "label": "Ventaja del control en conectores",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "El grupo control usó más variedad de recursos cohesivos, sobre todo temporales y causales; las diferencias con el grupo TDAH-dislexia fueron significativas en todas las medidas en la escucha (temporales t=4,61, p=,001; condicionales t=8,71) y en lectura para temporales, adversativas y consecutivas."
+      },
+      {
+        "id": "11",
+        "label": "La lectura favorece conectores condicionales",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "En el grupo experimental la lectura favoreció los conectores condicionales frente a la escucha (t=9,11; p=,041) y las palabras función (t=12,88; p=,033), dando mayor complejidad sintáctica a la frase, aspecto no analizado antes en la literatura."
+      },
+      {
+        "id": "12",
+        "label": "Menor diversidad léxica comórbida",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "Con número total de palabras similar, el grupo TDAH-dislexia empleó menos palabras diferentes (TTR) en lectura (t=2,65; p=,001) y escucha (t=5,87; p=,003); usó más palabras función y sustantivos, mientras el control destacó en verbos, adjetivos y adverbios."
+      },
+      {
+        "id": "13",
+        "label": "Estructura episódica sin diferencias",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "El recuerdo de las proposiciones de Marco, Tema, Trama y Resolución no se vio afectado significativamente por la modalidad de presentación en ninguno de los dos grupos: la estructura episódica no discriminó entre comórbidos y controles."
+      },
+      {
+        "id": "14",
+        "label": "La escucha sobrecarga recursos cognitivos",
+        "color": "#2a5a75",
+        "role": "Discusión",
+        "descripcion": "La comprensión exige recursos limitados de memoria de trabajo (Loh et al., 2011; Jarrett et al., 2015) y la escucha resulta particularmente vulnerable en TDAH (Bellani et al., 2011; McInnes et al., 2003); leer, en cambio, permite volver atrás cuando se pierde el hilo (Cain y Bignell, 2014)."
+      },
+      {
+        "id": "15",
+        "label": "Evidencia del beneficio de leer",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "Los resultados aportan evidencia empírica del beneficio de la situación de lectura en los recursos cohesivos —sobre todo conectores condicionales— y en el uso de palabras función del perfil TDAH-dislexia; quedan abiertas la línea macroestructural (Miranda-Casas, 1988) y el estudio de la comprensión en escucha."
       }
     ],
     "aristas": [
       {
         "from": "1",
         "to": "3",
-        "label": "sufre severas barreras en la"
+        "label": "suele coexistir con la"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "se asocia con la"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "explica el"
       },
       {
         "from": "3",
-        "to": "4",
-        "label": "provoca la asfixia por el"
+        "to": "5",
+        "label": "motivó la pregunta por la"
       },
       {
         "from": "4",
-        "to": "8",
-        "label": "desemboca en la prematura"
-      },
-      {
-        "from": "1",
-        "to": "2",
-        "label": "florece y rinde con éxito en la"
-      },
-      {
-        "from": "2",
         "to": "5",
-        "label": "consigue la inmediata"
-      },
-      {
-        "from": "2",
-        "to": "6",
-        "label": "se beneficia del soporte de la"
+        "label": "suscita el estudio de la"
       },
       {
         "from": "5",
-        "to": "7",
-        "label": "permite un espectacular"
+        "to": "6",
+        "label": "se contrastó con unos"
       },
       {
-        "from": "9",
-        "to": "2",
-        "label": "proporciona el acceso mediante"
+        "from": "5",
+        "to": "8",
+        "label": "se operacionalizó en"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "fue equiparado con"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "participó en el"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "se codificó mediante el"
       },
       {
         "from": "9",
         "to": "10",
-        "label": "hace realidad los principios de la"
+        "label": "produjo la"
+      },
+      {
+        "from": "9",
+        "to": "12",
+        "label": "evidenció una"
       },
       {
         "from": "10",
-        "to": "1",
-        "label": "garantiza la equidad y éxito en"
+        "to": "11",
+        "label": "matiza que la lectura recupera los"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "refuerza la hipótesis de"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "dirige la explicación hacia la"
+      },
+      {
+        "from": "11",
+        "to": "15",
+        "label": "sustenta la"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "precisa la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "fundamenta la"
+      },
+      {
+        "from": "15",
+        "to": "5",
+        "label": "responde a la pregunta sobre la"
+      },
+      {
+        "from": "4",
+        "to": "14",
+        "label": "anticipa la idea de"
+      },
+      {
+        "from": "1",
+        "to": "12",
+        "label": "condiciona la"
+      },
+      {
+        "from": "3",
+        "to": "10",
+        "label": "condiciona la"
       }
     ]
   }

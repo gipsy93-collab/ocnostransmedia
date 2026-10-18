@@ -1,0 +1,461 @@
+{
+  "id": "recursos_poesia_infantil_siglo_xxi",
+  "metadata": {
+    "title": "Recursos formales en la poesía infantil en español del siglo XXI",
+    "authors": "Eduardo Santiago-Ruiz",
+    "year": "2022",
+    "journal": "Ocnos 21(2)",
+    "doi": "10.18239/ocnos_2022.21.2.2852",
+    "gancho": "¿Sigue viva la rima y el octosílabo o la poesía infantil contemporánea ha sido conquistada por el verso libre y los caligramas visuales?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#f72585",
+    "colorAlt": "#480ca8",
+    "bg": "from-pink-600/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/poesia-infantil/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-santiago/200/200",
+      "name": "Dr. Eduardo Santiago-Ruiz",
+      "role": "Investigador en Literatura Infantil y Teoría Poética, Universidad Pedagógica Nacional (México)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Eduardo Santiago-Ruiz, especialista en métrica, teoría del verso y poesía infantil contemporánea",
+      "gancho": "¿Por qué los libros que ganan premios de poesía infantil ya no se parecen a las canciones de corro de nuestras abuelas?",
+      "contexto": "Durante el siglo XX, la poesía infantil en el ámbito hispánico estuvo indisolublemente ligada a la oralidad folclórica, el arte menor (octosílabos y hexasílabos) y formas métricas tradicionales como la copla, el romance y la seguidilla. Sin embargo, en el siglo XXI se intuía una silenciosa revolución estética que nadie había cuantificado con rigor empírico. Este estudio pionero audita literaria y estadísticamente 16 poemarios galardonados (423 poemas y 4.477 versos) con el prestigioso Premio Hispanoamericano de Poesía Infantil (FCE/FLM) entre 2004 y 2019, desvelando el triunfo rotundo del verso libre, la sorpresa métrica del heptasílabo y la invasión plástica de la poesía visual.",
+      "deepDives": [
+        {
+          "id": "poe-apertura-1",
+          "triggerLabel": "La herencia folclórica del siglo XX",
+          "type": "theory",
+          "content": "Como sostiene Cervera (1991) y recoge Herrera-Rojas (2017), la poesía para niños tradicional buscaba la performatividad corporal: rimas consonantes marcadas, estrofas breves y ritmo binario regular que invitaba al canto, las palmadas y el juego motor colectivo."
+        },
+        {
+          "id": "poe-apertura-2",
+          "triggerLabel": "El Premio Hispanoamericano de Poesía Infantil",
+          "type": "data",
+          "content": "Convocado conjuntamente por el Fondo de Cultura Económica y la Fundación para las Letras Mexicanas, es el certamen de referencia en lengua española; sus jurados están compuestos por poetas y críticos de prestigio internacional."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La crítica literaria y los manuales docentes repetían como dogma que el niño solo conecta con el verso medido y rimado (el octosílabo popular), ignorando que la lírica infantil más vanguardista y premiada ha adoptado el verso libre, la prosa poética y las experimentaciones gráficas de las vanguardias del siglo XX.",
+      "porQueImporta": "Si la escuela sigue enseñando exclusivamente poesía rimada y consonante, condena al alumnado a un desfase estético insalvable frente a la literatura contemporánea, perdiendo la oportunidad de educar la mirada poética multimodal en diálogo con el arte visual.",
+      "dataPoints": [
+        "Corpus de 16 libros premiados (2004-2019), abarcando 423 poemas individuales y 4.477 versos codificados manualmente.",
+        "El verso libre domina de forma aplastante con el 69% del corpus (292 poemas), frente a un retroceso de la métrica tradicional al 23% (97 poemas).",
+        "Aparición consolidada de la poesía en prosa en el 8% de los textos (34 poemas), superando en frecuencia al soneto y al romance.",
+        "Subversión del metro dominante: el heptasílabo (7 sílabas) supera al tradicional octosílabo como el verso más abundante en el conjunto global.",
+        "Presencia masiva de poesía visual en el 24% de los poemas: 31 con cambios de tipografía, 34 con blancos activos y 34 caligramas."
+      ],
+      "glossary": [
+        {
+          "term": "Verso libre",
+          "definition": "Forma poética que prescinde de la rima sistemática y del conteo silábico regular, organizando el ritmo a través de pausas internas, paralelismos sintácticos e imágenes visuales."
+        },
+        {
+          "term": "Blancos activos",
+          "definition": "Recurso espacial derivado de Mallarmé donde la disposición gráfica y los silencios en blanco de la página actúan como significantes expresivos del poema."
+        },
+        {
+          "term": "Caligrama",
+          "definition": "Composición poética donde la tipografía y los versos dibujan plásticamente la figura o silueta del objeto evocado en el texto."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "poe-conflicto-1",
+          "triggerLabel": "El triunfo del heptasílabo",
+          "type": "theory",
+          "content": "El predominio del verso de 7 sílabas frente al de 8 responde a una búsqueda deliberada de ligereza: el heptasílabo mantiene el eco de la tradición popular pero quiebra su previsibilidad machacona, generando una cadencia moderna y juguetona."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Análisis métrico estilístico asistido por computación en RStudio",
+      "narrativa": "El autor diseñó un sistema de reglas explícitas de clasificación métrica para garantizar la reproducibilidad del estudio, volcando el escaneo prosódico manual en una base de datos procesada en RStudio (2022.02.1):",
+      "detalles": [
+        {
+          "label": "Regla de Corte del 75%",
+          "value": "Un poema se clasifica como 'métrica' si el 75% o más de sus versos comparte el mismo cómputo silábico regular o responde a un esquema canónico conocido (o su variante)."
+        },
+        {
+          "label": "Tres Categorías Excluyentes",
+          "value": "Métrica (23%), Verso Libre (69%) y Poesía en Prosa (8%); el cómputo silábico aplicó estrictamente las reglas de sinalefa y compensación acentual del español."
+        },
+        {
+          "label": "Poesía Visual como Eje Transversal",
+          "value": "Evaluada de forma independiente por su capacidad de combinarse con cualquier forma: tipografía mutante, tachaduras, blancos activos, caligramas y poemas invertidos."
+        }
+      ],
+      "limitaciones": [
+        "El corpus se limita a los ganadores de un único certamen editorial (FCE/FLM), reflejando el canon legítimo de poetas consagrados pero no la poesía comercial pop de gran tirada escolar.",
+        "Quedan excluidas las producciones transmedia de poesía digital y ciberpoesía nacidas nativamente en redes sociales."
+      ],
+      "reflexion": "Si el 69% de los poemas premiados para niños están escritos en verso libre, ¿por qué los libros de texto escolares siguen pidiendo contar sílabas y señalar rimas consonantes?",
+      "deepDives": [
+        {
+          "id": "poe-viaje-1",
+          "triggerLabel": "Criterios de escaneo métrico en casos híbridos",
+          "type": "method",
+          "content": "Para clasificar poemas con estrofas libres que insertaban coplas tradicionales, el autor auditó el porcentaje de versos isosilábicos: solo cuando superaban las tres cuartas partes del texto se consideraban formalmente métricos."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Brevedad, hibridación visual y superación del folclore cerrado",
+      "narrativa": "Los análisis estadísticos desvelaron un paisaje formal profundamente renovado que redefine la lírica infantil del siglo XXI:",
+      "hallazgos": [
+        {
+          "label": "Triunfo absoluto del verso libre",
+          "value": "La poesía infantil asimila finalmente la gran conquista moderna del verso libre, liberando al poema de la tiranía de la rima forzada y abriendo espacio a la introspección. Ej.: 69% de los 423 poemas."
+        },
+        {
+          "label": "Revolución del heptasílabo",
+          "value": "El arte menor sigue dominando (84% de la métrica), pero el heptasílabo desbanca al octosílabo en el verso libre por su flexibilidad rítmica y sonoridad asimétrica. Ej.: Heptasílabo lidera el verso total."
+        },
+        {
+          "label": "Gusto por la máxima brevedad",
+          "value": "Media de 11.53 versos por poema. La lírica contemporánea huye de los largos romances narrativos decimonónicos y prefiere el chispazo epifánico breve y contundente. Ej.: Moda de 5 versos; 75% ≤ 16 versos."
+        },
+        {
+          "label": "Eclosión de la poesía visual",
+          "value": "Presencia de caligramas, versos al revés y tachados que dialogan con el libro álbum lírico, demostrando que en el siglo XXI leer poesía es también contemplar el espacio plástico. Ej.: 24% de los poemas con algún recurso visual."
+        }
+      ],
+      "dataPoints": [
+        "Distribución general: Verso libre (292 poemas, 69%), Métrica (97 poemas, 23%), Prosa poética (34 poemas, 8%).",
+        "Familias métricas innovadas: la copla y la seguidilla no se copian miméticamente; se reinventan en tetrasílabos o esquemas asonantados heterodoxos.",
+        "Arte mayor residual: solo dos sonetos canónicos y cinco endecasílabos aislados en todo el corpus de 4.477 versos.",
+        "Poemas extremos de un solo verso: presencia de microtextos como 'B' en Rutinero o 'Toma la luna por los cuernos' en Lunática."
+      ],
+      "reflexion": "La poesía para niños ha dejado de ser un simple sonajero de palabras para convertirse en un objeto de arte total donde conviven la palabra, el silencio y la tipografía.",
+      "deepDives": [
+        {
+          "id": "poe-revelacion-1",
+          "triggerLabel": "La prosa poética como género emergente",
+          "type": "data",
+          "content": "El 8% de poesía en prosa (presente en libros como Huellas, Luci, Lunática y Seta) demuestra que los niños leen con deleite fragmentos líricos sin corte de verso, derribando el prejuicio de que la infancia necesita rimas para entender la emoción poética."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: De la performatividad oral al álbum lírico multimodal",
+      "narrativa": "Santiago-Ruiz discute la transición histórica desde el folclorismo oral hacia la vanguardia lírica contemporánea:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Vanguardias históricas y espacialidad poética (Mallarmé, Apollinaire, Marinetti): La poesía infantil del XXI rescata los experimentos tipográficos de las vanguardias para hacer del poema un artefacto lúdico y visual."
+        },
+        {
+          "label": "Convergencia",
+          "value": "El concepto de Álbum Lírico (Neira-Piñeiro): El poemario infantil contemporáneo ya no es un libro de bolsillo austero; es un objeto álbum donde ilustrador y poeta co-diseñan el sentido, aunque en estos libros las ilustraciones se crearon después de terminados los textos."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Didáctica de la creación poética (García-Montero, García-Carcedo): La propuesta de que los niños pueden escribir versos sin rima ni métrica y el trabajo escolar con caligramas y palabras-imagen confirman que el juego formal es una vía de acceso a la poesía."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Folclorismo costumbrista vs. Modernidad estética: El autor no reniega del folclore, pero denuncia su fosilización; la poesía premiada dialoga con la tradición para subvertirla formalmente."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Métrica obligatoria escolar vs. Práctica de los poetas: Existe un divorcio preocupante entre la escuela (que sigue anclada en la métrica tradicional) y la creación viva contemporánea (que escribe en verso libre)."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Corpus necesariamente parcial: el estudio abarca solo a los ganadores del Premio hispanoamericano de poesía infantil, de modo que representa la visión de una editorial y de los propios poetas jurado, y no toda la poesía existente."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Quedan fuera los libros ganadores de 2020 y 2021 (Gato ¿estás ahí? de Evelyn Moreno y Raíz del nido de Elizabeth Reinosa), aún no publicados al escribir el artículo, lo que invita a ampliar el corpus en el futuro."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la práctica docente en el aula Superar la obsesión por medir sílabas y rimar; invitar a los niños a escribir caligramas, jugar con blancos activos y explorar el verso libre."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la selección de bibliotecas escolares Incorporar los poemarios del Fondo de Cultura Económica y certámenes contemporáneos para ofrecer modelos poéticos modernos y atractivos."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la teoría y crítica de la LIJ Reconocer al heptasílabo y al verso libre como los metros identitarios de la poesía infantil hispanoamericana del siglo XXI."
+        },
+        {
+          "label": "Tabla",
+          "value": "Recurso Formal Analizado | Nº Poemas / Muestra | Porcentaje (%) | Comportamiento Métrico | Innovación Estética\nVerso Libre | 292 poemas | 69.0% | Ritmo interior sin rima obligada | Dominio absoluto contemporáneo\nMétrica Tradicional | 97 poemas | 23.0% | Arte menor (84%), familias híbridas | Retroceso del octosílabo frente a hepta\nProsa Poética | 34 poemas | 8.0% | Sin corte de verso, alta densidad lírica | Supera a formas clásicas como soneto\nPoesía Visual (Transversal) | 31 tipografía + 34 blancos + 34 caligramas | 24.0% | Blancos activos, caligramas, tachados | Hibridación multimodal con la imagen\nTotal del Corpus | 423 poemas / 4.477 versos | 100.0% | Media de 11.53 versos por poema | Lírica breve, intensa y lúdica"
+        }
+      ],
+      "reflexion": "La poesía para niños no es una antesala menor de la poesía adulta: es el laboratorio más libre, visual y experimental de la lengua española.",
+      "deepDives": [
+        {
+          "id": "poe-marco-1",
+          "triggerLabel": "Escribir poemas en la escuela del siglo XXI",
+          "type": "theory",
+          "content": "El autor propone que los talleres de escritura poética escolar abandonen la imposición de la rima forzada, que suele frustrar a los niños, y adopten consignas basadas en caligramas, metáforas insólitas y juegos espaciales en la hoja."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cuáles son los recursos formales (métrica, verso libre, prosa poética y poesía visual) que configuran la poesía infantil en español premiada en el siglo XXI?",
+      "conclusion": "El verso libre es la forma dominante indiscutible (69%), mientras la métrica retrocede al 23% y la prosa poética se consolida con el 8%. El heptasílabo desbanca al octosílabo tradicional como el metro más frecuente en el cómputo silábico global de los poemas. Predomina la poesía breve y concentrada: tres de cada cuatro poemas tienen 16 versos o menos (media de 11.53 versos). Uno de cada cuatro poemas (24%) incorpora recursos de poesía visual (31 cambios de tipografía, 34 blancos activos y 34 caligramas). La transformación detectada no supone la caída en desgracia de la oralidad o la métrica, sino una apertura a nuevas formas lúdicas y significativas de emplear la lengua. Estos poemas invitan a modificar las tradiciones de lectura y las estrategias didácticas, y a usar la poesía para la construcción de la identidad y la búsqueda de la libertad expresiva. Un poema para niños es una caja de música que ya no necesita engranajes de cuerda: vuela libre al compás de la imaginación y la mirada.",
+      "formalRef": "Eduardo Santiago-Ruiz. (2022). Recursos formales en la poesía infantil en español del siglo XXI. Ocnos 21(2). https://doi.org/10.18239/ocnos_2022.21.2.2852"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje del corpus analizado de 423 poemas infantiles contemporáneos está escrito en verso libre?",
+          "options": [
+            "El 10%",
+            "El 23%",
+            "El 69%",
+            "El 95%"
+          ],
+          "correct": 2
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de verso superó al tradicional octosílabo popular como el metro más abundante en el cómputo silábico global del estudio?",
+          "options": [
+            "El endecasílabo (11 sílabas)",
+            "El heptasílabo (7 sílabas)",
+            "El alejandrino (14 sílabas)",
+            "El bisílabo (2 sílabas)"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Teniendo en cuenta que el 24% de los poemas premiados usa recursos de poesía visual, ¿qué consigna creativa de caligrama o blancos activos propondrías a un grupo de 9 años para romper el miedo a escribir poesía sin rima?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Tradición folclórica del siglo XX",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Predominio histórico de formas orales de arte menor, rima consonante regular y performatividad corporal ligada a canciones de cuna, rondas y juegos infantiles de patio escolar en la lírica infantil tradicional (Cervera, Pelegrín)."
+      },
+      {
+        "id": "2",
+        "label": "Espacialidad y vanguardias líricas",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Herencia de Mallarmé, Apollinaire y las vanguardias artísticas del siglo XX que incorporan el blanco activo de la página, los caligramas y la materialidad visual de las letras como significantes expresivos esenciales del poema."
+      },
+      {
+        "id": "3",
+        "label": "Emergencia del álbum lírico multimodal",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Evolución editorial contemporánea hacia el álbum lírico donde el poemario para niños dialoga íntimamente con la ilustración, la tipografía y el diseño gráfico de vanguardia, superando el libro de texto escolar tradicional."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Cuantificar la transformación formal",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Medir con rigor estadístico y filológico la presencia real de métrica tradicional, verso libre, prosa poética y poesía visual en la lírica infantil en español galardonada en certámenes de excelencia en el siglo XXI."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Tipificar versos, metros y extensión",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Determinar los cómputos silábicos predominantes, la extensión en versos de las composiciones y la vigencia del arte menor frente a la libertad formal moderna en una muestra amplia y representativa de poesía infantil."
+      },
+      {
+        "id": "6",
+        "label": "Corpus de 16 poemarios premiados (FCE/FLM)",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Conjunto de 16 obras ganadoras del Premio Hispanoamericano de Poesía Infantil del Fondo de Cultura Económica y la Fundación para las Letras Mexicanas (2004-2019), con 423 poemas individuales y 4.477 versos escaneados."
+      },
+      {
+        "id": "7",
+        "label": "Reglas métricas y umbral de corte del 75%",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Protocolo de clasificación métrica replicable: categorización como métrica solo cuando el 75% o más de los versos presenta regularidad silábica estricta o responde a un esquema estrófico canónico conocido (o variante formal)."
+      },
+      {
+        "id": "8",
+        "label": "Procesamiento estilístico computacional en R",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Cálculo computacional de frecuencias, distribuciones de longitud, densidades métricas y tabulaciones cruzadas mediante el entorno estadístico RStudio (2022.02.1) a partir de la base de datos lírica codificada manualmente."
+      },
+      {
+        "id": "9",
+        "label": "Dominio aplastante del verso libre (69%)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "292 poemas escritos sin rima obligada ni medida silábica fija (69%), consagrando el ritmo interior asonante y la libertad imaginativa frente al retroceso de la métrica tradicional a solo un 23% del corpus analizado."
+      },
+      {
+        "id": "10",
+        "label": "Subversión del metro: triunfo del heptasílabo",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "El verso de 7 sílabas supera al octosílabo popular tradicional en el cómputo silábico general, aportando ligereza rítmica, dinamismo expresivo y una cadencia asimétrica sumamente cercana a la lengua viva contemporánea."
+      },
+      {
+        "id": "11",
+        "label": "Consolidación de la poesía en prosa (8%)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Presencia de 34 textos poéticos en prosa lírica continua (8% del corpus), superando en frecuencia empírica a moldes estróficos clásicos de la tradición poética hispánica como el soneto, el romance o la lira."
+      },
+      {
+        "id": "12",
+        "label": "Invasión de poesía visual en el 24%",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Poemas intervenidos plásticamente con caligramas figurativos, palabras tachadas, tipografías variables y aprovechamiento estético deliberado de los márgenes en blanco de la hoja: 31 con cambios tipográficos, 34 con blancos activos y 34 caligramas, presentes en el 24% del corpus."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Divorcio entre escuela y creación viva",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Contraste preocupante entre la enseñanza escolar anclada en medir sílabas y buscar rimas consonantes forzadas y la práctica creativa real de los poetas contemporáneos que crean libremente en verso libre y prosa."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Poesía breve como artefacto epifánico",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Preferencia compositiva por poemas cortos y concentrados (moda de 5 versos y 75% con 16 versos o menos) que funcionan como instantáneas emocionales intensas adaptadas a la sensibilidad del lector contemporáneo."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Corpus editorial especializado",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Muestra acotada al catálogo especializado del FCE y a jurados de poetas consagrados, pendiente de contraste empírico con la poesía comercial masiva de libros de texto y las producciones digitales en redes sociales."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Renovación del canon poético infantil",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "La lírica infantil hispánica del siglo XXI se consolida como un espacio privilegiado de libertad artística, síntesis verbal y experimentación plástica que exige una renovación profunda de la educación literaria escolar."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se transforma con la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "evoluciona hacia la"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "proporciona el marco para"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "fundamenta el planteamiento de"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se investiga sobre el"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se operativiza mediante las"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "es procesado mediante el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "alimenta el modelo de"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "confirma empíricamente el"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "revela la inesperada"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "demuestra la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "pone al descubierto la"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "sustenta el debate del"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "cuestiona el canon tradicional en la"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "se relaciona con la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "enriquece la estética de la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "justifica la urgente"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "consolida las conclusiones de la"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "reconoce como límite el"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "delimita el alcance real de la"
+      },
+      {
+        "from": "2",
+        "to": "16",
+        "label": "culmina con la consagración de la"
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "id": "alfabetizacion_practica_social_infantil_zonas_exclusion",
+  "metadata": {
+    "id": "alfabetizacion_practica_social_infantil_zonas_exclusion",
+    "title": "La alfabetización como práctica social en Educación Infantil: Un estudio de casos en zonas en riesgo de exclusión social",
+    "authors": [
+      "Eduardo García-Jiménez",
+      "Fernando Guzmán-Simón",
+      "Celia Moreno-Morilla"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "3",
+    "pages": "19-30",
+    "doi": "10.18239/ocnos_2018.17.3.1784",
+    "keywords": [
+      "alfabetización inicial",
+      "práctica social",
+      "educación infantil",
+      "exclusión social",
+      "Nuevos Estudios de Literacidad"
+    ],
+    "abstract": "Estudio de casos etnográfico con tres escolares de 5 años en barrios de exclusión estructural de Sevilla. Mediante fotografías, dibujos y mapping, desvela cómo el valor social asignado a la lectura y escritura en el hogar y barrio explica la alfabetización temprana."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo aprenden a leer y escribir los niños de 5 años que crecen en contextos de extrema vulnerabilidad social y económica? Este estudio etnográfico en Sevilla examina la alfabetización no como destreza mecánica aislada, sino como práctica social viva inscrita en el hogar, la escuela y la comunidad.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis sociolingüístico y comunitario:",
+        "opciones": [
+          {
+            "id": "etnografica",
+            "texto": "Enfoque etnográfico: mapping letrado y fotografías infantiles"
+          },
+          {
+            "id": "dominios",
+            "texto": "Análisis por dominios: hogar, escuela, calle y redes digitales"
+          },
+          {
+            "id": "politica",
+            "texto": "Implicaciones para la equidad educativa y pruebas estandarizadas"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Las evaluaciones diagnósticas oficiales (como las pruebas ESCALA en Andalucía) insisten en señalar el fracaso lector en zonas desfavorecidas desde una perspectiva de déficit individual. Esta visión reduccionista ignora que la alfabetización escolar choca con los códigos y valores sociales de la vida cotidiana de las familias marginadas.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cuál es el error de medir la alfabetización infantil únicamente con baremos escolares tradicionales?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Invisibiliza los eventos alfabetizadores auténticos y digitales que los niños despliegan en sus hogares y barrios fuera de la norma escolar.",
+            "correcta": true,
+            "explicacion": "Exacto: los menores interactúan con carteles, pantallas y mensajes comunitarios que no encajan en el modelo letrado monocultural de la escuela."
+          },
+          {
+            "id": "c2",
+            "texto": "Supone que los niños en riesgo de exclusión aprenden más rápido que el resto sin mediación.",
+            "correcta": false,
+            "explicacion": "Al contrario: la brecha se profundiza si la escuela no dialoga con las prácticas letradas vernáculas del menor."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los investigadores siguieron durante meses a tres niños de 5 años en el Polígono Norte y Polígono Sur de Sevilla. Utilizando técnicas de mapping participativo, los menores tomaron fotografías de sus espacios cotidianos, dibujaron sus rutinas y conversaron sobre los usos reales que dan a las palabras escritas e impresas.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestreo situado",
+            "detalle": "Tres estudios de caso en profundidad de niños de 5 años en colegios de atención educativa preferente."
+          },
+          {
+            "fase": "Mapping y fotos",
+            "detalle": "Los niños fotografían artefactos letrados en sus casas, comercios del barrio y pantallas móviles."
+          },
+          {
+            "fase": "Entrevistas dialógicas",
+            "detalle": "Conversaciones conjuntas entre niños, familias e investigadores co-interpretando las imágenes."
+          },
+          {
+            "fase": "Categorización inductiva",
+            "detalle": "Clasificación de eventos y prácticas en dominios socialmente situados con ATLAS.ti."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados evidencian que los niños interiorizan de forma temprana valores sociales muy diferenciados: en el hogar la escritura se asocia al afecto y a la tecnología móvil; en el barrio, a la supervivencia comercial y señalética; y en la escuela, a la disciplina formal, creando fracturas de significado.",
+      "datos_clave": [
+        "Estudio etnográfico intensivo de casos múltiples con niños de 5 años en Sevilla.",
+        "Mapeo participativo de eventos alfabetizadores en tres dominios socioespaciales.",
+        "Convivencia cotidiana y naturalizada de alfabetización impresa y multimodal digital.",
+        "Urgencia de conectar las prácticas letradas vernáculas con el currículo de Infantil."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se fundamenta en los Nuevos Estudios de Literacidad (NEL) de Brian Street, David Barton y Mary Hamilton, así como en las teorías socioculturales de la alfabetización situada de Gee y Heath.",
+      "referencias_clave": [
+        "Barton & Hamilton (1998)",
+        "Street (1984)",
+        "Gee (2015)",
+        "Guzmán-Simón et al. (2017)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "Aprender a leer no es adquirir una técnica neutra, sino apropiarse de una práctica social con sentido: la escuela inclusiva debe tender puentes entre la cultura letrada del hogar y las demandas curriculares para erradicar la marginación educativa.",
+      "hallazgo_central": "La alfabetización inicial en entornos de exclusión se estructura a partir del valor social otorgado a las prácticas letradas cotidianas en los dominios del hogar, el barrio y la escuela."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos de los Nuevos Estudios de Literacidad con su significado:",
+          "pares": [
+            {
+              "concepto": "Evento alfabetizador",
+              "definicion": "Actividad concreta y observable mediada por un texto escrito en un contexto real."
+            },
+            {
+              "concepto": "Práctica letrada",
+              "definicion": "Pauta cultural compartida, invisible y valorativa que da sentido a los actos de lectura."
+            },
+            {
+              "concepto": "Dominio social",
+              "definicion": "Ámbito de vida (hogar, calle, escuela) que prescribe normas y funciones a la escritura."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Alfabetización como Práctica Social en Zonas de Exclusión",
+      "descripcion": "Estructura etnográfica y sociolingüística de los eventos alfabetizadores y prácticas letradas en Educación Infantil.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Alfabetización Social en Zonas Vulnerables",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo central: describir los eventos alfabetizadores e indagar el valor social de las prácticas letradas en niños de 5 años escolarizados en zonas urbanas en riesgo de exclusión social de Sevilla."
+        },
+        {
+          "id": "2",
+          "label": "Nuevos Estudios de Literacidad (NEL)",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Paradigma epistemológico de Street, Barton y Hamilton que define la alfabetización no como una habilidad técnica descontextualizada, sino como una práctica social situada e impregnada de relaciones de poder."
+        },
+        {
+          "id": "3",
+          "label": "Eventos versus Prácticas Letradas",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Distinción teórica entre eventos alfabetizadores (actividades empíricas observables mediadas por textos) y prácticas letradas (patrones culturales internalizados de valores y normas sociales)."
+        },
+        {
+          "id": "4",
+          "label": "Fractura Escuela y Entorno Comunitario",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Tensión sociocultural provocada por la imposición de un modelo escolar monolítico que deslegitima las ricas formas de comunicación vernáculas y digitales vivenciadas en familias marginadas."
+        },
+        {
+          "id": "5",
+          "label": "Estudio de Casos Múltiples Etnográfico",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico cualitativo y etnográfico centrado en el seguimiento intensivo de tres menores de 5 años en centros de atención preferente de los distritos Polígono Norte y Polígono Sur."
+        },
+        {
+          "id": "6",
+          "label": "Técnica de Mapping y Fotografía Participativa",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Estrategia de investigación con niños donde los propios escolares fotografiaron sus artefactos letrados cotidianos y co-diseñaron mapas visuales de sus itinerarios espaciales de lectura."
+        },
+        {
+          "id": "7",
+          "label": "Triangulación Dialógica y Análisis ATLAS.ti",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Tratamiento de datos cualitativos mediante conversaciones semidirigidas niño-familia-docente y codificación inductiva de narrativas y materiales visuales con software asistido."
+        },
+        {
+          "id": "8",
+          "label": "Dominio Hogar: Afecto y Soporte Digital",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación de que en el ámbito familiar la lectura y escritura se asocian primordialmente al vínculo afectivo íntimo, la mensajería instantánea y el consumo audiovisual en dispositivos móviles."
+        },
+        {
+          "id": "9",
+          "label": "Dominio Barrio: Señalética y Supervivencia",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Evidencia de que en las calles y comercios los niños interactúan con carteles comerciales, grafitis y rótulos funcionales que guían su orientación y participación comunitaria cotidiana."
+        },
+        {
+          "id": "10",
+          "label": "Dominio Escuela: Formalidad y Disciplina",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Identificación de un entorno escolar donde la escritura se concibe rígidamente como copia formal y ejercicio de control normativo, desprovista del dinamismo lúdico de los otros dominios."
+        },
+        {
+          "id": "11",
+          "label": "Sesgo de las Pruebas Estandarizadas",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión crítica sobre cómo evaluaciones diagnósticas como ESCALA penalizan sistemáticamente a las clases populares al medir únicamente competencias descontextualizadas de la cultura letrada dominante."
+        },
+        {
+          "id": "12",
+          "label": "Multimodalidad y Literacidades Ocultas",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reconocimiento de la alta competencia multimodal y visual que poseen los niños de barrios vulnerables, habitualmente invisibilizada por la obsesión curricular con el papel impreso lineal."
+        },
+        {
+          "id": "13",
+          "label": "Currículo Inclusivo y Conexión Dialógica",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión propositiva: la Educación Infantil debe incorporar las vivencias letradas familiares y barriales al aula para edificar aprendizajes significativos y motivadores."
+        },
+        {
+          "id": "14",
+          "label": "Empoderamiento de las Familias Marginadas",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación de validar socialmente a las familias de entornos vulnerables como agentes alfabetizadores competentes, superando los discursos institucionales de culpabilización."
+        },
+        {
+          "id": "15",
+          "label": "Justicia Social en la Alfabetización Inicial",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión ética: garantizar la equidad educativa exige transformar la cultura escolar para que reconozca la pluralidad de voces y formatos comunicativos de toda la infancia."
+        },
+        {
+          "id": "16",
+          "label": "Muestra Acotada a Tres Casos Urbanos",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación intrínseca al carácter intensivo del estudio de casos de tres escolares, lo que descarta generalizaciones estadísticas pero proporciona una penetración etnográfica profunda."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se fundamenta en los"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se ejecuta mediante"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "establece la distinción entre"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "permite diagnosticar la"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "aplica la herramienta de"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "se procesa mediante"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "documenta empíricamente el"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "identifica la dinámica del"
+        },
+        {
+          "from": "6",
+          "to": "10",
+          "label": "caracteriza el"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "revela la existencia de"
+        },
+        {
+          "from": "10",
+          "to": "11",
+          "label": "se asocia con el"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "demanda reformar hacia un"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "proporciona base para un"
+        },
+        {
+          "from": "8",
+          "to": "14",
+          "label": "hace indispensable el"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "culmina en el principio de"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "contribuye activamente a la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "queda acotada por su"
+        },
+        {
+          "from": "4",
+          "to": "11",
+          "label": "se manifiesta en el"
+        },
+        {
+          "from": "2",
+          "to": "15",
+          "label": "orienta hacia la"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "alimenta la"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "García-Jiménez, Guzmán-Simón y Moreno-Morilla nos demuestran que ningún niño llega vacío de palabras a la escuela: si la institución solo sabe leer sus propios manuales, se volverá ciega ante los fascinantes mapas letrados que los niños dibujan en los márgenes.",
+      "preguntas_guiadas": [
+        "¿Qué prácticas letradas y digitales despliegan los niños de tu comunidad que habitualmente la escuela ignora o descalifica?",
+        "¿Cómo pueden las maestras de Infantil aprovechar las fotos y artefactos cotidianos del hogar para enriquecer la asamblea de aula?"
+      ]
+    }
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "id": "lengua_materna_cultura_rendimiento_infantil_ceuta",
+  "metadata": {
+    "id": "lengua_materna_cultura_rendimiento_infantil_ceuta",
+    "title": "Lengua materna, cultura y rendimiento en un contexto multicultural de Educación Infantil",
+    "authors": [
+      "Francisco Mateos-Claros",
+      "F. Javier Olmedo-Ruiz",
+      "Macarena Esteban-Ibáñez",
+      "Luis V. Amador"
+    ],
+    "year": 2019,
+    "volume": "18",
+    "issue": "2",
+    "pages": "44-54",
+    "doi": "10.18239/ocnos_2019.18.2.1966",
+    "keywords": [
+      "lengua materna",
+      "educación infantil",
+      "contexto multicultural",
+      "darija",
+      "rendimiento educativo"
+    ],
+    "abstract": "¿Qué ocurre cuando la lengua materna de un niño de 4-5 años no coincide con la lengua oficial de la escuela? Este estudio con 501 alumnos en Ceuta analiza el impacto de la lengua materna y el entorno cultural en comunicación, lenguaje, habilidades sociales y motricidad."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo incide la discrepancia entre la lengua materna familiar y la lengua vehicular de la escuela en el desarrollo temprano de niños de 4 y 5 años? Este estudio empírico analiza a 501 escolares en la Ciudad Autónoma de Ceuta para medir el impacto de la lengua materna en el rendimiento comunicativo, lingüístico, motor y psicosocial.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis para examinar la investigación en Ceuta:",
+        "opciones": [
+          {
+            "id": "sociolinguistica",
+            "texto": "Dimensión sociolingüística y diglosia darija-español"
+          },
+          {
+            "id": "rendimiento",
+            "texto": "Evaluación comparativa del rendimiento y áreas de aprendizaje"
+          },
+          {
+            "id": "politica",
+            "texto": "Implicaciones para la inclusión educativa y políticas lingüísticas"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "En contextos de frontera y gran diversidad cultural, la coexistencia de lenguas no reconocidas institucionalmente con el idioma escolar oficial genera fenómenos de diglosia y desajuste cognitivo-comunicativo. Los niños cuya lengua materna es el darija enfrentan exigencias de alfabetización formal en castellano sin mediación translingüística adecuada.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cuál es la consecuencia directa de una escolarización monocultural en contextos bilingües?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Genera una brecha de rendimiento en habilidades fonológicas y comunicativas atribuida erróneamente a déficit cuando deriva del desfase de lengua.",
+            "correcta": true,
+            "explicacion": "Exacto: la falta de correspondencia entre la lengua del hogar y la escolar penaliza las puntuaciones iniciales de lenguaje sin que implique déficit intrínseco."
+          },
+          {
+            "id": "c2",
+            "texto": "Acelera de inmediato el aprendizaje bilingüe natural sin repercusiones emocionales ni académicas.",
+            "correcta": false,
+            "explicacion": "Los datos muestran brechas significativas en lenguaje y comunicación que requieren intervención deliberada."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los autores aplicaron un protocolo riguroso a 501 alumnos de Educación Infantil (4 y 5 años) en centros públicos y concertados de Ceuta. Mediante escalas validadas y análisis de varianza (ANOVA), compararon el rendimiento en lenguaje verbal, motricidad, autonomía personal y socialización entre hablantes de español y de darija.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestreo",
+            "detalle": "501 escolares evaluados en las aulas de Infantil de la Ciudad Autónoma de Ceuta."
+          },
+          {
+            "fase": "Instrumentación",
+            "detalle": "Cuestionarios con alta fiabilidad (alfa de Cronbach) que evalúan competencias clave."
+          },
+          {
+            "fase": "Análisis estadístico",
+            "detalle": "Contraste de medias mediante ANOVA discriminando por lengua materna, nivel socioeconómico y centro."
+          },
+          {
+            "fase": "Interpretación cultural",
+            "detalle": "Triangulación de las dimensiones lingüísticas con los hábitos culturales y formativos de las familias."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El análisis reveló que la lengua materna marca diferencias estadísticamente significativas en todas las dimensiones evaluadas, con el mayor tamaño del efecto concentrado en el área de comunicación y lenguaje verbal. Asimismo, los factores sociofamiliares y el nivel de estudios de los padres modulan notablemente el desempeño global.",
+      "datos_clave": [
+        "Muestra representativa de 501 escolares de 4 a 5 años en Ceuta.",
+        "Diferencias significativas (p < .001) en lenguaje a favor de los hablantes nativos de español.",
+        "Impacto extensivo en habilidades de socialización y coordinación psicomotriz temprana.",
+        "Urgencia demostrada de modelos de educación intercultural bilingüe aditiva."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El estudio se fundamenta en las teorías de interdependencia lingüística de Cummins, la sociolingüística de la diglosia de Ferguson y Fishman, y los paradigmas ecológicos del desarrollo humano de Bronfenbrenner relativos al impacto del microsistema familiar.",
+      "referencias_clave": [
+        "Cummins (2000)",
+        "Fishman (1980)",
+        "Bronfenbrenner (1979)",
+        "Amador et al. (2018)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El núcleo de la investigación demuestra que la lengua materna familiar constituye la matriz perceptiva y cognitiva fundamental del niño: ignorar su realidad sociolingüística en la Educación Infantil institucionaliza desigualdades de partida que lastran el rendimiento escolar posterior.",
+      "hallazgo_central": "La lengua materna predice intensamente las competencias de lenguaje y ajuste social inicial en Educación Infantil en contextos multiculturales, exigiendo mediación pedagógica diferenciada."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Relaciona los conceptos clave del estudio con sus implicaciones:",
+          "pares": [
+            {
+              "concepto": "Darija",
+              "definicion": "Variedad dialectal árabe del ámbito familiar y afectivo en Ceuta."
+            },
+            {
+              "concepto": "Diglosia asimétrica",
+              "definicion": "Coexistencia con estatus subordinado respecto a la lengua escolar oficial."
+            },
+            {
+              "concepto": "Interdependencia de Cummins",
+              "definicion": "Transferencia cognitiva entre lengua materna y segunda lengua de instrucción."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Lengua Materna, Cultura y Rendimiento en Educación Infantil",
+      "descripcion": "Articulación teórica y empírica del impacto de la lengua materna y el contexto multicultural en el rendimiento escolar inicial.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Lengua Materna y Rendimiento Infantil",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo principal: analizar cómo la lengua materna y el entorno cultural familiar condicionan el rendimiento comunicativo, lingüístico y psicomotor de niños en Educación Infantil en Ceuta."
+        },
+        {
+          "id": "2",
+          "label": "Contexto Multicultural de Ceuta",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Escenario socioespacial caracterizado por la convivencia de diversas comunidades etnoculturales y la presencia cotidiana del castellano, darija, jaqueitía y sindhi en la vida comunitaria."
+        },
+        {
+          "id": "3",
+          "label": "Estatus del Árabe Darija",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Lengua vernácula familiar de la comunidad musulmana ceutí, carente de reconocimiento institucional formal como lengua vehicular en el sistema educativo reglado de la ciudad autónoma."
+        },
+        {
+          "id": "4",
+          "label": "Diglosia y Desajuste Escolar",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Situación sociolingüística asimétrica en la que el español opera como lengua hegemónica escolar, generando una desventaja inicial en el alumnado que no la domina en su entorno hogareño."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 501 Niños de Infantil",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Muestra empírica amplia y representativa de 501 estudiantes de 4 y 5 años matriculados en centros de Educación Infantil públicos y concertados de la Ciudad Autónoma de Ceuta."
+        },
+        {
+          "id": "6",
+          "label": "Protocolo de Evaluación Integral",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Batería de cuestionarios estandarizados evaluados por el profesorado para medir competencias motrices, lenguaje y comunicación, autonomía personal y habilidades de interacción social."
+        },
+        {
+          "id": "7",
+          "label": "Análisis Comparativo por ANOVA",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Tratamiento inferencial de datos mediante análisis de varianza univariante y multivariante para contrastar las medias del rendimiento en función de la lengua materna y variables familiares."
+        },
+        {
+          "id": "8",
+          "label": "Diferencias Marcadas en Lenguaje",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo empírico clave: la lengua materna genera diferencias altamente significativas (p < .001) con un impacto primordial en el área de comunicación verbal y desarrollo fonológico."
+        },
+        {
+          "id": "9",
+          "label": "Impacto en Habilidades Psicomotrices",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Evidencia de discrepancias observables en la motricidad y autonomía física, mediadas por las pautas de crianza, hábitos cotidianos y dinámicas de interacción del ámbito sociofamiliar."
+        },
+        {
+          "id": "10",
+          "label": "Modulación del Nivel Educativo Parental",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación de que el capital formativo y las condiciones socioeconómicas de los progenitores actúan como factores moduladores de gran magnitud sobre el rendimiento temprano."
+        },
+        {
+          "id": "11",
+          "label": "Hibridez Lingüística y Aprendizaje",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Debate teórico sobre cómo la alternancia continua de códigos lingüísticos en la vida comunitaria mediatiza la adquisición conceptual previa a la escolarización formal obligatoria."
+        },
+        {
+          "id": "12",
+          "label": "Riesgo de Fracaso Escolar Temprano",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Advertencia sobre el peligro de catalogar el desfase lingüístico como déficit cognitivo intrínseco, institucionalizando brechas educativas irreversibles desde los primeros cursos."
+        },
+        {
+          "id": "13",
+          "label": "Necesidad de Mediación Intercultural",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión imperativa: la escuela infantil debe diseñar estrategias de mediación intercultural y lingüística puente que reconozcan e integren positivamente la lengua familiar del niño."
+        },
+        {
+          "id": "14",
+          "label": "Capacitación del Profesorado en Diversidad",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación formativa esencial: dotar a los maestros de Infantil de competencias sociolingüísticas para gestionar la hibridez comunicativa del aula sin sesgos discriminatorios."
+        },
+        {
+          "id": "15",
+          "label": "Alianza Escuela-Familia Inclusiva",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta de fortalecer los lazos de colaboración y comunicación activa entre la institución escolar y las familias para alinear expectativas formativas y estímulos educativos."
+        },
+        {
+          "id": "16",
+          "label": "Naturaleza Transversal del Estudio",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación inherente al diseño transversal no experimental, que impide rastrear la evolución longitudinal de las competencias conforme avanza la escolarización en Primaria."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se sitúa en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "analiza empíricamente"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "comprende el"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "provoca situación de"
+        },
+        {
+          "from": "4",
+          "to": "11",
+          "label": "se conceptualiza como"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "es evaluada mediante"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se procesa mediante"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "demuestra empíricamente"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "revela diferencias en"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "identifica la"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "incrementa el"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "se vincula con"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "se articula con"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "exige urgente"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "demanda superar con"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "se sustenta en la"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "se refuerza mediante"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse con"
+        },
+        {
+          "from": "8",
+          "to": "13",
+          "label": "justifica la"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "acotada por la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "promueve activamente la"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "El trabajo de Mateos-Claros y colaboradores expone con contundencia que el éxito educativo en entornos multiculturales requiere abandonar los modelos de asimilación rígidos. Acoger la lengua materna en la escuela no debilita la lengua oficial: edifica el puente imprescindible hacia la equidad.",
+      "preguntas_guiadas": [
+        "¿Cómo influyen las valoraciones sociales de las lenguas maternas no oficiales en la autoestima lingüística de los escolares?",
+        "¿Qué prácticas docentes de acogida intercultural pueden mitigar el desfase comunicativo en las aulas de Educación Infantil?"
+      ]
+    }
+  }
+}

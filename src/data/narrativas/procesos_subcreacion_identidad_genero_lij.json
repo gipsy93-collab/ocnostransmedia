@@ -1,0 +1,413 @@
+{
+  "id": "procesos_subcreacion_identidad_genero_lij",
+  "metadata": {
+    "title": "Procesos de subcreación lingüístico-literaria e identidad de género. El caso de la Literatura Infantil",
+    "authors": "Amando López-Valero, Lourdes Hernández-Delgado, Isabel Jerez-Martínez y Eduardo Encabo-Fernández",
+    "year": "2021",
+    "journal": "Ocnos 20(2)",
+    "doi": "10.18239/ocnos_2021.20.2.2349",
+    "gancho": "¿Determina un cuento tradicional las actitudes machistas de los niños o es la mediación dialógica la que decide el sentido?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#c73e1d",
+    "colorAlt": "#2a5a75",
+    "bg": "from-coral/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/subcreacion-lij/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Amando López-Valero, catedrático de didáctica de la lengua y literatura",
+      "gancho": "¿Determina un cuento tradicional las actitudes machistas de los niños o es la mediación dialógica la que decide el sentido?",
+      "contexto": "El lenguaje no solo describe la realidad sino que conforma la 'logosfera' en la que crecemos. En la Literatura Infantil, los cuentos tradicionales y las producciones audiovisuales (como las factorías Disney y Pixar) transmiten mitos fundacionales que intervienen en la construcción de la identidad de género a través de procesos de subcreación.",
+      "deepDives": [
+        {
+          "id": "sub-gen-ap-1",
+          "triggerLabel": "Concepto de Logosfera y giro lingüístico",
+          "type": "theory",
+          "content": "Siguiendo a Sapir, Barthes y Fernández-Martorell, la logosfera es el tejido lingüístico que nos envuelve; los problemas de desigualdad tienen raíces semióticas que los relatos perpetúan o transforman."
+        },
+        {
+          "id": "sub-gen-ap-2",
+          "triggerLabel": "La subcreación tolkiana",
+          "type": "theory",
+          "content": "Tolkien postuló que el arte literario no crea ex nihilo, sino que 'subcrea' adaptando matrices y patrones míticos preexistentes, lo que explica la enorme resistencia al cambio de los arquetipos narrativos."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Existe una tendencia reduccionista a culpar a los cuentos clásicos de fomentar el machismo o a etiquetar la literatura por colores ('rosa', 'azul', 'violeta'), creyendo falsamente que censurar obras resuelve la desigualdad.",
+      "porQueImporta": "Comprender que los textos no tienen un significado unívoco permite a los mediadores abandonar la censura y abrazar el diálogo crítico, enseñando a las nuevas generaciones a deconstruir estereotipos.",
+      "dataPoints": [
+        "Ensayo teórico-reflexivo que articula teoría del lenguaje, mitocrítica, pedagogía dialógica de Freire y estudios de género.",
+        "Análisis de relatos paradigmáticos (Caperucita Roja, Cenicienta, cuentos de Andersen y versiones de Roald Dahl y James Garner)."
+      ],
+      "glossary": [
+        {
+          "term": "Logosfera",
+          "definition": "Ecosistema lingüístico y cultural que envuelve a los hablantes y condiciona su percepción de la realidad."
+        },
+        {
+          "term": "Subcreación",
+          "definition": "Proceso artístico mediante el cual se recrea un mundo a partir de patrones arquetípicos heredados."
+        },
+        {
+          "term": "Sistemas de modelización secundaria",
+          "definition": "Concepto de Lotman: sistemas culturales complejos (arte, mitos) construidos sobre la lengua natural."
+        },
+        {
+          "term": "Lectura dialógica",
+          "definition": "Construcción comunitaria e intersubjetiva del sentido entre lectores y mediadores (Freire, Habermas)."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "sub-gen-conf-1",
+          "triggerLabel": "Rechazo a las etiquetas cromáticas",
+          "type": "theory",
+          "content": "Los autores critican clasificar la literatura infantil en azul (niños), rosa (niñas) o violeta (igualitaria), pues encasillar los libros sesga el acceso y reproduce las mismas barreras lingüísticas que busca combatir."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Genealogía argumental en cinco movimientos epistemológicos",
+      "narrativa": "Los investigadores estructuran su razonamiento cruzando la lingüística de Sapir y Wittgenstein, la mitología de Escila y Caribdis, la subcreación tolkiana, la teoría de género de Judith Butler y la acción comunicativa de Habermas.",
+      "detalles": [
+        {
+          "label": "Enfoque",
+          "value": "Ensayo teórico-reflexivo transdisciplinar en Didáctica de la Lengua y la Literatura."
+        },
+        {
+          "label": "Corpus analizado",
+          "value": "Tradición clásica (Grimm, Perrault, Andersen), cine Disney/Pixar y reescrituras modernas (Dahl, Garner)."
+        },
+        {
+          "label": "Ejes analíticos",
+          "value": "Lenguaje como constructo social, mito y ficción, subcreación en LIJ y mediación dialógica."
+        },
+        {
+          "label": "Pedagogía",
+          "value": "Teoría de la acción comunicativa (Habermas) y pedagogía de la pregunta y el diálogo (Paulo Freire)."
+        }
+      ],
+      "limitaciones": [
+        "Estudio teórico que no aporta datos cuantitativos de impacto empírico en cohortes escolares.",
+        "Vacíos en la investigación global sobre cómo se asientan las memorias infantiles ante estímulos multimodales."
+      ],
+      "reflexion": "¿Si un cuento como Caperucita puede leerse como una advertencia patriarcal o como el despertar de la autonomía, por qué empeñarse en fijar un único mensaje?",
+      "deepDives": [
+        {
+          "id": "sub-gen-viaje-1",
+          "triggerLabel": "El fenómeno Disney y la corrección política",
+          "type": "example",
+          "content": "Aunque producciones recientes de Disney/Pixar matizan el perfil sumiso de las princesas clásicas, el sustrato arquetípico tradicional continúa operando en la socialización de los menores."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Un texto literario con sesgo sexista no produce mecánicamente lectores machistas: los textos infantiles son polisémicos y su efecto real depende exclusivamente del uso, el contexto y la mediación dialógica.",
+      "evidenciaCualitativa": "Frente a las reescrituras bienintencionadas que a menudo solo invierten los roles sin cuestionar la estructura de poder, el verdadero juicio crítico surge cuando el mediador abre debates plurales.",
+      "citaClave": "'No son las narraciones en sí las que generan identidades estereotipadas, sino el modo en que se interpretan: mediar la lectura es abrir preguntas para huir del pensamiento dogmático.'",
+      "implicacionesDocentes": [
+        "No censurar los cuentos tradicionales; utilizarlos como detonantes para debatir en el aula sobre roles históricos y actuales.",
+        "Capacitar a maestros y familias en mediación dialógica para que formulen preguntas reflexivas en lugar de sermones morales.",
+        "Fomentar la lectura comparada entre versiones clásicas, adaptaciones audiovisuales y parodias subversivas."
+      ],
+      "deepDives": [
+        {
+          "id": "sub-gen-rev-1",
+          "triggerLabel": "El peligro de la subversión por consumo",
+          "type": "theory",
+          "content": "Jack Zipes (1983) advierte que la industria mercantiliza las versiones 'rebeldes' de los cuentos, neutralizando su potencial emancipador y convirtiéndolas en meros productos comerciales de moda."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Didáctica de la literatura infantil, estudios de género y sociosemiótica dialógica",
+      "tensiones": [
+        "Censura puritana de clásicos vs. lectura crítica emancipadora y dialógica.",
+        "Determinismo textual lineal vs. autonomía hermenéutica de la comunidad de lectores."
+      ],
+      "autoresClave": [
+        "López-Valero et al. (2021)",
+        "Freire (1967)",
+        "Habermas (1987)",
+        "Bajtín (1986)",
+        "Butler (2006)",
+        "Tolkien (1987)",
+        "Zipes (1983)"
+      ],
+      "deepDives": [
+        {
+          "id": "sub-gen-marco-1",
+          "triggerLabel": "Butler y la deconstrucción del género",
+          "type": "theory",
+          "content": "Judith Butler (2006) fundamenta que el género es una construcción performativa enraizada en el lenguaje; transformar la igualdad requiere incidir en las estructuras de pensamiento desde la infancia."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo inciden los procesos de subcreación en la literatura infantil en la construcción de la identidad de género?",
+      "conclusion": "Los relatos infantiles no determinan mecánicamente las identidades; los significados son abiertos y la mediación dialógica es la clave para desarrollar juicio crítico e igualdad de oportunidades.",
+      "formalRef": "López-Valero, A., Hernández-Delgado, L., Jerez-Martínez, I., & Encabo-Fernández, E. (2021). Procesos de subcreación lingüístico-literaria e identidad de género. El caso de la Literatura Infantil. Ocnos, 20(2), 107-116. https://doi.org/10.18239/ocnos_2021.20.2.2349"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente de la Logosfera",
+        "descripcion": "Atrapa conceptos de diálogo freireano, subcreación tolkiana y deconstrucción mientras respondes sobre LIJ y género.",
+        "instrucciones": "Recoge tokens de pensamiento crítico y supera preguntas sobre mediación y cuentos clásicos. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Identidad y Subcreación",
+        "descripcion": "Comprueba tu asimilación teórica sobre sistemas de modelización, polisemia de los relatos y pedagogía dialógica.",
+        "instrucciones": "Acierta contrarreloj para mantener tu multiplicador de racha y liderar el marcador de coaprendices."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide del Juicio Crítico",
+        "descripcion": "Asciende desde el consumo acrítico de estereotipos hasta la emancipación dialógica en la literatura infantil.",
+        "instrucciones": "Supera cada nivel respondiendo sobre los hitos teóricos de López-Valero y colaboradores."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Subcreación literaria e identidad de género en la Literatura Infantil (López-Valero et al., 2021)",
+      "descripcion": "Ensayo teórico sobre el impacto del lenguaje y el mito en la infancia: concepto de logosfera, subcreación tolkiana en la LIJ, rechazo de censuras y etiquetas cromáticas, y primacía de la mediación dialógica.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "El lenguaje como modelador social (Logosfera)",
+          "color": "#c73e1d",
+          "role": "Marco teórico",
+          "descripcion": "Marco epistemológico fundamentado en Sapir, Barthes y Fernández-Martorell que demuestra que el lenguaje no es un instrumento neutral, sino un entorno simbólico envolvente ('logosfera') que preconfigura la percepción del mundo, las relaciones de poder y la subjetividad."
+        },
+        {
+          "id": "2",
+          "label": "Mito y sistemas de modelización secundaria (Lotman)",
+          "color": "#c73e1d",
+          "role": "Marco teórico",
+          "descripcion": "Las matrices míticas universales y los cuentos tradicionales operan, en términos de Yuri Lotman, como sistemas semióticos de modelización secundaria que transmiten de generación en generación pautas culturales arquetípicas sobre lo masculino y lo femenino."
+        },
+        {
+          "id": "3",
+          "label": "Concepto tolkiano de subcreación narrativa",
+          "color": "#c73e1d",
+          "role": "Marco teórico",
+          "descripcion": "Tesis seminal de J.R.R. Tolkien (1939) que sostiene que el autor humano no crea ex nihilo, sino que subcrea mundos secundarios reelaborando elementos tomados de la realidad primaria y del acervo cultural previo, explicando la persistencia estructural de los roles tradicionales."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: analizar la incidencia de la LIJ en el género",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Indagar rigurosamente el papel que desempeña la literatura infantil y juvenil (LIJ) como vehículo iniciático en la adquisición de normas sociales, la asunción de roles identitarios y la construcción temprana de la igualdad o desigualdad entre niños y niñas."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: fundamentar la mediación dialógica",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Diseñar las bases conceptuales y pedagógicas de un modelo de mediación lectora dialógica fundamentado en la mayéutica crítica, capaz de deconstruir los sesgos sexistas heredados sin recurrir a la censura previa, la prohibición moral o la purga de obras clásicas."
+        },
+        {
+          "id": "6",
+          "label": "Diseño ensayístico y genealógico-reflexivo",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Investigación teórica de corte cualitativo y hermenéutico articulada en cinco secuencias argumentativas que integran filosofía del lenguaje, semiótica de la cultura, teoría de la recepción literaria, pedagogía emancipadora y estudios críticos de género."
+        },
+        {
+          "id": "7",
+          "label": "Corpus argumental transdisciplinar",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Triangulación sistemática de referentes teóricos: el giro lingüístico de Wittgenstein, la pedagogía dialógica de Paulo Freire y Jürgen Habermas, la polifonía carnavalesca de Mijaíl Bajtín, la mitocrítica de Campbell y la deconstrucción performativa de Judith Butler."
+        },
+        {
+          "id": "8",
+          "label": "Análisis de casos hermenéuticos en cuentos clásicos",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Examen crítico comparado de narraciones fundacionales del canon infantil (Caperucita Roja, Cenicienta, Blancanieves), de producciones de la industria transmedia global (Disney, Pixar) y de reescrituras paródicas desmitificadoras (James Finn Garner, Roald Dahl)."
+        },
+        {
+          "id": "9",
+          "label": "La LIJ como modelo vicario creado por adultos",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Constatación teórica de que la literatura infantil es un territorio vicario: al ser concebida y seleccionada exclusivamente por personas adultas, proyecta de forma inevitable las ansiedades, expectativas ideológicas y mandatos socioculturales de sus mediadores adultos."
+        },
+        {
+          "id": "10",
+          "label": "Polisemia y ausencia de efecto determinista único",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Demostración de que la exposición a relatos con sesgos de época no engendra mecánicamente conductas sumisas o machistas; la naturaleza polisémica del símbolo literario posibilita lecturas resistentes, resignificaciones irónicas y apropiaciones emancipadoras infantiles."
+        },
+        {
+          "id": "11",
+          "label": "La factoría audiovisual como nueva subcreación",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Las adaptaciones cinematográficas de corporaciones de entretenimiento constituyen poderosas subcreaciones comerciales que, aun adoptando disfraces de corrección política superficial, perpetúan jerarquías normativas y estereotipos binarios de género."
+        },
+        {
+          "id": "12",
+          "label": "Rechazo de las etiquetas cromáticas de literatura",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Cuestionamiento contundente de la segmentación comercial de la lectura en géneros 'rosa', 'azul' o 'morado', evidenciando que tal clasificación empobrece la experiencia estética, cercena la libertad lectora de la infancia y reinstala la segregación que pretendía combatir."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: la mediación docente como eje decisivo",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "La carga ideológica del texto literario no reside encerrada en la página, sino que se dirime en la interacción pedagógica: el mediador letrado debe abstenerse del adoctrinamiento moralizador y actuar como formulador de preguntas socráticas que despierten el pensamiento autónomo."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: peligro de la subversión por consumo (Zipes)",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Advertencia, en sintonía con Jack Zipes, sobre el espejismo de los relatos pretendidamente transgresores convertidos en mercancías de moda, los cuales a menudo se limitan a invertir superficialmente los roles manteniendo intactas las estructuras profundas de dominación."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: vacío empírico sobre memoria infantil",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "Los autores reconocen las limitaciones inherentes al ensayo teórico especulativo ante la escasez de investigaciones neurocognitivas y longitudinales que rastreen de forma empírica la huella imborrable que las lecturas tempranas dejan en la identidad adulta."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: educación igualitaria dialógica",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que la coeducación y la equidad de género no se alcanzan censurando o edulcorando el patrimonio literario clásico, sino forjando comunidades de coaprendizaje dialógico donde niños y niñas aprendan a interrogar críticamente los relatos que configuran su mundo."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "establece el marco lingüístico para"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "aporta la base mitocrítica a"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "fundamenta el concepto de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se aborda mediante el"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "se fundamenta en el"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "articula las corrientes del"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "se pone a prueba con el"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "evidencia que"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "demuestra la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "analiza el impacto de"
+        },
+        {
+          "from": "7",
+          "to": "12",
+          "label": "motiva el"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "sitúa la clave en la"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "advierte sobre el"
+        },
+        {
+          "from": "9",
+          "to": "16",
+          "label": "hace indispensable la"
+        },
+        {
+          "from": "10",
+          "to": "16",
+          "label": "sustenta las"
+        },
+        {
+          "from": "12",
+          "to": "16",
+          "label": "orienta las bases de la"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "culmina en la propuesta de"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "marca los límites del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "señala retos futuros para la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "confirma la necesidad de transformar el pensamiento mediante la"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es la postura de los autores respecto al supuesto efecto machista de los cuentos clásicos infantiles?",
+          "options": [
+            "Que deben ser eliminados de todas las escuelas y bibliotecas infantiles de inmediato.",
+            "Que ningún texto produce mecánicamente actitudes sexistas: los significados son abiertos y su efecto depende del contexto y la mediación dialógica.",
+            "Que los cuentos clásicos son completamente inocuos y no transmiten ningún tipo de valor.",
+            "Que deben ser sustituidos exclusivamente por literatura etiquetada como 'violeta'."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo plantearías una tertulia literaria dialógica con niños sobre un cuento tradicional como Cenicienta para fomentar la reflexión sobre los roles de género sin caer en la censura ni en el adoctrinamiento moral?"
+        }
+      ]
+    }
+  }
+}

@@ -12,9 +12,9 @@
     "color": "#264653",
     "colorAlt": "#e76f51",
     "bg": "from-slate-700/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-9.png",
+    "image": "/assets/portadas/patrones_bibliotecas_madrid.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-9.png",
+      "image": "/assets/portadas/patrones_bibliotecas_madrid.jpg",
       "name": "Dr. Ángel Borrego",
       "role": "Catedrático en Biblioteconomía y Documentación, Universitat de Barcelona"
     }
@@ -22,14 +22,14 @@
   "blocks": {
     "apertura": {
       "personaje": "Dr. Ángel Borrego, experto en sociología de la lectura y análisis masivo de datos bibliotecarios",
-      "gancho": "¿Qué revelan 1,7 millones de préstamos de libros sobre los verdaderos gustos de una metrópoli europea?",
-      "contexto": "A menudo, las encuestas oficiales de hábitos lectores están sesgadas por el 'efecto de deseabilidad social': la gente declara leer más ensayos y clásicos de lo que realmente hace. La red de bibliotecas públicas del Ayuntamiento de Madrid ofrece un laboratorio empírico inigualable: registros automatizados y anónimos de cada libro físico prestado a lo largo de un año completo. En este macroestudio sociológico, el profesor Borrego analizó 1.700.000 préstamos realizados en 2024 para desvelar qué autores, géneros, procedencias geográficas y formatos triunfan realmente entre lectores adultos e infantiles.",
+      "gancho": "¿Qué revelan 2,6 millones de préstamos de libros sobre los verdaderos gustos de una metrópoli europea?",
+      "contexto": "A menudo, las encuestas oficiales de hábitos lectores están sesgadas por el 'efecto de deseabilidad social': la gente declara leer más ensayos y clásicos de lo que realmente hace. La red de bibliotecas públicas del Ayuntamiento de Madrid ofrece un laboratorio empírico inigualable: registros automatizados y anónimos de cada libro físico prestado a lo largo de un año completo. En este macroestudio sociológico, el profesor Borrego analizó 2.647.176 préstamos de libros realizados en 2024 para desvelar qué autores, géneros, procedencias geográficas y formatos triunfan realmente entre lectores adultos e infantiles.",
       "deepDives": [
         {
           "id": "bm-apertura-1",
           "triggerLabel": "El Big Data bibliotecario",
           "type": "data",
-          "content": "1.714.288 transacciones de préstamo físico analizadas en 33 bibliotecas municipales madrileñas durante todo el año 2024."
+          "content": "2.647.176 préstamos de libros analizados en la red de bibliotecas públicas municipales de Madrid durante todo el año 2024 (de un total de 3.025.112 préstamos)."
         },
         {
           "id": "bm-apertura-2",
@@ -43,11 +43,11 @@
       "problema": "Las bibliotecas públicas se debaten entre dos modelos: ¿deben comprar masivamente los bestsellers comerciales que demanda la masa de usuarios o mantener una colección equilibrada de fondo cultural, alta literatura y autores minoritarios?",
       "porQueImporta": "Comprender los patrones reales de lectura evita políticas de adquisición a ciegas y permite diseñar planes de fomento lector basados en la realidad y no en mitos elitistas.",
       "dataPoints": [
-        "Análisis de más de 1,7 millones de préstamos físicos en 2024.",
-        "Fuerte concentración: el 5% de los títulos acumula más del 40% de todos los préstamos anuales.",
-        "Monopolio absoluto del thriller / novela negra en el público adulto (Carmen Mola, Juan Gómez-Jurado, Dolores Redondo).",
-        "Explosión sin precedentes del manga japonés en las salas infantiles y juveniles (superando con creces al cómic francobelga y al cómic nacional).",
-        "Baja presencia de literatura traducida no anglosajona y escasísima demanda de obras clásicas anteriores a 1950."
+        "Análisis de más de 2,6 millones de préstamos de libros físicos en 2024.",
+        "Fuerte concentración: el 11,7% de los autores concentra el 80% de los préstamos adultos, y se requiere el 24,2% de los títulos para alcanzar ese mismo umbral.",
+        "Predominio del thriller (policiaca, suspense, negra, detectives) en el público adulto, con Juan Gómez-Jurado y Carmen Mola al frente.",
+        "Presencia destacada del manga japonés entre los títulos más prestados, tanto a adultos como a menores.",
+        "Fuerte peso de la literatura nacional (44% de los préstamos) y anglosajona (29%), con demanda estable de autores clásicos como Stefan Zweig, Benito Pérez Galdós o Agatha Christie."
       ],
       "glossary": [
         {
@@ -61,20 +61,20 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Minería de datos sobre 1.714.288 transacciones anuales",
-      "narrativa": "El investigador extrajo los logs del sistema integrado de gestión bibliotecaria (SIGB) de Madrid. Normalizó identificadores ISBN, clasificó por códigos CDU, analizó la nacionalidad del autor, la fecha de edición original y el género editorial.",
+      "titulo": "Ruta metodológica: Minería de datos sobre 2.647.176 préstamos de libros",
+      "narrativa": "El investigador descargó los ficheros mensuales del Portal de Datos Abiertos del Ayuntamiento de Madrid. Unificó los títulos y, para una submuestra de autores y obras, consultó el catálogo de la red para obtener el género literario, la nacionalidad y el año de nacimiento del autor.",
       "detalles": [
         {
           "label": "Fuente de Datos",
-          "value": "Registros de préstamo del Ayuntamiento de Madrid (33 bibliotecas públicas de distrito)."
+          "value": "Registros de préstamo del Portal de Datos Abiertos del Ayuntamiento de Madrid (bibliotecas públicas municipales)."
         },
         {
           "label": "Volumen",
-          "value": "1.714.288 préstamos registrados a lo largo de los doce meses de 2024."
+          "value": "2.647.176 préstamos de libros registrados a lo largo de los doce meses de 2024."
         },
         {
           "label": "Variables",
-          "value": "Autor, título, género literario, lengua original, año de publicación, edad del lector."
+          "value": "Autor, título, soporte, género de los títulos, nacionalidad y año de nacimiento del autor, y tipo de usuario (adulto desde 14 años o infantil de 0 a 13)."
         }
       ],
       "limitaciones": [
@@ -89,20 +89,20 @@
       "hallazgos": [
         {
           "label": "1. El Dominio del Thriller Español",
-          "value": "La novela policíaca y de suspense nacional copa casi por completo el top 20 de adultos. El lector medio busca evasión, ritmo frenético y tramas adictivas."
+          "value": "El thriller agrupa 77 de los 186 títulos más prestados y el 42% de los préstamos adultos, con Juan Gómez-Jurado y Carmen Mola al frente. El lector medio busca evasión, ritmo y tramas adictivas."
         },
         {
           "label": "2. El Huracán Manga",
-          "value": "En la sección infantil y juvenil, títulos como Spy x Family, Chainsaw Man o Naruto copan los primeros puestos, demostrando que el manga es la puerta de entrada a la lectura."
+          "value": "En la sección infantil y juvenil, títulos como Naruto, My Hero Academia, Super patata o Doraemon encabezan los préstamos, demostrando el peso del manga y de las sagas gráficas."
         },
         {
-          "label": "3. El Olvido de los Clásicos",
-          "value": "El Quijote o Galdós apenas registran préstamos espontáneos, asociándose casi exclusivamente a tareas escolares forzosas."
+          "label": "3. Los Clásicos Resisten",
+          "value": "Autores como Stefan Zweig, Benito Pérez Galdós o Agatha Christie siguen prestando por encima de los 3.000 ejemplares anuales, pese a la distancia temporal."
         }
       ],
       "dataPoints": [
-        "Más del 60% de los préstamos adultos fueron ficción contemporánea publicada en los últimos 5 años.",
-        "El manga japonés representó más del 35% del total de cómics prestados en toda la red."
+        "El thriller representa el 42% de los préstamos a adultos y el manga el 11%; la novela social suma el 23% y la histórica el 7%.",
+        "En el préstamo infantil, el 7,8% de los autores genera el 80% de los préstamos (índice de Gini de 0,88 para autores y 0,76 para títulos)."
       ],
       "reflexion": "No hay que lamentar que lean manga o novela negra: hay que celebrar que las bibliotecas siguen vivas y llenas de gente leyendo."
     },
@@ -122,8 +122,8 @@
       "reflexion": "La biblioteca pública es el último refugio del saber común: un templo donde todo es gratis y de todos."
     },
     "nucleo": {
-      "pregunta": "¿Qué patrones de género, autoría y formato caracterizan los más de 1,7 millones de préstamos en las bibliotecas públicas de Madrid?",
-      "conclusion": "El macroanálisis de más de 1,7 millones de préstamos físicos en Madrid (2024) revela una alta concentración en un número reducido de títulos mediáticos y una clara predilección por el thriller contemporáneo español en adultos y por el manga japonés en el público infantil y juvenil. Los resultados evidencian la distancia entre el canon académico y los hábitos lectores espontáneos, desafiando a las políticas bibliotecarias a conjugar la atención a la demanda popular con la preservación del patrimonio literario diverso.",
+      "pregunta": "¿Qué patrones de género, autoría y formato caracterizan los más de 2,6 millones de préstamos de libros en las bibliotecas públicas de Madrid?",
+      "conclusion": "El macroanálisis de 2.647.176 préstamos de libros físicos en Madrid (2024) revela una alta concentración en un número reducido de títulos mediáticos y una clara predilección por el thriller contemporáneo español en adultos y por el manga japonés en el público infantil y juvenil, con demanda estable de clásicos. Los resultados evidencian la distancia entre el canon académico y los hábitos lectores espontáneos, desafiando a las políticas bibliotecarias a conjugar la atención a la demanda popular con la preservación del patrimonio literario diverso.",
       "formalRef": "Borrego, Á. (2026). ¿Qué leemos? Patrones de lectura entre los usuarios de las bibliotecas públicas de Madrid. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.632"
     },
     "reflexion": {
@@ -152,10 +152,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué porcentaje aproximado de préstamos acumula el 5% de los títulos más demandados según el estudio?",
+          "q": "¿Qué porcentaje de los títulos más prestados a adultos se requiere para acumular el 80% de los préstamos según el estudio?",
           "options": [
             "Menos del 1 %.",
-            "Más del 40 % de todos los préstamos anuales (fenómeno de fuerte concentración).",
+            "El 24,2 % de los títulos (fenómeno de fuerte concentración, con un índice de Gini de 0,72).",
             "Exactamente el 100 %.",
             "El estudio no midió la concentración de títulos."
           ],
@@ -174,7 +174,7 @@
   },
   "tutorTexts": {
     "apertura": {
-      "text": "¡1,7 millones de libros prestados en Madrid! Vamos a mirar por el ojo de la cerradura qué leen de verdad los ciudadanos.",
+      "text": "¡2,6 millones de libros prestados en Madrid! Vamos a mirar por el ojo de la cerradura qué leen de verdad los ciudadanos.",
       "position": "bottom-right"
     },
     "conflicto": {
@@ -182,7 +182,7 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Minería de datos pura sobre 33 bibliotecas municipales sin el sesgo de las encuestas tradicionales.",
+      "text": "Minería de datos pura sobre la red de bibliotecas municipales sin el sesgo de las encuestas tradicionales.",
       "position": "bottom-right"
     },
     "revelacion": {
@@ -207,110 +207,215 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Patrones de Lectura en las Bibliotecas Públicas de Madrid",
-    "descripcion": "Minería masiva de 1,7 millones de préstamos físicos: thriller contemporáneo, explosión del manga, concentración de títulos y políticas culturales.",
+    "titulo": "Mapa conceptual: Patrones de préstamo en bibliotecas públicas de Madrid (Ocnos 25(1) 2026)",
+    "descripcion": "Del marco de encuestas de hábitos y la brecha de género editorial al análisis de los datos abiertos de 2,65 millones de préstamos de libros en Madrid 2024: concentración (Gini), thriller y manga, nacionalidad, solapamiento con premios y el valor del préstamo como fuente complementaria, con sus limitaciones.",
     "nodos": [
       {
         "id": "1",
-        "label": "Patrones de Préstamo (1.7M)",
-        "color": "#264653"
+        "label": "Barómetro de hábitos de lectura",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "El Barómetro (Conecta, 2025) sitúa en el 65,5% los lectores por ocio y en el 28,8% los visitantes de bibliotecas, con 71,7% de mujeres frente a 59% de hombres. Las encuestas dependen de la participación voluntaria y los rankings de ventas no publican cifras exactas."
       },
       {
         "id": "2",
-        "label": "Red de Bibliotecas de Madrid",
-        "color": "#2a5a75"
+        "label": "Brecha de género en la creación literaria",
+        "color": "#e76f51",
+        "role": "Marco teórico",
+        "descripcion": "De los 62.760 libros inscritos con un solo autor, el 60,3% fueron escritos por hombres (Ministerio de Cultura, 2025). El sentido de la brecha de género se invierte al pasar de los hábitos de lectura a la creación literaria."
       },
       {
         "id": "3",
-        "label": "Concentración de Bestsellers",
-        "color": "#e76f51"
+        "label": "Objetivo: patrones de préstamo en Madrid 2024",
+        "color": "#264653",
+        "role": "Objetivo",
+        "descripcion": "Identificar autores y títulos más prestados, analizar su distribución por género, nacionalidad y época, evaluar la coincidencia con encuestas y premios literarios, y reflexionar sobre el potencial de los datos de préstamo como fuente complementaria de los hábitos lectores."
       },
       {
         "id": "4",
-        "label": "Hegemonía del Thriller Adulto",
-        "color": "#c73e1d"
+        "label": "Datos abiertos del Ayuntamiento de Madrid",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Ficheros mensuales con autor, título, ISBN, soporte y tipo de usuario (adulto desde 14 años, infantil de 0 a 13). Madrid se elige por la disponibilidad y el volumen de datos, no localizados en otra red española; el código de análisis se publica en RPubs."
       },
       {
         "id": "5",
-        "label": "Fenómeno Manga Juvenil",
-        "color": "#f4d068"
+        "label": "2.647.176 préstamos de libros en 2024",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "De los 3.025.112 préstamos registrados en 2024, el 87,5% fueron libros: 1.770.833 a usuarios adultos y 876.339 a infantiles, entre 66.133 autores y 174.799 títulos. Es el universo sobre el que se construye el análisis."
       },
       {
         "id": "6",
-        "label": "Olvido de los Clásicos",
-        "color": "#9b82c3"
+        "label": "Submuestras: 515 autores y 186 títulos",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Se documentaron género y nacionalidad de los autores con más de 500 préstamos adultos (515 autores, 35% de esos préstamos) y el género de los títulos con más de 350 préstamos (186 obras, 6%). Se excluyeron pseudónimos como Carmen Mola o Geronimo Stilton y los datos se completaron vía Wikipedia."
       },
       {
         "id": "7",
-        "label": "Superación de la Deseabilidad Social",
-        "color": "#2a9d8f"
+        "label": "Gini 0,84 autores: 11,7% concentran 80%",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Las curvas de Lorenz dan un índice de Gini de 0,84 para autores y 0,72 para títulos en el préstamo adulto. El 11,7% de los autores acumula el 80% de los préstamos; en títulos se precisa el 24,2%. La correlación títulos-préstamos es de Pearson 0,65 (R²=0,43)."
       },
       {
         "id": "8",
-        "label": "Políticas de Adquisición",
-        "color": "#5b9eaa"
+        "label": "Thriller: 42% de los préstamos adultos",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "El thriller (policiaca, suspense, negra, detectives) agrupa 77 de los 186 títulos más prestados y el 42% de los préstamos, con Juan Gómez-Jurado (7.201 préstamos) y Carmen Mola al frente. Le siguen novela social (23%), manga (11%) e histórica (7%); solo nueve títulos de no ficción."
       },
       {
         "id": "9",
-        "label": "Democratización del Hábito Lector",
-        "color": "#88b04b"
+        "label": "Manga en el top de títulos adultos",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "My Hero Academia (1.796) y Naruto (1.787) encabezan los títulos más prestados a adultos, junto a autores de orientación infantil como Geronimo Stilton, Dav Pilkey o Pedro Mañas, posible por el uso compartido de carnés familiares."
       },
       {
         "id": "10",
-        "label": "Curaduría Cultural y Fondo",
-        "color": "#f4a261"
+        "label": "61% autores hombres entre los más prestados",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Los hombres son el 61% de los 515 autores más prestados y concentran el 62% de los préstamos; las mujeres alcanzan el 39% de autorías y el 38% de préstamos. La sobrerrepresentación masculina reproduce la brecha de género de la edición."
+      },
+      {
+        "id": "11",
+        "label": "España 44% y anglosajones 29% de préstamos",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "Los autores españoles suman el 44% de los préstamos, los estadounidenses y británicos el 29%, franceses 6% y japoneses 3% (principalmente manga). Los autores nacidos en las décadas de 1960 y 1970 concentran el 40% de los préstamos adultos."
+      },
+      {
+        "id": "12",
+        "label": "Concentración infantil: Gini 0,88 en autores",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "En el préstamo infantil el 7,8% de los autores genera el 80% de los préstamos (Gini 0,88 autores; 0,76 títulos), con sagas dominantes: Naruto, My Hero Academia, Super patata, Doraemon y Jeff Kinney, un escenario polarizado de colecciones con fuerte componente gráfico y seriado."
+      },
+      {
+        "id": "13",
+        "label": "Bajo solapamiento con premios y Barómetro",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "Solo la mitad de los 16 autores españoles más premiados (2000-2020) figura entre los 500 más prestados, y únicamente Pérez-Reverte coincide en el top-10 del Barómetro y de los préstamos (Gómez-Díaz y García-Rodríguez, 2025). También se constata la convergencia de los circuitos adulto y juvenil (Lluch, 2025)."
+      },
+      {
+        "id": "14",
+        "label": "Préstamo como fuente complementaria de datos",
+        "color": "#f4a261",
+        "role": "Conclusiones",
+        "descripcion": "Los registros de préstamo ofrecen una imagen concreta y cuantificable del consumo real de lectura en un entorno público y accesible, más allá de encuestas y datos de mercado. El estudio insta a otras bibliotecas a publicar estos datos en abierto sin comprometer la confidencialidad."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: sin digital ni perfil sociodemográfico",
+        "color": "#e76f51",
+        "role": "Limitaciones",
+        "descripcion": "El análisis se limita al préstamo físico y deja fuera el digital (eBiblio), y la base no aporta edad, sexo o nivel educativo de los usuarios, solo la distinción amplia entre adultos e infantiles, lo que restringe la interpretación sociológica de los resultados."
       }
     ],
     "aristas": [
       {
+        "from": "1",
+        "to": "3",
+        "label": "sus límites metodológicos motivan el"
+      },
+      {
         "from": "2",
-        "to": "1",
-        "label": "registra las transacciones de"
-      },
-      {
-        "from": "1",
-        "to": "7",
-        "label": "revela datos objetivos gracias a la"
-      },
-      {
-        "from": "1",
         "to": "3",
-        "label": "evidencia una altísima"
+        "label": "plantea el contraste que examina el"
       },
       {
-        "from": "1",
+        "from": "4",
+        "to": "3",
+        "label": "habilita empíricamente el"
+      },
+      {
+        "from": "3",
         "to": "4",
-        "label": "confirma en adultos la"
+        "label": "se instrumenta mediante los"
       },
       {
-        "from": "1",
+        "from": "4",
         "to": "5",
-        "label": "demuestra en jóvenes el"
-      },
-      {
-        "from": "1",
-        "to": "6",
-        "label": "refleja el preocupante"
-      },
-      {
-        "from": "8",
-        "to": "3",
-        "label": "debe responder sin ceguera a la"
-      },
-      {
-        "from": "8",
-        "to": "10",
-        "label": "debe equilibrarse con la"
+        "label": "registra el volumen de"
       },
       {
         "from": "5",
+        "to": "6",
+        "label": "posibilitó aislar las"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "evidencia la"
+      },
+      {
+        "from": "6",
+        "to": "10",
+        "label": "cuantificó el género de los"
+      },
+      {
+        "from": "6",
+        "to": "11",
+        "label": "clasificó la nacionalidad de los"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se decanta por el"
+      },
+      {
+        "from": "7",
         "to": "9",
-        "label": "actúa como puerta de entrada a la"
+        "label": "convive con el"
+      },
+      {
+        "from": "7",
+        "to": "12",
+        "label": "se acentúa en el"
       },
       {
         "from": "9",
-        "to": "2",
-        "label": "constituye la misión democrática de la"
+        "to": "12",
+        "label": "comparte sagas de manga con el"
+      },
+      {
+        "from": "2",
+        "to": "10",
+        "label": "se reproduce en la selección de"
+      },
+      {
+        "from": "13",
+        "to": "1",
+        "label": "contrasta las listas del"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "refuerza el"
+      },
+      {
+        "from": "8",
+        "to": "14",
+        "label": "documenta en la práctica el"
+      },
+      {
+        "from": "14",
+        "to": "4",
+        "label": "insta a compartir en abierto los"
+      },
+      {
+        "from": "15",
+        "to": "5",
+        "label": "excluye parte de los"
+      },
+      {
+        "from": "15",
+        "to": "14",
+        "label": "acota la lectura del"
       }
     ]
   }

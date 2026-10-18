@@ -1,0 +1,461 @@
+{
+  "id": "conectores_argumentacion_l1_l2",
+  "metadata": {
+    "title": "Uso de conectores en la redacción de textos argumentativos: comparación entre L1 y L2",
+    "authors": "Fátima Faya-Cerqueiro y Ana Martín Macho-Harrison",
+    "year": "2022",
+    "journal": "Ocnos 21(2)",
+    "doi": "10.18239/ocnos_2022.21.2.2884",
+    "gancho": "¿Por qué los estudiantes universitarios escriben 'In my opinion, I think' en inglés y calcan la redundancia al español?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#06d6a0",
+    "colorAlt": "#073b4c",
+    "bg": "from-emerald-600/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/argumentacion-l1-l2/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-faya/200/200",
+      "name": "Dra. Fátima Faya-Cerqueiro",
+      "role": "Profesora de Filología Inglesa y Lingüística de Corpus, Universidade de Santiago de Compostela"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Fátima Faya-Cerqueiro, investigadora en lingüística aplicada, corpus de aprendices y didáctica del inglés",
+      "gancho": "¿Es la falta de conectores en inglés un problema de vocabulario o el reflejo de una argumentación precaria que ya arrastran en español?",
+      "contexto": "Se asume legalmente que al llegar a la universidad los estudiantes dominan la escritura argumentativa tanto en su lengua materna como en la lengua extranjera (niveles B1-B2 del MCER). Sin embargo, las correcciones docentes desvelan tropiezos continuos de cohesión y posicionamiento discursivo. Este estudio de lingüística contrastiva compila un corpus propio de 17.321 palabras producido por 51 estudiantes de primer curso de Magisterio Infantil para analizar cómo usan los conectores y marcadores de posicionamiento al inicio de párrafo en español (L1) e inglés (L2), descubriendo una sorprendente transferencia interlingüística bidireccional.",
+      "deepDives": [
+        {
+          "id": "con-apertura-1",
+          "triggerLabel": "La transferencia interlingüística bidireccional",
+          "type": "theory",
+          "content": "Odlin (1989) y Forbes y Fisher (2020) demostraron que la transferencia lingüística no viaja solo de la lengua materna (L1) hacia la extranjera (L2); cuando los aprendices automatizan estructuras y fórmulas fijadas en la L2, las retrotransfieren a su propia L1 en contextos formales de escritura."
+        },
+        {
+          "id": "con-apertura-2",
+          "triggerLabel": "El currículo preuniversitario y el MCER",
+          "type": "data",
+          "content": "El currículo de Secundaria y Bachillerato exige dominar conectores en asignaturas lingüísticas y no lingüísticas. El MCER fija en B1-B2 la capacidad de enlazar ideas con coherencia; sin embargo, los datos empíricos muestran que las destrezas argumentativas reales están muy por debajo de esa expectativa."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Los estudiantes universitarios noveles presentan una marcada pobreza de recursos cohesivos: rompen las fórmulas fijadas en inglés (*in the other hand, *for one hand), abusan de la oposición simple con but/pero y aplastan la variedad epistémica refugiándose casi exclusivamente en 'I think'.",
+      "porQueImporta": "La capacidad de argumentar con rigor, matizar opiniones y estructurar párrafos con fluidez es el núcleo de la alfabetización académica universitaria. Si no se aborda con un enfoque multilingüe coordinado, los alumnos reproducirán errores de colocación en todos sus escritos profesionales.",
+      "dataPoints": [
+        "Corpus ad-hoc de aprendices con 17.321 palabras (10.037 en español y 7.284 en inglés) generado por 51 estudiantes universitarios.",
+        "Perfil: 98% mujeres, estudiantes de 1º de Magisterio Infantil; media de 13.04 años estudiando inglés pero con niveles autopercibidos intermedios o bajos (A2-B1).",
+        "Textos estructurados en 4 párrafos dirigidos (introducción, dos párrafos argumentativos a favor y/o en contra, y conclusión), analizados con AntConc párrafo a párrafo.",
+        "Diseño contrabalanceado: un grupo escribió primero en español (n=28) y el otro primero en inglés (n=23) para controlar el orden de producción.",
+        "Pobreza epistémica en L2: 'I think' acapara 42 de las 66 ocurrencias de marcadores de posicionamiento en inglés (63.6%), frente a una rica variedad en español (pienso, creo, considero, opino)."
+      ],
+      "glossary": [
+        {
+          "term": "Conector en sentido amplio",
+          "definition": "Unidades léxicas gramaticalizadas (Fuentes-Rodríguez, 2009) que vinculan oraciones o párrafos estableciendo relaciones lógicas de causa, consecuencia, adición o conclusión."
+        },
+        {
+          "term": "Marcador de posicionamiento (stance)",
+          "definition": "Recursos lingüísticos epistémicos (in my opinion, I think, considero) mediante los cuales el autor expresa su grado de certeza, adhesión o distancia frente a la tesis argumentada."
+        },
+        {
+          "term": "Fórmulas fijadas / colocaciones",
+          "definition": "Estructuras correlativas convencionales del inglés (ej. 'on the one hand... on the other hand') cuya alteración preposicional (*in the other hand) constituye error discursivo."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "con-conflicto-1",
+          "triggerLabel": "La ruptura de los pares correlativos en L2",
+          "type": "data",
+          "content": "Los informantes cometen numerosos fallos de colocación: *in the other hand (3 casos), *in one hand (2), *for one hand, *in the first time, evidenciando que memorizaron la traducción literal de 'por una parte' en lugar de la colocación nativa."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Lingüística de corpus de aprendices y diseño contrabalanceado",
+      "narrativa": "Las autoras administraron un formulario en línea síncrono en tiempo real (1 hora, sin diccionarios ni traductores) antes de impartir instrucción sobre escritura argumentativa, siguiendo los estándares internacionales de corpus de aprendices de Granger (2007):",
+      "detalles": [
+        {
+          "label": "Dos Tareas Argumentativas Cercanas",
+          "value": "Redacción en L1 y L2 sobre 'La educación bilingüe debería ser obligatoria' y 'En España debería ser posible conducir a los 16 años', asignadas en orden contrabalanceado."
+        },
+        {
+          "label": "Estructura en 4 Párrafos (Hyland & Bustos)",
+          "value": "P1 (introducción de la tesis), P2 (argumentación a favor), P3 (argumentación en contra) y P4 (conclusión o síntesis razonada)."
+        },
+        {
+          "label": "Herramienta de Corpus AntConc",
+          "value": "Análisis computacional de frecuencias, concordancias y colocaciones de conectores y marcadores de posicionamiento situados estrictamente en posición inicial de párrafo."
+        }
+      ],
+      "limitaciones": [
+        "El análisis se circunscribió a conectores en posición inicial de párrafo, sin contabilizar marcadores intra-oracionales.",
+        "Muestra femenina mayoritaria (98%) procedente de un único grado universitario y con niveles de L2 muy heterogéneos, lo que condiciona la generalización de los resultados."
+      ],
+      "reflexion": "¿Por qué un estudiante universitario con 13 años de clases de inglés sigue traduciendo 'por otra parte' como '*in the other hand' en lugar de usar la colocación fijada correcta?",
+      "deepDives": [
+        {
+          "id": "con-viaje-1",
+          "triggerLabel": "El control del sesgo del orden de redacción",
+          "type": "method",
+          "content": "El contrabalanceo (L1-L2 vs. L2-L1) confirmó que el orden de redacción no alteró el repertorio de conectores, demostrando que los patrones observados reflejan la competencia estable del estudiante y no fatiga temporal."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Asimetría léxica, oposición simple y retrotransferencia L2 → L1",
+      "narrativa": "El análisis contrastivo de los textos reveló paralelismos y asimetrías cruciales entre ambas lenguas:",
+      "hallazgos": [
+        {
+          "label": "Concentración en la conclusión final",
+          "value": "En ambas lenguas los conectores abundan al cierre (en conclusión, in conclusion), mientras que los párrafos de argumentación interna muestran enlaces mucho más frágiles y escasos. Ej.: Máxima densidad de conectores en P4."
+        },
+        {
+          "label": "Repertorio asimétrico: L1 variada vs. L2 empobrecida",
+          "value": "El español exhibe variedad de consecutivos (por lo tanto, por consiguiente) y enumerativos; en inglés los consecutivos casi desaparecen (un único 'so') y los aditivos brillan por su ausencia. Ej.: Desaparición de conectores consecutivos en L2."
+        },
+        {
+          "label": "Monopolio epistémico de 'I think'",
+          "value": "Frente a los cuatro verbos epistémicos desplegados en español (pienso, creo, considero, opino), en inglés 'I think' eclipsa cualquier otro recurso de atenuación discursiva. Ej.: 63.6% de todos los marcadores en L2."
+        },
+        {
+          "label": "Transferencia bidireccional y redundancia calco",
+          "value": "Se detectan duplicaciones idénticas en ambas lenguas generadas por el mismo estudiante ('In my opinion, I think...' reproducido en español como 'En mi opinión, yo pienso...'), evidenciando que el hábito de la L2 contamina el estilo formal de la L1. Ej.: Calco 'En mi opinión, yo pienso...'."
+        }
+      ],
+      "dataPoints": [
+        "Promedio de palabras: 200.46 en español frente a 142.32 en inglés; los textos en lengua materna fueron sistemáticamente un 40% más largos.",
+        "Total de marcadores de posicionamiento: 60 en español y 66 en inglés, pero con una distribución cualitativa radicalmente opuesta.",
+        "Abuso de adversativos iniciales: presencia recurrente de 'Pero...' y 'But...' abriendo párrafo sin respetar la subordinación sintáctica.",
+        "Conclusivos más repetidos en español: 'en conclusión' (12 casos) y 'como conclusión' (6 casos)."
+      ],
+      "reflexion": "La pobreza de conectores en inglés no se cura enseñando más listas de palabras sueltas, sino enseñando a pensar la arquitectura lógica del párrafo argumentativo.",
+      "deepDives": [
+        {
+          "id": "con-revelacion-1",
+          "triggerLabel": "El fenómeno del pronombre pleonástico importado",
+          "type": "data",
+          "content": "En español el pronombre suele omitirse ('opino que...'); sin embargo, estudiantes que escribieron primero en inglés importaron el pronombre obligatorio del inglés produciendo estructuras marcadas como 'yo opino que...', confirmando la permeabilidad interlingüística."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia una pedagogía integrada y multilingüe de la escritura académica",
+      "narrativa": "Las autoras debaten cómo estos resultados cuestionan la fragmentación tradicional de la enseñanza de lenguas en departamentos aislados:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Teoría del Desarrollo Argumentativo (Ferretti & Graham, Rapanta): La argumentación formal es una destreza compleja de alto orden cognitivo que rara vez madura de forma espontánea sin instrucción explícita."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Lingüística de Corpus de Aprendices (Tankó, Cotos): Coincidencia con estudios internacionales que alertan del sobreuso de comodines léxicos y la dificultad de dominar colocaciones complejas en L2."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Enfoque Plurilingüe del MCER: Las competencias comunicativas de un individuo no se guardan en compartimentos estancos; forman un repertorio lingüístico integrado donde las lenguas interactúan continuamente."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Currículo prescriptivo ideal vs. Realidad textual: La legislación promete un alumnado egresado de Bachillerato capaz de argumentar con soltura, pero los textos reales exhiben calcos infantiles e inseguridad sintáctica."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Enseñanza aislada por materias vs. Escritura a través del currículo (WAC): El profesor de lengua española y el de lengua inglesa no pueden seguir trabajando como si enseñaran en planetas diferentes."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Falta evaluar el impacto de una intervención didáctica específica de instrucción explícita en conectores sobre la mejora del corpus."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "No se controló la posible influencia de ciertas variables del alumnado participante (como su nivel de estudios previos o su nivel real de L2) sobre los resultados obtenidos."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la didáctica de la lengua extranjera Enseñar los conectores no como palabras aisladas de una lista, sino como colocaciones fijadas en bloques léxicos completos con su puntuación correspondiente."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la coordinación interdepartamental Establecer talleres conjuntos de escritura académica entre los departamentos de Lengua Castellana y Lenguas Extranjeras en Bachillerato y universidad."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la formación de maestros Capacitar a los futuros docentes en análisis metalingüístico reflexivo para que sean conscientes de sus propios errores de transferencia antes de enseñar a redactar a los niños."
+        },
+        {
+          "label": "Tabla",
+          "value": "Dimensión Discursiva | Español (L1) | Inglés (L2) | Patrón Observado | Diagnóstico Didáctico\nConsecutivos | Por lo tanto, por consiguiente | Casi inexistentes (so: 1) | Pérdida drástica en L2 | Enseñar therefore, consequently\nConclusivos | En conclusión, como conclusión | In conclusion, to conclude | Similares y bien afianzados | Conclusión es el párrafo más cohesionado\nPares correlativos | Por un lado... por otro lado | *In the other hand, *for one hand | Ruptura de colocación fija | Interferencia y calco preposicional\nOposición simple | Pero... (al inicio de párrafo) | But... (al inicio de párrafo) | Uso abusivo en ambas lenguas | Superar la oralidad informal\nPosicionamiento (Stance) | Pienso, creo, considero, opino (35) | I think acapara 42 de 66 casos | Monopolio epistémico en L2 | Enseñar in my view, it seems, arguably"
+        }
+      ],
+      "reflexion": "Si queremos que nuestros estudiantes escriban con elegancia en inglés, primero debemos enseñarles a construir párrafos cohesionados y lógicos en su propia lengua.",
+      "deepDives": [
+        {
+          "id": "con-marco-1",
+          "triggerLabel": "El valor del 'focus on form' en la enseñanza de conectores",
+          "type": "theory",
+          "content": "Las autoras recomiendan actividades de atención a la forma (Doughty & Williams) donde los alumnos contrasten explícitamente textos con colocaciones correctas frente a sus propios calcos, desarrollando conciencia crítica sobre los falsos amigos preposicionales."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Qué diferencias y similitudes existen en el uso de conectores y marcadores de posicionamiento inicial entre textos argumentativos en español (L1) e inglés (L2) en universitarios noveles?",
+      "conclusion": "Los conectores se concentran abrumadoramente en el párrafo final de conclusión en ambas lenguas, descuidando la cohesión interna de los párrafos argumentativos. Los estudiantes rompen con frecuencia las fórmulas fijadas en inglés mediante calcos preposicionales erróneos (*in the other hand, *for one hand). Existe un sobreuso empobrecedor de 'I think' en L2 (63.6% de los marcadores), contrastando con la mayor riqueza de verbos epistémicos en español. Se evidencia transferencia interlingüística bidireccional, manifestada en calcos redundantes calcados del inglés al español ('In my opinion, I think' / 'En mi opinión, yo pienso'). Adoptar un enfoque multilingüe y coordinado en la didáctica de la escritura académica que conecte la L1 con las lenguas extranjeras. Enseñar las fórmulas correlativas de argumentación como colocaciones enteras e indivisibles mediante práctica contextualizada. Fomentar la variedad epistémica enseñando alternativas a 'I think' (from my perspective, arguably, it appears that). Diseñar actividades de contraste metalingüístico para detectar y erradicar los calcos redundantes en la redacción formal. Escribir bien un argumento es ordenar el pensamiento: cuando dos lenguas dialogan en el aula con rigor, la inteligencia crítica se multiplica.",
+      "formalRef": "Fátima Faya-Cerqueiro y Ana Martín Macho-Harrison. (2022). Uso de conectores en la redacción de textos argumentativos: comparación entre L1 y L2. Ocnos 21(2). https://doi.org/10.18239/ocnos_2022.21.2.2884"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué marcador de posicionamiento epistémico acaparó el 63.6% (42 de 66 ocurrencias) de todos los marcadores empleados por los estudiantes en sus textos en inglés?",
+          "options": [
+            "In my view",
+            "I think",
+            "It is evident",
+            "From my perspective"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿En cuál de los cuatro párrafos del texto argumentativo se concentró con diferencia la mayor frecuencia de conectores iniciales en ambas lenguas?",
+          "options": [
+            "Párrafo 1 (Introducción)",
+            "Párrafo 2 (Argumentos a favor)",
+            "Párrafo 3 (Argumentos en contra)",
+            "Párrafo 4 (Conclusión o cierre)"
+          ],
+          "correct": 3
+        },
+        {
+          "type": "open",
+          "q": "¿Qué ejercicio de reflexión contrastiva plantearías en clase para que los alumnos dejen de escribir '*In the other hand' y comprendan la colocación nativa 'On the other hand' en relación con su equivalente en español?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Crisis de argumentación escrita preuniversitaria",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Brecha empírica entre las prescripciones curriculares oficiales de Bachillerato y las limitaciones reales en cohesión y argumentación que exhibe el alumnado novel al ingresar en los grados universitarios de formación docente."
+      },
+      {
+        "id": "2",
+        "label": "Transferencia interlingüística bidireccional",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Influencia mutua documentada por Odlin y Forbes/Fisher, donde los conocimientos y automatismos discursivos no solo viajan de la L1 a la L2, sino que las rutinas de la lengua extranjera contaminan el estilo formal de la lengua materna."
+      },
+      {
+        "id": "3",
+        "label": "Marco normativo curricular y niveles MCER",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Exigencia del Real Decreto 1105/2014 y del Marco Común Europeo de Referencia (MCER) que sitúa en la banda B1-B2 la competencia para estructurar textos cohesionados y utilizar variadas palabras de enlace discursivo con precisión."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Comparar conectores iniciales L1 vs L2",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Observar y catalogar el uso real de conectores y marcadores de posicionamiento al inicio de párrafo en textos argumentativos redactados en español (L1) e inglés (L2) por una misma cohorte de estudiantes universitarios."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Detectar errores y transferencia",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Identificar colocaciones rotas, calcos preposicionales, fórmulas comodín y evidencias de retrotransferencia interlingüística antes de que los estudiantes reciban instrucción explícita universitaria sobre escritura."
+      },
+      {
+        "id": "6",
+        "label": "Corpus ad-hoc de aprendices (17.321 palabras)",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Compilación controlada de textos producidos por 51 estudiantes de 1º de Magisterio Infantil (10.037 palabras en español y 7.284 en inglés; 17.321 totales) en condiciones síncronas de aula sin acceso a internet ni diccionarios."
+      },
+      {
+        "id": "7",
+        "label": "Diseño contrabalanceado en 4 párrafos dirigidos",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Estructura textual dirigida de cuatro párrafos (Hyland, Bustos) sobre temas polémicos cercanos, contrabalanceando el orden de redacción (L1-L2 vs L2-L1) para descartar sesgos temporales o fatiga cognitiva."
+      },
+      {
+        "id": "8",
+        "label": "Análisis computacional de corpus con AntConc",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Extracción y análisis computacional de concordancias, colocaciones, frecuencias absolutas y categorización semántica de conectores párrafo a párrafo con AntConc, evitando los sesgos derivados de la diferente longitud textual."
+      },
+      {
+        "id": "9",
+        "label": "Hiperconcentración de conectores en conclusión",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "El párrafo 4 acapara la mayor densidad de conectores en ambas lenguas (en conclusión, in conclusion), dejando desprovistos de enlaces lógicos suficientes los párrafos intermedios de argumentación y contraargumentación."
+      },
+      {
+        "id": "10",
+        "label": "Ruptura de colocaciones fijadas en inglés",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Múltiples errores preposicionales en fórmulas correlativas en inglés (*in the other hand, *for one hand, *in the first time), revelando traducción literal y desconocimiento de las colocaciones nativas fijadas."
+      },
+      {
+        "id": "11",
+        "label": "Monopolio epistémico de 'I think' (63.6%)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "En inglés I think suma 42 de los 66 marcadores de posicionamiento (63.6%), aplastando la atenuación académica frente a los variados verbos epistémicos utilizados por el mismo alumnado en español (pienso, creo, considero, opino)."
+      },
+      {
+        "id": "12",
+        "label": "Retrotransferencia y calcos redundantes L2 → L1",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Identificación de construcciones idénticas redundantes calcadas del inglés al español (In my opinion, I think... reproducido textualmente como En mi opinión, yo pienso...), evidenciando contaminación interlingüística directa."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Ineficacia de listas descontextualizadas",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Aprender listas memorísticas de conectores aislados no capacita para el uso discursivo real; se requiere instrucción explícita en colocaciones fijas completas, puntuación asociada y macroestructura textual del párrafo."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Enfoque multilingüe coordinado",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Necesidad imperiosa de coordinar los departamentos de Lengua Castellana y Lenguas Extranjeras para trabajar la argumentación escrita de manera integrada, coherente y transversal en toda la etapa formativa."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Conectores iniciales de párrafo",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "La investigación acota el análisis a la posición periférica inicial de párrafo, sin contabilizar mecanismos de cohesión intra-oracionales menos fijados ni producciones orales espontáneas de los participantes."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Conciencia metalingüística docente",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "La alfabetización académica universitaria debe cultivar el contraste metalingüístico reflexivo para que los futuros maestros argumenten con solvencia, precisión léxica y elegancia sintáctica en ambas lenguas."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se agrava por la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "choca con las metas del"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "fundamenta el planteamiento del"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "justifica la pertinencia del"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se investiga a través del"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se operativiza mediante el"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "es procesado mediante el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "aporta la estructura al"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "pone al descubierto la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "identifica la recurrente"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "revela el abrumador"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "demuestra empíricamente la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "sustenta la crítica a la"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "evidencia las limitaciones en la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "reclama la aplicación de un"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "orienta las propuestas de la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "culmina promoviendo la"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "establece el límite de"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "matiza metodológicamente la"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "muestra la necesidad de superar la"
+      },
+      {
+        "from": "2",
+        "to": "16",
+        "label": "se supera mediante la"
+      }
+    ]
+  }
+}

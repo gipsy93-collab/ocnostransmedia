@@ -2,7 +2,7 @@
   "id": "pausas_lectura_evolucion",
   "metadata": {
     "title": "Evolución de las pausas de la lectura en escolares con diferentes trayectorias en comprensión lectora",
-    "authors": "Ruth Campos, Pelusa Orellana y Andrés Segovia",
+    "authors": "Beatriz Arancibia-Gutiérrez, Hernán León-Valdés e Inger Vásquez-Venegas",
     "year": "2025",
     "journal": "Ocnos 24(2)",
     "doi": "10.18239/ocnos_2025.24.2.550",
@@ -12,147 +12,147 @@
     "color": "#e88b8c",
     "colorAlt": "#2a5a75",
     "bg": "from-rose-500/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-17.png",
+    "image": "/assets/portadas/pausas_lectura_evolucion.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-17.png",
-      "name": "Dra. Ruth Campos",
-      "role": "Investigadora en Psicología de la Lectura y Prosodia, Universidad de los Andes (Chile)"
+      "name": "Dra. Beatriz Arancibia-Gutiérrez",
+      "role": "Investigadora en Didáctica de la Lengua y la Lectura, Universidad Católica de la Santísima Concepción (Chile)"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Ruth Campos, psicolingüista especialista en análisis acústico de la lectura oral",
+      "personaje": "Dra. Beatriz Arancibia-Gutiérrez, psicolingüista especialista en prosodia y fluidez de la lectura oral",
       "gancho": "¿Es una pausa en la lectura un síntoma de torpeza o la prueba de que el cerebro está pensando?",
-      "contexto": "El análisis acústico de la lectura oral permite asomarse al procesamiento cognitivo en tiempo real. Las pausas entre oraciones o cláusulas (interclausales) reflejan integración semántica legítima, mientras que las pausas arbitrarias dentro de una cláusula (intraclausales) revelan atascos de decodificación. En este estudio longitudinal en Chile, se grabó y analizó el habla de 26 escolares evaluados en 4.º y 6.º de educación básica clasificados según sus trayectorias lectoras (buenos persistentes, lectores pobres y lectores con dificultades tardías).",
+      "contexto": "El análisis acústico de la lectura oral permite asomarse al procesamiento cognitivo en tiempo real. Las pausas adecuadas coinciden con la puntuación y respetan los límites sintácticos del texto, mientras que las pausas inadecuadas rompen las frases y delatan esfuerzo por decodificar. En este estudio longitudinal en Chile, se grabó y analizó la lectura en voz alta de 26 escolares evaluados en 4.º y 6.º de educación básica, clasificados en tres perfiles según su trayectoria en comprensión lectora (buena sostenida, baja que mejora y baja sostenida), más nueve universitarios de Pedagogía como referencia adulta.",
       "deepDives": [
         {
           "id": "pau-apertura-1",
-          "triggerLabel": "Pausas intraclausales vs. interclausales",
+          "triggerLabel": "Pausas adecuadas vs. inadecuadas",
           "type": "theory",
-          "content": "Las interclausales coinciden con signos de puntuación y descansos sintácticos; las intraclausales rompen sintagmas ('el perro... ladró... fuerte') por sobrecarga cognitiva."
+          "content": "Las pausas adecuadas cumplen una función demarcativa guiada por la puntuación y respetan los límites sintácticos; las inadecuadas rompen la estructura de la frase y pueden alterar el significado de lo leído."
         },
         {
           "id": "pau-apertura-2",
           "triggerLabel": "Estudio longitudinal en Chile",
           "type": "data",
-          "content": "Seguimiento de escolares desde 4.º básico hasta 6.º básico con grabaciones de voz analizadas en Praat."
+          "content": "Seguimiento de 26 escolares desde 4.º básico (2019) hasta 6.º básico (2021) con grabaciones de voz analizadas en Praat."
         }
       ]
     },
     "conflicto": {
       "problema": "La escuela suele cronometrar la velocidad global sin distinguir si un alumno se frena para pensar o porque no logra decodificar una palabra.",
-      "porQueImporta": "Intervenir erróneamente forzando a 'leer sin paradas' destruye la prosodia reflexiva que sostiene la comprensión profunda.",
+      "porQueImporta": "Intervenir erróneamente forzando a 'leer sin paradas' puede ignorar que las pausas inadecuadas son un marcador de la falta de automaticidad lectora.",
       "dataPoints": [
         "Estudio longitudinal con 26 escolares chilenos en dos momentos temporales (4.º y 6.º básico).",
-        "Los buenos comprendedores mostraron una reducción drástica de pausas intraclausales inapropiadas en 6.º.",
-        "Los lectores con dificultades tardías aumentaron sus pausas en 6.º debido a la complejidad abstracta de los textos.",
-        "La duración de las pausas interclausales aumentó en los buenos lectores, evidenciando un procesamiento reflexivo superior."
+        "Los buenos comprendedores redujeron significativamente sus pausas inadecuadas en 6.º (de 27,4 a 14,4).",
+        "En 6.º año todos los perfiles disminuyeron su total de pausas, pero persistió la brecha entre los grupos de mayor y menor comprensión.",
+        "Los tres perfiles mostraron casi el mismo número de pausas adecuadas (en torno a 35), muy coincidente con la puntuación del texto."
       ],
       "glossary": [
         {
-          "term": "Pausa intraclausal",
-          "definition": "Detención del habla en el interior de una unidad sintáctica que no responde a un límite gramatical y denota vacilación."
+          "term": "Pausa inadecuada",
+          "definition": "Pausa que no responde a un límite gramatical ni a la puntuación del texto y que rompe la estructura de la frase, denotando vacilación o esfuerzo por decodificar."
         },
         {
-          "term": "Dificultad lectora tardía",
-          "definition": "Aparición de problemas de comprensión a partir de 4.º de Primaria cuando los textos dejan de ser familiares y exigen inferencias abstractas."
+          "term": "Vacilación",
+          "definition": "Silencio antecedido de tanteos articulatorios, repeticiones de sílabas o palabras u otros fenómenos equivalentes a errores durante la lectura en voz alta."
         }
       ]
     },
     "viaje": {
       "titulo": "Ruta metodológica: Análisis acústico longitudinal con software Praat",
-      "narrativa": "Los investigadores registraron la lectura de textos estandarizados en cabinas insonorizadas en 4.º y 6.º año básico. Segmentaron y cronometraron cada pausa con milisegundos de precisión.",
+      "narrativa": "Los investigadores registraron la lectura en voz alta de una fábula de 215 palabras en una sala libre de distractores, en 4.º y 6.º año básico, con una grabadora semiprofesional TASCAM DR-40. Generaron espectrogramas y TextGrids para segmentar y cronometrar cada pausa.",
       "detalles": [
         {
           "label": "Población",
-          "value": "26 escolares clasificados en 3 grupos de trayectoria lectora."
+          "value": "26 escolares clasificados en 3 perfiles de trayectoria lectora, más 9 universitarios de referencia."
         },
         {
           "label": "Software",
-          "value": "Praat para análisis oscilográfico y espectrográfico."
+          "value": "Praat para el análisis espectrográfico y la segmentación de las pausas."
         }
       ],
       "limitaciones": [
-        "Muestra reducida debido a la exigencia del análisis fonético exhaustivo milisegundo a milisegundo."
+        "Muestra reducida por la exigencia del análisis acústico minucioso pausa a pausa."
       ],
       "reflexion": "En fonética, cada silencio tiene un significado cognitivo."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: El buen lector sabe cuándo callar",
-      "narrativa": "Los datos longitudinales demostraron la evolución de la arquitectura del habla lectora:",
+      "titulo": "Hallazgos empíricos: Las pausas inadecuadas marcan la brecha",
+      "narrativa": "Los datos longitudinales mostraron la evolución del uso de pausas lectoras:",
       "hallazgos": [
         {
-          "label": "1. Desaparición del Titubeo",
-          "value": "En los buenos lectores, las pausas erráticas dentro de la frase cayeron a casi cero en 6.º básico."
+          "label": "1. Menos pausas inadecuadas",
+          "value": "En los buenos comprendedores, las pausas inadecuadas se redujeron significativamente en 6.º básico (de 27,4 a 14,4), acercándose al desempeño universitario."
         },
         {
-          "label": "2. Silencios Estratégicos",
-          "value": "Los mejores comprendedores hicieron pausas más largas al final de párrafo para actualizar su modelo mental."
+          "label": "2. Pausas adecuadas estables",
+          "value": "Los tres perfiles mantuvieron un número estable de pausas adecuadas (en torno a 35), casi todas silencios coincidentes con la puntuación del texto."
         }
       ],
       "dataPoints": [
-        "Diferencia significativa (p < .01) en la ratio de pausas inter/intra entre grupos de rendimiento."
+        "Diferencias significativas (p<.01) en el total de pausas y en las pausas inadecuadas entre perfiles, tanto en 4.º como en 6.º año."
       ],
-      "reflexion": "No leas sin pausas: lee con pausas inteligentes que organicen el sentido."
+      "reflexion": "No leas sin pausas: lee con pausas que respeten el sentido del texto."
     },
     "marco": {
       "titulo": "Discusión: La prosodia como termómetro de la comprensión",
-      "narrativa": "Campos, Orellana y Segovia proponen usar la prosodia como herramienta de evaluación cualitativa:",
+      "narrativa": "Arancibia-Gutiérrez, León-Valdés y Vásquez-Venegas proponen atender a las pausas como indicador del desarrollo lector:",
       "detalles": [
         {
-          "label": "Atención a las Dificultades Tardías",
-          "value": "El salto a 5.º y 6.º básico exige vigilar a alumnos que leían bien mecánicamente pero colapsan en textos densos."
+          "label": "Automaticidad lectora",
+          "value": "Los alargamientos y vacilaciones reflejan esfuerzo consciente por decodificar, en desmedro de la comprensión; es clave ofrecer práctica dirigida y apoyos específicos."
         }
       ],
       "reflexion": "Escuchar leer a un niño con atención es escuchar cómo funciona su cerebro."
     },
     "nucleo": {
       "pregunta": "¿Cómo evoluciona la distribución de pausas de lectura oral en escolares según su trayectoria en comprensión lectora?",
-      "conclusion": "El seguimiento longitudinal de escolares chilenos demuestra que los buenos comprendedores eliminan las pausas intraclausales vacilantes y aumentan las pausas interclausales estratégicas para procesar el significado. Los lectores con dificultades tardías muestran un incremento de atascos en cursos superiores, confirmando que la prosodia temporal es un biomarcador cognitivo directo de la comprensión.",
-      "formalRef": "Campos, R., Orellana, P., & Segovia, A. (2025). Evolución de las pausas de la lectura en escolares con diferentes trayectorias en comprensión lectora. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.550"
+      "conclusion": "El seguimiento longitudinal de escolares chilenos muestra que las pausas adecuadas se mantienen estables en todos los perfiles (efecto techo ya en 4.º), mientras que las pausas inadecuadas diferencian a los grupos: el perfil con menor comprensión acumula la mayor frecuencia. En 6.º año todos mejoraron, pero solo el perfil de buena comprensión se acercó al desempeño adulto, confirmando que las pausas inadecuadas son un marcador relevante del desarrollo lector.",
+      "formalRef": "Arancibia-Gutiérrez, B., León-Valdés, H., & Vásquez-Venegas, I. (2025). Evolución de las pausas de la lectura en escolares con diferentes trayectorias en comprensión lectora. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.550"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué tipo de pausa disminuye casi por completo en los buenos comprendedores entre 4.º y 6.º año básico?",
+          "q": "¿Qué tipo de pausas marcó la diferencia entre los escolares de alto y bajo desempeño en comprensión lectora?",
           "options": [
-            "Las pausas de punto y final de capítulo.",
-            "Las pausas intraclausales vacilantes que rompen arbitrariamente el interior de una oración.",
-            "Las pausas para respirar entre párrafos.",
-            "Las pausas de recreo escolar."
+            "Las pausas adecuadas, que se mantuvieron constantes.",
+            "La frecuencia de pausas inadecuadas (silencios, alargamientos y vacilaciones).",
+            "La duración exacta de cada pausa medida en logits.",
+            "El número de párrafos del texto leído."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Por qué los buenos lectores aumentan la duración de sus pausas entre oraciones (interclausales)?",
+          "q": "¿Qué ocurrió con las pausas adecuadas en los tres perfiles a lo largo del estudio?",
           "options": [
-            "Porque se cansan de leer en voz alta.",
-            "Porque utilizan ese silencio para integrar la información y actualizar su modelo mental del texto.",
-            "Porque no saben la palabra siguiente.",
-            "Porque están distraídos mirando el techo."
+            "Disminuyeron drásticamente en 6.º año.",
+            "No hubo diferencias entre perfiles ni con los universitarios: se mantuvieron estables en torno a 35 pausas.",
+            "Aumentaron solo en el perfil de baja comprensión sostenida.",
+            "Desaparecieron por completo en 6.º año."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué grupo de estudiantes mostró un aumento inesperado de pausas al llegar a 6.º básico?",
+          "q": "¿Qué grupo de referencia se incluyó para comparar las pausas de los escolares?",
           "options": [
-            "Los lectores con dificultades tardías de comprensión ante textos abstractos.",
-            "Los alumnos de educación infantil.",
-            "Los mejores poetas del colegio.",
-            "Los profesores de lenguaje."
+            "Veinte profesores de Lengua.",
+            "Nueve estudiantes universitarios de Pedagogía.",
+            "Cien adultos sin estudios.",
+            "Los propios investigadores del estudio."
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "type": "open",
-          "q": "¿Cómo diseñarías una rúbrica de lectura en voz alta que valore positivamente las pausas reflexivas y no solo la velocidad del cronómetro?"
+          "q": "¿Cómo diseñarías una rúbrica de lectura en voz alta que valore positivamente las pausas que respetan el sentido del texto y no solo la velocidad del cronómetro?"
         },
         {
           "type": "open",
-          "q": "¿Qué actividades de lectura dramatizada o doblaje de audio propondrías a escolares con dificultades tardías para entrenar la prosodia natural?"
+          "q": "¿Qué actividades de lectura dramatizada o doblaje de audio propondrías a escolares con baja comprensión sostenida para entrenar una prosodia natural sin pausas intrusas?"
         }
       ]
     }
@@ -163,19 +163,19 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "¿Parar al leer es un fallo? No siempre: depende de si te frenas para entender o porque te atascas con una palabra.",
+      "text": "¿Parar al leer es un fallo? No siempre: depende de si la pausa respeta la puntuación o rompe la frase por atascarte con una palabra.",
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Seguimos a 26 escolares en Chile desde 4.º hasta 6.º básico analizando sus oscilogramas en Praat.",
+      "text": "Seguimos a 26 escolares en Chile desde 4.º hasta 6.º básico analizando sus espectrogramas en Praat.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El buen lector alarga las pausas entre frases y elimina los frenazos en medio de la oración!",
+      "text": "¡Las pausas inadecuadas marcan la diferencia: quien menos comprende acumula más silencios y vacilaciones!",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "Cuidado con las 'dificultades tardías': en 6.º básico muchos niños empiezan a fallar porque los textos se vuelven difíciles.",
+      "text": "Los tres perfiles mejoraron en 6.º, pero solo los buenos comprendedores se acercaron al desempeño adulto.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -183,7 +183,7 @@
       "position": "bottom-right"
     },
     "mapa": {
-      "text": "Explora el mapa para ver la evolución de pausas, Praat, trayectorias lectoras y dificultades tardías.",
+      "text": "Explora el mapa para ver la evolución de pausas, Praat, las trayectorias lectoras y las pausas inadecuadas.",
       "position": "bottom-right"
     },
     "reflexion": {
@@ -192,110 +192,210 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Evolución Acústica de las Pausas y Comprensión Lectora",
-    "descripcion": "Estudio longitudinal en Chile (4.º a 6.º básico): pausas interclausales vs. intraclausales, software Praat y dificultades tardías.",
+    "titulo": "Mapa conceptual: Pausas de lectura oral y comprensión lectora (Ocnos 24(2), 2025)",
+    "descripcion": "Recorrido desde la prosodia de la lectura oral y el rol de la puntuación hasta el estudio longitudinal de 26 escolares chilenos entre 4.º y 6.º año, pasando por la segmentación acústica en Praat, los hallazgos sobre pausas adecuadas e inadecuadas, la implicancia didáctica y la limitación del contexto de clases remotas.",
     "nodos": [
       {
         "id": "1",
-        "label": "Evolución de Pausas Orales",
-        "color": "#e88b8c"
+        "label": "Prosodia de la lectura oral",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Rasgos suprasegmentales como acento, entonación, ritmo y pausas (Llisterri, 2021) que se manifiestan en la lectura en voz alta y son indicadores del desarrollo de la lectura fluida (Dowhower, 1991; Schreiber, 1991). Un desempeño prosódico bajo se relaciona con baja comprensión incluso con decodificación adecuada (Groen et al., 2019; Miller y Schwanenflugel, 2008)."
       },
       {
         "id": "2",
-        "label": "Pausas Interclausales Estratégicas",
-        "color": "#2a5a75"
+        "label": "Pausas gramaticales y agramaticales",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Las pausas gramaticales cumplen una función demarcativa guiada por la puntuación y respetan los límites sintácticos; las agramaticales rompen la estructura de frase y pueden alterar el significado (Gil-Fernández, 2007). También se distinguen pausas sonoras (alargamientos, vocalizaciones) y silenciosas, y en lectura predominan las silentes (Etxebarria et al., 2016)."
       },
       {
         "id": "3",
-        "label": "Pausas Intraclausales (Vacilaciones)",
-        "color": "#e76f51"
+        "label": "Puntuación como guía de pausas",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Godde et al. (2022), con 295 niños francófonos, muestran que el manejo de pausas se adquiere gradualmente entre 2.º y 7.º grado con la puntuación como guía. Hacia sexto año el desempeño ya se parece al del adulto (Álvarez-Cañizo et al., 2018), y la evidencia sobre pausas y comprensión suele ser transversal."
       },
       {
         "id": "4",
-        "label": "Buenos Comprendedores",
-        "color": "#88b04b"
+        "label": "Pregunta sobre evolución de pausas",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "¿Cómo evolucionan las pausas de lectores chilenos con distintas trayectorias de comprensión entre 4.º y 6.º año y en qué medida se acercan al desempeño adulto? Se espera que el buen desempeño mantenga la mejor evolución y que quienes sostienen baja comprensión conserven más pausas inadecuadas."
       },
       {
         "id": "5",
-        "label": "Dificultades Lectoras Tardías",
-        "color": "#c73e1d"
+        "label": "Diseño descriptivo longitudinal",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Recolección en dos sesiones, 4.º año (2019) y 6.º año (2021), sin intervención entre ambas mediciones. A diferencia de estudios que comparan grupos etarios, este diseño permite observar cambios intraindividuales en el tiempo."
       },
       {
         "id": "6",
-        "label": "Estudio Longitudinal (4.º a 6.º)",
-        "color": "#5b9eaa"
+        "label": "Tres perfiles y universitarios",
+        "color": "#c73e1d",
+        "role": "Método",
+        "descripcion": "26 escolares de escuelas públicas con desarrollo cognitivo normotípico (Raven): Perfil 1 (n=9, buena comprensión sostenida), Perfil 2 (n=8, de baja a buena) y Perfil 3 (n=9, baja sostenida). Se excluyó a lectores deficientes en PROLEC-R y se añadió a nueve universitarios de Pedagogía como referencia adulta."
       },
       {
         "id": "7",
-        "label": "Análisis Acústico con Praat",
-        "color": "#9b82c3"
+        "label": "Prueba CLP y fábula",
+        "color": "#e76f51",
+        "role": "Método",
+        "descripcion": "Comprensión medida con la Prueba CLP Forma A (Cuarto Nivel en 4.º, 18 puntos; Sexto Nivel en 6.º, 40 puntos), estandarizada para Chile. La lectura oral usó una fábula de 215 palabras y 17 oraciones del Texto del Estudiante de 4.º, «bastante fácil» según la escala INFLESZ, grabada con una TASCAM DR-40."
       },
       {
         "id": "8",
-        "label": "Actualización del Modelo Mental",
-        "color": "#2a9d8f"
+        "label": "Análisis acústico con Praat",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "Con Praat se generaron espectrogramas y TextGrids para etiquetar y segmentar las pausas, contrastados con análisis perceptual auditivo y validación experta. Se clasificaron en adecuadas e inadecuadas y en subtipos: silencios, alargamientos y vacilaciones; un script exportó los datos a Excel."
       },
       {
         "id": "9",
-        "label": "Sobrecarga de Decodificación",
-        "color": "#f4d068"
+        "label": "Corpus de 4698 pausas",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "2526 pausas en 4.º año (895 adecuadas, 1631 inadecuadas), 1832 en 6.º (908 y 924) y 340 en universitarios (313 y 37). Con SPSS v.24 (Kruskal-Wallis, Wilcoxon), el total de pausas disminuyó significativamente en 6.º en los tres perfiles."
       },
       {
         "id": "10",
-        "label": "Prosodia como Biomarcador",
-        "color": "#f4a261"
+        "label": "Pausas adecuadas sin diferencias",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "No hubo diferencias significativas entre perfiles ni con los universitarios en pausas adecuadas (≈35 por lector en cada curso), con letras «a» en todos los grupos. Casi el 100% fueron silencios coincidentes con la puntuación, lo que sugiere un efecto techo ya en 4.º año."
+      },
+      {
+        "id": "11",
+        "label": "Pausas inadecuadas marcan brecha",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Las pausas inadecuadas difirieron por perfil en ambos cursos (p<.01): el Perfil 3 tuvo la mayor frecuencia (102,4 en 4.º; 61,8 en 6.º). Solo el Perfil 1 disminuyó significativamente (27,4 a 14,4) y se acercó al desempeño universitario (3,0), mientras el grupo intermedio mejoró sin alcanzar al adulto."
+      },
+      {
+        "id": "12",
+        "label": "Silencios y alargamientos intrusos",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Entre los subtipos inadecuados, los silencios fueron los más frecuentes y perjudican la continuidad lectora. Los alargamientos diferenciaron al Perfil 3 en ambos cursos; las vacilaciones solo mostraron diferencias significativas frente a los universitarios, y bajaron de 4.º a 6.º en el Perfil 2."
+      },
+      {
+        "id": "13",
+        "label": "Automaticidad lectora pendiente",
+        "color": "#5b9eaa",
+        "role": "Discusión",
+        "descripcion": "Las diferencias entre trayectorias se asocian al nivel de automaticidad de la lectura: alargamientos y vacilaciones expresan esfuerzo consciente por decodificar en desmedro de la comprensión. La puntuación ya está dominada en 4.º, por lo que el marcador discriminante es la frecuencia de pausas inadecuadas."
+      },
+      {
+        "id": "14",
+        "label": "Lectura oral en toda la escolaridad",
+        "color": "#88b04b",
+        "role": "Conclusiones",
+        "descripcion": "Conviene mantener la práctica de lectura oral durante toda la básica, pues informa sobre el desarrollo lector individual en el aula. Es clave enseñar pronto el significado de los signos de puntuación y ofrecer práctica dirigida y apoyos específicos para lograr fluidez sin vacilaciones ni alargamientos."
+      },
+      {
+        "id": "15",
+        "label": "Datos en contexto remoto",
+        "color": "#f4d068",
+        "role": "Limitaciones",
+        "descripcion": "Los datos de 6.º año corresponden a 2021, tras casi dos años de clases no presenciales que interrumpieron prácticas lectoras; sin ese factor el potencial de mejora habría sido mayor. Se proyecta estudiar la duración de las pausas, la velocidad de elocución y la entonación."
       }
     ],
     "aristas": [
       {
-        "from": "7",
-        "to": "1",
-        "label": "mide con precisión la"
-      },
-      {
-        "from": "6",
-        "to": "1",
-        "label": "sigue a lo largo del tiempo la"
-      },
-      {
-        "from": "4",
+        "from": "1",
         "to": "2",
-        "label": "incrementa y aprovecha las"
+        "label": "abarca las"
       },
       {
         "from": "2",
-        "to": "8",
-        "label": "permite el tiempo para la"
+        "to": "3",
+        "label": "se ajustan a la"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "sustenta la"
       },
       {
         "from": "4",
-        "to": "3",
-        "label": "reduce casi a cero las"
-      },
-      {
-        "from": "9",
-        "to": "3",
-        "label": "provoca la aparición de"
+        "to": "5",
+        "label": "se examina con el"
       },
       {
         "from": "5",
-        "to": "3",
-        "label": "experimenta un repunte en"
+        "to": "6",
+        "label": "reunió a los"
       },
       {
-        "from": "1",
-        "to": "10",
-        "label": "convierte a la pausa en un"
+        "from": "6",
+        "to": "7",
+        "label": "fue medido con la"
       },
       {
-        "from": "10",
+        "from": "7",
         "to": "8",
-        "label": "diagnostica la calidad de la"
+        "label": "entregó audios procesados con el"
       },
       {
-        "from": "10",
-        "to": "5",
-        "label": "detecta tempranamente las"
+        "from": "8",
+        "to": "9",
+        "label": "cuantificó el"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "etiquetó las"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "identificó las"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "mostró constancia en las"
+      },
+      {
+        "from": "3",
+        "to": "10",
+        "label": "explica la estabilidad de las"
+      },
+      {
+        "from": "6",
+        "to": "11",
+        "label": "el perfil más bajo sostuvo las"
+      },
+      {
+        "from": "4",
+        "to": "11",
+        "label": "predecía la frecuencia de las"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "evidencian la falta de"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "expresan la baja"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "orienta la"
+      },
+      {
+        "from": "15",
+        "to": "9",
+        "label": "condiciona la lectura del"
+      },
+      {
+        "from": "15",
+        "to": "14",
+        "label": "acota la"
       }
     ]
   }

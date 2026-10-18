@@ -1,0 +1,433 @@
+{
+  "id": "poesia_red_lectura_escritura_wattpad",
+  "metadata": {
+    "title": "Poesía en red: lectura y escritura en Wattpad",
+    "authors": "Enric Falguera-García y Moisés Selfa-Sastre",
+    "year": "2021",
+    "journal": "Ocnos 20(3)",
+    "doi": "10.18239/ocnos_2021.20.3.2431",
+    "gancho": "¿Qué escriben los jóvenes en la mayor plataforma de lectura del mundo cuando se atreven con la poesía? Los datos desafían los tópicos.",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#c73e1d",
+    "colorAlt": "#2a5a75",
+    "bg": "from-coral/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/wattpad-poesia/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Enric Falguera-García, investigador en literatura digital y didáctica",
+      "gancho": "¿Qué escriben los jóvenes en la mayor plataforma de lectura del mundo cuando se atreven con la poesía? Los datos desafían los tópicos.",
+      "contexto": "Wattpad cuenta con más de 80 millones de usuarios y un negocio masivo centrado en ficción juvenil y fanfiction. La poesía representa apenas el 0,0059% del catálogo en español, pero constituye una comunidad vibrante donde autores y lectores interactúan horizontalmente.",
+      "deepDives": [
+        {
+          "id": "wat-ap-1",
+          "triggerLabel": "Wattpad en cifras",
+          "type": "data",
+          "content": "Fundada en Toronto en 2007, Wattpad alberga 80 millones de usuarios mensuales. En español circulan 1.961.109 títulos, de los cuales la poesía premiada conforma un corpus selecto de 46 obras estudiadas."
+        },
+        {
+          "id": "wat-ap-2",
+          "triggerLabel": "La mutación del pacto ficcional",
+          "type": "theory",
+          "content": "En los entornos de escritura digital, el lector deja de ser un receptor pasivo para convertirse en prosumidor y crítico que interviene directamente en la génesis y recepción del texto."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Existe un prejuicio generalizado de que la escritura digital juvenil es informal, descuidada y carente de técnica literaria, asociándose la poesía en red con textos banales y desarticulados.",
+      "porQueImporta": "Comprobar qué leen y escriben los jóvenes en espacios no institucionalizados permite al sistema educativo tender puentes entre las prácticas letradas vernáculas y el canon escolar formal.",
+      "dataPoints": [
+        "El 39% de la poesía premiada en español de Wattpad fue analizada en el estudio.",
+        "Los comentarios de los lectores revelan un uso espontáneo de metalenguaje poético especializado (metáfora, métrica, surrealismo)."
+      ],
+      "glossary": [
+        {
+          "term": "Prácticas letradas vernáculas",
+          "definition": "Usos de lectura y escritura informales surgidos de la cultura cotidiana y digital."
+        },
+        {
+          "term": "Discurso metaliterario",
+          "definition": "Comentarios donde los lectores reflexionan analíticamente sobre técnica y estilo literario."
+        },
+        {
+          "term": "Marginalia digital",
+          "definition": "Glosas y comentarios intercalados directamente en los versos por la comunidad lectora."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "wat-conf-1",
+          "triggerLabel": "Diversidad lingüística y tolerancia",
+          "type": "example",
+          "content": "En poemarios como 'Sonets del tren' de Aaron de Balaguer se combinan versos en catalán y español, impulsando a lectores hispanohablantes a esforzarse por comprender una lengua que no dominan."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Análisis del corpus poético premiado en Wattpad",
+      "narrativa": "Los investigadores seleccionaron 46 poemarios galardonados en los premios Josep Carner y J.V. Foix y en la lista 'Ganadores de retos poéticos', categorizando la lengua, las características formales, los temas y el discurso metaliterario de los comentarios.",
+      "detalles": [
+        {
+          "label": "Corpus",
+          "value": "46 poemarios galardonados en español y catalán (premios Josep Carner y J.V. Foix y retos poéticos), equivalentes al 39% de la poesía en español publicada en Wattpad."
+        },
+        {
+          "label": "Comunidad analizada",
+          "value": "4.631 usuarios en la comunidad de poesía en español y 236 en la editorial Josep Carner."
+        },
+        {
+          "label": "Categorías",
+          "value": "Lengua/lenguaje, métrica/estrofa, temas (amor, existencialismo, gótico) y metaliteratura."
+        },
+        {
+          "label": "Enfoque",
+          "value": "Cualitativo-descriptivo con análisis textual y recepción dialógica comunitaria."
+        }
+      ],
+      "limitaciones": [
+        "El corpus se restringe a obras premiadas o destacadas por la plataforma, dejando fuera la poesía no filtrada.",
+        "Ausencia de datos sociodemográficos exactos debido al anonimato estructural de los perfiles de Wattpad."
+      ],
+      "reflexion": "¿Por qué jóvenes inmersos en redes sociales eligen formas estróficas clásicas como el soneto y el haikú en lugar de verso libre experimental?",
+      "deepDives": [
+        {
+          "id": "wat-viaje-1",
+          "triggerLabel": "Referentes canónicos declarados",
+          "type": "theory",
+          "content": "Los autores jóvenes declaran explícitamente la influencia de Gustavo Adolfo Bécquer, Federico García Lorca, Pablo Neruda y Mario Benedetti, demostrando una continuidad canónica insospechada."
+        }
+      ]
+    },
+    "revelacion": {
+      "deepDives": [
+        {
+          "id": "wat-rev-1",
+          "triggerLabel": "Anonimato y desahogo íntimo",
+          "type": "data",
+          "content": "Testimonios de autoras juveniles destacan que el anonimato de Wattpad les otorga un espacio seguro para expresar vulnerabilidades emocionales que ocultan a sus familias y entornos escolares."
+        }
+      ],
+      "titulo": "Resultados",
+      "narrativa": "",
+      "hallazgos": [
+        {
+          "label": "Hallazgo principal",
+          "value": "La poesía de Wattpad no es improvisada ni vanguardista visual, sino formalmente conservadora: predomina la rima consonante, el soneto, el barroquismo sintáctico con hipérbaton y una temática confesional catártica."
+        },
+        {
+          "label": "Evidencia",
+          "value": "Los comentarios de los lectores funcionan como un taller literario horizontal donde se discute sobre ritmo, tropos y ambientación estética (ej. 'vibra burtoniana' o resonancias de Verlaine), fomentando la competencia literaria."
+        },
+        {
+          "label": "Cita clave",
+          "value": "Lo que ha cambiado es el canal de transmisión, no las características intrínsecas de la literatura: la red se convierte en un espacio dialógico de identidad y aprendizaje poético."
+        }
+      ],
+      "dataPoints": [
+        "Integrar plataformas de escritura colaborativa en secundaria para desmitificar la poesía como género inaccesible.",
+        "Aprovechar la función de comentarios en línea para entrenar la crítica literaria formativa entre iguales.",
+        "Valorar el multilingüismo natural de las redes como herramienta de empatía cultural e intercomprensión lingüística."
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión y marco teórico",
+      "narrativa": "La discusión concluye que Wattpad traslada la poesía a un nuevo canal sin alterar sus rasgos intrínsecos: los jóvenes escriben una poesía formalmente conservadora y valoran la palabra tanto en la creación como en los comentarios. Los foros se configuran así como un espacio de crítica metaliteraria horizontal.",
+      "detalles": [
+        {
+          "label": "Convergencias",
+          "value": "Retoma la estética de la recepción de Iser, la tradición de las marginalia de H. J. Jackson (2001), el pacto ficcional permutado de Manresa (2014) y las New Literacies de Cassany (2012) y de Lankshear y Knobel (2011) para interpretar los comentarios como socialización literaria digital y debate interpretativo (Dias-Chiaruttini, 2015)."
+        },
+        {
+          "label": "Divergencias",
+          "value": "Contradice el prejuicio de que la escritura digital juvenil es informal y descuidada: halla formalismo clásico, rima y barroquismo sintáctico. También se distancia de la poesía digital experimental, pues los poemarios de Wattpad renuncian al caligrama, la poesía visual y la hipertextualidad."
+        },
+        {
+          "label": "Aportes",
+          "value": "Caracteriza empíricamente 46 poemarios galardonados y muestra que los comentarios funcionan como un taller de crítica literaria horizontal que fortalece la competencia literaria; visibiliza además el multilingüismo (catalán, español, euskera) como herramienta de intercomprensión y tolerancia cultural."
+        },
+        {
+          "label": "Puntos ciegos",
+          "value": "El corpus se limita a obras premiadas (39% de la poesía en español), excluye la producción espontánea no filtrada y carece de datos sociodemográficos por el anonimato estructural de los perfiles; tampoco mide el volumen real de uso de la poesía en la red."
+        },
+        {
+          "label": "Hallazgo clave",
+          "value": "Lo que cambia es el canal de transmisión, no las características intrínsecas de la literatura: el anonimato actúa como refugio de autenticidad y la red como espacio dialógico de identidad y aprendizaje poético."
+        }
+      ],
+      "reflexion": "¿Por qué la juventud hiperconectada elige el soneto y la rima para expresar su intimidad en lugar de la experimentación visual que ofrece el medio digital?",
+      "deepDives": [
+        {
+          "id": "wat-marco-1",
+          "triggerLabel": "Marginalia y socialización literaria",
+          "type": "theory",
+          "content": "Los hilos de comentarios adosados a estrofas específicas reactivan la tradición de las marginalia estudiadas por H. J. Jackson (2001) y materializan el pacto ficcional permutado descrito por Manresa (2014) dentro de la socialización literaria digital."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Qué rasgos definen la poesía escrita por jóvenes en Wattpad y cómo influye el intercambio dialógico en su competencia literaria?",
+      "conclusion": "La poesía en Wattpad mantiene un sorprendente formalismo clásico y una alta exigencia retórica, mientras que los foros de comentarios operan como un espacio informal de crítica literaria que potencia el aprendizaje.",
+      "formalRef": "Falguera-García, E., & Selfa-Sastre, M. (2021). Poesía en red: lectura y escritura en Wattpad. Ocnos, 20(3). https://doi.org/10.18239/ocnos_2021.20.3.2431"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente de Versos en Red",
+        "descripcion": "Recoge formas métricas, tropos y figuras retóricas mientras respondes sobre Wattpad y la poesía juvenil.",
+        "instrucciones": "Guía la serpiente hacia sonetos y haikús. Responde las preguntas para avanzar de nivel. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Poesía Digital",
+        "descripcion": "Demuestra tus conocimientos sobre el corpus poético de Wattpad, modelos canónicos y recepción crítica.",
+        "instrucciones": "Acierta contrarreloj para mantener tu multiplicador de racha y liderar el marcador."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide del Dialogismo Digital",
+        "descripcion": "Asciende desde las prácticas vernáculas de escritura hasta la formación de comunidades metaliterarias.",
+        "instrucciones": "Activa cada piso respondiendo sobre géneros, formas métricas y comentarios en red."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Poesía en red: lectura y escritura en Wattpad (Falguera-García & Selfa-Sastre, 2021)",
+      "descripcion": "Análisis empírico de 46 poemarios premiados en Wattpad: formalismo clásico (soneto, rima), temáticas confesionales y góticas, multilingüismo y comunidades de debate metaliterario horizontal.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Literatura digital y prácticas letradas vernáculas",
+          "color": "#c73e1d",
+          "role": "Marco teórico",
+          "descripcion": "Transformación de los hábitos letrados juveniles en entornos virtuales donde los lectores interactúan como prosumidores activos que leen, crean y comentan textos fuera del marco escolar tradicional."
+        },
+        {
+          "id": "2",
+          "label": "Recepción lectora y marginalia digital",
+          "color": "#c73e1d",
+          "role": "Marco teórico",
+          "descripcion": "Marco de la estética de la recepción (Iser) y de la tradición de las marginalia (H. J. Jackson), donde los comentarios de los usuarios se convierten en un espacio colectivo de interpretación, crítica y socialización literaria (Cassany)."
+        },
+        {
+          "id": "3",
+          "label": "Wattpad como macroplataforma de lectura juvenil",
+          "color": "#c73e1d",
+          "role": "Marco teórico",
+          "descripcion": "Ecosistema global creado en 2007 con más de 80 millones de usuarios centrado comercialmente en narrativa juvenil y fanfiction, donde la poesía constituye un subgénero minoritario pero altamente especializado."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: caracterizar la poesía juvenil en red",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Analizar sistemáticamente las características lingüísticas, estróficas, temáticas y retóricas de la poesía escrita en español y catalán por usuarios de la plataforma Wattpad."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: examinar el discurso metaliterario",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Evaluar la calidad analítica y formativa de los comentarios de los lectores para comprobar si la interacción dialógica fortalece la competencia literaria de la comunidad virtual."
+        },
+        {
+          "id": "6",
+          "label": "Corpus de 46 poemarios premiados",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Selección cualitativa fundamentada de 46 títulos galardonados en los premios Josep Carner y J.V. Foix y en la lista 'Ganadores de retos poéticos', que representan el 39% de la poesía en español publicada en Wattpad."
+        },
+        {
+          "id": "7",
+          "label": "Comunidades lingüísticas de español y catalán",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Estudio de la comunidad poética hispanohablante (4.631 usuarios y 195.206 lecturas) y la comunidad catalanohablante de la editorial Josep Carner (236 usuarios y 46.879 lecturas)."
+        },
+        {
+          "id": "8",
+          "label": "Categorías analíticas formales y pragmáticas",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Diseño metodológico estructurado en cuatro dimensiones de análisis: diversidad lingüística, rasgos estróficos/métricos, ejes temáticos y metalenguaje crítico en los comentarios."
+        },
+        {
+          "id": "9",
+          "label": "Sorprendente formalismo clásico y métrico",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Prevalencia de estrofas tradicionales como el soneto y el haikú, búsqueda explícita de la rima consonante y sintaxis barroca con hipérbaton, en clara contradicción con el verso libre experimental."
+        },
+        {
+          "id": "10",
+          "label": "Ausencia de poesía visual o caligramas",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Los poemarios eluden completamente la experimentación hipertextual, la poesía visual y los caligramas, apostando por la sobriedad del texto verbal frente a la saturación icónica de las redes."
+        },
+        {
+          "id": "11",
+          "label": "Temáticas: catarsis confesional, amor y gótico",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Exploración introspectiva de la vulnerabilidad sentimental, existencialismo juvenil y atmósferas oscuras de estética gótica con influencias directas del cineasta Tim Burton y la fanfiction."
+        },
+        {
+          "id": "12",
+          "label": "Intercomprensión multilingüe en el poemario",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Presencia de poemarios híbridos en catalán y castellano donde los lectores monolingües se esfuerzan por descifrar los textos en otra lengua, funcionando como puente de convivencia y tolerancia cultural."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: comentarios como crítica literaria",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Los foros adosados a los poemas revelan un riguroso manejo de metalenguaje literario (métrica, imágenes, surrealismo), configurando una pedagogía informal horizontal entre pares."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: anonimato como refugio de autenticidad",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El anonimato que posibilita la plataforma actúa como resguardo protector donde los jóvenes autores se atreven a manifestar su yo más íntimo sin el juicio social de sus círculos familiares."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: muestra restringida a obras premiadas",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "El criterio de calidad centrado en textos galardonados excluye la vasta producción poética espontánea no premiada, y no permite generalizaciones demográficas definitivas."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: validación de la poesía en red",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que las redes sociales democratizan y dinamizan la creación poética sin degradar la exigencia formal, ofreciendo al profesorado un recurso didáctico de enorme potencial formativo."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "contextualiza la necesidad de"
+        },
+        {
+          "from": "2",
+          "to": "5",
+          "label": "fundamenta teóricamente el"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "delimita el ecosistema para"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se aborda analizando el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "examina los comentarios en el"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se extrae de las"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "se somete a las"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "revela un"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "constata la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "clasifica las"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "identifica fenómenos de"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "es debatido mediante"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "se explica por el"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "estimula la empatía en los"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "avala las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "respalda las"
+        },
+        {
+          "from": "9",
+          "to": "16",
+          "label": "confirma las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "restringe la generalización del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza el alcance de las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "concluye demostrando la"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál de los siguientes rasgos sorprendió a los investigadores al analizar la poesía juvenil en Wattpad?",
+          "options": [
+            "El uso omnipresente de caligramas y vídeos interactivos en lugar de palabras.",
+            "La preferencia por estrofas clásicas como el soneto y el haikú, con rima y sintaxis elaborada.",
+            "La ausencia absoluta de comentarios o interacción entre lectores y autores.",
+            "El empleo exclusivo del inglés como lengua de comunicación internacional."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿De qué forma podría un docente de Secundaria aprovechar la dinámica dialógica de los comentarios de Wattpad para transformar el taller de poesía del aula en un espacio de coevaluación constructiva?"
+        }
+      ]
+    }
+  }
+}

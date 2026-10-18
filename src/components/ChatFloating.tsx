@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect, KeyboardEvent } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { MessageCircle, X, Send, Bot, User, Loader2, BookOpen, Minimize2, Maximize2 } from 'lucide-react';
 import { useChatStore } from '../store/chatStore';
@@ -17,7 +17,7 @@ export default function ChatFloating() {
   const [showInvitation, setShowInvitation] = useState(true);
   const messagesRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLTextAreaElement>(null);
-  const invitationTimerRef = useRef<ReturnType<typeof setTimeout>>();
+  const invitationTimerRef = useRef<ReturnType<typeof setTimeout> | undefined>(undefined);
 
   // Auto-hide invitation after 8s
   useEffect(() => {
@@ -126,7 +126,7 @@ export default function ChatFloating() {
     }
   };
 
-  const handleKeyDown = (e: React.KeyboardEvent) => {
+  const handleKeyDown = (e: KeyboardEvent) => {
     if (e.key === 'Enter' && !e.shiftKey) {
       e.preventDefault();
       handleSend();

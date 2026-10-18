@@ -13,50 +13,78 @@ export default function MapaBlock({ narrative, navigateTo, navigateBackward }: M
 
   if (!mapa) return null;
 
+  // Recolectar glosarios de todos los bloques posibles para máxima cobertura
+  const allGlossary = [
+    ...(narrative?.blocks?.conflicto?.glossary || []),
+    ...(narrative?.blocks?.viaje?.glossary || []),
+    ...(narrative?.blocks?.marco?.glossary || []),
+    ...(narrative?.glossary || []),
+  ];
+
   return (
-    <motion.div key="mapa" role="region" aria-label="Mapa mental interactivo"
-      initial={{ opacity: 0, x: 30 }}
-      animate={{ opacity: 1, x: 0 }}
-      exit={{ opacity: 0, x: -30 }}
-      transition={{ duration: 0.4, ease: "easeOut" }}
-      className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 sm:py-10 md:py-14 flex flex-col justify-start min-h-full"
+    <motion.div
+      key="mapa"
+      role="region"
+      aria-label="Mapa conceptual interactivo"
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      transition={{ duration: 0.25 }}
+      className="w-full h-full flex-1 flex flex-col justify-between overflow-hidden p-1.5 sm:p-3"
     >
-      <div className="card-3d p-4 sm:p-8 md:p-10 border-t-4 border-[#c5a059]">
-        <div className="flex items-center gap-3.5 mb-6">
-          <div className="w-11 h-11 rounded-2xl bg-[#c5a059]/15 border border-[#c5a059]/30 text-ocean-dark flex items-center justify-center shadow-xs">
-            <MapIcon className="text-[#a4823e]" size={22} aria-hidden="true" />
+      <div className="w-full h-full flex-1 flex flex-col bg-white/95 dark:bg-slate-900/95 rounded-2xl sm:rounded-3xl p-2 sm:p-3 shadow-xl border border-slate-200/90 dark:border-slate-800 overflow-hidden min-h-0">
+        {/* Cabecera compacta de fase con botones de navegación integrados */}
+        <div className="flex items-center justify-between gap-3 px-2 py-1.5 mb-2 border-b border-slate-200/60 dark:border-slate-800 shrink-0">
+          <div className="flex items-center gap-2.5 min-w-0">
+            <div className="w-8 h-8 rounded-xl bg-ocnos-cyan/15 text-ocnos-cyan-dark dark:text-ocnos-cyan flex items-center justify-center font-bold shadow-2xs shrink-0">
+              <MapIcon size={16} aria-hidden="true" />
+            </div>
+            <div className="truncate">
+              <h2 className="text-sm sm:text-base font-serif font-bold text-[#183446] dark:text-white truncate">
+                Red Epistémica & Mapa Conceptual
+              </h2>
+              {narrative?.metadata?.authors && (
+                <p className="text-[11px] text-slate-500 font-sans truncate">
+                  {narrative.metadata.authors}
+                </p>
+              )}
+            </div>
           </div>
-          <div>
-            <h2 className="text-2xl sm:text-3xl font-serif font-bold text-ocean-dark tracking-tight">Mapa Conceptual Interactivo</h2>
-            <p className="text-xs sm:text-sm text-ocean-dark/75 font-serif italic">Red epistémica y conexiones teórico-metodológicas del artículo</p>
+
+          <div className="flex items-center gap-2 shrink-0">
+            <button 
+              onClick={navigateBackward} 
+              className="h-8 px-3 rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 transition-colors flex items-center justify-center gap-1.5 text-xs font-bold uppercase tracking-wider cursor-pointer"
+              title="Volver al bloque anterior"
+            >
+              <ChevronLeft size={14} aria-hidden="true" />
+              <span className="hidden sm:inline">Anterior</span>
+            </button>
+            
+            <button 
+              onClick={() => navigateTo('reflexion')} 
+              className="h-8 px-4 rounded-full bg-gradient-to-r from-ocnos-coral to-ocnos-orange hover:opacity-95 text-white shadow-xs hover:scale-105 active:scale-95 transition-all flex items-center justify-center gap-1.5 text-xs font-bold uppercase tracking-wider cursor-pointer"
+              title="Continuar a la fase de reflexión"
+            >
+              <span>Reflexión</span>
+              <ArrowRight size={14} aria-hidden="true" />
+            </button>
           </div>
         </div>
 
-        <MindMapViewer 
-          titulo={mapa.titulo} 
-          descripcion={mapa.descripcion} 
-          nodos={mapa.nodos} 
-          aristas={mapa.aristas}
-          contextData={{
-            glossary: narrative?.blocks?.conflicto?.glossary,
-            authors: narrative?.metadata?.authors
-          }}
-        />
-
-        <div className="flex flex-col sm:flex-row justify-between items-center gap-3 pt-6 border-t-2 border-ocean-dark/10 mt-6">
-          <button 
-            onClick={navigateBackward} 
-            className="btn-3d min-h-[44px] px-5 py-2.5 bg-ocean-dark/10 text-ocean-dark hover:bg-ocean-dark/20 transition-colors flex items-center justify-center gap-2 text-sm font-bold w-full sm:w-auto focus-visible:ring-4 focus-visible:ring-ocean-base focus-visible:outline-none cursor-pointer"
-          >
-            <ChevronLeft size={16} aria-hidden="true" /> ANTERIOR
-          </button>
-          <button 
-            onClick={() => navigateTo('reflexion')} 
-            className="btn-3d min-h-[44px] px-8 py-3 bg-ocean-dark text-white hover:bg-coral transition-colors flex items-center justify-center gap-2 font-bold w-full sm:w-auto focus-visible:ring-4 focus-visible:ring-ocean-base focus-visible:outline-none cursor-pointer"
-          >
-            <span>CONTINUAR A REFLEXIÓN</span>
-            <ArrowRight size={18} aria-hidden="true" />
-          </button>
+        {/* Visor interactivo a pantalla completa ocupando todo el alto y ancho */}
+        <div className="flex-1 w-full h-full min-h-0 overflow-hidden flex flex-col">
+          <MindMapViewer 
+            titulo={mapa.titulo} 
+            descripcion={mapa.descripcion} 
+            nodos={mapa.nodos} 
+            aristas={mapa.aristas}
+            contextData={{
+              glossary: allGlossary,
+              authors: narrative?.metadata?.authors,
+              metadata: narrative?.metadata
+            }}
+          />
         </div>
       </div>
     </motion.div>

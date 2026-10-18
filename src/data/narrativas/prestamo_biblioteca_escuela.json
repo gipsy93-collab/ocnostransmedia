@@ -1,0 +1,497 @@
+{
+  "id": "prestamo_biblioteca_escuela",
+  "metadata": {
+    "title": "Colaboración biblioteca-escuela. Un estudio de caso de intereses temáticos docentes en solicitudes de préstamo",
+    "authors": "Villar Arellano-Yanguas, María-Victoria López-Pérez y Carola Sbriziolo",
+    "year": "2022",
+    "journal": "Ocnos 21(2)",
+    "doi": "10.18239/ocnos_2022.21.2.2956",
+    "gancho": "¿Qué piden realmente los maestros a las bibliotecas públicas durante 15 años y qué revela sobre las carencias del aula?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e07a5f",
+    "colorAlt": "#3d405b",
+    "bg": "from-orange-500/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/biblioteca-civican/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-arellano/200/200",
+      "name": "Dra. Villar Arellano-Yanguas",
+      "role": "Investigadora en Promoción Lectora y Bibliotecas, Universidad Pública de Navarra"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Villar Arellano-Yanguas, investigadora en cooperación bibliotecaria y lectura escolar",
+      "gancho": "¿Por qué las bibliotecas escolares siguen desabastecidas y cómo una red pública de préstamo de lotes puede salvar la animación lectora en 109 colegios?",
+      "contexto": "El acceso continuado a colecciones variadas de libros infantiles es un predictor decisivo del rendimiento lector temprano (Neuman, 1999; Lance y Kachel, 2018). Sin embargo, muchas bibliotecas escolares en España sufren precariedad presupuestaria y falta de personal especializado. Este estudio de caso longitudinal analiza 804 solicitudes de préstamo colectivo cursadas durante 15 años (2007-2021) por colegios navarros al programa Biblioteca-Escuela (SABE) de la biblioteca Civican, cartografiando por primera vez qué temas demandan los docentes, en qué etapas educativas se concentra el servicio y cómo la pandemia intensificó las demandas de bienestar emocional.",
+      "deepDives": [
+        {
+          "id": "bib-apertura-1",
+          "triggerLabel": "Directrices internacionales IFLA/UNESCO",
+          "type": "theory",
+          "content": "Las directrices IFLA/UNESCO postulan que la cooperación sistemática entre la biblioteca pública y la escolar optimiza recursos, evita duplicidades y garantiza que los escolares accedan a fondos actualizados independientemente del nivel socioeconómico de su centro."
+        },
+        {
+          "id": "bib-apertura-2",
+          "triggerLabel": "El programa SABE de Civican en Navarra",
+          "type": "data",
+          "content": "Creado en 2004 por la Fundación Caja Navarra e integrado en la Red de Bibliotecas Públicas de Navarra, el Servicio de Apoyo a la Biblioteca Escolar presta lotes de hasta 50 libros durante un mes prorrogable a centros educativos, habiendo atendido a una población estimada de 8.575 escolares de 109 colegios públicos, concertados y privados."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "A pesar de la expansión del préstamo colectivo de lotes a escuelas, existía un vacío empírico absoluto sobre los criterios de selección de los maestros: ¿piden libros para apoyar asignaturas o para lectura por placer? ¿predomina la literatura clásica o temas coyunturales? ¿por qué Secundaria casi no utiliza estos servicios?",
+      "porQueImporta": "Conocer los intereses temáticos reales del profesorado permite a las bibliotecas públicas y a los diseñadores de políticas educativas planificar adquisiciones pertinentes y ofrecer mediación especializada en lugar de lotes aleatorios.",
+      "dataPoints": [
+        "Corpus longitudinal de 804 solicitudes de préstamo analizadas a lo largo de 15 años (2007-2021).",
+        "Atención a 109 centros educativos navarros (80 de Infantil/Primaria; 60 urbanos y 49 rurales; 89 públicos y 20 privados/concertados).",
+        "Infantil y Primaria absorben el 94.4% de las solicitudes (56.4% Infantil, 38.0% Primaria); Secundaria solo representa el 5.6%.",
+        "La categoría LIBRO aglutina el 46.3% de los motivos, seguida por CURRÍCULO (37.3%), LECTOR (10.6%) y CONTEXTO (5.8%).",
+        "Dentro del currículo, Ciencias Naturales concentra el 60% de los pedidos (cuerpo humano, salud, animales y astronomía)."
+      ],
+      "glossary": [
+        {
+          "term": "Préstamo colectivo de lotes",
+          "definition": "Servicio bibliotecario que cede temporalmente a instituciones educativas colecciones de hasta 50 volúmenes organizados en torno a un centro de interés temático o curricular."
+        },
+        {
+          "term": "SABE",
+          "definition": "Servicio de Apoyo a la Biblioteca Escolar de Civican; combina asesoría profesional de selección y suministro físico de lotes temáticos."
+        },
+        {
+          "term": "Currículo oculto / transversal",
+          "definition": "Temáticas que no corresponden a materias tradicionales pero responden a proyectos formativos de centro (educación emocional, igualdad de género, coeducación)."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "bib-conflicto-1",
+          "triggerLabel": "La ausencia de Secundaria en el préstamo colectivo",
+          "type": "data",
+          "content": "El raquítico 5.6% de solicitudes en Secundaria refleja la fragmentación por asignaturas de la ESO, donde los profesores de lengua priorizan lecturas obligatorias fijas y rara vez organizan rincones de lectura temática en sus aulas."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Estudio de caso longitudinal y taxonomía de codificación de motivos",
+      "narrativa": "Las investigadoras procesaron las solicitudes registradas en la base de datos Access del SABE correspondientes a los periodos 2007-2011 (n=330), 2012-2016 (n=266) y 2017-2021 (n=208), aislando además el curso pandémico 2020-2021 (n=52):",
+      "detalles": [
+        {
+          "label": "Taxonomía de Motivos (4 Categorías)",
+          "value": "Desarrollada ad hoc a partir de Colomer (2018) y Arellano-Yanguas (2019): LIBRO (obra, género, autor), LECTOR (edad, emociones), CURRÍCULO (asignatura, proyecto) y CONTEXTO (navidad, efemérides)."
+        },
+        {
+          "label": "14 Subcategorías Analíticas",
+          "value": "Las 14 subcategorías son: fecha de publicación, autor o título, género/subgénero y formato, personaje, editorial, ambientación y tema (categoría LIBRO); edad, necesidad especial y aspecto emocional (categoría LECTOR); asignatura y tema transversal (categoría CURRÍCULO); y efeméride/celebración y actividad didáctica específica (categoría CONTEXTO). La subcategoría más demandada es asignatura (23%) y autor o título alcanza el 7.6%."
+        },
+        {
+          "label": "Criterios de Depuración",
+          "value": "Se excluyeron materiales audiovisuales y peticiones exclusivas para el docente; se duplicaron registros en solicitudes con doble temática explícita."
+        }
+      ],
+      "limitaciones": [
+        "Estudio de caso circunscrito a una única provincia (Navarra) y a una biblioteca privada integrada en red pública, lo que demanda prudencia antes de generalizar.",
+        "El campo 'motivo' de los formularios era de escritura libre, lo que generó cierta ambigüedad que requirió triangulación con bibliotecarios expertos."
+      ],
+      "reflexion": "¿Por qué los maestros prefieren pedir lotes sobre 'el cuerpo humano' o 'los dinosaurios' en lugar de solicitar autores literarios específicos?",
+      "deepDives": [
+        {
+          "id": "bib-viaje-1",
+          "triggerLabel": "Procedimiento de triangulación interjueces",
+          "type": "method",
+          "content": "Para clasificar expresiones abiertas como 'libros para no tener miedo', el equipo investigador contrastó la asignación de categorías con el catálogo real del lote despachado por el personal bibliotecario de Civican."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Instrumentalización curricular, declive cuantitativo y giro pospandemia",
+      "narrativa": "El análisis desveló tendencias estructurales muy reveladoras sobre la relación entre el aula y los libros:",
+      "hallazgos": [
+        {
+          "label": "Primacía de la etapa infantil",
+          "value": "Educación Infantil, donde el libro álbum y el trabajo por proyectos temáticos vertebran el aula, concentra la mayor demanda del servicio. Ej.: 56.4% de la demanda total."
+        },
+        {
+          "label": "Instrumentalización por asignaturas",
+          "value": "El libro se utiliza como herramienta documental para apoyar el temario científico (cuerpo humano, salud, alimentación y animales), primando la función informativa sobre la estética. Ej.: Ciencias Naturales copa el 60% curricular."
+        },
+        {
+          "label": "Tendencia decreciente de solicitudes",
+          "value": "Refleja el impacto de recortes de dotación, la paulatina digitalización y la sobrecarga horaria del profesorado, contrarrestado por un núcleo de usuarios fieles. Ej.: Descenso de 330 a 208 peticiones por quinquenio."
+        },
+        {
+          "label": "Giro emocional pospandemia (2020-21)",
+          "value": "Tras el confinamiento escolar, los docentes recurrieron intensamente al lote bibliotecario para trabajar la gestión de emociones, el duelo y la resiliencia infantil. Ej.: Duplicación de motivos emocionales (9.6%)."
+        }
+      ],
+      "dataPoints": [
+        "Subcategoría más demandada en 15 años: 'Asignatura' con 187 solicitudes (23.3% del total).",
+        "Obras más solicitadas por título: Caperucita roja (11 lotes), Alicia en el país de las maravillas (4) y Los tres cerditos (4).",
+        "Géneros literarios destacados: el cómic encabezó las peticiones específicas de género con 22 solicitudes, seguido del álbum ilustrado (9).",
+        "Distribución por centros: 80 de los 109 centros usuarios (73.4%) son de Educación Infantil y Primaria; de ellos, 89 son públicos, 18 concertados y 2 privados, lo que evidencia la función compensatoria del servicio."
+      ],
+      "reflexion": "Si los colegios usan el préstamo bibliotecario para suplir el libro de ciencias naturales, ¿estamos subordinando la lectura literaria al currículo utilitario?",
+      "deepDives": [
+        {
+          "id": "bib-revelacion-1",
+          "triggerLabel": "Evolución de los clásicos y el cómic",
+          "type": "data",
+          "content": "Apenas un 7.6% de peticiones solicitó autores o títulos consagrados, concentrándose en versiones de cuentos populares tradicionales y un llamativo repunte del cómic como soporte motivador para lectores renuentes."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: De la suplencia de recursos a la alianza pedagógica estratégica",
+      "narrativa": "Las autoras analizan cómo el préstamo colectivo trasciende la mera logística de transporte de libros:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Acceso y rendimiento lector (Neuman, Lance & Kachel): Los datos ratifican que contar con lotes renovados en el aula democratiza el acceso al libro en colegios rurales y urbanos vulnerables."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Fomento lector por proyectos (Colomer): El auge de solicitudes en Infantil sintoniza con metodologías activas donde el libro es el centro de indagación del aula."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Literatura infantil y educación emocional (Rodríguez-Turriago et al., 2022): El repunte del interés emocional, ya visible antes de 2020 con una creciente producción editorial, confirma la atención del profesorado hacia lo afectivo."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Uso utilitario-didáctico vs. Lectura estética desinteresada: Existe la tensión de que los lotes se subordinen a enseñar 'las partes del cuerpo' o 'los hábitos saludables', postergando la lectura por mero goce estético."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Biblioteca escolar autónoma vs. Red pública como parche: El préstamo público no debe ser coartada para que las administraciones abandonen la financiación y dotación de personal de las bibliotecas escolares."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "No se midió el impacto en el hábito lector real de los 8.575 alumnos atendidos tras el paso de los lotes por las aulas."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Falta información sobre el grado de mediación que los docentes realizaron efectivamente con los libros prestados."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las bibliotecas públicas Diseñar guías de selección que complementen la demanda de ciencias naturales con recomendaciones literarias y estéticas de calidad."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para los claustros docentes Extender el préstamo colectivo a la Educación Secundaria para enriquecer las lecturas de la ESO y combatir el desapego adolescente."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la administración educativa Favorecer, mediante la firma de acuerdos explícitos, vías de colaboración entre bibliotecas públicas y centros escolares, y activar los recursos materiales y humanos de las bibliotecas escolares en todos los niveles educativos."
+        },
+        {
+          "label": "Tabla",
+          "value": "Categoría Taxonómica | Subcategorías Clave | Nº Solicitudes | Porcentaje (%) | Evolución Temporal\nLIBRO (La Obra) | Fecha de publicación, autor o título (7.6%), género/formato, personaje, editorial, ambientación, tema | 372 | 46.3% | Estable con giro hacia personajes\nCURRÍCULO (Docencia) | Asignatura (23%), Ciencias Naturales (60% de currículo), tema transversal | 300 | 37.3% | Pico en 2012-2016 y leve descenso\nLECTOR (Destinatario) | Edad, necesidad especial, aspecto emocional | 85 | 10.6% | Fuerte repunte pospandemia (9.6%)\nCONTEXTO (Entorno) | Efeméride, celebración, actividad didáctica específica | 47 | 5.8% | Descenso progresivo en 15 años\nTotal Analizado | 14 subcategorías analíticas consolidadas | 804 | 100.0% | 8.575 escolares beneficiados"
+        }
+      ],
+      "reflexion": "La biblioteca pública es el pulmón de la escuela cuando faltan recursos, pero ¿cómo lograr que ese préstamo inspire una verdadera comunidad lectora escolar?",
+      "deepDives": [
+        {
+          "id": "bib-marco-1",
+          "triggerLabel": "Hacia un equilibrio entre información y ficción",
+          "type": "theory",
+          "content": "Las autoras sugieren que los lotes bibliotecarios deben equilibrar la proporción de libros informativos (no ficción) y narrativas poéticas, evitando que la lectura en la escuela sea vista únicamente como una tarea curricular más."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Qué necesidades formativas y temáticas reflejan las solicitudes de préstamo docente a las bibliotecas públicas durante 15 años y qué implicaciones tiene para la cooperación bibliotecaria?",
+      "conclusion": "Educación Infantil es el motor del servicio (56.4%), demostrando la vitalidad de las metodologías por proyectos y el libro álbum. Predomina la instrumentalización curricular: el 46.3% se enfoca en el libro y el 37.3% en contenidos curriculares, liderados por Ciencias Naturales. Existe un declive cuantitativo general en las solicitudes a lo largo de los 15 años, compensado por la fidelidad de una red de centros colaboradores. La pandemia provocó un giro cualitativo hacia la literatura de educación emocional y personajes de acompañamiento socioafectivo. Promover planes de mediación activa para que los lotes bibliotecarios no sirvan únicamente de manuales auxiliares de ciencias. Dinamizar el préstamo colectivo en los institutos de Educación Secundaria mediante lotes de cómic, novela gráfica y narrativa juvenil contemporánea. Potenciar la figura de los bibliotecarios escolares como coordinadores indispensables entre la escuela y la biblioteca pública municipal. Mantener fondos especializados en resiliencia y educación emocional tras el impacto psicosocial de las crisis sanitarias y sociales. Prestar 50 libros a una escuela es sembrar 50 puertas a la curiosidad: el desafío es que el aula no los reduzca a deberes escolares.",
+      "formalRef": "M.-V. Villar Arellano-Yanguas, M.-V. López-Pérez y C. Sbriziolo. (2022). Colaboración biblioteca-escuela. Intereses temáticos docentes en solicitudes de préstamo. Ocnos 21(2). https://doi.org/10.18239/ocnos_2022.21.2.2956"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué etapa educativa concentró con diferencia la mayor cantidad de solicitudes de préstamo colectivo de lotes (56.4%) en los 15 años analizados?",
+          "options": [
+            "Educación Secundaria Obligatoria (ESO)",
+            "Educación Infantil",
+            "Bachillerato y Formación Profesional",
+            "Tercer ciclo de Educación Primaria"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "Dentro de las solicitudes vinculadas a materias curriculares, ¿qué área temática acaparó el 60% de los pedidos de lotes bibliotecarios?",
+          "options": [
+            "Matemáticas y geometría",
+            "Ciencias Naturales (cuerpo humano, salud, animales)",
+            "Lengua Castellana y Literatura clásica",
+            "Educación Física y deportes"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Si tuvieras que diseñar un lote de 30 libros para un aula de 1º de ESO con alto desapego lector, ¿qué combinación de formatos (cómic, no ficción, novela gráfica) propondrías para conectar con sus intereses sin caer en el academicismo?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "¿Por qué las bibliotecas escolares siguen desabastecidas y cómo una red pública de préstamo de lotes sostiene la animación lectora en 109 colegios navarros?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Quince años de solicitudes docentes revelan un patrón: la escuela pide libros, sobre todo, para apoyar el currículo de ciencias.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "804 formularios de préstamo de lotes analizados en tres quinquenios (2007-2021) y el curso pospandemia 2020-21.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "Educación Infantil concentra el 56.4% de la demanda, pero el servicio decrece y Ciencias Naturales copa el 60% del interés curricular.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "La biblioteca pública es el pulmón de la escuela cuando faltan recursos, pero no debe sustituir a la biblioteca escolar.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Prestar 50 libros a una escuela es sembrar 50 puertas a la curiosidad: el reto es que el aula no los reduzca a deberes.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo 15 años de préstamo bibliotecario retratan los intereses temáticos del profesorado.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido sobre la colaboración biblioteca-escuela y los intereses lectores de los docentes.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Colaboración biblioteca-escuela en Navarra (Ocnos 21(2), 2022)",
+    "descripcion": "Recorrido desde la precariedad de las bibliotecas escolares y la alianza IFLA/UNESCO, pasando por el programa SABE de Civican y el análisis de 804 solicitudes en 15 años, hasta los resultados (predominio de Infantil, instrumentalización curricular y giro emocional pospandemia), la discusión y las limitaciones del estudio de caso.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Precariedad de bibliotecas escolares",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Carencias estructurales de presupuesto, espacio y personal especializado en los centros educativos españoles, que lastran el acceso igualitario al libro infantil e impiden sostener colecciones vivas y actualizadas de literatura de calidad en el aula."
+      },
+      {
+        "id": "2",
+        "label": "Alianza estratégica IFLA/UNESCO",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Marco internacional de cooperación entre la biblioteca pública y los centros escolares para optimizar recursos, evitar duplicidades presupuestarias y garantizar la igualdad de oportunidades en el acceso a fondos bibliográficos y de mediación lectora."
+      },
+      {
+        "id": "3",
+        "label": "El programa SABE de Civican (Navarra)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Servicio de Apoyo a la Biblioteca Escolar iniciado en 2004 en Pamplona por Fundación Caja Navarra e integrado en la Red Pública, ofreciendo asesoramiento temático y préstamo colectivo de hasta 50 volúmenes mensuales a 109 colegios urbanos y rurales."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Mapear 15 años de demandas docentes",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Mapear de forma sistemática y longitudinal la evolución de las solicitudes de préstamo docente a lo largo de 15 años (2007-2021), analizando etapas educativas, motivaciones temáticas, recurrencia y el impacto coyuntural de la pandemia de COVID-19."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Tipificar criterios de selección",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Identificar qué categorías del libro infantil (asignaturas, temas transversales, personajes, géneros o autores consagrados) motivan prioritariamente las peticiones del profesorado para orientar las compras y servicios bibliotecarios."
+      },
+      {
+        "id": "6",
+        "label": "Corpus longitudinal de 804 solicitudes",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Base de datos con 804 formularios de solicitud registrados en tres quinquenios (2007-11, 2012-16, 2017-21) más el curso pospandemia 2020-21 en 109 colegios navarros (80 de Infantil/Primaria; 60 urbanos, 49 rurales; 89 públicos y 20 concertados/privados)."
+      },
+      {
+        "id": "7",
+        "label": "Taxonomía de codificación de motivos",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Taxonomía de 4 categorías (LIBRO, CURRÍCULO, LECTOR, CONTEXTO) y 14 subcategorías analíticas desarrollada ad hoc a partir de Colomer et al. (2018) y Arellano-Yanguas (2019), validada y consensuada con el personal bibliotecario experto."
+      },
+      {
+        "id": "8",
+        "label": "Análisis estadístico descriptivo longitudinal",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Análisis estadístico descriptivo (frecuencias, porcentajes y distribuciones temporales) elaborado con las herramientas de Excel, sobre un servicio que ha atendido a una población estimada de 8.575 estudiantes de Infantil, Primaria y Secundaria de Navarra."
+      },
+      {
+        "id": "9",
+        "label": "Dominancia masiva de Educación Infantil (56.4%)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Infantil concentra el 56.4% de la demanda total (529 solicitudes), seguida por Primaria (38.0%), mientras que Secundaria queda relegada a un residual 5.6%, confirmando que el libro vertebra el aula de los más pequeños pero desaparece en la ESO."
+      },
+      {
+        "id": "10",
+        "label": "Instrumentalización en Ciencias Naturales (60%)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "La subcategoría Asignatura es la más demandada del corpus (23.3%), concentrándose el 60% del interés curricular en Ciencias Naturales (cuerpo humano, salud, alimentación, astronomía y animales), evidenciando un uso instrumental documental."
+      },
+      {
+        "id": "11",
+        "label": "Giro emocional y literatura pospandemia",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "En el curso 2020-21 las peticiones de educación emocional aumentan al 9.6% y los lotes centrados en personajes literarios crecen significativamente hasta el 19.2%, mostrando la búsqueda de apoyo socioafectivo tras el confinamiento sanitario."
+      },
+      {
+        "id": "12",
+        "label": "Tendencia decreciente de peticiones globales",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Descenso paulatino en el volumen de peticiones quinquenales (de 330 a 208 en el último bloque), reflejando la sobrecarga burocrática del profesorado y el impacto de los recortes de dotación, compensado por una sólida red de usuarios fieles."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Tensión entre información y literatura",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Alerta sobre el riesgo de reducir la colección bibliotecaria a mero soporte documental para ciencias, descuidando la lectura estética y literaria gratuita que forja la sensibilidad poética y la imaginación del alumnado infantil."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Ruptura del puente con Secundaria",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Urgencia de diseñar programas de cooperación bibliotecaria específicos para Educación Secundaria, aprovechando el cómic, la novela gráfica y la ficción transmedia para reconectar a los adolescentes con el préstamo colectivo."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Contexto regional específico",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Investigación delimitada a un estudio de caso en la Comunidad Foral de Navarra sin registrar el uso efectivo en el aula ni el impacto directo en la fluidez y comprensión lectora de los escolares beneficiados por los lotes."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Cooperación bibliotecaria esencial",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "El préstamo colectivo se consolida como un dispositivo insustituible de equidad educativa y democratización cultural, convirtiendo a la biblioteca pública en el pulmón indispensable de las escuelas ante las carencias presupuestarias."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "exige la aplicación de la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "encuentra respuesta en"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "fundamenta el planteamiento del"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "aporta el registro histórico para el"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se materializa en el"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se operativiza mediante la"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "se procesa a través del"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "estructura los datos del"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "pone de manifiesto la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "revela la elevada"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "constata el"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "muestra la"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "alimenta el debate sobre la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "sustenta la discusión de la"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "evidencia el problema de la"
+      },
+      {
+        "from": "11",
+        "to": "16",
+        "label": "destaca el valor social de la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "orienta el rediseño de la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "plantea retos de futuro para la"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "presenta la limitación de un"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "delimita el alcance real de la"
+      },
+      {
+        "from": "3",
+        "to": "16",
+        "label": "culmina con el éxito de la"
+      }
+    ]
+  }
+}

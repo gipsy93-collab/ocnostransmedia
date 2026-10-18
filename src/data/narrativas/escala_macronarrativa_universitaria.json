@@ -2,7 +2,7 @@
   "id": "escala_macronarrativa_universitaria",
   "metadata": {
     "title": "Diseño y validación de una escala de autopercepción de la competencia macronarrativa en estudiantes universitarios",
-    "authors": "Rosa Núñez-Pacheco, Aymé Barreda-Parra y Rocío Celis-Pinto",
+    "authors": "Rosa Núñez-Pacheco, Aymé Barreda-Parra, Margarita García-Candeira e Ignacio Aguaded",
     "year": "2024",
     "journal": "Ocnos 23(2)",
     "doi": "10.18239/ocnos_2024.23.2.418",
@@ -23,109 +23,109 @@
     "apertura": {
       "personaje": "Dra. Rosa Núñez-Pacheco, especialista en análisis del discurso y arquitectura macronarrativa",
       "gancho": "¿Es la habilidad de contar relatos coherentes un don innato o una competencia académica medible?",
-      "contexto": "La competencia macronarrativa es la capacidad de organizar un relato complejo: planteamiento, nudo, clímax, resolución y coherencia causal. En este estudio psicométrico con 542 universitarios en Arequipa (Perú), las autoras diseñaron y validaron la primera escala de autopercepción macronarrativa en Educación Superior.",
+      "contexto": "La competencia macronarrativa es el conjunto de conocimientos, habilidades y actitudes para comprender y producir textos narrativos, narrativas digitales y narrativas transmedia. En este estudio psicométrico con 883 universitarios de una universidad pública peruana, los autores diseñaron y validaron una escala pionera de autopercepción macronarrativa en Educación Superior.",
       "deepDives": [
         {
           "id": "mac-apertura-1",
-          "triggerLabel": "Macronarrativa vs. micronarrativa",
+          "triggerLabel": "Las tres dimensiones del constructo",
           "type": "theory",
-          "content": "La micronarrativa opera a nivel oracional; la macronarrativa gobierna la arquitectura global de la trama y el arco dramático."
+          "content": "Narrativa textual (géneros y estructuras del relato), narrativa digital (término de Joe Lambert a finales de los ochenta, soporte multimedia) y narrativa transmedia (Jenkins, 2003: expansión de la historia en distintas plataformas)."
         },
         {
           "id": "mac-apertura-2",
-          "triggerLabel": "Muestra de 542 estudiantes",
+          "triggerLabel": "Muestra de 883 estudiantes",
           "type": "data",
-          "content": "542 alumnos de pregrado evaluados mediante análisis factorial exploratorio y confirmatorio."
+          "content": "883 alumnos de una universidad pública peruana evaluados mediante un estudio instrumental transversal con análisis factorial exploratorio."
         }
       ]
     },
     "conflicto": {
-      "problema": "La universidad carecía de instrumentos válidos para diagnosticar la habilidad de construir tramas con sentido estructurado en la formación superior.",
+      "problema": "La medición de la competencia narrativa se había centrado en los niveles infantil y secundario: la Educación Superior era un campo por explorar, y más aún si se pretendía integrar los niveles textual, digital y transmedia.",
       "porQueImporta": "Un profesional que no sabe narrar sus proyectos o investigaciones fracasa en la comunicación y transferencia a la sociedad.",
       "dataPoints": [
-        "Muestra de 542 estudiantes universitarios de diversas carreras.",
-        "Estructura trifactorial confirmada: Estructura del relato, Caracterización de personajes y Gestión del conflicto dramático.",
-        "Alta fiabilidad interna (alfa de Cronbach = .91).",
-        "Los estudiantes de Educación y Comunicación mostraron mayor autopercepción que los de Ingenierías."
+        "Muestra de 883 estudiantes universitarios de una universidad pública peruana.",
+        "Estructura trifactorial: Narrativa textual, Narrativa digital y Narrativa transmedia, con 9 ítems en cada dimensión.",
+        "Alta fiabilidad interna (alfa de Cronbach = .946 en la escala total).",
+        "Los estudiantes de ciencias sociales mostraron mayor autopercepción que los de ingenierías (efecto mediano, d = .40 en la escala total)."
       ],
       "glossary": [
         {
           "term": "Competencia macronarrativa",
-          "definition": "Capacidad cognitiva y discursiva de planificar, secuenciar y resolver una trama compleja con coherencia global."
+          "definition": "Conjunto de conocimientos, habilidades y actitudes para comprender y producir textos narrativos, narrativas digitales y narrativas transmedia."
         }
       ]
     },
     "viaje": {
       "titulo": "Ruta metodológica: Desarrollo psicométrico y análisis factorial",
-      "narrativa": "Las autoras diseñaron 24 reactivos originales, realizaron juicio de expertos y aplicaron AFE y AFC con ecuaciones estructurales.",
+      "narrativa": "Los autores partieron de 40 ítems, los validaron por juicio de ocho expertos con el coeficiente V de Aiken, probaron una versión piloto con 43 estudiantes de Educación y sometieron la escala de 27 ítems a un análisis factorial exploratorio en la muestra de campo.",
       "detalles": [
         {
           "label": "Población",
-          "value": "542 universitarios peruanos."
+          "value": "883 universitarios peruanos (70,2 % ciencias sociales, 29,8 % ingenierías)."
         },
         {
           "label": "Instrumento",
-          "value": "Escala de Autopercepción Macronarrativa (EAM-U)."
+          "value": "Escala de Competencia macronarrativa (CmN): 27 ítems, Likert de cinco puntos."
         }
       ],
       "limitaciones": [
-        "Instrumento basado en autopercepción que requiere contrastarse con producciones escritas reales."
+        "Escala de autopercepción aplicada con muestreo no probabilístico en una única universidad pública peruana."
       ],
       "reflexion": "Quien sabe contar una buena historia tiene el poder de transformar la mente de quien escucha."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: El nudo gordiano del clímax narrativo",
-      "narrativa": "Los resultados mostraron dónde tropiezan más los universitarios:",
+      "titulo": "Hallazgos empíricos: una escala válida de tres factores",
+      "narrativa": "El análisis psicométrico respaldó el constructo integrador propuesto:",
       "hallazgos": [
         {
-          "label": "1. Dificultad en el Conflicto",
-          "value": "La dimensión más baja fue la resolución lógica del conflicto dramático (terminar historias de forma verosímil)."
+          "label": "1. Tres factores equilibrados",
+          "value": "El análisis factorial retuvo 27 ítems en tres factores —textual (1-9), digital (10-18) y transmedia (19-27)— que explicaron el 61,82 % de la varianza."
         },
         {
-          "label": "2. Fortaleza en la Descripción",
-          "value": "Los estudiantes se perciben muy capaces de describir personajes y escenarios, pero se atascan al hilar la acción."
+          "label": "2. Diferencias por área y por sexo",
+          "value": "Ciencias sociales superó a ingenierías en todas las dimensiones, y las mujeres a los hombres, sin diferencias significativas por sexo en la narrativa transmedia."
         }
       ],
       "dataPoints": [
-        "Bondad de ajuste óptima (CFI = .96, RMSEA = .041)."
+        "Buena adecuación muestral: KMO = .94 y Test de Bartlett significativo (χ² = 16932,738; p < .001)."
       ],
-      "reflexion": "Describir es fácil; tejer una trama que atrape y transforme exige maestría cognitiva."
+      "reflexion": "Contar historias no es un don difuso: puede descomponerse, medirse y enseñarse."
     },
     "marco": {
-      "titulo": "Discusión: Talleres de Storytelling en todos los grados",
-      "narrativa": "Núñez-Pacheco y su equipo proponen talleres de narrativa aplicada para médicos, ingenieros y científicos:",
+      "titulo": "Discusión: Una herramienta para cualquier especialidad",
+      "narrativa": "Las autoras sostienen que la escala puede ser empleada por docentes de cualquier especialidad, principalmente de literatura, comunicación y educación:",
       "detalles": [
         {
-          "label": "Narrativa Transversal",
-          "value": "Enseñar a comunicar informes técnicos con la estructura del viaje del héroe."
+          "label": "Narrativa e inteligencia artificial",
+          "value": "El desarrollo de la competencia macronarrativa aporta beneficios cognitivos, comunicativos y motivacionales; en futuros trabajos se aplicarán programas de intervención y se indagará el rol de la inteligencia artificial."
         }
       ],
       "reflexion": "La ciencia sin relato se queda encerrada en el laboratorio; con relato, conmueve e ilumina a la sociedad."
     },
     "nucleo": {
       "pregunta": "¿Qué validez y confiabilidad presenta la escala de competencia macronarrativa en estudiantes universitarios?",
-      "conclusion": "La Escala EAM-U demostró excelentes propiedades psicométricas (alfa = .91, CFI = .96) en 542 universitarios, validando una estructura de tres factores: estructura global, personajes y conflicto. Se consolida como una herramienta diagnóstica pionera para promover la alfabetización narrativa interdisciplinar en la Educación Superior.",
-      "formalRef": "Núñez-Pacheco, R., Barreda-Parra, A., & Celis-Pinto, R. (2024). Diseño y validación de una escala de autopercepción de la competencia macronarrativa en estudiantes universitarios. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.418"
+      "conclusion": "La Escala de Competencia macronarrativa (CmN) demostró propiedades psicométricas óptimas (alfa de Cronbach = .946; KMO = .94) en 883 universitarios, validando una estructura de tres factores: narrativa textual, narrativa digital y narrativa transmedia. Se consolida como una herramienta pionera para promover la alfabetización narrativa interdisciplinar en la Educación Superior.",
+      "formalRef": "Núñez-Pacheco, R., Barreda-Parra, A., García-Candeira, M., & Aguaded, I. (2024). Diseño y validación de una escala de autopercepción de la competencia macronarrativa en estudiantes universitarios. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.418"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué dimensión de la competencia macronarrativa resultó ser la más difícil de resolver para los universitarios evaluados?",
+          "q": "¿En qué dimensión de la macronarrativa no se hallaron diferencias significativas por sexo?",
           "options": [
-            "Poner un título en la portada.",
-            "La gestión y resolución verosímil del conflicto dramático en la trama.",
-            "Elegir el nombre de los personajes.",
-            "Escribir oraciones cortas."
+            "En la narrativa textual.",
+            "En la narrativa transmedia.",
+            "En la narrativa digital.",
+            "En ninguna: las mujeres superaron a los hombres en todas."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué tres factores componen la escala psicométrica validada en el estudio?",
+          "q": "¿Qué tres dimensiones componen la escala psicométrica validada en el estudio?",
           "options": [
             "Precio, peso y tamaño de los libros.",
-            "Estructura del relato, caracterización de personajes y gestión del conflicto.",
+            "Narrativa textual, narrativa digital y narrativa transmedia.",
             "Música, color y tipografía.",
             "Ortografía, caligrafía y velocidad."
           ],
@@ -133,10 +133,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Por qué es crucial la competencia macronarrativa para estudiantes de carreras no literarias como Medicina o Ingeniería?",
+          "q": "¿Por qué es crucial la competencia macronarrativa para estudiantes de carreras no literarias como las ingenierías?",
           "options": [
             "Para escribir novelas en sus ratos libres.",
-            "Porque la comunicación técnica exige estructurar informes, historiales clínicos y proyectos con lógica causal y claridad persuasiva.",
+            "Porque la comunicación técnica exige estructurar informes y proyectos, y el desarrollo macronarrativo aporta beneficios cognitivos, comunicativos y motivacionales.",
             "Para hablar en verso durante las operaciones.",
             "No tiene ninguna utilidad práctica."
           ],
@@ -144,11 +144,11 @@
         },
         {
           "type": "open",
-          "q": "Diseña un ejercicio de storytelling de 10 minutos para estudiantes de Ciencias o Ingeniería donde deban explicar un concepto técnico complejo utilizando los 3 momentos clásicos de la macronarrativa."
+          "q": "Diseña un ejercicio de storytelling de 10 minutos para estudiantes de Ciencias o Ingeniería donde deban explicar un concepto técnico complejo transitando por las tres dimensiones de la macronarrativa: textual, digital y transmedia."
         },
         {
           "type": "open",
-          "q": "¿Por qué crees que a muchos alumnos les resulta fácil describir escenarios pero se bloquean a la hora de resolver el clímax de una historia?"
+          "q": "¿A qué atribuyes que los estudiantes de ciencias sociales se perciban con mayor competencia macronarrativa que los de ingenierías, y por qué en narrativa transmedia las mujeres no superaron a los hombres?"
         }
       ]
     }
@@ -159,19 +159,19 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "Encadenar frases no es narrar: una historia exige conflicto, tensión y clímax. ¿Sabemos enseñarlo en la universidad?",
+      "text": "Medir la narrativa en la universidad era un campo por explorar: faltaba un instrumento que integrara texto, digital y transmedia.",
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "542 estudiantes universitarios en Perú responden a la primera escala psicométrica de autopercepción macronarrativa.",
+      "text": "883 estudiantes universitarios en Perú responden a la escala CmN: 27 ítems sobre narrativa textual, digital y transmedia.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El conflicto es el cuello de botella! Todos saben describir personajes, pero muy pocos saben cerrar una trama con maestría.",
+      "text": "¡Sorpresa! La escala confirmó tres factores sólidos con fiabilidad óptima: textual, digital y transmedia explican el 61,82 % de la varianza.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "El storytelling debe enseñarse en todas las facultades: médicos, científicos e ingenieros necesitan narrar para conectar.",
+      "text": "La escala puede emplearse en cualquier especialidad, sobre todo literatura, comunicación y educación: narrar también se mide y se enseña.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -179,7 +179,7 @@
       "position": "bottom-right"
     },
     "mapa": {
-      "text": "Explora el mapa para ver cómo interactúan la macronarrativa, la estructura dramática, el conflicto y la escala EAM-U.",
+      "text": "Explora el mapa para ver cómo interactúan la macronarrativa, sus tres dimensiones —textual, digital y transmedia— y la validación psicométrica de la escala CmN.",
       "position": "bottom-right"
     },
     "reflexion": {
@@ -188,111 +188,46 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Escala de Competencia Macronarrativa en Estudiantes Universitarios",
-    "descripcion": "Validación psicométrica (EAM-U, 542 universitarios): estructura del relato, caracterización de personajes, conflicto dramático y storytelling interdisciplinar.",
+    "titulo": "Mapa conceptual: Escala de autopercepción de la competencia macronarrativa (Ocnos 23(2), 2024)",
+    "descripcion": "Del constructo integrador de narrativa textual, digital y transmedia al diseño psicométrico de la escala CmN: validación por jueces, piloto y análisis factorial exploratorio con 883 universitarios peruanos, confirmando validez, confiabilidad y diferencias por área y sexo.",
     "nodos": [
-      {
-        "id": "1",
-        "label": "Competencia Macronarrativa (EAM-U)",
-        "color": "#2a5a75"
-      },
-      {
-        "id": "2",
-        "label": "Estructura Global del Relato",
-        "color": "#5b9eaa"
-      },
-      {
-        "id": "3",
-        "label": "Caracterización de Personajes",
-        "color": "#88b04b"
-      },
-      {
-        "id": "4",
-        "label": "Gestión del Conflicto Dramático",
-        "color": "#c73e1d"
-      },
-      {
-        "id": "5",
-        "label": "Muestra 542 Universitarios",
-        "color": "#264653"
-      },
-      {
-        "id": "6",
-        "label": "Fiabilidad Alfa (.91)",
-        "color": "#9b82c3"
-      },
-      {
-        "id": "7",
-        "label": "Dificultad en el Clímax Lógico",
-        "color": "#e76f51"
-      },
-      {
-        "id": "8",
-        "label": "Storytelling Interdisciplinar",
-        "color": "#2a9d8f"
-      },
-      {
-        "id": "9",
-        "label": "Diferencias por Área Curricular",
-        "color": "#f4d068"
-      },
-      {
-        "id": "10",
-        "label": "Transferencia y Comunicación Social",
-        "color": "#f4a261"
-      }
+      {"id": "1", "label": "Homo fabulator y enfoques de la narrativa", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Narrar es una práctica milenaria: Scolari (2013) nos define como homo fabulators, y de la oralidad y la escritura se pasó al cine, el hipertexto y los videojuegos. Los estudios literarios, del formalismo ruso a la narratología, analizaron sistemáticamente las estructuras del relato (Fludernik, 2019; Orellana-García et al., 2022)."},
+      {"id": "2", "label": "Narrativa digital y transmedia", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "Lambert acuñó digital storytelling a fines de los ochenta como cortometraje narrado de carácter multimedia (Wu y Chen, 2020). Jenkins (2003) y Scolari (2013) definen la narrativa transmedia como expansión de historias en distintas plataformas y sistemas de significación con participación crucial de los usuarios; Freeman (2017) destaca character-building, world-building y autoría."},
+      {"id": "3", "label": "Constructo de competencia macronarrativa", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "Se propone como conjunto de conocimientos, habilidades y actitudes para comprender y producir textos narrativos, narrativas digitales y transmedia, con tres dimensiones: textual, digital y transmedia. Supera el nivel solo textual de definiciones previas como la de Marinkovich (2001)."},
+      {"id": "4", "label": "Antecedentes de medición narrativa", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "La medición de la competencia narrativa se centró en el nivel infantil (Iandolo, 2011) y secundario (Fernández et al., 2019), quedando la Educación Superior por explorar. Se dialoga con la Batería de Competencia Literaria (Mínguez-López y Alfonso-Benlliure, 2019), la competencia mediática (Ferrés y Piscitelli, 2012), la aumentada (Kačinová y Sádaba-Chalezquer, 2022) y las 134 competencias del proyecto Transmedia Literacy (Scolari, 2018)."},
+      {"id": "5", "label": "Objetivo: validar escala de autopercepción", "color": "#f4a261", "role": "Objetivo", "descripcion": "Elaborar y validar una escala que mida la autopercepción del nivel de competencia macronarrativa universitaria en las tres dimensiones. Pregunta central: ¿cuál es el nivel de autopercepción que tienen los estudiantes universitarios sobre su competencia macronarrativa?"},
+      {"id": "6", "label": "Estudio instrumental de seis etapas", "color": "#264653", "role": "Método", "descripcion": "Diseño transversal de tipo instrumental (Ato et al., 2013) siguiendo las seis etapas de Meza y González (2020): propuesta del constructo, construcción del instrumento piloto, validación de contenido, aplicación a la muestra, estimación de propiedades psicométricas y versión final de la escala."},
+      {"id": "7", "label": "Muestra de 883 universitarios", "color": "#5b9eaa", "role": "Método", "descripcion": "Muestreo no probabilístico en una universidad pública peruana: 486 hombres (55%) y 397 mujeres (45%), edades 16-52 (media 19,88), 70,2% de ciencias sociales y 29,8% de ingenierías, con mayoría de primer año (69,2%). Datos anónimos y voluntarios vía Google Forms entre mayo y octubre de 2022."},
+      {"id": "8", "label": "Validación por jueces y piloto", "color": "#9b82c3", "role": "Método", "descripcion": "Ocho jueces doctores en comunicación, literatura comparada, teoría literaria y educación valoraron de 1 a 4 claridad, coherencia, pertinencia y relevancia de los ítems. La prueba piloto con 43 estudiantes de Educación confirmó la comprensión de los enunciados y arrojó alfa de Cronbach .930 en la escala de 27 ítems."},
+      {"id": "9", "label": "Análisis factorial exploratorio", "color": "#2a5a75", "role": "Método", "descripcion": "AFE por máxima verosimilitud con rotación varimax en SPSS 25, conservando cargas factoriales superiores a .40 (Bibiano et al., 2016). La significación del Test de Bartlett (χ²=16932,738; p<.001) y el KMO=.943 justificaron el análisis factorial."},
+      {"id": "10", "label": "Alto acuerdo en V de Aiken", "color": "#88b04b", "role": "Resultados", "descripcion": "Los coeficientes V de Aiken alcanzaron .91 en narrativa textual, .88 en digital y .90 en transmedia, sin acuerdo total entre jueces. Con los 40 ítems iniciales se fusionaron, eliminaron y reformularon enunciados hasta dejar la escala en 27, repartidos equitativamente."},
+      {"id": "11", "label": "Tres factores y 27 ítems", "color": "#f4d068", "role": "Resultados", "descripcion": "El análisis factorial identificó una estructura de tres factores con nueve ítems cada uno: narrativa textual (1-9), narrativa digital (10-18) y narrativa transmedia (19-27). El conjunto de factores retenidos explicó el 61,82% de la varianza."},
+      {"id": "12", "label": "Confiabilidad óptima del instrumento", "color": "#2a9d8f", "role": "Resultados", "descripcion": "Con formato Likert de cinco puntos, la versión final obtuvo alfa de Cronbach de .946 en la escala total, .869 en narrativa textual, .905 en digital y .917 en transmedia, coeficientes consistentes que indican una confiabilidad óptima."},
+      {"id": "13", "label": "Superioridad de ciencias sociales", "color": "#e76f51", "role": "Resultados", "descripcion": "Los estudiantes de ciencias sociales reportaron mayor competencia macronarrativa que los de ingenierías en la escala total y las tres dimensiones: efecto mediano en total (d=.40) y narrativa digital (d=.47), y pequeño en textual (d=.37) y transmedia (d=.20)."},
+      {"id": "14", "label": "Diferencia de género sin transmedia", "color": "#c73e1d", "role": "Resultados", "descripcion": "Las mujeres reportaron niveles superiores que los hombres en la escala total (d=.32) y en las narrativas textual (d=.47, efecto mediano) y digital (d=.36), pero no se hallaron diferencias significativas por sexo en la narrativa transmedia (p=.308)."},
+      {"id": "15", "label": "Instrumento pionero e integrador", "color": "#f4a261", "role": "Conclusiones", "descripcion": "La escala es válida y fiable, y resulta pionera por integrar los tres niveles narrativos y por aplicarse en el nivel universitario. Puede emplearse en cualquier especialidad, principalmente literatura, comunicación y educación, con beneficios cognitivos, comunicativos y motivacionales (Di-Blas, 2022)."},
+      {"id": "16", "label": "Replantear la enseñanza narrativa", "color": "#88b04b", "role": "Discusión", "descripcion": "Los hallazgos exigen repensar la enseñanza de la competencia narrativa y literaria sin prescindir de la tecnología, pues la transmedia está poco empleada en asignaturas literarias (Palioura y Dimoulas, 2022). Se anuncian intervenciones futuras y el estudio del rol de la inteligencia artificial."}
     ],
     "aristas": [
-      {
-        "from": "1",
-        "to": "5",
-        "label": "se valida con la muestra de"
-      },
-      {
-        "from": "1",
-        "to": "2",
-        "label": "evalúa como pilar la"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "mide la destreza en la"
-      },
-      {
-        "from": "1",
-        "to": "4",
-        "label": "analiza el dominio del"
-      },
-      {
-        "from": "4",
-        "to": "7",
-        "label": "registra la mayor"
-      },
-      {
-        "from": "1",
-        "to": "6",
-        "label": "demuestra una alta"
-      },
-      {
-        "from": "5",
-        "to": "9",
-        "label": "muestra significativas"
-      },
-      {
-        "from": "8",
-        "to": "1",
-        "label": "promueve en el campus la"
-      },
-      {
-        "from": "8",
-        "to": "10",
-        "label": "garantiza el impacto y la"
-      },
-      {
-        "from": "10",
-        "to": "2",
-        "label": "requiere una sólida"
-      }
+      {"from": "1", "to": "3", "label": "sustenta el"},
+      {"from": "2", "to": "3", "label": "aporta dimensiones a la"},
+      {"from": "4", "to": "5", "label": "fundamentan el"},
+      {"from": "3", "to": "5", "label": "es objeto del"},
+      {"from": "5", "to": "6", "label": "se ejecuta como un"},
+      {"from": "6", "to": "8", "label": "incluye la"},
+      {"from": "8", "to": "7", "label": "se completa con la"},
+      {"from": "7", "to": "9", "label": "se procesa con el"},
+      {"from": "8", "to": "10", "label": "arroja una"},
+      {"from": "10", "to": "11", "label": "desemboca en el"},
+      {"from": "9", "to": "11", "label": "confirma el"},
+      {"from": "11", "to": "12", "label": "revela la"},
+      {"from": "12", "to": "15", "label": "acredita la condición de"},
+      {"from": "7", "to": "13", "label": "evidencia la"},
+      {"from": "7", "to": "14", "label": "muestra una"},
+      {"from": "13", "to": "16", "label": "exige el"},
+      {"from": "14", "to": "16", "label": "respalda el"},
+      {"from": "4", "to": "15", "label": "posicionan al"},
+      {"from": "5", "to": "15", "label": "se alcanza con un"}
     ]
   }
 }

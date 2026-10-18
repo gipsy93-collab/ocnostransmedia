@@ -1,0 +1,375 @@
+{
+  "id": "cuentos_libertad_hijo_manolillo_miguel_hernandez",
+  "metadata": {
+    "id": "cuentos_libertad_hijo_manolillo_miguel_hernandez",
+    "title": "Lecturas para la libertad: Cuentos para mi hijo Manolillo de Miguel Hernández",
+    "authors": [
+      "Concepción Torres-Begines"
+    ],
+    "year": 2017,
+    "volume": "16",
+    "issue": "2",
+    "pages": "85-94",
+    "doi": "10.18239/ocnos_2017.16.2.1357",
+    "keywords": [
+      "Miguel Hernández",
+      "Cuentos para mi hijo Manolillo",
+      "literatura carcelaria",
+      "literatura infantil",
+      "libertad y resistencia"
+    ],
+    "abstract": "Estudio literario y biográfico que analiza los cuatro cuentos infantiles manuscritos que Miguel Hernández escribió en la cárcel de Alicante para su hijo Manolillo. Reconstruye la dramática peripecia material de los cuadernillos confeccionados en papel higiénico cosido y examina su simbolismo alegórico en torno a la libertad, la metamorfosis, la solidaridad animal y la resistencia ética."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo puede un poeta condenado a muerte en una celda húmeda vencer las rejas y abrazar a su hijo recién nacido? Miguel Hernández no tenía tinta ni papel, pero unió hojas de papel higiénico con hilo de saco para coser cuatro diminutos cuentos ilustrados: un legado infinito de amor, ternura y resistencia frente a la barbarie.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis literario e histórico:",
+        "opciones": [
+          {
+            "id": "material",
+            "texto": "Ruta material: la creación clandestina en la prisión de Alicante y el papel higiénico"
+          },
+          {
+            "id": "alegorica",
+            "texto": "Ruta alegórica: metáforas de transformación animal, vuelo y ansia de libertad"
+          },
+          {
+            "id": "didactica",
+            "texto": "Ruta didáctica: el valor de los cuentos hernandianos en las aulas contemporáneas"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Durante décadas, la faceta de Miguel Hernández como autor de literatura infantil permaneció casi oculta bajo la sombra monumental de su poesía trágica y social. Los relatos para Manolillo no son simples fábulas de evasión, sino un acto supremo de dignidad política y paternidad herida en el abismo carcelario franquista.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cuál es la función simbólica del potro, el gato, el conejo y el gorrión en los cuentos?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Encarnan criaturas vulnerables que superan la adversidad mediante la solidaridad, el coraje y la aspiración indestructible a la luz y al aire libre.",
+            "correcta": true,
+            "explicacion": "Exacto: la metamorfosis animal permite al poeta transmitir lecciones de libertad y resistencia ética sin despertar la censura penitenciaria inmediata."
+          },
+          {
+            "id": "c2",
+            "texto": "Eran simples mascotas domésticas que el poeta recordaba de su huerto de Orihuela sin intención simbólica.",
+            "correcta": false,
+            "explicacion": "Cada animal porta una profunda carga alegórica de resistencia ética, afecto filial y ansia de justicia."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "La investigadora reconstruye la peripecia biobibliográfica de los cuatro textos («El potro oscuro», «El conejito», «Un hogar en el árbol» y «La gatita mancha y el ovillo rojo») apoyándose en los manuscritos originales conservados, la correspondencia íntima con Josefina Manresa y la cuidada edición facsímil e ilustrada de Nórdica Libros.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Contexto penitenciario",
+            "detalle": "Prisión de Adultos de Alicante en 1941: hacinamiento, enfermedad y censura militar."
+          },
+          {
+            "fase": "Soporte material",
+            "detalle": "Hojas de papel higiénico cosidas a mano con hilo y caligrafía microscópica."
+          },
+          {
+            "fase": "Análisis textual",
+            "detalle": "Desglose hermenéutico de los motivos del nido, el salto liberador y la bondad compartida."
+          },
+          {
+            "fase": "Diálogo con la poesía",
+            "detalle": "Correspondencias con El hombre acecha y el Cancionero y romancero de ausencias."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El análisis demuestra que los cuentos carcelarios constituyen una prolongación orgánica del cancionero hernandiano. El lenguaje, despojado de artificios barrocos, alcanza una pureza lírica y una hondura ética universales, convirtiendo la literatura infantil en un escudo moral inexpugnable contra la crueldad humana.",
+      "datos_clave": [
+        "Examen exhaustivo de los cuatro cuentos carcelarios para Manolillo escritos en 1941.",
+        "Reconstrucción de la peripecia material de los manuscritos en papel higiénico cosido.",
+        "Identificación de los ejes temáticos: libertad, fraternidad animal, familia y resiliencia.",
+        "Propuesta de mediación escolar para llevar la voz hernandiana a la Educación Primaria."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se fundamenta en los estudios biográficos de Sánchez Vidal (1992), las investigaciones sobre el epistolario hernandiano de Jesucristo Riquelme, la poética de la resistencia carcelaria y los marcos teóricos de la literatura infantil de Pedro C. Cerrillo.",
+      "referencias_clave": [
+        "Sánchez Vidal (1992)",
+        "Riquelme (2010)",
+        "Cerrillo (2007)",
+        "Torres-Begines (2017)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "Entre los muros sombríos de una prisión fascista, un hombre agonizante cosió cuatro cuentos con un hilo invisible de esperanza. Miguel Hernández demostró que las palabras verdaderas no pueden ser encarceladas y que la ternura hacia un hijo es la victoria más luminosa de la libertad.",
+      "hallazgo_central": "Los Cuentos para mi hijo Manolillo de Miguel Hernández trascienden la anécdota carcelaria para alzarse como una obra maestra de resistencia ética y lirismo universal en la literatura infantil."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los relatos de Miguel Hernández con su metáfora ética central:",
+          "pares": [
+            {
+              "concepto": "El potro oscuro",
+              "definicion": "El galope nocturno hacia el amanecer como metáfora del sueño reparador y el anhelo de libertad."
+            },
+            {
+              "concepto": "Un hogar en el árbol",
+              "definicion": "La solidaridad del bosque que ofrece refugio y ramas acogedoras frente a la intemperie."
+            },
+            {
+              "concepto": "El conejito",
+              "definicion": "La superación del miedo y la vulnerabilidad mediante la audacia y la compasión fraternal."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Cuentos para Manolillo de Miguel Hernández y Literatura Carcelaria",
+      "descripcion": "Análisis textual, material y ético de los relatos infantiles escritos por Miguel Hernández en prisión.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Cuentos para Manolillo y Resistencia en Prisión",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo del artículo: analizar los cuatro relatos manuscritos que Miguel Hernández compuso en la cárcel de Alicante para su hijo, desentrañando su valor material, alegórico y formativo en la literatura infantil."
+        },
+        {
+          "id": "2",
+          "label": "Contexto de Represión Penitenciaria Franquista",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco histórico de posguerra marcado por la represión, la condena a muerte conmutada por treinta años, la tuberculosis y el aislamiento carcelario en el Reformatorio de Adultos de Alicante en 1941."
+        },
+        {
+          "id": "3",
+          "label": "Poética Hernandiana del Dolor y la Luz",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Evolución estética de Miguel Hernández desde la exuberancia del rayo inicial hasta el desnudamiento expresivo del Cancionero y romancero de ausencias, donde la palabra se vuelve verdad esencial."
+        },
+        {
+          "id": "4",
+          "label": "La Literatura como Vínculo Filial Trascendente",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Aportes teóricos sobre la literatura epistolar y carcelaria como puente afectivo inquebrantable entre el padre preso y el hijo ausente, salvando la separación forzosa a través de la ficción."
+        },
+        {
+          "id": "5",
+          "label": "Metodología Hermenéutica e Histórico-Biográfica",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico cualitativo que combina la crítica genética textual de los manuscritos originales con el análisis hermenéutico del simbolismo literario y el contexto testimonial familiar."
+        },
+        {
+          "id": "6",
+          "label": "Corpus de los Cuatro Relatos Carcelarios",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Selección del corpus íntegro compuesto por El potro oscuro, El conejito, Un hogar en el árbol y La gatita mancha y el ovillo rojo, cotejando su redacción manuscrita con ediciones facsimilares."
+        },
+        {
+          "id": "7",
+          "label": "Examen de la Materialidad del Manuscrito",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Análisis de las condiciones materiales extremas: hojas de papel higiénico unidas con hebras de saco cosidas, letra menuda para aprovechar el soporte y dibujos a plumilla trazados por el poeta."
+        },
+        {
+          "id": "8",
+          "label": "Cotejo con el Epistolario y la Poesía Carcelaria",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Triangulación analítica con las cartas enviadas a su esposa Josefina Manresa y con las Nanas de la cebolla, identificando recurrencias léxicas, motivos de orfandad y promesas de reencuentro."
+        },
+        {
+          "id": "9",
+          "label": "Alegorías de Metamorfosis y Solidaridad",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los resultados confirman que los relatos encierran una poética de la empatía: los animales protagonistas cooperan activamente para proteger a los más pequeños y superar las trampas del entorno hostil."
+        },
+        {
+          "id": "10",
+          "label": "El Vuelo y la Luz como Símbolos de Libertad",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Presencia constante del anhelo de evasión luminosa: pájaros que construyen nidos seguros, potros que cabalgan sin brida y saltos que rompen las barreras físicas que aprisionan al cuerpo."
+        },
+        {
+          "id": "11",
+          "label": "Depuración Estilística y Ternura Desarmante",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Uso de un lenguaje cristalino, ritmo musical heredado del folclore tradicional y una dulzura contenida que elude el patetismo trágico para ofrecer un bálsamo de consuelo protector al niño."
+        },
+        {
+          "id": "12",
+          "label": "Trascendencia Ética de la Ficción Carcelaria",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica sobre cómo el acto de escribir cuentos en condiciones infrahumanas constituye una victoria moral incondicional de la creación poética sobre la barbarie y el silencio dictatorial."
+        },
+        {
+          "id": "13",
+          "label": "Reubicación en el Canon de la Literatura Infantil",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate en torno a la necesidad de otorgar a estos relatos un lugar privilegiado en la historia de las letras infantiles españolas, rescatándolos de su consideración como mera curiosidad biográfica."
+        },
+        {
+          "id": "14",
+          "label": "Fuerza Pedagógica y Axiológica para la Escuela",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental que reivindica la lectura de los cuentos en las aulas actuales para educar la sensibilidad moral, el amor filial, la resiliencia ética y el respeto sagrado a la libertad."
+        },
+        {
+          "id": "15",
+          "label": "Propuesta de Proyectos Interdisciplinares",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación didáctica para articular proyectos de memoria histórica, poesía, ilustración gráfica y educación cívica a partir de la peripecia creadora de Miguel Hernández en prisión."
+        },
+        {
+          "id": "16",
+          "label": "Limitaciones por la Brevedad del Corpus Conservado",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite hermenéutico derivado del reducido número de textos conservados debido a la muerte prematura del poeta y a la precaria preservación clandestina de los manuscritos en la posguerra."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se sitúa en"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se fundamenta en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se examina mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "confluye con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "analiza"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "documenta"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "triangula con"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "desvela"
+        },
+        {
+          "from": "6",
+          "to": "10",
+          "label": "manifiesta"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "evidencia"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "confirma"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "fundamenta"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "sustenta"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "avala"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "conduce a"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "refuerza"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se concreta en"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "reconoce"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "queda acotado por"
+        },
+        {
+          "from": "4",
+          "to": "9",
+          "label": "inspira directamente"
+        },
+        {
+          "from": "12",
+          "to": "15",
+          "label": "nutre axiológicamente a"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Un trozo de papel higiénico y un hilo bastaron para derrotar a la celda. En los cuentos de Miguel Hernández aprendemos que el mayor acto de resistencia contra la injusticia no es el odio, sino la obstinada ternura de sembrar una flor en medio del desierto.",
+      "preguntas": [
+        "¿Conocen los niños en nuestras escuelas la historia y los cuentos que Miguel Hernández escribió para su hijo en la cárcel?",
+        "¿Cómo puede la enseñanza de la literatura vincular la creación estética con la defensa innegociable de los derechos humanos y la libertad?"
+      ]
+    }
+  }
+}

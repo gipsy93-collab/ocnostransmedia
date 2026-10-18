@@ -1,0 +1,376 @@
+{
+  "id": "alfabetizar_para_ver_leer_comprender_imagenes",
+  "metadata": {
+    "title": "Alfabetizar para ver: la importancia de aprender a leer, comprender y analizar imágenes",
+    "authors": "Flávia Gomes-Franco-e-Silva",
+    "year": "2019",
+    "journal": "Ocnos 18(3)",
+    "doi": "10.18239/ocnos_2019.18.3.2103",
+    "gancho": "¿Basta con ver para entender o son los universitarios analfabetos visuales ante las metáforas de un libro álbum sobre la muerte?",
+    "duration": "12-15 min",
+    "badge": "Alfabetización Visual y Semiótica de la Imagen",
+    "disciplina": "Didáctica de la Lengua y la Literatura y Comunicación Audiovisual",
+    "dimensiones": [
+      "Visual Literacy y Cultura Visual",
+      "Experimento con 260 Universitarios",
+      "Análisis del Álbum 'Es así'",
+      "Déficit en Lectura Simbólica Visual"
+    ],
+    "tags": [
+      "alfabetizacion_visual",
+      "album_ilustrado",
+      "lectura_de_imagenes",
+      "semiotica_visual",
+      "educacion_infantil",
+      "formacion_docente"
+    ],
+    "pistas": [
+      "Experimento con metodología mixta aplicado a 260 estudiantes universitarios de Educación Infantil (n=209) y Filosofía (n=51) en la URJC.",
+      "Lectura y proyección sin condicionamientos del álbum ilustrado 'Es así' de Paloma Valdivia, centrado en el tema de la muerte y la vida.",
+      "Cuestionario de 14 preguntas dicotómicas estructuradas en seis categorías simbólicas sobre significados implícitos de la ilustración.",
+      "Resultados alarmantes: los universitarios ignoran el simbolismo sutil (paso del tiempo 8,2%; vida/muerte 9,8%) y solo ven lo evidente en primer plano."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "Vivimos inmersos en una vorágine de pantallas y estímulos icónicos donde se asume que 'ver' es un acto natural que no requiere enseñanza, dejando a la ciudadanía indefensa ante la manipulación publicitaria y audiovisual.",
+      "desafio": "Verificar empíricamente el nivel de competencia y alfabetización visual en futuros maestros y estudiantes universitarios al enfrentarse a los significados implícitos de un libro álbum metafórico.",
+      "relevancia": "Demuestra la imperiosa necesidad de incorporar la lectura crítica y secuencial de la imagen en los currículos educativos reglados para superar el analfabetismo visual funcional."
+    },
+    "conflicto": {
+      "pregunta": "¿Poseen los estudiantes universitarios las destrezas necesarias para decodificar la profundidad metafórica y simbólica de las imágenes o su mirada es superficial?",
+      "posiciones": [
+        "Mito de la comprensión innata: descifrar imágenes es un proceso biológico intuitivo que cualquier persona alfabetizada domina de forma automática.",
+        "Teoría de la alfabetización visual: el código icónico posee una gramática y retórica propias que exigen mediación sistemática en la Zona de Desarrollo Próximo."
+      ],
+      "tension": "La tensión entre la saturación de imágenes que consumen los jóvenes a diario y su incapacidad para interpretar niveles secundarios de significación icónica.",
+      "deepDives": [
+        {
+          "id": "ima-conf-1",
+          "triggerLabel": "El simbolismo de la contraportada",
+          "type": "context",
+          "content": "En la contraportada de 'Es así', el gato duerme plácidamente rodeado de plumas tras haberse comido al pájaro; casi el 86% de los universitarios no percibió este desenlace simbólico sobre el ciclo vital."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Diseño experimental mixto con 260 universitarios ante el álbum de Paloma Valdivia",
+      "narrativa": "La investigadora proyectó el libro álbum 'Es así' sin explicaciones previas a dos cohortes (futuros maestros de Infantil y alumnos de Filosofía), aplicando a continuación un cuestionario estructurado de 14 preguntas sobre simbolismo icónico con re-proyección de páginas.",
+      "detalles": [
+        {
+          "label": "Muestra participante",
+          "value": "260 estudiantes universitarios de la Universidad Rey Juan Carlos: 209 de Educación Infantil (experimental) y 51 de Filosofía (control)."
+        },
+        {
+          "label": "Material estímulo",
+          "value": "Álbum ilustrado 'Es así' de Paloma Valdivia (FCE, 2017), con fuerte densidad metafórica sobre la vida, el relevo generacional y la muerte."
+        },
+        {
+          "label": "Instrumento aplicado",
+          "value": "Cuestionario de 14 reactivos de respuesta dicotómica agrupados en 6 categorías de codificación simbólica visual."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "Tanto los estudiantes de Magisterio como los de Filosofía mostraron un nivel de lectura visual gravemente deficitario, siendo incapaces de decodificar metáforas icónicas salvo cuando aparecían de forma literal y a gran tamaño.",
+      "datosClave": [
+        {
+          "label": "Simbología sutil invisible",
+          "value": "El paso del tiempo en la portada solo fue detectado por el 8.2% de Infantil y el 3.6% de Filosofía; el huevo/pájaro por el 9.8% y 0%."
+        },
+        {
+          "label": "La excepción del primer plano",
+          "value": "El relevo generacional (tres figuras tomadas de la mano a doble página) fue identificado por el 80.3% y 78.6% de los participantes."
+        },
+        {
+          "label": "Diferencia de grupos",
+          "value": "La formación didáctica de Infantil solo mostró ventaja apreciable en la orientación espacial derecha/izquierda (59.6% vs 36.3%)."
+        }
+      ],
+      "implicacion": "No se puede dar por supuesta la competencia lectora de imágenes: la universidad debe alfabetizar visualmente a los futuros maestros para que puedan mediar en las escuelas."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "John Horting (1983) / Debes y Williams (1978)",
+          "concepto": "Visual Literacy: capacidad de pensar, comprender (leer) y utilizar (escribir) imágenes de forma reflexiva en una cultura."
+        },
+        {
+          "autor": "Roland Barthes (1986)",
+          "concepto": "La retórica de la imagen: mensaje literal denotado y mensaje simbólico connotado que exige claves de interpretación cultural."
+        },
+        {
+          "autor": "Lev Vygotsky (1979)",
+          "concepto": "Zona de Desarrollo Próximo: necesidad de un mediador experto para transitar de la percepción espontánea al análisis abstracto."
+        }
+      ],
+      "enfoque": "Educomunicación, semiótica visual y didáctica de la lectura multimodal en educación superior.",
+      "sinergia": "La conjunción de semiótica y psicología del aprendizaje demuestra que mirar sin andamiaje no produce comprensión profunda."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Qué nivel de alfabetización visual poseen los estudiantes universitarios para interpretar la profundidad simbólica de un álbum ilustrado?",
+      "hallazgos": [
+        "Nivel de lectura visual marcadamente insuficiente en ambas titulaciones universitarias, incompatible con el perfil de lector competente.",
+        "Existe una fuerte dependencia del texto escrito: los alumnos leen las letras y relegan las ilustraciones a mero fondo decorativo.",
+        "Los elementos simbólicos en segundo plano (alas de ángel, acecho del gato, orientación cardinal) resultan prácticamente invisibles.",
+        "Sorpresa generalizada en los participantes al descubrir en la revisión que los elementos icónicos siempre estuvieron en la página."
+      ],
+      "conclusion": "Aprender a leer imágenes demanda un entrenamiento formal secuenciado; ver no es comprender, y la educación visual es un imperativo democrático de primer orden."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Qué porcentaje de estudiantes de Filosofía detectó en la portada la simbología de nacimiento y muerte del huevo y el pájaro?",
+          "opciones": [
+            "Un 0% absoluto de respuestas afirmativas, pasando totalmente desapercibido",
+            "Cerca del 50%, reconociendo la alegoría fácilmente",
+            "El 100% de la muestra de control"
+          ],
+          "respuestaCorrecta": 0,
+          "justificacion": "En el grupo de Filosofía ningún estudiante (0%) percibió la relación simbólica del huevo y el pájaro en la portada."
+        },
+        {
+          "pregunta": "¿Cuál fue la única categoría simbólica que superó ampliamente el 75% de detección en ambos grupos?",
+          "opciones": [
+            "La alegoría de los personajes alados",
+            "La representación del relevo generacional dibujada en primer plano y a doble página",
+            "El paso de las estaciones en las hojas del árbol"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El relevo generacional alcanzó un 80.3% en Infantil y un 78.6% en Filosofía gracias a su disposición explícita y tamaño protagónico."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Alfabetización Visual y Lectura del Álbum Ilustrado",
+      "descripcion": "Red analítica que integra la teoría de la alfabetización visual, el diseño experimental con 260 universitarios y los déficits de decodificación icónica.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Alfabetización Visual (Horting)",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Capacidad cognitiva y comunicativa de comprender, decodificar, evaluar críticamente y producir mensajes icónicos con plena conciencia de sus niveles de significado denotado y connotado."
+        },
+        {
+          "id": "2",
+          "label": "Cultura de la Imagen y Pantallas",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Contexto sociocultural contemporáneo saturado de estímulos audiovisuales masivos que, paradójicamente, genera receptores pasivos vulnerables a la persuasión y carentes de filtros analíticos."
+        },
+        {
+          "id": "3",
+          "label": "El Álbum Ilustrado Polisémico",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Formato artístico donde texto e imagen establecen una interacción sinérgica interdependiente, conteniendo la ilustración claves simbólicas, metafóricas y elipsis determinantes para el sentido."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Medir Competencia Visual",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Evaluar empíricamente la capacidad de decodificación de significados implícitos en las ilustraciones de un libro álbum en dos grupos de estudiantes universitarios sin condicionamiento previo."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Experimental Mixto",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Metodología empírica comparativa con grupo experimental y grupo de control, combinando la observación de la percepción inicial en proyección de aula con análisis cuantitativo de frecuencias."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 260 Universitarios",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Participación de 209 alumnos de cuarto curso del Grado en Educación Infantil (con formación pedagógica) y 51 de primer curso del Grado en Filosofía en la Universidad Rey Juan Carlos."
+        },
+        {
+          "id": "7",
+          "label": "Material: Álbum 'Es así'",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Uso del álbum de Paloma Valdivia (FCE) sobre la muerte y la vida como texto estímulo desconocido, caracterizado por una paleta de color reducida y fuerte carga poética en segundos planos."
+        },
+        {
+          "id": "8",
+          "label": "Cuestionario de 14 Ítems",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Instrumento con 14 preguntas de respuesta dicotómica sí/no ordenadas secuencialmente y clasificadas en seis categorías simbólicas sobre tiempo, ciclo vital, orientación espacial y muerte."
+        },
+        {
+          "id": "9",
+          "label": "Invisibilidad del Simbolismo Sutil",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Porcentajes mínimos de detección en metáforas complejas: paso del tiempo (8.2% en Infantil, 3.6% en Filosofía) y vida/muerte en portada (9.8% vs 0%), evidenciando ceguera interpretativa profunda."
+        },
+        {
+          "id": "10",
+          "label": "Legibilidad de lo Explícito (80%)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "La escena del relevo generacional (abuela, madre embarazada y niña en bicicleta) alcanzó un 80.3% y 78.6% de éxito, demostrando que solo lo icónicamente evidente en primer plano es procesado."
+        },
+        {
+          "id": "11",
+          "label": "Sesgo Logocéntrico Universitario",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Constatación de que los estudiantes concentran su atención de forma prioritaria en seguir el texto escrito, desatendiendo las ilustraciones que aportan la verdadera dimensión metafórica de la obra."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: Mirar no es Comprender",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "La investigación derriba el prejuicio de la lectura visual innata: estar expuesto a miles de imágenes en pantallas no confiere capacidad hermenéutica para desentrañar su retórica profunda."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Urgencia en Magisterio",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Los futuros maestros no pueden formar lectores visualmente competentes si ellos mismos adolecen de un perfil deficitario, exigiendo una reforma urgente de las didácticas universitarias."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Mediación en la ZDP",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "La alfabetización visual debe estructurarse secuencialmente como la lectoescritura, guiando al aprendiz en la Zona de Desarrollo Próximo hacia el pensamiento crítico y el juicio estético."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Formato Dicotómico",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Uso exclusivo de preguntas de respuesta sí/no que no permiten profundizar cualitativamente en las asociaciones interpretativas libres o espontáneas que pudieron elaborar los participantes."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Reproyección Inmediata",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Dependencia del recuerdo de la percepción inicial durante el repaso de páginas proyectadas, asumiendo metodológicamente que el estudiante contestaba fielmente a lo visto en la primera lectura."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "fundamenta necesidad de"
+        },
+        {
+          "from": "2",
+          "to": "1",
+          "label": "contextualiza urgencia de"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "sirve como banco de prueba a"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se ejecuta mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se administra sobre"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "utiliza estímulo de"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "se evalúa mediante"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "constata fracaso en"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "registra acierto en"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "revela presencia de"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "aporta datos empíricos a"
+        },
+        {
+          "from": "11",
+          "to": "12",
+          "label": "respalda argumento sobre"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "evidencia alarma para"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "conduce a propuesta de"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "reclama intervención en"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "matiza certidumbre con"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "se articula con límites de"
+        },
+        {
+          "from": "1",
+          "to": "14",
+          "label": "orienta metas de"
+        },
+        {
+          "from": "3",
+          "to": "10",
+          "label": "demuestra legibilidad de"
+        },
+        {
+          "from": "2",
+          "to": "11",
+          "label": "explica desatención en"
+        },
+        {
+          "from": "6",
+          "to": "13",
+          "label": "involucra directamente a"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Cómo podrías trabajar en el aula la lectura de imágenes de un libro álbum tapando el texto para obligar a los alumnos a descifrar la metáfora visual?",
+      "enfoque": "Proyectar primero solo las ilustraciones sin el texto escrito y pedir a los estudiantes que descubran qué historia cuentan los colores y los fondos.",
+      "cierre": "Aprender a mirar lo que no está escrito en letras es la mejor defensa del pensamiento frente a la manipulación visual del mundo contemporáneo."
+    }
+  }
+}

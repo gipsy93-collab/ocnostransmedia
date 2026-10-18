@@ -1,0 +1,376 @@
+{
+  "id": "bibliotecas_escolares_revision_sistematizada_produccion",
+  "metadata": {
+    "title": "Bibliotecas escolares: revisión bibliográfica sistematizada y análisis de la producción científica (2010-2019)",
+    "authors": "Verónica Parisi-Moreno, Moisés Selfa y Nayra Llonch-Molina",
+    "year": "2020",
+    "journal": "Ocnos 19(1)",
+    "doi": "10.18239/ocnos_2020.19.1.2152",
+    "gancho": "¿Sigue viva la biblioteca escolar en la era digital o agoniza por falta de presupuesto, horarios rígidos y personal no especializado?",
+    "duration": "12-15 min",
+    "badge": "Biblioteconomía Escolar y Políticas Educativas",
+    "disciplina": "Biblioteconomía y Didáctica de la Lengua y la Literatura",
+    "dimensiones": [
+      "Revisión Sistemática 2010-2019",
+      "Biblioteca Escolar Híbrida",
+      "Promoción del Hábito Lector",
+      "Barreras y Proyectos Aula-Biblioteca"
+    ],
+    "tags": [
+      "bibliotecas_escolares",
+      "revision_sistematizada",
+      "habito_lector",
+      "alfabetizacion_informacional",
+      "fondos_bibliograficos",
+      "politica_educativa"
+    ],
+    "pistas": [
+      "Revisión bibliográfica sistematizada internacional sobre 70 publicaciones científicas indexadas entre 2010 y 2019.",
+      "Cribado en cuatro bases de datos de referencia (WoS, Scopus, Dialnet Plus, ERIC) bajo protocolo riguroso de Hart y Dixon-Woods.",
+      "Identificación de las cinco dinámicas de fomento lector más extendidas y de la urgencia de fondos analógico-digitales inclusivos.",
+      "Diagnóstico crítico de carencias estructurales: falta de bibliotecarios con dedicación exclusiva, presupuestos precarios y rigidez horaria."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "La biblioteca escolar ha sido concebida históricamente como el corazón cultural del colegio; sin embargo, en muchas instituciones permanece confinada a un almacén estático de libros o relegada por el empuje digital.",
+      "desafio": "Sistematizar la producción científica internacional de la última década sobre la biblioteca escolar en educación infantil y primaria para clarificar sus funciones actuales, barreras operativas y líneas de futuro.",
+      "relevancia": "Ofrece a los equipos directivos y mediadores una hoja de ruta contrastada para transformar la biblioteca tradicional en un centro de recursos para el aprendizaje y la investigación interdisciplinar."
+    },
+    "conflicto": {
+      "pregunta": "¿Qué transformaciones estructurales demanda la biblioteca escolar para mantenerse como un espacio vivo de alfabetización analógica y digital?",
+      "posiciones": [
+        "Concepción custodial y pasiva: la biblioteca es un repositorio cerrado de préstamo de libros con horarios prefijados y sin articulación didáctica con el aula.",
+        "Modelo de centro de recursos activo (CRA): la biblioteca opera como un laboratorio multimodal flexible integrado en los proyectos del centro y co-gestionado por especialistas."
+      ],
+      "tension": "La contradicción flagrante entre la abundante literatura científica que avala el impacto positivo de la biblioteca escolar y la crónica desinversión presupuestaria y laboral que sufren en la práctica.",
+      "deepDives": [
+        {
+          "id": "bib-conf-1",
+          "triggerLabel": "La obsolescencia del fondo documental",
+          "type": "context",
+          "content": "Estudios como el de Gbadamosi (2011) revelan que más del 66% de los responsables de bibliotecas escolares admiten poseer fondos desfasados o insuficientes, lo que aleja a los estudiantes de la lectura recreativa."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Protocolo sistemático de revisión documental internacional",
+      "narrativa": "Siguiendo directrices metodológicas de Hart (2018) y Dixon-Woods (2006), los investigadores consultaron cuatro grandes bases de datos (Scopus, WoS, Dialnet Plus y ERIC) con tesauros UNESCO/ERIC, seleccionando los 70 documentos más relevantes del periodo 2010-2019 para un análisis temático cualitativo.",
+      "detalles": [
+        {
+          "label": "Bases de datos indexadas",
+          "value": "Bases multidisciplinares (WoS, Scopus, Dialnet Plus) y específica de educación (ERIC), cubriendo el decenio 2010 a mediados de 2019."
+        },
+        {
+          "label": "Corpus analítico final",
+          "value": "Banco depurado de 70 investigaciones científicas cribadas por relevancia temática y umbrales de calidad metodológica."
+        },
+        {
+          "label": "Categorías de codificación",
+          "value": "Seis ejes de análisis: hábito lector, entorno familiar, inclusión/interculturalidad, fondos bibliográficos, bibliotecario y barreras de gestión."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "La biblioteca escolar solo alcanza impacto pedagógico significativo cuando opera como centro neurálgico del proyecto educativo del centro, liderada por un mediador con dedicación exclusiva y fondos permanentemente renovados.",
+      "datosClave": [
+        {
+          "label": "Estrategias de fomento",
+          "value": "Semanas culturales, cuentacuentos, ferias de libro, maratones de lectura e incorporación de cómics lideran las prácticas eficaces."
+        },
+        {
+          "label": "Preferencias de soporte",
+          "value": "Hasta el 60% de los escolares manifiestan preferencia por la lectura en pantalla, demandando fondos híbridos y tabletas en la biblioteca."
+        },
+        {
+          "label": "Impacto en inclusión",
+          "value": "La provisión de literatura inclusiva y multicultural eleva drásticamente la asistencia y sentimiento de pertenencia en alumnado vulnerable."
+        }
+      ],
+      "implicacion": "Las administraciones educativas deben superar la figura del docente voluntario con horas lectivas marginales y dotar plazas permanentes de maestros-bibliotecarios especializados."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "Chris Hart (2018)",
+          "concepto": "Metodología de revisión sistemática de literatura y optimización de estrategias de búsqueda en ciencias sociales."
+        },
+        {
+          "autor": "Mary Dixon-Woods et al. (2006)",
+          "concepto": "Criterios de evaluación crítica y síntesis cualitativa de evidencia documental sin sesgos de exclusión previa."
+        },
+        {
+          "autor": "Moisés Selfa, Silvia Balça y Maciel Costa (2017)",
+          "concepto": "El maestro-bibliotecario como dinamizador sociocultural imprescindible del proyecto lingüístico escolar."
+        }
+      ],
+      "enfoque": "Biblioteconomía aplicada a la educación y sociología del acceso a la cultura escrita en el sistema escolar.",
+      "sinergia": "La conjunción de biblioteconomía y didáctica de la lengua redefine la biblioteca escolar como un ecosistema vivo de multialfabetización."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cuáles son las tendencias, obstáculos y oportunidades de la biblioteca escolar según la literatura científica de la última década?",
+      "hallazgos": [
+        "Predominio de la animación lectora lúdica y comunitaria frente a modelos tradicionales memorísticos de consulta enciclopédica.",
+        "Urgencia de modernizar los fondos documentales integrando soportes digitales, álbumes ilustrados contemporáneos y cómic.",
+        "Identificación de barreras críticas: escasez de presupuesto, horarios cerrados al terminar la jornada y ausencia de personal titular.",
+        "Consolidación de los proyectos colaborativos de trabajo conjunto 'aula-biblioteca' como vía más fértil de dinamización curricular."
+      ],
+      "conclusion": "La biblioteca escolar requiere una refundación política y presupuestaria que garantice su profesionalización y su condición de laboratorio cultural analógico y digital."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Qué porcentaje de gestores de biblioteca escolar reportó en la literatura tener fondos inadecuados u obsoletos?",
+          "opciones": [
+            "Menos del 10%, la mayoría cuenta con colecciones actualizadas",
+            "Aproximadamente el 66,6%, debido a severas restricciones presupuestarias continuadas",
+            "El 100% de los centros rurales encuestados"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El estudio de Gbadamosi citado en la revisión evidencia que dos tercios de las bibliotecas sufren desactualización de fondos."
+        },
+        {
+          "pregunta": "¿Cuál es la solución organizativa más recomendada por los investigadores para sortear la falta de visitas?",
+          "opciones": [
+            "Cerrar la biblioteca física y sustituirla íntegramente por descargas en internet",
+            "Implementar proyectos interdisciplinares de trabajo conjunto y articulado 'aula-biblioteca'",
+            "Cobrar cuotas de inscripción a las familias para adquirir libros"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "Santos (2017) y otros autores proponen proyectos co-diseñados entre el docente de aula y la biblioteca para integrar el uso curricular."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Estado de la Cuestión sobre Bibliotecas Escolares (2010-2019)",
+      "descripcion": "Red estructurada que sintetiza la revisión documental internacional de 70 investigaciones sobre bibliotecas escolares en educación infantil y primaria.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Biblioteca Escolar (BE)",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Espacio pedagógico central y flexible de la institución educativa cuya misión es facilitar el aprendizaje, la alfabetización informacional y el placer lector a través de fondos analógicos y digitales."
+        },
+        {
+          "id": "2",
+          "label": "Centro de Recursos (CRA)",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Modelo contemporáneo de biblioteca escolar como nodo articulador multimodal y tecnológico del currículo escolar, superando la noción tradicional de repositorio silencioso de libros impresos."
+        },
+        {
+          "id": "3",
+          "label": "Multialfabetización Escolar",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Paradigma formativo que capacita a los estudiantes en la lectura crítica, la evaluación ética de información en internet, la competencia mediática y el disfrute estético de diversos lenguajes."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Revisión Sistemática",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Elaborar un estado de la cuestión riguroso y actualizado de la producción científica internacional sobre la biblioteca escolar en infantil y primaria publicada entre 2010 y mediados de 2019."
+        },
+        {
+          "id": "5",
+          "label": "Protocolo de Selección (Hart)",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Diseño metodológico estructurado en seis fases siguiendo a Hart y Dixon-Woods, combinando bases de datos multidisciplinares y especializadas con descriptores controlados de UNESCO y ERIC."
+        },
+        {
+          "id": "6",
+          "label": "Cuatro Bases Indexadas",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Búsqueda sistemática en Web of Science (WoS), Scopus, Dialnet Plus y ERIC, limitando la cobertura a ciencias sociales, artes y humanidades con ordenación por relevancia académica objetiva."
+        },
+        {
+          "id": "7",
+          "label": "Corpus de 70 Documentos",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Selección cualitativa depurada de 70 artículos científicos sometidos a análisis de contenido descriptivo tras eliminar duplicados y evaluar el cumplimiento de umbrales metodológicos de calidad."
+        },
+        {
+          "id": "8",
+          "label": "Dinamización del Hábito Lector",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Consolidación de cinco fórmulas prioritarias de mediación: semanas de la lectura, cuentacuentos, ferias escolares del libro, maratones lectores e integración de cómic y álbumes ilustrados."
+        },
+        {
+          "id": "9",
+          "label": "Inclusión y Diversidad Cultural",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "La incorporación de literaturas que reflejan minorías culturales y temáticas de diversidad actúa como espejo y ventana, multiplicando el enganche escolar en colectivos en riesgo de exclusión."
+        },
+        {
+          "id": "10",
+          "label": "Obsolescencia de Fondos (66%)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Evidencia de que dos tercios de los responsables denuncian fondos obsoletos o insuficientes por asfixia presupuestaria, chocando con el 60% de alumnado que reclama acceso a soportes de lectura digital."
+        },
+        {
+          "id": "11",
+          "label": "Barreras Estructurales",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Identificación de obstáculos endémicos: horarios cerrados tras el periodo lectivo, indefinición normativa de la biblioteca y ausencia de personal especializado con dedicación exclusiva y estable."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: Proyectos Aula-Biblioteca",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Los autores enfatizan que la biblioteca no puede subsistir aislada: la solución didáctica radica en co-diseñar unidades didácticas y proyectos interdisciplinares coordinados entre biblioteca y aula."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Profesionalización",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "La figura del maestro-bibliotecario es el factor decisivo de éxito; delegar la biblioteca en voluntariados docentes intermitentes desarticula la continuidad del plan lector de centro."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Refundación de la BE",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "La biblioteca escolar debe ser redefinida como un espacio híbrido analógico-digital imprescindible para garantizar la equidad cultural y el pensamiento crítico en la infancia contemporánea."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Ventana Temporal y Áreas",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Acotación temporal circunscrita a la producción 2010-2019 y restricción a dos macro-áreas temáticas de indexación, pudiendo excluir estudios innovadores publicados en actas o literatura gris."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Ausencia de Trabajo de Campo",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Al constituir una revisión bibliográfica documental secundaria, las conclusiones derivan de la síntesis de literatura publicada y no de la observación etnográfica directa en bibliotecas escolares vivas."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "constituye objeto de"
+        },
+        {
+          "from": "2",
+          "to": "1",
+          "label": "redefine el modelo de"
+        },
+        {
+          "from": "3",
+          "to": "2",
+          "label": "orienta la misión de"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se aborda mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "aplica búsqueda en"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "conforma corpus de"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "identifica estrategias de"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "revela beneficios en"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "cuantifica carencias en"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "diagnostica gravedad de"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "propone optimizar mediante"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "exige respuesta desde"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "reclama superación vía"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "fundamenta tesis sobre"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "sustenta imperativo de"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "acota alcance temporal de"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "comparte naturaleza teórica con"
+        },
+        {
+          "from": "1",
+          "to": "14",
+          "label": "guía conclusiones hacia"
+        },
+        {
+          "from": "9",
+          "to": "14",
+          "label": "aporta dimensión ética a"
+        },
+        {
+          "from": "2",
+          "to": "12",
+          "label": "inspira integración de"
+        },
+        {
+          "from": "8",
+          "to": "13",
+          "label": "requiere dinamización por"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Qué transformaciones inmediatas podrías liderar en la biblioteca de tu institución para conectarla con los proyectos del aula?",
+      "enfoque": "Planificar proyectos conjuntos donde los fondos de la biblioteca alimenten directamente las investigaciones científicas y literarias de clase.",
+      "cierre": "Una biblioteca escolar no se define por el número de libros que almacena, sino por las conversaciones que provoca en toda la comunidad."
+    }
+  }
+}

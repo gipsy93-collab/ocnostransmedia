@@ -1,0 +1,375 @@
+{
+  "id": "defensa_lectura_quijotesca_benavente_teatro_infantil",
+  "metadata": {
+    "id": "defensa_lectura_quijotesca_benavente_teatro_infantil",
+    "title": "Defensa de la lectura quijotesca en El príncipe que todo lo aprendió en los libros",
+    "authors": [
+      "Miriam Borham-Puyal"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "2",
+    "pages": "46-54",
+    "doi": "10.18239/ocnos_2018.17.2.1648",
+    "keywords": [
+      "Jacinto Benavente",
+      "teatro infantil",
+      "Don Quijote",
+      "reescritura quijotesca",
+      "fantasía infantil"
+    ],
+    "abstract": "Análisis filológico de la comedia infantil de Jacinto Benavente El príncipe que todo lo aprendió en los libros (1909). Demuestra que, a diferencia de otras adaptaciones que pretenden curar la locura lectora, Benavente ensalza la imaginación de los cuentos como impulso ético."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Es la pasión lectora desmedida una locura peligrosa que debe curarse o la mayor virtud ética que puede guiar el crecimiento de un niño? Este estudio analiza la comedia fundacional de Jacinto Benavente \"El príncipe que todo lo aprendió en los libros\" (1909) para desvelar su defensa del quijotismo infantil.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta filológica y teatral:",
+        "opciones": [
+          {
+            "id": "quijotesca",
+            "texto": "Reescritura del mito cervantino: la afición lectora no corregida sino elogiada"
+          },
+          {
+            "id": "teatral",
+            "texto": "El Teatro de los Niños (1909): el proyecto vanguardista de Benavente"
+          },
+          {
+            "id": "educativa",
+            "texto": "Pedagogía de la fantasía: la verdad de los cuentos de hadas en el aula"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Desde el siglo XVIII, las reescrituras de Don Quijote para niños retrataban la lectura de ficción como una enfermedad mental que el relato pedagógico debía curar imponiendo el realismo utilitario. Benavente subvierte esta tradición: el Príncipe Azul triunfa en el mundo real precisamente porque aplica la nobleza y la fe de los cuentos de hadas.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cómo resuelve Benavente el viaje iniciático del Príncipe Azul frente a la realidad?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "El príncipe no renuncia a su ilusión; utiliza los ideales de los libros para transformar positivamente la realidad y conquistar el amor sincero.",
+            "correcta": true,
+            "explicacion": "Exacto: la fantasía se valida como una fuerza ética superior capaz de redimir la vulgaridad cotidiana."
+          },
+          {
+            "id": "c2",
+            "texto": "El rey encierra al príncipe en un calabozo para obligarle a estudiar ciencias aplicadas.",
+            "correcta": false,
+            "explicacion": "El padre acompaña su viaje para que tienda un puente entre verdad e ilusión."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "La investigadora examina el texto teatral dramático, la columna de Benavente en El Imparcial reclamando un teatro digno para la infancia, y la recepción crítica de Cervera Borrás y Bravo-Villasante. Contrasta las figuras del príncipe y su escudero Tonino con Don Quijote y Sancho Panza.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Fundación teatral",
+            "detalle": "Creación de \"El Teatro de los Niños\" en 1909 con entradas accesibles a clases populares."
+          },
+          {
+            "fase": "Cotejo cervantino",
+            "detalle": "Paralelismos entre la monomanía lectora del hidalgo y la formación libresca del príncipe."
+          },
+          {
+            "fase": "Exégesis del texto",
+            "detalle": "Análisis de los encuentros cómicos con la tabernera, los ogros y la princesa fingida."
+          },
+          {
+            "fase": "Proyección didáctica",
+            "detalle": "Valoración de la obra en guías didácticas escolares contemporáneas de fomento lector."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Benavente formuló una poética revolucionaria: consideró al niño un espectador inteligente que merece reír sin sermonarios. Al reivindicar la lectura de cuentos de hadas, demostró que la fantasía es el mejor andamiaje moral para educar personas compasivas, valientes y libres.",
+      "datos_clave": [
+        "Análisis exhaustivo de la comedia fundacional de Jacinto Benavente (Premio Nobel 1922).",
+        "Inversión del paradigma corrector dieciochesco: alabanza de la ilusión quijotesca.",
+        "Respaldo a la doble dirección del teatro infantil: deleite cómico y formación humanista.",
+        "Vigencia demostrada para la dinamización de la lectura dramática en las escuelas."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se encuadra en los estudios de recepción quijotesca en la infancia de Borham-Puyal, la historia del teatro infantil de Cervera Borrás, las teorías sobre cuentos de hadas de Bruno Bettelheim y la poética dramática benaventiana.",
+      "referencias_clave": [
+        "Benavente (1909)",
+        "Cervera Borrás (1982)",
+        "Bettelheim (1976)",
+        "Bravo-Villasante (1985)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "No hay que curar a los niños de leer: hay que enseñar a los adultos a mirar el mundo con la nobleza de los libros. Jacinto Benavente levantó un monumento a la imaginación que sigue iluminando las aulas de teatro de todo el ámbito hispánico.",
+      "hallazgo_central": "Benavente rompe con la tradición punitiva contra el quijotismo lector, consagrando la fantasía de los cuentos de hadas como un escudo ético indispensable para la vida real."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los personajes de Benavente con sus referentes quijotescos:",
+          "pares": [
+            {
+              "concepto": "Príncipe Azul",
+              "definicion": "Don Quijote infantil que interpreta el mundo a través de la bondad de los libros."
+            },
+            {
+              "concepto": "Tonino",
+              "definicion": "Fiel acompañante pragmático que evoca la mirada terrenal de Sancho Panza."
+            },
+            {
+              "concepto": "El ogro / tabernero",
+              "definicion": "Figuras cotidianas que la mirada del príncipe transforma en gigantes de fábula."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Defensa de la Lectura Quijotesca en Jacinto Benavente",
+      "descripcion": "Estructura filológica, dramática y pedagógica de la reescritura quijotesca en El príncipe que todo lo aprendió en los libros.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Lectura Quijotesca en Jacinto Benavente",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo primordial: analizar cómo la comedia infantil de Benavente El príncipe que todo lo aprendió en los libros (1909) subvierte la tradición pedagógica punitiva elogiando la fantasía lectora quijotesca."
+        },
+        {
+          "id": "2",
+          "label": "Tradición Punitiva del Quijotismo",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco histórico desde el siglo XVIII donde las reescrituras para la infancia retrataban la afición a la ficción novelesca como una locura dañina que la trama moralizante debía curar o castigar con rigor."
+        },
+        {
+          "id": "3",
+          "label": "El Teatro de los Niños (1909)",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Proyecto teatral pionero y vanguardista impulsado por Benavente en Madrid para dotar a la infancia de repertorios dramáticos de alta calidad literaria, con precios populares y pases gratuitos para desfavorecidos."
+        },
+        {
+          "id": "4",
+          "label": "La Doble Dirección del Teatro Infantil",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Concepto teórico de Cervera Borrás que describe la coexistencia armoniosa entre la intencionalidad pedagógica moral y la tendencia lúdica a divertir y asombrar mediante el despliegue de la fantasía cómica."
+        },
+        {
+          "id": "5",
+          "label": "Análisis Textual y Hermenéutico",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Metodología filológica de análisis estrecho del texto dramático en diálogo con los artículos periodísticos del autor en El Imparcial y la bibliografía crítica sobre recepción cervantina contemporánea."
+        },
+        {
+          "id": "6",
+          "label": "Cotejo de Arquetipos Cervantinos",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Examen comparativo sistemático entre el tándem Don Quijote-Sancho Panza y la pareja dramática del Príncipe Azul y Tonino, rastreando diálogos, malentendidos cómicos y desenlaces iniciáticos."
+        },
+        {
+          "id": "7",
+          "label": "Examen de Guías Didácticas Oficiales",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Revisión documental de los materiales pedagógicos institucionales que han prescrito la obra en las aulas de primaria y secundaria en España a lo largo del siglo XX y XXI."
+        },
+        {
+          "id": "8",
+          "label": "Alabanza de la Ilusión frente al Castigo",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo filológico central: Benavente no desengaña a su protagonista al final; la afición lectora del príncipe no es corregida como extravío, sino celebrada como el motor de su sabiduría y felicidad."
+        },
+        {
+          "id": "9",
+          "label": "El Puente entre Verdad y Fantasía",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación dramática de que el viaje del príncipe funciona como un rito de paso donde los ideales caballerescos de los libros le permiten redimir la vileza mundana y conquistar el amor verdadero."
+        },
+        {
+          "id": "10",
+          "label": "Superación del Didactismo Moralizante",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Evidencia textual de la renuncia explícita de Benavente a los sermones pedantes, apostando por la inteligencia innata de los niños mediante la sátira humorística de las monomanías adultas."
+        },
+        {
+          "id": "11",
+          "label": "Revolución en la Recepción Quijotesca",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión sobre la audacia del autor al convertir la locura quijotesca en un elogio de la resiliencia moral, adelantándose en décadas a las corrientes pedagógicas contemporáneas pro-imaginación."
+        },
+        {
+          "id": "12",
+          "label": "Interpelación a los Mediadores Adultos",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión crítica que señala que la obra interpela a padres y maestros, advirtiéndoles contra la manía utilitarista de asfixiar los sueños infantiles bajo un pragmatismo ciego y descarnado."
+        },
+        {
+          "id": "13",
+          "label": "Reivindicación de la Lectura Dramática",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión formativa: la obra de Benavente constituye un recurso pedagógico excepcional para dinamizar el teatro leído y la dramatización participativa en las escuelas contemporáneas."
+        },
+        {
+          "id": "14",
+          "label": "Poder Formativo de los Cuentos de Hadas",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta didáctica de revalorizar la fantasía maravillosa como un andamiaje ético profundo que ayuda a la infancia a estructurar el sentido del bien, la justicia y la esperanza."
+        },
+        {
+          "id": "15",
+          "label": "Dignidad de la Literatura Infantil",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión final: Jacinto Benavente demostró que escribir para niños exige el máximo talento artístico, consagrando al teatro infantil como un arte mayor dentro del canon hispánico universal."
+        },
+        {
+          "id": "16",
+          "label": "Enfoque Monográfico en un Único Texto",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación propia del análisis monográfico de una única comedia dramática, sugiriendo contrastar con el resto de la producción teatral infantil benaventiana y coetánea."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se contrapone a la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se ejecuta mediante"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se desafía en el"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "ejemplifica la"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "aplica el"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "se complementa con el"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "demuestra la"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "evidencia el"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "comprueba la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "provoca una"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "alimenta la"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "posibilita la"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "justifica la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "orienta el"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "conduce hacia la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "afianza la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "se circunscribe a su"
+        },
+        {
+          "from": "4",
+          "to": "10",
+          "label": "se concreta en la"
+        },
+        {
+          "from": "8",
+          "to": "14",
+          "label": "valida el"
+        },
+        {
+          "from": "3",
+          "to": "15",
+          "label": "consolida la"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Miriam Borham-Puyal nos regala una reivindicación hermosa del lector rebelde: los cuentos no nos vuelven ingenuos ante los peligros del mundo; nos dan la armadura de luz necesaria para vencer a los ogros y no perder jamás la fe en los demás.",
+      "preguntas_guiadas": [
+        "¿En qué medida la lectura de relatos de fantasía influyó en tu propia escala de valores durante la infancia?",
+        "¿Cómo puede el teatro escolar romper con las representaciones moralizantes y recuperar el espíritu cómico e inteligente de Benavente?"
+      ]
+    }
+  }
+}

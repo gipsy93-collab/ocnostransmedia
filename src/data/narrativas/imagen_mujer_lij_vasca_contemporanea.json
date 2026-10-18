@@ -1,0 +1,377 @@
+{
+  "id": "imagen_mujer_lij_vasca_contemporanea",
+  "metadata": {
+    "id": "imagen_mujer_lij_vasca_contemporanea",
+    "title": "Imagen de la mujer en la Literatura Infantil y Juvenil vasca contemporánea",
+    "authors": [
+      "Eneko Fernández-Artigas",
+      "Xabier Etxaniz",
+      "Arantzazu Rodríguez-Fernández"
+    ],
+    "year": 2019,
+    "volume": "18",
+    "issue": "1",
+    "pages": "63-72",
+    "doi": "10.18239/ocnos_2019.18.1.1902",
+    "keywords": [
+      "literatura infantil vasca",
+      "estereotipos de género",
+      "roles de género",
+      "euskera",
+      "crítica feminista"
+    ],
+    "abstract": "Estudio descriptivo de 74 obras de la LIJ vasca contemporánea (publicadas en 2013 y premiadas entre 2009 y 2014) que audita los estereotipos de género, la asignación de tareas de cuidado, los rasgos psicológicos y el protagonismo femenino."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Qué modelos de mujer y de hombre transmiten los libros infantiles publicados y premiados en lengua vasca? Este estudio analiza 74 obras de LIJ vasca para comprobar si persiste la reproducción de roles sexistas tradicionales o si se vislumbra un avance hacia la equidad de género.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis crítico de la literatura en euskera:",
+        "opciones": [
+          {
+            "id": "corpus",
+            "texto": "Corpus bibliográfico: obras comerciales frente a obras premiadas"
+          },
+          {
+            "id": "roles",
+            "texto": "Distribución de roles: cuidados domésticos y esferas profesionales"
+          },
+          {
+            "id": "discursivo",
+            "texto": "Análisis discursivo: protagonismo y rasgos físicos y psicológicos"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "La literatura infantil constituye el primer termómetro socializador de la infancia. Pese a los discursos institucionales de igualdad, persisten sesgos sutiles donde los personajes masculinos acaparan la acción heroica y el ámbito público mientras las figuras femeninas siguen relegadas a los cuidados domésticos y la pasividad.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Por qué la persistencia de estereotipos sutiles en la LIJ es especialmente dañina?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Porque los menores absorben estos modelos simbólicos de forma acrítica, interiorizando límites invisibles para su propio desarrollo personal y profesional.",
+            "correcta": true,
+            "explicacion": "Exacto: la LIJ opera como espejo identitario en edades en las que se fijan los esquemas básicos de género."
+          },
+          {
+            "id": "c2",
+            "texto": "Porque los niños nunca prestan atención a los personajes femeninos.",
+            "correcta": false,
+            "explicacion": "La cuestión no es la atención, sino la naturalización de jerarquías de género en los imaginarios infantiles."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los investigadores analizaron 74 libros de LIJ vasca: 55 publicados en el año 2013 y 19 obras galardonadas en los certámenes más prestigiosos (Premios Euskadi, Etxepare, Lizardi, Mikel Zarate) entre 2009 y 2014. Evaluaron sexo del protagonista, actividades laborales, cuidados familiares y caracterización psicológica.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Constitución del corpus",
+            "detalle": "74 títulos en euskera analizados sistemáticamente, distinguiendo producción comercial y premiada."
+          },
+          {
+            "fase": "Plantilla de codificación",
+            "detalle": "Ficha estandarizada evaluando protagonismo, profesión, tareas domésticas y adjetivación."
+          },
+          {
+            "fase": "Tratamiento cuantitativo",
+            "detalle": "Análisis porcentual y contrastes estadísticos entre obras estándar y galardonadas."
+          },
+          {
+            "fase": "Exégesis ideológica",
+            "detalle": "Interpretación sociológica y feminista de la pervivencia de mandatos patriarcales."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Aunque se registran avances en el protagonismo de niñas independientes, la brecha persiste: los hombres casi triplican a las mujeres en el desempeño de trabajos remunerados diversos, mientras que el peso del cuidado doméstico y familiar sigue recayendo de forma abrumadora sobre los personajes femeninos.",
+      "datos_clave": [
+        "Análisis de 74 obras contemporáneas de la LIJ en euskera.",
+        "Mayor equilibrio en el protagonismo infantil individual en obras premiadas.",
+        "Persistencia del sexismo en el reparto de tareas domésticas y de cuidados.",
+        "Sobrerrepresentación masculina en profesiones de autoridad y prestigio público."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se fundamenta en la crítica literaria feminista de Teresa Colomer y Montserrat Turín, las teorías sociológicas de género de De-Barbieri y los estudios sobre coeducación y prevención del sexismo de Díaz-Aguado.",
+      "referencias_clave": [
+        "Colomer & Olid (2009)",
+        "Turín (1995)",
+        "De-Barbieri (1992)",
+        "Díaz-Aguado (2009)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "La literatura infantil vasca muestra síntomas esperanzadores de renovación en sus protagonistas jóvenes, pero mantiene una inercia conservadora en el reparto de roles adultos que exige un compromiso coeducativo activo por parte de autores, editoriales y docentes.",
+      "hallazgo_central": "La LIJ vasca contemporánea avanza hacia el protagonismo femenino pero continúa reproduciendo la división tradicional de género en los cuidados domésticos y el mercado laboral."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja las dimensiones analizadas con los hallazgos del corpus vasco:",
+          "pares": [
+            {
+              "concepto": "Obras premiadas (Euskadi, Lizardi)",
+              "definicion": "Mayor presencia de protagonistas femeninas complejas, activas y no convencionales."
+            },
+            {
+              "concepto": "Ámbito laboral y profesional",
+              "definicion": "Fuerte predominio masculino en variedad de oficios y puestos de liderazgo social."
+            },
+            {
+              "concepto": "Esfera doméstica y de cuidados",
+              "definicion": "Asignación casi exclusiva y naturalizada a madres, abuelas y personajes femeninos."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Representación de Género en la Literatura Infantil Vasca Contemporánea",
+      "descripcion": "Estructura analítica de los estereotipos, roles y protagonismo de la mujer en el corpus de LIJ en euskera.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Imagen de la Mujer en la LIJ Vasca",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo fundamental: auditar y caracterizar la presencia, estereotipos y roles de género asignados a los personajes femeninos en la Literatura Infantil y Juvenil en euskera publicada y premiada recientemente."
+        },
+        {
+          "id": "2",
+          "label": "La LIJ como Agente de Socialización",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico que sitúa a los libros infantiles como artefactos culturales tempranos decisivos donde los menores aprehenden pautas éticas, normas de conducta y modelos de identificación personal."
+        },
+        {
+          "id": "3",
+          "label": "Crítica Literaria Feminista",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Enfoque epistemológico que desvela las estructuras patriarcales soterradas, el sexismo lingüístico y la asimetría de poder presente en los discursos literarios y en la ilustración."
+        },
+        {
+          "id": "4",
+          "label": "Estereotipos de Género Tradicionales",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Construcción social descrita por De-Barbieri que asocia a la mujer atributos de pasividad, emotividad y confinamiento doméstico frente a la fuerza, autoridad y agencia pública masculina."
+        },
+        {
+          "id": "5",
+          "label": "Corpus de 74 Obras en Euskera",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Muestra representativa integrada por 55 libros infantiles publicados en el año 2013 y 19 obras galardonadas entre 2009 y 2014 en certámenes literarios de referencia como los Premios Euskadi y Lizardi."
+        },
+        {
+          "id": "6",
+          "label": "Parrilla de Análisis Sistemático",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Instrumento analítico cuantitativo y cualitativo que tabuló variables de sexo protagonista, características físicas, rasgos psicológicos, reparto de cuidados domésticos y actividad profesional."
+        },
+        {
+          "id": "7",
+          "label": "Contraste entre Comerciales y Premiadas",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico comparativo orientado a determinar si las obras avaladas institucionalmente por jurados prestigiosos presentan una mayor sensibilidad igualitaria que el mercado editorial masivo."
+        },
+        {
+          "id": "8",
+          "label": "Avances en Protagonismo Femenino",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación de un equilibrio numérico positivo en el papel protagonista infantil, especialmente visible en las obras premiadas donde las niñas lideran relatos de aventura y resolución de problemas."
+        },
+        {
+          "id": "9",
+          "label": "Persistencia del Confinamiento Doméstico",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo empírico contundente: las tareas del hogar, la preparación de alimentos y el cuidado de enfermos y niños siguen asignándose en un porcentaje abrumadoramente mayoritario a figuras femeninas."
+        },
+        {
+          "id": "10",
+          "label": "Asimetría en la Esfera Laboral",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los personajes masculinos duplican y triplican a los femeninos en diversidad de profesiones remuneradas cualificadas, ostentando la práctica totalidad de empleos con proyección comunitaria."
+        },
+        {
+          "id": "11",
+          "label": "Sexismo Benevolente y Sutil",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión sobre la mutación del sexismo en la LIJ moderna, donde se erradican los insultos explícitos pero se mantiene una sutil división jerárquica de funciones que consolida la doble jornada femenina."
+        },
+        {
+          "id": "12",
+          "label": "Función Ejemplar de los Premios",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión crítica sobre la responsabilidad social de los jurados y las administraciones públicas al premiar obras destinadas a convertirse en lecturas curriculares de los centros educativos vascos."
+        },
+        {
+          "id": "13",
+          "label": "Coeducación Activa en el Aula",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación imperativa para docentes: no asumir la neutralidad de los libros en euskera y practicar una lectura crítica guiada que interpele al alumnado sobre los roles representados."
+        },
+        {
+          "id": "14",
+          "label": "Compromiso de Autores y Editoriales",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Llamamiento a los creadores e industrias culturales vascas para diseñar deliberadamente tramas donde la corresponsabilidad masculina en los cuidados sea cotidiana y visible."
+        },
+        {
+          "id": "15",
+          "label": "Literatura como Espejo Emancipador",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión final: garantizar una LIJ libre de estereotipos es un derecho de la infancia para forjar identidades democráticas, plurales y libres de mandatos patriarcales limitantes."
+        },
+        {
+          "id": "16",
+          "label": "Marco Temporal Acotado",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación derivada de evaluar libros editados en 2013 y certámenes hasta 2014, aconsejando actualizar el estudio con la producción bibliográfica en euskera de la última década."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "parte de concebir"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se ejecuta analizando"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se examina desde la"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "denuncia la acción de"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se analiza mediante"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "permite el"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "evidencia claros"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "demuestra la"
+        },
+        {
+          "from": "6",
+          "to": "10",
+          "label": "constata una fuerte"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "confirma ventajas en"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "se interpreta como"
+        },
+        {
+          "from": "10",
+          "to": "11",
+          "label": "alimenta la noción de"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "destaca la"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "hace imprescindible la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "interpela al"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "conduce hacia una"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "hace posible la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe ponderarse ante el"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "acotada por su"
+        },
+        {
+          "from": "4",
+          "to": "9",
+          "label": "perpetúa la"
+        },
+        {
+          "from": "2",
+          "to": "15",
+          "label": "propicia la"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Fernández-Artigas, Etxaniz y Rodríguez-Fernández nos demuestran que las palabras y los dibujos educan tanto como los discursos. Mientras las madres sigan cocinando y los padres resolviendo el mundo en los cuentos infantiles, la igualdad real seguirá esperando en la puerta del aula.",
+      "preguntas_guiadas": [
+        "¿Qué porcentaje de libros en la biblioteca de tu centro presentan a hombres realizando tareas de cuidado y afecto familiar?",
+        "¿Cómo pueden los mediadores literarios abrir debates con niños sobre los oficios de los personajes en sus lecturas favoritas?"
+      ]
+    }
+  }
+}

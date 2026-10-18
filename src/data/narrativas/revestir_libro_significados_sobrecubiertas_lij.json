@@ -1,0 +1,376 @@
+{
+  "id": "revestir_libro_significados_sobrecubiertas_lij",
+  "metadata": {
+    "id": "revestir_libro_significados_sobrecubiertas_lij",
+    "title": "Revestir el libro de significados: un análisis de las sobrecubiertas en la literatura infantil y juvenil",
+    "authors": [
+      "Ana Margarida Ramos",
+      "Margareth Mattos"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "2",
+    "pages": "33-45",
+    "doi": "10.18239/ocnos_2018.17.2.1679",
+    "keywords": [
+      "sobrecubiertas",
+      "peritextos",
+      "libro-álbum",
+      "literatura infantil",
+      "materialidad del libro"
+    ],
+    "abstract": "Estudio peritextual comparado a partir de un corpus de álbumes y libros ilustrados de Portugal y Brasil. Analiza cómo la sobrecubierta trasciende la protección física y el marketing para generar diálogo narrativo, parodia, elipsis y metatexto."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Es la sobrecubierta de un libro infantil un simple envoltorio desechable o un dispositivo narrativo cargado de secretos y lecturas cruzadas? Este estudio peritextual en Portugal y Brasil analiza la sofisticación material de las sobrecubiertas en la literatura infantil y juvenil contemporánea.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva para indagar en la piel del libro ilustrado:",
+        "opciones": [
+          {
+            "id": "peritextual",
+            "texto": "Enfoque genettiano: el peritexto editorial como umbral de significado"
+          },
+          {
+            "id": "material",
+            "texto": "Materialidad y diseño: papeles, transparencias, troquelados y solapas"
+          },
+          {
+            "id": "narrativa",
+            "texto": "Juego narrativo: complicidad, elipsis, parodia y diálogo con la cubierta"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "La crítica de la LIJ ha analizado las guardas, portadas e ilustraciones interiores, pero la sobrecubierta se reducía a un accesorio publicitario o protector ignorado en las aulas. Sin embargo, en el álbum contemporáneo, retirar la sobrecubierta desvela sorpresas, disonancias irónicas y claves argumentales decisivas.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué ocurre cuando la ilustración de la sobrecubierta difiere de la ilustración de la cubierta?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Se establece un diálogo narrativo lúdico donde la cubierta oculta revela la verdad o el destino de la historia antes de abrir la primera página.",
+            "correcta": true,
+            "explicacion": "Exacto: la doble piel del libro permite al ilustrador jugar con la anticipación, la parodia y la revelación de secretos."
+          },
+          {
+            "id": "c2",
+            "texto": "Es un error de imprenta que confunde al lector sin ninguna intención artística.",
+            "correcta": false,
+            "explicacion": "Forma parte de una meditada estrategia semiótica y de diseño editorial multimodal."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Las autoras recopilaron un corpus de álbumes ilustrados de alta calidad editorial editados en Portugal y Brasil. Diseñaron una matriz de análisis analizando la relación física y semántica entre cubierta y sobrecubierta: correspondencia exacta, complementariedad, contraste irónico y transformaciones troqueladas.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Corpus luso-brasileño",
+            "detalle": "Selección de álbumes ilustrados representativos de editoriales punteras de Portugal y Brasil."
+          },
+          {
+            "fase": "Taxonomía formal",
+            "detalle": "Clasificación de soportes materiales: papel cebolla, relieves, troqueles y pósteres despegables."
+          },
+          {
+            "fase": "Matriz semiótica",
+            "detalle": "Evaluación del diálogo intertextual entre la sobrecubierta externa y la cubierta interna."
+          },
+          {
+            "fase": "Pacto de lectura",
+            "detalle": "Implicaciones para el entrenamiento de la competencia visual y táctil en mediación lectora."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El estudio desvela que la sobrecubierta se ha convertido en un artefacto artístico de primer nivel: expande la narrativa, desafía las expectativas del lector, propone juegos metatextuales y transforma el acto de abrir el libro en una vivencia estética táctil y multisensorial.",
+      "datos_clave": [
+        "Primer análisis exhaustivo y sistemático de la sobrecubierta en la LIJ luso-brasileña.",
+        "Tipología analítica de relaciones: réplica, expansión semántica, juego y contraste paródico.",
+        "Revalorización de la cultura material del libro en la era de la lectura en pantallas.",
+        "Criterios para mediadores docentes sobre cómo enseñar a leer los umbrales del libro."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "La investigación articula la teoría de los paratextos y peritextos de Gérard Genette, la semiótica visual del libro-álbum de Sophie Van-der-Linden e Isabelle Nières-Chevrel, y los estudios de cultura material y diseño de Jan Tschichold.",
+      "referencias_clave": [
+        "Genette (1987)",
+        "Van-der-Linden (2013)",
+        "Tschichold (2007)",
+        "Ramos & Mattos (2018)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El libro-álbum contemporáneo es una escultura de papel: retirar la sobrecubierta no es desenvolver un paquete, es descorrer el primer telón de una representación artística donde cada pliegue y textura genera sentido.",
+      "hallazgo_central": "La sobrecubierta en la LIJ trasciende su función utilitaria para consolidarse como un dispositivo narrativo y peritextual autónomo que enriquece el pacto de lectura."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja las funciones de la sobrecubierta con sus recursos gráficos:",
+          "pares": [
+            {
+              "concepto": "Contraste y revelación",
+              "definicion": "La cubierta interior desvela un secreto que la sobrecubierta externa ocultaba."
+            },
+            {
+              "concepto": "Troquelado lúdico",
+              "definicion": "Ventana calada en el papel que permite espiar personajes de la capa inferior."
+            },
+            {
+              "concepto": "Solapas narrativas",
+              "definicion": "Prolongación del espacio ilustrado que añade información paratextual insólita."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Análisis de las Sobrecubiertas en la Literatura Infantil",
+      "descripcion": "Estructura semiótica, material y narrativa de las funciones peritextuales de la sobrecubierta en la LIJ luso-brasileña.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Sobrecubiertas y Sentido en la LIJ",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo principal: investigar y categorizar sistemáticamente el papel peritextual, semiótico y narrativo de las sobrecubiertas en álbumes y libros ilustrados contemporáneos de Portugal y Brasil."
+        },
+        {
+          "id": "2",
+          "label": "Evolución Histórica de la Sobrecubierta",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Trayectoria material de la sobrecubierta desde su origen funcional como mero envoltorio protector desechable y soporte publicitario hasta su consolidación como espacio de creación artística."
+        },
+        {
+          "id": "3",
+          "label": "Teoría de los Peritextos de Genette",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Paradigma semiótico que define los peritextos editoriales como los umbrales espaciales del libro que modulan las expectativas, orientan las inferencias y condicionan el pacto de lectura inicial."
+        },
+        {
+          "id": "4",
+          "label": "El Libro-Álbum como Objeto Estético",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco de Van-der-Linden y Nières-Chevrel donde el libro infantil se concibe como un artefacto físico unitario en el que dialogan indisolublemente el texto verbal, la imagen plástica y el soporte papel."
+        },
+        {
+          "id": "5",
+          "label": "Corpus Ilustrado de Portugal y Brasil",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Selección documental de libros ilustrados y álbumes representativos publicados por editoriales de referencia en el ámbito iberoamericano que incorporan sobrecubiertas complejas y no convencionales."
+        },
+        {
+          "id": "6",
+          "label": "Matriz Analítica Multidimensional",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Protocolo analítico cualitativo que evaluó variables de materialidad física (gramajes, brillos, opacidades, troqueles), tratamiento gráfico y relación semántica respecto a la cubierta interna."
+        },
+        {
+          "id": "7",
+          "label": "Tipología Relacional Cubierta-Sobrecubierta",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Procedimiento de codificación que identificó cuatro patrones fundamentales: correspondencia idéntica, complementariedad sinérgica, contraste irónico y metamorfosis tridimensional."
+        },
+        {
+          "id": "8",
+          "label": "Autonomía Narrativa del Peritexto",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo semiótico clave: las sobrecubiertas contemporáneas operan con notable independencia discursiva, funcionando a menudo como prólogos mudos o epílogos gráficos de la trama principal."
+        },
+        {
+          "id": "9",
+          "label": "Juegos de Ocultación y Descubrimiento",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación empírica de recursos lúdicos donde retirar la sobrecubierta provoca sorpresa en el lector al revelar alteraciones drásticas en los personajes o transformaciones de escenarios."
+        },
+        {
+          "id": "10",
+          "label": "Polifonía en Solapas y Paratextos",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Evidencia del aprovechamiento de las solapas para insertar biografías ficcionales, dedicatorias ilustradas o mapas complementarios que expanden el universo diegético de la obra."
+        },
+        {
+          "id": "11",
+          "label": "Resistencia Táctil frente a la Pantalla",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión en torno a cómo la sofisticación peritextual reivindica la experiencia sensorial y física irreemplazable del papel frente a la virtualidad plana e inmaterial de los soportes digitales."
+        },
+        {
+          "id": "12",
+          "label": "Invisibilización en Bibliotecas y Escuelas",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Denuncia de la práctica bibliotecaria habitual de retirar o pegar las sobrecubiertas por motivos de conservación, mutilando involuntariamente la experiencia estética concebida por el autor."
+        },
+        {
+          "id": "13",
+          "label": "Formación en Alfabetización Peritextual",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión imperativa: la mediación docente debe enseñar a los escolares a leer los márgenes del libro, demorándose en la exploración reflexiva de la sobrecubierta antes de pasar página."
+        },
+        {
+          "id": "14",
+          "label": "Criterios de Curaduría para Mediadores",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta formativa para dotar a docentes y bibliotecarios de criterios de apreciación estética que reconozcan el valor del diseño editorial como parte troncal del mensaje literario."
+        },
+        {
+          "id": "15",
+          "label": "El Libro como Escultura Narrativa Total",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión global: en la LIJ de vanguardia, cada componente material del libro constituye un vector semiótico deliberado que invita a una experiencia de lectura inmersiva y transformadora."
+        },
+        {
+          "id": "16",
+          "label": "Corpus Selectivo no Exhaustivo",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación propia de una selección cualitativa focalizada en la producción luso-brasileña contemporánea, recomendando extender la matriz analítica a otras tradiciones editoriales europeas."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "rastrea la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se valida en"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se interpreta mediante la"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se integra en el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se examina mediante"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "permite formular la"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "demuestra empíricamente la"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "evidencia los"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "desvela la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "respalda la"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "se articula con la"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "choca contra la"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "fundamenta la"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "hace urgente la"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "orienta los"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "conduce hacia la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "se delimita por un"
+        },
+        {
+          "from": "4",
+          "to": "15",
+          "label": "culmina en concebir"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "fundamenta la"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "demanda la"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Ramos y Mattos nos enseñan a mirar un libro con ojos nuevos: la sobrecubierta no es un papel para tirar a la basura, es la primera caricia del relato, un umbral mágico donde el arte nos invita a descubrir qué se esconde detrás de la apariencia.",
+      "preguntas_guiadas": [
+        "¿Sueles retirar las sobrecubiertas de los libros que lees o te detienes a examinar los secretos que ocultan bajo sus pliegues?",
+        "¿Cómo pueden los docentes utilizar la cubierta y sobrecubierta para trabajar hipótesis de lectura e inferencias con sus alumnos?"
+      ]
+    }
+  }
+}

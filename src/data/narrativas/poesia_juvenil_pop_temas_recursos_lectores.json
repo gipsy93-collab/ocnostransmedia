@@ -1,0 +1,375 @@
+{
+  "id": "poesia_juvenil_pop_temas_recursos_lectores",
+  "metadata": {
+    "id": "poesia_juvenil_pop_temas_recursos_lectores",
+    "title": "Poesía juvenil pop: temas, recursos formales y estrategias para llegar al lector joven",
+    "authors": [
+      "Begoña Regueiro-Salgado"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "1",
+    "pages": "68-77",
+    "doi": "10.18239/ocnos_2018.17.1.1476",
+    "keywords": [
+      "poesía juvenil",
+      "poesía pop",
+      "hábitos lectores",
+      "redes sociales",
+      "mediación literaria"
+    ],
+    "abstract": "Investigación cuali-cuantitativa que analiza el fenómeno de masas de la poesía pop juvenil en España. Mediante encuestas a 56 lectores jóvenes y el examen formal de cuatro poemarios superventas de Marwan, Irene X, Diego Ojeda y Elvira Sastre, desentraña las claves temáticas (desamor, intimidad, catarsis), estéticas y mediáticas que explican el éxito de estos autores en el público adolescente."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Es la poesía un género minoritario y elitista condenado al olvido en la era digital, o vive un boom editorial sin precedentes de la mano de cantautores, poetas de Instagram y creadores pop seguidos por miles de jóvenes? Este estudio analiza las razones formales, temáticas y sociológicas del fenómeno de la poesía pop juvenil.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis crítico y literario:",
+        "opciones": [
+          {
+            "id": "estetica",
+            "texto": "Ruta estética: versolibrismo, recursos del pop, aforismos y lenguaje confesional"
+          },
+          {
+            "id": "sociologica",
+            "texto": "Ruta sociológica: papel de las redes sociales, autoficción y cultura fan"
+          },
+          {
+            "id": "didactica",
+            "texto": "Ruta didáctica: potencialidades y riesgos de la poesía pop como puente en el aula"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Mientras la crítica académica canónica desestima frecuentemente estos poemarios calificándolos de \"paraliteratura\", frases de autoayuda o subproducto comercial, miles de jóvenes llenan recitales y compran con fervor sus libros. Surge un dilema pedagógico: ¿debe el docente rechazar esta corriente o aprovecharla como trampolín hacia el canon poético?",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué mecanismo psicológico y estético explica la identificación del lector joven con estos poemarios?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "La inmediatez confesional del \"yo lírico\", donde el lector siente que el poema reproduce fielmente sus propios dramas afectivos sin barreras herméticas.",
+            "correcta": true,
+            "explicacion": "Exacto: la transparencia emocional y la voz testimonial cercana generan una catarsis de reconocimiento íntimo instantáneo."
+          },
+          {
+            "id": "c2",
+            "texto": "La complejidad métrica y el uso de alegorías barrocas inaccesibles para el gran público.",
+            "correcta": false,
+            "explicacion": "La poesía pop se caracteriza justamente por la sencillez léxica, el verso libre y la estética cotidiana, lejos del hermetismo."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "La investigadora combinó el análisis textual minucioso de cuatro poemarios emblemáticos del fenómeno (Marwan, Irene X, Diego Ojeda y Elvira Sastre) con un estudio de recepción mediante cuestionario a 56 lectores jóvenes. Analizó temas recurrentes, figuras retóricas, brevedad aforística y modos de circulación viral en internet.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Corpus poético",
+            "detalle": "Selección de obras superventas de Marwan, Irene X, Diego Ojeda y Elvira Sastre."
+          },
+          {
+            "fase": "Análisis textual",
+            "detalle": "Desglose de recursos estilísticos: verso libre, imagen urbana, lenguaje coloquial y sentimentalismo."
+          },
+          {
+            "fase": "Encuesta a lectores",
+            "detalle": "56 cuestionarios a jóvenes consumidores de poesía pop sobre motivaciones y hábitos de compra."
+          },
+          {
+            "fase": "Triangulación crítica",
+            "detalle": "Cruce entre juicio crítico formal, dinámicas de redes sociales y trasvase a la lectura escolar."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El estudio desvela que el éxito no es azaroso ni mero marketing: responde a una poética de la empatía emocional, versos condensados ideales para compartir en redes, y una hibridación con la música de cantautor. Sin embargo, también advierte de riesgos como la repetición de clichés amorosos patriarcales y la falta de exigencia interpretativa.",
+      "datos_clave": [
+        "Análisis empírico de recepción con 56 lectores jóvenes y examen estilístico de cuatro autores clave.",
+        "Identificación de los temas motores: amor romántico, desengaño pasional, resiliencia y búsqueda de identidad.",
+        "Predominio del aforismo gráfico y el micropoema visual perfectamente adaptado a la lógica de Instagram y Twitter.",
+        "Propuesta pedagógica de utilizar estos textos como puerta de entrada accesible para educar la sensibilidad lírica."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se encuadra en los estudios sobre recepción literaria de Jauss e Iser, las reflexiones sobre cultura popular y mass media de Mendoza Fillola, y los debates sobre poesía actual y nativos digitales en España.",
+      "referencias_clave": [
+        "Jauss (1978)",
+        "Mendoza Fillola (2004)",
+        "Regueiro-Salgado (2018)",
+        "Cerrillo (2007)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "La poesía juvenil pop ha devuelto la emoción del verso a una generación hiperconectada. La labor docente no radica en censurarla por simple, sino en comprender sus códigos afectivos para construir puentes que guíen al lector desde la inmediatez emocional hacia las cumbres de la gran literatura.",
+      "hallazgo_central": "La poesía pop juvenil triunfa por su inmediatez confesional y simbiosis digital, ofreciendo una valiosa oportunidad de mediación lectora si se complementa con una mirada crítica en el aula."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los rasgos de la poesía juvenil pop con su función comunicativa:",
+          "pares": [
+            {
+              "concepto": "Aforismo y brevedad lírica",
+              "definicion": "Frases condensadas de fuerte impacto que facilitan la viralización y captura visual en redes."
+            },
+            {
+              "concepto": "Voz confesional testimonial",
+              "definicion": "Proyección de autenticidad íntima con la que el lector adolescente experimenta identificación inmediata."
+            },
+            {
+              "concepto": "Puente pedagógico literario",
+              "definicion": "Aprovechamiento didáctico de la lectura pop para abrir el interés hacia el canon poético clásico."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Poesía Juvenil Pop y Mediación Lectora con Jóvenes",
+      "descripcion": "Análisis textual, sociológico y didáctico del fenómeno de masas de los jóvenes poetas en España.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Fenómeno de la Poesía Juvenil Pop",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo del artículo: analizar los temas, recursos formales y estrategias mediáticas que han convertido a la poesía pop juvenil en un fenómeno editorial de masas entre lectores jóvenes en España."
+        },
+        {
+          "id": "2",
+          "label": "Tensión entre Canon y Nuevas Prácticas",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco contextual que contrasta el tradicional declive del interés juvenil por la poesía canónica escolar con el éxito arrollador de ventas y seguimiento en redes de esta nueva corriente poética."
+        },
+        {
+          "id": "3",
+          "label": "Teoría de la Recepción y Horizonte de Expectativas",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Enfoque de Hans Robert Jauss sobre el horizonte de expectativas del receptor, crucial para comprender cómo la sencillez formal conecta con la sensibilidad y demandas afectivas del público adolescente."
+        },
+        {
+          "id": "4",
+          "label": "Cultura Digital y Redes Sociales",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Impacto de plataformas como Instagram, Twitter y YouTube en la difusión del poema visual, donde la imagen tipográfica y el aforismo breve actúan como ganchos emocionales de consumo rápido."
+        },
+        {
+          "id": "5",
+          "label": "Metodología Mixta Cuali-Cuantitativa",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico que articula el análisis textual riguroso de poemarios con la indagación empírica de recepción lectora mediante cuestionarios aplicados a jóvenes lectores reales."
+        },
+        {
+          "id": "6",
+          "label": "Corpus de Cuatro Autores Superventas",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Selección de cuatro poemarios representativos del movimiento en España pertenecientes a Marwan, Irene X, Diego Ojeda y Elvira Sastre, analizando temas, métrica y recursos estilísticos."
+        },
+        {
+          "id": "7",
+          "label": "Cuestionario de Hábitos a 56 Lectores",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Instrumento de encuesta administrado a 56 lectores jóvenes que indaga frecuencia de lectura lírica, motivos de compra, autores preferidos y vías de descubrimiento en internet y librerías."
+        },
+        {
+          "id": "8",
+          "label": "Análisis de Recursos Formales y Aforismos",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Examen de procedimientos estilísticos recurrentes: versolibrismo, ausencia de rima clásica, uso coloquial del lenguaje, juegos de palabras sencillos y estructura sentenciosa breve."
+        },
+        {
+          "id": "9",
+          "label": "Temáticas Centrales: Desamor y Catarsis",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los resultados textuales evidencian el predominio absoluto del amor apasionado, la ruptura dolorosa, el desengaño, la melancolía y la búsqueda de autoafirmación como ejes vertebradores de los poemarios."
+        },
+        {
+          "id": "10",
+          "label": "Empatía y Desahogo Emocional Juvenil",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Los lectores encuestados señalan como principal motivación la identificación íntima con los sentimientos expresados, sintiendo que los autores ponen palabras precisas a sus propias vivencias afectivas."
+        },
+        {
+          "id": "11",
+          "label": "Hibridación con la Música de Cantautor",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Constatación del estrecho vínculo entre la poesía pop y el circuito de cantautores, evidenciando un trasvase constante de público desde los recitales acústicos hacia la compra del libro físico."
+        },
+        {
+          "id": "12",
+          "label": "Riesgos de Banalización y Amor Romántico",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión crítica que alerta sobre la reiteración de tópicos del amor romántico tradicional, la dependencia emocional normalizada y la falta de densidad estética en ciertas composiciones."
+        },
+        {
+          "id": "13",
+          "label": "Desafío Didáctico para el Aula de Secundaria",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate pedagógico sobre la oportunidad de no censurar estas lecturas en los institutos, sino tomarlas como punto de partida dialógico para desentrañar su funcionamiento estilístico."
+        },
+        {
+          "id": "14",
+          "label": "La Poesía Pop como Puente Canónico",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental que propone considerar la poesía juvenil pop como un trampolín formativo eficaz que despierta el hábito lector poético y puede conducir hacia la lírica canónica más compleja."
+        },
+        {
+          "id": "15",
+          "label": "Desarrollo del Juicio Estético y Crítico",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta didáctica centrada en dotar al alumnado de herramientas de análisis retórico para que aprenda a diferenciar la simple frase publicitaria del poema con espesor lírico genuino."
+        },
+        {
+          "id": "16",
+          "label": "Limitaciones en Tamaño y Heterogeneidad Muestral",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite metodológico vinculado al tamaño acotado de la muestra encuestada de 56 lectores, que aconseja ampliar el estudio a otras regiones y edades para generalizar hábitos de consumo."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "analiza"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se fundamenta en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se cruza con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "selecciona"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "administra"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "desarrolla"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "desvela"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "confirma"
+        },
+        {
+          "from": "6",
+          "to": "11",
+          "label": "evidencia"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "conecta con"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "genera debate sobre"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "plantea"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "matiza"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "conduce a"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "promueve"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "reconoce"
+        },
+        {
+          "from": "7",
+          "to": "16",
+          "label": "se restringe en"
+        },
+        {
+          "from": "4",
+          "to": "8",
+          "label": "moldea"
+        },
+        {
+          "from": "10",
+          "to": "14",
+          "label": "activa"
+        },
+        {
+          "from": "11",
+          "to": "10",
+          "label": "potencia"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Lejos de lamentar que los adolescentes ya no leen verso, la poesía pop demuestra que la juventud sigue teniendo sed de lirismo cuando este habla directamente a sus emociones. El reto para los docentes no es descalificar estos libros, sino utilizarlos como puentes luminosos hacia las cumbres de la palabra poética.",
+      "preguntas": [
+        "¿Cómo puede el profesorado de literatura incorporar la poesía pop en clase sin convalidar de forma acrítica los clichés del amor romántico tradicional?",
+        "¿De qué manera las redes sociales pueden convertirse en aliadas para el recital y la creación poética en el ámbito escolar?"
+      ]
+    }
+  }
+}

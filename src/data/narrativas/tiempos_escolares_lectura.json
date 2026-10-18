@@ -1,0 +1,150 @@
+{
+  "id": "tiempos_escolares_lectura",
+  "metadata": {
+    "title": "Tiempos escolares y lectura",
+    "authors": "Raúl Fraguela-Vale; Héctor Pose-Porto; Lara Varela-Garrote",
+    "year": "2016",
+    "journal": "Ocnos. Revista de estudios sobre lectura, 15(2) 2016",
+    "doi": "https://doi.org/10.18239/ocnos_2016.15.2.1099",
+    "gancho": "Estudio cuantitativo sobre la presencia de la lectura como actividad de ocio en la juventud española que cursa Educación Secundaria Postobligatoria (ESPO). Relaciona la frecuencia de lectura con variables sociodemográficas y con el contexto académico (calificaciones, tiempo de es",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#01b4bc",
+    "colorAlt": "#183446",
+    "bg": "from-cyan-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-5.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-5.png",
+      "name": "Raúl Fraguela-Vale; Héctor Pose-Porto; Lara Varela-Garrote",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Raúl Fraguela-Vale; Héctor Pose-Porto; Lara Varela-Garrote, autor/a en Revista Ocnos",
+      "gancho": "Estudio cuantitativo sobre la presencia de la lectura como actividad de ocio en la juventud española que cursa Educación Secundaria Postobligatoria (ESPO). Relaciona la frecuencia de lectura con varia",
+      "contexto": "El texto sitúa la lectura entre las prácticas de ocio que inciden en la vida y el contexto vital de las personas, y sostiene que empezar su cultivo desde las primeras edades y mantenerlo en la adolescencia es lo pertinente, tanto por el crecimiento personal y colectivo como por el papel de la familia y el grupo de iguales como referentes que transmiten valores (Martín y Muñoz, 2009; Yubero y Larrañaga, 2010) . El fomento del hábito compete a doce",
+      "deepDives": [
+        {
+          "id": "tiempos_escolares_lectura-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "El artículo parte de una tensión entre diagnósticos: la lectura es la práctica cultural más extendida en España, pero su presencia como actividad de ocio entre los jóvenes resulta marginal. Mientras el INE (2015) sitúa la lectura como práctica cultural mayoritaria con un criterio poco exigente —habe"
+        },
+        {
+          "id": "tiempos_escolares_lectura-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "El texto sitúa la lectura entre las prácticas de ocio que inciden en la vida y el contexto vital de las personas, y sostiene que empezar su cultivo desde las primeras edades y mantenerlo en la adolescencia es lo pertinente, tanto por el crecimiento personal y colectivo como por el papel de la famili"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El artículo parte de una tensión entre diagnósticos: la lectura es la práctica cultural más extendida en España, pero su presencia como actividad de ocio entre los jóvenes resulta marginal. Mientras el INE (2015) sitúa la lectura como práctica cultural mayoritaria con un criterio poco exigente —haber leído al menos un libro en el último año—, el CI",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "Acheaw y Larson, 2014; Wolters, Denton, York y Francis, 2014) ."
+      ],
+      "glossary": [
+        {
+          "term": "ESPO",
+          "definition": "Educación Secundaria Postobligatoria (Bachillerato, FP de Grado Medio y PCPI)."
+        },
+        {
+          "term": "Hábito lector",
+          "definition": "práctica de lectura sostenida en el tiempo, fruto de múltiples factores."
+        },
+        {
+          "term": "Ocio cultural inducido",
+          "definition": "actividad cultural señalada cuando el alumnado es forzado a elegirla."
+        },
+        {
+          "term": "Coeficiente de Spearman",
+          "definition": "medida no paramétrica del grado de asociación entre dos variables."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Es un **estudio cuantitativo empírico** que incluye resultados parciales de una investigación sobre los tiempos educativos y sociales de estudiantes de ESPO, dentro de un proyecto coordinado en red por seis grupos de investigación de distintas universidades españolas .\n- **Población y muestreo**: muestreo aleatorio simple sobre estudiantes de ESPO de régimen general de centros públicos y privados,",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Análisis empírico o teórico de corpus según fuentes primarias"
+        }
+      ],
+      "limitaciones": [
+        "Los autores **no incluyen un apartado formal de limitaciones**. No obstante, declaran que los resultados «no permiten establecer relaciones causales entre el tiempo dedicado a la lectura y el resto de"
+      ],
+      "reflexion": "Si replicaras este diseño, ¿qué variable sociodemográfica añadirías y cómo ajustarías el cuestionario ad hoc para reducir el sesgo de autopercepción en la frecuencia de lectura?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "La lectura como ocio es marginal.",
+          "value": "Solo un 2,3% del alumnado la escoge como primera actividad de ocio (puesto 14 de 49), aunque al verse forzado a elegir una actividad cultural el porcentaje sube al 10,9% y la lectura pasa al tercer puesto de las ocho actividades culturales . La importancia otorgada se asocia a la"
+        },
+        {
+          "label": "Perfil lector definido.",
+          "value": "El perfil general es el de una chica que cursa Bachillerato, lee una o dos veces por semana y dedica 75,31 minutos cada vez . Las chicas puntúan más bajo en «nunca leen durante su ocio» (85,2% frente a 90,3% de los chicos), con diferencia altamente significativa (U de Mann-Whitne"
+        },
+        {
+          "label": "La duración crece con la importancia.",
+          "value": "La prueba Anova (F=4.401, p< .01) muestra que quienes dan más importancia a la lectura dedican más minutos por vez; el post hoc de Tukey solo halla diferencias significativas entre el primer lugar (media 95,57 min) y el cuarto (media 63,84 min), con más de media hora de diferenci"
+        },
+        {
+          "label": "Contexto académico.",
+          "value": "Existe correlación positiva y muy significativa entre frecuencia de lectura y la nota más repetida en ESPO (ρ = .068, p< .01), pero **no** con el tiempo dedicado a estudiar (ρ = .042, p> .05), ya que las actividades paraescolares quedaban excluidas del bloque «Tiempo Libre» ."
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El marco del artículo se construye con autorías citadas en el propio texto, ordenadas en varios estratos. En el plano de la **socialización lectora**, recupera a Martín y Muñoz (2009) y Yubero y Larrañaga (2010), para quienes la familia y el grupo de amigos son referentes vitales que marcan pautas y transmiten valores; Moreno (2001, 2002), Pereira (2015) y Travancas (2014) subrayan que, a partir d",
+      "detalles": [
+        {
+          "label": "Tradición Teórica",
+          "value": "Teorías de la lectura, didáctica de la lengua y estudios literarios."
+        }
+      ],
+      "reflexion": "¿Es defendible sostener que la lectura «mejora» las calificaciones si los propios autores niegan la causalidad y muestran que quienes leen no estudian más? Argumenta a favor y en contra con el propio texto."
+    },
+    "nucleo": {
+      "pregunta": "¿Cuál es la presencia de la lectura como actividad de ocio en la juventud española de Educación Secundaria Postobligatoria, cómo se relaciona con sus variables sociodemográficas y qué vínculo tiene con su contexto académico?",
+      "conclusion": "La lectura como actividad de ocio **no está muy extendida** entre la juventud española que cursa ESPO: apenas un 10% la selecciona entre sus tres principales actividades y un 2,3% como primera opción . El perfil general del lector es el de una chica que cursa Bachillerato, lee una o dos veces por semana y dedica un promedio de 75,31 minutos cada vez .\nEn las variables sociodemográficas, el **género** es un factor relevante (ellas leen con mayor f",
+      "formalRef": "Fraguela-Vale, R., Pose-Porto, H., & Varela-Garrote, L. (2016). Tiempos escolares y lectura. *Ocnos: Revista de Estudios sobre lectura*, 15(2), 67-76. https://doi.org/10.18239/ocnos_2016.15.2.1099\n> *Nota de metadatos*: el DOI del texto plano (p. 1) coincide con el declarado por el pipeline (`10.18239/ocnos_2016.15.2.1099`); no hay discrepancia. La autoría completa confirmada en la p. 1 del txt es **Raúl Fraguela-Vale, Héctor Pose-Porto y Lara Varela-Garrote** (Universidad de A Coruña); la ficha previa resumía a los terceros como «y cols.». Los metadatos de la p. 1 confirman Ocnos (2016), 15(2): 67-76, con fechas de recepción (23/08/2016) y aceptación (02/10/2016)."
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es el perfil general del lector/a en la ESPO según este estudio?",
+          "options": [
+            "A) Un chico de Ciclo Formativo que lee todos los días.",
+            "B) Una chica de Bachillerato que lee una o dos veces por semana y dedica unos 75 minutos cada vez.",
+            "C) Un chico de PCPI que lee solo en vacaciones.",
+            "D) Una chica de PCPI que lee más de dos horas diarias."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué relación encontró el estudio entre la frecuencia de lectura durante el ocio y el tiempo dedicado a estudiar?",
+          "options": [
+            "A) Correlación positiva y significativa.",
+            "B) Correlación negativa y significativa.",
+            "C) Correlación positiva, pero no significativa.",
+            "D) No hay correlación (ρ = .042, p> .05)."
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  }
+}

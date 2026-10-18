@@ -1,0 +1,376 @@
+{
+  "id": "poesia_infantil_sefardi_tradicion_canciones_cuna",
+  "metadata": {
+    "id": "poesia_infantil_sefardi_tradicion_canciones_cuna",
+    "title": "Poesía infantil sefardí: de la tradición oral a las canciones de cuna contemporáneas",
+    "authors": [
+      "Elisa Martín-Ortega",
+      "Agnieszka August-Zarebska"
+    ],
+    "year": 2017,
+    "volume": "16",
+    "issue": "2",
+    "pages": "50-59",
+    "doi": "10.18239/ocnos_2017.16.2.1376",
+    "keywords": [
+      "poesía infantil sefardí",
+      "judeoespañol",
+      "tradición oral",
+      "canciones de cuna",
+      "memoria cultural"
+    ],
+    "abstract": "Investigación filológica y comparativa que analiza la poesía infantil en judeoespañol. Examina en una primera parte el repertorio folclórico tradicional de romances y coplas orales transmitidas por madres y abuelas, y en una segunda parte las canciones de cuna contemporáneas de Beatriz Mazliah y Ada Gattegno Saltiel, reflexionando sobre la paradoja de escribir para niños en una lengua ancestral en peligro crítico de extinción."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Qué sentido tiene escribir canciones de cuna para niños en una lengua ancestral que los niños ya no hablan en su vida diaria? El judeoespañol o ladino, custodiado amorosamente durante más de cinco siglos en la diáspora mediterránea, revive en la poesía infantil contemporánea como un acto de resistencia cultural y memoria.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis filológico y etnográfico:",
+        "opciones": [
+          {
+            "id": "folclore",
+            "texto": "Ruta tradicional: romancero oral, coplas de cuna y transmisión femenina doméstica"
+          },
+          {
+            "id": "contemporanea",
+            "texto": "Ruta contemporánea: las nanas de Mazliah y Saltiel frente a la extinción del ladino"
+          },
+          {
+            "id": "identidad",
+            "texto": "Ruta identitaria: el poema infantil como monumento de memoria y patria lingüística"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Tras el cataclismo de la Shoá y los procesos de asimilación lingüística en Grecia, Turquía, Israel y América Latina, la comunidad sefardí ha visto cómo las nuevas generaciones crecen sin el judeoespañol como lengua materna. Surge una sobrecogedora paradoja estética: poetas que crean nanas infantiles dirigidas no al niño real, sino al niño interior de una cultura amenazada.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿A quién van destinadas realmente las canciones de cuna sefardíes contemporáneas?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "A la comunidad adulta y a las generaciones venideras como cápsulas sonoras de afecto y memoria para salvar el alma de su lengua materna.",
+            "correcta": true,
+            "explicacion": "Exacto: la nana en ladino no es solo arrullo fisiológico infantil, sino un ritual poético de duelo, preservación identitaria y despedida amorosa."
+          },
+          {
+            "id": "c2",
+            "texto": "A un mercado comercial masivo de música infantil para bebés hispanohablantes.",
+            "correcta": false,
+            "explicacion": "La poesía en judeoespañol tiene una difusión minoritaria y una profunda carga de resistencia comunitaria y patrimonial."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Las autoras recopilaron y contrastaron un doble corpus: por un lado, las grabaciones y transcripciones históricas del romancero infantil sefardí (recopiladas por Menéndez Pidal, Armistead y Silverman); por otro, los poemarios contemporáneos de Beatriz Mazliah (Buenos Aires) y Ada Gattegno Saltiel (Salónica/Israel), analizando su léxico, motivos y funciones simbólicas.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Tradición oral histórica",
+            "detalle": "Coplas de cuna, ensalmos y cantos de bodas transmitidos matrilinealmente durante siglos."
+          },
+          {
+            "fase": "Doble corpus analizado",
+            "detalle": "Contraste entre el folclore colectivo balcánico/norteafricano y la creación lírica autoral moderna."
+          },
+          {
+            "fase": "Análisis textual y métrico",
+            "detalle": "Estructuras de rima, arcaísmos castellanos del siglo XV y préstamos turcos, griegos y hebreos."
+          },
+          {
+            "fase": "Reflexión sociolingüística",
+            "detalle": "Diagnóstico sobre el ladino como lengua moribunda y el papel del poema como monumento identitario."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El estudio desvela que mientras la tradición oral antigua utilizaba las canciones de cuna con una función pragmática y mágica inmediata (dormir al niño, alejar el mal de ojo), la lírica contemporánea en judeoespañol las resignifica como un sobrecogedor canto de despedida que busca adormecer y salvar a la propia lengua en sus últimos suspiros.",
+      "datos_clave": [
+        "Análisis comparativo de la poesía infantil tradicional y la poesía culta sefardí contemporánea.",
+        "Estudio pormenorizado de las obras de Beatriz Mazliah y Ada Gattegno Saltiel en judeoespañol.",
+        "Identificación del trasvase funcional: del arrullo doméstico al monumento conmemorativo de una cultura.",
+        "Puesta en valor de la memoria lingüística hispánica como patrimonio inmaterial de la humanidad."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "La investigación dialoga con la romancística panhispánica de Menéndez Pidal y Diego Catalán, los estudios sobre el judeoespañol de Paloma Díaz-Mas (2006), la etnomusicología sefardí de Edwin Seroussi y las teorías del trauma cultural.",
+      "referencias_clave": [
+        "Díaz-Mas (2006)",
+        "Armistead & Silverman (1971)",
+        "Catalán (1997)",
+        "Martín-Ortega & August-Zarebska (2017)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "Cantarle a un niño en una lengua que agoniza es el acto de amor más bello y conmovedor que existe. En las nanas sefardíes, el judeoespañol no muere: duerme mecido por el rumor de los siglos, esperando que alguien vuelva a pronunciar sus dulces palabras para despertar de nuevo.",
+      "hallazgo_central": "La poesía infantil sefardí contemporánea reinventa la canción de cuna tradicional para transformarla en un artefacto de resistencia memorística y custodia afectiva del judeoespañol en su ocaso histórico."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los rasgos de la lírica sefardí con su función cultural:",
+          "pares": [
+            {
+              "concepto": "Transmisión matrilineal",
+              "definicion": "Custodia oral del idioma y los cantos domésticos preservada por madres y abuelas en la diáspora."
+            },
+            {
+              "concepto": "Ladino o judeoespañol",
+              "definicion": "Variedad lingüística romance conservada por los judíos expulsados de España en 1492."
+            },
+            {
+              "concepto": "Canción de cuna como monumento",
+              "definicion": "Creación lírica que arrulla a la propia lengua amenazada de extinción como tesoro de memoria."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Poesía Infantil Sefardí y Memoria en Judeoespañol",
+      "descripcion": "Estudio filológico y cultural de la evolución de las canciones de cuna desde el folclore oral a la lírica contemporánea.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Poesía Infantil Sefardí y Memoria Cultural",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo de la investigación: analizar la evolución de la poesía infantil en judeoespañol, desde la tradición folclórica oral hasta las canciones de cuna contemporáneas de autoras amenazadas de extinción lingüística."
+        },
+        {
+          "id": "2",
+          "label": "Diáspora de 1492 y Supervivencia del Ladino",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco histórico de la expulsión de los judíos hispánicos en 1492 y la conservación asombrosa del romance castellano medieval enriquecido con préstamos turcos, balcánicos y hebreos durante más de quinientos años."
+        },
+        {
+          "id": "3",
+          "label": "Romancero Panhispánico y Etnografía Oral",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Aportes de Menéndez Pidal, Armistead y Silverman sobre la extraordinaria fidelidad de la tradición oral sefardí, que preservó romances medievales españoles perdidos en la propia Península Ibérica."
+        },
+        {
+          "id": "4",
+          "label": "Sociolingüística de Lenguas en Peligro Crítico",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Marcos teóricos sobre muerte de lenguas (language death) y pérdida de transmisión intergeneracional tras el Holocausto y la asimilación moderna, situando al judeoespañol en situación de agonía patrimonial."
+        },
+        {
+          "id": "5",
+          "label": "Metodología Filológica y Análisis Textual Comparado",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño analítico cualitativo que combina la filología hispánica, la etnomusicología y el análisis comparativo de motivos poéticos entre recopilaciones folclóricas clásicas y poemarios modernos."
+        },
+        {
+          "id": "6",
+          "label": "Corpus de Tradición Oral y Obras Contemporáneas",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Muestra documental integrada por cancioneros tradicionales históricos y las colecciones contemporáneas de canciones de cuna de Beatriz Mazliah (Argentina) y Ada Gattegno Saltiel (Salónica/Israel)."
+        },
+        {
+          "id": "7",
+          "label": "Análisis de Formas Métricas y Arcaísmos",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Examen de pareados, rimas asonantes, diminutivos afectivos característicos del judeoespañol (icos, icas), formulismos de protección contra el mal de ojo y elementos mágicos tradicionales."
+        },
+        {
+          "id": "8",
+          "label": "Estudio de la Destinataria y Función Poética",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Indagación hermenéutica sobre el receptor implícito de los textos contemporáneos: análisis de la brecha entre el niño real destinatario del arrullo y la comunidad adulta que custodia la memoria colectiva."
+        },
+        {
+          "id": "9",
+          "label": "El Hogar Femenino como Bastión Lingüístico",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación de que la transmisión histórica del ladino fue una gesta eminentemente doméstica y femenina, donde madres y abuelas mantuvieron vivo el idioma a través de nanas y coplas íntimas."
+        },
+        {
+          "id": "10",
+          "label": "Metamorfosis Funcional de la Canción de Cuna",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Los resultados revelan un giro radical: las nanas modernas ya no buscan meramente adormecer a los bebés, sino erigirse en testimonios literarios de duelo, afirmación y amor por la lengua materna."
+        },
+        {
+          "id": "11",
+          "label": "La Lengua Ancestral como Patria Simbólica",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Identificación del judeoespañol no solo como código de comunicación, sino como la verdadera patria inmaterial de la diáspora, donde cada palabra evoca el aroma de Sefarad y las ciudades perdidas."
+        },
+        {
+          "id": "12",
+          "label": "Paradoja de la Creación sin Hablantes Nativos",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica en torno a la conmovedora paradoja de producir literatura infantil en una lengua sin niños que la hablen, revelando que el receptor es el niño interior y la memoria de la cultura."
+        },
+        {
+          "id": "13",
+          "label": "Reconocimiento del Patrimonio Poético Judeoespañol",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate filológico que reclama una mayor atención de la hispanística peninsular hacia la producción sefardí, entendiéndola como una rama viva y venerable del gran árbol de las letras hispánicas."
+        },
+        {
+          "id": "14",
+          "label": "Rescate del Legado Inmaterial de Sefarad",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión central que celebra estas canciones de cuna como actos heroicos de resistencia cultural que custodian la ternura humana y la musicalidad de un idioma frente al olvido absoluto."
+        },
+        {
+          "id": "15",
+          "label": "Divulgación Escolar de la Tradición Sefardí",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta didáctica orientada a incorporar romances y nanas sefardíes en la enseñanza de la literatura en España y Latinoamérica para visibilizar la pluralidad histórica del idioma español."
+        },
+        {
+          "id": "16",
+          "label": "Limitaciones en Fuentes Orales Vivas Directas",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite metodológico reconocido ante la progresiva desaparición física de los últimos hablantes nativos ancianos, obligando a basar el estudio fundamentalmente en registros impresos y grabaciones."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se sitúa en"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se fundamenta en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "confronta con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "analiza"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "aplica"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "profundiza en"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "evidencia"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "documenta"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "demuestra"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "revela"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "fundamenta"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "plantea"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "avala"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "conduce a"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "justifica"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se proyecta en"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "asume"
+        },
+        {
+          "from": "4",
+          "to": "16",
+          "label": "condiciona por"
+        },
+        {
+          "from": "3",
+          "to": "13",
+          "label": "conecta filológicamente con"
+        },
+        {
+          "from": "10",
+          "to": "15",
+          "label": "inspira"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "En las canciones de cuna sefardíes late la memoria de un pueblo que llevó a España en su corazón durante cinco siglos de destierro. Aunque sus hablantes escaseen, cada vez que una madre entona esas palabras milenarias, la lengua vence al tiempo y vuelve a nacer en el asombro del canto.",
+      "preguntas": [
+        "¿Se enseña en las escuelas la riqueza histórica del judeoespañol como parte inseparable del patrimonio literario y cultural común?",
+        "¿Cómo pueden las grabaciones orales y la música tradicional salvaguardar idiomas amenazados por la globalización?"
+      ]
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "id": "minotauro_monteiro_lobato_adaptacion_didactica_mito_infantil",
+  "metadata": {
+    "id": "minotauro_monteiro_lobato_adaptacion_didactica_mito_infantil",
+    "title": "O Minotauro de Monteiro Lobato: una adaptación didáctica del mito a la literatura infantil",
+    "authors": [
+      "Mª Elena Curbelo-Tavío"
+    ],
+    "year": 2019,
+    "volume": "18",
+    "issue": "1",
+    "pages": "52-62",
+    "doi": "10.18239/ocnos_2019.18.1.1813",
+    "keywords": [
+      "Monteiro Lobato",
+      "literatura infantil brasileña",
+      "mitología clásica",
+      "Minotauro",
+      "adaptación didáctica"
+    ],
+    "abstract": "Análisis textual de los mecanismos de adaptación del mito clásico en O Minotauro (1941) de Monteiro Lobato, evidenciando cómo inserta la mitología en una trama lúdica y didáctica que revitaliza la cultura grecolatina."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo acercar la complejidad mitológica grecolatina a los niños sin mutilar su fuerza dramática ni caer en resúmenes aburridos? Este estudio filológico analiza O Minotauro (1941) de Monteiro Lobato, creador de la moderna literatura infantil brasileña, para desentrañar sus procedimientos didácticos de adaptación.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la vía analítica para adentrarte en el laberinto de Monteiro Lobato:",
+        "opciones": [
+          {
+            "id": "filologica",
+            "texto": "Análisis filológico e intertextualidad mitológica"
+          },
+          {
+            "id": "didactica",
+            "texto": "Estrategias de mediación lúdico-didáctica en el texto infantil"
+          },
+          {
+            "id": "cultural",
+            "texto": "Recepción del mito clásico y construcción de identidad en Brasil"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Tradicionalmente, las adaptaciones de mitos clásicos para la infancia se limitan a la transformación directa: resúmenes edulcorados que despojan al mito de vitalidad. Lobato rompe esta inercia al enviar a sus personajes del mundo moderno a convivir físicamente con los héroes y monstruos griegos mediante polvos mágicos de pirlimpimpín.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué aporta la técnica de doble temporalidad utilizada por Monteiro Lobato?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Permite que niños contemporáneos dialoguen con filósofos y monstruos griegos, desmitificando la historia y haciéndola accesible y divertida.",
+            "correcta": true,
+            "explicacion": "Exacto: la convivencia anacrónica permite interrogar a Sócrates o enfrentar al Minotauro desde la mirada ingenua e irreverente infantil."
+          },
+          {
+            "id": "c2",
+            "texto": "Obliga a los personajes a memorizar datos cronológicos de forma escolarizada y rígida.",
+            "correcta": false,
+            "explicacion": "Lobato combate precisamente el academicismo rígido mediante la ficción desbordante y el humor."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "La investigadora clasifica sistemáticamente los procedimientos de adaptación de Lobato: contextualización cotidiana del mito, hibridación de géneros fantásticos, inserción de debates filosóficos adaptados a la comprensión infantil y utilización del humor y la parodia para conectar con el público joven.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Corpus lobatiano",
+            "detalle": "Lectura pormenorizada de O Minotauro (1941) en su contexto histórico editorial."
+          },
+          {
+            "fase": "Taxonomía de adaptación",
+            "detalle": "Identificación de mecanismos: transformaciones complejas, dobles temporalidades y anacronismos."
+          },
+          {
+            "fase": "Exégesis textual",
+            "detalle": "Cotejo de los episodios de Pericles, Delfos, la Hidra y el Laberinto de Creta."
+          },
+          {
+            "fase": "Balance pedagógico",
+            "detalle": "Valoración del milagro griego y la creatividad como motores de formación lectora."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Monteiro Lobato logra un equilibrio magistral entre fidelidad mitológica y libertad creativa infantil: transforma el mito del Minotauro en una aventura de rescate donde la cultura clásica deja de ser un saber sagrado e inaccesible para convertirse en un juego vivo y estimulante.",
+      "datos_clave": [
+        "Análisis integral de O Minotauro (1941) de Monteiro Lobato.",
+        "Identificación de los procedimientos de doble temporalidad y anacronismo didáctico.",
+        "Articulación de la función lúdica con la transmisión rigurosa del legado grecolatino.",
+        "Revalorización de la literatura infantil brasileña como puente intercultural universal."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se encuadra en las teorías de la adaptación literaria de Genette, los estudios sobre tradición clásica en la literatura infantil de Encinas Martínez y los análisis de la poética lobatiana de Velloso-da-Silveira.",
+      "referencias_clave": [
+        "Genette (1989)",
+        "Encinas Martínez (2015)",
+        "Velloso-da-Silveira (2012)",
+        "Lobato (1941)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "La verdadera mediación de los clásicos en la infancia requiere atrevimiento creativo: Monteiro Lobato demuestra que solo cuando los niños pueden reír, discutir y convivir con los mitos, estos cobran vida y forjan lectores apasionados.",
+      "hallazgo_central": "La adaptación didáctica indirecta e interactiva de Monteiro Lobato revitaliza el mito grecolatino fusionando humor, fantasía y rigor histórico en la literatura infantil."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los recursos de Monteiro Lobato con su función didáctica:",
+          "pares": [
+            {
+              "concepto": "Polvo de pirlimpimpín",
+              "definicion": "Dispositivo fantástico que propicia el salto espaciotemporal al siglo XV a. C."
+            },
+            {
+              "concepto": "Doble temporalidad",
+              "definicion": "Coexistencia dialógica del tiempo cotidiano brasileño con la Grecia heroica."
+            },
+            {
+              "concepto": "Desmitificación humorística",
+              "definicion": "Tratamiento desenfadado que humaniza a dioses y monstruos temibles."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Adaptación Didáctica del Mito del Minotauro en Monteiro Lobato",
+      "descripcion": "Estructura analítica de los mecanismos de transposición mitológica y pedagógica en O Minotauro.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Adaptación del Mito en Monteiro Lobato",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo principal: analizar de forma exhaustiva y sistemática los mecanismos literarios y didácticos empleados por Monteiro Lobato para adaptar el mito grecolatino del Minotauro a la literatura infantil."
+        },
+        {
+          "id": "2",
+          "label": "Transformación Simple versus Compleja",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Distinción teórica entre las adaptaciones mitológicas convencionales que se limitan a simplificar el relato lineal y las transformaciones complejas que insertan el mito en una macroficción novedosa."
+        },
+        {
+          "id": "3",
+          "label": "Tradición Clásica en Literatura Infantil",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Corpus teórico sobre la recepción pedagógica del legado grecolatino en textos infantiles como vehículo privilegiado para espolear la imaginación, el pensamiento crítico y la curiosidad cultural."
+        },
+        {
+          "id": "4",
+          "label": "Poética del Sítio do Picapau Amarelo",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Universo narrativo creado por Lobato caracterizado por la hibridación de la vida rural brasileña con la fantasía universal, el humor subversivo y la libertad de pensamiento de los protagonistas."
+        },
+        {
+          "id": "5",
+          "label": "Análisis Textual de O Minotauro (1941)",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Metodología analítica y filológica centrada en la exégesis directa de los capítulos, diálogos y descripciones de la novela O Minotauro en relación con sus fuentes mitológicas griegas originales."
+        },
+        {
+          "id": "6",
+          "label": "Taxonomía de Mecanismos de Adaptación",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Marco metodológico que cataloga los recursos de transposición didáctica en categorías operativas: contextualización, anacronismo deliberate, doble temporalidad, parodia e interpelación al lector."
+        },
+        {
+          "id": "7",
+          "label": "El Polvo de Pirlimpimpín como Motor",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Dispositivo narrativo mágico empleado como vehículo metaficticio para justificar el desplazamiento instantáneo en el espacio y en el tiempo de los personajes hacia la Antigüedad helénica."
+        },
+        {
+          "id": "8",
+          "label": "Doble Temporalidad y Anacronismo",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo textual clave: la articulación simultánea del presente histórico de los niños lectores con la Grecia clásica del siglo de Pericles y la época arcaica del laberinto cretense de Minos."
+        },
+        {
+          "id": "9",
+          "label": "Humanización y Parodia de los Héroes",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Estrategia de adaptación que despoja de solemnidad sagrada a figuras como Hércules o Teseo, mostrándolos con flaquezas cotidianas y provocando una conexión cómplice e inmediata con el niño."
+        },
+        {
+          "id": "10",
+          "label": "Didactismo Orgánico sin Moralina",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Integración fluida de explicaciones históricas, geográficas y filosóficas integradas en la trama dramática sin recurrir a sermones moralistas ni interrumpir el deleite de la aventura fantástica."
+        },
+        {
+          "id": "11",
+          "label": "El Mito como Juego Cognitivo",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión teórica sobre cómo Lobato transforma los relatos arcaicos en un juego vivo de exploración donde los personajes debaten con las figuras míticas cuestionando dogmas y costumbres."
+        },
+        {
+          "id": "12",
+          "label": "Desafío a la Censura y Libertad Creativa",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Contextualización histórica del compromiso intelectual de Lobato en Brasil, cuya reivindicación de la libertad de conciencia y el espíritu crítico infantil chocó con el autoritarismo gubernamental."
+        },
+        {
+          "id": "13",
+          "label": "Renovación del Canon Clásico Escolar",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental: la obra demuestra que los clásicos universales conservan plena vigencia si se adaptan mediante fórmulas narrativas participativas que apelen a la sensibilidad moderna."
+        },
+        {
+          "id": "14",
+          "label": "Modelo de Mediación Literaria Ejemplar",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Reconocimiento de Monteiro Lobato como un referente pedagógico y literario imprescindible para cualquier proyecto de formación lectora basado en el diálogo intergeneracional e intertextual."
+        },
+        {
+          "id": "15",
+          "label": "Eficacia de la Hibridación Fantástica",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Lección didáctica transversal: la fantasía no diluye el conocimiento riguroso, sino que constituye el canal más potente y magnético para la apropiación de conceptos humanísticos complejos."
+        },
+        {
+          "id": "16",
+          "label": "Enfoque Monográfico Centrado en un Título",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación asumida por la investigación al concentrarse preferentemente en una única obra del ciclo grecolatino de Lobato, recomendando contrastar con Os doze Trabalhos de Hércules."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se fundamenta en la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se ejecuta mediante"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se contextualiza en la"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se materializa en la"
+        },
+        {
+          "from": "4",
+          "to": "7",
+          "label": "utiliza el recurso de"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "aplica la"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "identifica la"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "demuestra la"
+        },
+        {
+          "from": "6",
+          "to": "10",
+          "label": "evidencia un"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "habilita técnicamente la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "transforma el relato en"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "favorece la vivencia del"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "contribuye a la"
+        },
+        {
+          "from": "11",
+          "to": "12",
+          "label": "se vincula con el"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "consolida a Lobato como"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "ofrece un"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "ratifica la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse ante el"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "se restringe por el"
+        },
+        {
+          "from": "3",
+          "to": "13",
+          "label": "promueve la"
+        },
+        {
+          "from": "10",
+          "to": "15",
+          "label": "se apoya en la"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Monteiro Lobato comprendió que los niños no quieren ver el mito clásico encerrado en una vitrina de museo polvoriento: quieren entrar en el laberinto, tirarle de las orejas al Minotauro y preguntarle a Platón por qué pensaba lo que pensaba.",
+      "preguntas_guiadas": [
+        "¿Cómo pueden los docentes de Primaria y Secundaria adaptar relatos clásicos sin eliminar su densidad conceptual?",
+        "¿Qué relatos mitológicos consideras más propicios para crear diálogos ficticios con niños contemporáneos?"
+      ]
+    }
+  }
+}

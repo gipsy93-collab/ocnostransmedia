@@ -1,0 +1,462 @@
+{
+  "id": "didactica_lij_planes_universitarios",
+  "metadata": {
+    "title": "La Didáctica de la Literatura Infantil y Juvenil en planes docentes universitarios españoles",
+    "authors": "José Soto-Vázquez, Ramón Pérez-Parejo, Francisco J. Jaraíz-Cabanillas y Enrique E. Ruiz-Labrador",
+    "year": "2022",
+    "journal": "Ocnos 21(2)",
+    "doi": "10.18239/ocnos_2022.21.2.2917",
+    "gancho": "¿Qué leen y aprenden los futuros maestros de Primaria en España sobre literatura infantil durante sus 4 años de carrera?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#118ab2",
+    "colorAlt": "#073b4c",
+    "bg": "from-sky-600/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/didactica-universidad/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-soto/200/200",
+      "name": "Dr. José Soto-Vázquez",
+      "role": "Profesor de Didáctica de la Lengua y la Literatura, Universidad de Extremadura"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. José Soto-Vázquez, investigador en didáctica de la lengua, planes docentes y canon formativo",
+      "gancho": "¿Es admisible que en la inmensa mayoría de universidades españolas los maestros de Primaria solo cursen una única asignatura obligatoria sobre literatura infantil?",
+      "contexto": "La consolidación de la Literatura Infantil y Juvenil (LIJ) como disciplina universitaria autónoma en España ha recorrido un largo camino desde su marginalidad en los años ochenta hasta su formalización en el Espacio Europeo de Educación Superior (Plan Bolonia). Sin embargo, existía un notable desconocimiento sobre cómo se concreta esta formación obligatoria en los planes docentes reales. Este estudio censal pionero analiza 43 planes docentes obligatorios de 40 universidades españolas que imparten el Grado de Maestro en Educación Primaria para desvelar créditos, adscripción departamental, curso de impartición y el canon bibliográfico que moldea a los educadores del país.",
+      "deepDives": [
+        {
+          "id": "lij-apertura-1",
+          "triggerLabel": "Evolución histórica de la LIJ universitaria en España",
+          "type": "theory",
+          "content": "Desde los trabajos fundacionales de Cervera (1989), López y Guerrero (1993) y Cerrillo y Sánchez (2006), la LIJ dejó de ser considerada un subgénero menor para convertirse en un área de conocimiento especializada con su propio corpus teórico y metodológico."
+        },
+        {
+          "id": "lij-apertura-2",
+          "triggerLabel": "El impacto del Espacio Europeo de Educación Superior (Bolonia)",
+          "type": "theory",
+          "content": "La reforma de Bolonia rediseñó los títulos de Magisterio hacia modelos basados en competencias profesionales (Montero, 2010), introduciendo el sistema de créditos ECTS y exigiendo guías docentes transparentes y homologadas internacionalmente."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La formación en literatura infantil de los maestros españoles está concentrada en una única asignatura obligatoria que convive con una enorme dispersión de denominaciones, enfoques docentes desiguales y una implantación tardía en los últimos cursos del grado. Además, existe una fuerte pugna epistemológica entre los departamentos de filología tradicional y los de didáctica específica.",
+      "porQueImporta": "Un maestro que solo recibe formación literaria durante un cuatrimestre corre el riesgo de recurrir en el aula a sus lecturas infantiles de memoria o a las prescripciones comerciales de las editoriales escolares, perpetuando canons desfasados.",
+      "dataPoints": [
+        "Estudio censal de 43 asignaturas obligatorias en 40 universidades españolas (muestra casi exhaustiva de la oferta oficial del Grado de Primaria).",
+        "El 92% de las universidades programa una sola asignatura obligatoria de LIJ a lo largo de toda la titulación de cuatro años.",
+        "El 86% de los planes asigna exactamente 6 créditos ECTS a la materia (frente a la media de 4.5 créditos pre-Bolonia de los años 90).",
+        "El 72% de las asignaturas está adscrito a departamentos didácticos frente al 21% adscrito a departamentos filológicos puros.",
+        "Implantación tardía: 32 de las 43 asignaturas (74.4%) se imparten en 3º o 4º de carrera (18 en 3º y 14 en 4º; solo 1 en 1º curso).",
+        "Más del 95% de la bibliografía básica obligatoria procede de autores nacionales en lengua española."
+      ],
+      "glossary": [
+        {
+          "term": "Plan docente / Guía docente",
+          "definition": "Documento contractual oficial de una asignatura universitaria que fija objetivos competenciales, temarios, créditos ECTS, metodología evaluativa y bibliografía obligatoria."
+        },
+        {
+          "term": "RUCT",
+          "definition": "Registro de Universidades, Centros y Títulos; base de datos oficial del Ministerio de Universidades de España referenciada en el estudio, junto a las páginas web oficiales de cada universidad, como fuente institucional de contraste."
+        },
+        {
+          "term": "Canon bibliográfico formativo",
+          "definition": "Conjunto de manuales, antologías y ensayos teóricos recomendados de forma recurrente en las guías docentes para la formación teórica y práctica de los futuros maestros."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "lij-conflicto-1",
+          "triggerLabel": "Pugna departamental: ¿Didáctica o Filología?",
+          "type": "data",
+          "content": "La investigación revela una clara victoria histórica de la Didáctica de la Lengua y la Literatura (72%) sobre las Filologías (Hispánica/Clásica, 21%), consolidando la orientación metodológica de la materia hacia la mediación lectora y el fomento escolar."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Análisis documental censal de guías docentes oficiales (2020-2021)",
+      "narrativa": "Los autores adoptaron un diseño de investigación cuantitativo-descriptivo y documental siguiendo los modelos de análisis de contenido curricular de Wimmer y Dominick (1996) y Sánchez-García (2013), evaluando la totalidad de universidades públicas y privadas con Grado en Educación Primaria:",
+      "detalles": [
+        {
+          "label": "Corpus Censal (40 Universidades)",
+          "value": "43 planes docentes obligatorios en lengua española correspondientes al curso 2020-2021 (diez años tras la implantación completa del Plan Bolonia)."
+        },
+        {
+          "label": "Variables Sistemáticas Evaluadas",
+          "value": "Denominación oficial, carga crediticia (ECTS), curso de impartición, departamento adscrito y análisis de frecuencias del canon bibliográfico."
+        },
+        {
+          "label": "Criterio de Restricción",
+          "value": "Se seleccionaron exclusivamente asignaturas obligatorias comunes a todo el alumnado de Primaria, excluyendo menciones optativas para evaluar la formación básica universal."
+        }
+      ],
+      "limitaciones": [
+        "No se analizaron los planes de las asignaturas optativas especializadas de las menciones de Lengua o Biblioteca Escolar.",
+        "La investigación audita la norma prescrita en los planes docentes, sin evaluar el desarrollo real de las clases ni los aprendizajes adquiridos por los estudiantes."
+      ],
+      "reflexion": "¿Por qué casi todas las universidades relegan la enseñanza de la literatura infantil al 3º y 4º curso en lugar de situarla en los primeros semestres para vertebrar la identidad lectora del maestro?",
+      "deepDives": [
+        {
+          "id": "lij-viaje-1",
+          "triggerLabel": "La accesibilidad de la información institucional",
+          "type": "method",
+          "content": "Los autores señalan dificultades puntuales para localizar los planes docentes completos en universidades privadas, donde con frecuencia no se desglosan departamentos docentes formales en sus portales web."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Heterogeneidad formal, 6 créditos de consenso y canon marcadamente nacional",
+      "narrativa": "El análisis empírico de las 43 guías docentes arrojó conclusiones contundentes sobre el estado de la LIJ en la universidad española:",
+      "hallazgos": [
+        {
+          "label": "Monopolio de una única asignatura obligatoria",
+          "value": "37 de las 40 universidades contemplan solo una asignatura obligatoria en 4 años de carrera. Quien no elija una mención optativa específica terminará su formación con ese único curso de LIJ. Ej.: 92% de las universidades analizadas."
+        },
+        {
+          "label": "Consenso en 6 créditos ECTS",
+          "value": "Consolidación de los 6 ECTS frente a los 4.5 créditos tradicionales pre-Bolonia, reflejando una ganancia media de relevancia horaria del 33%. Ej.: 86% de las asignaturas analizadas."
+        },
+        {
+          "label": "Hegemonía de departamentos didácticos",
+          "value": "Superación del paradigma historicista filológico; los programas priorizan la animación lectora, la dramatización y la selección de libros infantiles. Ej.: 72% adscritas a Didácticas específicas."
+        },
+        {
+          "label": "Canon bibliográfico nacional cerrado",
+          "value": "Presencia masiva de manuales de Cervera, Colomer, Cerrillo, Pelegrín, Bravo Villasante y Rodríguez Almodóvar. Escasísima proyección internacional, salvo clásicos como Rodari (Gramática de la fantasía), Bettelheim y Propp. Ej.: >95% de autores españoles citados."
+        }
+      ],
+      "dataPoints": [
+        "Ubicación temporal: 18 asignaturas en 3º curso, 14 en 4º curso, 10 en 2º curso y únicamente 1 asignatura en 1º curso.",
+        "Denominaciones agrupadas en 5 familias: predominan fórmulas mixtas como 'Literatura Infantil y Educación Literaria' o 'Didáctica de la Literatura Infantil'.",
+        "Autores internacionales más citados: Gianni Rodari (>14 menciones), Bruno Bettelheim y Vladimir Propp.",
+        "Antologías clásicas más recomendadas: Pelegrín (>10 menciones), Carmen Bravo-Villasante y Antonio Rodríguez Almodóvar."
+      ],
+      "reflexion": "Si más del 95% de la bibliografía de referencia son manuales nacionales españoles, ¿estamos formando a los futuros maestros de espaldas a los debates de la investigación internacional en LIJ?",
+      "deepDives": [
+        {
+          "id": "lij-revelacion-1",
+          "triggerLabel": "El peso indiscutible de Gianni Rodari",
+          "type": "data",
+          "content": "La 'Gramática de la fantasía' de Gianni Rodari es la obra internacional más nombrada y recomendada, con más de 14 menciones en las bibliografías analizadas, demostrando que su enfoque de creatividad lingüística y juego sigue siendo un referente pedagógico primordial para el profesorado universitario."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia la homologación epistemológica del área en el marco europeo",
+      "narrativa": "Los autores confrontan sus datos con investigaciones previas como Moreno y Sánchez (2000), Ibarra y Ballester (2016), Larragueta y Ceballos-Viro (2020), Selfa (2015) y Níkleva y Cortina (2014):",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Madurez disciplinar de la LIJ (Cerrillo, Colomer): Se constata que la literatura infantil ya no es una anécdota marginal, sino una disciplina asentada con identidad y descriptores de contenido homogéneos."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Ganancia crediticia pos-Bolonia: El salto a 6 créditos ECTS generalizados sitúa a la LIJ al mismo nivel que las didácticas de las ciencias experimentales o las matemáticas."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Escasez histórica de revistas de alto impacto: Níkleva y Cortina (2014) y Selfa (2015) constatan que hasta hace poco apenas existían revistas del área indexadas en JCR/SSCI, lo que explica el peso de los estudios monográficos y de procedencia nacional en las bibliografías."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Planes prescriptivos homogéneos vs. Denominaciones dispersas: Aunque los nombres de las asignaturas varían enormemente según la universidad, los contenidos reales que se enseñan (historia, géneros, animación, biblioteca) son asombrosamente parecidos."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Enfoque localista vs. Internacionalización: Los autores advierten del excesivo encerramiento en manuales nacionales, reclamando mayor apertura hacia la investigación comparada europea y latinoamericana."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Peso desconocido de la optatividad: el estudio se ciñó a la formación obligatoria común, por lo que el impacto real de las asignaturas optativas de las menciones de Lengua o Biblioteca Escolar queda como aspecto pendiente para un futuro trabajo."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Comparación pendiente con la titulación de Educación Infantil: los propios autores señalan el cotejo con este grado como posible motivo central de una investigación futura más detallada."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las comisiones de planes de estudio Atender a la tendencia a la homogeneización detectada, promoviendo criterios comunes de denominación y de descriptores de contenido entre las asignaturas de LIJ de las distintas universidades."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para el profesorado universitario Reflexionar sobre el marcado carácter nacional de las fuentes recomendadas y sobre la aún escasa presencia de bibliografía internacional de alto impacto en las guías docentes."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para el conjunto del área Aprovechar la consolidación de entidades y revistas del ámbito (SEDLL, CEPLI, RIUL, ANILIJ; Porta Linguarum, Investigaciones Sobre Lectura, Tejuelo, Ocnos) para reforzar su proyección científica e internacional."
+        },
+        {
+          "label": "Tabla",
+          "value": "Variable Analizada | Categoría Dominante | Frecuencia / Casos | Porcentaje (%) | Significado Formativo\nAsignaturas Obligatorias | 1 única asignatura por grado | 37 de 40 universidades | 92.0% | Concentración formativa mínima\nCarga Crediticia | 6 créditos ECTS | 37 de 43 planes | 86.0% | Homogeneización pos-Bolonia\nAdscripción Departamental | Didácticas específicas (DLL) | 31 de 43 planes | 72.1% | Enfoque metodológico aplicado\nCurso de Impartición | Tercero y Cuarto curso | 32 de 43 planes | 74.4% | Especialización previa al Prácticum\nOrigen de Bibliografía | Autores nacionales en español | >95% de citas | >95.0% | Tradición nacional consolidada"
+        }
+      ],
+      "reflexion": "Si los futuros maestros solo tienen 60 horas presenciales para aprender toda la literatura infantil de su vida profesional, ¿cómo garantizamos que seleccionen lecturas de calidad para sus alumnos?",
+      "deepDives": [
+        {
+          "id": "lij-marco-1",
+          "triggerLabel": "La necesidad de una formación continua posterior",
+          "type": "theory",
+          "content": "Los autores concluyen que dada la brevedad de una única asignatura de 6 créditos, la formación permanente del profesorado en centros de profesores y recursos (CPR) resulta indispensable para mantener al día el criterio de selección de los docentes."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo se estructura la enseñanza de la Literatura Infantil y Juvenil en los grados universitarios de Maestro en Educación Primaria en España tras diez años del Plan Bolonia?",
+      "conclusion": "El 92% de las universidades españolas ofrece únicamente una asignatura obligatoria de LIJ a lo largo de los cuatro años del Grado de Primaria, de modo que la formación literaria común queda reducida a un único cuatrimestre. Existe un firme consenso en asignarle 6 créditos ECTS (86% de los planes), frente a la media de 4.5 créditos registrada por Moreno y Sánchez (2000) en los planes pre-Bolonia. La disciplina está mayoritariamente radicada en departamentos de Didáctica de la Lengua y la Literatura (72%) frente al retroceso de los departamentos filológicos. Más del 95% de las fuentes bibliográficas básicas procede de autores nacionales en español, con Rodari, Bettelheim y Propp como principales referencias internacionales. Persiste una gran heterogeneidad en la denominación y ubicación de las asignaturas, pero al mismo tiempo se observa una tendencia a la homogeneización en todos los ítems examinados. La propia novedad de los departamentos de Didáctica de la Lengua y la Literatura explica tanto el esfuerzo por perimetrar el área como su progresivo acomodo epistemológico en los títulos de Maestro. El cotejo de estos resultados con la titulación de Educación Infantil queda abierto como motivo de una futura investigación. Una asignatura universitaria de literatura infantil no es un examen más: es sembrar bibliotecas vivas en las escuelas del futuro.",
+      "formalRef": "José Soto-Vázquez, Ramón Pérez-Parejo, Francisco J. Jaraíz-Cabanillas y Enrique E. Ruiz-Labrador. (2022). La Didáctica de la Literatura Infantil y Juvenil en planes docentes universitarios españoles. Ocnos 21(2). https://doi.org/10.18239/ocnos_2022.21.2.2917"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de universidades españolas contempla únicamente una sola asignatura obligatoria de LIJ a lo largo de los cuatro años del Grado de Primaria?",
+          "options": [
+            "El 45% de las universidades",
+            "El 92% de las universidades",
+            "El 25% de las universidades",
+            "El 100% de las universidades"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál es la carga crediticia mayoritaria (86% de los casos) asignada a la asignatura obligatoria de LIJ tras la implantación del Espacio Europeo de Educación Superior?",
+          "options": [
+            "3 créditos ECTS",
+            "6 créditos ECTS",
+            "12 créditos ECTS",
+            "4.5 créditos ECTS"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Teniendo en cuenta que más del 95% de la bibliografía de las guías docentes analizadas son manuales nacionales de autores clásicos españoles, ¿qué autor o teoría internacional reciente propondrías añadir a una guía universitaria de LIJ y por qué?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Marginalidad histórica de la LIJ en la universidad",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Evolución histórica de la literatura infantil desde su consideración como género marginal en los años 80 hasta su pleno reconocimiento epistemológico como disciplina universitaria autónoma con metodologías específicas de investigación."
+      },
+      {
+        "id": "2",
+        "label": "Espacio Europeo de Educación Superior (Bolonia)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Marco regulatorio del Espacio Europeo de Educación Superior que transformó las titulaciones hacia competencias profesionales, introduciendo el sistema homogéneo de créditos ECTS y la exigencia de guías docentes públicas y transparentes."
+      },
+      {
+        "id": "3",
+        "label": "Tensión disciplinar: Didáctica vs. Filología",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Debate epistemológico entre la perspectiva filológica tradicional (centrada en la historia literaria y el canon culto clásico) y la didáctica específica (orientada a la mediación escolar, la animación lectora y la educación estética)."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Mapear la oferta obligatoria nacional",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Cartografiar exhaustivamente las asignaturas obligatorias en lengua española dedicadas a la LIJ en los Grados de Maestro en Educación Primaria de universidades españolas una década después de la implantación del Plan Bolonia."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Analizar créditos, adscripción y canon",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Examinar de forma sistemática la carga de créditos ECTS, la adscripción departamental, el curso de impartición y el canon de autores y manuales de referencia que configuran las bibliografías básicas oficiales."
+      },
+      {
+        "id": "6",
+        "label": "Muestra censal de 40 universidades españolas",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Análisis documental censal de 43 planes docentes obligatorios en 40 universidades españolas correspondientes al curso académico 2020-2021, abarcando la práctica totalidad de facultades de educación públicas y privadas del país."
+      },
+      {
+        "id": "7",
+        "label": "Fuente documental del RUCT y portales oficiales",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Recopilación de la información curricular a partir de las páginas web oficiales de las universidades que imparten el Grado de Primaria, tomando el Registro de Universidades, Centros y Títulos (RUCT) como referencia institucional de contraste."
+      },
+      {
+        "id": "8",
+        "label": "Análisis de contenido curricular cuantitativo",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Tratamiento cuantitativo descriptivo y análisis de frecuencias temáticas siguiendo los modelos metodológicos de análisis de contenido curricular de Wimmer y Dominick (1996) y Sánchez-García (2013)."
+      },
+      {
+        "id": "9",
+        "label": "Monopolio de una única asignatura (92%)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "En el 92% de las universidades se oferta una única asignatura obligatoria de LIJ para todo el alumnado de Primaria, limitando la formación literaria obligatoria universal a un único cuatrimestre a lo largo de 4 años de carrera."
+      },
+      {
+        "id": "10",
+        "label": "Consenso masivo en 6 créditos ECTS (86%)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Consolidación mayoritaria de 6 créditos ECTS (86% de los planes analizados), lo que supone un avance estructural respecto a la media de 4.5 créditos de los planes docentes pre-Bolonia de finales de los años noventa."
+      },
+      {
+        "id": "11",
+        "label": "Hegemonía de departamentos didácticos (72%)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Victoria indiscutible de las Didácticas Específicas: el 72.1% de las asignaturas se adscribe a departamentos de Didáctica de la Lengua y la Literatura frente a un residual 20.9% vinculado a departamentos de Filología tradicional."
+      },
+      {
+        "id": "12",
+        "label": "Canon bibliográfico nacional cerrado (>95%)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Predominio absoluto de autores españoles de finales del siglo XX y principios del XXI (>95% de citas), consolidando a Cervera, Colomer, Cerrillo, Pelegrín y Rodríguez Almodóvar, con escasa apertura foránea salvo Gianni Rodari."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Dispersión formal vs. Fondo común",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Contraste evidente entre la dispersión de denominaciones de las asignaturas (agrupadas en cinco grandes familias) y la notable homogeneidad real en los descriptores de contenidos y competencias que se imparten en el aula."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Escasez de revistas y escasa proyección internacional",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Advertencia sobre el excesivo encerramiento en fuentes nacionales: la escasez histórica de revistas del área indexadas en JCR/SSCI (Níkleva y Cortina, 2014; Selfa, 2015) explica el predominio de manuales y estudios monográficos españoles, reclamando una mayor proyección internacional de la investigación."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Exclusión de asignaturas optativas",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Investigación circunscrita a la docencia obligatoria universal sin evaluar las menciones optativas especializadas ni contrastar los planes oficiales con la práctica docente real desarrollada en las aulas universitarias."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Consolidación con disparidad y tendencia homogeneizadora",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "La Didáctica de la LIJ ha alcanzado una notable consolidación disciplinar en la universidad española, aunque pervive una gran disparidad en la implantación de las asignaturas junto a una clara tendencia a la homogeneización en todos los ítems examinados."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se transforma con el"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "plantea la pugna entre"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "establece el marco para el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "justifica la evaluación de"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se ejecuta sobre la"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se documenta mediante el"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "se procesa con el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "alimenta las variables del"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "pone de manifiesto el"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "confirma el"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "demuestra la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "desvela la existencia de un"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "suscita la discusión sobre la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "fundamenta el análisis de la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "evidencia la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "sustenta las propuestas de la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "orienta la modernización de la"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "delimita metodológicamente la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "matiza el alcance general de la"
+      },
+      {
+        "from": "11",
+        "to": "16",
+        "label": "avala la perspectiva de la"
+      },
+      {
+        "from": "2",
+        "to": "16",
+        "label": "culmina en la"
+      }
+    ]
+  }
+}

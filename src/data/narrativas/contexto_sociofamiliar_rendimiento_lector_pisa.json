@@ -1,0 +1,376 @@
+{
+  "id": "contexto_sociofamiliar_rendimiento_lector_pisa",
+  "metadata": {
+    "title": "El contexto sociofamiliar y su incidencia en el rendimiento lector del estudiante en PISA",
+    "authors": "Esteban Vázquez-Cano, Ana-María De-la-Calle-Cabrera, Carlos Hervás-Gómez y Eloy López-Meneses",
+    "year": "2020",
+    "journal": "Ocnos 19(1)",
+    "doi": "10.18239/ocnos_2020.19.1.2122",
+    "gancho": "¿Determina el nivel de estudios y el apoyo de los padres el éxito lector en PISA igual en países hispanohablantes que en angloparlantes?",
+    "duration": "12-15 min",
+    "badge": "Evaluación Internacional y Sociología Educativa",
+    "disciplina": "Sociología de la Educación y Métodos Cuantitativos",
+    "dimensiones": [
+      "Evaluación PISA 2015",
+      "Estatus Socioeconómico y Cultural",
+      "Rol Educativo Parental",
+      "Modelos Multinivel e Idioma"
+    ],
+    "tags": [
+      "pisa_2015",
+      "rendimiento_lector",
+      "contexto_sociofamiliar",
+      "analisis_multinivel",
+      "hispanohablantes",
+      "angloparlantes"
+    ],
+    "pistas": [
+      "Análisis comparativo sobre una muestra equiparada de 30.000 estudiantes de 15 a 16 años evaluados en PISA 2015.",
+      "Comparación entre tres países hispanohablantes (España, Chile, Uruguay) y tres angloparlantes (Gran Bretaña, EE.UU., Irlanda).",
+      "El contexto sociofamiliar predice aproximadamente el 20% del rendimiento lector en el bloque hispano y el 15% en el anglo.",
+      "El nivel educativo medio de los progenitores y el rol activo de apoyo e interés escolar emergen como los factores más determinantes."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "El rendimiento lector adolescente no surge en un vacío escolar: el nivel formativo de los padres, su ocupación laboral y su acompañamiento educativo diario constituyen vectores que modulan decisivamente el éxito académico.",
+      "desafio": "Determinar el peso explicativo del contexto sociofamiliar sobre la competencia lectora en PISA 2015 y contrastar si existen variaciones estructurales significativas según el idioma (español versus inglés).",
+      "relevancia": "Proporciona evidencia empírica a gran escala para diseñar políticas educativas y programas de orientación familiar que mitiguen las brechas de equidad en la comprensión lectora."
+    },
+    "conflicto": {
+      "pregunta": "¿Hasta qué punto el nivel formativo, laboral y el acompañamiento parental condicionan el rendimiento lector y cómo influye el entorno lingüístico?",
+      "posiciones": [
+        "Tesis del determinismo socioeconómico estricto: el capital cultural y económico de origen familiar fija de forma inexorable las trayectorias de lectura.",
+        "Modelo de agencia y mediación parental: el interés familiar activo y las políticas compensatorias escolares pueden contrarrestar las desventajas del origen social."
+      ],
+      "tension": "La tensión entre la alta capacidad predictiva del estatus socioeconómico en los estratos bajos y la dispersión observada en los niveles profesionales altos.",
+      "deepDives": [
+        {
+          "id": "pisa-conf-1",
+          "triggerLabel": "La disparidad idiomática en PISA",
+          "type": "context",
+          "content": "El rendimiento medio de los estudiantes angloparlantes (5036 puntos) superó significativamente al de los hispanohablantes (4711 puntos), mostrando que las variables familiares explican un mayor porcentaje de varianza en el bloque hispano."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Modelización estadística multinivel sobre microdatos PISA 2015",
+      "narrativa": "Los investigadores procesaron una submuestra probabilística de 30.000 adolescentes (5.000 por país en España, Chile, Uruguay, EE.UU., Gran Bretaña e Irlanda), aplicando análisis discriminante, modelos lineales multinivel y regresión logística por cuartiles de rendimiento.",
+      "detalles": [
+        {
+          "label": "Muestra internacional",
+          "value": "30.000 estudiantes de 15,9 años de edad media (50,2% mujeres) repartidos equitativamente en seis sistemas educativos."
+        },
+        {
+          "label": "Variables predictoras",
+          "value": "Nivel educativo CINE/ISCED de padre y madre, clasificación ocupacional CIUO y cuatro reactivos de implicación familiar."
+        },
+        {
+          "label": "Tratamiento estadístico",
+          "value": "ANOVA inferencial, análisis discriminante de Lambda de Wilks, modelos multinivel de suma de cuadrados Tipo III y regresión binaria."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "El contexto sociofamiliar aporta una capacidad predictiva cercana al 20% sobre el rendimiento lector en los países hispanohablantes frente al 15% en los angloparlantes, siendo la implicación y el nivel medio parental los factores clave.",
+      "datosClave": [
+        {
+          "label": "Varianza explicada R²",
+          "value": "R² ajustada de .218 en el bloque hispanohablante frente a .147 en el bloque angloparlante en los modelos multinivel."
+        },
+        {
+          "label": "Función discriminante",
+          "value": "Los 10 ítems de lectura clasifican con precisión discriminante (Lambda = .965, p = .001) al alumnado según su idioma materno."
+        },
+        {
+          "label": "Perfil óptimo (Q1)",
+          "value": "En el bloque inglés, el rendimiento sobresaliente se predice con mayor fuerza (R² .114) por la educación materna y el rol de apoyo escolar."
+        }
+      ],
+      "implicacion": "Las estrategias escolares de fomento lector deben vincular necesariamente a los padres, capacitando a las familias en pautas de acompañamiento afectivo y seguimiento de tareas."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "OCDE / PISA (2010, 2016)",
+          "concepto": "Marco de competencia lectora: capacidad de comprender, utilizar, reflexionar e interesarse por los textos escritos."
+        },
+        {
+          "autor": "Robert Bradley y Robert Corwyn (2002)",
+          "concepto": "Impacto del estatus socioeconómico familiar en el desarrollo cognitivo, recursos culturales del hogar y éxito educativo."
+        },
+        {
+          "autor": "William Jeynes (2007)",
+          "concepto": "Efecto protector de la implicación parental: cómo el afecto e interés familiar compensan las carencias materiales del entorno."
+        }
+      ],
+      "enfoque": "Sociología cuantitativa de la educación y econometría del rendimiento escolar basada en evaluaciones estandarizadas a gran escala.",
+      "sinergia": "La conjunción de clasificaciones internacionales (CINE y CIUO) con variables de clima vincular familiar permite deslindar capital cultural de mera renta."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo inciden el estatus socioeconómico y el rol educativo familiar en la competencia lectora de adolescentes hispanohablantes y angloparlantes?",
+      "hallazgos": [
+        "El contexto sociofamiliar ejerce mayor peso predictivo en el rendimiento lector de países de habla hispana (~20%) que en angloparlantes (~15%).",
+        "El nivel formativo intermedio de padres y madres y el apoyo afectivo escolar son predictores más robustos que la alta cualificación profesional.",
+        "El idioma materno y las estructuras lingüístico-culturales diferencian de forma estadísticamente significativa todos los reactivos de PISA.",
+        "Los perfiles lectores deficientes (Q4) se vinculan sólidamente a progenitores con estudios elementales y bajo soporte educativo en el hogar."
+      ],
+      "conclusion": "El soporte sociofamiliar es un catalizador irremplazable de la competencia lectora; la equidad escolar requiere potenciar el rol mediador formativo en los hogares con menores credenciales académicas."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿En qué bloque lingüístico tiene mayor peso predictivo el contexto sociofamiliar sobre la lectura?",
+          "opciones": [
+            "En el bloque angloparlante, explicando casi un tercio del resultado",
+            "En el bloque hispanohablante, explicando cerca del 20% frente al 15% en el angloparlante",
+            "En ninguno, el peso es idéntico e inferior al 2%"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El análisis multinivel evidenció un R² ajustado de .218 para el bloque hispanohablante frente a .147 en el angloparlante."
+        },
+        {
+          "pregunta": "¿Qué factor familiar demostró tener una incidencia más homogénea y positiva en ambos grupos?",
+          "opciones": [
+            "Tener padres con profesiones directivas de altísima remuneración",
+            "El nivel de estudios medios de los progenitores y su interés explícito y apoyo en las tareas escolares",
+            "Comprar más de cien libros al año sin mediar conversación alguna"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El rol educativo (interés, apoyo) y los estudios medios destacaron como los predictores más equilibrados de competencia lectora."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Contexto Sociofamiliar y Competencia Lectora en PISA 2015",
+      "descripcion": "Red analítica que articula las variables de capital educativo, profesión parental, rol de implicación y modelos multinivel en seis países evaluados por PISA.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Estatus Socioeconómico (SES)",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Constructo multidimensional que integra el nivel de escolaridad parental, el prestigio laboral y la dotación de bienes culturales en el hogar, considerado un predictor determinante del éxito escolar en la OCDE."
+        },
+        {
+          "id": "2",
+          "label": "Rol Educativo Parental",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Dimensión vincular y de acompañamiento afectivo que evalúa el interés, la escucha, el apoyo motivacional y el auxilio ante dificultades académicas brindado activamente por madres y padres a sus hijos."
+        },
+        {
+          "id": "3",
+          "label": "Marco de Lectura PISA",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Evaluación internacional estandarizada diseñada por la OCDE para medir la capacidad de los jóvenes de 15 años de comprender, reflexionar, valorar y utilizar textos escritos en situaciones de la vida real."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Predicción y Comparación",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Determinar el valor predictivo de los estudios, ocupación y rol educativo de los padres en el rendimiento lector en PISA 2015, comparando sistemáticamente países de lengua española y lengua inglesa."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 30.000 Estudiantes",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Submuestra equiparada de 30.000 alumnos de 15 a 16 años extraída de PISA 2015, con 5.000 participantes por cada nación seleccionada en dos bloques idiomáticos definidos por la OCDE."
+        },
+        {
+          "id": "6",
+          "label": "Bloques Lingüísticos",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Estratificación en dos áreas idiomáticas: bloque de habla hispana (España, Chile y Uruguay) y bloque de habla inglesa (Estados Unidos, Gran Bretaña e Irlanda), garantizando comparabilidad métrica."
+        },
+        {
+          "id": "7",
+          "label": "Modelos Multinivel y Logística",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Estrategia cuantitativa con modelos jerárquicos lineales (suma de cuadrados Tipo III) para controlar varianza anidada y regresiones logísticas binarias aplicadas a los cuatro cuartiles de desempeño lector."
+        },
+        {
+          "id": "8",
+          "label": "Disparidad en Medias Lectoras",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Brecha estadísticamente significativa en el puntaje global total: el bloque angloparlante alcanzó 5036 puntos mientras el hispanohablante registró 4711, con diferencias en los diez reactivos analizados."
+        },
+        {
+          "id": "9",
+          "label": "Predicción Sociofamiliar (~20% vs ~15%)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Las variables sociofamiliares explican cerca del 20% de la varianza lectora en estudiantes hispanohablantes (R² ajustada .218) y alrededor del 15% en los de habla inglesa (R² ajustada .147)."
+        },
+        {
+          "id": "10",
+          "label": "Impacto del Nivel Educativo Medio",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Haber alcanzado niveles de escolaridad secundaria o técnica media por parte de ambos progenitores predice un desempeño óptimo (Q1), superando en consistencia a la alta cualificación universitaria."
+        },
+        {
+          "id": "11",
+          "label": "Perfil Deficiente y Baja Escolaridad",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "El cuartil inferior (Q4) correlaciona sólidamente con familias de nivel educativo elemental de padres y madres en ambos bloques (p=.001), consolidando un patrón estructural de desventaja acumulativa."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: Efecto Moderador del Idioma",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "El idioma no opera como una mera variable formal sino como un entramado sociocultural e institucional complejo que modula de qué manera los recursos familiares se traducen en logros lectores."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Primacía del Rol Educativo",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "El acompañamiento activo y la expectativa parental operan como factores de resiliencia escolar, mitigando carencias económicas materiales e impulsando la autopercepción de competencia del hijo."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Políticas de Apoyo Integral",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "Mejorar la alfabetización lectora en adolescentes demanda políticas públicas coordinadas que empoderen educativamente a las familias vulnerables y estrechen la tutoría compartida con los centros escolares."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Sesgos de Traducción",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Posible presencia de sesgos culturales o de adaptación lingüística latentes en los ítems traducidos de PISA, pese a los controles psicométricos internacionales establecidos por los equipos de la OCDE."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Ausencia de Dimensión Subjetiva",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Omisión del valor social subjetivo otorgado a la lectura por docentes y estudiantes, así como variables de motivación intrínseca o clima del aula no recopiladas en los cuestionarios de contexto analizados."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "constituye variable central de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "actúa como covariable en"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "suministra microdatos a"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "delimita diseño sobre"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se distribuye mediante"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se modela a través de"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "identifica brecha en"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "cuantifica varianza en"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "revela peso de"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "establece riesgo en"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "funda deliberación sobre"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "aporta evidencia comparativa a"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "respalda importancia de"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "resalta necesidad de"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "orienta formulación de"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "sintetiza prioridades en"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "impone advertencias a"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "se articula metodológicamente con"
+        },
+        {
+          "from": "2",
+          "to": "10",
+          "label": "potencia el beneficio de"
+        },
+        {
+          "from": "1",
+          "to": "11",
+          "label": "explica vulnerabilidad en"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "mide cuantitativamente"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Qué iniciativas de alianza con las familias podrías poner en marcha en tu centro para fortalecer el rol educativo en la lectura?",
+      "enfoque": "Crear talleres de alfabetización y diálogo familiar donde padres y madres aprendan pautas sencillas para conversar sobre lecturas escolares.",
+      "cierre": "El capital cultural familiar es maleable: cuando la escuela apoya el interés de los padres, la competencia lectora de los hijos florece con equidad."
+    }
+  }
+}

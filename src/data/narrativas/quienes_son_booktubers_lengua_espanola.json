@@ -1,0 +1,409 @@
+{
+  "id": "quienes_son_booktubers_lengua_espanola",
+  "metadata": {
+    "title": "¿Quiénes son los booktubers? Características de los video-blogueros literarios en lengua española",
+    "authors": "José M. Tomasena",
+    "year": "2021",
+    "journal": "Ocnos 20(2)",
+    "doi": "10.18239/ocnos_2021.20.2.2466",
+    "gancho": "El 20% de los booktubers acapara el 92% de las reproducciones. ¿Es YouTube una cultura participativa horizontal o un escaparate editorial polarizado?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#c73e1d",
+    "colorAlt": "#2a5a75",
+    "bg": "from-coral/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/booktube-es/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "José M. Tomasena, sociólogo de la cultura y especialista en culturas digitales",
+      "gancho": "El 20% de los booktubers acapara el 92% de las reproducciones. ¿Es YouTube una cultura participativa horizontal o un escaparate editorial polarizado?",
+      "contexto": "Los booktubers representan una de las manifestaciones más visibles de la mediación lectora juvenil en la ecología de medios contemporánea. Mediante una innovadora aproximación de 'lectura distante' combinada con encuesta sociodemográfica, este estudio mapea 464 canales y más de 51.000 vídeos en lengua española para responder con rigor quiénes son realmente estos creadores de contenido.",
+      "deepDives": [
+        {
+          "id": "bt-ap-1",
+          "triggerLabel": "La tercera revolución de la lectura",
+          "type": "theory",
+          "content": "Cavallo y Chartier (1998) teorizan la digitalización como la mayor mutación del soporte lector desde la invención del códice y la imprenta, transformando la relación con el libro y las comunidades lectoras."
+        },
+        {
+          "id": "bt-ap-2",
+          "triggerLabel": "Concepto de LIJ 2.0 de Rovira-Collado",
+          "type": "context",
+          "content": "Rovira-Collado (2016) acuñó el término 'LIJ 2.0' para describir las nuevas prácticas y artefactos transmediales donde la literatura infantil y juvenil se difunde, debate y recrea en plataformas sociales."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Predominaba en el discurso mediático la idea acrítica de que todos los booktubers son nuevos prescriptores universales y promotores comunitarios de lectura, desconociendo su perfil sociodemográfico real y la concentración asimétrica de la atención.",
+      "porQueImporta": "Comprender la brecha entre la retórica de la cultura participativa y las lógicas algorítmicas de la popularidad en plataformas comerciales permite a docentes y bibliotecarios diseñar mediaciones críticas con el ecosistema digital.",
+      "dataPoints": [
+        "Base de datos de 464 canales en español y 51.322 vídeos analizados mediante la API de YouTube y YouTube Data Tools.",
+        "Polarización extrema: el 20% superior de canales concentra el 92,03% de todas las visualizaciones registradas (338 millones de vistas)."
+      ],
+      "glossary": [
+        {
+          "term": "Lectura distante",
+          "definition": "Estrategia metodológica de Franco Moretti (2016) que analiza macroestructuras y metadatos sin detenerse en textos individuales."
+        },
+        {
+          "term": "Larga cola (Long Tail)",
+          "definition": "Estructura de distribución de Chris Anderson donde pocos ítems concentran la masividad y la inmensa mayoría queda en la cola de nicho."
+        },
+        {
+          "term": "Principio de popularidad",
+          "definition": "Mecanismo algorítmico descrito por van Dijck (2013) donde la visibilidad previa retroalimenta mayor atracción de audiencias."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "bt-conf-1",
+          "triggerLabel": "Conectividad como mercancía",
+          "type": "theory",
+          "content": "En la cúspide de la larga cola, los booktubers más populares capitalizan sus audiencias firmando contratos con grandes grupos editoriales (Planeta, Penguin) y convirtiéndose ellos mismos en autores juveniles de éxito."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Navegación de profundidad en YouTube: métodos digitales y encuesta",
+      "narrativa": "El autor integró dos metodologías complementarias: extracción computacional automatizada de la red de canales de BookTube en español mediante scripts sobre la API v3 y una encuesta sociodemográfica en línea respondida por 71 creadores.",
+      "detalles": [
+        {
+          "label": "Corpus analizado",
+          "value": "464 canales depurados en lengua española y 51.322 vídeos analizados con Tableau Desktop."
+        },
+        {
+          "label": "Encuesta",
+          "value": "71 booktubers participantes con variables de edad, sexo, escolaridad y prácticas de producción."
+        },
+        {
+          "label": "Herramientas",
+          "value": "YouTube Data Tools (módulos Channel Network y Video List) y scripts en Python."
+        },
+        {
+          "label": "Temporalidad",
+          "value": "Rastreo de canales desde sus inicios hasta febrero de 2019, detectando el auge entre 2013 y 2015."
+        }
+      ],
+      "limitaciones": [
+        "El estudio cuantitativo de metadatos no profundiza en el análisis cualitativo o semiótico del contenido de los discursos y reseñas.",
+        "La rápida obsolescencia de canales y la migración ('trashumancia virtual' hacia Instagram y TikTok) demanda actualización constante."
+      ],
+      "reflexion": "¿Cómo cambia la legitimidad de un crítico literario cuando su influencia depende del algoritmo de visualizaciones de YouTube en lugar del prestigio académico?",
+      "deepDives": [
+        {
+          "id": "bt-viaje-1",
+          "triggerLabel": "Red de canales amigos (Featured Channels)",
+          "type": "method",
+          "content": "A partir de 20 canales semilla iniciales, el algoritmo rastreó los enlaces directos de canales destacados recomendados mutuamente, reconstruyendo la morfología comunitaria completa."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "La comunidad BookTube en español está hegemonizada por mujeres jóvenes (62,93%) de 20 a 29 años con estudios universitarios (67%), concentradas principalmente en México (51,72%) y España (22,63%).",
+      "evidenciaCualitativa": "Frente al mito del prescriptor masivo, la inmensa mayoría de canales (80%) opera en comunidades pequeñas con lógicas de fandom e intercambio afectivo, mientras solo un grupo reducido de celebridades digitales monetiza con editoriales.",
+      "citaClave": "'La conectividad acumulada en la plataforma se convierte en mercancía intercambiable con el campo editorial tradicional, mientras la mayoría practica una sociabilidad letrada de base.'",
+      "implicacionesDocentes": [
+        "Desmitificar la figura del booktuber en el aula mostrando tanto los canales comerciales masivos como las iniciativas colectivas independientes.",
+        "Promover la creación de videorreseñas escolares en formatos breves y colaborativos sin presionar por métricas de popularidad externa.",
+        "Aprovechar la alta escolaridad y compromiso de los booktubers como modelos positivos de lectura activa para adolescentes."
+      ],
+      "deepDives": [
+        {
+          "id": "bt-rev-1",
+          "triggerLabel": "Estabilización temporal",
+          "type": "data",
+          "content": "Tras la explosión de creación de canales en 2013-2015, el ritmo de subida de vídeos se estabilizó a partir de 2016, mostrando picos estacionales sistemáticos en vacaciones de julio y diciembre."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Nuevos Estudios de Literacidad (NEL) y culturas participativas",
+      "tensiones": [
+        "Visión idílica de democratización cultural comunitaria vs. concentración capitalista de audiencias algorítmicas.",
+        "Prácticas letradas informales vernáculas vs. cooptación comercial por la industria editorial hegemónica."
+      ],
+      "autoresClave": [
+        "Jenkins et al. (2009)",
+        "Moretti (2016)",
+        "van Dijck (2013)",
+        "Cassany (2015)",
+        "Lluch (2014)",
+        "Rovira-Collado (2016)",
+        "Anderson (2010)"
+      ],
+      "deepDives": [
+        {
+          "id": "bt-marco-1",
+          "triggerLabel": "Nuevos Estudios de Literacidad y aprendizaje social",
+          "type": "theory",
+          "content": "Basándose en Street, Gee, Lankshear y Cassany, la lectura se conceptualiza no como habilidad cognitiva descontextualizada, sino como práctica social situada en relaciones de poder y medios tecnológicos."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cuáles son las características sociodemográficas y dinámicas de visibilidad de los booktubers en lengua española?",
+      "conclusion": "Los booktubers en español son predominantemente mujeres jóvenes con estudios superiores ubicadas en México y España; su visibilidad está fuertemente polarizada en una larga cola donde el 20% acapara el 92% de la audiencia.",
+      "formalRef": "Tomasena, J. M. (2021). ¿Quiénes son los booktubers? Características de los video-blogueros literarios en lengua española. Ocnos, 20(2), 43-55. https://doi.org/10.18239/ocnos_2021.20.2.2466"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente de BookTube",
+        "descripcion": "Recorre el ecosistema digital capturando canales, suscriptores y visualizaciones mientras respondes sobre booktubers.",
+        "instrucciones": "Recoge tokens de lectura distante y responde preguntas sobre géneros audiovisuales y métricas. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Videoblogueros Literarios",
+        "descripcion": "Pon a prueba tu conocimiento sobre la cultura participativa, distribución de larga cola y perfiles de BookTube.",
+        "instrucciones": "Responde de forma veloz para acumular multiplicadores y dominar los estudios sobre ecología de pantallas."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de la Popularidad Digital",
+        "descripcion": "Asciende desde las comunidades de fans de nicho hasta la cima de la larga cola y los contratos editoriales.",
+        "instrucciones": "Supera cada nivel respondiendo sobre características sociodemográficas y plataformas transmediales."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: ¿Quiénes son los booktubers en lengua española? (Tomasena, 2021)",
+      "descripcion": "Retrato empírico y digital de la comunidad BookTube en español: 464 canales, 51.322 vídeos, perfil universitario y femenino, distribución en larga cola (20% concentra 92% de vistas) y tensión comercial.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Cultura participativa y ecología digital",
+          "color": "#c73e1d",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico de Henry Jenkins y Burgess sobre comunidades de afinidad en red caracterizadas por barreras bajas a la expresión, mentoría informal y producción de contenidos compartidos."
+        },
+        {
+          "id": "2",
+          "label": "Nuevos Estudios de Literacidad (NEL)",
+          "color": "#c73e1d",
+          "role": "Marco teórico",
+          "descripcion": "Enfoque sociomaterial (Cassany, Gee, Street) que define la lectura y la escritura como prácticas sociales situadas en artefactos mediáticos e inseparables de relaciones de poder e identidades comunitarias."
+        },
+        {
+          "id": "3",
+          "label": "El fenómeno BookTube y la LIJ 2.0",
+          "color": "#c73e1d",
+          "role": "Marco teórico",
+          "descripcion": "Práctica mediática donde jóvenes graban videorreseñas de libros en YouTube, transformando las formas tradicionales de prescripción literaria e inaugurando el ecosistema de la LIJ 2.0 (Rovira-Collado)."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: caracterizar sociodemográficamente a booktubers",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Describir con precisión estadística el perfil sociodemográfico (sexo, edad, nivel educativo, país de origen) de los videoblogueros literarios en lengua española como sujetos mediáticos."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: analizar la distribución de popularidad",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Examinar la estructura cuantitativa de la audiencia, evolución temporal de la producción de vídeos y el grado de concentración o dispersión de la atención en la plataforma."
+        },
+        {
+          "id": "6",
+          "label": "Método de lectura distante computacional",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Implementación del paradigma de lectura distante de Franco Moretti aplicado a YouTube, extrayendo grandes masas de metadatos sin entrar en el análisis cualitativo microscópico de cada pieza."
+        },
+        {
+          "id": "7",
+          "label": "Corpus digital: 464 canales y 51.322 vídeos",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Mapeo exhaustivo mediante YouTube Data Tools a partir de canales semilla hipervinculados, depurando 464 canales hispanohablantes activos y catalogando la totalidad de sus 51.322 vídeos."
+        },
+        {
+          "id": "8",
+          "label": "Encuesta sociodemográfica en línea (n=71)",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Cuestionario estructurado distribuido por correo y redes sociales para triangular datos sociodemográficos y hábitos de subida con la información extraída de la API de YouTube."
+        },
+        {
+          "id": "9",
+          "label": "Concentración geográfica: México (51.7%) y España (22.6%)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "La mitad absoluta de los canales opera desde México (240 canales) y casi un cuarto desde España (105 canales), seguidos a distancia por Colombia, Argentina, Perú y Chile."
+        },
+        {
+          "id": "10",
+          "label": "Perfil hegemónico: mujeres jóvenes con estudios superiores",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El 62.93% de los canales están dirigidos por mujeres, el 60% tiene entre 20 y 29 años, y un rotundo 67% de los encuestados cursa o ha completado estudios universitarios de grado y posgrado."
+        },
+        {
+          "id": "11",
+          "label": "Evolución temporal: auge (2013-2015) y estabilización",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Crecimiento exponencial en la creación de canales entre 2013 y 2015, seguido por una meseta de estabilización productiva con picos sistemáticos en las vacaciones de julio y diciembre."
+        },
+        {
+          "id": "12",
+          "label": "Estructura polarizada de larga cola (92% de vistas en 20%)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Comprobación del modelo de larga cola: el 20% de los canales más populares acapara el 92.03% de todas las reproducciones (338 millones de vistas), dejando al 80% restante en un 7.93% residual."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: conectividad convertida en mercancía",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Los canales hiperpopulares del vértice de la curva monetizan su capital social con sellos editoriales transnacionales (Planeta, Penguin), transformando la prescripción en alianza comercial."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: la mayoría opera como comunidad de fans",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El 80% de los canales ubicados en la cola extensa mantiene una dinámica desmercantilizada basada en vínculos comunitarios horizontales, reciprocidad afectiva y cultura fan desinteresada."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: ausencia de análisis discursivo textual",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "El diseño de lectura distante no aborda los códigos semióticos ni los argumentos de las videorreseñas, y enfrenta la rápida mutación de creadores hacia Instagram y TikTok."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: matización del mito del prescriptor",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se desmitifica la idea de BookTube como bloque homogéneo: coexisten una minoría de celebridades asimiladas al mercado editorial y una extensa red participativa de sociabilidad lectora juvenil."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "sitúa el contexto de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "fundamenta la mirada sobre"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "inspira el análisis de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se aborda mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se cuantifica con"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "permite catalogar el"
+        },
+        {
+          "from": "4",
+          "to": "8",
+          "label": "se triangula con la"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "revela la"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "demuestra el"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "traza la"
+        },
+        {
+          "from": "7",
+          "to": "12",
+          "label": "confirma la"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "explica cómo la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "demuestra que"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "conduce a la"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "sustenta la"
+        },
+        {
+          "from": "10",
+          "to": "16",
+          "label": "aporta datos para la"
+        },
+        {
+          "from": "9",
+          "to": "16",
+          "label": "define el mapa de la"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "marca las fronteras de"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "abre perspectivas en las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "cuestiona la retórica idílica de"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de las reproducciones totales de BookTube en español concentra el 20% de los canales más populares según el estudio?",
+          "options": [
+            "El 51.72%, idéntico al porcentaje de canales situados en México.",
+            "El 92.03% de las visualizaciones (más de 338 millones), evidenciando una extrema polarización en larga cola.",
+            "Apenas el 25%, demostrando una distribución horizontal y equitativa de la atención.",
+            "El 100%, ya que los algoritmos ocultan completamente a los canales pequeños."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo puede un mediador de lectura escolar utilizar el conocimiento de la 'larga cola' de BookTube para conectar a los estudiantes con canales comunitarios afines a sus intereses en lugar de limitarse a las celebridades comerciales?"
+        }
+      ]
+    }
+  }
+}

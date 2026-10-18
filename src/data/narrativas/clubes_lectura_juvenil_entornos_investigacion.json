@@ -1,0 +1,377 @@
+{
+  "id": "clubes_lectura_juvenil_entornos_investigacion",
+  "metadata": {
+    "id": "clubes_lectura_juvenil_entornos_investigacion",
+    "title": "Lectura literaria juvenil: los clubes de lectura como entornos de investigación",
+    "authors": [
+      "Taísa Dantas",
+      "José Antonio Cordón-García",
+      "Raquel Gómez-Díaz"
+    ],
+    "year": 2017,
+    "volume": "16",
+    "issue": "2",
+    "pages": "60-74",
+    "doi": "10.18239/ocnos_2017.16.2.1281",
+    "keywords": [
+      "clubes de lectura",
+      "lectura juvenil",
+      "biblioteca pública",
+      "BeatlePad",
+      "lectura digital"
+    ],
+    "abstract": "Estudio cualitativo que analiza el proyecto BeatlePad (Territorio Ebook de la Fundación Germán Sánchez Ruipérez) con adolescentes de 13 a 18 años lectores frecuentes. Mediante entrevistas semiestructuradas y análisis temático en ATLAS.ti, examina cómo los clubes de lectura juveniles funcionan como entornos privilegiados de investigación sobre socialización lectora y mediación digital."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo leen, debaten y construyen comunidad los adolescentes cuando la biblioteca pública abandona el silencio reverencial y les ofrece tabletas digitales, interacción en redes y un club de lectura a su medida? Este estudio cualitativo recupera las voces del proyecto BeatlePad para analizar la lectura juvenil como práctica compartida.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de indagación sobre la lectura juvenil:",
+        "opciones": [
+          {
+            "id": "socializacion",
+            "texto": "Ruta sociocultural: el club de lectura como espacio de identidad y amistad entre iguales"
+          },
+          {
+            "id": "tecnologica",
+            "texto": "Ruta tecnológica: lectura digital en e-readers y tabletas frente al libro impreso"
+          },
+          {
+            "id": "mediadora",
+            "texto": "Ruta bibliotecaria: el rol del mediador y la biblioteca pública como laboratorio vivo"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Abunda el tópico social de que la adolescencia es la etapa del abandono irreversible de la lectura. Sin embargo, las bibliotecas y escuelas a menudo ofrecen modelos de fomento rígidos e individuales que chocan con la necesidad de autonomía y socialización afectiva de los jóvenes, desaprovechando el potencial de los clubes de lectura.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cuál es el valor añadido decisivo de un club de lectura presencial y virtual para adolescentes?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Desprivatizar el acto lector, convirtiendo la interpretación solitaria en un diálogo polifónico donde compartir emociones y confrontar juicios.",
+            "correcta": true,
+            "explicacion": "Exacto: la lectura compartida legitima la voz del joven y transforma la experiencia estética en un vínculo comunitario de pertenencia."
+          },
+          {
+            "id": "c2",
+            "texto": "Obligar a los adolescentes a resumir libros obligatorios para calificarlos numéricamente.",
+            "correcta": false,
+            "explicacion": "El club de lectura voluntario se fundamenta en el placer y la libre expresión, lejos de la fiscalización evaluativa escolar."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los autores analizaron en profundidad el proyecto BeatlePad desarrollado en Peñaranda de Bracamonte por la FGSR. Efectuaron entrevistas semiestructuradas a los jóvenes participantes años después de la experiencia y a los profesionales bibliotecarios, codificando el corpus discursivo mediante el software ATLAS.ti en categorías de mediación, soporte y recepción.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Contexto experimental",
+            "detalle": "Proyecto BeatlePad en el Centro de Desarrollo Sociocultural de Peñaranda (Salamanca)."
+          },
+          {
+            "fase": "Muestra de informantes",
+            "detalle": "Adolescentes de 13 a 18 años lectores asiduos y equipo técnico de mediación bibliotecaria."
+          },
+          {
+            "fase": "Recogida cualitativa",
+            "detalle": "Entrevistas en profundidad sobre hábitos de lectura, dinámicas del club y uso de dispositivos."
+          },
+          {
+            "fase": "Análisis en ATLAS.ti",
+            "detalle": "Codificación temática de interacciones dialógicas, preferencias de soporte y huella lectora."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados revelan que el club de lectura actuó como un potente catalizador de identidad: los jóvenes valoraron la conversación literaria horizontal y el respeto a sus opiniones por encima del dispositivo tecnológico. El soporte digital facilitó la interacción en línea, pero el apego al libro en papel se mantuvo firme.",
+      "datos_clave": [
+        "Investigación cualitativa retrospectiva sobre el modelo pionero BeatlePad (Territorio Ebook).",
+        "Identificación del club como espacio de seguridad emocional y validación del criterio estético juvenil.",
+        "Convivencia híbrida y no excluyente entre soportes digitales (tabletas) y libro impreso tradicional.",
+        "Reconocimiento de la figura del bibliotecario como facilitador empático y dinamizador dialógico."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se fundamenta en las teorías de la lectura social de Cordón-García (2013), la sociología de la lectura juvenil de Michèle Petit (1999) y David Buckingham (2008), y los estudios de mediación en bibliotecas públicas.",
+      "referencias_clave": [
+        "Cordón-García et al. (2013)",
+        "Petit (1999)",
+        "Buckingham (2008)",
+        "Dantas et al. (2017)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "Los jóvenes no dejan de leer si encuentran una comunidad donde su lectura tenga sentido. Los clubes de lectura en bibliotecas públicas demuestran ser laboratorios vivos insustituibles donde la literatura se vive como encuentro, descubrimiento crítico y afirmación personal.",
+      "hallazgo_central": "Los clubes de lectura juveniles constituyen entornos fértiles de investigación e intervención donde la socialización horizontal y la mediación bibliotecaria consolidan hábitos lectores duraderos."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos de la investigación cualitativa con su definición:",
+          "pares": [
+            {
+              "concepto": "Lectura social",
+              "definicion": "Práctica lectora enriquecida por la interacción colectiva, anotaciones compartidas y debate."
+            },
+            {
+              "concepto": "ATLAS.ti",
+              "definicion": "Software de análisis cualitativo asistido por ordenador para codificación temática de discursos."
+            },
+            {
+              "concepto": "Mediador bibliotecario",
+              "definicion": "Profesional que dinamiza el club creando un clima horizontal de confianza y libertad interpretativa."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Clubes de Lectura Juvenil como Entornos de Investigación",
+      "descripcion": "Análisis cualitativo del proyecto BeatlePad sobre socialización lectora, mediación y lectura digital en jóvenes.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Clubes de Lectura Juvenil como Entorno Investigador",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo del artículo: analizar el potencial de los clubes de lectura en bibliotecas públicas como espacios privilegiados de investigación cualitativa sobre prácticas de lectura juvenil y mediación digital."
+        },
+        {
+          "id": "2",
+          "label": "Estigma del Desapego Lector Adolescente",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco contextual que discute el mito social generalizado sobre la desafección de los adolescentes hacia la lectura literaria, contraponiéndolo a la necesidad de nuevos modelos de dinamización comunitaria."
+        },
+        {
+          "id": "3",
+          "label": "Teoría de la Lectura Social y Conectada",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Aportes teóricos de Cordón-García y colaboradores sobre la transición hacia la lectura social, donde el texto digital propicia la glosa compartida, la sociabilidad y la conversación horizontal en red."
+        },
+        {
+          "id": "4",
+          "label": "Sociología de la Lectura según Michèle Petit",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Perspectiva antropológica de Michèle Petit que concibe la lectura literaria en espacios públicos como un territorio íntimo de construcción de subjetividad, refugio y resistencia simbólica en la juventud."
+        },
+        {
+          "id": "5",
+          "label": "Metodología Cualitativa y Estudio de Caso",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico cualitativo y retrospectivo basado en el estudio de caso del proyecto BeatlePad impulsado por la Fundación Germán Sánchez Ruipérez dentro del programa Territorio Ebook."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de Adolescentes y Mediadores",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Participación de adolescentes de trece a dieciocho años asiduos a la biblioteca de Peñaranda de Bracamonte junto con el equipo interdisciplinar de mediadores culturales y bibliotecarios del centro."
+        },
+        {
+          "id": "7",
+          "label": "Entrevistas Semiestructuradas en Profundidad",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Técnica de recogida de datos articulada en guiones de entrevista semiestructurados aplicados tiempo después del cierre del proyecto para evaluar el impacto biográfico duradero de la experiencia."
+        },
+        {
+          "id": "8",
+          "label": "Análisis Temático Asistido con ATLAS.ti",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Tratamiento analítico de los testimonios orales mediante categorización inductiva y codificación con ATLAS.ti, agrupando unidades de significado en torno a mediación, sociabilidad y soportes."
+        },
+        {
+          "id": "9",
+          "label": "Desprivatización y Validación Emocional",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los resultados evidencian que el club funcionó como un refugio de seguridad afectiva donde los jóvenes pudieron desprivatizar su lectura y validar sus emociones sin miedo al juicio evaluativo escolar."
+        },
+        {
+          "id": "10",
+          "label": "Apego Híbrido: Pantalla y Papel",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Constatación de que los adolescentes integran con naturalidad las tabletas y redes para debatir, pero mantienen un fuerte apego sensorial y afectivo hacia el libro impreso para lecturas inmersivas."
+        },
+        {
+          "id": "11",
+          "label": "Trascendencia del Liderazgo Bibliotecario",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Identificación de la mediación bibliotecaria cercana y no directiva como el elemento axial que garantizó la cohesión grupal, superando la fascinación pasajera por la novedad tecnológica del dispositivo."
+        },
+        {
+          "id": "12",
+          "label": "Superación de la Prescripción Escolar Rígida",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica que contrapone el éxito del club voluntario frente al fracaso de las lecturas obligatorias impuestas en la escuela, reclamando mayor autonomía en la selección de los títulos leídos."
+        },
+        {
+          "id": "13",
+          "label": "La Biblioteca como Laboratorio Social Vivo",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate en torno a la reconceptualización de la biblioteca pública, pasando de ser un depósito pasivo de libros a configurarse como un ágora comunitaria de creación, diálogo y experimentación ciudadana."
+        },
+        {
+          "id": "14",
+          "label": "Consolidación de Hábitos Lectores Duraderos",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión central que demuestra cómo la participación continuada en clubes de lectura durante la adolescencia deja una huella formativa indeleble que preserva el hábito lector en la vida adulta."
+        },
+        {
+          "id": "15",
+          "label": "Prescripción de Políticas de Fomento Juvenil",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación institucional orientada a dotar a las bibliotecas de recursos para sostener clubes juveniles estables que combinen encuentros presenciales con comunidades dialógicas digitales."
+        },
+        {
+          "id": "16",
+          "label": "Limitaciones del Estudio de Caso Retrospectivo",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Limitación vinculada a la especificidad contextual del entorno rural de Peñaranda y al sesgo mnémico propio de las entrevistas retrospectivas, sugiriendo estudios etnográficos longitudinales activos."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "cuestiona"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se fundamenta en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "dialoga con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "analiza a"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "aplica"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "procesa datos con"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "revela"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "muestra"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "destaca"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "permite debatir"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "nutre"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "revaloriza"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "fundamenta"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "avala"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "conduce a"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "reconoce"
+        },
+        {
+          "from": "7",
+          "to": "16",
+          "label": "conlleva"
+        },
+        {
+          "from": "3",
+          "to": "10",
+          "label": "teoriza sobre"
+        },
+        {
+          "from": "4",
+          "to": "9",
+          "label": "ilumina conceptualmente a"
+        },
+        {
+          "from": "11",
+          "to": "15",
+          "label": "inspira"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Los adolescentes no necesitan que les digamos qué deben sentir ante un libro; necesitan un espacio seguro donde poder decirlo ellos mismos. El club de lectura en la biblioteca pública demuestra que cuando la palabra se comparte en libertad, la lectura se convierte en un refugio para toda la vida.",
+      "preguntas": [
+        "¿Ofrecen nuestras bibliotecas y escuelas clubes de lectura horizontales para jóvenes o siguen primando las tareas evaluativas?",
+        "¿Cómo pueden articularse la presencia física y las plataformas digitales para multiplicar el diálogo lector juvenil?"
+      ]
+    }
+  }
+}

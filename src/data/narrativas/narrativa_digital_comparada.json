@@ -1,7 +1,7 @@
 {
   "id": "narrativa_digital_comparada",
   "metadata": {
-    "title": "Narrativa vs. narrativa digital en Educación Primaria y Secundaria: una revisión sistemática",
+    "title": "Narrativa vs. narrativa digital en Educación Primaria y Secundaria. Revisión sistemática",
     "authors": "Mario Gómez-Martín, Joel-Manuel Prieto-Andreu y Leandro Álvarez-Kurogi",
     "year": "2026",
     "journal": "Ocnos 25(1)",
@@ -12,9 +12,9 @@
     "color": "#f4d068",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-400/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-3.png",
+    "image": "/assets/portadas/narrativa_digital_comparada.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-3.png",
+      "image": "/assets/portadas/narrativa_digital_comparada.jpg",
       "name": "Dr. Mario Gómez-Martín",
       "role": "Investigador en Tecnología Educativa y Narrativa Digital, UNIR (España)"
     }
@@ -23,13 +23,13 @@
     "apertura": {
       "personaje": "Dr. Mario Gómez-Martín, especialista en innovación narrativa y entornos digitales escolares",
       "gancho": "¿Es la narrativa digital el futuro inevitable del aula o estamos perdiendo la magia ancestral del relato tradicional?",
-      "contexto": "Desde que la humanidad se reunía alrededor del fuego, contar historias ha sido el mecanismo por excelencia para transmitir valores y empatía. En las últimas dos décadas, la digitalización trajo consigo el 'Digital Storytelling': narraciones con audio, video, interactividad y programación por bloques como Scratch. Esta revisión sistemática PRISMA 2020 analiza 154 estudios empíricos (2013-2025) para responder qué aporta de forma única cada técnica en Primaria y Secundaria.",
+      "contexto": "Desde que la humanidad se reunía alrededor del fuego, contar historias ha sido el mecanismo por excelencia para transmitir valores y empatía. En las últimas dos décadas, la digitalización trajo consigo el 'Digital Storytelling': narraciones con audio, video, interactividad y programación por bloques como Google CS First. Esta revisión sistemática PRISMA 2020 analiza 154 estudios empíricos (2013-2025) para responder qué aporta de forma única cada técnica en Primaria y Secundaria.",
       "deepDives": [
         {
           "id": "ndig-apertura-1",
           "triggerLabel": "Evolución histórica (2013-2025)",
           "type": "data",
-          "content": "154 estudios analizados en Scopus, WoS, Dialnet y SciELO muestran un crecimiento acelerado tras 2020."
+          "content": "154 estudios analizados en Scopus, WoS, Dialnet y SciELO muestran un crecimiento acelerado tras 2019."
         },
         {
           "id": "ndig-apertura-2",
@@ -77,8 +77,8 @@
         }
       ],
       "limitaciones": [
-        "Heterogeneidad de herramientas digitales utilizadas en los estudios.",
-        "Escasez de estudios longitudinales a largo plazo."
+        "Exclusión de Educación Infantil, ámbito universitario y estudios cualitativos.",
+        "No se incluyeron tesis doctorales, libros, informes técnicos ni comunicaciones en congresos."
       ],
       "reflexion": "La síntesis desmonta modas pasajeras: el medio digital es un vehículo potente, pero la calidad del mensaje sigue dependiendo de la estructura narrativa."
     },
@@ -100,7 +100,7 @@
         }
       ],
       "dataPoints": [
-        "El 78% de los estudios de narrativa digital reportó incrementos significativos en motivación.",
+        "Los 85 estudios sobre narrativa digital evidenciaron impacto positivo en motivación, expresión oral y vocabulario.",
         "La narrativa tradicional sigue siendo insustituible para la escucha activa y la memoria secuencial."
       ],
       "reflexion": "No hay que elegir entre el abuelo que cuenta una leyenda y el niño que programa un videojuego: ambos son narradores de mundos."
@@ -206,110 +206,222 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Narrativa Tradicional vs. Narrativa Digital",
-    "descripcion": "Comparativa sistemática de aportaciones pedagógicas, desarrollo socioemocional, pensamiento computacional y modelos híbridos de aula.",
+    "titulo": "Mapa conceptual: Narrativa y narrativa digital en Primaria y Secundaria (Ocnos 25(1) 2026)",
+    "descripcion": "Revisión sistemática PRISMA 2020 de 154 estudios (2013-2025) en Scopus, WoS, Dialnet y SciELO que compara la aplicación y efectividad del Storytelling y el Digital Storytelling, traza su evolución temática y concluye en su integración complementaria según etapa, contexto y recursos.",
     "nodos": [
       {
         "id": "1",
-        "label": "Ecología Narrativa Escolar",
-        "color": "#f4d068"
+        "label": "Narrativa Tradicional (Storytelling)",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Narración de historias breves de alta carga emocional para captar la atención e influir en el comportamiento (Nuñez-López, 2007), estructurada con verdades y patrones universales (Booker, 2004; Campbell, 1959; Mckee, 1998). Bruner (1991) la reconoce como organizadora de experiencias y conocimientos."
       },
       {
         "id": "2",
-        "label": "Narrativa Tradicional Oral/Papel",
-        "color": "#2a5a75"
+        "label": "Narrativa Digital (Digital Storytelling)",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Fusiona la narración con herramientas digitales (audio, vídeo, gráficos, fotografías y palabras) para comunicar historias (Robin, 2008; Sage et al., 2018). Favorece el aprendizaje experiencial, la personalización de la enseñanza y la participación activa del alumnado."
       },
       {
         "id": "3",
-        "label": "Digital Storytelling",
-        "color": "#5b9eaa"
+        "label": "Controversia Conceptual de las Técnicas",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "La literatura las denomina estrategias, prácticas, herramientas, recursos didácticos o metodologías (Del Moral-Pérez et al., 2017; Sarasqueta, 2021). La revisión opta por 'técnicas narrativas' por su capacidad de seleccionar herramientas, trama, tono y punto de vista (Booth, 1978; Genette, 1980)."
       },
       {
         "id": "4",
-        "label": "Competencias Socioemocionales",
-        "color": "#88b04b"
+        "label": "Vacío en Revisiones Previas",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Las revisiones publicadas se centran en una sola técnica o en un nivel concreto (Mendoza-Hidrovo y Hermann-Acosta, 2023; De-Jager et al., 2017) y no existe una investigación exhaustiva que combine ST y DST en Primaria y Secundaria en distintos países."
       },
       {
         "id": "5",
-        "label": "Pensamiento Computacional",
-        "color": "#9b82c3"
+        "label": "Objetivo: Comparar Efectividad y Tendencias",
+        "color": "#e76f51",
+        "role": "Objetivo",
+        "descripcion": "Identificar la aplicación y efectividad del ST y el DST en Primaria y Secundaria, respondiendo dos preguntas: efectos comparativos en el desarrollo de competencias educativas y tendencias observadas en su aplicación por niveles y contextos."
       },
       {
         "id": "6",
-        "label": "Motivación y Expresión Multimodal",
-        "color": "#e88b8c"
+        "label": "Protocolo PRISMA 2020",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "Procedimiento de Page et al. (2021) con diagrama de flujo: de 41.350 registros identificados (Scopus 19.852; Dialnet 14.356; WoS 6.859; SciELO 283) se pasó a las fases de identificación, clasificación y elegibilidad."
       },
       {
         "id": "7",
-        "label": "Revisión PRISMA (154 Estudios)",
-        "color": "#264653"
+        "label": "Bases de Datos y Ecuaciones de Búsqueda",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Scopus, Web of Science, Dialnet y SciELO, con ecuaciones que combinan términos de ST/DST con Educación Primaria y Secundaria, para registros publicados entre 2013 y abril de 2025."
       },
       {
         "id": "8",
-        "label": "Falsa Dicotomía Tecnológica",
-        "color": "#e76f51"
+        "label": "Criterios de Inclusión y Exclusión",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Se incluyeron diseños experimentales o cuasiexperimentales con medición pretest-postest, participantes de 6 a 16 años, cualquier idioma y revisión por pares; se excluyeron tesis doctorales, capítulos de libros, actas de congresos y repositorios institucionales."
       },
       {
         "id": "9",
-        "label": "Modelo Pedagógico Híbrido",
-        "color": "#2a9d8f"
+        "label": "154 Estudios Seleccionados",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Corpus final: 85 estudios sobre DST (55.19%), 67 sobre ST (43.50%) y 2 combinados; por etapa, 97 de Primaria (62.98%), 50 de Secundaria (32.46%) y 7 de ambas. La referencia del corpus se publica en el repositorio Zenodo."
       },
       {
         "id": "10",
-        "label": "Inclusión y Diversidad Lingüística",
-        "color": "#f4a261"
+        "label": "Evolución Temática por Tramos",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "De la alfabetización inicial y el desarrollo emocional (2013-2015) al cómic, dramatización y reducción de ansiedad académica (2016-2018); de STEAM, mobile storytelling y AR/VR con impulso de la COVID-19 (2019-2021) a la VR inmersiva, robótica social, gamificación transmedia e inclusión de TDAH, TEA y NEE (2022-2025)."
+      },
+      {
+        "id": "11",
+        "label": "Habilidades Socioemocionales y Cultural",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "El ST, analizado en 67 estudios, fomenta valores y actitudes hacia la ciencia, alfabetización en niños indígenas, creatividad narrativa y gráfica, pensamiento crítico, metacognición, autoestima, EFL y reducción de la ansiedad, además de la alfabetización cultural."
+      },
+      {
+        "id": "12",
+        "label": "Competencia Digital y Computacional",
+        "color": "#2a5a75",
+        "role": "Resultados",
+        "descripcion": "El DST, en 85 estudios, mejora vocabulario, expresión oral, comprensión, habilidades sociales y creativas, autorregulación, motivación, pensamiento computacional (Tsai et al., 2015), funciones ejecutivas, alfabetización histórica y geográfica e inclusión de alumnado con NEE."
+      },
+      {
+        "id": "13",
+        "label": "Crecimiento del DST desde 2019",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Las publicaciones crecen de forma sostenida, especialmente a partir de 2019, desplazándose el interés desde la alfabetización y motivación hacia tecnologías emergentes y competencias de nivel superior, mientras el ST muestra una tendencia constante en el tiempo."
+      },
+      {
+        "id": "14",
+        "label": "Aplicaciones Diferenciadas por Etapa",
+        "color": "#e76f51",
+        "role": "Discusión",
+        "descripcion": "En Primaria el DST se vincula a lectura, escritura, comunicación oral y motivación; en Secundaria, al pensamiento crítico y contenidos complejos (economía, matemáticas, biología). El ST mantiene su utilidad en contextos con recursos tecnológicos limitados (Isbell et al., 2004) y en lo socioemocional."
+      },
+      {
+        "id": "15",
+        "label": "Conclusión: Integración Complementaria",
+        "color": "#f4d068",
+        "role": "Conclusiones",
+        "descripcion": "ST y DST generan efectos diferenciados pero complementarios: DST destaca en competencias digitales, pensamiento computacional, expresión oral, idiomas y conceptos complejos; ST en habilidades socioemocionales, creatividad narrativa, empatía y alfabetización cultural. Su aplicación estratégica enriquece la enseñanza-aprendizaje."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones y Prospectiva",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "El análisis excluyó Educación Infantil, universidad, estudios cualitativos, tesis, libros, informes y congresos, limitando propuestas aún no difundidas. Como prospectiva se demanda investigación sobre los recursos tecnológicos y la formación del profesorado en la implementación de ST y DST."
       }
     ],
     "aristas": [
       {
-        "from": "7",
-        "to": "1",
-        "label": "sistematiza la"
-      },
-      {
-        "from": "1",
-        "to": "2",
-        "label": "incluye como pilar a la"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "integra la potencia del"
-      },
-      {
         "from": "2",
-        "to": "4",
-        "label": "desarrolla de forma superior las"
+        "to": "1",
+        "label": "representa una innovación digital del"
       },
       {
         "from": "3",
+        "to": "1",
+        "label": "problematiza la definición del"
+      },
+      {
+        "from": "3",
+        "to": "2",
+        "label": "problematiza la definición del"
+      },
+      {
+        "from": "4",
         "to": "5",
-        "label": "estimula directamente el"
+        "label": "fundamenta el"
       },
       {
-        "from": "3",
+        "from": "5",
         "to": "6",
-        "label": "dispara notablemente la"
+        "label": "se aborda con el"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se ejecuta sobre las"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "aplica los"
       },
       {
         "from": "8",
-        "to": "1",
-        "label": "polariza erróneamente la"
+        "to": "9",
+        "label": "produce la muestra de"
       },
       {
         "from": "9",
-        "to": "8",
-        "label": "desmonta y supera la"
+        "to": "13",
+        "label": "evidencia el"
       },
       {
         "from": "9",
-        "to": "2",
-        "label": "parte del guion de la"
+        "to": "10",
+        "label": "se ordena cronológicamente por la"
       },
       {
         "from": "9",
-        "to": "3",
-        "label": "produce con los medios del"
+        "to": "11",
+        "label": "agrupa evidencia sobre las"
+      },
+      {
+        "from": "9",
+        "to": "12",
+        "label": "agrupa evidencia sobre las"
+      },
+      {
+        "from": "1",
+        "to": "11",
+        "label": "favorece las"
+      },
+      {
+        "from": "2",
+        "to": "12",
+        "label": "incide en las"
+      },
+      {
+        "from": "10",
+        "to": "12",
+        "label": "amplía las"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "converge en la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "converge en la"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "matiza la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "conduce a la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "se acota por las"
       }
     ]
   }

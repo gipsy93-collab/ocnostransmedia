@@ -1,0 +1,375 @@
+{
+  "id": "metodologia_estudio_folclore_infantil_obras_literarias",
+  "metadata": {
+    "id": "metodologia_estudio_folclore_infantil_obras_literarias",
+    "title": "Propuesta metodológica para el estudio de la presencia del folclore infantil en obras literarias",
+    "authors": [
+      "Lucía Pilar Cancelas-Ouviña"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "3",
+    "pages": "55-67",
+    "doi": "10.18239/ocnos_2018.17.3.1762",
+    "keywords": [
+      "folclore infantil",
+      "teoría literaria",
+      "metodología",
+      "rejilla de análisis",
+      "transtextualidad"
+    ],
+    "abstract": "Propuesta de un modelo trifásico para estudiar el folclore infantil en la literatura culta (identificación, análisis e interpretación). Incorpora una rejilla analítica adaptada de la psicología para examinar muestras orales cualitativa y cuantitativamente."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo estudiar con rigor científico y sistemático las huellas de nanas, canciones, adivinanzas y retahílas populares insertas en la literatura culta para adultos y jóvenes? Este estudio diseña un modelo metodológico trifásico con una rejilla de análisis interdisciplinar.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis metodológico del folclore en la literatura:",
+        "opciones": [
+          {
+            "id": "modelo",
+            "texto": "El modelo trifásico: identificación, análisis e interpretación"
+          },
+          {
+            "id": "rejilla",
+            "texto": "Técnica de rejilla: instrumento cuantitativo y cualitativo adaptado"
+          },
+          {
+            "id": "corpus",
+            "texto": "Validación empírica en obras neopopularistas (Agatha Christie y Lorca)"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Tradicionalmente, los estudios sobre folclore infantil en obras literarias se han limitado a señalar anécdotas o enumerar citas sin un protocolo riguroso ni categorías reproducibles. Esta falta de método riguroso debilitaba la hermenéutica e impedía calibrar la verdadera función estética y transtextual de la tradición oral.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué aporta la fase analítica intermedia creada por Cancelas-Ouviña frente al modelo tradicional de Dundes?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Introduce una rejilla sistemática con constructos fijos que audita el grado de modificación textual antes de interpretar el sentido.",
+            "correcta": true,
+            "explicacion": "Exacto: la rejilla actúa como tamiz objetivo entre el hallazgo y la exégesis, evitando conjeturas impresionistas."
+          },
+          {
+            "id": "c2",
+            "texto": "Elimina por completo la necesidad de interpretar el significado de los textos.",
+            "correcta": false,
+            "explicacion": "La interpretación sigue siendo la culminación hermenéutica, pero fundamentada sobre datos analíticos sólidos."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "La investigadora adapta la técnica de rejilla de George Kelly proveniente de la psicología cognitiva a los estudios filológicos. Estructura el modelo en tres etapas sucesivas (Fase 1: Identificación y catalogación; Fase 2: Análisis mediante rejilla de variables; Fase 3: Interpretación transtextual según Genette).",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Identificación",
+            "detalle": "Detección de unidades folclóricas mediante cotejo con repertorios y catálogos orales tradicionales."
+          },
+          {
+            "fase": "Rejilla analítica",
+            "detalle": "Evaluación matricial de tipo de muestra, función sintáctica, grado de variación y localización."
+          },
+          {
+            "fase": "Interpretación",
+            "detalle": "Exégesis de las relaciones transtextuales (intertextualidad, paratextualidad, hipertextualidad)."
+          },
+          {
+            "fase": "Aplicación empírica",
+            "detalle": "Demostración de eficacia analizando nursery rhymes en la obra criminal de Agatha Christie."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El modelo trifásico demuestra que el folclore infantil en la literatura para adultos no es un mero adorno pintoresco: opera como un potente dispositivo estructurante que genera tensión dramática, crea atmósferas siniestras y activa la memoria emocional del lector.",
+      "datos_clave": [
+        "Creación de un modelo trifásico riguroso: Identificación, Análisis e Interpretación.",
+        "Adaptación pionera de la técnica de rejilla de Kelly al análisis filológico y folclórico.",
+        "Articulación precisa con las teorías de la transtextualidad de Gérard Genette.",
+        "Instrumento reproducible aplicable a cualquier género y tradición literaria internacional."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El trabajo integra la folclorística científica de Dundes y Chevalier, las teorías de la transtextualidad de Gérard Genette, la psicología de los constructos personales de Kelly y la crítica neopopularista de Hernández y Agúndez.",
+      "referencias_clave": [
+        "Dundes (1965)",
+        "Genette (1989)",
+        "Kelly (1955)",
+        "Agúndez (2006)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "La tradición oral y la literatura canónica no son mundos opuestos: el modelo de Cancelas-Ouviña proporciona el rigor metodológico necesario para desvelar cómo la memoria infantil del folclore nutre el tuétano de las grandes creaciones literarias.",
+      "hallazgo_central": "El modelo metodológico trifásico y la rejilla de análisis aportan un protocolo estandarizado e interdisciplinar para examinar objetivamente el folclore infantil en obras literarias."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja las fases del modelo con sus acciones específicas:",
+          "pares": [
+            {
+              "concepto": "Fase 1: Identificación",
+              "definicion": "Reconocimiento y catalogación de la unidad folclórica frente a fuentes tradicionales."
+            },
+            {
+              "concepto": "Fase 2: Análisis (Rejilla)",
+              "definicion": "Medición estructurada de fidelidad textual, posición formal y función retórica."
+            },
+            {
+              "concepto": "Fase 3: Interpretación",
+              "definicion": "Exégesis transtextual del sentido estético e ideológico de la inserción folclórica."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Propuesta Metodológica para el Estudio del Folclore Infantil en la Literatura",
+      "descripcion": "Estructura epistemológica del modelo trifásico y la rejilla analítica para el estudio de la literatura neopopularista.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Estudio del Folclore Infantil en Literatura",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo principal: diseñar, fundamentar y validar operativamente un protocolo metodológico sistemático, riguroso y replicable para analizar la presencia e inserción del folclore infantil en obras literarias cultas contemporáneas."
+        },
+        {
+          "id": "2",
+          "label": "Concepto de Autor Neopopularizante",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Categoría teórica acuñada para designar a aquellos escritores que integran deliberadamente materiales de la tradición oral y lírica infantil popular como motor inspirador temático y formal en sus creaciones estéticas adultas."
+        },
+        {
+          "id": "3",
+          "label": "Teoría de la Transtextualidad de Genette",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Paradigma semiótico estructural que clasifica las relaciones textuales en intertextualidad, paratextualidad, metatextualidad, hipertextualidad y arquitextualidad para rastrear con exactitud ecos, citas e influencias textuales."
+        },
+        {
+          "id": "4",
+          "label": "Crítica al Impresionismo Analítico",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Denuncia epistemológica rigurosa de aquellos estudios folclóricos tradicionales que se limitan a constatar hallazgos anecdóticos y formular juicios intuitivos subjetivos sin apoyarse en un marco analítico estandarizado verificable."
+        },
+        {
+          "id": "5",
+          "label": "Diseño del Modelo Trifásico",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Arquitectura metodológica original articulada en tres estadios consecutivos e interdependientes: Fase 1 de Identificación catalográfica, Fase 2 de Análisis estructurado cuantitativo y Fase 3 de Interpretación hermenéutica profunda."
+        },
+        {
+          "id": "6",
+          "label": "Adaptación de la Técnica de Rejilla",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Trasvase epistemológico innovador de la técnica de rejilla de constructos de George Kelly (1955) de la psicología clínica a la filología aplicada para tabular objetivamente variables textuales, sintácticas y estéticas."
+        },
+        {
+          "id": "7",
+          "label": "Validación en Corpus Neopopularista",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Comprobación de la eficacia operativa del modelo mediante el análisis sistemático y minucioso de la presencia estructurante de nursery rhymes tradicionales en novelas policíacas y narrativas de autores canónicos universales."
+        },
+        {
+          "id": "8",
+          "label": "Eficacia en Catalogación de Hipotextos",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación empírica de que la fase inicial de identificación permite rastrear con precisión la muestra folclórica original, documentando rigurosamente variantes de transmisión oral, cronologías y fuentes documentales de archivo."
+        },
+        {
+          "id": "9",
+          "label": "Cuantificación Rigurosa con la Rejilla",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Resultado metodológico del instrumento: tabulación cuantitativa exacta de parámetros de fidelidad literal, modificaciones morfosintácticas, frecuencia de aparición, ubicación en la trama y peso funcional dramático."
+        },
+        {
+          "id": "10",
+          "label": "Desvelamiento de Funciones Estéticas",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Demostración hermenéutica de que las rimas y canciones populares infantiles operan como potentes generadores de suspense, presagios simbólicos inquietantes y motores de caracterización psicológica profunda de personajes."
+        },
+        {
+          "id": "11",
+          "label": "Puente Disciplinar Filología-Folclorística",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión epistemológica sobre la reconciliación necesaria entre los métodos filológicos de análisis textual cerrado y los catálogos folclóricos de tradición oral etnográfica para superar barreras gremiales históricas."
+        },
+        {
+          "id": "12",
+          "label": "Superación del Modelo Bifásico de Dundes",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión metodológica que demuestra que intercalar una fase intermedia de análisis matricial entre la identificación y la interpretación hermenéutica previene eficazmente sesgos subjetivos y saltos conjeturales precipitados."
+        },
+        {
+          "id": "13",
+          "label": "Estandarización de la Investigación",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental: la propuesta metodológica dota a la comunidad científica de un instrumento estandarizado, cuantitativo y cualitativo a la vez, aplicable a cualquier género, autor y época literaria."
+        },
+        {
+          "id": "14",
+          "label": "Transferencia Didáctica a las Aulas",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación pedagógica orientada a emplear el modelo trifásico en la enseñanza secundaria y universitaria para enseñar análisis intertextual y comentario de texto de forma guiada, objetiva y visualmente estructurada."
+        },
+        {
+          "id": "15",
+          "label": "Puesta en Valor del Folclore Infantil",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Reivindicación de la lírica infantil tradicional como un patrimonio cultural intangible de máxima riqueza estética y polisemia simbólica, capaz de fecundar y transformar la narrativa adulta más sofisticada."
+        },
+        {
+          "id": "16",
+          "label": "Dependencia de Catálogos Exhaustivos",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación metodológica reconocida respecto a la exigencia ineludible de disponer previamente de catálogos y repertorios orales exhaustivos para la primera fase, cuya carencia en ciertas culturas dificulta el cotejo."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "conceptualiza al"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se concreta en el"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se explica mediante la"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "permite superar la"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "incorpora la"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "se valida en"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "demuestra su"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "posibilita la"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "desemboca en el"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "se articula con"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "justifica la"
+        },
+        {
+          "from": "10",
+          "to": "11",
+          "label": "evidencia el"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "hace posible la"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "avala la"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "facilita la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "conduce a la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "condicionado por la"
+        },
+        {
+          "from": "4",
+          "to": "13",
+          "label": "se erradica con"
+        },
+        {
+          "from": "6",
+          "to": "14",
+          "label": "ofrece soporte para"
+        },
+        {
+          "from": "3",
+          "to": "10",
+          "label": "sustenta teóricamente el"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Cancelas-Ouviña nos recuerda que las nanas y adivinanzas con las que nos dormían y jugaban en la infancia no mueren en el patio de recreo: siguen vivas en las novelas que leemos de adultos, aguardando miradas atentas capaces de descifrar su música secreta.",
+      "preguntas_guiadas": [
+        "¿Recuerdas canciones o rimas infantiles que hayas descubierto camufladas en novelas, películas o poemas contemporáneos?",
+        "¿Cómo puede el alumnado utilizar rejillas analíticas para identificar préstamos folclóricos en sus lecturas habituales?"
+      ]
+    }
+  }
+}

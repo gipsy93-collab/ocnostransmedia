@@ -1,7 +1,7 @@
 {
   "id": "memoria_mexique",
   "metadata": {
-    "title": "Álbumes ilustrados y memoria histórica: respuestas lectoras en Educación Primaria",
+    "title": "Álbumes ilustrados y memoria histórica. Respuestas lectoras del alumnado de Educación Primaria",
     "authors": "Berta Echeberria-Arquero, Amaia Mariezkurrena Serrano, Iñigo López-Gazpio y Ursula Luna",
     "year": "2026",
     "journal": "Ocnos 25(2)",
@@ -12,9 +12,9 @@
     "color": "#c73e1d",
     "colorAlt": "#2a5a75",
     "bg": "from-red-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-16.png",
+    "image": "/assets/portadas/memoria_mexique.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-16.png",
+      "image": "/assets/portadas/memoria_mexique.jpg",
       "name": "Dra. Berta Echeberria-Arquero",
       "role": "Investigadora en Didáctica de la Literatura y Memoria Democrática, UPV/EHU (España)"
     }
@@ -46,16 +46,16 @@
       ]
     },
     "conflicto": {
-      "problema": "Persiste una extendida creencia docente de que los niños de Primaria 'son demasiado pequeños' para abordar temas controvertidos o traumáticos como las guerras, las dictaduras y el exilio político. La investigación se propone averiguar si el alumnado de 5.º y 6.º de Primaria es capaz de construir interpretaciones complejas ante un álbum sobre la Guerra Civil o si sus respuestas quedan atrapadas en la superficie literal por falta de mediación histórica.",
+      "problema": "Persiste una extendida creencia docente de que los niños de Primaria 'son demasiado pequeños' para abordar temas controvertidos o traumáticos como las guerras, las dictaduras y el exilio político. La investigación se propone averiguar si el alumnado de Educación Primaria es capaz de construir interpretaciones complejas ante un álbum sobre la Guerra Civil o si sus respuestas quedan atrapadas en la superficie literal por falta de mediación histórica.",
       "porQueImporta": "Una sociedad democrática que oculta su pasado a los más jóvenes cría generaciones vulnerables a los discursos de odio y a la desmemoria. El álbum ilustrado permite acercar el trauma histórico desde la empatía estética y el respeto a la dignidad de las víctimas.",
       "dataPoints": [
         "Muestra de 180 alumnos de Educación Primaria del País Vasco.",
         "Grabación audiovisual exhaustiva de sesiones de lectura dialógica compartida en el aula.",
-        "Uso del modelo ASR Conformer-Transducer para transcribir y codificar con precisión más de 50 horas de debates infantiles.",
-        "El 100% de los grupos estableció conexiones empáticas espontáneas entre el viaje del barco Mexique y sus propios miedos al desamparo.",
-        "Alta capacidad analógica contemporánea: los estudiantes vincularon inmediatamente el exilio español de 1937 con la guerra de Ucrania y las pateras en el mar Mediterráneo.",
-        "Grave carencia detectada: severa limitación en la profundidad histórica; los escolares desconocen los bandos de la Guerra Civil y confunden el conflicto con invasiones extranjeras.",
-        "La ilustración en bicromía y litografía de Ana Penyas fue el detonante principal de las inferencias sobre la tristeza y el silencio del desarraigo."
+        "Uso del modelo ASR Conformer-Transducer para transcribir y codificar con precisión los diálogos en euskera de las sesiones.",
+        "El alumnado estableció conexiones empáticas espontáneas entre el viaje del barco Mexique y sus propias vivencias.",
+        "Alta capacidad analógica contemporánea: los estudiantes vincularon el exilio español de 1937 con la guerra de Ucrania y con las migraciones de sus propias familias (Venezuela, Gales, Honduras).",
+        "Carencia detectada: las respuestas muestran una limitada profundidad y complejidad reflexiva, atribuida a la ausencia de alfabetización literaria y de hábitos lectores.",
+        "El predominio del rojo y el uso del negro y el gris en la ilustración de Ana Penyas detonaron las inferencias sobre la tristeza, la guerra y el desarraigo."
       ],
       "glossary": [
         {
@@ -82,12 +82,24 @@
     },
     "viaje": {
       "titulo": "Ruta metodológica: Grabación audiovisual, ASR de vanguardia y análisis dialógico",
-      "narrativa": "El equipo de investigadoras y lingüistas computacionales de la UPV/EHU llevó a cabo un estudio cualitativo en aulas de Primaria del País Vasco. Se diseñó una secuencia de mediación en torno al álbum 'Mexique, el nombre del barco'. Las conversaciones espontáneas de los 180 escolares se registraron en vídeo de alta definición. Para superar la lentitud de la transcripción manual, aplicaron el modelo Conformer-Transducer de inteligencia artificial, sometiendo el corpus resultante a un sistema de categorías ad hoc para evaluar la profundidad semiótica y ética de las intervenciones.",
+      "narrativa": "El equipo de investigadoras y lingüistas computacionales de la UPV/EHU llevó a cabo un estudio de enfoque mixto en aulas de Primaria del País Vasco. Se diseñó una secuencia de mediación en torno al álbum 'Mexique, el nombre del barco'. Las conversaciones espontáneas de los 180 escolares se registraron en vídeo de alta definición. Para superar la lentitud de la transcripción manual, aplicaron el modelo Conformer-Transducer de inteligencia artificial, sometiendo el corpus resultante a un sistema de categorías ad hoc para evaluar la profundidad semiótica y ética de las intervenciones.",
       "detalles": [
-        { "label": "Población", "value": "180 alumnos de Educación Primaria del País Vasco (aulas de 5.º y 6.º curso)." },
-        { "label": "Obra Mediadora", "value": "'Mexique, el nombre del barco' (Ferrada y Penyas, Ediciones Tecolote / Libros del Zorro Rojo)." },
-        { "label": "Tecnología de Transcripción", "value": "Modelo ASR open-source basado en redes neuronales Conformer-Transducer." },
-        { "label": "Dimensiones del Análisis", "value": "Conexiones personales vivenciales, conexiones intertextuales, conexiones con el mundo actual y nivel de comprensión histórica." }
+        {
+          "label": "Población",
+          "value": "180 alumnos de Educación Primaria del País Vasco (alumnado de 3.º a 6.º curso)."
+        },
+        {
+          "label": "Obra Mediadora",
+          "value": "'Mexique, el nombre del barco' (Ferrada y Penyas, Libros del Zorro Rojo, 2017)."
+        },
+        {
+          "label": "Tecnología de Transcripción",
+          "value": "Modelo ASR open-source basado en redes neuronales Conformer-Transducer."
+        },
+        {
+          "label": "Dimensiones del Análisis",
+          "value": "D1 Referencial, D2 Composicional, D3 Intertextual e intercultural y D4 Personal, con cuatro niveles interpretativos (NI1 a NI4)."
+        }
       ],
       "limitaciones": [
         "Estudio cualitativo focalizado en centros escolares del País Vasco, condicionado por su propia memoria cultural territorial.",
@@ -96,30 +108,30 @@
       "reflexion": "La tecnología de IA al servicio de la investigación educativa no sustituye la sensibilidad humana: permite procesar con precisión quirúrgica la voz pura y no filtrada de los niños en el aula."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: Mucha empatía, pero un desierto de contexto histórico",
+      "titulo": "Hallazgos empíricos: mucha interpretación relacional, pero poca profundidad reflexiva",
       "narrativa": "Los diálogos transcritos revelaron una profunda contradicción en el aula de primaria contemporánea:",
       "hallazgos": [
         {
           "label": "1. Inmensa Empatía Emocional",
-          "value": "Los niños conectaron de forma visceral con los pequeños protagonistas: sintieron el frío del barco, el miedo a la oscuridad de las bodegas y el dolor de despedirse de sus padres en el muelle."
+          "value": "Los niños conectaron de forma visceral con los pequeños protagonistas: expresaron tristeza y sorpresa ante el elevado número de niños que vieron sus vidas truncadas."
         },
         {
           "label": "2. Puentes Inmediatos con los Refugiados Actuales",
-          "value": "Sin necesidad de inducción docente, el alumnado comparó el viaje del Mexique con los niños refugiados de Ucrania o las personas que cruzan el Mediterráneo en pateras, demostrando una viva sensibilidad humanitaria."
+          "value": "Sin necesidad de inducción docente, el alumnado comparó el viaje del Mexique con la guerra de Ucrania y con las migraciones de sus propias familias (Venezuela, Gales, Honduras), demostrando una viva sensibilidad humanitaria."
         },
         {
           "label": "3. Alarmante Vacío de Conocimiento Histórico",
-          "value": "Cuando se indagó sobre las causas del viaje, la mayoría desconocía la Guerra Civil Española: algunos pensaban que huían de una guerra en Francia o de zombis, o que los 'malos' eran piratas, reflejando el silencio curricular sobre el siglo XX español."
+          "value": "Aunque un alumno identificó con acierto a republicanos y franquistas, abundó la confusión terminológica —señalar a los «nacionalistas» cuando se quería decir los «nacionales»— y una limitada profundidad histórica en las respuestas."
         },
         {
           "label": "4. El Poder Revelador de la Imagen",
-          "value": "Las ilustraciones de Ana Penyas —con caras desdibujadas y collages de fotos de época— provocaron las reflexiones más profundas: los escolares comprendieron que la guerra no solo destruye casas, sino que borra las identidades de las personas."
+          "value": "Las ilustraciones de Ana Penyas provocaron las reflexiones más profundas: el alumnado relacionó el rojo con la sangre y la guerra, y el negro y el gris con la tristeza y con «algo de hace mucho tiempo»."
         }
       ],
       "dataPoints": [
-        "Más del 75% de las intervenciones espontáneas se concentró en la dimensión afectivo-emocional del viaje.",
-        "Menos del 15% de los comentarios logró identificar con exactitud el contexto político de la España republicana de 1937.",
-        "La mediación docente guiada logró multiplicar por tres la profundidad argumentativa cuando se explicaron las cartas reales que los niños enviaban a sus madres desde Morelia."
+        "El 65,8% de las 114 respuestas alcanzó el nivel interpretativo relacional (NI3), frente al 23,7% básico (NI2) y el 8,8% reflexivo (NI4).",
+        "La dimensión intertextual e intercultural apenas reunió 4 respuestas (3,5%), frente a las 42 referenciales (36,8%) y 40 composicionales (35,1%).",
+        "La dimensión personal reunió 28 respuestas (24,6%), con posiciones pacifistas y empatía histórica ante la decisión de embarcar a los hijos."
       ],
       "reflexion": "Los niños tienen el corazón abierto para comprender el dolor ajeno; lo que les falta es la escuela que les dé las herramientas históricas para entender por qué ocurrió."
     },
@@ -133,7 +145,7 @@
         },
         {
           "label": "La Memoria Histórica como Deber Cívico",
-          "value": "La Ley de Memoria Democrática exige introducir estos contenidos en el aula. El álbum de no ficción es el recurso perfecto para cumplir la ley sin caer en el adoctrinamiento ni en la frialdad enciclopédica."
+          "value": "La formación de ciudadanos críticos exige introducir estos contenidos en el aula. El álbum ilustrado es el recurso perfecto para abordarlos sin caer en el adoctrinamiento ni en la frialdad enciclopédica."
         },
         {
           "label": "La Alfabetización Visual como Código Crítico",
@@ -148,7 +160,7 @@
     },
     "nucleo": {
       "pregunta": "¿Cómo responden los escolares de Educación Primaria ante la memoria histórica y qué potencial ofrece el álbum ilustrado para abordar el exilio infantil?",
-      "conclusion": "La investigación con 180 alumnos de Primaria tras la lectura de 'Mexique, el nombre del barco' demuestra que los escolares poseen una sobresaliente competencia empática e interpretativa, logrando vincular con naturalidad el exilio de 1937 con sus propias vivencias y con las crisis de refugiados actuales (Ucrania, Mediterráneo). Sin embargo, se constata una grave carencia en la profundidad histórica y en la comprensión de las raíces políticas del conflicto, fruto de la invisibilización escolar de la Guerra Civil. El estudio concluye que el álbum ilustrado es una herramienta imprescindible para superar el tabú pedagógico, articular la alfabetización visual con la memoria democrática y formar ciudadanos críticos e informados desde la escuela primaria.",
+      "conclusion": "La investigación con 180 alumnos de Primaria tras la lectura de 'Mexique, el nombre del barco' demuestra que los escolares poseen una sobresaliente competencia empática e interpretativa, logrando vincular con naturalidad el exilio de 1937 con sus propias vivencias y con las crisis migratorias actuales (Ucrania, Venezuela, Gales, Honduras). Sin embargo, se constata una grave carencia en la profundidad histórica y en la comprensión de las raíces políticas del conflicto, fruto de la invisibilización escolar de la Guerra Civil. El estudio concluye que el álbum ilustrado es una herramienta imprescindible para superar el tabú pedagógico, articular la alfabetización visual con la memoria democrática y formar ciudadanos críticos e informados desde la escuela primaria.",
       "formalRef": "Echeberria-Arquero, B., Mariezkurrena-Serrano, A., López-Gazpio, I., & Luna, U. (2026). Álbumes ilustrados y memoria histórica. Respuestas lectoras del alumnado de Educación Primaria. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.614"
     },
     "reflexion": {
@@ -169,7 +181,7 @@
           "q": "A pesar de la alta capacidad empática de los 180 alumnos evaluados, ¿cuál fue la principal carencia detectada en sus respuestas?",
           "options": [
             "Que no sabían leer en voz alta.",
-            "Una notable falta de profundidad histórica y desconocimiento del contexto político y los bandos de la Guerra Civil Española.",
+            "Una notable falta de profundidad y complejidad reflexiva en sus respuestas, atribuida a la ausencia de alfabetización literaria y de hábitos lectores.",
             "Que se negaron a ver las ilustraciones del libro.",
             "Que confundieron el barco con un avión de combate moderno."
           ],
@@ -192,7 +204,7 @@
         },
         {
           "type": "open",
-          "q": "El estudio reveló que los escolares compararon inmediatamente a los niños del barco Mexique con los refugiados de Ucrania y del Mediterráneo. Diseña una consigna de aula que permita a tus estudiantes crear una 'carta ilustrada de solidaridad' conectando el pasado histórico con una crisis migratoria actual."
+          "q": "El estudio reveló que los escolares compararon a los niños del barco Mexique con la guerra de Ucrania y con las migraciones de sus propias familias. Diseña una consigna de aula que permita a tus estudiantes crear una 'carta ilustrada de solidaridad' conectando el pasado histórico con una crisis migratoria actual."
         }
       ]
     }
@@ -211,11 +223,11 @@
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Es fascinante! Sienten el dolor del exilio y lo conectan con los refugiados de hoy, pero nadie les ha explicado qué fue la Guerra Civil. ¡Hay que educar la memoria!",
+      "text": "¡Es fascinante! Sienten el dolor del exilio y lo conectan con las migraciones de hoy, aunque les falta profundidad histórica. ¡Hay que educar la memoria!",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "Ana Penyas y María José Ferrada nos regalan una joya. La imagen en litografía permite comprender que la guerra no es una aventura, sino el robo de la infancia.",
+      "text": "Ana Penyas y María José Ferrada nos regalan una joya. La fuerza de la imagen permite comprender que la guerra no es una aventura, sino el robo de la infancia.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -232,31 +244,250 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Álbumes Ilustrados y Memoria Histórica en Primaria",
-    "descripcion": "Respuestas lectoras transaccionales, exilio infantil de 1937, vacíos curriculares, ASR de voz y educación para la memoria democrática.",
+    "titulo": "Mapa conceptual: Álbum ilustrado, memoria histórica y respuestas lectoras en Primaria (Ocnos 25(2), 2026)",
+    "descripcion": "Estudio que categoriza 114 respuestas lectoras de 180 escolares vascos tras leer 'Mexique, el nombre del barco', sobre el exilio de los Niños de Morelia (1937), revelando alta capacidad interpretativa relacional y empática junto a una limitada profundidad reflexiva e histórica.",
     "nodos": [
-      { "id": "1", "label": "Memoria Histórica en Primaria", "color": "#c73e1d" },
-      { "id": "2", "label": "Álbum 'Mexique, el nombre del barco'", "color": "#2a5a75" },
-      { "id": "3", "label": "Niños de Morelia (1937)", "color": "#e76f51" },
-      { "id": "4", "label": "Alta Empatía e Identificación", "color": "#88b04b" },
-      { "id": "5", "label": "Conexión con Refugiados Actuales", "color": "#5b9eaa" },
-      { "id": "6", "label": "Vacío de Conocimiento Histórico", "color": "#f4d068" },
-      { "id": "7", "label": "Ilustración en Bicromía (Ana Penyas)", "color": "#9b82c3" },
-      { "id": "8", "label": "Transcripción IA Conformer", "color": "#2a9d8f" },
-      { "id": "9", "label": "Teoría de la Respuesta Lectora", "color": "#264653" },
-      { "id": "10", "label": "Educación en Memoria Democrática", "color": "#f4a261" }
+      {
+        "id": "1",
+        "label": "Potencial didáctico del álbum ilustrado",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Su multimodalidad e imagen-texto y su flexibilidad interpretativa (Nikolajeva, 2003; Sipe, 1998) desarrollan la capacidad reflexiva y argumentativa, y su extensión lo hace idóneo para el aula (Colomer-Martínez, 2012). Pese a ello, su presencia en las aulas españolas de Infantil y Primaria sigue siendo limitada (Gil-Juan, 2012; Jiménez y Parrado, 2022)."
+      },
+      {
+        "id": "2",
+        "label": "Corpus de álbumes sobre la Guerra Civil",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "El corpus de álbumes ilustrados que abordan la Guerra Civil es reducido: Gerrak ez du izenik (Bilbao y Mutuberria), Guernica (Bernard y Charpentier) o Beroki gorria (Zubizarreta). Destaca Mexique, el nombre del barco, de María José Ferrada y Ana Penyas, publicado en 2017 por Libros del Zorro Rojo y traducido también al euskera."
+      },
+      {
+        "id": "3",
+        "label": "Exilio infantil: Niños de Morelia (1937)",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "El álbum recupera la historia de los 456 niños y niñas que en mayo de 1937 zarparon del puerto de Burdeos rumbo a México huyendo de la guerra. Acogidos por el gobierno de Lázaro Cárdenas, se instalaron en la capital de Michoacán y fueron llamados Los niños de Morelia (Payà-Rico, 2002; Garrido-Caballero, 2022)."
+      },
+      {
+        "id": "4",
+        "label": "Conocer el nivel interpretativo lector",
+        "color": "#f4a261",
+        "role": "Objetivo",
+        "descripcion": "El estudio pretende conocer el nivel interpretativo del alumnado de Primaria tras la lectura de Mexique, desde una dimensión literaria. También su capacidad de conectar pasajes de la obra con experiencias vitales propias y con sucesos históricos y actuales, en el marco del proyecto GATAI de la UPV/EHU (Luna et al., 2024)."
+      },
+      {
+        "id": "5",
+        "label": "Investigación evaluativa con enfoque mixto",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Investigación de carácter evaluativo que combina la categorización cuantitativa de las respuestas por dimensiones, subdimensiones y niveles de desarrollo, con datos cualitativos que analizan el contenido de esas respuestas. Las sesiones fueron diseñadas e impartidas por 19 docentes en formación del Grado en Educación Primaria."
+      },
+      {
+        "id": "6",
+        "label": "180 alumnos y 114 respuestas registradas",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Participaron 9 grupos de 4 colegios del País Vasco, seleccionados por su diversidad metodológica y sociocultural: 180 alumnos en las actividades de lectura y debate del álbum. Del total se recogieron 114 respuestas, de las que se seleccionaron las referidas al aspecto literario de la sesión."
+      },
+      {
+        "id": "7",
+        "label": "Herramienta Visual Journeys readaptada",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "Readaptación ad hoc de la herramienta de Fittipaldi (2012) con cuatro dimensiones: D1 Referencial, D2 Composicional, D3 Intertextual e intercultural y D4 Personal, subdivididas en categorías. Cada respuesta se clasificó en niveles NI1 (no sabe responder), NI2 (identifica), NI3 (relaciona) y NI4 (reflexiona)."
+      },
+      {
+        "id": "8",
+        "label": "Sesión DIME y transcripción ASR en euskera",
+        "color": "#e76f51",
+        "role": "Método",
+        "descripcion": "Una sesión de hora y media por aula, con el álbum inédito para el alumnado: lectura en voz alta, reflexión grupal con la estrategia DIME de Chambers (2007) y preguntas abiertas. Las grabaciones en vídeo se transcribieron con un modelo ASR open-source Conformer-Transducer reentrenado con 804 horas de euskera, apoyado en scikit-learn."
+      },
+      {
+        "id": "9",
+        "label": "Predominio del nivel relacional (65,8%)",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "De las 114 respuestas, el 65,8 % (n=75) alcanzó el nivel interpretativo NI3, de tipo relacional; le siguieron el nivel básico NI2 (n=27; 23,7 %) y el reflexivo NI4 (n=10; 8,8 %). Solo en dos ocasiones (1,7 %) el alumnado no supo responder a lo preguntado."
+      },
+      {
+        "id": "10",
+        "label": "Concentración en dimensiones D1 y D2",
+        "color": "#264653",
+        "role": "Resultados",
+        "descripcion": "La dimensión referencial reunió 42 respuestas (36,8 %) y la composicional 40 (35,1 %), seguida de la personal con 28 (24,6 %). La intertextual e intercultural apenas alcanzó 4 respuestas (3,5 %), evidenciando el peso de la descripción literal y de los elementos visuales sobre las conexiones culturales."
+      },
+      {
+        "id": "11",
+        "label": "Policromía simbólica: rojo, flores y puño",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "El predominio del rojo se asoció a sangre, guerra y miedo, pero también al cariño y la ayuda de las cuidadoras del barco («el humo del barco es rojo porque quiere decir la ayuda»). Flores, maletas y puño en alto admitieron lecturas múltiples; negro, gris y blanco y negro remitieron a la tristeza y a «algo de hace mucho tiempo»."
+      },
+      {
+        "id": "12",
+        "label": "Reconocimiento de los bandos de la guerra",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "En la escena de niños jugando al fusilamiento, un alumno situó el conflicto: «unos son republicanos y les fusilan los franquistas que son del bando contrario» (R08EPC3). En el epílogo identificaron a «los que ganaron la guerra», con la confusión terminológica frecuente entre «nacionalistas» y «nacionales»."
+      },
+      {
+        "id": "13",
+        "label": "Vínculos intertextuales con Gernika y Guernica",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "Las escasas conexiones intertextales vincularon el álbum con el Guernica de Picasso y los bombardeos de Gernika, y con la canción «Maravillas» de Berri Txarrak dedicada a Maravillas Lamberto. El puño en alto se asoció también a lo visto en televisión en manifestaciones feministas."
+      },
+      {
+        "id": "14",
+        "label": "Empatía y migraciones presentes",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "La dimensión personal mostró posiciones pacifistas («las guerras son malas») y empatía histórica ante la decisión de embarcar a los hijos. El exilio se conectó con migraciones propias o cercanas (Venezuela, Gales, Honduras), con abuelas que perdieron el euskera por la guerra y con la guerra de Ucrania."
+      },
+      {
+        "id": "15",
+        "label": "Temas controvertidos desde edades tempranas",
+        "color": "#f4a261",
+        "role": "Discusión",
+        "descripcion": "La formación de ciudadanos críticos exige trabajar temas controvertidos como la memoria histórica con álbumes ilustrados desde edades tempranas (Luna et al., 2024; Serrano-Mariezkurrena et al., 2024), para lo cual resulta imprescindible una formación del profesorado adecuada (Jiménez y Parrado, 2022)."
+      },
+      {
+        "id": "16",
+        "label": "Competencia literario-artística por la mediación",
+        "color": "#2a9d8f",
+        "role": "Conclusiones",
+        "descripcion": "Se confirma la potencialidad educativa del álbum en Primaria y el papel fundamental de los mediadores de lectura para (re)activar conocimientos previos e impulsar la participación. El alumnado identificó e interpretó las características literario-artísticas de la obra, tejiendo memoria compartida desde la empatía (Arizpe y Styles, 2004)."
+      },
+      {
+        "id": "17",
+        "label": "Límite en la profundidad de las reflexiones",
+        "color": "#f4d068",
+        "role": "Limitaciones",
+        "descripcion": "Se detecta una carencia en la profundidad y complejidad de las respuestas, atribuida a la ausencia de alfabetización literaria y de hábitos lectores. No se aprecian diferencias significativas entre cursos, por lo que la edad no constituiría un factor determinante per se, y las conexiones pasado-presente quedaron a veces en meras menciones."
+      }
     ],
     "aristas": [
-      { "from": "1", "to": "2", "label": "se investiga mediante el" },
-      { "from": "2", "to": "3", "label": "recrea la tragedia de los" },
-      { "from": "9", "to": "4", "label": "analiza la eclosión de la" },
-      { "from": "4", "to": "5", "label": "facilita el salto hacia la" },
-      { "from": "1", "to": "6", "label": "choca contra el grave" },
-      { "from": "2", "to": "7", "label": "se potencia visualmente con la" },
-      { "from": "8", "to": "9", "label": "procesa el corpus empírico de la" },
-      { "from": "7", "to": "4", "label": "evoca el dolor del desarraigo en la" },
-      { "from": "10", "to": "6", "label": "combate y repara el" },
-      { "from": "10", "to": "1", "label": "fundamenta el mandato cívico de la" }
+      {
+        "from": "1",
+        "to": "2",
+        "label": "respalda el uso del"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "recoge el exilio de los"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "motiva el"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se aborda con la"
+      },
+      {
+        "from": "4",
+        "to": "8",
+        "label": "se desarrolla en la"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se implementa con la"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "opera mediante la"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "entrega sus respuestas en la"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "clasifica por el"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "agrupa por las"
+      },
+      {
+        "from": "7",
+        "to": "13",
+        "label": "registra la escasez de los"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "se manifiesta en la"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "se concentra en la"
+      },
+      {
+        "from": "10",
+        "to": "12",
+        "label": "recoge la"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "aglutina la"
+      },
+      {
+        "from": "12",
+        "to": "3",
+        "label": "contextualiza el exilio de los"
+      },
+      {
+        "from": "13",
+        "to": "2",
+        "label": "dialoga con el corpus de los"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "aportan la base para abordar los"
+      },
+      {
+        "from": "14",
+        "to": "3",
+        "label": "emparenta con el exilio de los"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "justifica abordar los"
+      },
+      {
+        "from": "9",
+        "to": "16",
+        "label": "respalda el"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "exige abordar los"
+      },
+      {
+        "from": "17",
+        "to": "15",
+        "label": "refuerza la urgencia de los"
+      },
+      {
+        "from": "1",
+        "to": "16",
+        "label": "se ratifica en la"
+      }
     ]
   }
 }

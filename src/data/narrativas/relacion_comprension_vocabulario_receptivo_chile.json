@@ -1,0 +1,408 @@
+{
+  "id": "relacion_comprension_vocabulario_receptivo_chile",
+  "metadata": {
+    "title": "La relación entre comprensión lectora y vocabulario receptivo en estudiantes chilenos: un estudio exploratorio",
+    "authors": "José Pablo Pezoa y Pelusa Orellana",
+    "year": "2021",
+    "journal": "Ocnos 20(2)",
+    "doi": "10.18239/ocnos_2021.20.2.2407",
+    "gancho": "¿Basta con enseñar más palabras para mejorar la comprensión lectora? Los datos demuestran la existencia de un umbral crítico.",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#c73e1d",
+    "colorAlt": "#2a5a75",
+    "bg": "from-coral/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/vocabulario-chile/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "José Pablo Pezoa, investigador en psicometría y evaluación lectora",
+      "gancho": "¿Basta con enseñar más palabras para mejorar la comprensión lectora? Los datos demuestran la existencia de un umbral crítico.",
+      "contexto": "Los resultados de pruebas internacionales como PIRLS y nacionales como SIMCE en Chile evidencian que un alto porcentaje de estudiantes de 5.º básico presenta una comprensión lectora deficiente. Aunque se asume una correlación lineal entre vocabulario y lectura, este estudio examina si el efecto es realmente invariante mediante un modelo de regresión spline.",
+      "deepDives": [
+        {
+          "id": "voc-ch-ap-1",
+          "triggerLabel": "Resultados en PIRLS y SIMCE en Chile",
+          "type": "data",
+          "content": "En PIRLS 2016, Chile promedió 494 puntos con un 26% de alumnos en nivel bajo y solo un 25% en avanzado; en 5.º básico las exigencias de vocabulario académico aumentan sustancialmente la brecha."
+        },
+        {
+          "id": "voc-ch-ap-2",
+          "triggerLabel": "Las hipótesis de Anderson y Freebody (1981)",
+          "type": "theory",
+          "content": "Marco clásico que formula tres hipótesis: instrumental (más palabras causan más comprensión), del conocimiento (correlación mediada por saberes previos) y de la aptitud verbal general."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Se asumía que cualquier incremento de vocabulario se traduce automáticamente en mejoras de comprensión lectora, ignorando si existe un nivel mínimo a partir del cual el vocabulario empieza a surtir efecto.",
+      "porQueImporta": "Identificar si existe un umbral crítico permite a los responsables de políticas educativas optimizar la inversión en programas de intervención lectora, evitando gastos ineficaces en grupos por debajo del umbral.",
+      "dataPoints": [
+        "Muestra de 553 estudiantes de quinto año básico (10 años) de 9 colegios de la Región Metropolitana de Santiago de Chile.",
+        "Evaluación combinada de comprensión lectora con Dialect (en escala Lexile) y vocabulario receptivo con EVOC (64 palabras)."
+      ],
+      "glossary": [
+        {
+          "term": "Vocabulario receptivo",
+          "definition": "Capacidad de reconocer y asociar el significado de una palabra escuchada con su referente conceptual."
+        },
+        {
+          "term": "Escala Lexile",
+          "definition": "Unidad psicométrica estandarizada que mide la complejidad de un texto y la competencia lectora de un estudiante."
+        },
+        {
+          "term": "Regresión Spline",
+          "definition": "Modelo estadístico no lineal segmentado con distintos coeficientes de pendiente separados por un nudo de quiebre."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "voc-ch-conf-1",
+          "triggerLabel": "Costo-beneficio de programas de vocabulario",
+          "type": "context",
+          "content": "Los autores advierten que si por debajo de cierto umbral el vocabulario no produce ganancias en comprensión, insistir exclusivamente en enseñar listas de palabras puede resultar pedagógicamente infructuoso."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Evaluación psicométrica comparativa: lineal vs. cuadrático vs. spline",
+      "narrativa": "Los investigadores administraron Dialect y EVOC a 553 estudiantes chilenos, comparando la bondad de ajuste de modelos de regresión lineal, cuadrática y spline segmentada para determinar la verdadera forma funcional de la relación.",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "553 alumnos de 5.º básico (277 hombres, 276 mujeres) de colegios municipales, subvencionados y pagados."
+        },
+        {
+          "label": "Instrumentos",
+          "value": "Dialect (40 ítems inferenciales en Lexiles) y EVOC (64 ítems auditivos con selección de 4 imágenes)."
+        },
+        {
+          "label": "Modelo spline",
+          "value": "Estimación del punto de quiebre (nudo) minimizando la suma de errores cuadráticos residuales."
+        },
+        {
+          "label": "Varianza explicada",
+          "value": "El modelo lineal explicó 18.8%, el cuadrático 26.1% y el spline 27.5% de la varianza total."
+        }
+      ],
+      "limitaciones": [
+        "Pérdida no aleatoria de datos en la prueba de vocabulario concentrada en colegios municipales (11.8% de missing data).",
+        "Diseño transversal circunscrito a 5.º básico que impide analizar la evolución longitudinal a lo largo de toda la primaria."
+      ],
+      "reflexion": "¿Por qué un estudiante que conoce pocas palabras no mejora su comprensión cuando aprende algunas más, mientras que uno que ya supera el umbral se dispara?",
+      "deepDives": [
+        {
+          "id": "voc-ch-viaje-1",
+          "triggerLabel": "Brecha por dependencia administrativa",
+          "type": "data",
+          "content": "Diferencias significativas radicales entre colegios pagados particulares y los subvencionados y municipales (F=91.36, p<0.001), mientras no se hallaron diferencias por sexo en niveles de comprensión."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "La relación entre vocabulario y comprensión no es lineal: existe un umbral crítico en torno a 31 ítems correctos en EVOC (45 puntos) por debajo del cual el efecto es nulo (pendiente -4.1), y sobre el cual se vuelve lineal y potente (36L por punto extra).",
+      "evidenciaCualitativa": "Los varones registraron un beneficio marginal 35% mayor que las mujeres una vez superado el umbral, mientras que los alumnos de colegios municipales comenzaron a beneficiarse desde un nudo más bajo (27 ítems) pero con menor pendiente.",
+      "citaClave": "'Por cada punto adicional en vocabulario receptivo sobre el umbral, los estudiantes aumentan su comprensión en 36L, el doble de lo predicho por el modelo lineal simple.'",
+      "implicacionesDocentes": [
+        "No limitar la intervención en lectores rezagados a la enseñanza aislada de palabras sueltas; trabajar decodificación y conocimientos previos.",
+        "Aprovechar la alta rentabilidad del vocabulario en estudiantes que ya superaron el umbral para acelerar su competencia inferencial.",
+        "Diseñar apoyos específicos e intensivos en colegios vulnerables antes de 5.º básico para asegurar que crucen el umbral antes del ciclo disciplinar."
+      ],
+      "deepDives": [
+        {
+          "id": "voc-ch-rev-1",
+          "triggerLabel": "Desempeño general preocupante",
+          "type": "data",
+          "content": "El 45.03% de los estudiantes evaluados se ubicó 'bajo el nivel básico' en comprensión lectora (promedio global de 640L), confirmando el diagnóstico de rezago severo."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Psicología cognitiva de la lectura, psicometría y modelos de desarrollo lingüístico",
+      "tensiones": [
+        "Hipótesis lineal causal tradicional vs. modelos de umbral no lineales basados en la hipótesis del déficit léxico.",
+        "Enseñanza descontextualizada de vocabulario vs. desarrollo integrado de inferencias y capital cultural."
+      ],
+      "autoresClave": [
+        "Pezoa & Orellana (2021)",
+        "Anderson & Freebody (1981)",
+        "Carver (1994)",
+        "Perfetti & Stafura (2014)",
+        "Elbro & Buch-Iversen (2013)",
+        "Nagy (2007)"
+      ],
+      "deepDives": [
+        {
+          "id": "voc-ch-marco-1",
+          "triggerLabel": "Mecanismo indirecto según Perfetti",
+          "type": "theory",
+          "content": "Desconocer más del 5% de las palabras de un texto bloquea la memoria operativa y anula la capacidad inferencial (Carver; Perfetti & Stafura), explicando biológicamente la existencia de un umbral crítico."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Es invariante el efecto del vocabulario receptivo sobre la comprensión lectora en escolares chilenos de quinto básico?",
+      "conclusion": "No. El efecto está condicionado por un umbral crítico (31 ítems): por debajo el impacto es nulo, y solo tras cruzarlo el vocabulario impulsa con fuerza la comprensión lectora.",
+      "formalRef": "Pezoa, J. P., & Orellana, P. (2021). La relación entre comprensión lectora y vocabulario receptivo en estudiantes chilenos: un estudio exploratorio. Ocnos, 20(2), 7-20. https://doi.org/10.18239/ocnos_2021.20.2.2407"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente del Umbral Léxico",
+        "descripcion": "Recoge palabras y puntos Lexiles sorteando obstáculos mientras descubres el nudo crítico de comprensión.",
+        "instrucciones": "Captura tokens de vocabulario receptivo y responde preguntas para cruzar el umbral de 31 ítems. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Vocabulario y Lectura",
+        "descripcion": "Demuestra tu dominio sobre pruebas Lexile, el instrumento EVOC y los modelos estadísticos spline.",
+        "instrucciones": "Acierta contrarreloj para mantener tu multiplicador de racha psicométrica en lo más alto."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide del Crecimiento Lector",
+        "descripcion": "Escala desde los niveles inferiores al básico hasta alcanzar la franja de lectores avanzados en 5.º básico.",
+        "instrucciones": "Activa cada piso respondiendo sobre la varianza explicada, brechas socioeconómicas y diseño de políticas."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Comprensión lectora y vocabulario receptivo en estudiantes chilenos (Pezoa & Orellana, 2021)",
+      "descripcion": "Estudio exploratorio en 553 escolares de 5.º básico en Chile: modelo de regresión spline, umbral crítico en 31 ítems de EVOC, impacto nulo bajo el nudo e incremento lineal de 36L sobre él, con brechas por dependencia escolar.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Crisis de comprensión lectora en Chile (SIMCE y PIRLS)",
+          "color": "#c73e1d",
+          "role": "Marco teórico",
+          "descripcion": "Diagnóstico persistente en pruebas nacionales e internacionales que revela que más del 40% de escolares de quinto básico presenta dificultades severas de comprensión lectora ante textos académicos complejos."
+        },
+        {
+          "id": "2",
+          "label": "Hipótesis sobre vocabulario y comprensión (Anderson)",
+          "color": "#c73e1d",
+          "role": "Marco teórico",
+          "descripcion": "Formulaciones clásicas de Anderson y Freebody: hipótesis instrumental (causal directa), del conocimiento (mediada por saberes previos) y de la aptitud verbal general en el desarrollo lingüístico."
+        },
+        {
+          "id": "3",
+          "label": "Mecanismo cognitivo e inferencial (Carver y Perfetti)",
+          "color": "#c73e1d",
+          "role": "Marco teórico",
+          "descripcion": "Modelos cognitivos que demuestran que desconocer más del 5% del léxico de un texto satura la memoria de trabajo y bloquea la formulación de inferencias globales necesarias para la comprensión profunda."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: evaluar la invarianza del efecto del vocabulario",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Determinar si el impacto del vocabulario receptivo sobre la comprensión lectora es constante o varía según el nivel léxico alcanzado, el sexo del alumnado y la dependencia administrativa del colegio."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: comparar modelos lineales y no lineales",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Contrastar la bondad de ajuste de modelos de regresión lineal, cuadrática y spline segmentada para identificar la presencia de umbrales críticos de intervención psicopedagógica."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 553 escolares de 5.º básico en Santiago",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Evaluación transversal de 553 estudiantes de 10 años (277 niños y 276 niñas) de 9 colegios de la Región Metropolitana pertenecientes a sectores municipales, subvencionados y particulares pagados."
+        },
+        {
+          "id": "7",
+          "label": "Instrumentos estandarizados: Dialect y EVOC",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Aplicación computarizada de la prueba Dialect (40 ítems inferenciales escalados en Lexiles) y la escala EVOC (64 ítems auditivos con selección de cuatro imágenes visuales validada en Chile)."
+        },
+        {
+          "id": "8",
+          "label": "Modelado estadístico con regresión spline segmentada",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Ajuste no lineal que calcula un punto de quiebre o nudo mediante minimización de residuos cuadráticos, permitiendo estimar pendientes independientes antes y después del valor crítico."
+        },
+        {
+          "id": "9",
+          "label": "Bajo desempeño lector general (45% bajo nivel básico)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El 45.03% de la muestra se situó por debajo del nivel básico según baremos Lexile (promedio general de 640L), y únicamente un 24.4% alcanzó niveles competentes o avanzados de comprensión."
+        },
+        {
+          "id": "10",
+          "label": "Brecha radical por tipo de centro, sin brecha por sexo",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Diferencias significativas profundas en comprensión y vocabulario a favor de colegios pagados frente a municipales y subvencionados (F=91.36, p<0.001), sin encontrarse discrepancias según género."
+        },
+        {
+          "id": "11",
+          "label": "Superioridad del modelo spline (27.5% varianza explicada)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El modelo spline superó al modelo lineal (18.8%) y cuadrático (26.1%), demostrando que la relación vocabulario-comprensión no es continua sino que experimenta un cambio estructural de régimen."
+        },
+        {
+          "id": "12",
+          "label": "Identificación del umbral crítico en 31 ítems de EVOC",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Bajo 31 respuestas correctas (45 puntos) el efecto léxico es plano y no significativo (pendiente -4.1, p=0.388); superado el umbral, cada punto extra incrementa la comprensión en 36 Lexiles."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: ineficacia de enseñar palabras bajo el umbral",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El hallazgo cuestiona programas que enseñan vocabulario aislado a lectores con graves carencias básicas, pues sin habilidades previas de decodificación el nuevo léxico no rinde en comprensión."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: mayor rentabilidad marginal en varones",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Una vez superado el umbral, los niños registraron un incremento de 42.2L por punto de vocabulario frente a 29.8L en niñas, lo que sugiere dinámicas diferenciales de procesamiento sintáctico."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: missing no aleatorio en colegios municipales",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "Pérdida del 11.8% de datos de vocabulario concentrada en escuelas públicas vulnerables debido a fallas de conectividad, junto al carácter transversal restringido a 5.º básico."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: insumos para la política pública de lectura",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye la urgencia de diseñar intervenciones escalonadas: afianzar la fluidez y decodificación hasta asegurar el umbral léxico, y recién entonces acelerar la enseñanza de vocabulario académico."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "contextualiza la urgencia de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "aporta el marco conceptual a"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "justifica la hipótesis de no linealidad en"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se investiga empíricamente con"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "se operacionaliza mediante"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "completa las pruebas de"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "aporta los datos para el"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "revela un"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "constata una marcada"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "demuestra la"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "ubica con precisión el"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "fundamenta la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "permite observar la"
+        },
+        {
+          "from": "11",
+          "to": "16",
+          "label": "avala las"
+        },
+        {
+          "from": "12",
+          "to": "16",
+          "label": "aporta el insumo clave para"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "orienta las recomendaciones de"
+        },
+        {
+          "from": "10",
+          "to": "16",
+          "label": "exige equidad en las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "sesga la representatividad de"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "reclama precaución en las"
+        },
+        {
+          "from": "2",
+          "to": "16",
+          "label": "reformula la teoría clásica en las"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué descubrimiento clave aportó el modelo de regresión spline sobre la relación entre vocabulario receptivo y comprensión lectora en Chile?",
+          "options": [
+            "Que el vocabulario nunca influye en la comprensión lectora en educación primaria.",
+            "Que la relación es estrictamente lineal e igual para cualquier nivel de partida del estudiante.",
+            "Que existe un umbral crítico (alrededor de 31 ítems en EVOC) bajo el cual el efecto es nulo y sobre el cual se vuelve lineal y potente.",
+            "Que las niñas obtienen el doble de beneficio en Lexiles que los niños por cada palabra aprendida."
+          ],
+          "correct": 2
+        },
+        {
+          "type": "open",
+          "q": "Considerando la existencia demostrada de un 'umbral léxico', ¿cómo reorganizarías el apoyo psicopedagógico en un colegio con estudiantes que aún no alcanzan los 31 ítems en la prueba de vocabulario?"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "id": "reescrituras_subversivas_lij_album",
+  "metadata": {
+    "title": "Reescrituras subversivas y literatura infantil. Cuando el libro-álbum da voz a personajes de cuentos clásicos",
+    "authors": "Núria Vouillamoz",
+    "year": "2022",
+    "journal": "Ocnos 21(1)",
+    "doi": "10.18239/ocnos_2022.21.1.2737",
+    "gancho": "¿Qué ocurre cuando la voz narrativa abandona al narrador sabio tradicional y pasa a manos del Lobo Feroz o de un detective gato?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#264653",
+    "bg": "from-amber-700/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/reescrituras-subversivas/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-vouillamoz/200/200",
+      "name": "Dra. Núria Vouillamoz",
+      "role": "Investigadora en Literatura Infantil y Comparada, Universitat Autònoma de Barcelona"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Núria Vouillamoz, investigadora de la estética postmoderna en literatura infantil",
+      "gancho": "Durante siglos, los cuentos de hadas nos fueron contados por un narrador omnisciente e incuestionable. Pero en el libro-álbum contemporáneo, el Lobo Feroz declara que todo fue un malentendido provocado por una taza de azúcar y un resfriado.",
+      "contexto": "El libro-álbum se ha consolidado como el género postmoderno por excelencia dentro de la Literatura Infantil y Juvenil (LIJ). Su esencia reside en una interdependencia indisoluble entre el texto escrito, la expresión visual y la arquitectura material del objeto-libro. Apoyándose en la literatura comparada y las teorías de la focalización narrativa, Núria Vouillamoz analiza cómo cuatro obras paradigmáticas de los años 80 y 90 subvierten el canon clásico al ceder la voz narrativa directamente a los personajes marginados o secundarios de la tradición.",
+      "deepDives": [
+        {
+          "id": "vou-apertura-1",
+          "triggerLabel": "La doble página como unidad primordial",
+          "type": "theory",
+          "content": "Siguiendo a Sophie Van der Linden (2015), en el libro-álbum la unidad espacial básica de significación no es la página aislada sino la doble página abierta, donde el diálogo entre el campo visual y el textual establece una tensión semiótica continua."
+        },
+        {
+          "id": "vou-apertura-2",
+          "triggerLabel": "El fin del narrador todopoderoso",
+          "type": "theory",
+          "content": "Teresa Colomer (1998) teorizó que la literatura infantil contemporánea desmanteló la figura del narrador omnisciente y pedagógico que guiaba moralmente al lector, abriendo paso a narradores falibles, irónicos y parciales."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La escuela tradicional tiende a abordar los cuentos clásicos como relatos de autoridad moral lineal e indiscutible. Cuando el álbum ilustrado fractura esta armonía introduciendo narradores sospechosos y contradicciones entre lo que dice el texto y lo que muestra la imagen, los lectores deben aprender un nuevo modo de leer no mimético que interpela su juicio crítico.",
+      "porQueImporta": "En una sociedad saturada de discursos persuasivos y manipulaciones mediáticas, la capacidad de detectar narradores no fiables, ironías metaficcionales y sesgos de perspectiva en la ficción infantil es la base del pensamiento crítico ciudadano.",
+      "dataPoints": [
+        "Corpus de partida: catálogo representativo de 90 álbumes que utilizan la focalización interna como técnica constructiva.",
+        "Criterios de selección: obras de referencia consagradas por la crítica de LIJ que reescriben cuentos clásicos tradicionales.",
+        "Cuatro obras paradigmáticas analizadas en profundidad: Yvan Pommaux, Allan y Janet Ahlberg, y el tándem Jon Scieszka y Lane Smith.",
+        "Estrategias formales analizadas: cesión de voz en primera persona, hibridación de géneros (policíaco, epistolar), metaficción y parodia.",
+        "Descanonización activa: los relatos clásicos de Caperucita, Los Tres Cerditos o Ricitos de Oro son desnudados en sus convenciones ideológicas.",
+        "Ruptura paratextual: la materialidad física (sobres con cartas reales extraíbles, dedicatoria colocada al revés, disrupción tipográfica) se convierte en parte del relato."
+      ],
+      "glossary": [
+        {
+          "term": "Tematización del punto de vista",
+          "definition": "Recurso literario en el que la técnica formal de la perspectiva narrativa se convierte en el tema y conflicto central de la propia historia."
+        },
+        {
+          "term": "Metaficción",
+          "definition": "Estrategia discursiva que evidencia conscientemente el artificio de la ficción literaria y el soporte material del libro ante el lector."
+        },
+        {
+          "term": "Descanonización",
+          "definition": "Cuestionamiento y desmontaje lúdico de la autoridad moral, los arquetipos y las jerarquías transmitidas por los relatos clásicos tradicionales."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "vou-conflicto-1",
+          "triggerLabel": "¿Qué es la focalización interna en LIJ?",
+          "type": "theory",
+          "content": "La crítica especializada (Gressnich y Meibauer, 2010; Colomer; Tabernero) subraya que la complejidad del álbum nace de los cambios de perspectiva de página a página: la focalización —desde dónde se narra— se restringe a la mirada de un personaje y, combinada con la imagen, genera un contrapunto cuando lo visual matiza el relato subjetivo del narrador."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Análisis comparatista de obras paradigmáticas",
+      "narrativa": "La autora articula un enfoque riguroso asentado en la literatura comparada (Guillén, 1985) para examinar el diálogo intertextual:",
+      "detalles": [
+        {
+          "label": "1. Selección razonada del corpus",
+          "value": "Cribado selectivo desde un corpus base de 90 títulos de LIJ, eligiendo 4 obras maestras publicadas entre los años 80 y 90 por su calidad literaria y radicalidad formal."
+        },
+        {
+          "label": "2. Dimensiones de análisis comparado",
+          "value": "Evaluación sistemática de cuatro ejes: (a) cesión de la voz narrativa, (b) hibridación genérica y discursiva, (c) estrategias metaficcionales y (d) densidad intertextual."
+        },
+        {
+          "label": "3. Análisis semiótico iconotextual",
+          "value": "Estudio minucioso de la articulación entre texto escrito, código visual e intervenciones en la materialidad física del objeto editorial."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Cuatro modos de desmantelar la tradición",
+      "narrativa": "El estudio pormenorizado de las cuatro obras revela mecanismos extraordinarios de subversión postmoderna:",
+      "hallazgos": [
+        {
+          "label": "Célebres casos del detective John Chatterton (Pommaux): Cruza el cuento de hadas con el cine negro (film noir) y el cómic; un gato detective investiga la desaparición de Caperucita sin narrador omnisciente, con el punto de vista del propio protagonista y alternancia entre la acción y su monólogo deductivo.",
+          "value": ""
+        },
+        {
+          "label": "El cartero simpático (Ahlberg & Ahlberg): Desplaza la voz a la correspondencia epistolar inserta en sobres reales y extraíbles; Cenicienta recibe una propuesta editorial, el lobo es conminado por los abogados de Caperucita y Ricitos de Oro se disculpa con la familia de osos, resignificando el mito.",
+          "value": ""
+        },
+        {
+          "label": "La auténtica historia de los tres cerditos (Scieszka & Smith): Da voz en primera persona al Lobo Feroz (S. Lobo) como narrador no fiable que apela a la prensa sensacionalista para justificar sus actos, forzando al lector a juzgar la verdad.",
+          "value": ""
+        },
+        {
+          "label": "El apestoso hombre queso (Scieszka & Smith): Explosión metaficcional absoluta; su narrador, Juan (el de la habichuela), pierde el control, los personajes se rebelan, el Índice cae aplastándolos y la disrupción tipográfica pulveriza las convenciones del libro.",
+          "value": ""
+        }
+      ],
+      "reflexion": "La reescritura subversiva no destruye el cuento tradicional: lo revitaliza convirtiendo al lector infantil en un detective del sentido.",
+      "deepDives": [
+        {
+          "id": "vou-revelacion-1",
+          "triggerLabel": "El Lobo como periodista no fiable",
+          "type": "data",
+          "content": "Lane Smith utiliza recortes de periódico y manchas gráficas para reforzar la atmósfera carcelaria de la confesión del Lobo, transformando un cuento folclórico en una sátira sobre la opinión pública y los medios."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Postmodernidad, pacto de lectura y educación literaria",
+      "narrativa": "Vouillamoz profundiza en las repercusiones pedagógicas y epistemológicas de estas obras:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Estética postmoderna (Silva-Díaz, Duran): Ironía, pastiche, parodia e intertextualidad como signos de madurez artística del álbum infantil contemporáneo."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Competencia intertextual del lector (Mendoza, Colomer, Bellorín): Estas obras exigen un lector que domine el canon previo para captar las infracciones y reír la parodia; leer la adaptación es releer la obra evocada."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Democratización de las voces narrativas: El cuestionamiento de la autoridad patriarcal y unívoca del narrador clásico entrena el pensamiento divergente en el aula."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Literatura infantil inocente vs. LIJ desafiante: Rechazo categórico a la concepción proteccionista de la literatura para niños como vehículo de moralina complaciente."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Competencia enciclopédica requerida: Advertencia didáctica: para disfrutar de la subversión de 'Los Tres Cerditos', el aprendiz debe haber interiorizado previamente el cuento original."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El estudio es estrictamente analítico-semiótico y no evalúa empíricamente la recepción en aulas con niños de carne y hueso."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "No se profundiza en las dificultades de mediación docente frente a obras con alto nivel de sarcasmo o ambigüedad moral."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la didáctica de la literatura Diseñar itinerarios de lectura emparejada que confronten la versión tradicional de los Grimm con su contrapartida postmoderna subversiva."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para el desarrollo del pensamiento crítico Enseñar al alumnado a cuestionar la fiabilidad de las fuentes y el punto de vista desde el que se construye cualquier información mediática."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para los talleres de creación y escritura Incentivar actividades de escritura creativa donde los estudiantes adopten la voz del antagonista tradicional para defender su inocencia."
+        },
+        {
+          "label": "Tabla",
+          "value": "Obra Analizada | Autores / Año | Instancia Narrativa | Género Hibridado | Estrategia Subversiva Dominante\nCélebres casos del detective John Chatterton | Yvan Pommaux (1993-1998) | Focalización interna con alternancia (casos y deducción) | Novela negra / Cómic | Misterio urbano; relectura de Caperucita, Blancanieves y la Bella Durmiente\nEl cartero simpático | A. & J. Ahlberg (1986) | Narrativa epistolar fragmentada | Correspondencia postal | Objetualidad física (sobres), humanización satírica\nLos tres cerditos | J. Scieszka & L. Smith (1989) | Focalización interna (Lobo en 1ª p.) | Crónica judicial / Prensa | Narrador sospechoso no fiable, inversión moral\nEl hombre queso | J. Scieszka & L. Smith (1992) | Metaficción coral anárquica | Parodia miscelánea | Ruptura del libro como soporte físico y diseño"
+        }
+      ],
+      "reflexion": "Dar voz a los personajes silenciados por la tradición es el primer paso para aprender a pensar por uno mismo.",
+      "deepDives": [
+        {
+          "id": "vou-marco-1",
+          "triggerLabel": "La carta de disculpas de Ricitos de Oro",
+          "type": "theory",
+          "content": "En la obra de los Ahlberg, Ricitos de Oro envía una tarjeta a la familia Oso disculpándose por romper la silla, sustituyendo el final punitivo por una solución civilizada y humorística."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo transforman el álbum ilustrado y la cesión de la voz a los personajes la tradición de los cuentos clásicos en la LIJ?",
+      "conclusion": "La cesión de la voz a los personajes sustituye la verdad dogmática del narrador omnisciente por relatos subjetivos y moralmente ambiguos. Las cuatro obras analizadas demuestran que el formato físico y paratextual del álbum participa de manera decisiva en el juego deconstructivo. El cruce de géneros (novela negra, correspondencia, crónica judicial) actualiza los arquetipos populares en coordenadas contemporáneas. La comprensión satisfactoria de la parodia exige en el lector una competencia intertextual sólida previa del canon tradicional. Asegurar el conocimiento de las versiones clásicas antes de introducir obras deconstructivas para activar el juego intertextual. Estimular debates guiados en el aula sobre la fiabilidad de la voz de S. Lobo y otros narradores en primera persona. Explotar la materialidad del libro en la enseñanza literaria (guardas, cubiertas, tipografía) como fuente de significación crítica. Fomentar la escritura vicaria adoptando perspectivas desacostumbradas sobre conflictos escolares o dilemas éticos. En el universo del álbum postmoderno no existen verdades absolutas: solo puntos de vista esperando ser interrogados con inteligencia y humor.",
+      "formalRef": "Núria Vouillamoz. (2022). Reescrituras subversivas y literatura infantil. Cuando el libro-álbum da voz a personajes de cuentos clásicos. Ocnos 21(1). https://doi.org/10.18239/ocnos_2022.21.1.2737"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué personaje asume la voz narrativa en primera persona en la obra de Jon Scieszka y Lane Smith para defenderse de las acusaciones clásicas?",
+          "options": [
+            "El Gigante de la Habichuela Mágica",
+            "El Lobo Feroz (S. Lobo)",
+            "El gato detective John Chatterton",
+            "El cerdito de la casa de ladrillo"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué recurso físico característico convierte a 'El cartero simpático' de Allan y Janet Ahlberg en una experiencia objetual e interactiva única?",
+          "options": [
+            "Páginas transparentes de acetato",
+            "Sobres reales integrados con cartas extraíbles en su interior",
+            "Mecanismos móviles pop-up tridimensionales",
+            "Texturas táctiles de peluche y madera"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "El libro-álbum como género postmoderno",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Estatuto del libro-álbum como género paradigmático de la postmodernidad caracterizado por la hibridación semiótica, estructuras abiertas, intertextualidad y la dependencia entre palabra, imagen y formato."
+      },
+      {
+        "id": "2",
+        "label": "Crisis del narrador omnisciente (Colomer)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Evolución histórica en la LIJ que desmantela la autoridad pedagógica del narrador omnisciente tradicional en favor de voces múltiples, falibles, subjetivas y desacralizadas que interpelan la complicidad del lector."
+      },
+      {
+        "id": "3",
+        "label": "Tematización de la perspectiva y metaficción",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Concepto clave donde la técnica constructiva del punto de vista se convierte en el tema central del relato, desnudando las convenciones del pacto de ficción mediante recursos metaficcionales y deconstructivos."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Analizar la descanonización en el álbum",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Determinar cómo el libro-álbum contemporáneo reescribe la tradición literaria clásica mediante la cesión deliberada de la voz narrativa y la focalización interna en personajes arquetípicos antes silenciados."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Tipificar estrategias de subversión",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Identificar, categorizar y contrastar las tácticas discursivas de subversión (parodia, pastiche, intertextualidad e hibridación genérica) operantes en cuatro obras de referencia consagradas de los años 80 y 90."
+      },
+      {
+        "id": "6",
+        "label": "Método de literatura comparada (Guillén)",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Enfoque metodológico cualitativo-comparatista (Guillén, 1985) que estudia no solo la analogía formal entre textos sino el diálogo intertextual tenso, la recepción activa y la descanonización ideológica resultante."
+      },
+      {
+        "id": "7",
+        "label": "Cribado selectivo desde 90 obras base",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Proceso de selección razonada a partir de un corpus inicial de 90 títulos de LIJ, aplicando criterios de excelencia estética, reconocimiento unánime de la crítica y radicalidad en la tematización de la perspectiva."
+      },
+      {
+        "id": "8",
+        "label": "Corpus de 4 álbumes paradigmáticos",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Selección de cuatro obras maestras de Pommaux (John Chatterton), Allan y Janet Ahlberg (El cartero simpático) y Scieszka y Smith (Los tres cerditos y El hombre queso) como banco paradigmático de contraste."
+      },
+      {
+        "id": "9",
+        "label": "Focalización detective en Pommaux",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Hibridación del cuento de hadas tradicional con el cine negro y el cómic policíaco, donde un gato detective privado investiga misterios clásicos filtrando la trama a través de la ironía urbana desencantada."
+      },
+      {
+        "id": "10",
+        "label": "Objetualidad epistolar en los Ahlberg",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Fragmentación epistolar del relato en cartas y folletos insertos en sobres reales manipulables, desacralizando los arquetipos populares mediante la sátira burocrática y la humanización de sus conflictos cotidianos."
+      },
+      {
+        "id": "11",
+        "label": "Narrador no fiable en Scieszka y Smith",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Monólogo en primera persona del Lobo Feroz que manipula los hechos con retórica sensacionalista de crónica judicial, obligando al lector infantil a sospechar de la fiabilidad del testimonio y del canon heredado."
+      },
+      {
+        "id": "12",
+        "label": "Ruptura metaficcional en El hombre queso",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Deconstrucción anárquica del libro como objeto material donde los personajes sabotean la maquetación, los créditos y la portada, exponiendo con humor grotesco la fragilidad de las convenciones editoriales."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Exigencia de enciclopedia previa",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Planteamiento epistémico fundamental: el goce de la parodia, el pastiche y la ironía intertextual exige que el aprendiz domine previamente la versión canónica tradicional como marco indispensable de contraste."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Formación del pensamiento crítico",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "El entrenamiento escolar en la detección de narradores no fiables y perspectivas sesgadas en la ficción constituye una herramienta pedagógica insustituible para el desarrollo del juicio crítico ciudadano."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Delimitación textual sin campo",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Investigación cualitativa circunscrita al análisis semiótico y comparatista inmanente del texto y formato, sin incorporar protocolos empíricos de observación etnográfica de lectura con grupos de escolares en el aula."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: La vitalidad de la descanonización",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "Las reescrituras subversivas no liquidan el patrimonio folclórico clásico, sino que lo emancipan de la moraleja unívoca, garantizando su vitalidad y relevancia en la cultura visual y lectora contemporánea."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se vincula con"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "desarrolla la"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "justifica indagar"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "fundamenta clasificar"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se aborda mediante"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se evalúa con"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se aplica en"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "concreta el"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "evidencia el caso de"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "analiza el dispositivo de"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "demuestra el"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "constata la"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "demanda activar la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "se apoya en la"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "estimula directamente el"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "potencia la mirada de"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "interactúa con"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "se delimita por"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "concluye en"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "orienta la trascendencia de"
+      }
+    ]
+  }
+}

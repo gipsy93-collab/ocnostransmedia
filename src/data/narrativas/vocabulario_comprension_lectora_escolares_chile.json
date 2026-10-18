@@ -1,0 +1,376 @@
+{
+  "id": "vocabulario_comprension_lectora_escolares_chile",
+  "metadata": {
+    "id": "vocabulario_comprension_lectora_escolares_chile",
+    "title": "Vocabulario y comprensión lectora en escolares chilenos de primer ciclo básico",
+    "authors": [
+      "Susana Figueroa-Sepúlveda",
+      "José-Luis Gallego-Ortega"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "1",
+    "pages": "32-42",
+    "doi": "10.18239/ocnos_2018.17.1.1521",
+    "keywords": [
+      "vocabulario receptivo",
+      "comprensión lectora",
+      "educación básica",
+      "escolares chilenos",
+      "nivel socioeconómico"
+    ],
+    "abstract": "Estudio empírico descriptivo-correlacional con 206 escolares de 2º y 4º de Educación Básica de Iquique (Chile) que analiza los niveles de vocabulario (TEVI-R) y comprensión lectora (CLP) y su correlación según curso, género y dependencia escolar (municipal, subvencionado y particular). Halla correlaciones significativas y brechas notables según nivel socioeconómico y tipo de centro."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cuántas palabras necesita conocer un niño para comprender con soltura lo que lee? ¿Y cómo influye la cuna social y el tipo de colegio en la brecha entre vocabulario y comprensión textual en el primer ciclo básico? Este estudio con 206 estudiantes en el norte de Chile examina los vínculos indisolubles entre el caudal léxico y el éxito lector.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis psicopedagógico:",
+        "opciones": [
+          {
+            "id": "psicolinguistica",
+            "texto": "Ruta psicolingüística: amplitud y profundidad del vocabulario como motor cognitivo"
+          },
+          {
+            "id": "socioeducativa",
+            "texto": "Ruta socioeducativa: brechas por dependencia escolar (municipal vs particular)"
+          },
+          {
+            "id": "evolutiva",
+            "texto": "Ruta evolutiva: comparación de logros entre 2º y 4º básico"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Las pruebas nacionales e internacionales en Chile revelan persistentes disparidades en comprensión lectora asociadas al origen socioeconómico del alumnado. A menudo se interviene en técnicas mecánicas de lectura descuidando el enriquecimiento sistemático del vocabulario, que es el verdadero andamio semántico del pensamiento.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Por qué el vocabulario receptivo es un predictor tan potente de la comprensión de textos?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Porque reconocer el significado preciso de los términos permite activar esquemas conceptuales previos y construir el modelo mental de la situación que describe el texto.",
+            "correcta": true,
+            "explicacion": "Exacto: sin representaciones léxicas sólidas, la memoria de trabajo se satura intentando descifrar palabras aisladas en vez de integrar ideas globales."
+          },
+          {
+            "id": "c2",
+            "texto": "Porque leer consiste simplemente en contar la cantidad de palabras largas que contiene un párrafo.",
+            "correcta": false,
+            "explicacion": "La longitud de las palabras es irrelevante; lo esencial es la riqueza de las redes semánticas activadas en la mente del lector."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los investigadores evaluaron a 206 escolares chilenos de 2º y 4º curso de Enseñanza Básica en la ciudad de Iquique. Administraron de forma estandarizada el Test de Vocabulario en Imágenes (TEVI-R) y la Prueba de Comprensión Lectora de Complejidad Lingüística Progresiva (CLP), analizando contrastes por género, curso y dependencia administrativa de los centros.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra representativa",
+            "detalle": "206 escolares de 2º y 4º básico de colegios municipales, subvencionados y privados de Iquique."
+          },
+          {
+            "fase": "Evaluación de vocabulario",
+            "detalle": "Aplicación del TEVI-R para medir comprensión léxica auditivo-visual."
+          },
+          {
+            "fase": "Prueba de comprensión",
+            "detalle": "Aplicación de la prueba estandarizada chilena CLP en sus formas paralelas según nivel."
+          },
+          {
+            "fase": "Análisis estadístico",
+            "detalle": "Pruebas correlacionales de Pearson y análisis de varianza (ANOVA) multidimensional."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Se confirmó una correlación positiva y estadísticamente significativa (r ≈ .47) entre vocabulario y comprensión lectora. Además, se detectaron profundas desigualdades: el alumnado de colegios particulares pagados superó ampliamente a sus pares de colegios municipales, evidenciando que el caudal léxico es el gran reproductor de la segregación educativa.",
+      "datos_clave": [
+        "Muestra de 206 escolares evaluados con tests estandarizados y validados en Chile.",
+        "Correlación significativa moderada/alta entre el TEVI-R y la prueba CLP (p < .001).",
+        "Avance significativo en vocabulario y comprensión entre 2º y 4º básico.",
+        "Marcada disparidad en función del tipo de colegio, reflejando el peso del nivel socioeconómico familiar."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se sustenta en la hipótesis instrumental de Anderson y Freebody (1981), el modelo simple de lectura de Gough y Tunmer (1986), la teoría de la calidad léxica de Perfetti (2007) y las investigaciones sobre equidad educativa en Latinoamérica.",
+      "referencias_clave": [
+        "Anderson & Freebody (1981)",
+        "Gough & Tunmer (1986)",
+        "Perfetti (2007)",
+        "Figueroa-Sepúlveda & Gallego-Ortega (2018)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El vocabulario no es una colección pasiva de palabras, sino el motor que impulsa la comprensión y el ascensor social del aprendizaje. Garantizar una enseñanza léxica explícita y rica en los centros públicos es la política más urgente para cerrar las brechas lectoras en la infancia.",
+      "hallazgo_central": "Existe una correlación directa y robusta entre vocabulario y comprensión lectora en escolares chilenos, con marcadas disparidades según la dependencia escolar que evidencian la urgencia de justicia léxica."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los instrumentos y constructos del estudio con su rol evaluativo:",
+          "pares": [
+            {
+              "concepto": "Test TEVI-R",
+              "definicion": "Prueba de vocabulario pasivo mediante emparejamiento término-imagen estandarizada en Chile."
+            },
+            {
+              "concepto": "Prueba CLP",
+              "definicion": "Batería de complejidad lingüística progresiva para medir comprensión de textos escolares."
+            },
+            {
+              "concepto": "Hipótesis instrumental",
+              "definicion": "Postulado teórico que sostiene que el conocimiento de palabras causa directamente la comprensión."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Vocabulario y Comprensión Lectora en Escolares Chilenos",
+      "descripcion": "Estudio correlacional de habilidades léxicas y comprensión textual en el primer ciclo básico de Iquique.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Vocabulario y Comprensión en Escolares Chilenos",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo de la investigación: determinar los niveles y analizar la correlación entre vocabulario receptivo y comprensión lectora en escolares de segundo y cuarto básico de Iquique (Chile)."
+        },
+        {
+          "id": "2",
+          "label": "Desigualdad Educativa en Chile",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Contexto de brechas socioeducativas estructurales en el sistema chileno según las pruebas SIMCE, caracterizado por una fuerte estratificación según dependencia escolar municipal, subvencionada o particular."
+        },
+        {
+          "id": "3",
+          "label": "Hipótesis Instrumental y Calidad Léxica",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico de Anderson, Freebody y Perfetti que postula que la riqueza y precisión de las representaciones léxicas en la memoria a largo plazo determinan directamente el éxito en la comprensión del texto."
+        },
+        {
+          "id": "4",
+          "label": "Modelo Simple de Lectura",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Enfoque de Gough y Tunmer que define la comprensión lectora como el producto multiplicativo entre la decodificación mecánica eficiente y la comprensión del lenguaje oral (nutrida por el léxico)."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Descriptivo Correlacional y Comparativo",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño cuantitativo no experimental de alcance descriptivo, correlacional y transeccional orientado a contrastar diferencias por curso, género y dependencia institucional escolar."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 206 Escolares de Iquique",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Muestra estratificada conformada por 206 estudiantes de segundo (104) y cuarto (102) año de Educación Básica matriculados en tres centros educativos de diversa dependencia en Iquique."
+        },
+        {
+          "id": "7",
+          "label": "Test de Vocabulario TEVI-R",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Instrumento estandarizado y baremado en Chile que evalúa el vocabulario pasivo o receptivo del escolar mediante la selección de una lámina gráfica correspondiente a la palabra leída por el evaluador."
+        },
+        {
+          "id": "8",
+          "label": "Prueba CLP de Complejidad Progresiva",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Batería psicométrica chilena de Felipe Alliende y colaboradores que evalúa la comprensión lectora mediante textos de dificultad sintáctica y semántica creciente en formas paralelas."
+        },
+        {
+          "id": "9",
+          "label": "Correlación Significativa Moderada Positiva",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los análisis estadísticos revelaron una correlación estadísticamente significativa y positiva (r igual a punto cuarenta y siete, p menor a punto cero cero uno) entre las puntuaciones de TEVI-R y CLP."
+        },
+        {
+          "id": "10",
+          "label": "Crecimiento Evolutivo entre Cursos",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Los escolares de cuarto básico mostraron puntuaciones significativamente más altas en ambas variables que los de segundo, evidenciando el efecto madurativo y pedagógico de la escolarización."
+        },
+        {
+          "id": "11",
+          "label": "Profunda Brecha por Dependencia Escolar",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Diferencias estadísticamente significativas en favor de los colegios particulares pagados frente a los subvencionados y municipales, evidenciando el impacto del nivel socioeconómico en el léxico."
+        },
+        {
+          "id": "12",
+          "label": "Confirmación del Léxico como Puente Cognitivo",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica que ratifica la centralidad del vocabulario: sin un umbral léxico adecuado, la decodificación mecánica resulta insuficiente para construir el modelo mental de la lectura."
+        },
+        {
+          "id": "13",
+          "label": "La Pobreza Léxica como Barrera Social",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate en torno a la reproducción de desigualdades sociales a través del capital lingüístico inicial, donde la falta de estimulación temprana en el hogar lastra el rendimiento académico escolar."
+        },
+        {
+          "id": "14",
+          "label": "Necesidad de Instrucción Léxica Explícita",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión que reivindica la enseñanza sistemática, deliberada y contextualizada del vocabulario en el aula desde la primera infancia como medida prioritaria de equidad pedagógica."
+        },
+        {
+          "id": "15",
+          "label": "Políticas Compensatorias en Centros Públicos",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación de política educativa dirigida a dotar de bibliotecas de aula enriquecidas y programas de lectura dialógica intensiva a las escuelas de sectores socioeconómicos vulnerables."
+        },
+        {
+          "id": "16",
+          "label": "Limitaciones de Localización Geográfica",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite metodológico reconocido al abarcar únicamente tres centros de la comuna de Iquique, lo que aconseja replicar el estudio en otras regiones chilenas con muestras más amplias y longitudinales."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se sitúa en"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se fundamenta en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se articula con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "selecciona"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "administra"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "aplica"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "correlaciona con"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "se vincula a"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "muestra progreso en"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "evidencia avance en"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "se segmenta en"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "manifiesta brecha en"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "respalda empíricamente"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "denuncia"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "conduce a"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "reclama"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se concreta en"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "reconoce"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "restringe alcance en"
+        },
+        {
+          "from": "4",
+          "to": "12",
+          "label": "fundamenta teóricamente a"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "El vocabulario es el suelo fértil donde germina la comprensión lectora. Cuando un niño no domina las palabras, el texto se vuelve un muro infranqueable. La justicia educativa empieza por asegurar que cada estudiante, sin importar su origen social, tenga acceso a un tesoro de palabras compartidas.",
+      "preguntas": [
+        "¿Cómo se enseña el vocabulario en las escuelas: mediante listas memorísticas descontextualizadas o a través de lecturas ricas y conversaciones desafiantes?",
+        "¿Qué estrategias compensatorias pueden implementar los colegios públicos para nivelar el capital léxico de los escolares más vulnerables?"
+      ]
+    }
+  }
+}

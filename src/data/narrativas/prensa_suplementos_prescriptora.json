@@ -1,0 +1,451 @@
+{
+  "id": "prensa_suplementos_prescriptora",
+  "metadata": {
+    "title": "La prensa como prescriptora de lecturas. Recomendaciones de los suplementos culturales españoles especializados en literatura",
+    "authors": "Juan García-Cardona y Manuel García-Borrego",
+    "year": "2023",
+    "journal": "Ocnos 22(2)",
+    "doi": "10.18239/ocnos_2023.22.2.354",
+    "gancho": "¿Qué hay detrás de las listas de 'mejores libros del año': juicio estético puro o un monopolio de autores consagrados y grandes grupos editoriales?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#264653",
+    "bg": "from-rose-500/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/prensa-suplementos/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-garcia-cardona/200/200",
+      "name": "Dr. Juan García-Cardona",
+      "role": "Investigador en Periodismo Cultural y Canon Literario, University of California, Davis"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Juan García-Cardona, investigador en sociología del periodismo cultural",
+      "gancho": "¿Quién decide realmente qué libros merecen ser leídos y recordados cada año en España?",
+      "contexto": "Cada diciembre, los suplementos culturales de los principales diarios españoles publican sus influyentes listas de 'los mejores libros del año'. Estas selecciones no son simples recomendaciones: actúan como poderosos prescriptores de contenidos y mediadores culturales que construyen el 'canon social' al margen de la escuela (Dueñas et al., 2014). Por primera vez, este estudio analiza empíricamente 1.286 obras recomendadas a lo largo de doce años (2010–2021) en Babelia (El País), El Cultural (El Mundo), ABC Cultural (ABC) y Cultura|s (La Vanguardia) para revelar los sesgos objetivos de nacionalidad, idioma, concentración empresarial y edad que condicionan la visibilidad literaria en España.",
+      "deepDives": [
+        {
+          "id": "prensa-apertura-1",
+          "triggerLabel": "¿Qué es la prescripción cultural?",
+          "type": "theory",
+          "content": "Bourdieu (1984) y Janssen y Verboord (2015) definen a los periodistas culturales como 'mediadores' o intermediarios entre el campo artístico y el público general. Su tarea central es filtrar el aluvión inabarcable de novedades del mercado y jerarquizar qué obras poseen valor estético legítimo."
+        },
+        {
+          "id": "prensa-apertura-2",
+          "triggerLabel": "Canon social vs. Canon académico",
+          "type": "theory",
+          "content": "Dueñas et al. (2014) distinguen el canon académico (construido por el sistema educativo y la universidad) del canon social (dictado por el mercado, medios de comunicación y redes de prescripción de proximidad). Las listas periodísticas son la máxima expresión contemporánea del canon social."
+        },
+        {
+          "id": "prensa-apertura-3",
+          "triggerLabel": "El lector de prensa y el informe FGEE",
+          "type": "data",
+          "content": "En España, el 64.4% de la población lee libros por ocio (FGEE, 2021). Los lectores frecuentes de prensa comparten un perfil sociodemográfico muy similar con los compradores asiduos de literatura, convirtiendo a los suplementos en un canal de influencia directa sobre las ventas de navidad."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Mientras la crítica periodística afirma guiarse exclusivamente por criterios estético-literarios universales, nunca se había sometido a comprobación empírica qué patrones cuantitativos operan tras bambalinas. Se desconocía el peso real de los autores noveles, la presencia de lenguas cooficiales, la cuota de la literatura traducida no anglosajona y el grado de monopolio de los conglomerados editoriales en las recomendaciones anuales.",
+      "porQueImporta": "Si las instancias de consagración cultural marginan sistemáticamente a los escritores jóvenes, a las editoriales independientes y a la diversidad lingüística, el canon social se vuelve excluyente y hermético, impidiendo que las nuevas generaciones encuentren autores en quienes reflejarse.",
+      "dataPoints": [
+        "Corpus de 1.286 obras literarias codificadas de forma exhaustiva a lo largo de doce años (2010 a 2021).",
+        "Distribución por cabeceras: El Cultural aporta 452 obras (35.1%), Babelia 374 (29.1%), Cultura|s 305 (23.7%) y ABC Cultural 155 (12.1%).",
+        "Preferencia nacional: los autores españoles suponen el 50.5% del total, oscilando entre el 37.4% en Babelia y el 61.7% en El Cultural.",
+        "Monopolio editorial: Planeta (24.4%) y Penguin Random House (15.6%) pasaron de aportar el 16.7% en 2010 al 43.1% de todos los libros destacados en 2021.",
+        "Paradoja etaria: la edad media del autor recomendado es de 58.5 años; se recomiendan más autores difuntos (9.5%) que jóvenes menores de 40 años (9.0%).",
+        "Los autores de 35 años o menos representan apenas el 3.7% de las menciones; ABC Cultural no incluyó a ningún autor menor de 35 en los once años analizados."
+      ],
+      "glossary": [
+        {
+          "term": "Prescriptor de contenidos",
+          "definition": "Agente o institución comunicativa que filtra, selecciona y amplifica determinados bienes culturales influyendo en el consumo público."
+        },
+        {
+          "term": "Canon social",
+          "definition": "Selección de lecturas consagrada por los medios de comunicación y el mercado editorial, paralela e independiente de las aulas académicas."
+        },
+        {
+          "term": "Ficha ad hoc de análisis de contenidos",
+          "definition": "Instrumento de registro con variables objetivables (país, lengua, sello, edad) diseñado para asegurar la replicabilidad sin sesgo interpretativo."
+        },
+        {
+          "term": "Duopolio editorial",
+          "definition": "Concentración dominante del mercado literario en dos conglomerados multinacionales: Grupo Planeta y Penguin Random House."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Análisis de contenido diacrónico sobre 1.286 obras (2010-2021)",
+      "narrativa": "Los autores aplicaron la técnica de análisis de contenido mediante una ficha ad hoc no discrecional que auditó los cuatro suplementos culturales de referencia a partir de hemerotecas digitales, repositorios de prensa (MyNews) y archivos físicos de bibliotecas.",
+      "detalles": [
+        {
+          "label": "Muestra Documental",
+          "value": "1.286 libros recomendados en doce años (2010–2021), cubriendo 57 países, 26 lenguas originales y 171 sellos editoriales diferentes."
+        },
+        {
+          "label": "Variables Codificadas",
+          "value": "Suplemento, año de publicación, nacionalidad del autor, lengua original de la obra, editorial de publicación, grupo empresarial matriz y edad exacta del autor al 31 de diciembre."
+        },
+        {
+          "label": "Análisis Diacrónico",
+          "value": "Series temporales en rangos quinquenales para examinar la evolución del nacionalismo frente a la globalización y la concentración de cuota de mercado."
+        }
+      ],
+      "limitaciones": [
+        "Lagunas archivísticas en años aislados: listas no recuperadas de Cultura|s (2010 y 2011) y ABC Cultural (2010 y 2015).",
+        "El análisis abarca únicamente las listas anuales de mejores libros de las cuatro cabeceras de prensa escrita estudiadas, sin contemplar las nuevas tecnologías en la emisión de críticas (Casiano, 2022)."
+      ],
+      "reflexion": "La objetividad en el estudio cultural comienza cuando sustituimos las filias del crítico por el conteo riguroso de quién tiene voz en las páginas de prensa."
+    },
+    "revelacion": {
+      "titulo": "Revelación empírica: El club de la madurez y la pinza del duopolio editorial",
+      "narrativa": "Los datos desmantelan la idea de que la prescripción literaria es un territorio abierto y juvenil. El periodismo cultural español consagra una hegemonía tripartita: autores varones y maduros (pico en 61-65 años con 12.6%), procedencia española o anglosajona, y publicación bajo los sellos de Planeta y Penguin Random House.",
+      "hallazgos": [
+        {
+          "label": "Inversión de la apertura: entre 2010 y 2021, la cuota de autores españoles cayó del 66.7% al 41.8%, absorbida casi íntegramente por autores de EE. UU. (que pasó del 5.6% al 19.6%) e idioma inglés.",
+          "value": ""
+        },
+        {
+          "label": "El repliegue del catalán: Cultura|s dedica un 22.0% de su espacio a obras en catalán, mientras en ABC Cultural su presencia es del 0.0% y residual en El Cultural y Babelia.",
+          "value": ""
+        },
+        {
+          "label": "La paradoja de los difuntos: un 9.5% de los libros recomendados fueron de autores ya fallecidos (ediciones conmemorativas o rescates), superando a todos los menores de 40 años sumados (9.0%).",
+          "value": ""
+        }
+      ],
+      "dataPoints": [
+        "Big-4 editorial: Anagrama (12.6%), Seix Barral, Tusquets y Alfaguara concentran el 32.7% de todos los libros destacados.",
+        "Edad media: 58.5 años en el conjunto (60.2 años en ABC Cultural); autores noveles (< 35 años) representan solo el 3.7%.",
+        "Polarización editorial: las editoriales independientes suman el 42.1% y superan a cada grupo por separado, pero quedan por debajo del conjunto de los conglomerados (57.9%), encabezados por Planeta (24.4%) y Penguin Random House (15.6%)."
+      ],
+      "reflexion": "Al consagrar sistemáticamente a los mismos autores consagrados de más de sesenta años, la prensa cultural renuncia a conectar con los intereses y lenguajes de las nuevas generaciones lectoras."
+    },
+    "marco": {
+      "titulo": "Marco teórico: Intermediación bourdiana y la construcción del canon social",
+      "narrativa": "El estudio se fundamenta en la teoría de los campos de Bourdieu (1984), el análisis de intermediarios culturales de Janssen y Verboord (2015) y la teorización del canon social de Dueñas et al. (2014) y Cerrillo (2013). Los suplementos no son meros reflejos pasivos de la sociedad: son agentes activos de consagración y capital simbólico.",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Coincidencia con Carrasco-Molina y García-Borrego (2020) sobre la tensión entre periodistas de redacción ('insiders') y colaboradores procedentes del medio literario y las humanidades ('outsiders')."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Sintonía con Cano-Vidal y Sánchez-Aparicio (2022) y Casiano (2022) al señalar el hermetismo y envejecimiento de las listas canónicas tradicionales."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Frente al discurso de los suplementos que defiende la heterogeneidad de criterios estéticos, el estudio empírico demuestra una sorprendente uniformidad tipológica en las cuatro cabeceras."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "La pérdida acelerada de influencia del crítico literario de prensa entre los lectores jóvenes (13-25 años) ante nuevos prescriptores como los booktubers (Parratt-Fernández et al., 2021)."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Fomentar la alfabetización mediática crítica en las aulas para que los estudiantes aprendan a interrogar los rankings de lectura comercial."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Exigir cuotas de apertura en las secciones culturales de prensa para visibilizar a autores jóvenes, lenguas cooficiales y sellos editoriales de proximidad."
+        }
+      ],
+      "reflexion": "Si el canon social lo construyen los periódicos, ¿qué ocurre cuando los jóvenes ya no compran periódicos?"
+    },
+    "nucleo": {
+      "pregunta": "Los suplementos culturales españoles operan bajo una retórica de excelencia estética universal, pero sus recomendaciones consolidan un canon social fuertemente conservador, envejecido y concentrado en el poder del duopolio editorial.",
+      "conclusion": "La prensa cultural española orienta a los lectores hacia un perfil tipológico muy estrecho: autores maduros o fallecidos, procedencia nacional o estadounidense y sellos editoriales dominantes. Se constata una brecha insalvable con el público juvenil: al dedicar menos del 4% a escritores menores de 35 años, los suplementos aceleran su irrelevancia entre los nuevos lectores. Auditar las listas de fin de año en bibliotecas y aulas de secundaria como ejercicio de lectura crítica de medios. Reivindicar el valor de la edición independiente y de la literatura juvenil como territorios legítimos de calidad estética. Un canon que solo mira hacia atrás y hacia los gigantes del mercado termina convirtiendo a la literatura en una pieza de museo.",
+      "formalRef": "Juan García-Cardona y Manuel García-Borrego. (2023). La prensa como prescriptora de lecturas. Recomendaciones de los suplementos culturales españoles especializados en literatura. Ocnos 22(2). https://doi.org/10.18239/ocnos_2023.22.2.354"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje aproximado de las 1.286 obras analizadas por García-Cardona y García-Borrego correspondió a autores de nacionalidad española?",
+          "options": [
+            "50.5% (con El Cultural liderando con 61.7%)",
+            "25.2% (dominando ampliamente la literatura estadounidense)",
+            "82.4% (con presencia testimonial de traducciones)",
+            "35.0% (repartido equitativamente con América Latina)"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué paradoja etaria descubrió la investigación sobre los autores recomendados en los suplementos?",
+          "options": [
+            "Se recomiendan más libros de autores fallecidos (9.5%) que de menores de 40 años (9.0%)",
+            "La edad media es de 32 años gracias al auge de los autores emergentes",
+            "ABC Cultural fue el suplemento que más autores menores de 30 años incluyó",
+            "Los autores de más de 75 años fueron excluidos por falta de actualidad"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "El estudio constata que Planeta y Penguin Random House pasaron de aportar el 16.7% en 2010 al 43.1% de los libros recomendados en 2021. ¿Qué consecuencias tiene esta concentración editorial para la bibliodiversidad de las bibliotecas y escuelas?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "Bienvenido a esta indagación sobre los jueces del gusto. Analizaremos quién y cómo decide qué libros son 'los mejores' cada año en la prensa española.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Fíjate en la tensión de partida: los críticos afirman valorar solo la estética, pero las cifras desvelan patrones muy claros de edad, procedencia y mercado.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Observa el despliegue metodológico: 1.286 obras codificadas con fichas objetivas a lo largo de 12 años en las cuatro grandes cabeceras.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "¡El dato es asombroso! Se recomiendan más autores difuntos que jóvenes menores de 40, y dos grandes grupos copan casi la mitad del espacio.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Bourdieu y Dueñas nos ayudan a entender que esto es la construcción viva del 'canon social', un mecanismo de poder que compite con la escuela.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "La lección final es clara: si queremos formar lectores críticos, debemos enseñarles a cuestionar quién elabora los rankings que leen.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Recorre los 16 nodos del mapa para explorar la correlación entre edad, concentración editorial, suplementos y canon social.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo que has aprendido y reflexiona sobre cómo construirías una lista verdaderamente plural y diversa para tu comunidad.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: La prensa como prescriptora de lecturas (Ocnos 22(2) 2023)",
+    "descripcion": "Recorre la investigación empírica de García-Cardona y García-Borrego sobre 1.286 obras en los suplementos culturales españoles (2010-2021): del marco de Bourdieu y el canon social a las variables de nacionalidad, idioma, concentración en el duopolio editorial (Planeta y PRH), la marginación de autores jóvenes y las implicaciones críticas para la educación lectora.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Prescripción literaria en la prensa cultural",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Los suplementos culturales actúan como prescriptores de contenidos y mediadores culturales (Bourdieu, 1984; Janssen y Verboord, 2015), filtrando el aluvión editorial y legitimando qué obras poseen valor estético reconocido."
+      },
+      {
+        "id": "2",
+        "label": "Canon social vs. Canon académico (Dueñas)",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Dueñas et al. (2014) distinguen el canon académico (construido por el sistema escolar) del canon social, dictado por el mercado, medios y redes de proximidad; las listas anuales de mejores libros son su máxima expresión."
+      },
+      {
+        "id": "3",
+        "label": "Insiders y outsiders en el periodismo cultural",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Carrasco-Molina y García-Borrego (2020) diferencian periodistas de redacción (insiders) y colaboradores procedentes del medio literario y las humanidades (outsiders), conviviendo bajo la tensión entre subjetividad crítica y exigencias del medio."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: variables objetivables del canon periodístico",
+        "color": "#264653",
+        "role": "Objetivo",
+        "descripcion": "Analizar la procedencia nacional, lengua original, sello/grupo editorial y edad de los autores en las listas de mejores libros de los cuatro grandes suplementos españoles entre 2010 y 2021 (O1 a O4)."
+      },
+      {
+        "id": "5",
+        "label": "Análisis de contenidos sobre 1.286 obras",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Estudio cuantitativo diacrónico (2010–2021) sobre 1.286 libros recomendados en Babelia (374), El Cultural (452), Cultura|s (305) y ABC Cultural (155), rescatados de hemerotecas digitales, MyNews y archivos físicos."
+      },
+      {
+        "id": "6",
+        "label": "Ficha ad hoc de variables no discrecionales",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Instrumento objetivo que codificó 57 países de autoría, 26 lenguas originales, 171 editoriales, 15 grupos empresariales y la edad exacta del autor al 31 de diciembre del año de publicación."
+      },
+      {
+        "id": "7",
+        "label": "Dominio de autores españoles (50.5%)",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "La producción nacional copa la mitad de las recomendaciones, con notable dispersión entre cabeceras: desde el 37.4% en Babelia hasta el 61.7% en El Cultural. Estados Unidos es segunda nacionalidad en los cuatro suplementos (10.6%-20.6%)."
+      },
+      {
+        "id": "8",
+        "label": "Giro internacionalista diacrónico",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Entre 2010 y 2021 la cuota española cayó 24.9 puntos (del 66.7% al 41.8%), con un brusco giro entre 2013 y 2016 que benefició a EE. UU. (que pasó del 5.6% al 19.6%) y a la literatura anglosajona en general."
+      },
+      {
+        "id": "9",
+        "label": "Español dominante y singularidad del catalán",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "El idioma español aglutina el 52.6% de las obras pero menguó del 74.1% al 48.4%, mientras el inglés creció al 28.8%. Cultura|s dedica un 22.0% al catalán, lengua ausente en ABC Cultural (0.0%) y marginal en el resto."
+      },
+      {
+        "id": "10",
+        "label": "Concentración en el duopolio Planeta y PRH (43.1%)",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "Planeta (24.4%) y Penguin Random House (15.6%) pasaron del 16.7% conjunto en 2010 al 43.1% en 2021. El 'Big-4' (Anagrama, Seix Barral, Tusquets, Alfaguara) copa el 32.7% del total de títulos destacados."
+      },
+      {
+        "id": "11",
+        "label": "Dispersión de sellos independientes (42.1%)",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "Las editoriales independientes superan a cada grupo por separado (42.1%), pero quedan subordinadas al conjunto de conglomerados (57.9%) y repartidas entre un centenar largo de sellos de catálogo reducido."
+      },
+      {
+        "id": "12",
+        "label": "Paradoja etaria: más póstumos (9.5%) que jóvenes (9.0%)",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "La edad media del autor es de 58.5 años (60.2 en ABC Cultural). Hay más autores fallecidos (9.5%) que de 40 años o menos (9.0%); los menores de 35 apenas alcanzan el 3.7%, con cero casos en ABC Cultural."
+      },
+      {
+        "id": "13",
+        "label": "Hermetismo canónico y barreras a la juventud",
+        "color": "#2a5a75",
+        "role": "Discusión",
+        "descripcion": "Los autores discuten si la edad responde a que la canonización exige madurez (Cerrillo, 2013) o a un cierre elitista del campo literario por factores extraliterarios que impide a los jóvenes encontrar referentes cercanos."
+      },
+      {
+        "id": "14",
+        "label": "Dependencia del capital editorial concentrado",
+        "color": "#88b04b",
+        "role": "Discusión",
+        "descripcion": "La creciente pinza de Planeta y PRH desmiente la neutralidad estética de los suplementos: la prescripción de los diarios replica la estructura oligopólica de distribución comercial de la industria del libro."
+      },
+      {
+        "id": "15",
+        "label": "Conclusión: prescripción tipológica bajo retórica estética",
+        "color": "#f4a261",
+        "role": "Conclusiones",
+        "descripcion": "La prescripción de los suplementos dirige al lector hacia obras con rasgos tipológicos concretos —autor maduro o fallecido, español o anglosajón, bajo los grandes grupos editoriales— pese a argüir únicamente criterios estético-literarios, lo que amenaza la diversidad del panorama cultural español."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones: lagunas archivísticas en años puntuales",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "No fue posible recuperar las listas de Cultura|s (2010 y 2011) ni de ABC Cultural (2010 y 2015), y el estudio se acotó a la prensa escrita en papel sin analizar prescriptores digitales emergentes como los booktubers."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "construye el"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se ejecuta mediante"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "plantea la necesidad de evaluar el"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se abordó mediante el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se instrumentó con la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "constata el"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "revela el"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "cuantifica el"
+      },
+      {
+        "from": "6",
+        "to": "10",
+        "label": "evidencia la"
+      },
+      {
+        "from": "6",
+        "to": "11",
+        "label": "registra la"
+      },
+      {
+        "from": "6",
+        "to": "12",
+        "label": "descubre la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se matiza por el"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "demuestra la"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "provoca la discusión sobre el"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "sustenta la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "refuerza la"
+      },
+      {
+        "from": "16",
+        "to": "5",
+        "label": "acota la cobertura del"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "acota el alcance de la"
+      },
+      {
+        "from": "2",
+        "to": "15",
+        "label": "enmarca la"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "subordina la cuota de la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "evidencia la"
+      }
+    ]
+  }
+}

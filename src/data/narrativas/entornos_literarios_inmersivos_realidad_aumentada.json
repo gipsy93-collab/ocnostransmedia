@@ -1,0 +1,433 @@
+{
+  "id": "entornos_literarios_inmersivos_realidad_aumentada",
+  "metadata": {
+    "title": "Educación literaria y promoción lectora apoyadas en entornos literarios inmersivos con realidad aumentada",
+    "authors": "María del Rosario Neira-Piñeiro y Esther del-Moral-Pérez",
+    "year": "2021",
+    "journal": "Ocnos 20(3)",
+    "doi": "10.18239/ocnos_2021.20.3.2440",
+    "gancho": "¿Puede una maqueta de cartón enriquecida con realidad aumentada revolucionar cómo los niños de infantil sienten y comprenden un cuento?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#5b9eaa",
+    "colorAlt": "#264653",
+    "bg": "from-ocean/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/eli-ra/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Rosario Neira-Piñeiro, investigadora en educación literaria y RA",
+      "gancho": "¿Puede una maqueta de cartón enriquecida con realidad aumentada revolucionar cómo los niños de infantil sienten y comprenden un cuento?",
+      "contexto": "La literatura infantil digital en aulas de primera infancia enfrenta prejuicios y falta de formación docente. El proyecto ITINER-AR introduce el concepto de Entorno Literario Inmersivo (ELI), donde objetos físicos (maquetas, lapbooks) cobran vida mediante Realidad Aumentada, fusionando lectura tradicional y tecnología emergente.",
+      "deepDives": [
+        {
+          "id": "eli-ap-1",
+          "triggerLabel": "Proyecto ITINER-AR (Universidad de Oviedo)",
+          "type": "context",
+          "content": "Proyecto de investigación financiado (PAPI-18-EMERG.22) enfocado en diseñar escenarios híbridos de aprendizaje lector combinando materialidades tangibles y capas aumentadas."
+        },
+        {
+          "id": "eli-ap-2",
+          "triggerLabel": "Del libro aumentado al ELI",
+          "type": "theory",
+          "content": "A diferencia del libro comercial aumentado donde el soporte es cerrado, en el ELI el docente crea el entorno espacial (maqueta tridimensional o lapbook) adaptado a las necesidades de su grupo."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La escasez de recursos de LIJ digital de calidad en español y la creencia errónea de que los dispositivos digitales aíslan o distraen a los lectores de infantil generan resistencia en el profesorado.",
+      "porQueImporta": "Capacitar a los futuros docentes en el diseño de ELI permite transformar la tecnología en una palanca de juego simbólico, expresión oral y goce estético comunitario sin desplazar el libro físico.",
+      "dataPoints": [
+        "El 96.85% de los futuros maestros manifestó alta satisfacción tras diseñar sus propios ELI.",
+        "El 64% de los proyectos seleccionó maquetas tridimensionales y el 24% lapbooks sensoriales con solapas."
+      ],
+      "glossary": [
+        {
+          "term": "ELI",
+          "definition": "Entorno Literario Inmersivo: escenario físico que recrea ficción infantil con información digital superpuesta por RA."
+        },
+        {
+          "term": "Lapbook",
+          "definition": "Cuaderno desplegable interactivo con bolsillos, pestañas y texturas manipulativas."
+        },
+        {
+          "term": "Marcador de RA",
+          "definition": "Elemento físico reconocido ópticamente por la cámara para activar animaciones o sonidos."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "eli-conf-1",
+          "triggerLabel": "Tensión interactividad vs. comprensión",
+          "type": "theory",
+          "content": "La investigación previa advertía que interactivos invasivos pueden fragmentar la atención infantil; las autoras responden diferenciando temporalmente la lectura del texto y la exploración del soporte."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Diseño colaborativo de 25 ELI en formación docente",
+      "narrativa": "Un total de 95 futuros maestros de Educación Infantil crearon colaborativamente 25 entornos literarios inmersivos durante 12 sesiones de taller, analizados mediante un instrumento etnográfico mixto y cuestionarios de satisfacción.",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "95 estudiantes de Grado de Maestro en Educación Infantil (3º y 4º curso, Universidad de Oviedo)."
+        },
+        {
+          "label": "Corpus creado",
+          "value": "25 Entornos Literarios Inmersivos (ELI) físicos enriquecidos con RA."
+        },
+        {
+          "label": "Herramientas RA",
+          "value": "Quiver, Chromville (coloreables 3D), HP Reveal, Wallame (geolocalización) y QR."
+        },
+        {
+          "label": "Evaluación",
+          "value": "Instrumento etnográfico ad hoc (tecnológico-interactivo y didáctico-literario) + escala Likert."
+        }
+      ],
+      "limitaciones": [
+        "Falta de contrastación directa in situ con grupos de niños de infantil para medir el impacto en la comprensión.",
+        "Dependencia de la dotación tecnológica de tablets y conectividad en los centros escolares."
+      ],
+      "reflexion": "¿Cómo equilibra un maestro el asombro que genera una animación 3D con la concentración requerida para escuchar un relato oral?",
+      "deepDives": [
+        {
+          "id": "eli-viaje-1",
+          "triggerLabel": "Dimensiones del instrumento analítico",
+          "type": "method",
+          "content": "Dimensión tecnológico-interactiva: soportes físicos, activadores RA y aplicaciones. Dimensión didáctico-literaria: tipología textual y categorías de actividades (oralidad, dramatización, juego y grafismo)."
+        }
+      ]
+    },
+    "revelacion": {
+      "deepDives": [
+        {
+          "id": "eli-rev-1",
+          "triggerLabel": "Distribución de activadores RA",
+          "type": "data",
+          "content": "Predominio de códigos QR (55%) por su facilidad y estabilidad, seguidos de láminas coloreables 3D (22%) y geolocalización en el espacio escolar (11%)."
+        }
+      ],
+      "titulo": "Resultados",
+      "narrativa": "",
+      "hallazgos": [
+        {
+          "label": "Hallazgo principal",
+          "value": "Los ELI logran integrar armónicamente lectura dialógica y tecnología: el 92% incorporó narración docente y el 68% conversación literaria, demostrando que la RA potencia la oralidad y el juego simbólico infantil sin subordinar el texto."
+        },
+        {
+          "label": "Evidencia",
+          "value": "Los futuros docentes seleccionaron cuentos populares y de autor (57%), complementados por canciones (41%) y adivinanzas ocultas con Wallame (52%), logrando que el 94.7% descubriera el potencial educativo de la tecnología inmersiva."
+        },
+        {
+          "label": "Cita clave",
+          "value": "Los ELI integran lo digital y lo no digital: los textos orales e impresos conviven con locuciones digitales, sin tener que renunciar a otras formas y actividades más tradicionales de mediación."
+        }
+      ],
+      "dataPoints": [
+        "Combinar la manipulación sensorial de maquetas con disparadores auditivos o visuales contextualizados.",
+        "Evitar la sobrecarga tecnológica delimitando claramente el momento del relato y el momento del juego interactivo.",
+        "Fomentar la cocreación de soportes físicos entre niños y docentes para afianzar el sentido de pertenencia lectora."
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión y marco teórico",
+      "narrativa": "La discusión confirma que los ELI constituyen estrategias innovadoras para la educación literaria que superan el modelo del libro aumentado cerrado, al integrar la lectura de un texto eje con un entorno físico enriquecido con RA. Se subrayan el equilibrio entre lo digital y lo no digital y el papel irremplazable del docente mediador.",
+      "detalles": [
+        {
+          "label": "Convergencias",
+          "value": "Confirma lo señalado por Arellano y Sbriziolo (2020) sobre el efecto inmersivo de la LIJ aumentada y retoma las recomendaciones de Colomer y Duran (2008) y Colomer (2010) sobre diversidad textual, actividades variadas y dimensión lúdica de la lectura; coincide con García-Rodríguez y Gómez-Díaz (2016) al alertar sobre la distracción de los interactivos."
+        },
+        {
+          "label": "Divergencias",
+          "value": "Se distingue de los libros aumentados comerciales porque su originalidad radica en combinar la lectura de un texto literario eje con el diseño abierto de un ELI por parte del docente, y no en un soporte digital cerrado."
+        },
+        {
+          "label": "Aportes",
+          "value": "Demuestra que la RA puede extender la lectura sin desplazarla, gracias a la separación temporal entre la escucha del relato y la exploración del soporte, y ofrece un modelo formativo replicable para futuros maestros, con un 96.85% de satisfacción."
+        },
+        {
+          "label": "Puntos ciegos",
+          "value": "Las propias autoras reconocen la falta de aplicación práctica con alumnado real de educación infantil, la dependencia de dispositivos y conectividad en los centros, y la escasez del corpus de LIJ aumentada en español."
+        },
+        {
+          "label": "Tabla",
+          "value": "Tabla 2 'Distribución porcentual de las actividades vinculadas a los ELI con y sin RA' (categorías: lectura literaria, expresión oral, dramatización y tareas creativas, lúdicas, y lectura y escritura): lectura/escucha guiada por el docente 92%, introducida por RA 68%, animación de elementos 68%, adivinanzas con Wallame 52%, asociación de palabras con Learning Apps 32%, textos no literarios vía RA 12%. Tabla 3 'Distribución porcentual de los sujetos en función de su percepción sobre las aportaciones del Proyecto ITINER-AR': 89.1% mejoró bastante o mucho su manejo de herramientas digitales, 88.4% aprendió a diseñar recursos con RA, 94.7% descubrió el potencial didáctico de los ELI, 95.5% satisfecho con sus propios ELI. (Tabla 1: descripción de los 25 ELI con su soporte y texto literario eje)."
+        }
+      ],
+      "reflexion": "¿Puede la tecnología aumentar la experiencia literaria sin sustituir la voz del maestro ni el silencio necesario para comprender un relato?",
+      "deepDives": [
+        {
+          "id": "eli-marco-1",
+          "triggerLabel": "El docente como mediador indispensable",
+          "type": "theory",
+          "content": "Siguiendo a Colomer y Prats, en las primeras edades la literatura es un acto de comunicación interpersonal guiado por la voz y afectividad del mediador, rol que la RA complementa pero jamás sustituye."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Pueden los entornos literarios inmersivos con realidad aumentada fortalecer la educación lectora infantil y la formación de futuros maestros?",
+      "conclusion": "Sí. Los ELI integran equilibradamente lo físico y lo digital, enriquecen la mediación lectora y logran un 96.85% de satisfacción docente, consolidándose como una metodología formativa altamente replicable.",
+      "formalRef": "Neira-Piñeiro, M. R., & del-Moral-Pérez, E. (2021). Educación literaria y promoción lectora apoyadas en entornos literarios inmersivos con realidad aumentada. Ocnos, 20(3). https://doi.org/10.18239/ocnos_2021.20.3.2440"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Inmersiva",
+        "descripcion": "Captura recursos de realidad aumentada y supera retos sobre maquetas, lapbooks y mediación.",
+        "instrucciones": "Guía la serpiente hacia marcadores de RA y responde preguntas para desbloquear niveles. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Entornos Literarios",
+        "descripcion": "Comprueba tu dominio sobre el proyecto ITINER-AR, herramientas de RA y resultados pedagógicos.",
+        "instrucciones": "Acierta preguntas consecutivas para obtener combos y alcanzar el rango de Maestro Inmersivo."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide del Aprendizaje Aumentado",
+        "descripcion": "Escala desde los soportes físicos tangibles hasta la integración curricular de la realidad aumentada.",
+        "instrucciones": "Supera cada piso respondiendo sobre la dimensión tecnológica y didáctica de los ELI."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Entornos literarios inmersivos con realidad aumentada (Neira-Piñeiro & Del-Moral-Pérez, 2021)",
+      "descripcion": "Diseño y validación de 25 ELI en formación de maestros: soportes físicos (maquetas, lapbooks), herramientas de RA (QR, Quiver, Wallame), mediación oral y satisfacción competencial docente.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Educación literaria en primera infancia",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Modelo centrado en el acceso al texto estético y la mediación interpersonal del maestro, donde la narración oral compartida y la conversación dialógica estructuran el desarrollo de la competencia literaria temprana."
+        },
+        {
+          "id": "2",
+          "label": "Realidad Aumentada y aprendizaje inmersivo",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Tecnología emergente que superpone contenidos virtuales interactivos (3D, audio, vídeo) sobre el entorno físico real, posibilitando experiencias pedagógicas multisensoriales altamente significativas y motivadoras."
+        },
+        {
+          "id": "3",
+          "label": "Concepto de Entorno Literario Inmersivo (ELI)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Constructo pedagógico acuñado en el proyecto ITINER-AR que designa escenarios físicos tridimensionales (maquetas, lapbooks) enriquecidos con marcadores y capas de información digital mediante realidad aumentada."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: analizar potencial didáctico de 25 ELI",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Examinar sistemáticamente las dimensiones tecnológico-interactivas y didáctico-literarias de 25 entornos literarios inmersivos diseñados colaborativamente por futuros docentes de Educación Infantil."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: evaluar satisfacción y competencias docentes",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Constatar el nivel de satisfacción subjetiva y la autopercepción de desarrollo de competencias digitales, didácticas y colaborativas en el alumnado del Grado de Maestro tras la experiencia formativa."
+        },
+        {
+          "id": "6",
+          "label": "Muestra: 95 estudiantes del Grado de Maestro",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Participación de 95 futuros maestros de Educación Infantil de la Universidad de Oviedo matriculados en asignaturas de Didáctica de la Literatura Infantil y Comunicación en el Desarrollo Infantil."
+        },
+        {
+          "id": "7",
+          "label": "Talleres formativos en herramientas de RA",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Intervención estructurada en 12 sesiones presenciales de diseño guiado con capacitación en aplicaciones como Quiver, Chromville, HP Reveal, Wallame, generadores de códigos QR y entornos de micro-juegos."
+        },
+        {
+          "id": "8",
+          "label": "Instrumento etnográfico mixto y cuestionario Likert",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Evaluación con rúbrica etnográfica ad hoc para las características del artefacto (soportes y recursos RA) combinada con encuesta online de satisfacción perceptiva con escala Likert de 5 puntos."
+        },
+        {
+          "id": "9",
+          "label": "Soportes físicos: predominio de maquetas (64%)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El 64% de los proyectos seleccionó maquetas tridimensionales que favorecen el juego simbólico e itinerarios narrativos, seguido por un 24% de lapbooks con solapas interactivas y un 12% de murales e instalaciones."
+        },
+        {
+          "id": "10",
+          "label": "Activadores de RA: supremacía del código QR (55%)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Los códigos QR constituyeron el recurso más frecuente (55%) por su fiabilidad técnica, complementados por láminas coloreables 3D (22%), activadores de imagen (11%) y geolocalización Wallame (11%)."
+        },
+        {
+          "id": "11",
+          "label": "Corpus textual: cuentos infantiles y folklore",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El cuento funcionó como eje narrativo en el 57% de los ELI, adaptando clásicos o creaciones según Gianni Rodari, enriquecidos secundariamente por canciones populares (41%) y adivinanzas interactivas (33%)."
+        },
+        {
+          "id": "12",
+          "label": "Actividades: centralidad de la narración docente (92%)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "La lectura o escucha del relato estuvo guiada directamente por la voz del docente en el 92% de los casos, complementada con animación lúdica de elementos virtuales (68%) y juegos de búsqueda de pistas (52%)."
+        },
+        {
+          "id": "13",
+          "label": "Satisfacción docente extraordinaria (96.85%)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El 96.85% de los futuros maestros valoró positivamente la experiencia, declarando el 94.7% haber descubierto el valor de la RA y el 89.1% haber mejorado decisivamente su competencia digital docente."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: superación de la distracción tecnológica",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "La diferenciación entre momentos de escucha del relato y fases de interacción con la maqueta resuelve el riesgo de dispersión atencional advertido clásicamente en la literatura sobre libros interactivos."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: ausencia de prueba de campo con niños",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "El estudio se limitó al diseño formativo universitario sin evaluar experimentalmente el impacto en el rendimiento comprensivo de menores en aulas reales de educación infantil, demandando estudios aplicados."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: modelo híbrido transferible",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se consolida el ELI como un modelo pedagógico transferible y eficaz que dignifica la literatura infantil en el ecosistema digital, capacitando a maestros innovadores sin prescindir de la calidez dialógica."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "inspira los principios de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "aporta la tecnología para"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "define el constructo de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se implementa con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "evalúa la percepción de"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "participa activamente en"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "se analiza mediante"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "evidencia la tipología de"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "cuantifica el uso de"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "identifica el"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "demuestra el protagonismo de"
+        },
+        {
+          "from": "8",
+          "to": "13",
+          "label": "refleja un nivel de"
+        },
+        {
+          "from": "9",
+          "to": "14",
+          "label": "demuestra la eficacia en"
+        },
+        {
+          "from": "10",
+          "to": "14",
+          "label": "aporta dinamismo a"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "previene distracciones en"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "avala la viabilidad de"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "fundamenta el"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "condiciona el alcance de"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "plantea líneas futuras para el"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "culmina en la consolidación del"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué recurso de Realidad Aumentada fue el más integrado en los 25 ELI analizados y por qué?",
+          "options": [
+            "Gafas de realidad virtual 3D por su inmersión total.",
+            "Códigos QR (55%) debido a su facilidad técnica, estabilidad y accesibilidad en dispositivos comunes.",
+            "Sensores hápticos con tecnología Bluetooth.",
+            "Proyecciones holográficas de gran formato."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Imagina que debes diseñar un Entorno Literario Inmersivo (ELI) para un cuento clásico en Educación Infantil. ¿Cómo estructurarías los momentos de narración docente y los momentos de exploración con RA para evitar la distracción de los alumnos?"
+        }
+      ]
+    }
+  }
+}

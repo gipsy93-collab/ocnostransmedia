@@ -1,0 +1,377 @@
+{
+  "id": "lecturas_escolares_platero_yo_historia_educacion",
+  "metadata": {
+    "id": "lecturas_escolares_platero_yo_historia_educacion",
+    "title": "Lecturas escolares de Platero y yo en la historia de la educación española (1930-1970)",
+    "authors": [
+      "J. Carlos González-Faraco",
+      "Heliodoro-Manuel Pérez-Moreno",
+      "Antonio Ramírez-Almanza"
+    ],
+    "year": 2017,
+    "volume": "16",
+    "issue": "2",
+    "pages": "75-84",
+    "doi": "10.18239/ocnos_2017.16.2.1335",
+    "keywords": [
+      "Platero y yo",
+      "Juan Ramón Jiménez",
+      "manuales escolares",
+      "historia de la educación",
+      "transposición didáctica"
+    ],
+    "abstract": "Estudio histórico-educativo y hermenéutico que investiga la presencia y manipulación pedagógica de Platero y yo de Juan Ramón Jiménez en los libros de texto y lecturas escolares de España entre 1930 y 1970. Demuestra cómo los filtros ideológicos y la transposición escolar despojaron a la obra de su dimensión crítica, social y trágica para reducirla a un idilio infantil moralizante."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo una obra poética profunda, llena de crítica a la miseria social, violencia rural, locura y dolor, acabó convertida en el arquetipo edulcorado del cuento para niños de la escuela española? Este estudio histórico rastrea la metamorfosis de Platero y yo en los manuales escolares entre la Segunda República y el Franquismo.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis histórico-literario:",
+        "opciones": [
+          {
+            "id": "ideologica",
+            "texto": "Ruta ideológica: censura, moral católica y adoctrinamiento en el franquismo"
+          },
+          {
+            "id": "pedagogica",
+            "texto": "Ruta pedagógica: transposición didáctica y simplificación del texto lírico"
+          },
+          {
+            "id": "literaria",
+            "texto": "Ruta literaria: la intención original de Juan Ramón frente a la canonización escolar"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Juan Ramón Jiménez advirtió expresamente en el prólogo de 1914 que nunca escribió Platero y yo para niños. Pese a ello, las editoriales educativas y las autoridades curriculares mutilaron los capítulos más oscuros y reivindicativos, acomodando el texto a las exigencias moralistas de cada régimen político.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué capítulos de Platero y yo fueron sistemáticamente censurados u omitidos en los libros escolares franquistas?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Aquellos que retrataban la crueldad animal, la muerte de niños desamparados, la pobreza extrema y la denuncia del oscurantismo caciquil y clerical.",
+            "correcta": true,
+            "explicacion": "Exacto: para convertir a Platero en lectura escolar inofensiva se eliminó toda referencia a la injusticia social y la degradación humana."
+          },
+          {
+            "id": "c2",
+            "texto": "Los capítulos donde Platero trota feliz por los campos de flores y mastica hierba.",
+            "correcta": false,
+            "explicacion": "Al contrario: los fragmentos pastoriles y bucólicos fueron los únicos reproducidos hasta la saciedad para edulcorar la lectura."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los investigadores examinaron un corpus exhaustivo de libros de lectura escolar, antologías de lengua española y guías pedagógicas editadas entre 1930 y 1970 en España. Contrastaron las selecciones textuales, los comentarios didácticos y las ilustraciones con la obra original completa del poeta moguereño.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Construcción del corpus",
+            "detalle": "Recopilación de más de 40 manuales de lectura escolar de Primaria editados entre 1930 y 1970."
+          },
+          {
+            "fase": "Periodización histórica",
+            "detalle": "Contraste entre el enfoque laico/modernizador republicano y la nacionalcatólica franquista."
+          },
+          {
+            "fase": "Análisis de omisiones",
+            "detalle": "Mapeo de capítulos censurados, modificados léxicamente o reescritos con intención moral."
+          },
+          {
+            "fase": "Interpretación hermenéutica",
+            "detalle": "Evaluación del impacto formativo en generaciones de escolares españoles."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El estudio desvela que la canonización escolar de Platero y yo fue el resultado de una domesticación ideológica: se fabricó una caricatura infantil y tierna, purgando el dolor y la protesta social. Esta operación pedagógica desfiguró la recepción de Juan Ramón Jiménez en el imaginario colectivo de varias generaciones.",
+      "datos_clave": [
+        "Examen histórico de cuatro décadas de manuales escolares de lectura en España (1930-1970).",
+        "Identificación de los mecanismos de transposición didáctica reductiva: censura y moralización.",
+        "Contraste entre la obra lírica original trágico-existencial y el cliché del burrito de juguete.",
+        "Aporte fundamental a la historia de la lectura y del currículo literario en España."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se encuadra en la historia del currículo escolar de Chervel (1988) y Viñao Frago (2002), la teoría de la transposición didáctica de Chevallard (1991), y los estudios literarios juanramonianos de Cerrillo y Sánchez Romeralo.",
+      "referencias_clave": [
+        "Chervel (1988)",
+        "Chevallard (1991)",
+        "Viñao Frago (2002)",
+        "González-Faraco et al. (2017)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "La escuela tiene un inmenso poder: puede acercar la gran literatura o momificarla. Devolver a Platero y yo su aspereza, su piedad doliente y su crítica a la injusticia es el mejor acto de justicia pedagógica hacia el genio poético de Juan Ramón Jiménez.",
+      "hallazgo_central": "La presencia escolar de Platero y yo entre 1930 y 1970 operó una domesticación pedagógica que suprimió la dimensión social y trágica de la obra para convertirla en un idilio infantil inofensivo."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos de la historia de la educación con su manifestación en el estudio:",
+          "pares": [
+            {
+              "concepto": "Transposición didáctica",
+              "definicion": "Transformación y adaptación del saber sabio literario para su consumo pedagógico en las aulas."
+            },
+            {
+              "concepto": "Manualística escolar",
+              "definicion": "Conjunto de libros de texto que materializan y difunden el canon ideológico oficial de una época."
+            },
+            {
+              "concepto": "Domesticación literaria",
+              "definicion": "Eliminación selectiva de elementos subversivos o trágicos para promover una lectura complaciente."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Lecturas Escolares de Platero y Yo (1930-1970)",
+      "descripcion": "Estudio histórico de la domesticación pedagógica e ideológica de la obra de Juan Ramón Jiménez en manuales españoles.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Lecturas Escolares de Platero y Yo (1930-1970)",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo del artículo: reconstruir y analizar críticamente la recepción, selección y manipulación didáctica de Platero y yo en los manuales de lectura escolar de España entre 1930 y 1970."
+        },
+        {
+          "id": "2",
+          "label": "Evolución Sociopolítica Española",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Contexto histórico marcado por la Segunda República, la Guerra Civil y la dictadura franquista, épocas con ideologías educativas contrapuestas que condicionaron el canon lector en las escuelas."
+        },
+        {
+          "id": "3",
+          "label": "Teoría de la Transposición Didáctica",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico de Yves Chevallard y André Chervel sobre los procesos de adaptación, mutilación y recreación que experimenta el texto literario sabio al transformarse en contenido escolar enseñable."
+        },
+        {
+          "id": "4",
+          "label": "La Poética Juanramoniana Original",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Advertencia explícita de Juan Ramón Jiménez negando haber escrito un libro para niños, concibiendo Platero y yo como una elegía lírica teñida de aspereza social, dolor, muerte y crítica moral profunda."
+        },
+        {
+          "id": "5",
+          "label": "Metodología Histórico-Educativa y Hermenéutica",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico cualitativo fundamentado en la historia cultural de la educación, articulando el análisis documental de libros de texto con la hermenéutica crítica del discurso pedagógico."
+        },
+        {
+          "id": "6",
+          "label": "Corpus de Manuales y Libros de Lectura",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Selección de un corpus representativo de más de cuarenta libros de lectura y antologías escolares de Educación Primaria utilizados en centros españoles a lo largo de las cuatro décadas estudiadas."
+        },
+        {
+          "id": "7",
+          "label": "Análisis de Selección y Censura Textual",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Cotejo minucioso entre el original y los fragmentos antologados, mapeando la frecuencia de inclusión de capítulos, las modificaciones sintácticas, la censura léxica y las omisiones sistemáticas."
+        },
+        {
+          "id": "8",
+          "label": "Examen del Aparato Didáctico Paratextual",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Indagación en los paratextos: ilustraciones edulcoradas, cuestionarios morales, glosarios y notas de los autores de los manuales que guiaban y encarrilaban la interpretación de los escolares."
+        },
+        {
+          "id": "9",
+          "label": "Domesticación del Conflicto Social y Trágico",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación de la eliminación sistemática de capítulos que retrataban la explotación laboral, la agonía, los perros rabiosos, la demencia o la miseria rural de los niños pobres de Moguer."
+        },
+        {
+          "id": "10",
+          "label": "Fabricación del Idilio Infantil Bucólico",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Predominio casi exclusivo de estampas campestres idílicas y ternura hacia los animales, configurando en el imaginario escolar la figura de Platero como un burro blanco inofensivo de juguete."
+        },
+        {
+          "id": "11",
+          "label": "Instrumentalización Moral y Religiosa",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Uso de los fragmentos durante el franquismo para inculcar virtudes de sumisión, piedad cristiana y conformismo social, distorsionando radicalmente el pensamiento heterodoxo del poeta."
+        },
+        {
+          "id": "12",
+          "label": "Desfiguración del Canon Juanramoniano",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica sobre cómo la banalización pedagógica generó un rechazo o condescendencia hacia la obra en lectores adultos que la consideraron erróneamente una simple lectura infantil."
+        },
+        {
+          "id": "13",
+          "label": "El Poder Reductor de la Escuela Tradicional",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate pedagógico acerca de la tendencia histórica de las instituciones escolares a limar las aristas incómodas de las grandes obras literarias para domesticarlas al orden moral dominante."
+        },
+        {
+          "id": "14",
+          "label": "Reivindicación de la Complejidad Estética",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental que insta a recuperar la lectura íntegra y desacomplejada de Platero y yo en las aulas contemporáneas, confrontando al alumnado con su grandeza poética y ética."
+        },
+        {
+          "id": "15",
+          "label": "Aportes a la Memoria Escolar Colectiva",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Valoración del estudio como rescate indispensable de la memoria histórica de las prácticas lectoras escolares que moldearon la sensibilidad estética de generaciones enteras en España."
+        },
+        {
+          "id": "16",
+          "label": "Límites en el Registro de la Práctica Real",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Limitación propia del análisis de manuales impresos, que permite conocer la prescripción curricular pero no registrar con exactitud la mediación oral concreta realizada por los maestros en el aula."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se encuadra en"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se apoya en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "confronta con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "analiza"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "aplica"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "examina"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "demuestra"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "evidencia"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "constata"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "provoca"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "alimenta"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "ejemplifica"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "exige"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "plantea superar"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "culmina en"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "reconoce"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "restringe alcance en"
+        },
+        {
+          "from": "4",
+          "to": "9",
+          "label": "revela contraste con"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "potencia visualmente a"
+        },
+        {
+          "from": "11",
+          "to": "15",
+          "label": "ilustra"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Platero no era un muñeco de peluche: era el compañero mudo de un poeta que miraba de frente la pobreza, la crueldad y la muerte en una España herida. Reducir la literatura a lecciones de buena conducta es despojarla de su alma; devolverle su verdad es el primer deber de quien enseña a leer.",
+      "preguntas": [
+        "¿Se sigue practicando hoy una censura blanda en los centros educativos eliminando fragmentos dolorosos o controvertidos de los clásicos?",
+        "¿Cómo puede la lectura de Platero y yo en secundaria despertar el espíritu crítico hacia la injusticia social y la compasión hacia los vulnerables?"
+      ]
+    }
+  }
+}

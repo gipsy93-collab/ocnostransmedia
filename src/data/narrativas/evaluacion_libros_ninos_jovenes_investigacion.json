@@ -1,0 +1,137 @@
+{
+  "id": "evaluacion_libros_ninos_jovenes_investigacion",
+  "metadata": {
+    "title": "La evaluación de los libros para niños y jóvenes. Una investigación sobre la experiencia de FUNDALECTURA",
+    "authors": "Gemma Lluch y Janeth Chaparro",
+    "year": "2007",
+    "journal": "Ocnos. Revista de estudios sobre lectura, V(3) 2007, pp. 103-119",
+    "doi": "https://doi.org/10.18239/ocnos_2007.03.07",
+    "gancho": "El artículo describe el funcionamiento de los comités que evalúan y recomiendan libros literarios e informativos en Fundalectura (Bogotá, Colombia) y explica la metodología con que se recogen y clasifican las valoraciones de esos comités. Se presentan las dos primeras fases de un",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#264653",
+    "bg": "from-emerald-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-3.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-3.png",
+      "name": "Gemma Lluch y Janeth Chaparro",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Gemma Lluch y Janeth Chaparro, autor/a en Revista Ocnos",
+      "gancho": "El artículo describe el funcionamiento de los comités que evalúan y recomiendan libros literarios e informativos en Fundalectura (Bogotá, Colombia) y explica la metodología con que se recogen y clasif",
+      "contexto": "La Fundación para el Fomento de la Lectura (Fundalectura) es una organización\nprivada y sin ánimo de lucro creada en 1990 con el propósito de hacer de Colombia\nun país de lectores. Es miembro del Consejo Nacional del Libro y la Lectura, del\nConsejo Nacional de Cultura y de la International Board on Books for Young People\n(IBBY). \n\nUna de las actividades sistemáticas desde su fundación han sido los comités que\nevalúan y recomiendan libros para niñ",
+      "deepDives": [
+        {
+          "id": "evaluacion_libros_ninos_jovenes_investigacion-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "Fundalectura recomienda libros para niños y jóvenes mediante comités, pero la\ninstitución carecía de una sistematización publicada de sus propios criterios de\nvaloración. El estudio busca formular criterios propios de evaluación y sugerir\nrecomendaciones a quienes promueven la circulación del libro,"
+        },
+        {
+          "id": "evaluacion_libros_ninos_jovenes_investigacion-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "La Fundación para el Fomento de la Lectura (Fundalectura) es una organización\nprivada y sin ánimo de lucro creada en 1990 con el propósito de hacer de Colombia\nun país de lectores. Es miembro del Consejo Nacional del Libro y la Lectura, del\nConsejo Nacional de Cultura y de la International Board on "
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Fundalectura recomienda libros para niños y jóvenes mediante comités, pero la\ninstitución carecía de una sistematización publicada de sus propios criterios de\nvaloración. El estudio busca formular criterios propios de evaluación y sugerir\nrecomendaciones a quienes promueven la circulación del libro, partiendo de la\nexperiencia real de esos comités.",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "Análisis estructurado de las fuentes documentales."
+      ],
+      "glossary": [
+        {
+          "term": "Comités de valoración",
+          "definition": "grupos voluntarios que evalúan y recomiendan libros para niños y jóvenes."
+        },
+        {
+          "term": "Cedoc",
+          "definition": "Centro de Documentación de Fundalectura, a cargo de organizar los comités."
+        },
+        {
+          "term": "Descriptores",
+          "definition": "términos o temas normalizados que etiquetan el contenido de cada libro."
+        },
+        {
+          "term": "Niveles de lectura",
+          "definition": "clasificación por edad/grado que orienta a qué público se dirige una obra."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Se trata de una investigación cualitativa sobre la práctica institucional de los\ncomités. El protocolo de recogida de datos combinó **tres fuentes de información**:\ni) notas, grabación y trascripción de 6 sesiones de los comités de libros\nliterarios y 1 de informativos; ii) 80 fichas de libros evaluados entre 2005 y\n2006 con comentarios de rango Excelente, Muy Bueno, Bueno y No recomendado; y\niii)",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Análisis empírico o teórico de corpus según fuentes primarias"
+        }
+      ],
+      "limitaciones": [
+        "Los autores **no declaran límites** ni sesgos del estudio de forma explícita. Sí\nseñalan que se trata de un proceso \"en curso\": al presentar las reseñas indican que\n\"este es proceso en curso\" y no inc"
+      ],
+      "reflexion": "Si replicaras este diseño en tu contexto, ¿qué fuente de"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "Volumen de la base de datos",
+          "value": ": el sistema registra un total de 10.683 títulos    evaluados, de los cuales 6.196 (58%) fueron recomendados e incluidos en las    publicaciones de Fundalectura."
+        },
+        {
+          "label": "Regla de lectura mínima",
+          "value": ": para ser evaluado, un libro debe reunir un mínimo de    dos lecturas por parte de dos evaluadores que coincidan en la decisión; en caso    de discrepancia se pide una tercera lectura."
+        },
+        {
+          "label": "Criterios de calidad por rangos",
+          "value": ": los comités establecen un rango o prioridad:    \"Excelentes\", \"Muy buenos\" y \"Buenos\", según contenido, tratamiento de imágenes,    diseño y edición."
+        },
+        {
+          "label": "Muestra analizada",
+          "value": ": se trabajó sobre 80 fichas (20 excelentes, 20 muy buenos,    20 buenos y 20 no recomendados) evaluadas por un total de 71 personas."
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El artículo no construye un marco teórico académico extenso; su andamiaje\nconceptual proviene de instrumentos y repertorios citados en el propio texto. La\nclasificación por género literario se apoya en la tabla del **Repertorio\nIberoamericano de Libros Infantiles y Juveniles**, coordinado por el Cerlalc y\ndesarrollado entre 1996 y 1997 por la Fundaçao Nacional do Livro Infantil e Juvenil\n(Brasil),",
+      "detalles": [
+        {
+          "label": "Tradición Teórica",
+          "value": "Teorías de la lectura, didáctica de la lengua y estudios literarios."
+        }
+      ],
+      "reflexion": "¿Qué aporta clasificar por géneros y edades en lugar de evaluar"
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo funcionan los comités de Fundalectura y qué criterios utilizan para valorar",
+      "conclusion": "Los comités son un dispositivo institucional sostenido desde 1990 que combina\nlectura previa, discusión oral conjunta y fichas escritas para decidir qué libros\nse recomiendan. La evaluación no depende del precio y se rige por un protocolo\nconocido por todos sus miembros: dos lecturas mínimas con decisión coincidente, una\ntercera lectura ante discrepancia, y una clasificación por calidad (Excelentes, Muy\nbuenos, Buenos), género, descriptores y niv",
+      "formalRef": "Lluch, G. y Chaparro, J. (2007). La evaluación de los libros para niños y jóvenes.\nUna investigación sobre la experiencia de FUNDALECTURA. *Ocnos. Revista de estudios\nsobre lectura*, (3), 103-119. https://doi.org/10.18239/ocnos_2007.03.07"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es el foco central de la investigación sobre La evaluación de los libros para niños y...?",
+          "options": [
+            "Aporte conceptual y empírico al campo lector",
+            "Revisión histórica secundaria"
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  }
+}

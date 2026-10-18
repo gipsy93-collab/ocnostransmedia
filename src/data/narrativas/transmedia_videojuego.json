@@ -6,15 +6,15 @@
     "year": "2026",
     "journal": "Ocnos 25(2)",
     "doi": "10.18239/ocnos_2026.25.2.625",
-    "gancho": "¿Qué ocurre cuando Blancanieves es la alcaldesa de un barrio marginal de Nueva York y el Lobo Feroz es un detective que intenta no morder a nadie?",
+    "gancho": "¿Qué ocurre cuando Blancanieves es la vicealcaldesa de una comunidad secreta de Nueva York y el Lobo Feroz es un detective que intenta no morder a nadie?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#9b82c3",
     "colorAlt": "#2a5a75",
     "bg": "from-indigo-500/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-15.png",
+    "image": "/assets/portadas/transmedia_videojuego.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-15.png",
+      "image": "/assets/portadas/transmedia_videojuego.jpg",
       "name": "Dr. Álvaro Clavijo-Corchero",
       "role": "Especialista en Literatura Infantil y Narrativa Transmedia, Universidad de La Rioja (España)"
     }
@@ -22,7 +22,7 @@
   "blocks": {
     "apertura": {
       "personaje": "Dr. Álvaro Clavijo-Corchero, investigador en literatura comparada y narrativas ludo-ficcionales",
-      "gancho": "¿Siguen vivos los cuentos de Perrault y los Hermanos Grimm en la mente de la Generación Z, o solo sobreviven cuando los encarnamos con un mando en las manos?",
+      "gancho": "¿Siguen vivos los cuentos de los Hermanos Grimm y de la tradición oral en la mente de la Generación Z, o solo sobreviven cuando los encarnamos con un mando en las manos?",
       "contexto": "Los diagnósticos sobre hábitos lectores en los grados universitarios de Educación son desalentadores: los futuros maestros leen casi exclusivamente por obligación académica y muestran una preocupante desconexión hacia los clásicos literarios. Sin embargo, en sus momentos de ocio devoran narrativas complejas en videojuegos, series y cómics. ¿Cómo tender un puente entre la tradición oral y los nuevos ecosistemas audiovisuales? Este estudio analiza el potencial didáctico del videojuego de culto 'The Wolf Among Us' (Telltale Games), una adaptación transmedia del cómic 'Fables' de Bill Willingham que traslada los arquetipos de los cuentos de hadas a un drama detectivesco neo-noir. Mediante la teoría transtextual de Gérard Genette y la semiótica de Paz-Gago, se demuestra cómo el videojuego puede revolucionar la educación literaria universitaria.",
       "deepDives": [
         {
@@ -41,7 +41,7 @@
           "id": "trans-apertura-3",
           "triggerLabel": "El universo de 'Fabletown' (Villa Fábula)",
           "type": "data",
-          "content": "En 'The Wolf Among Us', los personajes de cuentos de hadas han sido expulsados de sus reinos mágicos por un enemigo tiránico y viven clandestinamente en el Manhattan contemporáneo, obligados a usar costosos hechizos de camuflaje ('glamour') para no ser descubiertos por los humanos."
+          "content": "En 'The Wolf Among Us', los personajes de cuentos de hadas han sido expulsados de sus reinos mágicos por un enemigo tiránico y viven clandestinamente en el Manhattan de los años 1980, obligados a usar costosos hechizos de camuflaje ('glamour') para no ser descubiertos por los humanos."
         }
       ]
     },
@@ -49,12 +49,12 @@
       "problema": "La formación de maestros suele abordar la literatura infantil clásica como un archivo inerte de moralejas anticuadas, provocando apatía en el estudiantado universitario. Se desconoce cómo utilizar el videojuego narrativo como dispositivo hermenéutico para fomentar la relectura crítica, el análisis comparativo intertextual y la reflexión sobre dilemas éticos contemporáneos.",
       "porQueImporta": "Los futuros maestros no pueden enseñar literatura a niños del siglo XXI con metodologías del siglo XIX. Si no experimentan en su propia formación universitaria la vitalidad transmedia de los relatos, reproducirán aulas donde el libro se percibe como una reliquia desconectada de la cultura visual contemporánea.",
       "dataPoints": [
-        "Estudios en el Espacio Europeo de Educación Superior confirman que más del 65% de los universitarios de Educación no lee literatura por placer de forma habitual.",
+        "Diversos estudios del Espacio Europeo de Educación Superior coinciden en que el alumnado universitario no mantiene una costumbre lectora estable y lee más por exigencia académica que por motivación personal.",
         "Análisis semiótico-textual en profundidad de los 5 episodios del videojuego 'The Wolf Among Us' (Telltale Games).",
-        "Cruce analítico con más de 10 hipotextos clásicos: Caperucita Roja, Blancanieves, Los Tres Cerditos, La Bella y la Bestia, La Sirenita y La Leyenda de Sleepy Hollow.",
-        "Metodología mixta de análisis transtextual (Genette, 1989) y semiótico-comunicativo (Paz-Gago, 2004).",
-        "El 100% de las decisiones morales del juego colocan al jugador en la tesitura de reformular los arquetipos tradicionales de bien y mal.",
-        "Guía de orientaciones didácticas interdisciplinares para la Educación Superior vertebrada en tres fases: hipotextual, lúdica y metacrítica."
+        "Cruce analítico con numerosos hipotextos clásicos: Caperucita Roja, Piel de Asno, Blancanieves, Los Tres Cerditos, La Bella y la Bestia, Barba Azul, El rey sapo o El viento en los sauces.",
+        "Metodología cualitativa y descriptiva de análisis transtextual (Genette, 1989) y semiótico-textual (Paz-Gago, 2004).",
+        "Las decisiones éticas del jugador reformulan de continuo los arquetipos tradicionales de bien y mal.",
+        "Guía de orientaciones didácticas interdisciplinares para la Educación Superior vertebrada en cuatro fases: lectura del cuento, coloquio, experiencia de juego y puesta en común."
       ],
       "glossary": [
         {
@@ -83,10 +83,22 @@
       "titulo": "Ruta metodológica: Hermenéutica transtextual y semiótica del videojuego",
       "narrativa": "Clavijo-Corchero articuló un marco metodológico cualitativo y descriptivo combinando el modelo transtextual de Gérard Genette (1989) y la semiótica textual de Paz-Gago (2004). Analizó cómo el videojuego 'The Wolf Among Us' transforma sus hipotextos folclóricos mediante operaciones de transposición pragmática, desmitificación y focalización interna, diseñando una propuesta de transferencia pedagógica para aulas universitarias de Grado en Educación Infantil y Primaria.",
       "detalles": [
-        { "label": "Objeto de Estudio", "value": "Videojuego narrativo 'The Wolf Among Us' (5 episodios) y cómic matriz 'Fables' de Vertigo/DC Comics." },
-        { "label": "Hipotextos Analizados", "value": "Cuentos de Charles Perrault, Hermanos Grimm, Hans Christian Andersen y Washington Irving." },
-        { "label": "Marco Teórico", "value": "Palimpsestos de Genette (hipertextualidad e inversión de valores) y semiótica de la interactividad." },
-        { "label": "Fases Didácticas", "value": "1) Arqueología del hipotexto; 2) Inmersión lúdico-interactiva; 3) Debate semiótico y creación transmedia." }
+        {
+          "label": "Objeto de Estudio",
+          "value": "Videojuego narrativo 'The Wolf Among Us' (5 episodios) y cómic matriz 'Fables' de Vertigo/DC Comics."
+        },
+        {
+          "label": "Hipotextos Analizados",
+          "value": "Cuentos de los hermanos Grimm, Jeanne-Marie Leprince de Beaumont, Lewis Carroll y Kenneth Grahame."
+        },
+        {
+          "label": "Marco Teórico",
+          "value": "Palimpsestos de Genette (hipertextualidad e inversión de valores) y semiótica de la interactividad."
+        },
+        {
+          "label": "Fases Didácticas",
+          "value": "1) Lectura individual del cuento; 2) Coloquio sobre el hipotexto; 3) Experiencia de juego (cooperativa, individual o visionado); 4) Puesta en común analítica."
+        }
       ],
       "limitaciones": [
         "Estudio descriptivo-propositivo que requiere evaluación experimental de su implementación en cohortes reales de estudiantes universitarios.",
@@ -107,8 +119,8 @@
           "value": "Blancanieves deja de ser la doncella pasiva que espera en el ataúd de cristal. Es la directora adjunta de gobierno, una líder implacable que lidia con la corrupción política, la falta de presupuesto y la desigualdad social de los refugiados mágicos."
         },
         {
-          "label": "3. La Bella y la Bestia en la Precariedad Económica",
-          "value": "Lejos del palacio encantado, Bella y Bestia viven en un departamento ruinoso, incapaces de pagar el alquiler ni el hechizo mágico para ocultar los cuernos de Bestia, reflejando el drama de la exclusión social contemporánea."
+          "label": "3. La Bella y la Bestia y el Consumismo Contemporáneo",
+          "value": "Lejos del palacio encantado, Bella y Bestia viven en un apartamento lujosamente decorado que en realidad se sostiene con el fuerte endeudamiento de Bestia, reflejando el consumismo, la desconfianza y la conveniencia material de las relaciones contemporáneas."
         },
         {
           "label": "4. La Agencia Moral del Jugador",
@@ -116,7 +128,7 @@
         }
       ],
       "dataPoints": [
-        "El videojuego recupera motivos olvidados de las versiones orales primitivas (como el desmembramiento y la crudeza medieval) que las versiones burguesas del siglo XIX y Disney habían edulcorado.",
+        "El videojuego transpone a los personajes de los cuentos a un Nueva York de los años 1980, obligando a una relectura crítica y adulta de sus arquetipos tradicionales.",
         "La interacción lúdica incrementa la empatía narrativa: el jugador no solo lee sobre el dolor del personaje, siente el peso de haber causado su destino con un clic.",
         "La transmedialidad demuestra que los relatos tradicionales son 'matrices vivas' capaces de mutar de formato sin perder su esencia simbólica."
       ],
@@ -147,7 +159,7 @@
     },
     "nucleo": {
       "pregunta": "¿Cómo puede la relectura transmedia de los cuentos tradicionales a través de videojuegos transformar la educación literaria universitaria?",
-      "conclusion": "El análisis semiótico y transtextual de 'The Wolf Among Us' demuestra que el videojuego narrativo constituye un recurso didáctico de extraordinario valor para la Educación Superior. Al transportar los arquetipos de Perrault y los Grimm a un universo neo-noir contemporáneo, el videojuego activa la agencia moral del jugador, desmitifica visiones edulcoradas del canon infantil y estimula la comparación hipertextual crítica en la Generación Z. Integrar estas narrativas lúdicas en la formación de futuros docentes revitaliza el interés por los clásicos y dota al profesorado de herramientas innovadoras para conectar la tradición literaria con la cultura audiovisual de las nuevas generaciones.",
+      "conclusion": "El análisis semiótico y transtextual de 'The Wolf Among Us' demuestra que el videojuego narrativo constituye un recurso didáctico de extraordinario valor para la Educación Superior. Al transportar los arquetipos de los hermanos Grimm a un universo neo-noir contemporáneo, el videojuego activa la agencia moral del jugador, desmitifica visiones edulcoradas del canon infantil y estimula la comparación hipertextual crítica en la Generación Z. Integrar estas narrativas lúdicas en la formación de futuros docentes revitaliza el interés por los clásicos y dota al profesorado de herramientas innovadoras para conectar la tradición literaria con la cultura audiovisual de las nuevas generaciones.",
       "formalRef": "Clavijo-Corchero, A. (2026). La relectura de la cuentística tradicional: un enfoque transmedia para la educación literaria en Educación Superior. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.625"
     },
     "juegos": [
@@ -184,7 +196,7 @@
             "Se convierte en un dragón mecánico del espacio.",
             "Pasa de ser un monstruo depredador unívoco a un sheriff detective atormentado que lucha contra su propia naturaleza salvaje para proteger a la comunidad.",
             "Es un personaje cómico que solo vende disfraces en internet.",
-            "Permanece idéntico a la versión de Charles Perrault sin ningún cambio psicológico."
+            "Permanece idéntico a la versión de los hermanos Grimm sin ningún cambio psicológico."
           ],
           "correct": 1
         },
@@ -220,7 +232,7 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Genette y Paz-Gago nos dan las gafas teóricas: la hipertextualidad nos permite rastrear cómo cada escena del juego reescribe a Perrault y los Grimm.",
+      "text": "Genette y Paz-Gago nos dan las gafas teóricas: la hipertextualidad nos permite rastrear cómo cada escena del juego reescribe a los Grimm y a la tradición cuentística.",
       "position": "bottom-right"
     },
     "revelacion": {
@@ -245,31 +257,252 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Cuentística Tradicional y Narrativa Transmedia",
-    "descripcion": "Transtextualidad, resignificación arquetípica de cuentos clásicos, estética neo-noir y agencia moral interactiva en The Wolf Among Us.",
+    "titulo": "Mapa conceptual: Relectura transmedia de cuentos clásicos y educación literaria (Ocnos 25(2), 2026)",
+    "descripcion": "Recorrido desde el bajo hábito lector universitario y la cultura transmedia de la Generación Z hasta el análisis de The wolf among us con Genette y Paz-Gago, su implementación didáctica con 97 estudiantes y la relectura crítica de los cuentos clásicos.",
     "nodos": [
-      { "id": "1", "label": "Educación Literaria Transmedia", "color": "#9b82c3" },
-      { "id": "2", "label": "Cuentística Tradicional (Hipotextos)", "color": "#2a5a75" },
-      { "id": "3", "label": "The Wolf Among Us (Hipertexto)", "color": "#e76f51" },
-      { "id": "4", "label": "Transtextualidad de Genette", "color": "#5b9eaa" },
-      { "id": "5", "label": "Bigby Wolf (El Lobo Sheriff)", "color": "#88b04b" },
-      { "id": "6", "label": "Blancanieves Burócrata", "color": "#f4d068" },
-      { "id": "7", "label": "Agencia Moral Interactiva", "color": "#e88b8c" },
-      { "id": "8", "label": "Atmósfera Neo-Noir y Marginación", "color": "#2a9d8f" },
-      { "id": "9", "label": "Formación Inicial Docente", "color": "#264653" },
-      { "id": "10", "label": "Generación Z y Cultura Multimodal", "color": "#f4a261" }
+      {
+        "id": "1",
+        "label": "Bajo hábito lector universitario",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Diversos estudios del Espacio Europeo de Educación Superior (García-Delgado, 2011; Yubero y Larrañaga, 2015; Escalante-Varona et al., 2023) coinciden en que el alumnado no mantiene una costumbre lectora estable. La lectura atiende a exigencias del profesorado más que a motivación personal, con dificultades de comprensión y menor disfrute de los textos literarios (Andrade-González y Utria-Machado, 2021)."
+      },
+      {
+        "id": "2",
+        "label": "Lectura esquemática de la Generación Z",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La cohorte nacida entre 1995 y 2010 (Cerezo, 2016) lee de forma esquemática, apoyada en hipervínculos e integrando texto, imagen y sonido (González-Batlle, 2013). Reconoce el valor instrumental de la lectura más que el recreativo, lo que exige medios digitales accesibles e interactivos (Viveros-Lorenzo, 2023)."
+      },
+      {
+        "id": "3",
+        "label": "Narrativa transmedia (Jenkins y Scolari)",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "El concepto se consolida en 2003 con Jenkins: historias desplegadas en diferentes medios y sistemas semióticos que potencian el hipotexto (Jenkins, 2006; Scolari, 2013). Pratten (2015) distingue la narrativa multiplataforma (adaptación) de la transmedia (expansión con participación del público)."
+      },
+      {
+        "id": "4",
+        "label": "Reciclaje de la cuentística tradicional",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Los cuentos poseen «la capacidad de adaptarse a los tiempos, de reciclarse de manera permanente para permanecer vivos» (Regueiro-Salgado, 2022). Son patrimonio literario valioso (Varela-Tembra, 2007) cuya relectura permite identificar arquetipos y valores socioculturales del imaginario colectivo (García-Carcedo, 2018)."
+      },
+      {
+        "id": "5",
+        "label": "Videojuego como TAC y TEP",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "El juego digital trabaja negociación, toma de decisiones y reflexión (Gros, 2008), y puede concebirse como Tecnología del Aprendizaje y del Conocimiento (Capell-Masip et al., 2017) e incluso del Empoderamiento y la Participación (Cabañes y Jaimen, 2021). En España, un 86 % de la Generación Z declaró jugar en 2023 (AEVI, 2023)."
+      },
+      {
+        "id": "6",
+        "label": "Potencial didáctico del videojuego transmedia",
+        "color": "#9b82c3",
+        "role": "Objetivo",
+        "descripcion": "El estudio analiza el potencial didáctico de The wolf among us como recurso transmedia aplicable a la educación literaria en Educación Superior. Busca demostrar las oportunidades lectoras de los videojuegos inspirados en la tradición cuentística y sus conexiones con la lectura de los cuentos originales."
+      },
+      {
+        "id": "7",
+        "label": "Enfoque transtextual de Genette (1989)",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Metodología cualitativa y descriptiva basada en el análisis de contenido que aplica la perspectiva de Genette. Examina cinco relaciones entre textos: intertextualidad, paratextualidad, metatextualidad, hipertextualidad y architextualidad, sobre escenas seleccionadas tras una experiencia completa de juego."
+      },
+      {
+        "id": "8",
+        "label": "Método semiótico-textual de Paz-Gago",
+        "color": "#e76f51",
+        "role": "Método",
+        "descripcion": "Método comparativo creado para literatura y cine, válido para el videojuego por su afinidad narrativa audiovisual (Delgado-Ponce y Granados-García, 2012). Contrasta convergencias, divergencias e interferencias entre cada cuento y su escena, cotejados con versiones de Lynch et al. (2014) y los Grimm (2018)."
+      },
+      {
+        "id": "9",
+        "label": "Experiencia con 97 estudiantes de Primaria",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "La propuesta se implementó en modalidad presencial con 97 estudiantes del Grado en Educación Primaria (60,82 % mujeres y 39,18 % hombres, de 20 a 26 años) de la asignatura Didáctica de las Lenguas, curso 2023-2024. La evaluación usó observación sistemática con listas de cotejo."
+      },
+      {
+        "id": "10",
+        "label": "Secuencia didáctica en cuatro fases",
+        "color": "#c73e1d",
+        "role": "Método",
+        "descripcion": "Fases: lectura individual de un cuento (máximo diez páginas) en versiones no infantilizadas; coloquio sobre el hipotexto; experiencia de juego cooperativo, individual o visualización colectiva; y puesta en común analítica. El objetivo es la comparación crítica entre texto clásico y expansión videolúdica."
+      },
+      {
+        "id": "11",
+        "label": "The Wolf Among Us y Fabletown",
+        "color": "#2a5a75",
+        "role": "Resultados",
+        "descripcion": "Aventura gráfica PEGI 16+ basada en el cómic Fables de Bill Willingham, con cinco episodios ambientados en el Nueva York de los años 1980. Los personajes exiliados por The Adversary (Geppetto) se ocultan bajo el encantamiento Glamour, y Bigby Wolf ejerce de alguacil mientras investiga una red de corrupción y violencia."
+      },
+      {
+        "id": "12",
+        "label": "Inversión de roles Lobo-Leñador",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "En el episodio 1 (Faith) el Leñador agrede a la princesa Piel de Asno y Bigby la defiende, invirtiendo los roles de Caperucita Roja (Grimm, 2018). El hogar se resignifica como espacio de riesgo y la violencia de género interfiere con el esquema moral del cuento original."
+      },
+      {
+        "id": "13",
+        "label": "El rey sapo desplazado a la marginalidad",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "En el episodio 3, Atrapamoscas, príncipe convertido en sapo, realiza labores de limpieza tras perder a su esposa e hijos en la invasión. El motivo de El rey sapo se desplaza hacia la precariedad social, los desahucios y el trauma, sin metamorfosis ni restitución final."
+      },
+      {
+        "id": "14",
+        "label": "Bella y Bestia endeudados",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "En el episodio 4 (Past due) el apartamento lujoso de la pareja se sostiene con endeudamiento y mentiras. El modelo sentimental de Leprince de Beaumont se contrapone a la desconfianza, los celos y una relación de conveniencia material marcada por el consumismo."
+      },
+      {
+        "id": "15",
+        "label": "Mejora de la interpretación literaria (n=97)",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Se observó una mejora global en la interpretación literaria y un incremento de la motivación lectora al aproximar los relatos desde una perspectiva adulta. El alumnado identificó arquetipos, elementos transtextuales y las convergencias, divergencias e interferencias, aunque requirió mediación docente para sostener el contraste."
+      },
+      {
+        "id": "16",
+        "label": "Ausencia de experiencias didácticas previas",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "No se han identificado investigaciones que integren en el aula el análisis transtextual y semiótico-textual de cuentos clásicos junto a una expansión transmedia audiovisual. Los trabajos previos (Ballester-Roca y Méndez-Cabrera, 2021; Zúñiga-Lacruz, 2024) son analíticos o teóricos sin hallazgos de experiencias didácticas reales."
+      },
+      {
+        "id": "17",
+        "label": "Competencia y motivación literarias fortalecidas",
+        "color": "#9b82c3",
+        "role": "Conclusiones",
+        "descripcion": "Se concluye que el enfoque transmedia fortaleció la interpretación de símbolos, los patrones narrativos y la identidad lectora, como pronostica Zúñiga-Lacruz (2024). El estudio profundiza en el aprovechamiento didáctico de los soportes transmedia para acercar al estudiantado a la cuentística tradicional."
+      },
+      {
+        "id": "18",
+        "label": "Muestra única y resultados no generalizables",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "La muestra queda circunscrita a un único contexto formativo, por lo que los resultados no son generalizables. Se registraron barreras económicas y técnicas de acceso al juego, dificultades para reconocer hipotextos, distinguir adaptación de expansión y gestionar la atención durante el visionado."
+      }
     ],
     "aristas": [
-      { "from": "4", "to": "2", "label": "rastrea el origen de los" },
-      { "from": "4", "to": "3", "label": "analiza la transformación en el" },
-      { "from": "3", "to": "5", "label": "reconfigura moralmente a" },
-      { "from": "3", "to": "6", "label": "desmitifica el rol sumiso de" },
-      { "from": "3", "to": "7", "label": "desafía al jugador mediante la" },
-      { "from": "3", "to": "8", "label": "sitúa el conflicto en una" },
-      { "from": "1", "to": "9", "label": "transforma el currículo de la" },
-      { "from": "9", "to": "10", "label": "conecta eficazmente con la" },
-      { "from": "7", "to": "1", "label": "potencia la inmersión de la" },
-      { "from": "10", "to": "3", "label": "consume de forma natural a" }
+      {
+        "from": "1",
+        "to": "6",
+        "label": "impulsa el"
+      },
+      {
+        "from": "2",
+        "to": "6",
+        "label": "contextualiza el"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "favorece el uso del"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "teoriza el reciclaje de la"
+      },
+      {
+        "from": "3",
+        "to": "11",
+        "label": "expande el universo de"
+      },
+      {
+        "from": "4",
+        "to": "11",
+        "label": "se reescribe en"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "respalda el"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se examina mediante el"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "se complementa con el"
+      },
+      {
+        "from": "7",
+        "to": "11",
+        "label": "clasifica las transformaciones del"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "contrasta las escenas del"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "aplicó la"
+      },
+      {
+        "from": "10",
+        "to": "15",
+        "label": "potenció la"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "escenifica la"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "traslada a"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "exhibe a"
+      },
+      {
+        "from": "12",
+        "to": "4",
+        "label": "confirma el reciclaje de la"
+      },
+      {
+        "from": "14",
+        "to": "4",
+        "label": "renueva la"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "dificulta el contraste del"
+      },
+      {
+        "from": "15",
+        "to": "17",
+        "label": "evidencia la"
+      },
+      {
+        "from": "17",
+        "to": "16",
+        "label": "contribuye a cubrir la"
+      },
+      {
+        "from": "18",
+        "to": "15",
+        "label": "matizan la"
+      },
+      {
+        "from": "18",
+        "to": "17",
+        "label": "acotan la solidez de la"
+      }
     ]
   }
 }

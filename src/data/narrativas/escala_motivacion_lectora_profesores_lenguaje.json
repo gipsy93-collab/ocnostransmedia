@@ -1,0 +1,429 @@
+{
+  "id": "escala_motivacion_lectora_profesores_lenguaje",
+  "metadata": {
+    "title": "Construcción y validación de una Escala de Motivación Lectora para Profesores de Lenguaje y Comunicación (EMLPLC)",
+    "authors": "Mijal Jodeck-Osses, Daniela Tapia-Salinas y Aníbal Puente",
+    "year": "2021",
+    "journal": "Ocnos 20(3)",
+    "doi": "10.18239/ocnos_2021.20.3.2525",
+    "gancho": "¿Cómo puede un maestro contagiar la pasión por leer si él mismo ha perdido las ganas de abrir un libro?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#264653",
+    "bg": "from-amber-800/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/escala-docente/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-jodeck/200/200",
+      "name": "Dra. Mijal Jodeck-Osses",
+      "role": "Investigadora en Psicología Educativa y Lectura, Universidad Andrés Bello (Chile)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Mijal Jodeck-Osses, especialista en psicometría del aprendizaje y motivación docente",
+      "gancho": "Nadie puede dar lo que no tiene: es el 'Efecto Pedro'. Si un profesor de Lenguaje no disfruta de la lectura en su vida personal, ¿cómo transmitirá ese amor a sus estudiantes?",
+      "contexto": "El profesorado de Lenguaje y Comunicación desempeña un rol insustituible como mediador lector en la escuela. Sin embargo, la investigación previa se limitaba a retratos cualitativos de prácticas declaradas, careciendo de instrumentos psicométricos objetivos para medir el constructo. Apoyándose en el sólido modelo de Expectativa-Valor de Eccles y Wigfield, este estudio diseña, valida y calibra la escala EMLPLC de 30 ítems para el profesorado chileno.",
+      "deepDives": [
+        {
+          "id": "jod-apertura-1",
+          "triggerLabel": "El Efecto Pedro en educación lectora",
+          "type": "theory",
+          "content": "Formulado por Applegate y Applegate (2004), alude al pasaje bíblico donde Pedro dice 'no tengo oro ni plata, pero lo que tengo te doy'; un maestro que carece de hábito lector voluntario no puede transmitir el goce estético por los libros."
+        },
+        {
+          "id": "jod-apertura-2",
+          "triggerLabel": "El modelo Expectativa-Valor de Eccles y Wigfield",
+          "type": "theory",
+          "content": "Eccles y Wigfield (2002) postulan que la motivación hacia una tarea depende de la expectativa de éxito y del valor asignado, subdividido en cuatro componentes: importancia intrínseca, interés, utilidad práctica y costo emocional/temporal."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "En la formación inicial docente en América Latina ha primado el análisis metalingüístico y gramatical sobre la formación del maestro como lector sensible. Muchos profesores leen únicamente lo que su empleo exige y arrastran historias familiares desfavorables hacia los libros, sin herramientas para autoevaluar su propia motivación.",
+      "porQueImporta": "Disponer de una escala psicométricamente calibrada permite a las escuelas y universidades diagnosticar las dimensiones motivacionales descendidas del profesorado y diseñar intervenciones formativas antes de que el desapego se transmita al aula.",
+      "dataPoints": [
+        "Constructo auditado: motivación lectora docente en sus 5 dimensiones teóricas (Expectativa, Importancia, Interés, Utilidad, Costo).",
+        "Banco inicial: 84 reactivos formulados a partir de la literatura internacional especializada.",
+        "Juicio de expertos: 8 doctores especialistas en psicología y lectura evaluaron pertinencia y claridad.",
+        "Criterio de Lawshe modificado por Tristán-López (2008): umbral de aceptación CVR' ≥ 0.5823.",
+        "Cribado riguroso: selección definitiva de 30 ítems equilibrados (6 por dimensión), descartando 54 enunciados redundantes.",
+        "Fiabilidad excelente: Alfa de Cronbach global de 0.866 en la prueba piloto con 30 docentes chilenos en ejercicio."
+      ],
+      "glossary": [
+        {
+          "term": "EMLPLC",
+          "definition": "Escala de Motivación Lectora para Profesores de Lenguaje y Comunicación; instrumento Likert de 30 ítems."
+        },
+        {
+          "term": "CVR' (Razón de Validez de Contenido)",
+          "definition": "Indicador estadístico cuantitativo del grado de acuerdo entre jueces expertos sobre la esencialidad de un reactivo."
+        },
+        {
+          "term": "CVI (Índice de Validez de Contenido)",
+          "definition": "Promedio de las razones de validez de contenido de los ítems aceptados que certifica la validez global de la escala."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "jod-conflicto-1",
+          "triggerLabel": "La discrepancia tipográfica del CVI",
+          "type": "data",
+          "content": "En la sección de resultados del artículo original se reporta erróneamente un CVI de '8.85', corregido a 0.85 en la discusión, muy por encima del umbral mínimo de 0.58 establecido por Tristán-López."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Validación psicométrica en dos fases rigurosas",
+      "narrativa": "Los investigadores aplicaron un procedimiento metodológico secuencial estandarizado:",
+      "detalles": [
+        {
+          "label": "1. Operacionalización del modelo teórico",
+          "value": "Construcción de 84 indicadores redactados en escala Likert de 1 a 5, cubriendo las 5 dimensiones de Expectativa y Valor."
+        },
+        {
+          "label": "2. Panel de juicio de expertos doctores",
+          "value": "Evaluación independiente de 8 doctores calificando pertinencia y claridad; cálculo de CVR' en Excel 2016 y selección de 30 ítems."
+        },
+        {
+          "label": "3. Aplicación piloto y análisis de consistencia",
+          "value": "Prueba en línea a 30 profesores de Castellano de Valparaíso (70% mujeres, 30% hombres); cálculo de alfas de Cronbach en SPSS 25."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Calibración psicométrica y matriz de autodiagnóstico",
+      "narrativa": "El dictamen técnico demostró la solidez del instrumento diseñado:",
+      "hallazgos": [
+        {
+          "label": "Validez de contenido aceptable: Los 30 reactivos seleccionados quedaron en la categoría 'aceptable' (CVR' entre 0.5 y 1.0) y el Índice Global de Validez de Contenido (CVI) fue de 0.85, por encima del mínimo.",
+          "value": ""
+        },
+        {
+          "label": "Consistencia interna destacada: Alfa de Cronbach de 0.858 en la dimensión Expectativa y 0.829 en Valor, totalizando 0.866 para el instrumento global.",
+          "value": ""
+        },
+        {
+          "label": "Matriz reflexiva para el docente: La escala permite calcular medias por dimensión para que el profesor identifique si su freno es el 'Costo' o la falta de 'Interés'.",
+          "value": ""
+        },
+        {
+          "label": "Estrategias pedagógicas derivadas: Los autores asocian el diagnóstico a pautas de aula: lectura compartida, libertad de elección y diálogo literario.",
+          "value": ""
+        }
+      ],
+      "reflexion": "No basta con exigir al maestro que sea un héroe del fomento lector: debemos darle herramientas para sanar su propia relación con la palabra.",
+      "deepDives": [
+        {
+          "id": "jod-revelacion-1",
+          "triggerLabel": "La dimensión Costo como alarma invisible",
+          "type": "theory",
+          "content": "Los ítems de la dimensión Costo revelan el agotamiento docente: calificar el cansancio mental y la falta de tiempo libre ayuda a entender por qué muchos maestros dejan de leer."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: De la medición cuantitativa a la transformación docente",
+      "narrativa": "Jodeck-Osses y colaboradores debaten el impacto institucional de la escala EMLPLC:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Teoría del modelado docente (Cremin, Applegate): Los estudiantes imitan las actitudes lectoras auténticas de sus maestros, no sus discursos teóricos."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Psicometría contemporánea: Cumplimiento riguroso de los estándares internacionales de evaluación de contenido (Lawshe, Tristán-López)."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Formación continua situada: Utilidad de la escala para evaluar el impacto de diplomados y talleres de animación lectora en universidades."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Evaluación punitiva vs. Autodiagnóstico formativo: Advertencia taxativa de que la escala no debe usarse para calificar laboralmente al maestro, sino para apoyarlo."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Investigación cualitativa exclusiva vs. Triangulación psicométrica: Superación del divorcio entre el relato etnográfico y la medición estadística objetiva."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "La muestra piloto es de tamaño reducido (N=30) y no probabilística por conveniencia circunscrita a la región de Valparaíso."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Los propios autores proyectan aplicar el instrumento a una muestra mayor que permita ampliar y generalizar los resultados obtenidos."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las carreras de Pedagogía en Lenguaje Aplicar la escala al ingreso y egreso para monitorear si la universidad fortalece o debilita la motivación lectora personal de los futuros docentes."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para los directivos de centros escolares Brindar tiempos remunerados y espacios físicos cómodos en la jornada escolar para que los maestros lean y preparen tertulias literarias."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la investigación psicométrica Replicar la validación factorial de la EMLPLC en otros países de habla hispana como España, México y Colombia."
+        },
+        {
+          "label": "Tabla",
+          "value": "Dimensión Teórica | N.º Ítems | Alfa de Cronbach | Calificación Cualitativa | Foco de Evaluación\nExpectativa de Éxito | 6 ítems | α = 0.858 | Bueno (>0.8) | Autopercepción de competencia y autoeficacia lectora\nImportancia Intrínseca | 6 ítems | Incluido en Valor (α = 0.829) | Bueno (>0.8) | Centralidad de la lectura en la propia identidad\nInterés y Disfrute | 6 ítems | Incluido en Valor (α = 0.829) | Bueno (>0.8) | Placer estético y goce voluntario del acto lector\nUtilidad Percibida | 6 ítems | Incluido en Valor (α = 0.829) | Bueno (>0.8) | Valoración instrumental para la docencia y la vida\nCosto Asociado | 6 ítems | Incluido en Valor (α = 0.829) | Bueno (>0.8) | Esfuerzo, tiempo y fatiga emocional que exige leer\nEscala Total EMLPLC | 30 ítems | α = 0.866 | Bueno (Varianza 0.205) | Índice global de motivación lectora docente"
+        }
+      ],
+      "reflexion": "Un maestro que lee por placer es una biblioteca viviente que ningún algoritmo podrá reemplazar jamás.",
+      "deepDives": [
+        {
+          "id": "jod-marco-1",
+          "triggerLabel": "El papel de las lecturas de ocio",
+          "type": "data",
+          "content": "El estudio subraya que los docentes que leen por placer en su vida privada pueden actuar como modelo y mediar en la consolidación de la lectura como una práctica valorada intrínsecamente por sus estudiantes."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo construir y validar psicométricamente una escala cuantitativa para medir la motivación lectora de profesores de Lenguaje a partir del modelo Expectativa-Valor?",
+      "conclusion": "El instrumento superó con rigor la validez de contenido mediante juicio de 8 expertos con un CVI global de 0.85. La consistencia interna de la escala fue sobresaliente, alcanzando un Alfa de Cronbach global de 0.866 en la prueba piloto. Las cinco dimensiones del modelo Expectativa-Valor (expectativa, importancia, interés, utilidad y costo) permiten un autodiagnóstico docente situado. Se seleccionaron 30 reactivos equilibrados a partir de un banco inicial de 84 indicadores depurados estadísticamente. Utilizar la escala EMLPLC en programas de formación docente continua como herramienta de reflexión autobiográfica. Ampliar la muestra de validación psicométrica a nivel nacional mediante análisis factorial confirmatorio. Reducir las sobrecargas administrativas escolares que elevan la dimensión de 'Costo' y ahogan el tiempo de lectura personal del maestro. Fomentar comunidades docentes de lectura voluntaria en los centros educativos donde los profesores compartan recomendaciones. Para encender el fuego de la lectura en los niños, primero debemos asegurarnos de que la llama no se haya apagado en el corazón de sus maestros.",
+      "formalRef": "Mijal Jodeck-Osses, Daniela Tapia-Salinas y Aníbal Puente. (2021). Construcción y validación de una Escala de Motivación Lectora para Profesores de Lenguaje y Comunicación (EMLPLC). Ocnos 20(3). https://doi.org/10.18239/ocnos_2021.20.3.2525"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué modelo teórico motivacional de Eccles y Wigfield fundamenta la estructura dimensional de la escala EMLPLC?",
+          "options": [
+            "Teoría de la Autodeterminación",
+            "Modelo Expectativa-Valor",
+            "Teoría del Condicionamiento Operante",
+            "Modelo de Metas de Logro"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué coeficiente de fiabilidad de consistencia interna (Alfa de Cronbach) obtuvo la escala total en la aplicación piloto?",
+          "options": [
+            "0.501 (Pobre)",
+            "0.866 (Bueno / Confiable)",
+            "0.320 (Inaceptable)",
+            "0.700 (Cuestionable)"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "El profesor como mediador lector",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "El profesorado de Lenguaje y Comunicación es situado entre los principales responsables del aprendizaje lector, con el rol de mediador lector: los profesores considerados buenos lectores tienden a ser mejores mediadores del aprendizaje lector de sus estudiantes (Munita, 2017; Powell-Brown, 2003)."
+      },
+      {
+        "id": "2",
+        "label": "El 'Efecto Pedro' (Applegate & Applegate)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "El docente de Lenguaje y Comunicación actúa como mediador y modelo fundamental: su propia motivación intrínseca, hábitos personales y entusiasmo lector inciden directamente en las actitudes lectoras de sus alumnos."
+      },
+      {
+        "id": "3",
+        "label": "Modelo Expectativa-Valor (Eccles & Wigfield)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Modelo de motivación de logro de Eccles y Wigfield (2002): la motivación surge de la confluencia entre la expectativa de éxito y el valor atribuido a la tarea, desglosado en Importancia, Interés, Utilidad y Costo."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Diseñar y validar la escala EMLPLC",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Objetivo principal: diseñar, construir y validar psicométricamente la Escala de Motivación Lectora para Profesores de Lenguaje y Comunicación (EMLPLC) atendiendo a criterios científicos de validez y fiabilidad."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Calibrar validez de contenido y fiabilidad",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Objetivo específico: examinar la validez de contenido mediante juicio de expertos internacionales y evaluar la estructura dimensional interna de la escala junto con su consistencia psicométrica interna."
+      },
+      {
+        "id": "6",
+        "label": "Diseño de desarrollo psicométrico en dos fases",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Diseño instrumental en dos fases: elaboración y validación de contenido por juicio de expertos (método de Lawshe, 1975, modificado por Tristán-López, 2008) y aplicación piloto para estimar la consistencia interna."
+      },
+      {
+        "id": "7",
+        "label": "Banco inicial de 84 reactivos teóricos",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Banco inicial de 84 indicadores (17 Expectativa, 10 Importancia, 17 Interés, 24 Utilidad y 16 Costo) redactados en escala Likert de 1 a 5 según el modelo Expectativa-Valor."
+      },
+      {
+        "id": "8",
+        "label": "Juicio de 8 doctores expertos (CVR de Lawshe)",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Ocho doctores con experiencia en lectura y/o motivación evaluaron pertinencia y claridad de cada enunciado (1 a 5); con Lawshe (1975) modificado por Tristán-López (2008) se calculó el CVR' y se conservaron los 30 ítems aceptables."
+      },
+      {
+        "id": "9",
+        "label": "Aplicación piloto con 30 docentes chilenos",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Aplicación piloto online a 30 docentes de Castellano en ejercicio de la región de Valparaíso (21 mujeres, 70%, y 9 hombres, 30%), tras consentimiento informado."
+      },
+      {
+        "id": "10",
+        "label": "Validez de contenido unánime (CVI = 0.85)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Excelente validez de contenido global con CVI superior a 0.85 en la totalidad de ítems conservados, evidenciando acuerdo sustancial y rigurosa pertinencia teórica dictaminada por el comité de expertos."
+      },
+      {
+        "id": "11",
+        "label": "Consistencia interna sobresaliente (Alfa = 0.866)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Elevada consistencia interna demostrada con un coeficiente Alpha de Cronbach global de 0.866, confirmando la estabilidad psicométrica y confiabilidad empírica del instrumento para investigación educativa."
+      },
+      {
+        "id": "12",
+        "label": "Matriz reflexiva de autodiagnóstico docente",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Relevancia de distinguir entre motivación personal por la lectura y motivación hacia la mediación lectora: ambas dimensiones interactúan pero responden a constructos psicológicos diferenciados en la práctica."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Diagnóstico para la mejora formativa",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "La EMLPLC se consolida como una herramienta diagnóstica pionera para evaluar perfiles docentes, planificar intervenciones formativas y diseñar políticas de acompañamiento pedagógico en lectura escolar."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Visibilización de la dimensión Costo",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Implicaciones formativas inmediatas: la formación inicial y continua docente debe incorporar explícitamente el desarrollo de la motivación lectora y no limitarse a la instrucción técnica de estrategias didácticas."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Muestra piloto reducida (N=30)",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Limitación por el tamaño reducido de la muestra piloto (30 docentes de la región de Valparaíso), lo que exige aplicar el instrumento a una muestra mayor para ampliar y generalizar los resultados."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Una escala válida contra el desapego",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "Se concluye que la escala EMLPLC cuenta con propiedades psicométricas robustas de validez y fiabilidad, posibilitando una evaluación sistemática de la motivación lectora docente como factor clave del éxito escolar."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se ve amenazado por el"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se conceptualiza mediante el"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "justifica diseñar la"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "aporta la matriz para la"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "requiere evaluar la"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se ejecuta mediante"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "genera inicialmente el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se somete al"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "se administra en la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "certifica la"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "obtiene una"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "concreta la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "avala el uso de"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "sustenta la aplicación de"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "permite la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "concluye en"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "se delimita por"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "reivindica la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "proyecta la réplica de"
+      }
+    ]
+  }
+}

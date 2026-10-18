@@ -1,0 +1,376 @@
+{
+  "id": "autor_marca_inestabilidades_fama_rowling",
+  "metadata": {
+    "title": "El autor como marca o las inestabilidades de la fama: el caso Rowling",
+    "authors": "José Antonio Cordón-García y María Muñoz-Rico",
+    "year": "2019",
+    "journal": "Ocnos 18(3)",
+    "doi": "10.18239/ocnos_2019.18.3.2053",
+    "gancho": "¿Puede un autor superventas abandonar su nicho infantil y juvenil mediante el anonimato o su éxito depende exclusivamente de su marca personal?",
+    "duration": "12-15 min",
+    "badge": "Sociología Editorial y Estudios de Autoría",
+    "disciplina": "Sociología de la Lectura y Biblioteconomía",
+    "dimensiones": [
+      "La Marca de Autor en el Mercado",
+      "El Fenómeno Harry Potter",
+      "El Experimento Galbraith y Seudonimia",
+      "Visibilidad Editorial y Bibliometría"
+    ],
+    "tags": [
+      "rowling",
+      "marca_de_autor",
+      "mercado_editorial",
+      "sociologia_de_la_lectura",
+      "harry_potter",
+      "estudios_bibliometricos"
+    ],
+    "pistas": [
+      "Estudio de caso documental y bibliométrico sobre la evolución y migración de la marca de autor de J. K. Rowling.",
+      "Análisis triangular de 270 ediciones en España, informes de compra de la FGEE (2000-2018) y producción académica en WOS y Scopus.",
+      "El autor se consolida como el segundo factor de compra de libros más influyente (49,4%), duplicando su relevancia en dos décadas.",
+      "El fracaso de ventas bajo el seudónimo Robert Galbraith hasta la revelación pública demuestra la primacía de la marca sobre la obra."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "La teoría literaria de la segunda mitad del siglo XX proclamó enfáticamente la 'muerte del autor', pero el mercado editorial contemporáneo ha transformado el nombre del escritor en su principal activo comercial y marca fetiche.",
+      "desafio": "Analizar cómo opera la imagen de marca de un autor superventas y evaluar qué sucede cuando intenta trascender su nicho de origen mediante el anonimato, tomando como laboratorio el caso de J. K. Rowling.",
+      "relevancia": "Ofrece claves críticas sobre la economía de la atención, la prescripción editorial y las mediaciones comerciales que condicionan los hábitos de lectura y consumo cultural en la sociedad moderna."
+    },
+    "conflicto": {
+      "pregunta": "¿Depende la recepción de una obra de sus cualidades estéticas intrínsecas o del capital simbólico acumulado por la marca de su autor?",
+      "posiciones": [
+        "Concepción formalista autónoma: el texto literario vale por sus propios méritos y cualquier lector competente reconocerá la calidad al margen de la firma.",
+        "Teoría del campo y marca editorial: el nombre del autor funciona como un sello de garantía comercial e identitaria que predetermina la visibilidad y el éxito masivo."
+      ],
+      "tension": "La paradoja de una sociedad espectacularizada donde el misterio y el anonimato no destruyen la autoría sino que se instrumentalizan como potentes estrategias de mercadotecnia.",
+      "deepDives": [
+        {
+          "id": "row-conf-1",
+          "triggerLabel": "El experimento Robert Galbraith",
+          "type": "context",
+          "content": "Cuando Rowling publicó 'El canto del cuco' bajo el seudónimo Galbraith, las librerías comenzaron a devolver ejemplares por falta de ventas; bastó un tuit revelando su identidad para catapultar la novela al número uno mundial."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Triangulación documental y bibliométrica de la trayectoria editorial de Rowling",
+      "narrativa": "Los investigadores combinaron el rastreo de 270 ediciones registradas en el ISBN español y 282 en la Biblioteca Nacional con el análisis longitudinal de los informes de hábitos de compra (2000-2018) y el mapeo de miles de citas en bases científicas internacionales.",
+      "detalles": [
+        {
+          "label": "Fuentes editoriales",
+          "value": "Bases de datos del ISBN y catálogo de la BNE (270-282 ediciones distintivas en España y Latinoamérica)."
+        },
+        {
+          "label": "Informes de mercado",
+          "value": "Encuestas de 'Hábitos de lectura y compra de libros' de la FGEE y el Ministerio de Cultura entre 2000 y 2018."
+        },
+        {
+          "label": "Bases bibliométricas",
+          "value": "Mapeo exhaustivo en Web of Science (572 registros, 1.700 citas), Scopus (3.500 citas), ProQuest y Google Scholar."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "La fuerza de una marca de autor consagrada genera un efecto de arrastre arrollador sobre cualquier nueva publicación, pero resulta prácticamente imposible salir del nicho infantil-juvenil original sin su amparo explícito.",
+      "datosClave": [
+        {
+          "label": "El factor autor en auge",
+          "value": "El nombre del autor representa el 49.4% de la decisión de compra en España (segundo factor), frente a solo el 23.3% en el año 2000."
+        },
+        {
+          "label": "Poder del ecosistema digital",
+          "value": "La plataforma Pottermore permitió a la autora eludir intermediarios e imponer sus condiciones a gigantes como Amazon y Apple."
+        },
+        {
+          "label": "Asimetría académica radical",
+          "value": "De las 172.000 menciones académicas a Rowling en Google Scholar, el 99% remite a Harry Potter, quedando la novela adulta casi invisible."
+        }
+      ],
+      "implicacion": "Enseñar lectura crítica requiere educar a los estudiantes para que reconozcan los mecanismos de mercadotecnia editorial y no confundan la notoriedad de marca con excelencia literaria."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "Michel Foucault y Roland Barthes (1968, 1969)",
+          "concepto": "Función autor: el nombre propio no como persona real sino como principio de clasificación, propiedad y delimitación discursiva."
+        },
+        {
+          "autor": "Pierre Bourdieu (1995)",
+          "concepto": "El campo literario: pugna entre el polo de producción restringida (capital simbólico) y el polo de gran producción comercial."
+        },
+        {
+          "autor": "José Antonio Cordón-García (2018)",
+          "concepto": "Desintermediación y autor-marca: cómo la digitalización permite a los autores consagrados liderar sus propios canales de venta."
+        }
+      ],
+      "enfoque": "Sociología de la literatura, economía de la cultura y bibliometría de la producción editorial contemporánea.",
+      "sinergia": "La articulación de datos de mercado con teoría de la recepción ilumina cómo la fama se monetiza y condiciona los circuitos lectores."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo se construye, consolida y diversifica la marca de autor en el mercado global y qué límites encuentra al intentar migrar de nicho?",
+      "hallazgos": [
+        "El factor autor ha duplicado su peso en las decisiones de compra lectora en las últimas dos décadas, superando a la crítica y el precio.",
+        "J. K. Rowling trascendió el sistema tradicional al retener sus derechos digitales y fundar Pottermore como canal directo con el fandom.",
+        "El ensayo con el seudónimo Galbraith demostró empíricamente que la calidad formal del texto no basta para sobrevivir sin marca en el mercado saturado.",
+        "La visibilidad académica y el canon crítico consagran casi unánimemente el universo mágico juvenil, desatendiendo su producción para adultos."
+      ],
+      "conclusion": "En la cultura de consumo actual, el autor funciona como una marca comercial todopoderosa cuya inercia atrapa incluso a su propio creador dentro del nicho que le dio la fama."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Qué porcentaje de influencia tiene el nombre del autor en la decisión de compra de libros en España según los informes analizados?",
+          "opciones": [
+            "Apenas un 5%, los lectores compran exclusivamente por precio",
+            "Un 49,4%, ocupando el segundo lugar absoluto detrás de la temática del libro",
+            "El 95% en todos los tramos de edad"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El informe de la FGEE de 2018 sitúa al autor en el 49.4%, habiendo crecido desde el 23.3% que marcaba en el año 2000."
+        },
+        {
+          "pregunta": "¿Qué ocurrió con la novela policiaca 'El canto del cuco' mientras se vendía bajo el seudónimo Robert Galbraith?",
+          "opciones": [
+            "Fue un superventas instantáneo que vendió millones de ejemplares en su primera semana",
+            "Tuvo ventas mediocres y devoluciones de stock en librerías hasta que se reveló públicamente que la autora era Rowling",
+            "Fue censurada y retirada de todas las bibliotecas de Gran Bretaña"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "La obra languideció comercialmente hasta que el Sunday Times desveló la verdadera identidad de Rowling, disparando las ventas de inmediato."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: El Autor como Marca y Sociología del Mercado en el Caso Rowling",
+      "descripcion": "Red analítica que articula la función-autor, la economía editorial, la seudonimia y los indicadores bibliométricos de J. K. Rowling.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "La Función-Autor (Foucault)",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Concepto que define el nombre del escritor no como sujeto biográfico sino como dispositivo de atribución jurídica, canonización estética y delimitación del valor simbólico de un conjunto textual."
+        },
+        {
+          "id": "2",
+          "label": "El Autor como Marca Comercial",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Mecanismo del mercado editorial hipermoderno donde la identidad pública del escritor opera como sello de garantía comercial, lealtad afectiva del consumidor y motor prioritario de prescripción de compra."
+        },
+        {
+          "id": "3",
+          "label": "Efecto de Arrastre Editorial",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Fenómeno comercial donde el éxito descomunal de una saga arrastra masivamente la venta de cualquier obra previa o posterior del mismo firmante, independientemente de su género o calidad dispar."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Estudio de Caso Rowling",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Analizar la evolución de la imagen de marca de J. K. Rowling, su intento de migrar de la literatura juvenil a la de adultos y los efectos del anonimato en su visibilidad editorial y académica."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Documental-Bibliométrico",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Estrategia investigadora basada en la triangulación de fuentes editoriales (ISBN, BNE), informes sociológicos de hábitos de lectura (FGEE) y repertorios bibliométricos internacionales (WOS, Scopus)."
+        },
+        {
+          "id": "6",
+          "label": "Catálogos ISBN y BNE",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Recuento y cotejo de 270 ediciones registradas en la base del ISBN y 282 en el catálogo de la Biblioteca Nacional de España, acotadas a ediciones de carácter distintivo para el mercado hispanohablante."
+        },
+        {
+          "id": "7",
+          "label": "Informes FGEE (2000-2018)",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Explotación sistemática de las encuestas longitudinales de hábitos de lectura y compra de libros de la Federación de Gremios de Editores de España para medir el peso del factor autor en los rankings."
+        },
+        {
+          "id": "8",
+          "label": "Crecimiento del Factor Autor (49.4%)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "El autor se consolida como el segundo motivo decisivo de compra con un 49.4% en 2018 frente al 23.3% del año 2000, demostrando la creciente personalización del consumo literario moderno."
+        },
+        {
+          "id": "9",
+          "label": "Autonomía Digital en Pottermore",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Creación de una plataforma web propia en 2012 que permitió a la autora eludir distribuidores tradicionales, vender en exclusiva formatos digitales y fijar condiciones a conglomerados tecnológicos."
+        },
+        {
+          "id": "10",
+          "label": "El Experimento Galbraith",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "El lanzamiento de 'El canto del cuco' bajo seudónimo sufrió devoluciones en librerías por ventas mínimas hasta que la filtración de la autoría de Rowling desató compras masivas inmediatas."
+        },
+        {
+          "id": "11",
+          "label": "Asimetría en Visibilidad Académica",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Concentración casi absoluta de la atención investigadora (99% de citas en WOS y Scopus) en el universo de Harry Potter, con escasísimo eco académico de sus novelas realistas para adultos."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: Ilusión del Mérito Aislado",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "El caso demuestra que en la era de la sobreabundancia informativa el texto no se sostiene solo: la notoriedad del autor actúa como el filtro cognitivo primordial para captar la atención pública."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: La Trampa del Nicho",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "La misma fuerza de marca que garantiza ventas astronómicas en la literatura juvenil genera un encasillamiento simbólico que dificulta la legitimación crítica del escritor en la literatura de adultos."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Economía de la Celebridad",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "El mercado del libro contemporáneo opera bajo la lógica de la marca personal y la sociedad del espectáculo, transformando al autor en un tótem comercial que condiciona la recepción lectora."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Foco en el Mercado Español",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "El análisis empírico de ediciones y encuestas de compra se concentra en el sistema editorial de España, aunque los datos bibliométricos y el fenómeno sociocultural posean escala planetaria."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Huella Digital Cambiante",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Dinamismo continuo de las plataformas digitales y redes sociales del fandom, cuyas métricas de tráfico e interacciones fluctúan rápidamente en función de nuevos estrenos o polémicas mediáticas."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "ofrece marco crítico a"
+        },
+        {
+          "from": "2",
+          "to": "1",
+          "label": "reinterpreta comercialmente"
+        },
+        {
+          "from": "3",
+          "to": "2",
+          "label": "actúa como mecanismo de"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se analiza mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "audita datos en"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "explota series de"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "demuestra evolución de"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "contextualiza creación de"
+        },
+        {
+          "from": "5",
+          "to": "10",
+          "label": "examina caso empírico de"
+        },
+        {
+          "from": "5",
+          "to": "11",
+          "label": "cuantifica citas en"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "aporta evidencia a"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "confirma hipótesis sobre"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "demuestra persistencia de"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "sintetiza postulados de"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "evidencia contradicciones en"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "acota marco geográfico de"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "suma volatilidad empírica con"
+        },
+        {
+          "from": "2",
+          "to": "10",
+          "label": "determina éxito o fracaso en"
+        },
+        {
+          "from": "9",
+          "to": "14",
+          "label": "ilustra modelo de"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "potencia el peso de"
+        },
+        {
+          "from": "1",
+          "to": "13",
+          "label": "explica fijación simbólica en"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Cómo puedes enseñar a tus estudiantes a elegir lecturas guiándose por su propio criterio y no solo por el nombre del autor o el marketing?",
+      "enfoque": "Organizar lecturas a ciegas en el aula donde los alumnos lean fragmentos sin conocer la autoría ni la portada antes de emitir su juicio crítico.",
+      "cierre": "Despojar al texto de la firma permite redescubrir la literatura por lo que dice, liberando la mirada lectora del peso de la celebridad."
+    }
+  }
+}

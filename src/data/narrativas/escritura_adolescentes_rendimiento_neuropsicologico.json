@@ -1,0 +1,498 @@
+{
+  "id": "escritura_adolescentes_rendimiento_neuropsicologico",
+  "metadata": {
+    "title": "Errores en la escritura de adolescentes con alto y bajo rendimiento académico. Un análisis neuropsicológico",
+    "authors": "María del Rosario Bonilla-Sánchez, Marco Antonio García-Flores, Ignacio Méndez-Balbuena y Carolina Alvarado-Cortés",
+    "year": "2022",
+    "journal": "Ocnos 21(1)",
+    "doi": "10.18239/ocnos_2022.21.1.2704",
+    "gancho": "¿Por qué un adolescente sin trastornos neurológicos comete continuos errores ortográficos y deja letras a medias al escribir?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#264653",
+    "bg": "from-amber-600/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/escritura-adolescentes/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-bonilla/200/200",
+      "name": "Dra. María del Rosario Bonilla-Sánchez",
+      "role": "Investigadora en Neuropsicología y Desarrollo Cognitivo, BUAP (Puebla, México)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. María del Rosario Bonilla-Sánchez, investigadora en neuropsicología histórico-cultural del aprendizaje escolar",
+      "gancho": "En las pruebas PISA, en torno al 50% de los adolescentes mexicanos se sitúa en niveles bajos de rendimiento, pero solo entre el 5% y el 15% presenta un trastorno específico del aprendizaje. ¿Qué ocurre con ese 35-45% que fracasa sin diagnóstico?",
+      "contexto": "La adolescencia es una etapa de profunda reorganización cerebral: mientras las zonas terciarias posteriores concluyen su maduración, las cortezas prefrontales responsables de la autorregulación y las funciones ejecutivas siguen inmaduras. Esta brecha evolutiva suele traducirse en fracaso académico no diagnosticado. Desde el enfoque de la neuropsicología histórico-cultural (Luria y Vygotski), este estudio compara los errores de escritura (al dictado y espontánea) en 48 adolescentes de secundaria con alto rendimiento académico (ARA) y bajo rendimiento (BRA), desvelando cómo la inmadurez de la regulación frontal y la síntesis espacial determinan los tropiezos ortográficos.",
+      "deepDives": [
+        {
+          "id": "bon-apertura-1",
+          "triggerLabel": "El sistema funcional complejo de Luria",
+          "type": "theory",
+          "content": "Para Alexander Luria, la escritura no reside en un único centro cerebral, sino en un sistema funcional dinámico donde cooperan múltiples factores neuropsicológicos: oído fonemático, análisis espacial, regulación prefrontal y memoria de trabajo cinestésica."
+        },
+        {
+          "id": "bon-apertura-2",
+          "triggerLabel": "La paradoja de PISA y los trastornos de aprendizaje",
+          "type": "data",
+          "content": "Mientras los trastornos específicos del aprendizaje afectan a entre el 5% y el 15% de los menores, el 50% del alumnado secundario mexicano rinde en niveles insuficientes. La investigación aborda ese 35-45% invisible de escolares que fracasan por maduración neuropsicológica subóptima."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La escuela suele penalizar el bajo rendimiento catalogando al estudiante de 'flojo' o 'desatento', sin comprender que sus errores de grafía incompleta, omisión o anticipación de letras son el síntoma directo de un desarrollo aún no óptimo de los mecanismos cerebrales de regulación y control ejecutivo.",
+      "porQueImporta": "Sancionar el síntoma con repeticiones mecánicas o planas caligráficas no reeduca el mecanismo deficitario. La intervención debe dirigirse a la causa sistémica: entrenar la planificación motora, la supervisión consciente y el control inhibitorio.",
+      "dataPoints": [
+        "Muestra de 48 adolescentes de secundaria (edad media 13 años y 4 meses), equilibrada por grado escolar (8 ARA y 8 BRA por grado).",
+        "Criterio de rendimiento: promedios escolares de 9-10 (ARA) frente a 6-7 (BRA), sin antecedentes psicopatológicos ni repitencia escolar previa.",
+        "Diferencias altamente significativas a favor del ARA en Regulación y Control (U = 68.0, p < .0001, tamaño de efecto r = 0.66).",
+        "En el dictado, la grafía incompleta fue el error masivo del grupo BRA (53.3% a 56.6% de los errores en los tres grados escolares).",
+        "En la escritura espontánea, el error ortográfico acaparó el 37% al 39.8% de los fallos del grupo de bajo rendimiento.",
+        "Paradoja cognitiva: los adolescentes cometieron más errores en el dictado que en la redacción libre debido a la exigencia de memoria de trabajo en tiempo real."
+      ],
+      "glossary": [
+        {
+          "term": "Análisis sindrómico",
+          "definition": "Método cualitativo-clínico de Luria que rastrea la causa de diversos errores observables en distintas tareas hasta el mecanismo neuropsicológico común que se encuentra subdesarrollado."
+        },
+        {
+          "term": "Regulación y control",
+          "definition": "Mecanismo neuropsicológico dependiente de los lóbulos prefrontales responsable de programar la acción motora, inhibir impulsos, verificar resultados y corregir errores."
+        },
+        {
+          "term": "Grafía incompleta",
+          "definition": "Error motor consistente en dejar trazos o letras a medio terminar, generado por precipitación impulsiva y falta de verificación de la huella gráfica."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "bon-conflicto-1",
+          "triggerLabel": "¿Por qué el dictado satura más que la redacción libre?",
+          "type": "theory",
+          "content": "El dictado impone un ritmo externo rígido que exige retener fonemas, convertirlos a grafemas y trazar a gran velocidad en la memoria de trabajo. En la escritura espontánea, el alumno puede pausar, reformular con palabras más sencillas y autorregular su velocidad."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Protocolo clínico-experimental de Luria y tareas de escritura formal",
+      "narrativa": "Especialistas en neuropsicología evaluaron individualmente a los 48 estudiantes en sesiones de 1 hora aplicando dos instrumentos complementarios validados:",
+      "detalles": [
+        {
+          "label": "1. Evaluación Neuropsicológica Breve (Luria)",
+          "value": "Protocolo para adolescentes adaptado de Eslava-Cobos et al. (2008), que evalúa los mecanismos neuropsicológicos propuestos por Luria mediante la escala de Glozman (incorrecto = 1, correcto con ayuda = 2, correcto independiente = 3)."
+        },
+        {
+          "label": "2. Tareas de Escritura (Verificación Escolar)",
+          "value": "Batería de Solovieva y Quintanar (2018): escritura de oraciones al dictado y redacción espontánea sobre el tema 'tus vacaciones pasadas'."
+        },
+        {
+          "label": "Tratamiento Estadístico en SPSS 20",
+          "value": "Prueba U de Mann-Whitney para muestras independientes no paramétricas (distribución Kolmogorov-Smirnov p < 0.05) con cálculo del tamaño de efecto r."
+        }
+      ],
+      "limitaciones": [
+        "Muestra no probabilística de 48 sujetos circunscrita a una única secundaria pública de nivel socioeconómico medio-bajo en Puebla.",
+        "Diseño transversal que fotografía el perfil en un momento dado sin seguimiento longitudinal tras la intervención."
+      ],
+      "reflexion": "¿Por qué un adolescente con bajo rendimiento entrega su examen lleno de errores ortográficos sin haberse dado cuenta de que los cometió?",
+      "deepDives": [
+        {
+          "id": "bon-viaje-1",
+          "triggerLabel": "El papel de la ayuda experta en la escala de Glozman",
+          "type": "method",
+          "content": "La puntuación 2 (correcto con ayuda) es vital en la tradición vygotskiana: revela la 'zona de desarrollo próximo', demostrando que el alumno no carece de la función, sino que necesita un andamiaje externo para autorregularse."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Cinco mecanismos disfuncionales y la primacía de la impulsividad motora",
+      "narrativa": "Los contrastes estadísticos y el análisis sindrómico revelaron patrones determinantes sobre las causas del fracaso en la escritura secundaria:",
+      "hallazgos": [
+        {
+          "label": "Regulación y Control frontal (r = 0.66)",
+          "value": "El grupo BRA presenta ejecuciones impulsivas, no revisa lo que escribe y no detecta sus propias incongruencias ortográficas; el grupo ARA se autocorrige de manera autónoma sin ayuda externa. Ej.: U = 68.0, p < .0001 (mayor tamaño de efecto)."
+        },
+        {
+          "label": "Análisis y Síntesis Espacial Global (r = 0.48)",
+          "value": "El alumnado con bajo rendimiento presenta problemas para respetar los límites de la hoja, omitir espacios interpalabras o mantener la alineación horizontal de los renglones. Ej.: p < .001 (2.73 ARA vs. 2.27 BRA)."
+        },
+        {
+          "label": "Retención Audio-Verbal (r = 0.40) y Visual (r = 0.30)",
+          "value": "Fragilidad en el almacenamiento a corto plazo del bucle fonológico y de las representaciones ortográficas completas de las palabras. Ej.: p < .01 y p < .04 a favor de ARA."
+        },
+        {
+          "label": "Errores que discriminan estadísticamente",
+          "value": "Solo la falta de ortografía y la anticipación de letras/palabras separan significativamente a ambos grupos; la edad cronológica no tuvo ningún peso (13.2 vs. 13.4 años, p > 0.05). Ej.: Ortográfico (p = 0.013) y Anticipación (p = 0.038)."
+        }
+      ],
+      "dataPoints": [
+        "En dictado: grafía incompleta presente en más del 53% de los errores de BRA en 1º, 2º y 3º de secundaria.",
+        "En redacción espontánea: el error ortográfico osciló entre el 37.0% y el 39.8% de todos los fallos del grupo de bajo rendimiento.",
+        "Independencia del grupo ARA: en 2º y 3º curso, los alumnos con alto rendimiento no necesitaron ninguna ayuda del evaluador para ejecutar las tareas con éxito.",
+        "La anticipación de fonemas ('escribir la letra antes de tiempo') evidencia la falta de freno inhibitorio motor durante el trazo manuscrito."
+      ],
+      "reflexion": "El alumno que omite acentos y confunde la 'b' con la 'v' no es descuidado: su cerebro prefrontal no ha automatizado la parada de supervisión reflexiva antes de dar por buena la palabra.",
+      "deepDives": [
+        {
+          "id": "bon-revelacion-1",
+          "triggerLabel": "La ausencia de diferencias por edad cronológica",
+          "type": "data",
+          "content": "El estudio confirma que el bajo rendimiento en secundaria no es una cuestión de maduración cronológica pasiva: un alumno de 14 años de BRA puede presentar peor regulación prefrontal que uno de 12 de ARA si no ha recibido mediación orientada."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: De la calificación escolar punitiva al andamiaje neuropsicológico",
+      "narrativa": "Los autores debaten la urgencia de transformar la didáctica de la lengua a partir de la teoría histórico-cultural:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Neurodesarrollo adolescente (Flores y Ostrosky-Shejet, 2012; Roselli et al., 2010): Coherencia con la neurociencia moderna: la maduración de las áreas prefrontales terciarias y de las funciones ejecutivas no concluye hasta la adultez temprana."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Enfoque histórico-cultural (Leontiev, 1983; Vigotsky, 1992): La internalización de la norma ortográfica exige pasar de acciones reguladas externamente por el docente a acciones autorreguladas internamente por el alumno."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Doble ruta de la escritura (Cuetos, 2009; López-Escribano, 2012): El grupo BRA fracasa tanto en la vía subléxica (fonema-grafema inmediato) como en la vía léxica de memoria ortográfica directa."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Corrección en tinta roja vs. Enriquecimiento del mecanismo: Subrayar los errores con bolígrafo rojo no enseña a planificar; se requiere modelar estrategias explícitas de auto-revisión pausada."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Diagnóstico reduccionista vs. Plasticidad escolar: Rechazo a etiquetar a estos adolescentes como 'disléxicos tardíos'; son estudiantes con desarrollo no óptimo susceptibles de recuperación plena con intervención pedagógica adecuada."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Falta evaluar el impacto de variables emocionales y motivacionales (autoestima, frustración ante el fracaso) en el rendimiento escrito."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "No se midió la influencia del uso de correctores ortográficos automáticos en teléfonos móviles en la persistencia de estos fallos."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la docencia en Educación Secundaria Incorporar pautas explícitas de autoverificación (listas de cotejo de 3 pasos) antes de que el alumnado entregue cualquier redacción."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la evaluación psicopedagógica Evaluar el estado funcional de los mecanismos ejecutivos en todo estudiante con bajo rendimiento crónico, superando el test de CI general."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las políticas educativas Diseñar programas de estimulación ejecutiva y autorregulación en los primeros cursos de secundaria para frenar el fracaso invisible detectado por PISA."
+        },
+        {
+          "label": "Tabla",
+          "value": "Mecanismo Neuropsicológico | Puntuación ARA | Puntuación BRA | Significación (p) | Error Asociado en Escritura\nRegulación y Control | 2.68 ± 0.25 | 2.17 ± 0.33 | p < .0001 (r = .66) | Grafía incompleta, faltas de ortografía y de sintaxis, anticipaciones\nEspacial Global | 2.73 ± 0.35 | 2.27 ± 0.49 | p < .001 (r = .48) | Dificultades de organización espacial de la escritura; escritura en espejo\nRetención Audio-Verbal | 2.66 ± 0.19 | 2.48 ± 0.22 | p < .01 (r = .40) | Omisiones y sustituciones de consonantes; pobreza léxica\nRetención Visual | 2.72 ± 0.26 | 2.57 ± 0.24 | p < .04 (r = .30) | Dificultades de comprensión de estructuras lógico-gramaticales\nEstado de Alerta | 2.55 ± 0.32 | 2.33 ± 0.46 | p < .05 (r = .23) | Inestabilidad en las ejecuciones; macrografía o micrografía"
+        }
+      ],
+      "reflexion": "Enseñar a escribir no es solo enseñar gramática: es ayudar al cerebro adolescente a construir su propio freno de mano cognitivo.",
+      "deepDives": [
+        {
+          "id": "bon-marco-1",
+          "triggerLabel": "La técnica de la verificación en voz alta",
+          "type": "theory",
+          "content": "Siguiendo a Vygotski, el lenguaje egocéntrico en voz alta es el puente hacia el pensamiento interior. Pedir a los adolescentes de BRA que lean su propio texto susurrando permite que el oído fonemático detecte los errores que los ojos pasaron por alto."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Qué mecanismos neuropsicológicos diferencian a los adolescentes de alto y bajo rendimiento académico y cómo se manifiestan en sus errores de escritura?",
+      "conclusion": "El mecanismo de regulación y control es el predictor más potente (r = 0.66) que separa al alumnado de alto y bajo rendimiento. Los errores ortográficos (p = 0.013) y la anticipación de letras (p = 0.038) son los únicos que discriminan con significación estadística entre grupos. En el dictado predomina la grafía incompleta (más del 53% de los errores en BRA) por precipitación motora y fatiga de la memoria de trabajo. El alumnado de alto rendimiento se autocorrige de manera independiente, mientras el de bajo rendimiento entrega textos impulsivos sin supervisión previa. Sustituir las planas mecánicas de ortografía por entrenamientos estructurados en control inhibitorio y planificación secuencial. Implementar protocolos de revisión guiada en el aula (lectura en voz baja, listas de verificación ortográfica). Reducir la velocidad impuesta en las pruebas de dictado para permitir que el bucle fonológico del aprendiz procese los estímulos sin colapsar. Capacitar al profesorado de secundaria en la detección de signos neuropsicológicos tempranos de inmadurez prefrontal. Cuando entendemos la neurobiología de un error ortográfico, dejamos de castigar al alumno y empezamos a enseñarle a pensar.",
+      "formalRef": "María del Rosario Bonilla-Sánchez, Marco Antonio García-Flores, Ignacio Méndez-Balbuena y Carolina Alvarado-Cortés. (2022). Errores en la escritura de adolescentes con alto y bajo rendimiento académico. Un análisis neuropsicológico. Ocnos 21(1). https://doi.org/10.18239/ocnos_2022.21.1.2704"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué mecanismo neuropsicológico obtuvo el mayor tamaño de efecto (r = 0.66, p < .0001) al comparar a los adolescentes de alto y bajo rendimiento académico?",
+          "options": [
+            "Tono muscular de la muñeca",
+            "Regulación y control ejecutivo",
+            "Oído musical periférico",
+            "Agudeza visual lejana"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál fue el error de escritura dominante en el grupo de bajo rendimiento durante la tarea de oraciones al dictado en los tres grados de secundaria?",
+          "options": [
+            "Escritura en espejo completa",
+            "Grafía incompleta (trazos y letras a medio terminar)",
+            "Uso excesivo de signos de admiración",
+            "Traducción literal al latín"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Teniendo en cuenta que los adolescentes con bajo rendimiento cometen más errores en el dictado que en la escritura libre por saturación de la memoria de trabajo, ¿qué modificación metodológica introducirías al dictar consignas en el aula?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "En la secundaria, muchos adolescentes fracasan en la escritura sin ningún diagnóstico: su cerebro prefrontal aún no ha aprendido a frenar y revisar.",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "Llamarlos 'flojos' no reeduca el mecanismo: los errores de grafía incompleta revelan un control ejecutivo todavía inmaduro.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "48 adolescentes de secundaria en Puebla evaluados con el protocolo neuropsicológico de Luria y tareas de dictado y redacción espontánea.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "El mecanismo de regulación y control marca la brecha más contundente (r = 0.66): el grupo de bajo rendimiento no revisa ni corrige lo que escribe.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Sustituir la corrección en tinta roja por un andamiaje explícito de autorregulación: así se reeduca el mecanismo, no solo el error.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Enseñar a escribir no es solo enseñar gramática: es ayudar al cerebro adolescente a construir su propio freno de mano cognitivo.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo la inmadurez de la regulación frontal y de la síntesis espacial explican los errores de escritura en secundaria.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido sobre los mecanismos neuropsicológicos que separan al alumnado de alto y bajo rendimiento.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Errores de escritura y rendimiento académico en adolescentes (Ocnos 21(1), 2022)",
+    "descripcion": "Recorrido desde la paradoja del fracaso escolar sin patología y el neurodesarrollo prefrontal adolescente, pasando por el sistema funcional de la escritura de Luria y el estudio con 48 estudiantes de Puebla (protocolo neuropsicológico y tareas de escritura), hasta los resultados, las implicaciones pedagógicas y las limitaciones de un diseño transversal.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Paradoja del fracaso escolar sin patología",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Fenómeno crítico donde más del 40% del alumnado en Educación Secundaria rinde por debajo del estándar básico en lectura y escritura sin padecer alteraciones sensoriales ni patologías neurológicas diagnosticadas formalmente."
+      },
+      {
+        "id": "2",
+        "label": "Neurodesarrollo adolescente y corteza frontal",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Asincronía madurativa evolutiva donde las regiones parieto-occipitales posteriores culminan su desarrollo mientras las redes prefrontales dorsolaterales y orbitarias continúan mielinizándose hasta pasados los veinte años."
+      },
+      {
+        "id": "3",
+        "label": "Sistema funcional de la escritura (Luria)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Modelo neuropsicológico histórico-cultural de Alexander Luria que concibe el acto gráfico como un sistema dinámico complejo dependiente de la cooperación concertada entre factores acústicos, cinestésicos, espaciales y ejecutivos."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Comparar errores en ARA vs BRA",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Identificar, clasificar y comparar cuantitativa y cualitativamente los errores gráficos, ortográficos y sintácticos cometidos en tareas de dictado y redacción espontánea por adolescentes de secundaria con alto y bajo rendimiento."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Vincular errores a mecanismos cerebrales",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Determinar mediante análisis sindrómico luriaano qué mecanismos neuropsicológicos con maduración subóptima originan y explican los patrones específicos de error observados en las producciones escritas escolares cotidianas."
+      },
+      {
+        "id": "6",
+        "label": "Muestra de 48 adolescentes de secundaria",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Muestra de 48 estudiantes de 1.º, 2.º y 3.º de secundaria (edad media 13 años y 4 meses; 24 con promedio 9-10 y 24 con promedio 6-7) en una escuela pública de Puebla, México, sin repitencia escolar previa ni trastornos clínicos."
+      },
+      {
+        "id": "7",
+        "label": "Batería de Luria y tareas de escritura formal",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Protocolo neuropsicológico breve para evaluar los mecanismos cerebrales propuestos por Luria con la escala de Glozman, combinado con tareas curriculares de escritura de oraciones al dictado y redacción espontánea sobre recuerdos de vacaciones."
+      },
+      {
+        "id": "8",
+        "label": "Análisis sindrómico y contrastes no paramétricos",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Triangulación cualitativa basada en el análisis sindrómico complementada con pruebas estadísticas U de Mann-Whitney y cálculo del tamaño de efecto r para variables no paramétricas con nivel de significación alfa de p < .05."
+      },
+      {
+        "id": "9",
+        "label": "Diferencia masiva en Regulación y Control (r=0.66)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Brecha estadística más contundente entre grupos (U = 68.0, p < .0001, r = 0.66): el alumnado de bajo rendimiento exhibe marcada impulsividad, ausencia de planificación previa y grave carencia de estrategias de verificación autónoma."
+      },
+      {
+        "id": "10",
+        "label": "Dominancia de grafía incompleta en dictado (53%)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Más de la mitad de los errores de BRA en el dictado (entre el 53.3% y el 56.6% en todos los cursos) consisten en trazos inacabados o letras mutiladas por precipitación motora e incapacidad de supervisar el trazo en tiempo real."
+      },
+      {
+        "id": "11",
+        "label": "Errores ortográficos y anticipación discriminantes",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Los fallos de ortografía (p = 0.013) y la anticipación de grafemas (p = 0.038) separan con significación estadística a ambos grupos, revelando debilidad selectiva en la memoria visual y en el freno inhibitorio motor frontal."
+      },
+      {
+        "id": "12",
+        "label": "Paradoja: Mayor tasa de error en el dictado",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Los escolares cometen sustancialmente más fallos al dictado que en la redacción libre, debido a que el ritmo externo forzado satura la memoria operativa de trabajo y no permite pausar para autorregular la velocidad de transcripción."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Ineficacia de la sanción punitiva",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Castigar con planas mecánicas o llamadas de atención en tinta roja no rehabilita la corteza prefrontal; la intervención pedagógica requiere enseñar estrategias explícitas y secuenciadas de modelado ejecutivo y autocorrección guiada."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Mediación en zona de desarrollo próximo",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "La notable mejoría que experimenta el alumnado de bajo rendimiento cuando el evaluador introduce pautas externas demuestra que sus tropiezos son de naturaleza pedagógica y plenamente reversibles mediante andamiaje sociocultural."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Muestra local y corte transversal",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "El estudio se circunscribe a una única institución escolar de nivel socioeconómico medio-bajo con diseño transversal, lo que demanda contrastar los hallazgos en muestras representativas más amplias y con seguimiento longitudinal."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Abordaje neuropsicológico en secundaria",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "Elevar la competencia escrita en la adolescencia exige incorporar el entrenamiento sistemático de la autorregulación ejecutiva y las funciones frontales en la didáctica de la lengua, superando el modelo gramatical memorístico."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se explica por el"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "demanda aplicar el"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "justifica la pertinencia del"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "aporta el marco conceptual al"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se investiga sobre la"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se operativiza mediante la"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "alimenta el análisis de"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "proporciona las variables al"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "demuestra empíricamente la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "constata la elevada"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "confirma cuáles son los"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "desvela la"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "fundamenta la crítica a la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "explica los motivos de la"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "justifica la necesidad de"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "orienta las pautas de"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "sustenta las conclusiones de la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "aporta la solución para la"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "reconoce como límite la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "delimita el alcance real de la"
+      },
+      {
+        "from": "3",
+        "to": "16",
+        "label": "culmina con la consagración del"
+      }
+    ]
+  }
+}

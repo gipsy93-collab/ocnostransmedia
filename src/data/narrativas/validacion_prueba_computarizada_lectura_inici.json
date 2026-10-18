@@ -1,0 +1,160 @@
+{
+  "id": "validacion_prueba_computarizada_lectura_inici",
+  "metadata": {
+    "title": "Validación de una prueba computarizada de lectura inicial en niños escolares colombianos",
+    "authors": "Natalia Cadavid-Ruiz; María-Cristina Quijano-Martínez; Pablo Escobar; Ricardo Rosas; Marcela Tenorio",
+    "year": "2016",
+    "journal": "Ocnos. Revista de estudios sobre lectura, 15(2) 2016",
+    "doi": "https://doi.org/10.18239/ocnos_2016.15.2.1121",
+    "gancho": "El estudio valida en población escolar colombiana la prueba computarizada ABCDeti, diseñada originalmente en Chile para medir lectura inicial. Se evaluaron 265 niños de 5 a 8 años (transición a segundo de primaria) en Cali, comparando la prueba con las dimensiones de lectura de l",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#5b9eaa",
+    "bg": "from-ocean-base/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-6.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-6.png",
+      "name": "Natalia Cadavid-Ruiz; María-Cristina Quijano-Martínez; Pablo Escobar; Ricardo Rosas; Marcela Tenorio",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Natalia Cadavid-Ruiz; María-Cristina Quijano-Martínez; Pablo Escobar; Ricardo Rosas; Marcela Tenorio, autor/a en Revista Ocnos",
+      "gancho": "El estudio valida en población escolar colombiana la prueba computarizada ABCDeti, diseñada originalmente en Chile para medir lectura inicial. Se evaluaron 265 niños de 5 a 8 años (transición a segund",
+      "contexto": "La lectura es presentada como aprendizaje escolar esencial para la transmisión y asimilación de nuevos conocimientos en cualquier disciplina del saber. Los autores la sitúan como una de las banderas del gobierno colombiano para mejorar la calidad de vida de la población, en particular la infantil. \nEl texto reporta un problema persistente: la mayoría de los niños colombianos que cursan entre cuarto y sexto grado presentan un rendimiento lector in",
+      "deepDives": [
+        {
+          "id": "validacion_prueba_computarizada_lectura_inici-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "Aunque en Colombia existen pruebas masivas de lectura (PISA, SERCE, PIRLS, Saber) y estudios clínicos sobre dificultades lectoras, el artículo sostiene que no se cuenta con instrumentos de evaluación **validados en población colombiana** capaces de diagnosticar el nivel de desarrollo lector y de gui"
+        },
+        {
+          "id": "validacion_prueba_computarizada_lectura_inici-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "La lectura es presentada como aprendizaje escolar esencial para la transmisión y asimilación de nuevos conocimientos en cualquier disciplina del saber. Los autores la sitúan como una de las banderas del gobierno colombiano para mejorar la calidad de vida de la población, en particular la infantil. \n"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Aunque en Colombia existen pruebas masivas de lectura (PISA, SERCE, PIRLS, Saber) y estudios clínicos sobre dificultades lectoras, el artículo sostiene que no se cuenta con instrumentos de evaluación **validados en población colombiana** capaces de diagnosticar el nivel de desarrollo lector y de guiar planes de mejoramiento y seguimiento. La brecha",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "Cock et al., 2004), descrita como la única prueba neuropsicológica que publica un estudio normativo con 252 niños colombianos entre 5 y 16 años, con un índice de fiabilidad global α = .72. El artículo justifica validar ABCDeti en Colombia por las propiedades psicométricas de su versión chilena y porque, al ser computarizada, permitiría medir con precisión tiempos de reacción y obtener puntajes sin errores de calificación.",
+        "Reyes, Matute, Inozemtseva, Guajardo y Rosselli, 2011). En el ámbito nacional operan además pruebas periódicas lideradas por el ICFES, como las pruebas Saber.",
+        "fonema para reconocer visualmente las palabras escritas."
+      ],
+      "glossary": [
+        {
+          "term": "Conciencia fonológica",
+          "definition": "habilidad para discriminar y manipular los sonidos (fonemas) del lenguaje."
+        },
+        {
+          "term": "Decodificación",
+          "definition": "conversión grafema-fonema para reconocer visualmente las palabras escritas."
+        },
+        {
+          "term": "Validez convergente",
+          "definition": "grado en que una prueba correlaciona con otra que mide lo mismo."
+        },
+        {
+          "term": "Consistencia interna",
+          "definition": "coherencia de los ítems entre sí, estimada con Alpha de Cronbach."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Se trata de un **estudio instrumental de validación psicométrica**: no se crea una prueba nueva, sino que se adapta y valida en Colombia un instrumento chileno ya construido y estandarizado. \n**Participantes y muestreo**: la selección de colegios correspondió a un **muestreo no probabilístico**, buscando entidades cuya población proviniera de uno de los tres niveles socioeconómicos (bajo, medio o ",
+      "detalles": [
+        {
+          "label": "NSE bajo",
+          "value": "30 - 29"
+        },
+        {
+          "label": "NSE medio",
+          "value": "33 - 18"
+        },
+        {
+          "label": "NSE alto",
+          "value": "26 - 49"
+        }
+      ],
+      "limitaciones": [
+        "El artículo **no incluye una sección formal de \"Limitaciones\"**; los autores no declaran límites explícitos como apartado propio. No obstante, del texto se desprenden condiciones acotadas: muestreo **"
+      ],
+      "reflexion": "Si replicaras esta validación en tu institución, ¿qué decisiones tomarías sobre el muestreo (NSE, grados, tamaño) y qué amenazas a la validez controlarías con contrabalanceo y criterios de inclusión?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "Consistencia interna por grado.",
+          "value": "El resumen reporta que ABCDeti presenta una consistencia interna, para los diferentes grados evaluados, entre **.68 y .74**.  El cuerpo del artículo describe el patrón de fiabilidad por grado y señala que \"la prueba en jardín y primero de primaria obtiene un α = .93... y en segun"
+        },
+        {
+          "label": "Fiabilidad ítem por ítem (Tabla 2).",
+          "value": "Entre los valores más altos figuran Principio alfabético (α=.92 en jardín; α=.85 en primero), Reconocimiento visual de palabras (α=.86) y Fluidez lectora (α=.86 en primero). Entre los más bajos, Tipos de texto (α=.30 en jardín; α=.27 en primero) y Fluidez lectora en segundo (α=.0"
+        },
+        {
+          "label": "Validez convergente con la ENI.",
+          "value": "La correlación entre ABCDeti y ENI confirma relaciones \"altas y positivas\" a través de los grados. La Tabla 4 reporta r = .79** (jardín, n=36), r = .68** (primero, n=90) y r = .65** (segundo, n=76), con **p < .01; la fiabilidad de la ENI fue α=.74, α=.73 y α=.68 respectivamente."
+        },
+        {
+          "label": "Estructura factorial y varianza explicada.",
+          "value": "El análisis factorial exploratorio por grado explicó una proporción relevante de la varianza: en jardín dos factores (47.29%), en primero dos factores (54.88%) y en segundo un único factor (48.39%).  El resumen sintetiza el rango entre **45% y 54%** de la varianza."
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El marco conceptual de la prueba es el **modelo cognitivo de McKenna y Stahl (2003)**, citado en el propio artículo, que concibe la adquisición de la lectura como un proceso cognitivo que requiere el dominio de varias habilidades, tanto para decodificar los símbolos escritos que componen el lenguaje como para dar significado a dichos símbolos en palabras y oraciones de un texto. \nEl artículo organ",
+      "detalles": [
+        {
+          "label": "Tradición Teórica",
+          "value": "Teorías de la lectura, didáctica de la lengua y estudios literarios."
+        }
+      ],
+      "reflexion": "¿Qué aporta conceptuar la lectura como conjunto de habilidades (modelo de McKenna y Stahl) frente al contra-argumento de que una prueba única no captura la comprensión de textos en grados superiores?"
+    },
+    "nucleo": {
+      "pregunta": "¿Es la prueba computarizada ABCDeti un instrumento válido y fiable para evaluar la competencia lectora inicial en niños escolares colombianos entre transición y segundo de primaria?",
+      "conclusion": "La evidencia presentada \"permite sostener la validez y confiabilidad de la prueba ABCDeti Colombia como un test que puede evaluar la competencia lectora inicial en estudiantes de jardín a primero básico\".  El formato computarizado la convierte en una alternativa que \"potencialmente puede ser menos angustiante para el evaluado\", permite una evaluación fiable de la lectura y reduce los tiempos de aplicación y los errores asociados a su corrección y",
+      "formalRef": "Cadavid-Ruiz, N., Quijano-Martínez, M. C., Escobar, P., Rosas, R., & Tenorio, M. (2016). Validación de una prueba computarizada de lectura inicial en niños escolares colombianos. *Ocnos, 15*(2), 98-109. https://doi.org/10.18239/ocnos_2016.15.2.1121\n> *Nota de metadatos*: el DOI y la paginación (98-109) se toman del propio texto (p. 1). La cadena del nombre de archivo (`..._1121_99_`) no coincide con la página inicial real (98), por lo que **prevalece la información del txt**."
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál fue el objetivo del estudio?",
+          "options": [
+            "A) Crear desde cero una nueva prueba de lectura infantil.",
+            "B) Validar en población colombiana una prueba computarizada de lectura inicial (ABCDeti). ✔",
+            "C) Comparar PISA, PIRLS y Saber en Colombia.",
+            "D) Evaluar la comprensión de textos en secundaria."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Con qué prueba se evaluó la validez convergente de ABCDeti?",
+          "options": [
+            "A) Con la prueba Prolec.",
+            "B) Con el test SEPA-SEP.",
+            "C) Con los dominios de Habilidades Metalingüísticas y Lectura de la ENI. ✔",
+            "D) Con las pruebas Saber del ICFES."
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  }
+}

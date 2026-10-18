@@ -1,0 +1,434 @@
+{
+  "id": "lectura_comics_bienestar_acogimiento",
+  "metadata": {
+    "title": "Lectura de cómics para el bienestar de los adolescentes en acogimiento residencial",
+    "authors": "Manuel-Jesús Maldonado-Lozano y Myriam Gutiérrez-Zornoza",
+    "year": "2022",
+    "journal": "Ocnos 21(1)",
+    "doi": "10.18239/ocnos_2022.21.1.2741",
+    "gancho": "¿Puede una novela gráfica ayudar a un adolescente tutelado a reconciliarse con una historia familiar rota sin sentirse juzgado?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#88b04b",
+    "colorAlt": "#2a5a75",
+    "bg": "from-emerald-900/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/comics-bienestar/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-maldonado/200/200",
+      "name": "Dr. Manuel-Jesús Maldonado-Lozano",
+      "role": "Investigador en Educación Social y Literatura Gráfica, Universidad de Castilla-La Mancha"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Manuel-Jesús Maldonado-Lozano, educador social e investigador del cómic como recurso socioeducativo",
+      "gancho": "Más del 55% de los menores protegidos en España viven en residencias. A los 15 años abandonan la lectura escolar, pero devoran cómics. ¿Y si las viñetas fueran el mejor canal para sanar el trauma?",
+      "contexto": "Los adolescentes en acogimiento residencial (AAR) cargan con trayectorias de negligencia, estigma institucional y dolor socioemocional internalizado. Desde los Nuevos Estudios de Literacidad y la pedagogía social, este estudio construye y analiza un corpus especializado de 16 novelas gráficas alineadas con ocho factores de desarrollo del bienestar, demostrando que el arte secuencial ofrece un espejo seguro para elaborar la propia biografía sin revictimizar.",
+      "deepDives": [
+        {
+          "id": "mal-apertura-1",
+          "triggerLabel": "El Sistema de Protección en España (SPIA)",
+          "type": "data",
+          "content": "En 2019, de los 50.272 menores atendidos por el sistema protector español, 23.209 (el 55%) se encontraban en acogimiento residencial frente al 45% en familiar, concentrándose la mayor tasa en la franja de 15 a 17 años."
+        },
+        {
+          "id": "mal-apertura-2",
+          "triggerLabel": "El arte secuencial de lo invisible",
+          "type": "theory",
+          "content": "Will Eisner y Scott McCloud explicaron que en el cómic la magia reside en la 'clausura': el espacio en blanco entre viñetas que el lector debe rellenar activamente con su propia imaginación y vivencias afectivas."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Las intervenciones psicológicas tradicionales en centros residenciales suelen apoyarse en entrevistas clínicas verbales que provocan resistencia y reactividad en los adolescentes tutelados. Por su parte, la escuela insiste en lecturas obligatorias que generan rechazo al ser percibidas como tareas punitivas.",
+      "porQueImporta": "El cómic es una práctica letrada vernácula voluntaria. Al presentar personajes con vivencias análogas de orfandad, rabia o incomprensión, permite externalizar el sufrimiento y explorar estrategias de resiliencia de forma no amenazante.",
+      "dataPoints": [
+        "Población diana: adolescentes de 15 a 17 años tutelados en hogares y centros residenciales de protección.",
+        "Corpus documental: selección y análisis exhaustivo de 16 obras gráficas paradigmáticas de maduración (Bildungsroman).",
+        "Ocho factores de bienestar auditados (Carpintero et al., 2007; Horno et al., 2017): identidad, autonomía, apego, etc.",
+        "Tipología del autocómic de Guzmán (2017): (auto)patografías, relatos postraumáticos, autoficciones y ficción superheroica/distópica.",
+        "Obras destacadas: 'Stitches. Una infancia muda' (enfermedad y familia disfuncional), 'Cuéntalo' (violencia sexual) y 'Coraje' (ansiedad y emetofobia), dentro del bloque de no ficción.",
+        "Metodología complementaria propuesta: integración con la terapia narrativa del 'Árbol de la Vida' de Ncube (2006)."
+      ],
+      "glossary": [
+        {
+          "term": "AAR",
+          "definition": "Adolescentes en Acogimiento Residencial atendidos por los servicios públicos de protección a la infancia."
+        },
+        {
+          "term": "Autocómic",
+          "definition": "Narrativa gráfica autobiográfica donde los autores plasman sus propias vivencias de duelo, enfermedad o exclusión."
+        },
+        {
+          "term": "Literacidad vernácula",
+          "definition": "Prácticas de lectura y escritura informales, cotidianas y elegidas libremente fuera del control del currículo escolar."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "mal-conflicto-1",
+          "triggerLabel": "La metodología del Árbol de la Vida",
+          "type": "theory",
+          "content": "Creada por Ncube en Zimbabue para niños afectados por traumas, utiliza las raíces (orígenes), tronco (habilidades), ramas (sueños) y hojas (red de apoyo) para narrar historias vitales esperanzadoras."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Selección y categorización socioeducativa de novelas gráficas",
+      "narrativa": "Los autores aplicaron un método de análisis documental con finalidad aplicada:",
+      "detalles": [
+        {
+          "label": "1. Criterios rigurosos de selección del corpus",
+          "value": "Historias de maduración (coming-of-age) protagonizadas por jóvenes, editadas profesionalmente en español, con flujo clásico en 'Z' y conflictos explícitos."
+        },
+        {
+          "label": "2. Matriz analítica de 8 factores de bienestar",
+          "value": "Codificación temática vinculando cada cómic con: historia familiar, empoderamiento, reconocimiento, autoconcepto, afectividad, autonomía, redes de apoyo y visión del mundo."
+        },
+        {
+          "label": "3. Clasificación tipológica por formatos",
+          "value": "Organización en tres vertientes: narrativas postraumáticas / autopatografías, autoficciones íntimas y ficciones metafóricas de fantasía/ciencia ficción."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Las 16 obras como mapa de navegación emocional",
+      "narrativa": "El análisis temático demostró la idoneidad del cómic para abordar problemáticas silenciadas:",
+      "hallazgos": [
+        {
+          "label": "Comprender la historia familiar: Obras como 'Stitches. Una infancia muda' o 'Soy una matagigantes' permiten abordar la enfermedad, la muerte familiar y el perdón sin culpa.",
+          "value": ""
+        },
+        {
+          "label": "Gestión de la rabia y externalización: Cómics como 'Plutona' o 'El árbol que crecía en mi pared' muestran el dolor oculto tras la insatisfacción vital, los ataques de ira o el acoso.",
+          "value": ""
+        },
+        {
+          "label": "Salud mental sin estigma: Títulos como 'Stitches' o 'Coraje' normalizan el sufrimiento psíquico y la búsqueda de ayuda profesional.",
+          "value": ""
+        },
+        {
+          "label": "Construcción de redes informales: Las tramas enfatizan la importancia de la 'familia elegida' (amigos, tutores) cuando la red biológica ha fallado.",
+          "value": ""
+        }
+      ],
+      "reflexion": "La viñeta funciona como una ventana y un espejo: permite mirar la herida de otro para entender, sin miedo, la herida propia.",
+      "deepDives": [
+        {
+          "id": "mal-revelacion-1",
+          "triggerLabel": "El caso de 'Soy una matagigantes'",
+          "type": "data",
+          "content": "Barbara (apellidada Thorson) combate a los gigantes con un martillo: la fantasía y los juegos de rol le sirven para (no) hacer frente a la enfermedad y la muerte de su madre, hasta que, con apoyo formal (una psicóloga) e informal (su amiga y su familia), acepta el duelo."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: De la prescripción literaria a la mediación socioeducativa",
+      "narrativa": "El estudio plantea recomendaciones cruciales para educadores sociales y psicólogos:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Nuevos Estudios de Literacidad (Aliagas, Castellà y Cassany, 2008): el cómic es una práctica letrada vernácula, informal e híbrida donde la imagen y el texto se aúnan y generan identidad y agencia juveniles."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Resiliencia y buenos tratos (Barudy y Dantagnan, 2005): el arte y la narración actúan como recursos reparadores frente a los modelos afectivos destructivos y los traumas del apego temprano."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Pedagogía social crítica: El centro residencial no debe ser un depósito pasivo, sino un espacio de alfabetización estética y empoderamiento."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Moralismo didáctico vs. Autonomía estética: Rechazo tajante a cómics 'panfletarios' o moralizantes; los jóvenes exigen historias complejas con claroscuros morales."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Lectura solitaria vs. Taller dialógico: Advertencia de que el cómic no actúa mágicamente: requiere mediadores capacitados que acompañen las conversaciones."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El estudio no evaluó empíricamente la recepción de estas 16 obras con adolescentes tutelados en un centro residencial real."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Se priorizó la representatividad temática de las obras sobre un análisis semiótico y formal pormenorizado de cada viñeta."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la intervención en centros de menores Dotar a los hogares de protección de bebetecas y comictecas contemporáneas de calidad abiertas a los intereses de los jóvenes."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para los equipos socioeducativos Capacitar a los educadores sociales en narrativa gráfica y clubes de lectura dialógica como herramientas de tutoría individualizada."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la investigación aplicada Desarrollar programas piloto cuasi-experimentales en centros de protección que evalúen el impacto de la lectura guiada de cómics."
+        },
+        {
+          "label": "Tabla",
+          "value": "Obra | Autoría / Año | Tipología | Factores de Bienestar | Conflictos\nStitches. Una infancia muda | David Small (2010) | (Auto)patografía postraumática | Comprender historia familiar; autoconcepto | No reconocimiento familiar; enfermedad\nCuéntalo | Anderson y Carroll (2018) | (Auto)patografía postraumática | Empoderamiento; redes de apoyo informal | Violación; culpabilización\nCoraje | Raina Telgemeier (2020) | (Auto)patografía postraumática | Reconocimiento familiar; apoyo formal | Ansiedad y estrés emocional (emetofobia)\nCuento de una rata mala | Bryan Talbot (1999) | Autoficción | Empoderamiento; autonomía | Abusos sexuales del padre\nEl fantasma de Anya | Vera Brosgol (2013) | Autoficción | Redes de apoyo informal; autoconcepto | Falta de apoyo y amigos; mal de amores\nAquí vivió. Historia de un desahucio | Rosa y Bueno (2016) | Autoficción | Interpretación del mundo (justicia social) | Divorcio; injusticia social y vivienda\nCarne de cañón | Aroha Travé (2019) | Autoficción | Redes de apoyo informal; interpretación del mundo | Empobrecimiento; acoso\nDestellos | Jen Wang (2020) | Autoficción | Autoconcepto; redes de apoyo informal | Enfermedad; conducta desafiante\nSolos | Gazzotti y Velmann (2014-2018) | Ficción | Autonomía; empoderamiento | Ausencia de adultos; inseguridad ante la vida\nLa Favorita | Matthias Lehmann (2016) | Ficción | Autoconcepto; emociones y amor | Malos tratos familiares; mal de amores\nPlutona | Lemire, Lennox y Bellaire (2017) | Ficción | Redes de apoyo informal; afectividad | Insatisfacción vital; acoso; ataques de ira\nEl árbol que crecía en mi pared | Lourdes Navarro (2018) | Ficción | Redes de apoyo informal | Divorcio; acoso\nNo mires atrás | Anabel Colazo (2019) | Ficción | Redes de apoyo informal; aceptación de traumas | Miedos; pérdidas; tristeza\nHarley Quinn | Tamaki y Pugh (2020) | Ficción | Interpretación del mundo; autoconcepto | Injusticias sociales: gentrificación y heteropatriarcado\nSentient | Lemire y Walta (2020) | Ficción | Autonomía; redes de apoyo informal | Ausencia de adultos; ataques de ira\nSoy una matagigantes | Kelly y Niimura (2021) | Ficción | Comprender historia familiar; autoconcepto | Muerte familiar; conducta negativista/desafiante"
+        }
+      ],
+      "reflexion": "En las páginas de un buen cómic, un adolescente que ha perdido todo puede descubrir que aún tiene un futuro que dibujar.",
+      "deepDives": [
+        {
+          "id": "mal-marco-1",
+          "triggerLabel": "El cómic como mediador de la conversación",
+          "type": "theory",
+          "content": "Para los educadores sociales, preguntar '¿qué le pasa al personaje de la viñeta?' desactiva las defensas del menor, permitiéndole proyectar sus propios miedos sin sentirse juzgado."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo puede la lectura de cómics potenciar el bienestar y la resiliencia en adolescentes en acogimiento residencial?",
+      "conclusion": "Se sistematizó un corpus de 16 novelas gráficas alineadas rigurosamente con ocho factores del bienestar socioemocional. El cómic conecta con las literacidades vernáculas juveniles en una etapa en la que decae la lectura de literatura tradicional. La técnica de la clausura entre viñetas facilita que el adolescente proyecte sus emociones sin la presión de un interrogatorio clínico. Las historias analizadas visibilizan la búsqueda de autonomía, el duelo y la superación del estigma mediante narrativas empáticas. Integrar comictecas especializadas en todos los centros y residencias del sistema de protección de menores. Capacitar al personal técnico y educadores sociales en metodologías de mediación lectora y narrativa gráfica. Utilizar el cómic como disparador dialógico antes de abordar planes de intervención familiar complejos. Diseñar talleres interdisciplinares que combinen la lectura de viñetas con la creación de diarios gráficos personales. El noveno arte devuelve a los jóvenes más heridos el poder de sentirse protagonistas de sus propias vidas.",
+      "formalRef": "Manuel-Jesús Maldonado-Lozano y Myriam Gutiérrez-Zornoza. (2022). Lectura de cómics para el bienestar de los adolescentes en acogimiento residencial. Ocnos 21(1). https://doi.org/10.18239/ocnos_2022.21.1.2741"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje aproximado de menores atendidos en el sistema de protección español residía en centros de acogimiento residencial en 2019?",
+          "options": [
+            "Menos del 25%",
+            "Alrededor del 35%",
+            "El 55% (más de la mitad)",
+            "Casi el 90%"
+          ],
+          "correct": 2
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuántas obras gráficas paradigmáticas fueron analizadas y catalogadas en la matriz socioeducativa del estudio?",
+          "options": [
+            "8 obras",
+            "16 obras",
+            "25 obras",
+            "50 obras"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Adolescentes en acogimiento residencial (AAR)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Colectivo de menores tutelados por el sistema público de protección que enfrentan vivencias acumuladas de desamparo, estigma social, desvinculación familiar y sufrimiento socioemocional severo internalizado."
+      },
+      {
+        "id": "2",
+        "label": "Literacidad vernácula y lenguaje del cómic",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Práctica letrada informal, vernácula e híbrida basada en la interacción sinérgica de imagen y texto, donde la clausura entre viñetas exige una implicación subjetiva activa para completar los silencios narrativos."
+      },
+      {
+        "id": "3",
+        "label": "Ocho factores de desarrollo del bienestar",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Modelo socioeducativo de Carpintero y Horno: historia familiar, empoderamiento personal, reconocimiento social, autoconcepto, afectividad y amor, habilidades de autonomía, redes de apoyo e interpretación cívica del mundo."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Diseñar corpus de mediación gráfica",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Seleccionar, clasificar y fundamentar pedagógicamente un corpus de novelas gráficas contemporáneas que aborden situaciones problemáticas de maduración para su empleo directo en centros de acogimiento residencial."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Alinear obras con factores de bienestar",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Vincular de forma sistemática las tramas, personajes arquetípicos y estrategias de afrontamiento presentes en los cómics con los ocho factores del bienestar socioemocional de los adolescentes tutelados."
+      },
+      {
+        "id": "6",
+        "label": "Análisis documental y de contenido temático",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Diseño cualitativo descriptivo y documental centrado en el examen de historias de aprendizaje (Bildungsroman) publicadas profesionalmente en español con protagonistas juveniles en búsqueda de reconocimiento."
+      },
+      {
+        "id": "7",
+        "label": "Corpus especializado de 16 novelas gráficas",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Muestra intencional de 16 novelas gráficas de contrastada calidad literaria categorizadas en autopatografías testimoniales, relatos postraumáticos, autoficciones íntimas y ficciones metafóricas de fantasía y misterio."
+      },
+      {
+        "id": "8",
+        "label": "Matriz analítica de conflictos y afrontamiento",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Protocolo analítico de registro que triangula los conflictos internos, interpersonales y sociales de los personajes con sus respuestas adaptativas (resolutivas) o desadaptadas (agresividad, aislamiento, evasión)."
+      },
+      {
+        "id": "9",
+        "label": "Reelaboración de la memoria familiar sin culpa",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Evidencia en obras como 'Stitches. Una infancia muda' o 'Soy una matagigantes': las viñetas facilitan dialogar sobre negligencia parental, enfermedad, muerte o pérdida sin activar mecanismos reactivos de culpa."
+      },
+      {
+        "id": "10",
+        "label": "Normalización de la salud mental y el duelo",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Hallazgo en títulos como 'Stitches' o 'Coraje': el lenguaje gráfico visibiliza el sufrimiento mental, el duelo y la ansiedad como respuestas humanas legítimas ante vivencias traumáticas."
+      },
+      {
+        "id": "11",
+        "label": "Empoderamiento y búsqueda de autonomía",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Constatación en obras como 'Solos' o 'Harley Quinn': los protagonistas modelan la superación del estigma, la afirmación de la propia identidad y la conquista progresiva de la autonomía personal."
+      },
+      {
+        "id": "12",
+        "label": "Valor terapéutico de las redes de apoyo elegidas",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Las narrativas gráficas destacan de manera recurrente el valor salvador de los vínculos informales con iguales y figuras de apego secundarias cuando la red familiar biológica de origen se ha quebrado."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: El cómic como tutor de resiliencia",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Debate sustentado en Barudy y Dantagnan (2005) sobre la condición del arte secuencial como recurso reparador idóneo para resignificar heridas infantiles sin someter al menor a interrogatorios verbales invasivos."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Necesidad de mediación socioeducativa",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Advertencia metodológica clave: la lectura voluntaria requiere el andamiaje afectivo y dialógico de educadores sociales familiarizados con el medio para canalizar constructivamente las emociones movilizadas."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Ausencia de contraste empírico de campo",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Propuesta teórica y documental aplicada que no incluyó la implementación experimental en centros residenciales reales ni la medición psicométrica previa y posterior en grupos de adolescentes tutelados."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Comictecas para la inclusión social",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "La investigación fundamenta la creación urgente de comictecas especializadas en todos los centros de menores como espacios privilegiados de mediación, dignificación identitaria y fomento del bienestar integral."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se aborda desde la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se evalúa mediante"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "fundamenta el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "proporciona ejes para"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se ejecuta con"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se parametriza en"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "selecciona el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se codifica con"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "evidencia el factor de"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "demuestra el alivio en"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "constata el"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "resalta el"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "aporta base para"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "sustenta la noción de"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "demanda el apoyo de"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "refuerza la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "concluye en"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "se delimita por"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "orienta la propuesta de"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "define el reto para"
+      }
+    ]
+  }
+}

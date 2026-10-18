@@ -1,0 +1,152 @@
+{
+  "id": "promocion_lectura_marco_educativo",
+  "metadata": {
+    "title": "Promoción de la lectura en el marco educativo",
+    "authors": "Maite Monar van Vliet",
+    "year": "2012",
+    "journal": "Ocnos. Revista de estudios sobre lectura, V(8), 2012, pp. 67–74",
+    "doi": "https://doi.org/10.18239/ocnos_2012.08.06",
+    "gancho": "Investigación teórico-práctica sobre la promoción de la lectura en el ámbito educativo. Revisa la legislación (UNESCO, LOE y planes de lectura) y el estado de la cuestión, y realiza un trabajo de campo cualitativo para evaluar los beneficios de la web, el blog y el wiki en el aul",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#5b9eaa",
+    "bg": "from-ocean-base/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-1.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-1.png",
+      "name": "Maite Monar van Vliet",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Maite Monar van Vliet, autor/a en Revista Ocnos",
+      "gancho": "Investigación teórico-práctica sobre la promoción de la lectura en el ámbito educativo. Revisa la legislación (UNESCO, LOE y planes de lectura) y el estado de la cuestión, y realiza un trabajo de camp",
+      "contexto": "**1. El marco legislativo nacional e internacional.** La investigación ordena la normativa desde las directrices internacionales hasta la legislación autonómica. La UNESCO elabora el Manifiesto de la biblioteca pública y el Manifiesto de la biblioteca escolar; en ellos la biblioteca pública se considera \"una fuerza viva para la educación, la cultura y la información\", y la misión de la biblioteca escolar es dotar al alumnado de las habilidades de",
+      "deepDives": [
+        {
+          "id": "promocion_lectura_marco_educativo-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "El artículo parte de una brecha reconocible: existe una amplia producción normativa y de estudio sobre la promoción de la lectura, pero su traslado real al aula mediante tecnologías virtuales es desigual y, en el caso valenciano, carece de un plan lector oficial. La relevancia es doble: orienta a do"
+        },
+        {
+          "id": "promocion_lectura_marco_educativo-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "**1. El marco legislativo nacional e internacional.** La investigación ordena la normativa desde las directrices internacionales hasta la legislación autonómica. La UNESCO elabora el Manifiesto de la biblioteca pública y el Manifiesto de la biblioteca escolar; en ellos la biblioteca pública se consi"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El artículo parte de una brecha reconocible: existe una amplia producción normativa y de estudio sobre la promoción de la lectura, pero su traslado real al aula mediante tecnologías virtuales es desigual y, en el caso valenciano, carece de un plan lector oficial. La relevancia es doble: orienta a docentes e instituciones sobre el estado de la cuest",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "práctica de esa promoción y se estructura en cuatro partes: el estado de la cuestión, la metodología, el trabajo de campo y las conclusiones.",
+        "35), el concepto 2.0 alude a las características sociales y colaborativas que adquiere Internet al pasar de páginas exclusivamente de lectura (Web 1.0) a páginas de lectura y escritura que permiten interactuar.",
+        "2011 con tres grupos de tres centros diferentes\", uno público, uno concertado y otro privado. Esa pregunta articula todo el aparato teórico previo con la observación empírica."
+      ],
+      "glossary": [
+        {
+          "term": "CRA (Centro de Recursos para el Aprendizaje)",
+          "definition": "modelo de biblioteca escolar que apoya el currículum."
+        },
+        {
+          "term": "Web 2.0",
+          "definition": "Internet de lectura y escritura que permite interactuar entre usuarios."
+        },
+        {
+          "term": "TIC",
+          "definition": "tecnologías de la información y la comunicación."
+        },
+        {
+          "term": "Triangulación",
+          "definition": "validación cruzada de los datos desde varios puntos de vista."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Se trata de una investigación de tesis doctoral de enfoque cualitativo. La metodología se construye desde un corpus de ocho obras —Blaxter, Hughes y Tight (2008); Callejo (2001); Hine (2004); Latorre (2003); MacKernan (1999); Vasilachis (2009); Haro (2010) y Yus (2010)— y se articula en los tres momentos de la investigación cualitativa: el método de recogida de datos, el de análisis e interpretaci",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Análisis empírico o teórico de corpus según fuentes primarias"
+        }
+      ],
+      "limitaciones": [
+        "El artículo describe con detalle el diseño, el corpus y la recogida de datos, pero no dedica un apartado propio a las limitaciones del estudio: **los autores no declaran límites** de forma explícita. "
+      ],
+      "reflexion": "Si replicaras este diseño en tu contexto, ¿qué centro y qué plataforma (web, blog o wiki) elegirías, y qué tres técnicas de recogida combinarías para triangular la información entre profesor, alumnado y observador?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "Panorama legislativo fragmentado.",
+          "value": "El texto documenta la cadena UNESCO → LOE → planes autonómicos (PLEC, PLEI, PLAN LYB) y señala la ausencia de un plan lector oficial en el País Valenciano frente a otras comunidades."
+        },
+        {
+          "label": "La biblioteca escolar como CRA.",
+          "value": "Todas las obras revisadas coinciden en considerarla un Centro de Recursos para el Aprendizaje \"que apoye el currículum\", variada, de calidad, dotada de instrumentos tecnológicos y con organización eficaz."
+        },
+        {
+          "label": "Tres plataformas, tres centros.",
+          "value": "El estudio observa página web, blog y wiki en tres centros de distinta titularidad (público, privado y concertado), uno por plataforma, durante el curso 2010-2011."
+        },
+        {
+          "label": "Tres fases convergentes.",
+          "value": "Observar la aplicación (estudio de casos), analizar la utilidad (grupo de discusión) y acercar buenas prácticas (etnografía) ordenan todo el trabajo de campo."
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El marco del artículo combina tres capas. La primera es normativa e institucional: la UNESCO (manifiestos y directrices de 2002), la Ley 10/2007, la LOE y los planes de lectura autonómicos. La segunda es la investigación sobre la lectura y las bibliotecas escolares: los informes del estado de la lectura en España (FGSR, 2005; Millán, 2008; FAQ, 2010), las obras de definición y caracterización que ",
+      "detalles": [
+        {
+          "label": "Tradición Teórica",
+          "value": "Teorías de la lectura, didáctica de la lengua y estudios literarios."
+        }
+      ],
+      "reflexion": "¿Qué contra-argumento darías a la tesis de que basta con que \"los organismos oficiales se impliquen\" para fomentar la lectura, y qué aporta el concepto 2.0 a ese debate?"
+    },
+    "nucleo": {
+      "pregunta": "¿Qué beneficios aportan la página web, el blog y el wiki en el aula para la promoción de la lectura durante el curso escolar 2010-2011, en tres centros escolares diferentes?",
+      "conclusion": "La investigación concluye con una serie de reflexiones que ofrecen al lector ejemplos de promoción de la lectura en el marco educativo con tecnologías virtuales, apoyándose en la observación de las plataformas digitales en el aula, el análisis de su utilidad a través del grupo de discusión y la triangulación. Su principal valor es el despliegue teórico-práctico que une legislación, investigación y promoción virtual de la lectura; el propio resume",
+      "formalRef": "Monar van Vliet, M. (2012). Promoción de la lectura en el marco educativo. *Ocnos. Revista de estudios sobre lectura*, 8, 67–74. https://doi.org/10.18239/ocnos_2012.08.06\n> *Nota: el DOI no figura en el texto plano y se ha tomado de los metadatos del artículo.*"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es el objetivo principal del trabajo de campo?",
+          "options": [
+            "A) Analizar la legislación comparada de las comunidades autónomas.",
+            "B) Evaluar los beneficios de la página web, el blog y el wiki en el aula para la promoción de la lectura durante 2010-2011.",
+            "C) Definir el concepto de biblioteca escolar como Centro de Recursos para el Aprendizaje.",
+            "D) Cuantificar los hábitos lectores de todo el alumnado valenciano."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuántos centros y con qué titularidades integra el estudio de casos múltiples?",
+          "options": [
+            "A) Dos centros, ambos públicos.",
+            "B) Tres centros: uno público, uno privado y uno concertado.",
+            "C) Cinco centros, todos privados.",
+            "D) Un único centro concertado."
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  }
+}

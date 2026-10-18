@@ -1,0 +1,434 @@
+{
+  "id": "practicas_lectoras_digitales_ciencias_sociales_exactas",
+  "metadata": {
+    "title": "Prácticas lectoras en la era digital entre estudiantes universitarios de ciencias sociales y ciencias exactas",
+    "authors": "Eloísa Alcocer-Vázquez y Alfredo Zapata-González",
+    "year": "2021",
+    "journal": "Ocnos 20(3)",
+    "doi": "10.18239/ocnos_2021.20.3.2526",
+    "gancho": "¿Leen igual los futuros ingenieros y matemáticos que los estudiantes de derecho y antropología en el ecosistema digital?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#264653",
+    "bg": "from-teal-900/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/lectura-digital-exactas/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-alcocer/200/200",
+      "name": "Dra. Eloísa Alcocer-Vázquez",
+      "role": "Investigadora en Cultura Escrita y Medios Digitales, Universidad Autónoma de Yucatán"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Eloísa Alcocer-Vázquez, investigadora en cibercultura letrada y educación superior",
+      "gancho": "La biblioteca universitaria ya no es el único templo del saber. En la red, los estudiantes buscan información cruzada, participan en foros y consumen textos mientras escuchan podcasts. ¿Cómo cambia su perfil según su carrera?",
+      "contexto": "Las tecnologías digitales han descentrado las instituciones tradicionales de mediación lectora. Para ir más allá de los conteos mecánicos de libros leídos al año, este estudio aplica técnicas de Descubrimiento de Conocimiento en Bases de Datos (KDD) y minería de datos sobre 667 universitarios mexicanos, comparando las escenas transmediales de estudiantes de ciencias exactas frente a los de ciencias sociales y humanidades.",
+      "deepDives": [
+        {
+          "id": "alc-apertura-1",
+          "triggerLabel": "La metodología KDD y minería de datos",
+          "type": "theory",
+          "content": "Fayyad et al. (1996) definieron el KDD como el proceso no trivial de identificar patrones válidos, novedosos y útiles en grandes volúmenes de datos mediante algoritmos de clasificación y agrupamiento (NaiveBayes y K-Means en WEKA)."
+        },
+        {
+          "id": "alc-apertura-2",
+          "triggerLabel": "La metodología común de lectura CERLALC",
+          "type": "data",
+          "content": "Desarrollada por el Centro Regional para el Fomento del Libro en América Latina y el Caribe (2014), mide prácticas híbridas y escenas transmediales integrando pantallas, redes y formatos analógicos."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Las universidades suelen asumir que sus alumnos son o bien 'lectores competentes' o 'no-lectores apáticos', ignorando que la mayoría ejerce una lectura puramente instrumental ligada a las tareas de clase. Al egresar, si no han desarrollado razones personales de lectura por placer, su hábito lector colapsa.",
+      "porQueImporta": "Comprender la brecha entre facultades disciplinares permite diseñar programas de fomento lector personalizados que aprovechen la inclinación digital de los jóvenes sin forzar modelos humanísticos uniformes que los ingenieros rechazan.",
+      "dataPoints": [
+        "Muestra de 667 estudiantes de la Universidad Autónoma de Yucatán (UADY) entre 18 y 21 años.",
+        "Comparación disciplinar: 289 de Ciencias Exactas e Ingeniería (CEI) frente a 378 de Ciencias Sociales y Humanidades (CSEAyH).",
+        "Búsqueda complementaria activa: más del 84% en ambos campus busca datos en internet mientras lee un libro (88.9% en CEI y 84.2% en CSEAyH).",
+        "Comunidades virtuales: 48.3% de sociales comenta en foros digitales frente al 38.2% de exactas.",
+        "Producción creativa escasa: menos del 20% escribe fanfiction o historias paralelas (19.1% sociales y 16.9% exactas).",
+        "Pasividad digital: el 41.2% de los estudiantes de ingeniería no realiza ninguna actividad participativa digital vinculada al libro."
+      ],
+      "glossary": [
+        {
+          "term": "Lector instrumental",
+          "definition": "Sujeto que lee exclusivamente para cumplir obligaciones académicas o laborales sin mantener un hábito de ocio voluntario."
+        },
+        {
+          "term": "Escena transmedial",
+          "definition": "Práctica lectora compleja donde convergen múltiples medios, dispositivos y redes sociales alrededor de una misma obra."
+        },
+        {
+          "term": "Prosumidor",
+          "definition": "Lector que no solo consume contenidos culturales, sino que genera reseñas, comentarios y textos derivados en la red."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "alc-conflicto-1",
+          "triggerLabel": "El programa Livraria UADY",
+          "type": "data",
+          "content": "Financiado por el Fondo Nacional para la Cultura y las Artes (FONCA) entre 2017 y 2019, 'Livraria' creó espacios de encuentro para activar la lectura voluntaria mediante clubes de discusión y talleres digitales."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Minería de datos con WEKA y encuesta CERLALC",
+      "narrativa": "Los autores estructuraron un protocolo de tratamiento de datos siguiendo las fases del KDD (selección, preprocesado, transformación, minería e interpretación):",
+      "detalles": [
+        {
+          "label": "1. Aplicación del cuestionario adaptado",
+          "value": "Instrumento de 24 ítems sobre hábitos, motivos, dificultades de lectura y escenas transmediales aplicado en línea a 667 estudiantes."
+        },
+        {
+          "label": "2. Preprocesado y transformación KDD",
+          "value": "Limpieza de inconsistencias, codificación de variables nominales y discretización de datos en el software libre WEKA 3.8."
+        },
+        {
+          "label": "3. Clasificación y agrupamiento algorítmico",
+          "value": "Ejecución del algoritmo NaiveBayesSimple para generar reglas de predicción y SimpleKMeans para extraer clústeres de perfiles lectores."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Dos culturas lectoras bajo el mismo techo universitario",
+      "narrativa": "Los algoritmos de minería de datos descubrieron perfiles diferenciados por campus disciplinar:",
+      "hallazgos": [
+        {
+          "label": "El hiperlector complementario: La práctica hegemónica en ambos grupos no es la lectura pasiva aislada, sino la indagación web inmediata de autores, términos y contextos del libro.",
+          "value": ""
+        },
+        {
+          "label": "Sociales: Más dialógicos y expresivos: El campus de humanidades mostró mayor apego a la discusión en comunidades virtuales, blogs y clubes de lectura digitales.",
+          "value": ""
+        },
+        {
+          "label": "Ingeniería: Prácticas concentradas e individuales: El alumnado de exactas lee preferentemente en solitario, con un 41.2% que rechaza interactuar en redes sobre sus libros.",
+          "value": ""
+        },
+        {
+          "label": "Abandono total de la televisión: Ambos perfiles coinciden unánimemente en sustituir la televisión por el teléfono móvil y las plataformas de streaming.",
+          "value": ""
+        }
+      ],
+      "reflexion": "El estudiante de ingeniería no lee menos: lee de forma más pragmática y silenciosa, buscando respuestas precisas en lugar de tertulias compartidas.",
+      "deepDives": [
+        {
+          "id": "alc-revelacion-1",
+          "triggerLabel": "Las reglas NaiveBayes generadas",
+          "type": "data",
+          "content": "Las reglas If/then/else generadas por NaiveBayesSimple destacaron el gusto por leer en entornos digitales, el desinterés por ver contenidos en la televisión y la frecuencia diaria de navegación en redes sociales y de uso de dispositivos móviles."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Ecología mediática y actualización del canon universitario",
+      "narrativa": "Alcocer-Vázquez y Zapata-González formulan recomendaciones para las políticas universitarias:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Alfabetización transmedia (Scolari): Los universitarios han desarrollado habilidades intuitivas de navegación multimodal que la academia desaprovecha."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Sociología de la lectura (Yubero, Larrañaga): Confirmación de que el hábito lector por placer es minoritario y vulnerable ante la carga académica."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Cultura libre y acceso abierto: Demanda estudiantil de recursos bibliográficos digitales accesibles desde teléfonos móviles sin muros de pago."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Nostalgia del libro impreso vs. Realidad de pantalla: Crítica a las campañas universitarias que demonizan la lectura en dispositivos móviles."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Homogeneización institucional vs. Perfiles situados: Fracaso de los planes de lectura que ofrecen el mismo catálogo clásico a ingenieros y a sociólogos."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "La muestra no incluyó facultades de Ciencias de la Salud ni Biología, donde los patrones de lectura científica son singulares."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El cuestionario es de autorreporte, lo que puede inducir sesgos de deseabilidad social en la frecuencia de lectura declarada."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las bibliotecas universitarias Transformar las salas de lectura en laboratorios de aprendizaje transmedial con acceso a bases de datos digitales y comunidades virtuales."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para el diseño de planes de fomento lector Diseñar itinerarios diferenciados: tertulias y foros para ciencias sociales; retos de divulgación y lectura aplicada para ingenierías."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la docencia universitaria Integrar la búsqueda complementaria y la verificación crítica de fuentes digitales en las tareas obligatorias de todas las carreras."
+        },
+        {
+          "label": "Tabla",
+          "value": "Actividad Transmedial en Internet | Ciencias Exactas e Ingeniería (N=289) | Ciencias Sociales y Humanidades (N=378) | Diferencia Porcentual\nBuscar información complementaria | 88.9% (n=255) | 84.2% (n=310) | +4.7% en Exactas\nComentar en foros y comunidades | 38.2% (n=102) | 48.3% (n=172) | +10.1% en Sociales\nInscribirse a sitios web del libro | 39.7% (n=106) | 47.5% (n=169) | +7.8% en Sociales\nEscribir historias o fanfiction | 16.9% (n=45) | 19.1% (n=68) | +2.2% en Sociales\nSin ninguna actividad digital | 41.2% (n=110) | 28.4% (n=101) | +12.8% en Exactas (pasividad)"
+        }
+      ],
+      "reflexion": "La universidad del siglo XXI debe aprender a leer como leen sus estudiantes: conectando pantallas, cruzando disciplinas y abriendo ventanas al mundo.",
+      "deepDives": [
+        {
+          "id": "alc-marco-1",
+          "triggerLabel": "Los grupos de SimpleKMeans",
+          "type": "theory",
+          "content": "El algoritmo SimpleKMeans (MacQueen, 1967) permitió agrupar a la población según sus atributos mutuamente excluyentes, distinguiendo la frecuencia de la lectura por gusto, las lecturas de crecimiento personal, las anotaciones y las actividades en internet vinculadas al libro."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo configuran sus prácticas lectoras digitales los estudiantes de ciencias exactas y ciencias sociales en la universidad contemporánea?",
+      "conclusion": "Más del 84% de los universitarios investiga activamente en internet mientras lee un libro, rompiendo el aislamiento de la lectura tradicional. El campus de ciencias sociales supera en más de 10 puntos al de exactas en participación en foros y comunidades virtuales. El 41.2% de los estudiantes de ingeniería no participa en ninguna actividad digital vinculada a sus lecturas. La producción creativa (fanfiction, relatos derivados) sigue siendo minoritaria en ambos campus (inferior al 20%). Superar los enfoques punitivos de lectura instrumental incorporando lecturas placenteras vinculadas a dilemas éticos profesionales. Capacitar a los estudiantes en alfabetización crítica de la información para filtrar los resultados de sus búsquedas complementarias. Personalizar los programas de fomento lector según los intereses y estilos de aprendizaje de cada campus universitario. Promover la creación de contenidos digitales (reseñas, videorreseñas) como actividades de evaluación académica formativa. No hay una sola forma de ser lector universitario: cada disciplina inventa sus propios caminos para dialogar con los textos y las pantallas.",
+      "formalRef": "Eloísa Alcocer-Vázquez y Alfredo Zapata-González. (2021). Prácticas lectoras en la era digital entre estudiantes universitarios de ciencias sociales y ciencias exactas. Ocnos 20(3). https://doi.org/10.18239/ocnos_2021.20.3.2526"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué actividad digital transmedial fue la más practicada por la gran mayoría de los universitarios de ambos campus durante la lectura?",
+          "options": [
+            "Escribir fanfiction en Wattpad",
+            "Buscar información complementaria en internet sobre el libro",
+            "Grabar vídeos para TikTok",
+            "Comprar merchandising del autor"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué software libre de minería de datos y algoritmos de aprendizaje automático se utilizó en la metodología KDD del estudio?",
+          "options": [
+            "SPSS versión 20",
+            "WEKA 3.8 (NaiveBayes y SimpleKMeans)",
+            "Atlas.ti 8",
+            "NVivo 12"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Prácticas lectoras en la era digital",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "La lectura digital en el entorno universitario exige una alfabetización informacional compleja que trasciende la decodificación instrumental y demanda habilidades críticas para discriminar fuentes, navegar hipertextos y evitar la sobrecarga cognitiva."
+      },
+      {
+        "id": "2",
+        "label": "Lector instrumental vs. Lectura por placer",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "A pesar de la ubicuidad de dispositivos electrónicos e internet, persisten marcadas brechas digitales de segundo y tercer nivel relativas a la calidad del aprovechamiento académico, las competencias críticas y las oportunidades de autoformación lectora."
+      },
+      {
+        "id": "3",
+        "label": "Escenas transmediales y prosumidores (CERLALC)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Existen patrones disciplinares profundamente diferenciados: las ciencias sociales demandan lectura argumentativa, reflexiva y hermenéutica de fuentes extensas, mientras que las ciencias exactas priorizan textos operativos, algorítmicos y formulaciones simbólicas."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Identificar patrones lectores por campus",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Objetivo principal: caracterizar y contrastar empíricamente las prácticas lectoras en formato digital de los estudiantes universitarios según su adscripción a áreas de ciencias sociales o ciencias exactas en la educación superior."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Aplicar minería de datos (KDD)",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Objetivo específico: descubrir asociaciones ocultas y perfiles subyacentes de consumo lector, formativo y recreativo mediante minería de datos y reglas de asociación en repositorios digitales universitarios."
+      },
+      {
+        "id": "6",
+        "label": "Metodología KDD en cinco fases",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Proceso no trivial de Descubrimiento de Conocimiento en Bases de Datos (KDD) de Fayyad et al. (1996), implementado en cinco fases: selección, preprocesado, transformación, minería de datos e interpretación."
+      },
+      {
+        "id": "7",
+        "label": "Muestra de 667 universitarios (UADY)",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Población de 667 estudiantes de la Universidad Autónoma de Yucatán: 289 de Ciencias Exactas e Ingeniería (CEI) y 378 de Ciencias Sociales, Económico-Administrativa y Humanidades (CSEAyH), en su mayoría entre 18 y 21 años."
+      },
+      {
+        "id": "8",
+        "label": "Cuestionario adaptado del CERLALC (24 ítems)",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Adaptación del cuestionario de la metodología común del CERLALC (2014): 24 ítems (6 sociodemográficos y 18 sobre perfil lector, hábitos, motivos y dificultades de lectura y escenas transmediales)."
+      },
+      {
+        "id": "9",
+        "label": "Hegemonía de la búsqueda complementaria",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "La actividad complementaria más recurrente en ambos campus es la búsqueda de información en internet sobre lo que se lee: 88.9% (n=255) en CEI y 84.2% (n=310) en CSEAyH."
+      },
+      {
+        "id": "10",
+        "label": "Mayor participación dialógica en ciencias sociales",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "El campus de Ciencias Sociales y Humanidades supera al de Exactas en actividades participativas: 48.3% (n=172) frente a 38.2% (n=102) comenta en comunidades virtuales y 47.5% (n=169) frente a 39.7% (n=106) se inscribe en sitios del libro."
+      },
+      {
+        "id": "11",
+        "label": "Pasividad participativa en estudiantes de exactas",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "El 41.2% (n=110) del alumnado de Ciencias Exactas e Ingeniería no mantiene ninguna actividad participativa digital vinculada a sus lecturas, frente al 28.4% (n=101) de Ciencias Sociales."
+      },
+      {
+        "id": "12",
+        "label": "Producción creativa minoritaria (fanfiction <20%)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "La escritura creativa de historias paralelas o fanfiction sigue siendo minoritaria: 19.1% (n=68) en CSEAyH y 16.9% (n=45) en CEI, lo que constituye un área importante por observar e impulsar."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Dos culturas letradas universitarias",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Contradicción con el mito de los nativos digitales: el fácil acceso a dispositivos no garantiza por sí mismo un aprovechamiento epistémico profundo de los recursos digitales, evidenciando un uso eminentemente utilitario."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Desaprovechamiento de la transmedialidad",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Urgencia institucional de implementar programas transversales de alfabetización académica y mediática que superen la mera provisión técnica de infraestructura y atiendan las culturas lectoras disciplinares."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Acotación disciplinar",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "El estudio se acota a dos agrupamientos disciplinares de una única universidad regional; sus autores recomiendan ampliar la población a otros campos como las ciencias de la salud o las ciencias biológicas."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Personalizar el fomento lector",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "Se concluye que las prácticas lectoras digitales universitarias son funcionalmente utilitarias y están mediadas por la cultura epistémica del área disciplinar, exigiendo políticas pedagógicas activas de mediación lectora."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se complejiza por la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se operacionaliza mediante"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "motiva explorar el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "fundamenta modelar con"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se aborda a través de"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se ejecuta mediante"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se aplica sobre"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "responde al"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "descubre la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "registra una"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "constata la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "evidencia una"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "sustenta la tesis de"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "aporta base empírica para"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "reclama superar el"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "muestra el reto de"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "concluye en"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "se delimita por"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "orienta la necesidad de"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "marca el alcance de"
+      }
+    ]
+  }
+}

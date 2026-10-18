@@ -6,13 +6,13 @@
     "year": "2025",
     "journal": "Ocnos 24(1)",
     "doi": "10.18239/ocnos_2025.24.1.478",
-    "gancho": "¿Por qué los censores de Franco y Salazar temían que Caperucita Roja o Cenicienta corrompieran a la juventud patriótica?",
+    "gancho": "¿Por qué los censores de Franco y Salazar temían que Piel de asno o Cenicienta corrompieran a la juventud patriótica?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#9b82c3",
     "colorAlt": "#2a5a75",
     "bg": "from-purple-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-24.png",
+    "image": "/assets/portadas/cuentos_hadas_censura.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-24.png",
       "name": "Dr. Ramón Tena-Fernández",
@@ -23,19 +23,19 @@
     "apertura": {
       "personaje": "Dr. Ramón Tena-Fernández, historiador de la literatura infantil y los aparatos de censura política",
       "gancho": "¿Cómo convirtieron dos dictaduras ultracatólicas los cuentos populares en instrumentos de adoctrinamiento de género?",
-      "contexto": "Bajo las dictaduras de Franco en España y de Salazar en Portugal, la literatura infantil y juvenil fue sometida a una vigilancia implacable. Los expedientes de censura gubernamentales revelan el pánico moral de los regímenes: expurgar cualquier alusión a la magia no cristiana, reescribir a las protagonistas femeninas como modelos de sumisión hogareña y eliminar el erotismo latente de los cuentos clásicos de Perrault, Grimm y Andersen.",
+      "contexto": "Bajo las dictaduras de Franco en España y de Salazar en Portugal, la literatura infantil y juvenil fue sometida a una vigilancia implacable. Los expedientes de censura gubernamentales revelan el pánico moral de los regímenes: expurgar cualquier alusión a la magia no cristiana, reescribir a las protagonistas femeninas como modelos de sumisión hogareña y ocultar los conflictos familiares incómodos de los cuentos clásicos de Perrault, Grimm y Andersen.",
       "deepDives": [
         {
           "id": "cen-apertura-1",
           "triggerLabel": "La censura ibérica comparada",
           "type": "theory",
-          "content": "Análisis paralelo de los expedientes del Servicio de Inspección de Libros (España) y de la Comisión de Censura del Estado Novo (Portugal)."
+          "content": "Análisis paralelo de los expedientes del Ministerio de Información y Turismo (España) y de la Direcção dos Serviços de Censura del Estado Novo (Portugal)."
         },
         {
           "id": "cen-apertura-2",
           "triggerLabel": "Expurgos documentados",
           "type": "data",
-          "content": "Tachaduras textuales, prohibiciones fulminantes de importación y exigencia de aprobación eclesiástica para reeditar cuentos de hadas."
+          "content": "Tachaduras textuales, rechazo especial a las obras de importación y revisión de contenidos morales, políticos y religiosos al reeditar cuentos de hadas."
         }
       ]
     },
@@ -43,10 +43,10 @@
       "problema": "Los regímenes totalitarios entendieron que el cuento de hadas modela el inconsciente infantil, por lo que impusieron una férrea reescritura ideológica.",
       "porQueImporta": "Rastrear la censura del pasado enseña a proteger la libertad creativa de la infancia frente a las nuevas formas de censura moral y política contemporáneas.",
       "dataPoints": [
-        "Estudio comparado de expedientes de censura entre 1939 y 1975 en España y Portugal.",
-        "Obsesión censora por erradicar 'ideas perniciosas': brujas que vencen a curas, mujeres rebeldes y falta de devoción católica.",
-        "Cenicienta y Blancanieves reescritas como amas de casa ejemplares y sacrificadas al servicio del hogar patriarcal.",
-        "Tolerancia estratégica hacia versiones disneyanas dulcificadas que no cuestionaban el orden social."
+        "Estudio comparado de expedientes de censura de las dictaduras de Franco y Salazar (muestra registrada entre 1931 y 1970).",
+        "Obsesión censora por erradicar 'ideas perniciosas': tretas y engaños que triunfan, mujeres rebeldes y mezcla confusa de religión y magia.",
+        "La Cenicienta portuguesa convertida en canon de la mujer abnegada, complaciente y sufridora, con el escote de la protagonista corregido en 1960.",
+        "Mientras en España se sancionaban los engaños de 'El gato con botas' o 'Nicolasín y Nicolasón', en Portugal el mismo género se autorizaba y alababa por su religiosidad."
       ],
       "glossary": [
         {
@@ -69,11 +69,11 @@
         },
         {
           "label": "Periodo",
-          "value": "1939-1975 (Dictaduras de Franco y Salazar)."
+          "value": "1931-1970 (expedientes consultados de las dictaduras de Franco y Salazar)."
         }
       ],
       "limitaciones": [
-        "Pérdida o destrucción parcial de algunos expedientes administrativos de los años 40."
+        "Desaparición de más de sesenta mil expedientes —los fechados entre 1964 y 1969— en el traslado al AGA y en la hoguera ministerial de la noche de la muerte de Franco."
       ],
       "reflexion": "La tinta roja del censor siempre delata el miedo que los poderosos tienen a la imaginación popular."
     },
@@ -86,12 +86,12 @@
           "value": "Hadas, duendes y maleficios debían subordinarse a los milagros cristianos para no confundir a los niños."
         },
         {
-          "label": "2. Castigo a la Curiosidad Femenina",
-          "value": "El cuento de 'Barba Azul' fue sistemáticamente modificado o prohibido para que la desobediencia femenina no pareciera un acto de supervivencia heroica."
+          "label": "2. La Familia Intocable",
+          "value": "La censura ocultó los matrimonios estériles de 'La Bella durmiente', la misoginia de 'Grisélidis' contra el modelo del 'ángel del hogar' y el incesto de 'Piel de asno', rechazado incluso sustituyendo al padre por un príncipe feo y vago."
         }
       ],
       "dataPoints": [
-        "Más de 120 expedientes de cuentos populares analizados con tachaduras textuales explícitas."
+        "Más de 700 expedientes de censura consultados durante una década en los archivos de España y Portugal."
       ],
       "reflexion": "Cuando una dictadura tiene miedo de un cuento de hadas, demuestra su propia debilidad moral."
     },
@@ -137,14 +137,14 @@
         },
         {
           "type": "choice",
-          "q": "¿Por qué el cuento clásico de 'Barba Azul' resultaba especialmente problemático para los censores de la época?",
+          "q": "¿Por qué resultaba especialmente problemático para la censura franquista el cuento de 'Piel de asno'?",
           "options": [
-            "Porque el castillo era demasiado grande.",
-            "Porque la desobediencia de la esposa al abrir la habitación prohibida terminaba desenmascarando los crímenes del marido patriarca.",
-            "Porque la barba del protagonista no estaba afeitada.",
-            "Porque no aparecían animales que hablaran."
+            "Porque el padre quería casarse con su hija, rompiendo la 'santidad de la familia'.",
+            "Porque el asno no hablaba.",
+            "Porque el protagonista vestía de forma vulgar.",
+            "Porque el cuento era demasiado extenso."
           ],
-          "correct": 1
+          "correct": 0
         },
         {
           "type": "open",
@@ -152,7 +152,7 @@
         },
         {
           "type": "open",
-          "q": "¿Cómo trabajarías en una clase de Secundaria la evolución histórica de 'Caperucita Roja' mostrando cómo cada época proyecta en el lobo sus propios temores sociales?"
+          "q": "¿Cómo trabajarías en una clase de Secundaria la evolución histórica de 'Cenicienta' mostrando cómo cada época proyecta en ella sus propios modelos de mujer?"
         }
       ]
     }
@@ -163,7 +163,7 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "¿Hadas cristianas y Caperucitas sumisas? La maquinaria totalitaria quiso doblegar la fantasía popular.",
+      "text": "¿Hadas cristianas y Cenicientas sumisas? La maquinaria totalitaria quiso doblegar la fantasía popular.",
       "position": "bottom-right"
     },
     "viaje": {
@@ -171,7 +171,7 @@
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Pánico a la rebeldía femenina! 'Barba Azul' y las brujas sabias eran las víctimas preferidas de los censores.",
+      "text": "¡Pánico a la rebeldía femenina! 'Piel de asno', 'Grisélidis' y las hadas eran las víctimas preferidas de los censores.",
       "position": "bottom-right"
     },
     "marco": {
@@ -192,110 +192,241 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Cuentos de Hadas y Censura en las Dictaduras Ibéricas",
-    "descripcion": "Estudio archivístico comparado (AGA y Torre do Tombo, 1939-1975): Franco, Salazar, moral nacional-católica, sumisión de género y resistencia simbólica.",
+    "titulo": "Mapa conceptual: las censuras de Franco y Salazar sobre los cuentos de hadas",
+    "descripcion": "Recorrido completo del estudio comparado de Tena-Fernández y Reis Da Silva (Ocnos 24(1)): del contexto de la memoria democrática y los modelos censorios, a la metodología archivística (AGA y Torre do Tombo), los temas sancionados en España y Portugal, y las conclusiones sobre la homogeneización de mentalidades.",
     "nodos": [
       {
         "id": "1",
-        "label": "Censura Ibérica Infantil",
-        "color": "#9b82c3"
+        "label": "Memoria democrática y rescate de las obras vetadas",
+        "color": "#9b82c3",
+        "role": "Introducción",
+        "descripcion": "La Ley 20/2022 de Memoria Democrática impulses recuperar las voces silenciadas y las obras que las dictaduras vetaron; España y Portugal mantienen un desconocimiento recíproco sobre sus censuras (Márquez, 1982; Andrade, 2008; Suárez, 2022)."
       },
       {
         "id": "2",
-        "label": "Franquismo y Salazarismo",
-        "color": "#264653"
+        "label": "Fascismo ibérico: 'hermanos siameses'",
+        "color": "#264653",
+        "role": "Marco",
+        "descripcion": "Pena (2017): Franco y Salazar se protegieron mutuamente; Portugal puso diplomacia y censura al servicio del pacto y buscó, con el Secretariado de Propaganda Nacional y los Serviços de Censura, un discurso homogéneo en la península."
       },
       {
         "id": "3",
-        "label": "Archivos AGA y Torre do Tombo",
-        "color": "#2a5a75"
+        "label": "Modelos de censura: previa (España), mixta (Portugal), posterior (Italia/Alemania)",
+        "color": "#2a5a75",
+        "role": "Marco",
+        "descripcion": "Peña (2019): España impuso evaluación previa a la edición; Portugal combinaba ambas según destinatario y temática; el órgano cambiaba de rumbo según lo dominara la Falange (1941-1945), tecnócratas u Opus Dei."
       },
       {
         "id": "4",
-        "label": "Adoctrinamiento Patriarcal",
-        "color": "#c73e1d"
+        "label": "Comisiones de LIJ y reglamentos de los años cincuenta",
+        "color": "#5b9eaa",
+        "role": "Marco",
+        "descripcion": "Orden española de 24 de junio de 1955 (con el Decreto de 1956) e Instruções sobre Literatura Infantil portuguesas (1950): cinco ítems de revisión (moral, calidad literaria, educación, política, religión) y cuatro resoluciones (autorización, supresiones, denegación, denuncia)."
       },
       {
         "id": "5",
-        "label": "Expurgo de Elementos Mágicos",
-        "color": "#e76f51"
+        "label": "Precariedad archivística: 60.000 expedientes desaparecidos",
+        "color": "#c73e1d",
+        "role": "Marco",
+        "descripcion": "Censores con pseudónimo numérico, dossiers perdidos de 1964-1969 en el traslado al AGA, hoguera ministerial la noche de la muerte de Franco (Muñoz, 2004) y ediciones vigentes con las correcciones impuestas (Abellán, 1980; Cornellá, 2014)."
       },
       {
         "id": "6",
-        "label": "Reescritura de Roles Femeninos",
-        "color": "#f4d068"
+        "label": "Metodología cualitativa comparada",
+        "color": "#e76f51",
+        "role": "Método",
+        "descripcion": "Interpretación de expedientes, revisión de textos originales y análisis de tachaduras para valorar cómo el polisistema político condicionó al polisistema literario; una década de trabajo y más de 700 expedientes del AGA (Alcalá de Henares) y la Torre do Tombo (Lisboa)."
       },
       {
         "id": "7",
-        "label": "Censura de 'Barba Azul'",
-        "color": "#88b04b"
+        "label": "Muestra: cuentos de hadas con veredicto explícito",
+        "color": "#f4a261",
+        "role": "Método",
+        "descripcion": "Solo informes con obra completa y veredicto explícito, por tres motivos: rechazo especial a las obras de importación, títulos comunes en ambas dictaduras y reediciones evaluadas reiteradamente que permiten medir la evolución."
       },
       {
         "id": "8",
-        "label": "Moral Nacional-Católica",
-        "color": "#5b9eaa"
+        "label": "Objetivos: contenidos sancionados, diferencias y catolicismo",
+        "color": "#8ab17d",
+        "role": "Objetivo",
+        "descripcion": "1) Identificar qué contenidos se sancionaron en los cuentos de hadas; 2) valorar las diferencias censoras entre España y Portugal; 3) explorar cómo juzgaron los censores la integración del catolicismo."
       },
       {
         "id": "9",
-        "label": "Resistencia Folclórica Popular",
-        "color": "#2a9d8f"
+        "label": "España: sanción de tretas, engaños y astucias",
+        "color": "#9b2226",
+        "role": "Resultados",
+        "descripcion": "La mentira y la hipocresía reprobables: 'La princesita avispada' se acepta con reparos por ser más fantasía que realismo (Ex. 6436-54); 'Nicolasín y Nicolasón' se rechaza como 'cruel y nada ejemplar' (Ex. 116-55, Isabel Niño); 'El gato con botas' se tolera en 1954 por ser el protagonista un gato y se castiga en 1967 (Ex. 3644-67)."
       },
       {
         "id": "10",
-        "label": "Libertad Creadora Infantil",
-        "color": "#f4a261"
+        "label": "España: disociar catolicismo y magia",
+        "color": "#b5838d",
+        "role": "Resultados",
+        "descripcion": "Temor a equiparar a Dios con un mago y a la Virgen con un hada: se tacha 'el nombre de la virgen en boca de las hadas' en 'La Cenicienta' (Ex. 4236-55), el ángel debe volverse genio o mago (Ex. 6438-54) y se censura el rayo de luz con resonancias del Espíritu Santo en 'La niña que pisó un pan'; en 'La Bella durmiente' (Ex. 1885-70) la Superioridad desmonta la tachadura del 'cielo concedió'."
+      },
+      {
+        "id": "11",
+        "label": "España: la familia intocable",
+        "color": "#6a4c93",
+        "role": "Resultados",
+        "descripcion": "Se ocultan los matrimonios estériles de 'La Bella durmiente' (Ex. 3644-67: la mujer como 'templo de la raza', Martens, 2016), la misoginia de 'Grisélidis' contra el 'ángel del hogar' y el incesto de 'Piel de asno', rechazado incluso con el padre sustituido por un príncipe feo y vago (Ex. 3485-53; Ex. 4018-53)."
+      },
+      {
+        "id": "12",
+        "label": "Ideario nacional-católico y Sección Femenina",
+        "color": "#e9c46a",
+        "role": "Marco",
+        "descripcion": "Franco (1943) en el Castillo de la Mota: las 'tres verdades eternas' (ley de Dios, servicio a la Patria, bien general) convergían en el matrimonio; los roles de género de los cuentos gustaban como modelos de imitación para las jóvenes lectoras (Tena-Fernández, 2023)."
+      },
+      {
+        "id": "13",
+        "label": "Portugal: Perrault celebrado y reeditado",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "El Estado Novo veía en los cuentos de hadas la cultura y tradiciones populares: Le Maître Chat (12 ediciones), La Bella durmiente (6) y A Gata Borralheira (8), según la tesis de Bárbara (2014); los expedientes analizados son principalmente obras de teatro."
+      },
+      {
+        "id": "14",
+        "label": "Portugal: religiosidad alabada, no sospechosa",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "'Um conto de fadas' (1931) con sello censorio sin tachaduras y 'O Homem das Botas' (1942) autorizado: ángeles, bien premiado y mal castigado, 'dar a sua alma ao Creador'; las hadas como 'Estrela Branca' no generan el confusionismo que sí alarmó en España."
+      },
+      {
+        "id": "15",
+        "label": "Portugal: trabajo, pobreza honrada y mujer abnegada",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "'Pobrezinhos, mas honrados' y 'el trabajo dignifica': Cenicienta como canon de mujer abnegada, complaciente y sufridora cuyo escote fue corregido en 1960; el humor de D. Comilão evita figuras reales y sugiere autocensura; marco axiológico salazarista: Dios, patria, familia y moralidad sumisa."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión comparada: España más dura y creciente",
+        "color": "#5b9eaa",
+        "role": "Discusión",
+        "descripcion": "Evaluadores más duros que los jefes de censura y veredictos más incisivos hacia el ocaso del franquismo; en Portugal: menos tachaduras, correcciones estéticas, comicidad y teatro; la religiosidad impostada se revisa en España y se alaba en Portugal."
+      },
+      {
+        "id": "17",
+        "label": "Conclusión final: censura como homogeneización de mentalidades",
+        "color": "#9b2226",
+        "role": "Conclusiones",
+        "descripcion": "Estudio exploratorio de muestra humilde, pero ambos regímenes usaron la censura para forjar un pensamiento único que sobreviviera a los dictadores, justificado como garantía de estabilidad gubernamental."
+      },
+      {
+        "id": "18",
+        "label": "Limitaciones archivísticas y muestra exploratoria",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "La desaparición de más de 60.000 expedientes en traslados y quemas durante la transición acota la muestra; los autores destacan el carácter exploratorio del corpus conservado en Alcalá de Henares y Lisboa."
       }
     ],
     "aristas": [
       {
+        "from": "1",
+        "to": "2",
+        "label": "reclama el estudio del"
+      },
+      {
         "from": "2",
-        "to": "1",
-        "label": "instaura el aparato férreo de"
+        "to": "3",
+        "label": "articuló el"
       },
       {
-        "from": "3",
-        "to": "1",
-        "label": "conserva los expedientes de la"
-      },
-      {
-        "from": "1",
+        "from": "2",
         "to": "4",
-        "label": "se orienta prioritariamente al"
+        "label": "especializó en la infancia el"
       },
       {
-        "from": "1",
-        "to": "5",
-        "label": "aplica el sistemático"
+        "from": "5",
+        "to": "6",
+        "label": "condiciona la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "operacionaliza la"
       },
       {
         "from": "4",
-        "to": "6",
-        "label": "obliga a la sumisa"
+        "to": "8",
+        "label": "exige comprobar en la práctica los"
       },
       {
-        "from": "1",
-        "to": "7",
-        "label": "ordena la mutilación y"
+        "from": "7",
+        "to": "8",
+        "label": "permite alcanzar los"
       },
       {
-        "from": "8",
-        "to": "1",
-        "label": "fundamenta ideológicamente la"
+        "from": "4",
+        "to": "9",
+        "label": "convierte el ítem moral en"
+      },
+      {
+        "from": "12",
+        "to": "10",
+        "label": "impone la vigilancia sobre"
+      },
+      {
+        "from": "12",
+        "to": "11",
+        "label": "sacraliza en"
+      },
+      {
+        "from": "10",
+        "to": "16",
+        "label": "difiere de Portugal en"
       },
       {
         "from": "9",
-        "to": "1",
-        "label": "resiste y burla en los márgenes a la"
+        "to": "16",
+        "label": "se endureció hasta 1975 según"
       },
       {
-        "from": "10",
-        "to": "9",
-        "label": "reivindica la vigencia de la"
+        "from": "11",
+        "to": "16",
+        "label": "se agrava en"
       },
       {
-        "from": "10",
-        "to": "4",
-        "label": "combate y desmantela el"
+        "from": "13",
+        "to": "14",
+        "label": "produjo"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "produjo"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "matiza la comparación con"
+      },
+      {
+        "from": "16",
+        "to": "17",
+        "label": "conduce a la"
+      },
+      {
+        "from": "3",
+        "to": "16",
+        "label": "modela la"
+      },
+      {
+        "from": "1",
+        "to": "17",
+        "label": "justifica recuperar la memoria de la"
+      },
+      {
+        "from": "18",
+        "to": "5",
+        "label": "se explica por la"
+      },
+      {
+        "from": "18",
+        "to": "17",
+        "label": "acota el alcance de la"
       }
     ]
   }

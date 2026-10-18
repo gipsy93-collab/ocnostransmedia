@@ -1,0 +1,434 @@
+{
+  "id": "evaluacion_lectura_academica_educacion_superior",
+  "metadata": {
+    "title": "Evaluación de la lectura académica en estudiantes que ingresan a la Educación Superior",
+    "authors": "Marcela Cabrera-Pommiez, Francia Lara-Inostroza y Juana Puga-Larraín",
+    "year": "2021",
+    "journal": "Ocnos 20(3)",
+    "doi": "10.18239/ocnos_2021.20.3.2614",
+    "gancho": "¿Saben leer los jóvenes que ingresan a la universidad? Una macroevaluación de 21.000 estudiantes desvela la verdad.",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#264653",
+    "bg": "from-blue-900/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/lectura-universidad/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-cabrera/200/200",
+      "name": "Dra. Marcela Cabrera-Pommiez",
+      "role": "Investigadora en Alfabetización Académica, Universidad de Las Américas (Chile)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Marcela Cabrera-Pommiez, especialista en habilidades comunicativas y transición a la educación superior",
+      "gancho": "A menudo los profesores universitarios se quejan de que los novatos 'no entienden lo que leen'. Pero, ¿qué tareas concretas provocan el tropiezo: las ideas literales o las inferencias complejas?",
+      "contexto": "El acceso masivo a la educación superior en América Latina ha democratizado las aulas, incorporando a miles de estudiantes de primera generación universitaria. Sin embargo, ingresar a la universidad exige dominar la 'alfabetización académica': la capacidad de descifrar los géneros discursivos especializados de cada disciplina. Este estudio censal analiza los resultados de 21.465 estudiantes nuevos a lo largo de cuatro cohortes (2017-2020) en una universidad chilena.",
+      "deepDives": [
+        {
+          "id": "cab-apertura-1",
+          "triggerLabel": "El giro hacia la alfabetización académica",
+          "type": "theory",
+          "content": "Frente a la creencia tradicional de que saber leer se adquiere de una vez para siempre en la escuela primaria, los Nuevos Estudios de Literacidad (Street, Gee, Lea y Street) y Carlino (2005) mostraron que la lectura académica es una práctica social situada que debe enseñarse explícitamente en la universidad."
+        },
+        {
+          "id": "cab-apertura-2",
+          "triggerLabel": "El modelo de situación de Kintsch",
+          "type": "theory",
+          "content": "Walter Kintsch (1998) distingue entre el 'texto base' (la red proposicional explícita de lo escrito) y el 'modelo de situación' (la integración profunda de la información textual con la enciclopedia previa del lector mediante inferencias constructivas)."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La investigación pedagógica universitaria se ha volcado tradicionalmente en la escritura (ensayos, tesis), asumiendo erróneamente que la lectura es un proceso pasivo y automático. Al no existir diagnósticos censales sistemáticos al ingreso, las instituciones diseñan cursos de nivelación genéricos que no abordan las lagunas inferenciales específicas.",
+      "porQueImporta": "El fracaso y la deserción en primer año están estrechamente vinculados a la incapacidad de procesar la densa bibliografía académica. Diagnosticar con precisión permite intervenir precozmente antes de que se consume el abandono.",
+      "dataPoints": [
+        "Muestra censal masiva: 21.465 estudiantes nuevos evaluados entre 2017 y 2020 (cobertura superior al 80% del ingreso, promedio 88.1%).",
+        "Diseño ex post facto descriptivo y transversal en una universidad privada chilena con alta proporción de primera generación universitaria.",
+        "Instrumento diagnóstico: Prueba de Habilidades Comunicativas de 90 minutos con 25 ítems de selección múltiple sobre comprensión lectora.",
+        "Consistencia interna robusta comprobada: Alfa de Cronbach de 0.88 (2017), 0.84 (2018), 0.89 (2019) y 0.85 (2020).",
+        "Éxito en lo superficial: logros superiores al 50-60% en la extracción de información explícita y datos literales en todas las cohortes.",
+        "Desplome en lo profundo: en inferencias menos de la mitad de la muestra logra el nivel, con cohortes en torno al 30%, y apenas un 20% acierta al relacionar párrafos (2017)."
+      ],
+      "glossary": [
+        {
+          "term": "Alfabetización académica",
+          "definition": "Conjunto de nociones y estrategias necesarias para participar en la cultura discursiva y de producción de las disciplinas universitarias."
+        },
+        {
+          "term": "Inferencia global",
+          "definition": "Operación cognitiva que deduce información implícita integrando múltiples partes del texto con conocimientos contextuales del lector."
+        },
+        {
+          "term": "Relación entre párrafos",
+          "definition": "Habilidad para identificar la coherencia estructural y los vínculos lógicos (causa, contraste, concesión) que unen secciones textuales."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "cab-conflicto-1",
+          "triggerLabel": "El perfil del estudiante nuevo en Chile",
+          "type": "data",
+          "content": "La muestra presenta edad promedio de 24 años, fuerte presencia femenina, compatibilización con empleo remunerado e ingreso a la universidad varios años después de egresar de la educación media."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Validación iterativa de un macroinstrumento diagnóstico",
+      "narrativa": "El equipo universitario desarrolló y perfeccionó un protocolo censal en línea durante cuatro años consecutivos:",
+      "detalles": [
+        {
+          "label": "1. Diseño fundamentado en marcos de referencia",
+          "value": "Articulación de estándares PISA, PIRLS y ENLACE con el currículo chileno de Lengua, utilizando textos expositivos y argumentativos reales no ultraspecializados."
+        },
+        {
+          "label": "2. Validación psicométrica iterativa",
+          "value": "Revisión por paneles de expertos, pilotaje con estudiantes y depuración anual de ítems defectuosos mediante índices de discriminación y dificultad."
+        },
+        {
+          "label": "3. Análisis estadístico de cohortes censales",
+          "value": "Cálculo de alfas de Cronbach anuales, tasas de cobertura y desglose de logro por resultados de aprendizaje (literal, inferencial, relacional, evaluativo)."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: La ilusión del lector literal frente al abismo inferencial",
+      "narrativa": "Los datos acumulados de más de 21.000 estudiantes evidencian una anatomía lectora dual:",
+      "hallazgos": [
+        {
+          "label": "Dominio literal consolidado: El resultado de aprendizaje 1 (datos explícitos, causas patentes, cronología) superó el 50% de acierto en todos los años.",
+          "value": ""
+        },
+        {
+          "label": "Colapso en relaciones interparrafales: En la cohorte 2017, solo el 20% de los estudiantes supo conectar lógicamente el sentido de dos párrafos consecutivos.",
+          "value": ""
+        },
+        {
+          "label": "Fragilidad inferencial crónica: El resultado 4 (obtener inferencias válidas a partir de la información literal) fue el más descendido: menos de la mitad de la muestra alcanzó el logro y dos cohortes apenas llegaron al 30%.",
+          "value": ""
+        },
+        {
+          "label": "Mejora relativa en 2020: La cohorte 2020 alcanzó un 72.9% de logro global básico, atribuible al refinamiento del instrumento y a medidas tempranas de apoyo.",
+          "value": ""
+        }
+      ],
+      "reflexion": "Nuestros estudiantes saben decodificar las palabras del texto; lo que no saben es tender los puentes invisibles que unen una idea con otra.",
+      "deepDives": [
+        {
+          "id": "cab-revelacion-1",
+          "triggerLabel": "¿Por qué cuesta tanto relacionar párrafos?",
+          "type": "theory",
+          "content": "La educación secundaria entrena la localización de datos aislados para responder cuestionarios. La universidad, en cambio, exige sintetizar argumentos macroestructurales complejos."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: De la culpabilización del estudiante a la responsabilidad curricular",
+      "narrativa": "Cabrera-Pommiez y colaboradoras sitúan los resultados en el centro de las políticas institucionales:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Alfabetización académica (Carlino; Nuevos Estudios de Literacidad): La universidad no puede esperar que los estudiantes lleguen 'alfabetizados'; debe enseñar a leer en cada carrera."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Justicia educativa e inclusión: Evitar que las carencias en lectura se conviertan en una barrera de clase que expulse a los estudiantes más vulnerables."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Modelo de Kintsch y Van Dijk: Los datos corroboran que los ingresantes operan en el nivel microestructural sin alcanzar un modelo de situación coherente."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Cursos remediales aislados vs. Lectura transversal: Crítica a los talleres genéricos de redacción desvinculados de las materias propias de cada grado."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Mito de la crisis generacional: Los jóvenes leen constantemente en pantallas; la dificultad no es de interés, sino de familiaridad con los géneros académicos."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El estudio se circunscribe a una única universidad privada chilena, por lo que conviene contrastarlo con otras instituciones de educación superior."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Los estímulos textuales fueron de baja especialización; falta evaluar la respuesta ante textos con alta densidad terminológica disciplinar."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las vicerrectorías académicas Institucionalizar la evaluación diagnóstica censal como requisito de ingreso para diseñar tutorías de acompañamiento focalizadas."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para el profesorado de primer año Modelar explícitamente en el aula cómo leer los artículos científicos de la propia materia, explicitando su estructura argumentativa."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para el diseño curricular de grado Incorporar asignaturas de comunicación académica disciplinar insertas en los planes formativos de todas las facultades."
+        },
+        {
+          "label": "Tabla",
+          "value": "Atributo | Dato | Fuente\nEstudiantes evaluados (2017-2020) | 21.465 | Prueba de Habilidades Comunicativas\nCobertura de la aplicación | superior al 80% del ingreso (88.1% en promedio) | aplicación censal\nAlfa de Cronbach por cohorte | 0.88 (2017); 0.84 (2018); 0.89 (2019); 0.85 (2020) | eje comprensión lectora\nRA 1 (información literal) | toda la muestra por encima del 50%, y en algún caso más del 60% | figura 2\nRA 3 (relación entre párrafos) | 20% de logro en la cohorte 2017, el más bajo de todos | figura 3\nRA 4 (inferencias) | el más descendido; dos cohortes solo con el 30% en nivel logrado | figura 3\nNivel general de lectura | entre el 27% y el 51% sin resultado satisfactorio según cohorte | discusión\nCohorte 2020 | 72.9% con habilidades básicas de lectura académica | figura 1"
+        }
+      ],
+      "reflexion": "La verdadera inclusión universitaria comienza cuando la institución asume la tarea de enseñar a leer el mundo que ella misma exige habitar.",
+      "deepDives": [
+        {
+          "id": "cab-marco-1",
+          "triggerLabel": "Proyecciones del diagnóstico",
+          "type": "data",
+          "content": "La investigación proyecta mejorar el eje de producción escrita (hoy evaluado con ítems de selección múltiple) incorporando preguntas abiertas, y se pregunta qué diseño didáctico resultaría eficaz para mejorar la comprensión lectora de textos expositivo-argumentativos en el nivel superior."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Qué nivel de lectura académica presentan los estudiantes que ingresan a la educación superior y qué destrezas específicas evidencian mayores dificultades?",
+      "conclusion": "Macroestudio censal sobre 21.465 ingresantes con alta fiabilidad psicométrica (alfa entre 0.84 y 0.89). Los ítems literales superan el 50-60% de logro, mientras las relaciones interparrafales caen a valores mínimos del 20%. Menos de la mitad de los ingresantes alcanza un nivel suficiente en comprensión inferencial de textos académicos. La tendencia mejoró en 2020 (72.9% de logro básico), demostrando la eficacia de las medidas institucionales de apoyo temprano. Superar la visión remedial de la lectura y adoptarla como una responsabilidad compartida de todos los docentes universitarios. Enseñar estrategias explícitas de lectura inferencial (señalizadores del discurso, identificación de tesis y contraargumentos). Diseñar guías de lectura guiada que acompañen los textos obligatorios de los primeros semestres. Fortalecer los lazos entre la educación secundaria y la superior para familiarizar precozmente con los géneros académicos. Acompañar a un joven a leer un texto universitario es entregarle la llave maestra de su propia emancipación profesional.",
+      "formalRef": "Marcela Cabrera-Pommiez, Francia Lara-Inostroza y Juana Puga-Larraín. (2021). Evaluación de la lectura académica en estudiantes que ingresan a la Educación Superior. Ocnos 20(3). https://doi.org/10.18239/ocnos_2021.20.3.2614"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuántos estudiantes universitarios ingresantes integraron la muestra censal acumulada en las cuatro cohortes (2017-2020)?",
+          "options": [
+            "Aproximadamente 2.000",
+            "21.465 estudiantes",
+            "5.000 estudiantes",
+            "Más de 100.000"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué resultado de aprendizaje registró el porcentaje más bajo de acierto (apenas un 20% en la cohorte 2017)?",
+          "options": [
+            "Extracción de datos literales explícitos",
+            "Relación de coherencia lógica entre párrafos",
+            "Identificación del título del texto",
+            "Lectura del nombre del autor"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Alfabetización académica en la universidad",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Proceso formativo intencionado para ingresar y participar eficazmente en las culturas discursivas y tradiciones comunicativas especializadas de las distintas disciplinas de la educación superior."
+      },
+      {
+        "id": "2",
+        "label": "Lectura académica y géneros discursivos",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Comprensión de textos universitarios complejos (ensayos, artículos científicos, manuales) que subordinan la narración a la argumentación rigurosa, la exposición teórica y la densidad conceptual."
+      },
+      {
+        "id": "3",
+        "label": "Modelo de situación e inferencias (Kintsch)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Representación mental profunda formulada por Walter Kintsch que articula la red proposicional de la superficie textual con el conocimiento enciclopédico previo mediante inferencias constructivas activas."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Diagnosticar la comprensión lectora",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Evaluar censalmente las competencias de lectura académica de los estudiantes que ingresan a la educación superior para orientar planes institucionales de nivelación, tutoría y acompañamiento formativo."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Tipificar logros por habilidades",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Desglosar el desempeño estudiantil identificando fortalezas y debilidades relativas entre tareas literales, inferencias globales, relaciones interparrafales y evaluación del propósito comunicativo."
+      },
+      {
+        "id": "6",
+        "label": "Diseño ex post facto descriptivo y transversal",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Investigación no experimental que analiza los resultados censales de cuatro aplicaciones anuales consecutivas de una prueba institucional en línea aplicada a estudiantes nuevos de educación superior."
+      },
+      {
+        "id": "7",
+        "label": "Muestra censal de 21.465 ingresantes",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Población masiva evaluada entre 2017 y 2020 con una cobertura superior al 80% (promedio censal de 88.1%) en una universidad privada chilena inclusiva, con alta proporción de primera generación familiar."
+      },
+      {
+        "id": "8",
+        "label": "Prueba de Habilidades Comunicativas (25 ítems)",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Instrumento estandarizado de selección múltiple con textos académicos reales, validado iterativamente con alfas de Cronbach anuales entre 0.84 y 0.89 que certifican una consistencia interna sobresaliente."
+      },
+      {
+        "id": "9",
+        "label": "Consistencia psicométrica robusta",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Valores de fiabilidad psicométrica elevados y estables en el tiempo (0.88, 0.84, 0.89 y 0.85) que avalan la solidez diagnóstica del eje de comprensión lectora evaluado frente a la producción escrita."
+      },
+      {
+        "id": "10",
+        "label": "Fortaleza en extracción de información literal",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Rendimiento satisfactorio sostenido en el resultado de aprendizaje 1, con logros superiores al 50-60% al localizar causas, cronologías, características y datos explícitos en la superficie del texto."
+      },
+      {
+        "id": "11",
+        "label": "Brecha crítica en tareas implícitas superiores",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Desempeño marcadamente insuficiente en inferencias (el resultado de aprendizaje más descendido, con menos de la mitad de la muestra en nivel logrado y dos cohortes en torno al 30%) y desplome en relaciones interparrafales (apenas un 20% de acierto en 2017), revelando dificultades de síntesis."
+      },
+      {
+        "id": "12",
+        "label": "Evolución positiva en la cohorte 2020",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Incremento del logro básico hasta el 72.9% de la muestra en la cohorte 2020, reflejando el impacto de mejoras en el instrumento y medidas institucionales tempranas de apoyo y nivelación pedagógica."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Responsabilidad curricular docente",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Debate apoyado en Paula Carlino: la universidad no puede desentenderse de la lectura culpando a la enseñanza media; debe enseñarse de forma situada en cada disciplina y carrera universitaria."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Inclusión y primera generación",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Urgencia de brindar andamiaje explícito a estudiantes de primera generación universitaria para evitar que las barreras en comprensión de textos académicos conduzcan a la reprobación y a la deserción precoz."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Textos no especializados y centro único",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "El estudio se acota a una sola institución privada chilena y utiliza textos de baja especialización técnica para permitir la comparabilidad transversal entre carreras de humanidades y ciencias."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Institucionalizar el diagnóstico lector",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "La evaluación censal temprana es un pilar insustituible para diseñar programas de tutoría entre iguales, nivelación y acompañamiento pedagógico que garanticen la equidad en educación superior."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se focaliza en la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se fundamenta en el"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "motiva evaluar la"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "aporta niveles para"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se ejecuta mediante"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se estructura con"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se aplica sobre"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "responde a la"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "demuestra una"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "constata la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "revela una"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "registra la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "contrasta con"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "reclama asumir la"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "amenaza la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "confirma beneficios para la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "concluye en"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "se delimita por"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "orienta la necesidad de"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "acota el alcance de"
+      }
+    ]
+  }
+}

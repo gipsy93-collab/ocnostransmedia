@@ -1,0 +1,138 @@
+{
+  "id": "articulacion_expresion_escrita",
+  "metadata": {
+    "title": "La articulación de la expresión escrita",
+    "authors": "José Henrique Pérez-Rodríguez",
+    "year": "2014",
+    "journal": "Ocnos. Revista de estudios sobre lectura, 12 (2014), 79-106",
+    "doi": "https://doi.org/10.18239/ocnos_2014.12.04",
+    "gancho": "El trabajo defiende con argumentos lingüísticos la autonomía funcional de la expresión escrita: tendría una organización independiente de la oralidad, aunque apoyada en los mismos principios básicos. Propone llamar \"resolución\" al grado de detalle informativo de cada sistema de e",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#5b9eaa",
+    "bg": "from-ocean-base/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-11.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-11.png",
+      "name": "José Henrique Pérez-Rodríguez",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "José Henrique Pérez-Rodríguez, autor/a en Revista Ocnos",
+      "gancho": "El trabajo defiende con argumentos lingüísticos la autonomía funcional de la expresión escrita: tendría una organización independiente de la oralidad, aunque apoyada en los mismos principios básicos. ",
+      "contexto": "El autor sitúa la escritura como una construcción cultural incardinada en la naturaleza\ndel \"animal parlante\", no como simple herramienta sustitutiva. Recuerda que se cree\nque la escritura apareció hacia el año 3000 a.C. y que permitió al mensaje eludir su\nfugacidad y ampliar su abanico de receptores. La mayor parte de la lingüística del\nsiglo pasado se posicionó a favor de una concepción sustitutiva (Contreras, 1994),\npero esa vigencia se ha red",
+      "deepDives": [
+        {
+          "id": "articulacion_expresion_escrita-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "El artículo se pregunta si el discurso escrito constituye la materialización de un\nsistema autónomo equiparable al de la expresión oral o si, por el contrario, es un\nsimple reflejo de ella. La brecha que aborda es la persistente concepción sustitutiva\n—según la cual lo gráfico remite siempre a lo or"
+        },
+        {
+          "id": "articulacion_expresion_escrita-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "El autor sitúa la escritura como una construcción cultural incardinada en la naturaleza\ndel \"animal parlante\", no como simple herramienta sustitutiva. Recuerda que se cree\nque la escritura apareció hacia el año 3000 a.C. y que permitió al mensaje eludir su\nfugacidad y ampliar su abanico de receptore"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El artículo se pregunta si el discurso escrito constituye la materialización de un\nsistema autónomo equiparable al de la expresión oral o si, por el contrario, es un\nsimple reflejo de ella. La brecha que aborda es la persistente concepción sustitutiva\n—según la cual lo gráfico remite siempre a lo oral y solo a través de este se accede al\nsignificad",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "Análisis estructurado de las fuentes documentales."
+      ],
+      "glossary": [
+        {
+          "term": "Resolución",
+          "definition": "grado de detalle informativo que un sistema gráfico es capaz de proporcionar ."
+        },
+        {
+          "term": "Recurrencia",
+          "definition": "presencia reiterada de oposiciones sobre una base común en el código gráfico ."
+        },
+        {
+          "term": "Base de comparación",
+          "definition": "elemento común sobre el que se establecen las diferencias u oposiciones ."
+        },
+        {
+          "term": "Nodos",
+          "definition": "elementos que actúan simultáneamente como bases y como diferencias ."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "No es un estudio empírico ni una revisión sistemática: es un trabajo de argumentación\nlingüística y modelización teórica. El autor parte de un modelo simplificado de nueve\nsílabas (figura 1) para mostrar, en una situación ideal, los mecanismos internos de\nfuncionamiento de la expresión escrita y evidenciar sus principios relacionales. La\nmetodología consiste en transformar progresivamente ese mode",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Análisis empírico o teórico de corpus según fuentes primarias"
+        }
+      ],
+      "limitaciones": [
+        "Los autores no declaran un apartado formal de limitaciones. El propio autor reconoce\ncautelas puntuales: prefiere una \"actitud prudente\" sobre si el mecanismo es recursivo,\nya que carece de perspectiv"
+      ],
+      "reflexion": "Si tuvieras que extrapolar este modelo no discreto a un corpus real de"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "Hallazgo principal",
+          "value": "Evidencias y resultados derivados del corpus analizado."
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El artículo se apoya en autorías citadas explícitamente. Sobre el estatus cognitivo de\nla escritura recurre a Coulmas (2003) y a Olson (1998); sobre la concepción sustitutiva,\na Contreras (1994); sobre el carácter cultural del lenguaje y la sospecha de una\narticulación subyacente, a Sampson (1997, 2014) y Moreno (2005). En psicolingüística\ncontrasta el funcionamiento sustitutivo/metalingüístico co",
+      "detalles": [
+        {
+          "label": "Tradición Teórica",
+          "value": "Teorías de la lectura, didáctica de la lengua y estudios literarios."
+        }
+      ],
+      "reflexion": "¿Qué aporta el concepto de \"resolución\" frente a las taxonomías"
+    },
+    "nucleo": {
+      "pregunta": "¿Puede atribuirse a la expresión escrita una fundamentación ontológicamente autónoma,",
+      "conclusion": "El autor concluye que su modelo permite dar cuenta de una dimensión estructural de la\nexpresión gráfica que arrancaría del estrato léxico y se agotaría allí donde la\nrecurrencia de los significantes deja de generar nuevos estratos opositivos, algo que\nocurre en estadios distintos según la escritura. Los últimos estratos se caracterizan\npor presentar \"únicamente diferencias\", de modo que ampliar la resolución exige\nbasificar una de esas diferencia",
+      "formalRef": "Pérez-Rodríguez, J. H. (2014). La articulación de la expresión escrita. *Ocnos*, 12, 79-106. https://doi.org/10.18239/ocnos_2014.12.04\n> *El texto plano consultado cita el artículo sin DOI y remite a la URL de la revista;\n> se consigna el DOI indicado en la ficha de catalogación.*"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es la tesis central del artículo?",
+          "options": [
+            "A) La escritura es siempre un reflejo imperfecto de la oralidad y debe reformarse.",
+            "B) La escritura presenta una estructuración autónoma basada en la recurrencia de los significantes, apoyada en principios compartidos con la oralidad.",
+            "C) Los alfabetos son los sistemas de escritura más precisos posibles.",
+            "D) La resolución de un sistema depende exclusivamente de su vinculación fonológica con la lengua oral."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "Según el texto, ¿qué diferencia hay entre recurrencia y resolución?",
+          "options": [
+            "A) Son sinónimos exactos, tomados del concepto de \"simetría\" de Coyaud.",
+            "B) La recurrencia depende del número absoluto de oposiciones; la resolución, de los niveles en que esas oposiciones tienen lugar.",
+            "C) La resolución depende del número de grafemas y la recurrencia del canal de escritura.",
+            "D) Ambas se miden por la cantidad de palabra representadas en el lexicón."
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  }
+}

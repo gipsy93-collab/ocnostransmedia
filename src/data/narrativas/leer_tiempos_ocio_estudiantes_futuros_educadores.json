@@ -1,0 +1,377 @@
+{
+  "id": "leer_tiempos_ocio_estudiantes_futuros_educadores",
+  "metadata": {
+    "id": "leer_tiempos_ocio_estudiantes_futuros_educadores",
+    "title": "Leer en tiempos de ocio: los estudiantes, futuros profesionales de la educación, como sujetos lectores",
+    "authors": [
+      "José Antonio Caride",
+      "M. Belén Caballo",
+      "Rita Gradaílle"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "3",
+    "pages": "7-18",
+    "doi": "10.18239/ocnos_2018.17.3.1707",
+    "keywords": [
+      "hábitos de lectura",
+      "tiempo de ocio",
+      "futuros docentes",
+      "universitarios",
+      "mediación lectora"
+    ],
+    "abstract": "Estudio empírico con 733 universitarios de cuatro grados educativos en la Universidad de Santiago de Compostela. Solo uno de cada tres se declara lector frecuente por placer, constatando un ocio más cultural en quienes sí leen."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Leen realmente por placer quienes tendrán la responsabilidad pedagógica de formar a los lectores del mañana? Este estudio analiza las prácticas de lectura voluntaria en tiempo libre de 733 universitarios que se forman como maestros y educadores sociales en Galicia.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva para examinar el ocio de los futuros educadores:",
+        "opciones": [
+          {
+            "id": "sociologica",
+            "texto": "Sociología del ocio: kairós liberador frente al imperio de la prisa"
+          },
+          {
+            "id": "empirica",
+            "texto": "Resultados empíricos de hábitos lectores en 733 estudiantes"
+          },
+          {
+            "id": "pedagogica",
+            "texto": "Formación inicial docente y mediación lectora en la escuela"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Se exige a la escuela formar lectores entusiastas y críticos, pero las facultades de educación gradúan promociones donde una gran mayoría lee exclusivamente por obligación académica. Este desajuste entre el deber profesional de contagiar pasión lectora y la ausencia de hábitos personales debilita la mediación cultural en las aulas.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué contradicción clave revela el estudio de Caride, Caballo y Gradaílle?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Dos de cada tres futuros educadores no leen habitualmente en su tiempo libre, debilitando su credibilidad como prescriptores literarios ante los niños.",
+            "correcta": true,
+            "explicacion": "Exacto: la mediación literaria difícilmente puede fundamentarse en la exigencia cuando el propio docente carece de vivencia lectora placentera."
+          },
+          {
+            "id": "c2",
+            "texto": "Los universitarios de educación leen diez veces más libros que cualquier otro grupo profesional.",
+            "correcta": false,
+            "explicacion": "Los datos reflejan que solo el 34,4% mantiene un hábito frecuente de lectura recreativa."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "En el marco del proyecto nacional ENREDOS, los autores encuestaron a 733 estudiantes de Grado en Educación Infantil, Primaria, Educación Social y Pedagogía de la Universidad de Santiago de Compostela. Aplicaron análisis descriptivos e inferenciales cruzando la frecuencia lectora con tipologías de ocio digital, cultural, físico y festivo.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra amplia",
+            "detalle": "733 universitarios de cuatro grados de Ciencias de la Educación en la USC."
+          },
+          {
+            "fase": "Cuestionario ENREDOS",
+            "detalle": "Instrumento riguroso de evaluación de prácticas y valoraciones de tiempo de ocio."
+          },
+          {
+            "fase": "Perfiles de ocio",
+            "detalle": "Comparativa entre lectores frecuentes (34,4%) y lectores ocasionales o no lectores."
+          },
+          {
+            "fase": "Propuesta didáctica",
+            "detalle": "Estrategias para vivenciar la lectura como ocio humanista y digno en la universidad."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El estudio desvela que los futuros educadores que leen por placer desarrollan un perfil de ocio más diversificado, creativo y participativo: asisten más al teatro, consumen más arte y experimentan mayor satisfacción personal, demostrando que la lectura multiplica la vitalidad de la experiencia.",
+      "datos_clave": [
+        "733 estudiantes universitarios encuestados en grados de educación.",
+        "Solo el 34,4% de los futuros profesionales lee con frecuencia en su tiempo libre.",
+        "Asociación significativa entre hábito lector y ocio cultural, artístico y reflexivo.",
+        "Urgencia de replantear los planes de estudio universitarios para cultivar el hábito lector."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El marco teórico articula la sociología del ocio humanista de Cuenca Cabeza y Racionero, los análisis de la sociedad líquida y del espectáculo de Bauman y Vargas Llosa, y los modelos de mediación lectora de Yubero, Larrañaga y Basanta.",
+      "referencias_clave": [
+        "Caride (2012)",
+        "Cuenca Cabeza (2004)",
+        "Bauman (2006)",
+        "Yubero et al. (2009)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "No se puede transmitir con autenticidad lo que no se vive: para formar generaciones de lectores, las universidades deben asegurar que los futuros maestros redescubran la lectura no como una tarea técnica evaluable, sino como una conquista gozosa de su propia libertad.",
+      "hallazgo_central": "Solo un tercio de los futuros educadores lee por placer, pero aquellos que lo hacen exhiben un ocio más rico y cultural, evidenciando la necesidad de formar docentes lectores apasionados."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos sociológicos con su sentido en la investigación:",
+          "pares": [
+            {
+              "concepto": "Kairós liberador",
+              "definicion": "Tiempo de sosiego y cultivo interior opuesto a la tiranía del cronos productivista."
+            },
+            {
+              "concepto": "Ocio con dignidad",
+              "definicion": "Práctica lúdica y cultural enriquecedora que fomenta la autorrealización personal."
+            },
+            {
+              "concepto": "Lector frecuente universitario",
+              "definicion": "Sujeto que dedica deliberadamente parte sustantiva de su tiempo libre a leer por placer."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Prácticas Lectoras de Ocio en Futuros Educadores",
+      "descripcion": "Estructura empírica y pedagógica de las preferencias de tiempo libre y hábitos lectores en estudiantes universitarios de educación.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Prácticas Lectoras de Futuros Educadores",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo primordial: evaluar y caracterizar las prácticas de lectura recreativa en tiempos de ocio de estudiantes universitarios de grados de educación y su impacto en su formación profesional."
+        },
+        {
+          "id": "2",
+          "label": "Sociología del Ocio y Tiempo Kairós",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Fundamentación filosófica y sociológica que contrapone el kairós liberador (tiempo fecundo de cultivo interior) al cronos mercantilizado de la prisa y el rendimiento consumista contemporáneo."
+        },
+        {
+          "id": "3",
+          "label": "La Sociedad Líquida y del Espectáculo",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Diagnóstico crítico de Bauman y Vargas Llosa sobre una cultura hiperconectada pero fragmentada donde el acceso masivo a información banal desplaza la contemplación y la lectura sosegada."
+        },
+        {
+          "id": "4",
+          "label": "El Docente como Mediador Literario",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco pedagógico que subraya que la prescripción entusiasta de la lectura en la infancia exige que el propio profesorado experimente la fascinación personal y el hábito del libro por placer."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 733 Universitarios de la USC",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Muestra empírica representativa de 733 estudiantes matriculados en los Grados de Educación Infantil, Educación Primaria, Educación Social y Pedagogía en la Universidad de Santiago de Compostela."
+        },
+        {
+          "id": "6",
+          "label": "Cuestionario del Proyecto ENREDOS",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Instrumento estandarizado y validado en proyecto de I+D+i para explorar usos del tiempo libre, autopercepción lectora, frecuencia de lectura voluntaria y preferencias lúdicas."
+        },
+        {
+          "id": "7",
+          "label": "Tratamiento Descriptivo e Inferencial",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Análisis de datos cuantitativos mediante contrastes no paramétricos de Chi-cuadrado y tablas de contingencia para relacionar perfiles lectores con tipologías de ocio juvenil."
+        },
+        {
+          "id": "8",
+          "label": "Baja Proporción de Lectores Frecuentes",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo empírico preocupante: únicamente el 34,4% del alumnado universitario encuestado declara leer de manera habitual y frecuente durante sus momentos de tiempo libre personal."
+        },
+        {
+          "id": "9",
+          "label": "Ocio Más Diversificado en Lectores",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Evidencia estadística de que los estudiantes que leen por placer no son solitarios ni aislados: participan más en actividades culturales, cine, exposiciones y relaciones sociales activas."
+        },
+        {
+          "id": "10",
+          "label": "Feminización de la Muestra y Preferencias",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación de un perfil mayoritariamente femenino en los grados de educación con diferencias observables en las preferencias de géneros literarios y pautas de ocio compartido."
+        },
+        {
+          "id": "11",
+          "label": "La Paradoja de la Formación Inicial",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión sobre la grave inconsistencia de graduar maestros encargados de fomentar la lectura cuando dos tercios de ellos la han abandonado o la asocian meramente a la obligación académica."
+        },
+        {
+          "id": "12",
+          "label": "Lectura como Ocio con Dignidad",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reivindicación teórica del ocio lector como una vivencia creativa no instrumental que aporta salud mental, empatía cívica y ensanchamiento del horizonte biográfico del educador."
+        },
+        {
+          "id": "13",
+          "label": "Reforma de los Planes de Estudio",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión propositiva: las facultades de educación deben incorporar espacios vivenciales de lectura libre, clubes literarios y talleres de mediación cultural dentro del currículo formal."
+        },
+        {
+          "id": "14",
+          "label": "Políticas Universitarias de Dinamización",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación de revitalizar las bibliotecas universitarias para que operen como centros comunitarios de agitación cultural y no como meros recintos de estudio técnico silencioso."
+        },
+        {
+          "id": "15",
+          "label": "Construcción de una Sociedad Lectora",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión global: edificar una ciudadanía democrática requiere coordinar familia, escuela y universidad para consolidar la lectura como un derecho y disfrute para toda la vida."
+        },
+        {
+          "id": "16",
+          "label": "Contexto Regional y Monouniversitario",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación asumida por el estudio al circunscribir la muestra a los campus de una única universidad gallega, demandando comparaciones interautonómicas en todo el territorio estatal."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se fundamenta en la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga con"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se confronta con"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "destaca la urgencia de"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "es evaluada mediante"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se procesa mediante"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "revela la"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "demuestra un"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "registra la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "conduce a la discusión de"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "avala el concepto de"
+        },
+        {
+          "from": "10",
+          "to": "11",
+          "label": "se vincula con"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "exige urgente"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "fundamenta"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "contribuye a la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "hace viable la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe ponderarse ante el"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "acotada por su"
+        },
+        {
+          "from": "4",
+          "to": "11",
+          "label": "entra en tensión con"
+        },
+        {
+          "from": "8",
+          "to": "13",
+          "label": "justifica la"
+        },
+        {
+          "from": "2",
+          "to": "12",
+          "label": "se traduce en"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Caride, Caballo y Gradaílle nos confrontan con una verdad ineludible: nadie puede encender un fuego con una cerilla apagada. Si deseamos aulas donde los niños amen los libros, debemos formar maestros que sientan la lectura como un refugio de libertad.",
+      "preguntas_guiadas": [
+        "¿Cuántos libros has leído por puro placer en el último año al margen de tus obligaciones profesionales o académicas?",
+        "¿Qué actividades formativas en la universidad podrían reconectar a los futuros docentes con el gozo desinteresado de leer?"
+      ]
+    }
+  }
+}

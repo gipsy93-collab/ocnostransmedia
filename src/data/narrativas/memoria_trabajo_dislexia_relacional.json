@@ -1,0 +1,465 @@
+{
+  "id": "memoria_trabajo_dislexia_relacional",
+  "metadata": {
+    "title": "Memoria de trabajo en escolares con dislexia. Un análisis relacional",
+    "authors": "Catalina Quintero-López, Víctor Daniel Gil-Vera, Laura Bolívar-Villamil, Kelin Camila Mazo-Benítez, Mariana Serna-Jaramillo, Laura María Ciro-Graciano y Kathelyn Charlot Restrepo-Arias",
+    "year": "2022",
+    "journal": "Ocnos 21(2)",
+    "doi": "10.18239/ocnos_2022.21.2.2886",
+    "gancho": "¿Cómo se encadenan los fallos en la memoria verbal, visual y el control mental en niños con dislexia?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e63946",
+    "colorAlt": "#1d3557",
+    "bg": "from-rose-600/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/dislexia-memoria/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-quintero/200/200",
+      "name": "Dra. Catalina Quintero-López",
+      "role": "Neuropsicóloga e investigadora, Universidad Católica Luis Amigó (Medellín)"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Catalina Quintero-López, neuropsicóloga clínica e investigadora en trastornos del neurodesarrollo",
+      "gancho": "¿Es la dislexia solo un problema para descodificar letras o el síntoma visible de un fallo en cadena de la memoria de trabajo y el control mental?",
+      "contexto": "El trastorno específico del aprendizaje en lectura (dislexia) afecta a entre el 5% y el 15% de la población escolar infantil. Tradicionalmente se ha constatado que estos niños presentan rendimientos deficientes en pruebas de memoria, pero la literatura científica rara vez ha modelado la interconexión estructural entre los diversos subsistemas mnemónicos. Este estudio cuantitativo relacional en Colombia evalúa a 130 escolares con diagnóstico clínico formal de dislexia mediante un modelo de ecuaciones estructurales (MEE) en R (lavaan), demostrando cómo el colapso del bucle verbal de la memoria de trabajo arrastra consigo a la memoria visoespacial, la atención controlada y el almacenamiento semántico.",
+      "deepDives": [
+        {
+          "id": "mem-apertura-1",
+          "triggerLabel": "El modelo multicomponente de Baddeley",
+          "type": "theory",
+          "content": "Baddeley concibe la memoria de trabajo (MT) como un sistema tripartito: un ejecutivo central que gestiona los recursos atencionales, respaldado por dos sistemas esclavos: el bucle fonológico/articulatorio (información verbal transitoria) y la agenda visoespacial (imágenes y coordenadas espaciales)."
+        },
+        {
+          "id": "mem-apertura-2",
+          "triggerLabel": "Epidemiología de la dislexia en el DSM-V",
+          "type": "data",
+          "content": "El DSM-V clasifica la dislexia como un trastorno del neurodesarrollo de base neurobiológica que genera inexactitud lectora, lentitud extrema y fallos de comprensión, con una prevalencia masculina más elevada reportada consistentemente en la literatura clínica."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "En la evaluación neuropsicológica ordinaria se suele medir la memoria de trabajo de forma aislada, sin comprender cómo sus fallos se transmiten e interactúan con la memoria semántica, el nivel de conciencia y el control mental, lo que conduce a intervenciones pedagógicas fragmentadas e ineficaces en el aula.",
+      "porQueImporta": "Si no se entiende el encadenamiento relacional entre los dominios de la memoria, los docentes exigen a los niños con dislexia tareas de memorización verbal que saturan su bucle fonológico, agravando su frustración y retraso escolar.",
+      "dataPoints": [
+        "Muestra clínica de 130 escolares diagnosticados con dislexia (7 a 15 años; 82 niños y 48 niñas; básica primaria y secundaria).",
+        "El 62% de la muestra presentó factores predisponentes previos: riesgo neurológico (32%) o retrasos en áreas del desarrollo (30%).",
+        "Se excluyeron 26 casos con discapacidad intelectual o déficits sensoriales para garantizar la pureza diagnóstica de la dislexia.",
+        "Protocolo psicométrico individualizado exhaustivo de 2 horas con WISC-IV, Escala de Memoria de Wechsler y Curva de Memoria Verbal de Ardila y Rosselli.",
+        "Modelo de ecuaciones estructurales estimado con 95 iteraciones y 30 grados de libertad, validando las cuatro hipótesis relacionales con p = 0.000."
+      ],
+      "glossary": [
+        {
+          "term": "Bucle fonológico / articulatorio",
+          "definition": "Subsistema de la memoria de trabajo encargado de retener y repasar subvocalmente secuencias de fonemas, palabras o números durante breves segundos."
+        },
+        {
+          "term": "Control mental",
+          "definition": "Capacidad ejecutiva para manipular activamente información en la mente mientras se inhiben distractores o respuestas automáticas erróneas."
+        },
+        {
+          "term": "Memoria semántica",
+          "definition": "Almacén cognitivo de significados, conceptos del entorno y reglas lingüísticas adquiridas a lo largo del desarrollo."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "mem-conflicto-1",
+          "triggerLabel": "El cuello de botella de la memoria verbal",
+          "type": "theory",
+          "content": "La hipótesis principal confirmada (H1, covarianza 0.72) demuestra que la debilidad en retener dígitos y secuencias verbales bloquea el acceso al significado de las oraciones complejas durante la lectura autónoma."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología neuropsicológica: Batería multimétodo y modelo de ecuaciones estructurales",
+      "narrativa": "El equipo de neuropsicólogos aplicó una batería estandarizada a cada uno de los 130 escolares en sesiones individuales, procesando las puntuaciones escalares mediante análisis multivariante en R/CRAN con el paquete lavaan:",
+      "detalles": [
+        {
+          "label": "Índice de MT del WISC-IV",
+          "value": "Subpruebas de Sucesión de números y letras y Retención de dígitos en orden directo e inverso, auditando capacidad de almacenamiento y manipulación activa."
+        },
+        {
+          "label": "Escala de Memoria de Wechsler (Baremos colombianos)",
+          "value": "Validación de Ardila y Rosselli (1994) para niños y adolescentes: subpruebas de Información/Orientación (nivel de conciencia), Control mental, Memoria lógica y Pares asociados."
+        },
+        {
+          "label": "Curva de Memoria Verbal y Viso/Verbal",
+          "value": "Evocación de listas de 10 palabras (volumen y retención) y plantilla de 10 dibujos con nominación inmediata tras 10 ensayos de aprendizaje."
+        },
+        {
+          "label": "Modelo MEE en lavaan",
+          "value": "Estimación de covarianzas entre variables latentes (MT, verbal, viso/verbal, nivel de conciencia, control mental y semántica) con bondad de ajuste chi-cuadrado, CFI y TLI."
+        }
+      ],
+      "limitaciones": [
+        "Muestra circunscrita a personas con dislexia de habla hispana, por lo que los resultados no pueden extrapolarse sin más a otros contextos lingüísticos.",
+        "Diseño relacional transversal que confirma asociaciones estadísticas sólidas pero no permite determinar direccionalidad causal temporal estricta."
+      ],
+      "reflexion": "¿Por qué un niño con dislexia puede recordar perfectamente un dibujo complejo pero fracasar estrepitosamente al recordar cuatro números hacia atrás?",
+      "deepDives": [
+        {
+          "id": "mem-viaje-1",
+          "triggerLabel": "Criterios de exclusión muestral rigurosos",
+          "type": "method",
+          "content": "Para evitar variables confusoras, los autores aplicaron cribado sensorial y neurológico, descartando escolares con CI inferior a 80 o problemas auditivos/oftalmológicos no corregidos."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Las cuatro covarianzas que explican la disfunción lectora",
+      "narrativa": "El modelo de ecuaciones estructurales confirmó con significación estadística perfecta (p = 0.000) las cuatro hipótesis centrales de interconexión mnemónica:",
+      "hallazgos": [
+        {
+          "label": "H1: Memoria de Trabajo y Memoria Verbal",
+          "value": "Es el enlace relacional más potente del modelo: a menor capacidad de retención en la MT, mayores son las alteraciones en el volumen verbal y el repaso fonológico. Ej.: Covarianza = 0.72 (p = 0.000)."
+        },
+        {
+          "label": "H2: Memoria de Trabajo y Memoria Viso/Verbal",
+          "value": "Confirma que la disfunción de la MT no es puramente auditiva, sino que compromete la integración entre la forma gráfica del grafema y su etiqueta lingüística. Ej.: Covarianza = 0.51 (p = 0.000)."
+        },
+        {
+          "label": "H3: Nivel de Conciencia y Control Mental",
+          "value": "La orientación témporo-espacial y el estado de alerta atencional predicen la capacidad del escolar para alternar operaciones mentales sin perder el hilo discursivo. Ej.: Covarianza = 0.55 (p = 0.000)."
+        },
+        {
+          "label": "H4: Control Mental y Memoria Semántica",
+          "value": "El control inhibitorio y la flexibilidad mental son indispensables para rescatar con fluidez los significados aprendidos de la memoria a largo plazo. Ej.: Covarianza = 0.55 (p = 0.000)."
+        }
+      ],
+      "dataPoints": [
+        "Ajuste del modelo estructural: Chi-cuadrado > 503, CFI = 0.856 y TLI = 0.737 en 30 grados de libertad tras 95 iteraciones.",
+        "Perfil por sexo: 63.1% varones (82 casos) y 36.9% mujeres (48 casos), con medias de edad idénticas (9.30 y 9.27 años).",
+        "Prevalencia de riesgo: 32% con riesgo neurológico perinatal y 30% con retraso en hitos del desarrollo motor o lingüístico temprano.",
+        "Efecto en la decodificación: lentitud severa en la formación de morfemas y dificultades recurrentes en la evocación rápida de fonemas complejos."
+      ],
+      "reflexion": "La dislexia no es pereza intelectual: es el agotamiento cognitivo de un cerebro cuya memoria de trabajo gasta el 90% de su energía intentando retener los sonidos de una sola palabra.",
+      "deepDives": [
+        {
+          "id": "mem-revelacion-1",
+          "triggerLabel": "La evidencia emergente del componente viso/verbal",
+          "type": "data",
+          "content": "Los autores subrayan que la covarianza de 0.51 con la memoria viso/verbal aporta evidencia valiosa a un campo con escasa literatura empírica previa, demostrando que la integración de imagen y sonido también está fracturada en la dislexia hispana."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia un modelo neurocognitivo integrado del aprendizaje lector",
+      "narrativa": "Los autores debaten la repercusión de estos hallazgos para la neuropsicología clínica y la pedagogía inclusiva:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Déficit fonológico nuclear (Wang, Lorusso, Varvara): Plena coherencia con los modelos universales que señalan al bucle fonológico como el epicentro de la dislexia."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Papel del control inhibitorio (Aguilar-Mediavilla): La incapacidad para inhibir estímulos irrelevantes satura prematuramente los canales ejecutivos del escolar disléxico."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Integración semántica y ortográfica (Jalali-Moghadam & Kormi-Nouri): Las limitaciones combinadas de MT y control mental degradan la consolidación del léxico ortográfico a largo plazo."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Reeducación puramente lectora vs. Estimulación neuropsicológica global: Entrenar solo a 'leer en voz alta' tortura al escolar; la evidencia exige entrenar la capacidad de trabajo del bucle fonológico y la flexibilidad atencional."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Déficit exclusivamente verbal vs. Afectación multimodal: El estudio demuestra que la agenda visoespacial también participa del déficit, desmintiendo que la dislexia sea ajena a la codificación visual de símbolos."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Escasez de evidencia científica previa sobre la memoria viso/verbal en la dislexia: los propios autores reclaman más estudios que validen este componente del modelo, aún poco investigado."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Los autores insisten en que la psicología y la neuropsicología sigan ahondando en la relación entre memoria de trabajo y dislexia para mejorar los procesos de intervención especializados de esta población."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la intervención neuropsicológica Prescribir la estimulación neuropsicológica de la memoria de trabajo como vía fundamental para garantizar el progreso escolar de la población con dislexia."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la adaptación curricular en el aula Fragmentar las consignas en pasos de un solo elemento y permitir el uso de apoyos visuales externos para liberar la memoria de trabajo del alumno."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la orientación pedagógica familiar Eliminar la sobrecarga de deberes repetitivos de copia mecánica que no entrenan los procesos de control mental ni enriquecen la memoria semántica."
+        },
+        {
+          "label": "Tabla",
+          "value": "Hipótesis Relacional | Constructos Implicados | Covarianza Estimada | Significación (p) | Aceptación\nH1 (Aceptada) | Memoria de Trabajo ↔ Memoria Verbal | 0.72 | p = 0.000 | Vínculo principal / Defecto fonológico\nH2 (Aceptada) | Memoria de Trabajo ↔ Memoria Viso/Verbal | 0.51 | p = 0.000 | Integración símbolo-sonido afectada\nH3 (Aceptada) | Nivel de Conciencia ↔ Control Mental | 0.55 | p = 0.000 | Regulación atencional sostenida\nH4 (Aceptada) | Control Mental ↔ Memoria Semántica | 0.55 | p = 0.000 | Recuperación léxica y ortográfica\nModelo Global | lavaan en R (95 iteraciones) | χ² > 503 | CFI = .856 | Ajuste confirmatorio válido"
+        }
+      ],
+      "reflexion": "Si la memoria de trabajo es el escritorio mental donde el niño apoya las ideas, en el escolar con dislexia ese escritorio es diminuto: ayudarle no es ponerle más libros encima, sino enseñarle a organizarlo.",
+      "deepDives": [
+        {
+          "id": "mem-marco-1",
+          "triggerLabel": "Estrategias de andamiaje mnemónico en clase",
+          "type": "theory",
+          "content": "El uso de listas de verificación gráficas, pictogramas y grabaciones de audio permite al escolar acceder a las instrucciones sin agotar la memoria verbal inmediata que necesita para comprender el texto."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo se interconectan la memoria de trabajo, la memoria verbal, viso/verbal, el control mental y la memoria semántica en escolares con dislexia?",
+      "conclusion": "El modelo de ecuaciones estructurales valida con p = 0.000 la interdependencia significativa entre todos los dominios mnemónicos evaluados. La relación más intensa vincula la memoria de trabajo con la memoria verbal (covarianza 0.72), confirmando el déficit fonológico como raíz clínica. Se demuestra un vínculo sólido entre la memoria de trabajo y la memoria viso/verbal (covarianza 0.51), probando la afectación bimodal del procesamiento. El control mental y el nivel de conciencia predicen directamente el acceso eficiente a la memoria semántica (covarianzas de 0.55). Incorporar la evaluación sistemática de la memoria de trabajo y el control mental en todo protocolo de diagnóstico psicopedagógico de dislexia. Prescribir programas de estimulación neuropsicológica centrados en la memoria de trabajo verbal y visual como fase previa al entrenamiento lector. Modificar las prácticas docentes ordinarias para no sobrecargar el bucle fonológico con instrucciones orales largas y complejas. Proporcionar andamiajes visoespaciales externos que compensen la reducida capacidad de retención transitoria del alumnado con dislexia. Comprender la neurobiología de la dislexia es el único camino para reemplazar la incomprensión escolar por adaptaciones didácticas verdaderamente empáticas.",
+      "formalRef": "Catalina Quintero-López, Víctor Daniel Gil-Vera, Laura Bolívar-Villamil, Kelin Camila Mazo-Benítez, Mariana Serna-Jaramillo, Laura María Ciro-Graciano y Kathelyn Charlot Restrepo-Arias. (2022). Memoria de trabajo en escolares con dislexia. Un análisis relacional. Ocnos 21(2). https://doi.org/10.18239/ocnos_2022.21.2.2886"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál fue la relación estadística más potente (covarianza = 0.72, p = 0.000) ratificada por el modelo de ecuaciones estructurales del estudio?",
+          "options": [
+            "Memoria de Trabajo ↔ Memoria Verbal",
+            "Memoria Semántica ↔ Coordinación Motora",
+            "Nivel de Conciencia ↔ Memoria Olfativa",
+            "Agenda Visoespacial ↔ Cálculo Matemático"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de los escolares con dislexia evaluados en la muestra clínica de 130 participantes presentó algún factor predisponente (riesgo neurológico o retraso evolutivo)?",
+          "options": [
+            "El 10%",
+            "El 62%",
+            "El 95%",
+            "El 2%"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Sabiendo que un escolar con dislexia presenta una covarianza de 0.72 entre fallos de MT y memoria verbal, ¿qué adaptación concreta harías al dictar las instrucciones de un examen de comprensión lectora para no penalizar su memoria inmediata?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Dislexia como trastorno del neurodesarrollo",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Alteración específica de inicio temprano en el aprendizaje de la lectura con prevalencia estimada entre el 5% y el 15% según criterios diagnósticos del DSM-V, caracterizada por fallos persistentes en la exactitud lectora y en la velocidad de decodificación."
+      },
+      {
+        "id": "2",
+        "label": "Modelo multicomponente de MT (Baddeley)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Estructura cognitiva tripartita compuesta por el ejecutivo central, el bucle articulatorio verbal y la agenda visoespacial (Baddeley), encargada del procesamiento temporal activo y del mantenimiento transitorio de códigos fonológicos y visuales."
+      },
+      {
+        "id": "3",
+        "label": "Interconexión de dominios mnemónicos",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Perspectiva relacional que postula que las dificultades lectoras severas nacen de la interacción disfuncional coordinada entre memoria verbal, viso/verbal, control mental ejecutivo y el almacén semántico a largo plazo."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Modelar relaciones en dislexia (MEE)",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Determinar mediante modelos de ecuaciones estructurales (MEE) cómo covarían la memoria de trabajo y los demás dominios mnemónicos en escolares hispanohablantes con diagnóstico clínico formal de dislexia en básica primaria y secundaria."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Contrastar 4 hipótesis clínicas",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Verificar empíricamente la robustez de los enlaces entre la memoria de trabajo, los subsistemas verbales, las modalidades viso/verbales, el nivel de conciencia atencional y la recuperación léxica en la memoria semántica."
+      },
+      {
+        "id": "6",
+        "label": "Muestra clínica de 130 escolares diagnosticados",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Participación clínica individual de 82 varones y 48 mujeres de 7 a 15 años en Medellín (Colombia), excluyendo con rigor metodológico 26 casos con discapacidad intelectual o déficits sensoriales no corregidos."
+      },
+      {
+        "id": "7",
+        "label": "Batería psicométrica estandarizada (WISC-IV)",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Protocolo neuropsicológico individual exhaustivo de 2 horas aplicando el WISC-IV (letras/números, dígitos), la Escala de Memoria de Wechsler baremada por Ardila y Rosselli y la Curva de Memoria Verbal de 10 palabras."
+      },
+      {
+        "id": "8",
+        "label": "Modelado de ecuaciones estructurales en lavaan",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Estimación multivariante en R/CRAN mediante la librería lavaan tras 95 iteraciones y 30 grados de libertad, calculando índices de bondad de ajuste absoluto y comparativo (Chi-cuadrado > 503, CFI = 0.856, TLI = 0.737)."
+      },
+      {
+        "id": "9",
+        "label": "H1 Aceptada: MT ↔ Memoria Verbal (cov = 0.72)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Vínculo principal y más potente del modelo estructural: a menor capacidad funcional de la MT, mayores son las alteraciones en volumen y repaso del bucle fonológico verbal (covarianza = 0.72, p = 0.000)."
+      },
+      {
+        "id": "10",
+        "label": "H2 Aceptada: MT ↔ Memoria Viso/Verbal (cov = 0.51)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Demostración concluyente de que la afectación no es únicamente auditiva, comprometiendo de manera significativa la asociación entre el estímulo visual pictórico y su denominación léxica rápida (covarianza = 0.51, p = 0.000)."
+      },
+      {
+        "id": "11",
+        "label": "H3 y H4 Aceptadas: Control Mental y Semántica (0.55)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "El nivel de alerta y la flexibilidad ejecutiva predicen con solidez (covarianzas idénticas de 0.55, p = 0.000) la capacidad de almacenamiento y evocación fluida de conceptos en la memoria semántica."
+      },
+      {
+        "id": "12",
+        "label": "Perfil predisponente: 62% con factores de riesgo",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Constatación clínica de que el 32% de los escolares presentó riesgo neurológico perinatal y el 30% retraso en el desarrollo, desmintiendo que toda dislexia responda a un patrón genético puro sin antecedentes madurativos."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Fatiga cognitiva y cuello de botella",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "El colapso del bucle verbal agota prematuramente los recursos atencionales del escolar, provocando lentitud extrema en la segmentación morfológica y errores ortográficos masivos al intentar redactar textos."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Necesidad de estimulación multimodal",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Exigencia pedagógica y clínica de diseñar terapias neuropsicológicas que entrenen conjuntamente la memoria de trabajo auditivo-verbal y los andamiajes gráficos visoespaciales para desatascar el procesamiento lector."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Diseño transversal y lengua hispana",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Alcance circunscrito a niños hispanohablantes en un diseño transversal que no permite inferencias de causalidad temporal estricta, requiriendo contrastación longitudinal y en ortografías opacas."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Abordaje neuropsicológico integral",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "La dislexia requiere ser intervenida como un trastorno sistémico coordinado de la memoria y el control mental, adaptando las consignas de aula para no saturar la cognición del aprendiz en sus tareas diarias."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se fundamenta en el"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "exige analizar la"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "aporta el constructo para el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "da origen al planteamiento del"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se ejecuta sobre la"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se operativiza mediante la"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "alimenta los datos del"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "suministra las variables al"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "ratifica empíricamente la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "confirma de forma concluyente la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "demuestra la validez de las"
+      },
+      {
+        "from": "6",
+        "to": "12",
+        "label": "describe en detalle el"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "sustenta la explicación de la"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "justifica la"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "orienta los principios de la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "fundamenta la necesidad del"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "aporta soluciones para el"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "reconoce como límite el"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "delimita el alcance real de la"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "se relaciona con la"
+      },
+      {
+        "from": "3",
+        "to": "16",
+        "label": "culmina con la formulación de un"
+      }
+    ]
+  }
+}

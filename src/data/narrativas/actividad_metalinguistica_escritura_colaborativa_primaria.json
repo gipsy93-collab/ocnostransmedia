@@ -1,0 +1,399 @@
+{
+  "id": "actividad_metalinguistica_escritura_colaborativa_primaria",
+  "metadata": {
+    "title": "La actividad metalingüística en una tarea de escritura colaborativa en Educación Primaria",
+    "authors": "Mónica Aznárez-Mauleón, Maite López-Flamarique e Isabel García-del-Real",
+    "year": "2020",
+    "journal": "Ocnos 19(3)",
+    "doi": "10.18239/ocnos_2020.19.3.2265",
+    "gancho": "¿De qué hablan realmente dos niños de 10 años cuando escriben juntos una fábula en el aula?",
+    "duration": "12-15 min",
+    "badge": "Didáctica de la Escritura",
+    "disciplina": "Didáctica de la Lengua y Lingüística Aplicada",
+    "dimensiones": [
+      "Escritura Colaborativa",
+      "Actividad Metalingüística",
+      "Episodios LRE",
+      "Fases de Redacción"
+    ],
+    "tags": [
+      "escritura_colaborativa",
+      "actividad_metalinguistica",
+      "educacion_primaria",
+      "genero_discursivo",
+      "revision_textual"
+    ],
+    "pistas": [
+      "Grabación y transcripción de 9 parejas mixtas de 5º de Primaria (18 escolares de 10-11 años en Navarra).",
+      "Codificación en Atlas.ti 8 de 351 episodios metalingüísticos con acuerdo interjueces del 91.88%.",
+      "Preponderancia de aspectos textuales del género (135 episodios) y convenciones mecánicas de puntuación y ortografía (142).",
+      "Paradoja de la revisión: solo dos parejas revisaron formalmente y limitaron su atención casi en exclusiva a la ortografía."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "La escritura colaborativa activa el diálogo metalingüístico (metatalk) como motor de aprendizaje reflexivo, pero mientras que en segundas lenguas y en adultos abunda la investigación, se desconocía cómo opera en escolares de Primaria en su lengua materna (español L1).",
+      "desafio": "Identificar los focos de atención lingüística de los niños a lo largo de las distintas fases de producción textual (preescritura, textualización y revisión) tras una instrucción sobre el género de la fábula.",
+      "relevancia": "Permite diseñar andamiajes didácticos explícitos para transformar la revisión mecánica de faltas en una auténtica autorregulación semántica y discursiva."
+    },
+    "conflicto": {
+      "pregunta": "¿Distribuyen los estudiantes de Primaria su reflexión lingüística de manera equilibrada según las metas de cada fase de escritura o concentran su atención en aspectos mecánicos y superficiales?",
+      "posiciones": [
+        "Hipótesis del desarrollo reflexivo: la interacción en parejas orienta a los alumnos hacia problemas de coherencia, estructura del género y cohesión global.",
+        "Hipótesis de la inercia escolar normativa: los niños asimilan la escritura a la corrección ortográfica puntual, descuidando la revisión de las ideas y la adecuación textual."
+      ],
+      "tension": "La tensión entre la aspiración pedagógica de formar escritores autónomos y estratégicos y la arraigada cultura escolar que reduce 'escribir bien' a no cometer faltas de ortografía.",
+      "deepDives": [
+        {
+          "id": "meta-conf-1",
+          "triggerLabel": "Metatalk y tradición francófona",
+          "type": "theory",
+          "content": "Frente al término anglosajón 'metatalk' (Swain), la tradición francófona e hispánica (Camps, Milian, Dolz) prefiere 'actividad metalingüística' para subrayar el carácter social, situado y dialógico de la reflexión sobre la lengua."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Grabación en audio y microanálisis cualitativo de 351 episodios en Atlas.ti 8",
+      "narrativa": "Las investigadoras grabaron en audio a 9 parejas de 5º de Primaria durante la redacción autónoma de una fábula tras una sesión previa de instrucción de género, codificando sus interacciones con Atlas.ti 8 para delimitar los Episodios Lingüísticamente Vinculados (LREs).",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "18 estudiantes (9 niños, 9 niñas; 10-11 años) de 5º de Primaria de un colegio público de Navarra."
+        },
+        {
+          "label": "Tarea",
+          "value": "Escritura en pareja de una fábula en dos sesiones: una instructiva del género y otra de redacción libre y autónoma."
+        },
+        {
+          "label": "Unidad analítica",
+          "value": "Episodio metalingüístico (LRE): segmento de diálogo donde los alumnos discuten, corrigen o cuestionan la lengua."
+        },
+        {
+          "label": "Codificación",
+          "value": "Doble capa en Atlas.ti 8 (niveles lingüísticos y dimensiones del género); fiabilidad interjueces del 91.88%."
+        },
+        {
+          "label": "Fases analizadas",
+          "value": "Preescritura (planificación previa), escritura (textualización) y revisión final."
+        }
+      ],
+      "limitaciones": [
+        "Estudio descriptivo no experimental con muestra reducida a 9 parejas de una única escuela rural.",
+        "Imposibilidad de aislar cuantitativamente el efecto de la intervención didáctica previa frente a la madurez escritora basal."
+      ],
+      "reflexion": "¿Por qué los alumnos dedican tanto tiempo a debatir la ortografía de una palabra durante la redacción y tan poco a revisar si la moraleja de su fábula tiene sentido?",
+      "deepDives": [
+        {
+          "id": "meta-viaje-1",
+          "triggerLabel": "Marcadores de transición de fase",
+          "type": "method",
+          "content": "Las fases se identificaron con precisión cronológica en el audio mediante enunciados explícitos del alumnado, tales como '¡Empieza, escribe ya: Érase una vez...' para abrir la textualización."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Se codificaron 351 episodios: dominaron los aspectos de estructura y características del género (135) junto a convenciones mecánicas de puntuación (76) y ortografía (66); el foco varió por fases, pero con una distorsión crítica: todas las parejas planificaron, pero solo dos revisaron formalmente su texto, y cuando lo hicieron su mirada se redujo con exclusividad a la caza de faltas ortográficas.",
+      "evidenciaCualitativa": "Los principios de textualidad (adecuación, coherencia y cohesión) generaron apenas 14 episodios en toda la muestra; planificar y revisar ocurren de forma recursiva pero fragmentaria dentro de la textualización.",
+      "citaClave": "'La revisión formal está prácticamente ausente en el alumnado de primaria: solo dos de nueve parejas revisaron su texto y cuando lo hicieron la identificaron casi exclusivamente con la corrección ortográfica.'",
+      "implicacionesDocentes": [
+        "Proporcionar rúbricas y guías de revisión explícitas que obliguen a verificar la coherencia global y la moraleja antes que las tildes.",
+        "Modelar la revisión en el aula como un proceso de reescritura de significado y no como mero cepillado superficial de faltas.",
+        "Enseñar estrategias de planificación y revisión intermedias integradas en la propia fase de textualización recursiva."
+      ],
+      "deepDives": [
+        {
+          "id": "meta-rev-1",
+          "triggerLabel": "Variabilidad temporal extrema",
+          "type": "data",
+          "content": "El tiempo total de escritura osciló entre 9 y 35 minutos según la pareja, evidenciando que dedicar más minutos a la tarea no garantiza un mayor número de episodios reflexivos de calidad."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Modelo cognitivo de escritura (Flower & Hayes), interacción sociocultural (Vygotsky) y didáctica de géneros",
+      "tensiones": [
+        "Recursividad cognitiva natural vs. secuencialidad didáctica rígida (planificar, escribir, revisar).",
+        "Atención a aspectos de orden superior (género, sentido) vs. sobrecarga en convenciones mecánicas (ortografía, puntuación)."
+      ],
+      "autoresClave": [
+        "Aznárez-Mauleón et al. (2020)",
+        "Flower & Hayes (1981)",
+        "Camps & Milian (2000)",
+        "Swain (1998)",
+        "Storch (2005, 2016)"
+      ],
+      "deepDives": [
+        {
+          "id": "meta-marco-1",
+          "triggerLabel": "La escritura como actividad adquisicional",
+          "type": "theory",
+          "content": "Guasch y Milian postulan que la interacción verbal entre iguales al escribir no es solo una ventana evaluativa externa, sino un motor de adquisición y refinamiento del sistema de la lengua."
+        }
+      ]
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Sobre qué componentes lingüísticos reflexionan los alumnos de 5º de Primaria en cada fase de una tarea de escritura colaborativa?",
+      "mecanismoClave": "La instrucción previa canaliza la atención hacia la estructura del género durante la planificación, pero la cultura escolar focaliza la revisión en la ortografía superficial, relegando los principios profundos de textualidad.",
+      "conclusionGeneral": "Promover la escritura colaborativa genera rica actividad metalingüística, pero el alumnado necesita andamiajes docentes que guíen la fase de revisión hacia el sentido, la cohesión y la adecuación discursiva global."
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Metalingüística",
+        "descripcion": "Captura episodios de estructura textual y diálogo entre iguales mientras construyes una fábula escolar.",
+        "instrucciones": "Recoge tokens de coherencia y supera preguntas sobre los hallazgos de Aznárez-Mauleón et al. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Escritura Colaborativa en Primaria",
+        "descripcion": "Demuestra tu dominio sobre los 351 episodios codificados, la taxonomía LRE y las fases de redacción.",
+        "instrucciones": "Responde contrarreloj para mantener tu racha didáctica y liderar la tabla de coautores."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de la Competencia Escrita",
+        "descripcion": "Asciende desde la corrección ortográfica puntual hasta la autorregulación textual y discursiva plena.",
+        "instrucciones": "Supera cada nivel respondiendo sobre los modelos cognitivos y socioculturales de escritura."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Actividad metalingüística en escritura colaborativa de Primaria (Aznárez-Mauleón et al., 2020)",
+      "descripcion": "Estudio descriptivo cualitativo de 351 episodios metalingüísticos en 9 parejas de 5º de Primaria que analiza la variación del foco reflexivo entre preescritura, textualización y revisión.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Modelo cognitivo de composición escrita (Flower & Hayes)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico que concibe la redacción como un proceso cognitivo complejo y recursivo integrado por tres operaciones nucleares no lineales: planificación, textualización y revisión continua."
+        },
+        {
+          "id": "2",
+          "label": "Enfoque sociocultural de la actividad metalingüística",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Tradición vygotskiana (Camps, Milian, Dolz) que entiende el diálogo sobre la lengua ('metatalk') entre iguales como un espacio social situado de mediación semiótica y construcción de saber lingüístico."
+        },
+        {
+          "id": "3",
+          "label": "Constructo de Episodio Metalingüístico (LRE de Storch)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Unidad interactiva de análisis definida como cualquier fragmento del diálogo en el que los estudiantes reflexionan sobre el código, debaten alternativas sintácticas o corrigen la producción del compañero."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: caracterizar focos metalingüísticos en Primaria L1",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Identificar y clasificar cuantitativa y cualitativamente los contenidos lingüísticos (textuales, oracionales, mecánicos) sobre los que debaten niños de 10-11 años al redactar en su lengua materna."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: analizar la variación del foco según la fase",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Determinar si la actividad metalingüística se modifica dinámicamente en función de la etapa de la tarea (preescritura, escritura propiamente dicha y revisión) respondiendo a sus metas específicas."
+        },
+        {
+          "id": "6",
+          "label": "Diseño cualitativo descriptivo observacional",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Investigación cualitativa no experimental basada en el registro sonoro exhaustivo, transcripción literal y análisis de contenido de interacciones orales naturales entre escolares durante una tarea escolar."
+        },
+        {
+          "id": "7",
+          "label": "Muestra de 9 parejas de 5º de Primaria en Navarra",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Participación de 18 estudiantes (9 niños y 9 niñas de 10-11 años) de un centro público navarro cuya lengua vehicular es el castellano, asignados aleatoriamente a parejas mixtas para asegurar interacción paritaria."
+        },
+        {
+          "id": "8",
+          "label": "Tarea de escritura de una fábula y codificación en Atlas.ti",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Producción autónoma de una fábula tras instrucción docente de género, codificando las grabaciones en dos niveles analíticos mediante Atlas.ti 8 con un acuerdo interjueces altamente fiable del 91.88%."
+        },
+        {
+          "id": "9",
+          "label": "Preponderancia de componentes textuales y mecánicos",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "De los 351 episodios registrados: 135 trataron sobre estructura y rasgos de la fábula, 76 sobre signos de puntuación y 66 sobre ortografía, frente a una escasa presencia de debate sintáctico y léxico."
+        },
+        {
+          "id": "10",
+          "label": "Evolución diferenciada del foco de atención por fases",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "En la preescritura dominaron con exclusividad los rasgos del género (25 episodios); la escritura concentró la mayor diversidad reflexiva; y la revisión final se restringió casi íntegramente a la ortografía (24)."
+        },
+        {
+          "id": "11",
+          "label": "Crisis de la revisión formal y sesgo ortográfico",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Solo 2 de las 9 parejas ejecutaron una fase formal de revisión antes de entregar el texto, y cuando lo hicieron redujeron su análisis a cazar faltas y acentos, ignorando por completo la coherencia del relato."
+        },
+        {
+          "id": "12",
+          "label": "Invisibilidad de los principios de textualidad profunda",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Los principios profundos de adecuación, coherencia y cohesión apenas suscitaron 14 episodios en toda la muestra, evidenciando que los escolares no los perciben como objeto explícito de debate espontáneo."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: la recursividad del proceso de redacción",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se discute que planificar y revisar se despliegan de forma recursiva durante la textualización, donde los niños detienen la pluma para consensuar giros argumentales o corregir el trazo del compañero."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: la inercia escolar de la corrección formal",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El monopolio ortográfico en la revisión refleja la cultura escolar tradicional, donde el alumnado interioriza que escribir bien equivale a no cometer faltas, descuidando la calidad estética y el sentido global."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: muestra no experimental de centro único",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "Las autoras reconocen que el carácter no experimental impide aislar la influencia de la instrucción de género previa frente a la destreza basal, recomendando ampliar la muestra a diversos contextos."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: andamiajes docentes para la revisión guiada",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye la urgencia de andamiar la revisión colaborativa mediante pautas y rúbricas discursivas explícitas que enseñen a los niños a evaluar la coherencia, la voz narrativa y la moraleja de sus textos."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "aporta el modelo de fases a"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "fundamenta el valor del diálogo en"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "define la unidad de medida para"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se operativiza en el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "guía la comparación longitudinal del"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se administra en la"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "utiliza para la tarea la"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "cuantifica empíricamente la"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "demuestra en los datos la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "revela la alarmante"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "constata en los recuentos la"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "aporta soporte directo a la"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "ejemplifica en la práctica la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "ratifica la gravedad de la"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "muestra la simultaneidad en la"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "conduce a las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "inspira la propuesta de las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el alcance explicativo del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las recomendaciones de las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "reconceptualiza la enseñanza de"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué ocurrió con la fase formal de revisión en las 9 parejas de 5º de Primaria evaluadas?",
+          "options": [
+            "Todas las parejas revisaron minuciosamente la coherencia y adecuación de su fábula.",
+            "Solo dos parejas realizaron una revisión formal y la centraron casi exclusivamente en corregir faltas de ortografía.",
+            "Ninguna pareja se detuvo a releer el texto una vez finalizada la redacción.",
+            "La revisión se dedicó íntegramente a rediseñar la moraleja de la historia."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo diseñarías una guía o rúbrica de coevaluación para que los estudiantes de Primaria revisen la coherencia de una fábula antes de fijarse en los errores ortográficos?"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "id": "inicios_literatura_infantil_espana_viera_clavijo",
+  "metadata": {
+    "id": "inicios_literatura_infantil_espana_viera_clavijo",
+    "title": "Los inicios de la literatura infantil en España: José de Viera y Clavijo",
+    "authors": [
+      "Jesús Díaz-Armas",
+      "Patricia Mauclair"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "2",
+    "pages": "82-91",
+    "doi": "10.18239/ocnos_2018.17.2.1594",
+    "keywords": [
+      "Viera y Clavijo",
+      "literatura infantil española",
+      "siglo XVIII",
+      "Arnaud Berquin",
+      "historiografía de la lectura"
+    ],
+    "abstract": "Investigación filológica e histórica que rescata el papel pionero del ilustrado canario José de Viera y Clavijo en el nacimiento de la literatura infantil en España, mediante su traducción y adaptación de Arnaud Berquin publicada en 1803."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Quién escribió e imprimió los primeros cuentos destinados específicamente a los niños en lengua española? Este estudio filológico de archivo rescata del olvido historiográfico la figura del ilustrado canario José de Viera y Clavijo y sus pioneros \"Cuentos de niños que instruyen divirtiendo\" (1803).",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva de indagación histórico-literaria:",
+        "opciones": [
+          {
+            "id": "archivistica",
+            "texto": "Hallazgo archivístico: el ejemplar único de 1803 en La Laguna"
+          },
+          {
+            "id": "traduccion",
+            "texto": "Prácticas de traducción del siglo XVIII: adaptación de Berquin y Weisse"
+          },
+          {
+            "id": "ilustracion",
+            "texto": "Ideología ilustrada: sensualismo de Locke y educación moral infantil"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Las historias oficiales de la literatura infantil española fechan tradicionalmente su nacimiento a mediados del siglo XIX, omitiendo por completo el siglo XVIII. Este vacío historiográfico invisibilizó la aportación de los ilustrados canarios y los complejos procesos de multitraducción europea que introdujeron el principio de instruir deleitando.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué rasgo singular define la traducción que Viera y Clavijo hizo de las \"berquinadas\" francesas?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Practicó una traducción-abreviación adaptativa que eliminó elementos retóricos y censuró pasajes tenebrosos conforme al sensualismo lockeano.",
+            "correcta": true,
+            "explicacion": "Exacto: Viera podó los textos para hacerlos pedagógicamente luminosos, seguros y atractivos para la mente infantil."
+          },
+          {
+            "id": "c2",
+            "texto": "Tradujo literalmente palabra por palabra sin alterar una sola coma del texto francés.",
+            "correcta": false,
+            "explicacion": "En el siglo XVIII la traducción era una recreación adaptativa orientada al proyecto educativo del autor."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los investigadores examinaron el ejemplar único conservado en el Fondo Antiguo de la Universidad de La Laguna y cotejaron las notas manuscritas de Viera en sus \"Memorias\" de 1784. Realizaron un análisis comparativo textual entre el original francés de Berquin (\"L'ami des enfants\"), sus fuentes alemanas y la versión canaria.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Hallazgo documental",
+            "detalle": "Localización del impreso original por entregas de 1803 en Tenerife."
+          },
+          {
+            "fase": "Cotejo textual",
+            "detalle": "Comparación filológica línea a línea entre Berquin, Weisse, Campe y Viera."
+          },
+          {
+            "fase": "Genealogía teatral",
+            "detalle": "Rastreo de la Loa de Adoración de Reyes (1767) como antecedente de teatro infantil."
+          },
+          {
+            "fase": "Reescritura canónica",
+            "detalle": "Revisión y actualización del canon fundacional de la literatura infantil hispánica."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El estudio demuestra de forma incontrovertible que Viera y Clavijo fue un pionero absoluto de la literatura infantil en el mundo hispánico, adelantándose en décadas a los hitos reconocidos y participando plenamente de las corrientes pedagógicas ilustradas europeas más vanguardistas.",
+      "datos_clave": [
+        "Descubrimiento y análisis del impreso de 1803 \"Cuentos de niños que instruyen divirtiendo\".",
+        "Documentación de la práctica ilustrada de multitraducción europea en Canarias.",
+        "Reconocimiento de la Loa de 1767 como pieza teatral infantil precursora en España.",
+        "Reparación de una omisión de más de dos siglos en los manuales de historia literaria."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se encuadra en la historia del libro y de la lectura de Chartier, las teorías sobre traducción en la Ilustración de Mauclair y los estudios de literatura infantil del siglo XVIII de Bravo-Villasante y Díaz-Armas.",
+      "referencias_clave": [
+        "Chartier (1993)",
+        "Bravo-Villasante (1985)",
+        "Berquin (1782)",
+        "Viera y Clavijo (1803)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "La literatura infantil española nació bajo la luz de la Ilustración: José de Viera y Clavijo demostró que educar a los niños no era adoctrinarlos con rigidez, sino abrirles las puertas del conocimiento a través del gozo de la fábula y la belleza del relato.",
+      "hallazgo_central": "José de Viera y Clavijo es una figura fundacional indiscutible de la literatura infantil en lengua española, gracias a sus adaptaciones pioneras de Berquin impresas en 1803."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos de la Ilustración con su expresión en Viera:",
+          "pares": [
+            {
+              "concepto": "Berquinadas",
+              "definicion": "Fenómeno editorial europeo de cuentos morales derivados de L'ami des enfants."
+            },
+            {
+              "concepto": "Traducción-abreviación",
+              "definicion": "Selección y poda estilística para ajustar el relato a la psicología infantil."
+            },
+            {
+              "concepto": "Sensualismo pedagógico",
+              "definicion": "Rechazo de relatos aterradores para formar la razón del niño mediante la bondad."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Los Inicios de la Literatura Infantil Española en Viera y Clavijo",
+      "descripcion": "Estructura filológica, histórica y hermenéutica del papel fundacional de Viera y Clavijo en la literatura infantil.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Viera y Clavijo y la Literatura Infantil",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo principal: rescatar y fundamentar filológicamente el papel precursor y fundacional del ilustrado José de Viera y Clavijo en los orígenes de la literatura infantil en lengua española."
+        },
+        {
+          "id": "2",
+          "label": "Omisión Historiográfica en España",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Diagnóstico crítico sobre el vacío en los manuales canónicos de historia literaria que retrasaban el nacimiento de la literatura infantil hispánica al siglo XIX, ignorando el siglo XVIII."
+        },
+        {
+          "id": "3",
+          "label": "El Fenómeno Europeo de las Berquinadas",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Corpus narrativo ilustrado europeo iniciado por Arnaud Berquin con L'ami des enfants (1782), caracterizado por relatos de corte moral y educativo traducidos profusamente en varios idiomas."
+        },
+        {
+          "id": "4",
+          "label": "El Sensualismo de Locke y la Infancia",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Doctrina filosófica de la Ilustración que defiende que las ideas proceden de las sensaciones, demandando relatos amables y luminosos que alejen a los niños del terror o el miedo irracional."
+        },
+        {
+          "id": "5",
+          "label": "Investigación Archivística y Documental",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Metodología filológica basada en el rastreo de archivos patrimoniales y el examen del ejemplar único conservado en el Fondo Antiguo de la Biblioteca de la Universidad de La Laguna."
+        },
+        {
+          "id": "6",
+          "label": "Cotejo Comparativo Intertextual",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Análisis textual comparado entre las piezas francesas de Berquin, los originales alemanes de Weisse y Campe, y las versiones manuscritas e impresas redactadas por Viera y Clavijo."
+        },
+        {
+          "id": "7",
+          "label": "Práctica de la Multitraducción Ilustrada",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Examen de los procedimientos dieciochescos de traducción-abreviación donde el traductor podaba, reescribía y adaptaba activamente el material a las necesidades morales del nuevo público."
+        },
+        {
+          "id": "8",
+          "label": "Impreso de 1803: Cuentos de Niños",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo empírico definitivo: confirmación de la edición impresa por entregas en Gran Canaria en 1803 de los Cuentos de niños que instruyen divirtiendo, de autoría de Viera."
+        },
+        {
+          "id": "9",
+          "label": "La Loa de 1767 como Teatro Precursor",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Documentación de la Loa de Adoración de Reyes compuesta en 1767 para ser representada por niños, adelantándose en siete décadas a las primeras obras teatrales infantiles catalogadas."
+        },
+        {
+          "id": "10",
+          "label": "Aclimatación Pedagógica Ilustrada",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación de que Viera suavizó aristas dramáticas, suprimió moralejas pedantes y confirió una frescura estilística excepcional a los relatos para cautivar la imaginación infantil."
+        },
+        {
+          "id": "11",
+          "label": "Reescritura de la Historia de la LIJ",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión epistemológica que obliga a rectificar la cronología de la literatura infantil española, consagrando la aportación de la Ilustración canónica canaria como hito pionero."
+        },
+        {
+          "id": "12",
+          "label": "Centralismo Peninsular y Olvido Insular",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión crítica sobre cómo la lejanía geográfica de Canarias y la rareza bibliográfica de sus imprentas condenaron al olvido aportaciones intelectuales de calibre universal."
+        },
+        {
+          "id": "13",
+          "label": "Incorporación de Viera al Canon Fundacional",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión imperativa: la historia de la literatura española debe integrar formalmente a Viera y Clavijo como el primer autor de colecciones de cuentos infantiles en lengua castellana."
+        },
+        {
+          "id": "14",
+          "label": "Pervivencia del Principio de Instruir Deleitando",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Revalorización de la poética ilustrada horaciana como un modelo formativo ético que sigue ofreciendo claves luminosas a la mediación lectora y pedagógica del presente."
+        },
+        {
+          "id": "15",
+          "label": "Patrimonio Bibliográfico y Memoria Viva",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión final: proteger y reeditar los textos fundacionales olvidados en fondos antiguos es un deber cultural ineludible para enriquecer la memoria colectiva de la sociedad."
+        },
+        {
+          "id": "16",
+          "label": "Singularidad Muestral de Ejemplar Único",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación material derivada de la extrema rareza de la tirada original de 1803, de la que solo se conserva un ejemplar físico conocido, dificultando el rastreo de su difusión popular."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "supera y corrige la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se fundamenta en la"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "desconocía el impacto de"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se inspira en el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "aplica el método de"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "desvela la"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "demuestra la existencia de"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "documenta documentalmente la"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "posibilita la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "exige la inmediata"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "respalda la"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "se ocultó tras el"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "culmina en la"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "repara la injusticia con la"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "afianza la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "converge en la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo la"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "acotada por la"
+        },
+        {
+          "from": "4",
+          "to": "10",
+          "label": "guía ideológicamente la"
+        },
+        {
+          "from": "8",
+          "to": "13",
+          "label": "avala la"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "se traslada en el"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Díaz-Armas y Mauclair nos recuerdan la emoción del archivo: en las páginas amarillentas de un libro canario de 1803 latía el corazón primero de la literatura infantil en español, aguardando que dos investigadores devolvieran a Viera y Clavijo el lugar que siempre mereció.",
+      "preguntas_guiadas": [
+        "¿Por qué las historias literarias tienden a marginar las obras nacidas en territorios insulares o periféricos?",
+        "¿Cómo dialoga el principio ilustrado de \"instruir deleitando\" con las producciones de literatura infantil contemporánea?"
+      ]
+    }
+  }
+}

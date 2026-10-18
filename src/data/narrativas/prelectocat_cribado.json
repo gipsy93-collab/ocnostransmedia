@@ -2,7 +2,7 @@
   "id": "prelectocat_cribado",
   "metadata": {
     "title": "Prelectocat. Prueba de cribado en catalán para detectar tempranamente dificultades lectoras en la infancia",
-    "authors": "Núria Pedrós-Pujol, Llorenç Andreu-Barrachina y Mònica Sanz-Torrent",
+    "authors": "Anna López-Sala, Mari Aguilera, Nadia Ahufinger, Cristina Martínez-García, Roser Colomé-Roura, Ismael Perálvarez, Sol Balsells, Daniel Cuadras y Llorenç Andreu",
     "year": "2025",
     "journal": "Ocnos 24(2)",
     "doi": "10.18239/Ocnos_2025.24.2.496",
@@ -12,18 +12,18 @@
     "color": "#e76f51",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-11.png",
+    "image": "/assets/portadas/prelectocat_cribado.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-11.png",
-      "name": "Dra. Núria Pedrós-Pujol",
-      "role": "Investigadora en Dificultades del Lenguaje, Universitat Oberta de Catalunya (UOC)"
+      "image": "/assets/portadas/prelectocat_cribado.jpg",
+      "name": "Dra. Anna López-Sala",
+      "role": "Unidad de Trastornos del Aprendizaje Escolar (UTAE), Hospital Sant Joan de Déu"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Núria Pedrós-Pujol, psicolingüista especialista en cribado precoz de dificultades lectoras",
+      "personaje": "Dra. Anna López-Sala, neuropsicóloga de la Unidad de Trastornos del Aprendizaje Escolar (UTAE)",
       "gancho": "¿Por qué esperar a 3.º de Primaria para diagnosticar la dislexia si el cerebro infantil emite señales de alarma a los 5 años?",
-      "contexto": "El modelo tradicional de 'esperar al fracaso' condena a miles de niños a sufrir frustración antes de recibir apoyo. La ciencia demuestra que las habilidades prelectoras permiten predecir el rendimiento futuro. Faltaba una batería breve y validada en lengua catalana para maestros de I5. En este estudio con 364 escolares, investigadores de la UOC y la UB validaron PRELECTOCAT, un instrumento de cribado de 15 minutos.",
+      "contexto": "El modelo tradicional de 'esperar al fracaso' condena a miles de niños a sufrir frustración antes de recibir apoyo. La ciencia demuestra que las habilidades prelectoras permiten predecir el rendimiento futuro. Faltaba una batería breve y validada en lengua catalana para maestros de I5. En este estudio con 459 escolares, investigadores del Hospital Sant Joan de Déu, la UOC y la UB validaron Prelectocat, un instrumento de cribado de 10 minutos.",
       "deepDives": [
         {
           "id": "pre-apertura-1",
@@ -33,9 +33,9 @@
         },
         {
           "id": "pre-apertura-2",
-          "triggerLabel": "Muestra de 364 niños de I5",
+          "triggerLabel": "Muestra de 459 niños de I5",
           "type": "data",
-          "content": "364 alumnos de 5 años evaluados en escuelas de Cataluña con seguimiento de su validez concurrente y predictiva."
+          "content": "459 alumnos de 5 años evaluados en escuelas de Cataluña con seguimiento de su fiabilidad y validez de constructo."
         }
       ]
     },
@@ -43,10 +43,10 @@
       "problema": "La falta de herramientas estandarizadas en catalán obligaba a demorar la evaluación hasta 2.º o 3.º de Primaria.",
       "porQueImporta": "La plasticidad cerebral en Educación Infantil permite reeducar los circuitos fonológicos con una eficacia que se reduce drásticamente en edades posteriores.",
       "dataPoints": [
-        "Muestra de 364 niños y niñas de Educación Infantil (I5).",
-        "Batería PRELECTOCAT compuesta por 5 subtests.",
-        "Sensibilidad diagnóstica del 85% y especificidad del 88% para detectar riesgo lector.",
-        "Tiempo medio de pase: solo 15 minutos por niño."
+        "Muestra de 459 niños y niñas de Educación Infantil (I5).",
+        "Batería Prelectocat compuesta por 5 dominios y 31 ítems.",
+        "Fiabilidad interna alta con un alfa de Cronbach de 0,906.",
+        "Tiempo medio de pase: solo 10 minutos por niño."
       ],
       "glossary": [
         {
@@ -54,83 +54,83 @@
           "definition": "Capacidad de nombrar con máxima rapidez secuencias visuales de colores, letras o dibujos."
         },
         {
-          "term": "Sensibilidad psicométrica",
-          "definition": "Capacidad de un test para identificar correctamente a los individuos que presentan el riesgo."
+          "term": "Punto de corte",
+          "definition": "Puntuación directa (60 puntos, percentil 13) por debajo de la cual se considera que el alumnado está en riesgo de dificultades lectoescritoras."
         }
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Estandarización y análisis psicométrico en 364 infantes",
-      "narrativa": "Los autores evaluaron a 364 niños en sus centros escolares. Analizaron fiabilidad (alfa = .89), estructura factorial y validez predictiva respecto a 1.º de Primaria.",
+      "titulo": "Ruta metodológica: Estandarización y análisis psicométrico en 459 infantes",
+      "narrativa": "Los autores evaluaron a 459 niños en sus centros escolares. Analizaron fiabilidad (alfa = .906), estructura factorial (validez de constructo) y consistencia entre los cinco dominios.",
       "detalles": [
         {
           "label": "Población",
-          "value": "364 infantes de 5 años en escuelas catalanas."
+          "value": "459 infantes de 5 años en 31 escuelas catalanas Vedruna."
         },
         {
           "label": "Instrumento",
-          "value": "Batería PRELECTOCAT (versión digital y papel)."
+          "value": "Batería Prelectocat (hoja de registro, material de apoyo y manual de corrección)."
         },
         {
           "label": "Análisis",
-          "value": "Curvas ROC, fiabilidad test-retest y regresión logística."
+          "value": "Alfa de Cronbach, correlaciones de Spearman y análisis factorial confirmatorio."
         }
       ],
       "limitaciones": [
         "Estudio circunscrito al ámbito lingüístico catalán.",
         "Seguimiento longitudinal pendiente hasta fin de Primaria."
       ],
-      "reflexion": "Un cribado de 15 minutos a los 5 años ahorra años de incomprensión escolar."
+      "reflexion": "Un cribado de 10 minutos a los 5 años ahorra años de incomprensión escolar."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: Las letras y la RAN anticipan el futuro",
-      "narrativa": "Los resultados empíricos demostraron el enorme poder preventivo de la prueba:",
+      "titulo": "Hallazgos empíricos: Fiabilidad sólida y una estructura de cinco dominios",
+      "narrativa": "Los resultados empíricos demostraron la solidez psicométrica de la prueba:",
       "hallazgos": [
         {
-          "label": "1. El Dúo Predictivo Más Potente",
-          "value": "Conocimiento de Letras y RAN explicaron el 62% de las dificultades de decodificación en 1.º de Primaria."
+          "label": "1. Alta Consistencia Interna",
+          "value": "Prelectocat obtuvo un alfa de Cronbach de 0,906 (IC 0,89-0,92) y una correlación por mitades de 0,811."
         },
         {
-          "label": "2. Detección sin Falsos Positivos",
-          "value": "PRELECTOCAT demostró una especificidad del 88%, evitando alarmar innecesariamente a las familias."
+          "label": "2. Estructura de Cinco Dominios Confirmada",
+          "value": "El análisis factorial confirmatorio respaldó el modelo de cinco dominios (RMSEA = 0,074; CFI = 0,813)."
         }
       ],
       "dataPoints": [
-        "Área bajo la curva ROC (AUC) = 0.91, precisión diagnóstica excelente.",
-        "El 14% de la muestra fue clasificado en riesgo moderado o alto."
+        "Puntuación total media de 76,87 (DE 15,08), con corte de riesgo en 60 puntos (percentil 13).",
+        "La prueba U de Mann-Whitney no halló diferencias significativas por sexo (p=0,400)."
       ],
       "reflexion": "La prevención temprana no etiqueta: protege y abre la puerta a la intervención oportuna."
     },
     "marco": {
       "titulo": "Discusión: Hacia un modelo de Respuesta a la Intervención (RTI)",
-      "narrativa": "Pedrós-Pujol y su equipo defienden un cambio sistémico en la escuela infantil:",
+      "narrativa": "López-Sala y su equipo defienden un cambio sistémico en la escuela infantil:",
       "detalles": [
         {
           "label": "Superar la Espera al Fracaso",
           "value": "Cribar a los 5 años permite aplicar estimulación fonológica preventiva en pequeños grupos."
         },
         {
-          "label": "Herramienta Gratuita",
-          "value": "PRELECTOCAT se ofrece a la comunidad educativa para empoderar a los maestros de Infantil."
+          "label": "Herramienta en Abierto",
+          "value": "Prelectocat está depositada en el repositorio OSF (hoja de registro, instrucciones e interpretación) para empoderar a los maestros de Infantil."
         }
       ],
       "reflexion": "El derecho a leer empieza en el juego fonológico y el oído atento."
     },
     "nucleo": {
-      "pregunta": "¿Qué validez diagnóstica presenta la prueba PRELECTOCAT para el cribado precoz del riesgo de dificultades lectoras en catalán?",
-      "conclusion": "La validación psicométrica de PRELECTOCAT en 364 niños de 5 años demuestra que es un instrumento fiable, rápido (15 min) y de alta precisión (sensibilidad 85%, especificidad 88%) para detectar tempranamente el riesgo de dislexia en catalán, permitiendo una intervención preventiva multinivel en Infantil.",
-      "formalRef": "Pedrós-Pujol, N., Andreu-Barrachina, L., & Sanz-Torrent, M. (2025). Prelectocat. Prueba de cribado en catalán para detectar tempranamente dificultades lectoras en la infancia. Ocnos, 24(2). https://doi.org/10.18239/Ocnos_2025.24.2.496"
+      "pregunta": "¿Qué fiabilidad y validez de constructo presenta la prueba Prelectocat para el cribado precoz del riesgo de dificultades lectoras en catalán?",
+      "conclusion": "La validación psicométrica de Prelectocat en 459 niños de 5 años demuestra que es un instrumento fiable (alfa = 0,906) y con validez de constructo aceptable-buena para detectar tempranamente el riesgo de dificultades lectoescritoras en catalán, permitiendo una intervención preventiva multinivel en Infantil.",
+      "formalRef": "López-Sala, A., Aguilera, M., Ahufinger, N., Martínez-García, C., Colomé-Roura, R., Perálvarez, I., Balsells, S., Cuadras, D., & Andreu, L. (2025). Prelectocat. Prueba de cribado en catalán para detectar tempranamente dificultades lectoras a los cinco años. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.496"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué habilidades prelectoras resultaron ser las más predictivas del éxito lector posterior según PRELECTOCAT?",
+          "q": "¿Qué dominios evalúa la prueba de cribado Prelectocat?",
           "options": [
-            "La fuerza muscular de los dedos al dibujar.",
-            "El conocimiento de letras y la denominación rápida automatizada (RAN).",
-            "La capacidad de memorizar poesías sin comprenderlas.",
-            "El peso y la estatura del niño."
+            "Vocabulario en inglés, traducción y cálculo mental.",
+            "Conciencia fonológica, correspondencia sonido-grafía, memoria auditiva, secuencias verbales/evocación léxica y escritura.",
+            "Fuerza muscular de los dedos, equilibrio y lateralidad.",
+            "Memorización de poesías y peso y estatura del niño."
           ],
           "correct": 1
         },
@@ -147,10 +147,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Cuánto tiempo dura aproximadamente la aplicación individual de PRELECTOCAT?",
+          "q": "¿Cuánto tiempo dura aproximadamente la aplicación individual de Prelectocat?",
           "options": [
             "Tres días completos de exámenes.",
-            "Aproximadamente 15 minutos por alumno.",
+            "Aproximadamente 10 minutos por alumno.",
             "Dos horas ininterrumpidas.",
             "Menos de diez segundos."
           ],
@@ -158,7 +158,7 @@
         },
         {
           "type": "open",
-          "q": "Si un alumno de 5 años obtiene una puntuación baja en RAN en PRELECTOCAT, ¿qué tipo de juegos fonológicos diarios propondrías en el rincón de letras para apoyarle sin estigmatizarle?"
+          "q": "Si un alumno de 5 años obtiene una puntuación baja en el dominio de secuencias verbales/evocación léxica de Prelectocat, ¿qué tipo de juegos fonológicos diarios propondrías en el rincón de letras para apoyarle sin estigmatizarle?"
         },
         {
           "type": "open",
@@ -169,7 +169,7 @@
   },
   "tutorTexts": {
     "apertura": {
-      "text": "Bienvenido al diagnóstico preventivo. Acompáñanos a descubrir cómo 15 minutos a los 5 años pueden cambiar una vida escolar.",
+      "text": "Bienvenido al diagnóstico preventivo. Acompáñanos a descubrir cómo 10 minutos a los 5 años pueden cambiar una vida escolar.",
       "position": "bottom-right"
     },
     "conflicto": {
@@ -177,11 +177,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "364 niños evaluados en Cataluña para baremar la primera prueba estandarizada en su lengua vehicular.",
+      "text": "459 niños evaluados en Cataluña para baremar la primera prueba estandarizada en su lengua vehicular.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Las letras y la RAN son el faro! Detectan el 85% de las dificultades futuras con una precisión quirúrgica.",
+      "text": "¡La prueba es fiable y sólida! Un alfa de 0,906 y cinco dominios bien definidos guían la detección temprana.",
       "position": "bottom-right"
     },
     "marco": {
@@ -202,110 +202,241 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: PRELECTOCAT y Detección Precoz de Dificultades Lectoras",
-    "descripcion": "Estandarización psicométrica en 364 infantes: denominación rápida RAN, conocimiento de letras, sensibilidad diagnóstica y modelo de Respuesta a la Intervención.",
+    "titulo": "Mapa conceptual: Prelectocat, cribado en catalán (Ocnos 24(2) 2025)",
+    "descripcion": "Recorrido desde los predictores orales de la lectoescritura hasta la creación y validación psicométrica del Prelectocat en 459 niños catalanohablantes de 5-6 años, con sus baremos, fiabilidad, validez y limitaciones, y la recomendación de cribado universal para la intervención temprana.",
     "nodos": [
       {
         "id": "1",
-        "label": "Cribado Precoz PRELECTOCAT",
-        "color": "#e76f51"
+        "label": "Lenguaje oral como predictor",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La habilidad general del lenguaje oral en Educación Infantil (3-5 años) es un factor unitario que predice la lectoescritura en Primaria (Snowling y Hulme, 2021; Hjetland et al., 2020). El vocabulario se identifica como clave de la comprensión lectora posterior."
       },
       {
         "id": "2",
-        "label": "Muestra 364 Niños (I5)",
-        "color": "#2a5a75"
+        "label": "Visión simple de la lectura",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Modelo de Gough y Tunmer (1986): leer implica decodificar la palabra impresa y comprender lo leído. Los predictores como conciencia fonológica y memoria fonológica sustentan la decodificación de ese proceso."
       },
       {
         "id": "3",
-        "label": "Denominación Rápida (RAN)",
-        "color": "#88b04b"
+        "label": "Factores de riesgo biológicos, cognitivos y ambientales",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Pennington (2006) clasifica los factores de riesgo en tres niveles. La probabilidad de trastorno de lectura es altamente heredable y el entorno de alfabetización familiar afecta a las habilidades previas (Sénéchal y LeFevre, 2014)."
       },
       {
         "id": "4",
-        "label": "Conocimiento de Letras",
-        "color": "#5b9eaa"
+        "label": "Modelos RtI y MTSS",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Marcos de apoyos multinivel con tres niveles de intervención progresivamente más intensiva. Parten de una evaluación mediante cribado universal aplicado a todo el alumnado para detectar quién necesita apoyos en los niveles 2 y 3."
       },
       {
         "id": "5",
-        "label": "Conciencia Fonológica",
-        "color": "#f4d068"
+        "label": "Ausencia de cribado en catalán",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "En el contexto hispanohablante existen herramientas como Prolexia (Cuetos et al., 2020), de unos 30 minutos y aplicación clínica. En catalán, gallego o vasco, lenguas vehiculares de sus comunidades, no había pruebas de cribado universal."
       },
       {
         "id": "6",
-        "label": "Sensibilidad y Especificidad (85-88%)",
-        "color": "#9b82c3"
+        "label": "Objetivo: crear el Prelectocat",
+        "color": "#c73e1d",
+        "role": "Objetivo",
+        "descripcion": "Elaborar y analizar las características psicométricas de una prueba de rastreo universal en catalán para detectar tempranamente dificultades de lectoescritura, de aplicación rápida y sencilla por docentes a los 5 años."
       },
       {
         "id": "7",
-        "label": "Superación de 'Esperar al Fracaso'",
-        "color": "#c73e1d"
+        "label": "Cinco dominios del test",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Conciencia fonológica (11 ítems), correspondencia sonido-grafía (6), memoria a corto plazo/fonológica (6), secuencias verbales/evocación léxico (4) y escritura (4). Se eligieron tras búsqueda bibliográfica por expertos y psicopedagogos de la red Vedruna."
       },
       {
         "id": "8",
-        "label": "Plasticidad Cerebral Temprana",
-        "color": "#2a9d8f"
+        "label": "31 ítems y 10 minutos de aplicación",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Cada ítem se puntúa de 0 a 3 según corrección y velocidad, con un rango total de 0 a 93. La administración del cribado dura aproximadamente 10 minutos."
       },
       {
         "id": "9",
-        "label": "Modelo Respuesta a Intervención (RTI)",
-        "color": "#264653"
+        "label": "Muestra de 459 niños (5-6 años)",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "222 niñas (48,4%) y 237 niños (51,6%) del último curso de Educación Infantil, escolarizados en 31 escuelas Vedruna de Cataluña, con contextos urbanos, rurales, de montaña y costeros. No se excluyó por ningún criterio."
       },
       {
         "id": "10",
-        "label": "Equidad e Inclusión Lingüística",
-        "color": "#f4a261"
+        "label": "Aplicación por tutoras y psicopedagogos",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Se administró siempre en el tercer trimestre, individualmente y en espacio silencioso, con hoja de registro, material de apoyo y manual. Los registros se volcaron a hojas de cálculo para el análisis estadístico."
+      },
+      {
+        "id": "11",
+        "label": "Baremos y corte en 60 puntos",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Puntuación total media de 76,87 (DE 15,08) con distribución sesgada a la izquierda. Se considera riesgo una desviación estándar o más bajo la media, equivalente a 60 puntos, percentil 13."
+      },
+      {
+        "id": "12",
+        "label": "Sin diferencias por sexo",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "La prueba U de Mann-Whitney no detectó diferencias significativas entre niños y niñas ni en la puntuación total (p=0,400) ni en cada uno de los cinco dominios."
+      },
+      {
+        "id": "13",
+        "label": "Fiabilidad: alfa de 0,906",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Alfa de Cronbach de 0,906 (IC 0,89-0,92) y correlación de Spearman de 0,811 por mitades, resultados buenos-excelentes según Nunnally. Las correlaciones entre dominios son positivas y significativas (hasta 0,556 conciencia fonológica-escritura)."
+      },
+      {
+        "id": "14",
+        "label": "Validez por factorial confirmatorio",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "El modelo de cinco dominios (maximum likelihood) mostró RMSEA de 0,074 y CFI de 0,813 con ajuste aceptable-bueno; el chi-cuadrado significativo (1478,055; gl 424) se condiciona por el gran tamaño muestral."
+      },
+      {
+        "id": "15",
+        "label": "Sesgo hacia puntuaciones altas",
+        "color": "#e76f51",
+        "role": "Limitaciones",
+        "descripcion": "La distribución tiende a valores altos, sobre todo en los dominios 4 y 5, lo que reduce la capacidad discriminativa. Se recomienda revisar ítems en futuras versiones para mejorar la sensibilidad."
+      },
+      {
+        "id": "16",
+        "label": "Cribado universal en escuela inclusiva",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "La evaluación universal se basa en el modelo de respuesta a la intervención y promueve la escuela inclusiva (Ainscow, Coll, Echeita, Giné). El alumnado en riesgo recibe seguimiento, intervención y evaluación, especialmente en el primer ciclo de Primaria."
+      },
+      {
+        "id": "17",
+        "label": "Recomendación de implantación temprana",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "Prelectocat demuestra fiabilidad y validez sólidas como cribado universal, rápido y sencillo al final de Educación Infantil, permitiendo al docente un rol proactivo en la prevención del fracaso escolar y la inclusión educativa."
+      },
+      {
+        "id": "18",
+        "label": "Límites: validez de criterio ausente",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "La falta de una prueba estandarizada en castellano impidió analizar la validez de contenido y de criterio; tampoco se dispone de información socioeconómica. Serán necesarios estudios longitudinales sobre su poder predictivo."
       }
     ],
     "aristas": [
       {
-        "from": "1",
-        "to": "2",
-        "label": "se valida con la"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "evalúa como predictor crítico la"
-      },
-      {
-        "from": "1",
-        "to": "4",
-        "label": "mide el dominio del"
-      },
-      {
-        "from": "1",
-        "to": "5",
-        "label": "incluye tareas de"
-      },
-      {
-        "from": "1",
-        "to": "6",
-        "label": "demuestra una sobresaliente"
+        "from": "3",
+        "to": "1",
+        "label": "clasifica como factor cognitivo el"
       },
       {
         "from": "1",
         "to": "7",
-        "label": "permite la radical"
+        "label": "fundamenta la evaluación de las"
+      },
+      {
+        "from": "2",
+        "to": "7",
+        "label": "define la decodificación que mide el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "motiva el"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "sustenta el diseño del"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se operacionaliza en el"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "se aplica a la"
       },
       {
         "from": "7",
         "to": "8",
-        "label": "aprovecha la máxima"
-      },
-      {
-        "from": "1",
-        "to": "9",
-        "label": "se integra en el Nivel 1 del"
-      },
-      {
-        "from": "9",
-        "to": "10",
-        "label": "garantiza en la escuela la"
+        "label": "se concreta en los"
       },
       {
         "from": "10",
-        "to": "1",
-        "label": "fundamenta la necesidad de"
+        "to": "9",
+        "label": "evaluó individualmente a la"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "proporciona los datos para los"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "origina la escala de los"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "no muestra diferencias por sexo en los"
+      },
+      {
+        "from": "7",
+        "to": "13",
+        "label": "se analiza mediante la"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "se complementa con la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "avalan la estructura pese al"
+      },
+      {
+        "from": "15",
+        "to": "18",
+        "label": "se suma a los"
+      },
+      {
+        "from": "11",
+        "to": "16",
+        "label": "permite identificar riesgo dentro del"
+      },
+      {
+        "from": "4",
+        "to": "16",
+        "label": "exige como punto de partida el"
+      },
+      {
+        "from": "5",
+        "to": "16",
+        "label": "justifica la implantación del"
+      },
+      {
+        "from": "16",
+        "to": "17",
+        "label": "desemboca en la"
+      },
+      {
+        "from": "17",
+        "to": "18",
+        "label": "queda pendiente de contrastar la predicción ante los"
       }
     ]
   }

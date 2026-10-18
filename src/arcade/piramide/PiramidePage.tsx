@@ -146,7 +146,7 @@ export default function PiramidePage() {
         
         const newEnemies: Enemy[] = [];
         let newLives = prev.lives;
-        let newPhase = prev.phase;
+        let newPhase: GameState['phase'] = prev.phase;
         let newPos = prev.playerPos;
         let hit = false;
 
@@ -267,7 +267,7 @@ export default function PiramidePage() {
       // If player moves off the pyramid -> Death!
       if (nr < 0 || nr >= ROWS || nc < 0 || nc > nr) {
         let newLives = prev.lives - 1;
-        let newPhase = prev.phase;
+        let newPhase: GameState['phase'] = prev.phase;
         if (newLives <= 0) {
           newPhase = 'gameOver';
           store.setHighScore('qbert', prev.score);
@@ -301,7 +301,7 @@ export default function PiramidePage() {
       // Check collision with enemies at new position
       const hit = prev.enemies.some((en) => en.row === nr && en.col === nc);
       let newLives = prev.lives;
-      let newPhase = prev.phase;
+      let newPhase: GameState['phase'] = prev.phase;
       if (hit) {
         newLives -= 1;
         if (newLives <= 0) {

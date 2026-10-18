@@ -1,0 +1,139 @@
+{
+  "id": "valores_lecturas",
+  "metadata": {
+    "title": "Valores y lectura(s)",
+    "authors": "Juan Senís Fernández",
+    "year": "2006",
+    "journal": "Ocnos. Revista de estudios sobre lectura, 2 (2006), p. 79-91",
+    "doi": "https://doi.org/10.18239/ocnos_2006.02.05",
+    "gancho": "El artículo resume un proyecto de investigación que revisó los libros de Lengua del segundo ciclo de Primaria (cuarto, quinto y sexto curso) de las editoriales Anaya, Edelvives, Santillana y SM, para comprobar cómo se presentan los valores a través de los textos y de sus paratext",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#f4a261",
+    "bg": "from-amber-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-12.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-12.png",
+      "name": "Juan Senís Fernández",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Juan Senís Fernández, autor/a en Revista Ocnos",
+      "gancho": "El artículo resume un proyecto de investigación que revisó los libros de Lengua del segundo ciclo de Primaria (cuarto, quinto y sexto curso) de las editoriales Anaya, Edelvives, Santillana y SM, para ",
+      "contexto": "El texto es resultado del proyecto de investigación «Valores y lectura. Alfabetización para una sociedad multicultural», dirigido por los doctores Pedro C. Cerrillo y Santiago Yubero y desarrollado en el CEPLI entre 2003 y 2005, con financiación de la Consejería de Ciencia y Tecnología de la Junta de Comunidades de Castilla-La Mancha. \nSe realizó una consulta sobre los manuales usados en los colegios de Cuenca, Albacete y Toledo. De esa consulta ",
+      "deepDives": [
+        {
+          "id": "valores_lecturas-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "Los libros de Lengua del segundo ciclo de Primaria deben equilibrar objetivos dispares: contenidos gramaticales y literarios, consolidación de habilidades lecto-escritoras, fomento del gusto por la lectura, competencia literaria y educación en valores. El problema que aborda el artículo es cómo conv"
+        },
+        {
+          "id": "valores_lecturas-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "El texto es resultado del proyecto de investigación «Valores y lectura. Alfabetización para una sociedad multicultural», dirigido por los doctores Pedro C. Cerrillo y Santiago Yubero y desarrollado en el CEPLI entre 2003 y 2005, con financiación de la Consejería de Ciencia y Tecnología de la Junta d"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Los libros de Lengua del segundo ciclo de Primaria deben equilibrar objetivos dispares: contenidos gramaticales y literarios, consolidación de habilidades lecto-escritoras, fomento del gusto por la lectura, competencia literaria y educación en valores. El problema que aborda el artículo es cómo conviven esas exigencias dentro del manual y, en parti",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "escritoras, fomento del gusto por la lectura, competencia literaria y educación en valores. El problema que aborda el artículo es cómo conviven esas exigencias dentro del manual y, en particular, cómo se presentan realmente los valores a través de los textos y de los elementos que los rodean.",
+        "La Mancha."
+      ],
+      "glossary": [
+        {
+          "term": "Lectura principal",
+          "definition": "texto que encabeza la unidad y funciona como puerta de entrada a ella."
+        },
+        {
+          "term": "Paratexto",
+          "definition": "marco textual que rodea y completa un texto (títulos, prólogos, actividades, ilustraciones)."
+        },
+        {
+          "term": "Especialización de géneros",
+          "definition": "reparto de funciones y posiciones fijas entre narrativa, poesía e informativos."
+        },
+        {
+          "term": "Utilitarismo curricular",
+          "definition": "aprovechamiento de la lectura literaria para fines escolares ajenos a la propia lectura."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Se trata de un estudio de revisión documental sobre un corpus de libros de texto, no de un trabajo experimental. El proyecto de base se desarrolló entre 2003 y 2005 en el CEPLI bajo la dirección de Pedro C. Cerrillo y Santiago Yubero. \nLa muestra se obtuvo mediante una consulta sobre los manuales usados en colegios de Cuenca, Albacete y Toledo. El corpus final se acotó a los libros de Lengua del s",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Análisis empírico o teórico de corpus según fuentes primarias"
+        }
+      ],
+      "limitaciones": [
+        "El propio autor declara que el artículo es «un resumen» de una investigación más compleja y vasta, por lo que resulta «simplificador e incompleto» por necesidad.  No se especifican tamaño numérico de "
+      ],
+      "reflexion": "Si tuvieras que replicar esta revisión en tu propio contexto, ¿qué criterios usarías para seleccionar los manuales y cómo registrarías la relación entre cada texto y sus paratextos?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "Hallazgo principal",
+          "value": "Evidencias y resultados derivados del corpus analizado."
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El artículo se apoya en el campo de la literatura infantil y juvenil y en la crítica a su uso instrumental. Cita a Pedro C. Cerrillo (2001), quien recuerda que a la Literatura Infantil se le exigió «no sólo capacidad para instruir o adoctrinar […] despojándola de los únicos valores que le son exigibles, los literarios». \nRecupera de Victoria Fernández la noción de «utilitarismo curricular», defini",
+      "detalles": [
+        {
+          "label": "Tradición Teórica",
+          "value": "Teorías de la lectura, didáctica de la lengua y estudios literarios."
+        }
+      ],
+      "reflexion": "¿Qué aporta el concepto de «utilitarismo curricular» a tu lectura del manual, y qué contra-argumento cabría oponerle desde la práctica escolar?"
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo presentan los libros de Lengua del segundo ciclo de Primaria los valores a través de sus textos y paratextos, y qué efectos tiene ese tratamiento sobre la educación literaria?",
+      "conclusion": "El balance general de la presencia de valores en los libros de Lengua del segundo ciclo de Primaria es «de lo más positivo»: hay abundancia de textos literarios, escasez de informativos o panfletarios, y una relación equilibrada entre textos y paratextos. Sin embargo, el sistema de especialización de los géneros desequilibra la condición de cada género y redunda negativamente en la educación literaria. La narrativa infantil y juvenil concentra ca",
+      "formalRef": "Senís Fernández, J. (2006). Valores y lectura(s). *Ocnos. Revista de estudios sobre lectura*, 2, 79-91. https://doi.org/10.18239/ocnos_2006.02.05"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es el balance que el autor extrae del estudio sobre valores y libros de Lengua?",
+          "options": [
+            "A) Negativo: los manuales abusan de los textos informativos.",
+            "B) Positivo en valores, pero con la educación literaria perjudicada.",
+            "C) Neutro: no hay valores reconocibles en los manuales.",
+            "D) Positivo en todo, sin ningún aspecto que se descuide."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué relación entre textos y paratextos resulta la más frecuente y generalizada?",
+          "options": [
+            "A) La tergiversación.",
+            "B) El desequilibrio por desaprovechamiento.",
+            "C) El equilibrio.",
+            "D) La ausencia total de paratextos."
+          ],
+          "correct": 2
+        }
+      ]
+    }
+  }
+}

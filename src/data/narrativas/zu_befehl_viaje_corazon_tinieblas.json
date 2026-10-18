@@ -1,0 +1,132 @@
+{
+  "id": "zu_befehl_viaje_corazon_tinieblas",
+  "metadata": {
+    "title": "¡Zu Befehl!: Un viaje al corazón de las tinieblas",
+    "authors": "Amalio Blanco",
+    "year": "2013",
+    "journal": "Ocnos. Revista de estudios sobre lectura, 9 (2013), pp. 21-52",
+    "doi": "https://doi.org/10.18239/ocnos_2013.09.02",
+    "gancho": "Ensayo de psicología social que entreteje literatura, cine e investigación experimental para examinar la obediencia a la autoridad, la presión grupal y los procesos sociales destructivos. Recurre al Experimento de la Prisión de Stanford (Zimbardo), a las variaciones de Milgram y ",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#01b4bc",
+    "colorAlt": "#183446",
+    "bg": "from-cyan-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-5.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-5.png",
+      "name": "Amalio Blanco",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Amalio Blanco, autor/a en Revista Ocnos",
+      "gancho": "Ensayo de psicología social que entreteje literatura, cine e investigación experimental para examinar la obediencia a la autoridad, la presión grupal y los procesos sociales destructivos. Recurre al E",
+      "contexto": "El autor sitúa tres clásicos de la psicología social como referencia permanente, hasta el punto de que reconoce la mezcla de \"incredulidad, resistencia y atractivo fatal\" que despiertan entre sus estudiantes: el Experimento de la Prisión de Stanford (EPS), la conformidad ante la presión de grupo de Solomon Asch y las variaciones (18 en total) con que Stanley Milgram abordó el estudio de la obediencia .\nSobre esa base traza las tres \"metáforas inq",
+      "deepDives": [
+        {
+          "id": "zu_befehl_viaje_corazon_tinieblas-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "El artículo no persigue un dato nuevo, sino una síntesis conceptual: explicar por qué personas normales pueden llegar a cometer actos destructivos cuando actúan dentro de determinadas condiciones sociales. El autor parte de la tesis de que el mundo de la literatura y el de la creación científica gua"
+        },
+        {
+          "id": "zu_befehl_viaje_corazon_tinieblas-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "El autor sitúa tres clásicos de la psicología social como referencia permanente, hasta el punto de que reconoce la mezcla de \"incredulidad, resistencia y atractivo fatal\" que despiertan entre sus estudiantes: el Experimento de la Prisión de Stanford (EPS), la conformidad ante la presión de grupo de "
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El artículo no persigue un dato nuevo, sino una síntesis conceptual: explicar por qué personas normales pueden llegar a cometer actos destructivos cuando actúan dentro de determinadas condiciones sociales. El autor parte de la tesis de que el mundo de la literatura y el de la creación científica guardan \"un sospechoso parecido de familia\" , y usa e",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "39, 42-46]."
+      ],
+      "glossary": [
+        {
+          "term": "Obediencia a la autoridad",
+          "definition": "disposición a cumplir órdenes de una figura legítima, incluso contra el propio juicio moral. (p. 22)"
+        },
+        {
+          "term": "Deshumanización",
+          "definition": "exclusión de un ser humano de la categoría moral de persona. (p. 33)"
+        },
+        {
+          "term": "Rol",
+          "definition": "papel social ajeno a la identidad personal que termina adueñándose de quien lo representa. (p. 33)"
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "No se trata de un estudio empírico con muestra y datos primarios, sino de un ensayo teórico de psicología social de orientación situacionista. Su \"corpus\" es doble: obras de literatura y cine, y experimentos clásicos ya publicados, más testimonios de supervivientes y fuentes historiográficas .\nEl autor va y viene entre realidad y ficción \"sin saber muy bien y sin preocuparnos en exceso por saber d",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Análisis empírico o teórico de corpus según fuentes primarias"
+        }
+      ],
+      "limitaciones": [
+        "El artículo no incluye un apartado de limitaciones ni de futuras líneas de investigación; los autores no declaran límites de forma expresa.\nSí aparece, en cambio, una cautela metodológica interna que "
+      ],
+      "reflexion": "Si quisieras convertir este ensayo en un diseño con datos primarios, ¿qué variable situacional medirías y qué evidencia usarías para distinguir obediencia de conformidad?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "El EPS seleccionó a sujetos \"normales\".",
+          "value": "El estudio buscaba \"evaluar el impacto de unas fuerzas situacionales extremas\" manteniendo controlada la influencia de las disposiciones individuales, para lo cual se seleccionó a estudiantes juzgados \"más allá de toda duda razonable\" como estables, sanos y respetuosos con la ley"
+        },
+        {
+          "label": "Del mismo material, desenlaces distintos.",
+          "value": "Al comienzo del experimento no había grandes diferencias entre \"carceleros\" y \"presos\"; una semana después la distancia era abismal, lo que el autor atribuye a las fuerzas situacionales: roles, normas, anonimato, presiones hacia la conformidad e identidad colectiva (Zimbardo, 200"
+        },
+        {
+          "label": "La obediencia ante la autoridad.",
+          "value": "Milgram manejó 18 variaciones experimentales; en la última, centrada en la burocracia, el sujeto realizaba tareas subsidiarias y el **92,5 %** siguió las órdenes, con solo tres personas que renunciaron antes de asestar los 450 voltios . En el laboratorio de Yale, ciudadanos corri"
+        },
+        {
+          "label": "La conformidad y la unanimidad.",
+          "value": "Asch mostró que formar parte de un grupo no es indiferente para lo que pensamos, sentimos o hacemos, y que el recurso exclusivo a la personalidad como explicación tiene un recorrido \"francamente limitado\" (Asch, 1962, p. 46) . > \"La acción compartida que reposa en la supresión vo"
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El marco del artículo es el situacionismo de la psicología social, es decir, la convicción de que las situaciones \"revisten una importancia capital\" y pueden marcar \"de manera definitiva el camino de nuestras acciones\" (Zimbardo, 2007, p. 293) . Ese situacionismo se apoya en la \"imaginación sociológica\" de Wright Mills y en la idea de Tajfel (1984, p. 23) de que el funcionamiento psicológico human",
+      "detalles": [
+        {
+          "label": "Tradición Teórica",
+          "value": "Teorías de la lectura, didáctica de la lengua y estudios literarios."
+        }
+      ],
+      "reflexion": "¿Qué aporta la tesis situacionista del artículo y qué objeta una lectura centrada en la responsabilidad individual de los verdugos?"
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo pueden personas corrientes convertirse en agentes de procesos destructivos bajo condiciones situacionales —autoridad, normas, rol, presión grupal y división burocrática del trabajo— y qué advierte la literatura sobre nuestra proximidad a la \"zona gris\"?",
+      "conclusion": "El artículo sostiene que el cumplimiento del deber y la obediencia ciega a la autoridad no son anomalías del pasado, sino un \"baldón\" que sigue presente \"en muchos de nuestros grupos, en muchas de nuestras familias, en muchas de nuestras sociedades, en casi todas las religiones\" . Por eso concluye que \"sobre el cumplimiento del deber sin acepción de personas y sobre la obediencia ciega han crecido históricamente toda suerte de fanatismos que han ",
+      "formalRef": "Blanco, A. (2013). ¡Zu Befehl!: Un viaje al corazón de las tinieblas. *Ocnos*, 9, 21-52. https://doi.org/10.18239/ocnos_2013.09.02"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "open",
+          "q": "Diseña una micro-intervención didáctica (una sesión) que use un fragmento de \"La Ola\" o \"El Experimento\" para trabajar con tu alumnado los ingredientes situacionales que degradan la convivencia (autoridad, normas, rol, presión grupal). Justifica qué evidencia de la sesión recogerías y cómo la interpretarías a la luz del artículo."
+        },
+        {
+          "type": "open",
+          "q": "Conecta la tesis de la \"zona gris\" de Primo Levi con otra obra o práctica cultural que conozcas. ¿Qué conserva y qué transforma respecto de la advertencia del artículo sobre el cumplimiento del deber, según lo que este reporta? **Criterios de logro (orientativos)** - Ubica al menos un ancla  con la página correcta del original. - Distingue un hallazgo experimental de una ilustración literaria o cinematográfica. - Conecta la tesis situacionista con una decisión didáctica concreta. ---"
+        }
+      ]
+    }
+  }
+}

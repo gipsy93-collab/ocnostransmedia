@@ -1,0 +1,376 @@
+{
+  "id": "alicia_laberinto_intertextual_hipertexto_pantalla",
+  "metadata": {
+    "title": "Alicia en el laberinto intertextual: del hipertexto a la pantalla",
+    "authors": "Enric Falguera-García",
+    "year": "2019",
+    "journal": "Ocnos 18(2)",
+    "doi": "10.18239/ocnos_2019.18.2.1891",
+    "gancho": "¿Cómo funciona la Alicia de Lewis Carroll como un hipertexto laberíntico que parodia a los poetas victorianos e inspira a Tim Burton y Diego Arboleda?",
+    "duration": "12-15 min",
+    "badge": "Intertextualidad y Teoría de la Recepción",
+    "disciplina": "Literatura Infantil y Juvenil y Teoría Literaria",
+    "dimensiones": [
+      "Intertextualidad y Transtextualidad",
+      "La Parodia Victoriana y el Nonsense",
+      "Relecturas Audiovisuales y Ficción",
+      "El Intertexto Lector en el Aula"
+    ],
+    "tags": [
+      "alicia_en_el_pais_de_las_maravillas",
+      "intertextualidad",
+      "hipertexto",
+      "tim_burton",
+      "nonsense",
+      "teoria_de_la_recepcion"
+    ],
+    "pistas": [
+      "Ensayo de crítica literaria hermenéutica sobre el carácter intertextual e hipertextual de 'Alicia en el país de las maravillas' (1865).",
+      "Doble vertiente: Alicia como hipertexto que parodia siete poemas morales victorianos y como hipotexto generador de obras contemporáneas.",
+      "Análisis comparado con la adaptación cinematográfica de Tim Burton (2010) y la novela galardonada de Diego Arboleda (2013).",
+      "El diálogo con el Gato de Cheshire como metáfora del proceso lector interactivo y la construcción de la competencia literaria."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "Cuando Lewis Carroll inventó las aventuras subterráneas de Alicia, no solo concibió un cuento fantástico infantil: diseñó una intrincada red intertextual que desafiaba la rígida moral de su tiempo y que sigue viva en el cine y la narrativa actual.",
+      "desafio": "Analizar cómo operan las nociones de hipertexto e intertextualidad en 'Alicia en el país de las maravillas' y examinar cómo sus reescrituras cinematográficas y novelísticas contemporáneas enriquecen el intertexto del lector.",
+      "relevancia": "Ofrece a los mediadores un marco teórico y didáctico idóneo para conectar los clásicos de la literatura con los lenguajes multimodales y audiovisuales que consumen los jóvenes del siglo XXI."
+    },
+    "conflicto": {
+      "pregunta": "¿De qué manera transforma el salto de la literatura a la pantalla los significados del clásico y cómo interactúa el lector con esta red de textos derivados?",
+      "posiciones": [
+        "Purismo textual conservador: las adaptaciones audiovisuales traicionan el espíritu del libro original y empobrecen la experiencia literaria.",
+        "Teoría de la transtextualidad dialógica: cada reescritura cinematográfica o narrativa es un hipertexto que abre nuevos enlaces y multiplica la polisemia de la obra."
+      ],
+      "tension": "La tensión entre la fidelidad al sinsentido puramente lingüístico carrolliano y la necesidad de introducir códigos semióticos visuales propios del cine contemporáneo.",
+      "deepDives": [
+        {
+          "id": "ali-conf-1",
+          "triggerLabel": "El choque entre Carroll y Burton",
+          "type": "context",
+          "content": "Mientras la Alicia victoriana de 1865 descubre que el caos del mundo exterior le ayuda a conocerse, la Alicia cinematográfica de Tim Burton (2010) interioriza el País de las Maravillas como una metáfora de su propio inconsciente y rebeldía interior."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Análisis hermenéutico e intertextual del universo carrolliano y sus derivados",
+      "narrativa": "El investigador articula las teorías de Bajtín, Kristeva, Genette y Eco para examinar la doble condición de Alicia: primero, como parodia destructiva de siete poemas moralistas de la era victoriana; segundo, como hipotexto matriz del filme de Tim Burton y de la novela de Arboleda.",
+      "detalles": [
+        {
+          "label": "Hipotexto matriz",
+          "value": "'Alice's Adventures in Wonderland' (Lewis Carroll, 1865) y referencias a 'Through the Looking-Glass' (1871)."
+        },
+        {
+          "label": "Corpus derivado",
+          "value": "Siete poemas parodiados de Southey, Watts y Taylor; película de Tim Burton (2010); novela de Diego Arboleda (2013)."
+        },
+        {
+          "label": "Marco de análisis",
+          "value": "Transtextualidad de Gérard Genette, hipertexto de Umberto Eco y George Landow, y teoría de la recepción de Wolfgang Iser."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "Alicia funciona simultáneamente como hipertexto que subvierte los dogmas educativos victorianos y como hipotexto inagotable que nutre nuevas creaciones, funcionando el sinsentido como un multiplicador infinito de significados.",
+      "datosClave": [
+        {
+          "label": "La parodia como desmitificación",
+          "value": "Carroll subvierte siete poemas didácticos canónicos (p. ej., de Robert Southey o Jane Taylor) para mofarse de la moral victoriana."
+        },
+        {
+          "label": "El sinsentido (nonsense)",
+          "value": "El nonsense no es carencia de sentido: es la multiplicación intencionada de significados ante una situación monocorde."
+        },
+        {
+          "label": "Cinco enlaces de Arboleda",
+          "value": "Arboleda recrea a Carroll mediante metaficción, nonsense, juegos verbales, transgresión de normas y reescritura del final."
+        }
+      ],
+      "implicacion": "Enseñar literatura infantil a través de la intertextualidad permite a los estudiantes descubrir que ningún libro nace aislado sino dentro de una conversación secular."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "Gérard Genette (1982)",
+          "concepto": "Palimpsestos y transtextualidad: relaciones de hipertextualidad, parodia, pastiche e intertextualidad entre textos literarios."
+        },
+        {
+          "autor": "Wolfgang Iser (1978, 1989)",
+          "concepto": "El acto de leer y los espacios vacíos: el lector interactivo que llena las lagunas del texto para completar el sentido."
+        },
+        {
+          "autor": "Umberto Eco (1997) y George Landow (1995)",
+          "concepto": "Hipertexto textual e interactividad: el texto literario como laberinto de bifurcaciones donde cada lector elige su ruta."
+        }
+      ],
+      "enfoque": "Hermenéutica literaria, teoría de la recepción y semiótica comparada del cine y la literatura infantil.",
+      "sinergia": "La articulación de intertextualidad y teoría de la recepción convierte a Alicia en la metáfora perfecta del aprendizaje lector autónomo."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo se articulan las relaciones intertextuales e hipertextuales en Alicia en el país de las maravillas y sus adaptaciones a la pantalla y la novela actual?",
+      "hallazgos": [
+        "La conversación entre Alicia y el Gato de Cheshire alegoriza la libertad y responsabilidad del lector en la búsqueda de sentido.",
+        "La novela carrolliana dinamita la pedagogía represiva británica convirtiendo versos edificantes en rimas disparatadas sobre cocodrilos.",
+        "Tim Burton dota a la historia de un trasfondo feminista y de madurez psíquica donde el mundo mágico refleja las luchas internas de la heroína.",
+        "Diego Arboleda rinde homenaje a Carroll entretejiendo la biografía real del autor con personajes de ficción en un juego de metaficción cómplice."
+      ],
+      "conclusion": "El universo de Alicia demuestra que la competencia literaria consiste en poseer una enciclopedia intertextual capaz de navegar entre páginas y pantallas tejiendo sentidos nuevos."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Qué función cumple el 'sinsentido' (nonsense) en la poética de Lewis Carroll según el artículo?",
+          "opciones": [
+            "Demostrar que la literatura infantil no tiene ningún valor intelectual",
+            "Multiplicar intencionadamente los significados de una situación mediante juegos de palabras y polisemia frente a la rigidez moral",
+            "Confundir a los niños para que no aprendan gramática"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El autor explica que el sentido del sinsentido es justamente abrir múltiples significados donde las normas solo admiten uno."
+        },
+        {
+          "pregunta": "¿Qué diferencia de sentido señala el ensayo entre la Alicia del libro de 1865 y la adaptación cinematográfica de Tim Burton de 2010?",
+          "opciones": [
+            "La de Burton es un documental histórico riguroso",
+            "La Alicia de Carroll aprende de un mundo exterior caótico, mientras la de Burton cree que ese mundo fantasioso radica dentro de su propio ser",
+            "La de Carroll era una reina anciana y la de Burton una niña pequeña"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El artículo contrasta la mirada exterior de la novela de 1865 con la internalización psicológica que Tim Burton realiza en la pantalla."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: El Laberinto Intertextual e Hipertextual de Alicia",
+      "descripcion": "Red analítica que articula las teorías de Genette e Iser con la parodia de poemas victorianos y las derivaciones de Burton y Arboleda.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Teoría de la Intertextualidad",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Marco conceptual fundado por Bajtín y Kristeva que concibe el texto literario como un mosaico de citas vivas y absorción dialógica de otros discursos que lo preceden y lo transforman."
+        },
+        {
+          "id": "2",
+          "label": "Transtextualidad de Genette",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Taxonomía estructural que engloba cinco tipos de trascendencia textual, destacando la hipertextualidad donde un texto posterior B transforma o amplía a un texto matriz A previo (hipotexto)."
+        },
+        {
+          "id": "3",
+          "label": "El Lector Implícito (Iser)",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Teoría de la recepción que define la lectura como un acto interactivo de cocreación donde el lector debe rellenar los huecos y espacios de indeterminación que deja abiertos la obra ficcional."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Red Intertextual de Alicia",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Analizar el carácter hipertextual e intertextual de 'Alicia en el país de las maravillas' (1865) en su doble dimensión: parodia de la tradición victoriana y fuente generadora de relatos en cine y novela."
+        },
+        {
+          "id": "5",
+          "label": "Ensayo Cualitativo-Hermenéutico",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Enfoque crítico filológico basado en la lectura detenida del texto clásico, el cotejo de fuentes poéticas históricas y el análisis semiótico multimodal de las transposiciones audiovisuales."
+        },
+        {
+          "id": "6",
+          "label": "Hipotexto: Alicia de Carroll",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "La novela 'Alice's Adventures in Wonderland' (1865) y su secuela de 1871, concebidas como texto fundacional de la LIJ moderna caracterizado por la sátira institucional y el humor del absurdo."
+        },
+        {
+          "id": "7",
+          "label": "Corpus de Obras Derivadas",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Selección triangular de textos: siete poemas pedagógicos ingleses parodiados, la película de Tim Burton (2010) y la novela 'Prohibido leer a Lewis Carroll' de Diego Arboleda (2013)."
+        },
+        {
+          "id": "8",
+          "label": "Alicia como Hipertexto y Parodia",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Carroll reescribe y desmantela poemas morales devocionales de autores victorianos (Southey, Watts, Taylor), ridiculizando el adoctrinamiento infantil y la obsesión industrial por la puntualidad."
+        },
+        {
+          "id": "9",
+          "label": "La Poética del Sinsentido (Nonsense)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "El nonsense no anula la coherencia sino que multiplica exponencialmente las capas de sentido mediante juegos de palabras polisémicos, exponiendo la arbitrariedad de las convenciones lingüísticas."
+        },
+        {
+          "id": "10",
+          "label": "La Relectura Fílmica de Burton (2010)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Tim Burton reinterpreta la trama convirtiendo el descenso al submundo en una metáfora del inconsciente y del empoderamiento maduro de una Alicia de 19 años que rechaza un matrimonio impuesto."
+        },
+        {
+          "id": "11",
+          "label": "Los Enlaces Lúdicos de Arboleda (2013)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Identificación de cinco tipos de remisión hipertextual en la novela de Arboleda: nonsense, mezcla metaficcional de personajes históricos y ficticios, humor verbal, cuestionamiento de normas y reescritura."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: El Proceso Lector Laberíntico",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "El diálogo con el Gato de Cheshire simboliza el acto de leer: no hay un camino único prescrito; cada lector construye su itinerario activando su enciclopedia cultural personal ante la encrucijada."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: El Intertexto Lector (Mendoza)",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "La competencia literaria se define como la capacidad de tender puentes hipertextuales entre el clásico decimonónico y sus ecos contemporáneos en películas, canciones y novelas juveniles."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: El Clásico Vivo en Pantalla",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "Alicia demuestra la vitalidad inagotable del clásico: lejos de perecer ante la cultura de la pantalla, se expande como un hipertexto multimodal que interpela con fuerza renovada a los lectores de hoy."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Estudio Hermenéutico No Empírico",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Naturaleza de ensayo teórico y crítico que no incluye pruebas empíricas con lectores infantiles o juveniles reales para verificar cuántas conexiones intertextuales identifican espontáneamente."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Especificidad de Códigos",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Reconocimiento de la dificultad de comparar el lenguaje puramente verbal con la semiótica audiovisual (encuadres, iluminación, música), requiriéndose marcos semióticos complementarios."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "fundamenta enfoque de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "proporciona categorías a"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "orienta lectura interactiva en"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se desarrolla mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "toma como núcleo a"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "compara con corpus de"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "demuestra función de"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "analiza mecanismo de"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "examina relectura en"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "identifica técnicas en"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "ejemplifica dinámica de"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "sustenta concepción de"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "amplía horizontes de"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "activa destrezas de"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "sintetiza aportes en"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "fundamenta vigencia de"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "delimita alcance con"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "plantea cautelas a"
+        },
+        {
+          "from": "2",
+          "to": "8",
+          "label": "clasifica la parodia de"
+        },
+        {
+          "from": "1",
+          "to": "11",
+          "label": "se materializa en"
+        },
+        {
+          "from": "3",
+          "to": "12",
+          "label": "da fundamento a"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Cómo podrías plantear una actividad de lectura en clase comparando un capítulo de Alicia con la escena equivalente de la película de Tim Burton?",
+      "enfoque": "Analizar juntos cómo cambia la personalidad de Alicia y qué elementos visuales del cine sustituyen a los juegos de palabras intraducibles de la novela.",
+      "cierre": "Comparar un libro con su película no es buscar diferencias para criticarla, sino descubrir cómo las historias cambian de ropaje para seguir vivas."
+    }
+  }
+}

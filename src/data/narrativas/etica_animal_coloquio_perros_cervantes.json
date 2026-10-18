@@ -1,0 +1,375 @@
+{
+  "id": "etica_animal_coloquio_perros_cervantes",
+  "metadata": {
+    "id": "etica_animal_coloquio_perros_cervantes",
+    "title": "Ética animal en Coloquio de los perros (Cervantes)",
+    "authors": [
+      "José Manuel Marrero-Henríquez"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "3",
+    "pages": "86-94",
+    "doi": "10.18239/ocnos_2018.17.3.1590",
+    "keywords": [
+      "ética animal",
+      "Cervantes",
+      "Coloquio de los perros",
+      "ecocrítica",
+      "horizonte de expectativas"
+    ],
+    "abstract": "Ensayo filológico-hermenéutico que relee el Coloquio de los perros desde la ecocrítica y el horizonte de expectativas de la ética animal contemporánea: Berganza, el perro que habla, siente y decide, cuestiona la excepcionalidad humana."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo puede una novela ejemplar del Siglo de Oro español dialogar con las demandas contemporáneas sobre los derechos de los animales no humanos? Este estudio ecocrítico analiza el \"Coloquio de los perros\" de Miguel de Cervantes para desentrañar cómo la voz de Berganza cuestiona el antropocentrismo y renueva la fuerza pedagógica del clásico.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva hermenéutica para abordar la lectura cervantina:",
+        "opciones": [
+          {
+            "id": "ecocritica",
+            "texto": "Enfoque ecocrítico y deconstrucción de la excepcionalidad humana"
+          },
+          {
+            "id": "filologica",
+            "texto": "Análisis filológico del diálogo entre Berganza y Cipión"
+          },
+          {
+            "id": "pedagogica",
+            "texto": "Horizonte de expectativas contemporáneo y recepción didáctica"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "La tradición crítica leyó históricamente el coloquio canino como una mera alegoría picaresca o un artificio satírico deudoro de Luciano y Apuleyo. Al desatender la subjetividad del animal, la academia sepultó una lectura latente: el texto otorga al perro conciencia moral, capacidad de juicio y lealtad ética, retratando la crueldad de sus amos humanos.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cuál es la ruptura ontológica fundamental que introduce Cervantes en el coloquio canino?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Concede al animal la palabra racional y el juicio moral, convirtiéndolo en un sujeto ético que enjuicia la hipocresía social humana.",
+            "correcta": true,
+            "explicacion": "Exacto: Berganza no es solo un recurso cómico, sino un testigo dotado de raciocinio, empatía y sensibilidad que invierte la supuesta superioridad moral humana."
+          },
+          {
+            "id": "c2",
+            "texto": "Mantiene una estricta subordinación cartesiana donde el perro es un simple autómata mecánico sin alma ni sufrimiento.",
+            "correcta": false,
+            "explicacion": "Al contrario: Cervantes anticipa debates sobre la sensibilidad animal mucho antes del mecanicismo cartesiano."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "El autor recorre la historia de las ideas desde Maimónides, San Francisco de Asís y Montaigne hasta Naess, Derrida y Coetzee. Aplica la teoría de la recepción de Jauss para demostrar cómo el horizonte ético del siglo XXI despierta significados dormidos en el texto áureo cervantino.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Horizonte de expectativas",
+            "detalle": "Emergencia de la sensibilidad animalista y la ecocrítica tras la década de 1970."
+          },
+          {
+            "fase": "Genealogía del respeto animal",
+            "detalle": "Rastreo de pensadores no antropocéntricos: Montaigne, Feijoo, Thoreau y Spinoza."
+          },
+          {
+            "fase": "Exégesis de Berganza",
+            "detalle": "Cotejo de los amos de Berganza: matarifes, pastores, mercaderes y alguaciles corruptos."
+          },
+          {
+            "fase": "Potencial formativo",
+            "detalle": "Actualización didáctica del clásico como alegato ético contra el maltrato animal en las aulas."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El \"Coloquio de los perros\" se revela como una obra de extraordinaria modernidad: al humanizar la dignidad del perro y evidenciar la bestialidad de muchos de sus dueños, Cervantes desarma la supuesta excepcionalidad moral de la especie humana y propone una hermandad con los seres sintientes.",
+      "datos_clave": [
+        "Relectura ecocrítica y poshumanista del Coloquio de los perros (1613).",
+        "Conexión entre derechos de los animales y derechos de colectivos vulnerables marginados.",
+        "Superación de la lectura puramente picaresca hacia la consideración del animal sintiente.",
+        "Modelo ejemplar de actualización de clásicos literarios en la formación ética juvenil."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El estudio se apoya en la teoría de la recepción estética de Hans Robert Jauss, la ecocrítica contemporánea de Glotfelty, la ética animal de Ryder y Singer, y las reflexiones literarias sobre alteridad animal de J.M. Coetzee.",
+      "referencias_clave": [
+        "Jauss (2013)",
+        "Coetzee (2001)",
+        "Ryder (1975)",
+        "Cervantes (1613)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "Cervantes no empleó a Berganza como una simple máscara cómica: construyó un espejo ético donde la fidelidad y templanza del perro denuncian la barbarie humana, recordándonos que la empatía hacia los animales es inseparable de la justicia universal.",
+      "hallazgo_central": "La relectura ecocrítica del Coloquio de los perros reactiva el potencial pedagógico del clásico, transformando la voz canina en un alegato pionero contra el antropocentrismo y el maltrato."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos teóricos con su manifestación en la obra cervantina:",
+          "pares": [
+            {
+              "concepto": "Horizonte de expectativas",
+              "definicion": "Marco hermenéutico actual que permite descubrir lecturas éticas latentes en el texto."
+            },
+            {
+              "concepto": "Excepcionalidad humana",
+              "definicion": "Pretensión antropocéntrica que Berganza desbarata mostrando prudencia y virtud moral."
+            },
+            {
+              "concepto": "Poética horaciana",
+              "definicion": "Principio cervantino de deleitar aprovechando para educar la sensibilidad moral del lector."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Ética Animal y Ecocrítica en el Coloquio de los Perros",
+      "descripcion": "Estructura hermenéutica de la relectura ecocrítica y ética animal del clásico cervantino.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Ética Animal en el Coloquio Cervantino",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo principal: fundamentar una relectura hermenéutica y ecocrítica del Coloquio de los perros de Miguel de Cervantes a la luz del horizonte ético contemporáneo sobre consideración moral animal."
+        },
+        {
+          "id": "2",
+          "label": "Teoría del Horizonte de Expectativas",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Paradigma de Hans Robert Jauss según el cual el cambio en la sensibilidad histórica y los códigos axiológicos de los lectores permite activar significados y preguntas inéditas en textos clásicos."
+        },
+        {
+          "id": "3",
+          "label": "Crítica a la Excepcionalidad Humana",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Cuestionamiento del dogma antropocéntrico que reserva la dignidad, la razón y el estatuto moral exclusivamente a los humanos, marginando el valor intrínseco de los demás seres sintientes del planeta."
+        },
+        {
+          "id": "4",
+          "label": "Genealogía del Pensamiento Ecocéntrico",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Rastreo histórico de antecedentes no antropocéntricos en la tradición filosófica y cultural: desde Montaigne y el padre Feijoo hasta la ecología profunda de Naess y la encíclica Laudato Si."
+        },
+        {
+          "id": "5",
+          "label": "Lectura Filológica y Hermenéutica",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Metodología cualitativa de análisis textual estrecho articulada con la historia cultural y la hermenéutica crítica aplicada al diálogo de Berganza y Cipión en las Novelas ejemplares."
+        },
+        {
+          "id": "6",
+          "label": "Cotejo de Episodios Textuales",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Examen detallado de los sucesivos amos de Berganza (el matarife de Sevilla, los pastores mentirosos, el mercader y la bruja Cañizares) evaluando el trato infligido al animal."
+        },
+        {
+          "id": "7",
+          "label": "Marco de Derechos Emergentes",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Articulación metodológica que sitúa la defensa de los animales junto a las luchas por los derechos de colectivos históricamente oprimidos (mujeres, minorías étnicas y personas con discapacidad)."
+        },
+        {
+          "id": "8",
+          "label": "Berganza como Sujeto Moral Autónomo",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo textual determinante: Cervantes dota a Berganza de voz, memoria, discernimiento ético y capacidad deliberativa, desbordando los límites convencionales de la fábula picaresca."
+        },
+        {
+          "id": "9",
+          "label": "Inversión de Barbarie y Racionalidad",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación de que los personajes humanos exhiben comportamientos sádicos, corruptos e hipócritas, mientras que el perro encarna virtudes de fidelidad, moderación y compasión sincera."
+        },
+        {
+          "id": "10",
+          "label": "Denuncia del Maltrato Institucional",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Evidencia en el relato de la violencia gratuita y la instrumentalización sanguinaria de los perros de presa en los mataderos y el engaño criminal de los pastores asalariados."
+        },
+        {
+          "id": "11",
+          "label": "Aporte de la Ecocrítica al Clásico",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica sobre cómo la perspectiva ambiental rescata al texto de la fosilización escolar erudita, devolviéndole su filo subversivo y su capacidad de conmoción contemporánea."
+        },
+        {
+          "id": "12",
+          "label": "Antropoceno y Responsabilidad Moral",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión situada en la crisis ecológica global que exige revisar las relaciones de explotación que la humanidad impone sobre los ecosistemas y las especies con las que cohabita."
+        },
+        {
+          "id": "13",
+          "label": "Renovación del Poder Pedagógico",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión formativa central: el texto cervantino constituye una extraordinaria herramienta didáctica para trabajar la empatía, el pensamiento crítico y la ética cívica con adolescentes."
+        },
+        {
+          "id": "14",
+          "label": "Superación del Canon Fosilizante",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta didáctica de enseñar el Siglo de Oro mediante preguntas vivas y controversias contemporáneas en lugar de listas memorísticas de recursos retóricos abstractos."
+        },
+        {
+          "id": "15",
+          "label": "Solidaridad Interespecie y Justicia",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión ética: la literatura clásica emancipa cuando nos enseña a escuchar el sufrimiento del otro, extendiendo el círculo de la consideración moral a todos los seres vivos."
+        },
+        {
+          "id": "16",
+          "label": "Naturaleza Ensayística y Hermenéutica",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación propia del enfoque hermenéutico ensayístico no empírico, que no evalúa mediante intervenciones cuantitativas la recepción efectiva del texto en alumnos de secundaria reales."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se apoya en la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se ejecuta mediante"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "permite cuestionar la"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se inserta en la"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "analiza mediante el"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "se enmarca en el"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "demuestra que"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "evidencia la"
+        },
+        {
+          "from": "6",
+          "to": "10",
+          "label": "desvela la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "justifica el"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "alimenta la"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "se proyecta en el"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "posibilita la"
+        },
+        {
+          "from": "12",
+          "to": "15",
+          "label": "conduce a la"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "exige la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "culmina en la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "presenta como condición metodológica"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "queda acotada por su"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "se desmorona ante"
+        },
+        {
+          "from": "2",
+          "to": "13",
+          "label": "facilita la"
+        },
+        {
+          "from": "7",
+          "to": "15",
+          "label": "se alinea con"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Marrero-Henríquez nos demuestra que un clásico no es un libro que ya ha dicho todo lo que tenía que decir, sino un fuego que aguarda el viento de una nueva época para alumbrar territorios impensados.",
+      "preguntas_guiadas": [
+        "¿Cómo puede la lectura de textos clásicos conectar con las preocupaciones ecológicas y animalistas de los estudiantes de hoy?",
+        "¿Qué otros relatos de la literatura tradicional esconden alegatos contra la crueldad animal que pasaron desapercibidos?"
+      ]
+    }
+  }
+}

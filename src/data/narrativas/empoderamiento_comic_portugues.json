@@ -2,7 +2,7 @@
   "id": "empoderamiento_comic_portugues",
   "metadata": {
     "title": "Empoderamiento femenino en el cómic portugués: un manifiesto por la igualdad de género",
-    "authors": "Ana-Luísa Oliveira y Ângela Balça",
+    "authors": "Ana-Luísa Oliveira, Ângela Balça y Paulo Costa",
     "year": "2025",
     "journal": "Ocnos 24(1)",
     "doi": "10.18239/ocnos_2025.24.1.490",
@@ -12,41 +12,41 @@
     "color": "#9b82c3",
     "colorAlt": "#2a5a75",
     "bg": "from-purple-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-28.png",
+    "image": "/assets/portadas/empoderamiento_comic_portugues.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-28.png",
       "name": "Dra. Ana-Luísa Oliveira",
-      "role": "Investigadora en Noveno Arte y Estudios de Género, Universidade de Évora (Portugal)"
+      "role": "Investigadora en Noveno Arte y Estudios de Género, Instituto Superior de Educação e Ciências, Lisboa (Portugal)"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Ana-Luísa Oliveira, especialista en novela gráfica contemporánea y discursos feministas en Portugal",
+      "personaje": "Dra. Ana-Luísa Oliveira, investigadora en cómic, género y educación (Instituto Superior de Educação e Ciências, Lisboa)",
       "gancho": "¿Puede una viñeta romper con medio siglo de estereotipos machistas y misoginia institucional?",
-      "contexto": "El cómic contemporáneo en Portugal vive una auténtica revolución impulsada por una nueva generación de autoras que utilizan la historieta autobiográfica y testimonial como herramienta de combate social. Este estudio analiza un corpus de obras de creadoras lusas publicadas en la última década, examinando cómo abordan el cuerpo femenino, la memoria histórica de la Revolución de los Claveles, la violencia machista, la maternidad no idealizada y la ruptura con el canon androcéntrico del noveno arte.",
+      "contexto": "El cómic contemporáneo en Portugal vive una auténtica revolución impulsada por una nueva generación de autoras que utilizan la historieta como testimonio social. Este estudio analizó un corpus de cuatro cómics de autoras portuguesas publicados entre 2018 y 2022 y expuestos en el festival Amadora BD, examinando mediante análisis de contenido cómo representan los roles, los espacios, la vestimenta y las situaciones de (des)igualdad y emancipación de la mujer en la sociedad portuguesa actual.",
       "deepDives": [
         {
           "id": "com-apertura-1",
           "triggerLabel": "El cómic como manifiesto político",
           "type": "theory",
-          "content": "Hillary Chute señala que el cómic autobiográfico de mujeres ofrece un lenguaje gráfico único para representar traumas corporales que el texto verbal puro suele censurar."
+          "content": "Ibarra-Rius y Ballester-Roca (2022) sostienen que la lectura multimodal del cómic hace absorber al lector una nueva ideología de género, capaz de catalizar el empoderamiento femenino y la transformación social."
         },
         {
           "id": "com-apertura-2",
           "triggerLabel": "Corpus de autoras lusas",
           "type": "data",
-          "content": "Análisis de obras emblemáticas de autoras como Joana Estrela, Amanda Baeza, Maria João Worm y Regina Guimarães."
+          "content": "Análisis de contenido de Bons costumes (Silvia Rodrigues), Rolhas (Patrícia Guimarães), Quotidiano de Luxo (Júlia Barata) y S/Título (Joana Mosi)."
         }
       ]
     },
     "conflicto": {
-      "problema": "La historia oficial del cómic portugués relegó sistemáticamente a las mujeres al papel de musas o personajes secundarios cosificados por la mirada masculina (male gaze).",
-      "porQueImporta": "El noveno arte es una potente herramienta pedagógica para la juventud; si solo reproduce miradas androcéntricas, perpetúa la desigualdad en las nuevas generaciones.",
+      "problema": "Durante décadas el trabajo de las artistas fue menospreciado y suplantado por un canon masculino, y la representación de género en el cómic portugués era residual o se limitaba a la figura de la mujer subordinada.",
+      "porQueImporta": "El noveno arte es una potente herramienta pedagógica y socializadora; si solo reproduce miradas androcéntricas, perpetúa la desigualdad en las nuevas generaciones.",
       "dataPoints": [
-        "Corpus representativo de novelas gráficas y fanzines feministas publicados en Portugal (2012-2023).",
-        "Reivindicación de la autoedición y el circuito de microeditoriales independientes.",
-        "Representación del cuerpo femenino real: arrugas, menstruación, lactancia, sexualidad diversa y vejez sin retoques idealizadores.",
-        "Conexión con los 50 años de la Revolución del 25 de Abril de 1974 y el papel de las mujeres en la conquista democrática."
+        "Corpus de cuatro obras de autoras portuguesas publicadas entre 2018 y 2022, dos de ellas aún inéditas y prestadas por las propias autoras.",
+        "Dos obras provienen de pequeñas editoriales alternativas (Chili com Carne y Tigre de Papel), están agotadas y recibieron críticas muy positivas en la prensa nacional.",
+        "Categorías del mensaje icónico: apariencia, edad y etnia de la protagonista, vestimenta, espacios, roles, objetos y gestos, con sus frecuencias.",
+        "S/Título contrasta la vida de una joven en 2022 con la de su madre y su abuela, que vivieron bajo la dictadura."
       ],
       "glossary": [
         {
@@ -54,26 +54,26 @@
           "definition": "Denominación acuñada por la crítica cultural europea para referirse al cómic y la historieta como disciplina artística autónoma."
         },
         {
-          "term": "Mirada masculina (Male gaze)",
-          "definition": "Perspectiva visual dominante en los medios visuales que representa el mundo y a las mujeres desde las fantasías y placeres masculinos."
+          "term": "Unidad de registro",
+          "definition": "Fragmento de dato —visual o textual— que el análisis de contenido identifica dentro de cada categoría de análisis y cuya frecuencia se registra para interpretarlo."
         }
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Análisis iconográfico y discursivo feminista",
-      "narrativa": "Las autoras triangularon el análisis semiótico visual (estilo de dibujo, color, montaje de página) con la crítica literaria feminista y la sociología editorial.",
+      "titulo": "Ruta metodológica: Análisis de contenido cualitativo (Bardin y Mayring)",
+      "narrativa": "Las investigadoras aplicaron el análisis de contenido a los datos textuales y visuales del corpus, definiendo categorías de análisis desglosadas en unidades de registro y cruzando tres mensajes: icónico, textual y multimodal.",
       "detalles": [
         {
           "label": "Corpus",
-          "value": "Novelas gráficas, zines y álbumes ilustrados producidos por mujeres en Portugal."
+          "value": "Cuatro títulos: Bons costumes (2018), Quotidiano de Luxo (2019), Rolhas (2022) y S/Título (2022), expuestos en la muestra 4 Quartos (e são nossos!) de Amadora BD en octubre de 2022."
         },
         {
           "label": "Marco Teórico",
-          "value": "Hillary Chute, Butler, Beauvoir y sociología del cómic ibérico."
+          "value": "Bardin (2019) y Mayring para el análisis de contenido; De-Beauvoir, Felizardo, McCaulsand y Salgado, Groensteen e Ibarra-Rius y Ballester-Roca para la teoría de género y del cómic."
         }
       ],
       "limitaciones": [
-        "Dificultad de acceso a fanzines y tiradas underground de corta distribución."
+        "La dimensión reducida del corpus —cuatro obras— obliga a ser prudentes ante cualquier generalización interpretativa."
       ],
       "reflexion": "Dibujarse a sí misma es un acto de soberanía sobre el propio cuerpo y la propia historia."
     },
@@ -83,42 +83,42 @@
       "hallazgos": [
         {
           "label": "1. Desmitificación del Cuidado Obligatorio",
-          "value": "Las protagonistas cuestionan el mandato social de ser madres abnegadas o cuidadoras sumisas de la familia."
+          "value": "En Bons costumes la protagonista queda confinada a las tareas domésticas y a la autoridad del marido, mientras la joven de S/Título cuestiona el matrimonio y la maternidad de sus mayores: «Consegues imaginar-me a casar?»."
         },
         {
-          "label": "2. Una Estética de la Fragilidad Radical",
-          "value": "Trazos sueltos, acuarelas imperfectas y manchas que desafían el dibujo industrial y reivindican la intimidad."
+          "label": "2. El acoso laboral como denuncia",
+          "value": "Rolhas se basa en la historia real de Cristina Tavares, empleada de una fábrica de corcho en Santa Maria da Feira acosada por cuidar a su hijo enfermo y obligada, tras el despido, a apilar y desapilar sacos de corcho todo el día."
         }
       ],
       "dataPoints": [
-        "Crecimiento del 300% en la presencia de creadoras premiadas en festivales de cómic en Portugal en la última década."
+        "En las cuatro obras la protagonista es femenina y de apariencia caucásica, y predominan los roles de madre, esposa y trabajadora."
       ],
       "reflexion": "La viñeta feminista no pide permiso: ocupa el espacio y cuenta lo que otros callaron."
     },
     "marco": {
       "titulo": "Discusión: El cómic en las aulas para educar en igualdad",
-      "narrativa": "Oliveira y Balça proponen incorporar estas novelas gráficas en Secundaria y Universidad:",
+      "narrativa": "Oliveira, Balça y Costa confirman el cómic como vehículo socializador y educativo, un manifiesto que da voz a las mujeres e interpela al lector adulto:",
       "detalles": [
         {
-          "label": "Alfabetización Gráfica Inclusiva",
-          "value": "Utilizar el cómic de autoras para debatir sobre relaciones sanas, identidad y memoria democrática."
+          "label": "Lectura multimodal igualitaria",
+          "value": "Gracias a la interacción de texto e imagen, el lector absorbe una nueva ideología de género capaz de impulsar el empoderamiento femenino y una sociedad más libre, democrática, justa e igualitaria."
         }
       ],
       "reflexion": "Leer viñetas diversas es aprender a mirar el mundo con ojos de justicia e igualdad."
     },
     "nucleo": {
-      "pregunta": "¿Cómo articulan las autoras de cómic portuguesas contemporáneas el discurso de empoderamiento femenino y la igualdad de género?",
-      "conclusion": "El estudio confirma que la nueva generación de autoras de cómic en Portugal ha transformado el noveno arte en un manifiesto visual de empoderamiento e igualdad. A través de la autoficción, el trazo experimental y la representación desmitificada del cuerpo femenino, las creadoras lusas denuncian la violencia patriarcal, recuperan la memoria de las luchas democráticas y ofrecen a la educación literaria artefactos gráficos de extraordinaria potencia emancipadora.",
-      "formalRef": "Oliveira, A. L., & Balça, Â. (2025). Empoderamiento femenino en el cómic portugués: un manifiesto por la igualdad de género. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.490"
+      "pregunta": "¿Cómo aparece la representación del género en los cómics de autoría portuguesa publicados y expuestos en Portugal en la transición de la segunda a la tercera década del siglo XXI?",
+      "conclusion": "El análisis de contenido confirma que estos cómics ofrecen una visión variada de las representaciones de género, dando mayor visibilidad y expresión al género femenino: narran la vida cotidiana y los papeles de la mujer actual —madre, esposa, trabajadora— entre la servidumbre patriarcal y la emancipación, y permiten al lector reflexionar sobre estereotipos, (des)igualdad y discriminación. El noveno arte se consolida así como un manifiesto que da voz a las mujeres y como agente socioeducativo en la construcción de la igualdad de género.",
+      "formalRef": "Oliveira, A. L., Balça, Â., & Costa, P. (2025). Empoderamiento femenino en el cómic portugués: un manifiesto por la igualdad de género. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.490"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué rasgo temático y estético sobresale en las obras de cómic de las autoras portuguesas analizadas?",
+          "q": "¿Qué rasgo temático sobresale en las obras de cómic de las autoras portuguesas analizadas?",
           "options": [
             "Dibujos de superhéroes musculosos peleando en galaxias lejanas.",
-            "La autoficción, la representación de cuerpos reales sin idealizar y la crítica abierta al mandato patriarcal del cuidado.",
+            "La narración de la vida cotidiana y los roles de la mujer —madre, esposa, trabajadora— entre la servidumbre patriarcal y la emancipación.",
             "Copia exacta de los mangas comerciales japoneses.",
             "Historietas que promueven la sumisión de la mujer."
           ],
@@ -126,10 +126,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué acontecimiento histórico portugués sirve de marco recurrente de memoria democrática en varias de las obras del corpus?",
+          "q": "¿Qué contexto histórico evoca S/Título al comparar a la protagonista con su madre y su abuela?",
           "options": [
             "La conquista de América.",
-            "La Revolución de los Claveles del 25 de abril de 1974.",
+            "El periodo de la dictadura portuguesa, vivido por madre y abuela.",
             "El terremoto de Lisboa de 1755.",
             "La entrada en la Unión Europea en 1986."
           ],
@@ -137,10 +137,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Cómo combate la nueva novela gráfica de autoras la clásica 'mirada masculina' (male gaze) del cómic tradicional?",
+          "q": "¿Cómo contribuye el cómic de autoras portuguesas a la igualdad de género según el estudio?",
           "options": [
             "Haciendo que los personajes no tengan cara.",
-            "Poniendo en el centro del relato las vivencias, dolores, deseos y cuerpos de las propias mujeres como sujetos agentes y no como objetos pasivos.",
+            "Otorgando mayor visibilidad y expresión al género femenino e invitando al lector a reflexionar sobre los estereotipos, la discriminación y el empoderamiento.",
             "Prohibiendo que los hombres lean cómics.",
             "Pintando todas las viñetas de color rosa."
           ],
@@ -148,7 +148,7 @@
         },
         {
           "type": "open",
-          "q": "Diseña una actividad para 4.º de la ESO en la que tus alumnos comparen la representación de un personaje femenino en un cómic clásico tradicional vs. una novela gráfica feminista contemporánea (ej. 'Persépolis' o una obra del cómic portugués)."
+          "q": "Diseña una actividad para 4.º de la ESO en la que tus alumnos comparen la representación de un personaje femenino en un cómic clásico tradicional vs. una obra del corpus analizadas (ej. 'Persépolis', 'Rolhas' o 'Quotidiano de Luxo')."
         },
         {
           "type": "open",
@@ -167,11 +167,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Analizamos una década de novelas gráficas y fanzines que cruzan la memoria de la Revolución con los derechos de las mujeres.",
+      "text": "Analizamos cuatro cómics de autoras portuguesas de 2018 a 2022, expuestos en el festival Amadora BD.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Cuerpos reales y voces libres! Viñetas íntimas que derriban el mandato patriarcal y celebran la diversidad.",
+      "text": "¡Voces libres! Viñetas íntimas que muestran el acoso laboral y el mandato patriarcal, y celebran la emancipación.",
       "position": "bottom-right"
     },
     "marco": {
@@ -192,110 +192,237 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Cómic Portugués, Feminismo y Memoria Gráfica",
-    "descripcion": "Análisis de autoras lusas contemporáneas (2012-2023): deconstrucción del 'male gaze', autoficción, cuerpos reales y memoria del 25 de Abril.",
+    "titulo": "Mapa conceptual: Empoderamiento femenino en el cómic portugués (Ocnos 24(1) 2025)",
+    "descripcion": "Recorrido del artículo: del cómic como lenguaje híbrido y vehículo socializador, a la pregunta por la representación de género en el cómic de autoría portuguesa 2018-2022, su análisis de contenido, los hallazgos del corpus de cuatro obras y la discusión, conclusión y limitación del estudio.",
     "nodos": [
       {
         "id": "1",
-        "label": "Cómic Femenino Portugués",
-        "color": "#9b82c3"
+        "label": "Igualdad de género como construcción social",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "El estudio parte de definir la igualdad de género como construcción social que debe promoverse desde la lectura, entendida como ejercicio de ciudadanía y argumentación crítica (Ibarra-Rius y Ballester-Roca, 2015; Yubero y Larrañaga, 2013)."
       },
       {
         "id": "2",
-        "label": "Empoderamiento e Igualdad",
-        "color": "#2a5a75"
+        "label": "El cómic, lenguaje polivalente e híbrido",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "No es fácil definirlo: Groensteen (2021) señala que su lectura no siempre es lineal y que la yuxtaposición de imágenes no produce necesariamente narración; Maldonado-Lozano y Gutiérrez-Zornoza (2022) lo defienden como arte con lenguaje propio que escribe a través de imágenes."
       },
       {
         "id": "3",
-        "label": "Ruptura con el 'Male Gaze'",
-        "color": "#c73e1d"
+        "label": "Cómic como vehículo socializador y educativo",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Ballester-Roca e Ibarra-Rius (2023) reconocen su capacidad para abordar temas complejos e interpelar al lector adulto; por su lectura multimodal, el receptor absorbe inconscientemente una nueva ideología de género capaz de impulsar el empoderamiento femenino."
       },
       {
         "id": "4",
-        "label": "Autoficción y Testimonio Gráfico",
-        "color": "#88b04b"
+        "label": "Autoras portuguesas ganan visibilidad",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Felizardo (2018) documenta la gran visibilidad de las protagonistas femeninas en la banda dibujada portuguesa, con ejemplos como Persépolis o A Época das Rosas; McCaulsand y Salgado (2024) recuerdan que su trabajo fue menospreciado por un canon masculino."
       },
       {
         "id": "5",
-        "label": "Cuerpos Femeninos Reales",
-        "color": "#e88b8c"
+        "label": "Representación de género en cómic portugués",
+        "color": "#c73e1d",
+        "role": "Objetivo",
+        "descripcion": "La pregunta de investigación indaga cómo aparece la representación del género en los cómics de autoría portuguesa publicados y expuestos en Portugal en la transición de la segunda a la tercera década del siglo XXI, orientada por cuatro interrogantes sobre socialización, evolución y valor de manifiesto."
       },
       {
         "id": "6",
-        "label": "Memoria del 25 de Abril (1974)",
-        "color": "#2a9d8f"
+        "label": "Análisis de contenido cualitativo",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Con enfoque cualitativo y matriz de Mayring (2000, 2021), se aplica el análisis de contenido de Bardin (2019) a un corpus reducido de datos textuales y visuales, estableciendo categorías de análisis desglosadas en unidades de registro con sus frecuencias."
       },
       {
         "id": "7",
-        "label": "Microeditoriales y Fanzines",
-        "color": "#f4d068"
+        "label": "Mensaje icónico, textual y multimodal",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Tres unidades de análisis: el mensaje icónico (apariencia, género, edad, vestimenta, espacios, roles, objetos, gestos), el textual (parentesco, roles, expresiones) y el multimodal, fruto de la interacción de ambos códigos (Joly, 2019)."
       },
       {
         "id": "8",
-        "label": "Crítica a la Maternidad Obligatoria",
-        "color": "#e76f51"
+        "label": "Corpus de cuatro obras de autoras",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "Bons costumes (Silvia Rodrigues, 2018), Rolhas (Patrícia Guimarães, 2022), Quotidiano de Luxo (Júlia Barata, 2019) y S/Título (Joana Mosi, 2022), dos de ellas inéditas y prestadas por las autoras; todas expuestas en la muestra 4 Quartos (e são nossos!) de Amadora BD, octubre de 2022."
       },
       {
         "id": "9",
-        "label": "Canon Androcéntrico Tradicional",
-        "color": "#264653"
+        "label": "Protagonistas femeninas adultas y jóvenes",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "En las cuatro obras el personaje principal es femenino y de apariencia caucásica: adulta en Rolhas y Quotidiano de Luxo, joven en S/Título, y recorriendo infancia, adolescencia y edad adulta en Bons costumes."
       },
       {
         "id": "10",
-        "label": "Educación Literaria Crítica",
-        "color": "#f4a261"
+        "label": "Espacios domésticos, laborales y de ocio",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "La acción se sitúa en el hogar (cocina, dormitorio, salón, baño), el espacio laboral (oficina, fábrica de corcho) y lugares de ocio como playa y campo, en una geografía portuguesa identificable: Lisboa en Bons costumes y Guia/Lisboa en S/Título."
+      },
+      {
+        "id": "11",
+        "label": "Roles de madre, esposa y trabajadora",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Predominan los roles maternales, profesionales, domésticos, matrimoniales y sociales: el multitasking de Quotidiano de Luxo, la tensión entre fábrica e hijo enfermo en Rolhas y la joven emancipada de S/Título que cuestiona el matrimonio y la maternidad de sus mayores."
+      },
+      {
+        "id": "12",
+        "label": "Indumentaria y gestos significativos",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "El mensaje icónico registra delantal y ropa sin escote frente a pantalones cortos, bikini, tacones y uñas pintadas; el tapón de corcho y los brazos cruzados de Rolhas, el cactus y la jaula de Bons costumes y el anillo que la abuela de S/Título se quita."
+      },
+      {
+        "id": "13",
+        "label": "Encarcelamiento frente a emancipación",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Las expresiones textuales contraponen encierro y libertad: «Uma mulher é o coração da família…», «Que má mãe e companheira!», «Eu só quero o meu emprego de volta» frente a la nieta que conduce y viaja sola, en historias basadas también en el acoso laboral real de Cristina Tavares."
+      },
+      {
+        "id": "14",
+        "label": "Patriarcado y teoría feminista en la lectura",
+        "color": "#2a5a75",
+        "role": "Discusión",
+        "descripcion": "El peso de ser mujer se lee con De-Beauvoir (2015) y Tavares (2018): Bons costumes confina a la protagonista al espacio privado y la autoridad del marido; Rolhas evidencia la discriminación laboral por razón de sexo (CIG, 2022) y la violencia psicológica, mientras las mujeres heredan un pasado pesado pero forjan un nuevo futuro."
+      },
+      {
+        "id": "15",
+        "label": "Cómic como manifiesto por la igualdad",
+        "color": "#9b82c3",
+        "role": "Conclusiones",
+        "descripcion": "Las autoras dan mayor visibilidad y expresión al género femenino, clarificando estereotipos en tono de sororidad; el noveno arte cumple su papel de agente socioeducativo y mediador en la construcción de la igualdad, catalizando el cambio de paradigma hacia el empoderamiento femenino."
+      },
+      {
+        "id": "16",
+        "label": "Corpus reducido limita la generalización",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "La principal limitación es la dimensión reducida del corpus: un conjunto más amplio daría mayor profundidad, por lo que se pide prudencia ante cualquier generalización interpretativa. Quedan como líneas futuras el cómic por mujeres y el análisis comparativo en otros contextos."
       }
     ],
     "aristas": [
       {
         "from": "1",
-        "to": "2",
-        "label": "se convierte en manifiesto de"
-      },
-      {
-        "from": "1",
         "to": "3",
-        "label": "opera una radical"
+        "label": "fundamenta la función"
       },
       {
-        "from": "1",
-        "to": "4",
-        "label": "adopta la forma de"
+        "from": "2",
+        "to": "3",
+        "label": "habilita su capacidad"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "centra la pregunta en la"
       },
       {
         "from": "4",
         "to": "5",
-        "label": "visibiliza y dibuja"
+        "label": "motiva el estudio de la"
       },
       {
-        "from": "1",
+        "from": "5",
         "to": "6",
-        "label": "recupera la activa"
+        "label": "se examina mediante el"
       },
       {
-        "from": "7",
-        "to": "1",
-        "label": "impulsa la publicación libre en"
+        "from": "6",
+        "to": "7",
+        "label": "se desglosa en"
       },
       {
-        "from": "1",
+        "from": "6",
         "to": "8",
-        "label": "articula una lúcida"
+        "label": "se aplica al"
       },
       {
-        "from": "3",
+        "from": "4",
+        "to": "8",
+        "label": "se materializa en el"
+      },
+      {
+        "from": "8",
         "to": "9",
-        "label": "desmantela el hegemónico"
+        "label": "presenta"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "escenifica"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "examina"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "registra"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "revela la tensión"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "desempeña"
       },
       {
         "from": "10",
-        "to": "1",
-        "label": "incorpora al aula la riqueza del"
+        "to": "11",
+        "label": "contextualiza"
       },
       {
-        "from": "10",
-        "to": "2",
-        "label": "educa a la juventud en la"
+        "from": "12",
+        "to": "13",
+        "label": "dialoga con"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "se interpreta desde"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "se analiza con"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "corrobora el"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "alimenta el"
+      },
+      {
+        "from": "15",
+        "to": "5",
+        "label": "responde a la"
+      },
+      {
+        "from": "16",
+        "to": "8",
+        "label": "restringe la extrapolación del"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "somete a prudencia el"
       }
     ]
   }

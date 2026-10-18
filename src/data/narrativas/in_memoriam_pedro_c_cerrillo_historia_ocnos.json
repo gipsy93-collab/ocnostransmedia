@@ -1,0 +1,375 @@
+{
+  "id": "in_memoriam_pedro_c_cerrillo_historia_ocnos",
+  "metadata": {
+    "id": "in_memoriam_pedro_c_cerrillo_historia_ocnos",
+    "title": "Editorial: In Memoriam Pedro C. Cerrillo",
+    "authors": [
+      "Santiago Yubero"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "2",
+    "pages": "5-6",
+    "doi": "10.18239/ocnos_2018.17.2.editorial",
+    "keywords": [
+      "Pedro C. Cerrillo",
+      "CEPLI",
+      "historia editorial",
+      "Revista Ocnos",
+      "literatura infantil"
+    ],
+    "abstract": "Editorial-homenaje firmado por Santiago Yubero que recorre la génesis y profesionalización de la Revista Ocnos y del CEPLI, honrando el liderazgo visionario de Pedro C. Cerrillo en la consolidación científica de los estudios sobre lectura."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo nació una revista científica internacional sobre lectura y literatura infantil en una universidad joven cuando el proyecto parecía descabellado? Este editorial testimonial de Santiago Yubero reconstruye la memoria institucional de Ocnos y rinde tributo a Pedro C. Cerrillo, timonel indiscutible del CEPLI.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta para adentrarte en la memoria editorial del CEPLI:",
+        "opciones": [
+          {
+            "id": "institucional",
+            "texto": "Historia institucional: de publicación en papel a revista indexada en Scopus"
+          },
+          {
+            "id": "humana",
+            "texto": "Dimensión humana e intelectual del magisterio de Pedro C. Cerrillo"
+          },
+          {
+            "id": "simbolica",
+            "texto": "Marco simbólico del mito de Ocnos y el compromiso con la lectura"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "A principios del siglo XXI, la literatura infantil y los estudios sobre hábitos lectores carecían de canales científicos rigurosos en España que cumplieran los estándares de las disciplinas experimentales. La repentina muerte de Pedro Cerrillo dejó al equipo editorial en la orfandad en pleno momento de consolidación internacional.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cuál fue la gran aportación de Pedro C. Cerrillo a la investigación sobre lectura?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Dotar a los estudios de literatura infantil de rigor filológico, científico e indexación internacional, fundando el CEPLI.",
+            "correcta": true,
+            "explicacion": "Exacto: Cerrillo transformó un campo tradicionalmente minusvalorado en un ámbito de excelencia académica con proyección mundial."
+          },
+          {
+            "id": "c2",
+            "texto": "Imponer que solo se publicaran libros en formato impreso sin aceptar la digitalización.",
+            "correcta": false,
+            "explicacion": "Al contrario: lideró la transición digital al acceso abierto en 2010."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "El texto recorre la cronología de Ocnos: su nacimiento en 2005 en formato papel con periodicidad anual; el salto al acceso abierto con OJS en 2010; el paso a dos números en 2012; y la consagración en los índices bibliométricos internacionales más exigentes (ESCI, Scopus, FECYT).",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Fundación (2005)",
+            "detalle": "Creación del CEPLI en Cuenca y lanzamiento del volumen inaugural de Ocnos en papel."
+          },
+          {
+            "fase": "Acceso abierto (2010)",
+            "detalle": "Migración pionera al entorno Open Journal Systems y digitalización del fondo."
+          },
+          {
+            "fase": "Expansión (2012-2016)",
+            "detalle": "Incremento de periodicidad y atracción de investigadoras de Europa e Iberoamérica."
+          },
+          {
+            "fase": "Legado permanente",
+            "detalle": "Compromiso del consejo de redacción con la continuidad y la calidad del proyecto científico."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El homenaje constata que la mayor victoria de Pedro C. Cerrillo fue institucionalizar la dignidad académica de la lectura: Ocnos demostró que investigar la mediación lectora y los libros infantiles es un compromiso cívico de primera magnitud para la democracia.",
+      "datos_clave": [
+        "Editorial testimonial de Santiago Yubero en el volumen 17(2) de Ocnos.",
+        "Homenaje a Pedro C. Cerrillo (Catedrático de Literatura y Director del CEPLI).",
+        "Recorrido por los hitos de profesionalización e indexación de la revista desde 2005.",
+        "Reafirmación del compromiso científico y ético de la UCLM con la comunidad lectora."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El texto se sustenta en la memoria testimonial, la sociología de las publicaciones científicas y el mito clásico de Ocnos —recreado por Goethe y Luis Cernuda— que trenza la cuerda de la cultura frente a la erosión del tiempo.",
+      "referencias_clave": [
+        "Cerrillo (2013)",
+        "Yubero (2018)",
+        "Cernuda (1942)",
+        "Goethe (1811)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El timón de un maestro nunca se suelta del todo: el editorial de Santiago Yubero proclama que la mejor forma de honrar a Pedro Cerrillo es seguir trenzando la soga de Ocnos con rigor, generosidad y pasión por los libros.",
+      "hallazgo_central": "El homenaje a Pedro C. Cerrillo reafirma el legado del CEPLI y consolida a la Revista Ocnos como el referente científico primordial de los estudios sobre lectura en lengua española."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los hitos institucionales con su significado:",
+          "pares": [
+            {
+              "concepto": "CEPLI (UCLM)",
+              "definicion": "Centro de investigación pionero en lectura y literatura infantil en Cuenca."
+            },
+            {
+              "concepto": "Mito de Ocnos",
+              "definicion": "Símbolo del trabajo intelectual perseverante que trenza la soga de la cultura."
+            },
+            {
+              "concepto": "Acceso Abierto (2010)",
+              "definicion": "Apertura democrática digital de la revista a toda la comunidad científica global."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: In Memoriam Pedro C. Cerrillo e Historia Editorial de Ocnos",
+      "descripcion": "Estructura testimonial, histórica y epistémica de la evolución institucional de la Revista Ocnos y el legado de Pedro C. Cerrillo.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "In Memoriam Pedro C. Cerrillo",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo medular: testimoniar el legado intelectual de Pedro C. Cerrillo y reconstruir la memoria histórica de la Revista Ocnos como proyecto científico pionero del CEPLI en la Universidad de Castilla-La Mancha."
+        },
+        {
+          "id": "2",
+          "label": "Fundación del CEPLI en Cuenca",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco institucional fundacional de un centro universitario interdisciplinar dedicado específicamente al estudio científico, filológico y pedagógico de la literatura infantil y los hábitos lectores."
+        },
+        {
+          "id": "3",
+          "label": "El Mito Simbólico de Ocnos",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Referente mitológico rescatado por Luis Cernuda y Goethe que encarna la tenacidad paciente de trenzar sin descanso la soga de juncos de la cultura frente a la devoración del olvido y la indiferencia."
+        },
+        {
+          "id": "4",
+          "label": "Dignidad Científica de la Lectura",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Premisa epistemológica defendida por Cerrillo que equiparó el rigor metodológico de la investigación sobre mediación lectora y literatura infantil con los estándares de las ciencias consolidadas."
+        },
+        {
+          "id": "5",
+          "label": "Memoria Testimonial de Santiago Yubero",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Metodología documental de corte testimonial y autoetnográfico redactada en primera persona por el codirector de la cabecera, aportando fuentes archivísticas y cronológicas de la gestión editorial."
+        },
+        {
+          "id": "6",
+          "label": "Hitos de Profesionalización (2005-2018)",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Sistematización cronológica de las cuatro fases operativas de la publicación: nacimiento en soporte impreso anual, digitalización, incremento a periodicidad semestral y cuatrimestral."
+        },
+        {
+          "id": "7",
+          "label": "Migración al Acceso Abierto en OJS",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Estrategia tecnológica adoptada en 2010 mediante el software libre Open Journal Systems para democratizar el conocimiento y garantizar el acceso libre y universal a los artículos."
+        },
+        {
+          "id": "8",
+          "label": "Consolidación en Índices de Impacto",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Logro institucional de máxima relevancia: indexación de Ocnos en las bases de datos científicas internacionales más selectivas (Scopus, ESCI de Web of Science, FECYT, Dialnet Métricas y ERIH PLUS)."
+        },
+        {
+          "id": "9",
+          "label": "Internacionalización del Comité Científico",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Expansión de la red de revisores y autoras hacia universidades de referencia de Europa, Estados Unidos y toda América Latina, consolidando la cabecera como puente iberoamericano."
+        },
+        {
+          "id": "10",
+          "label": "Fecundidad Investigadora del CEPLI",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Impacto contrastado del liderazgo de Cerrillo en la formación de generaciones de investigadores, dirección de tesis doctorales y publicación de monografías teóricas fundamentales sobre lectura."
+        },
+        {
+          "id": "11",
+          "label": "La Orfandad ante la Pérdida del Maestro",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión emocional sobre el vacío repentino dejado por la muerte de Pedro Cerrillo, metafóricamente descrita como un barco navegando en medio del oleaje sin su mano sabia al timón."
+        },
+        {
+          "id": "12",
+          "label": "Sostenibilidad de Proyectos Humanísticos",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Debate en torno a la dificultad de mantener revistas científicas de humanidades en universidades públicas sin ceder a la burocratización ni perder la calidez y el compromiso comunitario."
+        },
+        {
+          "id": "13",
+          "label": "Continuidad Ética del Proyecto Ocnos",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión y compromiso firme del equipo editorial de proseguir con la singladura de la revista, preservando la autoexigencia y el rigor que guiaron la trayectoria de su fundador."
+        },
+        {
+          "id": "14",
+          "label": "Vigencia del Pensamiento de Cerrillo",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Reafirmación de las tesis de Pedro Cerrillo sobre el papel emancipador de la literatura y la poesía popular infantil como bienes comunes esenciales para la formación del espíritu crítico."
+        },
+        {
+          "id": "15",
+          "label": "La Cultura como Esperanza Colectiva",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Declaración final del editorial: continuar trenzando la soga de Ocnos es el mayor homenaje posible a quien dedicó su existencia a defender que la lectura nos hace más libres y humanos."
+        },
+        {
+          "id": "16",
+          "label": "Naturaleza de Editorial Testimonial",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Condición intrínseca de texto conmemorativo no empírico, redactado desde la subjetividad del afecto y el duelo, cuya validez reside en su verdad histórica y compromiso testimonial."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se sitúa en el"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se articula mediante la"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se inspira en el"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "hace realidad la"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "reconstruye los"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "documenta la"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "culmina en la"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "posibilita la"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "conduce a la"
+        },
+        {
+          "from": "2",
+          "to": "10",
+          "label": "demuestra la"
+        },
+        {
+          "from": "1",
+          "to": "11",
+          "label": "expresa el dolor por la"
+        },
+        {
+          "from": "11",
+          "to": "12",
+          "label": "plantea el desafío de"
+        },
+        {
+          "from": "8",
+          "to": "13",
+          "label": "obliga a asegurar la"
+        },
+        {
+          "from": "10",
+          "to": "14",
+          "label": "afianza la"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "converge en"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se corona con la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "presenta como condición de género"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "asume la"
+        },
+        {
+          "from": "3",
+          "to": "15",
+          "label": "se materializa en"
+        },
+        {
+          "from": "4",
+          "to": "8",
+          "label": "garantizó la"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "se resuelve en la"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Santiago Yubero nos entrega las palabras más sinceras que pueden escribirse: las que nacen de la gratitud hacia un amigo que se fue demasiado pronto. Pedro Cerrillo sigue vivo en cada página que leemos, en cada artículo que se publica y en cada niño que descubre un poema.",
+      "preguntas_guiadas": [
+        "¿Qué maestros o referentes intelectuales han marcado decisivamente tu vocación por la cultura y la enseñanza?",
+        "¿Cómo puede una comunidad científica mantener vivo el espíritu fundacional de un maestro sin caer en la nostalgia inmovilista?"
+      ]
+    }
+  }
+}

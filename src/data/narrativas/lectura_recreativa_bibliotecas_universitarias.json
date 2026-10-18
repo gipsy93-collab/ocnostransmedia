@@ -15,13 +15,13 @@
     "image": "/assets/cromos/cromo-05.png",
     "tutor": {
       "image": "/assets/cromos/cromo-05.png",
-      "name": "Dra. Lucía Camargo-Rojas",
+      "name": "Lucía Camargo-Rojas",
       "role": "Investigadora en Biblioteconomía y Fomento Lector Universitario, Universidad de Deusto"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Lucía Camargo-Rojas, especialista en políticas de dinamización lectora y bienestar en la educación superior",
+      "personaje": "Lucía Camargo-Rojas, investigadora en políticas de dinamización lectora y bienestar en la educación superior",
       "gancho": "¿Por qué los estudiantes universitarios dejan de leer novelas en cuanto entran en la facultad?",
       "contexto": "Las bibliotecas universitarias han centrado históricamente sus presupuestos en bases de datos científicas y manuales académicos obligatorios, desatendiendo la lectura recreativa por considerarla ajena a la excelencia investigadora. Sin embargo, ante la creciente crisis de estrés y salud mental en los campus, cada vez más universidades de todo el mundo están creando colecciones de ocio y clubes de lectura. En esta revisión sistemática internacional, la autora analizó la producción científica sobre programas de lectura por placer en bibliotecas académicas.",
       "deepDives": [
@@ -35,116 +35,116 @@
           "id": "rec-apertura-2",
           "triggerLabel": "Revisión sistemática internacional",
           "type": "data",
-          "content": "Análisis de iniciativas de fomento lector en universidades de EE.UU., Canadá, Reino Unido y el ámbito hispanoamericano."
+          "content": "Revisión sistemática de 94 documentos científicos (2000-2022), con producción destacada de China (31), Estados Unidos (28), España (9), Canadá (7) y Colombia (4)."
         }
       ]
     },
     "conflicto": {
-      "problema": "La obsesión por los rankings de impacto científico ha deshumanizado las bibliotecas universitarias, transformándolas en salas de ordenadores silenciosas y frías.",
-      "porQueImporta": "La lectura recreativa en la universidad reduce el cortisol, previene el 'burnout' estudiantil y ensancha el pensamiento crítico lateral de los futuros profesionales.",
+      "problema": "La visión tradicional sostiene que el propósito de la biblioteca universitaria es apoyar el currículo y la investigación, y relega la promoción de lectura a la competencia exclusiva de las bibliotecas públicas y escolares, por lo que las iniciativas quedan en actividades aisladas.",
+      "porQueImporta": "Existe relación positiva entre un hábito lector estable, mejores habilidades verbales y éxito académico (Elche et al., 2019; Martin-Chang et al., 2021), y la lectura recreativa se asocia con menos estrés —una de las causas vinculadas al abandono académico— y mayor bienestar.",
       "dataPoints": [
-        "Revisión sistemática de estudios publicados entre 2000 y 2023.",
-        "El 76% de los programas analizados reportó una reducción significativa en los niveles de estrés autoinformados por los universitarios.",
-        "Éxito arrollador de los 'Leisure Reading Corners' (rincones con sofás, cómic, novela gráfica y narrativa actual).",
-        "Falta de visibilidad: muchas bibliotecas tienen fondos recreativos pero no los promocionan en redes sociales ni organizan eventos comunitarios."
+        "Revisión sistemática de la bibliografía publicada entre 2000 y 2022.",
+        "De los 94 documentos seleccionados, 62 mencionan la dimensión política, 26 la infraestructura, 41 el personal y 44 los beneficios y la evaluación.",
+        "Las 'colecciones de ocio' resultan las más usadas en la biblioteca, mejoran las estadísticas de circulación y atraen a los estudiantes a los servicios presenciales.",
+        "El estudio de Rebiun (2019) halló que en España la mayoría de las iniciativas son puntuales y minoritarias, sin traducirse en políticas concretas."
       ],
       "glossary": [
         {
-          "term": "Biblioterapia para el desarrollo",
-          "definition": "Uso guiado de lecturas literarias para apoyar la maduración emocional, la resolución de conflictos y el bienestar en etapas de transición vital."
+          "term": "Colecciones de ocio (leisure collections)",
+          "definition": "Fondos de ficción, cultura popular y revistas de divulgación ajenos al syllabus, que apoyan el desarrollo social, la reducción del estrés y el aprendizaje a lo largo de la vida."
         }
       ]
     },
     "viaje": {
       "titulo": "Ruta metodológica: Protocolo de revisión y categorización temática",
-      "narrativa": "La autora analizó exhaustivamente las publicaciones en bases de datos especializadas (LISA, LISTA, Scopus y WoS), categorizando objetivos, modelos de colección, actividades de dinamización y métricas de impacto.",
+      "narrativa": "La autora buscó en Web of Science, Scopus, Ebsco, ProQuest y Google Scholar (26 de mayo de 2023), limitando la búsqueda a 2000-2022, y clasificó cada documento según las cuatro dimensiones de la relación entre promoción de lectura y misión institucional.",
       "detalles": [
         {
           "label": "Corpus",
-          "value": "Estudios empíricos internacionales sobre bibliotecas académicas."
+          "value": "153 registros identificados sin duplicados, leídos en su totalidad: se descartaron 71 y se añadieron 12 por citación y otras fuentes, quedando 94 documentos."
         },
         {
           "label": "Categorías",
-          "value": "Colección recreativa, clubes de lectura, espacios de bienestar y biblioterapia."
+          "value": "Políticas, infraestructura (colecciones y espacios), personal (competencias y percepciones), y beneficios y evaluación de los programas."
         }
       ],
       "limitaciones": [
-        "Mayor concentración de literatura en el ámbito anglosajón frente al entorno iberoamericano."
+        "Los documentos consultados enuncian las posibles repercusiones de los programas sobre docencia, investigación y servicio, pero no las demuestran."
       ],
       "reflexion": "Una biblioteca que no invita al gozo de leer es como un jardín donde se prohíbe mirar las flores."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: El libro como bálsamo para la mente universitaria",
-      "narrativa": "Los datos demostraron que la lectura por placer no compite con el estudio: lo salva:",
+      "titulo": "Hallazgos empíricos: beneficios enunciados, políticas ausentes",
+      "narrativa": "La revisión mostró que la bibliografía defiende una alianza entre lectura recreativa y éxito académico, pero sin traducirla en políticas:",
       "hallazgos": [
         {
-          "label": "1. Oxígeno contra la Ansiedad de Exámenes",
-          "value": "Los estudiantes que frecuentan clubes de lectura en la biblioteca desarrollan mayor resiliencia ante el estrés académico y mejor rendimiento cognitivo."
+          "label": "1. Aliada del rendimiento y la permanencia",
+          "value": "La lectura recreativa se asocia con mayores habilidades comunicativas, comprensión y vocabulario, pensamiento crítico, participación cívica y bienestar, y ayuda a reducir el estrés vinculado al abandono académico."
         },
         {
-          "label": "2. Demanda Oculta de Cómics y Novela Gráfica",
-          "value": "Los fondos de cómic y manga son los que registran las mayores tasas de rotación de préstamo en los campus universitarios."
+          "label": "2. Éxito silencioso de las colecciones de ocio",
+          "value": "Son las más usadas en la biblioteca, mejoran las estadísticas de circulación y atraen a los estudiantes a los servicios presenciales y a la socialización."
         }
       ],
       "dataPoints": [
-        "Más del 60% de los préstamos de colecciones de ocio correspondió a formatos ilustrados y novelas de géneros de fantasía/thriller."
+        "La producción científica sobre el tema aumentó a partir de 2015, con 2020 como año de mayor publicación; 77 de los 94 documentos son artículos de revista."
       ],
       "reflexion": "Leer por placer en la universidad no es perder el tiempo: es encontrar tiempo para seguir siendo humanos."
     },
     "marco": {
       "titulo": "Discusión: Repensar la misión social de la biblioteca académica",
-      "narrativa": "Camargo-Rojas propone incluir el fomento lector recreativo en los planes estratégicos de las universidades:",
+      "narrativa": "Camargo-Rojas sostiene que el cuello de botella se destraba desde las políticas, contemplando la promoción de lectura recreativa en la misión institucional:",
       "detalles": [
         {
-          "label": "Rincones de Bienestar Literario",
-          "value": "Espacios acogedores sin pantallas dedicados exclusivamente al silencio, la desconexión y la narrativa libre."
+          "label": "Política, perfiles y evidencia",
+          "value": "Distribuir recursos hacia nuevos perfiles profesionales —formados también en pedagogía, artes, literatura, comunicación y psicología, a tiempo completo— y generar estudios de caso que evidencien los beneficios."
         }
       ],
       "reflexion": "Cuidar la salud mental de los estudiantes empieza por devolverles el placer desinteresado de abrir un libro."
     },
     "nucleo": {
-      "pregunta": "¿Cómo contribuye la promoción de la lectura recreativa en las bibliotecas universitarias al bienestar y desarrollo integral de los estudiantes?",
-      "conclusion": "La revisión sistemática internacional concluye que los programas de lectura recreativa en las bibliotecas universitarias son herramientas de primer orden para combatir el estrés y el agotamiento académico, potenciar la empatía y favorecer el éxito curricular holístico. Se recomienda a las universidades incorporar partidas presupuestarias estables para fondos de ocio, cómic y clubes de lectura como parte esencial de sus políticas de bienestar estudiantil.",
+      "pregunta": "¿Cómo ha tratado la bibliografía científica la relación entre la promoción de lectura recreativa y la misión de las bibliotecas universitarias?",
+      "conclusion": "La revisión sistemática de 94 documentos concluye que la bibliografía describe y enuncia las posibilidades de la lectura recreativa con una mirada ampliada al apoyo a la docencia, la investigación y el servicio universitarios, pero que las iniciativas siguen siendo actividades aisladas que no se han traducido en políticas concretas. Hacen falta investigaciones que evidencien los beneficios y estudios de caso que conecten las actividades con los retos actuales, para generar nuevas políticas y perfiles y programas sólidos donde la evaluación sea una práctica constante.",
       "formalRef": "Camargo-Rojas, L. (2024). Promoción de la lectura recreativa y misión de las bibliotecas universitarias. Una revisión sistemática. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.388"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué beneficio para la salud mental reportó el 76 % de las investigaciones analizadas sobre lectura recreativa en campus universitarios?",
+          "q": "¿Qué concluye la revisión sobre las iniciativas de promoción de lectura recreativa en las bibliotecas universitarias?",
           "options": [
-            "Un aumento de insomnio.",
-            "Una reducción estadísticamente significativa en los niveles de estrés y ansiedad académica autoinformados por los estudiantes.",
-            "Ganas de abandonar la carrera.",
-            "Ningún impacto perceptible."
+            "Que se han convertido en programas institucionales sólidos con evaluación constante.",
+            "Que la bibliografía enuncia sus posibilidades, pero las iniciativas son en su mayoría aisladas y no se han traducido en políticas concretas.",
+            "Que están prohibidas por las directivas universitarias.",
+            "Que solo existen en bibliotecas virtuales sin colección impresa."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué tipo de formato literario registró las tasas más altas de préstamo y rotación en las colecciones recreativas de las bibliotecas analizadas?",
+          "q": "¿Qué países concentraron la mayor producción de documentos en el corpus analizado?",
           "options": [
-            "Los códigos de leyes tributarias.",
-            "Los cómics, mangas y novelas gráficas contemporáneas.",
-            "Las enciclopedias médicas antiguas.",
-            "Los manuales de álgebra lineal."
+            "Alemania y Francia.",
+            "China y Estados Unidos, con 31 y 28 documentos respectivamente.",
+            "Brasil y Portugal.",
+            "Japón e India."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué concepto define el uso de la lectura literaria libre como soporte para la maduración personal y el equilibrio emocional en etapas de transición vital?",
+          "q": "¿Qué son las 'colecciones de ocio' (leisure collections) descritas en la bibliografía?",
           "options": [
-            "Fisioterapia deportiva.",
-            "Biblioterapia para el desarrollo.",
-            "Cirugía léxica.",
-            "Memorización forzosa."
+            "Los manuales obligatorios del syllabus.",
+            "Fondos de ficción y cultura popular ajenos al currículo que apoyan la formación integral y el aprendizaje a lo largo de la vida.",
+            "Bases de datos de artículos científicos.",
+            "Secciones infantiles exclusivas de bibliotecas escolares."
           ],
           "correct": 1
         },
         {
           "type": "open",
-          "q": "Diseña una campaña de dinamización de 1 semana para una biblioteca universitaria que combine un 'Rincón de Cómic y Desconexión' con un club de lectura de noche de exámenes centrado en la reducción del estrés."
+          "q": "Diseña una campaña de dinamización de 1 semana para una biblioteca universitaria que dé visibilidad a su colección de ocio y conecte el club de lectura con la misión de la institución."
         },
         {
           "type": "open",
@@ -159,19 +159,19 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "El estrés devora a los universitarios. La lectura por placer es la mejor medicina contra el burnout en los exámenes.",
+      "text": "Los universitarios leen, pero casi solo por deber. Falta una política que incorpore la lectura recreativa a la misión de la biblioteca.",
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Revisamos más de 20 años de investigaciones internacionales en bases de datos especializadas (LISA, Scopus, WoS).",
+      "text": "Revisamos 94 documentos científicos (2000-2022) localizados en WoS, Scopus, Ebsco, ProQuest y Google Scholar.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El cómic y la novela gráfica arrasan en préstamos! Y el 76% de los programas reduce la ansiedad de los estudiantes.",
+      "text": "¡La evidencia está enunciada, no demostrada! Faltan estudios de caso y evaluación para que las iniciativas aisladas se vuelvan política.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "Diseñemos bibliotecas que abracen a la persona: sillones cómodos, buena literatura y cero pantallas para respirar paz.",
+      "text": "La clave es la política: misión ampliada, perfiles capacitados a tiempo completo y programas con evaluación constante.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -188,110 +188,225 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Lectura Recreativa en Bibliotecas Universitarias",
-    "descripcion": "Revisión sistemática internacional (2000-2023): ocio lector, cómics, biblioterapia para el desarrollo, reducción del estrés y bienestar en campus.",
+    "titulo": "Mapa conceptual: Lectura recreativa y misión de bibliotecas universitarias (Ocnos 23(1) 2024)",
+    "descripcion": "Recorre la misión de las bibliotecas universitarias, la revisión sistemática de 94 documentos (2000-2022) en cuatro dimensiones —política, infraestructura, personal, beneficios y evaluación— y la conclusión de que hacen falta políticas claras y estudios de caso con evidencia.",
     "nodos": [
       {
         "id": "1",
-        "label": "Lectura Recreativa en Campus",
-        "color": "#264653"
+        "label": "Misión de la biblioteca universitaria",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "La IFLA señala cubrir las necesidades de información del aprendizaje y la investigación, y la ACRL (2018) el rol educativo para el éxito académico y el aprendizaje a lo largo de la vida. La misión deriva de las funciones sustantivas de la universidad: docencia, investigación y servicio (Boli, 2018)."
       },
       {
         "id": "2",
-        "label": "Bibliotecas Universitarias",
-        "color": "#2a5a75"
+        "label": "Hábito lector y lectura instrumental",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "El hábito lector es una conducta estable de elección voluntaria en el ocio (Cerrillo et al., 2002). La comunidad universitaria valora la lectura pero predomina un concepto instrumental y no recreativo (Larrañaga y Yubero, 2005; Gilbert y Fister, 2011), aunque el hábito estable se correlaciona con mejores habilidades verbales y éxito académico (Elche et al., 2019)."
       },
       {
         "id": "3",
-        "label": "Reducción del Estrés (76%)",
-        "color": "#88b04b"
+        "label": "Promoción de lectura y readers advisory",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "En lo anglosajón, el readers advisory sugiere material de ocio según intereses y gustos (Dali, 2015); en español, la promoción de lectura es un trabajo de intervención sociocultural (Álvarez y Naranjo, 2003) que incluye la animación lectora. El informe Rebiun (2019) halló en España iniciativas puntuales y minoritarias."
       },
       {
         "id": "4",
-        "label": "Biblioterapia para el Desarrollo",
-        "color": "#2a9d8f"
+        "label": "Relación entre promoción lectora y misión",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "Analizar sistemáticamente cómo la bibliografía científica ha tratado la promoción de lectura recreativa y la misión de las bibliotecas universitarias, para explicar por qué las iniciativas no se constituyen como programas sólidos y qué retos deben afrontar."
       },
       {
         "id": "5",
-        "label": "Fondos de Cómic y Novela Gráfica",
-        "color": "#f4d068"
+        "label": "Protocolo de búsqueda y selección",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Búsqueda el 26 de mayo de 2023 en Web of Science (12 registros), Scopus (24), ProQuest (742), Ebsco (3.482) y Google Scholar (2.580), acotada a 2000-2022. Los 153 registros sin duplicados se leyeron en su totalidad: se descartaron 71 y se añadieron 12, quedando 94 documentos."
       },
       {
         "id": "6",
-        "label": "Clubes de Lectura en la Facultad",
-        "color": "#5b9eaa"
+        "label": "Cuatro dimensiones de análisis",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "De cada documento se extrajeron las citas sobre las dimensiones que manifiestan la relación: políticas (62 documentos), infraestructura —colecciones y espacios— (26), personal —competencias y percepciones— (41) y beneficios y evaluación (44). Se completó con un análisis bibliométrico."
       },
       {
         "id": "7",
-        "label": "Prevención del Burnout Estudiantil",
-        "color": "#e76f51"
+        "label": "Producción bibliométrica por país",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "La producción aumentó a partir de 2015 y 2020 fue el año de mayor publicación. Destacan China (31 documentos), Estados Unidos (28), España (9), Canadá (7) y Colombia (4); por tipo, 77 artículos, 10 conference papers, 5 capítulos de libro y 3 trabajos de grado."
       },
       {
         "id": "8",
-        "label": "Rincones de Desconexión Digital",
-        "color": "#9b82c3"
+        "label": "Políticas y funciones sustantivas",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "La visión tradicional relega la promoción de lectura a las bibliotecas públicas y escolares (Dewan, 2013; Ramírez, 2015). Otras voces piden políticas de lectura (Banou et al., 2008; Dali, 2015) y vinculan la lectura recreativa con la docencia, la formación integral de la «persona en su totalidad» (Dali y McNiff, 2020) y la función social de capital cultural (Torres, 2005)."
       },
       {
         "id": "9",
-        "label": "Obsesión por Rankings Fríos",
-        "color": "#c73e1d"
+        "label": "Colecciones de ocio",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Las «leisure collections» de ficción y cultura popular apoyan la misión: enriquecen el desarrollo social, ayudan a reducir el estrés ligado al abandono académico, resultan las más usadas y mejoran las estadísticas de circulación (Trott y Elliott, 2009; Reno, 2017; Gladwin y Goulding, 2012)."
       },
       {
         "id": "10",
-        "label": "Bienestar Universitario Integral",
-        "color": "#f4a261"
+        "label": "Percepciones y perfiles del personal",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Encuestas y entrevistas entre 2002 y 2018 muestran personal que percibe la lectura recreativa fuera de su misión y teme perder imagen de especialista en información (Elliot, 2007). Se reclaman nuevos perfiles: formación en psicología y artes (Dali, 2015), gestores culturales (Herrera e Hincapié, 2020) y dedicación de tiempo completo."
+      },
+      {
+        "id": "11",
+        "label": "Beneficios de la lectura recreativa",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "La bibliografía cita mayores habilidades comunicativas, de comprensión y vocabulario (Rathe y Blankenship, 2006; Gauder et al., 2007), pensamiento crítico (Dewan, 2013), apoyo a la segunda lengua (Bordonaro, 2011), participación cívica y mayor bienestar (Hurst et al., 2017), con efectos positivos contra el abandono académico."
+      },
+      {
+        "id": "12",
+        "label": "Evaluación incipiente de programas",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "La evaluación aún queda en el resumen de actividades (Tan, 2018; Song et al., 2022). Se propone decidir con evidencia y no solo intuición (Dali, 2015), planear según necesidades y segmentar públicos (Yanchao, 2018), y aprovechar la minería de datos y la retroalimentación en línea (Zhang y Tan, 2021)."
+      },
+      {
+        "id": "13",
+        "label": "Ausencia de política institucional",
+        "color": "#9b82c3",
+        "role": "Discusión",
+        "descripcion": "Las miradas ampliadas no han desembocado en políticas institucionales claras y contundentes. El cuello de botella se destrabaría contemplando la promoción de lectura recreativa en la misión, distribuyendo recursos hacia nuevos perfiles y capacitando personal versátil."
+      },
+      {
+        "id": "14",
+        "label": "Evidencia mediante estudios de caso",
+        "color": "#f4d068",
+        "role": "Conclusiones",
+        "descripcion": "Se concluye que la investigación debe demostrar los beneficios con estudios de caso partiendo del análisis de las prácticas lectoras, y estudiar la relación de la lectura recreativa con la alfabetización informacional y académica: lejos de poner en peligro la misión, promoverla la amplía y refuerza."
+      },
+      {
+        "id": "15",
+        "label": "Bibliografía sin beneficios demostrados",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "Los documentos consultados enuncian las posibles repercusiones de los programas sobre docencia, investigación y servicio, pero no las demuestran. La propia revisión evidencia que faltan investigaciones de efectos y casos que conecten las actividades con los retos universitarios actuales."
       }
     ],
     "aristas": [
       {
-        "from": "2",
-        "to": "1",
-        "label": "debe promover activamente la"
-      },
-      {
         "from": "1",
         "to": "3",
-        "label": "consigue una demostrada"
+        "label": "tradicionalmente ha silenciado la"
       },
       {
         "from": "1",
-        "to": "4",
-        "label": "se fundamenta en el poder de la"
+        "to": "9",
+        "label": "había restringido las"
       },
       {
         "from": "2",
-        "to": "5",
-        "label": "crea colecciones vivas con"
+        "to": "1",
+        "label": "cuestiona la"
       },
       {
         "from": "2",
-        "to": "6",
-        "label": "organiza encuentros en"
+        "to": "11",
+        "label": "sustenta los"
       },
       {
         "from": "3",
-        "to": "7",
-        "label": "es la mejor barrera para la"
+        "to": "4",
+        "label": "integra la pregunta sobre la"
       },
       {
-        "from": "2",
+        "from": "4",
+        "to": "5",
+        "label": "se ejecuta con un"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se organiza en las"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "clasifica las citas según las"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "documenta la"
+      },
+      {
+        "from": "6",
         "to": "8",
-        "label": "diseña espacios físicos como"
+        "label": "desarrolla la"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "desarrolla las"
+      },
+      {
+        "from": "6",
+        "to": "10",
+        "label": "examina a los"
+      },
+      {
+        "from": "6",
+        "to": "11",
+        "label": "reúne los"
+      },
+      {
+        "from": "6",
+        "to": "12",
+        "label": "examina también la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "concentra el debate sobre"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "no ha cristalizado en"
       },
       {
         "from": "9",
-        "to": "1",
-        "label": "ha marginado históricamente la"
+        "to": "11",
+        "label": "aporta los"
       },
       {
         "from": "10",
-        "to": "2",
-        "label": "exige redefinir la misión de las"
+        "to": "13",
+        "label": "frena las"
       },
       {
-        "from": "10",
-        "to": "3",
-        "label": "se nutre directamente de la"
+        "from": "11",
+        "to": "14",
+        "label": "obliga a demostrar con"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "demanda"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "se destraba con"
+      },
+      {
+        "from": "15",
+        "to": "14",
+        "label": "exige generar"
       }
     ]
   }

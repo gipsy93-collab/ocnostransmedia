@@ -23,30 +23,30 @@
     "apertura": {
       "personaje": "Dra. Lourdes Villalustre-Martínez, especialista en diseño de entornos inmersivos y narrativa gamificada",
       "gancho": "¿Se aprende mejor cuando la evaluación deja de ser un examen amenazante y se convierte en una misión heroica?",
-      "contexto": "La gamificación educativa a menudo se reduce a dar insignias o puntos digitales superficiales (puntos, medallas y tablas de clasificación). Sin embargo, la verdadera potencia reside en la 'narrativa gamificada': sumergir a los estudiantes en un universo ficcional coherente donde resolver retos didácticos hace avanzar la historia. En este estudio con 146 futuros docentes en la Universidad de Oviedo, la autora evaluó cómo una narrativa gamificada transformó la adquisición de competencias docentes y la implicación emocional.",
+      "contexto": "La gamificación educativa a menudo se reduce a dar insignias o puntos digitales superficiales. Sin embargo, la verdadera potencia reside en la 'narrativa gamificada': sumergir a los estudiantes en un universo ficcional coherente donde resolver retos didácticos hace avanzar la historia. En este estudio con 176 estudiantes de los grados de Maestro de la Universidad de Oviedo, la autora examinó las competencias narrativa, digital, creativa y didáctica puestas en juego al diseñar narraciones gamificadas.",
       "deepDives": [
         {
           "id": "gam-apertura-1",
-          "triggerLabel": "Gamificación profunda vs. superficial",
+          "triggerLabel": "Gamificación en educación",
           "type": "theory",
-          "content": "Kapp (2012) distingue la gamificación estructural (recompensas mecánicas) de la gamificación de contenido, que utiliza personajes, misterio y dilemas éticos."
+          "content": "Aplicar elementos de videojuegos en contextos no lúdicos para lograr actividades más divertidas, atractivas y motivadoras (Zichermann, 2012). En educación se integra desde tres enfoques: diseñar una estructura gamificada, adaptar una existente o evaluar propuestas gamificadas."
         },
         {
           "id": "gam-apertura-2",
-          "triggerLabel": "Muestra de 146 estudiantes de Grado",
+          "triggerLabel": "Muestra de 176 estudiantes de Grado",
           "type": "data",
-          "content": "Evaluación pre-post y análisis de diarios de aprendizaje durante un semestre completo."
+          "content": "Estudiantes de la asignatura TIC de los grados de Maestro crearon relatos gamificados y sus producciones fueron evaluadas con el instrumento COMP-NDCDD."
         }
       ]
     },
     "conflicto": {
-      "problema": "La desconexión entre la teoría universitaria y la práctica real desmotiva a los estudiantes de Magisterio, que perciben los exámenes memorísticos como estériles.",
+      "problema": "La gamificación se usa sobre todo para motivar, pero está menos explorada como medio de creación narrativa y como contexto para evaluar competencias en la formación inicial del profesorado.",
       "porQueImporta": "Los futuros maestros enseñarán como fueron enseñados: si experimentan metodologías inmersivas en la universidad, las aplicarán con sus alumnos de colegio.",
       "dataPoints": [
-        "Muestra de 146 estudiantes de Grado de Maestro en Educación Primaria.",
-        "El 92% manifestó un incremento sustancial en su motivación intrínseca hacia la materia.",
-        "Desarrollo significativo de competencias de trabajo colaborativo y resolución creativa de problemas.",
-        "Superación del estrés evaluativo: el 88% consideró la evaluación integrada en la narrativa más justa y formativa."
+        "Muestra de 176 estudiantes de los grados de Maestro en Educación Infantil y Primaria (94 mujeres, 53,5 %; 82 hombres, 46,5 %).",
+        "Las medias de logro se sitúan en el nivel intermedio; destaca la competencia narrativa, con un 18,9 % de nivel alto y un 16 % de nivel muy alto.",
+        "Las cuatro competencias (narrativa, digital, creativa y didáctica) correlacionan positiva y significativamente entre sí (Pearson .515 a .671).",
+        "Los hombres obtuvieron mejores niveles de logro que las mujeres en la competencia narrativa (M = 3,49 frente a 2,90) y en la digital (3,26 frente a 2,80)."
       ],
       "glossary": [
         {
@@ -56,20 +56,20 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Investigación-acción y triangulación evaluativa",
-      "narrativa": "La autora diseñó una aventura transmedia basada en misiones de escape room educativo y diarios reflexivos digitales.",
+      "titulo": "Ruta metodológica: Diseño y evaluación de narraciones gamificadas",
+      "narrativa": "En dos fases dentro de la asignatura TIC de los grados, los estudiantes crearon relatos para promover valores en menores con mecánicas de juego, códigos QR, realidad aumentada y vídeo en stop-motion; después los responsables de la asignatura evaluaron sus narraciones.",
       "detalles": [
         {
           "label": "Participantes",
-          "value": "146 estudiantes de Magisterio de la Universidad de Oviedo."
+          "value": "176 estudiantes universitarios de los grados de Maestro de la Universidad de Oviedo."
         },
         {
           "label": "Instrumentos",
-          "value": "Rúbricas competenciales, cuestionarios de engagement y diarios narrativos."
+          "value": "Cuestionario COMP-NDCDD: 16 ítems en cuatro dimensiones, escala Likert de 1 (Muy Bajo) a 5 (Muy Alto); alfa de Cronbach .804."
         }
       ],
       "limitaciones": [
-        "Exige un alto coste de tiempo en el diseño previo por parte del profesorado universitario."
+        "Estudio centrado en universitarios: se desconoce si los resultados son extrapolables a otros niveles educativos, y se requieren muestras de mayor tamaño."
       ],
       "reflexion": "Aprender no tiene por qué ser solemne ni aburrido: la seriedad del rigor convive con la magia del juego."
     },
@@ -82,29 +82,29 @@
           "value": "En la narrativa del juego, el error no es un fracaso: es una 'vida perdida' que incita a cooperar con el equipo para reintentar la misión."
         },
         {
-          "label": "2. Transferencia a la Práctica Escolar",
-          "value": "Los alumnos diseñaron luego situaciones de aprendizaje gamificadas para sus prácticas en colegios reales."
+          "label": "2. Guía de Integración Didáctica",
+          "value": "Los estudiantes crearon además una guía de integración didáctica en el aula con objetivos, contenidos, metodología, actividades y evaluación."
         }
       ],
       "dataPoints": [
-        "Calificaciones finales un 22% superiores a las promociones previas evaluadas con examen tradicional."
+        "El modelo de regresión fue significativo y explicó el 41,6 % de la varianza de la competencia narrativa, con la competencia digital como principal predictora."
       ],
       "reflexion": "Cuando el aula se convierte en un mundo por descubrir, nadie quiere que toque el timbre."
     },
     "marco": {
-      "titulo": "Discusión: La evaluación formativa invisible",
-      "narrativa": "Villalustre-Martínez defiende la 'evaluación sigilosa' (stealth assessment):",
+      "titulo": "Discusión: La evaluación integrada en el diseño narrativo",
+      "narrativa": "Villalustre-Martínez subraya el valor de evaluar competencias dentro del propio diseño de las narraciones gamificadas:",
       "detalles": [
         {
-          "label": "Evaluar sin Traumatizar",
-          "value": "Registrar el progreso competencial en tiempo real mientras los alumnos resuelven enigmas pedagógicos."
+          "label": "Evaluar sin exámenes al uso",
+          "value": "El instrumento COMP-NDCDD permite registrar el nivel de logro competencial a partir de las narraciones gamificadas creadas por el alumnado."
         }
       ],
       "reflexion": "Evaluar no es juzgar a una persona: es acompañarla a superar su propio nivel de maestría."
     },
     "nucleo": {
       "pregunta": "¿Qué impacto tiene la narración gamificada en el desarrollo y evaluación de competencias en la formación inicial de maestros?",
-      "conclusion": "La investigación con 146 futuros docentes demuestra que la narración gamificada potencia la motivación intrínseca (92%), fortalece el trabajo en equipo y elimina la ansiedad ante la evaluación tradicional. Al integrar la evaluación de competencias dentro de una trama inmersiva de retos, los universitarios no solo adquieren saberes didácticos con mayor profundidad (+22%), sino que vivencian un modelo pedagógico transferible a su futuro desempeño en las escuelas.",
+      "conclusion": "La investigación con 176 futuros docentes demuestra que la narración gamificada permite desarrollar simultáneamente las competencias narrativa, digital, creativa y didáctica. Los resultados sitúan el logro medio en un nivel intermedio, destacan la competencia narrativa y muestran diferencias de género favorables a los hombres en lo narrativo y lo digital. Al integrar la evaluación de competencias dentro de una trama inmersiva de retos, los universitarios vivencian un modelo pedagógico transferible a su futuro desempeño en las escuelas, en el que la competencia digital predice de forma destacada la narrativa.",
       "formalRef": "Villalustre-Martínez, L. (2024). Narraciones gamificadas y evaluación de competencias en la formación inicial del profesorado. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.431"
     },
     "juegos": [
@@ -136,25 +136,25 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué beneficio emocional reportó el 88 % de los estudiantes de Magisterio evaluados mediante la narrativa gamificada?",
+          "q": "¿En qué competencias encontró el estudio diferencias significativas de género a favor de los hombres?",
           "options": [
-            "Un aumento incontrolable de estrés y pánico.",
-            "La eliminación de la ansiedad ante el examen tradicional y la percepción de una evaluación más justa y formativa.",
-            "Ganas de abandonar la carrera universitaria.",
-            "Hambre constante durante las clases."
+            "En la narrativa y la digital.",
+            "En la creativa y la didáctica.",
+            "En ninguna de las cuatro competencias.",
+            "Solo en la didáctica."
           ],
-          "correct": 1
+          "correct": 0
         },
         {
           "type": "choice",
-          "q": "¿Qué mejora en las calificaciones finales obtuvieron los estudiantes frente a las cohortes previas evaluadas con exámenes tradicionales?",
+          "q": "¿Qué competencia fue la que más peso tuvo al predecir el nivel de logro en la competencia narrativa?",
           "options": [
-            "Un 0 % de mejora.",
-            "Un incremento del 22 % en las calificaciones.",
-            "Todos suspendieron la asignatura.",
-            "Las notas bajaron a la mitad."
+            "La competencia digital.",
+            "La competencia creativa.",
+            "La competencia didáctica.",
+            "Ninguna de ellas."
           ],
-          "correct": 1
+          "correct": 0
         },
         {
           "type": "open",
@@ -177,11 +177,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "146 estudiantes en Oviedo resuelven misiones didácticas, gestionan avatares y aprenden cooperando en equipo.",
+      "text": "176 estudiantes en Oviedo resuelven misiones didácticas, gestionan avatares y aprenden cooperando en equipo.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Adiós a la ansiedad de examen! Un 92% de motivación intrínseca y un 22% más de rendimiento académico real.",
+      "text": "¡La evaluación deja de dar miedo! Los futuros docentes desarrollan sus competencias narrativa, digital, creativa y didáctica dentro de una misma aventura gamificada.",
       "position": "bottom-right"
     },
     "marco": {
@@ -202,111 +202,45 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Narración Gamificada y Evaluación de Competencias Docentes",
-    "descripcion": "Estudio universitario (146 alumnos): gamificación de contenido, eliminación de la ansiedad de examen, trabajo colaborativo y evaluación sigilosa.",
+    "titulo": "Mapa conceptual: Narraciones gamificadas y evaluación de competencias docentes (Ocnos 23(2), 2024)",
+    "descripcion": "Estudio con 176 universitarios que diseña y evalúa narraciones gamificadas mediante el instrumento COMP-NDCDD para examinar las competencias narrativa, digital, creativa y didáctica, sus diferencias de género y el poder predictivo sobre la competencia narrativa.",
     "nodos": [
-      {
-        "id": "1",
-        "label": "Narración Gamificada en Magisterio",
-        "color": "#9b82c3"
-      },
-      {
-        "id": "2",
-        "label": "Gamificación de Contenido Profunda",
-        "color": "#2a5a75"
-      },
-      {
-        "id": "3",
-        "label": "Evaluación Formativa Sigilosa",
-        "color": "#88b04b"
-      },
-      {
-        "id": "4",
-        "label": "Superación del Estrés Evaluativo",
-        "color": "#2a9d8f"
-      },
-      {
-        "id": "5",
-        "label": "Motivación Intrínseca (92%)",
-        "color": "#f4d068"
-      },
-      {
-        "id": "6",
-        "label": "Resolución Creativa de Retos",
-        "color": "#5b9eaa"
-      },
-      {
-        "id": "7",
-        "label": "Trabajo Colaborativo en Equipos",
-        "color": "#e88b8c"
-      },
-      {
-        "id": "8",
-        "label": "Mejora Académica (+22%)",
-        "color": "#e76f51"
-      },
-      {
-        "id": "9",
-        "label": "Examen Tradicional Memorístico",
-        "color": "#c73e1d"
-      },
-      {
-        "id": "10",
-        "label": "Transferencia a Aulas de Primaria",
-        "color": "#f4a261"
-      }
+      {"id": "1", "label": "Gamificación en contextos educativos", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "La gamificación aplica elementos de videojuegos a contextos no lúdicos para lograr actividades más divertidas, atractivas y motivadoras (Zichermann, 2012; Roldan et al., 2022). En educación se integra desde tres enfoques: diseñar una estructura gamificada, adaptar una existente o evaluar propuestas gamificadas (Surendeleg et al., 2014; Dicheva et al., 2015)."},
+      {"id": "2", "label": "Competencia narrativa y alfabetización digital", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "La competencia narrativa abarca comprensión y producción de relatos ligada a la alfabetización letrada, audiovisual y mediática (Spencer y Petersen, 2020). Los nuevos formatos narrativos priman la interactividad, convierten al lector en protagonista y gamificar una historia enriquece el aprendizaje con retroalimentación e incentivos (Reyes y Avello, 2021; Pegalajar-Palomino, 2021)."},
+      {"id": "3", "label": "Modelo de diseño de narraciones gamificadas", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "Combina elementos estructurales del relato (comienzo y orientación, evento inicial o complicación, acciones dirigidas al objetivo) con los del proceso gamificado (misión, reglas, retos y sistema de refuerzo), según Lim y Noor (2019) y Orellana-García et al. (2022)."},
+      {"id": "4", "label": "Objetivo: cuatro competencias a evaluar", "color": "#f4a261", "role": "Objetivo", "descripcion": "Examinar las competencias narrativa, digital, creativa y didáctica durante el diseño de una narrativa gamificada, analizar las posibles diferencias de género y medir en qué medida la digital, creativa y didáctica predicen la competencia narrativa."},
+      {"id": "5", "label": "Dos fases: crear y evaluar narrativas", "color": "#264653", "role": "Método", "descripcion": "En la asignatura TIC de los grados, la primera fase consistió en crear relatos para promover valores en menores con mecánicas de juego, códigos QR, realidad aumentada, vídeo en stop-motion y dos desenlaces posibles, más una guía de integración didáctica; en la segunda, los responsables de la asignatura evaluaron las narraciones."},
+      {"id": "6", "label": "Muestra de 176 estudiantes", "color": "#2a5a75", "role": "Método", "descripcion": "176 universitarios de Magisterio en Educación Infantil y Primaria de la Universidad de Oviedo: 94 mujeres (53,5%) y 82 hombres (46,5%); el 83,9% tiene entre 18 y 20 años. Procedimiento intencional por conveniencia y accesibilidad (Etikan et al., 2016)."},
+      {"id": "7", "label": "Cuestionario COMP-NDCDD", "color": "#9b82c3", "role": "Método", "descripcion": "Instrumento de 16 ítems en cuatro dimensiones con cuatro indicadores cada una (p. ej. narrativa: espacio, personajes, tiempo y trama, estructura) con escala Likert de 1 a 5, elaborado desde Torrance (1990), Røkenes y Krumsvik (2014) y Orellana et al. (2022); alfa de Cronbach .804, KMO .765 y esfericidad de Bartlett χ²=282,876 (p=.001)."},
+      {"id": "8", "label": "ANOVA y regresión lineal", "color": "#5b9eaa", "role": "Método", "descripcion": "Análisis con SPSS 27: descriptivos, matriz de correlaciones, ANOVA univariados por género y regresión lineal múltiple con comprobación de independencia de errores (Durbin-Watson 1,931) y no colinealidad. El tamaño del efecto se valoró con la eta parcial al cuadrado (Cohen, 1988)."},
+      {"id": "9", "label": "Logro medio en cuatro competencias", "color": "#88b04b", "role": "Resultados", "descripcion": "Las medias se sitúan en el nivel intermedio (CN 3,16; CDD 3,07; CC 3,05; CD 3,00), destacando la competencia narrativa, en la que el 18,9% alcanzó un nivel alto y el 16% un nivel muy alto."},
+      {"id": "10", "label": "Correlación entre competencias", "color": "#f4d068", "role": "Resultados", "descripcion": "Las cuatro competencias correlacionan positiva y significativamente entre sí, con valores de Pearson entre .515 y .671, y asimetría y curtosis dentro de los límites de distribución normal (-2 a +2; George y Mallery, 2010)."},
+      {"id": "11", "label": "Hombres puntúan más narrativa y digital", "color": "#e76f51", "role": "Resultados", "descripcion": "El ANOVA halló diferencias significativas favorables a los hombres en la competencia narrativa (mujeres M=2,90 frente a hombres M=3,49; F=7,360, p=.008, ηp²=.066) y en la digital (2,80 frente a 3,26; p=.033, ηp²=.043), ambas con tamaño del efecto medio."},
+      {"id": "12", "label": "Sin brecha de género creativa-didáctica", "color": "#2a9d8f", "role": "Resultados", "descripcion": "No se encontraron diferencias significativas entre hombres y mujeres en las competencias creativa y didáctica, y la competencia creativa no mostró peso en la predicción de la narrativa (t=1,683, p=.095)."},
+      {"id": "13", "label": "Lo digital predice lo narrativo", "color": "#c73e1d", "role": "Resultados", "descripcion": "El modelo de regresión fue significativo (F(3,102)=24,203; p=.001) y explicó el 41,6% de la varianza: las competencias digital (B=.334) y didáctica (B=.250) contribuyen positivamente a predecir la narrativa, con mayor peso de la primera."},
+      {"id": "14", "label": "Debate por el enfoque de género", "color": "#f4a261", "role": "Discusión", "descripcion": "Los resultados se contrastan con estudios de mayor capacidad y actitud comunicativa femenina (Prieto y San-Martín, 2002; Brozo et al., 2014; Artola-González et al., 2017) y de mayor competencia digital masculina (Pérez-Escoda et al., 2021; Fernández-Sánchez y Silva-Quiroz, 2022), lo que exige acciones formativas con enfoque de género no estereotipadas."},
+      {"id": "15", "label": "Herramienta eficaz de competencias", "color": "#88b04b", "role": "Conclusiones", "descripcion": "Las narrativas gamificadas se muestran una herramienta efectiva para desarrollar en los futuros docentes las competencias digital, creativa, didáctica y narrativa, aunque conviene seguir explorando su potencial y limitaciones en los procesos de enseñanza-aprendizaje."},
+      {"id": "16", "label": "Limitaciones: muestra universitaria", "color": "#c73e1d", "role": "Limitaciones", "descripcion": "El estudio se centró en universitarios, de modo que se desconoce si los resultados extrapolan a otros niveles educativos, y es posible que el tamaño de la muestra influyera; se requieren muestras de mayor tamaño para confirmar las conclusiones."}
     ],
     "aristas": [
-      {
-        "from": "1",
-        "to": "2",
-        "label": "se fundamenta en la"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "integra de forma natural la"
-      },
-      {
-        "from": "3",
-        "to": "4",
-        "label": "consigue con éxito la"
-      },
-      {
-        "from": "4",
-        "to": "9",
-        "label": "desmantela el miedo al"
-      },
-      {
-        "from": "1",
-        "to": "5",
-        "label": "dispara exponencialmente la"
-      },
-      {
-        "from": "5",
-        "to": "6",
-        "label": "moviliza en los alumnos la"
-      },
-      {
-        "from": "1",
-        "to": "7",
-        "label": "exige y fortalece el"
-      },
-      {
-        "from": "6",
-        "to": "8",
-        "label": "se traduce en una notable"
-      },
-      {
-        "from": "1",
-        "to": "10",
-        "label": "garantiza una futura"
-      },
-      {
-        "from": "10",
-        "to": "7",
-        "label": "reproduce en las escuelas el"
-      }
+      {"from": "1", "to": "2", "label": "converge con la"},
+      {"from": "1", "to": "4", "label": "sustenta el"},
+      {"from": "2", "to": "4", "label": "contextualiza el"},
+      {"from": "4", "to": "3", "label": "se apoya en el"},
+      {"from": "3", "to": "5", "label": "se operativa en las"},
+      {"from": "5", "to": "6", "label": "se ejecutó con la"},
+      {"from": "5", "to": "7", "label": "se valoraron con el"},
+      {"from": "7", "to": "8", "label": "sus datos se tratan con"},
+      {"from": "8", "to": "9", "label": "el análisis describe un"},
+      {"from": "9", "to": "10", "label": "se complementa con la"},
+      {"from": "10", "to": "13", "label": "anticipa la"},
+      {"from": "8", "to": "11", "label": "detecta"},
+      {"from": "8", "to": "12", "label": "no confirma"},
+      {"from": "11", "to": "14", "label": "suscita el"},
+      {"from": "12", "to": "14", "label": "matiza el"},
+      {"from": "13", "to": "15", "label": "respalda la"},
+      {"from": "14", "to": "15", "label": "enriquece la"},
+      {"from": "15", "to": "16", "label": "se acota por las"}
     ]
   }
 }

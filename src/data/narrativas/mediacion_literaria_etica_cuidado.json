@@ -1,0 +1,434 @@
+{
+  "id": "mediacion_literaria_etica_cuidado",
+  "metadata": {
+    "title": "Mediación literaria como ética de cuidado en contextos adversos",
+    "authors": "Soledad Véliz, Macarena García-González y Evelyn Arizpe",
+    "year": "2022",
+    "journal": "Ocnos 21(1)",
+    "doi": "10.18239/ocnos_2022.21.1.2714",
+    "gancho": "¿Qué ocurre cuando la mediación lectora abandona las aulas y entra a hospitales, albergues de migrantes y campamentos?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#2a5a75",
+    "bg": "from-rose-900/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/mediacion-cuidado/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-veliz/200/200",
+      "name": "Dra. Soledad Véliz",
+      "role": "Investigadora en Literatura y Mediación Social, Pontificia Universidad Católica de Chile"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Soledad Véliz, investigadora en mediación cultural y justicia afectiva en América Latina",
+      "gancho": "En un hospital o en un albergue fronterizo, nadie necesita una prueba de comprensión lectora. La literatura allí no busca formar 'buenos lectores', sino sostener la vida que duele.",
+      "contexto": "Frente a las visiones escolarizadas que reducen la mediación lectora a la adquisición de competencias instrumentales, este estudio examina el trabajo de mediadoras en espacios no convencionales de Chile y México. Articulando la pedagogía crítica de Paulo Freire con la ética del cuidado feminista de Joan Tronto, la investigación demuestra cómo el libro se transforma en un artefacto de acogida, escucha y resistencia política comunitaria.",
+      "deepDives": [
+        {
+          "id": "vel-apertura-1",
+          "triggerLabel": "Las cuatro fases del cuidado de Joan Tronto",
+          "type": "theory",
+          "content": "Joan Tronto (1993) concibe el cuidado como un acto ético-político integrado en cuatro dimensiones: caring about (atención a la necesidad), caring for (asumir responsabilidad), caregiving (trabajo material competente) y care receiving (evaluación sensible de la respuesta del otro)."
+        },
+        {
+          "id": "vel-apertura-2",
+          "triggerLabel": "La crítica a la etiqueta 'vulnerabilidad'",
+          "type": "theory",
+          "content": "Apoyadas en Alyson Cole y Judith Butler, las autoras alertan de que rotular a las comunidades como 'vulnerables' o 'precarias' puede derivar en un paternalismo desmovilizador que oculta las violencias estructurales del Estado."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Las políticas públicas de fomento lector suelen medir el éxito mediante indicadores cuantitativos de lectura y decodificación. Cuando las mediadoras intervienen en entornos de violencia, enfermedad o migración forzada, estas pautas estandarizadas colapsan, exigiendo una praxis orientada a la contención emocional y al amparo mutuo.",
+      "porQueImporta": "Reconocer la mediación como práctica de cuidado permite dignificar una labor históricamente feminizada, precarizada y no remunerada, situándola como un pilar fundamental de la reconstrucción del tejido social latinoamericano.",
+      "dataPoints": [
+        "Muestra cualitativa de 20 entrevistas en profundidad a mediadoras en activo (10 en Chile y 10 en México).",
+        "Espacios de intervención: campamentos, hospitales, centros comunitarios, albergues y hogares de acogida de migrantes, población LGBTQI+ e indígena.",
+        "Experiencia en México vinculada al programa federal 'Leer con migrantes' (2016-2017) en zonas de alto tránsito fronterizo.",
+        "La lectura como necesidad instrumental casi nunca fue demandada por los participantes; la urgencia fue emocional y relacional.",
+        "Tensión metodológica: las mediadoras rechazaron de forma recurrente las guías rígidas de estrategias en favor de la escucha situada y la atención al contexto.",
+        "Trabajo precarizado: en México, las mediadoras entrevistadas ejercían su labor sin remuneración alguna."
+      ],
+      "glossary": [
+        {
+          "term": "Ética del cuidado",
+          "definition": "Corriente filosófica feminista que define el cuidado como la actividad colectiva orientada a sostener, reparar y continuar el mundo común."
+        },
+        {
+          "term": "Conocimiento situado",
+          "definition": "Epistemología que afirma que todo saber legítimo emerge de las condiciones materiales, corporales e históricas de los sujetos."
+        },
+        {
+          "term": "Responsividad (Care receiving)",
+          "definition": "Dimensión ética que evalúa la adecuación del cuidado entregado a partir de la retroalimentación y la voz del sujeto acompañado."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "vel-conflicto-1",
+          "triggerLabel": "Paulo Freire en la mediación no formal",
+          "type": "theory",
+          "content": "Freire concibe el acto de leer no como una memorización bancaria de letras, sino como una 'relectura del mundo' donde el sujeto oprimido recupera su palabra y su capacidad de nombrar la realidad."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Análisis temático guiado por la teoría del cuidado",
+      "narrativa": "El equipo aplicó un diseño cualitativo interpretativo transnacional riguroso:",
+      "detalles": [
+        {
+          "label": "1. Muestreo intencional en dos países",
+          "value": "20 entrevistas semiestructuradas de 45 minutos (cara a cara en la Región Metropolitana de Chile; remotas en México por dispersión territorial)."
+        },
+        {
+          "label": "2. Codificación deductiva con marco de Tronto",
+          "value": "Análisis temático (Braun y Clarke) tomando párrafos completos como unidad de registro, mapeando evidencias hacia las cuatro categorías del cuidado."
+        },
+        {
+          "label": "3. Exploración de la performatividad",
+          "value": "Indagación en las corporalidades, afectos, negociaciones de poder y límites éticos de la labor de mediación fuera de las instituciones formales."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Del fomento escolar a la hospitalidad de la palabra",
+      "narrativa": "Las voces de las mediadoras revelaron una concepción radicalmente transformadora de su oficio:",
+      "hallazgos": [
+        {
+          "label": "Caring about (Notar la necesidad): Lo urgente no es la alfabetización sino el duelo, el miedo o la soledad; la literatura abre espacios seguros para hablar de lo innombrable.",
+          "value": ""
+        },
+        {
+          "label": "Caring for (Asumir responsabilidad): La mediadora reconoce sus propios privilegios de clase y educación, estableciendo límites éticos para no caer en el asistencialismo mesiánico.",
+          "value": ""
+        },
+        {
+          "label": "Caregiving (El trabajo de cuidar): El libro funciona como un 'objeto transicional' que convoca el juego, el silencio respetuoso, el llanto y la risa compartida.",
+          "value": ""
+        },
+        {
+          "label": "Care receiving (Responsividad mutua): La reciprocidad es horizontal; las mediadoras declaran ser transformadas vitalmente por la fortaleza de las comunidades acompañadas.",
+          "value": ""
+        }
+      ],
+      "reflexion": "La mediación en contextos difíciles no enseña a leer libros: enseña que nuestras historias importan y merecen ser escuchadas con ternura.",
+      "deepDives": [
+        {
+          "id": "vel-revelacion-1",
+          "triggerLabel": "El rechazo a los manuales de fomento",
+          "type": "data",
+          "content": "Una mediadora chilena sentenció: 'Las estrategias tú las bajas en manuales y 100, 200 estrategias, entonces, esa no es la clave de la mediación, no es tener un corpus de 100 estrategias; es cómo la estrategia que escojo es la apropiada para cada público'."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Hacia una política pública de la ternura y la justicia",
+      "narrativa": "Las autoras debaten las implicaciones de articular mediación y cuidado en América Latina:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Conocimiento situado y performatividad del cuidado (De la Bellacasa, Bozalek): Revalorización de los saberes afectivos y situados frente a la razón técnica, entendiendo el cuidado como práctica que se hace, no como criterio fijo."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Pedagogía de la vulnerabilidad (Butler, Tronto): La interdependencia humana universal como base de una nueva ética de la ciudadanía democrática."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Biblioterapia y refugio (Petit, 2009): La lectura como espacio de cobijo psíquico, resignificación y reconstrucción de la subjetividad en tiempos de crisis."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Mediación escolar vs. Mediación como acompañamiento: La primera se orienta a formar lectores competentes; la segunda descentra la autoridad del libro y prioriza la relacionalidad y la contención emocional."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Voluntariado vs. remuneración: En México la labor se ejerce sin remuneración y quienes cobran lo hacen muy poco, revelando la precariedad de un cuidado sostenido mayoritariamente por mujeres."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "La muestra no incluye la perspectiva directa de los usuarios (migrantes, pacientes, reclusos), solo la de las mediadoras."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "La muestra es pequeña y no representativa de la población de mediadoras de cada país, por lo que la investigación no persigue generalización estadística."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las políticas culturales y de lectura Financiar programas de mediación comunitaria en hospitales y albergues garantizando salarios justos y supervisión psicológica profesional."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la formación de mediadores Incorporar formación en primeros auxilios psicológicos, ética del cuidado feminista y escucha activa en los diplomados de mediación."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la investigación académica Desarrollar estudios etnográficos longitudinales que midan el impacto del acompañamiento literario en la salud mental comunitaria."
+        },
+        {
+          "label": "Tabla",
+          "value": "Dimensión Ética | Elemento Moral | Práctica en Mediación Lectora | Manifestación Empírica Observada\nCaring about | Atención | Reconocer necesidades afectivas | Priorizar la contención del dolor sobre la alfabetización técnica\nCaring for | Responsabilidad | Asumir el compromiso situado | Reconocer privilegios propios y rechazar el asistencialismo vertical\nCaregiving | Competencia | Selección sensible de libros | Usar la ficción como puente para que la comunidad hable de su vida\nCare receiving | Responsividad | Escucha recíproca horizontal | Evaluar el impacto mediante el clima de confianza y afecto generado"
+        }
+      ],
+      "reflexion": "Cuidar a través de los libros es recordar que en medio de la tormenta, la palabra poética es un refugio donde nadie sobra.",
+      "deepDives": [
+        {
+          "id": "vel-marco-1",
+          "triggerLabel": "La biblioteca nómada en albergues",
+          "type": "data",
+          "content": "El protocolo 'La Fuerza de las Palabras' (Cerlalc-Unesco, Schmidt et al., 2018) enmarca estas prácticas de mediación en las directrices de la Unesco para promover una cultura global de resiliencia ante las crisis frecuentes en América Latina."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo redefine la ética del cuidado feminista las prácticas y sentidos de la mediación literaria en contextos adversos?",
+      "conclusion": "Las mediadoras desplazan la enseñanza formal de la lectura en favor de la acogida emocional y la validación de las vivencias del otro. Las cuatro fases de Tronto (atención, responsabilidad, competencia y responsividad) estructuran con precisión la labor comunitaria. Existe un rechazo categórico a los manuales metodológicos estandarizados, priorizando la intuición sensible y el conocimiento situado. La labor de mediación en contextos de crisis recae abrumadoramente en mujeres en condiciones de precariedad o voluntariado no remunerado. Diseñar planes nacionales de lectura que contemplen líneas prioritarias de mediación social en salud, penitenciarías y refugios. Profesionalizar y remunerar dignamente la labor de los mediadores comunitarios que atienden a poblaciones en situación de violencia. Promover selecciones bibliográficas ricas en metáforas y formatos visuales que permitan procesar el trauma sin revictimizar. Crear redes de autocuidado y contención emocional para los equipos de mediación que trabajan en primera línea social. La mediación literaria más hermosa es aquella que no busca que leas un libro, sino que te recuerda que tienes derecho a existir.",
+      "formalRef": "Soledad Véliz, Macarena García-González y Evelyn Arizpe. (2022). Mediación literaria como ética de cuidado en contextos adversos. Ocnos 21(1). https://doi.org/10.18239/ocnos_2022.21.1.2714"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué filósofa política formuló el modelo de las cuatro dimensiones de la ética del cuidado que estructura la investigación?",
+          "options": [
+            "Judith Butler",
+            "Joan Tronto",
+            "Martha Nussbaum",
+            "Hannah Arendt"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué necesidad fue priorizada unánimemente por las mediadoras en contextos adversos por encima del aprendizaje lector formal?",
+          "options": [
+            "Aprobar exámenes de lengua",
+            "La contención socioemocional y la escucha cotidiana",
+            "La velocidad de decodificación fonética",
+            "La memorización de poemas clásicos"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Mediación literaria fuera del aula",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Práctica comunitaria de enlace sociocultural entre la literatura y los sujetos en espacios no escolares desfavorecidos, como hospitales pediátricos, albergues de acogida a migrantes y asentamientos periféricos."
+      },
+      {
+        "id": "2",
+        "label": "Ética del cuidado de Joan Tronto (1993)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Marco filosófico y político feminista de Joan Tronto que articula el cuidado en cuatro dimensiones integradas (caring about, caring for, caregiving y care receiving) con sus correspondientes virtudes morales situadas."
+      },
+      {
+        "id": "3",
+        "label": "Pedagogía crítica situada (Paulo Freire)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Principio político-pedagógico de Paulo Freire que concibe el acto de leer no como memorización bancaria de letras, sino como relectura crítica del mundo y acto dialógico de concientización y transformación colectiva."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Explorar la mediación como cuidado",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Comprender e interpretar cómo se expresa, se despliega y se resignifica la labor de mediación literaria cuando se ejerce como una ética de cuidado en entornos caracterizados por la exclusión y la adversidad social."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Contrastar experiencias Chile-México",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Analizar de forma comparada las vivencias, trayectorias, concepciones y tensiones de mediadoras en activo en dos realidades sociopolíticas de América Latina (Chile y México) marcadas por la desigualdad estructural."
+      },
+      {
+        "id": "6",
+        "label": "Diseño cualitativo interpretativo",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Enfoque cualitativo interpretativo de corte fenomenológico que indaga las narrativas profesionales, los dilemas éticos y las prácticas corporales de acompañamiento mediante entrevistas semiestructuradas en profundidad."
+      },
+      {
+        "id": "7",
+        "label": "Muestra transnacional de 20 mediadoras",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Muestra cualitativa intencional integrada por 20 mediadoras (10 en la Región Metropolitana de Chile y 10 en México vinculadas al programa Leer con Migrantes), con trayectoria acreditada en contextos vulnerados."
+      },
+      {
+        "id": "8",
+        "label": "Análisis temático deductivo con Tronto",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Codificación analítica de transcripciones en párrafos completos agrupados en las cuatro categorías del cuidado de Tronto, explorando la performatividad afectiva y los límites del compromiso en la mediación."
+      },
+      {
+        "id": "9",
+        "label": "Caring about: Emergencia de lo emocional",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Constatación contundente de que la urgencia demandada en estos contextos no es la alfabetización escolar formal, sino la contención psíquica, la elaboración del dolor, el alivio del duelo y la expresión del afecto."
+      },
+      {
+        "id": "10",
+        "label": "Caring for: Límites del privilegio",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Conciencia lúcida de las mediadoras sobre sus propios privilegios de clase y educación, asumiendo una responsabilidad ética que rechaza el paternalismo asistencialista y promueve la agencia de los participantes."
+      },
+      {
+        "id": "11",
+        "label": "Caregiving: Flexibilidad contra manuales",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Rechazo unánime a las guías metodológicas estandarizadas de fomento lector; primacía de la escucha atenta y compasiva, el respeto a los silencios del otro y la adaptación flexible al clima emocional emergente."
+      },
+      {
+        "id": "12",
+        "label": "Care receiving: Reciprocidad comunitaria",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Evaluación del éxito de la mediación a partir del clima de confianza y calidez comunitaria generado; las mediadoras experimentan una transformación subjetiva radical ante la resiliencia de las personas acompañadas."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Crítica a la retórica de vulnerabilidad",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Debate crítico apoyado en Judith Butler y Alyson Cole para evitar que las iniciativas voluntarias de cuidado sirvan para apaciguar el malestar o eximir al Estado de su responsabilidad ante la injusticia sistémica."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Género y precarización laboral",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Denuncia de la histórica división sexual del trabajo que naturaliza el cuidado como una vocación femenina gratuita, exigiendo el reconocimiento profesional, salarial y formativo de las mediadoras en primera línea."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Muestra focalizada no probabilística",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Estudio interpretativo acotado a 20 perfiles que no persigue representatividad estadística nacional ni incorpora directamente las voces testimoniales de las personas migrantes, pacientes o reclusas atendidas."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: La lectura como hospitalidad",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "La mediación en contextos adversos reinventa el valor de la ficción poética, consolidándola no como un examen escolar, sino como un refugio de dignidad, ternura y resistencia humanizadora indispensable."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se interpreta desde"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se fundamenta en"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "orienta formular"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "sitúa territorialmente"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se investiga con"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se aborda mediante"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "conforma la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se codifica con"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "identifica en fase 1"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "revela en fase 2"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "describe en fase 3"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "constata en fase 4"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "interpela críticamente la"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "evidencia el dilema de"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "denuncia el coste de"
+      },
+      {
+        "from": "12",
+        "to": "16",
+        "label": "sustenta el valor de"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "reivindica la"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "se acota por"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "proyecta como meta"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "establece el alcance de"
+      }
+    ]
+  }
+}

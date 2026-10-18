@@ -12,9 +12,9 @@
     "color": "#f4d068",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-400/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-7.png",
+    "image": "/assets/portadas/placer_secundaria.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-7.png",
+      "image": "/assets/portadas/placer_secundaria.jpg",
       "name": "Prof. Edna-Liliana Herrera-Lozano",
       "role": "Investigadora en Didáctica de la Lectura y Pedagogía Cultural, Universidad Antonio Nariño (Colombia)"
     }
@@ -84,12 +84,30 @@
       "titulo": "Ruta metodológica: Rigor PRISMA, QuADS y cribado sistemático",
       "narrativa": "Las investigadoras aplicaron el protocolo PRISMA 2020 en 6 bases de datos científicas de primer nivel (Scopus, Web of Science, ERIC, Dialnet, SciELO y EBSCO) utilizando ecuaciones booleanas avanzadas sobre el período 2020-2025. Tras identificar 237 registros, aplicaron filtros de elegibilidad excluyendo revisiones teóricas, estudios en primaria o publicaciones sin acceso abierto, llegando a 23 artículos que fueron sometidos a evaluación de calidad QuADS y análisis de sesgo ROBIS.",
       "detalles": [
-        { "label": "Bases de Datos", "value": "Scopus, Web of Science, ERIC, Dialnet, SciELO y EBSCO (búsqueda realizada en abril de 2025)." },
-        { "label": "Criterio Temporal", "value": "2020 a 2025 (impacto post-pandemia y vacíos en revisiones previas)." },
-        { "label": "Evaluación QuADS", "value": "13 criterios con escala 0-3; se descartó el estudio de Milne et al. (2023) por baja calidad (33.3%)." },
-        { "label": "Evaluación ROBIS", "value": "20 estudios con riesgo de sesgo bajo y 2 con riesgo moderado (Reads, 2023; Smith y Nichols, 2023)." },
-        { "label": "Diseños Metodológicos", "value": "50% cualitativos (11 estudios), 36% cuantitativos (8 estudios) y 14% mixtos (3 estudios)." },
-        { "label": "Técnicas de Recolección", "value": "Predominio de encuestas y cuestionarios (33%), entrevistas (25%), análisis documental y BookTok (18%)." }
+        {
+          "label": "Bases de Datos",
+          "value": "Scopus, Web of Science, ERIC, Dialnet, SciELO y EBSCO (búsqueda realizada en abril de 2025)."
+        },
+        {
+          "label": "Criterio Temporal",
+          "value": "2020 a 2025 (impacto post-pandemia y vacíos en revisiones previas)."
+        },
+        {
+          "label": "Evaluación QuADS",
+          "value": "13 criterios con escala 0-3; se descartó el estudio de Milne et al. (2023) por baja calidad (33.3%)."
+        },
+        {
+          "label": "Evaluación ROBIS",
+          "value": "20 estudios con riesgo de sesgo bajo y 2 con riesgo moderado (Reads, 2023; Smith y Nichols, 2023)."
+        },
+        {
+          "label": "Diseños Metodológicos",
+          "value": "50% cualitativos (11 estudios), 36% cuantitativos (8 estudios) y 14% mixtos (3 estudios)."
+        },
+        {
+          "label": "Técnicas de Recolección",
+          "value": "Predominio de encuestas y cuestionarios (33%), entrevistas (25%), análisis documental y BookTok (18%)."
+        }
       ],
       "limitaciones": [
         "Predominio de estudios descriptivos y correlacionales que reflejan percepciones subjetivas mediante autoinformes.",
@@ -99,8 +117,8 @@
       "reflexion": "La revisión desnuda una ironía epistemológica: aunque la lectura por placer es una experiencia íntima y emocional, la academia sigue midiéndola mayoritariamente con encuestas estandarizadas y cuestionarios masivos."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: Las 5 dimensiones del placer lector y los 4 catalizadores",
-      "narrativa": "El análisis vertical y cruzado de los 22 estudios permitió sintetizar los beneficios de la lectura por placer en cinco grandes dimensiones y cuatro factores contextuales determinantes:",
+      "titulo": "Hallazgos empíricos: Las 5 dimensiones del placer lector y los 5 catalizadores",
+      "narrativa": "El análisis vertical y cruzado de los 22 estudios permitió sintetizar los beneficios de la lectura por placer en cinco grandes dimensiones y cinco factores contextuales determinantes:",
       "hallazgos": [
         {
           "label": "1. Dimensión Cognitiva y Académica",
@@ -124,9 +142,9 @@
         }
       ],
       "dataPoints": [
-        "Los 4 catalizadores clave: La biblioteca escolar (espacio de encuentro y no de silencio punitivo), la mediación docente empática, las políticas institucionales de tiempo libre para leer y los entornos digitales.",
-        "El abandono de la biblioteca escolar: en la mitad de los países analizados, las bibliotecas escolares carecen de presupuesto o de personal bibliotecario especializado.",
-        "El efecto secundario de la prescripción: obligar a leer libros canónicos descontextualizados destruye el interés del 70% de los adolescentes en secundaria."
+        "Los 5 catalizadores contextuales: la biblioteca escolar (espacio de encuentro y no de silencio punitivo), las redes sociales y BookTok, las políticas y programas institucionales, la mediación docente empática y los hábitos familiares.",
+        "La biblioteca escolar es el factor contextual más estudiado (7 estudios), seguida por las redes sociales y BookTok (5), las políticas y programas (4), la mediación docente (3) y los hábitos familiares (3).",
+        "La prescripción obligatoria de lecturas canónicas descontextualizadas genera resistencia y disminuye la motivación intrínseca (Cremin et al., 2008)."
       ],
       "reflexion": "El problema no es que los adolescentes no quieran leer; el problema es que la escuela insiste en evaluar lo que deberían disfrutar."
     },
@@ -195,7 +213,7 @@
         },
         {
           "type": "open",
-          "q": "El 59% de las investigaciones revisadas señala que la secundaria sufre una caída drástica en el hábito lector debido a lecturas impuestas y evaluadas. Si fueras docente de secundaria, ¿qué política de 'lectura libre en el aula' implementarías y cómo defenderías su valor frente a las exigencias curriculares tradicionales?"
+          "q": "El 59% de las investigaciones revisadas se concentra en dos problemas: la caída del hábito lector y la desvalorización de la biblioteca escolar. Si fueras docente de secundaria, ¿qué política de 'lectura libre en el aula' implementarías y cómo defenderías su valor frente a las exigencias curriculares tradicionales?"
         },
         {
           "type": "open",
@@ -239,31 +257,223 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Ecosistema de la Lectura por Placer en Secundaria",
-    "descripcion": "Dimensiones del placer lector, barreras institucionales, catalizadores pedagógicos y tensiones entre evaluación y disfrute según la revisión sistemática 2020-2025.",
+    "titulo": "Mapa conceptual: Lectura por placer en secundaria (Ocnos 25(2) 2026)",
+    "descripcion": "Recorre la revisión sistemática desde la crítica a la instrumentalización evaluativa de la lectura hasta el protocolo PRISMA 2020 (237 registros cribados a 22 estudios evaluados con QuADS y ROBIS), sus hallazgos sobre problemáticas, metodologías, cinco dimensiones de beneficios y factores contextuales, la discusión teórica, los retos conclusivos y las limitaciones del corpus.",
     "nodos": [
-      { "id": "1", "label": "Lectura por Placer", "color": "#f4d068" },
-      { "id": "2", "label": "Autonomía y Libre Elección", "color": "#2a5a75" },
-      { "id": "3", "label": "Instrumentalización Escolar", "color": "#e76f51" },
-      { "id": "4", "label": "Dimensión Cognitiva y Rendimiento", "color": "#5b9eaa" },
-      { "id": "5", "label": "Dimensión Emocional y Bienestar", "color": "#88b04b" },
-      { "id": "6", "label": "Dimensión Personal y Social", "color": "#9b82c3" },
-      { "id": "7", "label": "Ecosistema Digital (BookTok)", "color": "#e88b8c" },
-      { "id": "8", "label": "Biblioteca Escolar Activa", "color": "#2a9d8f" },
-      { "id": "9", "label": "Mediación Docente No Punitiva", "color": "#264653" },
-      { "id": "10", "label": "Vacío en Intervenciones Prácticas", "color": "#f4a261" }
+      {
+        "id": "1",
+        "label": "Instrumentalización evaluativa de la lectura escolar",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "PISA, PIRLS y LLECE han consolidado la lectura como habilidad medible, relegando disfrute y motivación intrínseca (Tassone, 2025; Dubet, 2010). La obligatoriedad genera resistencia y la eficacia limita la dimensión estética (Cremin et al., 2008; Arizpe y Styles, 2016)."
+      },
+      {
+        "id": "2",
+        "label": "Polisemia del concepto lectura por placer",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La literatura oscila entre elección autónoma, disfrute subjetivo y términos afines como lectura recreativa o voluntaria (Henning y Crow, 2023; McKirdy, 2021). La revisión asume una noción amplia que integra el componente afectivo y el contextual."
+      },
+      {
+        "id": "3",
+        "label": "Objetivo: caracterizar el campo 2020-2025",
+        "color": "#264653",
+        "role": "Objetivo",
+        "descripcion": "Identificar problemáticas, metodologías, beneficios y tendencias mediante cuatro preguntas de investigación, con la motivación empírica de que el 51% de los jóvenes latinoamericanos no incluye la lectura en su ocio (Gonçalves-Da-Silva, 2026)."
+      },
+      {
+        "id": "4",
+        "label": "Protocolo PRISMA en seis bases de datos",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Búsqueda el 4 de abril de 2025 en Scopus, Web of Science, ERIC, Dialnet, SciELO y EBSCO con operadores booleanos sobre reading for pleasure, school y adolescents, en inglés o español y PUBYEAR entre 2020 y 2025, arrojando 237 artículos."
+      },
+      {
+        "id": "5",
+        "label": "Cribado: de 237 a 22 estudios",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Se excluyeron 200 registros por criterios de elegibilidad (p. ej., revisiones, sin acceso libre, no adolescentes) y 14 duplicados, dejando 23 artículos; tras la evaluación de calidad quedó un corpus final de 22 estudios."
+      },
+      {
+        "id": "6",
+        "label": "Evaluación QuADS y riesgo de sesgo ROBIS",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "QuADS (Harrison et al., 2021): 13 ítems en escala 0-3; Milne et al. (2023) alcanzó 33,3% y fue descartado. ROBIS (Whiting et al., 2016): 20 estudios con riesgo bajo y 2 moderados (Reads, 2023; Smith y Nichols, 2023), que se mantuvieron."
+      },
+      {
+        "id": "7",
+        "label": "Matriz de sistematización con doble revisión",
+        "color": "#e76f51",
+        "role": "Método",
+        "descripcion": "Matriz Excel con referencia, país, problema, definiciones, metodología, muestras, beneficios y factores contextuales; extracción por una investigadora y verificación por otra, seguida de análisis horizontal y vertical con síntesis crítica."
+      },
+      {
+        "id": "8",
+        "label": "Hegemonia anglosajona: Australia y EE.UU.",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "La producción creció hasta su pico en 2023; Australia aporta seis estudios y EE.UU. tres, con dos en Suecia, Chile y Singapur. El inglés domina con 18 artículos frente a cuatro en español."
+      },
+      {
+        "id": "9",
+        "label": "Solo una intervención didáctica en el aula",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "Únicamente Ayala-Campoverde y Loyola-Illescas (2025) implementó una intervención concreta para fomentar la lectura por placer; el resto son estudios descriptivos o teóricos, evidenciando la falta de investigaciones aplicadas."
+      },
+      {
+        "id": "10",
+        "label": "Predominio cualitativo y de encuestas",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "50% cualitativos (11 estudios), 36% cuantitativos (8) y 14% mixtos (3). La encuesta es la técnica más empleada (a veces con instrumentos ad hoc); la etnografía móvil y los diarios de lectura aparecen en un solo estudio (Loh, 2024)."
+      },
+      {
+        "id": "11",
+        "label": "59% de estudios en dos problemáticas",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Ocho estudios se justifican en la disminución de los hábitos lectores y otros cinco en la desvalorización de la biblioteca escolar (59% del corpus); el 41% restante (10 estudios) aborda otras cinco problemáticas."
+      },
+      {
+        "id": "12",
+        "label": "Beneficios en cinco dimensiones",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Cognitiva y académica (10 estudios), motivacional (7), personal y social (2), emocional (2) y cultural (1). Rivera-Jurado y Romero-Oliva (2020) y Bezek et al. (2023) muestran correlaciones positivas con el rendimiento; los beneficios socioemocionales siguen poco explorados."
+      },
+      {
+        "id": "13",
+        "label": "Cinco factores contextuales del placer lector",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "Biblioteca escolar (7 estudios), redes sociales y BookTok (5), políticas y programas (4), mediación docente (3) y hábitos familiares (3). Biblioteca y cultura digital reúnen el 55% de los hallazgos contextuales."
+      },
+      {
+        "id": "14",
+        "label": "Campo anclado en déficits (Bourdieu)",
+        "color": "#c73e1d",
+        "role": "Discusión",
+        "descripcion": "La atención a carencias se lee con el capital cultural de Bourdieu (1986): la escuela reproduce brechas en vez de compensarlas. El uso masivo de encuestas, aun en diseños cualitativos, contradice el estudio de la lectura como práctica social (Street, 1984; Barton y Hamilton, 2000)."
+      },
+      {
+        "id": "15",
+        "label": "Cuatro retos para la agenda investigadora",
+        "color": "#f4a261",
+        "role": "Conclusiones",
+        "descripcion": "Desplazar el foco de la carencia hacia prácticas habilitadoras; diversificar metodologías; ampliar los beneficios al desarrollo humano integral (CASEL, 2020; Deci y Ryan, 2000; Jenkins, 2006) y equilibrar condiciones externas con la experiencia subjetiva del lector."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones: secundaria, inglés y español",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "Los resultados no son generalizables a entornos no formales, a otras etapas educativas ni a poblaciones con discapacidad; predominan los contextos occidentales y quedaron fuera las producciones en otros idiomas."
+      }
     ],
     "aristas": [
-      { "from": "1", "to": "2", "label": "se fundamenta en" },
-      { "from": "3", "to": "1", "label": "bloquea y desmotiva" },
-      { "from": "1", "to": "4", "label": "potencia indirectamente" },
-      { "from": "1", "to": "5", "label": "brinda descompresión y" },
-      { "from": "1", "to": "6", "label": "construye identidad en" },
-      { "from": "7", "to": "1", "label": "dinamiza en comunidades" },
-      { "from": "8", "to": "1", "label": "actúa como refugio para" },
-      { "from": "9", "to": "2", "label": "garantiza y acompaña" },
-      { "from": "10", "to": "9", "label": "exige desarrollo de" },
-      { "from": "3", "to": "10", "label": "ha perpetuado el" }
+      {
+        "from": "1",
+        "to": "3",
+        "label": "hace urgente el"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "problemiza el"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "se ejecuta con el"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "redujo sus registros hasta el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se somete a la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "depura el corpus para la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "documenta una"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "destapa el"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "describe el"
+      },
+      {
+        "from": "7",
+        "to": "11",
+        "label": "agrupa las"
+      },
+      {
+        "from": "7",
+        "to": "12",
+        "label": "sintetiza los"
+      },
+      {
+        "from": "7",
+        "to": "13",
+        "label": "cataloga los"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "ancla el campo en"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "evidencia la"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "se interpreta desde el"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "desemboca en los"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "amplía los"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "orienta los"
+      },
+      {
+        "from": "16",
+        "to": "8",
+        "label": "acota la generalización de la"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "limita el alcance de los"
+      }
     ]
   }
 }

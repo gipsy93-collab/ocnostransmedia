@@ -2,11 +2,11 @@
   "id": "profesores_expertos_clasicos_eso",
   "metadata": {
     "title": "Creencias, representaciones y saberes de profesores expertos sobre la lectura de los clásicos en ESO",
-    "authors": "Lucía Hernández-Heras y Rosa Tabernero-Sala",
+    "authors": "Lucía Hernández-Heras, Rosa Tabernero-Sala y Diana Muela-Bermejo",
     "year": "2024",
     "journal": "Ocnos 23(2)",
     "doi": "10.18239/ocnos_2024.23.2.445",
-    "gancho": "¿Cómo consiguen los mejores profesores de instituto que adolescentes de 14 años se enamoren del Quijote o de la Celestina?",
+    "gancho": "¿Cómo consiguen seis profesores expertos que adolescentes saturados de estímulos se enamoren de los clásicos?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#264653",
@@ -23,30 +23,30 @@
     "apertura": {
       "personaje": "Dra. Lucía Hernández-Heras, investigadora en mediación docente de clásicos literarios en Secundaria",
       "gancho": "¿Es la lectura obligatoria de los clásicos una tortura garantizada o el mayor regalo intelectual que puede hacer un profesor?",
-      "contexto": "El tratamiento de los clásicos literarios en la Educación Secundaria Obligatoria (ESO) suscita una batalla pedagógica permanente: ¿debemos mantener las lecturas canónicas o sustituirlas por novelas juveniles comerciales? En este riguroso estudio de casos múltiples, las investigadoras de la Universidad de Zaragoza exploraron las creencias, saberes prácticos y estrategias didácticas de docentes de Secundaria reconocidos como 'profesores expertos' por sus trayectorias de éxito lector.",
+      "contexto": "El tratamiento de los clásicos literarios en la Educación Secundaria Obligatoria (ESO) suscita una batalla pedagógica permanente: ¿debemos mantener las lecturas canónicas o sustituirlas por novelas juveniles comerciales? En este estudio de caso cualitativo, las investigadoras de la Universidad de Zaragoza exploraron las creencias, representaciones y saberes de seis docentes de Secundaria considerados 'profesores expertos' por su formación filológica, sus más de diez años de experiencia y su tesis doctoral.",
       "deepDives": [
         {
           "id": "cla-apertura-1",
-          "triggerLabel": "El concepto de 'profesor experto' (Shulman)",
+          "triggerLabel": "El modelo CRS (Creencias, Representaciones y Saberes)",
           "type": "theory",
-          "content": "Conocimiento Didáctico del Contenido (PCK): no basta con saber literatura, hay que saber cómo transformar un texto del siglo XVII en una experiencia viva para un adolescente del siglo XXI."
+          "content": "Modelo del grupo PLURAL de la Universidad de Barcelona (Cambra y Palou, 2007): la práctica docente se configura entre autocreencias (el yo) y heterocreencias (el alumnado y el contexto)."
         },
         {
           "id": "cla-apertura-2",
-          "triggerLabel": "Estudio de casos en Aragón",
+          "triggerLabel": "Estudio de caso con seis docentes",
           "type": "data",
-          "content": "Entrevistas en profundidad, observación de clases y análisis de programaciones de docentes con reconocimientos pedagógicos oficiales."
+          "content": "Entrevistas semiestructuradas grabadas y transcritas, y un grupo de discusión por Google Meet, codificados con el software Nvivo."
         }
       ]
     },
     "conflicto": {
-      "problema": "La enseñanza tradicional de los clásicos como historia memorística de fechas, métricas y biografías genera rechazo visceral y vacía las bibliotecas escolares.",
+      "problema": "La enseñanza historicista de los clásicos y la noción de obligatoriedad que caracteriza su tratamiento escolar provocan que los adolescentes se decanten por los best-sellers y rechacen estas obras de antemano.",
       "porQueImporta": "Si la escuela pública renuncia a los clásicos, priva a los jóvenes de las obras que contienen los grandes dilemas éticos y existenciales de la humanidad.",
       "dataPoints": [
-        "Estudio de casos múltiples con profesorado de acreditada excelencia didáctica.",
-        "Rechazo unánime a la lectura literal descontextualizada y al examen tradicional de control.",
+        "Estudio de caso intrínseco con seis docentes expertos: filólogos, con más de diez años de experiencia y tesis doctoral.",
+        "Los controles de lectura dividen al grupo: dos docentes los rechazan por rígidos y otros los defienden como el camino más corto para que el alumnado lea.",
         "Defensa del clásico como 'texto vivo' que interpela a los problemas actuales de los jóvenes (amor, celos, ambición, injusticia).",
-        "Uso estratégico de adaptaciones rigurosas en 1.º y 2.º de ESO como pasarela hacia los textos originales en cursos superiores."
+        "Las obras se presentan siempre en versión adaptada: prima conocer los motivos y la historia del clásico frente al disfrute del lenguaje original."
       ],
       "glossary": [
         {
@@ -56,16 +56,16 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Estudio de casos cualitativo y triangulación hermenéutica",
-      "narrativa": "Las autoras realizaron entrevistas semiestructuradas, grabaron debates de aula y analizaron las guías de lectura diseñadas por los docentes expertos.",
+      "titulo": "Ruta metodológica: Estudio de caso cualitativo y análisis hermenéutico-interpretativo",
+      "narrativa": "Las autoras realizaron entrevistas semiestructuradas grabadas y transcritas íntegramente, un grupo de discusión por Google Meet y una codificación con Nvivo 12 desde un prisma hermenéutico-interpretativo.",
       "detalles": [
         {
           "label": "Participantes",
-          "value": "Docentes de Secundaria seleccionados por criterios de prestigio pedagógico."
+          "value": "Seis profesores de Lengua y Literatura graduados en Filología Hispánica, con más de 10 años de experiencia y tesis doctoral: Ignacio, Rodrigo, Marta, Beatriz, Teresa y Laura."
         },
         {
           "label": "Obras Trabajadas",
-          "value": "El Quijote, La Celestina, El Lazarillo, tragedias de Lorca y poesía del Siglo de Oro."
+          "value": "No se fija un corpus cerrado: destacan la Generación del 27 y Bécquer por su capacidad de conmover, e incluso la tesis sobre libros de caballerías de una docente."
         }
       ],
       "limitaciones": [
@@ -78,47 +78,47 @@
       "narrativa": "El análisis desveló la fórmula pedagógica que hace vibrar a los clásicos:",
       "hallazgos": [
         {
-          "label": "1. El Diálogo Antes del Examen",
-          "value": "Los expertos sustituyen las fichas de comprobación por tertulias dialógicas donde los alumnos discuten las decisiones morales de los personajes."
+          "label": "1. Leer en clase",
+          "value": "Todos coinciden en la trascendencia de leer en clase: esta práctica fomenta una lectura comunitaria que incentiva la participación y un mayor entendimiento del texto."
         },
         {
-          "label": "2. La Hibridación Transmedia",
-          "value": "Conectar el monólogo de Segismundo con la película Matrix o La Celestina con las relaciones tóxicas contemporáneas genera un enganche instantáneo."
+          "label": "2. La reformulación en lenguajes actuales",
+          "value": "Frente al anacronismo de la versión original, los docentes ven en los cómics, el cine, los videojuegos, las redes y las series una divulgación de las historias clásicas."
         },
         {
-          "label": "3. Lectura en Voz Alta Compartida",
-          "value": "El profesor no manda leer el clásico a casa a solas: lee en voz alta en clase, modulando la voz y desgranando el significado al vuelo."
+          "label": "3. Conectar el clásico con la vida del alumno",
+          "value": "El docente debe conferir sentido a la lectura y conocer antes los intereses del alumnado para tender el puente hacia la obra."
         }
       ],
       "dataPoints": [
-        "El 100% de los docentes expertos señaló la lectura oral dramatizada en el aula como su herramienta más eficaz."
+        "Todos los docentes coincidieron en la trascendencia de leer en clase y en que las lecturas obligatorias son la única opción para que el alumnado lea."
       ],
       "reflexion": "Un clásico no es un libro viejo: es un libro que nunca envejecerá si alguien sabe prestarle su propia voz."
     },
     "marco": {
       "titulo": "Discusión: Hacia una ecología de la educación literaria en Secundaria",
-      "narrativa": "Hernández-Heras y Tabernero-Sala sintetizan las claves para la formación docente inicial:",
+      "narrativa": "Hernández-Heras, Tabernero-Sala y Muela-Bermejo discuten el vacío pedagógico de la formación universitaria y la necesidad de una apuesta colectiva:",
       "detalles": [
         {
-          "label": "Enseñar a Mediar, no a Recitar",
-          "value": "El máster de profesorado debe enseñar a dinamizar debates literarios y no solo historia de la lengua."
+          "label": "Formar mediadores, no recitadores",
+          "value": "La licenciatura y el CAP dejaron a los docentes con una sólida formación literaria y pobre en lo pedagógico: la experiencia posterior se construye por ensayo y error."
         }
       ],
       "reflexion": "Quien lee un clásico en la adolescencia acompañado por un maestro sabio gana un amigo para toda la vida."
     },
     "nucleo": {
       "pregunta": "¿Qué saberes didácticos y representaciones caracterizan a los profesores expertos en la enseñanza de los clásicos literarios en la ESO?",
-      "conclusion": "El estudio de casos revela que los docentes expertos no conciben el clásico como un monumento intocable, sino como un artefacto dialógico vivo. Su práctica se fundamenta en la lectura en voz alta en el aula, la transposición transmedia a dilemas juveniles actuales y la sustitución de exámenes punitivos por tertulias literarias. Demuestran que el clásico puede ser una fuente apasionante de sentido para los adolescentes cuando media una docencia apasionada y andamiada.",
-      "formalRef": "Hernández-Heras, L., & Tabernero-Sala, R. (2024). Creencias, representaciones y saberes de profesores expertos sobre la lectura de los clásicos en ESO. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.445"
+      "conclusion": "El estudio de caso revela que la lectura de los clásicos es problemática para los docentes: en la mayoría de los casos existe un contraste entre lo que desean y lo que se sienten obligados a hacer, por la oposición entre sus autocreencias y sus heterocreencias. Apuestan por la lectura en clase, las adaptaciones y la reformulación en lenguajes contemporáneos, y reclaman una decisión colectiva respaldada por todo el sistema educativo.",
+      "formalRef": "Hernández-Heras, L., Tabernero-Sala, R., & Muela-Bermejo, D. (2024). Creencias, representaciones y saberes de profesores expertos sobre la lectura de los clásicos en ESO. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.445"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué práctica didáctica compartieron al 100 % todos los profesores expertos entrevistados como su herramienta más poderosa para enseñar un clásico en la ESO?",
+          "q": "¿Qué práctica consensuaron todos los docentes expertos entrevistados como trascendental para enseñar un clásico en la ESO?",
           "options": [
             "Poner una película y no leer el libro.",
-            "La lectura oral compartida y dramatizada por el profesor en el aula ordinaria para desgranar el sentido.",
+            "La lectura en clase, que fomenta una experiencia comunitaria e incentiva la participación y el entendimiento del texto.",
             "Mandar leer el libro en casa y hacer un examen sorpresa al día siguiente.",
             "Hacer que los alumnos copien el texto a mano."
           ],
@@ -126,10 +126,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Cómo conectan los docentes expertos las obras canónicas del Siglo de Oro o del Renacimiento con los adolescentes del siglo XXI?",
+          "q": "¿Cómo proponen los docentes llevar las obras canónicas a los adolescentes del siglo XXI?",
           "options": [
             "Obligando a los alumnos a vestirse con trajes de época.",
-            "Hibridando la trama clásica con referencias transmedia contemporáneas (cine, música urbana, series) y debatiendo sobre dilemas éticos actuales (celos, apariencias, libertad).",
+            "Apoyando la reformulación de los clásicos en lenguajes contemporáneos: cómics, cine, videojuegos, series y redes sociales.",
             "Traduciendo todo el texto a lenguaje de emojis.",
             "Diciendo a los alumnos que si no leen suspenderán la selectividad."
           ],
@@ -137,10 +137,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué postura adoptan los expertos frente al uso de adaptaciones de los clásicos en los primeros cursos de la ESO?",
+          "q": "¿Qué postura adoptan los expertos frente al uso de adaptaciones de los clásicos?",
           "options": [
             "Las consideran una blasfemia y las prohíben.",
-            "Las utilizan estratégicamente como pasarelas de andamiaje lingüístico para preparar al alumnado hacia las obras originales en cursos superiores.",
+            "Las presentan siempre: aceptan que modifican la primera edición, pero priorizan que el alumnado conozca los motivos y la historia de la obra.",
             "Solo leen adaptaciones en cómic y nunca leen texto escrito.",
             "Obligan a leer exclusivamente en latín antiguo."
           ],
@@ -148,18 +148,18 @@
         },
         {
           "type": "open",
-          "q": "Elige un pasaje de 'El Lazarillo de Tormes' o de 'El Quijote' y explica cómo lo mediarías en una clase de 3.º de ESO mediante una tertulia dialógica conectándolo con un problema social o juvenil de nuestro tiempo (ej. la precariedad o la salud mental)."
+          "q": "Elige un clásico de tu canon escolar y explica cómo lo mediarías en clase conectando su realidad con los intereses de tu alumnado, tal como proponen los docentes del estudio."
         },
         {
           "type": "open",
-          "q": "¿Por qué crees que un examen memorístico de fechas y biografías de autores clásicos es la forma más eficaz de conseguir que un adolescente odie la literatura para siempre?"
+          "q": "¿Por qué crees que la noción de obligatoriedad y el enfoque historicista dificultan que un adolescente disfrute de un clásico, según cuentan los docentes entrevistados?"
         }
       ]
     }
   },
   "tutorTexts": {
     "apertura": {
-      "text": "Bienvenido al aula de los maestros inspiradores. ¿Cómo consiguen que adolescentes de 14 años amen a Cervantes o a Lope?",
+      "text": "Bienvenido al aula de los maestros expertos. ¿Cómo consiguen que sus adolescentes se enamoren de los clásicos?",
       "position": "bottom-right"
     },
     "conflicto": {
@@ -167,11 +167,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Entramos en las clases de docentes de Secundaria con trayectorias reconocidas en Aragón y descubrimos sus secretos.",
+      "text": "Conocemos las voces de seis docentes de Secundaria a través de sus entrevistas y de un grupo de discusión.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡La voz del maestro es el puente! Leer en voz alta en clase y conectar los clásicos con series y dilemas éticos juveniles lo cambia todo.",
+      "text": "¡La mediación es el puente! Leer en clase, con obligatoriedad y adaptaciones, y conectar los clásicos con lenguajes actuales lo cambia todo.",
       "position": "bottom-right"
     },
     "marco": {
@@ -192,111 +192,48 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Profesores Expertos y Didáctica de los Clásicos en Secundaria",
-    "descripcion": "Estudio de casos en ESO: conocimiento didáctico del contenido (PCK), lectura oral dramatizada, tertulias dialógicas y transposición transmedia.",
+    "titulo": "Mapa conceptual: Creencias de profesores expertos sobre los clásicos en ESO (Ocnos 23(2) 2024)",
+    "descripcion": "Estudio de caso cualitativo con seis docentes expertos: del paradigma del pensamiento del profesor y el modelo CRS a las entrevistas y el grupo de discusión, y de ahí a sus prácticas, tensiones entre autocreencias y heterocreencias, y conclusiones sobre la educación literaria.",
     "nodos": [
-      {
-        "id": "1",
-        "label": "Docentes Expertos en Secundaria",
-        "color": "#264653"
-      },
-      {
-        "id": "2",
-        "label": "Clásicos Literarios en ESO",
-        "color": "#2a5a75"
-      },
-      {
-        "id": "3",
-        "label": "Lectura en Voz Alta Compartida (100%)",
-        "color": "#88b04b"
-      },
-      {
-        "id": "4",
-        "label": "Tertulias Literarias Dialógicas",
-        "color": "#2a9d8f"
-      },
-      {
-        "id": "5",
-        "label": "Hibridación Transmedia y Conexión",
-        "color": "#5b9eaa"
-      },
-      {
-        "id": "6",
-        "label": "Adaptaciones como Pasarela",
-        "color": "#f4d068"
-      },
-      {
-        "id": "7",
-        "label": "Rechazo del Examen Memorístico",
-        "color": "#c73e1d"
-      },
-      {
-        "id": "8",
-        "label": "Dilemas Morales Juveniles",
-        "color": "#e76f51"
-      },
-      {
-        "id": "9",
-        "label": "Conocimiento Didáctico (PCK)",
-        "color": "#9b82c3"
-      },
-      {
-        "id": "10",
-        "label": "Comunidad de Lectores en Aula",
-        "color": "#f4a261"
-      }
+      {"id": "1", "label": "Paradigma del pensamiento del profesor", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Enfoque de la cognición docente (Borg, 2003) que estudia las decisiones tomadas desde la cultura de la enseñanza (Richards y Lockhart, 1998). El pensamiento docente se caracteriza por su sincretismo entre referencias personales y contextuales."},
+      {"id": "2", "label": "Autocreencias y heterocreencias", "color": "#88b04b", "role": "Marco teórico", "descripcion": "Términos introducidos por las autoras: las autocreencias se forman en torno al yo (personalidad, formación, experiencia) y las heterocreencias dependen del alumnado y el contexto educativo y normativo. Su choque genera tensiones y vulnerabilidad docente (Kelchtermans, 2009)."},
+      {"id": "3", "label": "Creencias, representaciones y saberes (CRS)", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "Modelo del grupo PLURAL de la Universidad de Barcelona (Cambra y Palou, 2007) tomado como referencia para examinar lo que piensan los profesores. Estructura la codificación de entrevistas y grupo de discusión."},
+      {"id": "4", "label": "Clásicos: valor y barreras", "color": "#264653", "role": "Marco teórico", "descripcion": "Los clásicos son modelo y patrimonio cultural (Sullá, 1998), fuente de placer e identidad (Calvino, 1993; Bloom, 2000). Entre las barreras: distancia temporal y lingüística, obligatoriedad, madurez exigida y competencia del ocio actual (Sotomayor, Cañamares, Ayuso-Collantes)."},
+      {"id": "5", "label": "Objetivo: CRS de profesores expertos", "color": "#e76f51", "role": "Objetivo", "descripcion": "Explorar creencias, representaciones y saberes de docentes de Secundaria sobre la lectura de clásicos, conocer cómo describen el desempeño del alumnado y comprender los procedimientos y factores que inciden en su práctica."},
+      {"id": "6", "label": "Estudio de caso intrínseco", "color": "#2a9d8f", "role": "Método", "descripcion": "Investigación cualitativa enmarcada en el estudio de caso intrínseco de Stake (1994), que hace emerger el conocimiento experiencial (Geertz, 1993). El análisis de las categorías se realizó desde un prisma hermenéutico-interpretativo."},
+      {"id": "7", "label": "Seis docentes expertos", "color": "#f4d068", "role": "Método", "descripcion": "Participaron 6 profesores graduados en Filología Hispánica, con más de 10 años de experiencia y tesis doctoral, identificados con seudónimos: Ignacio, Rodrigo, Marta, Beatriz, Teresa y Laura. El estudio coincidió con la convivencia normativa entre LOMCE y LOMLOE."},
+      {"id": "8", "label": "Entrevistas y grupo de discusión", "color": "#5b9eaa", "role": "Método", "descripcion": "Se realizaron entrevistas semiestructuradas (Kvale, 2013) grabadas y transcritas íntegramente con el código de Calsamiglia y Tusón (1995). Después, un grupo de discusión por Google Meet con cinco de los seis docentes."},
+      {"id": "9", "label": "Sistema categorial con Nvivo", "color": "#2a5a75", "role": "Método", "descripcion": "Tres pre-categorías abiertas —objeto de estudio, alumnado y estrategias docentes— derivaron en macrocategorías emergentes codificadas con Nvivo 12. En las entrevistas, la macrocategoría 'bagaje personal' mostró la mayor saturación."},
+      {"id": "10", "label": "Bagaje personal y estado anímico", "color": "#88b04b", "role": "Resultados", "descripcion": "Los docentes recuerdan una escolarización historicista que les transmitió amor por lo literario, con formación pedagógica escasa y aprendizaje por ensayo y error. Los sentimientos sobre su ejercicio son mayoritariamente negativos, salvo el caso de Ignacio."},
+      {"id": "11", "label": "Lectura en clase y evaluación", "color": "#2a9d8f", "role": "Resultados", "descripcion": "Todos coinciden en la trascendencia de leer en clase, que fomenta una lectura comunitaria, y en usar siempre versiones adaptadas. Las lecturas obligatorias se consideran la única vía; los controles de lectura dividen al grupo entre defensores y contrarios."},
+      {"id": "12", "label": "EvAu y condicionantes contextuales", "color": "#c73e1d", "role": "Resultados", "descripcion": "La autonomía docente se ve limitada por las disposiciones estatales de evaluación: en 2º de Bachillerato el foco lo acaparan las lecturas de la EvAu, con un historicismo que reconocen superficial. Valoraciones dispares sobre la flexibilidad del currículo y papel central de la cultura familiar."},
+      {"id": "13", "label": "Alumnado y diferencia generacional", "color": "#f4a261", "role": "Resultados", "descripcion": "Los profesores definen a sus alumnos por la distancia generacional, los prejuicios de aburrimiento y un complejo de inferioridad que se convierte en orgullo al superar el clásico. La débil comprensión lectora impide acceder a lo implícito, el humor y la ironía."},
+      {"id": "14", "label": "Reformulación en lenguajes actuales", "color": "#f4d068", "role": "Resultados", "descripcion": "En el grupo de discusión, el débil hábito lector y el individualismo posmoderno se contrarrestan con la reformulación: las nuevas tecnologías y manifestaciones artísticas —cómics, cine, videojuegos, series y redes— divulgan las historias clásicas."},
+      {"id": "15", "label": "Tensión entre desear y deber hacer", "color": "#e76f51", "role": "Discusión", "descripcion": "La transposición de los clásicos está marcada por la subordinación de las autocreencias a las heterocreencias, con diferencias individuales: Rodrigo padece más vulnerabilidad e Ignacio apenas. Existe correspondencia negativa entre estado anímico y tensiones."},
+      {"id": "16", "label": "Educación literaria y canon escolar", "color": "#264653", "role": "Conclusiones", "descripcion": "Los expertos abogan por la interpretación desde el horizonte de expectativas (Jauss) y la experiencia de lectura significativa (Rosenblatt), defienden el canon escolar y proponen una reformulación multimodal respaldada por toda la comunidad educativa."}
     ],
     "aristas": [
-      {
-        "from": "1",
-        "to": "2",
-        "label": "transforma la enseñanza de los"
-      },
-      {
-        "from": "1",
-        "to": "9",
-        "label": "despliega en el aula un rico"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "aplica sistemáticamente la"
-      },
-      {
-        "from": "3",
-        "to": "2",
-        "label": "hace comprensible y vivo el"
-      },
-      {
-        "from": "1",
-        "to": "4",
-        "label": "sustituye los exámenes por"
-      },
-      {
-        "from": "4",
-        "to": "7",
-        "label": "desmantela la rutina del"
-      },
-      {
-        "from": "1",
-        "to": "5",
-        "label": "vincula los textos mediante"
-      },
-      {
-        "from": "5",
-        "to": "8",
-        "label": "interpela directamente a los"
-      },
-      {
-        "from": "6",
-        "to": "2",
-        "label": "sirve de andamiaje hacia el"
-      },
-      {
-        "from": "10",
-        "to": "4",
-        "label": "florece gracias a las"
-      }
+      {"from": "1", "to": "5", "label": "fundamenta el"},
+      {"from": "2", "to": "3", "label": "se operacionaliza en el"},
+      {"from": "3", "to": "5", "label": "organiza el"},
+      {"from": "4", "to": "5", "label": "justifica el estudio del"},
+      {"from": "2", "to": "5", "label": "aporta las claves conceptuales del"},
+      {"from": "5", "to": "6", "label": "se materializó en el"},
+      {"from": "6", "to": "7", "label": "se desarrolló con los"},
+      {"from": "7", "to": "8", "label": "generó el corpus de las"},
+      {"from": "8", "to": "9", "label": "fue codificado mediante el"},
+      {"from": "9", "to": "10", "label": "ordenó los hallazgos sobre el"},
+      {"from": "9", "to": "11", "label": "ordenó los hallazgos sobre la"},
+      {"from": "9", "to": "12", "label": "ordenó los hallazgos sobre la"},
+      {"from": "9", "to": "13", "label": "ordenó los hallazgos sobre la"},
+      {"from": "10", "to": "15", "label": "documenta la"},
+      {"from": "12", "to": "15", "label": "radicaliza la"},
+      {"from": "11", "to": "15", "label": "revela la"},
+      {"from": "13", "to": "11", "label": "condiciona la"},
+      {"from": "14", "to": "16", "label": "apunta hacia la"},
+      {"from": "15", "to": "16", "label": "se sintetiza en la"},
+      {"from": "4", "to": "16", "label": "sustenta la defensa del"},
+      {"from": "16", "to": "6", "label": "emerge del"}
     ]
   }
 }

@@ -1,0 +1,376 @@
+{
+  "id": "valor_predictor_velocidad_denominacion_espanol_ninos",
+  "metadata": {
+    "title": "Valor predictor y discriminante de la velocidad de denominación en español: experiencia con niños argentinos",
+    "authors": "Liliana Fonseca, Ivana Corrado, Eleonora Lasala, Laura García-Blanco y Marina Simian",
+    "year": "2019",
+    "journal": "Ocnos 18(2)",
+    "doi": "10.18239/ocnos_2019.18.2.1812",
+    "gancho": "¿Puede predecirse qué niños tendrán dificultades de lectura en primaria midiendo su velocidad para nombrar colores en preescolar?",
+    "duration": "12-15 min",
+    "badge": "Neuropsicología de la Lectura y Detección Precoz",
+    "disciplina": "Psicolingüística y Neuropsicología del Aprendizaje",
+    "dimensiones": [
+      "Velocidad de Denominación RAN/RAS",
+      "Hipótesis del Doble Déficit",
+      "Adaptación Batería Niños Argentinos",
+      "Predicción Longitudinal de la Fluidez"
+    ],
+    "tags": [
+      "velocidad_de_denominacion",
+      "ran_ras",
+      "fluidez_lectora",
+      "dislexia",
+      "conciencia_fonologica",
+      "prediccion_lectora"
+    ],
+    "pistas": [
+      "Adaptación al español rioplatense de la batería RAN/RAS (Wolf y Denckla, 2005) con prueba piloto y baremación de estímulos bisílabos.",
+      "Estudio con 142 niños argentinos de 5 a 8 años (preescolar a 3.º de primaria) con seguimiento longitudinal a un año del grupo inicial.",
+      "La tarea de denominación rápida de colores en preescolar explica el 56,5% de la varianza en el tiempo de lectura de palabras en primer grado.",
+      "Confirmación en ortografía transparente: la velocidad de denominación predice fluidez y automatización, disociada de la comprensión."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "La dislexia del desarrollo afecta hasta al 17% de la población escolar y en el español —un sistema ortográfico transparente— suele camuflarse en una lectura exacta pero exasperantemente lenta que agota los recursos del aprendiz.",
+      "desafio": "Adaptar y normalizar la prueba RAN/RAS al español y comprobar su capacidad predictiva y discriminante para anticipar tempranamente los problemas de fluidez lectora desde el nivel preescolar.",
+      "relevancia": "Proporciona a docentes y psicopedagogos una herramienta de cribado no invasiva, ágil y de bajísimo coste que permite detectar el riesgo lector antes de que el niño empiece formalmente a leer."
+    },
+    "conflicto": {
+      "pregunta": "¿Es la velocidad de denominación automática un predictor más robusto de la lectura en español que la clásica conciencia fonológica?",
+      "posiciones": [
+        "Enfoque fonológico dominante: la conciencia fonémica es el núcleo motor universal de la alfabetización y el único marcador fiable de riesgo disléxico.",
+        "Hipótesis del doble déficit (Wolf y Bowers): la denominación rápida constituye un déficit independiente ligado a la velocidad de procesamiento y sincronía visual-verbal."
+      ],
+      "tension": "La tensión entre la tradición diagnóstica anglosajona centrada en la decodificación y las particularidades del español donde la fluidez temporal es el talón de Aquiles.",
+      "deepDives": [
+        {
+          "id": "ran-conf-1",
+          "triggerLabel": "La adaptación al español rioplatense",
+          "type": "context",
+          "content": "En el piloto se descubrió que los niños llamaban 'cuaderno' al dibujo de un 'libro'; el equipo lo reemplazó por 'casa' y 'estrella' por 'luna' para que todos los estímulos fueran bisílabos regulares sin ambivalencias dialectales."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Adaptación instrumental y seguimiento longitudinal con 142 escolares de Buenos Aires",
+      "narrativa": "El equipo adaptó la batería RAN/RAS de Wolf y Denckla, administró pruebas fonológicas y el Test LEE a 142 alumnos de 5 a 8 años en escuelas de Buenos Aires, y reevaluó longitudinalmente al grupo de preescolar tras cursar el primer año.",
+      "detalles": [
+        {
+          "label": "Población muestral",
+          "value": "142 estudiantes argentinos de nivel socioeconómico medio: 37 de preescolar, 37 de 1.º, 26 de 2.º y 42 de 3.º de primaria."
+        },
+        {
+          "label": "Batería adaptada",
+          "value": "Subpruebas RAN (objetos, colores, números, letras) y RAS (alternancias) en matrices de 50 estímulos (10x5)."
+        },
+        {
+          "label": "Medidas criterio",
+          "value": "Conciencia fonológica de Herrera-Defior y Test LEE (lectura de palabras, pseudopalabras y comprensión de textos)."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "Nombrar colores rápidamente en preescolar demostró ser el predictor más potente de la fluidez lectora un año después, explicando más del 56% del tiempo de lectura de palabras en primer grado.",
+      "datosClave": [
+        {
+          "label": "Poder predictivo de colores",
+          "value": "La prueba de colores en preescolar explicó el 56.5% de la varianza en tiempo de lectura de palabras y el 46.6% en pseudopalabras en 1.º año."
+        },
+        {
+          "label": "Evolución por curso",
+          "value": "El tiempo medio en nombrar objetos descendió significativamente de 60.5 segundos en preescolar a 46.8 segundos en tercer grado."
+        },
+        {
+          "label": "Disociación con comprensión",
+          "value": "La velocidad de denominación no mostró correlación alguna con la comprensión textual, ratificando su selectividad para la fluidez."
+        }
+      ],
+      "implicacion": "Incorporar grillas de denominación de colores en la evaluación inicial de preescolar permite implementar planes de estimulación preventiva antes del fracaso formal."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "Maryanne Wolf y Martha Denckla (2005)",
+          "concepto": "Batería RAN/RAS: evaluación de la velocidad de recuperación de etiquetas léxicas fonológicas ante estímulos visuales continuos."
+        },
+        {
+          "autor": "Patricia Bowers y Maryanne Wolf (1999)",
+          "concepto": "Hipótesis del Doble Déficit: existencia de subtipos disléxicos con déficit fonológico puro, déficit de velocidad puro o déficit combinado severo."
+        },
+        {
+          "autor": "Sylvia Defior-Citoler et al. (2006)",
+          "concepto": "Test LEE: batería estandarizada para evaluar los procesos de lectura y escritura en niños hispanohablantes."
+        }
+      ],
+      "enfoque": "Neuropsicología cognitiva del lenguaje infantil y psicolingüística evolutiva en sistemas ortográficos transparentes.",
+      "sinergia": "La conjunción del diseño longitudinal con la adaptación psicométrica valida la primacía de la velocidad temporal en español."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cuál es el valor predictor y discriminante de la velocidad de denominación rápida sobre la precisión y fluidez lectora en niños argentinos?",
+      "hallazgos": [
+        "Los tiempos de denominación disminuyen progresivamente con la edad escolar en todas las tareas al consolidarse la automatización.",
+        "La tarea de denominación de colores en preescolar emerge como el predictor sobresaliente de la fluidez y velocidad en primer año.",
+        "La conciencia fonémica (identificación de fonema inicial) predice con mayor fuerza la precisión en la lectura de pseudopalabras.",
+        "La velocidad de denominación se asocia a la velocidad de procesamiento léxico pero no impacta de forma directa en la comprensión lectora."
+      ],
+      "conclusion": "La denominación rápida de colores es un marcador neuropsicológico precoz irremplazable en español para predecir la fluidez lectora e instalar intervenciones oportunas."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Qué tarea de denominación en preescolar resultó ser el predictor más potente del tiempo de lectura de palabras un año después?",
+          "opciones": [
+            "La denominación de letras del abecedario en minúscula",
+            "La velocidad de denominación rápida de colores, explicando el 56,5% de la varianza en primer grado",
+            "La denominación de herramientas complejas"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "La tarea de colores en preescolar predijo el 56.5% de la varianza en lectura de palabras, coronándose como el mejor predictor de fluidez."
+        },
+        {
+          "pregunta": "¿Encontraron los investigadores correlación significativa entre la velocidad de denominación y la comprensión de textos?",
+          "opciones": [
+            "Sí, una correlación altísima superior a r=.90 en todos los grados",
+            "No, no aparecieron correlaciones significativas con la comprensión lectora, demostrando su especificidad para la fluidez y automatización",
+            "Solo en niños de preescolar antes de aprender a leer"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "La denominación rápida predice la velocidad y fluidez mecánica, pero no guarda relación directa con la comprensión profunda del texto."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Velocidad de Denominación y Predicción Lectora en Español",
+      "descripcion": "Red analítica que articula la batería RAN/RAS adaptada, el seguimiento longitudinal a un año y los modelos predictivos de fluidez y precisión.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Velocidad de Denominación (RAN)",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Habilidad para nombrar a máxima velocidad estímulos visuales familiares continuos (letras, dígitos, colores, objetos), midiendo la sincronía de procesamiento y acceso léxico fonológico."
+        },
+        {
+          "id": "2",
+          "label": "Ortografía Transparente del Español",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Sistema alfabético regular donde la alta correspondencia grafema-fonema permite decodificar con precisión temprana, desplazando las dificultades lectoras hacia la fluidez y velocidad temporal."
+        },
+        {
+          "id": "3",
+          "label": "Hipótesis del Doble Déficit",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Teoría de Wolf y Bowers que postula que la conciencia fonológica y la denominación rápida son fuentes independientes de disfunción lectora, generando la combinación de ambas los cuadros más graves."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Adaptación y Predicción",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Adaptar la batería RAN/RAS a niños argentinos y evaluar su capacidad predictiva y discriminante sobre la precisión, fluidez y comprensión lectora en una cohorte escolar de 5 a 8 años."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Instrumental y Longitudinal",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Estrategia mixta que articula la adaptación cultural y psicométrica de pruebas con un corte transversal por cursos y el seguimiento longitudinal a un año de los preescolares evaluados."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 142 Escolares Argentinos",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Participación de 142 alumnos (85 niñas y 57 niños) de preescolar a tercer grado en escuelas privadas de Buenos Aires, sin patologías neurológicas y con español como lengua materna."
+        },
+        {
+          "id": "7",
+          "label": "Batería RAN/RAS Adaptada",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Ajuste de estímulos bisílabos ('casa' por 'libro', 'luna' por 'estrella') y letras mayúsculas en grillas de 50 ítems, evaluando tiempo cronometrado y errores cometidos en cada subprueba."
+        },
+        {
+          "id": "8",
+          "label": "Baterías Criterio (LEE y Fonológica)",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Aplicación de tareas fonológicas de Herrera-Defior y del Test LEE para medir decodificación de palabras, lectura de pseudopalabras pareadas y comprensión de tres textos estandarizados."
+        },
+        {
+          "id": "9",
+          "label": "Descenso Temporal por Escolarización",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Reducción significativa del tiempo de ejecución en todas las grillas con el avance escolar (objetos pasa de 60.5s a 46.8s), estableciéndose el orden jerárquico letras-números-objetos-colores."
+        },
+        {
+          "id": "10",
+          "label": "Predicción de Fluidez por Colores (56%)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "La tarea de denominación de colores en preescolar explicó el 56.5% de la varianza del tiempo de lectura de palabras y el 46.6% en pseudopalabras en primer grado en la regresión múltiple."
+        },
+        {
+          "id": "11",
+          "label": "Aporte Fonológico a la Precisión",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "La identificación de fonema inicial explicó el 28.3% de la precisión en pseudopalabras, elevándose al 43.2% al combinarse con colores, demostrando complementariedad según el doble déficit."
+        },
+        {
+          "id": "12",
+          "label": "Disociación con la Comprensión",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Ausencia de correlaciones significativas entre las medidas RAN/RAS y los puntajes de comprensión textual, ratificando que la velocidad de denominación es específica de los procesos de fluidez."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Marcador Prelector Crucial",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Dado que el currículo argentino no introduce letras formalmente en preescolar, las tareas no alfanuméricas (colores y objetos) constituyen el único indicador objetivo disponible de riesgo lector."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Cribado e Intervención Precoz",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "La batería adaptada RAN/RAS es un instrumento eficaz y predictivo que debe incorporarse en los exámenes preventivos de educación infantil para mitigar la dislexia antes del inicio lector."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Nivel Socioeconómico Medio",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Muestra restringida a colegios privados de clase media urbana en Buenos Aires, aconsejando validar la sensibilidad de los baremos en escuelas públicas de sectores vulnerables o rurales."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Ausencia de Baremos Nacionales",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Inexistencia previa de normas estandarizadas argentinas para contrastar percentiles clínicos individuales, requiriéndose estudios multicéntricos con muestras más amplias para tipificar la prueba."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "constituye objeto de"
+        },
+        {
+          "from": "2",
+          "to": "1",
+          "label": "acentúa relevancia de"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "ofrece modelo teórico a"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se aborda mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se administra en"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "desarrolla versión de"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "es evaluada con"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "demuestra evolución en"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "demuestra capacidad de"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "aporta datos a"
+        },
+        {
+          "from": "7",
+          "to": "12",
+          "label": "revela ausencia de"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "respalda premisa de"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "confirma hipótesis en"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "delimita especificidad en"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "fundamenta utilidad de"
+        },
+        {
+          "from": "10",
+          "to": "14",
+          "label": "aporta evidencia a"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "acota alcance de"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "comparte límites con"
+        },
+        {
+          "from": "3",
+          "to": "11",
+          "label": "se corrobora mediante"
+        },
+        {
+          "from": "1",
+          "to": "10",
+          "label": "valida potencia de"
+        },
+        {
+          "from": "2",
+          "to": "12",
+          "label": "explica disociación en"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Cómo podrías utilizar una sencilla prueba de nombrar colores a toda velocidad en preescolar para identificar niños que necesitarán apoyo lector?",
+      "enfoque": "Crear juegos de nombramiento rápido cronometrado en pequeños grupos para detectar quién vacila en evocar las etiquetas verbales automáticas.",
+      "cierre": "Detectar la dificultad lectora antes de que el niño sufra el tropiezo escolar es el acto pedagógico más preventivo y solidario que existe."
+    }
+  }
+}

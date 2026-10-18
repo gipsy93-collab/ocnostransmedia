@@ -2,7 +2,7 @@
   "id": "pequeneces_tropologia",
   "metadata": {
     "title": "La primera recepción de Pequeñeces: aplicación de una tropología hermenéutica",
-    "authors": "Ignacio-Jesús Serrano-Contreras y Luis-Miguel Rossi-Elizalde",
+    "authors": "Álvaro Ceballos-Viro",
     "year": "2025",
     "journal": "Ocnos 24(2)",
     "doi": "10.18239/Ocnos_2025.24.2.528",
@@ -12,18 +12,18 @@
     "color": "#9b82c3",
     "colorAlt": "#2a5a75",
     "bg": "from-purple-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-13.png",
+    "image": "/assets/portadas/pequeneces_tropologia.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-13.png",
-      "name": "Dr. Ignacio-Jesús Serrano-Contreras",
-      "role": "Investigador en Hermenéutica y Crítica Literaria, Universidad de Sevilla"
+      "name": "Dr. Álvaro Ceballos-Viro",
+      "role": "Investigador en Literatura y Hermenéutica, Université de Liège (Bélgica)"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dr. Ignacio-Jesús Serrano-Contreras, hermeneuta y especialista en sociología de la literatura decimonónica",
+      "personaje": "Dr. Álvaro Ceballos-Viro, hermeneuta y especialista en recepción literaria",
       "gancho": "¿Por qué un jesuita provocó la furia de la aristocracia de la Restauración al retratar sus miserias bajo el disfraz de la ficción?",
-      "contexto": "En 1891, 'Pequeñeces...', del padre Luis Coloma, desató un terremoto cultural. Las clases altas madrileñas se reconocieron en sus personajes corruptos. Este estudio aplica la tropología hermenéutica de Hayden White al corpus de 45 reseñas de la época para desvelar cómo los contemporáneos decodificaron ideológicamente la obra.",
+      "contexto": "En 1891, 'Pequeñeces...', del padre Luis Coloma, desató un terremoto cultural. Las clases altas madrileñas se reconocieron en sus personajes corruptos. Este estudio aplica la tropología hermenéutica de Hayden White al corpus de 43 cartas de lectores publicadas en El Heraldo de Madrid para desvelar cómo los contemporáneos decodificaron ideológicamente la obra.",
       "deepDives": [
         {
           "id": "peq-apertura-1",
@@ -35,7 +35,7 @@
           "id": "peq-apertura-2",
           "triggerLabel": "El fenómeno editorial de 1891",
           "type": "data",
-          "content": "Cuatro ediciones agotadas en semanas y reseñas de Galdós, Pardo Bazán y Clarín."
+          "content": "Cuatro ediciones impresas y una acogida masiva: entre 30.000 y 50.000 ejemplares, con reseñas de Emilia Pardo Bazán y Juan Valera."
         }
       ]
     },
@@ -43,9 +43,9 @@
       "problema": "La crítica analizó 'Pequeñeces' como anécdota moralizante. Faltaba una lectura hermenéutica de su recepción para entender cómo se gestionó el escándalo público.",
       "porQueImporta": "Analizar polémicas del pasado ayuda a entender cómo los medios construyen hoy los debates éticos sobre la ficción.",
       "dataPoints": [
-        "Corpus de 45 reseñas críticas publicadas en 1891.",
-        "Predominio de la sinécdoque en las lecturas liberales (Currita como síntoma del colapso aristocrático).",
-        "Ironía en la prensa conservadora para deslegitimar al autor jesuita."
+        "Corpus de 43 cartas de lectores publicadas en El Heraldo de Madrid (1891).",
+        "Dieciocho de los 43 lectores leyeron la novela como sinécdoque de la aristocracia borbónica.",
+        "Nueve lectores la interpretaron como novela de clave (silepsis)."
       ],
       "glossary": [
         {
@@ -55,38 +55,38 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Análisis tropológico de 45 artículos hemerográficos",
-      "narrativa": "Los autores codificaron las reseñas periodísticas de 1891 en los cuatro tropos fundamentales, clasificándolas por filiación política.",
+      "titulo": "Ruta metodológica: Análisis tropológico de 43 cartas de lectores",
+      "narrativa": "El autor codificó las 43 cartas de lectores ordinarios de 1891 según el tropo que articula la ficción con la realidad extratextual, ampliando la clasificación de White a cinco modalidades.",
       "detalles": [
         {
           "label": "Corpus",
-          "value": "45 artículos y folletos críticos de 1891 (BNE)."
+          "value": "43 cartas publicadas en El Heraldo de Madrid entre el 3 y el 17 de abril de 1891."
         },
         {
           "label": "Marco Teórico",
-          "value": "Hayden White, Jauss y Paul Ricoeur."
+          "value": "Hayden White, Roman Jakobson y Hans Robert Jauß."
         }
       ],
       "limitaciones": [
-        "Foco en prensa de Madrid y Barcelona."
+        "Corpus reducido a 43 cartas de un único diario (El Heraldo de Madrid)."
       ],
       "reflexion": "Un libro es también la tormenta que desata en la mente de sus contemporáneos."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: La sinécdoque de la corrupción y el arma de la ironía",
+      "titulo": "Hallazgos empíricos: La sinécdoque dominante y las modalidades no excluyentes",
       "narrativa": "El análisis evidenció que la novela fue usada como campo de batalla ideológico:",
       "hallazgos": [
         {
           "label": "1. Currita como Sinécdoque",
-          "value": "Se leyó a la protagonista como encarnación total de la decadencia moral de la corte alfonsina."
+          "value": "La mitad de los lectores leyó a la protagonista como encarnación de toda la aristocracia borbónica, no solo de la corte alfonsina."
         },
         {
-          "label": "2. La Ironía como Defensa",
-          "value": "Críticos aristocráticos recurrieron al desdén para acusar al autor de 'chismoso de confesionario'."
+          "label": "2. La Silepsis como Novela de Clave",
+          "value": "Nueve lectores vieron en los personajes máscaras de nobles o empresarios reales, y algunos acusaron a Coloma de novelar secretos del confesionario."
         }
       ],
       "dataPoints": [
-        "El 68% de las reseñas utilizó la sinécdoque para generalizar la crítica social."
+        "El promedio de satisfacción de los comentarios sinecdóquicos (1,05) supera al de los demás (-0,53)."
       ],
       "reflexion": "La literatura es peligrosa cuando pone un espejo frente a los privilegios del poder."
     },
@@ -103,8 +103,8 @@
     },
     "nucleo": {
       "pregunta": "¿Cómo estructuraron los tropos hermenéuticos la recepción de 'Pequeñeces' en la prensa de 1891?",
-      "conclusion": "La aplicación de la tropología hermenéutica a 45 reseñas de 1891 demuestra que la recepción de 'Pequeñeces' estuvo gobernada por la sinécdoque y la ironía, confirmando la potencia del análisis tropológico para desentrañar cómo la literatura dialoga con las crisis sociopolíticas.",
-      "formalRef": "Serrano-Contreras, I. J., & Rossi-Elizalde, L. M. (2025). La primera recepción de Pequeñeces: aplicación de una tropología hermenéutica. Ocnos, 24(2). https://doi.org/10.18239/Ocnos_2025.24.2.528"
+      "conclusion": "La aplicación de la tropología hermenéutica a 43 cartas de lectores de 1891 muestra que la recepción de 'Pequeñeces' se articuló en al menos cinco modalidades —sinécdoque, silepsis, alegoría, hipérbole y antífrasis—, con predominio de la sinécdoque, confirmando la potencia del análisis tropológico para desentrañar cómo la literatura dialoga con las crisis sociopolíticas.",
+      "formalRef": "Ceballos-Viro, Á. (2025). La primera recepción de Pequeñeces: aplicación de una tropología hermenéutica. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.528"
     },
     "reflexion": {
       "questions": [
@@ -132,12 +132,12 @@
         },
         {
           "type": "choice",
-          "q": "¿Cómo reaccionaron los sectores aristocráticos satirizados?",
+          "q": "¿Cuántos de los 43 lectores del Heraldo leyeron 'Pequeñeces' como una novela de clave (silepsis)?",
           "options": [
-            "Felicitaron públicamente al autor.",
-            "Utilizaron la ironía y el desdén para acusar a Coloma de chismoso y de violar secretos.",
-            "Compraron los libros para quemarlos.",
-            "No publicaron nada."
+            "Ninguno.",
+            "Nueve.",
+            "Cuarenta y tres.",
+            "Solo dos."
           ],
           "correct": 1
         },
@@ -147,7 +147,7 @@
         },
         {
           "type": "open",
-          "q": "Explica cómo el análisis de los 4 tropos clásicos puede ayudar a los alumnos a decodificar las noticias de prensa."
+          "q": "Explica cómo el análisis de las cinco modalidades hermenéuticas puede ayudar a los alumnos a decodificar las noticias de prensa."
         }
       ]
     }
@@ -162,7 +162,7 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Analizamos 45 artículos periodísticos de la época con las lentes de Hayden White y Paul Ricoeur.",
+      "text": "Analizamos 43 cartas de lectores de 1891 con las lentes de Hayden White y Roman Jakobson.",
       "position": "bottom-right"
     },
     "revelacion": {
@@ -178,7 +178,7 @@
       "position": "bottom-right"
     },
     "mapa": {
-      "text": "Explora el mapa para ver las conexiones entre 'Pequeñeces', los 4 tropos, la Restauración y la recepción crítica.",
+      "text": "Explora el mapa para ver las conexiones entre 'Pequeñeces', las cinco modalidades hermenéuticas, la Restauración y la recepción crítica.",
       "position": "bottom-right"
     },
     "reflexion": {
@@ -187,110 +187,234 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Tropología Hermenéutica y la Recepción de 'Pequeñeces'",
-    "descripcion": "Análisis de 45 reseñas de 1891: sinécdoque, ironía, metáfora, decadencia de la Restauración y sociología de la literatura.",
+    "titulo": "Mapa conceptual: Tropología hermenéutica de Pequeñeces (Ocnos 24(2) 2025)",
+    "descripcion": "Recorrido desde la tropología de Hayden White y el escándalo editorial de Pequeñeces (1891) hasta la clasificación tropológica de 43 cartas de lectores en sinécdoque, silepsis, alegoría, hipérbole y antífrasis, con el experimento de valoración lectora, la no exclusividad de las modalidades y las limitaciones del corpus.",
     "nodos": [
       {
         "id": "1",
-        "label": "Recepción de 'Pequeñeces' (1891)",
-        "color": "#9b82c3"
+        "label": "Tropología hermenéutica",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Reúne las modalidades fundamentales que guían la interpretación de obras literarias: una analogía entre la Gestalt del texto en la mente del lector y algún aspecto de la realidad extratextual. El artículo propone reformular la clasificación de White como plantilla de esa taxonomía."
       },
       {
         "id": "2",
-        "label": "Padre Luis Coloma",
-        "color": "#2a5a75"
+        "label": "Cuatro tropos de Hayden White",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "En Tropics of discourse (1978) White identificó metáfora, metonimia, sinécdoque e ironía como operaciones mentales elementales, en paralelo con las fases del desarrollo cognitivo de Piaget. Jakobson (1956) y Lodge preceden esta tradición tropológica."
       },
       {
         "id": "3",
-        "label": "Tropología de Hayden White",
-        "color": "#5b9eaa"
+        "label": "Tesis pragmatista de la interpretación",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Las síntesis discursivas no están inscritas en los textos literarios, sino que resultan de decisiones pragmáticas generalmente inconscientes, conforme a Fish (1980) y Rorty (1992)."
       },
       {
         "id": "4",
-        "label": "Sinécdoque (Parte por el Todo)",
-        "color": "#88b04b"
+        "label": "Pequeñeces como éxito editorial",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "Novela del jesuita Luis Coloma, serializada en 1890-1891 y en volumen desde febrero de 1891, con 30.000-50.000 ejemplares impresos según Blanco-García y Serna-Galindo. Botrel calculó 70.000-100.000 lectores favorecidos por el precio accesible de 3 pesetas."
       },
       {
         "id": "5",
-        "label": "Ironía Defensiva Aristocrática",
-        "color": "#e76f51"
+        "label": "Corpus de 43 cartas del Heraldo",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Cartas de lectores ordinarios publicadas por El Heraldo de Madrid entre el 3 y el 17 de abril de 1891, con firmas como Pardo Bazán, Ducazcal y Campillo. Botrel subraya que la recepción rara vez dispone de datos tan abundantes sobre la lectura ordinaria."
       },
       {
         "id": "6",
-        "label": "Decadencia de la Restauración",
-        "color": "#c73e1d"
+        "label": "Taxonomía de la hermenéutica literaria",
+        "color": "#c73e1d",
+        "role": "Objetivo",
+        "descripcion": "El objetivo es reformular sustancialmente la tipología de White y utilizarla como plantilla taxonómica, clasificando cada testimonio histórico de lectura según el tropo que articula texto y realidad extratextual."
       },
       {
         "id": "7",
-        "label": "Prensa Liberal vs. Conservadora",
-        "color": "#f4d068"
+        "label": "Modalidad hermenéutica",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Variación de la analogía aplicada a la valoración holística de la obra: interfaz imprescindible para generar enunciados sobre el mundo a partir de un texto no referencial. Se apoya en Amis, Duisit, Fowler y Guillén."
       },
       {
         "id": "8",
-        "label": "Hermenéutica de Paul Ricoeur",
-        "color": "#264653"
+        "label": "Valores de lectura entre -2 y +2",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Se asignan valencias de -2 a +2 a los 33 comentarios de los que puede inferirse una modalidad, según sus formulaciones críticas o elogiosas, análisis que debe tomarse con extrema cautela por la naturaleza poco estandarizada de los datos."
       },
       {
         "id": "9",
-        "label": "Éxito Editorial de Masas",
-        "color": "#2a9d8f"
+        "label": "Sinécdoque: 18 de 43 lectores",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "La mitad entendió que los protagonistas representaban a la aristocracia, sobre todo la borbónica: Curra de Albornoz y Jacobo Téllez devienen prototipos de su clase. Campillo la describió como galería de cuadros de costumbres aristocráticas."
       },
       {
         "id": "10",
-        "label": "Crítica Literaria como Barómetro",
-        "color": "#f4a261"
+        "label": "Silepsis: novela de clave",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Nueve lecturas asumieron que los personajes enmascaraban nobles o empresarios reales, función biyectiva entre ficción e individuos, para Juan Valera uno de los grandes alicientes. Incluye el topos de los pecados novelados desde el confesionario, que Coloma desautorizaba en privado."
+      },
+      {
+        "id": "11",
+        "label": "Alegoría moral de los personajes",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Lectores como los testimonios 12a y 12b desvincularon la novela de toda clase social: los actantes serían tipos morales, la ralea inextinguible de los hombres y mujeres malos. Stiénon lo explica como hipóstasis: lo abstracto moral se concreta en ejemplares."
+      },
+      {
+        "id": "12",
+        "label": "Hipérbole peyorativa y meliorativa",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Algunos leyeron el retrato colectivo como exageración de defectos o, por el contrario, como suavización de la realidad (si de algo peca, es de prudente). Pardo Bazán confirmó la frecuencia de esta lectura: el concepto más fuerte es que Coloma exagera."
+      },
+      {
+        "id": "13",
+        "label": "Antífrasis no documentada",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "Modalidad que invierte el orden natural, asociada al mundo al revés y la sátira. No se verifica históricamente en el corpus de Pequeñeces, quizá porque su elenco de personajes no está suficientemente polarizado, aunque puede inferirse."
+      },
+      {
+        "id": "14",
+        "label": "Sinécdoque gana en satisfacción",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "El promedio de satisfacción de los comentarios sinecdóquicos (1,05) supera nettamente al de los demás (-0,53). La lectura realista chocaba con el horizonte de expectativas y los valores de quienes la resistían."
+      },
+      {
+        "id": "15",
+        "label": "Modalidades no excluyentes",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "La lectura alegórica no impide percibir personajes de carne y hueso, la sinecdóquica coexiste con la creencia en identidades reales, y la hipérbole puede recubrir clases sociales o individuos velados: los tropos hermenéuticos se combinan."
+      },
+      {
+        "id": "16",
+        "label": "Modalidades moduladas por el lector",
+        "color": "#2a5a75",
+        "role": "Conclusiones",
+        "descripcion": "Se sugiere una lógica prácticamente determinista: el proceso interpretativo parte de premisas compatibles con el modelo de mundo del lector y, ante incompatibilidades, adopta modalidades alternativas como solución subsidiaria."
+      },
+      {
+        "id": "17",
+        "label": "Límites del corpus histórico",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "El corpus de 1891 resulta demasiado reducido y silvestre para confirmar la hipótesis determinista, y los indicios históricos de lectura son fragmentarios y azarosos. Se desean experimentaciones más controladas."
       }
     ],
     "aristas": [
       {
         "from": "2",
         "to": "1",
-        "label": "desata con su obra la"
+        "label": "se reformula en la"
       },
       {
         "from": "3",
         "to": "1",
-        "label": "proporciona el marco para analizar la"
+        "label": "sustenta la tesis de la"
       },
       {
         "from": "1",
-        "to": "4",
-        "label": "evidencia el predominio de la"
+        "to": "6",
+        "label": "se propone como plantilla de la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se articula mediante la noción de"
+      },
+      {
+        "from": "6",
+        "to": "5",
+        "label": "se comprueba en el"
       },
       {
         "from": "4",
-        "to": "6",
-        "label": "generaliza la denuncia de la"
-      },
-      {
-        "from": "1",
         "to": "5",
-        "label": "registra en las élites la"
+        "label": "suscitó el"
       },
       {
-        "from": "7",
-        "to": "1",
-        "label": "polariza el debate en la"
+        "from": "5",
+        "to": "8",
+        "label": "se somete al etiquetado de"
+      },
+      {
+        "from": "5",
+        "to": "9",
+        "label": "registra en su mayoría la"
       },
       {
         "from": "8",
-        "to": "3",
-        "label": "fundamenta filosóficamente la"
+        "to": "10",
+        "label": "clasifica la"
       },
       {
-        "from": "1",
-        "to": "9",
-        "label": "convierte el escándalo en"
+        "from": "8",
+        "to": "11",
+        "label": "clasifica la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "registra la"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "contempla la"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "alcanza la mayor"
+      },
+      {
+        "from": "4",
+        "to": "10",
+        "label": "alimentó las lecturas de"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "sugiere que las"
+      },
+      {
+        "from": "16",
+        "to": "7",
+        "label": "modulan la elección de la"
       },
       {
         "from": "10",
-        "to": "1",
-        "label": "interpreta a la"
+        "to": "15",
+        "label": "se combina con la"
       },
       {
-        "from": "10",
+        "from": "12",
+        "to": "15",
+        "label": "recubre categorías de la"
+      },
+      {
+        "from": "15",
         "to": "6",
-        "label": "ilumina las tensiones de la"
+        "label": "acredita la operatividad de la"
+      },
+      {
+        "from": "16",
+        "to": "17",
+        "label": "queda restringida por los"
+      },
+      {
+        "from": "17",
+        "to": "6",
+        "label": "exige contrastar mejor la"
       }
     ]
   }

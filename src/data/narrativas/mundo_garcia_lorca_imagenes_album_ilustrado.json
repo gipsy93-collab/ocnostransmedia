@@ -1,0 +1,397 @@
+{
+  "id": "mundo_garcia_lorca_imagenes_album_ilustrado",
+  "metadata": {
+    "title": "El mundo de García Lorca en imágenes: aproximación desde el álbum ilustrado",
+    "authors": "Nieves Martín-Rogero y María Villalba-Salvador",
+    "year": "2020",
+    "journal": "Ocnos 19(2)",
+    "doi": "10.18239/ocnos_2020.19.2.2232",
+    "gancho": "¿Qué le ocurre a un poema de Federico García Lorca cuando ilustradores como Calatayud, Pacheco o Zabala reinventan su sentido?",
+    "duration": "12-15 min",
+    "badge": "Poesía y Artes Visuales",
+    "disciplina": "Didáctica de la Poesía y Estudios Multimodales",
+    "dimensiones": [
+      "Álbum Lírico",
+      "Interacción Texto-Imagen",
+      "Vanguardias Artísticas",
+      "Recepción Poética Infantil"
+    ],
+    "tags": [
+      "garcia_lorca",
+      "album_ilustrado",
+      "poesia_infantil",
+      "calatayud",
+      "pacheco",
+      "zabala",
+      "multimodalidad"
+    ],
+    "pistas": [
+      "Análisis comparado de tres álbumes líricos ilustrados por premios nacionales: Miguel Calatayud, Gabriel Pacheco y Javier Zabala.",
+      "Cotejo de 5 poemas lorquianos clásicos ('Canción tonta', 'Caracola', 'El niño mudo', 'Escuela', 'Paisaje') y el poema secuenciado 'Santiago'.",
+      "Confluencia estética entre los versos de Lorca y las vanguardias pictóricas coetáneas (cubismo, surrealismo, expresionismo alemán).",
+      "Teorización del álbum lírico como modalidad que oscila entre la anotación poética contemplativa y la linealidad narrativa secuenciada."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "El auge del álbum ilustrado contemporáneo ha propiciado la migración de grandes clásicos de la literatura hacia el sistema infantil, pero se desconocía cómo la imagen visual reconfigura la recepción emocional y simbólica de la poesía lírica de Federico García Lorca.",
+      "desafio": "Analizar comparativamente cómo tres ilustradores de prestigio internacional dialogan visualmente con los versos lorquianos, desentrañando los mecanismos semióticos del álbum lírico como categoría estética propia.",
+      "relevancia": "Ofrece a los mediadores de lectura claves para formar la sensibilidad poética y la alfabetización visual de niños y jóvenes mediante obras de altísima densidad artística."
+    },
+    "conflicto": {
+      "pregunta": "¿Subordina la ilustración al poema lorquiano sirviendo de mero adorno o se convierte en una coautora que expande, contradice o crea nuevas metáforas visuales autónomas?",
+      "posiciones": [
+        "Concepción ilustrativa tradicional: la imagen debe reflejar fiel y simétricamente las palabras del poema para facilitar la comprensión infantil.",
+        "Concepción sinérgica multimodal: la imagen dialoga en contrapunto con el poema, aportando metáforas visuales que abren nuevos horizontes interpretativos y exigen una lectura activa."
+      ],
+      "tension": "La tensión entre la supuesta sencillez infantil de las canciones de Lorca y la profunda ambivalencia hermenéutica de sus símbolos de pérdida, soledad y muerte.",
+      "deepDives": [
+        {
+          "id": "lor-conf-1",
+          "triggerLabel": "Lorca y la niñez: neopopularismo y raíz rural",
+          "type": "context",
+          "content": "Lorca concibió muchos de sus poemas juveniles apegado a la memoria campesina de la vega granadina y al cancionero de corro infantil, dotándolos de un neopopularismo vibrante y hondo."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Análisis semiótico comparado de tres álbumes líricos y seis poemas lorquianos",
+      "narrativa": "Las investigadoras aplicaron el marco de interacción texto-imagen de Nikolajeva y Scott y la semiótica de Sipe a tres álbumes galardonados, confrontando las interpretaciones plásticas de Calatayud, Pacheco y Zabala sobre poemas de Canciones, Suites y Libro de poemas.",
+      "detalles": [
+        {
+          "label": "Corpus analizado",
+          "value": "3 álbumes: Calatayud (Ediciones de La Torre, 2006), Pacheco (Kalandraka, 2018) y Zabala (Libros del Zorro Rojo, 2007)."
+        },
+        {
+          "label": "Poemas analizados",
+          "value": "5 poemas comparados ('Canción tonta', 'Caracola', 'El niño mudo', 'Escuela', 'Paisaje') y el poema único secuenciado 'Santiago'."
+        },
+        {
+          "label": "Herramientas semióticas",
+          "value": "Categorías de Nikolajeva & Scott (simetría, ampliación, complementariedad, desviación) y sinergia de Lawrence Sipe."
+        },
+        {
+          "label": "Estilos visuales",
+          "value": "Filiación con vanguardias del siglo XX: cubismo sintético (Calatayud), realismo mágico/surrealismo (Pacheco) y expresionismo/collage (Zabala)."
+        }
+      ],
+      "limitaciones": [
+        "Estudio cualitativo hermenéutico centrado en el análisis del objeto-libro sin prueba de recepción empírica en aulas con escolares.",
+        "Selección criterial y no exhaustiva acotada a tres propuestas editoriales de excelencia estética."
+      ],
+      "reflexion": "¿Cómo cambia el poema 'El niño mudo' cuando Gabriel Pacheco dibuja al niño con una llave en la boca y un grillo prisionero ausente en los versos?",
+      "deepDives": [
+        {
+          "id": "lor-viaje-1",
+          "triggerLabel": "Álbum poemario vs. álbum antología",
+          "type": "method",
+          "content": "Siguiendo a Neira-Piñeiro, Calatayud y Pacheco crean 'álbumes antología' (ilustran poemas previos diversos), mientras Zabala crea un 'álbum de poema único' secuenciando versos en narrativa visual continua."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Se demostró que cada ilustrador despliega un pacto semiótico radicalmente distinto con Lorca: Calatayud ancla la comprensión mediante formas geométricas cubistas y texto en la misma página; Pacheco va más allá del texto introduciendo metáforas visuales surrealistas del deseo y la desposesión; y Zabala disuelve la frontera entre lo lírico y lo narrativo construyendo una historia continuada mediante collage y sombras expresionistas.",
+      "evidenciaCualitativa": "En 'Santiago', Zabala sustituye el caballo blanco del poema por un cisne negro e introduce una hilera de vacas como estribillo visual paralelo, demostrando la soberanía creativa del ilustrador en el álbum moderno.",
+      "citaClave": "'En el álbum lírico, la imagen no decora el poema sino que coescribe su sentido: Calatayud facilita la captación del recurso poético, mientras Pacheco y Zabala multiplican la polisemia simbólica lorquiana.'",
+      "implicacionesDocentes": [
+        "Llevar al aula ediciones ilustradas de alta calidad para trabajar la intertextualidad entre poesía y vanguardias pictóricas.",
+        "Comparar en clase cómo dos ilustradores distintos interpretan un mismo poema de Lorca para despertar el juicio crítico de los alumnos.",
+        "Enseñar a 'leer las imágenes' del libro-álbum analizando el color, el encuadre y los silencios gráficos como versos visuales."
+      ],
+      "deepDives": [
+        {
+          "id": "lor-rev-1",
+          "triggerLabel": "Retratos picassianos en el aula",
+          "type": "data",
+          "content": "En el poema 'Escuela', Calatayud convierte al maestro de escuela en un trasunto exacto de los célebres retratos cubistas de Picasso (Ambroise Vollard y Juan Gris), educando el ojo artístico del lector."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Teoría de los polisistemas (Even-Zohar), ambivalencia de Shavit y poética del álbum lírico (Neira-Piñeiro)",
+      "tensiones": [
+        "Sencillez aparente de la lírica infantil vs. densidad hermenéutica de los símbolos de vanguardia.",
+        "Ilustración subordinada y literal vs. coautoría visual sinérgica y emancipadora."
+      ],
+      "autoresClave": [
+        "Martín-Rogero & Villalba-Salvador (2020)",
+        "Even-Zohar (1990)",
+        "Shavit (1986)",
+        "Nikolajeva & Scott (2001)",
+        "Neira-Piñeiro (2012, 2018)"
+      ],
+      "deepDives": [
+        {
+          "id": "lor-marco-1",
+          "triggerLabel": "La ambivalencia del texto de Shavit",
+          "type": "theory",
+          "content": "Zohar Shavit explica que los textos con 'doble destinatario' (adulto e infantil) permiten a los clásicos migrar al sistema infantil gracias a la polisemia que la ilustración activa de modo privilegiado."
+        }
+      ]
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo transforman las propuestas plásticas de ilustradores contemporáneos la captación estética y el sentido de la poesía de García Lorca en el álbum ilustrado?",
+      "mecanismoClave": "La interacción multimodal entre el verso lorquiano y las estéticas vanguardistas (cubismo, surrealismo, expresionismo) crea una sinergia artística donde la imagen complementa, amplifica o reinventa las resonancias simbólicas del poema.",
+      "conclusionGeneral": "El álbum lírico lorquiano no es una mera adaptación didáctica escolar, sino una modalidad artística autónoma de enorme potencia estética que une la educación literaria con la alfabetización visual contemporánea."
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Lorquiana",
+        "descripcion": "Atrapa símbolos poéticos (la luna, la caracola, el grillo) a través de las estéticas de Calatayud, Pacheco y Zabala.",
+        "instrucciones": "Recoge tokens de vanguardia y responde preguntas sobre el análisis de Martín-Rogero y Villalba-Salvador. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Lorca en el Álbum Ilustrado",
+        "descripcion": "Demuestra tus conocimientos sobre la semiótica de Nikolajeva, los tres ilustradores premiados y los poemas lorquianos.",
+        "instrucciones": "Responde contrarreloj para mantener tu racha poética y alcanzar el pedestal de las artes visuales."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide del Álbum Lírico",
+        "descripcion": "Asciende desde la ilustración simétrica literal hasta la sinergia poética vanguardista y polisémica.",
+        "instrucciones": "Supera cada nivel demostrando dominio de las relaciones texto-imagen en la poesía infantil."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: El mundo de García Lorca en el álbum ilustrado (Martín-Rogero & Villalba-Salvador, 2020)",
+      "descripcion": "Investigación cualitativa comparada que analiza tres álbumes líricos de Calatayud, Pacheco y Zabala sobre poemas de Federico García Lorca bajo las categorías semióticas de Nikolajeva y Scott.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Teoría de los polisistemas y ambivalencia textual",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Marco de Even-Zohar y Shavit que explica cómo autores canónicos universales como Lorca migran hacia el centro del subsistema literario infantil mediante textos ambivalentes de doble lectura."
+        },
+        {
+          "id": "2",
+          "label": "La poética del álbum lírico (Neira-Piñeiro)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Teorización que define el álbum lírico como una modalidad autónoma sustentada en el poema donde la anotación poética puede residir indistintamente en la palabra o en la imagen plástica."
+        },
+        {
+          "id": "3",
+          "label": "Semiótica texto-imagen de Nikolajeva, Scott y Sipe",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Matriz analítica que tipifica las relaciones entre palabra e ilustración: congruencia o simetría, ampliación de sentido, interacción complementaria y desviación o contraposición."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: evaluar el enriquecimiento emocional y simbólico",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Analizar cómo las imágenes de los ilustradores contemporáneos potencian la captación afectiva, los recursos metafóricos y la riqueza simbólica de los poemas de Lorca."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: caracterizar el álbum lírico frente al narrativo",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Estudiar la especificidad composicional del álbum poético, evaluando si tiende a la contemplación lírica fragmentaria o se desliza hacia la continuidad narrativa secuenciada."
+        },
+        {
+          "id": "6",
+          "label": "Diseño comparado cualitativo y hermenéutico",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Investigación cualitativa de corte estético-semiótico basada en el cotejo analítico exhaustivo de tres obras de excelencia editorial y seis composiciones líricas lorquianas."
+        },
+        {
+          "id": "7",
+          "label": "Corpus de tres álbumes premiados de factura reciente",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Selección de obras ilustradas por premios nacionales e internacionales: Miguel Calatayud (2006, De La Torre), Gabriel Pacheco (2018, Kalandraka) y Javier Zabala (2007, El Zorro Rojo)."
+        },
+        {
+          "id": "8",
+          "label": "Convergencia con las vanguardias históricas del siglo XX",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Criterio de análisis que conecta el lenguaje visual de los ilustradores con las vanguardias coetáneas de Lorca: el cubismo sintético, el surrealismo y el expresionismo del collage."
+        },
+        {
+          "id": "9",
+          "label": "Calatayud: anclaje comprensivo y cubismo geométrico",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Calatayud dispone texto e imagen en la misma página facilitando la comprensión de los tropos; sus formas geométricas y tonos ocres evocan directamente las pinturas cubistas de Picasso y Gris."
+        },
+        {
+          "id": "10",
+          "label": "Pacheco: ampliación metafórica y atmósfera surrealista",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Pacheco separa texto e imagen e introduce metáforas visuales ausentes en el poema (niño con ojos vendados, llaves, grillos cautivos), multiplicando la insinuación del deseo y la pérdida."
+        },
+        {
+          "id": "11",
+          "label": "Zabala y 'Santiago': secuenciación y pulso narrativo",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "En el poema secuenciado 'Santiago', Zabala utiliza collage y expresionismo, introduciendo motivos recurrentes (el cisne negro, las vacas) que acercan el álbum lírico a la linealidad narrativa."
+        },
+        {
+          "id": "12",
+          "label": "La ambivalencia como enriquecimiento de la recepción",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Los tres autores demuestran que ilustrar a Lorca para niños no exige infantilizar sus versos, sino abrir múltiples capas de sentido accesibles a lectores de diferentes edades y competencias."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: la coautoría visual frente a la subordinación",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se discute cómo el álbum moderno emancipa a la ilustración de su rol subordinado de sirvienta del texto, convirtiendo al artista plástico en un coautor que reinterpreta soberanamente la poesía."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: disolución de fronteras entre lírica y narrativa",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El análisis revela que la secuenciación de imágenes en álbumes de poema único diluye las fronteras genéricas tradicionales, fusionando el estatismo lírico con la progresión narrativa."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: análisis centrado en el objeto sin recepción",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "Las autoras acotan el trabajo al análisis semiótico y estético del objeto-libro impreso, señalando la conveniencia de investigar en el futuro la recepción real de estos álbumes en aulas infantiles."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: educación estética y competencia multimodal",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que el álbum lírico lorquiano constituye un instrumento privilegiado para desarrollar la sensibilidad poética y la competencia artística multimodal en la infancia contemporánea."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "establece el marco canónico para"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "aporta el constructo del género a"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "proporciona la tipología analítica a"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se persigue mediante el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "orienta las preguntas del"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se ejecuta sobre el"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "vincula la estética con la"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "identifica en el primer autor el"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "demuestra en el segundo la"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "analiza en el tercer autor la"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "sustenta la riqueza de la"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "aporta contraste a la"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "ejemplifica plenamente la"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "plantea el fenómeno de la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "complejiza la cuestión de la"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "conduce a las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "fundamenta la visión de las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el alcance epistemológico del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las proyecciones de las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "cierra el ciclo estético de"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué diferencia principal observaron las investigadoras entre el estilo ilustrativo de Calatayud y el de Gabriel Pacheco sobre los poemas de Lorca?",
+          "options": [
+            "Calatayud utilizó fotografías realistas mientras Pacheco dibujó caricaturas animadas.",
+            "Calatayud ancla la comprensión con simetría cubista en la misma página, mientras Pacheco amplía el sentido introduciendo metáforas visuales surrealistas autónomas.",
+            "Calatayud eliminó el texto poético para dejar solo viñetas de cómic.",
+            "Pacheco imitó de forma exacta los dibujos infantiles que hacía el propio Lorca en sus manuscritos."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo utilizarías dos ilustraciones contrastadas de un mismo poema de Lorca en el aula para enseñar a los estudiantes a interpretar los dobles sentidos de la lírica?"
+        }
+      ]
+    }
+  }
+}

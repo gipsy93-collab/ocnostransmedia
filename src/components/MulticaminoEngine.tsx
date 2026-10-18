@@ -24,7 +24,9 @@ import {
 } from 'lucide-react';
 import { Narrative, BlockId, IMRyD_INDEX } from '../types/narrative';
 import DetectivesLanding from '../pages/detectives/DetectivesLanding';
+import { useSearchParams, Link } from 'react-router-dom';
 import { useChatStore } from '../store/chatStore';
+import OcnosLogo from './OcnosLogo';
 
 // Bloques interactivos especializados
 import JuegoBlock from './blocks/JuegoBlock';
@@ -56,6 +58,16 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
   const scrollContainerRef = useRef<HTMLDivElement>(null);
   const navContainerRef = useRef<HTMLElement>(null);
   const { setArticle, clearArticle, open: openChat } = useChatStore();
+  const [, setSearchParams] = useSearchParams();
+
+  // Sincroniza el bloque activo con la URL para que un recargue conserve la posición
+  useEffect(() => {
+    const next = new URLSearchParams(window.location.search);
+    if (next.get('b') !== currentBlock) {
+      next.set('b', currentBlock);
+      setSearchParams(next, { replace: true });
+    }
+  }, [currentBlock, setSearchParams]);
 
   useEffect(() => {
     setArticle(narrative.id, narrative.metadata.title);
@@ -503,17 +515,19 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
         </div>
 
         <div className="max-w-[1580px] mx-auto w-full px-3 sm:px-6 lg:px-8 py-2.5 flex items-center justify-between gap-2 sm:gap-4">
-          {/* Brand Revista Ocnos */}
+          {/* Brand Revista Ocnos: logo oficial, enlaza al Inicio */}
           <div className="flex items-center space-x-3 shrink-0">
-            <div className="flex items-center space-x-2.5 sm:pr-3 sm:border-r border-[#3a617a]">
-              <span className="inline-flex items-center justify-center w-7 h-7 rounded-lg bg-ocnos-green text-white font-black text-xs tracking-wider shadow-inner">
-                OC
-              </span>
-              <div className="leading-tight hidden sm:block">
-                <span className="text-xs font-bold tracking-widest text-slate-200 block uppercase">Revista Ocnos</span>
+            <Link
+              to="/"
+              className="flex items-center space-x-2.5 sm:pr-3 sm:border-r border-[#3a617a] rounded-lg hover:bg-white/5 transition-colors cursor-pointer"
+              title="Volver al Inicio de Revista Ocnos"
+              aria-label="Volver al Inicio de Revista Ocnos"
+            >
+              <OcnosLogo width={132} height={36} variant="dark" showSubtitle={false} />
+              <div className="leading-tight hidden lg:block">
                 <span className="text-[10px] text-slate-300 font-medium truncate max-w-[130px] block">{narrative.metadata.journal || 'Ocnos Transmedia'}</span>
               </div>
-            </div>
+            </Link>
           </div>
 
           {/* Pasos Centrales Navegables: Scroll horizontal suave para no hacinarse */}
@@ -619,10 +633,14 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
         ) : (
           <section 
             ref={scrollContainerRef}
-            className="flex-1 min-w-0 overflow-y-auto px-4 sm:px-8 lg:px-16 xl:px-24 py-6 lg:py-10 custom-scrollbar" 
+            className={`flex-1 min-w-0 ${
+              isImmersiveBlock 
+                ? 'overflow-hidden p-0 h-full flex flex-col' 
+                : 'overflow-y-auto px-4 sm:px-8 lg:px-16 xl:px-24 py-6 lg:py-10 custom-scrollbar'
+            }`} 
             data-purpose="narrative-stream"
           >
-            <div className={isImmersiveBlock ? "w-full mx-auto" : "max-w-4xl mx-auto"}>
+            <div className={isImmersiveBlock ? "w-full h-full flex-1 flex flex-col min-h-0" : "max-w-4xl mx-auto"}>
               
               {/* Bloques Interactivos Especializados */}
               {currentBlock === 'mapa' ? (

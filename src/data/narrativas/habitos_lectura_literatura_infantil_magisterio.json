@@ -1,0 +1,395 @@
+{
+  "id": "habitos_lectura_literatura_infantil_magisterio",
+  "metadata": {
+    "title": "Tras un eslabón perdido: hábitos de lectura y literatura infantil en estudiantes de magisterio y en maestros",
+    "authors": "Marta Larragueta y Ignacio Ceballos-Viro",
+    "year": "2020",
+    "journal": "Ocnos 19(2)",
+    "doi": "10.18239/ocnos_2020.19.2.2287",
+    "gancho": "¿Leen más los maestros en activo que los estudiantes que se preparan para serlo en la universidad?",
+    "duration": "12-15 min",
+    "badge": "Formación de Mediadores",
+    "disciplina": "Didáctica de la Lengua y la Literatura",
+    "dimensiones": [
+      "Efecto Peter",
+      "Hábitos Lectores",
+      "Literatura Infantil",
+      "Formación Permanente"
+    ],
+    "tags": [
+      "habitos_lectores",
+      "magisterio",
+      "literatura_infantil",
+      "efecto_peter",
+      "mediacion_lectora"
+    ],
+    "pistas": [
+      "Muestra comparativa de 532 participantes (214 estudiantes de Grado de Infantil y 318 maestros en ejercicio).",
+      "Ventaja consistente y estadísticamente significativa del colectivo docente en ejercicio en todos los indicadores evaluados.",
+      "Los maestros leen más libros al año (9.8 vs. 6.79; p = .005) y visitan bibliotecas infantiles el triple (55.3% vs. 15.9%).",
+      "El 64.5% de los maestros realizó formación voluntaria en LIJ frente a solo el 26.2% de los universitarios."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "El éxito de la mediación lectora escolar depende de que el maestro sea un lector apasionado y competente, pero mientras proliferan estudios que denuncian los bajos hábitos de los universitarios, existía un vacío empírico sobre qué ocurre cuando esos egresados ejercen la docencia real en las aulas.",
+      "desafio": "Comparar empíricamente los hábitos de lectura general, el contacto con la literatura infantil y la formación voluntaria entre maestros en formación universitaria y maestros en ejercicio activo de Educación Infantil.",
+      "relevancia": "Desmonta el pesimismo determinista sobre el profesorado demostrando que la práctica profesional en el aula rescata y potencia el hábito lector que la universidad no logró consolidar."
+    },
+    "conflicto": {
+      "pregunta": "¿Persiste en los maestros en ejercicio la desidia lectora diagnosticada durante su etapa universitaria o el ejercicio profesional transforma su relación con los libros?",
+      "posiciones": [
+        "Hipótesis del Efecto Peter crónico: los estudiantes sin hábito lector se convierten en maestros pasivos incapaces de contagiar el gusto por leer a sus alumnos.",
+        "Hipótesis de la maduración profesional: la responsabilidad docente y el contacto diario con la infancia impulsan a los maestros en activo a leer más, formarse en LIJ y acudir a bibliotecas."
+      ],
+      "tension": "La tensión entre los planes de estudio universitarios que recortan las asignaturas de literatura infantil y las exigencias reales del aula infantil cotidiana.",
+      "deepDives": [
+        {
+          "id": "mag-conf-1",
+          "triggerLabel": "El Efecto Peter en lectura",
+          "type": "theory",
+          "content": "Formulado por Applegate & Applegate (2004), el Efecto Peter advierte que 'nadie puede dar lo que no tiene': un docente que no experimenta placer al leer difícilmente podrá entusiasmar a sus alumnos."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Estudio cuantitativo comparativo ex post facto con 532 participantes",
+      "narrativa": "Los investigadores administraron un cuestionario online exhaustivo a 214 estudiantes del Grado de Educación Infantil de diversas universidades españolas y a 318 maestros en ejercicio reclutados mediante directorios de centros, aplicando contrastes de Chi-cuadrado con residuos corregidos y pruebas T de Student.",
+      "detalles": [
+        {
+          "label": "Muestra total",
+          "value": "532 participantes: 318 docentes en activo (media 41.5 años) y 214 estudiantes de Magisterio (media 22.9 años)."
+        },
+        {
+          "label": "Instrumento",
+          "value": "Cuestionario ad hoc de autoinforme en Google Forms con 4 bloques: lectura personal, visitas a secciones de LIJ, consulta digital y formación."
+        },
+        {
+          "label": "Análisis inferencial",
+          "value": "Pruebas de Chi Cuadrado (χ²) con análisis de residuos estandarizados (±1.96) y prueba T de Student para muestras independientes."
+        },
+        {
+          "label": "Rutina docente",
+          "value": "Medición adicional en maestros: el 60.7% lee o cuenta cuentos a su alumnado todos o casi todos los días lectivos."
+        }
+      ],
+      "limitaciones": [
+        "Diseño basado en cuestionario de autoinforme con preguntas cerradas que no profundiza en motivaciones biográficas cualitativas.",
+        "Participación voluntaria online que podría generar un ligero sesgo de selección hacia docentes más motivados por la lectura."
+      ],
+      "reflexion": "¿Por qué los estudiantes de Magisterio, que disponen de bibliotecas universitarias gratuitas, visitan menos las secciones de literatura infantil que los maestros sobrecargados de trabajo?",
+      "deepDives": [
+        {
+          "id": "mag-viaje-1",
+          "triggerLabel": "Vacío curricular en los planes de grado",
+          "type": "context",
+          "content": "Larragueta y Ceballos analizaron los 65 planes de estudio de Magisterio Infantil en España y hallaron que solo 37 incluyen asignaturas con el nombre explícito de Literatura Infantil."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Se constató una ventaja clara, sistemática y estadísticamente significativa de los maestros en ejercicio sobre los estudiantes en todas las variables: leen significativamente más libros al año (9.8 frente a 6.79; p = .005), visitan bibliotecas y librerías infantiles con una frecuencia tres veces superior (55.3% vs. 15.9%, p = .000) y realizan mucha más formación voluntaria en LIJ (64.5% vs. 26.2%).",
+      "evidenciaCualitativa": "Los propios niños y la práctica real actúan como resorte formativo: los maestros descubren en el aula que necesitan conocer álbumes y cuentos para responder a la curiosidad infantil, supliendo las lagunas de la carrera universitaria.",
+      "citaClave": "'Los maestros de Educación Infantil leen más, acuden más a librerías, consultan más fuentes de LIJ y se forman mucho más que los estudiantes que se preparan para ser maestros. El ejercicio docente repara el eslabón perdido.'",
+      "implicacionesDocentes": [
+        "Reforzar con urgencia la presencia de la literatura infantil y los talleres de lectura en los planes de estudio del Grado de Magisterio.",
+        "Vincular la formación inicial con las aulas reales desde los primeros cursos para que los universitarios sientan la necesidad de la LIJ.",
+        "Potenciar las redes de intercambio de lecturas entre maestros en activo y estudiantes en prácticas de centros escolares."
+      ],
+      "deepDives": [
+        {
+          "id": "mag-rev-1",
+          "triggerLabel": "La formación voluntaria como acelerador",
+          "type": "data",
+          "content": "Tanto en docentes como en estudiantes, quienes realizaron cursos o seminarios voluntarios de LIJ fuera del grado leyeron un número significativamente mayor de libros por placer al año (p < .001)."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Didáctica de la literatura infantil, mediación lectora escolar y formación docente continua",
+      "tensiones": [
+        "Diagnósticos universitarios catastrofistas vs. resiliencia lectora profesional en el puesto de trabajo.",
+        "Concepción puramente instrumental utilitarista de la LIJ vs. disfrute estético del libro-álbum."
+      ],
+      "autoresClave": [
+        "Larragueta & Ceballos-Viro (2020)",
+        "Munita (2018, 2019)",
+        "Applegate & Applegate (2004)",
+        "Larrañaga et al. (2008)",
+        "Felipe-Morales (2016)"
+      ],
+      "deepDives": [
+        {
+          "id": "mag-marco-1",
+          "triggerLabel": "Felipe Munita y el mediador literario",
+          "type": "theory",
+          "content": "Munita postula que la formación de mediadores no consiste en transmitir recetas metodológicas, sino en transformar la biografía lectora del profesor para que habite los textos literarios con gozo propio."
+        }
+      ]
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo difieren los hábitos lectores y la implicación con la literatura infantil entre estudiantes de magisterio y maestros en activo?",
+      "mecanismoClave": "El choque con la realidad del aula y la necesidad pedagógica cotidiana de contar historias despiertan en el maestro en ejercicio una motivación intrínseca que reactiva sus hábitos lectores, superando la pasividad de la etapa universitaria.",
+      "conclusionGeneral": "El ejercicio profesional de la docencia en Educación Infantil opera como un catalizador decisivo del hábito lector, evidenciando que la universidad debe renovar sus metodologías para conectar tempranamente a los futuros maestros con el universo de la LIJ."
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente del Mediador Infantil",
+        "descripcion": "Atrapa libros infantiles y seminarios de formación mientras avanzas desde el grado universitario al aula escolar.",
+        "instrucciones": "Recoge tokens de LIJ y supera preguntas sobre los contrastes estadísticos de Larragueta y Ceballos-Viro. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Hábitos Lectores y Magisterio",
+        "descripcion": "Pon a prueba tu conocimiento sobre las medias de lectura, el Efecto Peter y las diferencias de Chi-cuadrado del estudio.",
+        "instrucciones": "Responde contrarreloj para mantener tu racha mediadora y coronar el podio de didáctica de la lengua."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide del Docente Lector",
+        "descripcion": "Asciende desde el lector esporádico universitario hasta el maestro mediador apasionado y formador de lectores.",
+        "instrucciones": "Supera cada nivel demostrando dominio de los fundamentos de la literatura infantil y la mediación."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Hábitos lectores y literatura infantil en magisterio (Larragueta & Ceballos-Viro, 2020)",
+      "descripcion": "Investigación cuantitativa comparativa con 532 participantes que demuestra la ventaja estadísticamente significativa de los maestros en activo sobre los estudiantes universitarios en lectura y LIJ.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "El Efecto Peter en mediación lectora (Applegate)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Constructo teórico que establece que un maestro no puede transmitir el entusiasmo y los hábitos lectores que no posee en su propia biografía personal, vinculando docencia y lectura personal."
+        },
+        {
+          "id": "2",
+          "label": "Diagnósticos desalentadores en futuros maestros",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Literatura previa (Larrañaga, Felipe-Morales) que reporta que más del 60% de los estudiantes de Magisterio en España son lectores ocasionales o falsos lectores que rara vez frecuentan obras literarias."
+        },
+        {
+          "id": "3",
+          "label": "Vacío empírico sobre maestros en ejercicio",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Constatación teórica de que, frente a los abundantes estudios en facultades universitarias, existía una notable ausencia de datos cuantitativos sobre los hábitos reales del profesorado en activo en España."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: comparar estudiantes universitarios y maestros",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Contrastar empíricamente los hábitos de lectura general voluntaria y el contacto con la literatura infantil entre estudiantes del Grado de Infantil y docentes en ejercicio profesional."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: analizar la formación voluntaria en LIJ",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Determinar el grado en que ambos colectivos participan en cursos y talleres extracurriculares de especialización en LIJ y comprobar su correlación con la frecuencia lectora anual."
+        },
+        {
+          "id": "6",
+          "label": "Diseño cuantitativo comparativo de autoinforme",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Investigación cuantitativa transversal no experimental basada en un cuestionario online estandarizado de preguntas cerradas para maximizar la comparabilidad estadística entre colectivos."
+        },
+        {
+          "id": "7",
+          "label": "Muestra de 532 participantes de Educación Infantil",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Muestra representativa de 318 maestros en ejercicio (media 41.5 años, 91.8% mujeres) y 214 estudiantes de Magisterio Infantil (media 22.9 años, 94.9% mujeres) de diversas universidades españolas."
+        },
+        {
+          "id": "8",
+          "label": "Cuestionario ad hoc y análisis inferencial con Chi²",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Instrumento en Google Forms con 4 bloques temáticos analizado mediante Chi Cuadrado con residuos estandarizados corregidos (umbral +-1.96), pruebas T de Student y correlaciones de Pearson."
+        },
+        {
+          "id": "9",
+          "label": "Mayor volumen de lectura anual en docentes en activo",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Los maestros en ejercicio leyeron significativamente más libros al año por placer que los universitarios (media de 9.8 frente a 6.79 libros; prueba T de Student con p = .005)."
+        },
+        {
+          "id": "10",
+          "label": "Frecuentación masiva de bibliotecas infantiles",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El 55.3% de los maestros visita secciones de LIJ en bibliotecas o librerías al menos una vez al mes, frente a solo un 15.9% de los estudiantes, donde el 25.7% declara no ir nunca (p = .000)."
+        },
+        {
+          "id": "11",
+          "label": "Búsqueda activa y suscripción a fuentes de LIJ",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El 68.2% de los maestros consulta periódicamente webs, blogs y redes sobre LIJ (con 20.1% suscrito), frente al predominio de consultas puramente ocasionales (56.1%) en los estudiantes."
+        },
+        {
+          "id": "12",
+          "label": "Amplia brecha en formación extracurricular en LIJ",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Casi dos de cada tres maestros (64.5%) han realizado formación voluntaria específica en literatura infantil, frente a apenas un 26.2% de los estudiantes en formación inicial."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: la práctica escolar como motor de transformación",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se discute que el contacto directo con los niños en el aula y la necesidad cotidiana de narrar cuentos actúa como un resorte que dinamiza el interés y la autoformación lectora del docente."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: el déficit de la formación universitaria inicial",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se debate la paradoja de que la universidad no logra forjar hábitos lectores en los futuros maestros, obligándolos a suplir tardíamente sus carencias mediante cursos externos en su etapa profesional."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: preguntas cerradas sin indagación de motivos",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "Los autores reconocen como limitación el uso exclusivo de cuestionarios cerrados sin entrevistas en profundidad para desentrañar las motivaciones biográficas subyacentes."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: reestructuración de los planes de magisterio",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye la urgencia de revalorizar la literatura infantil en los grados de educación, conectando tempranamente a los universitarios con las prácticas lectoras vivas de los centros escolares."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "establece la premisa teórica de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "aporta el diagnóstico universitario a"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "justifica el contraste empírico de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se operativiza a través del"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "guía las variables evaluadas en el"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se administra sobre la"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "utiliza para la recogida el"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "demuestra estadísticamente el"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "constata en las visitas la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "evidencia en la búsqueda la"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "revela en los cursos la"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "aporta soporte directo a la"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "nutre la tesis de la"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "ejemplifica la brecha de la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "confirma la urgencia en la"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "conduce a las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "fundamenta la propuesta de las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el alcance inferencial del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las recomendaciones de las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "revalida la superación del"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál fue la diferencia en volumen de lectura anual voluntaria encontrada entre maestros en ejercicio y estudiantes de Magisterio?",
+          "options": [
+            "Los estudiantes leyeron significativamente más libros al año que los maestros debido al tiempo libre.",
+            "Los maestros en ejercicio leyeron significativamente más libros (media 9.8 vs. 6.79 libros; p = .005).",
+            "Ambos colectivos arrojaron medias idénticas sin diferencias significativas.",
+            "Ningún docente en activo declaró leer más de dos libros al año."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo podría una facultad de Educación rediseñar sus asignaturas de lengua para que los universitarios experimenten la fascinación de los álbumes infantiles antes de graduarse?"
+        }
+      ]
+    }
+  }
+}

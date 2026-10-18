@@ -22,72 +22,72 @@
   "blocks": {
     "apertura": {
       "personaje": "Dra. Ana Zúñiga-Lacruz, especialista en reciclaje del folclore en narrativas audiovisuales contemporáneas",
-      "gancho": "¿Siguen vivos los cuentos de Perrault y los hermanos Grimm en la era del binge-watching y los algoritmos de streaming?",
-      "contexto": "Los cuentos de hadas tradicionales forman el cimiento del imaginario cultural occidental. Lejos de quedar fosilizados en libros antiguos, han encontrado en las series de televisión, las películas de streaming y los videojuegos una segunda vida llena de hibridaciones oscuras, empoderamiento femenino y giros de guion sorprendentes ('Once Upon a Time', 'Grimm', 'Tell Me a Story'). En este estudio pedagógico y analítico en la Universidad de La Rioja, la autora diseñó y evaluó una intervención formativa que utiliza el reciclaje de cuentos en streaming para desarrollar la competencia literaria y transmedia en estudiantes universitarios.",
+      "gancho": "¿Siguen vivos los cuentos de los hermanos Grimm en la era del binge-watching y los algoritmos de streaming?",
+      "contexto": "Los cuentos de hadas tradicionales forman el cimiento del imaginario cultural occidental. Lejos de quedar fosilizados en libros antiguos, han encontrado en las series de televisión, las películas de streaming y los videojuegos una segunda vida llena de hibridaciones oscuras, empoderamiento femenino y giros de guion sorprendentes ('Once upon a time', 'Grimm', 'Galavant', 'Cuéntame un cuento'). En este trabajo de la Universidad de La Rioja, la autora reflexiona sobre la utilización pedagógica de las plataformas streaming —concebidas como TAC, TEP y TRIC— y analiza, con un enfoque transtextual, glosemático y semiótico-textual, varias escenas de 'Once upon a time' para desarrollar la alfabetización lectora —textual y visual— y la competencia literaria del alumnado universitario.",
       "deepDives": [
         {
           "id": "rec-apertura-1",
-          "triggerLabel": "El concepto de 'reciclaje narrativo'",
+          "triggerLabel": "El concepto de 'reciclaje literario'",
           "type": "theory",
-          "content": "Apropiación, deconstrucción y resignificación de motivos folclóricos universales en formatos audiovisuales para públicos contemporáneos."
+          "content": "Concepto acuñado por Llamas (citado en Regueiro-Salgado, 2022): retomar lo pretérito para traerlo al presente desde la mirada actual, que selecciona lo rescatable del pasado y modifica lo que estima oportuno. Cañadas-García (2020) distingue un reciclaje ideológico —feminismo, poder político, ecologismo— de otro lúdico-humorístico y alternativo, basado en lo irrisorio y el efecto sorpresa."
         },
         {
           "id": "rec-apertura-2",
-          "triggerLabel": "Intervención con 95 universitarios",
+          "triggerLabel": "Aula universitaria: 2018-2023",
           "type": "data",
-          "content": "Diseño de guiones transmedia y reescrituras audiovisuales evaluadas mediante rúbricas analíticas."
+          "content": "Los doce primeros episodios de Once upon a time se han trabajado en el aula universitaria desde 2018 hasta 2023 con mucha eficacia: los cuestionarios de satisfacción de los alumnos otorgan entre un 4,7 y un 4,9 sobre 5 a la asignatura."
         }
       ]
     },
     "conflicto": {
-      "problema": "Los estudiantes universitarios de Educación y Humanidades suelen tener un conocimiento ingenuo o distorsionado de los cuentos clásicos (limitado a las versiones edulcoradas de Disney), desconociendo sus orígenes antropológicos cruentos.",
-      "porQueImporta": "Analizar cómo el streaming recicla los cuentos permite a los futuros docentes entender cómo se transmiten los valores ideológicos y de género a través de los relatos de masas.",
+      "problema": "Los estudiantes universitarios no siempre cuentan con las habilidades lectoras necesarias para disfrutar de los textos literarios: ciertas carencias en conocimiento y estrategias metacognitivas impiden que la lectura genere una conexión afectiva (Santos-Díaz et al., 2021; Permach-Martín y Álvarez-Uría, 2020). Sus lectura suele ser 'aleatoria, esquemática e hipertextual' (González-Batlle, 2013), mientras los cuentos clásicos —el germen de la LIJ— siguen siendo unos grandes desconocidos (Obiols-Suari et al., 2022).",
+      "porQueImporta": "Analizar cómo el streaming recicla los cuentos permite a los futuros docentes entender cómo se transmiten los valores ideológicos y de género a partir de la base tradicional: la serie articula desde lo reconocible un mensaje divergente que refleja cambios identitarios, culturales e ideológicos (Leisch, 2017).",
       "dataPoints": [
-        "Muestra de 95 estudiantes universitarios de Grado de Maestro en Educación Primaria.",
-        "El 88% desconocía las versiones originales de Perrault y Basile antes del proyecto.",
-        "Fascinación por el análisis de arquetipos subvertidos: la reina malvada como heroína traumatizada o el lobo como alegoría de la violencia de género.",
-        "Creación de proyectos transmedia: podcasts, falsos tráileres y cuentas de redes sociales para personajes de hadas."
+        "La generación Z (nacida entre 1994 y 2010) acude recurrentemente al streaming como oferta de ocio y consume de forma transmedia: obtiene información de un producto en libros, videojuegos, cómics, películas y series (FGSR, 2020; 2022).",
+        "La proliferación de plataformas (Netflix, Disney+, HBO…) ha disparado el nivel de impacto de las series, con un considerable potencial intertextual por su tendencia a retomar historias de la cultura popular (López-Gutiérrez y Nicolás-Gavilán, 2015).",
+        "Netflix irrumpió en 2007 en el mercado estadounidense; en España las principales plataformas OTT son Netflix, Filmin, Disney+ y Amazon Prime Video (Izquierdo-Castillo y Latorre-Lázaro, 2022).",
+        "El reciclaje de cuentos en las producciones audiovisuales apuesta por nuevos planteamientos que adaptan los clásicos a las necesidades sociales contemporáneas (Falcón Díaz-Aguado, 2013)."
       ],
       "glossary": [
         {
           "term": "Reciclaje transmedia",
-          "definition": "Estrategia narrativa que toma una historia clásica y expande su universo a través de múltiples pantallas y plataformas complementarias."
+          "definition": "Variedad de medios mediante los que se resignifican los cuentos clásicos; con el sentido actual del concepto (Scolari, 2019), la literatura transmedia recoge la diversidad de soportes y medios que favorecen el acercamiento a los textos literarios."
         }
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Investigación didáctica aplicada y creación transmedia",
-      "narrativa": "La autora organizó un itinerario de 5 semanas: lectura comparada de textos originales (Basile, Perrault, Grimm), visionado crítico de series de streaming y producción creativa de extensiones transmedia.",
+      "titulo": "Ruta metodológica: análisis comparativo de escenas y práctica de aula",
+      "narrativa": "Desde el visionado completo de la serie se eligieron tres escenas de la primera temporada —el piloto con Blancanieves, el capítulo quinto con Pinocho y el sexto con el mito de Midas— correlacionadas con sus hipotextos (Grimm, Collodi, mitología clásica) y examinadas con tres métodos: el comparativo semiótico-textual de Paz-Gago (2004), el glosemático de Zavala (2005) y el transtextual de Genette (1982). En el aula la propuesta se asienta en tres pilares: lectura previa e individual del cuento original, puesta en común guiada y visualización de la escena de 2 a 4 minutos.",
       "detalles": [
         {
           "label": "Contexto",
-          "value": "Universidad de La Rioja (Facultad de Letras y de la Educación)."
+          "value": "Aula universitaria del área de educación (Universidad de La Rioja), donde se trabajan desde 2018 los doce primeros episodios de Once upon a time."
         },
         {
           "label": "Muestra",
-          "value": "95 estudiantes de Grado."
+          "value": "Tres escenas analizadas de la primera temporada; la eficacia del método se constata en los cuestionarios de satisfacción del alumnado (2018-2023)."
         }
       ],
       "limitaciones": [
-        "Dificultades técnicas puntuales en la edición de vídeo por parte de algunos grupos de trabajo."
+        "El análisis de las escenas se presenta de forma esquemática y la autora advierte de los riesgos de abuso y adicción a las tecnologías (Pinargote-Baque y Cevallos-Cerdeño, 2020)."
       ],
       "reflexion": "Un cuento clásico es como un diamante: cada nueva época y cada nueva pantalla le hace brillar con una luz diferente."
     },
     "revelacion": {
       "titulo": "Hallazgos empíricos: Deconstruir para comprender",
-      "narrativa": "Los proyectos de los estudiantes desvelaron un salto cualitativo en su madurez analítica:",
+      "narrativa": "El análisis de las tres escenas y su contrastación con los originales desvelaron las posibilidades formativas del reciclaje transmedia:",
       "hallazgos": [
         {
-          "label": "1. Caída de la Mirada Ingenua",
-          "value": "Los alumnos descubrieron que los cuentos clásicos no eran para niños, sino advertencias para adultos sobre el poder, el incesto, el canibalismo y la supervivencia."
+          "label": "1. Ruptura de expectativas ante el original",
+          "value": "Facilitar en el aula los textos originales —de breve extensión, 5 o 6 páginas— produce una ruptura de expectativas y una mayor motivación lectora: el alumno descubre que el armazón reconocible del cuento admite sorpresas cuando la palabra y la imagen lo renuevan."
         },
         {
-          "label": "2. Empoderamiento Creativo",
-          "value": "Diseñar 'spin-offs' en TikTok o Instagram para Caperucita Roja o Cenicienta potenció su competencia narrativa y su pensamiento crítico sobre roles de género."
+          "label": "2. Arquetipos con oficios contemporáneos",
+          "value": "La reina malvada resucita como alcaldesa déspota que ofrece manzanas a Emma en casa de la abuelita de Caperucita, y Pepito Grillo como el psiquiatra Archie Hopper —el paraguas es rasgo de Disney, no de Collodi—, con modelos femeninos emancipados (Maurin, 2022) que renuevan los estereotipos."
         }
       ],
       "dataPoints": [
-        "Incremento del 40% en el rendimiento en competencias de análisis semiótico y literario."
+        "Los cuestionarios de satisfacción otorgan entre un 4,7 y un 4,9 sobre 5 a la asignatura en la que se trabajan los doce primeros episodios (2018-2023), con comentarios que destacan el interés suscitado hacia la literatura."
       ],
       "reflexion": "Quien conoce las raíces de un cuento es dueño de todas sus infinitas ramas en el árbol de las pantallas."
     },
@@ -104,28 +104,28 @@
     },
     "nucleo": {
       "pregunta": "¿Qué valor formativo tiene el análisis y producción de relatos transmedia basados en el reciclaje de cuentos clásicos en streaming en el aula universitaria?",
-      "conclusion": "La intervención didáctica con 95 universitarios en la Universidad de La Rioja demuestra que el reciclaje de cuentos clásicos a través de series de streaming y creaciones transmedia es una herramienta excepcional para despertar el interés filológico, desmitificar estereotipos morales y de género y desarrollar la competencia narrativa multimodal. Se reivindica el valor pedagógico de articular el patrimonio clásico con las plataformas de ocio favoritas del alumnado.",
+      "conclusion": "Este trabajo de la Universidad de La Rioja demuestra que el reciclaje de cuentos clásicos en series de streaming como Once upon a time, contrastadas con los relatos originales, es una herramienta excepcional para ahondar en el universo de los relatos tradicionales, mostrar la validez y versatilidad de los cuentos y potenciar la educación lectora, literaria y mediática del alumnado universitario desde un enfoque afectivo, motivacional y transmedia. Las plataformas streaming, concebidas como TAC, TEP y TRIC, se convierten así en aliadas del legado cultural.",
       "formalRef": "Zúñiga-Lacruz, A. (2024). El reciclaje de cuentos clásicos en plataformas streaming: literatura transmedia en el aula universitaria. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.417"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué desconocían el 88 % de los estudiantes universitarios antes de comenzar la intervención didáctica sobre cuentos clásicos?",
+          "q": "¿En qué consiste el 'reciclaje literario', concepto acuñado por Llamas que la autora aplica a las series de streaming?",
           "options": [
-            "El nombre de los ordenadores del aula.",
-            "Las versiones folclóricas y literarias originales de Perrault, Basile y los Grimm, reduciendo su conocimiento a los filmes infantiles de Disney.",
-            "El final de Caperucita Roja.",
-            "Cómo encender la televisión."
+            "En desechar las ediciones de cuentos ya usadas para imprimir nuevas.",
+            "En retomar lo pretérito para traerlo al presente desde la mirada actual, que selecciona lo que cree rescatable del pasado y modifica lo que considera oportuno a partir de su percepción de la realidad.",
+            "En reescribir los finales felices para no asustar a los niños.",
+            "En doblar las series a varios idiomas."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué tipo de series contemporáneas sirvieron de corpus para estudiar el reciclaje de cuentos de hadas en plataformas de streaming?",
+          "q": "¿Qué tipo de series contemporáneas menciona el artículo como propuestas que apuestan por el reciclaje literario?",
           "options": [
             "Documentales de cocina.",
-            "Series como 'Once Upon a Time', 'Grimm' o 'Tell Me a Story' que subvierten arquetipos clásicos y reubican los mitos en el mundo urbano moderno.",
+            "Series como 'Once upon a time', 'Galavant', 'Grimm' o 'Cuéntame un cuento', que reciclan personajes y tramas de los cuentos clásicos.",
             "Retransmisiones de fútbol.",
             "Concursos de preguntas y respuestas."
           ],
@@ -133,12 +133,12 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué beneficio cognitivo y crítico demostró tener la creación de proyectos transmedia por parte de los alumnos?",
+          "q": "¿Qué avala la eficacia de la propuesta didáctica en el aula universitaria?",
           "options": [
-            "Un incremento del 40 % en la capacidad de análisis semiótico y una deconstrucción madura de los roles tradicionales de género.",
-            "Pérdida total del interés por la literatura.",
-            "Ganas de suspender el grado.",
-            "Ningún cambio apreciable."
+            "Los cuestionarios de satisfacción de 2018 a 2023, que otorgan a la asignatura entre un 4,7 y un 4,9 sobre 5 y destacan el interés suscitado hacia la literatura.",
+            "Un incremento del 40% en las notas de filología clásica.",
+            "Los spin-offs virales de Caperucita en redes sociales.",
+            "El premio internacional recibido por la serie."
           ],
           "correct": 0
         },
@@ -148,14 +148,14 @@
         },
         {
           "type": "open",
-          "q": "¿Por qué crees que a los estudiantes jóvenes les impacta tanto descubrir que las versiones originales de los cuentos de hadas tenían finales sangrientos y estaban dirigidas a adultos?"
+          "q": "¿Por qué crees que es importante facilitar en el aula los textos originales y más desconocidos de los cuentos —como la primera edición de 1812 de los Grimm— en lugar de solo sus versiones comerciales?"
         }
       ]
     }
   },
   "tutorTexts": {
     "apertura": {
-      "text": "¡Las hadas han invadido Netflix! Descubre cómo los viejos mitos de Perrault renacen en las series de streaming.",
+      "text": "¡Las hadas han invadido Netflix! Descubre cómo los viejos cuentos de los Grimm renacen en las series de streaming.",
       "position": "bottom-right"
     },
     "conflicto": {
@@ -163,11 +163,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "95 estudiantes universitarios en La Rioja comparan textos del siglo XVII con las series más virales de televisión.",
+      "text": "En el aula de La Rioja se comparan los cuentos originales con tres escenas de Once upon a time desde 2018.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El reciclaje transmedia desata la creatividad! Los alumnos crean podcasts y tráileres donde los villanos cuentan su verdad.",
+      "text": "¡La madrastra es alcaldesa y el grillo psiquiatra! El alumnado puntúa este método con un 4,7 a 4,9 sobre 5.",
       "position": "bottom-right"
     },
     "marco": {
@@ -188,111 +188,48 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Reciclaje de Cuentos Clásicos en Streaming y Transmedia",
-    "descripcion": "Intervención universitaria (95 alumnos): versiones originales (Perrault/Grimm), series de streaming, creación transmedia y deconstrucción de género.",
+    "titulo": "Mapa conceptual: Reciclaje de cuentos clásicos en streaming y aula universitaria (Ocnos 23(1) 2024)",
+    "descripcion": "El artículo parte del déficit lector universitario y el consumo transmedia de la generación Z hacia la reflexión sobre el streaming como TAC, TEP y TRIC; analiza escenas de Once upon a time con tres métodos transtextuales, propone una práctica de aula basada en lectura previa y visionado guiado, y culmina en la educación literaria, lectora y mediática.",
     "nodos": [
-      {
-        "id": "1",
-        "label": "Cuentos Clásicos en Streaming",
-        "color": "#e76f51"
-      },
-      {
-        "id": "2",
-        "label": "Reciclaje Narrativo Audiovisual",
-        "color": "#2a5a75"
-      },
-      {
-        "id": "3",
-        "label": "Versiones Originales Cruentas",
-        "color": "#c73e1d"
-      },
-      {
-        "id": "4",
-        "label": "Edulcoración Tradicional Disney",
-        "color": "#5b9eaa"
-      },
-      {
-        "id": "5",
-        "label": "Creación de Proyectos Transmedia",
-        "color": "#88b04b"
-      },
-      {
-        "id": "6",
-        "label": "Subversión de Roles de Género",
-        "color": "#f4d068"
-      },
-      {
-        "id": "7",
-        "label": "Alumnos de Magisterio (95)",
-        "color": "#264653"
-      },
-      {
-        "id": "8",
-        "label": "Series Líderes (Grimm, OUAT)",
-        "color": "#2a9d8f"
-      },
-      {
-        "id": "9",
-        "label": "Mejora Semiótica (+40%)",
-        "color": "#9b82c3"
-      },
-      {
-        "id": "10",
-        "label": "Didáctica Literaria Expandida",
-        "color": "#f4a261"
-      }
+      {"id": "1", "label": "Legado cultural de los cuentos clásicos", "color": "#88b04b", "role": "Marco teórico", "descripcion": "Los cuentos clásicos constituyen un legado cultural fundamental y una memoria colectiva universal que ayudan a afrontar conflictos psicológicos proyectando la lucha entre el bien y el mal (García-Carcedo, 2018). Sus personajes son arquetipos (Jung, 2010) que cumplen funciones narrativas (Propp, 1985). Esa labilidad y resiliencia los convierte en material en permanente renovación (Fernández-San-Emeterio, 2022)."},
+      {"id": "2", "label": "Alfabetización lectora textual y visual", "color": "#c73e1d", "role": "Marco teórico", "descripcion": "Los estudiantes universitarios suelen carecer de habilidades lectoras y estrategias metacognitivas que generen conexión afectiva con el texto (Santos-Díaz et al., 2021; Permach-Martín y Álvarez-Uría, 2020). Su lectura es aleatoria, esquemática e hipertextual, con lenguaje escrito, imágenes y sonidos (González-Batlle, 2013), lo que exige una alfabetización en doble código textual y visual."},
+      {"id": "3", "label": "Consumo transmedia de la generación Z", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "La generación Z, nacida entre 1994 y 2010, acude recurrentemente al streaming como oferta de ocio (FGSR, 2020; 2022) y está acostumbrada a obtener información de un producto en libros, videojuegos, cómics, películas y series (Abellán-Guzmán y Cortés-Quesada, 2022; Torrego-González y Gutiérrez-Martín, 2018). La proliferación de Netflix, Disney+ o HBO disparó el impacto semántico e intertextual de las series (López-Gutiérrez y Nicolás-Gavilán, 2015)."},
+      {"id": "4", "label": "Reciclaje literario", "color": "#f4a261", "role": "Marco teórico", "descripcion": "Concepto acuñado por Llamas (citado en Regueiro-Salgado, 2022): retomar lo pretérito desde la mirada actual, que selecciona lo rescatable del pasado y lo modifica según su percepción de la realidad. Cañadas-García (2020) distingue un reciclaje ideológico —feminismo, poder político, ecologismo— de otro lúdico-humorístico y alternativo, basado en lo irrisorio y el efecto sorpresa."},
+      {"id": "5", "label": "Streaming como TAC, TEP y TRIC", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "La LOMLOE (2020) insta a integrar las TIC, pero estas por sí solas no mejoran el aprendizaje: el giro es concebir la tecnología como TAC, TEP y TRIC (Martí-Climent, 2021). Netflix irrumpió en 2007 generalizando el vídeo bajo demanda y las OTT —Netflix, Filmin, Disney+, Prime—, exitosas en el target de 20 a 35 años pese a la burbuja posterior a la COVID (Benito-García, 2023). El visionado a la carta favorece el aprendizaje significativo, la participación y la relación multimodal."},
+      {"id": "6", "label": "Función pedagógica de las series en streaming", "color": "#f4d068", "role": "Objetivo", "descripcion": "El trabajo indaga la función pedagógica de los contenidos audiovisuales que recurren al reciclaje literario en plataformas streaming concebidas como TAC, TEP y TRIC. Busca demostrar las posibilidades didácticas de estas series y las sinergias que generan con la lectura de los hipotextos clásicos para desarrollar la competencia literaria universitaria."},
+      {"id": "7", "label": "Once upon a time como caso paradigmático", "color": "#e76f51", "role": "Método", "descripcion": "Serie de Adam Horowitz y Edward Kitsis para ABC Studios, emitida entre 2011 y 2018 con siete temporadas y 156 episodios, hoy en Disney+. Emma Swan, hija de Blancanieves, rompe en Storybrook el maleficio de la alcaldesa Regina, devolviendo la memoria a personajes del folclore y la literatura —Grimm, Collodi, El mago de Oz, Aladino, Mulan—. Sobre esa base reconocible articula un mensaje divergente con cambios identitarios, culturales e ideológicos (Leisch, 2017)."},
+      {"id": "8", "label": "Tres métodos de análisis", "color": "#2a5a75", "role": "Método", "descripcion": "El comparativo semiótico-textual de Paz-Gago (2004) atiende a convergencias y divergencias entre cuento clásico y capítulo de serie. El glosemático de Zavala (2005), basado en Hjelmslev, distingue sustancia y forma de la expresión y del contenido. El transtextual de Genette (1982) revisa intertextualidad, paratextualidad, metatextualidad y architextualidad."},
+      {"id": "9", "label": "Criterios de selección de escenas", "color": "#264653", "role": "Método", "descripcion": "Tras el visionado completo de la serie se eligieron tres escenas de la primera temporada, donde se reciclan los personajes y tramas más conocidos del canon. Los criterios: aparición de tramas, recursos, arquetipos y personajes reconocibles; diversidad de géneros reciclados —cuento, novela, mito—; inserción de símbolos."},
+      {"id": "10", "label": "Propuesta didáctica en tres pilares", "color": "#2a9d8f", "role": "Método", "descripcion": "Se asienta en la lectura previa e individual del cuento original, breve y por eso motivadora; la puesta en común en el aula con aplicación guiada de los métodos; y la visualización de escenas de entre 2 y 4 minutos para reflexionar conjuntamente sobre concomitancias y divergencias. El análisis guiado de la obra audiovisual ayuda a captar los matices de la obra literaria y a valorarla."},
+      {"id": "11", "label": "Escena de Blancanieves (piloto)", "color": "#f4a261", "role": "Resultados", "descripcion": "El capítulo piloto convierte a la madrastra que envenena a Blancanieves en la alcaldesa Regina, que chantajea a Emma con una cesta de manzanas rojas en la casa-hostal de la abuelita de Caperucita. Confluyen engaño, persecución y el recurso simbólico de la manzana; divergen la amenaza sin muerte y los espacios actuales, con la chaqueta roja de Emma y el umbral como señas."},
+      {"id": "12", "label": "Escena de Pinocho (Collodi)", "color": "#c73e1d", "role": "Resultados", "descripcion": "El psiquiatra Archie Hopper, alter ego de Pepito Grillo, conversa con Henry sobre el sentido de los cuentos y la conciencia en un despacho con muebles de madera que aluden a Gepetto. Convergencia en la voz de la conciencia; divergencia con Collodi, donde el muñeco asesina al Grillo Parlante, muerte que genera fuerte impacto en el alumnado. El paraguas de Archie es rasgo de Disney, no del original."},
+      {"id": "13", "label": "Escena del mito de Midas", "color": "#9b82c3", "role": "Resultados", "descripcion": "La serie recicla el mito de Midas —Metamorfosis, xi— en la historia del pastor gemelo que sustituye al príncipe muerto y mata al dragón con astucia, devenido Príncipe Encantador. La ambición desmedida del rey que convierte todo en oro se opone a la humildad del pastor, y la inteligencia vence a la fuerza bruta, con arquetipos del héroe, el doble y la sombra."},
+      {"id": "14", "label": "Satisfacción del alumnado 2018-2023", "color": "#88b04b", "role": "Resultados", "descripcion": "Los doce primeros capítulos de la serie se han trabajado en el aula universitaria entre 2018 y 2023 con mucha eficacia. Los cuestionarios de satisfacción otorgan a la asignatura valoraciones de entre 4,7 y 4,9 sobre 5, y los comentarios destacan el interés hacia la literatura suscitado por este método."},
+      {"id": "15", "label": "Mujeres emancipadas y estereotipos renovados", "color": "#e76f51", "role": "Discusión", "descripcion": "La serie mantiene personajes arquetípicos e intrigas amorosas convencionales, pero rompe expectativas con modelos femeninos emancipados y princesas liberadas (Maurin, 2022). Los personajes seculares reciben profesiones y caracterizaciones contemporáneas —reina malvada convertida en alcaldesa déspota, Pepito Grillo como psiquiatra—, evidenciando que las preocupaciones de la condición humana y los cuentos son inmarcesibles."},
+      {"id": "16", "label": "Educación literaria, lectora y mediática", "color": "#2a5a75", "role": "Conclusiones", "descripcion": "La propuesta persigue un triple objetivo: ahondar en el universo de los relatos tradicionales, mostrar la validez y versatilidad de los cuentos reciclados en distintos medios y potenciar la educación lectora, literaria y mediática desde un enfoque afectivo, motivacional y transmedia. Contribuye así a un modelo de aprovechamiento didáctico de la tecnología —TAC, TEP, TRIC— para el goce estético textual y visual."}
     ],
     "aristas": [
-      {
-        "from": "7",
-        "to": "1",
-        "label": "investiga y deconstruye los"
-      },
-      {
-        "from": "1",
-        "to": "2",
-        "label": "se fundamenta en el concepto de"
-      },
-      {
-        "from": "1",
-        "to": "8",
-        "label": "se analiza empíricamente en"
-      },
-      {
-        "from": "3",
-        "to": "4",
-        "label": "desmiente y supera la histórica"
-      },
-      {
-        "from": "7",
-        "to": "5",
-        "label": "aprende diseñando nuevos"
-      },
-      {
-        "from": "5",
-        "to": "6",
-        "label": "fomenta activamente la"
-      },
-      {
-        "from": "5",
-        "to": "9",
-        "label": "se traduce en una notable"
-      },
-      {
-        "from": "10",
-        "to": "1",
-        "label": "propone integrar en la docencia los"
-      },
-      {
-        "from": "10",
-        "to": "3",
-        "label": "recupera en las aulas las ricas"
-      },
-      {
-        "from": "6",
-        "to": "9",
-        "label": "sostiene el pensamiento crítico y la"
-      }
+      {"from": "1", "to": "4", "label": "sustentan el"},
+      {"from": "2", "to": "6", "label": "exigen indagar la"},
+      {"from": "3", "to": "5", "label": "convierten el streaming en"},
+      {"from": "5", "to": "6", "label": "orientan la"},
+      {"from": "6", "to": "7", "label": "se ejemplifica en"},
+      {"from": "4", "to": "7", "label": "se materializa en"},
+      {"from": "7", "to": "8", "label": "se estudia mediante los"},
+      {"from": "9", "to": "8", "label": "guían la aplicación de los"},
+      {"from": "8", "to": "11", "label": "permiten analizar la"},
+      {"from": "8", "to": "12", "label": "permiten comparar la"},
+      {"from": "8", "to": "13", "label": "se aplican a la"},
+      {"from": "10", "to": "8", "label": "aplica los"},
+      {"from": "10", "to": "14", "label": "se validó en el aula con"},
+      {"from": "14", "to": "16", "label": "respaldan la"},
+      {"from": "15", "to": "12", "label": "se ejemplifica en la"},
+      {"from": "15", "to": "13", "label": "se demuestra en la"},
+      {"from": "1", "to": "16", "label": "respaldan la"},
+      {"from": "4", "to": "15", "label": "provoca el"},
+      {"from": "15", "to": "16", "label": "enriquecen la"},
+      {"from": "3", "to": "7", "label": "consume"},
+      {"from": "5", "to": "16", "label": "posibilitan la"}
     ]
   }
 }

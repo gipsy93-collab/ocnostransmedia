@@ -1,0 +1,376 @@
+{
+  "id": "microrrelato_hispanico_lectura_intercultural_l2",
+  "metadata": {
+    "id": "microrrelato_hispanico_lectura_intercultural_l2",
+    "title": "El microrrelato hispánico y la lectura intercultural en L2",
+    "authors": [
+      "Gladys Villegas-Paredes"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "1",
+    "pages": "78-89",
+    "doi": "10.18239/ocnos_2018.17.1.1506",
+    "keywords": [
+      "microrrelato hispánico",
+      "lectura intercultural",
+      "español como lengua extranjera",
+      "competencia comunicativa intercultural",
+      "didáctica de la literatura"
+    ],
+    "abstract": "Estudio teórico-descriptivo que analiza el microrrelato hispánico como manifestación de la estética posmoderna de la brevedad y propone su integración sistemática en la enseñanza de español como segunda lengua (L2). Demuestra cómo su condensación semántica, elipsis, ironía e intertextualidad potencian la competencia comunicativa intercultural (CCI) en aprendices extranjeros."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo puede un texto de apenas cincuenta palabras condensar un universo cultural entero y activar un diálogo reflexivo profundo en aprendices de una lengua extranjera? El microrrelato hispánico, cumbre de la elipsis y la agudeza posmoderna, emerge como un artefacto pedagógico privilegiado para cultivar la competencia comunicativa intercultural.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis teórico y didáctico:",
+        "opciones": [
+          {
+            "id": "estetica",
+            "texto": "Ruta estética: posmodernidad, hibridismo genérico, elipsis y juego paródico"
+          },
+          {
+            "id": "intercultural",
+            "texto": "Ruta intercultural: enfoque sociocultural y desarrollo de la CCI según Byram"
+          },
+          {
+            "id": "didactica",
+            "texto": "Ruta didáctica: diseño de tareas de lectura crítica y desfamiliarización cultural"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "En la didáctica de lenguas extranjeras (ELE/L2), la enseñanza cultural suele reducirse con frecuencia a clichés folclóricos, datos turísticos superficiales o fragmentos narrativos extensos que desbordan la competencia lingüística del aprendiz. El reto radica en encontrar textos breves pero de alta densidad simbólica que desafíen los etnocentrismos.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Por qué la extrema brevedad y la elipsis del microrrelato favorecen el aprendizaje intercultural?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Porque obligan al lector a completar activamente los silencios textuales movilizando presupuestos culturales, desvelando sesgos e inferencias compartidas.",
+            "correcta": true,
+            "explicacion": "Exacto: al carecer de descripciones redundantes, el microrrelato exige que el aprendiz coopere interpretativamente con el texto negociando significados culturales."
+          },
+          {
+            "id": "c2",
+            "texto": "Porque al ser tan cortos no requieren ningún esfuerzo interpretativo ni conocimiento previo.",
+            "correcta": false,
+            "explicacion": "Al contrario: la brevedad del microrrelato concentra una enorme complejidad alusiva e intertextual que exige un lector cómplice y activo."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "La investigadora articula los postulados del enfoque sociocultural de Vygotsky, la teoría del lector implícito y la competencia intercultural de Michael Byram con la tipología formal del microrrelato hispánico contemporáneo (obras de Monterroso, Arreola, Valenzuela, Shua o Galeano), construyendo una propuesta metodológica para el aula de L2.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Fundamentación teórica",
+            "detalle": "Revisión del enfoque sociocultural y modelos de Competencia Comunicativa Intercultural (CCI)."
+          },
+          {
+            "fase": "Poética del microrrelato",
+            "detalle": "Caracterización de rasgos: hiperbrevedad, proteísmo, metaficción, parodia e intertextualidad."
+          },
+          {
+            "fase": "Selección de corpus",
+            "detalle": "Criterios de pertinencia temática, complejidad lingüística graduada y potencial dialógico intercultural."
+          },
+          {
+            "fase": "Propuesta didáctica",
+            "detalle": "Secuencia de andamiaje: prelectura contextual, negociación de silencios y reescritura crítica."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El artículo fundamenta que el microrrelato actúa como un espejo desfamiliarizador: su naturaleza irónica e intertextual desconcierta las certezas culturales del estudiante extranjero, provocando una fructífera crisis interpretativa que supera los estereotipos y fomenta la descentración crítica.",
+      "datos_clave": [
+        "Articulación teórica del microrrelato con el Marco Común Europeo de Referencia (MCER).",
+        "Definición de las cuatro dimensiones de la lectura intercultural: cognitiva, afectiva, comportamental y crítica.",
+        "Catálogo de estrategias didácticas para rentabilizar la elipsis y la polisemia en aprendices de L2.",
+        "Revalorización de la literatura breve como mediadora de identidades plurales y diálogo transcultural."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El estudio se apoya en el modelo de competencia comunicativa intercultural de Byram (1997), la estética de la recepción de Eco (1979), las teorías sobre el microrrelato de Lagmanovich (2006) y Koch (2000), y la pedagogía intercultural de Kramsch (1993).",
+      "referencias_clave": [
+        "Byram (1997)",
+        "Eco (1979)",
+        "Lagmanovich (2006)",
+        "Kramsch (1993)",
+        "Villegas-Paredes (2018)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El microrrelato no es solo una joya de concisión estética: es un catalizador pedagógico de primer orden para aprender una lengua extranjera desde la alteridad, obligando al lector a confrontar sus propios marcos mentales frente al misterio sugerido entre líneas.",
+      "hallazgo_central": "El microrrelato hispánico constituye un dispositivo didáctico idóneo en L2 para propiciar la descentración cultural y desarrollar la competencia comunicativa intercultural mediante la decodificación de la elipsis."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos teóricos con su manifestación didáctica en el aula de L2:",
+          "pares": [
+            {
+              "concepto": "Descentración cultural",
+              "definicion": "Capacidad de distanciarse de la propia perspectiva etnocéntrica para comprender la visión del otro."
+            },
+            {
+              "concepto": "Elipsis narrativa",
+              "definicion": "Omisión deliberada de información que obliga al lector a rellenar huecos con conocimiento cultural."
+            },
+            {
+              "concepto": "Intertextualidad paródica",
+              "definicion": "Diálogo con mitos, fábulas y relatos previos subvirtiendo su significado tradicional."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Microrrelato Hispánico y Lectura Intercultural en L2",
+      "descripcion": "Articulación pedagógica de la estética de la hiperbrevedad con el desarrollo de la competencia intercultural.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Microrrelato y Lectura Intercultural en L2",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo central: fundamentar teóricamente el valor pedagógico del microrrelato hispánico como recurso nuclear para desarrollar la competencia comunicativa intercultural en aprendices de español L2."
+        },
+        {
+          "id": "2",
+          "label": "Estética Posmoderna de la Brevedad",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Contexto de la estética contemporánea caracterizada por la fragmentación, el nomadismo genérico, la condensación expresiva y la primacía de la sugerencia poética sobre la descripción extensa."
+        },
+        {
+          "id": "3",
+          "label": "Competencia Intercultural según Byram",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Modelo de Michael Byram que articula conocimientos culturales, destrezas de interpretación/relación, habilidades de descubrimiento/interacción y actitudes críticas de relativización de uno mismo."
+        },
+        {
+          "id": "4",
+          "label": "Enfoque Sociocultural y Tercer Espacio",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Postulados de Claire Kramsch y Vygotsky sobre la lengua como práctica social mediada, donde el aula de L2 se concibe como un tercer espacio híbrido de encuentro y negociación entre culturas."
+        },
+        {
+          "id": "5",
+          "label": "Metodología Teórico-Descriptiva y Hermenéutica",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño analítico y propositivo que combina el análisis hermenéutico literario de rasgos genéricos con la modelización pedagógica de secuencias formativas para aprendices de español."
+        },
+        {
+          "id": "6",
+          "label": "Corpus Representativo de Ficción Breve",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Selección ilustrativa de microrrelatos de maestros hispanoamericanos (Augusto Monterroso, Juan José Arreola, Ana María Shua, Luisa Valenzuela) con alto potencial dialógico e intertextual."
+        },
+        {
+          "id": "7",
+          "label": "Caracterización de Rasgos Genéricos Clave",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Sistematización taxonómica de propiedades formales del género: extrema concisión, elipsis radical, hibridismo, desenlace sorpresivo, parodia de fábulas clásicas y polisemia abierta."
+        },
+        {
+          "id": "8",
+          "label": "Diseño de Tareas de Andamiaje Intercultural",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Elaboración de pautas didácticas articuladas en tres fases: anticipación de marcos culturales, resolución de vacíos de información implícitos y reflexión metacomunicativa contrastiva."
+        },
+        {
+          "id": "9",
+          "label": "Potencial de la Elipsis y Vacíos de Sentido",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "La elipsis estructural exige al aprendiz foráneo una cooperación interpretativa activa, forzándolo a cuestionar sus propios esquemas mentales para dotar de coherencia al subtexto omitido."
+        },
+        {
+          "id": "10",
+          "label": "Desfamiliarización y Ruptura de Estereotipos",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "La ironía y la inversión paródica presentes en los relatos desestabilizan los tópicos culturales superficiales, favoreciendo una mirada crítica y compleja hacia la realidad hispanoamericana."
+        },
+        {
+          "id": "11",
+          "label": "Accesibilidad Lingüística y Densidad Simbólica",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "La reducida carga léxica cuantitativa evita la fatiga decodificadora en niveles intermedios de L2, permitiendo focalizar la energía cognitiva en el debate conceptual y axiológico profundo."
+        },
+        {
+          "id": "12",
+          "label": "Superación del Enfoque Etnocéntrico Tradicional",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión epistemológica que critica la enseñanza tradicional de la cultura como mero catálogo estático de datos folclóricos, reivindicando la literatura como práctica dialógica viva."
+        },
+        {
+          "id": "13",
+          "label": "El Lector en L2 como Co-creador Textual",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate en torno a la teoría de Umberto Eco sobre la obra abierta: en el microrrelato, el estudiante no es receptor pasivo sino coautor necesario que reconstruye los nexos narrativos invisibles."
+        },
+        {
+          "id": "14",
+          "label": "Idoneidad Curricular del Microrrelato en L2",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental que confirma al microrrelato como un recurso formativo de extraordinaria rentabilidad didáctica para conjugar competencia lingüística, literaria e intercultural."
+        },
+        {
+          "id": "15",
+          "label": "Recomendaciones de Mediación en el Aula",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Prescripción pedagógica que aconseja guiar la lectura mediante preguntas socráticas abiertas, evitando interpretaciones unívocas para estimular la polifonía y el contraste de puntos de vista."
+        },
+        {
+          "id": "16",
+          "label": "Límites de Validación Empírica en Aulas Reales",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite declarado del estudio al tratarse de una propuesta metodológica de base teórica que requiere su validación experimental empírica posterior con cohortes reales de estudiantes de L2."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se encuadra en"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "toma como meta"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se desarrolla mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "confluye con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "selecciona"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "analiza"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "formula"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "ejemplifica"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "identifica"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "activa"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "combina"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "contribuye a"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "posibilita"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "permite"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "fundamenta"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "refuerza"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se traduce en"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "reconoce"
+        },
+        {
+          "from": "8",
+          "to": "16",
+          "label": "demanda testeo en"
+        },
+        {
+          "from": "3",
+          "to": "10",
+          "label": "se operativiza en"
+        },
+        {
+          "from": "4",
+          "to": "13",
+          "label": "conecta conceptualmente con"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "En un mundo saturado de información rápida y prejuicios instantáneos, el microrrelato enseña que lo más valioso a menudo se dice callando. En el aula de segundas lenguas, la brevedad elíptica es la mejor invitación a detenerse, escuchar al otro y descubrir que toda cultura se construye en comunidad.",
+      "preguntas": [
+        "¿Se sigue utilizando la literatura en la enseñanza de segundas lenguas únicamente para ilustrar reglas gramaticales o para abrir horizontes interculturales?",
+        "¿Cómo puede el docente formular preguntas que guíen al estudiante hacia la desfamiliarización de sus propios prejuicios culturales?"
+      ]
+    }
+  }
+}

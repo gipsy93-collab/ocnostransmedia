@@ -1,0 +1,377 @@
+{
+  "id": "concepto_literatura_infantil_maestros_formacion_inicial",
+  "metadata": {
+    "id": "concepto_literatura_infantil_maestros_formacion_inicial",
+    "title": "El concepto de literatura infantil. Un estudio de caso con maestros en formación inicial",
+    "authors": [
+      "Amando López-Valero",
+      "Lourdes Hernández-Delgado",
+      "Eduardo Encabo"
+    ],
+    "year": 2017,
+    "volume": "16",
+    "issue": "2",
+    "pages": "37-49",
+    "doi": "10.18239/ocnos_2017.16.2.1400",
+    "keywords": [
+      "literatura infantil",
+      "maestros en formación",
+      "formación docente",
+      "estereotipos de género",
+      "cultura audiovisual"
+    ],
+    "abstract": "Estudio de caso evaluativo-descriptivo con 107 estudiantes del Grado de Educación Infantil de la Universidad de Murcia que indaga sus concepciones sobre la literatura infantil, la influencia del ecosistema audiovisual y las franquicias comerciales de animación, la pervivencia del canon clásico y la persistencia inconsciente de estereotipos de género. Propone claves para una didáctica crítica de la literatura en la universidad."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Qué entienden por \"literatura infantil\" quienes mañana tendrán la responsabilidad de formar a las primeras generaciones lectoras en las aulas? ¿Conciben la literatura como arte estético emancipador o la reducen a dibujos animados de televisión, productos comerciales de mercadotecnia y cuentos moralizantes? Este estudio con 107 futuros maestros revela inquietantes hallazgos.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis didáctico e ideológico:",
+        "opciones": [
+          {
+            "id": "epistemologica",
+            "texto": "Ruta epistemológica: delimitación del constructo de literatura infantil"
+          },
+          {
+            "id": "audiovisual",
+            "texto": "Ruta audiovisual: impacto colonizador de Disney y las marcas comerciales"
+          },
+          {
+            "id": "genero",
+            "texto": "Ruta de género: pervivencia de roles sexistas en el imaginario docente"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Muchos docentes en formación inicial llegan a la universidad con un bagaje lector precario, asociando de forma casi exclusiva la literatura infantil a películas de animación comercial o a cuentos de hadas tradicionales desprovistos de mirada crítica, perpetuando visiones sexistas y consumistas que luego trasladan a las aulas infantiles.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cuál es el mayor peligro de confundir literatura infantil con adaptaciones audiovisuales comerciales?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Privar al niño de la riqueza estética de la palabra escrita y colonizar su imaginación con estereotipos de consumo y roles de género caducos.",
+            "correcta": true,
+            "explicacion": "Exacto: la mercadotecnia industrial tiende a uniformar los relatos, eliminando la diversidad poética y crítica de la auténtica literatura."
+          },
+          {
+            "id": "c2",
+            "texto": "Que las películas son siempre más complejas e intelectualmente elevadas que los libros infantiles.",
+            "correcta": false,
+            "explicacion": "Al contrario: el producto audiovisual comercial suele simplificar las tramas y limar cualquier conflicto incómodo."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los investigadores aplicaron un cuestionario mixto (preguntas abiertas de definición y escalas valorativas cerradas) a 107 alumnos de 3º del Grado de Educación Infantil de la Universidad de Murcia. Analizaron las respuestas cualitativamente mediante triangulación categorial y cuantitativamente con estadística descriptiva.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra universitaria",
+            "detalle": "107 maestros en formación inicial de Educación Infantil de la Universidad de Murcia."
+          },
+          {
+            "fase": "Cuestionario ad hoc",
+            "detalle": "Ítems sobre definición conceptual, autores conocidos, consumo mediático y roles de género."
+          },
+          {
+            "fase": "Codificación categorial",
+            "detalle": "Categorización temática de visiones reduccionistas, didactistas y estético-literarias."
+          },
+          {
+            "fase": "Análisis crítico",
+            "detalle": "Diagnóstico de carencias formativas y formulación de propuestas de renovación curricular."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados revelaron una preocupante pobreza en el canon conocido: predominaron abrumadoramente las menciones a cuentos tradicionales clásicos y películas de Disney, con un escaso conocimiento de la literatura infantil contemporánea y una marcada naturalización de roles sexistas en los personajes femeninos.",
+      "datos_clave": [
+        "Estudio empírico de caso con 107 maestros en formación inicial de Infantil.",
+        "Predominio de definiciones utilitaristas y moralizantes frente a la valoración estética y artística.",
+        "Fuerte dependencia de la cultura audiovisual hegemónica sobre la lectura de libros impresos.",
+        "Urgencia demostrada de refundar la formación literaria en las facultades de educación."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se encuadra en las teorías de formación de lectores de Colomer (1998) y Mendoza Fillola (2004), los estudios sobre estereotipos en literatura infantil de Cerrillo (2007) y la pedagogía crítica de Freire y Giroux.",
+      "referencias_clave": [
+        "Colomer (1998)",
+        "Mendoza Fillola (2004)",
+        "Cerrillo (2007)",
+        "López-Valero et al. (2017)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "No se puede transmitir el amor por lo que no se conoce. Si queremos aulas infantiles donde se respire literatura viva, diversa, coeducativa y crítica, es imperativo que la formación de maestros deje de ser un trámite burocrático y se convierta en una auténtica revolución estética y lectora.",
+      "hallazgo_central": "Los futuros maestros de Educación Infantil presentan concepciones reduccionistas y tradicionales de la literatura, dominadas por la cultura audiovisual comercial y estereotipos de género, exigiendo una profunda renovación curricular universitaria."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los enfoques de la literatura infantil con su perspectiva en la formación docente:",
+          "pares": [
+            {
+              "concepto": "Enfoque utilitarista moralizante",
+              "definicion": "Usar el cuento únicamente como pretexto para enseñar hábitos o normas de conducta."
+            },
+            {
+              "concepto": "Enfoque mercantilista audiovisual",
+              "definicion": "Identificar la literatura infantil con las grandes marcas y franquicias de entretenimiento."
+            },
+            {
+              "concepto": "Enfoque artístico y emancipador",
+              "definicion": "Concebir la lectura literaria como experiencia estética, placentera y constructora de pensamiento crítico."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Concepciones de Literatura Infantil en Maestros en Formación",
+      "descripcion": "Estudio de caso sobre las ideas previas, canon lector e influencias mediáticas en estudiantes de Grado Infantil.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Concepción de Literatura Infantil en Futuros Maestros",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo de la investigación: analizar las concepciones, el canon de referencia, la relación con el audiovisual y los estereotipos de género sobre literatura infantil en maestros en formación inicial de Infantil."
+        },
+        {
+          "id": "2",
+          "label": "Vacíos en la Formación Literaria Docente",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco contextual que denuncia la escasa presencia de la formación lectora en los planes de estudio del Grado de Maestro, donde se prioriza la didáctica instrumental sobre la vivencia estética personal."
+        },
+        {
+          "id": "3",
+          "label": "Teoría de la Educación Literaria según Colomer",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Modelo de Teresa Colomer y Mendoza Fillola que define la competencia literaria como un diálogo intertextual complejo que requiere conocimiento de la LIJ contemporánea y desmitificación de tópicos."
+        },
+        {
+          "id": "4",
+          "label": "Crítica Cultural a la Industria Infantil",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Enfoque crítico sobre la colonización del imaginario infantil por parte de multinacionales audiovisuales como Disney, que simplifican tramas complejas y reproducen roles tradicionales sumisos."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Metodológico de Estudio de Caso",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño evaluativo-descriptivo no experimental mediante estudio de caso transeccional, combinando técnicas cualitativas y cuantitativas para explorar en profundidad las representaciones del alumnado."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 107 Estudiantes de Grado Infantil",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Participación de 107 maestros en formación inicial de tercer curso del Grado de Educación Infantil de la Universidad de Murcia, con un perfil sociodemográfico mayoritariamente femenino."
+        },
+        {
+          "id": "7",
+          "label": "Cuestionario de Respuestas Mixtas",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Instrumento ad hoc con preguntas abiertas de definición conceptual, asociaciones léxicas y preguntas cerradas en escala Likert sobre autores conocidos, canon infantil y personajes de ficción."
+        },
+        {
+          "id": "8",
+          "label": "Categorización Inductiva y Análisis Cualitativo",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Procedimiento analítico de reducción de datos cualitativos mediante agrupación categorial en ejes temáticos: función moralizante, valor artístico, presencia audiovisual y perspectiva de género."
+        },
+        {
+          "id": "9",
+          "label": "Reduccionismo Moralizante y Utilitarista",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los resultados evidencian que gran parte de los encuestados concibe la literatura infantil como una simple herramienta didáctica para enseñar normas higiénicas, colores o valores cívicos predigeridos."
+        },
+        {
+          "id": "10",
+          "label": "Desconocimiento del Canon Infantil Actual",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Escasez notable de referencias a autores y álbumes ilustrados contemporáneos, limitándose el repertorio mencionado a adaptaciones de los hermanos Grimm, Perrault y Andersen filtradas por el cine."
+        },
+        {
+          "id": "11",
+          "label": "Pervivencia Inconsciente de Sesgos Sexistas",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Constatación de que los estudiantes no detectan de forma espontánea los estereotipos patriarcales presentes en los cuentos tradicionales, considerando naturales los roles de princesas pasivas."
+        },
+        {
+          "id": "12",
+          "label": "La Urgencia de Descolonizar la Mirada Docente",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica que alerta sobre el peligro de que los futuros maestros actúen como reproductores acríticos del mercado audiovisual, privando a los niños de experiencias letradas de calidad."
+        },
+        {
+          "id": "13",
+          "label": "Reivindicación de la Función Estética y Placentera",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate en torno a la necesidad de restituir el placer estético gratuito y el juego poético de la palabra en las aulas de Infantil, apartando la obsesión por moralizar o instrumentalizar el cuento."
+        },
+        {
+          "id": "14",
+          "label": "Reformulación de los Planes de Estudio Universitarios",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental que exige una profunda reforma de la didáctica de la literatura en la universidad para formar maestros lectores voraces, críticos y dotados de criterios rigurosos de selección."
+        },
+        {
+          "id": "15",
+          "label": "Talleres de Lectura Crítica y Coeducación",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación formativa de incorporar talleres de lectura dialógica de álbumes ilustrados contemporáneos con perspectiva de género e interculturalidad en los grados universitarios de educación."
+        },
+        {
+          "id": "16",
+          "label": "Limitaciones de Estudio de Caso Institucional Único",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Límite metodológico reconocido al circscribir la muestra a una única facultad universitaria, requiriendo estudios multicéntricos para contrastar si el fenómeno se replica a nivel estatal."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "parte de"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se fundamenta en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se articula con"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "selecciona"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "administra"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "trata datos con"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "desvela"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "constata"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "revela"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "plantea superar"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "evidencia problema en"
+        },
+        {
+          "from": "11",
+          "to": "12",
+          "label": "denuncia"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "exige"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "fundamenta"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se materializa en"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "reconoce"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "restringe alcance en"
+        },
+        {
+          "from": "4",
+          "to": "11",
+          "label": "explica ideológicamente a"
+        },
+        {
+          "from": "2",
+          "to": "14",
+          "label": "reclama transformación de"
+        },
+        {
+          "from": "10",
+          "to": "15",
+          "label": "demanda superar"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Un maestro que solo conoce a Cenicienta y a los dibujos de la televisión no puede abrirle a un niño los horizontes infinitos del mundo. La formación de docentes debe encender primero la pasión literaria en el corazón del maestro para que luego pueda contagiarla con libertad y lucidez.",
+      "preguntas": [
+        "¿Leen suficiente literatura infantil contemporánea los estudiantes de magisterio antes de enfrentarse a su primera aula de niños?",
+        "¿Cómo pueden las universidades erradicar los estereotipos machistas y consumistas de la selección de cuentos infantiles?"
+      ]
+    }
+  }
+}

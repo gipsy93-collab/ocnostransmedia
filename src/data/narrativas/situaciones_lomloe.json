@@ -12,9 +12,9 @@
     "color": "#2a9d8f",
     "colorAlt": "#2a5a75",
     "bg": "from-teal-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-8.png",
+    "image": "/assets/portadas/situaciones_lomloe.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-8.png",
+      "image": "/assets/portadas/situaciones_lomloe.jpg",
       "name": "Dra. Patricia Martínez-León",
       "role": "Investigadora en Didáctica de la Lengua y la Literatura, Universitat de València"
     }
@@ -44,9 +44,9 @@
       "porQueImporta": "El diseño de situaciones de aprendizaje es la competencia profesional clave exigida hoy en oposiciones y en las aulas. Si los nuevos maestros no aprenden a planificarlas con rigor, la educación literaria perderá su peso específico.",
       "dataPoints": [
         "Estudio empírico sobre 395 futuros maestros en 3 cohortes anuales consecutivas.",
-        "El 76% de las propuestas analizadas logró articular un reto motivador vinculado al entorno social y cultural del niño.",
-        "Dificultad recurrente detectada: tendencia a subordinar la lectura literaria a tareas plásticas o morales sin profundizar en el pacto ficcional.",
-        "Evolución positiva: las cohortes más recientes mostraron mayor dominio de la intertextualidad y el trabajo por rincones o talleres."
+        "La proporción de SdA de educación literaria es equilibrada: 39 de 83 (47%) frente a 44 (53%) de educación lingüística.",
+        "Dificultad principal detectada: solo 10 de 39 SdA (25%) integran un canon plural, centrándose la mayoría en un único género convertido en producto final.",
+        "La escritura creativa (criterio 2) es el requisito más cumplido, con 35 de 39 SdA (89%)."
       ],
       "glossary": [
         {
@@ -55,12 +55,12 @@
         },
         {
           "term": "Educación literaria",
-          "definition": "Paradigma didáctico centrado en formar lectores competentes capaces de disfrutar, interpretar críticamente y crear textos de ficción (Colomer, Mendoza Filisola)."
+          "definition": "Paradigma didáctico centrado en formar lectores competentes capaces de disfrutar, interpretar críticamente y crear textos de ficción (Colomer, 1994; 2024)."
         }
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Análisis documental y rúbrica categorial sobre 395 diseños",
+      "titulo": "Ruta metodológica: Análisis documental y categorial sobre 83 situaciones de 395 estudiantes",
       "narrativa": "Los autores aplicaron un protocolo de análisis de contenido cualitativo y cuantitativo sobre las programaciones entregadas por los 395 estudiantes. Evaluaron el alineamiento con los objetivos de la LOMLOE, los géneros seleccionados (poesía, teatro, cómic, narrativa) y el tipo de producto final propuesto.",
       "detalles": [
         {
@@ -73,7 +73,7 @@
         },
         {
           "label": "Instrumento",
-          "value": "Rúbrica de evaluación analítica de situaciones de aprendizaje con 5 dimensiones competenciales."
+          "value": "Análisis de contenido con cuatro criterios: fomento de la lectura e interpretación textual, escritura creativa, canon plural y conexión con los ODS."
         }
       ],
       "limitaciones": [
@@ -87,20 +87,20 @@
       "hallazgos": [
         {
           "label": "1. Riqueza de Retos Contextualizados",
-          "value": "Los futuros maestros idearon festivales poéticos escolares, exposiciones comunitarias de álbumes y podcast de booktubers infantiles con gran acierto."
+          "value": "Los futuros maestros idearon videorreseñas de booktubers, videopoemas de poetas valencianas, rap contra el acoso, álbumes ilustrados y cortos sobre los ODS con gran acierto."
         },
         {
-          "label": "2. Olvido del Género Teatral y Poético",
-          "value": "El 82% de las situaciones se centró exclusivamente en la narrativa, marginando la poesía y la dramatización."
+          "label": "2. El Reto del Canon Plural",
+          "value": "Solo 10 de 39 situaciones (25%) integran textos de distintos géneros y formatos; es el criterio con mayores dificultades."
         },
         {
-          "label": "3. El Riesgo de la Instrumentalización",
-          "value": "Algunos proyectos usaban el libro solo para 'enseñar a reciclar' o 'hacer manualidades', diluyendo la educación estética."
+          "label": "3. La Fortaleza de la Escritura Creativa",
+          "value": "La promoción de la escritura creativa fue el criterio más cumplido, con 35 de 39 situaciones (89%), con pautas docentes y consideración del proceso de escritura."
         }
       ],
       "dataPoints": [
-        "Aumento del 34% en el uso de literatura multimodal y álbumes ilustrados respecto a promociones anteriores.",
-        "Solo un 12% incorporó el teatro de títeres o lectura dramatizada en sus planificaciones."
+        "El fomento de la lectura e interpretación textual (criterio 1) se cumple en 26 de 39 SdA (66%).",
+        "La conexión con los ODS (criterio 4) se cumple en 27 de 39 SdA (69%)."
       ],
       "reflexion": "No usemos la literatura como pretexto para enseñar otra cosa: la literatura es ya, en sí misma, una forma suprema de conocimiento."
     },
@@ -121,30 +121,30 @@
     },
     "nucleo": {
       "pregunta": "¿En qué medida las situaciones de aprendizaje diseñadas por futuros maestros responden al paradigma competencial de la educación literaria de la LOMLOE?",
-      "conclusion": "La investigación longitudinal sobre 395 propuestas de futuros docentes de Primaria (2022-2025) concluye que el alumnado universitario domina la creación de situaciones de aprendizaje motivadoras y contextualizadas, destacando el uso de álbumes ilustrados y proyectos interdisciplinares. No obstante, se detectan retos persistentes: la tendencia a instrumentalizar la lectura al servicio de otros contenidos no literarios y la casi total hegemonía de la narrativa frente a la poesía y el teatro. Se urge a reforzar en las facultades de educación el valor intrínseco de la experiencia estética y la diversidad de géneros.",
+      "conclusion": "La investigación sobre 83 situaciones de aprendizaje diseñadas por 395 futuros docentes de Primaria (2022-2025) concluye que la proporción entre educación literaria (47%) y lingüística (53%) es equilibrada, con la escritura creativa como criterio más cumplido (89%), seguido de la conexión con los ODS (69%) y el fomento de la lectura (66%). No obstante, persiste un reto: solo el 25% configura un canon plural, al centrarse la mayoría en un único género convertido en producto final. Se urge a reforzar en las facultades de educación la diversidad de géneros y formatos y la lectura compartida.",
       "formalRef": "Martínez-León, P., & Rodrigo-Segura, F. (2026). Situaciones de aprendizaje de educación literaria en el grado de Maestro/a en Educación Primaria. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.602"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué riesgo didáctico identificaron los autores en algunas de las situaciones de aprendizaje analizadas?",
+          "q": "¿Cuál fue el criterio de educación literaria con mayores dificultades de cumplimiento en las 83 situaciones de aprendizaje analizadas?",
           "options": [
-            "Que los alumnos leyeran demasiados libros a la vez.",
-            "La instrumentalización de la literatura, tratándola como una simple excusa para enseñar contenidos transversales (como reciclaje) diluyendo la experiencia estética.",
-            "Que las programaciones costaban demasiado dinero.",
-            "Que los exámenes eran demasiado difíciles."
+            "La promoción de la escritura creativa, con un 89%.",
+            "El canon plural (integración de textos de distintos géneros y formatos), cumplido solo por un 25%.",
+            "La conexión con los ODS, con un 69%.",
+            "El fomento de la lectura e interpretación textual, con un 66%."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué géneros literarios quedaron notablemente marginados en las 395 programaciones de los estudiantes universitarios?",
+          "q": "¿Qué porcentaje de las situaciones de educación literaria cumplió el criterio de promoción de la escritura creativa, el más logrado?",
           "options": [
-            "La novela fantástica.",
-            "La poesía lírica y el teatro o dramatización.",
-            "El cómic de superhéroes.",
-            "Los cuentos clásicos de hadas."
+            "Un 25% (10 de 39).",
+            "Un 89% (35 de 39).",
+            "Un 47% (39 de 83).",
+            "Un 12% (5 de 39)."
           ],
           "correct": 1
         },
@@ -180,11 +180,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Analizamos tres cursos completos de planificaciones reales en la Universitat de València con rúbricas analíticas.",
+      "text": "Analizamos tres cursos completos de planificaciones reales en la Universitat de València con criterios de análisis cualitativo.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Hay muchísima creatividad en los retos! Pero ojo: no podemos olvidar la poesía ni usar los cuentos solo para enseñar a reciclar.",
+      "text": "¡Hay muchísima creatividad en los retos! Pero ojo: falta abrir el canon a más géneros y formatos, no solo a la escritura creativa del género final.",
       "position": "bottom-right"
     },
     "marco": {
@@ -205,110 +205,232 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Situaciones de Aprendizaje y Educación Literaria LOMLOE",
-    "descripcion": "Diseño competencial, retos contextualizados, riesgos de instrumentalización, diversificación de géneros y formación docente en Primaria.",
+    "titulo": "Mapa conceptual: Situaciones de aprendizaje literarias según la LOMLOE (Ocnos 25(1) 2026)",
+    "descripcion": "Recorre el artículo desde el marco LOMLOE y los principios de la educación literaria hasta el diseño mixto cuan→cual sobre 83 situaciones de 395 estudiantes de la Universitat de València, los porcentajes de cumplimiento por criterio y las propuestas de mejora para la formación docente.",
     "nodos": [
       {
         "id": "1",
-        "label": "Situaciones de Aprendizaje",
-        "color": "#2a9d8f"
+        "label": "Situaciones de aprendizaje (SdA)",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Dispositivo didáctico interdisciplinar que parte de la contextualización y problematización del aprendizaje. El Real Decreto 157/2022 las define como herramienta para integrar los elementos curriculares mediante tareas significativas conectadas a la vida cotidiana."
       },
       {
         "id": "2",
-        "label": "Marco Curricular LOMLOE",
-        "color": "#2a5a75"
+        "label": "LOMLOE y Real Decreto 157/2022",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La Ley Orgánica 3/2020 (LOMLOE) incorpora las SdA como práctica habitual de la enseñanza por competencias. En la Comunidad Valenciana se ordenan por el Decreto 106/2022, que integra los ODS y el Diseño Universal de Aprendizaje (DUA)."
       },
       {
         "id": "3",
-        "label": "Educación Literaria Competencial",
-        "color": "#5b9eaa"
+        "label": "Principios de educación literaria (Colomer)",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Colomer (1994; 1995; 2024) establece percibir la literatura como situación comunicativa real, emplear textos adecuados, implicar al lector, compartir la interpretación con progresión de complejidad e interrelar recepción, reflexión y producción."
       },
       {
         "id": "4",
-        "label": "Retos Contextualizados Reales",
-        "color": "#88b04b"
+        "label": "Canon literario plural",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Apertura del canon escolar hacia textos de diversos géneros, formatos y culturas, con mirada transatlántica y no eurocentrista (Ballester, 2015; Fernández-Cobo, 2022). Incluye LIJ, literatura clásica y universal y voces sistemáticamente olvidadas."
       },
       {
         "id": "5",
-        "label": "Riesgo de Instrumentalización",
-        "color": "#e76f51"
+        "label": "Conexión con los ODS (Agenda 2030)",
+        "color": "#f4d068",
+        "role": "Marco teórico",
+        "descripcion": "La educación literaria del siglo XXI se vincula a los 17 ODS de la Agenda 2030 (Martínez-León, 2023; Rodrigo-Segura et al., 2024). Las SdA abordan igualdad de género, sostenibilidad, paz y justicia mediante lectura y producción de textos."
       },
       {
         "id": "6",
-        "label": "Hegemonía de la Narrativa",
-        "color": "#f4d068"
+        "label": "Objetivo: cuatro criterios de adhesión",
+        "color": "#264653",
+        "role": "Objetivo",
+        "descripcion": "Analizar si las SdA diseñadas por los estudiantes cumplen las bases de la educación literaria, concretadas en cuatro criterios: fomento de la lectura e interpretación textual, escritura creativa, canon plural y conexión con los ODS. Se parte de la hipótesis de que el modelo interdisciplinar no garantiza esa adhesión."
       },
       {
         "id": "7",
-        "label": "Marginación de Poesía y Teatro",
-        "color": "#c73e1d"
+        "label": "Diseño mixto secuencial cuan→cual",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Tercera ruta de investigación mixta con diseño explicativo secuencial cuan→cual (Hernández-Sampieri y Mendoza-Torres, 2023; Creswell, 2003). La fase cualitativa usa análisis de contenido (Gibbs, 2012) con validación interjueces de los dos investigadores."
       },
       {
         "id": "8",
-        "label": "Álbum Ilustrado y Multimodalidad",
-        "color": "#9b82c3"
+        "label": "Muestra: 395 estudiantes y 83 SdA",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "395 alumnos de 4º del Grado de Maestro/a en Educación Primaria de la Universitat de València, en 8 grupos de tres cursos consecutivos (22/23, 23/24, 24/25). En equipos de 4-5 personas elaboraron 83 SdA dentro de una programación anual de Lengua y Literatura."
       },
       {
         "id": "9",
-        "label": "Estudio 395 Diseños (UV)",
-        "color": "#264653"
+        "label": "Cuatro criterios de análisis cualitativo",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Categorías derivadas de la revisión bibliográfica (Ballester e Ibarra, 2009; Chambers, 2007; Delmiro-Coto, 2002; Lage, 2022; Ruiz-Bañuls et al., 2024), que especifican cuándo una SdA se considera cumplidora de cada requisito."
       },
       {
         "id": "10",
-        "label": "Experiencia Estética Pura",
-        "color": "#f4a261"
+        "label": "Equilibrio: 47% literarias, 53% lingüísticas",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "De las 83 SdA, 39 (47%) dan prioridad a la educación literaria y 44 (53%) a la lingüística. La proporción equilibrada descarta la asimetría y se seleccionó atendiendo a las competencias específicas C8 y C9 y a los subbloques 3.1 y 3.2 del currículo."
+      },
+      {
+        "id": "11",
+        "label": "Escritura creativa: 89% (35/39)",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "El criterio 2, promoción de la escritura creativa, es el más cumplido: 35 de las 39 SdA de educación literaria (89%), con pautas docentes y consideración del carácter procesual de la escritura."
+      },
+      {
+        "id": "12",
+        "label": "Lectura 66% y ODS 69%",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "El criterio 1 (fomento de la lectura e interpretación textual) se cumple en 26 SdA (66%) y el criterio 4 (conexión con los ODS) en 27 (69%), con actividades de antes, durante y después de la lectura."
+      },
+      {
+        "id": "13",
+        "label": "Canon plural: solo 25% (10/39)",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Solo 10 de 39 SdA (25%) integran textos de distintos géneros y formatos; es el criterio con mayores dificultades. Se atribuye a la focalización en un único género discursivo convertido en producto final."
+      },
+      {
+        "id": "14",
+        "label": "Booktubers, videopoemas y rap en las SdA",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Las muestras ilustrativas incluyen videorreseñas de booktubers, videopoemas de poetas valencianas, rap contra el acoso, álbumes ilustrados sobre Palestina y cortos sobre los ODS, con una composición musical asistida por inteligencia artificial."
+      },
+      {
+        "id": "15",
+        "label": "Mejora: proyecto lector y práctica nuclear",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "Se propone convertir la lectura compartida en práctica nuclear de la formación universitaria (Dueñas et al., 2014), vincular las SdA al proyecto lector de centro y atender los principios de animación de Lage (2022) y las orientaciones de Cerrillo y Yubero (2003)."
+      },
+      {
+        "id": "16",
+        "label": "SdA como dispositivo literario competencial",
+        "color": "#f4a261",
+        "role": "Conclusiones",
+        "descripcion": "Las SdA se confirman dispositivos idóneos que conjugan interdisciplinariedad y didáctica de la lengua y la literatura para avanzar hacia una educación literaria competencial, inclusiva e intercultural (Ibarra y Ballester, 2020; Durán et al., 2023)."
       }
     ],
     "aristas": [
       {
         "from": "2",
         "to": "1",
-        "label": "regula y exige el diseño de"
+        "label": "regula el diseño de las"
       },
       {
-        "from": "1",
-        "to": "3",
-        "label": "debe articularse con la"
-      },
-      {
-        "from": "9",
+        "from": "3",
         "to": "1",
-        "label": "analiza longitudinalmente"
-      },
-      {
-        "from": "1",
-        "to": "4",
-        "label": "propone con éxito"
-      },
-      {
-        "from": "9",
-        "to": "5",
-        "label": "alerta contra el"
-      },
-      {
-        "from": "5",
-        "to": "10",
-        "label": "amenaza y diluye la"
-      },
-      {
-        "from": "9",
-        "to": "6",
-        "label": "constata la excesiva"
-      },
-      {
-        "from": "6",
-        "to": "7",
-        "label": "conlleva la injusta"
+        "label": "fundamenta didácticamente las"
       },
       {
         "from": "4",
+        "to": "1",
+        "label": "exige abrir el canon en las"
+      },
+      {
+        "from": "5",
+        "to": "1",
+        "label": "orienta las hacia los"
+      },
+      {
+        "from": "6",
+        "to": "1",
+        "label": "analiza la adhesión de las"
+      },
+      {
+        "from": "6",
+        "to": "4",
+        "label": "asume como criterio el"
+      },
+      {
+        "from": "6",
+        "to": "5",
+        "label": "asume como criterio la"
+      },
+      {
+        "from": "7",
+        "to": "6",
+        "label": "operacionaliza el"
+      },
+      {
+        "from": "7",
         "to": "8",
-        "label": "aprovecha la potencia del"
+        "label": "se aplica a la"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "se valoran mediante los"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "arroja el reparto entre"
       },
       {
         "from": "10",
-        "to": "3",
-        "label": "preserva el corazón de la"
+        "to": "9",
+        "label": "se seleccionaron para evaluarse con los"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "mide el alto cumplimiento de la"
+      },
+      {
+        "from": "9",
+        "to": "12",
+        "label": "registra el favorable nivel de la"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "evidencia el déficit del"
+      },
+      {
+        "from": "13",
+        "to": "4",
+        "label": "contradice la apertura del"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "se ejemplifica con"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "también se ilustra con"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "motiva las"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "orientan las"
+      },
+      {
+        "from": "10",
+        "to": "16",
+        "label": "respalda que las SdA integren la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "confluye en la"
       }
     ]
   }

@@ -1,8 +1,8 @@
 {
   "id": "juegos_funciones_ejecutivas",
   "metadata": {
-    "title": "Promoción de funciones ejecutivas y fluencia mediante juegos en estudiantes en situación de incorporación tardía",
-    "authors": "Ana-Belén Domínguez, María-Cruz Sánchez-Gómez y Juan-José Mena",
+    "title": "Promoción de funciones ejecutivas y fluencia mediante juegos en estudiantes en situación de incorporación tardía al sistema educativo",
+    "authors": "Hajar Ait-Abdellah-Sefian, José M. Rodríguez-Ferrer, Javier Rodríguez-Moreno, José M. Aguilar-Parra y Ana Manzano-León",
     "year": "2025",
     "journal": "Ocnos 24(1)",
     "doi": "10.18239/ocnos_2025.24.1.483",
@@ -12,18 +12,18 @@
     "color": "#88b04b",
     "colorAlt": "#2a5a75",
     "bg": "from-emerald-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-25.png",
+    "image": "/assets/portadas/juegos_funciones_ejecutivas.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-25.png",
-      "name": "Dra. Ana-Belén Domínguez",
-      "role": "Investigadora en Educación Inclusiva y Aprendizaje Basado en Juegos, Universidad de Salamanca"
+      "name": "Hajar Ait-Abdellah-Sefian",
+      "role": "Investigadora en funciones ejecutivas y aprendizaje basado en juegos, Universidad de Jaén"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Ana-Belén Domínguez, especialista en inclusión del alumnado inmigrante y funciones ejecutivas",
+      "personaje": "Hajar Ait-Abdellah-Sefian, investigadora principal en funciones ejecutivas y aprendizaje basado en juegos (Universidad de Jaén)",
       "gancho": "¿Cómo aprender un nuevo idioma y superar el estrés migratorio mientras te diviertes lanzando dados y cartas?",
-      "contexto": "El alumnado en situación de incorporación tardía al sistema educativo (INTARSE) se enfrenta a una doble barrera: el desconocimiento de la lengua vehicular de enseñanza y el duelo migratorio, lo que sobrecarga sus funciones ejecutivas (atención, memoria de trabajo y flexibilidad cognitiva). Este estudio cuasiexperimental evaluó la eficacia de un programa de 12 semanas basado en juegos de mesa de reglas estructuradas para entrenar el control inhibitorio y la fluidez léxica y lectora en escolares inmigrantes.",
+      "contexto": "El alumnado en situación de incorporación tardía al sistema educativo (INTARSE) se enfrenta a una doble barrera: el desconocimiento de la lengua vehicular de enseñanza y el duelo migratorio, lo que sobrecarga sus funciones ejecutivas (atención, memoria de trabajo y flexibilidad cognitiva). Este estudio cuasiexperimental evaluó la eficacia de un programa extraescolar de doce horas en seis sesiones, basado en juegos de mesa de reglas estructuradas, para entrenar las funciones ejecutivas y la fluidez verbal fonológica y semántica en español de escolares inmigrantes de un centro andaluz en zona de exclusión social.",
       "deepDives": [
         {
           "id": "jue-apertura-1",
@@ -40,13 +40,13 @@
       ]
     },
     "conflicto": {
-      "problema": "La respuesta educativa tradicional al alumnado inmigrante suele basarse en fichas repetitivas de gramática descontextualizada que aumentan la ansiedad y el aislamiento social.",
+      "problema": "La respuesta educativa tradicional al alumnado inmigrante suele apoyarse en clases de refuerzo convencionales que tienden a mantener su baja motivación y sus bajas expectativas sobre las propias capacidades.",
       "porQueImporta": "El juego reglado crea un entorno seguro de andamiaje lingüístico y cooperación que reduce la frustración y activa la plasticidad neurocognitiva.",
       "dataPoints": [
-        "Diseño cuasiexperimental pre-post con grupo de control.",
-        "Programa de 12 semanas (3 sesiones semanales de 45 minutos) con juegos como Dobble, Fantasma Blitz y Cortex.",
-        "Mejora estadísticamente significativa en memoria de trabajo (d = 0.65) y control inhibitorio.",
-        "Incremento del 34% en la fluidez verbal fonológica y semántica en español en el grupo experimental."
+        "Diseño cuasiexperimental pre-post con grupo control, con 46 estudiantes del programa PROA Andalucía.",
+        "Programa de doce horas (6 sesiones extraescolares de 120 minutos) con juegos como Carrera de Letras, Código Secreto, Dixit, Ikonikus, Monster Kit y Taco Gato Cabra Queso Pizza.",
+        "Diferencias significativas post-test a favor del grupo experimental en todas las variables, con efectos de medianos a grandes (p. ej., calidad de los elementos en copia de la Figura de Rey, d = 1,44).",
+        "En el grupo experimental la fluidez fonológica pasó de 2,54 a 4,72 y la semántica de 1,27 a 2,50 (ENFEN), sin cambios significativos en el control."
       ],
       "glossary": [
         {
@@ -60,44 +60,44 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Intervención lúdica sistemática en el aula de enlace",
-      "narrativa": "Los investigadores evaluaron a los alumnos antes y después del programa mediante pruebas neuropsicológicas estandarizadas (ENFEN, Stroop, fluidez verbal de FAS).",
+      "titulo": "Ruta metodológica: intervención lúdica sistemática en contexto extraescolar",
+      "narrativa": "Los investigadores evaluaron a los alumnos antes y después del programa mediante pruebas neuropsicológicas estandarizadas: la Figura Compleja de Rey (copia y memoria) y la fluidez verbal de la batería ENFEN, con sus tareas fonológica (letra \"M\") y semántica (animales).",
       "detalles": [
         {
           "label": "Población",
-          "value": "Escolares de incorporación tardía de origen marroquí, ucraniano y latinoamericano."
+          "value": "46 escolares inmigrantes de Educación Primaria (8 a 13 años, media 10,56) del programa PROA Andalucía, en un centro de una zona en riesgo de exclusión social."
         },
         {
           "label": "Instrumentos",
-          "value": "Batería ENFEN, Test de Stroop y tareas de fluencia lectora."
+          "value": "Test de la Figura de Rey (Rey, 2003) y fluidez verbal fonológica y semántica de la batería ENFEN (Portellano et al., 2009)."
         }
       ],
       "limitaciones": [
-        "Tamaño muestral acotado a centros de Castilla y León."
+        "Muestra reducida y muestreo no probabilístico en un único centro andaluz, con diseño exclusivamente cuantitativo pre-post."
       ],
       "reflexion": "En el tablero de juego no hay extranjeros: todos comparten las mismas reglas y las mismas risas."
     },
     "revelacion": {
       "titulo": "Hallazgos empíricos: El juego como acelerador de la integración",
-      "narrativa": "Los datos demostraron beneficios que trascendieron lo cognitivo:",
+      "narrativa": "Los datos mostraron mejoras significativas tanto en las funciones ejecutivas como en la fluidez verbal en español:",
       "hallazgos": [
         {
           "label": "1. Salto en la Fluidez Léxica",
-          "value": "Tener que nombrar objetos a gran velocidad en juegos como Dobble desbloqueó el léxico activo en español mucho más rápido que los ejercicios de papel."
+          "value": "Formar palabras con fichas en Carrera de Letras o dar pistas con imágenes en Código Secreto entrenó el léxico activo en español mucho más rápido que los ejercicios de papel del grupo control."
         },
         {
           "label": "2. Cohesión Intercultural",
-          "value": "Los alumnos del grupo experimental redujeron notablemente su ansiedad comunicativa y empezaron a relacionarse con compañeros nativos en los recreos."
+          "value": "La narrativa de piratas, con retos diarios mediante QR y asamblea final, fomentó la participación activa, la gestión de conflictos y una actitud positiva, reconocidas con medallas según una rúbrica."
         }
       ],
       "dataPoints": [
-        "Efecto superior del juego reglado frente al método tradicional de fichas (p < .005)."
+        "Diferencias intergrupales significativas en el post-test (U de Mann-Whitney) en todas las variables (p < .05), con tamaños del efecto de medianos a grandes (hasta d = 1,49)."
       ],
       "reflexion": "Jugar juntos es la forma más bella y rápida de aprender a convivir."
     },
     "marco": {
       "titulo": "Discusión: La ludificación como política de acogida escolar",
-      "narrativa": "Domínguez, Sánchez-Gómez y Mena defienden incluir ludotecas de aula en todos los planes de acogida institucional:",
+      "narrativa": "Ait-Abdellah-Sefian, Rodríguez-Ferrer, Rodríguez-Moreno, Aguilar-Parra y Manzano-León defienden extender programas similares de aprendizaje basado en juegos a otros entornos educativos para impulsar la integración académica y social del alumnado inmigrante:",
       "detalles": [
         {
           "label": "Metodología Libre de Fracaso",
@@ -108,21 +108,21 @@
     },
     "nucleo": {
       "pregunta": "¿Qué impacto tiene un programa basado en juegos de mesa sobre las funciones ejecutivas y la fluencia en alumnado de incorporación tardía?",
-      "conclusion": "La intervención de 12 semanas con juegos de mesa modernos demostró una mejora significativa en las funciones ejecutivas (control inhibitorio y memoria de trabajo) y en la fluidez verbal y lectora del alumnado en situación de incorporación tardía (INTARSE). El juego reglado se consolida como una estrategia inclusiva de alto impacto neuroeducativo que favorece simultáneamente el aprendizaje lingüístico y la cohesión socioemocional.",
-      "formalRef": "Domínguez, A. B., Sánchez-Gómez, M. C., & Mena, J. J. (2025). Promoción de funciones ejecutivas y fluencia mediante juegos en estudiantes en situación de incorporación tardía al sistema educativo. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.483"
+      "conclusion": "La intervención de doce horas en seis sesiones con juegos de mesa demostró una mejora significativa en las funciones ejecutivas (planificación, memoria de trabajo y flexibilidad cognitiva en la Figura de Rey) y en la fluidez verbal fonológica y semántica del alumnado en situación de incorporación tardía (INTARSE). El juego reglado se consolida como una estrategia inclusiva de alto impacto neuroeducativo que favorece simultáneamente el aprendizaje lingüístico y la cohesión socioemocional.",
+      "formalRef": "Ait-Abdellah-Sefian, H., Rodríguez-Ferrer, J. M., Rodríguez-Moreno, J., Aguilar-Parra, J. M., & Manzano-León, A. (2025). Promoción de funciones ejecutivas y fluencia mediante juegos en estudiantes en situación de incorporación tardía al sistema educativo. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.483"
     },
     "juegos": [
       {
         "juegoId": "quiz",
         "titulo": "Desafío Lúdico-Ejecutivo",
-        "descripcion": "Pon a prueba tus conocimientos sobre funciones ejecutivas, neurodesarrollo y juego reglado.",
+        "descripcion": "Pon a prueba tus conocimientos sobre funciones ejecutivas, fluidez verbal y juegos de mesa.",
         "instrucciones": "Responde las preguntas del estudio para medir la atención, memoria de trabajo y flexibilidad cognitiva."
       },
       {
         "juegoId": "snake",
         "titulo": "Serpiente Atencional",
         "descripcion": "Entrena el control inhibitorio y la concentración esquivando muros y respondiendo preguntas.",
-        "instrucciones": "Come tokens verdes y responde los desafíos pedagógicos de las investigadoras."
+        "instrucciones": "Come tokens verdes y responde los desafíos pedagógicos del equipo investigador."
       }
     ],
     "reflexion": {
@@ -132,7 +132,7 @@
           "q": "¿Qué funciones ejecutivas experimentaron la mayor ganancia significativa tras el programa de juegos de mesa?",
           "options": [
             "La capacidad de dormir durante las explicaciones.",
-            "El control inhibitorio de distractores y la memoria de trabajo operativa.",
+            "La planificación y organización, la memoria de trabajo y la flexibilidad cognitiva.",
             "La velocidad para correr en educación física.",
             "El cálculo del precio de los juguetes."
           ],
@@ -140,10 +140,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué juegos de mesa modernos formaron parte de la intervención analizada por las investigadoras?",
+          "q": "¿Qué juegos de mesa formaron parte de la intervención analizada por el equipo investigador?",
           "options": [
             "La ruleta rusa y el bingo tradicional.",
-            "Juegos de reglas rápidas y percepción como Dobble, Fantasma Blitz y Cortex.",
+            "Carrera de Letras, Código Secreto, Dixit, Ikonikus, Monster Kit y Taco Gato Cabra Queso Pizza.",
             "El solitario de cartas de ordenador.",
             "Ningún juego comercial."
           ],
@@ -151,10 +151,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué beneficio socioemocional complementario aportó el programa al alumnado inmigrante recién llegado?",
+          "q": "¿Qué beneficio complementario aportó al alumnado la narrativa gamificada de piratas con retos diarios y asambleas?",
           "options": [
             "Aislamiento voluntario en las esquinas del patio.",
-            "Reducción drástica de la ansiedad comunicativa y mayor interacción espontánea con compañeros en los recreos.",
+            "Mayor participación activa, mejor gestión de conflictos en el juego y actitudes positivas recompensadas con medallas.",
             "Pérdida de la lengua materna.",
             "Aparición de celos entre jugadores."
           ],
@@ -162,7 +162,7 @@
         },
         {
           "type": "open",
-          "q": "Selecciona un juego de mesa comercial moderno (como 'Dixit', 'Fantasma Blitz' o 'Story Cubes') y explica qué funciones ejecutivas entrena y cómo lo adaptarías para un aula con escolares no hispanohablantes."
+          "q": "Selecciona un juego de mesa del estudio (como 'Dixit', 'Ikonikus' o 'Monster Kit') y explica qué funciones ejecutivas entrena y cómo lo adaptarías para un aula con escolares no hispanohablantes."
         },
         {
           "type": "open",
@@ -181,11 +181,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Acompañamos a escolares inmigrantes durante 12 semanas jugando a Dobble, Fantasma Blitz y Cortex.",
+      "text": "Acompañamos a escolares inmigrantes en seis sesiones de dos horas jugando a Código Secreto, Dixit, Ikonikus y Monster Kit.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Las funciones ejecutivas se dispararon! Mayor memoria de trabajo, menos distracciones y un 34% más de fluidez verbal.",
+      "text": "¡Las funciones ejecutivas mejoraron! Más planificación, memoria de trabajo y fluidez verbal significativa en el grupo experimental.",
       "position": "bottom-right"
     },
     "marco": {
@@ -206,110 +206,237 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Juegos de Mesa, Funciones Ejecutivas e Inclusión Lingüística",
-    "descripcion": "Intervención de 12 semanas en INTARSE: control inhibitorio, memoria de trabajo, fluidez verbal, reducción de ansiedad y acogida intercultural.",
+    "titulo": "Mapa conceptual: ABJ, funciones ejecutivas y fluidez verbal en INTARSE (Ocnos 24(1) 2025)",
+    "descripcion": "Recorrido del artículo: de la integración escolar del alumnado de incorporación tardía al diseño y aplicación de un programa de juegos de mesa, la evidencia de mejoras en funciones ejecutivas y fluidez verbal, y su discusión, conclusiones y limitaciones.",
     "nodos": [
       {
         "id": "1",
-        "label": "Juegos de Mesa Modernos",
-        "color": "#88b04b"
+        "label": "Estudiantes de incorporación tardía (INTARSE)",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "España está entre los cinco países de la OCDE que más inmigrantes reciben, y su integración escolar lejos está de consolidarse (Fernández Sierra, 2017). Estos estudiantes muestran baja motivación y bajas expectativas sobre sus capacidades, con riesgo de abandono temprano."
       },
       {
         "id": "2",
-        "label": "Alumnado INTARSE (Inmigrante)",
-        "color": "#2a5a75"
+        "label": "Aprendizaje basado en juegos (ABJ)",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Usa los juegos como recurso de aprendizaje (Muñoz-Oyarce y Almonacid-Fierro, 2015). Rahmah y Saputri (2021) documentan su beneficio para el vocabulario y Manzano-León et al. (2023) para los procesos lectores en zonas desfavorecidas."
       },
       {
         "id": "3",
-        "label": "Funciones Ejecutivas (FE)",
-        "color": "#5b9eaa"
+        "label": "Funciones ejecutivas clave en el aprendizaje",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Incluyen planificación, organización, autorregulación, atención, memoria de trabajo, flexibilidad cognitiva y control inhibitorio (Gatti, 2005). Su fortalecimiento mejora el aprendizaje, la autonomía y la regulación emocional del alumnado INTARSE (Montes-Miranda et al., 2020; Ardila, 2013)."
       },
       {
         "id": "4",
-        "label": "Control Inhibitorio",
-        "color": "#e76f51"
+        "label": "Preguntas de investigación sobre el ABJ",
+        "color": "#c73e1d",
+        "role": "Objetivo",
+        "descripcion": "El estudio pregunta si el ABJ puede favorecer las funciones ejecutivas y si influye en la fluidez fonológica y semántica del alumnado INTARSE. Para ello diseña un programa extraescolar de doce horas en seis sesiones (segundo trimestre 2022/2023)."
       },
       {
         "id": "5",
-        "label": "Memoria de Trabajo",
-        "color": "#9b82c3"
+        "label": "Diseño cuasiexperimental con 46 estudiantes",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Diseño longitudinal pre-post con grupo control (24) y experimental (22), de 8 a 13 años (media 10,56), del programa PROA Andalucía. El análisis usó Shapiro-Wilk, U de Mann-Whitney, Wilcoxon y d de Cohen al no ser normales las puntuaciones."
       },
       {
         "id": "6",
-        "label": "Fluencia Verbal y Lectora (+34%)",
-        "color": "#2a9d8f"
+        "label": "Test de la Figura de Rey",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Instrumento neuropsicológico (Rey, 2003) con fases de copia y memoria que evalúa planificación, memoria de trabajo, flexibilidad cognitiva y control inhibitorio. Se eligió por su mayor independencia del contexto cultural y lingüístico (Kosmidis et al., 2011)."
       },
       {
         "id": "7",
-        "label": "Reducción de Ansiedad Lingüística",
-        "color": "#f4d068"
+        "label": "Fluidez verbal con batería ENFEN",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "Tarea de la Evaluación Neuropsicológica de las Funciones Ejecutivas en Niños (Portellano et al., 2009): un minuto para decir palabras con la letra \"M\" (fluidez fonológica) y un minuto para nombrar animales (fluidez semántica)."
       },
       {
         "id": "8",
-        "label": "Entorno Seguro Libre de Fracaso",
-        "color": "#264653"
+        "label": "Programa ABJ con narrativa de piratas",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "Seis sesiones de 120 minutos con retos diarios vía QR, asamblea final y medallas según rúbrica, usando Carrera de Letras, Código Secreto, Dixit, Ikonikus, Monster Kit y Taco Gato Cabra Queso Pizza. El control usó clases dirigidas con PowerPoint, Canvas y Educaplay."
       },
       {
         "id": "9",
-        "label": "Cohesión Intercultural en Recreos",
-        "color": "#c73e1d"
+        "label": "Diferencias significativas a favor del experimental",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "El post-test con U de Mann-Whitney muestra diferencias significativas en todas las variables a favor del grupo experimental, con tamaños del efecto de medianos a grandes. Destacan la calidad de los elementos de la Figura de Rey (d = 1,44) y la fluidez semántica (d = 1,11)."
       },
       {
         "id": "10",
-        "label": "Educación Inclusiva Real",
-        "color": "#f4a261"
+        "label": "Mejora de fluidez fonológica y semántica",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "En el grupo experimental la fluidez fonológica pasó de 2,54 a 4,72 (p = ,001; d = 1,21) y la semántica de 1,27 a 2,50 (p = ,006; d = 1,07) en la prueba ENFEN, mientras el grupo control no mostró cambios significativos."
+      },
+      {
+        "id": "11",
+        "label": "Avance en copia y memoria de Rey",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "El experimental mejoró en memoria de la figura (16,00 elementos frente a 13,75 del control; p = ,035) y sobre todo en la situación relativa de las cuatro figuras principales (d = 1,49). Número de elementos y posición en copia no cambiaron significativamente intra-grupo en ningún grupo."
+      },
+      {
+        "id": "12",
+        "label": "La mejora excede maduración y familiarización",
+        "color": "#2a5a75",
+        "role": "Discusión",
+        "descripcion": "El grupo control mejoró intra-grupo por las actividades PROA, la maduración y la familiaridad con el test, pero el experimental superó esos factores gracias al ABJ y la narrativa gamificada, en línea con estudios de ELE (Dixon et al., 2022; Reinhardt y Sykes, 2012)."
+      },
+      {
+        "id": "13",
+        "label": "ABJ eficaz para vocabulario y cognición",
+        "color": "#88b04b",
+        "role": "Conclusiones",
+        "descripcion": "El estudio concluye que el ABJ desarrolla el vocabulario en español y fortalece planificación, memoria de trabajo y flexibilidad cognitiva en estudiantes INTARSE. Programas similares en otros contextos pueden impulsar su integración académica y social."
+      },
+      {
+        "id": "14",
+        "label": "Muestra pequeña y estudio de corto plazo",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "La muestra reducida, el muestreo no probabilístico en aulas naturales y el diseño exclusivamente cuantitativo pre-post limitan la generalización. Se proponen muestras mayores, muestreo aleatorio, estudio cualitativo de percepciones y seguimiento longitudinal."
+      },
+      {
+        "id": "15",
+        "label": "Andamiaje lúdico y reducción de ansiedad",
+        "color": "#f4a261",
+        "role": "Discusión",
+        "descripcion": "El entorno lúdico rebaja el filtro afectivo de Krashen y la ansiedad comunicativa en el aula de acogida; la interacción entre iguales durante el juego estimula el bucle fonológico y la memoria de trabajo verbal de forma no punitiva (Baddeley, 2007; Manzano-León et al., 2021)."
+      },
+      {
+        "id": "16",
+        "label": "Transferencia formativa al aula ordinaria",
+        "color": "#264653",
+        "role": "Implicaciones",
+        "descripcion": "La evidencia demuestra que los juegos de mesa modernos no deben quedar relegados a tiempos de ocio informal, sino articularse como andamiaje pedagógico estructurado para la inclusión lingüística y el fortalecimiento neurocognitivo del alumnado migrante."
       }
     ],
     "aristas": [
       {
-        "from": "1",
-        "to": "2",
-        "label": "se aplica como programa para el"
+        "from": "2",
+        "to": "1",
+        "label": "sostiene la inclusión escolar del"
       },
       {
-        "from": "1",
+        "from": "3",
+        "to": "1",
+        "label": "condicionan la adaptación académica del"
+      },
+      {
+        "from": "2",
         "to": "3",
-        "label": "entrena directamente las"
+        "label": "se propone para entrenar las"
       },
       {
-        "from": "3",
-        "to": "4",
-        "label": "potencia de forma notable el"
+        "from": "4",
+        "to": "2",
+        "label": "indaga el efecto del"
       },
       {
-        "from": "3",
+        "from": "4",
+        "to": "3",
+        "label": "indaga el efecto sobre las"
+      },
+      {
+        "from": "4",
         "to": "5",
-        "label": "incrementa la capacidad de la"
+        "label": "se aborda mediante el"
       },
       {
-        "from": "1",
+        "from": "5",
         "to": "6",
-        "label": "dispara la adquisición de la"
+        "label": "evalúa las funciones ejecutivas con el"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "evalúa la fluidez verbal con la"
+      },
+      {
+        "from": "5",
+        "to": "8",
+        "label": "contrasta la enseñanza tradicional con un"
       },
       {
         "from": "8",
-        "to": "7",
-        "label": "facilita y promueve la"
+        "to": "2",
+        "label": "operacionaliza la metodología del"
       },
       {
-        "from": "1",
-        "to": "8",
-        "label": "establece en el aula un"
+        "from": "6",
+        "to": "11",
+        "label": "registra avances en la"
       },
       {
         "from": "7",
+        "to": "10",
+        "label": "registra avances en la"
+      },
+      {
+        "from": "5",
         "to": "9",
-        "label": "habilita en el centro la"
+        "label": "evidencia en el post-test unas"
       },
       {
         "from": "9",
-        "to": "10",
-        "label": "materializa los principios de la"
+        "to": "12",
+        "label": "obligan a discriminar la"
+      },
+      {
+        "from": "12",
+        "to": "8",
+        "label": "se atribuye al componente lúdico del"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "se fundamenta en el"
       },
       {
         "from": "10",
-        "to": "2",
-        "label": "garantiza el éxito y bienestar del"
+        "to": "13",
+        "label": "sustentan la conclusión sobre el"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "sustentan la conclusión sobre el"
+      },
+      {
+        "from": "13",
+        "to": "1",
+        "label": "consolida la integración académica y social del"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "justifica la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "orienta la"
+      },
+      {
+        "from": "14",
+        "to": "9",
+        "label": "limitan la generalización de las"
+      },
+      {
+        "from": "14",
+        "to": "13",
+        "label": "acotan el alcance de las"
       }
     ]
   }

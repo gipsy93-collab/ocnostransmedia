@@ -1,0 +1,376 @@
+{
+  "id": "componentes_velocidad_denominacion_comprension_lectora_chile",
+  "metadata": {
+    "id": "componentes_velocidad_denominacion_comprension_lectora_chile",
+    "title": "Los componentes de la velocidad de denominación y su relación con la comprensión lectora en español",
+    "authors": [
+      "José-Pablo Escobar",
+      "Ricardo Rosas"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "2",
+    "pages": "7-19",
+    "doi": "10.18239/ocnos_2018.17.2.1572",
+    "keywords": [
+      "velocidad de denominación",
+      "comprensión lectora",
+      "tiempos de articulación",
+      "pausas entre ítems",
+      "ortografía transparente"
+    ],
+    "abstract": "Estudio pionero con 110 escolares chilenos de 1º a 4º básico que descompone la velocidad de denominación (VD) en pausas y tiempos de articulación. Demuestra que las pausas explican la comprensión lectora en ortografía transparente mediadas por fluidez y precisión."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Por qué la velocidad de denominación rápida predice tan bien el éxito en la lectura y qué secretos esconden los silencios entre palabra y palabra? Este estudio pionero en Chile descompone la prueba de RAN en pausas y articulación para desvelar su papel en la comprensión lectora en español.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de investigación psicolingüística:",
+        "opciones": [
+          {
+            "id": "cognitiva",
+            "texto": "Arquitectura cognitiva: recuperación de memoria a largo plazo vs articulación"
+          },
+          {
+            "id": "metodologica",
+            "texto": "Descomposición acústica digital de pausas y tiempos de emisión"
+          },
+          {
+            "id": "mediacional",
+            "texto": "Modelos de mediación: precisión de palabras y fluidez lectora"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Durante décadas se asumió que la velocidad de denominación operaba como un bloque unitario, midiéndose únicamente el tiempo total de la tarea. Además, la práctica totalidad de investigaciones previas procedían de lenguas de ortografía opaca como el inglés, ignorando cómo funcionaba en un sistema fonológico transparente y regular como el español.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué componente de la velocidad de denominación captura realmente los procesos cognitivos de acceso léxico?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Las pausas entre estímulos, ya que reflejan el tiempo de recuperación de la etiqueta fonológica desde la memoria a largo plazo.",
+            "correcta": true,
+            "explicacion": "Exacto: la articulación motora refleja mera velocidad física o familiaridad periférica, mientras que las pausas revelan el procesamiento central."
+          },
+          {
+            "id": "c2",
+            "texto": "El tiempo de articulación muscular de las cuerdas vocales exclusivamente.",
+            "correcta": false,
+            "explicacion": "La investigación demuestra que el tiempo de articulación no correlaciona con la comprensión."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los autores evaluaron a 110 escolares chilenos de 1º a 4º básico en tareas alfanuméricas (letras y números) y no alfanuméricas (dibujos y colores). Grabaron digitalmente las respuestas y separaron con software acústico las pausas y los tiempos de articulación, aplicando análisis de comunalidades y modelos de mediación.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra evolutiva",
+            "detalle": "110 niños chilenos de 1º a 4º básico (6 a 10 años) en centros educativos de Santiago."
+          },
+          {
+            "fase": "Segmentación acústica",
+            "detalle": "Aislamiento informático preciso de silencios entre estímulos y tiempos fonatorios."
+          },
+          {
+            "fase": "Tareas RAN contrastadas",
+            "detalle": "Comparativa sistemática entre matrices alfanuméricas y no alfanuméricas."
+          },
+          {
+            "fase": "Análisis de mediación",
+            "detalle": "Cálculo de comunalidades controlando precisión lectora y fluidez en texto."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados confirmaron que solo las pausas entre ítems alfanuméricos predicen la comprensión lectora, mientras que los tiempos de articulación carecen de relación. Además, este poder predictivo se canaliza completamente a través de la fluidez lectora y la precisión decodificadora.",
+      "datos_clave": [
+        "Primer estudio en español que descompone la velocidad de denominación.",
+        "Las pausas entre letras explican una varianza sustantiva de la comprensión en 1º básico.",
+        "La articulación verbal no predice en ningún grado la competencia comprensiva.",
+        "La fluidez lectora actúa como mediador total entre las pausas y la comprensión."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se fundamenta en la hipótesis del doble déficit de Wolf y Bowers, los modelos de automatización lectora de Neuhaus y Li, y las teorías sobre consistencia ortográfica en el aprendizaje de la lectura.",
+      "referencias_clave": [
+        "Wolf & Bowers (1999)",
+        "Neuhaus et al. (2001)",
+        "Li et al. (2011)",
+        "Escobar & Rosas (2018)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "En la lectura inicial en español, los silencios dicen más que los sonidos: el tiempo que tarda un niño en recuperar el nombre de una letra predice su futura fluidez y su capacidad para comprender textos complejos.",
+      "hallazgo_central": "Las pausas entre estímulos alfanuméricos constituyen el verdadero motor cognitivo de la velocidad de denominación que predice la comprensión lectora en ortografías transparentes."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los componentes fonológicos con su función cognitiva:",
+          "pares": [
+            {
+              "concepto": "Pausas entre ítems (RAN)",
+              "definicion": "Tiempo de acceso y recuperación léxica en la memoria a largo plazo."
+            },
+            {
+              "concepto": "Tiempos de articulación",
+              "definicion": "Duración muscular del enunciado oral sin peso predictivo en comprensión."
+            },
+            {
+              "concepto": "Fluidez mediadora",
+              "definicion": "Canal operativo que traduce la rapidez de acceso léxico en comprensión del texto."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Componentes de la Velocidad de Denominación y Comprensión Lectora",
+      "descripcion": "Estructura cognitiva y metodológica de la descomposición de la velocidad de denominación en pausas y articulación.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Componentes de la VD y Comprensión",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo fundamental: desentrañar y analizar empíricamente la relación específica de los componentes de la velocidad de denominación (pausas y articulación) con la comprensión lectora en escolares de habla hispana en Chile."
+        },
+        {
+          "id": "2",
+          "label": "Velocidad de Denominación Rápida (RAN)",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Predictor cognitivo nuclear del aprendizaje lector que evalúa la rapidez operativa para nombrar series continuas de estímulos visuales altamente familiares (letras, números, colores y objetos) ordenados matricialmente."
+        },
+        {
+          "id": "3",
+          "label": "Distinción Teórica Pausas versus Articulación",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Propuesta psicolingüística que disocia el tiempo central de búsqueda léxica y recuperación en memoria a largo plazo (pausas silenciosas) del tiempo periférico de ejecución muscular fonatoria oral (articulación emitida)."
+        },
+        {
+          "id": "4",
+          "label": "Especificidad de la Ortografía Transparente",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco comparativo que resalta que en sistemas alfabéticos transparentes y regulares como el español, con reglas unívocas grafema-fonema, los predictores de automatización operan con dinámicas cognitivas particulares."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 110 Escolares Chilenos",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Participantes empíricos: 110 estudiantes de primero a cuarto curso de Educación Básica evaluados individualmente en colegios urbanos de nivel socioeconómico diverso de la Región Metropolitana de Santiago de Chile."
+        },
+        {
+          "id": "6",
+          "label": "Segmentación Acústica Digital",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Procedimiento informático de alta precisión mediante software de análisis espectrográfico para aislar con exactitud cronométrica los intervalos de silencio entre estímulos de los tiempos efectivos de fonación vocal."
+        },
+        {
+          "id": "7",
+          "label": "Análisis de Comunalidades y Mediación",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Tratamiento estadístico multivariante diseñado para desglosar la varianza única y compartida de los predictores y verificar el rol mediador de la fluidez lectora y la precisión decodificadora de palabras aisladas."
+        },
+        {
+          "id": "8",
+          "label": "Poder Predictivo Exclusivo de las Pausas",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo empírico contundente: únicamente la duración de las pausas entre estímulos alfanuméricos correlaciona y predice de forma directa y estadísticamente significativa la comprensión de textos en los primeros cursos."
+        },
+        {
+          "id": "9",
+          "label": "Inutilidad Predictiva de la Articulación",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación cuantitativa de que los tiempos de articulación motora carecen de capacidad explicativa sobre los procesos comprensivos, refutando teorías mecanicistas que atribuían el peso del RAN a la agilidad muscular vocal."
+        },
+        {
+          "id": "10",
+          "label": "Mediación Total por Precisión y Fluidez",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Resultado de modelado estructural: el efecto predictivo de las pausas silenciosas sobre la comprensión lectora se transfiere y canaliza íntegramente a través de la fluidez y exactitud en la lectura oral de palabras."
+        },
+        {
+          "id": "11",
+          "label": "Superioridad de Paradigmas Alfanuméricos",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión sobre por qué las matrices de letras y dígitos activan de forma más pura y eficiente los circuitos del reciclaje neuronal lector que los dibujos o colores arbitrarios, cuya carga semántica interfiere en la tarea."
+        },
+        {
+          "id": "12",
+          "label": "Refinamiento de Pruebas Diagnósticas",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Propuesta psicométrica de superar la medición rudimentaria del tiempo total en baterías diagnósticas de screening, incorporando la telemetría de pausas como el biomarcador cognitivo más sensible del acceso léxico."
+        },
+        {
+          "id": "13",
+          "label": "Cribado Precoz de Riesgo Lector",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental: monitorizar los silencios en tareas de denominación en educación infantil y primer grado permite detectar precozmente a menores en riesgo de desarrollar problemas severos de fluidez y comprensión."
+        },
+        {
+          "id": "14",
+          "label": "Intervención en Automatización Léxica",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación pedagógica orientada a diseñar entrenamientos deliberados en reconocimiento ortográfico rápido de unidades subléxicas para acortar las latencias de búsqueda y liberar memoria de trabajo operativa."
+        },
+        {
+          "id": "15",
+          "label": "Aporte a la Psicolingüística en Español",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión epistemológica: la investigación aporta el primer cuerpo de evidencia empírica rigurosa sobre los componentes finos de la velocidad de denominación en lengua castellana, equiparándola al corpus internacional."
+        },
+        {
+          "id": "16",
+          "label": "Diseño Transversal no Longitudinal",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación asumida por el diseño transversal con una muestra acotada a la capital chilena, recomendando emprender seguimientos longitudinales de panel desde los 5 años hasta la consolidación de la lectura experta."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "descompone analíticamente la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga con"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "permite la"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "se contextualiza en la"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se procesa mediante"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "aporta datos al"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "demuestra empíricamente el"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "constata la"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "evidencia el patrón de"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "se asocia a la"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "obliga a una"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "fundamenta el"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "permite optimizar el"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "orienta la"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "conduce hacia la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "contribuye a la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "acotada por su"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "valida teóricamente el"
+        },
+        {
+          "from": "4",
+          "to": "15",
+          "label": "consolida el"
+        },
+        {
+          "from": "8",
+          "to": "13",
+          "label": "justifica el"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Escobar y Rosas desvelan un principio fascinante: el dominio de la lectura no se mide por lo deprisa que un niño puede mover los labios, sino por la fluidez silenciosa con la que su cerebro recupera el significado de las letras.",
+      "preguntas_guiadas": [
+        "¿Cómo pueden los docentes evaluar informalmente las dudas y pausas de sus alumnos al leer en voz alta?",
+        "¿Qué actividades lúdicas permiten agilizar la recuperación léxica de palabras frecuentes en los primeros cursos escolares?"
+      ]
+    }
+  }
+}

@@ -2,57 +2,57 @@
   "id": "motivacion_preferencias_adolescentes",
   "metadata": {
     "title": "Validación de la Escala de Motivación y Preferencias Lectoras de los adolescentes",
-    "authors": "Hugo Heredia-Ponce, Manuel-Francisco Romero-Oliva y Gabriel Ravina-Artacho",
+    "authors": "Sara Nicolau-Ramos, Juana-Rosa Suárez-Robaina y Juan-Carlos Martín-Quintana",
     "year": "2025",
     "journal": "Ocnos 24(2)",
     "doi": "10.18239/ocnos_2025.24.2.572",
-    "gancho": "¿Por qué se desploma el hábito lector en la Educación Secundaria y qué leen los adolescentes cuando nadie los vigila?",
+    "gancho": "¿Por qué se desploma el hábito lector en la Educación Secundaria y qué eligen leer los adolescentes cuando nadie los vigila?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#264653",
     "colorAlt": "#e76f51",
     "bg": "from-slate-700/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-19.png",
+    "image": "/assets/portadas/motivacion_preferencias_adolescentes.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-19.png",
-      "name": "Dr. Hugo Heredia-Ponce",
-      "role": "Investigador en Hábitos Lectores y Didáctica de la Lengua, Universidad de Cádiz"
+      "name": "Dra. Juana-Rosa Suárez-Robaina",
+      "role": "Investigadora en Didáctica de la Lengua y la Literatura, Universidad de Las Palmas de Gran Canaria"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dr. Hugo Heredia-Ponce, especialista en sociología y motivación de la lectura juvenil",
+      "personaje": "Dra. Juana-Rosa Suárez-Robaina, especialista en motivación y hábitos lectores adolescentes",
       "gancho": "¿Es verdad que los adolescentes ya no leen o es que la escuela no sabe medir su lectura en pantallas y redes?",
-      "contexto": "La transición de Primaria a Secundaria suele coincidir con una caída pronunciada en los índices declarados de lectura (el llamado 'abismo lector adolescente'). Las escalas tradicionales diseñadas hace décadas ignoraban el ecosistema digital: Wattpad, fanfiction, mangas, BookTok y foros transmedia. En este estudio psicométrico con 820 estudiantes de ESO y Bachillerato, los autores validaron una nueva escala multidimensional que mapea la motivación intrínseca, extrínseca y las preferencias de formato.",
+      "contexto": "La comprensión lectora es una competencia vehicular, pero también importa el gusto por leer y el hábito lector, del que derivan vocabulario, pensamiento crítico y bienestar emocional. Ante la escasez de pruebas psicométricas fiables para medir la motivación y las preferencias lectoras, en este estudio con 835 estudiantes de Secundaria de Gran Canaria los autores validaron la Escala de Motivación y Preferencias Lectoras de los Adolescentes (EMyPLA), un instrumento ad hoc de 31 ítems y seis factores.",
       "deepDives": [
         {
           "id": "mot-apertura-1",
-          "triggerLabel": "Teoría de la Autodeterminación (Deci y Ryan)",
+          "triggerLabel": "Teoría de la Autodeterminación (Ryan y Deci)",
           "type": "theory",
-          "content": "La motivación lectora oscila desde la desmotivación, pasando por la regulación externa (leer por notas), hasta la motivación intrínseca pura (leer por placer y curiosidad)."
+          "content": "Las escalas de motivación lectora se apoyan en la Teoría de la Autodeterminación (Ryan y Deci, 2004), que entiende la lectura por placer y entretenimiento como una forma de motivación intrínseca."
         },
         {
           "id": "mot-apertura-2",
-          "triggerLabel": "Muestra de 820 adolescentes",
+          "triggerLabel": "Muestra de 835 adolescentes",
           "type": "data",
-          "content": "820 estudiantes de 12 a 18 años evaluados en centros de Secundaria mediante análisis factorial exploratorio y confirmatorio."
+          "content": "835 estudiantes de 12 a 19 años (media 15,1) de 25 centros de Secundaria de Gran Canaria, evaluados mediante análisis factorial exploratorio y confirmatorio."
         }
       ]
     },
     "conflicto": {
-      "problema": "Las lecturas obligatorias canónicas desconectadas del mundo juvenil acaban destruyendo la motivación intrínseca, convirtiendo el acto de leer en una tortura académica.",
-      "porQueImporta": "El abandono lector en la adolescencia tiene consecuencias irreversibles para la formación cultural, el vocabulario y el pensamiento crítico en la vida adulta.",
+      "problema": "Las lecturas obligatorias desconectadas del mundo juvenil pueden erosionar la motivación intrínseca, convirtiendo el acto de leer en una tarea académica más.",
+      "porQueImporta": "Sin instrumentos fiables no es posible identificar qué motiva realmente a leer a los adolescentes ni ajustar los planes de fomento lector a sus intereses.",
       "dataPoints": [
-        "Muestra de 820 adolescentes de Educación Secundaria Obligatoria y Bachillerato.",
-        "Estructura trifactorial validada: Motivación intrínseca, Motivación social/extrínseca y Preferencias de formato (digital vs. papel).",
-        "Resistencia del papel: el 64% de los adolescentes lectores habituales prefiere el libro impreso para la literatura de ficción.",
-        "Brecha de género: las chicas declararon significativamente mayor motivación intrínseca y social que los chicos.",
-        "Propiedades psicométricas sobresalientes (CFI = .95, alfa de Cronbach global = .87)."
+        "Muestra de 835 estudiantes de ESO y Bachillerato de 25 centros de Gran Canaria.",
+        "Estructura de seis factores validada (géneros periodísticos-digitales, novelísticos, motivación imaginativa-creativa, lúdica-comunicativa, lírico-autoayuda y libros de youtubers/streamers).",
+        "Fiabilidad total ω=.96 y un 61,52% de varianza explicada por el modelo de seis factores.",
+        "El factor con mayor puntuación media fue Géneros novelísticos (M=3,48).",
+        "Índices de ajuste adecuados: RMSEA=.05, CFI=.96, TLI=.95 y SRMR=.03."
       ],
       "glossary": [
         {
-          "term": "Abismo lector adolescente",
-          "definition": "Descenso abrupto en la frecuencia y motivación lectora que se produce entre los 12 y los 16 años por competencia de ocio digital y presiones académicas."
+          "term": "Preferencias lectoras",
+          "definition": "Elecciones que los estudiantes realizan al seleccionar una obra, texto o género literario determinado."
         },
         {
           "term": "Motivación intrínseca lectora",
@@ -62,101 +62,101 @@
     },
     "viaje": {
       "titulo": "Ruta metodológica: Desarrollo psicométrico y validación factorial",
-      "narrativa": "Los autores diseñaron la escala, realizaron una prueba piloto y aplicaron AFC con modelos de ecuaciones estructurales para verificar la invariancia por género y curso escolar.",
+      "narrativa": "Los autores diseñaron ad hoc la escala (36 ítems iniciales), aplicaron análisis factorial exploratorio y confirmatorio con un modelo ESEM y comprobaron su fiabilidad con la omega de McDonald.",
       "detalles": [
         {
           "label": "Población",
-          "value": "820 estudiantes de 12 a 18 años en centros de Secundaria."
+          "value": "835 estudiantes de 12 a 19 años en 25 centros de Secundaria de Gran Canaria."
         },
         {
           "label": "Instrumento",
-          "value": "Escala de Motivación y Preferencias Lectoras (EMPL-A)."
+          "value": "Escala de Motivación y Preferencias Lectoras de los Adolescentes (EMyPLA), de 31 ítems."
         },
         {
           "label": "Análisis",
-          "value": "AFE, AFC, bondad de ajuste (RMSEA, CFI) y fiabilidad compuesta."
+          "value": "AFE, AFC con modelo ESEM, índices de ajuste (RMSEA, CFI, TLI, SRMR) y omega de McDonald."
         }
       ],
       "limitaciones": [
-        "Datos basados en autoinforme transversal de los estudiantes."
+        "Muestreo no probabilístico e intencional, circunscrito a Gran Canaria y basado en autoinforme del alumnado."
       ],
       "reflexion": "No se puede encender el fuego de la lectura con la leña fría de la obligación ciega."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: El libro en papel resiste en el corazón adolescente",
-      "narrativa": "La escala desveló paradojas que desmontan tópicos sobre la juventud actual:",
+      "titulo": "Hallazgos empíricos: Qué motiva y qué prefieren leer los adolescentes",
+      "narrativa": "La escala desveló tendencias claras sobre la motivación y las preferencias lectoras:",
       "hallazgos": [
         {
-          "label": "1. El Papel Sigue Siendo Sagrado",
-          "value": "A pesar de vivir pegados a las pantallas, los jóvenes que leen por placer prefieren tocar y oler el papel del libro físico."
+          "label": "1. Los géneros novelísticos lideran",
+          "value": "El factor con mayor puntuación media fue Géneros novelísticos (M=3,48): intriga, fantasía, ciencia ficción y terror."
         },
         {
-          "label": "2. La Lectura Social Triunfa",
-          "value": "Recomendar libros a amigos y comentar historias en redes es el motor más potente para mantener el hábito en Secundaria."
+          "label": "2. Imaginación y comunidad fan",
+          "value": "La Motivación imaginativa-creativa fue el factor más fiable (ω=.90): imaginar finales alternativos, inventar personajes y participar en comunidades de fans."
         },
         {
-          "label": "3. Brecha de Género Preocupante",
-          "value": "Los varones adolescentes muestran una alarmante desmotivación hacia la literatura escolar, requiriendo nuevos formatos (cómic, novela gráfica, divulgación)."
+          "label": "3. Lo menos valorado",
+          "value": "El factor con menor puntuación media fue Género lírico y libros de autoayuda (M=2,12): la lectura más introspectiva tiene menos tirón."
         }
       ],
       "dataPoints": [
-        "Diferencia estadísticamente significativa a favor de las chicas en motivación intrínseca (p < .001).",
-        "La lectura digital se asocia principalmente a la consulta de información breve, noticias y mangas."
+        "ANOVA de medidas repetidas: diferencias significativas entre los seis factores (F(5,4170)=164,40; p<.001; η²=.165).",
+        "El factor periodístico-digital mide el consumo de prensa, blogs y tuits; los jóvenes prefieren lecturas breves y visuales en pantalla."
       ],
       "reflexion": "El adolescente que dice que no le gusta leer solo es un joven que no ha encontrado su libro todavía."
     },
     "marco": {
       "titulo": "Discusión: Nuevas estrategias de prescripción en Secundaria",
-      "narrativa": "Heredia-Ponce, Romero-Oliva y Ravina-Artacho instan a renovar el canon escolar:",
+      "narrativa": "Nicolau-Ramos, Suárez-Robaina y Martín-Quintana instan a renovar el fomento lector a partir de los perfiles reales del alumnado:",
       "detalles": [
         {
-          "label": "Autonomía en la Elección",
-          "value": "Permitir itinerarios lectores abiertos donde el alumno elija al menos el 50% de sus lecturas."
+          "label": "Autonomía y perfiles lectores",
+          "value": "Identificar los perfiles lectores del alumnado para diseñar planes de fomento sensibles a sus intereses reales."
         },
         {
           "label": "Comunidades Lectoras en el Aula",
-          "value": "Transformar la clase en un club de lectores donde se converse sobre las lecturas sin exámenes tradicionales."
+          "value": "Aprovechar la dimensión lúdica y comunicativa de la lectura: conversar y compartir lecturas entre iguales."
         }
       ],
-      "reflexion": "Imponer un libro es vacunar contra la lectura: recomendar con pasión es abrir un horizonte."
+      "reflexion": "Imponer un libro puede apagar el deseo de leer: recomendar con criterio es abrir un horizonte."
     },
     "nucleo": {
-      "pregunta": "¿Qué estructura psicométrica presenta la Escala de Motivación y Preferencias Lectoras de los Adolescentes (EMPL-A)?",
-      "conclusion": "La escala EMPL-A fue validada con excelentes propiedades psicométricas (alfa = .87, CFI = .95) en 820 adolescentes, confirmando una estructura de tres factores: motivación intrínseca, motivación social y preferencias de soporte. Los resultados revelan una clara preferencia por el papel en ficción, una profunda brecha de género y la urgencia de flexibilizar los planes de lectura escolar para frenar el abandono lector juvenil.",
-      "formalRef": "Heredia-Ponce, H., Romero-Oliva, M. F., & Ravina-Artacho, G. (2025). Validación de la Escala de Motivación y Preferencias Lectoras de los adolescentes. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.572"
+      "pregunta": "¿Qué estructura psicométrica presenta la Escala de Motivación y Preferencias Lectoras de los Adolescentes (EMyPLA)?",
+      "conclusion": "La EMyPLA fue validada con propiedades psicométricas adecuadas (ω=.96; RMSEA=.05; CFI=.96) en 835 adolescentes de Gran Canaria, confirmando una estructura de seis factores. El instrumento permite identificar perfiles lectores y diseñar planes de fomento sensibles a los intereses reales del alumnado, más allá del ámbito académico.",
+      "formalRef": "Nicolau-Ramos, S., Suárez-Robaina, J. R., & Martín-Quintana, J. C. (2025). Validación de la Escala de Motivación y Preferencias Lectoras de los adolescentes. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.572"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué soporte prefieren de forma mayoritaria los adolescentes lectores habituales para la lectura de ficción literaria?",
+          "q": "¿Qué factor obtuvo la mayor puntuación media en la escala EMyPLA?",
           "options": [
-            "La pantalla del teléfono móvil en modo scroll.",
-            "El libro tradicional impreso en papel (64 %).",
-            "El reloj inteligente smartwatch.",
-            "Los audiolibros a doble velocidad."
+            "Género lírico y libros de autoayuda.",
+            "Géneros novelísticos (M=3,48).",
+            "Libros de youtubers/streamers.",
+            "Géneros periodísticos y lectura en plataformas digitales."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué dimensión de la escala resultó ser un predictor decisivo para sostener el hábito lector en la adolescencia?",
+          "q": "¿Cuál fue el factor más fiable de la escala (ω=.90)?",
           "options": [
-            "La amenaza de castigos escolares si no se lee.",
-            "La motivación social (compartir, recomendar y debatir libros con iguales y en comunidades virtuales).",
-            "El precio de los libros en las librerías.",
-            "El número de exámenes memorísticos al trimestre."
+            "Motivación imaginativa-creativa.",
+            "Géneros novelísticos.",
+            "Libros de youtubers/streamers.",
+            "Género lírico y libros de autoayuda."
           ],
-          "correct": 1
+          "correct": 0
         },
         {
           "type": "choice",
-          "q": "¿Qué diferencia significativa por género se constató en los 820 adolescentes evaluados?",
+          "q": "¿Cuántos factores integran la versión final de la escala EMyPLA?",
           "options": [
-            "Los chicos leyeron significativamente más que las chicas.",
-            "Las chicas obtuvieron puntuaciones notablemente más altas en motivación intrínseca y social hacia la lectura.",
-            "No hubo ninguna diferencia de ningún tipo.",
-            "Los chicos solo leyeron en latín."
+            "Tres factores.",
+            "Seis factores.",
+            "Diez factores.",
+            "Un único factor."
           ],
           "correct": 1
         },
@@ -166,30 +166,30 @@
         },
         {
           "type": "open",
-          "q": "¿Cómo combatirías la desmotivación lectora de los varones adolescentes utilizando géneros como la novela gráfica, el cómic de no ficción y las biografías deportivas?"
+          "q": "¿Cómo aprovecharías los factores más valorados por los adolescentes (novela e imaginación-creatividad) para diseñar actividades de fomento lector en el aula?"
         }
       ]
     }
   },
   "tutorTexts": {
     "apertura": {
-      "text": "Bienvenido al universo de la adolescencia. Vamos a desvelar por qué se apaga el hábito lector en Secundaria.",
+      "text": "Bienvenido al universo de la adolescencia. Vamos a desvelar qué motiva y qué prefieren leer los jóvenes.",
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "¿Obligar a leer clásicos difíciles o dar libertad de elección? Los 820 adolescentes encuestados tienen mucho que decirnos.",
+      "text": "¿Medimos bien la motivación lectora? Los 835 adolescentes encuestados tienen mucho que decirnos.",
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Validamos psicométricamente la escala EMPL-A con análisis factorial confirmatorio y modelos estructurales.",
+      "text": "Validamos psicométricamente la escala EMyPLA con análisis factorial exploratorio, confirmatorio y modelo ESEM.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Sorpresa total! A pesar de las pantallas, el 64% de los jóvenes lectores adora el papel para la literatura.",
+      "text": "¡Los géneros novelísticos arrasan! La intriga, la fantasía, la ciencia ficción y el terror lideran las preferencias lectoras.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "El secreto para que lean en la adolescencia no es la nota: es la conversación social entre iguales.",
+      "text": "El secreto para que lean en la adolescencia no es la nota: es conectar con sus intereses e impulsar el intercambio entre iguales.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -197,7 +197,7 @@
       "position": "bottom-right"
     },
     "mapa": {
-      "text": "Explora el mapa conceptual para conectar la escala EMPL-A, el abismo lector, la motivación social y el libro en papel.",
+      "text": "Explora el mapa conceptual para conectar la escala EMyPLA, sus seis factores y las preferencias entre papel y pantalla.",
       "position": "bottom-right"
     },
     "reflexion": {
@@ -206,110 +206,215 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Motivación y Preferencias Lectoras de los Adolescentes",
-    "descripcion": "Validación psicométrica de la escala EMPL-A en 820 jóvenes: motivación intrínseca vs. social, resistencia del papel, brecha de género y canon.",
+    "titulo": "Mapa conceptual: Validación de la Escala EMyPLA de motivación lectora adolescente (Ocnos 24(2), 2025)",
+    "descripcion": "Recorrido desde la lectura como competencia y las escalas previas de motivación, pasando por la validación psicométrica con 835 adolescentes de Gran Canaria (AFE/AFC, seis factores, omega .96), hasta las tendencias de preferencia, la discusión sobre lectura activa, digital y papel, y las limitaciones del muestreo.",
     "nodos": [
       {
         "id": "1",
-        "label": "Escala EMPL-A (820 Jóvenes)",
-        "color": "#264653"
+        "label": "Lectura como competencia vehicular",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La comprensión lectora determina el desempeño académico y la vida adulta, y el hábito lector amplía vocabulario, pensamiento crítico y bienestar emocional (Fernández-Durán, 2005; Mendes-Belo et al., 2024; Alonso-Arévalo et al., 2020). Sin embargo, son limitadas las pruebas psicométricas que aseguran fiabilidad y validez al medir motivación y gusto por la lectura (Soldevilla-Elduayen, 2019; Lluch y Sánchez-García, 2017)."
       },
       {
         "id": "2",
-        "label": "Abismo Lector en Secundaria",
-        "color": "#c73e1d"
+        "label": "Escalas previas de motivación lectora",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Precedentes en la evaluación lectora: MARSI (Mokhtari y Reichard, 2002), PROLEC-SE (Ramos-Sánchez y Cuetos, 1999) y ESCOLA (Puente et al., 2009). En el ámbito hispanohablante: adaptación del cuestionario de Merisuo-Storm (Villalón et al., 2016), validación del AMRS de Guthrie et al. (González-Valenzuela et al., 2014), ACTIM-LEC (Artola-González et al., 2013, 2021) y la EML de Gambrell validada en Chile (Navarro et al., 2018)."
       },
       {
         "id": "3",
-        "label": "Motivación Intrínseca Lectora",
-        "color": "#88b04b"
+        "label": "Función identitaria de las preferencias",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Las elecciones lectoras cumplen una función identitaria y social: los adolescentes construyen identidad colectiva en torno a sagas de éxito como Harry Potter, Los Juegos del Hambre o Divergente, que operan como referentes simbólicos compartidos entre lectores de la generación (Manresa-Potrony, 2007)."
       },
       {
         "id": "4",
-        "label": "Motivación Social (Comunidades)",
-        "color": "#5b9eaa"
+        "label": "Validación de la escala EMyPLA",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "El objetivo principal es validar la Escala de Motivación y Preferencias Lectoras de los Adolescentes (EMyPLA), confeccionada ad hoc, evaluando sus propiedades psicométricas mediante análisis factoriales. Como segundo objetivo, examinar los resultados de su aplicación para una primera aproximación a los patrones de motivación y preferencias lectoras adolescentes."
       },
       {
         "id": "5",
-        "label": "Resistencia del Papel (64%)",
-        "color": "#2a5a75"
+        "label": "835 estudiantes de Gran Canaria",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "835 estudiantes de 25 centros de Secundaria de Gran Canaria, con media de edad de 15,1 años (12-19), 54,3% en ESO y 44,3% en Bachillerato; 43,8% chicos, 53,4% chicas y 2,8% género no binario. Cuestionario en Google Forms durante horario lectivo, con consentimiento informado y anonimato."
       },
       {
         "id": "6",
-        "label": "Lectura Digital y Manga",
-        "color": "#f4d068"
+        "label": "31 ítems con Likert",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "El instrumento integra un bloque sociodemográfico y un bloque específico de seis factores con 31 preguntas cerradas en escala Likert de seis categorías (de «Nunca» a «Siempre»). El cuestionario original tenía 36 ítems; se cuidó la redacción para asegurar la comprensión adolescente."
       },
       {
         "id": "7",
-        "label": "Brecha de Género (Chicas lideran)",
-        "color": "#9b82c3"
+        "label": "AFE, AFC y modelo ESEM",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Se combinó análisis factorial exploratorio y confirmatorio con modelo de ecuaciones estructurales exploratorio (ESEM) y rotación geomin ortogonal (Schmitt, 2011). Los índices de ajuste siguieron los criterios de Kline (2015); la fiabilidad se calculó con omega de McDonald y se añadieron correlaciones de Pearson, ANOVA de medidas repetidas y pruebas t."
       },
       {
         "id": "8",
-        "label": "Autonomía en la Elección",
-        "color": "#2a9d8f"
+        "label": "Estructura de seis factores",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Factores: 1) Géneros periodísticos y lectura en plataformas digitales (7 ítems), 2) Géneros novelísticos (4), 3) Motivación imaginativa-creativa (7), 4) Motivación lúdica-comunicativa (8), 5) Género lírico y libros de autoayuda (3), 6) Libros de youtubers/streamers (2). La estructura explica el 61,52% de la varianza, con cargas entre .42 y .97."
       },
       {
         "id": "9",
-        "label": "Fracaso de Lecturas Forzosas",
-        "color": "#e76f51"
+        "label": "Omega total de .96",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "KMO=.762 y Bartlett=1439.903 (p<.001) respaldaron el factorial. El modelo de seis factores mostró RMSEA=.05, CFI=.96, TLI=.95 y SRMR=.03, con fiabilidad total ω=.96 y por factores entre .71 y .90. Se descartaron cinco ítems por cargas inferiores a .30 o no discriminativas."
       },
       {
         "id": "10",
-        "label": "Clubes de Lectura Escolar",
-        "color": "#f4a261"
+        "label": "Preferencia por géneros novelísticos",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "En el ANOVA de medidas repetidas (F(5,4170)=164.40; p<.001; η²=.165), el factor más puntuado fue Géneros novelísticos (M=3.48: intriga, fantasía, ciencia ficción, terror) y el menos, Género lírico y libros de autoayuda (M=2.12). Todos los factores difieren entre sí salvo el periodístico-digital frente al lúdico-comunicativo."
+      },
+      {
+        "id": "11",
+        "label": "Correlaciones entre factores",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "Los seis factores se correlacionaron significativamente entre sí (p<.001), con las relaciones más altas entre Motivación imaginativa-creativa y lúdica-comunicativa (r=.731) y de ambas con Géneros novelísticos (r=.507 y r=.495), lo que indica coherencia interna y validez estructural del modelo."
+      },
+      {
+        "id": "12",
+        "label": "Lectura activa y social",
+        "color": "#2a5a75",
+        "role": "Discusión",
+        "descripcion": "La Motivación imaginativa-creativa, factor más fiable (ω=.90), refleja lectores que imaginan finales alternativos, personajes nuevos y comunidades de fans: la imaginación como pilar del encuentro con el texto (Prada-Londoño y Luna-Bravo, 2020). La lúdica-comunicativa coincide con la Teoría de la Autodeterminación (Ryan y Deci, 2004) y con la lectura como acto social (Cerrillo-Torremocha, 2009)."
+      },
+      {
+        "id": "13",
+        "label": "Lectura digital y papel",
+        "color": "#88b04b",
+        "role": "Discusión",
+        "descripcion": "El factor periodístico-digital mide el consumo de prensa, blogs y tuits; pese a la vinculación de la generación Z con la tecnología, los jóvenes prefieren lecturas breves y visuales en pantalla y reservan el papel para las extensas (Tabernero-Sala et al., 2020). El factor Libros de youtubers/streamers une cultura digital e influencers con el consumo literario."
+      },
+      {
+        "id": "14",
+        "label": "Herramienta para el fomento lector",
+        "color": "#f4d068",
+        "role": "Conclusiones",
+        "descripcion": "La EMyPLA resulta herramienta válida y confiable que sitúa al lector adolescente en el centro de las estrategias educativas: permite identificar perfiles lectores, diseñar planes de fomento sensibles a los intereses reales y servir de instrumento diagnóstico o de base para evaluar iniciativas lectoras."
+      },
+      {
+        "id": "15",
+        "label": "Muestra no probabilística",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "El diseño usó muestreo no probabilístico e intencional, por lo que los resultados pueden no ser representativos de toda la población; la muestra se circunscribe a la isla de Gran Canaria y el instrumento se basa en autoinforme del alumnado."
       }
     ],
     "aristas": [
       {
         "from": "1",
-        "to": "2",
-        "label": "diagnostica las causas del"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "valida la dimensión de"
-      },
-      {
-        "from": "1",
         "to": "4",
-        "label": "demuestra la potencia de la"
+        "label": "motiva la"
       },
       {
-        "from": "1",
-        "to": "5",
-        "label": "constata la sorprendente"
+        "from": "2",
+        "to": "4",
+        "label": "antecede a la"
       },
       {
-        "from": "1",
-        "to": "6",
-        "label": "mapea el uso específico de la"
-      },
-      {
-        "from": "1",
-        "to": "7",
-        "label": "revela una acusada"
-      },
-      {
-        "from": "9",
-        "to": "2",
-        "label": "dispara y acelera el"
-      },
-      {
-        "from": "8",
-        "to": "3",
-        "label": "estimula directamente la"
+        "from": "3",
+        "to": "4",
+        "label": "amplía el objeto de la"
       },
       {
         "from": "4",
+        "to": "5",
+        "label": "se aplicó a"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se compone de"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "responde mediante el"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se procesa con"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "confirmó la"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "acreditó el ajuste y la"
+      },
+      {
+        "from": "8",
         "to": "10",
-        "label": "se dinamiza creando"
+        "label": "alcanza su máxima media en el"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "muestra"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "se interpreta desde la"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "dialoga con la"
       },
       {
         "from": "10",
-        "to": "8",
-        "label": "garantiza un espacio de"
+        "to": "13",
+        "label": "se combina con la"
+      },
+      {
+        "from": "11",
+        "to": "9",
+        "label": "respalda la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "justifica la"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "orienta la"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "sustenta la"
+      },
+      {
+        "from": "15",
+        "to": "5",
+        "label": "limita la representatividad de la"
+      },
+      {
+        "from": "15",
+        "to": "14",
+        "label": "acota la"
       }
     ]
   }

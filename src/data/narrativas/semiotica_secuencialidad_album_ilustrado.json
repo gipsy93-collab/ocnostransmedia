@@ -1,0 +1,449 @@
+{
+  "id": "semiotica_secuencialidad_album_ilustrado",
+  "metadata": {
+    "title": "El lápiz y el dragón: semiótica de la secuencialidad en el álbum ilustrado infantil",
+    "authors": "Eduardo Santiago-Ruiz",
+    "year": "2021",
+    "journal": "Ocnos 20(3)",
+    "doi": "10.18239/ocnos_2021.20.3.2510",
+    "gancho": "¿Qué ocurre cuando das vuelta a la página en un álbum ilustrado? ¿Es solo un trámite físico o un modo semiótico que crea sentido?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#e76f51",
+    "bg": "from-ocean-dark/20 to-coral/20",
+    "image": "https://picsum.photos/seed/trucas/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Eduardo Santiago-Ruiz, investigador en semiótica visual",
+      "gancho": "¿Qué ocurre cuando das vuelta a la página en un álbum ilustrado? ¿Es solo un trámite físico o un modo semiótico que crea sentido?",
+      "contexto": "El álbum ilustrado es una obra eminentemente secuencial, pero esta dimensión ha sido relegada históricamente frente a la relación bimodal texto-imagen. El autor propone que la secuencialidad es un modo semiótico fundamental que articula significados ideacionales, textuales e interpersonales en la literatura infantil.",
+      "deepDives": [
+        {
+          "id": "seq-ap-1",
+          "triggerLabel": "Orígenes teóricos en el cómic",
+          "type": "theory",
+          "content": "Will Eisner (1985) definió el cómic como arte secuencial y Scott McCloud (1993) lo conceptualizó como imágenes pictóricas yuxtapuestas en deliberada secuencia, abriendo el camino para la teoría multimodal contemporánea."
+        },
+        {
+          "id": "seq-ap-2",
+          "triggerLabel": "La brecha bimodal tradicional",
+          "type": "data",
+          "content": "Desde Bader (1976) y Nikolajeva y Scott (2000), la crítica ha priorizado el contrapunto texto-imagen, desatendiendo cómo la progresión entre páginas genera significado por sí misma."
+        },
+        {
+          "id": "seq-ap-3",
+          "triggerLabel": "El álbum 'Trucas' de Juan Gedovius",
+          "type": "example",
+          "content": "El álbum sin palabras 'Trucas' (Gedovius, 2019) sirve como corpus paradigmático para ilustrar cómo un dragón y un personaje interactúan con los límites físicos y formales de la hoja impresa."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La investigación teórica sobre el álbum infantil carece de un marco unificado para analizar la secuencialidad, generando dispersión terminológica entre conceptos prestados del cine, el cómic y la literatura.",
+      "porQueImporta": "Comprender la secuencialidad como modo semiótico autónomo permite refinar los modelos de alfabetización visual, enriquecer la mediación docente en lectura compartida y apreciar recursos vanguardistas de autor.",
+      "dataPoints": [
+        "El cómic utiliza convencionalmente de 6 a 9 paneles por página; el álbum prefiere el panel a doble página.",
+        "Los álbumes sin palabras demuestran que la secuencialidad transmite acciones narrativas complejas sin apoyo de texto escrito."
+      ],
+      "glossary": [
+        {
+          "term": "Modo semiótico",
+          "definition": "Recurso semiótico culturalmente configurado para construir significado según Kress (2010)."
+        },
+        {
+          "term": "Panel",
+          "definition": "Unidad narrativa mínima que reúne imagen y texto en un espacio delimitado."
+        },
+        {
+          "term": "Brecha secuencial",
+          "definition": "Espacio relacional y cognitivo entre paneles que el lector colma mediante inferencias."
+        },
+        {
+          "term": "Canvas",
+          "definition": "Estrato material del artefacto: láminas cosidas, encuadernación y formato físico."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "seq-conf-1",
+          "triggerLabel": "Disputa sobre la unidad mínima",
+          "type": "theory",
+          "content": "Frente a Zaparaín y González (que postulan la página) y Painter et al. (que postulan la imagen), Santiago-Ruiz defiende el 'panel' como unidad articuladora de texto y soporte visual."
+        },
+        {
+          "id": "seq-conf-2",
+          "triggerLabel": "De closure a brecha secuencial",
+          "type": "theory",
+          "content": "El concepto gestáltico de 'closure' de McCloud se reinterpreta y precisa como 'brecha secuencial' para evitar confusiones psicológicas y destacar la labor activa de inferencia lectora."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Análisis semiótico multimodal y validación en 'Trucas'",
+      "narrativa": "El autor aplica las tres metafunciones de Halliday (ideacional, textual e interpersonal) y los estratos de Bateman y Wildfeuer (canvas y medio) para desglosar la secuencialidad en el álbum ilustrado, analizando en detalle el comportamiento formal de 'Trucas'.",
+      "detalles": [
+        {
+          "label": "Marco",
+          "value": "Análisis Multimodal (AMM) y Lingüística Sistémico-Funcional (Halliday, Kress, Bateman)."
+        },
+        {
+          "label": "Corpus central",
+          "value": "'Trucas' (Juan Gedovius, 2019, FCE) junto a contraejemplos de Isol y Selznick."
+        },
+        {
+          "label": "Estratos",
+          "value": "Material (canvas, páginas cosidas) y Medio (convenciones de lectura y print awareness)."
+        },
+        {
+          "label": "Operaciones",
+          "value": "Extender el panel y atravesar la página física como rupturas metanarrativas."
+        }
+      ],
+      "limitaciones": [
+        "El estudio se circunscribe al álbum narrativo ficcional; el álbum lírico posee dinámicas secuenciales propias no abordadas.",
+        "Análisis cualitativo y conceptual sin contrastación empírica directa con lectores infantiles en aula."
+      ],
+      "reflexion": "¿Cómo cambia la experiencia estética de un niño cuando el autor rompe la cuarta pared y hace que el personaje rasgue físicamente la página del libro?",
+      "deepDives": [
+        {
+          "id": "seq-viaje-1",
+          "triggerLabel": "Metafunciones de Halliday aplicadas",
+          "type": "method",
+          "content": "Metafunción ideacional: conecta escenas y estados en una historia coherente. Metafunción textual: ordena planteamiento, nudo y desenlace. Metafunción interpersonal: dosifica información para generar sorpresa y emoción."
+        }
+      ]
+    },
+    "revelacion": {
+      "deepDives": [
+        {
+          "id": "seq-rev-1",
+          "triggerLabel": "El panel a doble página",
+          "type": "data",
+          "content": "Nikolajeva (2016) destaca que el 'single-panel doublespread' es el formato dominante en el álbum debido a su idoneidad para la visualización compartida entre mediador adulto e infante."
+        }
+      ],
+      "titulo": "Resultados",
+      "narrativa": "",
+      "hallazgos": [
+        {
+          "label": "Hallazgo principal",
+          "value": "La secuencialidad opera como un modo semiótico cooperativo que no solo sostiene la arquitectura narrativa, sino que en obras vanguardistas como 'Trucas' vehicula la metatextualidad al expandir o rasgar los límites físicos del soporte."
+        },
+        {
+          "label": "Evidencia",
+          "value": "En el clímax de 'Trucas', el dragón se extiende a lo largo de tres páginas dobles alineadas con exactitud milimétrica, y luego el personaje jala el papel asomándose por el hueco, manipulando la hoja física del lector."
+        },
+        {
+          "label": "Cita clave",
+          "value": "The drama of turning the page' (Bader, 1976): dar vuelta a la página clausura un espacio de representación e inaugura otro, convirtiéndose en el motor de sorpresa e intriga fundamental del álbum."
+        }
+      ],
+      "dataPoints": [
+        "Pausar la lectura compartida justo antes del cambio de página para promover hipótesis inferenciales comunitarias.",
+        "Enseñar a los niños a interpretar los silencios y elipsis entre paneles como espacios activos de cocreación.",
+        "Aprovechar álbumes sin palabras para desarrollar la alfabetización visual y el razonamiento deductivo temprano."
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión y marco teórico",
+      "narrativa": "La discusión sitúa la secuencialidad como un modo semiótico pleno que dialoga con la tradición del arte secuencial del cómic y con la estética de la recepción, y la ejemplifica en las rupturas formales de Trucas. Frente a la crítica bimodal previa, el autor defiende un marco unificado en torno al panel, la brecha secuencial y el cambio de página.",
+      "detalles": [
+        {
+          "label": "Convergencias",
+          "value": "Recupera la teoría del arte secuencial de Eisner (1985) y McCloud (1993), la estética de la recepción de Iser (1978), las metafunciones de Halliday (1978), el Análisis Multimodal de Kress (2010) y los estratos de Bateman y Wildfeuer (2014); coincide con Bader (1976), Nikolajeva (2016), Sipe y Brightman (2009) y Painter et al. (2013) en la centralidad de la secuencialidad."
+        },
+        {
+          "label": "Divergencias",
+          "value": "Discrepa de Zaparaín y González (2010), que postulan la página como unidad mínima, y de Painter et al. (2013), que postulan la imagen; propone el panel como unidad articuladora. También reinterpreta el closure de McCloud como 'brecha secuencial' y reprocha a la crítica previa su dispersión terminológica y su falta de citación mutua."
+        },
+        {
+          "label": "Aportes",
+          "value": "Ofrece un marco teórico unificado y conceptos operativos —panel, brecha secuencial y cambio de página— para analizar el álbum ilustrado, e introduce las categorías 'extender el panel' y 'atravesar la página' a partir del análisis de Trucas de Gedovius."
+        },
+        {
+          "label": "Puntos ciegos",
+          "value": "El propio autor reconoce la falta de estudios sobre cómo los lectores construyen significado al dar vuelta a la página y sobre la organización compleja de los paneles, así como la ausencia de contrastación empírica con lectores infantiles y la exclusión del álbum lírico, con dinámicas secuenciales propias."
+        },
+        {
+          "label": "Corpus y alcance",
+          "value": "'Trucas' (Gedovius, 2019) como caso central, con contraejemplos de O fim da fila (Pimentel, 2011) y La invención de Hugo Cabret (Selznick, 2007)."
+        }
+      ],
+      "reflexion": "¿Cómo transforma la comprensión del álbum el reconocer que el significado también nace en el gesto mismo de dar vuelta a la página?",
+      "deepDives": [
+        {
+          "id": "seq-marco-1",
+          "triggerLabel": "Iser y la estética de la recepción",
+          "type": "theory",
+          "content": "Wolfgang Iser (1978) postuló que los vacíos son los puntos exactos por donde el lector ingresa al texto; la brecha secuencial en el álbum materializa visualmente estos vacíos de indeterminación."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Puede la secuencialidad considerarse un modo semiótico fundamental del álbum ilustrado y qué categorías permiten su análisis riguroso?",
+      "conclusion": "Sí. La secuencialidad cumple las tres metafunciones de Halliday, se estructura en estratos material y de uso, y opera mediante conceptos como panel, brecha secuencial y cambio de página para construir significado narrativo y estético.",
+      "formalRef": "Santiago-Ruiz, E. (2021). El lápiz y el dragón: semiótica de la secuencialidad en el álbum ilustrado infantil. Ocnos, 20(3). https://doi.org/10.18239/ocnos_2021.20.3.2510"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Semiótica del Álbum",
+        "descripcion": "Atrapa conceptos clave de la secuencialidad visual y responde preguntas sobre Trucas y metafunciones.",
+        "instrucciones": "Recoge 3 tokens para abrir preguntas sobre paneles, brechas y cambio de página. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Semiótica Visual",
+        "descripcion": "Demuestra tu dominio teórico sobre modos semióticos, Halliday y las convenciones del álbum ilustrado.",
+        "instrucciones": "Responde contrarreloj para acumular multiplicadores y lograr la máxima puntuación teórica."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de McCloud e Iser",
+        "descripcion": "Escala los niveles conceptuales desde el estrato material del canvas hasta la metatextualidad vanguardista.",
+        "instrucciones": "Responde correctamente para activar cada bloque de la pirámide isométrica de conocimiento."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Semiótica de la secuencialidad en el álbum ilustrado infantil (Santiago-Ruiz, 2021)",
+      "descripcion": "Estructura epistemológica de la secuencialidad como modo semiótico multimodal: metafunciones de Halliday, estratos de Bateman, conceptos de panel y brecha secuencial, y análisis de rupturas formales en Trucas.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Análisis Multimodal del álbum",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "El Análisis Multimodal (AMM) postula que los artefactos culturales comunican significados mediante la integración sinérgica de diversos modos semióticos articulados culturalmente en contextos sociales concretos."
+        },
+        {
+          "id": "2",
+          "label": "Limitación del enfoque bimodal tradicional",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "La crítica histórica sobre el libro-álbum se concentró casi exclusivamente en la dialéctica bimodal entre texto e imagen, desatendiendo la naturaleza estructural de la secuencialidad temporal y espacial del medio."
+        },
+        {
+          "id": "3",
+          "label": "Aportes del arte secuencial del cómic",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "Las formulaciones fundacionales de Will Eisner y Scott McCloud sobre la yuxtaposición de viñetas deliberadas proporcionan el anclaje conceptual primordial para teorizar la secuencialidad en la literatura infantil."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: fundamentar la secuencialidad como modo",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Demostrar teóricamente que la secuencialidad constituye un modo semiótico pleno e independiente en el álbum ilustrado, equiparable en potencia comunicativa al texto verbal y a la imagen pictórica."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: definir categorías operativas",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Definir con rigor conceptual los componentes operativos de la secuencialidad —panel, brecha secuencial y cambio de página— y ejemplificar su funcionamiento estético en el análisis del álbum Trucas."
+        },
+        {
+          "id": "6",
+          "label": "Método argumentativo y conceptual",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Diseño cualitativo de corte teórico y hermenéutico basado en la aplicación sistemática de las tres metafunciones sistémico-funcionales de Halliday y el desglose de estratos semióticos formales."
+        },
+        {
+          "id": "7",
+          "label": "Estratos material y de medio (Bateman)",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Diferenciación analítica entre el estrato material o canvas (hojas encuadernadas, gramaje, impresión física) y el estrato del medio (convenciones de lectura lineal, hábitos de manipulación y print awareness)."
+        },
+        {
+          "id": "8",
+          "label": "Corpus paradigmático: Trucas de Gedovius",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Selección del álbum sin palabras Trucas de Juan Gedovius como caso de estudio privilegiado para examinar la manipulación lúdica de los códigos secuenciales y las rupturas de la convención de lectura."
+        },
+        {
+          "id": "9",
+          "label": "Metafunción ideacional: representación integral",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "La secuencialidad dota a los paneles aislados de coherencia narrativa global, permitiendo a los álbumes sin palabras transmitir tramas complejas y acciones dinámicas sin necesidad de anclaje textual."
+        },
+        {
+          "id": "10",
+          "label": "Metafunción textual y ritmo compositivo",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Estructura la progresión dramática en planteamiento, nudo y desenlace; alterar o permutar el orden de los paneles destruye de forma inmediata la inteligibilidad y el sentido del relato infantil."
+        },
+        {
+          "id": "11",
+          "label": "Metafunción interpersonal y dosificación emocional",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Regula el suspense, el humor, la sorpresa y la empatía dosificando gradualmente la entrega de información visual al lector mediante la separación física entre páginas contiguas."
+        },
+        {
+          "id": "12",
+          "label": "El panel a doble página como canon escolar",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Predominio del single-panel doublespread en el álbum frente a la rejilla de múltiples viñetas del cómic, motivado por la lectura compartida entre adulto mediador y niño en la primera infancia."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: drama del cambio de página y brecha",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El cambio de página clausura un espacio dramático e inaugura otro; la brecha secuencial exige al lector activar inferencias cognitivas profundas para colmar los vacíos elípticos de la historia."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: vanguardia metanarrativa en Trucas",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Las técnicas de extender el panel del dragón y atravesar la página rasgando el papel desafían la ilusión ficcional y transforman la materialidad física del libro en protagonista temático."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: alcance circunscrito a la narrativa",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "El marco teórico excluye deliberadamente el álbum lírico y poético cuyas dinámicas de asociación no son narrativas, y requiere contrastación empírica con lectores reales en contextos de aula."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: modelo teórico para la mediación",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se consolida un marco conceptual riguroso que dota a mediadores y docentes de herramientas críticas para promover la alfabetización visual y la interpretación compartida de álbumes complejos."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "fundamenta el"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "demuestra la necesidad de"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "aporta categorías previas a"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se desarrolla mediante el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se operacionaliza en el"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "incorpora el desglose de"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "aplica el análisis sobre"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "sustenta empíricamente la"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "ejemplifica en Trucas la"
+        },
+        {
+          "from": "6",
+          "to": "10",
+          "label": "demuestra la"
+        },
+        {
+          "from": "6",
+          "to": "11",
+          "label": "evidencia la"
+        },
+        {
+          "from": "7",
+          "to": "12",
+          "label": "explica el predominio de"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "se articula con el"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "nutre la teorización de"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "provoca en el receptor el"
+        },
+        {
+          "from": "8",
+          "to": "14",
+          "label": "demuestra la"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "fundamenta analíticamente la"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el alcance del"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "conduce a las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "corrobora las"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Por qué el álbum ilustrado utiliza predominantemente el formato de 'panel a doble página' a diferencia del cómic?",
+          "options": [
+            "Porque abarata sustancialmente los costes de imprenta industrial.",
+            "Para facilitar la visualización comunitaria en la lectura compartida entre mediador adulto e infante.",
+            "Porque la legislación educativa prohíbe viñetas múltiples en primera infancia.",
+            "Por imitación mimética de la pintura de caballete renacentista."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo aplicarías el concepto de 'drama del cambio de página' en una sesión de lectura dialógica en Educación Infantil para estimular la formulación de hipótesis inferenciales?"
+        }
+      ]
+    }
+  }
+}

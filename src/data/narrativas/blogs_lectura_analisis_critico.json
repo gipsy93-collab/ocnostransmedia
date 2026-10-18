@@ -1,0 +1,434 @@
+{
+  "id": "blogs_lectura_analisis_critico",
+  "metadata": {
+    "title": "Blogs y lectura. Un análisis crítico de los artículos de investigación",
+    "authors": "Anna Esteve-Guillén",
+    "year": "2022",
+    "journal": "Ocnos 21(1)",
+    "doi": "10.18239/ocnos_2022.21.1.2739",
+    "gancho": "¿Quién decide qué libros se leen hoy: la crítica académica tradicional o las conversaciones apasionadas de los blogueros en la red?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#264653",
+    "bg": "from-teal-900/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/blogs-lectura/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-esteve/200/200",
+      "name": "Dra. Anna Esteve-Guillén",
+      "role": "Investigadora en Literatura y Lectura Digital, Universidad de Alicante"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Anna Esteve-Guillén, investigadora de la cultura letrada digital y nuevas ecologías de mediación",
+      "gancho": "A comienzos del siglo XXI, millones de personas abrieron una bitácora para hablar de libros. Hoy muchos proclaman la muerte del blog frente a TikTok o Instagram. Pero, ¿qué investigó realmente la ciencia sobre su poder prescriptor?",
+      "contexto": "La Web 2.0 transformó el acto solitario e íntimo de la lectura en una conversación social multitudinaria y pública. En ese ecosistema, los blogs literarios se alzaron como un género híbrido entre el ensayo, el diario personal y la crítica amateur. Esteve-Guillén realiza una revisión crítica exhaustiva de dos décadas (2000-2020) de literatura científica indexada en Scopus, Web of Science, ERIC y LISA, desvelando cómo la academia abordó a estos nuevos prescriptores y el gran vacío existente en torno al canon que construyen.",
+      "deepDives": [
+        {
+          "id": "est-apertura-1",
+          "triggerLabel": "El auge de Technorati y Bitácoras",
+          "type": "data",
+          "content": "En 2008, Tecnorati registraba más de 133 millones de blogs indexados en el mundo; en el ámbito hispanohablante, la plataforma Bitácoras Puntocom indexó 576.681 blogs en 2011, marcando la edad dorada del macroblogging literario."
+        },
+        {
+          "id": "est-apertura-2",
+          "triggerLabel": "El prosumidor literario de Jenkins",
+          "type": "theory",
+          "content": "Henry Jenkins definió al 'prosumidor' como el sujeto de la cultura de la convergencia que no se limita a consumir contenidos pasivamente, sino que produce activamente reseñas, fanfictions, comentarios y debates comunitarios."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "A pesar de la enorme influencia de la blogosfera en las decisiones de compra de millones de lectores y en el fomento del hábito lector juvenil, la investigación académica internacional apenas dedicó 15 artículos indexados al fenómeno en veinte años. Y lo más grave: ningún estudio empírico examinó qué títulos concretos recomiendan, dejando invisibilizado el canon no académico que moldean.",
+      "porQueImporta": "Entender la prescripción lectora digital es esencial para que la escuela y las bibliotecas no vivan de espaldas a los espacios donde los jóvenes lectores construyen voluntariamente su identidad, sus vínculos afectivos y sus comunidades de pertenencia.",
+      "dataPoints": [
+        "Periodo auditado: 20 años de investigación internacional continua (2000 a 2020).",
+        "Bases de datos rastreadas: Web of Science, Scopus, ERIC, Google Scholar y LISA.",
+        "Corpus final depurado: 15 artículos de investigación que abordan directamente los blogs como prescriptores.",
+        "Ausencia total previa a 2008: los artículos comienzan a publicarse tardíamente, en pleno auge del formato.",
+        "Migración ecológica: paso del macroblogging reflexivo hacia el microblogging visual e inmediato (Instagram, TikTok).",
+        "Gran vacío detectado: el 0% de los estudios analizados realizó un inventario sistemático del canon de obras recomendado."
+      ],
+      "glossary": [
+        {
+          "term": "Blog literario",
+          "definition": "Sitio web de actualización periódica y orden cronológico inverso dedicado a la reseña, difusión, comentario y creación literaria."
+        },
+        {
+          "term": "Prescripción lectora",
+          "definition": "Proceso de influencia social y cultural que orienta las preferencias, selecciones y compra de libros de una comunidad lectora."
+        },
+        {
+          "term": "Canon no académico",
+          "definition": "Corpus de obras legitimadas y valoradas espontáneamente por comunidades de lectores amateurs al margen de los planes universitarios."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "est-conflicto-1",
+          "triggerLabel": "Macroblogging vs. Microblogging",
+          "type": "theory",
+          "content": "El blog tradicional ofrecía espacio para el análisis argumentado y el ensayo reposado; las redes sociales contemporáneas priorizan el impacto visual rápido (BookTok, Bookstagram) y la recomendación algorítmica efímera."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Revisión crítica y protocolo bibliométrico",
+      "narrativa": "La autora diseñó un procedimiento analítico en dos fases complementarias:",
+      "detalles": [
+        {
+          "label": "1. Búsqueda booleana en bases internacionales",
+          "value": "Rastreo cruzado con términos 'blog + reading' y expansión a 'canon', 'literary criticism', 'reading promotion' y 'social reading' en títulos y abstracts."
+        },
+        {
+          "label": "2. Criterios rigurosos de selección temática",
+          "value": "Exclusión de artículos sobre uso puramente didáctico/escolar del blog y cribado manual de 15 investigaciones sobre blogs como fenómeno prescriptor social."
+        },
+        {
+          "label": "3. Análisis temático y cuantitativo",
+          "value": "Evaluación de la distribución temporal (el 67% de los artículos se concentra entre 2008 y 2014) y de la geografía investigadora, con Francia, Brasil y Taiwán como territorios de mayor interés y ausencia total en el ámbito catalán."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: De la crítica amateur a la comunidad afectiva",
+      "narrativa": "El corpus revela cómo los blogs transformaron la mediación cultural:",
+      "hallazgos": [
+        {
+          "label": "Subjetividad como valor supremo: Los lectores buscan en el bloguero una voz auténtica, honesta y cercana; el tono frío y distante de la crítica académica consagrada genera desapego.",
+          "value": ""
+        },
+        {
+          "label": "Comunidades interpretativas afectivas: El espacio de comentarios democratiza el debate literario; la lectura deviene pretexto para el autoconocimiento y la amistad virtual.",
+          "value": ""
+        },
+        {
+          "label": "Independencia y vínculo editorial: Blogueros y lectores valoran su independencia para decir lo que piensan sobre lo que leen, mientras la industria editorial reconoce en el bloguero a un embajador o influencer con potencial para difundir contenidos literarios.",
+          "value": ""
+        },
+        {
+          "label": "El gran punto ciego del canon: La academia investigó el 'cómo' y el 'dónde', pero omitió estudiar 'qué' leen los prosumidores, desaprovechando una fuente empírica de primer orden.",
+          "value": ""
+        }
+      ],
+      "reflexion": "La blogosfera demostró que leer nunca fue un acto en soledad: siempre fue una cita secreta esperando compartirse con otros.",
+      "deepDives": [
+        {
+          "id": "est-revelacion-1",
+          "triggerLabel": "El fenómeno de la lectura social",
+          "type": "data",
+          "content": "Lluch et al. (2015) acuñaron que 'el hecho lector se transforma en conversación social', donde la validación entre iguales pesa más que la nota de prensa o el suplemento cultural de prestigio."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Recolocación ecológica y el canon invisible",
+      "narrativa": "Esteve-Guillén debate el papel contemporáneo del blog en la era de los algoritmos:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Ecología de los medios: Los medios no mueren, sino que mutan de función: el blog ha dejado de ser masivo para convertirse en archivo reflexivo de referencia."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Canon en plural (Ohmann, Fishelov, Achugar, Francés): Reconocimiento de que coexisten múltiples cánones (oficial, personal, pedagógico, accesible) en diálogo constante, con blogs, slams y booktubers como nuevos agentes de recomendación."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Sociología de la cultura participativa: El prosumidor ejerce un contrapoder crítico frente al monopolio prescriptor de los grandes grupos editoriales tradicionales."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Crítica experta vs. Opinión amateur: Superación de la falsa dicotomía: la blogosfera no compite con la academia, sino que cubre una necesidad emocional que la universidad ignora."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Macroblogging vs. microblogging: El blog tradicional (Blogger, Blogster, WordPress) ofrecía análisis argumentado y archivo buscable, mientras las redes sociales (Instagram, Facebook, Twitter, YouTube), con funciones de blog incrustadas, priorizan la inmediatez y requieren menos tiempo y esfuerzo de publicación."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El corpus se limita a artículos publicados en revistas científicas indexadas, excluyendo libros monográficos y tesis doctorales."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "La revisión constata un sesgo geográfico: no se encontró ninguna investigación en el ámbito catalán y el tema es prácticamente inexistente también en el español."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la didáctica escolar de la literatura Integrar la creación de blogs y bitácoras literarias de aula donde los estudiantes ejerzan como prescriptores auténticos para sus compañeros."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la formación del canon escolar Consultar las prescripciones de comunidades letradas digitales para actualizar las listas de lectura obligatoria y voluntaria con obras que conecten con los jóvenes."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la investigación en lectura Realizar estudios empíricos masivos mediante minería de datos y raspado web (web scraping) para mapear el canon real de la blogosfera literaria."
+        },
+        {
+          "label": "Tabla",
+          "value": "Distribución del corpus (15 artículos) | Dato real del estudio\nDistribución temporal | El 67% se concentra entre 2008 y 2014 y desde 2016 desciende al 20%; no hay estudios anteriores a 2008\nGeografía investigadora | Francia, Brasil y Taiwán concentran el mayor interés; ninguna investigación en el ámbito catalán\nEjes temáticos analizados | a) perfil de blogueros y caracterización de los blogs; b) blogs y crítica literaria (amateur vs. profesional); c) blogs y compra de libros\nPunto ciego unánime | Ningún artículo aborda el canon de lecturas: no estudian qué títulos, autores o géneros recomiendan los blogs"
+        }
+      ],
+      "reflexion": "Los blogs enseñaron al mundo que una recomendación literaria es, ante todo, un acto de generosidad y afecto entre lectores.",
+      "deepDives": [
+        {
+          "id": "est-marco-1",
+          "triggerLabel": "La permanencia del texto largo",
+          "type": "theory",
+          "content": "Pese a la hegemonía del formato audiovisual breve, el blog se mantiene como el único espacio letrado digital donde la argumentación sosegada y la cita textual extensa siguen vivas."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Qué ha investigado la ciencia sobre los blogs literarios como prescriptores y qué vacíos persisten en torno al canon que construyen?",
+      "conclusion": "Solo 15 artículos indexados en bases internacionales de primer nivel abordaron los blogs literarios en veinte años de investigación. La totalidad de los estudios se publicó después de 2008, evidenciando un retraso notable respecto a la emergencia social del fenómeno. Los lectores priorizan la autenticidad y la empatía del bloguero sobre la autoridad distante de la crítica académica tradicional. Existe un vacío empírico absoluto: ningún artículo analizó el corpus de lecturas concretas recomendadas por las bitácoras. Desarrollar proyectos de investigación que analicen sistemáticamente los títulos y géneros recomendados en la blogosfera literaria. Incorporar la escritura de reseñas en bitácoras digitales en la formación docente y en los proyectos de aula de primaria y secundaria. Fomentar el estudio de las ecologías de lectura digital en lenguas minorizadas y espacios territoriales no hegemónicos. Cartografiar los blogs de lectura activos en el ámbito catalán y castellano y consignar y analizar los títulos recomendados para establecer el canon literario no académico. El canon del siglo XXI ya no se dicta desde una cátedra solitaria: se teje colectivamente en las pantallas compartidas de miles de lectores.",
+      "formalRef": "Anna Esteve-Guillén. (2022). Blogs y lectura. Un análisis crítico de los artículos de investigación. Ocnos 21(1). https://doi.org/10.18239/ocnos_2022.21.1.2739"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuántos artículos de investigación indexados en bases internacionales abordaron directamente los blogs como prescriptores de lectura entre 2000 y 2020?",
+          "options": [
+            "Solo 15 artículos",
+            "Más de 150 artículos",
+            "Aproximadamente 500 artículos",
+            "Ninguno"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál fue el principal vacío o punto ciego empírico detectado de forma unánime en los estudios analizados?",
+          "options": [
+            "No explicaron cómo instalar un blog",
+            "Ninguno analizó qué libros concretos integran el canon recomendado",
+            "No incluyeron imágenes de las pantallas",
+            "Olvidaron mencionar internet"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Web 2.0 y lectura social",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Mutación radical provocada por la Web 2.0 donde la lectura individual y solitaria se convierte en una conversación social pública, interactiva y compartida en comunidades virtuales de lectores conectados."
+      },
+      {
+        "id": "2",
+        "label": "El prosumidor literario (Henry Jenkins)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Concepto de Henry Jenkins sobre la cultura participativa que define al lector que no se conforma con recibir pasivamente el texto, sino que produce reseñas, comenta activamente y cocrea significados en la red."
+      },
+      {
+        "id": "3",
+        "label": "Canon literario no académico y prescriptores",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Conjunto de lecturas recomendadas, valoradas y legitimadas horizontalmente por comunidades de blogueros y prosumidores aficionados al margen de las prescripciones de los planes de estudio académicos."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Revisar la investigación sobre blogs (2000-2020)",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Examinar de manera crítica y sistemática la producción científica internacional publicada a lo largo de dos décadas (2000-2020) sobre los blogs literarios como prescriptores y mediadores de lectura."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Identificar vacíos en el canon digital",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Indagar si las investigaciones empíricas han sistematizado el canon real de lecturas promovido por las bitácoras y cómo influyen sus opiniones en las prácticas efectivas y hábitos del público lector."
+      },
+      {
+        "id": "6",
+        "label": "Rastreo sistemático en Scopus, WOS, ERIC y LISA",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Estrategia de búsqueda bibliográfica booleana en bases de datos internacionales de referencia (Web of Science, Scopus, ERIC, Google Scholar y LISA) aplicando descriptores en título, resumen y palabras clave."
+      },
+      {
+        "id": "7",
+        "label": "Protocolo de cribado y exclusión en dos fases",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Cribado metodológico riguroso en dos etapas que descartó los usos meramente didácticos de aula y las redes sociales de microblogging, reteniendo los estudios sobre blogs como fenómeno prescriptor social."
+      },
+      {
+        "id": "8",
+        "label": "Corpus final de 15 artículos de investigación",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Muestra final depurada de 15 artículos científicos analizados en su evolución cronológica, procedencia geográfica y categorización temática (crítica amateur, fomento lector, mercado editorial y canon)."
+      },
+      {
+        "id": "9",
+        "label": "Escasez de literatura y tardanza temporal",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Sorprendente escasez de producción científica internacional en relación con la magnitud social del medio, registrándose las primeras publicaciones empíricas indexadas únicamente a partir del año 2008."
+      },
+      {
+        "id": "10",
+        "label": "La autenticidad como valor prescriptor supremo",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Los seguidores premian la autenticidad, la subjetividad apasionada y la proximidad emocional del bloguero, percibiendo el discurso de la crítica periodística o académica como frío, distante y elitista."
+      },
+      {
+        "id": "11",
+        "label": "Comunidades interpretativas horizontales",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Configuración de espacios virtuales de afecto y sociabilidad letrada donde el hilo de comentarios entre iguales fomenta la pertenencia comunitaria, el autoconocimiento y el compromiso lector duradero."
+      },
+      {
+        "id": "12",
+        "label": "El vacío absoluto: Nadie analiza el canon real",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Detección del mayor vacío de la literatura científica: el 100% de los estudios analizados omitió catalogar de forma empírica y sistemática los títulos, autores y géneros que componen el canon de las bitácoras."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Recolocación ecológica del macroblogging",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Debate ecológico sobre la mutación de los medios: ante la migración de las audiencias jóvenes hacia TikTok e Instagram, el blog se recoloca como un repositorio sosegado y reflexivo de crítica letrada duradera."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Claves de la fidelidad de la comunidad lectora",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "La fidelidad de la comunidad virtual a un blog amateur se sostiene en la confianza, la complicidad y el sentimiento de tribu: la identificación con el bloguero, los gustos literarios compartidos, la libertad e independencia que se lee como sinceridad y el discurso personalizado, subjetivo y coloquial frente al tono académico."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Exclusión de formatos no journal",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "La revisión bibliográfica se restringió a artículos publicados en revistas científicas indexadas, excluyendo monografías, tesis doctorales y comunidades literarias activas en lenguas cooficiales minorizadas."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Hacia una minería del canon digital",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "La investigación concluye reclamando el desarrollo urgente de proyectos empíricos de minería de datos y raspado web que cartografíen el canon vivo que los prescriptores digitales construyen en la red social."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "origina la figura del"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "propicia la creación de"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "motiva examinar el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "plantea la necesidad de"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se ejecuta mediante"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se parametriza con"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "aplica criterios de"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "delimita el"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "evidencia la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "demuestra que"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "describe la creación de"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "descubre el"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "se explica por la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "reivindica la vigencia de"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "sugiere aplicaciones para"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "exige superar mediante"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "proyecta la necesidad de"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "se acota por"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "concluye en"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "marca la agenda para"
+      }
+    ]
+  }
+}

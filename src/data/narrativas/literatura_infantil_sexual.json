@@ -6,13 +6,13 @@
     "year": "2025",
     "journal": "Ocnos 24(1)",
     "doi": "10.18239/ocnos_2025.24.1.486",
-    "gancho": "¿Cómo ayuda un álbum ilustrado a que una niña de 5 años aprenda a decir 'este cuerpo es mío' y prevenga el abuso?",
+    "gancho": "¿Cómo ayuda un cuento infantil a que padres e hijos hablen de sexualidad sin tabúes y refuercen la prevención del abuso?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#e88b8c",
     "colorAlt": "#2a5a75",
     "bg": "from-rose-500/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-26.png",
+    "image": "/assets/portadas/literatura_infantil_sexual.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-26.png",
       "name": "Dra. Aina-Maria Duran-Mestre",
@@ -21,15 +21,15 @@
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Aina-Maria Duran-Mestre, especialista en educación afectivo-sexual y prevención del abuso en la infancia",
+      "personaje": "Dra. Aina-Maria Duran-Mestre, investigadora en educación sexual, familia y literatura infantil (Universitat de les Illes Balears)",
       "gancho": "¿Por qué sigue siendo un tabú hablar de sexualidad y afectos con los niños en la familia?",
-      "contexto": "La educación sexual integral no comienza en la adolescencia con la anticoncepción: empieza en los primeros años de vida con el conocimiento y respeto del propio cuerpo, la gestión del consentimiento, la diversidad familiar y la prevención de violencias. Este estudio analizó las percepciones de familias de Educación Infantil y Primaria sobre el uso del libro infantil como mediador para abordar la afectividad y la sexualidad en el hogar, identificando miedos, tabúes y oportunidades.",
+      "contexto": "La educación sexual no comienza en la adolescencia con la anticoncepción: empieza en los primeros años de vida con el conocimiento y respeto del propio cuerpo, los límites, la afectividad y la prevención de violencias. Este estudio realizó una revisión sistemática sobre familia, infancia, educación sexual y literatura infantil, complementada con el análisis de once obras de educación sexual según tres variables: el abordaje de la sexualidad, la narrativa y estética, y el rol familiar que presenta la trama.",
       "deepDives": [
         {
           "id": "sex-apertura-1",
           "triggerLabel": "La Educación Sexual Integral (ESI)",
           "type": "theory",
-          "content": "Enfoque de la UNESCO basado en derechos humanos, igualdad de género, conocimiento de la anatomía sin eufemismos y autoprotección."
+          "content": "Enfoque positivo e integral que recomienda la OMS (2023) para atender las necesidades de las personas y garantizar el derecho a la salud sexual."
         },
         {
           "id": "sex-apertura-2",
@@ -41,12 +41,12 @@
     },
     "conflicto": {
       "problema": "Persiste en muchas familias el mito de que 'hablar de sexualidad despierta la curiosidad antes de tiempo' o 'roba la inocencia infantil'.",
-      "porQueImporta": "El silencio familiar deja a los menores indefensos frente al abuso sexual infantil y a la desinformación de la pornografía en internet.",
+      "porQueImporta": "El silencio familiar deja a los menores indefensos frente a la victimización sexual y al acceso inadecuado a contenidos en línea y sus consecuencias.",
       "dataPoints": [
-        "Estudio con familias de escolares en las Islas Baleares.",
-        "El 82% de las familias considera indispensable hablar de sexualidad pero reconoce no saber cómo empezar.",
-        "El 89% valora los álbumes ilustrados como el recurso ideal para abrir el diálogo sin incomodidad.",
-        "Temas más demandados: prevención de abusos ('el consentimiento y los secretos malos') y diversidad afectivo-sexual."
+        "Investigación documental realizada desde las Islas Baleares: revisión sistemática más análisis de obras.",
+        "Revisión en WoS, Scopus, Scielo, Dialnet y Redalyc, con estudios publicados a partir de 2011.",
+        "Muestra de 11 obras: 7 más consumidas en seis puntos de venta de Internet, 3 impulsadas por el Gobierno de España y 1 de una entidad sin ánimo de lucro.",
+        "Las 11/11 obras abordan el conocimiento del cuerpo, el sexo y la reproducción, y el erotismo y la conducta sexual."
       ],
       "glossary": [
         {
@@ -60,62 +60,62 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Cuestionarios cualitativo-cuantitativos y grupos focales",
-      "narrativa": "Las investigadoras combinaron encuestas a familias con grupos de discusión, analizando qué títulos conocen y qué barreras sienten al leerlos con sus hijos.",
+      "titulo": "Ruta metodológica: Revisión sistemática y análisis de contenido con NVivo",
+      "narrativa": "Las investigadoras combinaron una búsqueda documental en bases de datos científicas con el análisis de contenido de once obras infantiles, codificando con NVivo 11 el abordaje de la sexualidad, la narrativa, las imágenes y el rol familiar.",
       "detalles": [
         {
           "label": "Población",
-          "value": "Familias de centros educativos de Educación Infantil y Primaria en Baleares."
+          "value": "Once obras infantiles de educación sexual: las más repetidas en puntos de venta, las financiadas por instituciones y las usadas por entidades sociales."
         },
         {
           "label": "Enfoque",
-          "value": "Metodología mixta (cuestionarios Likert y análisis de contenido temático)."
+          "value": "Revisión sistemática complementada con análisis cualitativo según cuatro dimensiones (sexualidad, narrativa, estética y familia)."
         }
       ],
       "limitaciones": [
-        "Sesgo de autoselección: respondieron mayoritariamente familias ya sensibilizadas con la temática."
+        "No se estudió la recepción de las obras por las familias: el análisis se centra exclusivamente en el contenido de los libros."
       ],
-      "reflexion": "Llamar a las partes del cuerpo por su nombre científico no roba la inocencia: construye un escudo de seguridad."
+      "reflexion": "Llamar a las partes del cuerpo por su nombre no roba la inocencia: construye un escudo de seguridad."
     },
     "revelacion": {
       "titulo": "Hallazgos empíricos: El cuento rompe el hielo familiar",
-      "narrativa": "Los testimonios familiares evidenciaron el alivio que aporta la literatura:",
+      "narrativa": "El análisis de contenido evidenció el valor facilitador de la literatura:",
       "hallazgos": [
         {
           "label": "1. El Puente de Papel",
-          "value": "Tener el libro en las manos disuelve la incomodidad: los padres sienten que es el libro el que plantea el tema con naturalidad pedagógica."
+          "value": "El libro plantea el tema con naturalidad: las once obras usan un lenguaje directo, claro y sencillo, sin metáforas ni dobles sentidos, y algunas añaden anexos específicos para animar a las familias a participar en la lectura."
         },
         {
-          "label": "2. Detección Temprana de Incomodidades",
-          "value": "Leer cuentos sobre caricias y límites permitió a varios menores verbalizar situaciones incómodas vividas en su entorno escolar o familiar."
+          "label": "2. Límites y validación emocional",
+          "value": "Las obras transmiten la importancia de reconocer y validar sentimientos y sensaciones corporales, enseñan a poner límites propios y, en un caso, explican incluso una situación de abuso sexual."
         }
       ],
       "dataPoints": [
-        "Solo un 12% de las familias declaró haber recibido formación u orientación previa sobre literatura afectivo-sexual."
+        "Sobre el rol familiar: 5/11 obras ejemplifican el entorno familiar como contexto donde aprender y 2/11 directamente no le dan presencia."
       ],
       "reflexion": "Un libro leído a tiempo puede evitar una vida entera de traumas."
     },
     "marco": {
-      "titulo": "Discusión: Guías bibliográficas para escuelas y centros de salud",
-      "narrativa": "Duran-Mestre y Vives-Barceló proponen alianzas entre escuelas, bibliotecas y pediatría:",
+      "titulo": "Discusión: Alianzas educativas para empoderar a las familias",
+      "narrativa": "Duran-Mestre y Vives-Barceló proponen involucrar a los distintos agentes de socialización y reconocer las potencialidades de las familias mediante vías de colaboración:",
       "detalles": [
         {
-          "label": "Prescripción Bibliográfica",
-          "value": "Recomendar álbumes sobre autoprotección y cuerpo en las consultas de pediatría y en las escuelas infantiles."
+          "label": "Sensibilización y apoyo familiar",
+          "value": "Las familias necesitan sensibilizarse, sentirse comprendidas y recibir apoyo en su labor educativa mediante comunicación fluida, implicación y colaboración."
         }
       ],
       "reflexion": "La educación sexual no corrompe: la educación sexual cuida, respeta y salva vidas."
     },
     "nucleo": {
-      "pregunta": "¿Cómo perciben y utilizan las familias la literatura infantil para la educación afectivo-sexual de sus hijos?",
-      "conclusion": "La investigación revela que la inmensa mayoría de las familias (82%) desea abordar la sexualidad y los afectos pero experimenta inseguridad comunicativa. El álbum ilustrado se perfila como un artefacto mediador insustituible que disuelve la incomodidad adulta, proporciona lenguaje anatómico riguroso y capacita a los menores en el consentimiento y la prevención activa del abuso.",
+      "pregunta": "¿Qué papel juegan la literatura infantil y la familia en la educación sexual de la infancia según las obras analizadas?",
+      "conclusion": "La investigación revela que la proactividad familiar, la atención de necesidades y la promoción de los derechos de los niños y niñas pueden conseguirse con el tándem entre literatura y educación sexual. Las once obras analizadas abordan con lenguaje directo el cuerpo, la reproducción y los límites, aunque tratan de forma más superficial la expresión de género y la orientación sexual, y se dirigen a un público situado aproximadamente entre los 7 y 10 años. La comunicación, el diálogo y la lectura compartida se confirman como los grandes facilitadores de la tarea educativa familiar.",
       "formalRef": "Duran-Mestre, A. M., & Vives-Barceló, M. (2025). Literatura infantil y educación sexual: fomentando la comunicación entre infancia y familia. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.486"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Cuál es la principal ventaja que destacan las familias sobre el uso del álbum ilustrado para hablar de sexualidad en el hogar?",
+          "q": "¿Cuál es la principal ventaja que el estudio atribuye al uso del libro infantil para hablar de sexualidad en familia?",
           "options": [
             "Que los libros son gratuitos en todas partes.",
             "Que actúa como un puente mediador seguro que disuelve la incomodidad y facilita un lenguaje natural y respetuoso sobre el cuerpo y los afectos.",
@@ -126,10 +126,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué temática relacionada con la educación sexual infantil resultó ser la más demandada por las familias encuestadas?",
+          "q": "¿Qué aspectos de la sexualidad están presentes en las 11/11 obras analizadas?",
           "options": [
             "La historia de los métodos anticonceptivos en la Edad Media.",
-            "La prevención del abuso sexual infantil mediante el aprendizaje del consentimiento y la distinción de 'secretos buenos vs. malos'.",
+            "El conocimiento del cuerpo, el sexo y la reproducción, junto con el erotismo y la conducta sexual.",
             "La anatomía del sistema digestivo.",
             "La moda textil en la adolescencia."
           ],
@@ -137,22 +137,22 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué porcentaje de las familias participantes reconoció no haber recibido jamás orientación o formación sobre cómo abordar estos temas?",
+          "q": "¿Con qué frecuencia abordan las obras la identidad y orientación sexual y la expresión de género?",
           "options": [
-            "El 88 % (solo el 12 % había recibido formación previa).",
-            "Menos del 1 %.",
-            "El 0 %, todas eran expertas.",
-            "La mitad exacta."
+            "En 7 de 11 y 6 de 11 obras respectivamente, con un tratamiento considerado superficial.",
+            "En todas las obras, sin excepción y en profundidad.",
+            "En ninguna de las obras analizadas.",
+            "Solo en la obra del Gobierno de España."
           ],
           "correct": 0
         },
         {
           "type": "open",
-          "q": "Selecciona un álbum ilustrado de referencia sobre prevención del abuso o consentimiento (como 'Mi cuerpo es mío', 'Ni un besito a la fuerza' o 'La regla de Kiko') y diseña una propuesta de taller para familias en tu centro educativo."
+          "q": "Selecciona un álbum del estudio (como 'Kiko y la mano', '¡Estela, grita muy fuerte!' o 'No le cuentes cuentos') y diseña una propuesta de taller para familias en tu centro educativo."
         },
         {
           "type": "open",
-          "q": "¿Por qué llamar a las partes del cuerpo con sus términos anatómicos reales (vulva, pene, pezones) desde la primera infancia es un factor de protección crítico contra el abuso infantil?"
+          "q": "¿Por qué llamar a las partes del cuerpo con sus términos reales, sin eufemismos ni metáforas, desde la primera infancia es un factor de protección crítico contra el abuso infantil?"
         }
       ]
     }
@@ -167,7 +167,7 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Escuchamos a cientos de familias que quieren educar en el consentimiento pero sienten vergüenza o falta de recursos.",
+      "text": "Analizamos once cuentos y cuadernos de sexualidad para ver cómo hablan del cuerpo, los afectos y la familia.",
       "position": "bottom-right"
     },
     "revelacion": {
@@ -192,110 +192,242 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Literatura Infantil y Educación Afectivo-Sexual Familiar",
-    "descripcion": "Estudio con familias: Educación Sexual Integral (ESI), consentimiento, prevención del abuso, álbum mediador y superación de tabúes.",
+    "titulo": "Mapa conceptual: Literatura infantil y educación sexual en familia (Ocnos 24(1) 2025)",
+    "descripcion": "Recorrido del artículo: de la sexualidad como esfera atendida desde el nacimiento, a la revisión sistemática y el análisis de once obras de educación sexual, y de ahí a las conclusiones sobre comunicación familiar y los retos de la literatura sexual infantil.",
     "nodos": [
       {
         "id": "1",
-        "label": "Literatura Infantil como Mediadora",
-        "color": "#e88b8c"
+        "label": "Sexualidad desde los primeros años",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La sexualidad es una esfera vital que debe abordarse desde el nacimiento para garantizar una buena salud sexual (Vega-Gallardo y García-Hernández, 2018; Burón-Prieto, 2022). Contempla sexo, expresión de género, identidad, orientación, preferencias eróticas y conducta sexual (Govern de les Illes Balears, 2023)."
       },
       {
         "id": "2",
-        "label": "Educación Sexual Integral (ESI)",
-        "color": "#2a5a75"
+        "label": "Estigma y debate en educación sexual",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "La educación sexual genera debate, controversia y estigmatización que la invisibilizan (Calvo-González, 2021; Dextre-Peralta, 2022). Su gestión deficiente repercute en victimización sexual (Villajos, 2021), acoso a la infancia LGTBI (Dólera-González et al., 2022) y acceso inadecuado a contenidos en línea."
       },
       {
         "id": "3",
-        "label": "Comunicación en el Hogar",
-        "color": "#88b04b"
+        "label": "Familia como agente educativo primordial",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "La familia es el agente más importante en la adquisición de aprendizajes y valores (Martínez-Mejía et al., 2019), con máxima intensidad en la infancia por su plasticidad. Mediante proximidad y confianza transmite habilidades para una sexualidad sana (CEAPA y Gobierno de España, 2009)."
       },
       {
         "id": "4",
-        "label": "Superación de Tabúes Adultos",
-        "color": "#f4d068"
+        "label": "Literatura infantil y lectura compartida",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "La literatura infantil se propone como vía óptima para trabajar la sexualidad (Gamella-Gómez, 2021). Usada de manera compartida crea un contexto valioso de vinculación, atención, confianza y escucha activa (Rondón, 2018) y fomenta una crianza segura y positiva (Defaz-Gallardo et al., 2019)."
       },
       {
         "id": "5",
-        "label": "Consentimiento y Límites ('Mi Cuerpo')",
-        "color": "#2a9d8f"
+        "label": "Valorar el rol familiar y sus retos",
+        "color": "#264653",
+        "role": "Objetivo",
+        "descripcion": "El estudio valora el rol de la familia y su reto educativo analizando obras literarias infantiles de educación sexual según tres variables: abordaje de la sexualidad, narrativa y estética, y rol familiar presentado en la trama."
       },
       {
         "id": "6",
-        "label": "Prevención del Abuso Infantil",
-        "color": "#c73e1d"
+        "label": "Revisión sistemática en bases de datos",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Búsqueda documental en WoS, Scopus, Scielo, Dialnet y Redalyc sobre infancia y sexualidad, educación sexual integral, familia y comunicación intrafamiliar, con criterio temporal desde 2011 y criterios temáticos y de muestra."
       },
       {
         "id": "7",
-        "label": "Anatomía sin Eufemismos",
-        "color": "#5b9eaa"
+        "label": "Muestra de once obras seleccionadas",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "Once obras: 7 más consumidas en seis puntos de venta de Internet (p. ej. Cuéntamelo todo, El gran libro de la sexualidad), 3 impulsadas por el Gobierno de España (Cuentos para educar en familia, Kiko y la mano) y una de entidad sin ánimo de lucro (¡Estela, grita muy fuerte!)."
       },
       {
         "id": "8",
-        "label": "Distinción de Secretos",
-        "color": "#9b82c3"
+        "label": "Cuatro dimensiones analizadas con NVivo",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Se cruzan indicadores del documento 'Amb tots els sentits' (2023) y de García-Piña (2016) sobre sexuación y manifestaciones infantiles, ítems narrativos de Lluch (2003), análisis del código visual (Lluch y Chaparro, 2007) y simbolización de la familia (Villa-García, 2022), codificados en NVivo 11."
       },
       {
         "id": "9",
-        "label": "Falta de Formación Familiar (88%)",
-        "color": "#e76f51"
+        "label": "Cuerpo y erotismo en todas las obras",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Las 11/11 obras abordan el conocimiento del cuerpo, el sexo y la reproducción (pubertad, intimidad, límites, menstruación) y el erotismo y la conducta sexual, con mensajes positivos de autoconocimiento y capacidad de poner límites."
       },
       {
         "id": "10",
-        "label": "Autoprotección y Confianza",
-        "color": "#f4a261"
+        "label": "Menor presencia de género y orientación",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "La vinculación afectiva aparece en 10/11 obras, la identidad y orientación sexual en 7/11 y la expresión de género en 6/11, esta última trabajada de forma superficial mediante igualdad y ruptura de mitos sobre profesiones, colores o tareas del hogar."
+      },
+      {
+        "id": "11",
+        "label": "Narrativa simple y lenguaje directo",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "Todas las obras emplean el presente, la época actual, protagonistas niños y lenguaje directo sin metáforas; predominan narrador omnipotente (6/11), espacios cotidianos (7/11), personajes simples (7/11) e ilustraciones coloridas, sin fotografías reales."
+      },
+      {
+        "id": "12",
+        "label": "Familia como contexto donde aprender",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El entorno familiar se simboliza positivamente: 5/11 lo ejemplifican como contexto de aprendizaje, 2/11 como fuente de amor y confianza, 1/11 incita a participar en la lectura y otra muestra diversidad familiar, mientras que en 2/11 no tiene presencia."
+      },
+      {
+        "id": "13",
+        "label": "Comunicación y diálogo como facilitadores",
+        "color": "#2a5a75",
+        "role": "Discusión",
+        "descripcion": "La investigación concluye que la literatura, la comunicación, el diálogo y la reflexión facilitan la tarea educativa familiar y el aprendizaje infantil, permitiendo proactividad familiar, atención a necesidades y promoción de los derechos de los niños."
+      },
+      {
+        "id": "14",
+        "label": "Retos: cobertura, público y personajes",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "Se detectan carencias: escasez de obras sobre expresión de género y orientación sexual, lecturas situadas entre los 7 y 10 años que desatienden a menores y mayores, y presentaciones poco profundas de los personajes que limitan la identificación del lector."
+      },
+      {
+        "id": "15",
+        "label": "Mediación lectora dialógica adulta",
+        "color": "#f4a261",
+        "role": "Implicaciones",
+        "descripcion": "El libro de educación sexual no debe abandonarse al consumo aislado infantil; precisa mediación adulta sensible que acoja las preguntas infantiles con naturalidad, valide las emociones y transforme la lectura compartida en un espacio seguro de apego y aprendizaje."
+      },
+      {
+        "id": "16",
+        "label": "Muestra comercial y sesgo editorial",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "La muestra de once títulos se acotó a los canales comerciales hegemónicos y programas gubernamentales en España; se sugiere ampliar el análisis a editoriales independientes, formatos transmedia y producciones latinoamericanas contemporáneas."
       }
     ],
     "aristas": [
       {
         "from": "1",
-        "to": "3",
-        "label": "abre el canal fluido de la"
+        "to": "2",
+        "label": "convive con el"
       },
       {
-        "from": "2",
+        "from": "3",
+        "to": "2",
+        "label": "está llamada a romper el"
+      },
+      {
+        "from": "4",
         "to": "1",
-        "label": "fundamenta los contenidos de la"
+        "label": "se propone para abordar la"
       },
       {
-        "from": "1",
+        "from": "4",
+        "to": "3",
+        "label": "fortalece el vínculo con la"
+      },
+      {
+        "from": "5",
         "to": "4",
-        "label": "disuelve y ayuda a la"
-      },
-      {
-        "from": "1",
-        "to": "5",
-        "label": "enseña de forma visual el"
+        "label": "se apoya en el potencial de la"
       },
       {
         "from": "5",
         "to": "6",
-        "label": "es la base insustituible para la"
-      },
-      {
-        "from": "1",
-        "to": "7",
-        "label": "normaliza y nombra la"
-      },
-      {
-        "from": "1",
-        "to": "8",
-        "label": "explica pedagógicamente la"
-      },
-      {
-        "from": "9",
-        "to": "4",
-        "label": "perpetúa los miedos y"
+        "label": "se desarrolla mediante una"
       },
       {
         "from": "6",
+        "to": "7",
+        "label": "delimita la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se examina mediante cuatro"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "detecta en la muestra la centralidad del"
+      },
+      {
+        "from": "8",
         "to": "10",
-        "label": "garantiza a largo plazo la"
+        "label": "revela la menor cobertura de"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "describe una"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "revela la imagen positiva de la"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "contrasta con la escasez de materiales sobre"
       },
       {
         "from": "10",
+        "to": "14",
+        "label": "fundamenta el reto de elaborar nuevos materiales sobre"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "explica la superficialidad de"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "consagra a la familia como base de la"
+      },
+      {
+        "from": "13",
         "to": "3",
-        "label": "fortalece los lazos de"
+        "label": "empodera la tarea educativa de la"
+      },
+      {
+        "from": "13",
+        "to": "1",
+        "label": "garantiza un abordaje sano de la"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "se dinamiza con la"
+      },
+      {
+        "from": "15",
+        "to": "4",
+        "label": "potencia el impacto formativo de la"
+      },
+      {
+        "from": "5",
+        "to": "13",
+        "label": "encuentra su respuesta en la"
+      },
+      {
+        "from": "14",
+        "to": "5",
+        "label": "abre nuevas preguntas para el"
+      },
+      {
+        "from": "16",
+        "to": "7",
+        "label": "acota el alcance de la"
+      },
+      {
+        "from": "16",
+        "to": "14",
+        "label": "condiciona los diagnósticos de los"
       }
     ]
   }

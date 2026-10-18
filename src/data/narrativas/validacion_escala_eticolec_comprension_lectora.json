@@ -1,0 +1,412 @@
+{
+  "id": "validacion_escala_eticolec_comprension_lectora",
+  "metadata": {
+    "title": "Validación de la escala de teorías implícitas de comprensión lectora (ETICOLEC) de docentes en servicio",
+    "authors": "Moisés Damián Perales-Escudero, Sergio Correa-Gutiérrez y Norma Alicia Vega-López",
+    "year": "2021",
+    "journal": "Ocnos 20(2)",
+    "doi": "10.18239/ocnos_2021.20.2.2515",
+    "gancho": "¿Qué creen realmente los profesores de secundaria sobre la lectura? ¿Es reproducir el texto o criticar la ideología del autor?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#5b9eaa",
+    "colorAlt": "#264653",
+    "bg": "from-ocean/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/eticolec/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Moisés Perales-Escudero, lingüista aplicado e investigador psicométrico",
+      "gancho": "¿Qué creen realmente los profesores de secundaria sobre la lectura? ¿Es reproducir el texto o criticar la ideología del autor?",
+      "contexto": "Las teorías implícitas (TIs) del profesorado sobre la comprensión lectora modulan directamente sus prácticas didácticas en el aula. Sin embargo, los instrumentos disponibles estaban pensados para estudiantes o docentes novatos. Este estudio financiado por CONACYT diseña y valida la escala ETICOLEC con 653 docentes en servicio en México.",
+      "deepDives": [
+        {
+          "id": "eti-ap-1",
+          "triggerLabel": "Proyecto CONACYT-INEE 289392",
+          "type": "context",
+          "content": "Investigación financiada por el Fondo Sectorial de Investigación para la Evaluación de la Educación orientada a diagnosticar representaciones implícitas del magisterio en Tamaulipas y Quintana Roo."
+        },
+        {
+          "id": "eti-ap-2",
+          "triggerLabel": "Vacío instrumental en docentes en servicio",
+          "type": "theory",
+          "content": "La gran mayoría de cuestionarios de TIs (como Makuc & Larrañaga) se aplicaron en docentes en formación; faltaban escalas ecológicamente válidas y breves adaptadas a la complejidad disciplinar de Secundaria."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Existe una carencia de herramientas psicométricas rigurosas y sintéticas para evaluar las creencias implícitas sobre comprensión lectora en grandes colectivos de profesorado de secundaria en ejercicio.",
+      "porQueImporta": "Explicitar las teorías implícitas del magisterio es indispensable para diseñar programas de formación docente continua que promuevan la lectura crítica frente a la mera reproducción literal del texto.",
+      "dataPoints": [
+        "Muestra de 653 docentes de 75 escuelas secundarias (públicas generales, técnicas, telesecundarias y privadas).",
+        "El análisis factorial confirmó 5 subescalas coherentes que explican aproximadamente el 63% de la varianza total."
+      ],
+      "glossary": [
+        {
+          "term": "Teoría implícita (TI)",
+          "definition": "Representación individual y social poco consciente que guía pragmáticamente la acción docente."
+        },
+        {
+          "term": "TI Receptiva",
+          "definition": "Creencia de que comprender consiste en reproducir fielmente el contenido explícito del texto."
+        },
+        {
+          "term": "TI Constructiva-Retórica",
+          "definition": "Creencia que enfatiza interrogar la situación retórica, autor, contexto y género textual."
+        },
+        {
+          "term": "TI Constructiva-Crítica",
+          "definition": "Creencia que busca juzgar la ideología, veracidad y propósitos persuasivos del texto."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "eti-conf-1",
+          "triggerLabel": "Diferenciación de tres TIs constructivas",
+          "type": "theory",
+          "content": "Basándose en Hernández (2008) y Perales-Escudero et al. (2017), el modelo divide la concepción constructiva en aplicativa (vida personal), retórica (situación comunicativa) y crítica (evaluación ideológica)."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Diseño y validación psicométrica en 5 fases (Prat y Doval)",
+      "narrativa": "Los autores desarrollaron la escala siguiendo las 5 fases estandarizadas de Prat y Doval (2005): delimitación conceptual, diseño de ítems con entrevistas, juicio de expertos, aplicación presencial y análisis factorial con fiabilidad.",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "653 docentes (407 mujeres, 243 hombres; edad media 41.58 años; 14.29 años de servicio) de 75 secundarias."
+        },
+        {
+          "label": "Estructura final",
+          "value": "20 ítems tipo Likert de 5 puntos organizados en 5 subescalas teóricas bien delimitadas."
+        },
+        {
+          "label": "Validez factorial",
+          "value": "Análisis factorial exploratorio con rotación Varimax en SPSS 25 (63% varianza explicada)."
+        },
+        {
+          "label": "Fiabilidad",
+          "value": "Alfa de Cronbach de 0.842 (retórica), 0.783 (crítica), 0.733 (aplicativa), 0.721 (receptiva) y 0.682 (interpretativa)."
+        }
+      ],
+      "limitaciones": [
+        "La muestra no es estrictamente probabilística representativa a nivel nacional por restricciones presupuestarias y zonas de riesgo.",
+        "Las correlaciones entre TIs y variables sociodemográficas como tipo de escuela y área curricular fueron de magnitud exploratoria débil."
+      ],
+      "reflexion": "¿Cómo transitar de la teoría implícita receptiva mayoritaria a una concepción retórica que prepare a los alumnos para detectar noticias falsas?",
+      "deepDives": [
+        {
+          "id": "eti-viaje-1",
+          "triggerLabel": "Ajuste de la subescala interpretativa",
+          "type": "method",
+          "content": "La subescala interpretativa incrementó su consistencia interna a alfa = 0.726 al eliminar el ítem 3, mientras que el ítem 7 cargó inesperadamente en el factor receptivo."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "La teoría implícita receptiva es la más prevalente entre los docentes (presente en 411 de los 653 participantes), combinándose frecuentemente con concepciones constructivas pero marginando la visión interpretativa.",
+      "evidenciaCualitativa": "Los análisis revelaron que la TI receptiva fue significativamente más alta en escuelas privadas, mientras que la constructiva-retórica predominó en docentes del área de lenguaje frente a ciencias naturales.",
+      "citaClave": "'Urge reforzar y extender las prácticas lectoras retóricas a través de todo el currículum, una necesidad aún más apremiante frente a la infodemia contemporánea.'",
+      "implicacionesDocentes": [
+        "Incorporar actividades de análisis retórico (identificar posturas del autor y género) en asignaturas de ciencias naturales y sociales.",
+        "Cuestionar en la formación del profesorado el arraigo de la concepción reproductiva de la lectura como mera extracción literal de datos.",
+        "Utilizar el cuestionario ETICOLEC como herramienta de autodiagnóstico reflexivo en talleres de actualización pedagógica."
+      ],
+      "deepDives": [
+        {
+          "id": "eti-rev-1",
+          "triggerLabel": "Resultados por área de conocimiento",
+          "type": "data",
+          "content": "Docentes de lenguaje puntuaron más alto en TI retórica (M=3.85) que ciencias naturales (M=3.58), reflejando cómo la cultura disciplinar moldea las expectativas lectoras."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Pensamiento del profesorado, cognición docente y teorías implícitas",
+      "tensiones": [
+        "Modelo reproductivo lineal de lectura vs. modelos epistémicos, transaccionales y críticos.",
+        "Creencias pedagógicas declaradas en cuestionarios vs. prácticas didácticas reales observadas en el aula."
+      ],
+      "autoresClave": [
+        "Pozo et al. (2006)",
+        "Rodrigo (1997)",
+        "Hernández (2008)",
+        "Perales-Escudero et al. (2017)",
+        "Makuc & Larrañaga (2015)",
+        "Errázuriz et al. (2019)"
+      ],
+      "deepDives": [
+        {
+          "id": "eti-marco-1",
+          "triggerLabel": "Constructo de Teorías Implícitas de Pozo",
+          "type": "theory",
+          "content": "Pozo et al. (2006) definen las TIs como saberes experienciales tácitos que operan por defecto en la acción, difíciles de modificar sin procesos guiados de metacognición explícita."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Posee la escala ETICOLEC propiedades psicométricas sólidas para medir teorías implícitas sobre comprensión lectora en docentes de secundaria?",
+      "conclusion": "Sí. La escala ETICOLEC (20 ítems, 5 factores) cuenta con adecuada validez de contenido, estructura factorial robusta y fiabilidad satisfactoria, revelando un predominio de la concepción receptiva en el profesorado.",
+      "formalRef": "Perales-Escudero, M. D., Correa-Gutiérrez, S., & Vega-López, N. A. (2021). Validación de la escala de teorías implícitas de comprensión lectora (ETICOLEC) de docentes en servicio. Ocnos, 20(2), 21-32. https://doi.org/10.18239/ocnos_2021.20.2.2515"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Psicométrica",
+        "descripcion": "Captura factores de la escala ETICOLEC y responde preguntas sobre teorías implícitas de la lectura.",
+        "instrucciones": "Recoge tokens de validez y fiabilidad para abrir preguntas teóricas. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Teorías de la Comprensión",
+        "descripcion": "Demuestra tu dominio sobre TIs receptivas, interpretativas y constructivas en el magisterio de secundaria.",
+        "instrucciones": "Responde contrarreloj para mantener tu multiplicador de racha psicométrica al máximo."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide Epistemológica de Lectura",
+        "descripcion": "Asciende desde la decodificación reproductiva hasta la lectura constructiva-crítica de textos complejos.",
+        "instrucciones": "Responde correctamente para activar cada nivel conceptual de la pirámide de teorías implícitas."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Validación de la escala ETICOLEC de docentes en servicio (Perales-Escudero et al., 2021)",
+      "descripcion": "Diseño psicométrico y validación de la escala ETICOLEC en 653 docentes de secundaria: cinco factores de teorías implícitas (receptiva, interpretativa, aplicativa, retórica, crítica), prevalencia receptiva y diferencias disciplinares.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Teorías implícitas en el profesorado",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Representaciones cognitivas implícitas personales y sociales que sintetizan creencias y saberes pragmáticos, condicionando directamente los estilos didácticos de enseñanza de la lectura en el aula."
+        },
+        {
+          "id": "2",
+          "label": "Modelos simples y complejos de comprensión",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Tensión teórica entre concepciones reproductivas lineales (comprender es extraer fielmente el mensaje textual) y concepciones epistémicas complejas (construir, interpretar y enjuiciar críticamente)."
+        },
+        {
+          "id": "3",
+          "label": "Vacío de escalas para docentes en servicio",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "La mayoría de cuestionarios previos fueron construidos con estudiantes o profesores novatos, requiriéndose una herramienta ecológica y ágil adaptada al profesorado de secundaria en ejercicio."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: diseñar y validar la escala ETICOLEC",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Diseñar, tipificar y validar psicométricamente la Escala de Teorías Implícitas de Comprensión Lectora (ETICOLEC) con profesorado de Educación Secundaria en servicio en México."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: explorar perfiles y variables demográficas",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Analizar exploratoriamente cómo se distribuyen las teorías implícitas en el magisterio y su relación con el tipo de centro educativo (público/privado) y el área disciplinar docente."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 653 docentes en dos estados mexicanos",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Participación de 653 profesores de 75 secundarias en Tamaulipas (n=360) y Quintana Roo (n=293), con 407 mujeres y 243 hombres, 14.29 años de experiencia media y titulaciones diversas."
+        },
+        {
+          "id": "7",
+          "label": "Protocolo de 5 fases estandarizadas (Prat y Doval)",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Aplicación rigurosa de fases: delimitación de objetivos, elaboración de ítems mediante entrevistas, juicio de expertos para validez de contenido, pilotaje presencial y análisis psicométrico."
+        },
+        {
+          "id": "8",
+          "label": "Instrumento final de 20 ítems en 5 subescalas",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Escala breve con 20 reactivos tipo Likert de 5 puntos articulados en cinco factores: receptivo, interpretativo, constructivo-aplicativo, constructivo-retórico y constructivo-crítico."
+        },
+        {
+          "id": "9",
+          "label": "Validez de contenido interjueces (Escurra)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Índice de acuerdo interjueces con coeficientes de 1.00 en las dimensiones receptiva y crítica, 0.86 en retórica, 0.75 en interpretativa y 0.66 en aplicativa, avalando la relevancia conceptual."
+        },
+        {
+          "id": "10",
+          "label": "Estructura factorial coherente (63% varianza)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El análisis factorial exploratorio con rotación Varimax identificó 5 factores claros que explican el 63% de la varianza total, con la dimensión retórica explicando el 16.99% del peso factorial."
+        },
+        {
+          "id": "11",
+          "label": "Consistencia interna satisfactoria (Alfa 0.68 a 0.84)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Coeficientes alfa de Cronbach de 0.842 (retórica), 0.783 (crítica), 0.733 (aplicativa), 0.721 (receptiva) y 0.682 (interpretativa, que se eleva a 0.726 al eliminar el reactivo 3)."
+        },
+        {
+          "id": "12",
+          "label": "Predominio hegemónico de la TI receptiva (411 casos)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "La teoría receptiva es la creencia más extendida en la muestra, apareciendo en 411 participantes combinada frecuentemente con constructivas pero con presencia marginal de la interpretativa (24 casos)."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: mayor receptividad en escuelas privadas",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El análisis ANOVA reveló puntuaciones receptivas significativamente más altas en colegios privados (M=4.40) frente a escuelas generales (M=4.15) y técnicas (M=4.08), con tamaño del efecto moderado."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: déficit de TI retórica en ciencias",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Docentes de ciencias naturales mostraron niveles sensiblemente inferiores de TI retórica (M=3.58) respecto a lenguaje (M=3.85), evidenciando la necesidad de alfabetización disciplinar transversal."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: representatividad regional restringida",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "La muestra estuvo acotada a dos estados debido a limitaciones presupuestarias y condiciones de seguridad, requiriendo validación confirmatoria en muestras nacionales diversificadas."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: instrumento operativo y reto formativo",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "La escala ETICOLEC se consolida como una herramienta psicométrica válida y breve para diagnosticar creencias docentes y orientar programas de desarrollo profesional hacia la lectura crítica."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "fundamenta el objeto de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "aporta el marco dimensional para"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "justifica el diseño de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se administra en la"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "analiza las variables en la"
+        },
+        {
+          "from": "4",
+          "to": "7",
+          "label": "se ejecuta siguiendo el"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "produce la estructura de"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "es validada mediante"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "se corrobora en la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "demuestra una"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "revela el"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "se profundiza en la"
+        },
+        {
+          "from": "10",
+          "to": "14",
+          "label": "sustenta el hallazgo de"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "se matiza con el"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "orienta las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "reclama medidas en las"
+        },
+        {
+          "from": "11",
+          "to": "16",
+          "label": "respalda técnicamente las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "condiciona la generalización de"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "demanda líneas futuras en las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "confirma la necesidad de transformar las"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué teoría implícita de comprensión lectora resultó ser la más extendida entre los 653 docentes evaluados?",
+          "options": [
+            "La constructiva-crítica, orientada a debatir ideologías.",
+            "La teoría implícita receptiva, centrada en reproducir fielmente el mensaje del texto.",
+            "La teoría interpretativa exclusiva sobre los sentimientos del autor.",
+            "La teoría formalista de gramática generativa."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Considerando que los profesores de ciencias naturales mostraron niveles más bajos de TI retórica que los de lenguaje, ¿qué estrategia pedagógica interdisciplinar propondrías para trabajar la evaluación de fuentes y el contexto en textos científicos escolares?"
+        }
+      ]
+    }
+  }
+}

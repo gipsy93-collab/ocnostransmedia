@@ -1,0 +1,400 @@
+{
+  "id": "disminucion_errores_adquisicion_lectura_metodo_invariante",
+  "metadata": {
+    "title": "La disminución de errores como evidencia del avance en la adquisición de la lectura",
+    "authors": "María Cristina Quijano-Martínez, Yulia Solovieva, Katherine Díaz-Upegui y Sebastián Jiménez-Jiménez",
+    "year": "2020",
+    "journal": "Ocnos 19(2)",
+    "doi": "10.18239/ocnos_2020.19.2.2184",
+    "gancho": "¿Puede un método de plantillas y fichas de colores transformar el bajo rendimiento lector de niños en zonas vulnerables en solo cuatro meses?",
+    "duration": "12-15 min",
+    "badge": "Neuropsicología del Aprendizaje",
+    "disciplina": "Neuropsicología Infantil y Educación Especial",
+    "dimensiones": [
+      "Método Invariante de Lectura",
+      "Enfoque Histórico-Cultural",
+      "Análisis Cualitativo del Error",
+      "Conciencia Fonológica Materializada"
+    ],
+    "tags": [
+      "neuropsicologia",
+      "adquisicion_lectura",
+      "metodo_invariante",
+      "solovieva",
+      "errores_lectores",
+      "vulnerabilidad"
+    ],
+    "pistas": [
+      "Diseño cuasi-experimental con 54 escolares de 7 a 8 años (26 grupo experimental con bajo rendimiento, 28 grupo control) en Cali, Colombia.",
+      "Intervención de 4.5 meses (36 sesiones) con la primera fase del Método Invariante (análisis fonético materializado de Elkonin).",
+      "Desaparición prácticamente total de la 'ausencia de respuesta' (bloqueo o negativa a intentar leer).",
+      "Cierre completo de la brecha estadística inicial con el grupo control en lectura de palabras y reducción drástica de adiciones y omisiones."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "En contextos socialmente vulnerables, las fallas iniciales en la adquisición de la lectura suelen atribuirse erróneamente a déficits cognitivos de los niños, cuando en la mayoría de los casos responden a métodos pedagógicos inadecuados que no consolidan la estructura fonológica del idioma.",
+      "desafio": "Evaluar la eficacia cuasi-experimental del Método Invariante histórico-cultural (basado en Elkonin y Galperin) para reducir tipos específicos de error y cerrar la brecha de rendimiento en escolares de 1º y 2º de Primaria.",
+      "relevancia": "Demuestra que la mediación simbólica externa (esquemas materializados y fichas de colores) permite superar el retraso lector temprano sin estigmatizar al alumnado vulnerable."
+    },
+    "conflicto": {
+      "pregunta": "¿Es el bajo rendimiento lector un déficit estructural inmutable o puede corregirse cualitativamente mediante un método que materialice la estructura sonora del lenguaje oral?",
+      "posiciones": [
+        "Enfoque remediador correctivo tradicional: el error lector es una falla que debe eliminarse mediante repetición mecánica de ejercicios de copia y lectura silábica acelerada.",
+        "Enfoque histórico-cultural del desarrollo: el error es una ventana diagnóstica del nivel de formación de la acción mental; la lectura debe enseñarse transitando desde el plano materializado externo hasta el plano verbal interno."
+      ],
+      "tension": "La tensión entre la instrucción escolar estándar que precipita la decodificación abstracta y la necesidad evolutiva de interiorizar conscientemente los sonidos de las palabras.",
+      "deepDives": [
+        {
+          "id": "inv-conf-1",
+          "triggerLabel": "El Método Invariante de Solovieva y Quintanar",
+          "type": "theory",
+          "content": "Inspirado en Daniil Elkonin, el Método Invariante estructura el aprendizaje en 7 etapas donde el niño primero aprende a descomponer y analizar los sonidos de cualquier palabra usando fichas antes de ver las letras impresas."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Diseño cuasi-experimental pre-post con prueba Verificación del Éxito Escolar",
+      "narrativa": "Los investigadores aplicaron la prueba neuropsicológica de Quintanar y Solovieva a 54 escolares de 7-8 años de un colegio oficial vulnerable de Cali, comparando a 26 niños con bajo rendimiento que recibieron 36 sesiones del Método Invariante frente a 28 controles normotípicos del mismo salón.",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "54 niños de 7-8 años: 26 grupo experimental (bajo rendimiento, 16 H, 10 M) y 28 grupo control (rendimiento adecuado, 14 H, 14 M)."
+        },
+        {
+          "label": "Control de sesgos",
+          "value": "Misma aula escolar, misma maestra tutora y evaluación ciega a cargo de neuropsicólogos ajenos a la intervención."
+        },
+        {
+          "label": "Intervención",
+          "value": "Fase 1 del Método Invariante (etapas 1-3): 4.5 meses, 36 sesiones de 90 min (2 por semana) con plantillas de cartón y fichas de colores."
+        },
+        {
+          "label": "Taxonomía de errores",
+          "value": "Omisiones, adiciones, traslocaciones, sustituciones (fonemáticas, silábicas, semánticas) y ausencia de respuesta."
+        },
+        {
+          "label": "Análisis inferencial",
+          "value": "Prueba U de Mann-Whitney no paramétrica por el tamaño muestral y comparación pre-post de medias y desvíos."
+        }
+      ],
+      "limitaciones": [
+        "Se aplicó únicamente la primera de las siete etapas del Método Invariante debido al tiempo lectivo disponible.",
+        "Muestra focalizada en una única escuela oficial de estrato socioeconómico bajo sin seguimiento experimental multiaño."
+      ],
+      "reflexion": "¿Por qué un niño que antes se negaba a leer empieza de pronto a cometer 'sustituciones fonemáticas' tras el entrenamiento?",
+      "deepDives": [
+        {
+          "id": "inv-viaje-1",
+          "triggerLabel": "Las etapas de Galperin en el aula",
+          "type": "method",
+          "content": "Piotr Galperin demostró que las acciones mentales complejas maduran en cuatro planos sucesivos: material (objetos reales), materializado (esquemas de celdas), perceptivo (imágenes visuales) y verbal interno."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "La intervención logró una mejoría contundente en todas las tareas de lectura (avance significativo en palabras: p = 0.02, U = 41.50) y cerró por completo la brecha estadística inicial con el grupo control; además, erradicó prácticamente la 'ausencia de respuesta' (del 5.59 a 0.00 en textos), reduciendo drásticamente las omisiones, adiciones y sustituciones silábicas.",
+      "evidenciaCualitativa": "El aparente incremento de sustituciones fonemáticas (0.09 a 0.33 en sílabas) fue interpretado como un signo positivo de progreso: los niños, que antes se bloqueaban y se negaban a leer, se arriesgan ahora a producir palabras aproximándose activamente al código.",
+      "citaClave": "'La reducción de errores estructurales y la desaparición del bloqueo demuestran que las fallas iniciales respondían a la falta de mediación de la estructura fonológica y no a un déficit cognoscitivo intrínseco de los niños.'",
+      "implicacionesDocentes": [
+        "Introducir esquemas materializados de celdas y fichas de colores en 1º de Primaria antes de imponer la lectura abstracta en papel.",
+        "Interpretar los errores de aproximación fonemática como indicios de avance lector activo y no como retrocesos punibles.",
+        "Asegurar que los escolares comprendan los límites sonoros de las palabras orales antes de introducir la correspondencia ortográfica."
+      ],
+      "deepDives": [
+        {
+          "id": "inv-rev-1",
+          "triggerLabel": "Desaparición del bloqueo lector",
+          "type": "data",
+          "content": "En la evaluación inicial previa, los escolares con bajo rendimiento acumulaban medias de 5.59 en textos por negarse a leer; tras las 36 sesiones de intervención, el valor de no respuesta cayó a un absoluto 0.00."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Psicología histórico-cultural de Vygotsky, Luria, Elkonin y teoría de formación por etapas de Galperin",
+      "tensiones": [
+        "Instrucción abstracta descontextualizada vs. formación escalonada de acciones mentales en planos materializados.",
+        "Etiquetado clínico prematuro de dislexia vs. comprensión del origen psicopedagógico del retraso lector."
+      ],
+      "autoresClave": [
+        "Quijano-Martínez et al. (2020)",
+        "Solovieva & Quintanar (2016)",
+        "Elkonin (1989)",
+        "Galperin (1987)",
+        "Bravo-Valdivieso (2016)"
+      ],
+      "deepDives": [
+        {
+          "id": "inv-marco-1",
+          "triggerLabel": "Elkonin y el análisis fonético",
+          "type": "theory",
+          "content": "Daniil Elkonin demostró que la lectura fluida exige generalizar la estructura fonológica: el escolar debe aprender a percibir el orden secuencial de los sonidos mediante un modelo espacial externo."
+        }
+      ]
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo incide la aplicación de la primera fase del Método Invariante en la disminución de errores y el rendimiento lector en niños con dificultades iniciales?",
+      "mecanismoClave": "El uso de esquemas de celdas y fichas permite al niño representar físicamente la estructura fonémica de las palabras orales, desarrollando la función simbólica y la autocorrección consciente necesaria para la decodificación fluida.",
+      "conclusionGeneral": "El Método Invariante histórico-cultural demuestra ser una herramienta pedagógica altamente efectiva para revertir el bajo rendimiento lector temprano, cerrando la brecha de aprendizaje y eliminando el bloqueo afectivo hacia la lectura."
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Invariante",
+        "descripcion": "Coloca fichas de vocales y consonantes en los esquemas de celdas para reconstruir palabras fonéticas.",
+        "instrucciones": "Recoge tokens de Elkonin y Galperin mientras evitas traslocaciones y omisiones silábicas. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Neuropsicología y Método Invariante",
+        "descripcion": "Evalúa tus conocimientos sobre los datos cuasi-experimentales, la U de Mann-Whitney y la tipología de errores de Quijano et al.",
+        "instrucciones": "Responde contrarreloj para mantener tu multiplicador neurocognitivo y liderar la tabla de psicopedagogía."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de la Acción Mental",
+        "descripcion": "Asciende por las etapas de Galperin: desde el plano materializado externo hasta la lectura mentalizada autónoma.",
+        "instrucciones": "Supera cada nivel demostrando dominio de las fases del desarrollo intelectual histórico-cultural."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Disminución de errores con el Método Invariante de lectura (Quijano-Martínez et al., 2020)",
+      "descripcion": "Estudio cuasi-experimental con 54 escolares que demuestra la eficacia de la primera fase del Método Invariante de Solovieva y Quintanar para reducir errores lectores y cerrar la brecha en zona vulnerable.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Enfoque histórico-cultural de Elkonin y Galperin",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Marco pedagógico que fundamenta la enseñanza de la lectura en la formación de acciones mentales por etapas sucesivas: plano material, materializado, perceptivo y verbal interno."
+        },
+        {
+          "id": "2",
+          "label": "El Método Invariante para la Enseñanza de la Lectura",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Propuesta de intervención de Solovieva y Quintanar estructurada en 7 etapas donde los niños analizan conscientemente la estructura fonológica de las palabras mediante esquemas de celdas."
+        },
+        {
+          "id": "3",
+          "label": "El error como ventana cualitativa del desarrollo",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Perspectiva neuropsicológica que no penaliza el error numéricamente, sino que clasifica su tipología (omisiones, adiciones, sustituciones) para identificar el mecanismo funcional afectado."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: evaluar la eficacia de la primera fase del método",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Comprobar si la aplicación de las etapas 1 a 3 del Método Invariante mejora el rendimiento y reduce significativamente los errores de lectura en escolares con bajo desempeño inicial."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: comparar grupo experimental frente a grupo control",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Contrastar los cambios en el grupo con bajo rendimiento intervenido frente a un grupo de control del mismo salón con rendimiento adecuado, evaluando el cierre de la brecha escolar."
+        },
+        {
+          "id": "6",
+          "label": "Diseño cuasi-experimental pre-post con grupo control",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Diseño cuantitativo con línea base inicial y evaluación final tras la intervención, seleccionando dos grupos intactos de un colegio oficial vulnerable de Cali, Colombia."
+        },
+        {
+          "id": "7",
+          "label": "Muestra de 54 escolares de 7 a 8 años en Cali",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Participación de 26 niños en el grupo experimental (16 varones, 10 mujeres, bajo rendimiento) y 28 en el grupo control (14 varones, 14 mujeres, rendimiento apropiado) de 1º y 2º de Primaria."
+        },
+        {
+          "id": "8",
+          "label": "Intervención de 36 sesiones y prueba de Éxito Escolar",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Aplicación de 4.5 meses (2 sesiones semanales de 90 min) con plantillas y fichas de colores; evaluación pre-post con la prueba Verificación del Éxito Escolar y análisis U de Mann-Whitney."
+        },
+        {
+          "id": "9",
+          "label": "Mejora global y avance significativo en palabras",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El grupo experimental mejoró en todas las tareas, alcanzando significatividad estadística en lectura de palabras (de 3.37 a 4.36 puntos; prueba U de Mann-Whitney con p = 0.02, z = 2.3)."
+        },
+        {
+          "id": "10",
+          "label": "Desaparición casi absoluta de la ausencia de respuesta",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El bloqueo o negativa a intentar leer desapareció por completo en letras y palabras (a 0.00) y se redujo drásticamente en textos (de 5.59 a 0.00), devolviendo la confianza al alumnado."
+        },
+        {
+          "id": "11",
+          "label": "Disminución notable de errores estructurales",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Se redujeron significativamente las adiciones en palabras (de 0.93 a 0.07), las sustituciones silábicas (de 1.06 a 0.33) y las omisiones de sonidos en sílabas complejas."
+        },
+        {
+          "id": "12",
+          "label": "Aparición de sustituciones fonemáticas como indicio activo",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El leve aumento de sustituciones fonemáticas se interpretó como prueba de que los niños arriesgan ahora hipótesis lectoras y producen palabras activas que antes callaban por temor."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: cierre de la brecha pedagógica con el control",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se discute que en el momento post no existieron diferencias estadísticamente significativas entre el grupo intervenido y el control, demostrando la nivelación del rendimiento escolar."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: origen didáctico vs. clínico del fracaso lector",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Los datos corroboran que dos tercios de las dificultades de lectura en sectores vulnerables son psicopedagógicas y responden a métodos deficientes, no a lesiones neurológicas irreversibles."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: aplicación parcial de etapas del método",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "Las autoras reconocen que el tiempo escolar solo permitió aplicar la fase inicial (etapas 1 a 3), sugiriendo evaluar en el futuro el impacto del ciclo completo de siete etapas."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: eficacia preventiva de la mediación materializada",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que el Método Invariante histórico-cultural es una alternativa pedagógica altamente eficaz para prevenir el fracaso lector y garantizar la equidad educativa temprana."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "establece el marco metodológico de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "aporta el protocolo de intervención a"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "orienta la categorización de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se verifica mediante el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "define los grupos comparados en el"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se administra en la"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "utiliza para la recogida y terapia la"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "demuestra estadísticamente la"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "constata en los datos la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "revela la contundente"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "interpreta cualitativamente la"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "aporta evidencia empírica al"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "fundamenta el fenómeno del"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "sustenta la distinción entre"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "corrobora la tesis del"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "conduce a las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "inspira la propuesta de las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el alcance temporal del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las proyecciones de las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "cierra el ciclo histórico-cultural de"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál fue uno de los efectos más notables de la intervención con el Método Invariante sobre la conducta de los escolares evaluados?",
+          "options": [
+            "Aumentó el tiempo de rechazo a la lectura debido al cansancio de las sesiones.",
+            "Desapareció por completo la ausencia de respuesta (bloqueo o negativa a intentar leer), pasando de 5.59 a 0.00 en textos.",
+            "Los niños aprendieron a escribir a máquina sin cometer errores ortográficos.",
+            "Se duplicaron las omisiones de sonidos por sobrecarga de información."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo aplicarías el uso de plantillas de celdas y fichas de colores en una clase de 1º de Primaria para que los niños distingan vocales y consonantes antes de escribir las letras?"
+        }
+      ]
+    }
+  }
+}

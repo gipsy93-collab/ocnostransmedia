@@ -1,0 +1,376 @@
+{
+  "id": "apadrinamiento_lector_intergeneracional_ambito_residencial",
+  "metadata": {
+    "id": "apadrinamiento_lector_intergeneracional_ambito_residencial",
+    "title": "Literatura y transmisión transgeneracional: un proyecto intergeneracional de apadrinamiento lector en ámbito residencial",
+    "authors": [
+      "Sacramento Pinazo-Hernandis",
+      "Carolina Pinazo-Clapés"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "3",
+    "pages": "42-54",
+    "doi": "10.18239/ocnos_2018.17.3.1799",
+    "keywords": [
+      "apadrinamiento lector",
+      "relaciones intergeneracionales",
+      "personas mayores",
+      "edadismo",
+      "bienestar psicológico"
+    ],
+    "abstract": "Proyecto cuasi-experimental de seis meses donde 27 adolescentes de 4º de ESO y 17 ancianos institucionalizados en Valencia compartieron 24 sesiones de diálogo sobre literatura clásica, mejorando la motivación lectora y reduciendo estereotipos edadistas."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Qué ocurre cuando estudiantes adolescentes de 4º de ESO visitan semanalmente una residencia de ancianos para leer y dialogar juntos sobre literatura clásica? Este estudio interdisciplinar en Valencia evalúa el impacto psicoemocional y lector de un programa de apadrinamiento lector transgeneracional.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de evaluación psicosocial y formativa:",
+        "opciones": [
+          {
+            "id": "gerontologica",
+            "texto": "Enfoque gerontológico: lucha contra el edadismo y bienestar subjetivo"
+          },
+          {
+            "id": "literaria",
+            "texto": "Enfoque literario: la literatura clásica como mediación dialógica"
+          },
+          {
+            "id": "psicometrica",
+            "texto": "Evaluación cuantitativa: escalas CENVE, PANAS y autoestima"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Nuestra sociedad compartimenta a las generaciones: los adolescentes viven inmersos en pantallas desconectados del patrimonio oral, mientras las personas mayores institucionalizadas sufren soledad, deterioro anímico y el estigma social del edadismo (ageism). Esta desconexión empobrece la memoria cultural colectiva.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cómo combate el apadrinamiento lector los estereotipos negativos hacia la vejez?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Al situar a los mayores como interlocutores sabios y afectivos en un diálogo entre iguales sobre historias humanas universales.",
+            "correcta": true,
+            "explicacion": "Exacto: la lectura dialógica deconstruye la imagen del anciano pasivo y lo posiciona como transmisor de experiencias valiosas."
+          },
+          {
+            "id": "c2",
+            "texto": "Obligando a los adolescentes a dar sermones morales a las personas institucionalizadas.",
+            "correcta": false,
+            "explicacion": "El proyecto se basa en la simetría afectiva y el respeto mutuo, no en la imposición moralizante."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Durante 24 semanas consecutivas, 27 estudiantes de 15-16 años y 17 residentes de la tercera edad mantuvieron encuentros estructurados en torno a lecturas guiadas de clásicos. Las autoras aplicaron un diseño pre-post con instrumentos estandarizados (escala de estereotipos CENVE, afectividad PANAS, autoestima de Rosenberg y sintomatología depresiva).",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra emparejada",
+            "detalle": "27 alumnos de 4º de ESO y 17 adultos mayores institucionalizados en Valencia."
+          },
+          {
+            "fase": "24 sesiones de lectura",
+            "detalle": "Talleres semanales de lectura en voz alta y tertulia dialógica sobre relatos clásicos."
+          },
+          {
+            "fase": "Medición multidimensional",
+            "detalle": "Evaluación psicométrica pre y post-intervención de afecto positivo, mitos y motivación."
+          },
+          {
+            "fase": "Triangulación cualitativa",
+            "detalle": "Análisis de testimonios, cartas de despedida y registros de observación conductual."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados confirmaron beneficios cruzados extraordinarios: los mayores experimentaron una reducción estadísticamente significativa en síntomas depresivos y un alza en afectividad positiva; a su vez, los adolescentes redujeron de forma drástica sus estereotipos edadistas y aumentaron su aprecio por la lectura.",
+      "datos_clave": [
+        "Programa cuasi-experimental longitudinal de 6 meses con 24 sesiones continuadas.",
+        "Disminución significativa de mitos edadistas en adolescentes medida con escala CENVE.",
+        "Mejora del estado anímico, autoestima y vitalidad afectiva en los ancianos residentes.",
+        "Consolidación del apadrinamiento lector como herramienta terapéutica y coeducativa."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo articula la teoría gerontológica del edadismo de Butler y Palmore, el concepto de generatividad de Erikson, los modelos de lectura dialógica de Flecha y la pedagogía intergeneracional de Newman y Sánchez.",
+      "referencias_clave": [
+        "Butler (1969)",
+        "Palmore (1990)",
+        "Erikson (1982)",
+        "Pinazo-Hernandis (2011)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "La literatura no solo instruye la mente, cura la soledad: unir a jóvenes y ancianos en torno a un libro demuestra que la lectura compartida es el puente más luminoso para reencontrar la ternura y la dignidad humana.",
+      "hallazgo_central": "El apadrinamiento lector intergeneracional reduce el edadismo en adolescentes y mejora el bienestar afectivo de personas mayores institucionalizadas a través del diálogo literario."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los constructos psicosociales con sus efectos evaluados:",
+          "pares": [
+            {
+              "concepto": "Edadismo (Ageism)",
+              "definicion": "Estereotipo y prejuicio social hacia la vejez que el proyecto logró reducir en los jóvenes."
+            },
+            {
+              "concepto": "Generatividad comunitaria",
+              "definicion": "Deseo de los ancianos de transmitir su legado vivencial y cultural a las nuevas generaciones."
+            },
+            {
+              "concepto": "Afectividad positiva (PANAS)",
+              "definicion": "Incremento de entusiasmo, energía y vitalidad emocional documentado en los mayores."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Apadrinamiento Lector Intergeneracional en Entorno Residencial",
+      "descripcion": "Estructura psicoeducativa y gerontológica del proyecto intergeneracional de lectura compartida entre adolescentes y mayores.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Apadrinamiento Lector Intergeneracional",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo primordial: evaluar los efectos psicosociales, afectivos y lectores de un programa continuado de apadrinamiento lector entre estudiantes de 4º de ESO y ancianos en una residencia de Valencia."
+        },
+        {
+          "id": "2",
+          "label": "Teoría del Edadismo (Ageism)",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco conceptual formulado por Butler y Palmore que conceptualiza los prejuicios sistemáticos, estereotipos negativos y discriminación social asociados a la vejez y al envejecimiento."
+        },
+        {
+          "id": "3",
+          "label": "Aislamiento en Residencias Geriátricas",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Diagnóstico sobre la soledad no deseada, la pérdida de autoeficacia y la sintomatología depresiva que amenaza a las personas mayores tras ser institucionalizadas fuera de su hogar."
+        },
+        {
+          "id": "4",
+          "label": "La Literatura como Puente Dialógico",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Fundamentación pedagógica que postula que la lectura compartida de obras clásicas universales abre un espacio de reciprocidad comunicativa, empatía y escucha activa intergeneracional."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Cuasi-Experimental Pre-Post",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Metodología mixta con evaluación cuantitativa antes y después de la intervención a lo largo de 24 semanas de duración en el curso escolar, complementada con observaciones cualitativas."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 27 Jóvenes y 17 Ancianos",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Participantes del estudio emparejados diádicamente: 27 adolescentes de 15 y 16 años de cuarto curso de Secundaria y 17 adultos mayores residentes en un centro geriátrico valenciano."
+        },
+        {
+          "id": "7",
+          "label": "Batería de Instrumentos Psicométricos",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Protocolo de medición estandarizado que administró la escala de estereotipos CENVE a los alumnos, la escala PANAS de afectividad, la escala de depresión geriátrica y la autoestima de Rosenberg."
+        },
+        {
+          "id": "8",
+          "label": "Reducción Drástica de Mitos Edadistas",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo empírico cuantitativo significativo: los adolescentes mostraron una reducción notable en sus puntuaciones de estereotipos hacia la vejez tras compartir lecturas con los residentes."
+        },
+        {
+          "id": "9",
+          "label": "Aumento del Bienestar y Afecto Positivo",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Demostración de un incremento estadísticamente significativo en las puntuaciones de la escala PANAS positiva y un descenso perceptible de la sintomatología depresiva en los mayores."
+        },
+        {
+          "id": "10",
+          "label": "Aumento del Interés Lector Juvenil",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación de que los estudiantes resignificaron positivamente la lectura al comprobar su valor humanizador, manifestando mayor motivación intrínseca para leer voluntariamente."
+        },
+        {
+          "id": "11",
+          "label": "Generatividad y Trascendencia Vital",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión sobre el concepto eriksoniano de generatividad: los ancianos sintieron que sus conocimientos y relatos vitales eran reconocidos con admiración y dignidad por los jóvenes."
+        },
+        {
+          "id": "12",
+          "label": "Ruptura de la Segregación Generacional",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión crítica sobre la necesidad de desarmar la segregación por edades en la sociedad moderna, devolviendo a los ancianos su rol activo como transmisores del patrimonio cultural."
+        },
+        {
+          "id": "13",
+          "label": "Implantación Estable en el Currículo Escolar",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión propositiva: los centros de Secundaria deben incorporar proyectos de aprendizaje-servicio e intergeneracionales de lectura como parte troncal de la educación en valores cívicos."
+        },
+        {
+          "id": "14",
+          "label": "Valor Terapéutico de la Lectura Compartida",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación gerontológica de sistematizar clubes de lectura dialógica en residencias de mayores como intervención preventiva de bajo coste frente al deterioro afectivo y cognitivo."
+        },
+        {
+          "id": "15",
+          "label": "Solidaridad Intergeneracional Comunitaria",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión final: conectar las etapas extremas de la vida mediante el libro fortalece el tejido ético de la comunidad, garantizando que ninguna vejez quede invisible o silenciada."
+        },
+        {
+          "id": "16",
+          "label": "Muestra Institucionalizada Acotada",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación inherente al tamaño muestral restringido a una única residencia y la pérdida de sujetos por incidencias de salud propias de la edad avanzada, sugiriendo estudios multicéntricos."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se propone combatir el"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se ejecuta mediante"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se agrava ante el"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se mitiga mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se aplica en la"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "utiliza la"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "demuestra una"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "constata un claro"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "registra un"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "contribuye a la"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "se sustenta en la"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "fundamenta la"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "avala el"
+        },
+        {
+          "from": "12",
+          "to": "15",
+          "label": "hace posible la"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "conduce hacia la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se articula con la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "condicionado por la"
+        },
+        {
+          "from": "4",
+          "to": "8",
+          "label": "propicia la"
+        },
+        {
+          "from": "4",
+          "to": "9",
+          "label": "favorece el"
+        },
+        {
+          "from": "6",
+          "to": "11",
+          "label": "experimenta la"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Pinazo-Hernandis y Pinazo-Clapés nos conmueven con una verdad científica y humana: cuando un joven lee en voz alta a un anciano que creía no importar a nadie, ambos descubren que el tiempo no pasa en vano si podemos compartirlo con amor.",
+      "preguntas_guiadas": [
+        "¿De qué manera pueden las escuelas de tu localidad abrir programas de lectura compartida con centros residenciales de mayores?",
+        "¿Cómo ha influido en tu propia mirada sobre la vejez la literatura que has compartido con tus abuelos o familiares mayores?"
+      ]
+    }
+  }
+}

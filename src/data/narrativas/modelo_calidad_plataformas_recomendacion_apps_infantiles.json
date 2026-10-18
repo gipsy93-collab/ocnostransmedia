@@ -1,0 +1,376 @@
+{
+  "id": "modelo_calidad_plataformas_recomendacion_apps_infantiles",
+  "metadata": {
+    "title": "Modelo de calidad de las plataformas de recomendación de aplicaciones infantiles y juveniles",
+    "authors": "Sofia Pelosi, Raquel Gómez-Díaz y Araceli García-Rodríguez",
+    "year": "2019",
+    "journal": "Ocnos 18(2)",
+    "doi": "10.18239/ocnos_2019.18.2.1938",
+    "gancho": "¿Cómo distinguir un recomendador fiable de apps infantiles de un simple escaparate publicitario en un mercado con millones de aplicaciones?",
+    "duration": "12-15 min",
+    "badge": "Evaluación de Recursos Digitales y Mediación",
+    "disciplina": "Biblioteconomía y Documentación y Didáctica de la Lectura Digital",
+    "dimensiones": [
+      "Ecosistema de Apps Infantiles",
+      "Batería de 28 Indicadores de Calidad",
+      "Evaluación de 25 Plataformas Web",
+      "La Reseña y Mediación Digital"
+    ],
+    "tags": [
+      "aplicaciones_infantiles",
+      "plataformas_de_recomendacion",
+      "modelo_de_calidad",
+      "evaluacion_de_apps",
+      "mediacion_lectora",
+      "bibliotecas_digitales"
+    ],
+    "pistas": [
+      "Estudio descriptivo-evaluativo sobre 25 plataformas internacionales de recomendación de apps infantiles y juveniles.",
+      "Diseño y aplicación de una batería sistemática de 28 indicadores cualitativos y cuantitativos agrupados en ocho dimensiones.",
+      "Resultados: 15 de las 25 plataformas cumplen más del 60% de los indicadores, lideradas por Fundamentally Children (85%) y AppEnfant (83%).",
+      "Déficit detectado: escasez de recomendaciones dirigidas a bibliotecarios y predominio del filtro de edad sobre el valor pedagógico o literario."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "Con más de cuatro millones de aplicaciones disponibles en Google Play y App Store, encontrar apps de lectura y educativas de auténtica calidad para niños y jóvenes es buscar una aguja en un pajar gobernado por algoritmos comerciales.",
+      "desafio": "Caracterizar y evaluar la calidad informativa, ergonómica y metodológica de 25 plataformas web dedicadas a la prescripción y reseña de aplicaciones infantiles y juveniles mediante un modelo integral de indicadores.",
+      "relevancia": "Proporciona a padres, maestros y bibliotecarios una herramienta evaluativa rigurosa para seleccionar plataformas fiables y no depender de la publicidad engañosa de las tiendas virtuales."
+    },
+    "conflicto": {
+      "pregunta": "¿Qué estándares debe reunir una plataforma de recomendación de apps para garantizar una mediación digital transparente, ética y de calidad?",
+      "posiciones": [
+        "Lógica de las tiendas comerciales (tiendas de apps): la calidad se mide por el volumen de descargas, reseñas automatizadas y algoritmos de popularidad sin rigor formativo.",
+        "Modelo de evaluación bibliotecaria e investigadora: la prescripción requiere análisis experto de contenidos, adecuación al desarrollo infantil, transparencia de autoría y rigor pedagógico."
+      ],
+      "tension": "La tensión entre la proliferación de blogs amateurs patrocinados por desarrolladores y la necesidad de portales independientes avalados por especialistas educativos.",
+      "deepDives": [
+        {
+          "id": "app-conf-1",
+          "triggerLabel": "El icono como cubierta del libro",
+          "type": "context",
+          "content": "Como destacan las autoras, en las tiendas digitales el icono es a la aplicación lo que la cubierta al libro impreso: el primer filtro de seducción visual que condiciona la decisión de descarga de las familias."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Construcción de indicadores y auditoría de 25 recomendadores internacionales",
+      "narrativa": "Las autoras diseñaron una batería de 28 indicadores inspirados en estándares de calidad de sitios web y bibliotecas digitales (Codina, Ayuso-García, Lluch), auditando 25 plataformas internacionales en febrero de 2018 para medir su desempeño en ocho dimensiones.",
+      "detalles": [
+        {
+          "label": "Muestra seleccionada",
+          "value": "25 plataformas de recomendación representativas en diversos idiomas, modalidades de financiación y públicos objetivo."
+        },
+        {
+          "label": "Batería de indicadores",
+          "value": "28 parámetros agrupados en 8 áreas: Autoridad, Navegabilidad, Actualización, Adecuación, Ergonomía, Evaluación, Promociones y Redes."
+        },
+        {
+          "label": "Procedimiento de recogida",
+          "value": "Observación directa y análisis sistemático de al menos cinco reseñas por portal con volcado métrico en matrices de Excel."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "Aunque la mayoría de los recomendadores ofrece buena información sobre contenidos, escasean las plataformas con respaldo institucional y casi ninguna contempla las necesidades específicas de las bibliotecas escolares.",
+      "datosClave": [
+        {
+          "label": "Portales de excelencia",
+          "value": "Fundamentally Children (85%), AppEnfant (83%) y La Souris Grise (80%) se consolidan como el paradigma de buenas prácticas."
+        },
+        {
+          "label": "Filtro de búsqueda dominante",
+          "value": "El filtro por edad está presente en casi la totalidad de las webs, mientras que menos de la mitad permite filtrar por sistema operativo."
+        },
+        {
+          "label": "Vacío para bibliotecarios",
+          "value": "Casi ninguna plataforma categoriza las apps pensando en su préstamo o dinamización en bibliotecas, dirigiéndose solo a padres y docentes."
+        }
+      ],
+      "implicacion": "Las bibliotecas escolares y públicas deben crear sus propios espacios de prescripción de apps de lectura para garantizar la equidad y el rigor en el acceso a la cultura digital."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "Lluís Codina (2008) / Galina-Russell (2016)",
+          "concepto": "Evaluación de calidad de sitios web: metodologías estandarizadas de análisis de contenidos digitales, ergonomía y autoridad."
+        },
+        {
+          "autor": "Mariona Grané-Oró e Irene Crescenzi-Lanna (2016)",
+          "concepto": "Diseño y evaluación de apps infantiles: adecuación interactiva a las etapas del desarrollo cognitivo y emocional del menor."
+        },
+        {
+          "autor": "Araceli García-Rodríguez y Raquel Gómez-Díaz (2015)",
+          "concepto": "Lectura digital infantil y juvenil: criterios de selección de aplicaciones literarias y álbumes enriquecidos para mediadores."
+        }
+      ],
+      "enfoque": "Biblioteconomía y documentación, evaluación de recursos digitales y sociología de la mediación lectora infantil.",
+      "sinergia": "La traslación de criterios de calidad bibliotecaria al universo de las aplicaciones móviles dignifica la prescripción tecnológica."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Qué características definen la calidad de las plataformas de recomendación de aplicaciones infantiles y juveniles y en qué medida la cumplen los sitios actuales?",
+      "hallazgos": [
+        "15 de las 25 plataformas analizadas superan el 60% de cumplimiento de los indicadores de calidad del modelo propuesto.",
+        "La estructura de la reseña estándar consta de tres pilares: descripción técnica, competencias formativas y juicio del experto.",
+        "Existe un uso extendido de redes sociales adultas (Facebook, Twitter, Pinterest) pero escaso aprovechamiento de canales de vídeo.",
+        "Menos de la mitad de los sitios ofrece búsqueda avanzada o mapa de navegación, priorizando interfaces sencillas basadas en etiquetas."
+      ],
+      "conclusion": "El modelo de 28 indicadores constituye una guía metodológica indispensable para auditar plataformas y orientar a las familias hacia aplicaciones digitales verdaderamente enriquecedoras."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Qué plataforma de recomendación obtuvo el mayor porcentaje de cumplimiento de indicadores de calidad en el estudio?",
+          "opciones": [
+            "Fundamentally Children, alcanzando un 85% de cumplimiento",
+            "The App Date con apenas un 41%",
+            "Google Play Store oficial"
+          ],
+          "respuestaCorrecta": 0,
+          "justificacion": "Fundamentally Children lideró el ranking con un 85%, seguida muy de cerca por AppEnfant (83%) y La Souris Grise (80%)."
+        },
+        {
+          "pregunta": "¿Qué colectivo profesional de mediación lectora resultó estar prácticamente desatendido en las plataformas analizadas?",
+          "opciones": [
+            "Los profesores de secundaria",
+            "Los bibliotecarios, al no existir apenas recomendaciones ni filtros adaptados a sus servicios de préstamo y dinamización",
+            "Los padres de familia primerizos"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "Las autoras señalan explícitamente la escasa presencia de recomendaciones pensadas para bibliotecarios como un vacío a subsanar."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Modelo de Calidad de Plataformas de Recomendación de Apps",
+      "descripcion": "Red analítica que estructura los 28 indicadores de calidad, las 25 plataformas auditadas y las dimensiones de mediación en aplicaciones infantiles.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Ecosistema de Apps Infantiles",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Mercado digital masivo caracterizado por millones de aplicaciones donde la sobreabundancia y la escasa información de las tiendas comerciales generan desorientación en los mediadores adultos."
+        },
+        {
+          "id": "2",
+          "label": "El Mediador Digital",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Figura del adulto (familia, docente, bibliotecario) encargada de filtrar, prescribir y acompañar el acceso infantil a los dispositivos tecnológicos, demandando guías objetivas y fiables de calidad."
+        },
+        {
+          "id": "3",
+          "label": "Criterios de Calidad Web (Codina)",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Metodologías de documentación digital que evalúan sedes web mediante indicadores normalizados de autoría, adecuación de contenidos, navegabilidad, ergonomía y actualización continua."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Modelo de 28 Indicadores",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Construir una batería sistemática de parámetros de calidad y evaluar empíricamente el grado de cumplimiento de 25 plataformas internacionales de recomendación de aplicaciones infantiles y juveniles."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Descriptivo-Evaluativo",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Metodología documental estructurada en cuatro fases: revisión teórica, selección de corpus representativo, definición de 28 indicadores y recogida mediante plantilla de observación directa."
+        },
+        {
+          "id": "6",
+          "label": "Corpus de 25 Plataformas",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Selección equilibrada de 25 sitios web de recomendación en español, inglés, francés e italiano, abarcando blogs independientes, entidades sin ánimo de lucro y proyectos empresariales."
+        },
+        {
+          "id": "7",
+          "label": "Batería de Ocho Dimensiones",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Agrupación analítica de los 28 indicadores en: Autoridad, Navegabilidad, Actualización, Adecuación/Calidad, Ergonomía, Evaluación de apps, Promociones y Redes de socialización."
+        },
+        {
+          "id": "8",
+          "label": "Desempeño Global Positivo (15/25)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "El 60% de las plataformas auditadas (15 de 25) supera al menos 17 de los 28 indicadores, demostrando un nivel apreciable de compromiso informativo sobre las características de las apps."
+        },
+        {
+          "id": "9",
+          "label": "Trío de Excelencia (80-85%)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Encabezan el cumplimiento Fundamentally Children (85%), AppEnfant (83%) y La Souris Grise (80%), erigiéndose como modelos de referencia internacional en evaluación y diseño web."
+        },
+        {
+          "id": "10",
+          "label": "Centralidad de la Reseña Tripartita",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Las mejores plataformas organizan sus reseñas en tres bloques claros: especificaciones técnicas de la app, desarrollo de competencias pedagógicas y valoración cualitativa de expertos."
+        },
+        {
+          "id": "11",
+          "label": "Invisibilidad del Perfil Bibliotecario",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Constatación de un vacío estructural: los recomendadores se orientan a padres y maestros, descuidando orientaciones para la gestión de colecciones o dinamización lectora en bibliotecas."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: Filtro por Edad vs Contenido",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "La preponderancia casi absoluta del filtro por franjas de edad responde a criterios comerciales de compra paterna pero tiende a invisibilizar la adecuación por materias, valores o necesidades especiales."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Profesionalización de la Prescripción",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Urge consolidar sellos de calidad independientes avalados por instituciones educativas y universitarias para evitar que el marketing encubierto contamine las reseñas de apps."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Guía para Mediadores",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "El modelo de indicadores propuesto permite auditar la fiabilidad de las plataformas prescriptoras y capacitar a los mediadores para liderar una alfabetización digital crítica y enriquecedora."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Ausencia de Ponderación",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "El estudio contabilizó el cumplimiento binario de los 28 indicadores sin asignar pesos diferenciales, otorgando el mismo valor métrico a la presencia de un contacto que a la evaluación experta."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Ventana Temporal Concreta",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Auditoría realizada en febrero de 2018; dado el dinamismo vertiginoso de los sitios web y la constante desaparición o rediseño de blogs de apps, los porcentajes exigen actualización periódica."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "plantea desafío a"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "reclama herramientas para"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "aporta fundamentos a"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se ejecuta mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se aplica sobre"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "desarrolla batería de"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "arroja resultados en"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "destaca excelencia en"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "analiza estructura de"
+        },
+        {
+          "from": "6",
+          "to": "11",
+          "label": "diagnostica carencia en"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "aporta datos a"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "sustenta debate de"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "demuestra necesidad de"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "orienta diseño de"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "fundamenta imperativo de"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "acota precisión métrica de"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "agrega volatilidad con"
+        },
+        {
+          "from": "2",
+          "to": "14",
+          "label": "se beneficia directamente de"
+        },
+        {
+          "from": "3",
+          "to": "10",
+          "label": "se refleja en"
+        },
+        {
+          "from": "1",
+          "to": "12",
+          "label": "condiciona dinámica de"
+        },
+        {
+          "from": "9",
+          "to": "14",
+          "label": "proporciona modelo a"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Qué criterios aplicarías para seleccionar una app de lectura infantil antes de recomendársela a las familias de tu centro?",
+      "enfoque": "Comprobar si la app tiene reseña de expertos independientes, si respeta la privacidad sin publicidad invasiva y si el texto interactivo aporta valor real.",
+      "cierre": "Un buen mediador digital no busca la app más deslumbrante, sino aquella que despierta el asombro y el pensamiento del niño."
+    }
+  }
+}

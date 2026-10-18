@@ -1,0 +1,375 @@
+{
+  "id": "tratamiento_curricular_rosalia_castro_secundaria_bachillerato",
+  "metadata": {
+    "id": "tratamiento_curricular_rosalia_castro_secundaria_bachillerato",
+    "title": "¿Qué estudiamos cuando estudiamos literatura? El tratamiento curricular de Rosalía de Castro",
+    "authors": [
+      "Margarita García-Candeira"
+    ],
+    "year": 2019,
+    "volume": "18",
+    "issue": "1",
+    "pages": "73-84",
+    "doi": "10.18239/ocnos_2019.18.1.1925",
+    "keywords": [
+      "Rosalía de Castro",
+      "currículo escolar",
+      "canon literario",
+      "educación secundaria",
+      "memoria cultural"
+    ],
+    "abstract": "Investigación histórica y curricular que rastrea el tratamiento de Rosalía de Castro en la legislación educativa española y manuales escolares desde 1901 hasta la LOMCE (2013), desvelando cómo los sesgos lingüístico-nacionales han marginado a una autora canónica."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Por qué una autora cumbre del canon literario como Rosalía de Castro ha sufrido una constante invisibilización o marginación en los planes oficiales de estudio españoles? Este estudio rastrea más de un siglo de currículos escolares y manuales de Secundaria y Bachillerato para desentrañar las tensiones entre nación, lengua e ideología.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva histórico-curricular sobre la recepción de Rosalía:",
+        "opciones": [
+          {
+            "id": "legislativa",
+            "texto": "Evolución legislativa: del Plan de 1901 a la LOMCE de 2013"
+          },
+          {
+            "id": "ideologica",
+            "texto": "Ideología del canon escolar: centralismo, lengua y nación"
+          },
+          {
+            "id": "didactica",
+            "texto": "Transposición didáctica y tratamiento en manuales escolares"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Rosalía de Castro encarna una figura profundamente incómoda para el nacionalismo centralista decimonónico: escritora mujer, periférica y bilingüe, con obra en gallego y castellano. El canon oficial resolvió esta incomodidad silenciando su nombre en las leyes o reduciéndola a un apéndice de \"literatura regional\", distorsionando la comprensión del Romanticismo.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué consecuencias tuvo encasillar a Rosalía de Castro bajo la etiqueta de \"poesía regional\"?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Subordinó su talla universal a un localismo folclórico menor, separándola artificialmente del canon mayor nacional y de su condición de cumbre romántica.",
+            "correcta": true,
+            "explicacion": "Exacto: la categoría regionalista operó como un mecanismo de contención ideológica para despojar a las literaturas periféricas de estatus central."
+          },
+          {
+            "id": "c2",
+            "texto": "Otorgó a su poesía en gallego el máximo protagonismo en las oposiciones del Estado.",
+            "correcta": false,
+            "explicacion": "La legislación estatal privilegió de forma excluyente la historia literaria castellana monocorde."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "La investigadora realizó un minucioso análisis de arqueología curricular revisando las leyes educativas españolas desde 1901 (Planes de Instrucción Pública, Ley Moyano, reformas republicanas, franquismo, LOGSE, LOCE, LOE, LOMCE) en diálogo con una muestra representativa de manuales escolares de Bachillerato de cada época.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Marco decimonónico",
+            "detalle": "Fundación del modelo nacionalista lingüístico centralista (Ley Moyano y Plan 1901)."
+          },
+          {
+            "fase": "Silenciamiento normativo",
+            "detalle": "Décadas de ausencia nominal de Rosalía de Castro en los decretos ministeriales obligatorios."
+          },
+          {
+            "fase": "Análisis de manuales",
+            "detalle": "Examen de libros de texto históricos: reduccionismo biográfico, melancolía y regionalismo."
+          },
+          {
+            "fase": "Deriva posnacional",
+            "detalle": "Crítica a la LOMCE por desarticular contenidos literarios y posibilitar la omisión de la autora."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El estudio desvela que Rosalía de Castro fue víctima de un triple confinamiento escolar: por su condición de mujer (reducida a poetisa del sentimiento espontáneo), por su lengua gallega (desterrada del tronco común estatal) y por su hibridez genérica. Las reformas actuales abren el riesgo de una exclusión aún mayor por la dilución de la literatura en el currículo.",
+      "datos_clave": [
+        "Revisión documental de más de 110 años de legislación educativa española (1901-2013).",
+        "Constatación de una prolongada ausencia nominal en los currículos estatales prescritos.",
+        "Pervivencia del estereotipo patriarcal y folclorizante en los manuales de texto.",
+        "Demanda de un canon plural, polifónico e interlingüístico para la educación secundaria."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "La investigación dialoga con la teoría del aparato ideológico escolar de Althusser, la reproducción cultural de Bourdieu y Passeron, la sociología del currículo de Ivor Goodson y los estudios de memoria cultural de Aleida y Jan Assmann.",
+      "referencias_clave": [
+        "Goodson (2014)",
+        "Assmann (2011)",
+        "Bourdieu & Passeron (1996)",
+        "Pérez-Isasi (2010)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El canon literario que enseña la escuela no es un catálogo neutro de genialidades artísticas, sino un campo de batalla ideológico: recuperar a Rosalía de Castro en su plenitud crítica y bilingüe es indispensable para descolonizar y democratizar la enseñanza de las humanidades.",
+      "hallazgo_central": "El tratamiento curricular histórico de Rosalía de Castro en España evidencia cómo los sesgos centralistas y patriarcales construyeron un canon escolar mutilado que marginó las literaturas periféricas."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos de sociología del currículo con su aplicación a Rosalía:",
+          "pares": [
+            {
+              "concepto": "Aparato ideológico escolar",
+              "definicion": "Uso del currículo literario para afianzar una identidad nacional hegemónica y monolingüe."
+            },
+            {
+              "concepto": "Ausencia nominal",
+              "definicion": "Omisión sistemática del nombre de la autora en los decretos de contenidos mínimos oficiales."
+            },
+            {
+              "concepto": "Canon posnacional",
+              "definicion": "Desarticulación curricular contemporánea que relega la literatura histórica a optatividad marginal."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Tratamiento Curricular e Histórico de Rosalía de Castro",
+      "descripcion": "Estructura epistemológica del análisis curricular, ideológico y canónico sobre la presencia de Rosalía de Castro en la enseñanza secundaria.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Rosalía de Castro en el Currículo Escolar",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo central: rastrear críticamente el tratamiento, presencia y omisiones de Rosalía de Castro en los currículos oficiales de Secundaria y Bachillerato españoles desde 1901 hasta la LOMCE de 2013."
+        },
+        {
+          "id": "2",
+          "label": "Canon Escolar como Aparato Ideológico",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco sociológico basado en Althusser, Bourdieu y Goodson que conceptualiza el currículo de literatura como un dispositivo estatal de reproducción identitaria y memoria cultural selectiva."
+        },
+        {
+          "id": "3",
+          "label": "Tríada Nación-Lengua-Territorio",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Paradigma historicista decimonónico que equipara la identidad nacional exclusivamente con la lengua castellana, excluyendo o subordinando las manifestaciones literarias en lenguas cooficiales."
+        },
+        {
+          "id": "4",
+          "label": "Triple Escisión de Rosalía de Castro",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Problematización teórica de la figura rosaliana escindida por su bilingüismo gallego-castellano, su condición de mujer escritora y su tensión geográfica entre la periferia galaica y Madrid."
+        },
+        {
+          "id": "5",
+          "label": "Análisis Histórico-Documental (1901-2013)",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Metodología documental de arqueología curricular que analiza comparativamente más de un siglo de reales decretos, planes de estudio estatales y directrices ministeriales de educación secundaria."
+        },
+        {
+          "id": "6",
+          "label": "Corpus de Manuales Escolares",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Selección sistemática de libros de texto históricos de Bachillerato utilizados para contrastar la transposición didáctica real de las prescripciones normativas en la práctica pedagógica."
+        },
+        {
+          "id": "7",
+          "label": "Triangulación Epistemológica",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Cruce analítico entre sociología del conocimiento, teoría de la memoria cultural (Assmann) y didáctica de la lengua para desentrañar las causas de la exclusión institucional."
+        },
+        {
+          "id": "8",
+          "label": "Ausencia Nominal en la Legislación",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación empírica contundente: Rosalía de Castro no figura explícitamente citada por su nombre en la mayor parte de las leyes y decretos educativos estatales durante casi cien años."
+        },
+        {
+          "id": "9",
+          "label": "Confinamiento en Literatura Regional",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Resultado de los manuales escolares que recluyeron a la autora en apartados secundarios de corte folclórico o dialectal, desvinculándola de las cumbres del Romanticismo europeo."
+        },
+        {
+          "id": "10",
+          "label": "Estereotipo Biográfico y Dolorista",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Predominio en los libros de texto de una imagen infantilizada de la autora centrada en la melancolía trágica personal, silenciando su profunda dimensión de denuncia social y crítica política."
+        },
+        {
+          "id": "11",
+          "label": "Erosión del Saber Literario en la LOMCE",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión crítica sobre las reformas curriculares recientes que diluyen la historicidad literaria en estándares de aprendizaje abstractos, facilitando la desaparición de figuras clave."
+        },
+        {
+          "id": "12",
+          "label": "Urgencia de un Canon Polifónico",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Debate teórico en torno a la necesidad inaplazable de sustituir el canon centralista monolingüe por un mapa de literaturas hispánicas interconectado, plural y genuinamente bilingüe."
+        },
+        {
+          "id": "13",
+          "label": "Reconocimiento de la Complejidad Rosaliana",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental: el alumnado de Secundaria debe acceder a Rosalía de Castro tanto en su vertiente gallega como castellana, apreciando su pensamiento feminista y existencial."
+        },
+        {
+          "id": "14",
+          "label": "Descolonización del Currículo Escolar",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta didáctica integral orientada a desarmar los sesgos centralistas y patriarcales que continúan operando de forma inercial en la selección de autores para las aulas españolas."
+        },
+        {
+          "id": "15",
+          "label": "Patrimonio Cultural Compartido",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Reivindicación de la literatura como un espacio democrático de memoria compartida donde la diversidad lingüística del Estado constituya una riqueza colectiva y no un factor de exclusión."
+        },
+        {
+          "id": "16",
+          "label": "Foco Limitado a Currículo Estatal y Manuales",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación asumida por el estudio al centrarse en la normativa estatal y libros de texto, demandando investigar las prácticas docentes orales efectivas en las aulas contemporáneas."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se fundamenta en el"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se reproduce mediante la"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "colisiona con la"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se complementa con el"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "aplica el método de"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "evidencia la reiterada"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "demuestra en manuales el"
+        },
+        {
+          "from": "6",
+          "to": "10",
+          "label": "perpetúa el"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "se agrava ante la"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "exige la"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "hace urgente la"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "reclama el"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "impulsa la"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "consolida el"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "hace posible el"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "está acotada por su"
+        },
+        {
+          "from": "4",
+          "to": "9",
+          "label": "explica el"
+        },
+        {
+          "from": "2",
+          "to": "14",
+          "label": "permite deconstruir la"
+        },
+        {
+          "from": "8",
+          "to": "13",
+          "label": "obliga a enmendar el"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "García-Candeira nos interpela con agudeza: cuando enseñamos literatura, ¿enseñamos el placer rebelde de las palabras o adoctrinamos en una memoria nacional congelada? Rosalía de Castro sigue esperando en las aulas que la leamos en toda su polifónica grandeza.",
+      "preguntas_guiadas": [
+        "¿Cómo recuerdas que te explicaron a Rosalía de Castro en tus años de instituto: como una figura romántica universal o como una poetisa regional aislada?",
+        "¿Qué autoras y autores de lenguas cooficiales deberían formar parte indiscutible del canon de lectura compartida en todo el Estado?"
+      ]
+    }
+  }
+}

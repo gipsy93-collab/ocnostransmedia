@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, KeyboardEvent } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { motion, AnimatePresence } from 'motion/react';
 import { ArrowLeft, MessageCircle, Brain, CheckCircle2, XCircle, RotateCcw, Sparkles, BookOpen, ChevronRight, Send, Loader2, Bot, User } from 'lucide-react';
@@ -160,7 +160,7 @@ export default function AgenteOCNOS() {
     }
   };
 
-  const handleChatKeyDown = (e: React.KeyboardEvent) => {
+  const handleChatKeyDown = (e: KeyboardEvent) => {
     if (e.key === 'Enter' && !e.shiftKey) {
       e.preventDefault();
       handleSendChat();

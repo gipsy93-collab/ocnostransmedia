@@ -2,7 +2,7 @@
   "id": "didactica_literaria_primaria_vasco_navarra",
   "metadata": {
     "title": "Didáctica de la competencia literaria en Educación Primaria de las Comunidades Vasca y Navarra",
-    "authors": "Nerea Permach-Martín y Amaia Álvarez-Uria",
+    "authors": "Nerea Permach-Martín, Amaia Álvarez-Uria y Xabier Etxaniz",
     "year": "2024",
     "journal": "Ocnos 23(1)",
     "doi": "10.18239/ocnos_2024.23.1.434",
@@ -23,30 +23,30 @@
     "apertura": {
       "personaje": "Dra. Nerea Permach-Martín, especialista en educación literaria escolar y mediación bilingüe",
       "gancho": "¿Qué ocurre realmente cuando cerramos la puerta del aula de Primaria a la hora de leer literatura?",
-      "contexto": "Las leyes educativas proclaman que la competencia literaria es el pilar del pensamiento crítico y la sensibilidad estética. Sin embargo, la realidad de las prácticas cotidianas en los colegios sigue siendo un misterio poco explorado empíricamente. En este ambicioso estudio en la Comunidad Autónoma Vasca y la Comunidad Foral de Navarra, las investigadoras de la UPV/EHU examinaron las prácticas declaradas y los recursos didácticos de más de 300 maestros de Educación Primaria en modelos bilingües y plurilingües.",
+      "contexto": "Las leyes educativas proclaman que la competencia literaria es el pilar del pensamiento crítico y la sensibilidad estética. Sin embargo, la realidad de las prácticas cotidianas en los colegios sigue siendo un terreno poco diagnosticado empíricamente. En este estudio de la UPV/EHU en la Comunidad Autónoma Vasca y la Comunidad Foral de Navarra, los investigadores examinaron la práctica docente en la competencia literaria mediante un cuestionario a 553 maestros de 55 centros de Educación Primaria con el euskera como lengua vehicular (modelo lingüístico D).",
       "deepDives": [
         {
           "id": "vas-apertura-1",
-          "triggerLabel": "Competencia literaria (Mendoza Fillola)",
+          "triggerLabel": "Competencia literaria (Cerrillo)",
           "type": "theory",
-          "content": "Conjunto de saberes, habilidades y actitudes que permiten a un lector decodificar, interpretar y gozar el texto literario en diálogo con su horizonte de expectativas."
+          "content": "Se adquiere teniendo contacto directo con las obras literarias: disfrutándolas, relacionándolas y evaluándolas, de modo que el alumnado aprenda a leer, disfrute de los libros y sea capaz de evaluarse a sí mismo (Cerrillo, 2007). Su adquisición está afectada por factores lingüísticos, psicológicos, sociales, históricos y culturales, y condicionada por la actitud del profesorado, el propósito, el tiempo, las actividades, el espacio o el corpus elegido (Aguiar e Silva, 1980; Mendoza, 2004; Colomer et al., 2005)."
         },
         {
           "id": "vas-apertura-2",
-          "triggerLabel": "Muestra de más de 300 docentes",
+          "triggerLabel": "Muestra de 553 docentes",
           "type": "data",
-          "content": "Cuestionario representativo en centros públicos y concertados de Álava, Vizcaya, Guipúzcoa y Navarra."
+          "content": "Cuestionario cumplimentado por todo el profesorado de 55 centros elegidos aleatoriamente en Navarra, Gipuzkoa, Bizkaia y Araba: 53,2% de escuelas públicas, 31,1% de centros religiosos y 16,6% de ikastolas."
         }
       ]
     },
     "conflicto": {
-      "problema": "A pesar de las reformas educativas, gran parte de la enseñanza literaria sigue supeditada al libro de texto comercial y a las preguntas mecánicas de comprensión literal.",
-      "porQueImporta": "Si la escuela no crea comunidades vivas de lectores dialógicos, la competencia literaria decae y los niños abandonan la lectura al llegar a la adolescencia.",
+      "problema": "A pesar de la amplia literatura científica sobre cómo desarrollar la competencia literaria, este conocimiento no consigue llegar a las aulas. Los currículos de ambas comunidades, al priorizar el enfoque comunicativo y los textos funcionales, sitúan las actividades específicas de educación literaria en un nivel secundario, entendiendo el texto literario como simple recurso o soporte de una actividad lingüística.",
+      "porQueImporta": "A medida que avanza la etapa, la educación literaria pierde espacio en la práctica docente, con resultados preocupantes en el tercer ciclo: la lectura literaria en el aula se vuelve prácticamente anecdótica, un paréntesis con consecuencias en las evaluaciones educativas, incluidas las internacionales (PISA, 2018), que advierten de una comprensión lectora insuficiente en una parte importante del alumnado del modelo D.",
       "dataPoints": [
-        "Muestra de 312 docentes de Educación Primaria.",
-        "El 68% admite que el libro de texto sigue marcando el ritmo y la selección de lecturas.",
-        "Escasa presencia de la poesía y el teatro: casi el 80% de las lecturas escolares se limita a narrativa en prosa.",
-        "Diferencia positiva: los centros con proyectos de biblioteca escolar activa mostraron un uso significativamente mayor de tertulias dialógicas y clubes de lectura."
+        "553 docentes participantes —75,6% mujeres, 23,1% hombres y 1,3% no binario— de 55 centros de modelo lingüístico D.",
+        "En las cuatro dimensiones analizadas la opción más repetida es 'a veces': en Primaria no se trabaja la competencia literaria de forma sistemática ni con criterios comunes.",
+        "La mayoría del profesorado propone leer entre 0 y 6 libros al año (66,11%), y es el alumnado sin supervisión docente quien elige los textos en la mayoría de los casos (62% en primer ciclo, 64% en segundo y 54% en tercero).",
+        "El 60,58% del profesorado afirma no haber recibido ningún tipo de formación extra sobre educación literaria."
       ],
       "glossary": [
         {
@@ -56,20 +56,20 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Cuestionario cuantitativo-cualitativo y análisis bilingüe",
-      "narrativa": "Las investigadoras administraron un instrumento validado en euskera y castellano para evaluar hábitos de selección de textos, actividades de dinamización, evaluación y papel de la biblioteca de aula.",
+      "titulo": "Ruta metodológica: cuestionario ad hoc y análisis cuantitativo descriptivo y correlacional",
+      "narrativa": "Los investigadores crearon un cuestionario ad hoc tras una minuciosa revisión bibliográfica: 5 bloques y 56 ítems, de los cuales 35, en escala Likert de cinco niveles (de 'nunca' a 'siempre'), miden cuatro dimensiones de la práctica docente: elementos psicopedagógicos, selección de lecturas, tipos de lectura y evaluación. La fiabilidad se verificó con el Alfa de Cronbach (α = .801) y los datos se procesaron con SPSS 26 mediante las pruebas Kolmogorov-Smirnov, U de Mann-Whitney, Kruskal-Wallis y correlación de Spearman.",
       "detalles": [
         {
           "label": "Población",
-          "value": "312 maestras y maestros de Primaria de Euskadi y Navarra."
+          "value": "553 maestras y maestros de 55 centros de Primaria de la Comunidad Autónoma Vasca y la Comunidad Foral de Navarra."
         },
         {
           "label": "Modelos Lingüísticos",
-          "value": "Modelos D, B y A (euskera y castellano)."
+          "value": "Únicamente el modelo D, con el euskera como lengua vehicular."
         }
       ],
       "limitaciones": [
-        "Datos basados en cuestionarios de autoinforme docente que precisan contraste con observación etnográfica directa."
+        "Investigación no experimental: las variables se observan en su estado natural, sin manipulación, a partir del autoinforme del profesorado sobre su práctica docente."
       ],
       "reflexion": "La literatura no es una materia que se deba aprobar: es una conversación que se debe compartir."
     },
@@ -78,77 +78,77 @@
       "narrativa": "El mapa de la práctica docente reveló tensiones estructurales:",
       "hallazgos": [
         {
-          "label": "1. El Olvido de la Poesía y el Teatro",
-          "value": "La lírica y el drama son prácticamente invisibles en el aula regular, privando a los niños del ritmo poético y del juego corporal dramatizado."
+          "label": "1. La literatura se apaga al avanzar la etapa",
+          "value": "En el primer ciclo el 58,9% dedica entre hora y media y más de dos horas semanales a la lectura literaria, pero en el tercer ciclo el 69,4% se queda entre media hora y una; las lecturas lúdicas bajan del 60% al 44% y la lectura en voz alta del docente pasa del 61% con frecuencia en el primer ciclo al 53% a veces en el tercero."
         },
         {
-          "label": "2. El Poder Transformador de la Biblioteca Escolar",
-          "value": "Allí donde hay una biblioteca de centro dinamizada por un bibliotecario escolar, los maestros diversifican las lecturas y abandonan el libro de texto comercial."
+          "label": "2. Nada cambia según el tipo de centro o el territorio",
+          "value": "No hay diferencias significativas por titularidad salvo en la evaluación (H=11,65; p=.003), donde las escuelas religiosas obtienen parcialmente mejores resultados, y por territorios solo difieren los elementos psicopedagógicos: Gipuzkoa se distingue de Bizkaia (p=.001) y de Navarra (p=.002)."
         }
       ],
       "dataPoints": [
-        "Solo el 24% del profesorado utiliza tertulias dialógicas de forma semanal en el aula."
+        "El 78% afirma que su centro tiene plan de lectura y el 88,25% dispone de biblioteca de aula, pero el 27,67% nunca la usa para las sesiones de lectura y el 60,23% nunca acude a la biblioteca del centro."
       ],
       "reflexion": "Sin poesía en la escuela, el lenguaje se vuelve gris y el corazón de los niños pierde el ritmo del asombro."
     },
     "marco": {
       "titulo": "Discusión: Hacia un plan lector liberador y plurilingüe",
-      "narrativa": "Permach-Martín y Álvarez-Uria proponen desatar las amarras del libro de texto:",
+      "narrativa": "Permach-Martín, Álvarez-Uria y Etxaniz reclaman pasar del diagnóstico a la acción:",
       "detalles": [
         {
-          "label": "Espacios de Lectura Libre por Placer",
-          "value": "Garantizar 30 minutos diarios innegociables de lectura autónoma y tertulia en todas las escuelas."
+          "label": "Sistematizar la lectura literaria",
+          "value": "Dar pasos hacia la sistematización de la lectura literaria en el contexto escolar, impulsar la creación de planes de lectura, intensificar las estrategias cognitivas y metacognitivas y revisar los currículos de Lengua y Literatura junto con la formación del profesorado."
         }
       ],
       "reflexion": "El mejor maestro de literatura no es el que más exámenes corrige, sino el que más contagia su pasión por los libros."
     },
     "nucleo": {
-      "pregunta": "¿Qué prácticas didácticas y qué concepciones sobre la competencia literaria predominan en las aulas de Educación Primaria del País Vasco y Navarra?",
-      "conclusion": "La investigación con 312 maestros en las Comunidades Vasca y Navarra constata una dependencia excesiva del libro de texto comercial y un grave arrinconamiento de la poesía y el teatro en Primaria. Sin embargo, destaca el papel crucial de las bibliotecas escolares activas y las tertulias dialógicas como los mejores motores de innovación y democratización lectora en contextos bilingües.",
-      "formalRef": "Permach-Martín, N., & Álvarez-Uria, A. (2024). Didáctica de la competencia literaria en Educación Primaria de las Comunidades Vasca y Navarra. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.434"
+      "pregunta": "¿En qué medida se trabaja la competencia literaria según los criterios de los expertos en las escuelas de Educación Primaria con euskera como lengua vehicular de la Comunidad Autónoma Vasca y Navarra?",
+      "conclusion": "El estudio con 553 docentes de 55 centros constata que la mayoría de los centros no sigue los criterios ni aplica de forma generalizada las propuestas didácticas de la literatura científica, sin criterios comunes entre docentes y con una etapa en la que la educación literaria pierde espacio progresivamente hasta volverse anecdótica en el tercer ciclo. Apenas existen diferencias por titularidad o territorio, mientras que las cuatro dimensiones correlacionan positivamente, lo que abre la posibilidad de orientar procesos: los retos pasan por sistematizar la lectura literaria, impulsar planes lectores y reforzar la formación docente.",
+      "formalRef": "Permach-Martín, N., Álvarez-Uria, A., & Etxaniz, X. (2024). Didáctica de la competencia literaria en Educación Primaria de las Comunidades Vasca y Navarra. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.434"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué géneros literarios fundamentales resultaron estar casi completamente arrinconados u olvidados en las aulas de Primaria según los 312 maestros encuestados?",
+          "q": "¿Qué ocurre con la educación literaria a medida que avanza la etapa de Educación Primaria según el estudio?",
           "options": [
-            "La novela policiaca.",
-            "La poesía y el teatro (más del 80 % del tiempo se dedica exclusivamente a la narrativa en prosa).",
-            "El cómic de superhéroes.",
-            "Los cuentos de hadas."
+            "Aumenta: el tercer ciclo es el que más horas dedica a la lectura literaria.",
+            "Pierde espacio en la práctica docente, con resultados preocupantes en el tercer ciclo, donde el 69,4% del profesorado se queda entre media hora y una hora semanal.",
+            "Se mantiene estable en los tres ciclos.",
+            "Desaparece ya desde el primer ciclo."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué elemento escolar demostró ser el factor diferencial que impulsa a los docentes a abandonar el libro de texto comercial y organizar tertulias dialógicas?",
+          "q": "¿En qué dimensión aparecieron diferencias significativas según el tipo de centro (público, religioso, ikastola)?",
           "options": [
-            "El timbre de salida.",
-            "La existencia de una biblioteca escolar activa y dinamizada en el centro.",
-            "Tener una pizarra digital nueva.",
-            "Poner notas más bajas a los alumnos."
+            "En la selección de lecturas.",
+            "En los elementos psicopedagógicos.",
+            "En la evaluación, con mejor rendimiento parcial de las escuelas religiosas (H=11,65; p=.003).",
+            "No aparecieron diferencias en ninguna dimensión."
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "type": "choice",
-          "q": "¿Qué porcentaje de maestros encuestados reconoció que el libro de texto sigue marcando de forma predominante la selección y el ritmo de las lecturas?",
+          "q": "¿Qué reveló el análisis correlacional de Spearman entre las cuatro dimensiones de la competencia literaria?",
           "options": [
-            "Menos del 5 %.",
-            "El 68 % del profesorado.",
-            "Exactamente el 100 %.",
-            "Ningún maestro."
+            "Que todas las dimensiones correlacionan de manera positiva y significativa, lo que contribuye a la posibilidad de orientar procesos.",
+            "Que son totalmente independientes entre sí.",
+            "Que solo correlacionan la selección y la evaluación.",
+            "Que la correlación es negativa conforme avanza el ciclo."
           ],
-          "correct": 1
+          "correct": 0
         },
         {
           "type": "open",
-          "q": "Diseña un plan semanal de 5 sesiones de 15 minutos para reintroducir la poesía oral y el recital dramatizado en una clase de 4.º de Primaria de forma lúdica y sin exámenes."
+          "q": "Ante el descenso del tiempo lector detectado en el tercer ciclo, diseña un plan semanal de lectura literaria para un grupo de 5.º o 6.º de Primaria que recupere sesiones de lectura lúdica y en voz alta sin renunciar a las rutinas del centro."
         },
         {
           "type": "open",
-          "q": "¿Cómo convencerías a un equipo directivo de Primaria de que reservar 30 minutos diarios de lectura por placer mejora el rendimiento académico general más que hacer otra ficha de gramática?"
+          "q": "¿Cómo convencerías a un equipo directivo de Primaria de blindar el tiempo dedicado a la lectura literaria y de impulsar un plan lector de centro, teniendo en cuenta que la literatura 'se percibe y se asimila' y por tanto requiere tiempo y dedicación?"
         }
       ]
     }
@@ -163,11 +163,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "312 maestras y maestros de colegios públicos y concertados responden con sinceridad a un cuestionario exhaustivo.",
+      "text": "553 maestras y maestros de 55 colegios públicos y concertados responden con sinceridad a un cuestionario exhaustivo.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡La poesía y el teatro están olvidados! Pero las bibliotecas escolares activas son el faro que rescata la pasión lectora.",
+      "text": "¡La lectura lúdica y en voz alta caen en el tercer ciclo! Y las bibliotecas de aula existen, pero casi nunca se usan para leer.",
       "position": "bottom-right"
     },
     "marco": {
@@ -188,111 +188,47 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Didáctica Literaria en Primaria (País Vasco y Navarra)",
-    "descripcion": "Estudio empírico (312 docentes): dependencia del libro de texto, arrinconamiento de la poesía, biblioteca escolar y tertulias dialógicas.",
+    "titulo": "Mapa conceptual: Competencia literaria en Primaria vasca y navarra (Ocnos 23(1) 2024)",
+    "descripcion": "Recorrido del estudio: del marco de la competencia literaria, el docente mediador y los currículo del modelo D, al diagnóstico mediante cuestionario a 553 docentes de 55 centros, con sus resultados de débil aplicación de criterios expertos, descenso en el tercer ciclo y correlaciones, hasta los retos de sistematización y formación docente.",
     "nodos": [
-      {
-        "id": "1",
-        "label": "Competencia Literaria en Primaria",
-        "color": "#2a5a75"
-      },
-      {
-        "id": "2",
-        "label": "Muestra de 312 Maestros (Euskadi/Navarra)",
-        "color": "#264653"
-      },
-      {
-        "id": "3",
-        "label": "Dominio del Libro de Texto (68%)",
-        "color": "#c73e1d"
-      },
-      {
-        "id": "4",
-        "label": "Arrinconamiento de Poesía y Teatro",
-        "color": "#e76f51"
-      },
-      {
-        "id": "5",
-        "label": "Hegemonía de la Narrativa en Prosa",
-        "color": "#f4d068"
-      },
-      {
-        "id": "6",
-        "label": "Biblioteca Escolar Activa",
-        "color": "#88b04b"
-      },
-      {
-        "id": "7",
-        "label": "Tertulias Literarias Dialógicas",
-        "color": "#2a9d8f"
-      },
-      {
-        "id": "8",
-        "label": "Modelos Lingüísticos Bilingües",
-        "color": "#5b9eaa"
-      },
-      {
-        "id": "9",
-        "label": "Preguntas de Comprensión Literal",
-        "color": "#9b82c3"
-      },
-      {
-        "id": "10",
-        "label": "Comunidad de Lectores Escolares",
-        "color": "#f4a261"
-      }
+      {"id": "1", "label": "Competencia literaria", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Se adquiere contactando con las obras, disfrutándolas, relacionándolas y evaluándolas, hasta que el alumnado aprenda a leer, disfrute y sea capaz de evaluarse a sí mismo (Cerrillo, 2007). Su desarrollo está condicionado por factores lingüísticos, psicológicos, sociales, históricos y culturales y por elementos como la actitud docente, el propósito, el tiempo, las actividades o el corpus (Aguiar e Silva, 1980; Mendoza, 2004; Colomer et al., 2005)."},
+      {"id": "2", "label": "Docente mediador y buen lector", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "El docente genera situaciones de aprendizaje que promueven la comprensión e interpretación del texto literario y debe intervenir con cuidado y valentía (Mata, 2008). Necesita ser buen lector y transmitir el gusto por la lectura (Prado, 2004; Cerrillo, 2007), porque su formación literaria determina en gran medida el resultado; además, muchos reconocen carecer de preparación para detectar las dificultades lectoras (Egaña, 2010)."},
+      {"id": "3", "label": "Criterios expertos y planes lectores", "color": "#88b04b", "role": "Marco teórico", "descripcion": "Colomer (2002) propone cuatro criterios para seleccionar lecturas: calidad literaria, valores educativos, opiniones y gustos del alumnado y recorrido de su aprendizaje literario. Las bibliotecas de aula, de centro y pública son claves para los hábitos lectores (Serna et al., 2017; Arellano-Yaguas et al., 2022), y los planes lectores orientan contenidos, actividades y objetivos (Santiago y Castro, 2006)."},
+      {"id": "4", "label": "Currículo comunicativo del modelo D", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "Los currículos de ambas comunidades priorizan la capacidad comunicativa y los textos funcionales, dejando la educación literaria en nivel secundario sin recogerla explícitamente en los programas: el texto literario se estudia como recurso o soporte de actividades lingüísticas. Con euskera y castellano como vehiculares, se proponen 4 horas semanales en los cinco primeros cursos y 3,5 en sexto."},
+      {"id": "5", "label": "Diagnóstico de la práctica escolar", "color": "#f4d068", "role": "Objetivo", "descripcion": "El objetivo principal es diagnosticar el desarrollo de la competencia literaria en las escuelas de Primaria de la Comunidad Autónoma Vasca y la Comunidad Foral de Navarra con el euskera como lengua vehicular. Tres preguntas indagan la aplicación de los criterios expertos, las diferencias según titularidad, ciclo y territorio, y la incidencia de los aspectos personales del profesorado."},
+      {"id": "6", "label": "Cuestionario ad hoc de 56 ítems", "color": "#264653", "role": "Método", "descripcion": "El instrumento, elaborado tras revisión bibliográfica y aportes de expertos, tiene 5 bloques y 56 ítems; 35 de escala Likert de cinco niveles miden cuatro dimensiones: elementos psicopedagógicos, selección de lecturas, tipos de lectura y evaluación. La prueba Alfa de Cronbach arrojó .801, dentro del rango de fiabilidad apropiada entre .70 y .95 (Barrios y Cosculluela, 2013)."},
+      {"id": "7", "label": "Muestra de 553 docentes en 55 centros", "color": "#2a5a75", "role": "Método", "descripcion": "Investigación cuantitativa, predictiva, no experimental, interpretativa, descriptiva y correlacional. Participaron 553 docentes —75,6% mujeres— de 55 centros de modelo lingüístico D elegidos aleatoriamente: 53,2% de datos de escuelas públicas, 31,1% de centros religiosos y 16,6% de ikastolas, en Navarra, Gipuzkoa, Bizkaia y Araba, cumplimentado por todo el profesorado y no solo por interesados."},
+      {"id": "8", "label": "Análisis estadístico con SPSS 26", "color": "#5b9eaa", "role": "Método", "descripcion": "Se aplicó estadística descriptiva —medias y desviaciones— y analítica con contrastes de hipótesis. Al no mostrar la muestra distribución normal en la prueba de Kolmogorov-Smirnov (p < .05), se usaron la U de Mann-Whitney y la prueba de Kruskal-Wallis para las diferencias, y la correlación de Spearman para las interrelaciones, con nivel de significación de .05."},
+      {"id": "9", "label": "Débil aplicación de los criterios expertos", "color": "#c73e1d", "role": "Resultados", "descripcion": "La opción a veces es la más recurrente en las cuatro dimensiones, síntoma de un trabajo no sistemático y sin criterios comunes. El 78% declara plan de lectura y el 88,25% biblioteca de aula, pero el 60,23% nunca usa la biblioteca del centro y el 40,14% dedica una hora semanal; la mayoría propone entre 0 y 6 libros al año (66,11%) y el alumnado elige los textos sin supervisión docente (62%, 64% y 54% por ciclos)."},
+      {"id": "10", "label": "Sin diferencias por titularidad o territorio", "color": "#e76f51", "role": "Resultados", "descripcion": "Kruskal-Wallis solo halla significación en evaluación (H=11,65; p=.003), con mejor rendimiento parcial de las escuelas religiosas. Por territorios únicamente difieren los elementos psicopedagógicos —Gipuzkoa frente a Bizkaia (p=.001) y Navarra (p=.002), con más tiempo lector y uso de bibliotecas guipuzcoano—. En tres de las cuatro dimensiones ambas comunidades trabajan de forma similar."},
+      {"id": "11", "label": "Descenso literario en el tercer ciclo", "color": "#f4a261", "role": "Resultados", "descripcion": "Existen diferencias significativas entre ciclos en tres dimensiones (p = .000): en el primer ciclo el 58,9% dedica entre hora y media y más de dos horas semanales, mientras en el tercero el 69,4% se queda entre media hora y una. Las lecturas lúdicas caen del 60% al 44%, igual que la lectura en voz alta del docente y la compartida, que el 76% del tercer ciclo solo propone alguna vez."},
+      {"id": "12", "label": "Correlaciones positivas entre dimensiones", "color": "#9b82c3", "role": "Resultados", "descripcion": "Todas las dimensiones correlacionan positiva y significativamente con Spearman: desde .132 entre elementos psicopedagógicos y evaluación hasta .501 entre selección de lecturas y tipos de lectura (p = .000). El análisis cuantifica la intensidad de las relaciones y define patrones de comportamiento que contribuyen a la posibilidad de orientar procesos."},
+      {"id": "13", "label": "Incidencia de hábitos y formación docente", "color": "#e76f51", "role": "Resultados", "descripcion": "El 60,58% del profesorado no ha recibido formación extra y las correlaciones bajan de intensidad cuando el centro carece de plan lector. Quienes otorgan menor importancia a la educación literaria no trabajan igual las dimensiones, y los hábitos lectores —solo el 13,10% lee siempre literatura de gusto— inciden en la práctica, coincidiendo con Munita (2013) y Díaz-Díaz et al. (2022)."},
+      {"id": "14", "label": "Distancia entre teoría y práctica", "color": "#9b82c3", "role": "Discusión", "descripcion": "Las escuelas del modelo D no siguen de forma generalizada las propuestas de los expertos ni comparten criterios: cada docente entiende la educación literaria a su manera. Se le resta importancia al avanzar la etapa una vez adquirida la descodificación, con la lectura literaria casi anecdótica en tercero, en línea con Alonso (2008), Caride et al. (2018) y las alertas de PISA (2018) sobre la comprensión lectora insuficiente en el modelo D (Consejo Escolar de Euskadi, 2022)."},
+      {"id": "15", "label": "Retos: sistematización y formación docente", "color": "#2a5a75", "role": "Conclusiones", "descripcion": "El estudio demuestra empíricamente que la didáctica de la literatura no se trabaja de manera coordinada ni planificada, y no figura entre las prioridades docentes ni curriculares. Los retos: sistematizar la lectura literaria en el contexto escolar, impulsar los planes de lectura, intensificar estrategias cognitivas y metacognitivas, y revisar los currículos de Lengua y Literatura junto con la formación del profesorado."}
     ],
     "aristas": [
-      {
-        "from": "2",
-        "to": "1",
-        "label": "evalúa las prácticas de enseñanza de la"
-      },
-      {
-        "from": "2",
-        "to": "3",
-        "label": "constata una dependencia del"
-      },
-      {
-        "from": "3",
-        "to": "9",
-        "label": "fomenta rutinas mecánicas de"
-      },
-      {
-        "from": "2",
-        "to": "4",
-        "label": "denuncia el grave"
-      },
-      {
-        "from": "4",
-        "to": "5",
-        "label": "conduce a una monótona"
-      },
-      {
-        "from": "6",
-        "to": "1",
-        "label": "transforma e innova la"
-      },
-      {
-        "from": "6",
-        "to": "7",
-        "label": "impulsa la celebración de"
-      },
-      {
-        "from": "2",
-        "to": "8",
-        "label": "se contextualiza en diversos"
-      },
-      {
-        "from": "10",
-        "to": "6",
-        "label": "nace y florece alrededor de la"
-      },
-      {
-        "from": "10",
-        "to": "7",
-        "label": "se nutre semanalmente con las"
-      }
+      {"from": "1", "to": "5", "label": "es el objeto del"},
+      {"from": "4", "to": "5", "label": "condiciona el"},
+      {"from": "5", "to": "6", "label": "se operativiza mediante el"},
+      {"from": "5", "to": "7", "label": "se recoge en la"},
+      {"from": "6", "to": "8", "label": "se procesó con la"},
+      {"from": "7", "to": "8", "label": "aportó las respuestas a la"},
+      {"from": "8", "to": "9", "label": "reveló la"},
+      {"from": "8", "to": "10", "label": "evidenció la ausencia de"},
+      {"from": "8", "to": "11", "label": "detectó el"},
+      {"from": "8", "to": "12", "label": "cuantificó las"},
+      {"from": "8", "to": "13", "label": "relacionó la práctica con la"},
+      {"from": "4", "to": "9", "label": "explica en parte la"},
+      {"from": "3", "to": "9", "label": "contrasta con la"},
+      {"from": "9", "to": "14", "label": "evidencian la"},
+      {"from": "10", "to": "14", "label": "avalan la"},
+      {"from": "11", "to": "14", "label": "ratifican la"},
+      {"from": "12", "to": "14", "label": "refuerzan la"},
+      {"from": "14", "to": "15", "label": "plantean los"},
+      {"from": "13", "to": "15", "label": "exigen reforzar la"},
+      {"from": "2", "to": "13", "label": "condiciona la"},
+      {"from": "2", "to": "3", "label": "debe aplicar los"}
     ]
   }
 }

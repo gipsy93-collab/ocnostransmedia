@@ -2,7 +2,7 @@
   "id": "movimientos_oculares_dislexia",
   "metadata": {
     "title": "Los movimientos oculares, un camino para comprender las dificultades en el procesamiento de la lectura",
-    "authors": "Karina-Viviana Rodríguez y Liliana Fonseca",
+    "authors": "Karina-Viviana Rodríguez, Liliana Fonseca, Francisco-Ramiro Iaconis, Jessica Del-Punta y Gustavo Gasaneo",
     "year": "2025",
     "journal": "Ocnos 24(1)",
     "doi": "10.18239/ocnos_2025.24.1.488",
@@ -12,18 +12,18 @@
     "color": "#2a9d8f",
     "colorAlt": "#2a5a75",
     "bg": "from-teal-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-27.png",
+    "image": "/assets/portadas/movimientos_oculares_dislexia.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-27.png",
       "name": "Dra. Karina-Viviana Rodríguez",
-      "role": "Investigadora en Neuropsicología y Seguimiento Ocular (Eye-Tracking), Universidad de Buenos Aires"
+      "role": "Investigadora en Seguimiento Ocular (Eye-Tracking) y Procesos de Lectura, Universidad Nacional del Sur, Argentina"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Karina-Viviana Rodríguez, neuropsicóloga cognitiva especialista en tecnología Eye-Tracking",
+      "personaje": "Dra. Karina-Viviana Rodríguez, investigadora en seguimiento ocular y procesos de lectura (Universidad Nacional del Sur, Argentina)",
       "gancho": "¿Es la mirada del lector disléxico errática por un fallo visual o por una sobrecarga de su procesador fonológico?",
-      "contexto": "Durante décadas se especuló erróneamente con que la dislexia era un problema de visión u óptica (las letras 'bailaban'). La tecnología moderna de registro de movimientos oculares (Eye-Tracking) permite monitorizar milisegundo a milisegundo las fijaciones, sacadas y regresiones. Este estudio comparó a escolares disléxicos con lectores normotípicos leyendo textos en español (una lengua de ortografía transparente), demostrando cómo los ojos reflejan de forma exacta las dificultades de decodificación subléxica y acceso léxico.",
+      "contexto": "Durante décadas se especuló erróneamente con que la dislexia era un problema de visión u óptica (las letras 'bailaban'). La tecnología de registro de movimientos oculares (Eye-Tracking) permite monitorizar las fijaciones, sacadas y regresiones. Este estudio comparó los movimientos oculares de 36 niños de 9-10 años —11 con dislexia diagnosticada y 25 lectores neurotípicos— durante la lectura en voz alta de palabras y textos en español, una lengua de ortografía transparente, mostrando cómo los ojos reflejan las dificultades de decodificación subléxica y de acceso léxico.",
       "deepDives": [
         {
           "id": "eye-apertura-1",
@@ -35,23 +35,23 @@
           "id": "eye-apertura-2",
           "triggerLabel": "La transparencia del español",
           "type": "theory",
-          "content": "A diferencia del inglés (opaco), en español la correspondencia grafema-fonema casi perfecta permite analizar con gran pureza la velocidad del procesador fonológico."
+          "content": "En español la correspondencia fonema-grafema es casi biunívoca, con excepciones acentuadas en el rioplatense (c, s, z y homófonos), por lo que en la dislexia el rasgo distintivo es la velocidad lectora más que la precisión."
         }
       ]
     },
     "conflicto": {
       "problema": "Las pruebas tradicionales solo miden el tiempo total y los aciertos finales, ocultando si el niño se frena en palabras largas, se pierde en los saltos de línea o regresa compulsivamente sobre sílabas ya leídas.",
-      "porQueImporta": "Conocer la cinemática ocular exacta permite diseñar entrenamientos específicos para afinar los movimientos sacádicos y la automatización lectora.",
+      "porQueImporta": "Conocer la cinemática ocular aporta información en tiempo real sobre los procesos lectores y puede sumarse a las herramientas existentes para un diagnóstico temprano que guíe estrategias compensatorias.",
       "dataPoints": [
-        "Muestra de niños disléxicos pareados por edad con lectores normotípicos.",
-        "Duración de fijación significativamente mayor en dislexia (hasta un 45% más de tiempo por palabra).",
-        "Triplicación de las regresiones sacádicas (volver atrás para intentar resolver la palabra).",
+        "Muestra de 36 niños de 9-10 años: 11 con dislexia diagnosticada y 25 lectores típicos de 4.º grado del Área Metropolitana de Buenos Aires.",
+        "La duración de las fijaciones apenas difiere entre grupos (223 ms en disléxicos frente a 222 ms en típicos).",
+        "La proporción de regresiones es similar (31% y 30%), pero al realizarse más movimientos, su número total es mayor en el grupo con dislexia.",
         "Fijaciones múltiples en el interior de una misma palabra en lugar de una sola fijación central óptima."
       ],
       "glossary": [
         {
           "term": "Fijación ocular",
-          "definition": "Detención de la mirada de 200 a 300 milisegundos en la que la fóvea visual enfoca las letras y el cerebro decodifica el significado."
+          "definition": "Detención de la mirada de 150 a 300 milisegundos, unos 275 ms en lectura en voz alta, en la que la fóvea visual enfoca las letras y el cerebro decodifica el significado."
         },
         {
           "term": "Regresión sacádica",
@@ -60,65 +60,65 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Registro de infrarrojos a 300 Hz de frecuencia",
-      "narrativa": "Los participantes leyeron textos en pantalla mientras un seguidor ocular de alta precisión registraba las coordenadas de la pupila y el reflejo corneal sin contacto invasivo.",
+      "titulo": "Ruta metodológica: Registro con luz infrarroja a 90 Hz",
+      "narrativa": "Los participantes leyeron en voz alta una lista de palabras y un texto en pantalla mientras un sensor de luz infrarroja, sin contacto físico, grababa las coordenadas de la pupila mediante la plataforma web PSIMESH.",
       "detalles": [
         {
           "label": "Tecnología",
-          "value": "Eye-Tracker infrarrojo de mesa a 300 Hz."
+          "value": "Eye-tracker infrarrojo con cámara en la plataforma PSIMESH (Centro Integral de Neurociencias Aplicadas, Bahía Blanca), con muestreo de 90 Hz y monitor de 17 pulgadas."
         },
         {
           "label": "Textos",
-          "value": "Oraciones y párrafos calibrados por frecuencia y longitud de palabras."
+          "value": "La lista de 42 palabras del test LEE (26 complejas, 8 simples y 8 con grupo consonántico) y el texto expositivo 'Los delfines', de 86 palabras."
         }
       ],
       "limitaciones": [
-        "Equipamiento de laboratorio de alto coste económico no disponible habitualmente en colegios."
+        "No se aplicaron pruebas previas que evaluaran el estado visual o el vocabulario de los participantes, y se trata de un primer trabajo con estadística descriptiva."
       ],
       "reflexion": "La mirada es la ventana que desvela en tiempo real cómo el cerebro descifra el misterio del código escrito."
     },
     "revelacion": {
       "titulo": "Hallazgos empíricos: La anatomía del esfuerzo disléxico",
-      "narrativa": "Los mapas de calor y trayectorias oculares fueron concluyentes:",
+      "narrativa": "Los registros de fijaciones y trayectorias oculares fueron concluyentes:",
       "hallazgos": [
         {
           "label": "1. Segmentación Sílaba a Sílaba",
-          "value": "Mientras el lector normotípico hace una fijación por palabra, el niño con dislexia fija la mirada en cada sílaba e incluso en cada grafema."
+          "value": "Mientras el lector neurotípico suele hacer una fijación en el centro de la palabra, el niño con dislexia la fragmenta en subunidades pequeñas —tres o cuatro segmentos— que debe recomponer de manera secuencial."
         },
         {
           "label": "2. Las Regresiones no son Capricho",
-          "value": "Las regresiones ocurren cuando el ensamblaje fonológico colapsa, obligando a reintentar la lectura de la palabra."
+          "value": "Las regresiones ocurren cuando la decodificación falla, obligando a releer el texto para reconocer las palabras y acceder a su significado."
         }
       ],
       "dataPoints": [
-        "Diferencia altamente significativa en la amplitud sacádica (p < .001) entre ambos grupos."
+        "Diferencia significativa en la amplitud sacádica (p < ,05 en el test U de Mann-Whitney): mediana de 0,54 en disléxicos frente a 1,06 en neurotípicos, casi la mitad."
       ],
-      "reflexion": "El niño disléxico no es vago ni despistado: sus ojos trabajan el triple para lograr lo que otros hacen sin esfuerzo."
+      "reflexion": "El niño disléxico no es vago ni despistado: sus ojos necesitan casi el doble de tiempo para lograr lo que otros hacen sin esfuerzo."
     },
     "marco": {
-      "titulo": "Discusión: Hacia el cribado ocular precoz asistido por IA",
-      "narrativa": "Rodríguez y Fonseca anticipan el futuro del diagnóstico lector:",
+      "titulo": "Discusión: Hacia el cribado ocular precoz con apoyo computacional",
+      "narrativa": "Rodríguez, Fonseca, Iaconis, Del-Punta y Gasaneo anticipan nuevas líneas para el diagnóstico lector:",
       "detalles": [
         {
-          "label": "Cámaras Web y Diagnóstico",
-          "value": "El avance del software permitirá convertir las cámaras web de los ordenadores escolares en evaluadores de movimientos oculares."
+          "label": "Eye-tracking escolar y clínico",
+          "value": "Con el software y el dispositivo adecuados, el registro ocular es de uso accesible y valioso en la escuela y la clínica, y se complementa con física estadística y machine learning que ya separan ambos grupos a partir de complejidad y entropía."
         }
       ],
       "reflexion": "Comprender la neurobiología de la mirada es el primer paso para enseñar con infinita empatía."
     },
     "nucleo": {
-      "pregunta": "¿Qué patrones cinemáticos oculares diferencian la lectura en español de niños disléxicos frente a lectores normotípicos?",
-      "conclusion": "El estudio con seguimiento ocular (Eye-Tracking) demuestra que los niños disléxicos presentan fijaciones oculares más largas, menor amplitud sacádica y un incremento drástico de regresiones, realizando múltiples fijaciones por palabra. Estos biomarcadores visuales confirman que la dificultad no es óptica sino fonológica, reflejando el sobreesfuerzo del procesador mental para ensamblar grafemas y acceder al léxico.",
-      "formalRef": "Rodríguez, K. V., & Fonseca, L. (2025). Los movimientos oculares, un camino para comprender las dificultades en el procesamiento de la lectura. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.488"
+      "pregunta": "¿Qué patrones cinemáticos oculares diferencian la lectura en español de niños disléxicos frente a lectores neurotípicos?",
+      "conclusion": "El estudio con seguimiento ocular (Eye-Tracking) demuestra que los niños disléxicos requieren más tiempo (90,8 s frente a 51,9 s de mediana), realizan más fijaciones (207 frente a 137) y más regresiones, con sacadas más cortas y lentas, aunque la duración de cada fijación es similar. Estos indicadores reflejan un procesamiento subléxico y fonológico menos eficiente —el niño lee las palabras como si fueran pseudopalabras—, no un problema óptico, y podrían sumarse a las herramientas actuales de diagnóstico de la dislexia.",
+      "formalRef": "Rodríguez, K. V., Fonseca, L., Iaconis, F. R., Del-Punta, J., & Gasaneo, G. (2025). Los movimientos oculares, un camino para comprender las dificultades en el procesamiento de la lectura. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.488"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué patrón en los movimientos oculares caracteriza la lectura de los escolares con dislexia frente a los normotípicos según el estudio?",
+          "q": "¿Qué patrón en los movimientos oculares caracteriza la lectura de los escolares con dislexia frente a los neurotípicos según el estudio?",
           "options": [
             "Fijaciones más cortas y mirada perfectamente recta.",
-            "Fijaciones significativamente más largas, menor amplitud sacádica y una tasa mucho más alta de regresiones sobre las palabras.",
+            "Más fijaciones y más tiempo de lectura, con sacadas más cortas y lentas y un número total mayor de regresiones.",
             "Ojos completamente cerrados durante la lectura.",
             "Ninguna diferencia cinemática."
           ],
@@ -148,7 +148,7 @@
         },
         {
           "type": "open",
-          "q": "Imagina que eres maestro y un alumno tarda el doble en leer en voz alta y se pierde frecuentemente en la línea. Basándote en este estudio, ¿qué adaptaciones visuales (tipografía, interlineado, guías de lectura) le aplicarías?"
+          "q": "Imagina que eres maestro y un alumno tarda casi el doble en leer en voz alta un texto breve. Basándote en este estudio, ¿por qué conviene enfocar la intervención en el reconocimiento de palabras y el procesamiento lingüístico más que en corregir los movimientos oculares?"
         },
         {
           "type": "open",
@@ -167,15 +167,15 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Registramos las trayectorias de lectura de niños en español con cámaras infrarrojas de alta precisión.",
+      "text": "Registramos la mirada de 36 niños leyendo en voz alta palabras y un texto en español, con luz infrarroja y sin contacto.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Fijaciones más largas y el triple de regresiones! El niño con dislexia debe recomponer la palabra sílaba a sílaba.",
+      "text": "¡Casi el doble de tiempo y 70 fijaciones más! El niño con dislexia debe recomponer la palabra en subunidades.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "El futuro del diagnóstico pasa por convertir la cámara del ordenador en un termómetro de la fluidez lectora.",
+      "text": "El eye-tracking, con el software adecuado, puede sumar precisión al diagnóstico lector en la escuela y la clínica.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -192,110 +192,222 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Movimientos Oculares (Eye-Tracking) y Procesamiento en Dislexia",
-    "descripcion": "Estudio psicofisiológico en español: fijaciones oculares, amplitud sacádica, regresiones, ortografía transparente y acceso léxico.",
+    "titulo": "Mapa conceptual: Movimientos oculares y dislexia en la lectura en español (Ocnos 24(1) 2025)",
+    "descripcion": "Recorrido del artículo: de la definición de dislexia y la transparencia ortográfica del español, al registro de movimientos oculares de 36 niños con el test LEE, los hallazgos sobre fijaciones, sacadas y regresiones, y sus implicaciones diagnósticas y limitaciones.",
     "nodos": [
       {
         "id": "1",
-        "label": "Movimientos Oculares (Eye-Tracking)",
-        "color": "#2a9d8f"
+        "label": "Dislexia, dificultad específica de aprendizaje",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Afecta entre el 5% y el 10% de la población (Carrillo-Gallego et al., 2011; Catts et al., 2024) y se define por dificultades persistentes en reconocimiento de palabras, decodificación y ortografía, con origen en un déficit fonológico probable base neurobiológica (Asociación Internacional de Dislexia; APA, 2013)."
       },
       {
         "id": "2",
-        "label": "Dislexia del Desarrollo",
-        "color": "#2a5a75"
+        "label": "Español, lengua de ortografía transparente",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Seymour et al. (2003) clasificaron las ortografías europeas y describieron el español con correspondencia casi biunívoca fonema-grafema. En dislexia, la transparencia hace que el rasgo distintivo sea la velocidad lectora más que la precisión (Defior, 2020; Wolf et al., 2024)."
       },
       {
         "id": "3",
-        "label": "Duración de Fijaciones (+45%)",
-        "color": "#e76f51"
+        "label": "Fijaciones y sacadas en la lectura",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Las fijaciones duran unos 225 ms en lectura silenciosa y 275 ms en voz alta (Rayner, 1998); las sacadas abarcan 7-9 caracteres y el 10-15% son regresiones (Holmqvist et al., 2011). Los movimientos oculares infantiles alcanzan nivel adulto a los 10-12 años (Blythe y Joseph, 2011)."
       },
       {
         "id": "4",
-        "label": "Regresiones Sacádicas Múltiples",
-        "color": "#c73e1d"
+        "label": "Eye tracker como registro ocular",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Dispositivos con luz infrarroja y cámara graban la posición de la mirada sin contacto (Duchowski, 2017). Los movimientos oculares no causan la falta de habilidad lectora, sino que reflejan los procesos subyacentes (Rello y Ballesteros, 2015; Pirozzolo y Rayner, 1979)."
       },
       {
         "id": "5",
-        "label": "Segmentación Subléxica (Sílabas)",
-        "color": "#88b04b"
+        "label": "Identificar variables para diagnosticar dislexia",
+        "color": "#c73e1d",
+        "role": "Objetivo",
+        "descripcion": "El estudio busca las variables derivadas del registro ocular que, junto a las existentes, permitan diagnosticar la dislexia y diferenciar a un mal lector de un lector disléxico, para guiar tempranamente estrategias compensatorias."
       },
       {
         "id": "6",
-        "label": "Ortografía Transparente (Español)",
-        "color": "#5b9eaa"
+        "label": "Muestra de 36 niños de 9-10 años",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "25 lectores típicos de 4.º grado de una escuela de nivel socioeconómico medio del AMBA (Argentina) y 11 niños con dislexia diagnosticada por psicopedagogos de la misma zona. Hubo consentimiento informado parental y asentimiento infantil."
       },
       {
         "id": "7",
-        "label": "Sobrecarga del Procesador Fonológico",
-        "color": "#f4d068"
+        "label": "Lectura en voz alta con test LEE",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Leyeron la lista de 42 palabras (26 complejas, 8 simples, 8 con grupo consonántico) de Lectura de palabras y el texto expositivo Los delfines, de 86 palabras, de Comprensión de textos del test LEE (Defior et al., 2006) en un monitor de 17 pulgadas."
       },
       {
         "id": "8",
-        "label": "Demora en el Acceso Léxico",
-        "color": "#9b82c3"
+        "label": "Plataforma PSIMESH a 90 Hz",
+        "color": "#f4a261",
+        "role": "Método",
+        "descripcion": "Los textos se presentaron en la plataforma web PSIMESH del Centro Integral de Neurociencias Aplicadas (CINA, Bahía Blanca), que graba audio y mirada: tras la calibración, el sensor infrarrojo registró coordenadas temporales de la fijación a 90 Hz."
       },
       {
         "id": "9",
-        "label": "Desmitificación de Defectos Visuales",
-        "color": "#264653"
+        "label": "Análisis con medianas y Mann-Whitney",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Sin evidencia de distribución gaussiana, se trabajó con medianas y test U de Mann-Whitney (p<0,05), análisis de potencia (0,93 para tiempo; 0,92 para número de fijaciones) y correlación de Spearman. Se contrastaron además los patrones de dos sujetos representativos (S1 y S2)."
       },
       {
         "id": "10",
-        "label": "Adaptaciones Tipográficas y Apoyo",
-        "color": "#f4a261"
+        "label": "Mayor número de fijaciones y tiempo",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "En Los delfines, los disléxicos promediaron 207 fijaciones frente a 137 de los neurotípicos y 90,8 s de lectura frente a 51,9 s (p<0,05 ambas). ambas variables correlacionan fuertemente (Spearman r=0,91) y resultan indicadores sensibles de la categoría grupal."
+      },
+      {
+        "id": "11",
+        "label": "Sacadas más cortas y lentas",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "La amplitud sacádica mediana de los disléxicos es casi la mitad (0,54 frente a 1,06 um; p<0,05) y sus velocidades media y máxima menores, en avances y retrocesos por igual. La proporción de regresiones es similar (31% frente a 30%), pero su número total es mayor en disléxicos."
+      },
+      {
+        "id": "12",
+        "label": "Duración de fijación similar entre grupos",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "La mediana de duración de las fijaciones apenas difiere (223 ms en disléxicos frente a 222 ms en típicos): la mayor demora lectora no proviene del tiempo por fijación sino de la cantidad de fijaciones necesarias."
+      },
+      {
+        "id": "13",
+        "label": "Tres lectores típicos en rango disléxico",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Tres niños no diagnosticados presentaron número de fijaciones y tiempo de lectura dentro del rango disléxico (figura 6), señal útil para derivar evaluaciones exhaustivas en el ámbito educativo y psicopedagógico."
+      },
+      {
+        "id": "14",
+        "label": "Procesamiento subléxico y modelo doble ruta",
+        "color": "#2a5a75",
+        "role": "Discusión",
+        "descripcion": "Los resultados coinciden con De Luca et al. (2002): los disléxicos leen palabras como pseudopalabras, con unidades pequeñas y decodificación grafema-fonema, reflejo de debilidad fonológica y léxica (Castles y Coltheart, 1993; Cuetos-Vega, 2010). Los movimientos oculares se regularizan al mejorar el procesamiento lingüístico."
+      },
+      {
+        "id": "15",
+        "label": "Herramienta accesible escolar y clínica",
+        "color": "#88b04b",
+        "role": "Conclusiones",
+        "descripcion": "El eye-tracking identifica características que diferencian la decodificación en español entre disléxicos y neurotípicos y, con software y dispositivo adecuados, es de uso accesible y valioso en escuela y clínica. Los autores anticipan estudios con física estadística y machine learning que separan ambos grupos."
+      },
+      {
+        "id": "16",
+        "label": "Sin pruebas visuales ni de vocabulario previas",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "El estudio señala como limitación la ausencia de pruebas previas que evalúen el estado visual o el vocabulario de los participantes, y se presenta como primer trabajo con estadística descriptiva sobre esta muestra."
       }
     ],
     "aristas": [
       {
-        "from": "1",
-        "to": "2",
-        "label": "analiza la cinemática en la"
-      },
-      {
-        "from": "2",
-        "to": "3",
-        "label": "presenta un notable aumento en la"
-      },
-      {
-        "from": "2",
-        "to": "4",
-        "label": "sufre una multiplicación de"
-      },
-      {
         "from": "3",
-        "to": "5",
-        "label": "es causada por la lenta"
-      },
-      {
-        "from": "7",
-        "to": "3",
-        "label": "dispara directamente la"
-      },
-      {
-        "from": "7",
         "to": "4",
-        "label": "provoca la necesidad de"
+        "label": "se registran mediante el"
+      },
+      {
+        "from": "2",
+        "to": "1",
+        "label": "condiciona el perfil de velocidad en la"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "impulsa la identificación de"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se ejecuta en una"
       },
       {
         "from": "6",
         "to": "7",
-        "label": "evidencia con nitidez la"
+        "label": "realizó la"
       },
       {
-        "from": "1",
-        "to": "9",
-        "label": "aporta pruebas definitivas para la"
+        "from": "6",
+        "to": "8",
+        "label": "fue registrado con la"
+      },
+      {
+        "from": "2",
+        "to": "7",
+        "label": "tuvo como antecedente instrumental el"
       },
       {
         "from": "8",
-        "to": "2",
-        "label": "constituye el cuello de botella en la"
+        "to": "9",
+        "label": "entregó sus series temporales al"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "detectó un"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "evidenció"
+      },
+      {
+        "from": "9",
+        "to": "12",
+        "label": "constató que la"
       },
       {
         "from": "10",
-        "to": "3",
-        "label": "alivia y reduce la fatiga en la"
+        "to": "12",
+        "label": "proviene del número de fijaciones y no de la"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "se interpreta desde el"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "confirma el"
+      },
+      {
+        "from": "13",
+        "to": "10",
+        "label": "reproduce el patrón de"
+      },
+      {
+        "from": "13",
+        "to": "5",
+        "label": "refuerza la utilidad buscada de las"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "deriva en el potencial de la"
+      },
+      {
+        "from": "15",
+        "to": "4",
+        "label": "revalida al"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "acota la solidez de la"
+      },
+      {
+        "from": "16",
+        "to": "10",
+        "label": "condiciona la lectura de los"
       }
     ]
   }

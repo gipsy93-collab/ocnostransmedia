@@ -1,0 +1,376 @@
+{
+  "id": "influencia_materna_inteligencia_emocional_competencia_lectora",
+  "metadata": {
+    "title": "La influencia materna en la inteligencia emocional y la competencia lectora de sus hijos",
+    "authors": "Elena Jiménez-Pérez, Natalia Martínez-León y Roberto Cuadros-Muñoz",
+    "year": "2020",
+    "journal": "Ocnos 19(1)",
+    "doi": "10.18239/ocnos_2020.19.1.2187",
+    "gancho": "¿Cómo influyen los hábitos de lectura de la madre en la inteligencia emocional y la comprensión lectora de sus hijos adolescentes?",
+    "duration": "12-15 min",
+    "badge": "Socialización Familiar y Mediación Emocional",
+    "disciplina": "Didáctica de la Lengua y Psicología de la Educación",
+    "dimensiones": [
+      "Hábitos Lectores Maternos (HLM)",
+      "Inteligencia Emocional (WLEIS)",
+      "Competencia Lectora PISA (ComLEC)",
+      "Modelo de Mediación Moderada"
+    ],
+    "tags": [
+      "influencia_materna",
+      "inteligencia_emocional",
+      "competencia_lectora",
+      "adolescentes_eso",
+      "mediacion_moderada",
+      "genero_lectura"
+    ],
+    "pistas": [
+      "Investigación con 644 adolescentes andaluces de Educación Secundaria Obligatoria en institutos públicos de Málaga y Granada.",
+      "Administración digital de la prueba ComLEC (tipo PISA), escala de inteligencia emocional WLEIS y cuestionario MECD de contexto.",
+      "Modelo de mediación moderada comprobado con bootstrapping: el efecto del sexo sobre la lectura a través de la IE depende de los hábitos maternos.",
+      "Las adolescentes con mayor inteligencia emocional e hijas de madres con hábito lector consolidado obtienen las calificaciones más altas."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "El fomento del hábito lector suele concentrarse en las aulas, pero la familia —y en particular la figura materna como modelo cultural primario— ejerce una impronta socioafectiva profunda sobre el rendimiento de los adolescentes.",
+      "desafio": "Comprobar empíricamente si la relación entre el sexo del estudiante y su competencia lectora está mediada por la inteligencia emocional y moderada por los hábitos de lectura de la madre.",
+      "relevancia": "Aporta evidencia cuantitativa decisiva para fundamentar planes lectores que integren la alfabetización emocional de los jóvenes y promuevan comunidades lectoras familiares en el hogar."
+    },
+    "conflicto": {
+      "pregunta": "¿De qué modo interactúan los hábitos de lectura materna, la inteligencia emocional y el sexo en la determinación de la competencia lectora adolescente?",
+      "posiciones": [
+        "Enfoque academicista cognitivo: la competencia lectora es una destreza intelectual puramente técnica desvinculada de la afectividad familiar.",
+        "Modelo socioafectivo y ecológico: la lectura es una práctica cultural vicaria donde la resonancia afectiva materna y la inteligencia emocional potencian la comprensión."
+      ],
+      "tension": "La tensión entre la persistente brecha de género que favorece a las mujeres en lectura y la necesidad de activar palancas de socialización lectora eficaces para los varones.",
+      "deepDives": [
+        {
+          "id": "mat-conf-1",
+          "triggerLabel": "La literatura como cuna de la inteligencia emocional",
+          "type": "context",
+          "content": "Como sostuvieron Mayer y Salovey, la literatura proporciona el escenario vicario idóneo para calibrar emociones complejas; una madre lectora refuerza este puente al comentar historias y verbalizar estados anímicos."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Diseño cuantitativo de mediación moderada con 644 estudiantes andaluces",
+      "narrativa": "El equipo evaluó a 644 discentes de 4.º de ESO en cinco centros públicos de Málaga y Granada mediante una plataforma web digital, aplicando ComLEC (20 preguntas tipo PISA), WLEIS (16 ítems de IE) y el cuestionario MECD de contexto lector familiar.",
+      "detalles": [
+        {
+          "label": "Muestra adolescente",
+          "value": "644 estudiantes (303 varones y 341 mujeres) de 4.º de ESO pertenecientes a institutos públicos de nivel socioeconómico medio."
+        },
+        {
+          "label": "Batería de medición",
+          "value": "Prueba ComLEC (textos continuos y discontinuos), escala de inteligencia emocional WLEIS y módulo de hábitos lectores del MECD."
+        },
+        {
+          "label": "Tratamiento analítico",
+          "value": "Modelo de mediación moderada con remuestreo bootstrap (5.000 repeticiones) y análisis ANCOVA factorial 2x2 con covariable de IE."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "Existe un efecto de mediación moderada estadísticamente significativo: la inteligencia emocional media la ventaja lectora de las chicas, pero este mecanismo solo alcanza su máxima potencia cuando la madre posee hábitos lectores consolidados.",
+      "datosClave": [
+        {
+          "label": "Índice de mediación moderada",
+          "value": "Índice de .24 con intervalo de confianza bootstrap al 95% [.02, .50] que excluye el cero, confirmando la interacción causal."
+        },
+        {
+          "label": "Efectos en ANCOVA",
+          "value": "Efecto significativo del sexo (ω² = .32, f = 1.01) y de los hábitos maternos (ω² = .33, f = 1.04) sobre la comprensión lectora."
+        },
+        {
+          "label": "Asociación lineal de la IE",
+          "value": "La inteligencia emocional covariante mostró una relación lineal muy intensa con la competencia lectora (F = 21.69, p < .001, ω² = .55)."
+        }
+      ],
+      "implicacion": "Fomentar la lectura en secundaria requiere empoderar los hábitos lectores en el hogar materno e incorporar la educación socioemocional como soporte directo de la comprensión."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "John D. Mayer y Peter Salovey (1997)",
+          "concepto": "Modelo de cuatro ramas de la inteligencia emocional y su vinculación histórica con la experiencia estética y literaria."
+        },
+        {
+          "autor": "Chi-Sum Wong y Kenneth S. Law (2002)",
+          "concepto": "WLEIS: escala de autoinforme de inteligencia emocional en evaluación, uso y regulación afectiva personal e interpersonal."
+        },
+        {
+          "autor": "Vicent Llorens, Eduardo Vidal-Abarca et al. (2011)",
+          "concepto": "Batería ComLEC: instrumento estandarizado de competencia lectora con reactivos de recuperación, integración y reflexión PISA."
+        }
+      ],
+      "enfoque": "Sociología de la educación familiar, psicología diferencial de género y didáctica comunicativa de la lectura.",
+      "sinergia": "La convergencia de la mediación afectiva materna con la alfabetización lectora demuestra la indisociabilidad entre emoción y cognición."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿De qué manera modulan los hábitos lectores de la madre la influencia del sexo y la inteligencia emocional en la competencia lectora juvenil?",
+      "hallazgos": [
+        "Las estudiantes mujeres presentan puntajes superiores tanto en competencia lectora (14.28 vs 13.11) como en inteligencia emocional (5.38 vs 5.05).",
+        "Los hijos de madres con hábito lector activo alcanzan promedios significativamente más altos en comprensión lectora (14.13 vs 13.18).",
+        "La inteligencia emocional covaría de forma lineal y masiva (ω² = .55) con la capacidad de comprender textos continuos y discontinuos.",
+        "El modelo de mediación moderada ratifica que el hábito materno actúa como el catalizador contextual que potencia la inteligencia emocional."
+      ],
+      "conclusion": "El modelado lector materno y la competencia socioemocional constituyen un binomio protector de primer orden para asegurar la excelencia en la comprensión lectora adolescente."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Qué perfil de estudiante obtuvo las puntuaciones más elevadas en competencia lectora según el estudio?",
+          "opciones": [
+            "Varones con baja inteligencia emocional pero acceso a muchas enciclopedias en papel",
+            "Chicas con alta inteligencia emocional y cuyas madres poseen hábitos lectores consolidados",
+            "Estudiantes que leen exclusivamente redes sociales sin supervisión adulta"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El análisis confirmó que las adolescentes con elevada IE y madres lectoras sobresalen significativamente en la prueba ComLEC."
+        },
+        {
+          "pregunta": "¿Qué porcentaje aproximado de varianza en la comprensión lectora fue atribuible de forma independiente al sexo y a los hábitos maternos?",
+          "opciones": [
+            "Menos del 2%, sin significación estadística",
+            "Cerca del 32% atribuible al sexo y del 33% a los hábitos maternos en los análisis de tamaño del efecto ω²",
+            "El 100% exacto en ambos factores"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El ANCOVA arrojó ω² parcial = .32 para el sexo y .33 para los hábitos lectores maternos, categorizados como tamaños de efecto muy grandes."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Influencia Materna, Inteligencia Emocional y Competencia Lectora",
+      "descripcion": "Red analítica que integra el modelo de mediación moderada, los hábitos lectores maternos, la escala WLEIS y el rendimiento ComLEC en 644 adolescentes.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Hábitos Lectores Maternos (HLM)",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Práctica lectora vicaria y cotidiana ejercida por la madre en el hogar, conceptualizada como el modelado cultural primario de socialización lectora con mayor incidencia en el gusto lector filial."
+        },
+        {
+          "id": "2",
+          "label": "Inteligencia Emocional (IE)",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Constructo de Mayer y Salovey operacionalizado por Wong y Law en cuatro dimensiones: valoración propia y ajena de emociones, uso motivacional del afecto y regulación emocional adaptativa."
+        },
+        {
+          "id": "3",
+          "label": "Competencia Lectora PISA",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Capacidad compleja evaluada por ComLEC que demanda recuperar información literal, integrar inferencias globales y reflexionar sobre la forma y el contenido de textos continuos y discontinuos."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Mediación Moderada",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Analizar si la relación entre el sexo del estudiante y su comprensión lectora está mediada por la inteligencia emocional y si dicho efecto indirecto cambia según los hábitos lectores de la madre."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 644 Adolescentes",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Participación de 644 estudiantes (303 chicos y 341 chicas) de 4.º de ESO en cinco centros públicos de Educación Secundaria de Granada y Málaga en Andalucía, de nivel sociocultural medio."
+        },
+        {
+          "id": "6",
+          "label": "Batería ComLEC y WLEIS",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Evaluación psicométrica administrada digitalmente en tres sesiones alternas mediante la prueba ComLEC (20 reactivos, α=.79) y el autoinforme de inteligencia emocional WLEIS (16 ítems, α=.89)."
+        },
+        {
+          "id": "7",
+          "label": "Modelo Estadístico Bootstrap",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Procedimiento de regresión con mediación moderada y remuestreo bootstrap con 5.000 iteraciones al 95% de confianza, complementado con ANCOVA factorial 2x2 controlando la covariable de IE."
+        },
+        {
+          "id": "8",
+          "label": "Ventaja Femenina en Lectura e IE",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Las chicas obtuvieron medias significativamente superiores tanto en competencia lectora (14.28 vs 13.11, p<.01) como en inteligencia emocional autopercibida (5.38 vs 5.05) frente a los varones."
+        },
+        {
+          "id": "9",
+          "label": "Impacto Favorable de Madres Lectoras",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "El alumnado con madres de hábitos lectores positivos promedió puntuaciones más altas en comprensión (14.13 vs 13.18) y en IE (5.69 vs 4.87) comparado con el alumnado cuyas madres no leen."
+        },
+        {
+          "id": "10",
+          "label": "Mediación Moderada Significativa",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Confirmación del índice de mediación moderada (.24, IC bootstrap [.02, .50]), demostrando que el efecto del sexo en la lectura a través de la IE está fuertemente modulado por los hábitos maternos."
+        },
+        {
+          "id": "11",
+          "label": "Gran Tamaño del Efecto (ω² > .30)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "El ANCOVA reveló tamaños de efecto muy grandes para el sexo (ω²=.32, f=1.01) y los hábitos maternos (ω²=.33, f=1.04), con una relación lineal sobresaliente de la covariable IE (F=21.69, ω²=.55)."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: Modelado Vicario Materno",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "La madre actúa como prescriptora afectiva primordial; sus hábitos consolidan un clima hogareño donde la lectura es percibida como una actividad placentera y enriquecedora para la identidad emocional."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Resonancia Emoción-Lectura",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "La capacidad de comprender textos profundos demanda empatía inferencial y autorregulación, procesos que se nutren directamente de una inteligencia emocional desarrollada en el seno familiar."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Alianza Escuela-Familia",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "Las políticas de fomento lector deben superar el aislamiento escolar e incorporar programas de alfabetización y animación lectora dirigidos a madres, complementados con educación emocional."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Muestra No Aleatorizada",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Muestra incidental circunscrita a dos provincias andaluzas sin muestreo probabilístico nacional, requiriéndose extender la investigación al conjunto de la educación obligatoria en España."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Autorreporte Filial",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Medición de los hábitos lectores maternos y de la inteligencia emocional a través del autorreporte de los propios hijos, lo que podría incorporar sesgos de deseabilidad social o subjetividad."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "actúa como moderador en"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "actúa como mediador en"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "constituye variable dependiente de"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se comprueba en"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "responde a instrumentos de"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se analiza mediante"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "identifica diferencias en"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "demuestra ventajas de"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "valida hipótesis de"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "cuantifica potencia en"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "respalda teoría sobre"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "aporta soporte empírico a"
+        },
+        {
+          "from": "8",
+          "to": "13",
+          "label": "sugiere vínculos con"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "reafirma magnitud de"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "orienta diseño de"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "fundamenta necesidad de"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "acota alcance de"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "revela límites de medición con"
+        },
+        {
+          "from": "1",
+          "to": "9",
+          "label": "impulsa directamente"
+        },
+        {
+          "from": "2",
+          "to": "11",
+          "label": "explica gran varianza en"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "registra brecha por género en"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Cómo podrías implicar a las familias —y en especial a las madres— en proyectos de lectura compartida en secundaria?",
+      "enfoque": "Crear clubes de lectura dialógica intergeneracionales donde madres e hijos lean y debatan juntos obras literarias juveniles.",
+      "cierre": "Cuando la lectura se comparte con emoción en el hogar, el libro deja de ser una tarea escolar y se convierte en un vínculo para toda la vida."
+    }
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "id": "literatura_inmigracion_espana_analisis_discursos",
+  "metadata": {
+    "title": "Literatura de la inmigración en España: enfoques, discursos y análisis",
+    "authors": "Barbara Rostecka y Carmen Ascanio-Sánchez",
+    "year": "2021",
+    "journal": "Ocnos 20(3)",
+    "doi": "10.18239/ocnos_2021.20.3.2401",
+    "gancho": "¿Cómo influyen los discursos hegemónicos y el nacionalismo metodológico en la forma en que España lee a los autores inmigrantes?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#264653",
+    "colorAlt": "#f4a261",
+    "bg": "from-ocean-dark/20 to-seaweed/20",
+    "image": "https://picsum.photos/seed/inmigracion-lit/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Barbara Rostecka, socióloga y especialista en literatura comparada",
+      "gancho": "¿Cómo influyen los discursos hegemónicos y el nacionalismo metodológico en la forma en que España lee a los autores inmigrantes?",
+      "contexto": "España conoció una inmigración masiva en los últimos treinta años. Sin embargo, la crítica académica y literaria ha tendido a fragmentar la producción de autores inmigrantes bajo etiquetas biográficas que la ubican en una posición subalterna frente al canon nacional.",
+      "deepDives": [
+        {
+          "id": "inm-ap-1",
+          "triggerLabel": "Inmigración reciente en España",
+          "type": "context",
+          "content": "A diferencia de Francia o Reino Unido, la experiencia migratoria masiva española data de finales del siglo XX, lo que explica la juventud del campo literario y la tardía institucionalización de su estudio."
+        },
+        {
+          "id": "inm-ap-2",
+          "triggerLabel": "El compendio del OPI (2006)",
+          "type": "data",
+          "content": "En el exhaustivo compendio del Observatorio Permanente de la Inmigración (389 páginas), solo dos páginas citaban cultura migrante y apenas seis estudios estaban dedicados a la literatura."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La crítica literaria convencional aplica etiquetas autobiográficas que reducen a los escritores al hecho migratorio, reforzando estereotipos polarizados entre 'la víctima indefensa' o 'el delincuente abusador'.",
+      "porQueImporta": "Superar el nacionalismo metodológico y adoptar un enfoque interseccional permite valorar la complejidad estética y sociopolítica de estas obras, legitimando las voces de los otros sin paternalismos.",
+      "dataPoints": [
+        "Cuarenta años de literatura africana en España fueron interpretados de forma despolitizada según Maroto-Blanco (2019).",
+        "La crítica filológica tradicional reinterpretó las obras migrantes bajo arquetipos clasicistas europeos como mitos religiosos o libros de viajes."
+      ],
+      "glossary": [
+        {
+          "term": "Campo sociocultural",
+          "definition": "Espacio de Sztompka (2002) que sintetiza al individuo con las estructuras históricas y normativas."
+        },
+        {
+          "term": "Nacionalismo metodológico",
+          "definition": "Tendencia a naturalizar el Estado-nación como la frontera única para analizar fenómenos sociales."
+        },
+        {
+          "term": "Herida colonial",
+          "definition": "Categoría de Maroto-Blanco para reivindicar la toma de posición política frente al poder hegemónico."
+        },
+        {
+          "term": "Hábitus transnacional",
+          "definition": "Estratificación de Bourdieu que integra el doble capital cultural y la pertenencia a múltiples espacios."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "inm-conf-1",
+          "triggerLabel": "La dialéctica nosotros-otros",
+          "type": "theory",
+          "content": "La recepción crítica oscila entre la defensa de una sociedad intercultural y el repliegue en una 'Europa-fortaleza' que percibe la diferencia cultural como una amenaza."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Revisión teórica y sistemática de dos decenios de crítica",
+      "narrativa": "Las autoras analizan la producción crítica de 2000 a 2020 cruzando la literatura comparada y la sociología, articulada bajo el modelo del cambio social de Piotr Sztompka.",
+      "detalles": [
+        {
+          "label": "Corpus revisado",
+          "value": "Estudios críticos de los últimos 20 años sobre literatura de la inmigración en España."
+        },
+        {
+          "label": "Disciplinas",
+          "value": "Literatura comparada y Sociología crítica de la cultura."
+        },
+        {
+          "label": "Marco teórico",
+          "value": "Teoría del cambio social y campo sociocultural de Piotr Sztompka (2002)."
+        },
+        {
+          "label": "Ejes analíticos",
+          "value": "Contexto sociohistórico, tipología disciplinar y dimensiones normativas y relacionales."
+        }
+      ],
+      "limitaciones": [
+        "El estudio es una revisión teórica sin trabajo de campo empírico ni protocolo estandarizado de metaanálisis bibliométrico.",
+        "Se señalan carencias en el propio campo revisado: omisión de estudios migratorios transnacionales y excesivo foco biográfico."
+      ],
+      "reflexion": "¿Por qué se premia con el Nobel a escritores exiliados de la Guerra Fría mientras que los escritores de la diáspora poscolonial sufren marginación editorial?",
+      "deepDives": [
+        {
+          "id": "inm-viaje-1",
+          "triggerLabel": "Tesis recientes e interseccionalidad",
+          "type": "example",
+          "content": "Las investigaciones de Séka (2014) y Bellinzis (2018) introducen una mirada renovada al examinar cómo las escritoras inmigrantes gestionan la otredad en el mercado literario transnacional."
+        }
+      ]
+    },
+    "revelacion": {
+      "deepDives": [
+        {
+          "id": "inm-rev-1",
+          "triggerLabel": "La metáfora de la patera",
+          "type": "data",
+          "content": "La crítica sociológica constató que el fenómeno de las pateras fundó una línea de estudios comparativos con los 'balseros cubanos' o 'las espaldas mojadas' (Soler-Espiauba, 2004), mientras Zovko (2019) denunció la imagen polarizada del inmigrante entre la víctima y el aprovechado abusador."
+        }
+      ],
+      "titulo": "Resultados",
+      "narrativa": "",
+      "hallazgos": [
+        {
+          "label": "Hallazgo principal",
+          "value": "Los discursos sobre la literatura de los inmigrantes en España han reforzado dinámicas hegemónicas al folklorizar las obras o reducirlas al testimonio de integración, invisibilizando su potencia contestataria y estética."
+        },
+        {
+          "label": "Evidencia",
+          "value": "La crítica tendió a elogiar a las autoras que encajaban como 'modelo perfecto del crisol cultural español', mientras desatendía la crítica al racismo cotidiano e institucional expresada en la literatura afroespañola."
+        },
+        {
+          "label": "Cita clave",
+          "value": "La crítica debe constantemente autocuestionarse y redefinir sus propios códigos discursivos para no perpetuar la subordinación epistémica de los autores migrantes."
+        }
+      ],
+      "dataPoints": [
+        "Seleccionar obras de autores migrantes por su valor literario y complejidad formal, no como meros panfletos testimoniales.",
+        "Evitar en debates escolares etiquetar al autor exclusivamente por su origen geográfico o condición migratoria.",
+        "Incorporar la perspectiva interseccional (género, clase, raza) al analizar relatos contemporáneos en secundaria y bachillerato."
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión y marco teórico",
+      "narrativa": "La discusión sostiene que los estudios sobre literatura de la inmigración en España apenas inician su andadura y reproducen, sin pretenderlo, dinámicas hegemónicas al folklorizar o reducir las obras al testimonio. Frente al nacionalismo metodológico, las autoras proponen un marco sociocultural amplio e interseccional que reconozca la agencia estética y política de los autores migrantes.",
+      "detalles": [
+        {
+          "label": "Convergencias",
+          "value": "Dialoga con la sociología del cambio social de Sztompka (2002), con la crítica al nacionalismo metodológico de Beck (2004) y Wimmer y Glick-Schiller (2003), y con las aportaciones renovadoras de Maroto-Blanco (2019) y Bellinzis (2018) sobre la 'herida colonial' y el hábitus transnacional."
+        },
+        {
+          "label": "Divergencias",
+          "value": "Cuestiona la tradición filológica que reinterpreta las obras migrantes con arquetipos clasicistas europeos (Andrés-Suárez, Meiss, Bueno-Alonso) y rechaza las etiquetas biográficas fragmentadoras que sitúan al autor en una posición subalterna frente al canon nacional."
+        },
+        {
+          "label": "Aportes",
+          "value": "Propone un marco amplio —el campo sociocultural (socioindividual) de Sztompka— para mapear agentes, redes y discursos hegemónicos, e introduce la exigencia de un enfoque interseccional que reconozca la agencia estética y política de los autores."
+        },
+        {
+          "label": "Puntos ciegos",
+          "value": "Señala la omisión de las herramientas cuantitativas y etnográficas de los estudios migratorios y el exceso de foco en la subjetivación de los autores en detrimento de las estructuras externas; la propia revisión carece de trabajo de campo empírico."
+        },
+        {
+          "label": "Consecuencias",
+          "value": "Advierte que las limitaciones epistemológicas del campo tienen consecuencias sociales, al participar los estudios en la legitimación de las formas de escribir y de los sentidos de vida de los otros."
+        }
+      ],
+      "reflexion": "¿Hasta qué punto la crítica literaria, al etiquetar al autor por su origen, perpetúa la subordinación epistémica que dice querer combatir?",
+      "deepDives": [
+        {
+          "id": "inm-marco-1",
+          "triggerLabel": "Sztompka y el campo socioindividual",
+          "type": "theory",
+          "content": "El campo sociocultural opera como un espacio dinámico donde los agentes transforman valores, códigos normativos y oportunidades vitales mediante la confrontación dialógica de discursos."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo se han construido los discursos críticos sobre la literatura de la inmigración en España y qué sesgos hegemónicos reproducen?",
+      "conclusion": "La crítica ha estado condicionada por el nacionalismo metodológico y etiquetas biográficas fragmentarias; se requiere un marco interdisciplinar e interseccional que reconozca plenamente la agencia estética y sociopolítica de los autores.",
+      "formalRef": "Rostecka, B., & Ascanio-Sánchez, C. (2021). Literatura de la inmigración en España: enfoques, discursos y análisis. Ocnos, 20(3). https://doi.org/10.18239/ocnos_2021.20.3.2401"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Sociocultural",
+        "descripcion": "Recorre conceptos sociológicos de Sztompka y literatura comparada desafiando etiquetas hegemónicas.",
+        "instrucciones": "Recoge tokens de capital transnacional e interseccionalidad y supera las preguntas teóricas. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Discursos de la Inmigración",
+        "descripcion": "Pon a prueba tu comprensión sobre nacionalismo metodológico, crítica poscolonial y literatura migrante.",
+        "instrucciones": "Responde rápido y con precisión para acumular multiplicadores y dominar el análisis del discurso."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide del Campo Sociocultural",
+        "descripcion": "Evoluciona desde las etiquetas biográficas tradicionales hasta el reconocimiento de la herida colonial.",
+        "instrucciones": "Activa los niveles respondiendo sobre marcos teóricos, hallazgos críticos y propuestas de renovación."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Literatura de la inmigración en España: enfoques, discursos y análisis (Rostecka & Ascanio-Sánchez, 2021)",
+      "descripcion": "Revisión teórica y sistemática de 20 años de estudios sobre literatura migrante en España: campo sociocultural de Sztompka, nacionalismo metodológico, etiquetas reduccionistas y perspectiva interseccional.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Campo sociocultural de Piotr Sztompka",
+          "color": "#264653",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico sociológico que articula dialécticamente al individuo con las estructuras históricas, examinando cómo emergen y se legitiman valores, códigos normativos y oportunidades vitales en la sociedad."
+        },
+        {
+          "id": "2",
+          "label": "Crítica al nacionalismo metodológico",
+          "color": "#264653",
+          "role": "Marco teórico",
+          "descripcion": "Cuestionamiento epistémico de Ulrich Beck y Nina Glick-Schiller que denuncia la naturalización del Estado-nación como contenedor único para entender las manifestaciones culturales transnacionales."
+        },
+        {
+          "id": "3",
+          "label": "Juventud del fenómeno migratorio español",
+          "color": "#264653",
+          "role": "Marco teórico",
+          "descripcion": "Contextualización histórica que sitúa la llegada masiva de población migrante en los últimos treinta años, explicando la tardía conformación y la escasa institucionalización del campo literario específico."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: revisar dos decenios de producción crítica",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Revisar de forma teórica y sistemática las investigaciones publicadas durante los dos últimos decenios en literatura comparada y sociología sobre las obras escritas por inmigrantes en España."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: mapear dinámicas de discursos hegemónicos",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Identificar los mecanismos ideológicos e institucionales que generan discursos sobre la literatura migrante y analizar sus implicaciones en la legitimación o subordinación social de los autores."
+        },
+        {
+          "id": "6",
+          "label": "Método de revisión teórica e interdisciplinar",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Diseño metodológico no empírico de análisis documental y hermenéutico que cruza las tradiciones de la filología comparada con los paradigmas críticos de la sociología de la cultura."
+        },
+        {
+          "id": "7",
+          "label": "Corpus de estudios del periodo 2000-2020",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Selección sistemática de monografías, tesis doctorales y artículos indexados surgidos en España en los últimos veinte años que abordan la autoría migrante desde diversos enfoques."
+        },
+        {
+          "id": "8",
+          "label": "Dimensiones analíticas del campo de Sztompka",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Estructuración del análisis en cuatro dimensiones del cambio social: axiológica (valores), normativa (reglas e instituciones), relacional (interacciones) y de oportunidades vitales de los escritores."
+        },
+        {
+          "id": "9",
+          "label": "Escaso interés inicial en repertorios oficiales",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Constatación documental de que en el compendio del Observatorio Permanente de la Inmigración de 389 páginas apenas dos citaban cultura migrante y solo seis estudios correspondían a literatura."
+        },
+        {
+          "id": "10",
+          "label": "Imagen polarizada: víctima o delincuente abusador",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "La crítica evidencia que la literatura comercial reprodujo estereotipos paternalistas que oscilan entre la victimización desamparada de la patera y la amenaza delincuencial para la seguridad receptora."
+        },
+        {
+          "id": "11",
+          "label": "Etiquetas reduccionistas y despolitización",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Denuncia de que clasificaciones centradas en el mero origen biográfico fragmentaron el corpus y despolitizaron la producción de autores africanos, invisibilizando su denuncia del racismo institucional."
+        },
+        {
+          "id": "12",
+          "label": "Relectura clasicista y asimilación al canon",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Tendencia de la crítica filológica tradicional a reinterpretar las narrativas migrantes mediante arquetipos religiosos europeos o literatura de viajes, celebrando la asimilación al crisol nacional."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: la herida colonial y hábitus transnacional",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Aportaciones renovadoras como la herida colonial de Maroto-Blanco y el hábitus de Bellinzis que demuestran cómo las autoras gestionan estratégicamente la otredad en el mercado editorial."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: dialéctica nosotros-otros y Europa-fortaleza",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Tensión irreuelta entre las pulsiones defensivas de la Europa-fortaleza y los discursos de convivencia intercultural, condicionando los premios y la visibilidad mediática de los autores."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: ausencia de análisis empírico migratorio",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "La revisión señala la persistente omisión de las herramientas cuantitativas y etnográficas de los estudios migratorios en el análisis literario, demandando marcos analíticos más amplios."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: refundación crítica interseccional",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye la urgente necesidad de superar el nacionalismo metodológico mediante una crítica reflexiva e interseccional que valore a los autores migrantes como agentes plenos del canon contemporáneo."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "fundamenta el análisis de"
+        },
+        {
+          "from": "2",
+          "to": "5",
+          "label": "permite conceptualizar los"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "explica el contexto histórico para"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se ejecuta mediante el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se examina con el"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "analiza como muestra el"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "organiza las categorías con las"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "constata empíricamente el"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "identifica la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "demuestra la proliferación de"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "evidencia la"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "es superada por"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "se contrapone a la noción de"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "se inscribe en la"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "orienta las bases para la"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "exige una respuesta en las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "marca los vacíos del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "señala directrices para la"
+        },
+        {
+          "from": "2",
+          "to": "16",
+          "label": "inspira la demanda de"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "culmina en la"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué implica el 'nacionalismo metodológico' cuando se aplica al estudio de la literatura escrita por inmigrantes?",
+          "options": [
+            "Promover la traducción obligatoria de todas las obras a lenguas cooficiales.",
+            "Asumir de forma acrítica el Estado-nación como unidad natural de análisis, subordinando las obras migrantes a un canon supuestamente homogéneo.",
+            "Exigir la nacionalización legal de los escritores para poder publicar en editoriales comerciales.",
+            "Analizar exclusivamente novelas de corte costumbrista regional."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "A la luz de la crítica de este artículo, ¿cómo diseñarías un plan de lectura en secundaria que incorpore a autores de origen migrante evitando el paternalismo o la reducción al testimonio de la patera?"
+        }
+      ]
+    }
+  }
+}

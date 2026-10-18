@@ -1,0 +1,481 @@
+{
+  "id": "metacognicion_habitos_docentes",
+  "metadata": {
+    "title": "Del lector ideal al mediador competente. Metacognición y hábitos lectores en la formación de docentes",
+    "authors": "Mario Díaz-Díaz, Yolanda Echegoyen y Antonio Martín-Ezpeleta",
+    "year": "2022",
+    "journal": "Ocnos 21(2)",
+    "doi": "10.18239/ocnos_2022.21.2.2967",
+    "gancho": "¿Pueden futuros maestros que apenas leen libros por placer mediar competentemente para que sus alumnos amen la lectura?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#457b9d",
+    "colorAlt": "#1d3557",
+    "bg": "from-cyan-600/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/docente-lector/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-diaz/200/200",
+      "name": "Dr. Mario Díaz-Díaz",
+      "role": "Investigador en Didáctica de la Lengua y la Literatura, Universitat de València"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Mario Díaz-Díaz, investigador en educación literaria y formación del profesorado en la Universitat de València",
+      "gancho": "¿Puede un docente entusiasmar con los libros a sus alumnos si en su vida privada casi nunca lee por placer?",
+      "contexto": "El modelo clásico de enseñanza literaria presupone que el docente debe encarnar la figura de un 'lector ideal': alguien con hábito lector maduro, pasión intrínseca por los libros y destrezas críticas avanzadas. Sin embargo, estudios internacionales vienen alertando del llamado 'Efecto Peter': futuros maestros que carecen de hábito lector autónomo y cuya relación con la lectura es puramente utilitaria. En este estudio empírico con 170 estudiantes de Magisterio, se evalúan sus hábitos lectores, su preferencia entre formatos digitales e impresos y su dominio de estrategias metacognitivas (MARSI) para desentrañar las paradojas de su identidad lectora.",
+      "deepDives": [
+        {
+          "id": "meta-apertura-1",
+          "triggerLabel": "¿Qué es el 'Efecto Peter' en la formación docente?",
+          "type": "theory",
+          "content": "Acuñado por Applegate y Applegate (2004), alude a la cita bíblica donde el apóstol Pedro dice 'no puedo dar lo que no tengo'. Si un maestro no experimenta el placer y el sentido personal de la lectura, difícilmente podrá contagiar o mediar ese entusiasmo en sus alumnos."
+        },
+        {
+          "id": "meta-apertura-2",
+          "triggerLabel": "El papel de la metacognición lectora",
+          "type": "theory",
+          "content": "La metacognición no es solo descodificar palabras; es la autoconciencia y autorregulación activa del proceso lector: planificar la lectura, monitorear la comprensión, detectar lagunas y aplicar estrategias reparadoras cuando el sentido se quiebra (Mokhtari y Reichard, 2002)."
+        },
+        {
+          "id": "meta-apertura-3",
+          "triggerLabel": "La transición digital en la formación inicial",
+          "type": "data",
+          "content": "El auge de los dispositivos móviles y el impacto de la docencia virtual durante la pandemia de COVID-19 aceleraron la migración hacia soportes digitales, alterando los tiempos, niveles de concentración y tipologías de textos frecuentados por los jóvenes universitarios."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Existe una marcada disonancia cognitiva en los futuros maestros: declaran una autopercepción muy positiva sobre la lectura y afirman que les gusta leer, pero sus prácticas reales muestran un consumo lector escaso, irregular y centrado en la obligación académica. Además, aunque prefieren formatos digitales para el ocio, el hábito lector profundo correlaciona de forma casi exclusiva con el libro impreso.",
+      "porQueImporta": "Los estudiantes de Magisterio serán los responsables directos de formar la competencia lectora de las nuevas generaciones. Si los planes de estudio universitarios no intervienen sobre sus propios hábitos y destrezas metacognitivas, el sistema educativo perpetuará el ciclo de maestros no lectores.",
+      "dataPoints": [
+        "Muestra de 170 estudiantes de 2º curso de Magisterio (N=71 Educación Infantil, N=99 Educación Primaria; 87.6% mujeres, 12.4% hombres; media de edad 20.1 años).",
+        "El 56.6% de los futuros docentes admite leer solo en contadas ocasiones, una vez al mes/trimestre o casi nunca.",
+        "Disonancia declarativa: el 61.7% afirma un gusto elevado por leer y el 68.8% califica su relación con la lectura como buena o muy buena, pero el 31.8% leyó solo 1 o 2 libros en el último año y el 12.9% no leyó ninguno.",
+        "Diferencias significativas de género (U de Mann-Whitney): las mujeres presentan mejor relación declarada con la lectura (p = .009) y mayor gusto lector (p = .008).",
+        "Fuerte correlación de Spearman entre el formato impreso recreativo y el gusto por la lectura (r_s = 0.735, p < 0.01); el formato digital no correlaciona significativamente con el disfrute lector."
+      ],
+      "glossary": [
+        {
+          "term": "Efecto Peter",
+          "definition": "Fenómeno psicopedagógico según el cual los docentes que carecen de hábitos lectores consolidados difícilmente logran transmitir el entusiasmo y valor intrínseco de la lectura a sus estudiantes."
+        },
+        {
+          "term": "Inventario MARSI",
+          "definition": "Metacognitive Awareness of Reading Strategies Inventory (Mokhtari y Reichard); escala estandarizada de 30 ítems en 3 dimensiones: globales, de resolución de problemas y de apoyo."
+        },
+        {
+          "term": "Estrategias de resolución de problemas",
+          "definition": "Acciones cognitivas directas y localizadas que aplica el lector cuando encuentra dificultades de comprensión (releer, ajustar velocidad, pausar para reflexionar)."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "meta-conflicto-1",
+          "triggerLabel": "Paradoja entre soporte digital y placer lector",
+          "type": "data",
+          "content": "Aunque la lectura recreativa digital obtiene la puntuación media de uso más alta (M=5.16 sobre 6), no genera correlación estadística con el gusto por la lectura ni con la frecuencia anual de libros. El libro en papel (M=4.79) sigue siendo el soporte anclado al compromiso lector intrínseco."
+        },
+        {
+          "id": "meta-conflicto-2",
+          "triggerLabel": "Estrategias globales vs. de resolución de problemas",
+          "type": "theory",
+          "content": "Los universitarios puntúan más alto en resolver problemas sobre la marcha (M=4.15) que en planificar globalmente su lectura (M=3.46, previsualizar índices, fijar propósitos), revelando una lectura predominantemente reactiva y poco anticipatoria."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Diseño descriptivo-correlacional y administración de triple batería diagnóstica",
+      "narrativa": "La investigación aplicó un diseño metodológico no experimental cuantitativo durante el curso académico 2020-2021, administrando tres instrumentos estandarizados validados a toda la cohorte de 2º curso de Grado de Maestro de una universidad española:",
+      "detalles": [
+        {
+          "label": "1. Cuestionario de Hábitos CEPLI",
+          "value": "12 reactivos de selección múltiple sobre frecuencia, motivación y autopercepción lectora (Larrañaga et al., 2008; fiabilidad previa α = .852)."
+        },
+        {
+          "label": "2. Cuestionario Impreso/Digital (McKenna)",
+          "value": "18 ítems Likert de 6 puntos en 4 factores: académico impreso (α=.751), académico digital (α=.815), recreativo impreso (α=.862) y recreativo digital (α=.831)."
+        },
+        {
+          "label": "3. Inventario MARSI (Mokhtari y Reichard)",
+          "value": "30 ítems Likert de 5 puntos en 3 escalas: estrategias globales (α=.748), resolución de problemas (α=.732) y apoyo (α=.720). Fiabilidad global de la escala α = .830."
+        },
+        {
+          "label": "Análisis Estadístico en SPSS 26",
+          "value": "Estadística descriptiva (medias y DE), contraste no paramétrico U de Mann-Whitney para comparativas por género y coeficientes de correlación de rangos de Spearman (nivel de significación .05)."
+        }
+      ],
+      "limitaciones": [
+        "Muestra de conveniencia circunscrita a una única facultad universitaria española, lo que exige cautela antes de generalizar los hallazgos a toda la población estatal.",
+        "Fuerte desbalance de género (87.6% mujeres vs. 12.4% hombres), si bien esta proporción reproduce con fidelidad la distribución demográfica real de las aulas de Magisterio.",
+        "Uso exclusivo de cuestionarios de autoinforme, los cuales pueden estar influidos por el sesgo de deseabilidad social propio de futuros docentes que saben qué respuesta es 'esperable'."
+      ],
+      "reflexion": "Si los futuros maestros saben que su profesión exige amar los libros, ¿hasta qué punto sus respuestas de 'gusto por la lectura' están sesgadas por la deseabilidad social académica?",
+      "deepDives": [
+        {
+          "id": "meta-viaje-1",
+          "triggerLabel": "Estructura interna del inventario MARSI",
+          "type": "method",
+          "content": "Las estrategias globales orientan la lectura antes de empezar; las de resolución de problemas monitorean el ritmo y la atención durante el texto; las de apoyo involucran recursos auxiliares como subrayar, tomar notas o consultar diccionarios."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados empíricos: Metacognición alta pero hábitos reales discontinuos y brecha de formato",
+      "narrativa": "Los análisis cuantitativos revelaron un perfil docente complejo y lleno de tensiones entre la autopercepción y la práctica efectiva:",
+      "hallazgos": [
+        {
+          "label": "Nivel de Metacognición Lectora",
+          "value": "Los futuros docentes perciben que dominan estrategias de comprensión, especialmente las de resolución de problemas (M=4.15), seguidas por las de apoyo (M=3.49) y globales (M=3.46). Ej.: Media global M = 3.69 (Nivel Alto en escala 1-5)."
+        },
+        {
+          "label": "Frecuencia de Lectura Autónoma",
+          "value": "Más de la mitad (56.6%) se sitúa en niveles bajos o esporádicos. El 44.7% leyó entre 0 y 2 libros al año por voluntad propia, confirmando la presencia del Efecto Peter. Ej.: Solo el 24.7% lee con asiduidad cotidiana."
+        },
+        {
+          "label": "Preferencia Digital vs. Vínculo Impreso",
+          "value": "Prefieren el soporte digital para el ocio, pero solo el soporte impreso correlaciona de forma intensa y generalizada con todas las variables de hábito lector positivo. Ej.: Recreativo digital M = 5.16 vs. Recreativo impreso M = 4.79."
+        },
+        {
+          "label": "Correlación Metacognición - Hábitos",
+          "value": "A mayor autopercepción de estrategias metacognitivas, mayor gusto declarado por leer y mayor uso deliberado de estrategias de apoyo en textos complejos. Ej.: Correlaciones de Spearman positivas y significativas."
+        }
+      ],
+      "dataPoints": [
+        "Metacognición global: M = 3.69, DE = 0.52 (superior al punto de corte de 3.5 para nivel alto).",
+        "Estrategias de resolución de problemas: M = 4.15, DE = 0.56 (dimensión más desarrollada).",
+        "Estrategias globales: M = 3.46, DE = 0.57 (dimensión con menor puntuación).",
+        "Preferencia de formatos: Recreativo digital (M=5.16) > Recreativo impreso (M=4.79) > Académico digital (M=4.16) > Académico impreso (M=3.78).",
+        "Correlación recreativo impreso con gusto lector: r_s = 0.735 (p < .001). Correlación recreativo digital con gusto lector: r_s = -0.020 (no significativo)."
+      ],
+      "reflexion": "La pantalla atrae por comodidad y gratificación inmediata, pero el libro físico sigue siendo el ancla psicológica donde se construye la identidad del lector apasionado.",
+      "deepDives": [
+        {
+          "id": "meta-revelacion-1",
+          "triggerLabel": "Diferencias de género en la práctica lectora",
+          "type": "data",
+          "content": "Las mujeres puntuaron significativamente más alto en autopercepción de su relación con la lectura (p=.009) y gusto por leer (p=.008). Sin embargo, entre los varones hubo un mayor porcentaje relativo de lectores de más de 3 libros anuales (66.6% vs. 53.8%)."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Del 'Lector Ideal' inalcanzable al 'Mediador Competente' realista",
+      "narrativa": "Los autores discuten la necesidad urgente de replantear los objetivos formativos en las facultades de educación a la luz de los datos:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Efecto Peter en la formación docente (Applegate y Applegate): Los datos confirman que el déficit de lectura por placer no es un fenómeno aislado de países anglosajones, sino una realidad palpable en el Grado de Maestro en España."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Teoría de la Metacognición (Flavell, Mokhtari y Reichard): El dominio consciente de estrategias predictivas y de autorregulación es el predictor más fiable de la autonomía lectora."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Estudios de lectura digital (Mangen y van der Weel; Liu): La lectura en pantalla se asocia a un procesamiento más superficial y a una preferencia del lector experimentado por el formato físico, lo que explica por qué lo digital no correlaciona con la consolidación del hábito lector profundo."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Mito del 'Lector Ideal' vs. Modelo del 'Mediador Competente': Exigir que todo maestro sea un erudito literario devorador de clásicos es irreal; lo imprescindible es formar un mediador competente que domine el canon infantil/juvenil y conozca estrategias de dinamización."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Enfoque sancionador vs. Talleres de lectura vivencial: Culpabilizar a los futuros maestros por no leer no resuelve el problema; la universidad debe crear clubes de lectura, debates dialógicos y experiencias lectoras compartidas en los planes de estudio."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Uso exclusivo de instrumentos de autoinforme, que pueden verse afectados por la deseabilidad social y no miden objetivamente la comprensión lectora real."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Muestra de conveniencia con un alto porcentaje de mujeres, aunque esta proporción se corresponde con la población real de las aulas de Magisterio."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para los planes de estudio de Magisterio Reestructurar los temarios para incluir espacios obligatorios de lectura personal y mediación práctica de LIJ en lugar de concentrarse únicamente en teoría lingüística."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la didáctica de la lectura Fomentar el entrenamiento explícito en estrategias metacognitivas globales (anticipación, fijación de objetivos) para superar la lectura meramente reactiva."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la integración de formatos Aprovechar la alta familiaridad con los soportes digitales para canalizar itinerarios lectores hacia el libro impreso y la lectura reflexiva y prolongada."
+        },
+        {
+          "label": "Tabla",
+          "value": "Variable / Escala | Media (M) | Desviación Típica (DE) | Nivel / Rango | Correlación Gusto Lector (r_s)\nRecreativo Digital | 5.16 | 0.82 | Muy alto (1-6) | -.020 (n.s.)\nRecreativo Impreso | 4.79 | 0.93 | Alto (1-6) | .735** (p<.001)\nAcadémico Digital | 4.16 | 0.81 | Medio-alto (1-6) | .009 (n.s.)\nAcadémico Impreso | 3.78 | 0.80 | Medio (1-6) | .211** (p=.006)\nMetacognición Global | 3.69 | 0.52 | Alto (≥3.5) | .214** (p=.005)\nResolución de Problemas | 4.15 | 0.56 | Muy alto (1-5) | .228** (p=.003)\nEstrategias Globales | 3.46 | 0.57 | Medio (1-5) | .160* (p=.037)\nEstrategias de Apoyo | 3.49 | 0.66 | Medio (1-5) | .170* (p=.026)"
+        }
+      ],
+      "reflexion": "Si los universitarios leen en pantallas durante horas pero solo el papel despierta su amor por los libros, ¿cómo debe rediseñar la universidad sus entornos de lectura?",
+      "deepDives": [
+        {
+          "id": "meta-marco-1",
+          "triggerLabel": "El cambio de paradigma en la formación lectora",
+          "type": "theory",
+          "content": "El artículo aboga por abandonar la nostalgia elitista del 'docente erudito' decimonónico para abrazar un modelo funcional de mediación: docentes que saben diagnosticar las dificultades de sus alumnos, recomiendan obras acordes a sus intereses y crean comunidades dialógicas en el aula."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cuál es la relación real entre los hábitos lectores, la preferencia de formatos (papel vs. digital) y las estrategias metacognitivas en los futuros maestros de Educación Infantil y Primaria?",
+      "conclusion": "Se constata una brecha severa (Efecto Peter): el 56.6% de los futuros docentes lee con baja frecuencia o casi nunca, pese a exhibir una autopercepción declarativa favorable. Los estudiantes prefieren mayoritariamente el soporte digital para su ocio (M=5.16), pero solo el formato recreativo impreso correlaciona de forma potente con el gusto intrínseco por la lectura (r_s = 0.735). El nivel de metacognición lectora global es alto (M=3.69), con claro predominio de estrategias reactivas de resolución de problemas (M=4.15) frente a estrategias globales de planificación (M=3.46). Existe una correlación positiva y significativa entre la competencia metacognitiva y el desarrollo de hábitos lectores consolidados. Introducir en los grados de educación programas de fomento del hábito lector personal basados en clubes de lectura dialógica y lectura extensiva. Enseñar de forma explícita estrategias metacognitivas globales (planificación, predicción e inferencia) aplicadas a la comprensión de textos complejos. Superar el modelo del 'lector ideal' y centrar la formación universitaria en las competencias del 'mediador de lectura'. Combinar estratégicamente los recursos de lectura digital interactiva con la preservación del libro impreso para la lectura atenta y demorada. Para enseñar a amar la lectura, el primer paso pedagógico es reencontrarse uno mismo con el placer de leer.",
+      "formalRef": "Mario Díaz-Díaz, Yolanda Echegoyen y Antonio Martín-Ezpeleta. (2022). Del lector ideal al mediador competente. Metacognición y hábitos lectores en la formación de docentes. Ocnos 21(2). https://doi.org/10.18239/ocnos_2022.21.2.2967"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué fenómeno conceptual describe el hecho de que futuros docentes que no leen por placer tengan grandes dificultades para entusiasmar y formar como lectores a sus estudiantes?",
+          "options": [
+            "El Efecto Pigmalión",
+            "El Efecto Mateo",
+            "El Efecto Peter",
+            "El Efecto Halo"
+          ],
+          "correct": 2
+        },
+        {
+          "type": "choice",
+          "q": "Según los resultados estadísticos del estudio, ¿qué formato de lectura correlacionó de manera intensa y significativa (r_s = 0.735, p < .001) con el gusto declarado por la lectura?",
+          "options": [
+            "Formato académico digital",
+            "Formato recreativo impreso",
+            "Formato recreativo digital",
+            "Formato académico impreso"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Teniendo en cuenta que los futuros docentes prefieren leer en soporte digital pero su gusto por la lectura se asocia al libro impreso, ¿qué actividad didáctica universitaria propondrías para conectar el ecosistema digital (BookTok, redes) con la lectura atenta en papel?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Metacognición y hábitos lectores en la formación docente (Ocnos 21(2) 2022)",
+    "descripcion": "Recorre el estudio de Díaz-Díaz, Echegoyen y Martín-Ezpeleta sobre el Efecto Peter en 170 maestros en formación: la disonancia entre una autopercepción lectora positiva y un hábito real discontinuo, la preferencia por lo digital frente a la correlación del papel con el gusto lector, el nivel metacognitivo alto pero reactivo medido con el MARSI, y la propuesta de rediseño curricular hacia un mediador competente.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Crisis del hábito lector en Magisterio",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Estudios nacionales e internacionales constatan que los futuros maestros carecen de un hábito lector autónomo y consolidado, con una motivación predominantemente extrínseca ligada a la demanda académica (Applegate y Applegate, 2004; Felipe y Barrios, 2017). Esta desvalorización de la lectura omite las bases epistémicas y didácticas requeridas para enseñar a leer (Díez et al., 2018)."
+      },
+      {
+        "id": "2",
+        "label": "Revolución digital y lectura en pantalla",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La diversificación de formatos desplaza la lectura en papel tanto en lo recreativo como en lo académico, vinculando lo digital a la sociabilización y el esparcimiento y lo convencional a espacios profesionalizantes que exigen más concentración (Mokhtari et al., 2009; Putro y Lee, 2018). La pandemia de COVID-19 aceleró el uso de recursos digitales en la formación académica."
+      },
+      {
+        "id": "3",
+        "label": "El Efecto Peter (Applegate y Applegate)",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Principio según el cual los docentes encargados de enseñar a leer literatura no son lectores ideales y no están capacitados para transmitir una pasión lectora que ellos mismos no experimentan. Su motivación lectora resulta mayoritariamente extrínseca y recompensada por la calificación."
+      },
+      {
+        "id": "4",
+        "label": "Metacognición lectora (MARSI)",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "La metacognición lectora comprende la planificación, el monitoreo, la verificación, la revisión y la evaluación de los procesos de comprensión (Myers y Paris, 1978; Brown et al., 1981). Se evalúa con el inventario MARSI de Mokhtari y Reichard (2002) en estrategias globales, de resolución de problemas y de apoyo."
+      },
+      {
+        "id": "5",
+        "label": "Del lector ideal al mediador competente",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Frente al ideal decimonónico del docente erudito, los autores defienden un modelo funcional de mediación en el que el maestro diagnostica dificultades, recomienda obras y crea comunidades dialógicas. Ser consciente de la propia comprensión permite monitorizar mejor la lectura de los estudiantes (Williams y Atkins, 2009)."
+      },
+      {
+        "id": "6",
+        "label": "Objetivo: diagnosticar hábitos y formatos",
+        "color": "#264653",
+        "role": "Objetivo",
+        "descripcion": "Analizar los hábitos lectores (autopercepción del nivel lector, frecuencia lectora y motivación) de 170 maestros en formación de los Grados de Infantil y Primaria en relación con su formato preferido (digital o convencional)."
+      },
+      {
+        "id": "7",
+        "label": "Objetivo: correlacionar hábitos y metacognición",
+        "color": "#2a9d8f",
+        "role": "Objetivo",
+        "descripcion": "Determinar la relación entre los hábitos lectores y la percepción de las estrategias metacognitivas de lectura, así como con las actitudes hacia la lectura en formato digital y convencional."
+      },
+      {
+        "id": "8",
+        "label": "Muestra de 170 maestros en formación",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Participaron 170 estudiantes de 2º curso de los Grados en Maestro en Educación Infantil (N=71) y Primaria (N=99) de una universidad española, durante el curso 2020-2021. El 87.6% eran mujeres y las edades oscilaban entre 19 y 38 años (media 20.1)."
+      },
+      {
+        "id": "9",
+        "label": "Triple batería de instrumentos validados",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Se administraron un extracto del Cuestionario de hábitos lectores del CEPLI (Larrañaga et al., 2008; α=.852), el Cuestionario de hábitos de lectura convencional/digital de McKenna (18 ítems, 4 factores) y el inventario MARSI (30 ítems, 3 escalas; α global=.830)."
+      },
+      {
+        "id": "10",
+        "label": "Análisis descriptivo y correlacional en SPSS 26",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Se calcularon medias y desviaciones típicas, se aplicó la U de Mann-Whitney para comparar por género y la correlación de Spearman entre hábitos, formatos y metacognición, con un nivel de significación de .05."
+      },
+      {
+        "id": "11",
+        "label": "Disonancia: 56.6% lectores esporádicos",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Más de la mitad declara leer en contadas ocasiones, una vez al mes o al trimestre, o casi nunca, y el 44.7% leyó entre 0 y 2 libros en el último año. Contrasta con que el 61.7% afirma un gusto elevado por leer y el 68.8% valora su relación con la lectura como buena o muy buena."
+      },
+      {
+        "id": "12",
+        "label": "Brecha digital: prefieren pantalla, engancha el papel",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "La lectura recreativa digital obtiene la media más alta (M=5.16), pero solo el formato recreativo impreso correlaciona de forma intensa con el gusto por la lectura (r_s=.735, p<.001). El digital solo muestra correlación significativa en su versión académica y únicamente con la cantidad de libros leídos."
+      },
+      {
+        "id": "13",
+        "label": "Metacognición alta pero reactiva",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "La conciencia metacognitiva global es alta (M=3.69), con predominio de las estrategias de resolución de problemas (M=4.15) sobre las de apoyo (M=3.49) y las globales (M=3.46), lo que revela una lectura más reactiva que anticipatoria. Los hábitos lectores positivos correlacionan con la metacognición."
+      },
+      {
+        "id": "14",
+        "label": "Limitaciones: muestra y autoinforme",
+        "color": "#f4d068",
+        "role": "Limitaciones",
+        "descripcion": "Los resultados deben leerse con cautela por el alto porcentaje de mujeres en una muestra de conveniencia y por tratarse de instrumentos de autoinforme, sujetos a deseabilidad social y sin medición objetiva de la comprensión lectora."
+      },
+      {
+        "id": "15",
+        "label": "Discusión: rediseño curricular universitario",
+        "color": "#88b04b",
+        "role": "Discusión",
+        "descripcion": "La lectura en papel contribuye a optimizar la conciencia metacognitiva, mientras que el lector experimentado prioriza el formato físico frente al digital (Liu, 2005). La universidad debe incluir los aspectos metacognitivos y vivenciales en la formación lectora de los futuros maestros."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: formar mediadores, no eruditos",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "Existe una correlación positiva y significativa entre hábitos lectores y percepción de la metacognición lectora. Fomentar la conciencia metacognitiva enriquece el diálogo con los discursos y favorece su transferencia didáctica, clave para que los maestros actúen como auténticos mediadores de la lectura."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "3",
+        "label": "ejemplifica el riesgo del"
+      },
+      {
+        "from": "1",
+        "to": "6",
+        "label": "motiva la necesidad de"
+      },
+      {
+        "from": "2",
+        "to": "6",
+        "label": "introduce la variable de"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "plantea la superación hacia el"
+      },
+      {
+        "from": "4",
+        "to": "7",
+        "label": "aporta la estructura evaluativa para"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "define el perfil formativo de"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "se investiga en la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se contrasta empíricamente en la"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "responde a la"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "se procesa mediante el"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "pone al descubierto la"
+      },
+      {
+        "from": "10",
+        "to": "12",
+        "label": "demuestra la tensión entre"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "caracteriza el"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "advierte sobre la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "orienta la necesidad de"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "justifica la intervención en el"
+      },
+      {
+        "from": "11",
+        "to": "16",
+        "label": "exige ser revertida hacia la"
+      },
+      {
+        "from": "12",
+        "to": "16",
+        "label": "subraya el valor del libro en la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "proporciona herramientas para la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "matiza metodológicamente el"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "hace posible la consolidación de la"
+      }
+    ]
+  }
+}

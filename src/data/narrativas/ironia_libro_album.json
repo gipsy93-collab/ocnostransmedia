@@ -1,0 +1,496 @@
+{
+  "id": "ironia_libro_album",
+  "metadata": {
+    "title": "Leer la ironía en el libro álbum",
+    "authors": "José-Domingo Dueñas-Lorente",
+    "year": "2022",
+    "journal": "Ocnos 21(2)",
+    "doi": "10.18239/ocnos_2022.21.2.2924",
+    "gancho": "¿Es la ironía un territorio vetado para los niños o el libro álbum es la máquina perfecta para enseñarla a través de la contradicción visual?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b5de5",
+    "colorAlt": "#3c096c",
+    "bg": "from-purple-500/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/ironia-album/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-duenas/200/200",
+      "name": "Dr. José-Domingo Dueñas-Lorente",
+      "role": "Profesor Titular de Didáctica de la Lengua y la Literatura, Universidad de Zaragoza"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. José-Domingo Dueñas-Lorente, especialista en teoría literaria y educación estética infantil",
+      "gancho": "En la portada de un libro dice solemnemente 'Mi gato', pero en la ilustración aparece un gigantesco elefante gris. ¿Quién miente? ¿Las palabras o los ojos?",
+      "contexto": "El libro álbum contemporáneo se define por la confluencia de dos lenguajes distintos: el texto escrito y la imagen gráfica. Lejos de ser un mero adorno ilustrativo, esta dualidad es un caldo de cultivo extraordinario para la ironía. Tradicionalmente se asumía que la ironía era un recurso abstracto inaccesible para los niños pequeños por exigir conocimientos enciclopédicos adultos. Este estudio crítico-hermenéutico y pragmático desmonta ese prejuicio: analiza un corpus prototípico de 9 álbumes ilustrados para desvelar cómo la tensión multimodal entre lo dicho y lo mostrado construye pautas de lectura irónica que educan la mirada crítica desde la primera infancia.",
+      "deepDives": [
+        {
+          "id": "iro-apertura-1",
+          "triggerLabel": "¿Qué es la ironía desde el enfoque pragmático?",
+          "type": "theory",
+          "content": "Siguiendo a Reyes (1990) y al grupo GRIALE (Ruiz-Gurillo, 2010), la ironía no es solo 'decir lo contrario de lo literal', sino activar un distanciamiento intencional donde el emisor propone un significado alternativo que exige inferencias activas del receptor en su contexto situacional."
+        },
+        {
+          "id": "iro-apertura-2",
+          "triggerLabel": "La teoría de la contradicción de Nodelman",
+          "type": "theory",
+          "content": "Nodelman (1988) demostró que en el álbum ilustrado las imágenes nunca reproducen pasivamente las palabras: las contradicen, limitan o subvierten. Cada vez que la imagen muestra algo que el texto oculta o niega, surge de inmediato un espacio pragmático irónico."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La ironía literaria es un concepto escurridizo que a menudo se confunde con la simple mentira o el chiste absurdo. En la escuela se tiende a sobreproteger a los primeros lectores seleccionando obras literales y moralizantes, privándoles del aprendizaje de la sospecha y la agudeza inferencial que demanda el ecosistema multimodal actual.",
+      "porQueImporta": "En una sociedad saturada de mensajes visuales engañosos, bulos y parodia digital, formar lectores capaces de detectar la discrepancia entre el relato y la evidencia gráfica es un pilar básico del pensamiento crítico temprano.",
+      "dataPoints": [
+        "Corpus analizado de 9 álbumes representativos de la LIJ internacional (Marta Altés, Bachelet, Hutchins, Lionni, Battut, Browne, Van Zeveren).",
+        "Dos códigos semióticos en tensión: el texto verbal (habitualmente subjetivo y restringido) frente a la ilustración visual (que actúa como evidencia empírica u omnisciente).",
+        "Superioridad informativa del lector (Genette / Booth): el niño que mira el dibujo sabe más que el personaje que habla, generando el placer del secreto compartido.",
+        "Doble destinatario (dual readership): la obra apela a dos estratos de lectura simultáneos: el goce cómico inmediato infantil y la parodia intertextual que deleita al adulto mediador."
+      ],
+      "glossary": [
+        {
+          "term": "Ironía situacional",
+          "definition": "Efecto pragmático generado cuando la realidad de los hechos mostrados visualmente entra en contradicción abierta con las expectativas o declaraciones del protagonista."
+        },
+        {
+          "term": "Relación de contrapunto",
+          "definition": "Interacción texto-imagen (Nikolajeva y Scott) en la cual los dos códigos narran historias paralelas o divergentes, obligando al lector a unificar el sentido irónico."
+        },
+        {
+          "term": "Focalización interna",
+          "definition": "Perspectiva narrativa restringida a la conciencia de un personaje que interpreta el mundo desde su propia ingenuidad o egocentrismo infantil."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "iro-conflicto-1",
+          "triggerLabel": "El debate con Gemma Lluch sobre la comprensión infantil",
+          "type": "theory",
+          "content": "Lluch (2008) hablaba de 'la ironía imposible' en la literatura infantil, pues el autor difícilmente comparte con sus lectores el conjunto de referencias del juego irónico. Dueñas-Lorente replica que, al ser guiada la recepción infantil, el soporte gráfico y la mediación compensan esa brecha y permiten al niño participar plenamente."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Análisis narratológico-pragmático de casos prototípicos",
+      "narrativa": "El estudio aplica un método interpretativo riguroso que fusiona la pragmática lingüística (GRIALE, Reyes) con la narratología clásica (Booth, Genette, Muecke) y la teoría del libro álbum (Nikolajeva & Scott, Nodelman):",
+      "detalles": [
+        {
+          "label": "Corpus de 9 Álbumes Paradigmáticos",
+          "value": "Mon chat (Bachelet), El paseo de Rosalía (Hutchins), ¡No!, Soy un artista y El rey de la casa (Marta Altés), Una piedra extraordinaria (Lionni), El secreto (Battut), Cosita Linda (Browne) y ¿Por qué? (Van Zeveren)."
+        },
+        {
+          "label": "Eje Pragmático-Enunciativo",
+          "value": "Identificación de los actos de habla, el 'discurso denostado' (qué creencia se ridiculiza) y las inferencias contextuales requeridas para desactivar la lectura literal."
+        },
+        {
+          "label": "Eje Narratológico de Puntos de Vista",
+          "value": "Análisis de la voz narrativa, la distancia entre narrador y autor implícito, la focalización interna vs. omnisciente y la manipulación de la empatía."
+        }
+      ],
+      "limitaciones": [
+        "Estudio de corte hermenéutico-cualitativo sin medición empírica de tiempos de lectura ni pruebas cuantitativas de comprensión con niños en aulas reales.",
+        "El corpus se restringe a títulos de contrastada excelencia artística, requiriendo verificar si estas pautas funcionan igualmente en obras comerciales de consumo masivo."
+      ],
+      "reflexion": "En 'El paseo de Rosalía', la gallina camina tranquila sin ver al zorro que la persigue y tropieza. ¿Por qué los niños se ríen tanto cuando el personaje no se entera de lo que ellos están viendo?",
+      "deepDives": [
+        {
+          "id": "iro-viaje-1",
+          "triggerLabel": "El papel del autor implícito en Booth",
+          "type": "method",
+          "content": "Booth (1986) define la ironía estable como una complicidad secreta entre el autor implícito y el lector: ambos se sitúan por encima del narrador ingenuo, compartiendo una sonrisa cómplice ante sus disparates."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Pautas interpretativas de la ironía visual en el corpus",
+      "narrativa": "El análisis detallado de las 9 obras desvela cuatro mecanismos estructurales a través de los cuales opera la ironía en el libro álbum:",
+      "hallazgos": [
+        {
+          "label": "Discrepancia de verdad: texto afirmativo vs. imagen correctiva",
+          "value": "El texto insiste en describir las costumbres típicas de un gato faldero mientras la ilustración muestra la monumental torpeza de un elefante; la ironía ridiculiza la ceguera afectiva del dueño. Ej.: Mon chat (Bachelet)."
+        },
+        {
+          "label": "Superioridad informativa del lector omnisciente",
+          "value": "El texto calla por completo la presencia del zorro; la imagen narra su cadena de accidentes fortuitos, convirtiendo al niño en testigo privilegiado de la justicia poética. Ej.: El paseo de Rosalía (Hutchins)."
+        },
+        {
+          "label": "Focalización interna infantilizada",
+          "value": "El protagonista canino cree que su nombre es '¡No!' porque es lo que siempre le gritan; el niño artista cree que mejora su casa llenándola de garabatos. La ironía surge de la ternura ante el error del narrador. Ej.: Trilogía de Marta Altés (¡No!, Soy un artista)."
+        },
+        {
+          "label": "Sátira ideológica y desmitificación de la autoridad",
+          "value": "Se desmonta la soberbia de los poderosos mediante el absurdo visual, mostrando que la ironía es también un vehículo para cuestionar normas arbitrarias. Ej.: ¿Por qué? (Van Zeveren) y Cosita Linda (Browne)."
+        }
+      ],
+      "dataPoints": [
+        "Mon chat: La dedicatoria final 'À mon chat' consolida la ironía pragmática elevando el equívoco a metáfora del amor ciego.",
+        "¡No! (Altés): Ejemplaridad del narrador no fiable; el lector debe corregir la interpretación ingenua del perro para entender el desespero de sus dueños.",
+        "Una piedra extraordinaria (Lionni): Confusión cómica donde tres ranas toman a un caimán por un 'pollo', subvirtiendo la taxonomía zoológica tradicional.",
+        "Doble nivel de recepción: La ironía situacional opera en el código visual para el niño, mientras la alusión intertextual opera para el mediador adulto."
+      ],
+      "reflexion": "La risa que despierta la ironía en el niño no es burla cruel: es el júbilo intelectual de haber descubierto por sí mismo una contradicción oculta.",
+      "deepDives": [
+        {
+          "id": "iro-revelacion-1",
+          "triggerLabel": "El narrador no fiable en la literatura infantil",
+          "type": "data",
+          "content": "Marta Altés demuestra que un niño de 4 años comprende perfectamente la figura del narrador no fiable: sabe que el perrito bienintencionado no es un héroe que ayuda, sino un torbellino doméstico que destruye el salón."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: La formación estética del lector y el fin de la lectura complaciente",
+      "narrativa": "Dueñas-Lorente sitúa sus hallazgos en el debate contemporáneo sobre la educación literaria infantil:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Interacción texto-imagen (Kümmerling-Meibauer, 1999; Nikolajeva y Scott, 2001): El sentido no reside en un solo código; el lector infantil articula redundancia, complementariedad y contrapunto como una gimnasia cognitiva."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Educación literaria (Colomer, 1996, 2012): Leer literatura no es solo descodificar letras, sino aprender a inferir intenciones, dobles sentidos y sutilezas expresivas."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Pragmática de la Comunicación (Sperber y Wilson): La ironía explota la teoría de la relevancia; el esfuerzo cognitivo extra para resolver la contradicción se recompensa con mayor disfrute estético."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Moralismo didáctico tradicional vs. Emancipación estética: El artículo rechaza el álbum edulcorado que entrega lecciones morales digeridas; reivindica el álbum irónico como invitación a dudar y pensar libremente."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Infantilismo protector vs. Confianza en las capacidades del niño: Se supera la idea de que los niños no entienden la ironía; se demuestra que la comprenden visualmente cuando se les proporciona el andamiaje mediador."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Falta explorar obras que combinen simultáneamente ironía situacional con ironía lingüística compleja (juegos de palabras o doble sentido léxico abstracto)."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Poco análisis sobre las posibles interpretaciones erróneas de lectores neurodivergentes que procesan el lenguaje de manera estrictamente literal."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la mediación docente Detenerse en las ilustraciones durante la lectura compartida para formular preguntas socráticas que inviten al niño a contrastar la imagen con las palabras."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la selección de bibliotecas de aula Incorporar álbumes polifónicos con narradores no fiables y finales abiertos, superando el predominio de cuentos unívocos y moralizantes."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la teoría de la LIJ Consolidar el estudio de la ironía como una competencia semiótica transversal enseñable desde la etapa preescolar."
+        },
+        {
+          "label": "Tabla",
+          "value": "Obra Analizada | Texto Verbal | Ilustración Gráfica | Mecanismo Irónico Clave | Efecto Pragmático\nMon chat (Bachelet) | Describe un gato doméstico | Muestra un enorme elefante | Discrepancia de verdad (mentira gráfica) | Sátira del narrador homodiegético\nEl paseo de Rosalía (Hutchins) | Narra paseo rutinario de gallina | Muestra ataques fallidos del zorro | Contrapunto y superioridad informativa | Justicia poética cómica\n¡No! (Marta Altés) | El perro cree que 'No' es su nombre | Muestra sus destrozos domésticos | Focalización interna no fiable | Ternura ante la ingenuidad\nSoy un artista (Altés) | Niño afirma crear obras maestras | Muestra manchas en paredes y ropa | Choque entre fantasía y orden social | Complicidad humorística\nUna piedra... (Lionni) | Ranas llaman 'pollo' al caimán | Muestra un reptil amenazante | Equívoco taxonómico persistente | Desmitificación del saber enciclopédico"
+        }
+      ],
+      "reflexion": "Quien aprende a reírse con la ironía de un álbum ilustrado en la infancia, estará mejor armado para detectar la hipocresía y la demagogia de los discursos adultos.",
+      "deepDives": [
+        {
+          "id": "iro-marco-1",
+          "triggerLabel": "El papel del mediador adulto en la lectura dual",
+          "type": "theory",
+          "content": "El mediador no debe explicar la ironía como un teorema; debe actuar como un cómplice que celebra el asombro del niño y le permite verbalizar la contradicción descubierta."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo construye la ironía el sentido en el libro álbum contemporáneo y qué pautas pragmáticas permiten a los primeros lectores interpretarla con éxito?",
+      "conclusion": "La ironía en el álbum es consustancial al medio: surge de la fricción necesaria entre la subjetividad del texto y la evidencia o el contrapunto de la imagen. La discrepancia de focalización sitúa al niño en una posición de superioridad informativa, otorgándole el placer estético del cómplice que desentraña el secreto. Los narradores no fiables e ingenuos (perros, niños artistas) modelan la autocrítica y la ternura sin imponer sermones moralizantes. El doble destinatario (infantil y adulto) convive armoniosamente gracias a estratos de interpretación superpuestos pero complementarios. Planificar sesiones de lectura compartida donde se interrogue explícitamente la relación de verdad entre lo que se oye y lo que se mira. Diseñar tertulias literarias dialógicas en torno a álbumes de Marta Altés o Bachelet para ejercitar la detección de narradores no fiables. Aprovechar la ironía visual como herramienta preventiva contra la credulidad informativa en la era de las pantallas digitales. Reivindicar el humor inteligente y la ambigüedad como valores literarios formativos de primer orden en las aulas de infantil y primaria. Enseñar a leer la ironía es regalar a un niño el superpoder más valioso: la libertad de no creerse a pies juntillas todo lo que le cuentan.",
+      "formalRef": "José-Domingo Dueñas-Lorente. (2022). Leer la ironía en el libro álbum. Ocnos 21(2). https://doi.org/10.18239/ocnos_2022.21.2.2924"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué mecanismo narratológico genera el efecto cómico e irónico en 'El paseo de Rosalía' de Pat Hutchins?",
+          "options": [
+            "La gallina insulta verbalmente al zorro en cada página",
+            "La superioridad informativa del lector, que ve los accidentes del zorro mientras el texto los calla",
+            "Un narrador omnisciente que advierte al lector sobre el peligro del bosque",
+            "La transformación mágica del zorro en un animal bondadoso"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "En el álbum 'Mon chat' de Gilles Bachelet, ¿en qué consiste la discrepancia irónica fundamental?",
+          "options": [
+            "El texto describe las costumbres de un gato pero las ilustraciones retratan a un elefante",
+            "El gato puede hablar fluidamente en varios idiomas humanos",
+            "El libro no contiene imágenes, solo texto descriptivo",
+            "La historia está escrita en código morse"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo mediarías con un grupo de 5 años la lectura de '¡No!' de Marta Altés para que descubran que el perro se equivoca sobre su propio nombre sin arruinarles el chiste?"
+        }
+      ]
+    }
+  },
+  "tutorTexts": {
+    "apertura": {
+      "text": "En la portada dice 'Mi gato', pero la ilustración muestra un elefante. ¿Quién miente: las palabras o los ojos?",
+      "position": "bottom-right"
+    },
+    "conflicto": {
+      "text": "La ironía no es una mentira: es una invitación a desconfiar de lo literal y a leer la contradicción entre texto e imagen.",
+      "position": "bottom-right"
+    },
+    "viaje": {
+      "text": "Nueve álbumes prototípicos analizados desde la pragmática, la narratología y la teoría del libro álbum.",
+      "position": "bottom-right"
+    },
+    "revelacion": {
+      "text": "La ironía surge de la fricción entre la subjetividad del texto y la evidencia de la ilustración, que otorga al niño la superioridad informativa.",
+      "position": "bottom-right"
+    },
+    "marco": {
+      "text": "Frente al álbum moralizante, el álbum irónico enseña a dudar: es una escuela temprana de pensamiento crítico.",
+      "position": "bottom-right"
+    },
+    "nucleo": {
+      "text": "Enseñar a leer la ironía es regalar a un niño el superpoder más valioso: la libertad de no creerse a pies juntillas todo lo que le cuentan.",
+      "position": "bottom-right"
+    },
+    "mapa": {
+      "text": "Explora el mapa para ver cómo la tensión entre texto e imagen construye la ironía en el libro álbum.",
+      "position": "bottom-right"
+    },
+    "reflexion": {
+      "text": "Comprueba lo aprendido sobre la ironía visual y la mediación de la lectura compartida.",
+      "position": "bottom-right"
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: La ironía en el libro álbum (Ocnos 21(2), 2022)",
+    "descripcion": "Recorrido desde el mito de la inaccesibilidad infantil de la ironía y la pragmática de la comunicación, pasando por la tensión bimodal texto-imagen y el análisis narratológico de nueve álbumes prototípicos, hasta los resultados por obra, la discusión sobre la emancipación estética y las limitaciones del análisis hermenéutico.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "El mito de la inaccesibilidad de la ironía",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Prejuicio pedagógico tradicional que asume que los primeros lectores son incapaces de descodificar la ironía por carecer del bagaje enciclopédico adulto, relegando a los niños a una dieta de cuentos literales, moralizantes y unívocos."
+      },
+      {
+        "id": "2",
+        "label": "Pragmática de la comunicación (GRIALE)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Concepción pragmática de la ironía como distanciamiento comunicativo intencional que produce sentido alternativo mediante inferencias activas del receptor frente al contexto referencial (Reyes, 1990; Grupo GRIALE, Ruiz-Gurillo, 2010)."
+      },
+      {
+        "id": "3",
+        "label": "Tensión bimodal del libro álbum (Nodelman)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Postulado bimodal según el cual texto e imagen nunca se limitan a duplicarse en el álbum ilustrado contemporáneo: la fricción semiótica y el desmentido mutuo generan de forma natural un espacio fértil para el distanciamiento irónico."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Pautas de lectura de la ironía visual",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Delimitar claves pragmáticas, narratológicas y semióticas que fundamenten el acceso crítico del lector infantil al álbum ilustrado mediante pautas de interpretación extrapolables a la diversidad de obras polifónicas complejas."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Desarmar mecanismos del doble lector",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Explicar cómo conviven el destinatario infantil (goce cómico inmediato ante el equívoco visual) y el lector adulto mediador (parodia intertextual, sátira social) a través de los múltiples estratos de sentido superpuestos de la obra."
+      },
+      {
+        "id": "6",
+        "label": "Corpus analítico de 9 álbumes prototípicos",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Selección intencional de 9 álbumes representativos y galardonados internacionalmente: Gilles Bachelet, Pat Hutchins, Marta Altés (tres obras), Leo Lionni, Éric Battut, Anthony Browne y Christian Van Zeveren."
+      },
+      {
+        "id": "7",
+        "label": "Enfoque narratológico de puntos de vista",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Aplicación rigurosa de categorías narratológicas clásicas de Booth, Genette y Muecke: focalización interna, narrador no fiable, distancia estética, ironía situacional y la superioridad informativa del lector frente al personaje."
+      },
+      {
+        "id": "8",
+        "label": "Clasificación de interacciones texto-imagen",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Tipologías semióticas multimodales de Kümmerling-Meibauer y Nikolajeva & Scott aplicadas al análisis sistemático de contrapuntos, ampliaciones y contradicciones frontales entre el código verbal y el código pictórico."
+      },
+      {
+        "id": "9",
+        "label": "Discrepancia de verdad: Mon chat (Bachelet)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "En Mon chat de Bachelet, el texto asevera la normalidad de un gato faldero mientras la imagen exhibe un gigantesco y torpe elefante, ridiculizando la ceguera afectiva del narrador homodiegético con sutil humor gráfico."
+      },
+      {
+        "id": "10",
+        "label": "Superioridad informativa: Rosalía (Hutchins)",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "En El paseo de Rosalía de Hutchins, el texto omite al zorro mientras la ilustración relata sus cómicos accidentes sucesivos, empoderando al niño como observador omnisciente y cómplice de una invisible justicia distributiva."
+      },
+      {
+        "id": "11",
+        "label": "Narrador infantil ingenuo: Trilogía de Altés",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "En ¡No! y Soy un artista de Marta Altés, el protagonista interpreta sus travesuras como virtudes heroicas; la ironía genera ternura cómplice mediante la ingenua discrepancia de perspectiva entre el niño/mascota y los adultos."
+      },
+      {
+        "id": "12",
+        "label": "Subversión del saber: Lionni, Browne y Van Zeveren",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "En obras de Lionni, Browne y Van Zeveren se subvierten saberes enciclopédicos y autoridades arbitrarias mediante el absurdo paródico, demostrando el potencial liberador de la ironía contra los dogmatismos impuestos."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Emancipación estética vs moralismo",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Reivindicación del álbum irónico frente a la literatura moralizante o de autoayuda edulcorada: aprender a desconfiar de lo aparente enseña a los niños a pensar de manera autónoma, sospechar de los discursos y gozar de la ambigüedad."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Mediación compartida dialógica",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "El mediador docente o familiar debe evitar explicar la ironía como un teorema cerrado; su función es habilitar pausas reflexivas y preguntas dialógicas para que el propio niño descubra y verbalice el choque entre texto e imagen."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Ausencia de pruebas empíricas de aula",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Estudio hermenéutico de casos prototípicos sin mediciones empíricas estandarizadas de tiempos de lectura ni pruebas psicométricas de comprensión lectora en muestras masivas de escolares en aulas ordinarias."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: El álbum como escuela de pensamiento",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "El libro álbum irónico se confirma como una extraordinaria escuela temprana de pensamiento crítico, capacitando a los menores para descodificar la complejidad de un mundo visual saturado de contradicciones y dobles discursos."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se desmonta mediante la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se supera gracias a la"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "proporciona el marco para el"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "explica la necesidad del"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se aplica sobre el"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se fundamenta en el"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se audita mediante el"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "se categoriza según la"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "desvela en Bachelet la"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "demuestra en Hutchins la"
+      },
+      {
+        "from": "7",
+        "to": "11",
+        "label": "revela en Altés el"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "evidencia en Lionni y Browne la"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "aporta argumentos a la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "fundamenta la"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "orienta las pautas de"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "demanda estrategias de"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "culmina defendiendo la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "consolida el papel de la"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "reconoce como límite la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "proyecta investigaciones sobre la"
+      },
+      {
+        "from": "3",
+        "to": "16",
+        "label": "consagra el potencial de la"
+      }
+    ]
+  }
+}

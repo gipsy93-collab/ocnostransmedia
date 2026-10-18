@@ -1,0 +1,176 @@
+{
+  "id": "valor_lectura_relacion_comportamiento_lector",
+  "metadata": {
+    "title": "El valor de la lectura en relación con el comportamiento lector. Un estudio sobre los hábitos lectores y el estilo de vida en niños",
+    "authors": "Santiago Yubero Jiménez y Elisa Larrañaga Rubio",
+    "year": "2010",
+    "journal": "Ocnos. Revista de estudios sobre lectura, 6 (2010), pp. 7-20",
+    "doi": "https://doi.org/10.18239/ocnos_2010.06.01",
+    "gancho": "Investigación empírica con 1.669 escolares de Primaria de Castilla-La Mancha que analiza cómo el valor que los niños conceden a la lectura se relaciona con su comportamiento lector, su gusto por leer y la socialización lectora de su familia. El resultado central es una contradicc",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#264653",
+    "bg": "from-emerald-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-18.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-18.png",
+      "name": "Santiago Yubero Jiménez y Elisa Larrañaga Rubio",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Santiago Yubero Jiménez y Elisa Larrañaga Rubio, autor/a en Revista Ocnos",
+      "gancho": "Investigación empírica con 1.669 escolares de Primaria de Castilla-La Mancha que analiza cómo el valor que los niños conceden a la lectura se relaciona con su comportamiento lector, su gusto por leer ",
+      "contexto": "El texto ofrece datos de encuadre sobre España: mientras casi la mitad de la población adulta no lee, la franja de menores alcanzó un 85% de lectores en 2007 y un 92.9% en 2009, según la Federación de Gremios de Editores de España (FGEE). Sin embargo, el último informe PISA (diciembre de 2007) situaba a España en la parte baja de los 30 Estados de la OCDE y 23 puntos por debajo de la media europea en comprensión lectora, con índices de fracaso es",
+      "deepDives": [
+        {
+          "id": "valor_lectura_relacion_comportamiento_lector-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "El artículo parte de una paradoja educativa: los índices oficiales indican que la población infantil lee mucho, pero buena parte de esa lectura es obligatoria y no llega a convertirse en hábito voluntario ni en parte del ocio. Los autores sostienen que para ser lector habitual es necesario *valorar*"
+        },
+        {
+          "id": "valor_lectura_relacion_comportamiento_lector-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "El texto ofrece datos de encuadre sobre España: mientras casi la mitad de la población adulta no lee, la franja de menores alcanzó un 85% de lectores en 2007 y un 92.9% en 2009, según la Federación de Gremios de Editores de España (FGEE). Sin embargo, el último informe PISA (diciembre de 2007) situa"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El artículo parte de una paradoja educativa: los índices oficiales indican que la población infantil lee mucho, pero buena parte de esa lectura es obligatoria y no llega a convertirse en hábito voluntario ni en parte del ocio. Los autores sostienen que para ser lector habitual es necesario *valorar* la lectura y practicarla de forma libre, de modo ",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "24 años (FGEE, 2009) | 67.5% | p. 9 |",
+        "13 años (Barómetro 2009) | 92.9% (70.1% frecuente, 22.8% ocasional) | p. 9 |",
+        "4); Valores y comportamiento (p. 2); Valores y lectura (pp. 3-4)`"
+      ],
+      "glossary": [
+        {
+          "term": "Valor de la lectura",
+          "definition": "importancia que el sujeto atribuye a leer como hecho cultural relevante."
+        },
+        {
+          "term": "Valor instrumental",
+          "definition": "lectura entendida como destreza útil para aprender o aprobar."
+        },
+        {
+          "term": "Valor intrínseco",
+          "definition": "lectura valorada como actividad placentera y reforzadora en sí misma."
+        },
+        {
+          "term": "Socialización lectora",
+          "definition": "proceso por el que el entorno familiar transmite valores y hábitos de lectura."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Estudio empírico descriptivo y correlacional (no experimental), con \"marcado carácter empírico\", que analiza conjuntamente comportamiento lector, valor de la lectura y socialización familiar. \n**Muestra**: 1.669 alumnos de los tres últimos cursos de Educación Primaria (362 de 4º, 21.7%; 658 de 5º, 39.4%; y 649 de 6º, 38.9%), de los que el 50.7% son chicos (847) y el 49.2% chicas (822), procedentes",
+      "detalles": [
+        {
+          "label": "4º de Primaria",
+          "value": "362 - 21.7%"
+        },
+        {
+          "label": "5º de Primaria",
+          "value": "658 - 39.4%"
+        },
+        {
+          "label": "6º de Primaria",
+          "value": "649 - 38.9%"
+        },
+        {
+          "label": "Chicos",
+          "value": "847 - 50.7%"
+        }
+      ],
+      "limitaciones": [
+        "Los autores **no declaran un apartado formal de limitaciones**. Sí reconocen, en la discusión, que sus índices de lectura incluyen la lectura obligatoria y que, por ello, \"posiblemente el porcentaje r"
+      ],
+      "reflexion": "El estudio clasifica a los lectores con umbrales (más de 5 libros/año, lectura en vacaciones, obligatoriedad de 3 libros). ¿Cómo adaptarías esos criterios para medir la lectura voluntaria en tu propio contexto sin depender del autoinforme?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "Alto índice de lectura, pero ligado a la obligatoriedad.",
+          "value": "El 98.7% de los escolares leyó algún libro el curso anterior (98.1% chicos, 99.4% chicas) y el 93.6% leyó en vacaciones (92.1% / 95.1%). El 86% informa que en el colegio le mandaron leer libros, y la media de libros obligatorios se sitúa ligeramente por encima de 3 (M = 3.32)."
+        },
+        {
+          "label": "Al depurar la lectura voluntaria, los lectores bajan al 80%.",
+          "value": "Al cruzar lectura del curso y de vacaciones (contingencia significativa al 99%, Chi-cuadrado = 183.19; p < .000), la recodificación deja un 64.4% de lectores frecuentes y un 15.6% de lectores ocasionales, frente a un 20.0% de no lectores."
+        },
+        {
+          "label": "Las chicas leen más.",
+          "value": "La tipología lectora muestra 67.2% de chicas lectoras frecuentes frente a 61.7% de chicos, y 17.4% de no lectoras frente a 22.7% de no lectores (Chi-cuadrado = 7.54; p < .023)."
+        },
+        {
+          "label": "El valor social de la lectura supera al de la conducta lectora.",
+          "value": "La imagen social de la lectura obtiene M = 3.03 frente a M = 2.65 de la conducta lectora; aunque ambos aspectos están relacionados (r = .87; p < .000), la diferencia de medias es significativa (t(1528) = 33.96; p < .000). Las puntuaciones de las chicas son más altas en todos los "
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El artículo define los valores como \"creencias acerca de las formas específicas de conducta, que son preferibles a nivel personal y social\", que orientan la conducta y pueden modificarse según la evolución psicológica y las situaciones vitales (Blonigen et al., 2008). Dentro de los grupos sociales, los valores se adquieren en el proceso de socialización, y el entorno cultural es responsable de est",
+      "detalles": [
+        {
+          "label": "Rokeach (1973) (Los valores se ordenan en un siste",
+          "value": "p. 2"
+        },
+        {
+          "label": "Schwartz (1992, 2005) (Los valores son criterios p",
+          "value": "pp. 3, 5"
+        },
+        {
+          "label": "Schwartz, Sagiv y Boehnke (2000) (Patrón seguido p",
+          "value": "p. 5"
+        },
+        {
+          "label": "Bilsky y Schwartz (1994) (Peso de experiencias pre",
+          "value": "p. 2"
+        }
+      ],
+      "reflexion": "Si el valor instrumental \"ya está transmitido\" y el intrínseco es el débil, ¿qué contra-argumento darías a quien defienda que basta con aumentar las lecturas obligatorias? ¿Qué evidencia del propio estudio usarías?"
+    },
+    "nucleo": {
+      "pregunta": "¿Qué relación existe entre el valor que los niños conceden a la lectura, su comportamiento lector y la socialización lectora de su familia, y hasta qué punto los índices elevados de lectura reflejan lectura realmente voluntaria?",
+      "conclusion": "La lectura goza de un **elevado valor social** (M = 3.03) en la sociedad y en la escuela, pero ese prestigio convive con una **menor valoración de la conducta lectora efectiva** (M = 2.65) y con poco tiempo dedicado a leer. Existe una \"contradicción cultural\": está \"altamente valorado el hecho de ser lector\" pero \"no se dedica, en general, tiempo a leer\". Al depurar la lectura obligatoria, el porcentaje de lectores voluntarios se sitúa en el 80% ",
+      "formalRef": "Yubero Jiménez, S. y Larrañaga Rubio, E. (2010). El valor de la lectura en relación con el comportamiento lector. Un estudio sobre los hábitos lectores y el estilo de vida en niños. *Ocnos. Revista de estudios sobre lectura*, 6, 7-20. https://doi.org/10.18239/ocnos_2010.06.01\n> *Nota de rigor: el DOI 10.18239/ocnos_2010.06.01 no figura en el texto plano; se adopta del identificador de la revista Ocnos 6 (2010) para el artículo de apertura.*"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es la contradicción cultural que describe el estudio?",
+          "options": [
+            "A) Los niños leen mucho más que los adultos, pero obtienen peores notas.",
+            "B) La lectura está altamente valorada como imagen social, pero se dedica poco tiempo a leer. ✔",
+            "C) Los docentes leen menos que los alumnos.",
+            "D) Las familias valoran la lectura por encima de la escuela."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "Al eliminar la lectura obligatoria del cómputo, ¿qué porcentaje de lectores voluntarios obtienen los autores?",
+          "options": [
+            "A) 98.7%, igual que el índice bruto.",
+            "B) 92.9%, coincidiendo con el Barómetro de la FGEE.",
+            "C) 80% (64.4% frecuentes y 15.6% ocasionales). ✔",
+            "D) 50%, al descontar los no lectores."
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  }
+}

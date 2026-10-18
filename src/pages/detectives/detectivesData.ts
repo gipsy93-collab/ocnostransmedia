@@ -1,5 +1,5 @@
 
-import { AuthorStat, Flashcard } from './types';
+import { AuthorStat, Flashcard } from './detectivesTypes';
 
 // Data extracted from PDF: "Ocnos, 25(1) (2026). ISSN-e: 1885-446X"
 // DOI: https://doi.org/10.18239/ocnos_2026.25.1.632

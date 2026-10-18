@@ -1,7 +1,7 @@
 {
   "id": "libros_digitales_infantil",
   "metadata": {
-    "title": "Libros digitales, mediación adulta, lenguaje y alfabetización emergente: una revisión de la literatura",
+    "title": "Libros digitales, mediación adulta, lenguaje y alfabetización emergente: Una revisión de la literatura",
     "authors": "Pamela Urra y Susana Mendive",
     "year": "2026",
     "journal": "Ocnos 25(1)",
@@ -12,9 +12,9 @@
     "color": "#5b9eaa",
     "colorAlt": "#2a5a75",
     "bg": "from-sky-500/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-4.png",
+    "image": "/assets/portadas/libros_digitales_infantil.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-4.png",
+      "image": "/assets/portadas/libros_digitales_infantil.jpg",
       "name": "Dra. Pamela Urra",
       "role": "Investigadora en Alfabetización Temprana y Recursos Digitales, Pontificia Universidad Católica de Chile"
     }
@@ -69,7 +69,7 @@
         },
         {
           "label": "Población",
-          "value": "Niños de 2 a 8 años y sus cuidadores/educadores."
+          "value": "Niños de primera infancia (menores de primero básico) y sus cuidadores/educadores."
         },
         {
           "label": "Variables",
@@ -77,8 +77,8 @@
         }
       ],
       "limitaciones": [
-        "Muestras centradas en familias de clase media urbana.",
-        "Falta de estudios de seguimiento a largo plazo."
+        "Las clasificaciones de los enriquecimientos podrían refinarse si cada estudio describiera cada recurso multimedia y su función.",
+        "Queda pendiente explorar más enriquecimientos orientados al niño y al adulto y habilidades más allá de la comprensión y el vocabulario."
       ],
       "reflexion": "El libro digital no es el enemigo ni el salvador: es un artefacto cultural cuya eficacia depende de la presencia cariñosa del adulto."
     },
@@ -96,8 +96,8 @@
         }
       ],
       "dataPoints": [
-        "Los enriquecimientos distractores (minijuegos ajenos) reducen la comprensión en un 30%.",
-        "Desactivar la voz grabada para que lea el padre o madre mejora el vínculo socioemocional."
+        "Los enriquecimientos interactivos no alineados con la historia (juegos, diccionarios) actúan como distractores y disminuyen el aprendizaje.",
+        "La mediación del adulto durante la lectura de libros impresos resultó más efectiva que los enriquecimientos digitales para la lectura independiente del niño."
       ],
       "reflexion": "La magia no está en el píxel, sino en la mirada compartida entre quien lee y quien escucha."
     },
@@ -177,7 +177,7 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Revisamos una década de investigación experimental en WoS y Scopus sobre niños de 2 a 8 años.",
+      "text": "Revisamos una década de investigación experimental en WoS y Scopus sobre niños de primera infancia.",
       "position": "bottom-right"
     },
     "revelacion": {
@@ -202,110 +202,217 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Libros Digitales y Alfabetización Emergente Infantil",
-    "descripcion": "Interacciones entre libros digitales enriquecidos, animaciones congruentes, mediación dialógica adulta y adquisición léxica en la primera infancia.",
+    "titulo": "Mapa conceptual: Libros digitales, mediación adulta y alfabetización emergente (Ocnos 25(1) 2026)",
+    "descripcion": "Revisión de alcance de 32 estudios experimentales (WOS y Scopus, 2012-2021) sobre libros digitales infantiles que sistematiza enriquecimientos, condiciones de estudio y procedimientos de instrucción, y analiza su influencia en la mediación del adulto y en el lenguaje y la alfabetización emergente.",
     "nodos": [
       {
         "id": "1",
-        "label": "Alfabetización Emergente",
-        "color": "#5b9eaa"
+        "label": "Lectura Compartida y Mediación Adulta",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "El efecto de la lectura temprana se explica en parte por el adulto que se interpone entre el estímulo y el niño, modificando orden, frecuencia, intensidad y contexto (Tzuriel, 2013). En ella el niño recibe toda la atención del adulto y conversa con mayor complejidad lingüística (Sénéchal et al., 1996)."
       },
       {
         "id": "2",
-        "label": "Libros Digitales Enriquecidos",
-        "color": "#2a5a75"
+        "label": "Lectura Dialógica (Whitehurst, 1988)",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Exposición repetida del niño al libro acompañada de estrategias que promueven su participación; fomenta el lenguaje y la alfabetización emergente y, en particular, el vocabulario (Flack et al., 2018)."
       },
       {
         "id": "3",
-        "label": "Mediación Dialógica Adulta",
-        "color": "#88b04b"
+        "label": "Libros Digitales y sus Enriquecimientos",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Libros accesibles mediante pantallas que incluyen sonidos de fondo, animaciones, hotspots y juegos que 'mejoran' la experiencia (Bus et al., 2020). Labbo y Kuhn (2000) muestran que los enriquecimientos congruentes con la historia apoyan comprensión y recontado frente a la visualización pasiva."
       },
       {
         "id": "4",
-        "label": "Adquisición de Vocabulario",
-        "color": "#f4d068"
+        "label": "Multimedia frente a Interactivos",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Takacs et al. (2015) encuentran beneficiosos los elementos multimedia y distractores los interactivos (juegos, diccionarios); Reich et al. (2016) confirma el distractor de animaciones y juegos; Kucirkova (2017) advierte que la frontera es borrosa; Furenes et al. (2021) distingue fines estéticos y de aprendizaje."
       },
       {
         "id": "5",
-        "label": "Animaciones Congruentes",
-        "color": "#2a9d8f"
+        "label": "Objetivo: Dos Preguntas de Revisión",
+        "color": "#e76f51",
+        "role": "Objetivo",
+        "descripcion": "Revisión de alcance (Munn et al., 2018) que pregunta qué reportan los estudios de la última década sobre la mediación del adulto y sobre la influencia de los libros digitales en el lenguaje y la alfabetización emergente, considerando enriquecimientos, condiciones de estudio y procedimientos de instrucción."
       },
       {
         "id": "6",
-        "label": "Enriquecimientos Distractores",
-        "color": "#e76f51"
+        "label": "Búsqueda en WOS y Scopus 2012-2021",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Entre septiembre y diciembre de 2022 se localizaron 121 artículos en WOS y 100 en Scopus; los filtros de exclusión (poblaciones atípicas o bilingües, juegos, estudios observacionales) dejaron 25, y la estrategia de bola de nieve añadió 7 más."
       },
       {
         "id": "7",
-        "label": "Lectura Solitaria Errática",
-        "color": "#c73e1d"
+        "label": "Corpus de 32 Artículos",
+        "color": "#f4a261",
+        "role": "Método",
+        "descripcion": "Total analizado: 32 artículos; 50% realizados en Estados Unidos, 13% en Canadá e Israel cada uno y 24% en Europa. Todos los análisis los realizó la primera autora y los consensuó la segunda mediante análisis categorial."
       },
       {
         "id": "8",
-        "label": "Input Lingüístico Interactivo",
-        "color": "#9b82c3"
+        "label": "Análisis Categorial de Cuatro Ejes",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Se clasificaron enriquecimientos (12 tipos), condiciones (digital/impreso, básico/enriquecido, con/sin apoyo adulto), procedimientos de instrucción (entrega, familiarización, instrucciones, recomendaciones, capacitación) y la mediación según Rowe y Snow (2020): dimensiones interactiva, lingüística y conceptual."
       },
       {
         "id": "9",
-        "label": "Formación Pedagógica Familiar",
-        "color": "#264653"
+        "label": "Audionarración y Conocimiento Impreso",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "Los enriquecimientos más usados son el apoyo al conocimiento de lo impreso (n=22; 11 en mediación) y la audionarración (n=28; 12), seguidos de animaciones (20) y puntos interactivos (17); diccionarios (4) y personalización (3) quedan minoritarios."
       },
       {
         "id": "10",
-        "label": "Diseño Editorial Ético",
-        "color": "#f4a261"
+        "label": "Dimensión Interactiva del Input Adulto",
+        "color": "#2a5a75",
+        "role": "Resultados",
+        "descripcion": "12 estudios reportan la dimensión interactiva frente a 5 la conceptual y 2 la lingüística. Con libros digitales los adultos elogian, animan y focalizan más, aunque otras mediciones favorecen al impreso en expansiones e interacciones: el patrón depende de variables e instrucción."
+      },
+      {
+        "id": "11",
+        "label": "Superioridad Leve del Digital Enriquecido",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Se observa ligera superioridad del libro digital sobre el impreso y del enriquecido sobre el básico en habilidades léxico-semánticas (15 estudios) y comprensión del discurso (11) y en la dimensión interactiva del input adulto; fueron eficaces diccionarios, animaciones, preguntas de vocabulario y puntos con estructura fonológica."
+      },
+      {
+        "id": "12",
+        "label": "Máxima Eficacia con Apoyo Adulto",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "5 de 6 estudios con/sin apoyo favorecen al apoyo adulto en léxico-semántica, comprensión y conciencia fonológica (Korat et al., 2013-2019; Dore et al., 2018); la condición de máxima eficacia es el libro digital enriquecido con apoyo del adulto, que da soporte cognitivo y emocional (Guernsey y Levine, 2015)."
+      },
+      {
+        "id": "13",
+        "label": "Instrucción: Entrega e Instrucciones",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Los procedimientos más comunes fueron solo entregar el libro y dar instrucciones de uso; las recomendaciones de lectura escasearon, y solo con ellas (Guevara et al., 2021; Korat et al., 2013) la mediación superó al libro impreso. Un personaje que incita la conversación (Troseth et al., 2020) resultó prometedor y económico."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Del Medio al Diseño",
+        "color": "#e76f51",
+        "role": "Discusión",
+        "descripcion": "La evidencia invita a centrarse en el diseño de los enriquecimientos y su propósito más que en la superioridad digital-impreso (Kucirkova, 2019; Furenes et al., 2021). La eficacia del libro digital depende de la calidad de sus enriquecimientos, y estos pueden sustituir parcialmente formaciones costosas."
+      },
+      {
+        "id": "15",
+        "label": "Conclusión: Apoyar al Adulto Mediador",
+        "color": "#2a9d8f",
+        "role": "Conclusiones",
+        "descripcion": "Concluye la necesidad de que investigación y desarrollo ofrezcan elementos atractivos, accesibles y bien orientados a la habilidad enseñada, y de transitar hacia procedimientos de instrucción que apoyen al adulto en la lectura con el niño, usando el soporte tecnológico como aliado para poblaciones vulnerables."
+      },
+      {
+        "id": "16",
+        "label": "Limitación: Refinar Clasificaciones",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "Las clasificaciones de enriquecimientos podrían refinarse si los estudios describieran cada recurso multimedia y su función. Queda pendiente explorar más enriquecimientos orientados al niño y al adulto y otras habilidades más allá de comprensión y vocabulario."
       }
     ],
     "aristas": [
       {
-        "from": "2",
-        "to": "1",
-        "label": "apoya el desarrollo de la"
+        "from": "1",
+        "to": "5",
+        "label": "fundamenta las"
       },
       {
-        "from": "3",
-        "to": "2",
-        "label": "es condición crítica para el éxito de"
+        "from": "2",
+        "to": "1",
+        "label": "operacionaliza la"
       },
       {
         "from": "2",
         "to": "5",
-        "label": "debe incorporar"
+        "label": "motivó las"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "es objeto de las"
+      },
+      {
+        "from": "4",
+        "to": "3",
+        "label": "clasifica los"
       },
       {
         "from": "5",
-        "to": "4",
-        "label": "dispara significativamente la"
+        "to": "6",
+        "label": "se abordó con la"
       },
       {
         "from": "6",
-        "to": "4",
-        "label": "bloquea y perjudica la"
+        "to": "7",
+        "label": "se amplió con bola de nieve hasta el"
       },
       {
-        "from": "7",
-        "to": "1",
-        "label": "fracasa en construir la"
-      },
-      {
-        "from": "3",
+        "from": "6",
         "to": "8",
-        "label": "enriquece la calidad del"
+        "label": "se procesó mediante el"
       },
       {
-        "from": "9",
-        "to": "3",
-        "label": "capacita a los hogares en"
+        "from": "8",
+        "to": "9",
+        "label": "revela el predominio de la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "sistematiza la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "contrastó básicos y enriquecidos y mostró la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "contrastó con y sin apoyo y evidenció la"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "identificó la prevalencia de la"
+      },
+      {
+        "from": "12",
+        "to": "1",
+        "label": "corrobora el papel de la"
       },
       {
         "from": "10",
-        "to": "5",
-        "label": "prioriza el desarrollo de"
+        "to": "14",
+        "label": "alimenta la"
       },
       {
-        "from": "10",
-        "to": "6",
-        "label": "elimina radicalmente los"
+        "from": "11",
+        "to": "14",
+        "label": "refuerza la"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "sustenta la urgencia del"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "encamina la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "se completa con la"
       }
     ]
   }

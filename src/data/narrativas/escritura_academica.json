@@ -2,7 +2,7 @@
   "id": "escritura_academica",
   "metadata": {
     "title": "La evaluación de la escritura académica en Educación Primaria, Secundaria y Educación Superior",
-    "authors": "Rocío Cuberos-Vicente y Elisa Rosado",
+    "authors": "Rocío Cuberos-Vicente, Elisa Rosado, Verónica Martínez y Melina Aparici",
     "year": "2026",
     "journal": "Ocnos 25(1)",
     "doi": "10.18239/ocnos_2026.25.1.588",
@@ -12,9 +12,9 @@
     "color": "#9b82c3",
     "colorAlt": "#2a5a75",
     "bg": "from-purple-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-6.png",
+    "image": "/assets/portadas/escritura_academica.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-6.png",
+      "image": "/assets/portadas/escritura_academica.jpg",
       "name": "Dra. Rocío Cuberos-Vicente",
       "role": "Investigadora en Lingüística Aplicada y Adquisición de la Escritura, Universidad Complutense de Madrid"
     }
@@ -23,7 +23,7 @@
     "apertura": {
       "personaje": "Dra. Rocío Cuberos-Vicente, lingüista especializada en desarrollo del registro académico y evaluación textual",
       "gancho": "¿Qué hace que un texto suene verdaderamente 'académico': las palabras rebuscadas o la arquitectura lógica de sus oraciones?",
-      "contexto": "Escribir un ensayo o informe académico no es una habilidad natural: es un registro lingüístico formal que requiere empaquetar información densa mediante nominalizaciones, subordinación compleja y marcadores discursivos precisos. Docentes de todos los niveles suelen quejarse de que los estudiantes 'no saben redactar', pero faltaban herramientas estandarizadas para medir objetivamente la calidad textual. En esta investigación con 212 textos analíticos de Primaria, Secundaria y Universidad, investigadoras de la UCM y la UB evaluaron el desarrollo evolutivo de los recursos morfosintácticos, léxicos y retóricos mediante rúbricas analíticas validadas.",
+      "contexto": "Escribir un ensayo o informe académico no es una habilidad natural: es un registro lingüístico formal que requiere empaquetar información densa mediante nominalizaciones, subordinación compleja y marcadores discursivos precisos. Docentes de todos los niveles suelen quejarse de que los estudiantes 'no saben redactar', pero faltaban herramientas estandarizadas para medir objetivamente la calidad textual. En esta investigación con 212 textos analíticos de Primaria, Secundaria y Universidad, investigadoras de la UCM, la UB, la Universidad de Oviedo y la UAB evaluaron el desarrollo evolutivo de los recursos morfosintácticos, léxicos y retóricos mediante rúbricas analíticas validadas.",
       "deepDives": [
         {
           "id": "ea-apertura-1",
@@ -35,7 +35,7 @@
           "id": "ea-apertura-2",
           "triggerLabel": "Corpus de 212 textos analíticos",
           "type": "data",
-          "content": "Muestra transversal compuesta por 65 alumnos de Primaria (6.º curso), 78 de Secundaria (4.º ESO) y 69 universitarios redactando sobre el mismo dilema social."
+          "content": "Muestra transversal compuesta por 65 alumnos de Primaria (6.º curso), 78 de Secundaria (4.º ESO) y 69 universitarios (1.º-2.º) redactando sobre la libertad de movimiento entre países."
         }
       ]
     },
@@ -44,8 +44,8 @@
       "porQueImporta": "El dominio de la escritura académica es el principal filtro de éxito socioeducativo. Sin criterios analíticos explícitos, los estudiantes vulnerables no aprenden cómo mejorar su redacción.",
       "dataPoints": [
         "Análisis de 212 textos analíticos codificados morfosintáctica y retóricamente.",
-        "Crecimiento evolutivo constante en la complejidad de cláusulas y longitud media de oración desde Primaria hasta la Universidad.",
-        "Paradoja detectada: la densidad léxica y la proporción de marcadores discursivos no mostraron un incremento lineal, estancándose en Secundaria.",
+        "Crecimiento evolutivo constante en la productividad (número de palabras) y la sofisticación léxica (longitud media de palabra) desde Primaria hasta la Universidad.",
+        "Paradoja detectada: ni la densidad léxica ni la proporción de marcadores discursivos variaron con el nivel educativo, manteniéndose estables.",
         "Alta concordancia interjueces en la rúbrica analítica, demostrando su validez como instrumento de evaluación objetiva."
       ],
       "glossary": [
@@ -65,11 +65,11 @@
       "detalles": [
         {
           "label": "Población",
-          "value": "65 de Primaria, 78 de Secundaria y 69 universitarios en Madrid y Barcelona."
+          "value": "65 de Primaria, 78 de Secundaria y 69 universitarios, en León y Ciudad Real."
         },
         {
           "label": "Tarea",
-          "value": "Redacción analítica sobre un dilema moral y cívico a partir de una guía común."
+          "value": "Redacción analítica sobre la libertad de movimiento entre países a partir de una secuencia didáctica común."
         },
         {
           "label": "Dimensiones",
@@ -87,27 +87,27 @@
       "narrativa": "El cruce entre codificación lingüística y juicio docente arrojó conclusiones esclarecedoras:",
       "hallazgos": [
         {
-          "label": "1. La Morfosintaxis Avanza Siempre",
-          "value": "A medida que crecen, los estudiantes subordinan más y empaquetan más proposiciones por oración de forma natural."
+          "label": "1. La Productividad y la Sofisticación Léxica Crecen Siempre",
+          "value": "A medida que crecen, los estudiantes producen textos más largos y emplean palabras más largas y sofisticadas de forma natural."
         },
         {
-          "label": "2. El Estancamiento de los Conectores",
-          "value": "Muchos universitarios siguen usando los mismos conectores básicos de Primaria ('pero', 'también', 'porque') sin incorporar conectores contraargumentativos refinados ('no obstante', 'por consiguiente')."
+          "label": "2. La Cohesión No Crece Acumulando Conectores",
+          "value": "La proporción de conectores sintácticos disminuye con la edad y los marcadores discursivos se mantienen estables: los universitarios logran la cohesión mediante mecanismos alternativos, no mediante la profusión de enlaces."
         },
         {
-          "label": "3. La Rúbrica como Herramienta Formativa",
-          "value": "La rúbrica analítica permitió a los profesores señalar con precisión quirúrgica dónde fallaba el texto de un estudiante."
+          "label": "3. Una Rúbrica Fiable entre Jueces",
+          "value": "La rúbrica analítica de seis criterios más nota global mostró una alta fiabilidad entre los nueve profesores de cada nivel (alfa de Cronbach ≥ .881), confirmando su utilidad como instrumento de evaluación."
         }
       ],
       "dataPoints": [
-        "La longitud media de la unidad terminal (T-unit) pasó de 9.4 palabras en Primaria a 16.8 en la Universidad.",
-        "El 60% de los textos universitarios analizados carecía de una conclusión dialéctica balanceada."
+        "El número medio de palabras de los textos pasó de 126.64 en Primaria a 272.94 en Secundaria y 337.22 en la Universidad.",
+        "Solo en Educación Superior la proporción de marcadores discursivos correlacionó negativamente con la nota global (r=-.298; explica el 8.9%)."
       ],
       "reflexion": "Escribir bien en la universidad no es tener talento innato: es haber sido entrenado en los códigos del discurso formal."
     },
     "marco": {
       "titulo": "Discusión: Enseñar a escribir a través de todo el currículo escolar y universitario",
-      "narrativa": "Cuberos-Vicente y Rosado instan a desterrar el mito de que 'aprender a escribir' termina en Primaria:",
+      "narrativa": "El equipo de autoras insta a desterrar el mito de que 'aprender a escribir' termina en Primaria:",
       "detalles": [
         {
           "label": "Escribir a Través del Currículo (WAC)",
@@ -122,7 +122,7 @@
     },
     "nucleo": {
       "pregunta": "¿Cómo se relacionan los recursos lingüísticos objetivos y la calidad evaluada en textos académicos a lo largo de las etapas educativas?",
-      "conclusion": "El estudio transversal de 212 textos analíticos de Primaria, Secundaria y Universidad confirma un desarrollo continuo en la complejidad sintáctica y longitud oracional, pero revela vacíos en la densidad léxica y el uso de conectores discursivos avanzados. El desarrollo de rúbricas analíticas rigurosas demuestra ser indispensable para desterrar la evaluación intuitiva y proporcionar a docentes y estudiantes un mapa compartido de las características que definen la excelencia en la escritura académica.",
+      "conclusion": "El estudio transversal de 212 textos analíticos de Primaria, Secundaria y Universidad confirma un desarrollo continuo en la productividad y la sofisticación léxica, pero revela que la densidad léxica y la proporción de marcadores discursivos se mantienen estables y que los conectores sintácticos disminuyen con la edad. El desarrollo de rúbricas analíticas rigurosas demuestra ser indispensable para desterrar la evaluación intuitiva y proporcionar a docentes y estudiantes un mapa compartido de las características que definen la excelencia en la escritura académica.",
       "formalRef": "Cuberos-Vicente, R., & Rosado, E. (2026). La evaluación de la escritura académica en Educación Primaria, Secundaria y Educación Superior. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.588"
     },
     "reflexion": {
@@ -132,7 +132,7 @@
           "q": "¿Qué característica lingüística mostró un incremento evolutivo continuo y consistente desde Primaria hasta la Universidad?",
           "options": [
             "La cantidad de faltas de ortografía.",
-            "La complejidad sintáctica y la longitud de las cláusulas y oraciones.",
+            "La productividad (número de palabras) y la longitud media de las palabras (sofisticación léxica).",
             "El uso de emoticonos en el texto.",
             "El número de adjetivos calificativos simples."
           ],
@@ -143,7 +143,7 @@
           "q": "¿Qué aspecto lingüístico experimentó un estancamiento inesperado entre Secundaria y la Universidad?",
           "options": [
             "La capacidad de escribir a máquina.",
-            "La proporción de conectores y marcadores discursivos avanzados y la densidad léxica.",
+            "La proporción de marcadores discursivos y la densidad léxica, que no varían con el nivel educativo.",
             "El uso de puntos y comas.",
             "La letra cursiva."
           ],
@@ -185,7 +185,7 @@
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Sorpresa! La sintaxis crece sola, pero el vocabulario y los conectores avanzados se estancan si no se enseñan de forma explícita.",
+      "text": "¡Sorpresa! Los textos y las palabras crecen con la edad, pero la densidad léxica y los marcadores discursivos se mantienen estables si no se enseñan de forma explícita.",
       "position": "bottom-right"
     },
     "marco": {
@@ -206,110 +206,222 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Evaluación del Desarrollo de la Escritura Académica",
-    "descripcion": "Trayectoria evolutiva desde Primaria hasta la Universidad: complejidad sintáctica, densidad léxica, marcadores discursivos y rúbricas analíticas.",
+    "titulo": "Mapa conceptual: Evaluación de la escritura académica en tres etapas educativas (Ocnos 25(1) 2026)",
+    "descripcion": "Estudio que relaciona los recursos lingüísticos codificados en 212 textos analíticos de Primaria, Secundaria y Universidad con la calidad percibida por docentes mediante una rúbrica analítica, para identificar qué indicadores explican la evaluación en cada nivel y diseñar instrumentos adaptados.",
     "nodos": [
       {
         "id": "1",
-        "label": "Registro Académico",
-        "color": "#9b82c3"
+        "label": "Texto Analítico y Lenguaje Académico",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Los textos analíticos combinan exposición y argumentación (Schleppegrell, 2004; Uccelli et al., 2019; Toulmin, 2002): el autor debe expresar su punto de vista, presentar argumentos a favor y en contra y ofrecer evidencia o refutaciones, con vocabulario diverso, sintaxis condensada y marcas de conexión."
       },
       {
         "id": "2",
-        "label": "Rúbricas Analíticas Validadas",
-        "color": "#2a5a75"
+        "label": "Adquisición Tardía de la Escritura Analítica",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Mientras la narración se domina hacia los 10 años, la escritura analítica es un logro tardío (Uccelli et al., 2012; Tolchinsky et al., 2017) cuyas dificultades perduran hasta la universidad y más allá (Gavari-Starkie y Tenca-Sidotti, 2017; Rosado et al., 2021)."
       },
       {
         "id": "3",
-        "label": "Complejidad Sintáctica (T-units)",
-        "color": "#88b04b"
+        "label": "Indicadores Lingüísticos de Calidad Textual",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Recursos léxicos, morfosintácticos y discursivos relacionados con la calidad (Aparici et al., 2021; Crossley et al., 2011; Salas et al., 2016; Tolchinsky et al., 2023), cuya relación con la evaluación de jueces externos no se había examinado desde una perspectiva evolutiva."
       },
       {
         "id": "4",
-        "label": "Densidad Léxica",
-        "color": "#f4d068"
+        "label": "Objetivo: Evaluación, Desarrollo y Relación",
+        "color": "#e76f51",
+        "role": "Objetivo",
+        "descripcion": "Tres preguntas: examinar las variaciones de la evaluación externa según nivel educativo; analizar el desarrollo de los recursos lingüísticos indicadores de calidad; identificar qué recursos explican mejor las evaluaciones docentes en cada nivel."
       },
       {
         "id": "5",
-        "label": "Marcadores Discursivos y Conectores",
-        "color": "#e88b8c"
+        "label": "Corpus de 212 Textos en Tres Niveles",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "212 textos de 6º de Primaria (n=65), 4º de Secundaria (n=78) y 1º-2º de Universidad (n=69), recogidos en dos centros de Primaria, tres de Secundaria y la Universidad de León, además de Ciudad Real, con ANOVA, regresiones y correlaciones de Pearson."
       },
       {
         "id": "6",
-        "label": "Estancamiento en Secundaria",
-        "color": "#e76f51"
+        "label": "Tarea sobre Libertad de Movimiento",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "En una secuencia didáctica de siete sesiones sobre la libertad de movimiento entre países, los estudiantes escribieron cinco textos a ordenador en 30 minutos; se analizó el texto 4, producido tras lecturas, discusión y evaluación entre iguales (Tolchinsky et al., 2023)."
       },
       {
         "id": "7",
-        "label": "Evaluación Formativa Objetiva",
-        "color": "#2a9d8f"
+        "label": "Rúbrica Analítica de Seis Criterios",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "Nueve profesores experimentados por nivel puntuaron contenido, organización, cohesión, vocabulario, corrección e impacto comunicativo más una nota global Likert 1-5 (rúbrica del proyecto EDU2015-65980-R). Fiabilidad entre jueces con alfa de Cronbach ≥ .881 en el 20% de los textos."
       },
       {
         "id": "8",
-        "label": "Corpus 212 Textos (UCM / UB)",
-        "color": "#264653"
+        "label": "Codificación con CHAT y CLAN",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Textos transcritos en CHAT y analizados con CLAN (MacWhinney, 2000): FREQ para productividad, conectores y marcadores; VOCD para diversidad léxica (índice D); WDLEN para sofisticación; segmentación en cláusulas (Berman y Slobin, 1994; Aparici, 2010) y etiquetado MOR/POST."
       },
       {
         "id": "9",
-        "label": "Escribir a Través del Currículo",
-        "color": "#5b9eaa"
+        "label": "Aumento de Productividad y Sofisticación",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "El número de palabras creció de 126.64 (Primaria) a 272.94 (Secundaria) y 337.22 (Universidad), y la longitud media de palabra de 5.88 a 6.85 (η²=.478); la diversidad léxica aumentó de forma significativa solo entre Primaria y Secundaria."
       },
       {
         "id": "10",
-        "label": "Autorregulación del Escritor",
-        "color": "#f4a261"
+        "label": "Descenso de Conectores Sintácticos",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "La proporción de conectores bajó de 45.47 en Primaria a 36.70 en la Universidad (p<.001), en línea con que la cohesión no siempre se obtiene mediante profusión de conectores (Crossley et al., 2011): los universitarios usarían mecanismos alternativos."
+      },
+      {
+        "id": "11",
+        "label": "Estabilidad de Marcadores y Densidad",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Ni los marcadores discursivos (5.23→4.20) ni la densidad léxica (≈36-37) variaron con el nivel educativo; la estabilidad de la densidad coincide con español y catalán pero se opone a inglés, hebreo y sueco, apuntando a diferencias tipológicas entre lenguas (Berman y Nir-Sagiv, 2010)."
+      },
+      {
+        "id": "12",
+        "label": "Evaluación Externa Crece con el Nivel",
+        "color": "#2a5a75",
+        "role": "Resultados",
+        "descripcion": "Todos los criterios subieron con el nivel (p. ej., organización: 3.30 en Primaria frente a 4.39 en Universidad; F=28.486; p<.001), con menor variabilidad que en Primaria; en la puntuación global no hubo diferencias significativas entre Secundaria y Universidad."
+      },
+      {
+        "id": "13",
+        "label": "Productividad Explica la Evaluación Docente",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "En Primaria el número de palabras explicó el 33.1% de la nota global (β=.583) y la mayoría de criterios (salvo corrección), con diversidad léxica en contenido; en Secundaria la productividad se asoció a contenido, vocabulario y nota global."
+      },
+      {
+        "id": "14",
+        "label": "Marcadores Penalan en la Universidad",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Solo en Educación Superior la proporción de marcadores correlacionó negativamente con la nota global (r=-.298; explica 8.9%), contenido, organización e impacto, lo que hipotetiza usos semántica o discursivamente inadecuados; la densidad léxica, en cambio, favoreció la organización (r=.332)."
+      },
+      {
+        "id": "15",
+        "label": "Conclusión: Instrumentos por Nivel",
+        "color": "#264653",
+        "role": "Conclusiones",
+        "descripcion": "La calidad evoluciona con el nivel en recursos y en evaluación, pero los docentes no aplican los mismos criterios: productividad y diversidad léxica pesan en Primaria y Secundaria, mientras los usos inadecuados de marcadores penalizan en Superior. Urgen instrumentos adaptados a cada etapa y análisis funcional más fino."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones: Funciones sin Analizar",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "No se distinguieron las funciones discursivas de los marcadores (estructuración, modalización), los marcadores multipalabra no convencionales (Cuenca, 2013) ni los usos gramatical o semánticamente inadecuados; se propone que docentes evalúen textos de otros niveles y describir la naturaleza de los marcadores empleados."
       }
     ],
     "aristas": [
       {
-        "from": "8",
-        "to": "1",
-        "label": "analiza el desarrollo del"
-      },
-      {
-        "from": "2",
-        "to": "1",
-        "label": "evalúa con rigor los criterios del"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "requiere alta"
-      },
-      {
         "from": "1",
         "to": "4",
-        "label": "se caracteriza por una elevada"
-      },
-      {
-        "from": "1",
-        "to": "5",
-        "label": "se articula mediante"
-      },
-      {
-        "from": "6",
-        "to": "5",
-        "label": "identifica un freno en el uso de"
+        "label": "delimita el"
       },
       {
         "from": "2",
+        "to": "4",
+        "label": "justifica el"
+      },
+      {
+        "from": "3",
+        "to": "8",
+        "label": "se codifica con la"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se abordó con el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se recogió mediante la"
+      },
+      {
+        "from": "5",
         "to": "7",
-        "label": "transforma la corrección en"
+        "label": "se evaluó externamente con la"
       },
       {
         "from": "7",
+        "to": "12",
+        "label": "produjo la"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "reveló el"
+      },
+      {
+        "from": "8",
         "to": "10",
-        "label": "fomenta en el estudiante la"
+        "label": "reveló el"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "reveló la"
       },
       {
         "from": "9",
-        "to": "1",
-        "label": "generaliza en todas las materias el"
+        "to": "13",
+        "label": "sostuvo el papel de la"
       },
       {
-        "from": "10",
-        "to": "1",
-        "label": "capacita para dominar el"
+        "from": "9",
+        "to": "11",
+        "label": "convivió con la"
+      },
+      {
+        "from": "11",
+        "to": "3",
+        "label": "discutió los"
+      },
+      {
+        "from": "11",
+        "to": "15",
+        "label": "matiza la"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "condujo a la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "condicionó la"
+      },
+      {
+        "from": "16",
+        "to": "14",
+        "label": "se comprende desde la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "respaldó la"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "definió el género del"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "se acompañó de la"
       }
     ]
   }

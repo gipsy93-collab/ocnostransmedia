@@ -2,17 +2,17 @@
   "id": "narracion_digital_albumes",
   "metadata": {
     "title": "Lecturas ricas y lecturas reductoras en la narración digital de álbumes ilustrados",
-    "authors": "Cristina Quesada-Padrón y Jesús Díaz-Armas",
+    "authors": "Cristina Quesada-Padrón, Jesús Díaz-Armas, Carmen A. Perdomo-López y Patricia Mauclair",
     "year": "2025",
     "journal": "Ocnos 24(1)",
-    "doi": "10.18239/ocnos2025.24.1.477",
-    "gancho": "¿Qué le ocurre al arte de un álbum ilustrado cuando un youtuber lo convierte en un vídeo animado con música estridente?",
+    "doi": "10.18239/ocnos_2025.24.1.477",
+    "gancho": "¿Qué le ocurre a un álbum ilustrado cuando se convierte en un vídeo casero grabado durante el confinamiento?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#f4d068",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-400/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-23.png",
+    "image": "/assets/portadas/narracion_digital_albumes.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-23.png",
       "name": "Dra. Cristina Quesada-Padrón",
@@ -21,41 +21,41 @@
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Cristina Quesada-Padrón, semióloga del álbum ilustrado y transposición audiovisual",
-      "gancho": "¿Multiplica YouTube la belleza de un cuento ilustrado o lo amputa convirtiéndolo en un dibujo animado barato?",
-      "contexto": "Millones de niños consumen cuentos en plataformas digitales como YouTube mediante 'videocuentos' o lecturas en voz alta grabadas. Este estudio analiza un corpus de 28 narraciones digitales del célebre álbum ilustrado 'Hay un oso en el cuarto oscuro' de Helen Cooper (1993). Los autores comparan cómo las diferentes mediaciones audiovisuales generan 'lecturas ricas' (que respetan el tempo, el suspense y la interacción texto-imagen) o 'lecturas reductoras' (que recortan ilustraciones, añaden efectos de sonido invasivos o destruyen la ambigüedad poética).",
+      "personaje": "Dra. Cristina Quesada-Padrón, investigadora del álbum ilustrado y de la mediación lectora digital",
+      "gancho": "¿Multiplica YouTube la belleza de un cuento ilustrado o lo amputa ocultando media imagen?",
+      "contexto": "Millones de niños consumen cuentos en plataformas digitales como YouTube mediante videocuentos o lecturas en voz alta grabadas. Este estudio analiza un corpus de 53 narraciones digitales del álbum ilustrado 'Hay un oso en el cuarto oscuro' de Helen Cooper (1993), localizadas en YouTube, Facebook y Vimeo. Los autores comparan cómo los mediadores mostraban u ocultaban los indicios que permiten construir el sentido de la obra, generando amplificaciones de 'lecturas ricas' (atentas a todos los indicios y a la ambigüedad del álbum) o 'lecturas reductoras' (que obvian los detalles que contradicen al narrador literario).",
       "deepDives": [
         {
           "id": "alb-dig-1",
-          "triggerLabel": "El álbum como 'tercer espacio' semiótico",
+          "triggerLabel": "Dos narradores que disienten",
           "type": "theory",
-          "content": "La interacción entre texto verbal e imagen crea un espacio de incertidumbre que el lector infantil debe rellenar activamente con su imaginación."
+          "content": "La relación de contradicción o contrapunto entre palabra e imagen obliga al lector a reconstruir el sentido: el narrador literario pronuncia las palabras y el narrador visual muestra lo que ocurre."
         },
         {
           "id": "alb-dig-2",
-          "triggerLabel": "Corpus de 28 vídeos en YouTube",
+          "triggerLabel": "Corpus de 53 vídeos en tres lenguas",
           "type": "data",
-          "content": "Análisis multimodal de 28 vídeos en español con más de 1.5 millones de visualizaciones acumuladas."
+          "content": "Análisis de narraciones en YouTube (34), Facebook (17) y Vimeo (2): 40 en inglés, 12 en castellano y una en catalán."
         }
       ]
     },
     "conflicto": {
-      "problema": "La transposición apresurada a vídeo suele aplanar la polisemia del álbum, sustituyendo el silencio reflexivo y la mirada atenta por estímulos mecánicos y dramatizaciones histriónicas.",
-      "porQueImporta": "Los niños expuestos únicamente a videocuentos reductores pierden la capacidad de leer la sutileza visual y el suspense narrativo en libros impresos.",
+      "problema": "La narración digital tiende a reducir el álbum a su texto verbal: se salta los peritextos que contienen parte de la narración y se ocultan los detalles liminares de las ilustraciones que contradicen al narrador literario.",
+      "porQueImporta": "Una mediación poco atenta a las señales del texto puede anular la riqueza plurisignificativa de la obra y privar a los destinatarios infantiles de construir sus propias significaciones.",
       "dataPoints": [
-        "Corpus de 28 narraciones digitales del álbum de Helen Cooper.",
-        "El 64% de los vídeos incurrió en 'lecturas reductoras' (eliminación de páginas clave, zooms que mutilan el encuadre original).",
-        "Solo el 21% logró una 'lectura rica' que enriquecía la experiencia sin anular la contemplación pausada.",
-        "Efecto perverso de los efectos de sonido cómicos en escenas de miedo o misterio psicológico."
+        "Corpus de 53 narraciones digitales del álbum de Helen Cooper localizadas en YouTube, Facebook y Vimeo en julio de 2021.",
+        "El texto literario se reproduce sin faltar una palabra en todos los vídeos, pero solo el 19,2% muestra las ilustraciones en su totalidad.",
+        "13 vídeos (9 narrados en castellano) impiden ver al oso escondido tras el biombo y la puerta en la página climática.",
+        "El 46% de los narradores se limita a leer el texto verbal del álbum sin amplificarlo jamás."
       ],
       "glossary": [
         {
           "term": "Lectura reductora",
-          "definition": "Transposición que simplifica, mutila o desfigura la riqueza semiótica y estética original de una obra literaria o ilustrada."
+          "definition": "Amplificación que obvía los detalles que cuestionan la versión del narrador literario, a menudo ocultando peritextos e indicios de la ilustración."
         },
         {
-          "term": "Lectura rica (Multimodal)",
-          "definition": "Mediación que respeta el ritmo del libro, amplifica sus matices de sentido y guía la mirada del receptor hacia detalles significativos."
+          "term": "Lectura rica",
+          "definition": "Amplificación que atiende a todos los indicios dirigidos al lector atento y cuestiona la versión del narrador literario, sosteniendo la ambigüedad de la obra."
         }
       ]
     },
@@ -69,7 +69,7 @@
         },
         {
           "label": "Corpus",
-          "value": "28 narraciones audiovisuales en YouTube en castellano."
+          "value": "53 narraciones audiovisuales en YouTube (34), Facebook (17) y Vimeo (2); 40 en inglés, 12 en castellano y 1 en catalán."
         }
       ],
       "limitaciones": [
@@ -91,7 +91,7 @@
         }
       ],
       "dataPoints": [
-        "El 40% de los canales monetizados recortó ilustraciones para ajustarlas al formato panorámico 16:9, amputando detalles cruciales."
+        "La mayoría de los vídeos (39 de 53) ofreció una reproducción visual fragmentaria, mostrando solo algún detalle mediante zoom o desde una cámara demasiado lejana."
       ],
       "reflexion": "Un buen videocuento no suplanta al libro: invita a correr a la biblioteca a tocar el papel."
     },
@@ -108,8 +108,8 @@
     },
     "nucleo": {
       "pregunta": "¿Cómo transforman las narraciones digitales en plataformas de vídeo la recepción y los sentidos del álbum ilustrado?",
-      "conclusion": "El análisis semiótico de 28 adaptaciones en YouTube de 'Hay un oso en el cuarto oscuro' constata el predominio de 'lecturas reductoras' (64%) que trivializan la polisemia del álbum mediante zooms mutiladores y sonorización discordante. Frente a ello, las 'lecturas ricas' demuestran que el medio audiovisual puede potenciar la recepción literaria cuando respeta el tempo contemplativo y la relación dialéctica entre texto e imagen.",
-      "formalRef": "Quesada-Padrón, C., & Díaz-Armas, J. (2025). Lecturas ricas y lecturas reductoras en la narración digital de álbumes ilustrados. Ocnos, 24(1). https://doi.org/10.18239/ocnos2025.24.1.477"
+      "conclusion": "El análisis semiótico de 53 narraciones digitales de 'Hay un oso en el cuarto oscuro' constata la desatención a la ilustración: solo 15 mediadores ofrecen 'lecturas ricas', mientras 7 caen en 'lecturas reductoras' que trivializan la polisemia del álbum mediante zooms mutiladores y sonorización discordante. Frente a ello, las 'lecturas ricas' demuestran que el medio audiovisual puede potenciar la recepción literaria cuando respeta el tempo contemplativo y la relación dialéctica entre texto e imagen.",
+      "formalRef": "Quesada-Padrón, C., Díaz-Armas, J., Perdomo-López, C. A., & Mauclair, P. (2025). Lecturas ricas y lecturas reductoras en la narración digital de álbumes ilustrados. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.477"
     },
     "reflexion": {
       "questions": [
@@ -126,7 +126,7 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué célebre álbum ilustrado de Helen Cooper fue el objeto central del corpus de 28 narraciones digitales analizadas?",
+          "q": "¿Qué célebre álbum ilustrado de Helen Cooper fue el objeto central del corpus de 53 narraciones digitales analizadas?",
           "options": [
             "'El Principito'.",
             "'Hay un oso en el cuarto oscuro' (1993).",
@@ -167,11 +167,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Analizamos 28 adaptaciones digitales de 'Hay un oso en el cuarto oscuro' con una lupa semiótica implacable.",
+      "text": "Analizamos 53 narraciones digitales de 'Hay un oso en el cuarto oscuro' con una lupa semiótica implacable.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El 64% de los vídeos son lecturas reductoras! Solo unos pocos logran enriquecer la experiencia infantil.",
+      "text": "¡15 mediadores logran lecturas ricas y solo 7 caen en reductoras! Algunos logran enriquecer la experiencia infantil.",
       "position": "bottom-right"
     },
     "marco": {
@@ -192,110 +192,222 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Lecturas Ricas y Reductoras de Álbumes en Plataformas Digitales",
-    "descripcion": "Análisis multimodal de 28 videocuentos en YouTube: respeto al encuadre, polifonía semiótica, tempo narrativo y mediación audiovisual.",
+    "titulo": "Mapa conceptual: Lecturas ricas y reductoras en la narración digital de álbumes (Ocnos 24(1) 2025)",
+    "descripcion": "De la teoría de la palabra-imagen y el desbordamiento del peritexto al análisis de 53 narraciones digitales de Hay un oso en el cuarto oscuro: los mediadores muestran u ocultan indicios visuales y generan amplificaciones ricas o reductoras, con recomendaciones finales para la mediación.",
     "nodos": [
       {
         "id": "1",
-        "label": "Videocuentos en YouTube",
-        "color": "#f4d068"
+        "label": "Álbum ilustrado como texto multimodal",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La ilustración no es un paratexto accesorio frente al texto verbal sino parte de un único texto multimodal (Lewis, 2001; Nikolajeva y Scott, 2001; Nodelman, 1988). Las relaciones entre palabra e imagen van de la interdependencia a la sustitución en el álbum silente (Mourão, 2011)."
       },
       {
         "id": "2",
-        "label": "Álbum de Helen Cooper (1993)",
-        "color": "#2a5a75"
+        "label": "Contrapunto: dos narradores que disienten",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "La relación de contradicción o contrapunto obliga al lector a reconstruir el sentido al percibir dos narradores distintos: el literario que pronuncia las palabras y el visual que muestra lo que ocurre (Díaz-Armas, 2010; Dueñas-Lorente, 2022; Rhedin, 1992)."
       },
       {
         "id": "3",
-        "label": "Lecturas Reductoras (64%)",
-        "color": "#c73e1d"
+        "label": "Peritexto y desbordamiento narrativo",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Los espacios liminares —cubierta, guardas, portada— sostienen el contrato de lectura (Genette, 1982; 1987). En el álbum pueden iniciar, continuar o concluir la narración: desbordamiento narrativo (Díaz-Armas, 2003; 2006) y función hermenéutica de los peritextos (Kunde, 2021)."
       },
       {
         "id": "4",
-        "label": "Lecturas Ricas (21%)",
-        "color": "#88b04b"
+        "label": "Narración digital como texto asincrónico",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Con internet, la narración pervive como comunicación multimodal asincrónica, reproducida o adaptada (Cassany, 2012). Las mediaciones orales atentas al álbum (Ellis y Brewster, 2014; Ellis y Mourão, 2021) rara vez se han estudiado en narraciones digitales no animadas, salvo Bajour (2022)."
       },
       {
         "id": "5",
-        "label": "Mutilación de Encuadres (16:9)",
-        "color": "#e76f51"
+        "label": "Objetivo: mostrar u ocultar indicios",
+        "color": "#e76f51",
+        "role": "Objetivo",
+        "descripcion": "Analizar las estrategias de mediadores digitales de distintos países y lenguas para mostrar u ocultar los indicios que permiten la lectura de Hay un oso en el cuarto oscuro (The bear under the stairs, Helen Cooper, 1993). Estudia las interpretaciones derivadas, ricas o reductoras."
       },
       {
         "id": "6",
-        "label": "Sonorización Invasiva Estridente",
-        "color": "#9b82c3"
+        "label": "Corpus de 53 vídeos en tres lenguas",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Búsqueda en la web en julio de 2021 en YouTube (34), Facebook (17) y Vimeo (2), arrojando 53 narraciones: 40 en inglés, 12 en castellano y 1 en catalán. Los datos de localización se publicaron en el repositorio Zenodo (Quesada-Padrón et al., 2024)."
       },
       {
         "id": "7",
-        "label": "Pausa y Tempo Contemplativo",
-        "color": "#2a9d8f"
+        "label": "Texto visual y verbal resultantes",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Se distinguen el texto literario y visual originales del texto visual y verbal resultantes en el vídeo, reproducidos íntegra o fragmentariamente, amplificados o subrayados. Seis bloques de análisis codifican plataforma, contexto, estrategias y presencia del peritexto y los detalles liminares."
       },
       {
         "id": "8",
-        "label": "Polisemia Texto-Imagen",
-        "color": "#5b9eaa"
+        "label": "Perfil mediador y baja audiencia",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "El 45% se publicó en EEUU, 32% en Reino Unido, 17% en Latinoamérica y 6% en España; 48 de 53 proceden de cuentas profesionales. Casi todos (44) se subieron en 2020 y al menos cuatro docentes narraban el álbum por Zoom a su alumnado confinado. En julio de 2021, 40 vídeos tenían entre 1 y 800 visualizaciones."
       },
       {
         "id": "9",
-        "label": "Libro Físico como Referencia",
-        "color": "#264653"
+        "label": "Muestra condicionada por el confinamiento",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "La búsqueda de julio de 2021 coincidió con la pandemia, quizá una muestra más abundante de la que se hubiera obtenido después. El análisis no profundiza en gestos ni tonos de voz y las conclusiones proceden de un único álbum emblemático."
       },
       {
         "id": "10",
-        "label": "Alfabetización Multimodal Crítica",
-        "color": "#f4a261"
+        "label": "Texto íntegro, imagen fragmentaria",
+        "color": "#2a5a75",
+        "role": "Resultados",
+        "descripcion": "El texto literario se reproduce sin omitir una palabra en todos los vídeos, pero solo el 19,2% muestra las ilustraciones completas y el 5,7% no muestra el libro. Mayoritariamente (39 vídeos) la reproducción visual es fragmentaria, por zoom de detalle o cámara lejana."
+      },
+      {
+        "id": "11",
+        "label": "Ocultación del oso detrás del biombo",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "En la página climática, 13 vídeos (9 narrados en castellano) impiden ver el oso escondido en la penumbra tras la puerta y el biombo. En el peritexto inicial, 30 narradores saltan directamente a la primera frase y solo 23 muestran las páginas previas, de los cuales solo 7 amplifican con palabras."
+      },
+      {
+        "id": "12",
+        "label": "Amplificaciones ricas y reductoras",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Las amplificaciones ricas (15 mediadores) atienden a todos los indicios y cuestionan la versión del narrador literario, sugiriendo el final abierto del oso yendo a otra casa. Las reductoras (7) obvian los detalles contradictorios: una narradora subraya desde el inicio que solo era 'some furry material'."
+      },
+      {
+        "id": "13",
+        "label": "Sueñismo de ocasión",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Varios mediadores se apoyan en la frase 'Y por la noche, mientras Guillermo soñaba' para declarar que todo era un sueño o imaginación del niño. Es el 'sueñismo de ocasión' (Montes, 2001): una lectura racional que se construye ocultando peritextos e indicios visuales."
+      },
+      {
+        "id": "14",
+        "label": "Escisión interpretativa entre mediadores",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "13 narradores concluyen que el oso existe, 13 que es imaginación de Guillermo y 27 no se decantan. La narradora 33 admitió que su primer juicio fue corregido por su hijo, ejemplo de la distinta interacción de adultos e infantiles con el álbum."
+      },
+      {
+        "id": "15",
+        "label": "Desatención a la ilustración y multimodalidad",
+        "color": "#e76f51",
+        "role": "Discusión",
+        "descripcion": "La escasa familiaridad con el álbum ilustrado lleva a mediadores adultos a aplicar experiencias de textos no multimodales y a anular la ambigüedad e ironía de la obra. Las narraciones digitales son unidireccionales, lineales y a menudo incompletas frente a la lectura no lineal que el libro-objeto exige (Tabernero-Sala, 2018)."
+      },
+      {
+        "id": "16",
+        "label": "Recomendaciones para mediación digital",
+        "color": "#264653",
+        "role": "Conclusiones",
+        "descripcion": "Recogen recomendaciones de la narración oral: no contentarse con leer el texto verbal, volver al peritexto tras la lectura y no ocultar partes significativas sino amplificarlas o señalarlas (Ellis y Mourão, 2021; Harris, 2005; Martínez et al., 2016). Una mediación desatenta priva a los niños de construir sus propias significaciones."
       }
     ],
     "aristas": [
       {
         "from": "1",
         "to": "2",
-        "label": "adapta digitalmente el"
+        "label": "alberga el"
       },
       {
-        "from": "1",
-        "to": "3",
-        "label": "genera predominantemente"
-      },
-      {
-        "from": "1",
-        "to": "4",
-        "label": "alcanza en ocasiones"
+        "from": "2",
+        "to": "5",
+        "label": "exige examinar en el"
       },
       {
         "from": "3",
         "to": "5",
-        "label": "incurre en la grave"
-      },
-      {
-        "from": "3",
-        "to": "6",
-        "label": "distrae al niño con una"
+        "label": "concentra los indicios del"
       },
       {
         "from": "4",
+        "to": "5",
+        "label": "sitúa la práctica del"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se materializó en el"
+      },
+      {
+        "from": "6",
         "to": "7",
-        "label": "respeta escrupulosamente la"
+        "label": "se examinó con el"
+      },
+      {
+        "from": "9",
+        "to": "6",
+        "label": "acota la representatividad del"
       },
       {
         "from": "7",
         "to": "8",
-        "label": "permite decodificar la"
+        "label": "describió el"
       },
       {
-        "from": "4",
-        "to": "9",
-        "label": "revaloriza y remite al"
+        "from": "7",
+        "to": "10",
+        "label": "constató la"
+      },
+      {
+        "from": "7",
+        "to": "11",
+        "label": "registró la"
+      },
+      {
+        "from": "7",
+        "to": "12",
+        "label": "categorizó las"
       },
       {
         "from": "10",
+        "to": "1",
+        "label": "contrasta con la tesis del"
+      },
+      {
+        "from": "11",
         "to": "3",
-        "label": "aprende a rechazar las"
+        "label": "vulnera el"
       },
       {
-        "from": "10",
-        "to": "4",
-        "label": "promueve la selección de"
+        "from": "11",
+        "to": "12",
+        "label": "desencadena las"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "incluye el"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "alimenta la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "explica la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "evidencia la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "refuerza la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "fundamenta las"
       }
     ]
   }

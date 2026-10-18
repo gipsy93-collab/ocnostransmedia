@@ -1,0 +1,409 @@
+{
+  "id": "opacidad_ortografica_aprendizaje_comprension_espanol",
+  "metadata": {
+    "title": "Opacidad ortográfica y aprendizaje de la comprensión lectora en español",
+    "authors": "Andrés Calero y Esther Calero-Pérez",
+    "year": "2021",
+    "journal": "Ocnos 20(2)",
+    "doi": "10.18239/ocnos_2021.20.2.2274",
+    "gancho": "¿Tiene sentido insistir en 'primero aprender a leer y luego leer para aprender' en una lengua transparente como el español?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#264653",
+    "colorAlt": "#f4a261",
+    "bg": "from-ocean-dark/20 to-seaweed/20",
+    "image": "https://picsum.photos/seed/opacidad-espanol/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Andrés Calero, especialista en comprensión lectora y psicología de la educación",
+      "gancho": "¿Tiene sentido insistir en 'primero aprender a leer y luego leer para aprender' en una lengua transparente como el español?",
+      "contexto": "En PIRLS 2016, solo el 6% de los escolares españoles de 4.º curso alcanzó niveles altos de comprensión lectora, frente a un 20% en niveles bajos (la cifra inversa a Finlandia o Irlanda). Los autores argumentan que este déficit no se debe a la capacidad del alumnado sino a un diseño didáctico erróneo: haber importado acríticamente la secuencia didáctica de lenguas opacas como el inglés.",
+      "deepDives": [
+        {
+          "id": "op-es-ap-1",
+          "triggerLabel": "Resultados invertidos en PIRLS 2016",
+          "type": "data",
+          "content": "Mientras en países con alfabetos consistentes o métodos integrados el 22% está en el nivel avanzado, en España solo el 6% alcanza la excelencia y un 20% queda rezagado en el suelo de la distribución."
+        },
+        {
+          "id": "op-es-ap-2",
+          "triggerLabel": "El continuo de opacidad ortográfica de COST",
+          "type": "theory",
+          "content": "El proyecto europeo COST clasifica las lenguas según la consistencia grafema-fonema (G/F) y complejidad silábica: el español y el finés son altamente transparentes, mientras el inglés es sumamente opaco."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La escuela en español sigue aplicando la fórmula de Chall ('aprender a leer' en 1.º-2.º y 'leer para aprender' desde 3.º), sobreentrenando la decodificación y retrasando la enseñanza de vocabulario y estrategias de comprensión profunda.",
+      "porQueImporta": "En una lengua transparente, la correspondencia grafema-fonema se automatiza en el primer curso; no enseñar comprensión simultáneamente frena el desarrollo lector de los estudiantes.",
+      "dataPoints": [
+        "Estudios translingüísticos (Seymour et al., 2003) muestran que escolares españoles leen con 95-98% de precisión en 1.º, mientras los ingleses quedan en 34%.",
+        "Metaanálisis de Florit y Cain (2011) confirma que en lenguas transparentes la comprensión del lenguaje oral (r=.50) es mucho más potente que la decodificación (r=.36)."
+      ],
+      "glossary": [
+        {
+          "term": "Opacidad ortográfica",
+          "definition": "Grado de inconsistencia o irregularidad en la correspondencia entre letras escritas y fonemas sonoros."
+        },
+        {
+          "term": "Concepción Simple de Lectura (CSL)",
+          "definition": "Modelo de Hoover y Gough: la lectura es el producto de la decodificación por la comprensión oral."
+        },
+        {
+          "term": "Macroestructura textual",
+          "definition": "Organización jerárquica de las ideas principales y la tipología formal (narrativa/informativa) de un texto."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "op-es-conf-1",
+          "triggerLabel": "Dificultad intrínseca del inglés",
+          "type": "theory",
+          "content": "En inglés, el 16% de las palabras monosilábicas son irregulares y el fonema /ʃ/ tiene 9 grafías diferentes; en español, la correspondencia es casi biunívoca, permitiendo automatizar el código velozmente."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Revisión translingüística: neuroimagen, eye-tracking y metaanálisis",
+      "narrativa": "Los autores sintetizan estudios de neuroimagen cerebral, seguimiento ocular y pruebas internacionales PIRLS y PISA para demostrar cómo el sistema ortográfico condiciona el ritmo evolutivo de la lectura.",
+      "detalles": [
+        {
+          "label": "Corpus analizado",
+          "value": "Estudios translingüísticos de 14 países europeos, metaanálisis de Florit & Cain y datos de PIRLS/PISA."
+        },
+        {
+          "label": "Enfoque",
+          "value": "Revisión teórica crítica y propuesta instruccional de alfabetización en lenguas transparentes."
+        },
+        {
+          "label": "Hallazgos neurológicos",
+          "value": "Lectores en lenguas transparentes activan áreas de procesamiento fonológico ágil sin sobrecargar la memoria."
+        },
+        {
+          "label": "Propuesta",
+          "value": "Instrucción simultánea y progresiva de código, vocabulario académico, macroestructura y metacognición."
+        }
+      ],
+      "limitaciones": [
+        "Revisión narrativa fundamentada en estudios empíricos preexistentes sin experimentación de campo directa propia.",
+        "Dificultad de transformar las inercias curriculares tradicionales arraigadas en los libros de texto escolares."
+      ],
+      "reflexion": "¿Si un niño de 6 años en español ya sabe decodificar cualquier pseudopalabra, por qué seguimos dándole textos simplones en lugar de enseñarle a inferir?",
+      "deepDives": [
+        {
+          "id": "op-es-viaje-1",
+          "triggerLabel": "El estudio de McClung y Pearson (2019)",
+          "type": "data",
+          "content": "Analizando PIRLS y PISA en siete lenguas, demostraron que las diferencias favorables a las ortografías transparentes se concentran bajo el percentil 25, evitando que los lectores rezagados queden atrapados."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "La secuencia dicotómica 'primero aprender a leer, después leer para aprender' es un lastre importado: en español, la decodificación y la comprensión deben enseñarse de forma simultánea desde el primer día de escolaridad.",
+      "evidenciaCualitativa": "Los escolares españoles dominan la precisión lectora en 1.º básico (techo del 95%), por lo que prolongar el entrenamiento fonológico resta un tiempo precioso a la enseñanza de vocabulario, conectores y macroestructuras.",
+      "citaClave": "'El enfoque dicotómico vigente en la escuela española representa un lastre pedagógico: en una lengua transparente, la comprensión y el código deben instruirse siempre y simultáneamente.'",
+      "implicacionesDocentes": [
+        "Extender la lectura compartida en voz alta de textos complejos por parte del docente a lo largo de toda la Primaria.",
+        "Instruir explícitamente el vocabulario académico (conocer al menos el 90-95% del léxico para asegurar la comprensión).",
+        "Enseñar la cohesión textual (anáforas, conectores causales y marcadores discursivos) y la estructura de textos informativos."
+      ],
+      "deepDives": [
+        {
+          "id": "op-es-rev-1",
+          "triggerLabel": "Agotamiento temprano de la conciencia fonológica",
+          "type": "data",
+          "content": "Goldenberg et al. (2014) demostraron que la conciencia fonológica deja de ser predictiva en español al final de primer curso, a diferencia del inglés donde predice hasta 4.º grado."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Psicolingüística, neurociencia de la lectura y didáctica de la lengua",
+      "tensiones": [
+        "Modelo dicotómico secuencial de Chall vs. modelo simultáneo de comprensión integrada (Pearson & Cervetti).",
+        "Reading wars estadounidenses (Phonics vs. Whole Language) aplicadas artificialmente al sistema escolar en español."
+      ],
+      "autoresClave": [
+        "Calero & Calero-Pérez (2021)",
+        "Chall (1983)",
+        "Katz & Frost (1992)",
+        "Seymour et al. (2003)",
+        "Florit & Cain (2011)",
+        "Pearson & Cervetti (2012)",
+        "Kintsch (1998)"
+      ],
+      "deepDives": [
+        {
+          "id": "op-es-marco-1",
+          "triggerLabel": "El modelo de Kintsch (1998)",
+          "type": "theory",
+          "content": "Walter Kintsch demostró que comprender exige construir una representación situacional coherente; esto demanda saberes enciclopédicos previos que la mera decodificación es incapaz de aportar."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo debe enseñarse la comprensión lectora en español considerando la transparencia de su sistema ortográfico?",
+      "conclusion": "El español debe abandonar la división secuencial entre aprender a leer y leer para aprender; la instrucción debe ser simultánea, priorizando vocabulario, estructura textual y autorregulación metacognitiva.",
+      "formalRef": "Calero, A., & Calero-Pérez, E. (2021). Opacidad ortográfica y aprendizaje de la comprensión lectora en español. Ocnos, 20(2), 33-42. https://doi.org/10.18239/ocnos_2021.20.2.2274"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Ortográfica",
+        "descripcion": "Recorre grafemas y fonemas transparentes esquivando la opacidad mientras respondes sobre la psicolingüística del español.",
+        "instrucciones": "Recoge tokens de consistencia G/F y supera preguntas sobre PIRLS y metaanálisis. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Transparencia y Lectura",
+        "descripcion": "Pon a prueba tus conocimientos sobre la hipótesis de opacidad, Concepción Simple de Lectura y didáctica simultánea.",
+        "instrucciones": "Responde velozmente para acumular multiplicadores y dominar las ciencias de la lectura en español."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de la Alfabetización Simultánea",
+        "descripcion": "Asciende desde la correspondencia grafema-fonema hasta la macroestructura informativa y la autorregulación.",
+        "instrucciones": "Activa cada piso respondiendo sobre las implicaciones didácticas de Calero y Calero-Pérez."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Opacidad ortográfica y comprensión lectora en español (Calero & Calero-Pérez, 2021)",
+      "descripcion": "Revisión translingüística del aprendizaje lector: hipótesis de opacidad ortográfica, rapidez de adquisición en español, crítica a la secuencia de Chall y propuesta de enseñanza simultánea de código y comprensión.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "El déficit de excelencia en PIRLS España",
+          "color": "#264653",
+          "role": "Marco teórico",
+          "descripcion": "Datos de PIRLS 2016 que muestran que solo el 6% de alumnos españoles alcanza el nivel alto frente a un 20% en nivel bajo, a la inversa de países con modelos didácticos integrados como Finlandia o Irlanda."
+        },
+        {
+          "id": "2",
+          "label": "Hipótesis de opacidad ortográfica (Katz y Frost)",
+          "color": "#264653",
+          "role": "Marco teórico",
+          "descripcion": "Marco psicolingüístico que postula que la consistencia en la correspondencia grafema-fonema (G/F) y la simplicidad silábica determinan la velocidad y facilidad de descubrimiento del código lector."
+        },
+        {
+          "id": "3",
+          "label": "El continuo de transparencia europea (COST)",
+          "color": "#264653",
+          "role": "Marco teórico",
+          "descripcion": "Clasificación de los sistemas de escritura europeos que sitúa al finés y al español en el polo transparente y al inglés en el polo extremadamente opaco e irregular."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: evaluar el impacto translingüístico de la opacidad",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Analizar la evidencia translingüística sobre cómo la opacidad ortográfica incide en la decodificación, el reconocimiento léxico y el desarrollo de la comprensión entre los 6 y 15 años."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: cuestionar la secuencia 'aprender a leer / leer para aprender'",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Criticar la importación mecánica a la escuela en español de la secuencia dicotómica de estadios de Chall nacida para solventar las dificultades intrínsecas de lenguas opacas."
+        },
+        {
+          "id": "6",
+          "label": "Diseño de revisión teórica y metaanalítica",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Sustentación en cuatro cuerpos de evidencia: neuroimagen y eye-tracking, metaanálisis de la Concepción Simple de Lectura, evaluación PIRLS/PISA e implicaciones curriculares."
+        },
+        {
+          "id": "7",
+          "label": "Estudios translingüísticos fundacionales (Seymour, 2003)",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Comparación de primero de primaria en 14 países europeos: lectores españoles y finlandeses alcanzaron el techo (95-98% en palabras), mientras los anglófonos quedaron en el 34%."
+        },
+        {
+          "id": "8",
+          "label": "Metaanálisis de la Concepción Simple (Florit y Cain)",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Revisión de 8 lenguas que demuestra que en idiomas transparentes la comprensión oral es el predictor determinante (r=.50), mientras en inglés manda la decodificación (r=.83) hasta 5.º básico."
+        },
+        {
+          "id": "9",
+          "label": "Automatización temprana del código en español",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Debido a la transparencia G/F, los niños hispanohablantes automatizan la decodificación en el primer curso escolar, agotándose tempranamente el papel predictivo de la conciencia fonológica."
+        },
+        {
+          "id": "10",
+          "label": "La opacidad atrapa a los lectores menos expertos",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Datos de McClung y Pearson (2019) revelan que la opacidad del inglés mantiene atascados bajo el percentil 25 a los lectores con dificultades, ventaja protectora del español."
+        },
+        {
+          "id": "11",
+          "label": "La secuencia dicotómica de estadios como lastre didáctico",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Posponer la enseñanza de la comprensión profunda hasta 3.º de primaria priva a los escolares en español de desarrollar vocabulario y esquemas cognitivos durante dos años clave."
+        },
+        {
+          "id": "12",
+          "label": "Prioridad del lenguaje oral y conocimientos previos",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "En español, el techo en comprensión lectora no depende de entrenar más fluidez mecánica, sino de la amplitud de vocabulario académico y la riqueza de saberes temáticos del lector."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: superación de las 'reading wars' en español",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El enfrentamiento estadounidense entre Phonics (código) y Lenguaje Integral carece de sentido en español: la decodificación es sencilla y debe convivir con el significado desde el inicio."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: seis orientaciones didácticas operativas",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Propuesta de 6 pilares: lectura en voz alta continuada, vocabulario explícito (conocer >90% de palabras), cohesión (anáforas, conectores), macroestructura y autorregulación."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: revisión narrativa sin prueba de campo propia",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "El artículo constituye una síntesis teórica de investigaciones previas sin ensayo de campo propio en centros españoles, y enfrenta la resistencia curricular del mercado editorial."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: modelo de instrucción simultánea en español",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que en español se aprende a leer y se lee para aprender de forma simultánea, exigiendo una reforma profunda de los manuales escolares de primaria."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "justifica el diagnóstico de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "aporta el marco psicolingüístico a"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "sitúa al español en el"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se analiza mediante el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "fundamenta la crítica a"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se apoya en los datos de"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "sintetiza la evidencia del"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "demuestra la"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "explica empíricamente la"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "confirma que"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "convierte a la secuencia en un"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "demuestra la"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "desactiva en español las"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "se operativiza en las"
+        },
+        {
+          "from": "9",
+          "to": "16",
+          "label": "exige la implantación del"
+        },
+        {
+          "from": "11",
+          "to": "16",
+          "label": "motiva la llamada a las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "concreta las bases del"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "marca el alcance de la"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "plantea desafíos para las"
+        },
+        {
+          "from": "2",
+          "to": "16",
+          "label": "culmina reformulando la enseñanza según la"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Por qué los autores consideran que la secuencia 'aprender a leer y luego leer para aprender' es un lastre en español?",
+          "options": [
+            "Porque los niños españoles son incapaces de descifrar las letras antes de los 10 años.",
+            "Porque en una lengua transparente el código se automatiza en el primer curso; posponer la comprensión profunda hasta 3.º frena innecesariamente el desarrollo intelectual.",
+            "Porque la legislación educativa prohíbe evaluar la decodificación fonológica en Primaria.",
+            "Porque el español es la lengua más opaca de Europa según el proyecto COST."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Si tuvieras que reorganizar el área de Lengua Castellana en 1.º y 2.º de Primaria, ¿cómo integrarías la enseñanza explícita de vocabulario académico y textos informativos desde el inicio sin abandonar la práctica del descifrado del código?"
+        }
+      ]
+    }
+  }
+}

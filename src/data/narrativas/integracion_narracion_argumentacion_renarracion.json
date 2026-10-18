@@ -1,0 +1,376 @@
+{
+  "id": "integracion_narracion_argumentacion_renarracion",
+  "metadata": {
+    "title": "Integración de la narración y la argumentación en la renarración de textos narrativos",
+    "authors": "Mario-Fernando Gutiérrez y Andrea Escobar-Altare",
+    "year": "2020",
+    "journal": "Ocnos 19(1)",
+    "doi": "10.18239/ocnos_2020.19.1.2131",
+    "gancho": "¿Cómo transforman los niños de 6 a 10 años un cuento en argumentos al renarrarlo y qué nos enseña sobre el desarrollo del pensamiento crítico?",
+    "duration": "12-15 min",
+    "badge": "Discurso Infantil y Semiótica Narrativa",
+    "disciplina": "Psicología Educativa y Didáctica de la Lengua",
+    "dimensiones": [
+      "Renarración Infantil",
+      "Pentafonía Narrativa",
+      "Esquemas Argumentativos",
+      "Pragmadialéctica y Conflicto"
+    ],
+    "tags": [
+      "renarracion",
+      "argumentacion_infantil",
+      "semiotica_narrativa",
+      "pragmadialectica",
+      "literatura_infantil",
+      "desarrollo_discursivo"
+    ],
+    "pistas": [
+      "Estudio transeccional descriptivo con 45 niños de 1.º a 5.º de básica primaria en Bogotá, Colombia.",
+      "Tarea de renarración individual y entrevista estructurada a partir del cuento 'La peor señora del mundo' de Francisco Hinojosa.",
+      "Análisis de un corpus de 1.152 enunciados integrando la pentafonía narrativa de Peña y los esquemas argumentativos de Walton y Macagno.",
+      "Aparición paulatina y creciente de la argumentación con el grado escolar, detonada por la necesidad de justificar el conflicto de la trama."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "La investigación educativa suele tratar la narración y la argumentación como modalidades discursivas divorciadas, subestimando la capacidad de los niños de primaria para integrar razonamientos causales y morales en sus relatos.",
+      "desafio": "Analizar cómo los escolares de 6 a 10 años integran elementos estructurales de la narración y esquemas argumentativos al renarrar un texto literario conflictivo.",
+      "relevancia": "Ofrece fundamentos didácticos para diseñar actividades de lectura en primaria donde la renarración funcione como trampolín natural hacia el debate y la argumentación crítica."
+    },
+    "conflicto": {
+      "pregunta": "¿De qué forma convergen la narración y la argumentación a lo largo de la escolaridad primaria cuando los niños deben explicar las acciones de los personajes?",
+      "posiciones": [
+        "Enfoque evolutivo restrictivo: los niños de primaria solo poseen destrezas para la secuencia cronológica lineal y son incapaces de argumentar con lógica antes de la adolescencia.",
+        "Modelo de integración discursiva pragmadialéctica: el conflicto narrativo activa de forma temprana esquemas argumentales complejos para justificar puntos de vista divergentes."
+      ],
+      "tension": "La tensión entre la fidelidad mnemónica a la trama original y la producción creativa de explicaciones morales e inferenciales sobre las motivaciones humanas.",
+      "deepDives": [
+        {
+          "id": "renarr-conf-1",
+          "triggerLabel": "El conflicto de 'La peor señora del mundo'",
+          "type": "context",
+          "content": "El cuento de Hinojosa presenta una antagonista que castiga al pueblo hasta que los habitantes la engañan; esta inmoralidad aparente obliga a los niños a construir argumentos causales y emocionales para entender el desenlace."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Codificación semiótico-argumental de 1.152 enunciados infantiles",
+      "narrativa": "Los investigadores entrevistaron individualmente a 45 estudiantes de primero a quinto grado tras leer el cuento, segmentando las transcripciones bajo el criterio de Ducrot y codificando elementos de pentafonía narrativa y esquemas de Walton-Macagno con un acuerdo Kappa de .901.",
+      "detalles": [
+        {
+          "label": "Participantes",
+          "value": "45 estudiantes (25 niñas, 20 niños) de 6 a 10 años (edad media 8,1 años) de un colegio privado de Bogotá, Colombia."
+        },
+        {
+          "label": "Corpus registrado",
+          "value": "1.152 enunciados y 655 turnos de habla: 977 narrativos, 33 argumentativos y 142 descriptivos contextuales."
+        },
+        {
+          "label": "Herramientas de análisis",
+          "value": "Pentafonía narrativa (sujeto, objeto, relación, perspectiva), catálogo de esquemas de Walton y software inferencial JASP."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "Narración y argumentación convergen de manera progresiva: mientras la estructura de acciones se mantiene estable, los enunciados de perspectiva y los argumentos emocionales y causales crecen significativamente con el avance de curso.",
+      "datosClave": [
+        {
+          "label": "Evolución por curso",
+          "value": "Los enunciados argumentativos aumentaron de 3 en 1.º a 14 en 5.º grado (X² = 21.09; p = 0.001), multiplicándose casi por cinco."
+        },
+        {
+          "label": "Tránsito en categorías narrativas",
+          "value": "La categoría 'sujeto' cayó de 6.55 a 1.94 enunciados por niño, mientras 'perspectiva' se disparó de 0.92 a 7.27 (p = 0.001)."
+        },
+        {
+          "label": "Esquema dominante",
+          "value": "El esquema de apelación emocional (9 casos) y el de causa-efecto (8 casos) concentraron más de la mitad de los razonamientos generados."
+        }
+      ],
+      "implicacion": "Enseñar lengua en primaria no debe limitar la renarración al resumen memorístico: formular preguntas de perspectiva ('¿por qué actuó así?') activa el razonamiento crítico natural del alumnado."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "Algirdas J. Greimas (1976)",
+          "concepto": "Semiótica narrativa: generación de sentido mediante relaciones canónicas entre sujetos, objetos de deseo y transformaciones de estado."
+        },
+        {
+          "autor": "Frans H. van Eemeren y Rob Grootendorst (2004)",
+          "concepto": "Pragmadialéctica: la argumentación como interacción orientada a resolver racionalmente una diferencia de opinión."
+        },
+        {
+          "autor": "Douglas Walton y Fabrizio Macagno (2008)",
+          "concepto": "Esquemas argumentativos: patrones estereotipados de inferencia pragmática que articulan premisas y conclusiones cotidianas."
+        }
+      ],
+      "enfoque": "Psicolingüística del desarrollo discursivo, semiótica del relato y teoría de la argumentación en situaciones de entrevista clínica.",
+      "sinergia": "La pentafonía narrativa permite mapear la arquitectura del relato, mientras los esquemas de Walton capturan la justificación epistémica de las acciones."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo integran los niños de primaria los recursos narrativos y argumentativos al reconstruir y juzgar una historia de literatura infantil?",
+      "hallazgos": [
+        "El relato de acciones esenciales ('relación') permanece estable en todos los grados escolares gracias a la memoria a corto plazo.",
+        "La categoría 'perspectiva' y los esquemas argumentativos aumentan drásticamente a partir de cuarto y quinto de primaria.",
+        "Los argumentos infantiles se concentran en explicar el ciclo del maltrato y defender el diálogo como mecanismo pacífico frente a la violencia.",
+        "El conflicto narrativo del cuento actúa como detonador cognitivo indispensable para suscitar la argumentación espontánea."
+      ],
+      "conclusion": "La renarración no es mera reproducción pasiva: es un proceso híbrido narrativo-argumentativo en el que la infancia construye teorías causales y éticas sobre la conducta humana."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Qué componente de la narración aumentó de manera más pronunciada entre 1.º y 5.º de primaria?",
+          "opciones": [
+            "La mención de objetos mágicos",
+            "La perspectiva, pasando de 0.92 a 7.27 enunciados promedio por estudiante",
+            "La descripción de los paisajes y el escenario físico"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "La categoría perspectiva experimentó un crecimiento espectacular (p=.001), evidenciando cómo los mayores juzgan las intenciones de los personajes."
+        },
+        {
+          "pregunta": "¿Cuáles fueron los esquemas argumentativos más utilizados por los niños al justificar las acciones?",
+          "opciones": [
+            "El argumento por autoridad científica y el silogismo deductivo formal",
+            "El esquema emocional y el de causa-efecto",
+            "La falacia ad hominem y el recurso al miedo"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "Walton y Macagno tipifican estos esquemas pragmáticos; en el estudio, emoción y causa-efecto sumaron 17 de los 33 argumentos detectados."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Integración de Narración y Argumentación en la Infancia",
+      "descripcion": "Red conceptual que entrelaza la semiótica de Greimas, la pragmadialéctica, la pentafonía narrativa y la progresión argumental en primaria.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Semiótica Narrativa",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Teoría estructural que postula la generación del sentido mediante transformaciones canónicas de estados entre sujetos y objetos de valor, reguladas por programas narrativos y relaciones de causalidad temporal."
+        },
+        {
+          "id": "2",
+          "label": "Teoría de Esquemas Argumentativos",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Marco formulado por Walton y Macagno que sistematiza patrones estereotipados de razonamiento inferencial cotidiano donde premisas implícitas o explícitas justifican una conclusión sujeta a refutación."
+        },
+        {
+          "id": "3",
+          "label": "Pragmadialéctica y Conflicto",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Enfoque de van Eemeren donde la argumentación emerge para resolver diferencias de opinión; en la narración, el conflicto de la trama opera como catalizador que moviliza el posicionamiento ético del lector."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Integración Evolutiva",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Analizar el uso combinado de elementos estructurales narrativos y esquemas argumentativos en escolares de básica primaria de Bogotá al renarrar oralmente una obra literaria con conflicto interactivo."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 45 Escolares",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Selección no probabilística de 45 estudiantes (25 niñas y 20 niños) de 6 a 10 años cursando de primero a quinto de primaria en una institución privada de Bogotá, examinados de forma individualizada."
+        },
+        {
+          "id": "6",
+          "label": "Texto Estímulo: Hinojosa",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Lectura del cuento infantil 'La peor señora del mundo' de Francisco Hinojosa, cuya trama presenta una transgresión moral marcada y una resolución colectiva idónea para suscitar juicios explicativos."
+        },
+        {
+          "id": "7",
+          "label": "Codificación de 1.152 Enunciados",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Segmentación en 1.152 enunciados conforme al criterio de Ducrot y clasificación en categorías de pentafonía (Peña) y esquemas argumentativos de Walton con un acuerdo interjuez Kappa de .901."
+        },
+        {
+          "id": "8",
+          "label": "Estabilidad de la Categoría Relación",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Permanencia homogénea de los enunciados de enlace de acciones (media de ~10 en todos los grados, p=.834), sustentada por la capacidad de la memoria a corto plazo para retener el armazón secuencial."
+        },
+        {
+          "id": "9",
+          "label": "Despliegue de la Perspectiva",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Incremento estadísticamente muy significativo (X²=78, p=0.001) de los enunciados evaluativos y de perspectiva, que crecen progresivamente desde 0.92 en primer grado hasta 7.27 en quinto grado escolar."
+        },
+        {
+          "id": "10",
+          "label": "Emergencia de Esquemas Argumentales",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Aumento progresivo del número de enunciados argumentativos de 3 en 1.º a 14 en 5.º de primaria (p=0.001), destacando el predominio de esquemas emocionales (9 casos) y de causa-efecto (8 casos)."
+        },
+        {
+          "id": "11",
+          "label": "Tópicos: Violencia y Diálogo",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Convergencia de los argumentos infantiles en dos núcleos morales: la explicación del maltrato como ciclo reiterativo aprendido y la reivindicación del diálogo como alternativa pacífica frente al engaño."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: Convergencia Discursiva",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "La renarración trasciende la evocación reproductiva: narración y argumentación cooperan simbióticamente a medida que el escolar madura, articulando la trama con teorías sobre la mente y la moral."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Mediación de la Pregunta",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "El tipo de interrogación clínica empleado en la entrevista orienta la producción argumentativa, demostrando que interpelar el 'porqué' del relato desencadena razonamientos inferenciales complejos."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Potencial en el Aula",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "La renarración guiada constituye un dispositivo pedagógico privilegiado en la escuela primaria para alfabetizar simultáneamente en comprensión literaria profunda y pensamiento dialógico crítico."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Muestra por Conveniencia",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Tamaño muestral limitado a 45 escolares de una única institución educativa privada de Bogotá, lo que restringe la posibilidad de extrapolar los perfiles a poblaciones rurales o contextos desfavorecidos."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Dependencia del Texto",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Uso exclusivo de un único texto literario ficcional con estructura narrativa particular, requiriéndose indagar en investigaciones futuras la renarración ante obras líricas o informativas."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "fundamenta dimensiones de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "proporciona taxonomía para"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "sustenta la noción de"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se analiza empíricamente en"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "participa en lectura de"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "genera transcripción de"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "constata estabilidad en"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "demuestra evolución en"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "cuantifica progreso en"
+        },
+        {
+          "from": "10",
+          "to": "11",
+          "label": "se concentra en"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "se interpreta junto a"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "evidencia maduración en"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "confirma hipótesis de"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "responde a dinámicas de"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "funda implicaciones para"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "sugiere prácticas de"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "acota generalización de"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "agrega especificidad a"
+        },
+        {
+          "from": "2",
+          "to": "10",
+          "label": "clasifica formalmente"
+        },
+        {
+          "from": "3",
+          "to": "11",
+          "label": "explica resolución de"
+        },
+        {
+          "from": "1",
+          "to": "8",
+          "label": "modela la estructura de"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Cómo podrías utilizar la renarración en tu aula de primaria para activar debates sobre dilemas morales de los personajes?",
+      "enfoque": "Pedir a los alumnos que tras contar el cuento expliquen por qué los personajes actuaron como lo hicieron y si tenían otra opción justa.",
+      "cierre": "Alentar a la infancia a justificar el conflicto de los relatos transforma la lectura en un auténtico laboratorio de deliberación ética y ciudadana."
+    }
+  }
+}

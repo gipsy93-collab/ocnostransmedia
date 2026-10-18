@@ -12,9 +12,9 @@
     "color": "#f4a261",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-500/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-11.png",
+    "image": "/assets/portadas/creatividad_lectora.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-11.png",
+      "image": "/assets/portadas/creatividad_lectora.jpg",
       "name": "Dr. Antonio-José Lorca-Garrido",
       "role": "Investigador en Creatividad y Didáctica de la Lengua, Universidad de Murcia (España)"
     }
@@ -49,12 +49,12 @@
       "problema": "A pesar de la intuición pedagógica que une arte y literatura, la relación empírica entre el pensamiento creativo y la competencia lectora ha sido escasamente sistematizada. Se desconoce la fuerza de esa correlación, en qué edades se manifiesta con mayor intensidad y qué indicadores específicos de la creatividad (fluidez, originalidad o elaboración) inciden de forma directa en los diferentes niveles de la lectura (literal, inferencial y crítico).",
       "porQueImporta": "Separar la lectura de la creatividad condena a los estudiantes a un consumo pasivo del texto. Si la escuela no diseña situaciones de aprendizaje donde leer sea un acto de recreación e invención, formaremos ciudadanos capaces de decodificar instrucciones pero incapaces de pensar críticamente o proponer soluciones novedosas.",
       "dataPoints": [
-        "Revisión sistemática basada en la metodología PRISMA sobre las principales bases de datos internacionales (WoS, Scopus, ERIC, Dialnet).",
+        "Revisión sistemática basada en la metodología PRISMA sobre las principales bases de datos internacionales (WoS, Scopus y ERIC).",
         "Corpus final de 12 estudios empíricos de alta calidad metodológica centrados en población escolar de 5 a 18 años.",
         "Correlaciones identificadas entre pensamiento creativo y comprensión lectora: débiles a moderadas (coeficientes r oscilando entre .20 y .45).",
         "El indicador de 'Elaboración' del pensamiento divergente se erige como el vínculo más consistente con la comprensión inferencial.",
-        "Mayor impacto en las dimensiones de orden superior: la creatividad no incide en la decodificación fonética básica, pero es determinante para el juicio crítico y la extrapolación textual.",
-        "Vacío curricular: escasa presencia de intervenciones integradas de 'alfabetización creativa' en secundaria."
+        "La creatividad se correlaciona con la decodificación lectora (reconocimiento y nombramiento de palabras) y, de forma destacada, con la comprensión crítica y los niveles profundos de lectura.",
+        "Vacío investigador: solo 12 estudios empíricos a nivel mundial abordan la relación entre creatividad y comprensión lectora en la etapa escolar."
       ],
       "glossary": [
         {
@@ -81,12 +81,24 @@
     },
     "viaje": {
       "titulo": "Ruta metodológica: Protocolo PRISMA y cribado sistemático en educación",
-      "narrativa": "Los investigadores de la Universidad de Murcia ejecutaron un protocolo PRISMA riguroso para rastrear la literatura científica mundial sobre creatividad y lectura en la infancia y adolescencia. Se aplicaron ecuaciones booleanas que combinaron descriptores de pensamiento creativo, competencia lectora y rangos de edad escolar, cribando cientos de registros iniciales hasta consolidar un corpus selecto de 12 investigaciones empíricas.",
+      "narrativa": "Los investigadores de la Universidad de Murcia ejecutaron un protocolo PRISMA riguroso para rastrear la literatura científica mundial sobre creatividad y lectura en la infancia y adolescencia. Se aplicaron ecuaciones booleanas que combinaron descriptores de pensamiento creativo, competencia lectora y rangos de edad escolar, cribando 5319 registros iniciales hasta consolidar un corpus selecto de 12 investigaciones empíricas.",
       "detalles": [
-        { "label": "Protocolo", "value": "Directrices PRISMA 2020 con diagrama de flujo de cuatro fases." },
-        { "label": "Rango de Edad", "value": "Estudiantes entre 5 y 18 años (Infantil, Primaria y Secundaria)." },
-        { "label": "Corpus Seleccionado", "value": "12 artículos de investigación empírica con metodologías cuantitativas o mixtas robustas." },
-        { "label": "Variables Evaluadas", "value": "Comprensión literal vs. inferencial, dimensiones de Torrance (fluidez, flexibilidad, originalidad, elaboración) y rendimiento escolar." }
+        {
+          "label": "Protocolo",
+          "value": "Directrices PRISMA 2020 con diagrama de flujo de cuatro fases."
+        },
+        {
+          "label": "Rango de Edad",
+          "value": "Estudiantes entre 5 y 18 años (Infantil, Primaria y Secundaria)."
+        },
+        {
+          "label": "Corpus Seleccionado",
+          "value": "12 artículos de investigación empírica con metodologías cuantitativas o mixtas robustas."
+        },
+        {
+          "label": "Variables Evaluadas",
+          "value": "Comprensión literal vs. inferencial, dimensiones de Torrance (fluidez, flexibilidad, originalidad, elaboración) y rendimiento escolar."
+        }
       ],
       "limitaciones": [
         "Número reducido de estudios empíricos publicados a nivel global (12 artículos), lo que demuestra que este cruce interdisciplinar aún está desatendido por la investigación.",
@@ -108,7 +120,7 @@
         },
         {
           "label": "3. Selectividad por Niveles de Comprensión",
-          "value": "La creatividad apenas se correlaciona con la decodificación literal (recordar un dato explícito), pero se asocia fuertemente con la comprensión inferencial profunda, la resolución de dilemas éticos y la lectura crítica."
+          "value": "La creatividad se correlaciona con la decodificación lectora y, de forma destacada, con la comprensión crítica (Martínez-Álvarez et al., 2020) y con la resolución creativa de problemas (Danesh y Nourdad, 2017)."
         },
         {
           "label": "4. Efecto Bidireccional de Retroalimentación",
@@ -116,8 +128,8 @@
         }
       ],
       "dataPoints": [
-        "En estudiantes de Primaria y Secundaria, los programas que combinan escritura creativa con lectura analítica mejoran los puntajes de comprensión lectora en un 25% frente a métodos memorísticos.",
-        "Los estudiantes con alta creatividad muestran mayor tolerancia a la ambigüedad en textos literarios complejos, evitando el bloqueo ante finales abiertos."
+        "El pensamiento divergente visual se correlaciona con la comprensión lectora (r = .21), mientras que el pensamiento divergente verbal no lo hace (r = .09) (De-Vink et al., 2023).",
+        "El TTCT de Torrance fue la prueba de creatividad más empleada (tres estudios), seguido del CREA español de Corbalán et al. (2003), usado en dos estudios."
       ],
       "reflexion": "Leer no es absorber un significado fijo empaquetado por el autor: es un acto de co-creación donde el lector aporta su imaginación para dar vida a la obra."
     },
@@ -230,31 +242,228 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Pensamiento Creativo y Competencia Lectora",
-    "descripcion": "Interacciones cognitivas entre el pensamiento divergente, la dimensión de elaboración de Torrance, la comprensión inferencial y la alfabetización creativa.",
+    "titulo": "Mapa conceptual: Pensamiento creativo y comprensión lectora. Revisión sistemática (Ocnos 25(2) 2026)",
+    "descripcion": "Recorre el artículo desde los marcos de la lectura (PIRLS, PISA, niveles de Jiménez-Pérez) y la creatividad (indicadores de Torrance, Teoría de la Lectura Creativa), pasando por el protocolo PRISMA que cribó 5319 registros hasta 12 estudios, hasta las correlaciones débiles-moderadas, el papel de la elaboración, las excepciones de dominio, la conclusión educativa y las limitaciones de la revisión.",
     "nodos": [
-      { "id": "1", "label": "Competencia Lectora", "color": "#f4a261" },
-      { "id": "2", "label": "Pensamiento Creativo Divergente", "color": "#2a5a75" },
-      { "id": "3", "label": "Elaboración Cognitiva", "color": "#88b04b" },
-      { "id": "4", "label": "Comprensión Inferencial y Crítica", "color": "#5b9eaa" },
-      { "id": "5", "label": "Decodificación Literal Básica", "color": "#e76f51" },
-      { "id": "6", "label": "Test de Torrance (TTCT)", "color": "#9b82c3" },
-      { "id": "7", "label": "Sinergia Bidireccional", "color": "#e88b8c" },
-      { "id": "8", "label": "Alfabetización Creativa Escolar", "color": "#2a9d8f" },
-      { "id": "9", "label": "Tolerancia a la Ambigüedad", "color": "#264653" },
-      { "id": "10", "label": "Metodologías Activas y Transmedia", "color": "#f4d068" }
+      {
+        "id": "1",
+        "label": "Competencias clave del siglo XXI",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "La creatividad y la competencia lectora se consideran habilidades fundamentales para la inserción sociolaboral y la adaptación a la complejidad actual (González-Salamanca et al., 2020). Los centros deben desarrollarlas mediante práctica e interacción social (Cignetti y Fuster, 2023), pero el pensamiento creativo «es el gran olvidado» en la escuela."
+      },
+      {
+        "id": "2",
+        "label": "Definiciones PIRLS y PISA",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "PIRLS define la comprensión lectora como entender y usar las formas lingüísticas para elaborar significados (Mullis y Martin, 2019), mientras PISA habla de competencia lectora: comprensión, uso, evaluación, reflexión y compromiso con los textos (OECD, 2019). La diferencia está en el uso práctico social, con texto, tarea y lector como componentes (Durda et al., 2020)."
+      },
+      {
+        "id": "3",
+        "label": "Niveles de comprensión lectora",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Jiménez-Pérez (2015) distingue niveles literal, representativo, inferencial, crítico, emocional, creador y metacognitivo. La fluidez lectora crece con la velocidad de decodificación, y en el nivel creador la comprensión pasa a ser competencia valorada por otros lectores."
+      },
+      {
+        "id": "4",
+        "label": "Indicadores del pensamiento creativo",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "La creatividad se define como originalidad y eficacia en contexto dinámico (Corazza et al., 2022). Sus indicadores principales son fluidez, flexibilidad, originalidad y elaboración (López-Martínez et al., 2024), junto a abstracción y resistencia al cierre (Torrance, 2008) y el insight (Iannello et al., 2020)."
+      },
+      {
+        "id": "5",
+        "label": "Creatividad verbal en tareas narrativas",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "La creatividad verbal es pensamiento divergente en tareas verbales (Artola et al., 2004; Portnova et al., 2020), manifiesto en literatura, lectura y escritura. Las tareas narrativas, abiertas y libres, activan el pensamiento divergente (Justice et al., 2010) y la lectura se concibe como reescritura (Pope y Swann, 2011)."
+      },
+      {
+        "id": "6",
+        "label": "Teoría de la Lectura Creativa",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Popov (1992) sostiene que una lectura de calidad se asienta sobre la creatividad, a la que está subordinada la comprensión en el aprendizaje de nuevos conceptos. El pensamiento creativo permite establecer relaciones entre conceptos y elaborar inferencias, propiciando un mundo de posibilidades en el texto."
+      },
+      {
+        "id": "7",
+        "label": "Objetivo: revisión de 5 a 18 años",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "El estudio buscó una revisión sistemática de las relaciones entre competencia lectora y pensamiento creativo en escolarizados de cinco a dieciocho años, y de la naturaleza de esas relaciones si se producían. A diferencia de inteligencia o personalidad, el cruce creatividad-lectura había sido escasamente estudiado."
+      },
+      {
+        "id": "8",
+        "label": "Búsqueda PRISMA en WoS, Scopus, ERIC",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Se aplicó la Declaración PRISMA 2020 (Page et al., 2021). En septiembre de 2023 se buscaron en inglés artículos de revista de 2004-2023 con descriptores de creatividad («creativity», «divergent thinking») y lectura («reading comprehension», «reading competence») según los campos propios de cada base."
+      },
+      {
+        "id": "9",
+        "label": "Cribado de 5319 a 12 estudios",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Se identificaron 5319 artículos (WoS 1952, Scopus 1209, ERIC 2158); la ventana 2004-2023 dejó 4650 y, tras quitar 2931 duplicados, 1719 para revisión. Los criterios de inclusión (empíricos, 5-18 años) y exclusión (revisiones, adultos, menores de cinco) filtraron 63 por título y resumen y, a texto completo, 12 estudios."
+      },
+      {
+        "id": "10",
+        "label": "Correlaciones débiles y moderadas",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Los seis estudios de Primaria y seis de Secundaria muestran, salvo Bayley (2022), correlaciones significativas positivas débiles o moderadas: Rubenstein .172-.313; Sur y Ateş r=.266; Mourgues r=.486 (y .348 en submuestra); Solano r=.301; Danesh y Nourdad hasta r=.51; De-Vicente-Yagüe .198-.307."
+      },
+      {
+        "id": "11",
+        "label": "Elaboración, indicador de mayor relación",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "El indicador que más se vincula a la competencia lectora es la elaboración (Mareque et al., 2019; Wang, 2012; Zabihi et al., 2013), con la que la comprensión actúa como predictor positivo (Magenes et al., 2022). Los niveles profundos favorecen la elaboración porque el lector imagina y conecta la información con experiencias previas."
+      },
+      {
+        "id": "12",
+        "label": "Excepciones: flexibilidad y dominio verbal",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Bayley (2022), en Ruanda, no halló relación entre flexibilidad cognitiva y comprensión lectora. De-Vink et al. (2023) mostró discrepancia de dominios: el pensamiento divergente visual correlaciona con la comprensión (r=.21) y el verbal no (r=.09). Martínez-Álvarez et al. (2020) solo encontró vínculo con la comprensión crítica (r=.24)."
+      },
+      {
+        "id": "13",
+        "label": "Pruebas TTCT y CREA",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "El TTCT de Torrance fue el instrumento de creatividad más usado (tres estudios) y el CREA español de Corbalán et al. (2003), que estima el potencial creativo por las preguntas ante una imagen, el segundo (dos estudios). Cada trabajo empleó una prueba de comprensión lectora distinta, y las relaciones más estables y altas usaron registros de rendimiento académico."
+      },
+      {
+        "id": "14",
+        "label": "Relación positiva y proporcional",
+        "color": "#e76f51",
+        "role": "Discusión",
+        "descripcion": "Los estudios analizados corroboran relaciones positivas y directamente proporcionales, aunque no muy altas, entre creatividad y comprensión lectora, coincidiendo en vincular sus componentes e indicadores. Ello refuerza la Teoría de la Lectura Creativa (Popov, 1992): la creatividad permite alcanzar los mayores niveles de comprensión (Jiménez-Pérez, 2015; Karwowski, 2017)."
+      },
+      {
+        "id": "15",
+        "label": "Situaciones de aprendizaje integradas",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "La revisión orienta el trabajo educativo hacia programas que mejoren ambas capacidades mediante metodologías activas como el aprendizaje cooperativo (Cignetti y Fuster, 2023; Sánchez-Macías et al., 2021), en situaciones de aprendizaje donde el alumnado combine lectura y alfabetización creativa."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones de la revisión",
+        "color": "#f4a261",
+        "role": "Limitaciones",
+        "descripcion": "Los artículos proceden solo de WoS, Scopus y ERIC, y la revisión sistemática está sometida al sesgo de publicación: no puede resolver discrepancias entre estudios con una medida global estadística. Se proyecta un estudio empírico con muestra representativa e indagar los dominios específicos de la creatividad."
+      }
     ],
     "aristas": [
-      { "from": "2", "to": "1", "label": "se correlaciona moderadamente con" },
-      { "from": "6", "to": "3", "label": "evalúa como factor a la" },
-      { "from": "3", "to": "4", "label": "se vincula fuertemente con la" },
-      { "from": "2", "to": "5", "label": "apenas incide en la" },
-      { "from": "7", "to": "2", "label": "demuestra que la lectura alimenta al" },
-      { "from": "2", "to": "9", "label": "favorece una mayor" },
-      { "from": "8", "to": "10", "label": "se implementa mediante" },
-      { "from": "10", "to": "4", "label": "potencia el desarrollo de la" },
-      { "from": "1", "to": "8", "label": "debe evolucionar hacia la" },
-      { "from": "7", "to": "4", "label": "refuerza mutuamente la" }
+      {
+        "from": "1",
+        "to": "7",
+        "label": "justifica el"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "se desarrolla en los"
+      },
+      {
+        "from": "3",
+        "to": "10",
+        "label": "matiza los niveles de las"
+      },
+      {
+        "from": "4",
+        "to": "11",
+        "label": "incluye la"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "encuentra su marco en la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "motiva el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se ejecutó mediante la"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "culminó en el"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "aportó las"
+      },
+      {
+        "from": "13",
+        "to": "10",
+        "label": "los estudios midieron la lectura con"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "y el más vinculado es la"
+      },
+      {
+        "from": "10",
+        "to": "12",
+        "label": "admite excepciones como las de la"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "solo apreciables con pruebas como el"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "sustentan la"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "materializa la"
+      },
+      {
+        "from": "14",
+        "to": "6",
+        "label": "reafirma la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "orienta hacia las"
+      },
+      {
+        "from": "16",
+        "to": "8",
+        "label": "restringió el rastreo de la"
+      },
+      {
+        "from": "16",
+        "to": "12",
+        "label": "insta a profundizar en el"
+      },
+      {
+        "from": "1",
+        "to": "15",
+        "label": "exige desarrollarse en las"
+      },
+      {
+        "from": "15",
+        "to": "4",
+        "label": "debe ejercitar los"
+      }
     ]
   }
 }

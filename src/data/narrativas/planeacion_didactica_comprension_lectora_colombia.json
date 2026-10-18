@@ -1,0 +1,412 @@
+{
+  "id": "planeacion_didactica_comprension_lectora_colombia",
+  "metadata": {
+    "title": "Planeación didáctica para el desarrollo de la comprensión lectora",
+    "authors": "Liliana Canquiz-Rincón, Denis Mayorga-Sulbarán y Cynthia Sandoval-Fontalvo",
+    "year": "2021",
+    "journal": "Ocnos 20(2)",
+    "doi": "10.18239/ocnos_2021.20.2.2404",
+    "gancho": "¿Por qué los estudiantes se estancan en la lectura literal aunque las planeaciones docentes cumplan formalmente todos los requisitos del Ministerio?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#e76f51",
+    "bg": "from-ocean-dark/20 to-coral/20",
+    "image": "https://picsum.photos/seed/planeacion-col/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Liliana Canquiz-Rincón, investigadora en currículo y didáctica",
+      "gancho": "¿Por qué los estudiantes se estancan en la lectura literal aunque las planeaciones docentes cumplan formalmente todos los requisitos del Ministerio?",
+      "contexto": "En Colombia, los resultados de PISA y las pruebas Saber del Icfes evidencian que más del 50% de los escolares de primaria solo alcanza el nivel literal, fracasando en inferencias y lectura crítica. Este estudio mixto en una escuela pública del Atlántico investiga qué ocurre dentro de las planeaciones didácticas de aula.",
+      "deepDives": [
+        {
+          "id": "plan-ap-1",
+          "triggerLabel": "Retroceso en PISA e informes Icfes",
+          "type": "data",
+          "content": "Colombia retrocedió a 412 puntos en PISA 2018 (frente a 487 de la OCDE), y los diagnósticos del Icfes confirman que apenas un 1% de los estudiantes accede a niveles lectores superiores."
+        },
+        {
+          "id": "plan-ap-2",
+          "triggerLabel": "Programa Todos a Aprender (PTA)",
+          "type": "context",
+          "content": "A pesar del acompañamiento pedagógico institucional brindado por el MEN desde 2014, los docentes enfrentan serias barreras para trasladar los lineamientos a prácticas comprensivas efectivas."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Existe una marcada disociación entre la corrección formal de los planes de aula y su funcionalidad real, privilegiando la fluidez mecánica sobre los procesos cognitivos y metacognitivos de alto nivel.",
+      "porQueImporta": "Sin una planeación explícita orientada a formular inferencias y evaluar críticamente los textos, la escuela perpetúa el analfabetismo funcional en contextos de vulnerabilidad socioeconómica.",
+      "dataPoints": [
+        "Muestra de 132 estudiantes de 3º y 5º de primaria y 12 docentes en Candelaria, Atlántico (Colombia).",
+        "En 3º de primaria, el 71.5% domina el nivel literal, pero solo el 37.5% alcanza el inferencial y el 33.5% el nivel crítico."
+      ],
+      "glossary": [
+        {
+          "term": "Planeación didáctica",
+          "definition": "Diseño anticipado de objetivos, secuencias de aprendizaje, recursos y tiempos formativos."
+        },
+        {
+          "term": "Comprensión inferencial",
+          "definition": "Habilidad para deducir significados implícitos relacionando saberes previos con pistas del texto."
+        },
+        {
+          "term": "Comprensión crítica",
+          "definition": "Capacidad de evaluar la validez, intencionalidad y veracidad de una fuente textual."
+        },
+        {
+          "term": "Modelo interactivo",
+          "definition": "Teoría de Isabel Solé que concibe la lectura como interacción dinámica entre lector, texto y contexto."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "plan-conf-1",
+          "triggerLabel": "Confinamiento de la lectura al área de lenguaje",
+          "type": "theory",
+          "content": "Siguiendo la advertencia de Daniel Cassany (2003), la enseñanza de la comprensión suele restringirse a la clase de lengua y a los primeros grados, abandonándose en asignaturas disciplinares."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Diseño metodológico mixto y triangulación documental de planes",
+      "narrativa": "El equipo aplicó pruebas de fluidez y comprensión a 132 escolares, administró encuestas sociofamiliares y analizó cualitativamente los planes de aula de 12 maestros confrontándolos con entrevistas semiestructuradas.",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "132 estudiantes (3º y 5º básico) y 12 docentes de una institución pública en estrato socioeconómico bajo."
+        },
+        {
+          "label": "Instrumentos cuantitativos",
+          "value": "Prueba objetiva de fluidez/comprensión (6 indicadores) y cuestionario de hábitos (10 indicadores)."
+        },
+        {
+          "label": "Instrumentos cualitativos",
+          "value": "Entrevistas semiestructuradas (16 preguntas) y matriz de análisis documental curricular."
+        },
+        {
+          "label": "Referentes MEN",
+          "value": "Confrontación con Lineamientos Curriculares, Estándares Básicos, DBA y Mallas de Aprendizaje."
+        }
+      ],
+      "limitaciones": [
+        "Estudio localizado en una única escuela oficial de un municipio del Atlántico sin seguimiento experimental multiaño.",
+        "Carencia de plataformas tecnológicas e infraestructura institucional que condiciona el acceso a recursos variados."
+      ],
+      "reflexion": "¿Por qué los docentes dedican la mayor parte del tiempo de lectura a sopas de letras y preguntas literales en lugar de debates reflexivos?",
+      "deepDives": [
+        {
+          "id": "plan-viaje-1",
+          "triggerLabel": "Confusión en las etapas de lectura",
+          "type": "method",
+          "content": "Las entrevistas revelaron que los maestros confunden las etapas de antes, durante y después (Solé, 1999), asimilándolas erróneamente a la estructura narrativa del cuento (inicio, nudo y desenlace)."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Las planeaciones didácticas cumplen los requisitos normativos del Ministerio, pero sus actividades se concentran en velocidad lectora y ejercicios mecánicos, dedicando apenas 10-15 minutos por sesión a la comprensión real.",
+      "evidenciaCualitativa": "Los objetivos redactados en los planes priorizan contenidos conceptuales abstractos sobre habilidades procedimentales, y las actividades de cierre se reducen a cuestionarios de respuesta explícita.",
+      "citaClave": "'Los planes de aula son formalmente impecables frente al Ministerio, pero funcionalmente incapaces de promover el pensamiento inferencial y crítico de los estudiantes.'",
+      "implicacionesDocentes": [
+        "Planificar actividades sistemáticas de predicción antes de leer y preguntas inferenciales guiadas durante la lectura.",
+        "Superar el uso de sopas de letras y lecturas cronometradas como supuestas evidencias de comprensión lectora.",
+        "Capacitar al profesorado en el modelado metacognitivo explícito de estrategias de autorregulación de la lectura."
+      ],
+      "deepDives": [
+        {
+          "id": "plan-rev-1",
+          "triggerLabel": "Condicionamiento sociofamiliar",
+          "type": "data",
+          "content": "El 40% de los niños lee diariamente, pero sus familias registran baja escolarización (solo 7% de madres con estudios técnicos), convirtiendo al docente en el modelo letrado exclusivo."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Didáctica de la lengua, modelo interactivo y teoría curricular",
+      "tensiones": [
+        "Cumplimiento burocrático de formatos institucionales vs. transformación didáctica efectiva del aula.",
+        "Entrenamiento de fluidez fonológica mecánica vs. desarrollo de competencias inferenciales y críticas."
+      ],
+      "autoresClave": [
+        "Solé (1999, 2000)",
+        "Cassany (2003, 2006)",
+        "Braslavsky (2008)",
+        "Calero (2017)",
+        "Pinzás (2007)",
+        "Díaz-Barriga (2002)"
+      ],
+      "deepDives": [
+        {
+          "id": "plan-marco-1",
+          "triggerLabel": "El docente como lector experto",
+          "type": "theory",
+          "content": "Braslavsky y Calero postulan que el docente debe actuar como lector modelo que verbaliza en voz alta sus procesos de pensamiento al enfrentarse a lagunas de comprensión en el texto."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Favorece la planeación didáctica docente el desarrollo de la comprensión lectora en básica primaria?",
+      "conclusion": "No suficientemente. Aunque formalmente alineada con los estándares del MEN, la planeación privilegia la fluidez y el nivel literal, desatendiendo la mediación inferencial y crítica.",
+      "formalRef": "Canquiz-Rincón, L., Mayorga-Sulbarán, D., & Sandoval-Fontalvo, C. (2021). Planeación didáctica para el desarrollo de la comprensión lectora. Ocnos, 20(2), 96–106. https://doi.org/10.18239/ocnos_2021.20.2.2404"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente de la Planeación",
+        "descripcion": "Atrapa objetivos didácticos, estrategias inferenciales y etapas de lectura esquivando trampas literales.",
+        "instrucciones": "Recoge tokens de Solé y responde preguntas sobre niveles de comprensión para superar niveles. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Comprensión en Primaria",
+        "descripcion": "Demuestra tus competencias en diseño curricular, niveles de lectura (literal, inferencial, crítico) y didáctica.",
+        "instrucciones": "Acierta contrarreloj para mantener tu multiplicador de racha y liderar el escalafón de evaluadores."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide del Andamiaje Lector",
+        "descripcion": "Asciende desde la decodificación superficial hasta la lectura crítica y autorregulada en el aula.",
+        "instrucciones": "Responde correctamente para activar cada nivel conceptual de la pirámide didáctica."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Planeación didáctica y comprensión lectora (Canquiz-Rincón et al., 2021)",
+      "descripcion": "Estudio mixto en primaria en Colombia (132 alumnos, 12 docentes): disociación entre cumplimiento formal del currículo y deficiencias funcionales, anclaje en lectura literal y abandono de niveles inferencial y crítico.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Estancamiento lector en Colombia (PISA y Saber)",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "Diagnóstico nacional que revela que más del 50% de estudiantes no supera el nivel literal y retrocede en pruebas internacionales PISA, evidenciando dificultades estructurales en el sistema educativo."
+        },
+        {
+          "id": "2",
+          "label": "Modelo interactivo de comprensión (Solé)",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico que postula que la comprensión surge de la interacción activa entre lector, texto y contexto a través de tres etapas secuenciales: antes, durante y después de la lectura."
+        },
+        {
+          "id": "3",
+          "label": "Niveles de comprensión: literal, inferencial y crítico",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "Jerarquía cognitiva descrita por Pinzás y Cassany que distingue entre extraer datos explícitos (literal), deducir significados ocultos (inferencial) y evaluar la validez del texto (crítico)."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: evaluar la influencia de la planeación docente",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Analizar cómo las decisiones curriculares y metodológicas plasmadas en las planeaciones de aula favorecen o limitan el desarrollo de la comprensión lectora en básica primaria."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: caracterizar el desempeño de los estudiantes",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Identificar empíricamente el nivel real de comprensión lectora (literal, inferencial, crítico) en escolares de 3º y 5º de primaria en relación con sus hábitos y contexto sociofamiliar."
+        },
+        {
+          "id": "6",
+          "label": "Diseño metodológico mixto en Candelaria (Atlántico)",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Investigación mixta en una institución pública de estrato bajo con 132 estudiantes (3º y 5º) y 12 docentes de primaria, combinando evaluación cuantitativa y análisis cualitativo."
+        },
+        {
+          "id": "7",
+          "label": "Pruebas estandarizadas y cuestionario de hábitos",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Administración de prueba objetiva de fluidez y comprensión lectora estructurada en 6 indicadores por niveles, junto a encuesta estructurada de 10 indicadores sobre hábitos de lectura."
+        },
+        {
+          "id": "8",
+          "label": "Matriz documental de planes y entrevistas docentes",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Revisión sistemática de planes de aula frente a los Derechos Básicos de Aprendizaje (DBA) y estándares del MEN, complementada con 16 preguntas de entrevista semiestructurada al profesorado."
+        },
+        {
+          "id": "9",
+          "label": "Dominio literal en 3º (71.5%) y colapso en 5º (38%)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Los estudiantes de 3º identifican bien datos explícitos (71.5%), pero en 5º el rendimiento cae al 38% al aumentar la complejidad de los textos informativos escolares."
+        },
+        {
+          "id": "10",
+          "label": "Techo insuperable en inferencial (37%) y crítico (27%)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Solo el 37.5% de los alumnos de 3º y 5º alcanza el nivel inferencial y entre el 27.5% y 33.5% el nivel crítico, fracasando al formular hipótesis sobre el propósito del autor."
+        },
+        {
+          "id": "11",
+          "label": "Coherencia formal pero ineficacia funcional del plan",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Los planes de aula cumplen minuciosamente la estructura administrativa del MEN, pero sus actividades reales son mecánicas y no desarrollan procesos cognitivos profundos."
+        },
+        {
+          "id": "12",
+          "label": "Actividades reducidas a fluidez y sopas de letras",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Prevalencia de tareas centradas en lectura cronometrada, trabalenguas y sopas de letras que entrenan el reconocimiento de palabras pero desatienden la interpretación global."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: confusión docente de las etapas de Solé",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Las entrevistas revelan que los maestros confunden las fases antes/durante/después de la lectura con la estructura del relato (inicio/nudo/desenlace), limitando el cierre a cuestionarios literales."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: escasez de tiempo asignado a la comprensión",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "La comprensión lectora se intenta trabajar únicamente en la fase de exploración inicial (10 a 15 minutos), dedicando la mayor parte de la clase a actividades de transcripción mecánica."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: contexto único de vulnerabilidad social",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "El estudio se circunscribe a una única escuela de estrato bajo con carencias de conectividad y biblioteca, requiriendo contrastación en centros con mayores recursos formativos."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: urgencia de mediación metacognitiva",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que el profesorado requiere formación urgente para transformar su planeación en un andamiaje explícito de estrategias inferenciales y metacognitivas que superen la decodificación."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "evidencia la necesidad de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "proporciona el modelo para"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "define los niveles de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se analiza en el contexto de"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se mide empíricamente en"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "aplica a los estudiantes"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "analiza en los docentes la"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "constata el"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "demuestra el"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "comprueba la"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "revela la abundancia de"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "se profundiza en la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "explica las causas en la"
+        },
+        {
+          "from": "9",
+          "to": "16",
+          "label": "confirma la urgencia de"
+        },
+        {
+          "from": "10",
+          "to": "16",
+          "label": "demuestra la meta de las"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "orienta la propuesta de"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "reclama cambios en las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el marco de"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las implicaciones de"
+        },
+        {
+          "from": "2",
+          "to": "16",
+          "label": "reivindica la aplicación del"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál fue el principal hallazgo del análisis documental de las planeaciones didácticas de aula en el estudio de Candelaria?",
+          "options": [
+            "Que las planeaciones incumplían completamente los estándares y normas del Ministerio de Educación Nacional.",
+            "Que eran formalmente correctas frente a la normativa, pero sus actividades se reducían a fluidez mecánica y cuestionarios literales, desatendiendo la inferencia.",
+            "Que los docentes dedicaban más de 3 horas diarias exclusivamente a la lectura crítica interdisciplinar.",
+            "Que el uso exclusivo de plataformas digitales resolvió todas las dificultades de comprensión."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo rediseñarías la etapa 'después de la lectura' en una planeación de 5.º de primaria para sustituir las típicas sopas de letras por una actividad que fomente el nivel crítico y la autorregulación lectora?"
+        }
+      ]
+    }
+  }
+}

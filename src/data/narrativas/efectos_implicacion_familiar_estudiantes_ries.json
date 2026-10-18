@@ -1,0 +1,128 @@
+{
+  "id": "efectos_implicacion_familiar_estudiantes_ries",
+  "metadata": {
+    "title": "Efectos de la implicación familiar en estudiantes con riesgo de dificultad lectora",
+    "authors": "Juan Mora-Figueroa, Arturo Galán y Marta López-Jurado",
+    "year": "2016",
+    "journal": "Ocnos. Revista de estudios sobre lectura, 15(1) 2016, pp. 7-21",
+    "doi": "https://doi.org/10.18239/ocnos_2016.15.1.866",
+    "gancho": "Un estudio cuasiexperimental con 206 estudiantes de 1º de Primaria de la Comunidad de Madrid evalúa si la implicación de las familias en el programa de lectura en familia \"¿Me lees un cuento, por favor?\" mejora el rendimiento lector. El rendimiento se midió antes y después del pr",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#f4a261",
+    "bg": "from-amber-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-12.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-12.png",
+      "name": "Juan Mora-Figueroa",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Juan Mora-Figueroa, autor/a en Revista Ocnos",
+      "gancho": "Un estudio cuasiexperimental con 206 estudiantes de 1º de Primaria de la Comunidad de Madrid evalúa si la implicación de las familias en el programa de lectura en familia \"¿Me lees un cuento, por favo",
+      "contexto": "Los autores sitúan el problema en el terreno de la evaluación y la prevención. Señalan que, en EEUU, se cifraba en 2,5 millones el número de alumnos con una Dificultad de Aprendizaje (DA) y que estos constituían el 41% de los individuos con atención especial por parte del sistema educativo. Además, una investigación reciente muestra que la prevalencia de dificultades específicas en comprensión lectora es del 6,7%. \n\nEn el plano conceptual, el tex",
+      "deepDives": [
+        {
+          "id": "efectos_implicacion_familiar_estudiantes_ries-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "El artículo parte de una brecha concreta: aunque el entorno familiar influye en numerosos aspectos educativos y la implicación familiar se asocia al éxito académico, no está claro si esa implicación mejora el rendimiento lector de forma diferenciada en alumnado con riesgo de dificultad lectora frent"
+        },
+        {
+          "id": "efectos_implicacion_familiar_estudiantes_ries-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "Los autores sitúan el problema en el terreno de la evaluación y la prevención. Señalan que, en EEUU, se cifraba en 2,5 millones el número de alumnos con una Dificultad de Aprendizaje (DA) y que estos constituían el 41% de los individuos con atención especial por parte del sistema educativo. Además, "
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El artículo parte de una brecha concreta: aunque el entorno familiar influye en numerosos aspectos educativos y la implicación familiar se asocia al éxito académico, no está claro si esa implicación mejora el rendimiento lector de forma diferenciada en alumnado con riesgo de dificultad lectora frente a quienes leen con normalidad. La presencia de e",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "V introdujo el concepto de DA dentro de los Trastornos Específicos del Aprendizaje (TEA), englobados en los Trastornos del Neurodesarrollo; en la mayoría de los alumnos con TEA este guarda relación con problemas en su aprendizaje lector. Pese a ese reconocimiento oficial, persiste la falta de acuerdo para definir con claridad las dificultades de aprendizaje.",
+        "Población con Dificultad de Aprendizaje (DA) en EEUU: 2,5 millones de alumnos, el 41% de quienes reciben atención especial.",
+        "Prevalencia de dificultades específicas en comprensión lectora: 6,7%.",
+        "Alternativas de definición de las DAL: discrepancia entre CI y rendimiento, discrepancia cognitiva, respuesta a la instrucción (RI) e híbridos."
+      ],
+      "glossary": [
+        {
+          "term": "DAL",
+          "definition": "Dificultad de Aprendizaje en la Lectura; término que el artículo usa junto a \"dificultad lectora\" o \"dislexia\"."
+        },
+        {
+          "term": "Implicación familiar (IF)",
+          "definition": "participación de los padres en la educación y la lectura de sus hijos; en el estudio se operativiza vía hojas de registro semanal."
+        },
+        {
+          "term": "Rendimiento lector (RL)",
+          "definition": "resultado del alumno en las escalas de lectura; aquí se mide con PROLEC-R."
+        },
+        {
+          "term": "PROLEC-R",
+          "definition": "batería estandarizada que evalúa procesos léxicos y semánticos de la lectura; consistencia interna total de 0,79."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Se trata de una investigación cuasiexperimental con diseño pretest-postest y grupo de control. El objetivo es probar si el programa \"¿Me lees un cuento, por favor?\" produce una mejora en el rendimiento lector del alumnado de 1º de Primaria, con independencia de que tuvieran un aprendizaje lector normal o riesgo de presentar una DAL.",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Análisis empírico o teórico de corpus según fuentes primarias"
+        }
+      ],
+      "limitaciones": [
+        "Los autores sí declaran límites. Señalan como limitación el tamaño muestral, ya que el número de familias con hijos en riesgo de presentar DAL es pequeño en ambos grupos, aunque en la línea de otros e"
+      ],
+      "reflexion": "Si diseñaras hoy un estudio similar, ¿cómo reforzarías la retención de las familias durante las doce semanas para no perder potencia estadística ni representatividad?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "Hallazgo principal",
+          "value": "Evidencias y resultados derivados del corpus analizado."
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El marco conceptual del artículo se articula en dos ejes. El primero es la conceptualización de las dificultades de aprendizaje en la lectura. Los autores recogen la clasificación del DSM-V de la American Psychiatric Association (2013), que integra las DA en los Trastornos Específicos del Aprendizaje dentro de los Trastornos del Neurodesarrollo, y la crítica de Snowling y Hulme (2012), para quiene",
+      "detalles": [
+        {
+          "label": "Tradición Teórica",
+          "value": "Teorías de la lectura, didáctica de la lengua y estudios literarios."
+        }
+      ],
+      "reflexion": "¿Dónde situarías el límite entre una implicación familiar que compensa dificultades y una que erosiona la autonomía del lector? ¿Qué contra-argumento cabría ante el hallazgo de que \"más implicación\" casi siempre aparece como positiva?"
+    },
+    "nucleo": {
+      "pregunta": "¿Mejora la implicación de las familias en un programa de lectura en familia el rendimiento lector de los estudiantes de 1º de Primaria, tanto si parten de un aprendizaje lector normal como si presentan riesgo de dificultad lectora?",
+      "conclusion": "El estudio confirma sus dos hipótesis sustantivas. Primero, la implicación de los padres mediante el programa \"¿Me lees un cuento, por favor?\" mejora el Rendimiento Lector de los hijos: en las cuatro subescalas, el incremento es mayor en el grupo experimental que en el de control. Segundo, los efectos positivos se logran con independencia del nivel lector inicial, ya que el tamaño del efecto del grupo experimental es siempre elevado y superior al",
+      "formalRef": "Mora-Figueroa, J., Galán, A., & López-Jurado, M. (2016). Efectos de la implicación familiar en estudiantes con riesgo de dificultad lectora. *Ocnos*, 15(1), 7-21. https://doi.org/10.18239/ocnos_2016.15.1.866"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es el foco central de la investigación sobre Efectos de la implicación familiar en es...?",
+          "options": [
+            "Aporte conceptual y empírico al campo lector",
+            "Revisión histórica secundaria"
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  }
+}

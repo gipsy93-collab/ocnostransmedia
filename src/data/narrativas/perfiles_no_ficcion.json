@@ -1,7 +1,7 @@
 {
   "id": "perfiles_no_ficcion",
   "metadata": {
-    "title": "Perfiles lectores no ficcionales: un estudio con estudiantes de Educación Primaria",
+    "title": "Perfiles lectores no ficcionales. Un estudio con estudiantes de Educación Primaria",
     "authors": "Salvador Gutiérrez-Molero, Hugo Heredia-Ponce y Manuel-Francisco Romero-Oliva",
     "year": "2026",
     "journal": "Ocnos 25(2)",
@@ -12,16 +12,16 @@
     "color": "#9b82c3",
     "colorAlt": "#2a5a75",
     "bg": "from-purple-400/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-13.png",
+    "image": "/assets/portadas/perfiles_no_ficcion.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-13.png",
+      "image": "/assets/portadas/perfiles_no_ficcion.jpg",
       "name": "Dr. Hugo Heredia-Ponce",
       "role": "Investigador en Hábitos Lectores y Didáctica de la Literatura, Universidad de Cádiz (España)"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dr. Hugo Heredia-Ponce, especialista en sociología de la lectura y perfiles lectores",
+      "personaje": "Dr. Hugo Heredia-Ponce, especialista en hábitos lectores y perfiles lectores",
       "gancho": "¿Por qué asumimos que todos los niños de 11 años quieren leer novelas de fantasía o aventuras, ignorando a quienes vibran con los volcanes, el Antiguo Egipto o la robótica?",
       "contexto": "El final de la Educación Primaria (6.º curso, 11-12 años) es una etapa crítica: las investigaciones documentan una brusca caída en el hábito lector conocida como el 'bache de la secundaria'. Con frecuencia, los docentes atribuyen esta desconexión a las pantallas o a la desidia juvenil. Sin embargo, ¿se han preguntado si la causa real es la homogeneidad del canon escolar? El currículo tradicional ha privilegiado casi con exclusividad la narrativa de ficción, desatendiendo a aquellos estudiantes cuya curiosidad intelectual se enciende con el mundo tangible. Este estudio con 160 estudiantes en la provincia de Cádiz aplica técnicas avanzadas de minería de datos para descubrir tres perfiles lectores frente al libro ilustrado de no ficción.",
       "deepDives": [
@@ -50,12 +50,12 @@
       "porQueImporta": "Obligar a leer a quien detesta la ficción sin ofrecerle alternativas informativas o científicas equivale a empujarlo hacia el analfabetismo funcional por elección. Reconocer la diversidad de perfiles lectores es una condición elemental de equidad educativa.",
       "dataPoints": [
         "Muestra de 160 estudiantes de 6.º curso de Educación Primaria (11-12 años) en seis centros educativos de la provincia de Cádiz.",
-        "Metodología cuantitativa no experimental transversal con cuestionario validado psicométricamente.",
-        "Análisis estadístico multivariante avanzado: análisis de clúster (K-medias), correspondencias múltiples, árboles de decisión (CHAID) y Chi-cuadrado.",
+        "Metodología cuantitativa, no experimental y transversal con cuestionario validado por juicio de expertos.",
+        "Análisis estadístico multivariante avanzado: análisis de clúster (K-medias), correspondencias múltiples, árboles de decisión y Chi-cuadrado.",
         "Identificación de 3 perfiles diferenciados respecto a la recepción del libro ilustrado de no ficción.",
-        "El 'interés lector previo' y la curiosidad epistémica resultaron ser los predictores más potentes del perfil.",
-        "Preferencia mayoritaria por el formato en papel de gran tamaño frente a pantallas para la lectura de álbumes informativos.",
-        "Diferencias significativas por género: mayor afinidad espontánea hacia temas biográficos y naturaleza en niñas, y tecnología y cosmos en niños, pero alta convergencia en álbumes visuales interactivos."
+        "El interés lector resultó ser el principal predictor y punto de partida de la clasificación de perfiles.",
+        "Preferencia por el formato en papel frente al digital entre los perfiles de mayor afinidad hacia los álbumes informativos.",
+        "Diferencias significativas según sexo: mayor presencia de niños en el perfil de baja afinidad y de niñas en el perfil intermedio."
       ],
       "glossary": [
         {
@@ -67,7 +67,7 @@
           "definition": "Deseo intrínseco de adquirir conocimientos y resolver lagunas intelectuales sobre el funcionamiento del mundo físico y cultural."
         },
         {
-          "term": "Árboles de decisión (CHAID)",
+          "term": "Árboles de decisión",
           "definition": "Algoritmo predictivo que divide recursivamente a la muestra en subgrupos basados en variables independientes para predecir una conducta o perfil lector."
         },
         {
@@ -82,12 +82,24 @@
     },
     "viaje": {
       "titulo": "Ruta metodológica: Minería de datos y árboles de decisión en 6.º de Primaria",
-      "narrativa": "Los investigadores de la Universidad de Cádiz administraron un cuestionario estructurado a 160 escolares de seis colegios (públicos y concertados) de Cádiz. El instrumento evaluó variables sociodemográficas, hábitos en el hogar, motivación de lectura y actitudes concretas ante el libro ilustrado de no ficción. La base de datos fue procesada mediante análisis de conglomerados y árboles de clasificación para determinar qué factores predicen con exactitud la pertenencia a cada perfil.",
+      "narrativa": "Los investigadores de la Universidad de Cádiz administraron un cuestionario estructurado a 160 escolares de seis colegios de Cádiz. El instrumento evaluó variables sociodemográficas, hábitos en el hogar, motivación de lectura y actitudes concretas ante el libro ilustrado de no ficción. La base de datos fue procesada mediante análisis de conglomerados y árboles de clasificación para determinar qué factores predicen con exactitud la pertenencia a cada perfil.",
       "detalles": [
-        { "label": "Muestra", "value": "160 estudiantes de 6.º de Primaria (edad media 11.4 años; 51% niñas, 49% niños)." },
-        { "label": "Centros", "value": "6 colegios urbanos y semiurbanos de la provincia de Cádiz con tipologías socioculturales diversas." },
-        { "label": "Instrumento", "value": "Cuestionario de Hábitos y Preferencias Lectoras No Ficcionales validado por juicio de expertos y análisis factorial." },
-        { "label": "Tratamiento Estadístico", "value": "SPSS: Clúster K-means, árboles de decisión con validación cruzada y test Chi-cuadrado de independencia (p < .05)." }
+        {
+          "label": "Muestra",
+          "value": "160 estudiantes de 6.º de Primaria (40,6% niños, 57,5% niñas, 1,9% otros)."
+        },
+        {
+          "label": "Centros",
+          "value": "6 centros educativos de la provincia de Cádiz, con muestreo no probabilístico e intencional."
+        },
+        {
+          "label": "Instrumento",
+          "value": "Cuestionario ad hoc en escala Likert 1-4 con bloques de motivación, intereses lectores, actitud hacia la lectura colectiva y libros ilustrados de no ficción, validado por juicio de 10 expertos."
+        },
+        {
+          "label": "Tratamiento Estadístico",
+          "value": "R: clúster K-means, análisis de correspondencias múltiples, árboles de decisión y test Chi-cuadrado (p < .05)."
+        }
       ],
       "limitaciones": [
         "Muestra de 160 estudiantes acotada a una provincia española específica, requiriendo réplicas en otras comunidades autónomas.",
@@ -96,26 +108,26 @@
       "reflexion": "Aplicar algoritmos estadísticos avanzados al estudio de la lectura escolar permite derribar prejuicios docentes y ver con precisión matemática lo que los niños demandan en las aulas."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: Los tres perfiles y el rescate del lector reticente",
+      "titulo": "Hallazgos empíricos: los tres perfiles de afinidad hacia el libro ilustrado de no ficción",
       "narrativa": "El análisis estadístico clasificó a los 160 escolares en tres perfiles lectores bien diferenciados ante los libros ilustrados de no ficción:",
       "hallazgos": [
         {
-          "label": "1. Perfil Ávido / Afín (34% de la muestra)",
-          "value": "Lectores habituales con alta motivación intrínseca. Leen tanto ficción como no ficción por placer, valoran el rigor de los datos, aprecian el diseño visual y buscan temas históricos, científicos y biografías inspiradoras."
+          "label": "1. Perfil de baja afinidad (13,1% de la muestra)",
+          "value": "Estudiantes con baja tendencia hacia la lectura de libros ilustrados de no ficción, baja motivación (28,5%) y actitud baja (17,9%). Muestran escaso compromiso con la lectura y se corresponden con el lector bajo de la literatura."
         },
         {
-          "label": "2. Perfil Ocasional / Curioso (45% de la muestra)",
-          "value": "El grupo mayoritario. Leen esporádicamente cuando un tema les apasiona (dinosaurios, inventos, naturaleza extrema). Su lectura depende fuertemente del atractivo visual y de la recomendación entusiasta del docente."
+          "label": "2. Perfil de alta afinidad (37,5% de la muestra)",
+          "value": "Estudiantes con alta tendencia hacia estos libros, con motivación (9,2%) y actitud altas (13,6%) y coordenadas positivas. Se corresponden con el lector alto y combinan alta motivación, autonomía lectora y uso de formatos impresos y digitales."
         },
         {
-          "label": "3. Perfil Reticente / Desconectado (21% de la muestra)",
-          "value": "Alumnos que afirman que 'no les gusta leer' en la escuela. Rechazan las novelas obligatorias, pero ante un libro ilustrado de no ficción interactivo (con solapas, mapas o infografías) muestran interés activo y curiosidad por hojearlo."
+          "label": "3. Perfil de afinidad intermedia (49,4% de la muestra)",
+          "value": "El grupo mayoritario, con tendencia media tanto en la motivación (16,7%) como en la actitud (9%), lo que revela una cierta tendencia a la indiferencia. Se corresponde con el lector medio."
         }
       ],
       "dataPoints": [
-        "El árbol de decisión determinó que la variable 'Interés previo por aprender cosas nuevas' explica el 68% de la probabilidad de pertenecer al perfil afín.",
-        "El 82% de los alumnos de todos los perfiles prefirió el formato libro impreso de gran formato frente a pantallas para leer no ficción.",
-        "El grupo de 'lectores reticentes' mostró un incremento de actitud positiva del 40% cuando se les presentó un álbum informativo en lugar de un libro de texto estándar."
+        "El árbol de decisión tomó el interés lector como primera divisoria: puntuaciones muy bajas (z_intereses < –1,5) sitúan en el perfil 1, y combinaciones de motivación (z ≥ 1,7) y actitud positiva (z ≥ –0,11) separan los perfiles 2 y 3.",
+        "Los perfiles 2 y 3 leen más en formato papel que en digital, mientras que en el perfil 1 la lectura en ambos soportes está igualada.",
+        "El perfil 2, el de mayor afinidad hacia estos libros, lee más por obligación que por gusto, algo que difiere de lo esperado y de la investigación previa."
       ],
       "reflexion": "La revelación más hermosa del estudio es que muchos niños calificados de 'malos lectores' no rechazan la lectura: rechazan el aburrimiento. Cuando les das un libro sobre el fondo del mar con ilustraciones prodigiosas, vuelven a leer."
     },
@@ -125,11 +137,11 @@
       "detalles": [
         {
           "label": "Diversificar el Plan Lector Escolar",
-          "value": "El plan lector no puede ser un menú único de cuentos moralizantes. Debe incorporar biografías ilustradas, tratados botánicos, historias del arte y crónicas de expediciones (Santos-Díaz et al., 2024)."
+          "value": "El plan lector no puede ser un menú único de cuentos moralizantes. Debe incorporar biografías ilustradas, tratados botánicos, historias del arte y crónicas de expediciones (Artola et al., 2021)."
         },
         {
           "label": "La No Ficción como Puente Inclusivo",
-          "value": "Para los estudiantes con TDAH, dislexia o dificultades de comprensión narrativa prolongada, las cápsulas informativas y la riqueza visual del LINF permiten lecturas no lineales sumamente gratificantes."
+          "value": "Para los estudiantes con menor afinidad lectora o dificultades de comprensión narrativa prolongada, las cápsulas informativas y la riqueza visual del LINF permiten lecturas no lineales sumamente gratificantes."
         },
         {
           "label": "El Papel de la Pregunta Mediadora",
@@ -144,28 +156,28 @@
     },
     "nucleo": {
       "pregunta": "¿Qué perfiles lectores emergen en 6.º de Primaria frente al libro ilustrado de no ficción y cómo impactan en la didáctica escolar?",
-      "conclusion": "El estudio cuantitativo con 160 estudiantes de 6.º de Primaria demuestra la existencia de tres perfiles lectores diferenciados frente al libro ilustrado de no ficción: Ávido/Afín (34%), Ocasional/Curioso (45%) y Reticente/Desconectado (21%). El interés epistémico por aprender y la motivación intrínseca resultan ser los predictores determinantes de la afinidad lectora. Lejos de la visión homogénea tradicional, los resultados evidencian que el libro de no ficción actúa como un potente puente inclusivo para reconectar a los lectores reticentes desmotivados por la ficción escolar impuesta, demostrando la necesidad urgente de diversificar los planes lectores de Educación Primaria con obras científicas, históricas y visuales de alta calidad en papel.",
+      "conclusion": "El estudio cuantitativo con 160 estudiantes de 6.º de Primaria demuestra la existencia de tres perfiles lectores diferenciados frente al libro ilustrado de no ficción según su afinidad: baja (13,1%), alta (37,5%) e intermedia (49,4%). El interés lector, la motivación intrínseca y la actitud positiva resultan ser los factores determinantes de la afinidad lectora. Lejos de la visión homogénea tradicional, los resultados evidencian que el libro de no ficción actúa como un recurso destacable para despertar el interés y la curiosidad, sobre todo en los perfiles medio y bajo, demostrando la necesidad urgente de diversificar los planes lectores de Educación Primaria con obras científicas, históricas y visuales de alta calidad en papel.",
       "formalRef": "Gutiérrez-Molero, S., Heredia-Ponce, H., & Romero-Oliva, M. F. (2026). Perfiles lectores no ficcionales. Un estudio con estudiantes de 6.º de Educación Primaria. Ocnos, 25(2). https://doi.org/10.18239/ocnos_2026.25.2.646"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué porcentaje de la muestra de 6.º de Primaria se ubicó en el perfil 'Ocasional / Curioso', convirtiéndose en el grupo mayoritario que requiere mediación activa?",
+          "q": "¿Qué porcentaje de la muestra de 6.º de Primaria se ubicó en el perfil de afinidad intermedia, convirtiéndose en el grupo mayoritario que requiere mediación activa?",
           "options": [
-            "El 10 %",
-            "El 45 %",
-            "El 85 %",
+            "El 13,1 %",
+            "El 37,5 %",
+            "El 49,4 %",
             "Menos del 5 %"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "type": "choice",
-          "q": "Según los árboles de decisión (CHAID) del estudio, ¿cuál fue la variable más potente para predecir si un alumno pertenece al perfil afín a los libros informativos?",
+          "q": "Según el árbol de decisiones del estudio, ¿cuál fue la variable más potente para predecir el perfil del alumnado?",
           "options": [
             "La nota obtenida en el examen de gramática.",
-            "El interés previo y la curiosidad epistémica por aprender cosas nuevas sobre el mundo.",
+            "El interés lector, con puntuaciones muy bajas en el perfil de baja afinidad.",
             "El número de horas diarias dedicadas a videojuegos de consola.",
             "El salario mensual de los tutores legales."
           ],
@@ -173,12 +185,12 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué hallazgo sorprendente arrojó el estudio respecto al perfil de 'lectores reticentes' (desmotivados por la lectura escolar)?",
+          "q": "¿Qué hallazgo resultó llamativo respecto al perfil 2, el de mayor afinidad hacia los libros ilustrados de no ficción?",
           "options": [
-            "Que no saben pronunciar consonantes.",
-            "Que muestran una respuesta muy positiva y curiosidad espontánea cuando se les acerca un libro ilustrado de no ficción visual e interactivo en lugar de una novela obligatoria.",
-            "Que rompieron los libros durante la aplicación del cuestionario.",
-            "Que solo aceptan leer textos en latín clásico."
+            "Que no sabía leer antes de la intervención.",
+            "Que lee más por obligación que por gusto, contradiciendo lo esperado y la investigación previa.",
+            "Que solo lee en formato digital.",
+            "Que rechazó todos los álbumes informativos."
           ],
           "correct": 1
         },
@@ -188,7 +200,7 @@
         },
         {
           "type": "open",
-          "q": "El estudio subraya que el 82% del alumnado prefiere el libro informativo impreso en gran formato frente a las pantallas. ¿Cómo defenderías el presupuesto de compra de libros físicos para la biblioteca de aula frente a directivos que prefieren invertir solo en licencias digitales?"
+          "q": "El estudio subraya que los perfiles de mayor afinidad prefieren el libro informativo en papel frente a las pantallas. ¿Cómo defenderías el presupuesto de compra de libros físicos para la biblioteca de aula frente a directivos que prefieren invertir solo en licencias digitales?"
         }
       ]
     }
@@ -207,7 +219,7 @@
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El hallazgo es esperanzador! Los chicos que decían 'odiar leer' recuperan el entusiasmo cuando descubren un libro ilustrado de divulgación científica.",
+      "text": "¡El hallazgo es esperanzador! El libro ilustrado de divulgación despierta el interés y la curiosidad sobre todo en los perfiles de afinidad media y baja.",
       "position": "bottom-right"
     },
     "marco": {
@@ -228,31 +240,228 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Perfiles Lectores No Ficcionales en Educación Primaria",
-    "descripcion": "Segmentación de perfiles lectores, predictores epistémicos, formatos editoriales y estrategias de inclusión a través del libro ilustrado de no ficción.",
+    "titulo": "Mapa conceptual: Perfiles lectores no ficcionales en 6.º de Primaria (Ocnos 25(2) 2026)",
+    "descripcion": "Recorre el artículo desde el marco de la lectura impuesta y los perfiles de la literatura previa, pasando por el diseño cuantitativo con 160 escolares de Cádiz (cuestionario, K-means, MCA, árbol y chi-cuadrado), hasta los tres perfiles de afinidad, el interés lector como predictor, las diferencias de sexo y formato, la discusión y las limitaciones.",
     "nodos": [
-      { "id": "1", "label": "Perfiles Lectores en 6.º Primaria", "color": "#9b82c3" },
-      { "id": "2", "label": "Perfil Ávido / Afín (34%)", "color": "#2a5a75" },
-      { "id": "3", "label": "Perfil Ocasional / Curioso (45%)", "color": "#f4d068" },
-      { "id": "4", "label": "Perfil Reticente / Desconectado (21%)", "color": "#e76f51" },
-      { "id": "5", "label": "Curiosidad Epistémica", "color": "#88b04b" },
-      { "id": "6", "label": "Libro Ilustrado de No Ficción (LINF)", "color": "#2a9d8f" },
-      { "id": "7", "label": "Preferencia por el Papel de Gran Formato", "color": "#5b9eaa" },
-      { "id": "8", "label": "Canon Escolar Homogéneo", "color": "#e88b8c" },
-      { "id": "9", "label": "Mediación Docente Activa", "color": "#264653" },
-      { "id": "10", "label": "Inclusión y Equidad Lectora", "color": "#f4a261" }
+      {
+        "id": "1",
+        "label": "Lectura como competencia clave",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La lectura es crucial en el funcionamiento social, cognitivo y académico (Bresó-Grancha et al., 2022) y una competencia clave y transversal del siglo XXI (Santos-Díaz et al., 2024), correlacionada con el éxito en asignaturas lingüísticas y no lingüísticas (Granda-Asencio, 2023; Heredia-Ponce et al., 2024). PISA 2022 relaciona rendimiento y pensamiento creativo (OECD, 2023)."
+      },
+      {
+        "id": "2",
+        "label": "Rechazo de la lectura impuesta",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Los estudiantes asocian la lectura a obligatoriedad y tarea académica, generando desinterés (Galarraga-Arrizabalaga et al., 2023; Castillo-Bravo et al., 2020), agravado por la imposición de los clásicos lejanos a sus intereses (Romero-Oliva et al., 2020; Matruglio y Vale, 2019). Elegir lecturas libremente aumenta la motivación intrínseca y la autoeficacia (Mora-Venegas y Villanueva-Roa, 2022)."
+      },
+      {
+        "id": "3",
+        "label": "Perfiles lectores previos",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La literatura clasificó lectores analógicos/digitales (Elche et al., 2021), híbridos o polialfabetizados (Caride y Pose, 2015), bajo/medio/alto (Torres-Adame, 2022), accidental y no lector (Rivera-Jurado y Romero-Oliva, 2020), falso lector (Larrañaga y Yubero, 2005) y lector estratégico (Moreno-de-León et al., 2024): el mapa de la tabla 1 que guía esta investigación."
+      },
+      {
+        "id": "4",
+        "label": "LINF y curiosidad lectora",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Los libros ilustrados de no ficción combinan divulgación científica, componente lúdico, artístico, sensorial e interactivo, e invitan a explorar y aprender (Tabernero-Sala y Laliena, 2023; Montenegro y Silva, 2019; Sampériz et al., 2020). Su calidad paratextual y su vínculo con la realidad despiertan el asombro y atraen a los lectores más reacios (Young et al., 2007; Nogués-Bruno et al., 2020)."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: perfiles en 6.º Primaria",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "Estudiar el perfil lector de estudiantes de 6.º de Educación Primaria en relación con el LINF, con tres objetivos específicos: describir perfiles según motivación, interés y actitud hacia la lectura colectiva; identificar los factores determinantes de cada perfil; y analizar sus relaciones con variables contextuales."
+      },
+      {
+        "id": "6",
+        "label": "Diseño cuantitativo transversal con R",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Metodología cuantitativa, no experimental, transversal y descriptivo-exploratoria con elementos predictivos (Hernández-Sampieri y Mendoza-Torres, 2018). Muestra no probabilística e intencional de 160 estudiantes de seis centros de la provincia de Cádiz (57,5% niñas, 40,6% niños, 1,9% otros), con recogida presencial en mayo-junio de 2025 bajo la Declaración de Helsinki y análisis en R."
+      },
+      {
+        "id": "7",
+        "label": "Cuestionario de cinco bloques validado",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Cuestionario ad hoc en escala Likert 1-4 sobre motivación hacia la lectura, intereses lectores y actitud hacia la lectura colectiva, tomado de Merisuo-Storm y Soininen (2012) y traducido por Artola et al. (2017) con alpha .89. El bloque específico de LINF se validó con diez expertos: alpha de Cronbach .92 y Kendall .69, con diez ítems sobre imágenes, juegos, solapas o índices."
+      },
+      {
+        "id": "8",
+        "label": "Clúster K-means y correspondencias múltiples",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "El método del codo sobre la suma de cuadrados intragrupo (WCSS) fijó tres conglomerados, proyectados en dos ejes que explican 34,6% y 13,8% de la varianza. El análisis de correspondencias múltiples (MCA) relacionó los perfiles con motivación, interés y actitud, creados por terciles empíricos alto/medio/bajo."
+      },
+      {
+        "id": "9",
+        "label": "Árbol de decisión y chi-cuadrado",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Un árbol de decisiones clasificó a los estudiantes por sus puntuaciones tipificadas, y el test Chi-cuadrado analizó la relación de los perfiles con variables contextuales (centro, sexo, motivo y formato de lectura), localizando la significatividad mediante residuos tipificados corregidos con valor de referencia |1,96| (Williams y Wragg, 2006)."
+      },
+      {
+        "id": "10",
+        "label": "Tres perfiles: 13,1%, 37,5%, 49,4%",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El perfil 1 (13,1%) muestra baja afinidad hacia el LINF; el perfil 2 (37,5%) alta afinidad con motivación y actitud altas; y el perfil 3 (49,4%), mayoritario, presenta afinidad intermedia con tendencia a la indiferencia. Existe predisposición alta, pero la mayoría se sitúa en afinidad media, una oportunidad para la mediación didáctica."
+      },
+      {
+        "id": "11",
+        "label": "El interés lector predice el perfil",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El árbol toma el interés lector como primera divisoria: z_intereses < -1,5 sitúa en el perfil 1, y las combinaciones de motivación (z ≥ 1,7) y actitud positiva (z ≥ -0,11) separan los perfiles 2 y 3. El interés lector es el predictor principal y las tres dimensiones discrimnan con claridad los perfiles."
+      },
+      {
+        "id": "12",
+        "label": "Diferencias en sexo y formato",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El sexo es significativo (χ²(4)=18,38; p=.001): los niños se concentran en el perfil de baja afinidad y las niñas predominan en el 3. En formato (p=.0008), los perfiles 2 y 3 leen más en papel, mientras en el perfil 1 se igualan papel y digital. No hay diferencias entre centros (p=.66), y los centros 4 y 6 no tienen ningún alumno en el perfil 1."
+      },
+      {
+        "id": "13",
+        "label": "Obligación frente a gusto por leer",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El motivo de lectura distingue perfiles significativamente (χ²(4)=32,06): «por obligación» domina en el perfil 1 (residuo 3,23) y «por gusto» destaca en el 3 (2,29). Sorprendentemente, el perfil 2, de alta afinidad, no muestra significatividad en leer por gusto, contradiciendo lo esperado y la investigación previa."
+      },
+      {
+        "id": "14",
+        "label": "Convergencia con la literatura previa",
+        "color": "#9b82c3",
+        "role": "Discusión",
+        "descripcion": "Los perfiles casan con la taxonomía de Torres-Adame (2022): el 2 equivale al lector alto, el 1 al bajo y el 3 al medio; el perfil 2 comparte rasgos con el lector habitual, híbrido (Caride y Pose) y estratégico (Moreno-de-León et al., 2024), el 1 con el no lector y el falso lector (Larrañaga y Yubero, 2005), y el 3 con el lector analógico de Elche et al. (2021)."
+      },
+      {
+        "id": "15",
+        "label": "LINF como recurso inclusivo",
+        "color": "#2a9d8f",
+        "role": "Conclusiones",
+        "descripcion": "El interés, la motivación intrínseca y la actitud positiva determinan la afinidad no ficcional; el LINF despierta curiosidad sobre todo en los perfiles medio y bajo. El papel favorece la manipulación libro-objeto y lo paratextual (Tabernero-Sala y Laliena, 2023), y las propuestas de lectura deben considerar género, edad y soporte hacia una educación personalizada e inclusiva."
+      },
+      {
+        "id": "16",
+        "label": "Limitación: muestra y diseño transversal",
+        "color": "#f4a261",
+        "role": "Limitaciones",
+        "descripcion": "La muestra no probabilística, intencional y limitada a la provincia de Cádiz hace los resultados no extrapolables. El diseño transversal retrata un momento puntual sin captar la evolución de los perfiles. Se proyectan muestras ampliadas, diseños longitudinales, el papel docente y datos cualitativos."
+      }
     ],
     "aristas": [
-      { "from": "1", "to": "2", "label": "se clasifica en" },
-      { "from": "1", "to": "3", "label": "se clasifica en" },
-      { "from": "1", "to": "4", "label": "se clasifica en" },
-      { "from": "5", "to": "2", "label": "predice con fuerza el" },
-      { "from": "8", "to": "4", "label": "provoca el desinterés del" },
-      { "from": "6", "to": "4", "label": "rescata y reconecta al" },
-      { "from": "6", "to": "7", "label": "alcanza máximo atractivo en" },
-      { "from": "9", "to": "3", "label": "guía e incentiva al" },
-      { "from": "6", "to": "10", "label": "garantiza la" },
-      { "from": "10", "to": "8", "label": "rompe y diversifica el" }
+      {
+        "from": "1",
+        "to": "2",
+        "label": "choca con el rechazo de la"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "motiva el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "aporta los antecedentes conceptuales del"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "centra el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se desarrolla con un"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "recolectó datos mediante un"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "sus ítems se procesan con"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "también se examinan con el"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "delimita los"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "muestra que el"
+      },
+      {
+        "from": "9",
+        "to": "12",
+        "label": "detecta las"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "revela que en el"
+      },
+      {
+        "from": "11",
+        "to": "10",
+        "label": "explica la fractura entre los"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "se reinterpretan desde la"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "contrasta con la expectativa de la"
+      },
+      {
+        "from": "11",
+        "to": "15",
+        "label": "confirma que el"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "orienta las decisiones de soporte de un"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "consolida la idea del"
+      },
+      {
+        "from": "4",
+        "to": "15",
+        "label": "respalda el"
+      },
+      {
+        "from": "16",
+        "to": "6",
+        "label": "acota la representatividad del"
+      },
+      {
+        "from": "16",
+        "to": "5",
+        "label": "condiciona el alcance del"
+      }
     ]
   }
 }

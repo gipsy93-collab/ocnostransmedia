@@ -12,9 +12,9 @@
     "color": "#2a5a75",
     "colorAlt": "#5b9eaa",
     "bg": "from-ocean-base/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-1.png",
+    "image": "/assets/portadas/dime_modelo.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-1.png",
+      "image": "/assets/portadas/dime_modelo.jpg",
       "name": "Dr. Juan-Cruz Ripoll-Salceda",
       "role": "Investigador en Psicopedagogía de la Lectura, Universidad de Navarra / Colegio Santa María la Real"
     }
@@ -23,7 +23,7 @@
     "apertura": {
       "personaje": "Dr. Juan-Cruz Ripoll-Salceda, psicopedagogo e investigador en modelos cognitivos de lectura",
       "gancho": "¿Por qué un alumno que decodifica perfectamente las palabras fracasa al entender un texto de ciencias sociales?",
-      "contexto": "Durante décadas, la enseñanza escolar se apoyó en la 'Concepción Simple de la Lectura' (Gough y Tunmer), asumiendo que comprender era solo el producto de decodificar bien y entender el lenguaje oral. Sin embargo, en 5.º y 6.º de Primaria los textos se vuelven densos y abstractos. El modelo DIME (Direct and Inferential Mediation Model), formulado por Cromley y Azevedo, postula un sistema de ecuaciones donde conocimientos previos, vocabulario, decodificación y estrategias interactúan a través de la habilidad inferencial. Este estudio somete a prueba por primera vez el modelo DIME en España con 241 estudiantes de Primaria para desvelar qué engranaje tiene mayor peso en la comprensión real.",
+      "contexto": "Durante décadas, la enseñanza escolar se apoyó en la 'Concepción Simple de la Lectura' (Hoover y Gough), asumiendo que comprender era solo el producto de decodificar bien y entender el lenguaje oral. Sin embargo, en 5.º y 6.º de Primaria los textos se vuelven densos y abstractos. El modelo DIME (Direct and Inferential Mediation Model), formulado por Cromley y Azevedo, postula un sistema de ecuaciones donde conocimientos previos, vocabulario, decodificación y estrategias interactúan a través de la habilidad inferencial. Este estudio somete a prueba por primera vez el modelo DIME en España con 241 estudiantes de Primaria para desvelar qué engranaje tiene mayor peso en la comprensión real.",
       "deepDives": [
         {
           "id": "dime-apertura-1",
@@ -51,10 +51,10 @@
       "dataPoints": [
         "Muestra de 241 alumnos de 5.º y 6.º de Primaria.",
         "El modelo DIME explicó el 60.5% de la varianza total de la comprensión lectora expositiva.",
-        "Los conocimientos previos fueron el predictor con mayor efecto total (beta = 0.44).",
+        "Los conocimientos previos fueron el predictor con mayor efecto total (beta = 0.53).",
         "El vocabulario ocupó el segundo lugar en efecto total, seguido por la habilidad inferencial.",
         "El efecto de la lectura de palabras (decodificación) no resultó estadísticamente significativo.",
-        "Ajuste global excelente (CFI = .97, RMSEA = .04)."
+        "Ajuste global excelente (CFI = .90, RMSEA = .08)."
       ],
       "glossary": [
         {
@@ -73,7 +73,7 @@
     },
     "viaje": {
       "titulo": "Ruta metodológica: Modelado de ecuaciones estructurales con 241 escolares",
-      "narrativa": "Los investigadores aplicaron una batería estandarizada de pruebas: TECLE para eficacia lectora, Peabody / EVOCA para vocabulario, pruebas de conocimientos previos específicos, test de inferencias y prueba de comprensión de textos de Conocimiento del Medio.",
+      "narrativa": "Los investigadores aplicaron una batería estandarizada de pruebas: TECLE para eficacia lectora, PEALE para vocabulario, normas de conocimientos generales, test de inferencias y prueba de comprensión de textos de Conocimiento del Medio.",
       "detalles": [
         {
           "label": "Población",
@@ -81,11 +81,11 @@
         },
         {
           "label": "Instrumentos",
-          "value": "TECLE (palabras), test de vocabulario receptivo, cuestionario de conocimientos previos y prueba de inferencias."
+          "value": "TECLE (palabras), subprueba de vocabulario PEALE, normas de conocimientos generales y prueba oral de inferencias."
         },
         {
           "label": "Análisis",
-          "value": "Modelado de ecuaciones estructurales (SEM) con máxima verosimilitud robusta."
+          "value": "Modelado de ecuaciones estructurales (SEM) con máxima verosimilitud."
         }
       ],
       "limitaciones": [
@@ -112,9 +112,9 @@
         }
       ],
       "dataPoints": [
-        "Efecto total de conocimientos previos: beta = 0.44 (p < .001).",
-        "Efecto total del vocabulario: beta = 0.32 (p < .01).",
-        "Lectura de palabras: beta = 0.06 (no significativo)."
+        "Efecto total de conocimientos previos: beta = 0.53 (p < .01).",
+        "Efecto total del vocabulario: beta = 0.31 (p < .01).",
+        "Lectura de palabras: beta = -0.04 (no significativo)."
       ],
       "reflexion": "¿Cómo pretendemos que un niño comprenda la fotosíntesis si el aula no le ha enseñado previamente qué es una molécula?"
     },
@@ -219,110 +219,227 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Modelo DIME de Comprensión Lectora",
-    "descripcion": "Estructura de interacciones directas y mediadas entre conocimientos previos, vocabulario, inferencias y comprensión en Primaria.",
+    "titulo": "Mapa conceptual: Modelo DIME de comprensión lectora en español (Ocnos 25(1), 2026)",
+    "descripcion": "Recorrido desde los modelos de componentes y la concepción simple de la lectura hasta la comprobación por ecuaciones estructurales del modelo DIME en 241 escolares de La Rioja: ajuste y 60.5% de varianza, pesos de conocimientos previos, vocabulario, inferencias, estrategias y lectura de palabras, la discusión sobre dominio general frente a específico, las limitaciones de las pruebas y las implicaciones para la cultura general.",
     "nodos": [
       {
         "id": "1",
-        "label": "Comprensión Lectora Expositiva",
-        "color": "#2a5a75"
+        "label": "Modelos basados en componentes",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La comprensión lectora es la construcción de una representación mental coherente (McNamara y Magliano, 2009) y requisito de acceso al currículo. Los modelos de componentes sintetizan la investigación y señalan qué habilidades evaluar e intervenir, salvando la dificultad docente para revisar evidencia científica."
       },
       {
         "id": "2",
-        "label": "Modelo DIME (60.5% Varianza)",
-        "color": "#5b9eaa"
+        "label": "Concepción simple de la lectura",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La CSL (Hoover y Gough, 1990) define la comprensión como resultado de la descodificación y la comprensión general del lenguaje. Por su formulación sencilla y cercanía a la acción docente ha tenido gran repercusión, y sobre ella se sustenta el modelo DIME."
       },
       {
         "id": "3",
-        "label": "Conocimientos Previos (beta=0.44)",
-        "color": "#88b04b"
+        "label": "Componentes del modelo DIME",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Cromley y Azevedo (2007) proponen cinco componentes: conocimientos previos, lectura de palabras, vocabulario, estrategias de comprensión y habilidad inferencial. Es «directo» porque todos influyen sobre la comprensión y de «mediación inferencial» porque la mayoría lo hace también vía inferencias. Cromley et al. (2010) añadieron el sendero vocabulario→estrategias con 737 universitarios; después Ahmed et al. (2016, 2022) y Härtig et al. (2022) lo replicaron."
       },
       {
         "id": "4",
-        "label": "Vocabulario Receptivo",
-        "color": "#f4d068"
+        "label": "Ortografía transparente española",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "En sistemas irregulares como el inglés la lectura de palabras se relaciona más con la comprensión, pues exige más tiempo para alcanzar precisión que en transparentes como el español (Florit y Cain, 2011; Ripoll-Salceda et al., 2014). Adoptar modelos basados en otras lenguas puede ser aventurado; además, los textos expositivos son más difíciles y se recuerdan peor que los narrativos (Mar et al., 2021)."
       },
       {
         "id": "5",
-        "label": "Habilidad Inferencial",
-        "color": "#9b82c3"
+        "label": "Comprobar el DIME en español",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "Objetivos: comprobar si el modelo DIME explica la comprensión de textos expositivos en alumnado español de 5.º y 6.º de Primaria, y conocer los efectos directos e indirectos de sus componentes predictores. Se usa como modelo a priori el de mejor ajuste en Cromley et al. (2010), con predictores medidos en dominio general."
       },
       {
         "id": "6",
-        "label": "Estrategias de Comprensión",
-        "color": "#e88b8c"
+        "label": "241 escolares riojanos",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "122 niñas y 119 niños de 5.º (n=135; M=10,40 años) y 6.º (n=106; M=11,43) de cuatro centros públicos de La Rioja, dos urbanos y dos rurales agrupados, por muestreo por conveniencia; se excluyeron 11 participantes. Recogida en marzo-mayo de 2019 en dos sesiones grupales de 60 minutos, con autorización de la Consejería de Educación y del Comité de Ética de la Universidad de Navarra."
       },
       {
         "id": "7",
-        "label": "Lectura de Palabras (No Signif.)",
-        "color": "#e76f51"
+        "label": "Batería de dominio general",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "TECLE de eficacia lectora (64 ítems, 5 minutos; AC=.95); normas de conocimientos generales Duñabeitia et al. abreviadas (41 ítems; AC=.86); vocabulario PEALE (42 ítems; AC=.75); estrategias con autoinforme ESCOLA 28B (AC=.56); prueba oral de inferencias ad hoc (38 ítems; AC=.62); comprensión de textos expositivos con PROLEC-SE (dos textos, preguntas literales e inferenciales; AC=.76)."
       },
       {
         "id": "8",
-        "label": "Automatización en 5.º y 6.º",
-        "color": "#2a9d8f"
+        "label": "Análisis de rutas SEM",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Tras inspeccionar atípicos y verificar normalidad, homocedasticidad, multicolinealidad y linealidad, se estimó un modelo de ecuaciones estructurales con variables observadas en SPSS Amos 23 por máxima verosimilitud. Los efectos directos (β), indirectos y totales se comprobaron con bootstrapping (1499 muestras, IC 95%) y el ajuste con los criterios de Kline (2016)."
       },
       {
         "id": "9",
-        "label": "Modelado Estructural (SEM)",
-        "color": "#264653"
+        "label": "Ajuste y 60.5% de varianza",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "El DIME resultó aplicable a estudiantes españoles: χ2/gl=2.6, RMSEA=.08, SRMR=.03, CFI=.90 y TLI=.95, explicando el 60.5% de la varianza de la comprensión de textos expositivos. Las habilidades lingüísticas generales evaluadas bastan para dar cuenta de la comprensión en Conocimiento del Medio."
       },
       {
         "id": "10",
-        "label": "Pedagogía de Saberes Ricos",
-        "color": "#f4a261"
+        "label": "Mayor efecto de conocimientos previos",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Los conocimientos previos fueron el componente con mayor peso: efecto directo β=.47, indirecto .06 vía inferencias y total .53 (p<.01). Contribuyen a la comprensión literal centrando la atención en las ideas importantes y, con inferencias, integrando partes inconexas del texto, coincidiendo con Cromley et al. (2010)."
+      },
+      {
+        "id": "11",
+        "label": "Segundo efecto del vocabulario",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "El vocabulario mostró el segundo mayor efecto: directo β=.25, indirecto .06 y total .31. Conocer significados y sinónimos sirve para la información literal y para dar cohesión al texto mediante inferencias que relacionan referencias y referentes."
+      },
+      {
+        "id": "12",
+        "label": "Inferencias y estrategias",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "La habilidad inferencial tuvo efecto directo y total β=.19 (no está mediada por otros) y las estrategias de comprensión .10 directo, .02 indirecto y .12 total. Ambos confirman que las estrategias facilitan la comprensión literal e inferencial, por ejemplo al resumir o releer tras detectar errores."
+      },
+      {
+        "id": "13",
+        "label": "Lectura de palabras sin efecto",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "La lectura de palabras fue el único predictor sin efecto significativo (directo β=-.04), replicando a Cromley et al. (2010). Contrasta con Ahmed et al. (2022), donde fue el principal predictor en 3.º y 4.º de EP: en cursos altos la decodificación está automatizada y en los bajos aún pesa más (Florit y Cain, 2011)."
+      },
+      {
+        "id": "14",
+        "label": "Dominio general frente a específico",
+        "color": "#e76f51",
+        "role": "Discusión",
+        "descripcion": "El 60.5% con pruebas de dominio general supera a Ahmed et al. (2016; 36-58%) pero queda lejos del 92.8% de Cromley et al. (2010) con medidas específicas del texto. Las rutas no significativas conocimientos previos→estrategias y vocabulario→estrategias se atribuyen a que las pruebas usadas no estaban relacionadas entre sí."
+      },
+      {
+        "id": "15",
+        "label": "Fiabilidad pobre en dos pruebas",
+        "color": "#f4d068",
+        "role": "Limitaciones",
+        "descripcion": "La fiabilidad de la prueba oral de inferencias y de ESCOLA fue pobre (.62 y .56) y los autoinformes están cuestionados (Cromley y Azevedo, 2006); el TECLE incluye un componente de comprensión. Los cinco predictores podrían capturar varianza de conciencia morfológica, motivación, atención o memoria de trabajo. Se recomiendan otras edades, pruebas de ejecución, comparación narrativa/expositiva y múltiples indicadores."
+      },
+      {
+        "id": "16",
+        "label": "Cultura general favorece comprensión",
+        "color": "#264653",
+        "role": "Conclusiones",
+        "descripcion": "Implicación práctica: en los últimos cursos de Primaria la lectura de palabras no debe ser objetivo prioritario. El repertorio de conocimientos del alumnado se relaciona notablemente con la comprensión, por lo que formar una cultura general extensa es una vía para favorecerla, frente a enfoques centrados solo en habilidades de búsqueda y procesamiento de información."
       }
     ],
     "aristas": [
       {
-        "from": "2",
-        "to": "1",
-        "label": "explica el 60.5% de"
+        "from": "1",
+        "to": "2",
+        "label": "ejemplificados por la"
       },
       {
-        "from": "3",
-        "to": "1",
-        "label": "ejerce el mayor efecto en"
+        "from": "2",
+        "to": "3",
+        "label": "amplía el"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "sustentan el"
       },
       {
         "from": "3",
         "to": "5",
-        "label": "alimenta directamente a la"
+        "label": "se contrasta con el"
       },
       {
         "from": "4",
-        "to": "5",
-        "label": "permite tender puentes en"
+        "to": "13",
+        "label": "modula el efecto de la"
       },
       {
         "from": "5",
-        "to": "1",
-        "label": "media el impacto hacia"
+        "to": "6",
+        "label": "movilizaron a"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "requirió medir con la"
       },
       {
         "from": "6",
-        "to": "1",
-        "label": "apoya de forma moderada a"
+        "to": "7",
+        "label": "fueron evaluados con la"
       },
       {
         "from": "7",
         "to": "8",
-        "label": "pierde peso debido a la"
+        "label": "alimentaron el"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "confirmó el"
       },
       {
         "from": "9",
-        "to": "2",
-        "label": "valida empíricamente el"
+        "to": "10",
+        "label": "evidenció el"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "evidenció el"
+      },
+      {
+        "from": "9",
+        "to": "12",
+        "label": "evidenció las"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "descartó el efecto de la"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "se explica en parte por el"
       },
       {
         "from": "10",
-        "to": "3",
-        "label": "prioriza la construcción de"
+        "to": "16",
+        "label": "fundamenta la"
       },
       {
-        "from": "10",
-        "to": "4",
-        "label": "expande masivamente el"
+        "from": "11",
+        "to": "16",
+        "label": "respalda la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "desplaza prioridades hacia la"
+      },
+      {
+        "from": "15",
+        "to": "9",
+        "label": "acota la solidez del"
+      },
+      {
+        "from": "15",
+        "to": "7",
+        "label": "cuestiona la fiabilidad de la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "refuerza la"
       }
     ]
   }

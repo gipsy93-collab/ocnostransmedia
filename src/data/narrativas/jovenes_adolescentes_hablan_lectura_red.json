@@ -1,0 +1,162 @@
+{
+  "id": "jovenes_adolescentes_hablan_lectura_red",
+  "metadata": {
+    "title": "Jóvenes y adolescentes hablan de lectura en la red",
+    "authors": "Gemma Lluch",
+    "year": "2014",
+    "journal": "Ocnos. Revista de estudios sobre lectura, 11 (2014), 7-20",
+    "doi": "https://doi.org/10.18239/ocnos_2014.11.01",
+    "gancho": "**Nota de metadatos**: el texto plano de la fuente **no incluye el DOI**; este se adopta del registro de metadatos del artículo (10.18239/ocnos_2014.11.01) y todas las anclas de página remiten a los marcadores `--- Página N ---` del propio `.txt`. El artículo documenta los espaci",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#01b4bc",
+    "colorAlt": "#183446",
+    "bg": "from-cyan-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-20.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-20.png",
+      "name": "Gemma Lluch",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Gemma Lluch, autor/a en Revista Ocnos",
+      "gancho": "**Nota de metadatos**: el texto plano de la fuente **no incluye el DOI**; este se adopta del registro de metadatos del artículo (10.18239/ocnos_2014.11.01) y todas las anclas de página remiten a los m",
+      "contexto": "El artículo se apoya en datos de contexto sobre hábitos culturales. Según la FGEE, la lectura de webs, blogs y foros es la que más creció: 37,1% en 2010, 42,4% en 2011 y 46,9% en 2012, con la franja más activa entre 14 y 24 años (77,9%). Como complemento, los datos de la AIMC sobre internautas muestran una estabilización del uso de redes sociales tras años de fuertes subidas: en 2012 un 67% las usa cotidianamente, Twitter crece hasta un 44% de us",
+      "deepDives": [
+        {
+          "id": "jovenes_adolescentes_hablan_lectura_red-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "El estudio parte de una aparente paradoja: la lectura suele describirse como una práctica solitaria y, sin embargo, en internet congrega a cientos de jóvenes que escriben, reseñan y debaten sobre lo que leen. La brecha que aborda la autora es la falta de conocimiento sistemático sobre *cómo son* eso"
+        },
+        {
+          "id": "jovenes_adolescentes_hablan_lectura_red-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "El artículo se apoya en datos de contexto sobre hábitos culturales. Según la FGEE, la lectura de webs, blogs y foros es la que más creció: 37,1% en 2010, 42,4% en 2011 y 46,9% en 2012, con la franja más activa entre 14 y 24 años (77,9%). Como complemento, los datos de la AIMC sobre internautas muest"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El estudio parte de una aparente paradoja: la lectura suele describirse como una práctica solitaria y, sin embargo, en internet congrega a cientos de jóvenes que escriben, reseñan y debaten sobre lo que leen. La brecha que aborda la autora es la falta de conocimiento sistemático sobre *cómo son* esos espacios virtuales desde el punto de vista comun",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "24 años (77,9%) |",
+        "Barbero (2011) para Cerlalc-Unesco sobre lectura y desarrollo en la sociedad de la información —con nueve experiencias en seis países de Iberoamérica y plataformas virtuales cuyo discurso versaba sobre lectura— y el trabajo de Lluch y Acosta (2012) sobre los foros de Laura Gallego, que concluye que los adolescentes se someten a reglas estrictas y ellos mismos controlan el funcionamiento del espacio."
+      ],
+      "glossary": [
+        {
+          "term": "Trashumancia virtual",
+          "definition": "comunicación que migra de una plataforma a otra aprovechando lo específico de cada red."
+        },
+        {
+          "term": "Descripción densa",
+          "definition": "fase previa al análisis textual que interpreta el contexto y las relaciones entre documentos."
+        },
+        {
+          "term": "Buzz marketing",
+          "definition": "acciones destinadas a generar comentarios y noticias entre los futuros clientes."
+        },
+        {
+          "term": "Audiencias interactivas",
+          "definition": "público que participa activamente en la producción y el debate de contenidos (Jenkins)."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Se trata de una investigación cualitativa articulada en dos estudios de caso: los hilos de discusión de los foros de Laura Gallego (FLG) y los posts, comentarios y tuits de la campaña *Reto Delirium* de la editorial SM (RD). \nEl instrumento combina tres niveles. Primero, la **observación participante**: en el foro FLG se realizó \"a través de un perfil falso\" y en RD mediante Facebook, formando par",
+      "detalles": [
+        {
+          "label": "[FLG2] El foro sale en un libro de texto",
+          "value": "08-10-2008 a 17-04-2011 - 181 mensajes de 120 participantes"
+        },
+        {
+          "label": "[FLG3] Los foros y Twitter para compartir la creación",
+          "value": "10-05-2011 a 30-06-2011 - 46 mensajes de 13 participantes"
+        },
+        {
+          "label": "[FLG4] Tuits con #LauraGallego",
+          "value": "Twitter: 31-05-2011 - 201 tuits de 47 participantes"
+        },
+        {
+          "label": "Acrónimo",
+          "value": "Blog - Comentarios analizados"
+        }
+      ],
+      "limitaciones": [
+        "La autora **no declara un apartado de limitaciones**. El propio texto sí señala, en nota al pie, una cautela metodológica relevante: la edad de los participantes \"es orientativa y partimos de los dato"
+      ],
+      "reflexion": "Si replicaras este diseño con un grupo de tu entorno, ¿cómo triangularías observación, descripción densa y análisis textual sin invadir la privacidad de los participantes?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "Los sujetos crean comunidades virtuales de lectura",
+          "value": "que ya no se generan ni se tutelan desde la escuela o la biblioteca. Los miembros siguen un *modus operandi* similar al de los fans de *Survivor* descritos por Jenkins: afiliaciones voluntarias que funcionan en el tiempo de ocio; temporales, porque se forman y se disuelven en tie"
+        },
+        {
+          "label": "Construyen sus espacios desde plataformas múltiples practicando la trashumancia virtual",
+          "value": ". Las conversaciones crean un \"espacio virtual de comunicación\", un lugar construido por documentos sobre un mismo tema escritos desde plataformas diferentes; la comunicación se adapta así a las necesidades y gustos de los usuarios."
+        },
+        {
+          "label": "Los lectores producen los espacios y ganan protagonismo y visibilidad",
+          "value": ". Aunque la editorial o la autora intervengan, es el usuario quien produce los contenidos adaptándolos a cada red y plataforma; como consecuencia, el efecto viral de los mensajes es mucho mayor."
+        },
+        {
+          "label": "El hecho lector se transforma en conversación social",
+          "value": ". Los espacios analizados resultan \"menos forzados y más cercanos que la escuela o la familia\" porque conectan con otros que tienen aficiones similares y que pueden convertirse en amigos; la lectura deja así de ser una afición que provoca aislamiento."
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El marco se apoya en autorías citadas en el propio artículo. **Jenkins (2008)**, en su análisis del reality *Survivor* (pp. 60-65), aporta el concepto de \"audiencias interactivas\", el \"paradigma del experto\" —el cuerpo definido de conocimientos que crea un interior y un exterior: unos saben cosas y otros no— y la \"inteligencia colectiva\", cuya fortaleza y debilidad residen en su desorden e indisci",
+      "detalles": [
+        {
+          "label": "Audiencias interactivas (Jenkins (2008))",
+          "value": "Define la participación activa de los lectores en la producción y el debate."
+        },
+        {
+          "label": "Paradigma del experto (Jenkins (2008))",
+          "value": "Explica la división entre foristas \"que saben cosas\" y quienes no acceden a esa información."
+        },
+        {
+          "label": "Inteligencia colectiva (Jenkins (2008))",
+          "value": "Describe la vigilancia de las normas y el control del espacio por la comunidad."
+        },
+        {
+          "label": "Prácticas de alfabetización (Marsh (2011))",
+          "value": "Muestran cómo la escritura sostiene la interacción social en entornos virtuales."
+        }
+      ],
+      "reflexion": "¿La lectura como conversación social que describe el artículo aporta un argumento conceptual sólido frente a la idea tradicional de lectura solitaria, o bien la \"privatización\" de estos espacios en manos de editoriales introduce un contra-argumento?"
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo son, desde el punto de vista comunicativo, los espacios virtuales donde adolescentes y jóvenes hablan de lectura, qué características tienen y por qué congregan a tantos sujetos en torno a la lectura?",
+      "conclusion": "Los jóvenes y adolescentes construyen comunidades lectoras con afiliaciones voluntarias, temporales y tácticas, que operan mediante trashumancia virtual entre foros, blogs, Facebook y Twitter. Estas comunidades ya no se generan ni se tutelan desde la escuela o la biblioteca: el hecho lector se transforma en conversación social, los propios lectores ganan protagonismo y visibilidad, y se convierten en expertos y \"líderes de opinión\". El carácter s",
+      "formalRef": "Lluch, G. (2014). Jóvenes y adolescentes hablan de lectura en la red. *Ocnos. Revista de estudios sobre lectura*, 11, 7-20. https://doi.org/10.18239/ocnos_2014.11.01"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál es el foco central de la investigación sobre Jóvenes y adolescentes hablan de lectura...?",
+          "options": [
+            "Aporte conceptual y empírico al campo lector",
+            "Revisión histórica secundaria"
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  }
+}

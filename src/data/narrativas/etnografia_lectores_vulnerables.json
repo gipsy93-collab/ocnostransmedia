@@ -2,51 +2,51 @@
   "id": "etnografia_lectores_vulnerables",
   "metadata": {
     "title": "La formación de lectores literarios y críticos como desafío institucional. Etnografía escolar en contextos vulnerables",
-    "authors": "Carolina Cuesta",
+    "authors": "Oscar Araya-Maldonado y Cristina Del-Moral-Barrigüete",
     "year": "2025",
     "journal": "Ocnos 24(2)",
     "doi": "10.18239/ocnos_2025.24.2.586",
-    "gancho": "¿Qué ocurre cuando la literatura llega a una escuela del conurbano donde los alumnos viven rodeados de exclusión?",
+    "gancho": "¿Qué ocurre cuando la literatura llega a escuelas donde el alumnado vive en riesgo de vulnerabilidad?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#c73e1d",
     "colorAlt": "#2a5a75",
     "bg": "from-red-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-20.png",
+    "image": "/assets/portadas/etnografia_lectores_vulnerables.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-20.png",
-      "name": "Dra. Carolina Cuesta",
-      "role": "Investigadora en Etnografía Educativa y Didáctica de la Lengua, Universidad Nacional de La Plata (Argentina)"
+      "name": "Dr. Oscar Araya-Maldonado",
+      "role": "Investigador en Didáctica de la Lengua y la Literatura, Universidad de Granada (España)"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Carolina Cuesta, etnógrafa de la educación y especialista en enseñanza de la literatura en sectores populares",
-      "gancho": "¿Es la literatura un lujo burgués o la herramienta más poderosa de emancipación para los jóvenes de la periferia?",
-      "contexto": "Con frecuencia, los discursos hegemónicos sobre el 'fracaso escolar' culpabilizan a las familias vulnerables, acusándolas de no tener libros en casa ni hábitos lectores. En este estudio etnográfico de largo aliento en escuelas secundarias públicas del conurbano bonaerense (Argentina), la Dra. Cuesta documenta cómo los adolescentes de sectores marginados construyen sentidos inesperados, desafiantes y profundamente críticos cuando un docente sabe mediar la literatura sin prejuicios clasistas.",
+      "personaje": "Dr. Oscar Araya-Maldonado, etnógrafo de la lectura y especialista en educación literaria",
+      "gancho": "¿Es la lectura literaria un derecho de todos o depende aún del esfuerzo individual de cada docente?",
+      "contexto": "La lectura literaria tiene una gran potencialidad social, afectiva y ética, pero en contextos desfavorecidos enfrenta obstáculos adicionales: falta de referentes lectores en el hogar y poco valor social de la alfabetización. En esta investigación etnográfica con enfoque de estudio de caso, se visitaron durante nueve meses tres escuelas del norte de Granada (Andalucía) en zonas con riesgo de vulnerabilidad, trabajando con ocho maestros de Educación Primaria para identificar las estrategias desplegadas en la formación de lectores literarios.",
       "deepDives": [
         {
           "id": "etn-apertura-1",
-          "triggerLabel": "Etnografía escolar crítica (Rockwell)",
+          "triggerLabel": "Etnografía de la lectura",
           "type": "theory",
-          "content": "Metodología antropológica que observa la vida cotidiana de las aulas para desentrañar cómo las políticas oficiales son reinterpretadas y resistidas por los sujetos reales."
+          "content": "Enfoque que estudia los usos individuales y colectivos de la lectura en el marco de la cultura escolar (Martos-García, 2010; Rockwell, 2018), observando la vida cotidiana del aula."
         },
         {
           "id": "etn-apertura-2",
-          "triggerLabel": "El concepto de 'apropiación' (Chartier)",
+          "triggerLabel": "El ecosistema mediador (Munita)",
           "type": "theory",
-          "content": "Frente a la idea pasiva de 'asimilación', la apropiación sostiene que los lectores populares resignifican los textos desde sus propias experiencias de vida."
+          "content": "Entender la formación de lectores como una tarea social articulada que va más allá de las actuaciones individuales del profesorado (Munita, 2021)."
         }
       ]
     },
     "conflicto": {
-      "problema": "Persiste en el sistema escolar un 'déficit cultural' atribuido a los estudiantes pobres, lo que lleva a las instituciones a ofrecerles lecturas empobrecidas o meros talleres de alfabetización funcional.",
-      "porQueImporta": "Rebajar el nivel literario para los sectores vulnerables perpetúa la desigualdad social. La escuela pública debe ser el lugar donde todos tengan derecho a la alta literatura.",
+      "problema": "La formación de lectores y la educación literaria continúan dependiendo en gran medida de los esfuerzos individuales del profesorado, sin planes de lectura de centro que definan objetivos y acciones comunes.",
+      "porQueImporta": "Prescindir de un proyecto institucional limita la sostenibilidad de las prácticas lectoras y deja desatendida la competencia interpretativa del alumnado más vulnerable.",
       "dataPoints": [
-        "Trabajo de campo etnográfico prolongado en escuelas secundarias de la periferia urbana.",
-        "Observación participante en clases de Literatura, entrevistas en profundidad a docentes y análisis de producciones escritas juveniles.",
-        "Desmontaje del mito del desinterés: los estudiantes se apasionan por textos densos (Borges, Kafka, Rulfo) cuando se habilitan debates dialógicos sobre el dolor y la justicia.",
-        "La mediación docente comprometida actúa como dique de contención frente a la violencia estructural del entorno."
+        "Etnografía de nueve meses en tres escuelas del norte de Granada (Andalucía).",
+        "Ocho maestros de tercer ciclo de Primaria: observación participante, entrevistas semiestructuradas y análisis documental.",
+        "Solo uno de los tres centros dispone de un plan de lectura de centro (PLC).",
+        "Los esfuerzos se focalizan en el hábito lector, con escaso espacio para la competencia interpretativa."
       ],
       "glossary": [
         {
@@ -54,248 +54,348 @@
           "definition": "Investigación cualitativa densa que estudia la cultura del aula y las prácticas cotidianas de los sujetos en su contexto institucional."
         },
         {
-          "term": "Habitus lector",
-          "definition": "Disposiciones corporales y culturales interiorizadas que orientan la relación subjetiva con los libros (Bourdieu)."
+          "term": "Ecosistema mediador",
+          "definition": "Tarea social articulada de formación de lectores que trasciende las actuaciones individuales del profesorado (Munita, 2021)."
         }
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Etnografía densa en aulas de la periferia",
-      "narrativa": "La investigadora compartió cientos de horas de clase con profesores y alumnos. Registró conversaciones espontáneas, silencios, tensiones con la institución y lecturas colectivas en voz alta.",
+      "titulo": "Ruta metodológica: Etnografía escolar en el norte de Granada",
+      "narrativa": "El trabajo de campo se extendió por nueve meses e incluyó veinte sesiones de aula por docente, actividades en la biblioteca escolar y tres entrevistas por participante (inicial, intermedia y final), además de conversaciones informales y análisis documental.",
       "detalles": [
         {
           "label": "Contexto",
-          "value": "Escuelas secundarias públicas del conurbano bonaerense (Argentina)."
+          "value": "Tres escuelas (dos públicas y una concertada) del norte de Granada (España)."
         },
         {
           "label": "Metodología",
-          "value": "Etnografía educativa, diarios de campo, grabaciones de clases y entrevistas biográficas."
+          "value": "Observación participante, entrevistas semiestructuradas (inicial, intermedia y final) y análisis documental."
         }
       ],
       "limitaciones": [
         "Estudio cualitativo situado que no persigue generalización estadística, sino profundidad interpretativa."
       ],
-      "reflexion": "La escuela pública en la periferia no es un edificio gris: es una trinchera de esperanza y pensamiento libre."
+      "reflexion": "La escuela pública en zonas vulnerables no es un edificio gris: es una trinchera de esperanza y pensamiento libre."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: La literatura como trinchera y refugio",
-      "narrativa": "El registro etnográfico aportó momentos de inmensa luz pedagógica:",
+      "titulo": "Hallazgos empíricos: El hábito lector eclipsa la interpretación",
+      "narrativa": "El registro etnográfico mostró una tensión entre norma y práctica:",
       "hallazgos": [
         {
-          "label": "1. El Rechazo al Paternalismo",
-          "value": "Los alumnos rechazan los libros condescendientes que les hablan de 'sus problemas de barrio'; prefieren la extrañeza y el misterio de la gran ficción."
+          "label": "1. Dimensión institucional frágil",
+          "value": "Solo el centro C2 cuenta con un plan de lectura; la formación de lectores depende aún de esfuerzos individuales del profesorado."
         },
         {
-          "label": "2. Apropiación Rebelde",
-          "value": "Al leer 'El matadero' de Echeverría o cuentos fantásticos, los jóvenes establecen paralelismos feroces con la violencia policial y la injusticia social contemporánea."
+          "label": "2. Mediación centrada en el hábito",
+          "value": "Predominan la lectura obligatoria guiada y las fichas de lectura; la competencia interpretativa es el objetivo más débil."
         }
       ],
       "dataPoints": [
-        "La mediación dialógica colectiva permitió a alumnos con graves retrasos de escritura producir ensayos orales de extraordinaria madurez crítica."
+        "En C3 las Tertulias Literarias Dialógicas, dos veces al mes, dinamizan el intercambio en torno a obras exclusivamente clásicas."
       ],
-      "reflexion": "Quien cree que a los pobres solo les interesan las historias simples no ha escuchado hablar a un chico de la periferia."
+      "reflexion": "Rebajar el listón literario a los sectores vulnerables perpetúa la desigualdad: el derecho a la alta literatura es de todos."
     },
     "marco": {
-      "titulo": "Discusión: La justicia curricular y el deber de la escuela",
-      "narrativa": "Carolina Cuesta exige una pedagogía que confíe en la capacidad intelectual de todos los jóvenes:",
+      "titulo": "Discusión: La justicia educativa y el deber de la escuela",
+      "narrativa": "Araya-Maldonado y Del-Moral-Barrigüete reclaman un ecosistema mediador institucional que sostenga la educación literaria:",
       "detalles": [
         {
-          "label": "Justicia Curricular (Connell)",
-          "value": "Garantizar el acceso al patrimonio cultural más exigente a quienes más desposeídos están en la sociedad."
+          "label": "Fortalecer los planes de lectura",
+          "value": "Definir propósitos y acciones concretas, con acompañamiento de las administraciones en zonas vulnerables (LO 3/2020)."
         }
       ],
       "reflexion": "Enseñar literatura en contextos vulnerables es un acto de resistencia democrática."
     },
     "nucleo": {
-      "pregunta": "¿Cómo se construyen las prácticas de lectura literaria en escuelas secundarias en contextos de extrema vulnerabilidad?",
-      "conclusion": "La etnografía escolar en escuelas del conurbano bonaerense desmonta la teoría del 'déficit cultural', demostrando que los jóvenes de sectores populares se apropian con lucidez y sentido crítico de la literatura más compleja cuando la docencia ofrece mediación rigurosa sin paternalismo. La formación de lectores críticos en contextos vulnerables es un desafío institucional que exige justicia curricular y confianza pedagógica radical.",
-      "formalRef": "Cuesta, C. (2025). La formación de lectores literarios y críticos como desafío institucional. Etnografía escolar en contextos vulnerables. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.586"
+      "pregunta": "¿Cómo se construyen las prácticas de lectura literaria en escuelas de Educación Primaria en contextos de vulnerabilidad?",
+      "conclusion": "La etnografía escolar en tres escuelas del norte de Granada revela que los centros priorizan el fortalecimiento del hábito lector en desmedro de la competencia interpretativa, y que solo uno de los tres cuenta con plan de lectura de centro. Se concluye la necesidad de fortalecer los planes de lectura con propósitos y acciones concretas, potenciar bibliotecas escolares con personal a cargo y formar docentes mediadores.",
+      "formalRef": "Araya-Maldonado, O., & Del-Moral-Barrigüete, C. (2025). La formación de lectores literarios y críticos como desafío institucional. Etnografía escolar en contextos vulnerables. Ocnos, 24(2). https://doi.org/10.18239/ocnos_2025.24.2.586"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué prejuicio pedagógico desmonta la etnografía escolar desarrollada por Carolina Cuesta?",
+          "q": "¿Cuál fue el principal objetivo de la investigación etnográfica de Araya-Maldonado y Del-Moral-Barrigüete?",
           "options": [
-            "Que los alumnos de Secundaria leen demasiado rápido.",
-            "El mito del 'déficit cultural', que asume que los jóvenes de barrios vulnerables carecen de capacidad para comprender y disfrutar de literatura compleja.",
-            "Que las escuelas públicas no tienen puertas ni ventanas.",
-            "Que los profesores de literatura no usan tiza."
+            "Medir la velocidad lectora del alumnado.",
+            "Identificar las estrategias de los centros y del profesorado para la formación de lectores literarios.",
+            "Comparar sistemas educativos entre países.",
+            "Evaluar la calidad editorial de los álbumes."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué tipo de obras literarias generaron las reflexiones más ricas e inesperadas entre los estudiantes según el estudio?",
+          "q": "¿Qué actividad de mediación destaca en el tercer centro (C3)?",
           "options": [
-            "Folletos de propaganda electoral.",
-            "Textos clásicos y fantásticos densos (como Borges, Rulfo o Kafka) mediados a través del debate dialógico.",
-            "Libros de texto simplificados con dibujos infantiles.",
-            "Listados de palabras sueltas."
+            "Las Tertulias Literarias Dialógicas con obras clásicas.",
+            "Los concursos de dictado.",
+            "Los exámenes memorísticos semanales.",
+            "El cineforum obligatorio."
           ],
-          "correct": 1
+          "correct": 0
         },
         {
           "type": "choice",
-          "q": "¿Qué significa el concepto de 'justicia curricular' aplicado a la enseñanza de la literatura?",
+          "q": "¿Qué se concluye sobre los planes de lectura de los centros?",
           "options": [
-            "Exigir que todos los alumnos aprueben sin estudiar.",
-            "Garantizar el acceso al patrimonio literario y cultural más exigente y emancipador a los sectores más desfavorecidos de la sociedad.",
-            "Poner jueces en las clases de literatura.",
-            "Prohibir los libros en las escuelas públicas."
+            "Que deben ser eliminados.",
+            "Que es necesario fortalecerlos con propósitos y acciones concretas.",
+            "Que ya son suficientes y no requieren cambios.",
+            "Que no influyen en la formación de lectores."
           ],
           "correct": 1
         },
         {
           "type": "open",
-          "q": "¿Cómo diseñarías una secuencia de lectura para un grupo de adolescentes de un entorno vulnerable que evite caer en el paternalismo o en lecturas facilistas condescendientes?"
+          "q": "¿Cómo diseñarías una secuencia de lectura para un grupo de adolescentes de un entorno vulnerable que integre la interpretación como práctica colectiva y significativa?"
         },
         {
           "type": "open",
-          "q": "La autora destaca cómo los jóvenes conectan la literatura con sus propias luchas de vida. ¿Qué obra literaria propondrías a tus alumnos para reflexionar sobre la dignidad humana frente a la injusticia social?"
+          "q": "El estudio subraya la importancia de los planes de lectura de centro y del ecosistema mediador. ¿Qué medidas concretas propondrías en tu centro para articular un proyecto lector sostenible?"
         }
       ]
     }
   },
   "tutorTexts": {
     "apertura": {
-      "text": "Bienvenido a la trinchera pedagógica. Nos adentramos en las escuelas secundarias de la periferia con la etnografía de Carolina Cuesta.",
+      "text": "Bienvenido a la escuela real. Nos adentramos en el norte de Granada con la etnografía de Araya-Maldonado y Del-Moral-Barrigüete.",
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "Basta de culpar a las familias pobres por no tener bibliotecas. La escuela pública tiene el deber sagrado de ofrecer alta cultura a todos.",
+      "text": "La formación de lectores no puede depender solo del esfuerzo individual: hace falta un ecosistema mediador institucional.",
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Cientos de horas de observación participante en aulas del conurbano para escuchar la voz real de los estudiantes.",
+      "text": "Nueve meses de observación participante en tres escuelas del norte de Granada para escuchar la voz real del aula.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El prejuicio se desmorona! Los jóvenes de la periferia leen a Kafka y a Borges con una hondura que desarma a los cínicos.",
+      "text": "¡La interpretación es el eslabón débil! Los centros priorizan el hábito lector y descuidan la competencia literaria.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "La justicia curricular exige no rebajar el listón a los vulnerables: darles lo mejor es la mayor prueba de respeto.",
+      "text": "La educación literaria exige no dejar solos a los docentes: planes de lectura, bibliotecas activas y acompañamiento institucional.",
       "position": "bottom-right"
     },
     "nucleo": {
-      "text": "La literatura en las aulas populares no es un adorno: es una herramienta de libertad y dignidad para cambiar el mundo.",
+      "text": "La literatura en las aulas populares no es un adorno: es una herramienta de libertad y dignidad.",
       "position": "bottom-right"
     },
     "mapa": {
-      "text": "Explora el mapa para conectar la etnografía escolar, la justicia curricular, la apropiación y la mediación en contextos vulnerables.",
+      "text": "Explora el mapa para conectar la etnografía escolar, los planes de lectura, el ecosistema mediador y la mediación en contextos vulnerables.",
       "position": "bottom-right"
     },
     "reflexion": {
-      "text": "Reflexiona sobre tu propia práctica docente y comprométete con una educación literaria libre de prejuicios clasistas.",
+      "text": "Reflexiona sobre tu propia práctica docente y sobre cómo fortalecer los planes de lectura de tu centro.",
       "position": "bottom-right"
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Etnografía de la Lectura en Contextos Vulnerables",
-    "descripcion": "Estudio etnográfico en la periferia urbana: superación del déficit cultural, apropiación rebelde, justicia curricular y mediación sin paternalismo.",
+    "titulo": "Mapa conceptual: Formación de lectores literarios en contextos vulnerables (Ocnos 24(2), 2025)",
+    "descripcion": "Recorrido desde la potencialidad de la lectura literaria y el doble propósito curricular de hábito y competencia interpretativa, pasando por la etnografía de nueve meses en tres escuelas del norte de Granada con ocho docentes, hasta los hallazgos sobre planes de lectura, bibliotecas, mediaciones y corpus, la brecha entre norma y práctica y la conclusión de fortalecer los planes de lectura de centro.",
     "nodos": [
       {
         "id": "1",
-        "label": "Etnografía Escolar Crítica",
-        "color": "#c73e1d"
+        "label": "Potencialidad de la lectura literaria",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La lectura literaria tiene potencialidad social, afectiva y ética: estimula la reflexión sobre el mundo, pone en palabras la existencia y ensancha la experiencia (Andruetto, 2015; Calvo, 2019; García-Única, 2022; Petit, 2015). La mediación puede constituir un cuidado con responsabilidad por los otros (Véliz et al., 2022) e incluso intervenciones socioeducativas (Yubero et al., 2022)."
       },
       {
         "id": "2",
-        "label": "Contextos de Vulnerabilidad",
-        "color": "#2a5a75"
+        "label": "Educación literaria en el aula",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La educación literaria es punto de encuentro investigador: su objetivo es una experiencia de lectura relevante y vinculada a la vida diaria (Mata, 2020; Sanjuán-Álvarez, 2014), con habilidades específicas de lectura (Colomer, 2014; Mendoza, 2004) y capacidad de interpretar el discurso literario (Lomas, 2023; Munita, 2018)."
       },
       {
         "id": "3",
-        "label": "Mito del 'Déficit Cultural'",
-        "color": "#e76f51"
+        "label": "Hábito lector y competencia interpretativa",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "La LOMLOE (2020) y el Real Decreto 157/2022 asumen el doble propósito de un hábito lector autónomo y una competencia interpretativa, capaz de construir sentidos desde lo leído (Martínez-Ezquerro, 2016), entretejidos con la cultura y lecturas previas de cada lector (Montes, 2006). Propone itinerarios lectores y comunidades para compartir la dimensión social de la literatura."
       },
       {
         "id": "4",
-        "label": "Apropiación Rebelde del Sentido",
-        "color": "#88b04b"
+        "label": "Ecosistema mediador institucional",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "El mediador diseña condiciones para la apropiación de la cultura escrita (Munita, 2021), labor que requiere una tarea social articulada más allá de los profesores individually: el «ecosistema mediador». En contextos desfavorecidos se suman obstáculos: falta de referentes lectores en el hogar y poco valor social de la alfabetización (García-Jiménez et al., 2018) y escaso compromiso familiar (Martínez-Díaz y Torres-Soto, 2019)."
       },
       {
         "id": "5",
-        "label": "Justicia Curricular (Connell)",
-        "color": "#5b9eaa"
+        "label": "Objetivo: estrategias de los centros",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "Identificar las estrategias de los centros y del profesorado de tercer ciclo de Primaria en los procesos de lectura literaria. Objetivos específicos: los propósitos institucionales de formación de lectores; las actividades y mediaciones de biblioteca y profesorado; los criterios de los itinerarios de lectura. Aporta a los ODS 4 y 10 de la Agenda 2030."
       },
       {
         "id": "6",
-        "label": "Rechazo al Paternalismo",
-        "color": "#f4d068"
+        "label": "Etnografía de caso en Granada",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Investigación etnográfica con estudio de caso, enmarcada en la etnografía de la lectura (Martos-García, 2010; Rockwell, 2018). Durante nueve meses se visitaron tres escuelas del distrito norte de Granada, en zonas con riesgo de vulnerabilidad: C1 y C2 públicas y C3 concertado con comunidad de aprendizaje, con ocho docentes de Lengua (cuatro mujeres y cuatro hombres), incluida una bibliotecaria."
       },
       {
         "id": "7",
-        "label": "Textos Literarios Densos",
-        "color": "#9b82c3"
+        "label": "Observación, entrevista y documentos",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Técnicas: observación participante con registro abierto y focos (mediaciones, prácticas, materiales) de veinte sesiones por docente; entrevistas semiestructuradas inicial, intermedia y final por participante; análisis documental de los archivos de los centros; más conversaciones informales. La triangulación espacio/tiempo y de técnicas permitió la saturación de la información."
       },
       {
         "id": "8",
-        "label": "Debate Dialógico en el Aula",
-        "color": "#2a9d8f"
+        "label": "Codificación axial cualitativa",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Análisis de contenido en tres pasos (Rodríguez-Sabiote et al., 2005): identificación de unidades discursivas, categorización emergente y codificación axial hasta dos macro-categorías: dimensión institucional y mediación lectora. Fuentes codificadas como DC, RO, Eini, Einter, Ef y Cinf, con anonimato exigido por la Universidad de Granada."
       },
       {
         "id": "9",
-        "label": "Escuela Pública como Trinchera",
-        "color": "#264653"
+        "label": "Primacía del hábito lector",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "En los tres centros los esfuerzos se focalizan en el hábito lector. Solo C2 posee un plan de lectura de centro (PLC) con propósitos y orientaciones (placer lector, competencia y planificación antes-durante-después); C1 carece de documentos internos y C3, sin PLC, se ampara en los principios de las comunidades de aprendizaje. Prácticas como el «bibliopatio» de C1 no se sostuvieron por falta de personal."
       },
       {
         "id": "10",
-        "label": "Emancipación y Ciudadanía",
-        "color": "#f4a261"
+        "label": "Bibliotecas escolares desiguales",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "En C1 la biblioteca permanecía cerrada gran parte del campo, con un «biblioteca blog» virtual esporádico. En C2 fue un espacio activo: encuentros con autores, cuentacuentos, lecturas dramatizadas y red con la biblioteca municipal. En C3 operó como «biblioteca tutorizada» de apoyo a tareas. La escuela funciona al margen de su biblioteca (Serna et al., 2017)."
+      },
+      {
+        "id": "11",
+        "label": "Mediación centrada en la fluidez",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "En C1 predominó la lectura en voz alta en fila con corrección de entonación, el libro de texto y la ausencia de ayudas interpretativas. En C2 destacaron la lectura modelizada de poemas de Machado, Lorca o Zambrano, los espacios de lectura libre y guiada en biblioteca, huerto y patio, y las mediaciones culturales; pero en la lectura guiada escasean estrategias y hay interpretaciones impuestas por el docente."
+      },
+      {
+        "id": "12",
+        "label": "Tertulias dialógicas con clásicos",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "En C3 las Tertulias Literarias Dialógicas, dos veces al mes con obras exclusivamente clásicas, dinamizan el intercambio entre lectores y ayudan a superar errores de recepción, aunque generan críticas por falta de diversificación. Conviven fichas semanales de lectura fruitiva e identificación y una actividad «multinivel» cuyas preguntas de análisis quedan en lo lingüístico."
+      },
+      {
+        "id": "13",
+        "label": "Corpus sin retos interpretativos",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Los criterios de selección son la identificación con personajes (C1 y C3), textos de vocabulario simple (C2) y ampliación de referentes culturales; no aparece la progresión hacia nuevos retos interpretativos que exige la normativa (Real Decreto 157/2022; Decreto 101/2023). En C3 el profesorado manifiesta disconformidad con la lista cerrada de clásicos."
+      },
+      {
+        "id": "14",
+        "label": "Brecha entre norma y práctica",
+        "color": "#5b9eaa",
+        "role": "Discusión",
+        "descripcion": "La formación de lectores depende aún de esfuerzos individuales del profesorado y la competencia interpretativa es el objetivo más débil, reflejando el distanciamiento entre el conocimiento didáctico y el aula (Permach-Martín et al., 2024). Los centros priorizan el hábito en desmedro de la competencia literaria, por la relación tardía con la literatura y la baja cultura lectora."
+      },
+      {
+        "id": "15",
+        "label": "Planes de lectura a fortalecer",
+        "color": "#88b04b",
+        "role": "Conclusiones",
+        "descripcion": "Se concluye la necesidad de fortalecer los planes de lectura de los centros con propósitos y acciones concretas, con acompañamiento de las administraciones en zonas vulnerables (LO 3/2020), liderazgo de los equipos directivos, bibliotecas con profesional a cargo y vínculos con la biblioteca pública. Formar docentes mediadores y usar tertulias y clubes lectura como práctica interpretativa colectiva, por el derecho a una educación de calidad (ODS 4 y 10)."
       }
     ],
     "aristas": [
       {
         "from": "1",
         "to": "2",
-        "label": "investiga en profundidad los"
+        "label": "fundamenta la"
       },
       {
         "from": "1",
+        "to": "4",
+        "label": "respalda el"
+      },
+      {
+        "from": "2",
         "to": "3",
-        "label": "desmantela con datos el"
+        "label": "se formaliza en la"
       },
       {
         "from": "3",
-        "to": "6",
-        "label": "se combate mediante el"
-      },
-      {
-        "from": "5",
-        "to": "7",
-        "label": "exige garantizar el acceso a"
-      },
-      {
-        "from": "7",
-        "to": "4",
-        "label": "detona en los alumnos la"
-      },
-      {
-        "from": "8",
-        "to": "4",
-        "label": "habilita en el aula la"
-      },
-      {
-        "from": "9",
-        "to": "2",
-        "label": "actúa como escudo en"
-      },
-      {
-        "from": "9",
         "to": "5",
-        "label": "materializa en sus prácticas la"
+        "label": "exige abordar en el"
       },
       {
         "from": "4",
+        "to": "6",
+        "label": "se estudia mediante la"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se abordó con la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "empleó como"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se procesó con"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "sintetizó la"
+      },
+      {
+        "from": "8",
         "to": "10",
-        "label": "transforma la lectura en"
+        "label": "evidenció el"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "describió la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "registró las"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "comparó el"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "explica la"
       },
       {
         "from": "10",
-        "to": "9",
-        "label": "cumple la misión más noble de la"
+        "to": "14",
+        "label": "agudiza la"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "condiciona el"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "apunta hacia los"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "demanda los"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "conduce a los"
       }
     ]
   }

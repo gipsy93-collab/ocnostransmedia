@@ -1,0 +1,376 @@
+{
+  "id": "jovenes_escritores_red_perfiles_wattpad",
+  "metadata": {
+    "title": "Jóvenes escritores en la red: un estudio exploratorio sobre perfiles de Wattpad",
+    "authors": "Anastasio García-Roca y José Manuel De-Amo",
+    "year": "2019",
+    "journal": "Ocnos 18(3)",
+    "doi": "10.18239/ocnos_2019.18.3.1968",
+    "gancho": "¿Quiénes son los adolescentes que autopublican y leen en Wattpad al margen de la escuela y qué motiva su escritura creativa?",
+    "duration": "12-15 min",
+    "badge": "Escritura Digital y Prácticas Vernáculas",
+    "disciplina": "Didáctica de la Lengua y la Literatura y Cultura Digital",
+    "dimensiones": [
+      "Prácticas Letradas Vernáculas",
+      "Espacios de Afinidad Digital",
+      "Perfil Sociodemográfico Wattpad",
+      "Autorregulación y Capital Social"
+    ],
+    "tags": [
+      "wattpad",
+      "jovenes_escritores",
+      "practicas_vernaculas",
+      "espacios_de_afinidad",
+      "escritura_creativa",
+      "redes_sociales"
+    ],
+    "pistas": [
+      "Estudio exploratorio no experimental sobre un corpus de 146 entrevistas voluntarias a jóvenes escritores en español.",
+      "Perfil sociodemográfico marcadamente femenino (87,9%) y adolescente (media de 16,9 años) repartido en 19 países hispanohablantes.",
+      "Precocidad escritora: inician su afición creativa hacia los 12 años e ingresan en Wattpad a los 14,5 años para compartir sus obras.",
+      "Autorregulación reflexiva: los autores jóvenes rechazan los clichés comerciales y eliminan textos iniciales por autoexigencia estilística."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "Mientras las aulas debaten sobre la supuesta desafección de los adolescentes hacia la literatura, millones de jóvenes escriben, editan y comentan apasionadamente relatos en plataformas virtuales como Wattpad.",
+      "desafio": "Describir el perfil sociodemográfico, las motivaciones intrínsecas y los mecanismos de socialización de los escritores noveles en Wattpad para tender puentes entre la cultura letrada vernácula y la escuela.",
+      "relevancia": "Permite a los docentes comprender las identidades escritoras juveniles y aprovechar la retroalimentación horizontal de las redes para renovar los talleres de escritura creativa en secundaria."
+    },
+    "conflicto": {
+      "pregunta": "¿Qué rasgos definen al joven escritor de Wattpad y cómo interactúan la motivación creativa, la recepción entre pares y el currículo formal?",
+      "posiciones": [
+        "Perspectiva escolar tradicional: la escritura en redes sociales es deficiente, efímera, plagada de clichés románticos y carente de rigor gramatical.",
+        "Enfoque sociocultural vernáculo: Wattpad constituye un espacio de afinidad horizontal que fomenta la autorregulación, la crítica compartida y la identidad letrada."
+      ],
+      "tension": "La tensión entre la autonomía creativa sin censura que experimentan los jóvenes en la red y la rigidez normativa de las tareas de composición en el aula escolar.",
+      "deepDives": [
+        {
+          "id": "wat-conf-1",
+          "triggerLabel": "El fenómeno del lector beta",
+          "type": "context",
+          "content": "En Wattpad, la figura del lector beta actúa como un corrector de estilo voluntario que orienta al autor antes y durante la publicación por entregas, generando una dinámica de co-creación inexistente en el libro impreso."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Análisis cualitativo y cuantitativo sobre 146 entrevistas a creadores de Wattpad",
+      "narrativa": "Los investigadores recopilaron y sistematizaron 146 entrevistas autopublicadas por usuarios hispanohablantes en la propia plataforma, codificando las categorías emergentes en ATLAS.ti y procesando las variables métricas en SPSS 25.",
+      "detalles": [
+        {
+          "label": "Corpus examinado",
+          "value": "146 entrevistas voluntarias en español a autores de Wattpad, filtradas entre más de 8.000 resultados en 19 países."
+        },
+        {
+          "label": "Herramientas de análisis",
+          "value": "Codificación discursiva asistida por ATLAS.ti 8.4.2 y tratamiento estadístico descriptivo e inferencial en SPSS versión 25."
+        },
+        {
+          "label": "Ejes de indagación",
+          "value": "Trayectoria en Wattpad, oficio de escritor, hábitos lectores y estrategias de promoción transmedia en redes sociales."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "Los escritores de Wattpad son predominantemente chicas adolescentes que comenzaron a escribir antes de entrar a la plataforma, guiadas por una intensa motivación intrínseca y un deseo de superación estilística frente al cliché.",
+      "datosClave": [
+        {
+          "label": "Composición por sexo y edad",
+          "value": "El 87.9% de las participantes son mujeres, con una media de 16.9 años (50% en edad escolar de secundaria obligatoria)."
+        },
+        {
+          "label": "Cronología de escritura",
+          "value": "Inicio de la escritura creativa a los 12 años (media/mediana) y posterior desembarco en Wattpad a los 14.5 años."
+        },
+        {
+          "label": "Productividad y redes",
+          "value": "Media de 7 obras publicadas y correlación significativa (r = .366, p < .001) entre volumen de textos y redes enlazadas."
+        }
+      ],
+      "implicacion": "El profesorado de lengua debe legitimar la escritura en red, utilizando la entrega por capítulos y la crítica entre pares como motor pedagógico en el aula."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "Daniel Cassany y Denise Hernández (2012)",
+          "concepto": "Prácticas letradas vernáculas en entornos digitales: usos autónomos de la escritura impulsados por la motivación identitaria."
+        },
+        {
+          "autor": "James Paul Gee y Elisabeth Hayes (2011)",
+          "concepto": "Espacios de afinidad: entornos de aprendizaje colaborativo organizados en torno a pasiones comunes sin barreras de edad."
+        },
+        {
+          "autor": "Gemma Lluch (2014, 2017)",
+          "concepto": "Lectura juvenil en red: conversación social horizontal que reconfigura los circuitos de prescripción y mediación literaria."
+        }
+      ],
+      "enfoque": "Sociología de la cultura digital juvenil y didáctica comunicativa de la escritura creativa.",
+      "sinergia": "La unión de espacios de afinidad con la teoría de prácticas vernáculas explica la vitalidad de la autoedición juvenil."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cuáles son las características sociodemográficas, motivaciones y prácticas de los jóvenes escritores hispanohablantes en Wattpad?",
+      "hallazgos": [
+        "Predominio abrumador de escritoras mujeres adolescentes en edad de cursar la educación secundaria en España e Iberoamérica.",
+        "La pasión por redactar historias precede a la llegada a Wattpad, funcionando la plataforma como altavoz y comunidad de recepción.",
+        "Existe una constante búsqueda de perfeccionamiento: los autores podan sus obras noveles y rechazan las fórmulas formulaicas.",
+        "Uso estratégico de epitextos digitales (portadas, booktrailers y redes sociales) para promocionar sus creaciones literarias."
+      ],
+      "conclusion": "Wattpad funciona como un potente taller de escritura formativo y espontáneo entre iguales que la escuela no puede continuar ignorando."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿A qué edad comenzaron a escribir creativamente los autores de la muestra antes de sumarse a Wattpad?",
+          "opciones": [
+            "A los 18 años, coincidiendo con la entrada a la universidad",
+            "A los 12 años de edad media, dos años y medio antes de crearse la cuenta en la plataforma",
+            "A los 6 años en la etapa de educación infantil"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "Los datos revelan que la escritura creativa comenzó hacia los 12 años y la llegada a Wattpad ocurrió a los 14.5 años."
+        },
+        {
+          "pregunta": "¿Qué porcentaje de los participantes en las entrevistas analizadas correspondió al sexo femenino?",
+          "opciones": [
+            "El 50% exacto, con distribución paritaria",
+            "El 87,9%, evidenciando un marcado liderazgo de las chicas adolescentes en la comunidad",
+            "Apenas el 20%, siendo un espacio dominado por varones"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El 87.9% de las entrevistas fueron respondidas por chicas jóvenes, frente a solo un 12.1% de varones."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Perfiles de Jóvenes Escritores en la Comunidad de Wattpad",
+      "descripcion": "Red analítica que articula las prácticas vernáculas, los espacios de afinidad, la metodología mixta y los hallazgos sociodemográficos en Wattpad.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Prácticas Letradas Vernáculas",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Actividades de lectura y escritura espontáneas desarrolladas al margen de la institución escolar (Cassany), caracterizadas por la voluntariedad, la multimodalidad y la autoexpresión identitaria juvenil."
+        },
+        {
+          "id": "2",
+          "label": "Espacios de Afinidad (Gee)",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Comunidades virtuales no jerárquicas donde los participantes interactúan motivados por intereses comunes, aprendiendo entre pares mediante la retroalimentación horizontal y la participación periférica."
+        },
+        {
+          "id": "3",
+          "label": "Ecosistema Editorial Wattpad",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Plataforma sociodigital masiva de lectura y autopublicación por capítulos que democratiza el acceso a la edición literaria y fomenta la interacción inmediata entre autores y audiencias globales."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Caracterización de Perfiles",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Identificar los datos sociodemográficos, las motivaciones de escritura y las estrategias de promoción de 146 jóvenes creadores hispanohablantes activos en la comunidad virtual de Wattpad."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Descriptivo No Experimental",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Estudio exploratorio no experimental con muestreo no probabilístico por conveniencia, basado en el análisis documental de artefactos comunicativos producidos espontáneamente por los usuarios."
+        },
+        {
+          "id": "6",
+          "label": "Corpus de 146 Entrevistas",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Selección de 146 transcripciones de entrevistas escritas en español realizadas entre los propios miembros de Wattpad en 19 naciones de Iberoamérica, depuradas según riqueza informativa."
+        },
+        {
+          "id": "7",
+          "label": "Análisis Mixto (ATLAS.ti y SPSS)",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Procesamiento metodológico mixto combinando el análisis del discurso inductivo de categorías emergentes en ATLAS.ti 8.4.2 con el tratamiento estadístico correlacional en SPSS versión 25."
+        },
+        {
+          "id": "8",
+          "label": "Predominio Femenino y Juvenil",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "El perfil de autor está integrado por mujeres en un 87.9%, con una edad media de 16.9 años, lo que sitúa a más de la mitad de la comunidad en edad escolar correspondiente a la educación secundaria."
+        },
+        {
+          "id": "9",
+          "label": "Cronología: Escritura Previa a la Red",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "La iniciación en la escritura de ficción acontece a los 12 años, mientras que la llegada a Wattpad ocurre con posterioridad (14.5 años), evidenciando que la red canaliza una pulsión creativa preexistente."
+        },
+        {
+          "id": "10",
+          "label": "Autonomía y Deseo de Superación",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Los autores destacan la libertad de creación y expresan un afán de depuración estilística: rechazan los clichés comerciales y eliminan borradores tempranos por vergüenza autocrítica."
+        },
+        {
+          "id": "11",
+          "label": "Promoción y Redes Indexadas",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "El número de obras publicadas (media de 7) correlaciona positivamente (r=.366, p<.001) con la diversificación en redes sociales y la construcción de paratextos promocionales o epitextos digitales."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: El Taller Invisible",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Wattpad opera en la práctica como un gigantesco taller de escritura creativa deslocalizado donde la interacción entre iguales suple la ausencia de andamiaje formal de la institución educativa."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Desfase Curricular",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Se constata una brecha persistente entre el canon escolástico cerrado y las vibrantes prácticas letradas de los jóvenes, urgiendo a la escuela a incorporar estas formas dialógicas de producción."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Mediación Pedagógica",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "Comprender la ecología de Wattpad permite transformar la enseñanza de la lengua, convirtiendo el aula en una comunidad de creadores que comparten borradores y retroalimentación constructiva."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Falta de Control de Ítems",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Imposibilidad metodológica de fijar de antemano las preguntas de las entrevistas, dado que constituyeron cuestionarios espontáneos elaborados libremente por los propios usuarios de la red."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Muestreo No Probabilístico",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Naturaleza exploratoria y muestreo incidental de conveniencia, que aconseja prudencia para generalizar los porcentajes exactos al conjunto de toda la comunidad internacional de Wattpad."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "teoriza naturaleza de"
+        },
+        {
+          "from": "2",
+          "to": "1",
+          "label": "ofrece entorno a"
+        },
+        {
+          "from": "3",
+          "to": "1",
+          "label": "vehicula prácticas en"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se aborda mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "reúne corpus de"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se procesa con"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "revela perfil de"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "identifica hitos en"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "constata actitudes de"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "demuestra vínculo en"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "nutre reflexión sobre"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "valida noción de"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "evidencia tensión en"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "funda recomendaciones de"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "reclama superación en"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "acota alcance de"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "condiciona diseño con"
+        },
+        {
+          "from": "1",
+          "to": "14",
+          "label": "conecta teoría con"
+        },
+        {
+          "from": "11",
+          "to": "12",
+          "label": "muestra habilidades en"
+        },
+        {
+          "from": "2",
+          "to": "13",
+          "label": "cuestiona rigidez de"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "se asocia con"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Cómo podrías aprovechar las dinámicas de publicación por capítulos de Wattpad para motivar a tus estudiantes a redactar relatos largos?",
+      "enfoque": "Crear una revista o blog escolar colaborativo donde los alumnos publiquen entregas quincenales recibiendo comentarios de sus compañeros.",
+      "cierre": "Escribir para una audiencia real y recibir retroalimentación entre iguales convierte la tarea de lengua en un proyecto vital de autoexpresión."
+    }
+  }
+}

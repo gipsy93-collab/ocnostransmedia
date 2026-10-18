@@ -1,0 +1,408 @@
+{
+  "id": "nuevos_prescriptores_booktubers_espana",
+  "metadata": {
+    "title": "Nuevos prescriptores literarios: características sociodemográficas y autopercepciones del booktuber en España",
+    "authors": "Sonia Parratt-Fernández, Montse Mera-Fernández y Javier Mayoral-Sánchez",
+    "year": "2021",
+    "journal": "Ocnos 20(2)",
+    "doi": "10.18239/ocnos_2021.20.2.2454",
+    "gancho": "¿Sustituyen los booktubers a la crítica literaria tradicional en los suplementos culturales o cumplen una función complementaria e informal?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#f4a261",
+    "bg": "from-ocean-dark/20 to-seaweed/20",
+    "image": "https://picsum.photos/seed/booktuber-esp/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Sonia Parratt-Fernández, investigadora en periodismo y comunicación literaria",
+      "gancho": "¿Sustituyen los booktubers a la crítica literaria tradicional en los suplementos culturales o cumplen una función complementaria e informal?",
+      "contexto": "La prescripción literaria en internet se ha expandido aceleradamente a través de YouTube. Sin embargo, en España no existía un mapa científico integral que describiera quiénes son estos creadores, cómo conciben su labor frente a la crítica académica y a quiénes consideran sus referentes más influyentes.",
+      "deepDives": [
+        {
+          "id": "bk-es-ap-1",
+          "triggerLabel": "Genealogía de BookTube en España",
+          "type": "context",
+          "content": "Tras nacer en EE.UU. y América Latina hacia 2012, el movimiento tomó fuerza en España desde finales de 2014, impulsado por jóvenes que migraron desde blogs literarios escritos hacia el formato audiovisual."
+        },
+        {
+          "id": "bk-es-ap-2",
+          "triggerLabel": "La paradoja del soporte en jóvenes lectores",
+          "type": "data",
+          "content": "Los datos de AIMC y MECD confirman que el 74.4% de los jóvenes de 14 a 24 años prefiere el libro impreso frente al digital; los propios booktubers leen y exhiben de forma abrumadora libros en papel."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El debate público y periodístico especulaba sobre si los booktubers desplazarían a la crítica literaria culta o si constituían una mera moda efímera y consumista sin rigor analítico.",
+      "porQueImporta": "Conocer el perfil real de estos prescriptores aclara cómo se configura el canon de lectura de los jóvenes y orienta a docentes sobre cómo integrar sus recomendaciones en la educación literaria.",
+      "dataPoints": [
+        "Muestra de 50 booktubers activos en España (56.17% de tasa de respuesta sobre 89 localizados con >10.000 visualizaciones).",
+        "El 92% afirma que su labor es recomendar libros y emitir opiniones personales, mientras solo un 24% cree ejercer crítica literaria."
+      ],
+      "glossary": [
+        {
+          "term": "Prescriptor literario",
+          "definition": "Agente mediador que orienta, recomienda y modula las elecciones y hábitos de lectura del público."
+        },
+        {
+          "term": "Muestreo de bola de nieve",
+          "definition": "Técnica de localización en redes donde participantes clave facilitan el contacto con nuevos informantes."
+        },
+        {
+          "term": "Crítica literaria profesional",
+          "definition": "Discurso institucionalizado sustentado en bagaje teórico, independencia de juicio y análisis estético."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "bk-es-conf-1",
+          "triggerLabel": "Relación con la industria editorial",
+          "type": "data",
+          "content": "El 54% de los encuestados ya gestionaba un blog antes de YouTube; las editoriales los invitan habitualmente a ferias y envían novedades, tratándolos de facto como nuevos intermediarios del mercado."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Mapeo empírico con encuesta mixta y bola de nieve",
+      "narrativa": "El equipo de la Universidad Complutense aplicó un cuestionario de 27 preguntas a 50 creadores activos localizados mediante Booktube España y bola de nieve, triangulando datos demográficos, rutinas de publicación e influencia mutua.",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "50 booktubers españoles con canales consolidados (>10.000 reproducciones)."
+        },
+        {
+          "label": "Instrumento",
+          "value": "Cuestionario mixto de 27 preguntas abiertas y cerradas aplicado entre abril y mayo de 2019."
+        },
+        {
+          "label": "Objetivos",
+          "value": "O1 Rasgos sociodemográficos; O2 Autopercepciones frente a la crítica; O3 Ranking de influencia."
+        },
+        {
+          "label": "Tasa respuesta",
+          "value": "56.17% (50 cuestionarios válidos sobre un universo localizado de 89 autores activos)."
+        }
+      ],
+      "limitaciones": [
+        "Inexistencia de un censo oficial o categoría estandarizada de BookTube en YouTube y bases como SocialBlade.",
+        "Basado en autopercepciones declaradas por los autores sin seguimiento etnográfico de la recepción de las audiencias."
+      ],
+      "reflexion": "¿Puede un recomendador que admite no leer suplementos culturales ni crítica académica orientar eficazmente el criterio estético de sus seguidores?",
+      "deepDives": [
+        {
+          "id": "bk-es-viaje-1",
+          "triggerLabel": "Criterios del ranking de influencia",
+          "type": "method",
+          "content": "El 83% de los encuestados considera que el número de visualizaciones es más representativo de la influencia que los suscriptores; el ranking situó en cabeza a Javier Ruescas, Sebas G. Mouret y Andrea Izquierdo."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Los booktubers españoles son predominantemente mujeres adultas jóvenes (80%) con estudios universitarios (92%) que no viven de internet y huyen deliberadamente de la etiqueta de 'crítico literario', reivindicando la recomendación afectiva.",
+      "evidenciaCualitativa": "El 90% nunca lee crítica literaria en prensa y el 98% elige sus lecturas exclusivamente por gusto personal; su actividad complementa a la crítica tradicional porque apela a lectores jóvenes con códigos de cercanía.",
+      "citaClave": "'No competimos con el crítico literario: damos una visión íntima y subjetiva de los libros, buscando compartir pasiones lectoras sin pretensiones académicas ni dogmáticas.'",
+      "implicacionesDocentes": [
+        "Aprovechar la frescura de los booktubers para motivar la lectura recreativa, enseñando a la vez a contrastar con reseñas analíticas profundas.",
+        "Valorar que el 70% de estos creadores escribe literatura y casi la mitad ha publicado, sirviendo como modelos de doble alfabetización.",
+        "Analizar en el aula cómo el formato físico en papel sigue siendo el soporte fetiche indiscutible de las nuevas generaciones digitales."
+      ],
+      "deepDives": [
+        {
+          "id": "bk-es-rev-1",
+          "triggerLabel": "Profesionalización y economía",
+          "type": "data",
+          "content": "El 84% ejerce una profesión remunerada al margen de las redes y el 56% no percibe ningún ingreso económico de su canal, evidenciando un compromiso vocacional y de afición compartida."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Sociología de la prescripción, comunicación mediática y teoría de la recepción",
+      "tensiones": [
+        "Crítica de suplemento cultural (autoridad y distancia) vs. recomendación en vídeo (proximidad y empatía).",
+        "Pérdida de autoridad de las instituciones culturales consagradas vs. democratización horizontal del gusto lector."
+      ],
+      "autoresClave": [
+        "Parratt-Fernández et al. (2021)",
+        "Lluch (2014, 2017)",
+        "Sued (2016)",
+        "Lionetti (2017)",
+        "Tomasena (2016)",
+        "Vallejo (1993)"
+      ],
+      "deepDives": [
+        {
+          "id": "bk-es-marco-1",
+          "triggerLabel": "Tres visiones de la relación con la crítica",
+          "type": "theory",
+          "content": "El marco clasifica la bibliografía en: teoría del relevo o decadencia de la crítica tradicional; teoría de la no sustitución por dirigirse a objetos y públicos distintos; y teoría de la complementariedad funcional."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Qué perfil tienen los booktubers en España y cómo se posicionan frente al papel del crítico literario tradicional?",
+      "conclusion": "Son mujeres universitarias de entre 20 y 40 años que leen en papel y conciben su labor como recomendación vocacional e informal, complementando a la crítica tradicional al conectar con nuevos lectores.",
+      "formalRef": "Parratt-Fernández, S., Mera-Fernández, M., & Mayoral-Sánchez, J. (2021). Nuevos prescriptores literarios: características sociodemográficas y autopercepciones del booktuber en España. Ocnos, 20(2), 56-67. https://doi.org/10.18239/ocnos_2021.20.2.2454"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente de la Prescripción",
+        "descripcion": "Recorre los canales de BookTube España atrapando libros en papel y respondiendo sobre autopercepciones y crítica.",
+        "instrucciones": "Recoge tokens de recomendaciones y supera las preguntas sobre el perfil de los booktubers. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Booktubers en España",
+        "descripcion": "Demuestra tus conocimientos sobre el primer ranking nacional, datos sociodemográficos y el debate con la crítica culta.",
+        "instrucciones": "Acierta contrarreloj para mantener tu racha y alcanzar la máxima puntuación en prescripción lectora."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide del Prescriptor Digital",
+        "descripcion": "Asciende desde las motivaciones vocacionales de base hasta el ranking de figuras más influyentes del país.",
+        "instrucciones": "Responde correctamente para activar cada escalón de la pirámide de la sociología de BookTube."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Características sociodemográficas y autopercepciones del booktuber en España (Parratt et al., 2021)",
+      "descripcion": "Estudio empírico de 50 booktubers activos en España: perfil femenino y universitario, rechazo de la etiqueta de crítico, hegemonía del libro impreso, complementariedad funcional y primer ranking de influencia.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Genealogía de la prescripción literaria digital",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "Evolución de los mediadores de lectura desde los blogs y foros literarios tradicionales hasta la emergencia del videoblog en YouTube como nuevo dispositivo de opinión y socialización letrada."
+        },
+        {
+          "id": "2",
+          "label": "Debate entre crítica académica y recomendación informal",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "Controversia teórica sobre si los creadores en vídeo desplazan a los críticos de suplementos culturales o si constituyen una práctica discursiva diferenciada basada en la empatía y la afinidad."
+        },
+        {
+          "id": "3",
+          "label": "Hegemonía del libro impreso en jóvenes lectores",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "Evidencia estadística nacional (AIMC y MECD) que constata la preferencia abrumadora por el papel (más del 70%) entre lectores de 14 a 24 años, desmitificando la supuesta supremacía de la pantalla."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: caracterizar sociodemográficamente a booktubers",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Sistematizar con precisión científica el perfil de género, edad, formación académica, ocupación laboral e ingresos económicos de los booktubers activos en el contexto español."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: analizar autopercepciones y ranking de influencia",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Indagar cómo conciben los propios booktubers su rol frente a la crítica institucional y elaborar el primer listado sistemático de creadores considerados más influyentes por la comunidad."
+        },
+        {
+          "id": "6",
+          "label": "Localización por bola de nieve y Booktube Spain",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Muestreo no probabilístico de bola de nieve complementado con rastreo en redes (@BooktubeSpain) y buscadores ante la inexistencia de un censo o categoría oficial en YouTube y SocialBlade."
+        },
+        {
+          "id": "7",
+          "label": "Cuestionario mixto de 27 preguntas (n=50)",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Administración de encuesta mixta estructurada en bloques de demografía, rutinas productivas, relación con editoriales y crítica, con una tasa de respuesta del 56.17% (50 de 89 autores)."
+        },
+        {
+          "id": "8",
+          "label": "Criterio de inclusión: más de 10.000 visualizaciones",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Filtro metodológico que aseguró la selección de canales consolidados y con impacto real de audiencia activa en el ecosistema audiovisual de recomendación literaria."
+        },
+        {
+          "id": "9",
+          "label": "Perfil mayoritariamente femenino (80%) y universitario (92%)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Predominio contundente de mujeres; aunque el 54% es menor de 30 años, un 36% tiene de 30 a 40 años, y el 92% posee estudios universitarios repartidos en ramas sanitarias, técnicas y humanas."
+        },
+        {
+          "id": "10",
+          "label": "Actividad vocacional desvinculada de ingresos (56% sin cobro)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El 84% ejerce una profesión laboral remunerada externa; el 56% no percibe ningún ingreso por sus vídeos y solo un 8% cobra dinero, manteniendo sin embargo una constancia semanal de subida."
+        },
+        {
+          "id": "11",
+          "label": "Autopercepción: recomendadores y opinantes, no críticos",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El 92% define su función como recomendar libros y el 82% como emitir opiniones, mientras solo el 24% se considera crítico; el 90% nunca lee crítica cultural y el 98% escoge por gusto subjetivo."
+        },
+        {
+          "id": "12",
+          "label": "Primer ranking de 12 booktubers más influyentes",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Listado liderado con triple empate por Javier Ruescas, Sebas G. Mouret y Andrea Izquierdo; los creadores señalan que el volumen de suscriptores no es el factor determinante de la influencia real."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: complementariedad funcional con la crítica",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El booktuber no compite con el crítico tradicional sino que lo complementa: apelan a públicos dispares con lenguajes diferentes, funcionando como puerta de entrada a la experiencia lectora."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: apego sensorial al artefacto libro en papel",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "El 53% declara preferencia absoluta por el papel frente a un testimonial 2% digital, confirmando que la exhibición física del lomo y la cubierta es parte consustancial del ritual de BookTube."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: ausencia de censo cerrado y autoinforme",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "La inexistencia de una taxonomía oficial en plataformas digitales obligó a recurrir a redes de contactos, y los resultados descansan en autopercepciones subjetivas declaradas."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: legitimación de nuevos prescriptores",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se consolida un diagnóstico pionero que legitima al booktuber como mediador cultural informal de enorme valor para la didáctica de la lengua y el fomento de la lectura juvenil."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "enmarca la necesidad de"
+        },
+        {
+          "from": "2",
+          "to": "5",
+          "label": "nutre el análisis de"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "aporta el contexto material a"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se rastrea mediante"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "se operacionaliza en el"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "proporciona los contactos para"
+        },
+        {
+          "from": "8",
+          "to": "7",
+          "label": "delimita el umbral del"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "revela el"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "constata la"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "demuestra la"
+        },
+        {
+          "from": "7",
+          "to": "12",
+          "label": "permite construir el"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "fundamenta la tesis de"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "explica el alcance en"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "diferencia los intereses de"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "se asocia con el"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "conduce a las"
+        },
+        {
+          "from": "12",
+          "to": "16",
+          "label": "establece la línea base en"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "determina los límites de"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza el alcance de"
+        },
+        {
+          "from": "2",
+          "to": "16",
+          "label": "resuelve empíricamente el"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de los booktubers encuestados en España considera que su tarea consiste en hacer crítica literaria?",
+          "options": [
+            "El 92%, considerándose críticos profesionales consagrados.",
+            "Solo el 24%, prefiriendo definirse como recomendadores de libros que comparten opiniones personales (92%).",
+            "El 100%, ya que todos han estudiado filología o periodismo cultural.",
+            "Ninguno, porque prohíben emitir valoraciones valorativas sobre las obras."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Teniendo en cuenta que el 90% de los booktubers encuestados no lee nunca crítica en prensa ni suplementos culturales, ¿cómo diseñarías una actividad formativa que tienda puentes entre la crítica académica rigurosa y las recomendaciones dinámicas en vídeo?"
+        }
+      ]
+    }
+  }
+}

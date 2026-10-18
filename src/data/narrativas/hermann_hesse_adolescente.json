@@ -6,13 +6,13 @@
     "year": "2025",
     "journal": "Ocnos 24(1)",
     "doi": "10.18239/ocnos_2025.24.1.499",
-    "gancho": "¿Por qué un escritor suizo-alemán de principios del siglo XX sigue siendo el mejor psicólogo para un joven del siglo XXI?",
+    "gancho": "¿Por qué un escritor europeo de principios del siglo XX sigue siendo el mejor compañero de viaje para un joven del siglo XXI?",
     "duration": "12-15 min",
     "depth": "Profundización",
     "color": "#264653",
     "colorAlt": "#88b04b",
     "bg": "from-slate-700/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-30.png",
+    "image": "/assets/portadas/hermann_hesse_adolescente.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-30.png",
       "name": "Dra. Núria Obiols-Suari",
@@ -21,32 +21,32 @@
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Núria Obiols-Suari, pedagoga social y ensayista sobre literatura e identidad juvenil",
+      "personaje": "Dra. Núria Obiols-Suari, investigadora de la Universitat de Barcelona sobre literatura, lectura y desarrollo personal",
       "gancho": "¿Es la adolescencia una enfermedad pasajera o la crisis espiritual más lúcida de la existencia humana?",
-      "contexto": "Las obras de Hermann Hesse (Premio Nobel de Literatura 1946) —como 'Demian', 'Bajo las ruedas', 'Siddhartha' y 'El lobo estepario'— han acompañado durante generaciones a millones de jóvenes en su dolorosa búsqueda de identidad propia. Esta investigación pedagógica y literaria indaga en cómo las vivencias de ruptura, la presión escolar destructiva, el despertar erótico, la rebeldía espiritual y la necesidad de individuación retratadas por Hesse mantienen una vigencia perenne para la juventud actual.",
+      "contexto": "Las obras de Hermann Hesse (Premio Nobel de Literatura 1946) —como 'Demian', 'Bajo las ruedas', 'Siddharta' y 'El lobo estepario'— han acompañado durante generaciones a lectores de todo el mundo en su búsqueda de identidad: 150 millones de ejemplares vendidos y más de sesenta idiomas. Esta investigación analiza el contenido de doce novelas —cercanas al Bildungsroman o novela de formación— para indagar cómo se relata la experiencia vital adolescente: la dualidad humana, la muerte y el suicidio, la cultura como compañía, el vínculo afectivo, la educación y la renovación.",
       "deepDives": [
         {
           "id": "hes-apertura-1",
           "triggerLabel": "El proceso de individuación (Jung)",
           "type": "theory",
-          "content": "Hesse, influido por Carl Jung, concibe la adolescencia como el combate heroico por arrancarse la máscara social y alumbrar el sí-mismo auténtico."
+          "content": "Hesse conoció el psicoanálisis a través de Jung e incluso fue tratado por un discípulo suyo, con una influencia evidente en Demian y en Narciso y Golmundo; sus personajes recorren el Weg nach Innen, el camino hacia sí mismos."
         },
         {
           "id": "hes-apertura-2",
           "triggerLabel": "'Bajo las ruedas' y el burnout escolar",
           "type": "theory",
-          "content": "Crítica feroz al sistema académico castrador que exige notas perfectas a costa de la salud mental y la vida de los estudiantes."
+          "content": "En Bajo las ruedas (1906), Hans Giebenrath soporta la entrega absoluta al deber hasta la extenuación, y la represión de su rebeldía es causa de muerte: un espejo del propio Hesse, que huyó del seminario de Württemberg."
         }
       ]
     },
     "conflicto": {
-      "problema": "La sociedad hiperconectada contemporánea patologiza el malestar adolescente con etiquetas médicas rápidas, perdiendo la dimensión formativa y filosófica de la crisis existencial.",
+      "problema": "La sociedad actual impregna a los jóvenes de un grado preocupante de incertidumbre, y sus crisis de sentido suelen despacharse como meras postureas adolescente o reducirse a lecturas de autoayuda.",
       "porQueImporta": "La literatura de Hesse proporciona un espejo donde el adolescente no se siente un 'bicho raro', sino un ser humano atravesando el rito universal de nacer a la propia conciencia.",
       "dataPoints": [
-        "Análisis pedagógico-hermenéutico de 6 obras clave de Hermann Hesse.",
-        "Identificación de 5 ejes nucleares: La opresión de la escuela autoritaria, La escisión entre el mundo luminoso y el oscuro, La amistad iniciática, La soledad creativa y La búsqueda del propio destino.",
-        "Paralelismos directos entre la angustia de Hans Giebenrath en 'Bajo las ruedas' y los actuales índices de ansiedad escolar adolescente.",
-        "Vigencia del concepto de 'Demian': 'La vida de todo ser humano es un camino hacia sí mismo'."
+        "Análisis cualitativo de contenido de doce novelas de Hermann Hesse (1899-1943) mediante el programa Atlas.ti (versión 23).",
+        "Seis códigos identificados: Adolescencia, Incomprensión, Compañeros de viaje, Vínculos, Renovación y Educación, ordenados en tres etapas vitales del autor.",
+        "Vínculos es el código dominante, y la definición de Adolescencia es inversamente proporcional a la madurez del autor.",
+        "La muerte y el suicidio, algo sumamente preocupante en la actualidad (Kim, 2021), ensombrecieron la adolescencia del propio Hesse."
       ],
       "glossary": [
         {
@@ -55,60 +55,60 @@
         },
         {
           "term": "Bildungsroman (Novela de formación)",
-          "definition": "Género narrativo que retrata la transición formativa, moral y psicológica de un personaje desde la juventud hasta la madurez."
+          "definition": "Género narrativo que retrata la transición formativa, moral y psicológica de un personaje desde la juventud hasta la madurez; su concepto apareció en 1803 con Karl Von Morgenstern y se popularizó con Dilthey (1870)."
         }
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Hermenéutica pedagógica y análisis textual comparado",
-      "narrativa": "La autora analiza los textos de Hesse contrastándolos con las teorías de la pedagogía social contemporánea y los estudios sobre salud mental juvenil.",
+      "titulo": "Ruta metodológica: Análisis de contenido cualitativo con Atlas.ti",
+      "narrativa": "La autora, apoyada en los estudios biográficos y críticos de Ziolkowski, Ball y Roberts, codificó doce novelas en tres etapas —1899-1906, 1910-1919 y 1922-1943— con la Teoría Fundamentada (Glaser y Strauss, 1967) que sustenta el programa Atlas.ti, verificando la credibilidad de etapas y códigos contra textos biográficos y literarios.",
       "detalles": [
         {
           "label": "Corpus",
-          "value": "'Demian' (1919), 'Bajo las ruedas' (1906), 'Siddhartha' (1922), 'Peter Camenzind' (1904) y ensayos."
+          "value": "Doce obras: Una hora después de medianoche (1899), Hermann Lauscher (1900), Peter Camenzind (1904), Bajo las ruedas (1906), Gertrudis (1910), Rosshalde (1914), Knulp (1915), Demian (1919), Siddharta (1922), El lobo estepario (1927), Narciso y Golmundo (1930) y El juego de los abalorios (1943)."
         },
         {
           "label": "Marco Teórico",
-          "value": "Pedagogía existencial, psicoanálisis humanista y teoría de la educación."
+          "value": "La novela de formación desde Goethe y Dilthey, el psicoanálisis junguiano y las lecturas educativas de Roberts: la pedagogía de Freire y los principios rousseauianos en El juego de los abalorios."
         }
       ],
       "limitaciones": [
-        "Enfoque cualitativo interpretativo centrado en la tradición humanista europea."
+        "La selección de doce novelas, definida por criterios de etapa biográfica y presencia de vivencias adolescentes, no agota la abundante producción del autor."
       ],
       "reflexion": "Un clásico es un libro que nunca termina de decir lo que tiene que decir a cada nueva generación."
     },
     "revelacion": {
       "titulo": "Hallazgos empíricos: El dolor adolescente como crisol de la libertad",
-      "narrativa": "El estudio subraya la lucidez terapéutica de la prosa hesseana:",
+      "narrativa": "El estudio subraya la lucidez de la prosa hesseana:",
       "hallazgos": [
         {
           "label": "1. El Alivio del Reconocimiento",
-          "value": "Leer que alguien sintió hace un siglo la misma culpa, extrañeza y soledad que tú cura el aislamiento adolescente más que cualquier consejo adulto."
+          "value": "La autora recuerda a un terapeuta preocupado porque sus pacientes no encontraban palabras para expresar lo que sentían: leer a Hesse las proporciona generosamente —su adolescencia es un 'mar agitado de enigmas y comienzos'—."
         },
         {
           "label": "2. Denuncia de la Castración Académica",
-          "value": "Hesse nos advierte: una escuela obsesionada con el rendimiento ciego acaba triturando a sus espíritus más sensibles y brillantes."
+          "value": "El código Educación acumula críticas escolares: 'el bochornoso ambiente de un correccional' (Hermann Lauscher), maestros que anulan al alumno y, en Bajo las ruedas, una represión de la rebeldía que desemboca en muerte."
         }
       ],
       "dataPoints": [
-        "Hesse sigue siendo uno de los autores del siglo XX más releídos espontáneamente por jóvenes de 16 a 25 años en bibliotecas y plataformas digitales."
+        "La vigencia del autor es amplia: 150 millones de ejemplares vendidos, traducción a más de sesenta idiomas, museo propio y Nobel en 1946."
       ],
       "reflexion": "No hay que aplastar las dudas del adolescente: hay que darle libros que las acompañen con grandeza."
     },
     "marco": {
       "titulo": "Discusión: Hesse como lectura de rescate en Secundaria",
-      "narrativa": "Núria Obiols propone recuperar a Hesse en el canon de Educación Secundaria:",
+      "narrativa": "Obiols-Suari defiende la evidente vigencia de Hesse para enriquecer las lecturas de los jóvenes actuales:",
       "detalles": [
         {
-          "label": "Lectura Existencial Acompañada",
-          "value": "Crear tertulias literarias sobre 'Demian' para hablar abiertamente de salud mental, sentido de la vida y autenticidad."
+          "label": "Lectura como encuentro fructífero",
+          "value": "Su lexicon adolescente —desmembrado, autodestructivo, enigma, enjambre— resulta interesante para considerar con los propios adolescentes, lejos de las lecturas que redujeron su obra a misticismo, hippismo o autoayuda."
         }
       ],
       "reflexion": "La literatura no ofrece recetas para ser feliz: ofrece el coraje de ser uno mismo a pesar de todo."
     },
     "nucleo": {
       "pregunta": "¿Qué claves formativas y pedagógicas explican la vigencia universal de la vivencia adolescente en las obras de Hermann Hesse?",
-      "conclusion": "La investigación hermenéutica en las obras de Hermann Hesse demuestra que su narrativa capta con precisión quirúrgica el periplo existencial de la adolescencia: el choque con las normas escolares, la desgarradura de la individuación y la soledad en la búsqueda de sentido. Lejos de ser piezas de museo, obras como 'Demian' y 'Bajo las ruedas' se revelan como lecturas de rescate humanista para la juventud contemporánea, ofreciendo un refugio poético y ético frente a la presión deshumanizadora de la sociedad actual.",
+      "conclusion": "El análisis de contenido de doce novelas demuestra que la narrativa de Hesse compone el retrato del adolescente en busca del sentido de la vida: la contradicción o dualidad humana cuyo destino es la unidad, la incomprensión ante el desamor, la muerte y el suicidio, la cultura como compañía vital, los vínculos de amistad, familia y mentoría, la renovación que permite retomar el camino perdido y la crítica constante a la educación escolar. Lejos de piezas de museo o recetarios de autoayuda, estas obras ofrecen a la juventud actual, impregnada de incertidumbre, un encuentro fructífero con palabras para nombrar lo que siente.",
       "formalRef": "Obiols-Suari, N. (2025). Hermann Hesse y el perenne laberinto adolescente en sus obras. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.499"
     },
     "reflexion": {
@@ -120,16 +120,16 @@
             "'El juego de los abalorios'.",
             "'Bajo las ruedas' (Unterm Rad, 1906).",
             "'El lobo estepario'.",
-            "'Siddhartha'."
+            "'Siddharta'."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué concepto del psicoanálisis de Carl Jung impregna la novela 'Demian' y define la maduración adolescente?",
+          "q": "¿Qué corriente intelectual, conocida por Hesse y que lo llevó a tratarse con un discípulo suyo, impregna novelas como 'Demian' y 'Narciso y Golmundo'?",
           "options": [
             "El complejo de Electra financiero.",
-            "El proceso de individuación (la dolorosa conquista del sí-mismo auténtico integrando luz y sombra).",
+            "El psicoanálisis, a través de Carl Gustav Jung.",
             "La hipnosis regresiva.",
             "El condicionamiento pavloviano."
           ],
@@ -140,7 +140,7 @@
           "q": "¿Por qué las obras de Hesse mantienen un poder terapéutico y pedagógico tan vivo para los jóvenes de hoy?",
           "options": [
             "Porque enseñan trucos para aprobar exámenes de matemáticas.",
-            "Porque legitiman la angustia, la soledad y la duda existencial como fases necesarias de maduración moral en lugar de patologizarlas.",
+            "Porque retratan la angustia, la soledad y la duda existencial como fases del camino hacia sí mismo en lugar de despacharlas, y proporcionan palabras para nombrarlas.",
             "Porque son libros muy cortos de dos páginas.",
             "Porque prometen riqueza material a quien los lee."
           ],
@@ -148,11 +148,11 @@
         },
         {
           "type": "open",
-          "q": "La célebre frase de 'Demian' dice: 'El pájaro rompe el cascarón. El cascarón es el mundo. Quien quiera nacer tiene que destruir un mundo'. ¿Cómo debatirías esta metáfora con tus alumnos de 4.º de ESO o 1.º de Bachillerato relacionándola con la presión social de las redes?"
+          "q": "Hesse describe la adolescencia como un 'mar agitado de enigmas y comienzos', y el camino del personaje hesseano es un Weg nach Innen, un proceso hacia sí mismo. ¿Cómo debatirías estas ideas con tus alumnos de 4.º de ESO o 1.º de Bachillerato relacionándolas con la presión social de las redes?"
         },
         {
           "type": "open",
-          "q": "¿Qué paralelismos encuentras entre el sufrimiento de Hans Giebenrath en 'Bajo las ruedas' por las expectativas de sus padres y maestros y los problemas de ansiedad y 'burnout' académico que padecen muchos escolares hoy en día?"
+          "q": "¿Qué paralelismos encuentras entre el sufrimiento de Hans Giebenrath en 'Bajo las ruedas' por las expectativas de sus padres y maestros y los problemas de ansiedad que padecen muchos escolares hoy en día?"
         }
       ]
     }
@@ -167,11 +167,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Recorremos 'Demian', 'Bajo las ruedas' y 'Siddhartha' con la mirada atenta de la pedagogía existencial.",
+      "text": "Recorremos las doce novelas de Hesse, de 'Una hora después de medianoche' a 'El juego de los abalorios', con Atlas.ti como guía.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El dolor del adolescente es la ruptura del cascarón! Romper con el molde impuesto es la única forma de nacer a la libertad.",
+      "text": "¡El dolor se vuelve punto de inflexión! La renovación —incipit vita nova— brota tras la crisis más tenebrosa.",
       "position": "bottom-right"
     },
     "marco": {
@@ -179,7 +179,7 @@
       "position": "bottom-right"
     },
     "nucleo": {
-      "text": "La vida de todo ser humano es un camino hacia sí mismo: caminemos con valentía y sin máscaras.",
+      "text": "El camino hacia sí mismo no es una metáfora: en Hesse es la verdadera vocación del adolescente.",
       "position": "bottom-right"
     },
     "mapa": {
@@ -192,110 +192,242 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Hermann Hesse y la Pedagogía de la Individuación Adolescente",
-    "descripcion": "Hermenéutica pedagógica: proceso de individuación (Jung), ruptura del cascarón, crítica al burnout escolar en 'Bajo las ruedas' y 'Demian'.",
+    "titulo": "Mapa conceptual: El laberinto adolescente en la obra de Hermann Hesse (Ocnos 24(1) 2025)",
+    "descripcion": "Recorrido del artículo: de la biografía y el marco de la Bildungsroman, al análisis de contenido con Atlas.ti de doce novelas agrupadas en tres etapas, la interpretación de los seis códigos temáticos y la conclusión sobre la vigencia del retrato adolescente de Hesse.",
     "nodos": [
       {
         "id": "1",
-        "label": "Hermann Hesse y la Adolescencia",
-        "color": "#264653"
+        "label": "Hesse, Nobel 1946 y best-seller",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Hermann Hesse (1877-1962) vivió una adolescencia de crisis que llegó a rozar el suicidio, sombras de guerras y muertes cercanas; su credo afirma que la vida tiene sentido. Vendió 150 millones de ejemplares en más de sesenta idiomas y recibió el Nobel en 1946, con controversias comentadas por Torrente Ballester (1962)."
       },
       {
         "id": "2",
-        "label": "Proceso de Individuación (Jung)",
-        "color": "#2a5a75"
+        "label": "Bildungsroman o novela de formación",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Sus novelas se consideran propias del Bildungsroman, concepto acuñado por Karl Von Morgenstern (1803) y popularizado por Dilthey (1870) desde Goethe; Hesse es clave en su evolución (Roberts, 2008a) porque todas sus novelas varían la misma obsesión: la formación individual para una libertad consciente (Rossi, 2004)."
       },
       {
         "id": "3",
-        "label": "'Demian' y la Ruptura del Cascarón",
-        "color": "#88b04b"
+        "label": "Psicoanálisis junguiano y apertura a Oriente",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Escéptico de toda confesión, viajó a la India en 1911, experiencia que determinó Siddharta (1922). Conoció el psicoanálisis a través de Jung y fue tratado por un discípulo suyo, influencia evidente en Demian y Narciso y Golmundo (Jan et al., 2022; Maier, 1953)."
       },
       {
         "id": "4",
-        "label": "'Bajo las Ruedas' (Burnout Escolar)",
-        "color": "#c73e1d"
+        "label": "Indagar las vivencias adolescentes",
+        "color": "#c73e1d",
+        "role": "Objetivo",
+        "descripcion": "El trabajo se propone indagar el contenido de doce obras de Hesse donde se detallan vivencias adolescentes hilvanadas a relaciones humanas de distinta intensidad y naturaleza, retrato de un adolescente en busca del sentido de la vida."
       },
       {
         "id": "5",
-        "label": "Escisión Luz vs. Sombra",
-        "color": "#5b9eaa"
+        "label": "Corpus de doce novelas (1899-1943)",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Selección definida con Ziolkowski (1976), Ball (2008) y Roberts (2009): Una hora después de medianoche (1899), Hermann Lauscher (1900), Peter Camenzind (1904), Bajo las ruedas (1906), Gertrudis (1910), Rosshalde (1914), Knulp (1915), Demian (1919), Siddharta (1922), El lobo estepario (1927), Narciso y Golmundo (1930) y El juego de los abalorios (1943)."
       },
       {
         "id": "6",
-        "label": "Opresión de la Escuela Autoritaria",
-        "color": "#e76f51"
+        "label": "Análisis de contenido con Atlas.ti 23",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "El software se basa en la Teoría Fundamentada de Glaser y Strauss (1967); la credibilidad de etapas y códigos se cotejó con textos biográficos y críticos de la obra, y las etapas estructuraron la temporalidad de las obras (Varguillas, 2006)."
       },
       {
         "id": "7",
-        "label": "Soledad Creativa y Despertar",
-        "color": "#f4d068"
+        "label": "Tres etapas vitales y literarias",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "Primera etapa (1899-1906): adolescencia narrada en presente por proximidad biográfica; segunda (1910-1919): se toma distancia desde la juventud y la paternidad; tercera (1922-1943): desde la madurez se amplía el escenario con temas nuevos, con cuatro novelas por etapa."
       },
       {
         "id": "8",
-        "label": "Amistad Iniciática y Guía",
-        "color": "#9b82c3"
+        "label": "Seis códigos de análisis",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Los códigos surgidos de lo biográfico y literario fueron Adolescencia, Incomprensión, Compañeros de viaje, Vínculos, Renovación y Educación, con subcódigos como los de la Renovación o la positividad y negatividad del código Educación."
       },
       {
         "id": "9",
-        "label": "Rescate Humanista en Secundaria",
-        "color": "#2a9d8f"
+        "label": "Vínculos dominan, adolescencia se difumina",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Las tramas de Atlas.ti muestran la fuerte dominancia del código Vínculos y un código Adolescencia inversamente proporcional a la madurez del autor, desplegado con riqueza léxica (desmembrado, enigma, enjambre); Bajo las ruedas es donde más se profundiza en el alma adolescente."
       },
       {
         "id": "10",
-        "label": "Autenticidad y Sentido Vital",
-        "color": "#f4a261"
+        "label": "Incomprensión, muerte y dualidad humana",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "La incomprensión recorre todas las etapas ligada al desamor, la muerte y el suicidio y a un relativismo moral («lo azul vale tanto como lo amarillo», Knulp); revierte en la dualidad cuyo destino es la unidad, eje de Demian y El juego de los abalorios (Tang y Zheng, 2020)."
+      },
+      {
+        "id": "11",
+        "label": "Compañeros de viaje: música, letras, filosofía",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "La cultura es espacio acogedor y sentido de vida: Bach, Beethoven o Mozart en Narciso y Golmundo; Dostoievski, Hölderlin, Novalis y Goethe en la primera etapa; Sócrates, Kant y Nietzsche —obra de culto desde 1897—; y paisajes como Monte Sighignola, contemplado antes de morir."
+      },
+      {
+        "id": "12",
+        "label": "Renovación: río, viaje e incipit vita nova",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Los vínculos —familiares, de amistad, amorosos y de mentoría, del zapatero Flaig a David Friedrich Strauss— aumentan con las etapas y detonan la Renovación, punto de inflexión simbolizado en el río de Siddharta, el viaje a Asís de Peter Camenzind o el «Incipit vita nova» de Una hora después de medianoche."
+      },
+      {
+        "id": "13",
+        "label": "Crítica a la escuela y educación",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "El código Educación es constante y carga la negatividad en la escuela: «el bochornoso ambiente de un correccional», límites a la imaginación y maestros que anulan; en El juego de los abalorios asoman principios rousseauianos y la pedagogía de Freire (Roberts, 2007), mientras la familia educa con blandura como el padre de Siddharta."
+      },
+      {
+        "id": "14",
+        "label": "Las dos preguntas del adolescente",
+        "color": "#2a5a75",
+        "role": "Discusión",
+        "descripcion": "Hesse propone al lector dos preguntas: ¿quién soy? y ¿qué hago yo en el mundo? Sin héroes ni idealidades, la rebeldía —el «Hombrecillo»— es condición sine qua non, y cultura y vínculos sostienen el Weg nach Innen, el proceso hacia sí mismo y el riesgo de vivir que evoca la biofilia de Fromm."
+      },
+      {
+        "id": "15",
+        "label": "Vigencia contra lecturas de autoayuda",
+        "color": "#264653",
+        "role": "Conclusiones",
+        "descripcion": "La autora defiende el valor literario frente a la reducción a autor místico, hippie o de autoayuda (Rossi, 2004): leer a Hesse proporciona palabras para nombrar lo sentido, en una perspectiva humanista (Sanjuán-Álvarez, 2011) y según el epílogo de Unseld: «arriésgate con valor a tu obstinación»."
+      },
+      {
+        "id": "16",
+        "label": "Límites del corpus y recepción actual",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "Estudio hermenéutico focalizado en doce obras canónicas de Hesse; la autora plantea como línea futura contrastar este análisis textual con la recepción empírica en adolescentes actuales para verificar la vigencia real del Bildungsroman."
       }
     ],
     "aristas": [
       {
         "from": "1",
-        "to": "2",
-        "label": "fundamenta su visión en el"
-      },
-      {
-        "from": "1",
         "to": "3",
-        "label": "alcanza su cumbre lírica en"
+        "label": "transitó el"
       },
       {
         "from": "1",
         "to": "4",
-        "label": "denuncia el dolor en"
-      },
-      {
-        "from": "3",
-        "to": "5",
-        "label": "plantea la angustiosa"
-      },
-      {
-        "from": "4",
-        "to": "6",
-        "label": "combate la deshumanización de la"
+        "label": "su vida orienta la voluntad de"
       },
       {
         "from": "2",
+        "to": "4",
+        "label": "encuadra el propósito de"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "justifica la selección del"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se materializa en el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se examina mediante el"
+      },
+      {
+        "from": "6",
         "to": "7",
-        "label": "exige atravesar la"
+        "label": "ordena la cronología en"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "interpreta los"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "explica que la"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "revela que los"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "devela la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "acredita los"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "traza la"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "sistematiza la"
       },
       {
         "from": "3",
-        "to": "8",
-        "label": "encuentra apoyo en la"
-      },
-      {
-        "from": "9",
-        "to": "1",
-        "label": "propone la relectura urgente de"
-      },
-      {
-        "from": "9",
         "to": "10",
-        "label": "guía a los jóvenes hacia la"
+        "label": "alimenta la lectura de la"
+      },
+      {
+        "from": "13",
+        "to": "9",
+        "label": "dialoga con el modo en que la"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "converge en"
       },
       {
         "from": "10",
-        "to": "2",
-        "label": "culmina con éxito la"
+        "to": "14",
+        "label": "responde a"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "instrumenta la respuesta a"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "renueva las"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "desemboca en la"
+      },
+      {
+        "from": "15",
+        "to": "1",
+        "label": "reivindica la obra de"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "abre el horizonte hacia el"
+      },
+      {
+        "from": "16",
+        "to": "4",
+        "label": "completa la perspectiva del"
       }
     ]
   }

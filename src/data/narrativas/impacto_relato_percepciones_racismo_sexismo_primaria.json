@@ -1,0 +1,377 @@
+{
+  "id": "impacto_relato_percepciones_racismo_sexismo_primaria",
+  "metadata": {
+    "id": "impacto_relato_percepciones_racismo_sexismo_primaria",
+    "title": "Impacto de un relato en las percepciones de racismo y sexismo de escolares de Primaria",
+    "authors": [
+      "Antonio Mateos-Jiménez",
+      "Belén Torres-Martínez",
+      "Beatriz García-Fernández"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "2",
+    "pages": "55-66",
+    "doi": "10.18239/ocnos_2018.17.2.1570",
+    "keywords": [
+      "racismo",
+      "prejuicios de género",
+      "coeducación",
+      "relatos infantiles",
+      "educación primaria"
+    ],
+    "abstract": "Estudio cuasiexperimental pre-post con 111 escolares de 3º a 6º de Primaria en Torrijos (Toledo). Evalúa el impacto de un relato ad hoc coeducativo e intercultural, demostrando mejoras significativas en la reducción del racismo y sexismo infantil."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Puede un cuento infantil diseñado expresamente para el aula transformar simultáneamente los prejuicios racistas y las actitudes sexistas en escolares de 8 a 12 años? Este estudio cuasiexperimental en Castilla-La Mancha analiza el impacto de la narración oral sobre las percepciones de equidad e inclusión.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la ruta de análisis pedagógico y axiológico:",
+        "opciones": [
+          {
+            "id": "coeducativa",
+            "texto": "Enfoque coeducativo: superación de estereotipos de género y vocaciones CTIM"
+          },
+          {
+            "id": "intercultural",
+            "texto": "Enfoque intercultural: teoría del contacto y reducción del rechazo étnico"
+          },
+          {
+            "id": "didactica",
+            "texto": "Diseño didáctico: narración del relato ad hoc y evaluación pre-post"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Pese a los discursos institucionales sobre tolerancia, en las aulas escolares perviven estereotipos soterrados que asocian la ciencia a los varones y reproducen actitudes de recelo hacia el alumnado inmigrante. La falta de materiales didácticos integrales dificulta que los docentes aborden ambas problemáticas de forma conjunta.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cuál es la ventaja de utilizar un relato narrativo frente a una charla explicativa tradicional sobre valores?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Permite la identificación empática con los personajes protagonistas, facilitando que el menor interiorice actitudes prosociales de forma vicaria.",
+            "correcta": true,
+            "explicacion": "Exacto: la ficción narrativa genera resonancia afectiva y permite al niño adoptar la perspectiva del otro sin sentirse juzgado directamente."
+          },
+          {
+            "id": "c2",
+            "texto": "Obliga a los escolares a memorizar normas de comportamiento de forma dogmática.",
+            "correcta": false,
+            "explicacion": "El valor del relato radica en la reflexión dialógica autónoma, no en la memorización de pautas."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Las autoras intervinieron con 111 estudiantes de 3º a 6º de Primaria en el CEIP Lazarillo de Tormes de Torrijos (Toledo). Diseñaron un cuento específico donde una niña extranjera lidera un reto científico, administrando un cuestionario en escala Likert antes y después de la lectura y debate reflexivo guiado.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra escolar",
+            "detalle": "111 alumnos de 8 a 12 años en un centro público con diversidad cultural."
+          },
+          {
+            "fase": "Cuestionario pretest",
+            "detalle": "Medición de actitudes hacia la inmigración y los roles profesionales de género."
+          },
+          {
+            "fase": "Narración y debate",
+            "detalle": "Lectura dialógica dinamizada del relato integrador en sesiones de tutoría."
+          },
+          {
+            "fase": "Evaluación postest",
+            "detalle": "Contraste estadístico de ganancias en no discriminación por sexo y etnia."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados arrojaron avances estadísticamente significativos tanto en la disminución de estereotipos de género como en el rechazo al racismo. No se observaron diferencias apreciables entre niños y niñas, evidenciando que la literatura infantil bien focalizada sensibiliza a todo el grupo.",
+      "datos_clave": [
+        "Muestra de 111 escolares de 3º a 6º curso de Educación Primaria.",
+        "Incremento significativo en las respuestas favorables a la no discriminación (p < .05).",
+        "Mejora simultánea en la valoración de las mujeres en profesiones científicas (CTIM).",
+        "Eficacia validada del relato breve como herramienta de mediación axiológica escolar."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El artículo se fundamenta en la teoría del contacto intergrupal de Allport, los marcos de pedagogía intercultural de Besalú y Aguado, las directrices coeducativas de la UNESCO y la biblioterapia para el cambio de actitudes.",
+      "referencias_clave": [
+        "Allport (1954)",
+        "UNESCO (2015)",
+        "Aguado (2003)",
+        "Mateos-Jiménez et al. (2018)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "La literatura no solo alfabetiza: construye ciudadanía. Un relato breve, narrado en el aula con intención pedagógica, basta para desactivar prejuicios enquistados y sembrar semillas firmes de igualdad e interculturalidad en la infancia.",
+      "hallazgo_central": "La intervención mediante un relato ad hoc reduce eficazmente las percepciones de racismo y sexismo en Primaria, demostrando el poder transformador de la ficción situada."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos pedagógicos con su objetivo en la investigación:",
+          "pares": [
+            {
+              "concepto": "Educación CTIM inclusiva",
+              "definicion": "Fomento de vocaciones científicas visibilizando a niñas y minorías en ciencia."
+            },
+            {
+              "concepto": "Teoría del contacto vicario",
+              "definicion": "Aproximación empática a la alteridad a través de vivencias de personajes de ficción."
+            },
+            {
+              "concepto": "Evaluación pretest-postest",
+              "definicion": "Medición empírica del cambio de percepciones tras la intervención en el aula."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Impacto del Relato en Percepciones de Racismo y Sexismo en Primaria",
+      "descripcion": "Estructura cuasiexperimental y formativa de la intervención didáctica con un relato coeducativo e intercultural.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Impacto del Relato en Percepciones Escolares",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo primordial: evaluar de forma empírica y cuasiexperimental el impacto transformador de un relato coeducativo e intercultural ad hoc sobre las percepciones de racismo y discriminación de género en escolares de Primaria."
+        },
+        {
+          "id": "2",
+          "label": "Intersección de Racismo y Sexismo",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco conceptual que denuncia la confluencia sistémica de prejuicios étnicos y sesgos machistas en la sociedad, demandando intervenciones pedagógicas integrales tempranas que desarticulen ambas formas de exclusión simultáneamente."
+        },
+        {
+          "id": "3",
+          "label": "Teoría del Contacto Intergrupal Vicario",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Fundamentación psicosocial inspirada en Allport que postula que el conocimiento empático y cercano del otro a través de la inmersión narrativa vicaria disminuye el recelo, la hostilidad y los estereotipos hacia minorías migrantes."
+        },
+        {
+          "id": "4",
+          "label": "Invisibilidad de la Mujer en CTIM",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Diagnóstico sobre la brecha de género en vocaciones científicas y tecnológicas alimentada por estereotipos escolares sutiles que desincentivan tempranamente la autoeficacia y participación de las niñas en disciplinas experimentales."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 111 Escolares de 3º a 6º",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Participantes empíricos: 111 alumnos de entre 8 y 12 años escolarizados en el CEIP Lazarillo de Tormes de Torrijos (Toledo), centro educativo público caracterizado por una notable diversidad etnocultural en sus aulas ordinarias."
+        },
+        {
+          "id": "6",
+          "label": "Diseño Cuasiexperimental Pre-Post",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Estrategia metodológica de evaluación antes y después de la intervención mediante un cuestionario validado con escala Likert de cinco puntos adaptada al nivel evolutivo infantil para registrar cambios actitudinales verificables."
+        },
+        {
+          "id": "7",
+          "label": "Intervención con Relato Ad Hoc",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño de un relato infantil original protagonizado por una niña de origen inmigrante que lidera con éxito un proyecto científico escolar, dinamizado mediante lectura expresiva y asambleas dialógicas participativas de aula."
+        },
+        {
+          "id": "8",
+          "label": "Mejora Significativa en No Discriminación",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación estadística de un incremento altamente significativo (p < .05) en las puntuaciones favorables a la igualdad y al respeto hacia las minorías tras la experiencia de lectura guiada y reflexión comunitaria compartida."
+        },
+        {
+          "id": "9",
+          "label": "Avances en Equidad de Género y Ciencia",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo empírico relevante: apertura mental y superación de sesgos machistas respecto al desempeño femenino en profesiones científicas e ingenieriles, registrado con igual contundencia en las respuestas de niños y niñas."
+        },
+        {
+          "id": "10",
+          "label": "Homogeneidad de Efecto entre Sexos",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Resultado empírico sobresaliente: la intervención narrativa impactó positivamente en todo el grupo sin discrepancias de género estadísticamente significativas, demostrando la eficacia universal de la coeducación transversal."
+        },
+        {
+          "id": "11",
+          "label": "La Literatura como Artefacto Axiológico",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica en torno a la superioridad de la literatura infantil como vehículo formativo de valores cívicos, al sustituir la moraleja abstracta impositiva por la identificación afectiva profunda con los personajes de ficción."
+        },
+        {
+          "id": "12",
+          "label": "Urgencia de Formación Docente Intercultural",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Reflexión crítica sobre la necesidad inaplazable de capacitar al profesorado en activo en estrategias didácticas específicas y materiales contrastados para gestionar la diversidad cultural y el sexismo sutil en las escuelas."
+        },
+        {
+          "id": "13",
+          "label": "Integración Curricular de Cuentos Coeducativos",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión imperativa: los proyectos lectores escolares deben seleccionar e incorporar activamente obras narrativas diseñadas deliberadamente para deconstruir prejuicios y ofrecer modelos diversos y enriquecedores a la infancia."
+        },
+        {
+          "id": "14",
+          "label": "Fomento Temprano de Vocaciones Científicas",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación pedagógica prioritaria: presentar sistemáticamente figuras femeninas y de diversas culturas liderando proyectos CTIM en Primaria para neutralizar la pérdida de talento femenino en etapas secundarias posteriores."
+        },
+        {
+          "id": "15",
+          "label": "Escuela Pública como Espacio de Cohesión",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión ética y social: educar en la no discriminación afianza a la escuela pública como un espacio comunitario seguro, inclusivo y democrático donde cada identidad infantil es reconocida y valorada con plenitud."
+        },
+        {
+          "id": "16",
+          "label": "Diseño Cuasiexperimental Monocentro",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación metodológica derivada de la ausencia de un grupo de control aleatorizado y la circunscripción de la muestra a un único centro toledano, recomendando réplicas longitudinales en diversas comunidades autónomas."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se propone combatir la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga con muestra de"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se aborda mediante la"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "incluye la problemática de"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se evalúa con el"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "mide el impacto del"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "demuestra empíricamente la"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "constata claros"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "se caracteriza por la"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "consolida la tesis de"
+        },
+        {
+          "from": "10",
+          "to": "11",
+          "label": "alimenta la noción de"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "evidencia la"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "fundamenta la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "orienta el"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "culmina en la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "hace viable la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "acotada por su"
+        },
+        {
+          "from": "3",
+          "to": "7",
+          "label": "sirve de patrón a la"
+        },
+        {
+          "from": "4",
+          "to": "9",
+          "label": "se resuelve con"
+        },
+        {
+          "from": "7",
+          "to": "13",
+          "label": "valida el"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Mateos-Jiménez, Torres-Martínez y García-Fernández demuestran que las palabras cambian miradas: cuando los niños ven en un cuento a una niña inmigrante liderando un cohete espacial, el futuro de la ciencia y de la convivencia se vuelve más justo.",
+      "preguntas_guiadas": [
+        "¿Qué estereotipos sobre profesiones científicas has observado que persisten entre los alumnos de Primaria?",
+        "¿Cómo puede el debate posterior a la lectura de un cuento multiplicar su impacto educativo frente a la lectura individual silenciosa?"
+      ]
+    }
+  }
+}

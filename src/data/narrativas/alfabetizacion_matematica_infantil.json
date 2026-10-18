@@ -2,7 +2,7 @@
   "id": "alfabetizacion_matematica_infantil",
   "metadata": {
     "title": "Alfabetización inicial y conocimiento matemático. Confluencia de prácticas en Educación Infantil",
-    "authors": "Elena Ramírez-Orellana, Jorge Martín-Domínguez, Isabel Martínez-Álvarez y Sara Ramos-Pardo",
+    "authors": "Elena Ramírez-Orellana, Jorge Martín-Domínguez, Inés Rodríguez-Martín e Inmaculada Martín-Sánchez",
     "year": "2024",
     "journal": "Ocnos 23(2)",
     "doi": "10.18239/ocnos_2024.23.2.437",
@@ -12,139 +12,139 @@
     "color": "#88b04b",
     "colorAlt": "#2a5a75",
     "bg": "from-emerald-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-05.png",
+    "image": "/assets/portadas/alfabetizacion_matematica_infantil.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-05.png",
-      "name": "Dra. Elena Ramírez-Orellana",
+      "name": "Elena Ramírez-Orellana",
       "role": "Investigadora en Didáctica de la Lengua y la Matemática Inicial, Universidad de Salamanca"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Elena Ramírez-Orellana, especialista en patrones de interacción y semiótica en Educación Infantil",
+      "personaje": "Elena Ramírez-Orellana, investigadora en prácticas de enseñanza y Educación Infantil, Universidad de Salamanca",
       "gancho": "¿Por qué separamos en compartimentos estancos las letras de los números si en la mente de un niño de 4 años todo es significado simbólico?",
-      "contexto": "Históricamente, la escuela ha fragmentado el currículo: la hora de las letras y la hora de los números. Sin embargo, la alfabetización inicial y el sentido numérico emergente comparten las mismas bases cognitivas: el reconocimiento de patrones, la correspondencia simbólica y la argumentación oral. En este estudio observacional y microgenético en aulas de Educación Infantil en Castilla y León, los investigadores analizaron cómo convergen y se potencian mutuamente las prácticas lingüísticas y matemáticas en la asamblea y los rincones de juego.",
+      "contexto": "Históricamente, la escuela ha fragmentado el currículo: la hora de las letras y la hora de los números. Sin embargo, en Educación Infantil no hay especialistas por asignatura, sino un profesorado generalista de la etapa que gestiona áreas curriculares genéricas y globalizadoras. En este estudio observacional de casos, con videograbaciones de 27 sesiones de cinco profesores de Educación Infantil, los investigadores analizaron qué enseñan sobre alfabetización inicial y conocimiento matemático, y sobre qué patrones de actividad organizan sus clases.",
       "deepDives": [
         {
           "id": "mat-apertura-1",
-          "triggerLabel": "La teoría de los registros semióticos (Duval)",
+          "triggerLabel": "Enfoques teóricos de la alfabetización inicial",
           "type": "theory",
-          "content": "Aprender matemáticas exige transitar entre el lenguaje natural verbal, el código numérico y las representaciones icónicas y manipulativas."
+          "content": "Conviven enfoques psicolingüísticos (Castles y Nation, 2023; Ehri, 2020), socioculturales (Smagorinsky et al., 2020) y neuropsicológicos (Dehaene, 2018), tras el histórico debate entre métodos globales y sintéticos."
         },
         {
           "id": "mat-apertura-2",
-          "triggerLabel": "Metodología microgenética en aula",
+          "triggerLabel": "Estudio intensivo de casos videograbado",
           "type": "data",
-          "content": "Grabación en vídeo y transcripción detallada de 120 sesiones de asamblea y rincones de trabajo en aulas de 3 a 5 años."
+          "content": "Grabación en vídeo y audio de 27 sesiones de cerca de una hora, con cámara camuflada y micrófono de solapa, a cinco profesores de Infantil a lo largo de tres cursos (3, 4 y 5 años)."
         }
       ]
     },
     "conflicto": {
-      "problema": "La insistencia tradicional en la grafomotricidad mecánica y las sumas sin contexto amputa la capacidad infantil de razonar y verbalizar hipótesis matemáticas.",
-      "porQueImporta": "Un niño que aprende a verbalizar el 'por qué' de un cálculo numérico desarrolla al mismo tiempo la comprensión lectora inferencial y el pensamiento lógico.",
+      "problema": "El currículum de Infantil es no obligatorio, orientador y globalizador, pero la alfabetización y el conocimiento matemático tienen naturalezas muy distintas: cabe esperar que los maestros reelaboren cada contenido de manera diferente al enseñarlo.",
+      "porQueImporta": "Tanto el aprendizaje inicial de la alfabetización como el trabajo sobre el conocimiento matemático tienen influencia a largo plazo en etapas posteriores (Petersen et al., 2018; Watts et al., 2014), y los resultados pueden orientar la formación del profesorado de Infantil.",
       "dataPoints": [
-        "Estudio etnográfico y de interacción discursiva en 8 aulas de Educación Infantil.",
-        "El 71% de las situaciones matemáticas ricas surgieron de la lectura compartida de cuentos y álbumes ilustrados.",
-        "El andamiaje docente mediante preguntas abiertas duplicó las justificaciones orales de los párvulos.",
-        "Confluencia natural en tareas de recuento de personajes, seriaciones temporales y clasificación léxica."
+        "Estudio de casos de corte etnográfico: 5 profesores grabados en 27 sesiones de cerca de una hora en tres cursos.",
+        "Los profesores dedican la mayor parte de sus esfuerzos matemáticos al razonamiento lógico: seriación, orden y clasificación.",
+        "La enseñanza del código se incrementa notablemente hasta los 5 años: la Profesora 2 pasó del 5,9% en 3 años a centrar su práctica en código y escritura (93,6%) en 5 años.",
+        "Confluencia constatada: tareas categorizadas a la vez como alfabetización y matemáticas, como seguir con el lápiz una línea de puntos (código y trayectorias geométricas)."
       ],
       "glossary": [
         {
-          "term": "Alfabetización matemática emergente",
-          "definition": "Desarrollo informal del sentido numérico, la estimación y el razonamiento lógico antes de la instrucción formal del algoritmo."
+          "term": "Alfabetización inicial",
+          "definition": "Proceso escolar cuya meta es el acceso a la comprensión y a la composición escrita, trabajado desde cinco dimensiones: aspectos funcionales, aspectos representacionales, aprendizaje del código, escritura y comprensión textual."
         },
         {
           "term": "Patrón de actividad en el aula",
-          "definition": "Estructura interactiva recurrente (ej. la asamblea matutina) donde docentes y alumnos construyen significados compartidos."
+          "definition": "Actividad típica recurrente que organiza el trabajo de la clase y define la interacción entre profesores y alumnos: realización de tareas, trabajo por rincones, corrección de trabajos o la asamblea."
         }
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Análisis del discurso y patrones interactivos en vídeo",
-      "narrativa": "Los autores filmaron las dinámicas de aula, transcribieron las interacciones verbales y no verbales y codificaron los turnos de habla entre maestras y niños.",
+      "titulo": "Ruta metodológica: Videograbación y sistemas de categorías",
+      "narrativa": "Los autores registraron en vídeo y audio las prácticas de enseñanza con cámara camuflada y micrófono de solapa, y codificaron las grabaciones con tres sistemas de categorías: uno para las actividades típicas de aula, otro para las tareas de alfabetización y otro para las tareas matemáticas.",
       "detalles": [
         {
           "label": "Contexto",
-          "value": "Aulas de 3, 4 y 5 años en centros públicos de Salamanca."
+          "value": "Cuatro profesoras y un profesor de 3, 4 y 5 años en tres centros (A, B y C) que imparten también Educación Primaria; participaban en un proyecto de innovación con TIC junto a un equipo universitario."
         },
         {
           "label": "Técnica",
-          "value": "Videograbación microgenética, análisis conversacional y categorización semiótica."
+          "value": "Observación no participante y análisis de casos: la tarea como unidad, con cinco dimensiones alfabetizadoras y cuatro categorías matemáticas (razonamiento lógico, geometría, números y medida)."
         }
       ],
       "limitaciones": [
-        "Estudio cualitativo situado que requiere formación docente específica para replicar el análisis de interacción."
+        "No es un estudio experimental, así que la generalización es limitada, y la complejidad de las aulas de Infantil dificulta encontrar indicadores nítidos de la actuación docente."
       ],
       "reflexion": "En el rincón de juegos, contar tres manzanas es al mismo tiempo hacer matemáticas y nombrar la vida."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: Los cuentos son el mejor problema matemático",
-      "narrativa": "El registro de aula desveló conexiones mágicas entre cuentos y números:",
+      "titulo": "Hallazgos empíricos: confluencia en los patrones académicos",
+      "narrativa": "El análisis de las grabaciones desveló confluencias y divergencias entre ambos contenidos:",
       "hallazgos": [
         {
-          "label": "1. El Álbum Ilustrado como Detonante Lógico",
-          "value": "Al leer 'Ricitos de Oro' o 'Los tres cerditos', los niños discuten de tamaños, cantidades, secuencias temporales y correspondencias uno a uno sin percibir que están 'haciendo mates'."
+          "label": "1. La secuencia del código hacia 5 años",
+          "value": "En 3 años predominan los sistemas de representación primarios (dibujo, pictogramas, lectura de imágenes) y la enseñanza del código se intensifica hasta 5 años, donde se combinan código y escritura en torno al 77-94% de las prácticas de varios docentes; las profesoras 3 y 5 superan el 85%."
         },
         {
-          "label": "2. La Potencia de la Asamblea Matutina",
-          "value": "Pasar lista y contar cuántos niños han faltado hoy se reveló como la tarea letrada y numérica más rica del día."
+          "label": "2. Matemáticas uniformes, alfabetización divergente",
+          "value": "Las tareas matemáticas muestran un patrón más uniforme entre docentes y cursos —con el razonamiento lógico a la cabeza—, mientras que la alfabetización admite reinterpretaciones diversas; la comprensión textual oral brilló por su ausencia en todos los cursos."
         }
       ],
       "dataPoints": [
-        "Incremento del 55% en el vocabulario matemático específico (más que, menos que, igual) en aulas con lectura dialógica interdisciplinar."
+        "Las actividades de la lengua escrita ligadas a la rutina —recitado de poesía, lectura de imágenes, elegir lecturas para casa, pasar lista o poner la fecha— quedaron en lo anecdótico frente a los patrones académicos de realización de tareas."
       ],
       "reflexion": "No hay ciencia sin lenguaje: las palabras son las que dan sentido a los números en la infancia."
     },
     "marco": {
-      "titulo": "Discusión: Hacia un currículo infantil verdaderamente globalizado",
-      "narrativa": "Ramírez-Orellana y sus coautores reclaman desterrar las fichas fotocopiadas mecánicas:",
+      "titulo": "Discusión: cultura escolar y naturaleza del contenido",
+      "narrativa": "Ramírez-Orellana y su equipo discuten la doble fuente de las prácticas:",
       "detalles": [
         {
-          "label": "Proyectos Globalizados de Aula",
-          "value": "Integrar literatura infantil, resolución de problemas cotidianos y experimentación sensorial en un solo flujo de aprendizaje."
+          "label": "Doble condicionante",
+          "value": "Los documentos oficiales influyen más en la enseñanza de matemáticas que en la de la alfabetización, y la cultura escolar de la etapa —rutinas, rincones, juego— explica que ambos contenidos se localicen en patrones de actividad similares."
         }
       ],
-      "reflexion": "En Educación Infantil no hay asignaturas: hay niños curiosos intentando descifrar el mundo entero."
+      "reflexion": "No hay currículo sin maestros: cada docente reelabora el currículum oficial en el contacto real con su aula."
     },
     "nucleo": {
-      "pregunta": "¿Cómo confluyen las prácticas de alfabetización inicial y conocimiento matemático en las dinámicas cotidianas de Educación Infantil?",
-      "conclusion": "La investigación microgenética en aulas de 3 a 5 años demuestra que la alfabetización inicial y el pensamiento matemático emergen de manera indisociable cuando se articulan a través de la mediación dialógica docente y la lectura de álbumes ilustrados. Superar la fragmentación curricular tradicional mediante la confluencia de prácticas en la asamblea y los rincones potencia simultáneamente el razonamiento lógico, el léxico abstracto y la comprensión lectora temprana.",
-      "formalRef": "Ramírez-Orellana, E., Martín-Domínguez, J., Martínez-Álvarez, I., & Ramos-Pardo, S. (2024). Alfabetización inicial y conocimiento matemático. Confluencia de prácticas en Educación Infantil. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.437"
+      "pregunta": "¿Qué enseñan los profesores de Infantil cuando abordan la alfabetización inicial y el conocimiento matemático, y sobre qué patrones de actividad organizan esas clases?",
+      "conclusion": "El estudio de 27 sesiones videograbadas con cinco profesores de Infantil muestra que las prácticas difieren según el contenido: la alfabetización admite reelaboraciones muy diversas (con la enseñanza del código e escritura concentradas en 5 años y ausencia de comprensión textual), mientras las matemáticas presentan un patrón uniforme dominado por el razonamiento lógico y la geometría. Sin embargo, ambos contenidos se localizan mayoritariamente en los mismos patrones de actividad académicos, lo que indica un peso equivalente en el currículum de la etapa y corrobora una cultura escolar vinculada al nivel, con la naturaleza del contenido como factor decisivo de las diferencias.",
+      "formalRef": "Ramírez-Orellana, E., Rodríguez-Martín, I., Martín-Domínguez, & Martín-Sánchez, I. (2024). Alfabetización inicial y conocimiento matemático. Confluencia de prácticas en Educación Infantil. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.437"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué recurso literario cotidiano demostró generar más del 70 % de las situaciones matemáticas significativas en las aulas analizadas?",
+          "q": "¿Sobre qué patrones de actividad se organizan las clases cuando estos profesores enseñan alfabetización y matemáticas?",
           "options": [
-            "Los libros de cuentas bancarias.",
-            "La lectura compartida de cuentos tradicionales y álbumes ilustrados que plantean secuencias, tamaños y relaciones de cantidad.",
-            "Los folletos de ofertas de juguetes.",
-            "Los carteles de precios de gasolineras."
+            "En el juego libre y las rutinas de descanso.",
+            "En patrones académicos: realización de tareas, trabajo por rincones, planificación y organización, corrección de trabajos y organización de la salida al recreo.",
+            "Exclusivamente en la asamblea matutina.",
+            "En salidas al exterior del centro."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué momento de la rutina de aula en Infantil se reveló como el espacio más rico para conectar la lista de nombres (letras) con el recuento y cálculo numérico?",
+          "q": "¿Qué ocurre con la enseñanza del código escrito al llegar a los 5 años?",
           "options": [
-            "La hora de la siesta.",
-            "La asamblea matutina (pasar lista, contar presentes y ausentes, el calendario y el tiempo meteorológico).",
-            "La salida al autobús escolar.",
-            "El lavado de manos en silencio."
+            "Desaparece por completo del aula.",
+            "Se intensifica notablemente en todos los profesores —con casos como el de la Profesora 2, que pasa del 5,9% en 3 años a centrarse en código y escritura (93,6%) en 5 años—, en parte por la transición a la Primaria obligatoria.",
+            "Se mantiene igual que en 3 años.",
+            "Se sustituye por la comprensión textual oral."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué impacto lingüístico constataron los autores en aulas donde se dialoga sobre problemas matemáticos en los cuentos?",
+          "q": "¿Cuál era el tratamiento del conocimiento matemático observado en los tres cursos?",
           "options": [
-            "Que los niños dejan de hablar para siempre.",
-            "Un incremento del 55 % en el vocabulario matemático relacional ('más que', 'menos que', 'tantos como').",
-            "Que los niños solo aprenden a decir números en inglés.",
-            "Ningún cambio en el lenguaje."
+            "Un patrón uniforme que dedicaba la mayor parte de los esfuerzos al razonamiento lógico (seriación, orden, clasificación), seguido de geometría, números y, en último lugar, unidades de medida.",
+            "Una sucesión de ecuaciones de primer grado.",
+            "Solo cálculo written con lápiz y papel.",
+            "Exclusivamente fracciones y decimales."
           ],
-          "correct": 1
+          "correct": 0
         },
         {
           "type": "open",
@@ -167,7 +167,7 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Grabamos y analizamos 120 sesiones en aulas de Salamanca para ver cómo las maestras tejen lenguaje y matemáticas.",
+      "text": "Grabamos y analizamos 27 sesiones en aulas de Salamanca para ver cómo las maestras tejen lenguaje y matemáticas.",
       "position": "bottom-right"
     },
     "revelacion": {
@@ -192,110 +192,232 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Alfabetización Inicial y Conocimiento Matemático en Infantil",
-    "descripcion": "Estudio microgenético en aulas de 3 a 5 años: confluencia semiótica, asamblea matutina, álbum ilustrado y superación de fichas mecánicas.",
+    "titulo": "Mapa conceptual: Alfabetización inicial y conocimiento matemático en Educación Infantil (Ocnos 23(2) 2024)",
+    "descripcion": "De los marcos curriculares y teóricos a la observación videograbada de 27 sesiones con cinco maestros de Infantil: qué enseñan sobre lengua escrita y matemáticas, sobre qué actividades típicas se organiza el aula y cómo los docentes reelaboran el currículum en cada contenido.",
     "nodos": [
       {
         "id": "1",
-        "label": "Confluencia Lengua y Matemáticas",
-        "color": "#88b04b"
+        "label": "Currículum orientador de Educación Infantil",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Al ser etapa no obligatoria, el currículum tiene carácter más orientador que prescriptivo, con áreas genéricas: conocimiento de sí mismo, del entorno y lenguajes. Los contenidos matemáticos (cantidad, medida, seriación, clasificación) se plantean desde un punto de vista experiencial y globalizador."
       },
       {
         "id": "2",
-        "label": "Alfabetización Inicial Emergente",
-        "color": "#2a5a75"
+        "label": "Enfoques teóricos de la alfabetización",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Conviven enfoques psicolingüísticos (Castles y Nation, 2023; Ehri, 2020), socioculturales (Smagorinsky et al., 2020; Rand y Morrow, 2021) y neuropsicológicos (Dehaene, 2018) tras el debate histórico entre métodos globales y sintéticos. La meta es el acceso a la comprensión y la composición escrita."
       },
       {
         "id": "3",
-        "label": "Sentido Numérico Infantil",
-        "color": "#5b9eaa"
+        "label": "Subdominios y métodos matemáticos",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Se identifican tres subdominios de conocimiento matemático (Alsina y Delgado, 2021): intuitivo e informal, transmitido por los profesores y de procesos resolutivos. López-Dalmau y Alsina (2015) distinguen cuatro métodos: destrezas, conceptual, resolución de problemas e investigativo."
       },
       {
         "id": "4",
-        "label": "Álbum Ilustrado como Mediador",
-        "color": "#f4d068"
+        "label": "Patrones de actividad y cultura escolar",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Estudios previos (Ramírez et al., 2017; Rodríguez et al., 2018) mostraron que las clases se regulan alrededor de actividades organizativas, rutinarias, académicas y lúdicas, con asamblea, rincones y juego como modelos habituales. La naturaleza de los contenidos también afecta a la actividad curricular (Stodolsky y Grossman, 1995)."
       },
       {
         "id": "5",
-        "label": "Asamblea Matutina (Rutinas)",
-        "color": "#2a9d8f"
+        "label": "Preguntas sobre qué enseñan y cómo",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "Analizar las prácticas de clase de profesores de Infantil sobre dos aspectos del currículum: la alfabetización inicial y el conocimiento matemático. Dos preguntas de investigación: qué enseñan los profesores al abordar ambos procesos y sobre qué patrones de actividad se organizan esas clases."
       },
       {
         "id": "6",
-        "label": "Andamiaje Docente Dialógico",
-        "color": "#9b82c3"
+        "label": "Cinco casos videograbados en tres cursos",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Modelo de estudio intensivo de casos con observación no participante: 5 profesores de un proyecto de innovación con TIC (4 mujeres, 1 hombre; 12 a 30 años de experiencia) fueron grabados con cámara camuflada y micrófono de solapa en 27 sesiones de cerca de una hora, distribuidas aleatoriamente en 3, 4 y 5 años."
       },
       {
         "id": "7",
-        "label": "Vocabulario Relacional (+55%)",
-        "color": "#e76f51"
+        "label": "Sistema de actividades típicas de aula",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "El sistema de análisis de prácticas registra los patrones de acción del aula: pasar lista, poner la fecha y el tiempo, trabajo por rincones, explicación y corrección de tareas, recitado de poesía, lectura de imágenes, juego libre, salidas al recreo y otras actividades típicas definidas en la tabla 2 del estudio."
       },
       {
         "id": "8",
-        "label": "Crítica a las Fichas Mecánicas",
-        "color": "#c73e1d"
+        "label": "Dimensiones de enseñanza de la alfabetización",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Con la tarea como unidad de análisis, el sistema de categorías alfabetizador recoge una filosofía integradora en cinco dimensiones: aspectos funcionales, aspectos representacionales del lenguaje escrito, aprendizaje del código, escritura y comprensión textual, subdivididas en categorías y subcategorías."
       },
       {
         "id": "9",
-        "label": "Registros Semióticos (Duval)",
-        "color": "#264653"
+        "label": "Categorías del conocimiento matemático",
+        "color": "#f4a261",
+        "role": "Método",
+        "descripcion": "El segundo sistema de categorías, validado por revisiones previas (Alsina, 2021; Engel et al., 2016; Chan et al., 2018), con el currículum de la etapa y el contraste inductivo con los registros, estructura las tareas matemáticas en cuatro categorías: razonamiento lógico, geometría, números y unidades de medida."
       },
       {
         "id": "10",
-        "label": "Currículo Globalizado Infantil",
-        "color": "#f4a261"
+        "label": "El código se intensifica en 5 años",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "La enseñanza del código crece notablemente hasta los 5 años en todos los profesores: la Profesora 2 pasa del 5,9% en 3 años al 93,6% junto a escritura en 5 años; las profesoras 3 y 5 superan el 85%. En 3 años predominan los sistemas de representación primarios (dibujo, pictogramas, imágenes) y la comprensión textual brilla por su ausencia."
+      },
+      {
+        "id": "11",
+        "label": "Razonamiento lógico domina las matemáticas",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El patrón matemático es más uniforme entre profesoras y cursos: la mayor parte de los esfuerzos se dedica al razonamiento lógico (seriación, orden, clasificación), seguido de geometría (orientación, localización, formas planas); en números destacan correspondencia uno a uno y comparación de cantidades, y medida es la categoría menos presente."
+      },
+      {
+        "id": "12",
+        "label": "Confluencia de contenidos en una tarea",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Un conjunto de tareas fue categorizado simultáneamente como enseñanza de la lengua escrita y del conocimiento matemático: seguir con el lápiz una línea de puntos aprende el código y, a la vez, trayectorias de geometría, evidenciando la confluencia de ambos contenidos en una misma acción de aula."
+      },
+      {
+        "id": "13",
+        "label": "Patrones académicos concentran la enseñanza",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "Los patrones con más de un 2% de tareas de ambos contenidos son trabajo por rincones, realización de tareas, planificación y organización, corrección de trabajos y organización del recreo. Las matemáticas oscilan establemente entre el 43,3% y el 65,4%, mientras la lectura muestra variaciones superiores al 20%; pasar lista o poner la fecha quedan en lo anecdótico."
+      },
+      {
+        "id": "14",
+        "label": "Reelaboración curricular diferenciada por contenido",
+        "color": "#c73e1d",
+        "role": "Discusión",
+        "descripcion": "En matemáticas lo enseñado coincide bastante con lo marcado en el currículum, tratado uniformemente; en alfabetización los profesores muestran mayor capacidad de reinterpretación, atribuible a la distinta naturaleza de los contenidos. El protagonismo del código en 5 años se explica por la transición a una Primaria obligatoria y prescriptiva."
+      },
+      {
+        "id": "15",
+        "label": "Equivalencia de estatus y formación docente",
+        "color": "#264653",
+        "role": "Conclusiones",
+        "descripcion": "Ambos contenidos se localizan mayoritariamente en los mismos patrones académicos, lo que indica que los docentes les conceden un peso equivalente en el currículum de la etapa. Los resultados pueden orientar la formación del profesorado de Infantil con modelos de planificación y gestión del aula en torno a las actividades."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones del estudio de casos",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "La generalización es limitada al no ser un estudio experimental; la complejidad de los contextos de Infantil dificulta hallar indicadores nítidos en la actuación de profesores y alumnos, y el corte etnográfico acota el alcance, por lo que el equipo sigue incorporando nuevos casos al corpus."
       }
     ],
     "aristas": [
       {
         "from": "1",
-        "to": "2",
-        "label": "entrelaza de forma armónica la"
+        "to": "5",
+        "label": "enmarca las"
       },
       {
         "from": "1",
-        "to": "3",
-        "label": "potencia simultáneamente el"
+        "to": "4",
+        "label": "dialoga con la"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "orienta las"
+      },
+      {
+        "from": "2",
+        "to": "8",
+        "label": "sustentan las"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "orienta las"
+      },
+      {
+        "from": "3",
+        "to": "9",
+        "label": "sustentan las"
       },
       {
         "from": "4",
-        "to": "1",
-        "label": "detona en el 71% de los casos la"
+        "to": "7",
+        "label": "anticipa el registro de las"
       },
       {
         "from": "5",
-        "to": "1",
-        "label": "es el escenario privilegiado de la"
+        "to": "6",
+        "label": "se aborda con un"
       },
       {
-        "from": "6",
-        "to": "5",
-        "label": "guía las conversaciones en la"
+        "from": "5",
+        "to": "7",
+        "label": "indaga sobre las"
       },
       {
         "from": "6",
         "to": "7",
-        "label": "consigue un aumento del"
+        "label": "aporta material para el"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "alimenta el análisis de las"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "alimenta el análisis de las"
       },
       {
         "from": "8",
-        "to": "1",
-        "label": "obstaculiza y fragmenta la"
+        "to": "10",
+        "label": "ordena los hallazgos de la"
       },
       {
         "from": "9",
-        "to": "1",
-        "label": "fundamenta teóricamente la"
+        "to": "11",
+        "label": "ordena los hallazgos del"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "hace visible la"
+      },
+      {
+        "from": "9",
+        "to": "12",
+        "label": "permite detectar la"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "se distribuye en los"
       },
       {
         "from": "10",
-        "to": "8",
-        "label": "sustituye y supera la rutina de"
+        "to": "14",
+        "label": "sustenta la"
       },
       {
-        "from": "10",
-        "to": "1",
-        "label": "hace realidad en el colegio la"
+        "from": "11",
+        "to": "14",
+        "label": "contrasta con la"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "evidencia la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "conduce a la"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "acotan el alcance de la"
       }
     ]
   }

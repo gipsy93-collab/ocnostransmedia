@@ -2,7 +2,7 @@
   "id": "desapego_lectura_digital",
   "metadata": {
     "title": "Hacia una ontología de factores de desapego en procesos de lectura digital en Educación Superior",
-    "authors": "Javier Merchán-Sánchez-Jara y Ludovica Mastrobattista",
+    "authors": "Javier Merchán-Sánchez-Jara, Ludovica Mastrobattista, María Muñoz-Rico, Sara González-Gutiérrez y José Antonio Cordón-García",
     "year": "2025",
     "journal": "Ocnos 24(1)",
     "doi": "10.18239/ocnos_2025.24.1.438",
@@ -12,41 +12,41 @@
     "color": "#2a5a75",
     "colorAlt": "#e76f51",
     "bg": "from-ocean-base/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-21.png",
+    "image": "/assets/portadas/desapego_lectura_digital.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-21.png",
       "name": "Dr. Javier Merchán-Sánchez-Jara",
-      "role": "Investigador en Narrativa Digital y Ecología de Medios, Universidad de Salamanca"
+      "role": "Investigador en Humanidades Digitales y Lectura Digital, Universidad de Salamanca"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dr. Javier Merchán-Sánchez-Jara, especialista en interfaces cognitivas y lectura universitaria",
+      "personaje": "Dr. Javier Merchán-Sánchez-Jara, especialista en lectura digital y humanidades digitales",
       "gancho": "¿Hemos sustituido la lectura profunda por un picoteo superficial guiado por algoritmos de distracción?",
-      "contexto": "El consumo de textos académicos en pantallas ha generado un fenómeno generalizado en la universidad: el 'desapego lector' (reading disengagement). Los estudiantes leen de forma fragmentaria, rápida y discontinua. Este estudio propone una ontología exhaustiva de factores que causan este desapego en la Educación Superior, clasificando factores endógenos (cognitivos y afectivos) y exógenos (interfaz, hiperenlaces, notificaciones y fatiga visual).",
+      "contexto": "El consumo de textos académicos en pantallas ha generado un fenómeno generalizado en la universidad: el desapego hacia la lectura digital. El ecosistema digital difundió un estilo de lectura más rápido y selectivo. Este estudio propone una ontología de los factores percibidos de desapego en la Universidad de Salamanca, organizada en siete categorías que van de lo estético y fisiológico a lo cognitivo, lo pragmático, la accesibilidad y los factores socioculturales.",
       "deepDives": [
         {
           "id": "des-apertura-1",
           "triggerLabel": "La ontología del desapego lector",
           "type": "theory",
-          "content": "Modelo conceptual que mapea cómo las affordances del dispositivo digital erosionan el estado de inmersión y flujo (flow) lector."
+          "content": "Modelo que articula 45 códigos de desapego en 7 categorías y registra sus relaciones (is a, is part of, is cause of, contradicts) en el software Atlas.ti."
         },
         {
           "id": "des-apertura-2",
-          "triggerLabel": "Efecto Skimming compulsivo",
+          "triggerLabel": "Lectura en diagonal",
           "type": "data",
-          "content": "Patrones de lectura en 'F' y salto continuo entre párrafos que reducen la retención de ideas abstractas complejas."
+          "content": "Proceso de lectura digital que se desarrolla en diagonal, buscando información clave: una lectura rápida y más superficial."
         }
       ]
     },
     "conflicto": {
-      "problema": "Las universidades digitalizaron bibliotecas y manuales asumiendo que leer en pantalla es idéntico a leer en papel, ignorando la sobrecarga cognitiva que imponen los interfaces modernos.",
-      "porQueImporta": "El desapego digital crónico destruye la capacidad de concentración sostenida y comprensión crítica en los futuros graduados.",
+      "problema": "El ecosistema digital antepone el pragmatismo y la productividad, mientras una parte significativa de la investigación señala problemas de concentración, memorización y profundidad que alimentan la resistencia del papel frente al proceso colonizador de las tecnologías digitales.",
+      "porQueImporta": "Conocer los factores de desapego es un activo inestimable para la innovación docente en la Educación Superior y para adaptar los recursos y repositorios digitales de las instituciones.",
       "dataPoints": [
         "Estudio ontológico y cualitativo con estudiantes y docentes universitarios.",
-        "Identificación de 4 dimensiones de desapego: Atencional, Ergonómica, Emocional e Instrumental.",
-        "El 78% de los alumnos reconoce interrumpir la lectura digital en los primeros 7 minutos.",
-        "La presencia de hipervínculos activos reduce un 24% la memoria de trabajo dedicada al argumento textual."
+        "Identificación de 45 códigos de desapego adscritos a 7 categorías: estética, fisiológico-psicológica, cognitiva, pragmática, accesibilidad, naturaleza del texto digital y socioculturales.",
+        "El 56% de la muestra declara una percepción positiva hacia la lectura digital, frente a un 4% negativa y un 40% no definida.",
+        "Los factores más mencionados son el sensorial (8,7%) y la retención (7,5%), seguidos de la intervención y manipulación del texto (6,9%) y la concentración (6,1%)."
       ],
       "glossary": [
         {
@@ -60,65 +60,65 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Modelado ontológico y paneles de expertos",
-      "narrativa": "Los autores aplicaron una metodología ontológica basada en diseño conceptual formal, validada mediante técnica Delphi con expertos internacionales en alfabetización digital.",
+      "titulo": "Ruta metodológica: Entrevistas semiestructuradas y análisis cualitativo con Atlas.ti",
+      "narrativa": "Los autores entrevistaron mediante entrevistas semiestructuradas a una muestra (n=25) de estudiantes y profesores de la Universidad de Salamanca, seleccionada mediante muestreo aleatorio simple, y analizaron las transcripciones con el protocolo de Miles y Huberman y la asistencia del software Atlas.ti.",
       "detalles": [
         {
           "label": "Metodología",
-          "value": "Ingeniería ontológica, análisis cualitativo y panel Delphi."
+          "value": "Análisis cualitativo de entrevistas semiestructuradas con codificación en Atlas.ti."
         },
         {
           "label": "Contexto",
-          "value": "Grados universitarios de Humanidades, Comunicación y Educación."
+          "value": "Estudiantes de grado, máster y doctorado y PDI de la Universidad de Salamanca, en Artes y Humanidades, Ciencias de la Salud, Ciencias Sociales y Jurídicas, e Ingeniería y Arquitectura."
         }
       ],
       "limitaciones": [
-        "Modelo conceptual que requiere validación experimental biométrica continua."
+        "Muestra cualitativa de 25 entrevistas que sienta las bases para futuros perfiles de lectores mediante análisis multivariante."
       ],
       "reflexion": "La pantalla no es un papel con luz: es un ecosistema interactivo que compite ferozmente por tu cerebro."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: La arquitectura de la distracción universitaria",
+      "titulo": "Hallazgos empíricos: La arquitectura del desapego lector",
       "narrativa": "La ontología desveló cómo interactúan los factores de desapego:",
       "hallazgos": [
         {
-          "label": "1. Fatiga de Elección Permanente",
-          "value": "Cada enlace, pestaña y botón obliga al cerebro a decidir si hace clic, agotando el control ejecutivo antes de llegar a la mitad del texto."
+          "label": "1. Multitarea y distracción",
+          "value": "El multitasking —leer correos, chatear o consultar varias páginas a la vez— inhibe especialmente el nivel de concentración durante la lectura digital."
         },
         {
-          "label": "2. Ilusión de Velocidad",
-          "value": "Los universitarios creen que leen más rápido en pantalla, pero su retención y comprensión inferencial caen drásticamente."
+          "label": "2. Retención y sensorialidad",
+          "value": "La mayoría achaca su peor retención en pantalla a la carencia de estímulos sensoriales del texto electrónico: Retención-Sensorial es la coocurrencia más frecuente (5,9%)."
         }
       ],
       "dataPoints": [
-        "Matriz ontológica con más de 30 factores interconectados categorizados formalmente."
+        "Ontología de 45 códigos de desapego adscritos a 7 categorías esenciales, codificados y relacionados mediante el análisis textual de Atlas.ti."
       ],
       "reflexion": "Recuperar la concentración en pantalla requiere una disciplina consciente de higiene digital."
     },
     "marco": {
-      "titulo": "Discusión: Rediseño pedagógico para la ecología digital",
-      "narrativa": "Merchán y Mastrobattista proponen soluciones de software y hábitos de lectura:",
+      "titulo": "Discusión: Rediseño institucional para la ecología digital",
+      "narrativa": "Los autores instan a las instituciones educativas a adoptar medidas y reformular la oferta digital de la Educación Superior:",
       "detalles": [
         {
-          "label": "Modos de Lectura Limpia",
-          "value": "Eliminar barras laterales, notificaciones y fuentes desordenadas en plataformas académicas."
+          "label": "Repositorios adaptados",
+          "value": "Adaptar y reformular los recursos digitales y repositorios institucionales para que estén adaptados semánticamente y faciliten los procesos de enseñanza-aprendizaje."
         }
       ],
       "reflexion": "La tecnología debe diseñarse para servir al pensamiento profundo, no para secuestrar nuestra atención."
     },
     "nucleo": {
       "pregunta": "¿Qué factores determinan el desapego en los procesos de lectura digital en la Educación Superior?",
-      "conclusion": "La ontología formal desarrollada por los autores desglosa más de 30 factores de desapego clasificados en dimensiones atencionales, ergonómicas, instrumentales y emocionales. Demuestra que la lectura digital fragmentaria no es un mero defecto de voluntad del estudiante, sino el resultado del choque entre la arquitectura cognitiva humana y el diseño dispersivo de las interfaces digitales actuales.",
-      "formalRef": "Merchán-Sánchez-Jara, J., & Mastrobattista, L. (2025). Hacia una ontología de factores de desapego en procesos de lectura digital en Educación Superior. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.438"
+      "conclusion": "La ontología propuesta desglosa 45 códigos de desapego en 7 categorías: estética, fisiológico-psicológica, cognitiva, pragmática, accesibilidad, naturaleza del texto digital y factores socioculturales. El desapego no es un defecto de voluntad del estudiante: lo sensorial y la retención son los factores prevalentes, y el debate analógico-digital se ha trasladado a coyunturas que privilegian un soporte u otro según la práctica lectora.",
+      "formalRef": "Merchán-Sánchez-Jara, J., Mastrobattista, L., Muñoz-Rico, M., González-Gutiérrez, S., & Cordón-García, J. A. (2025). Hacia una ontología de factores de desapego en procesos de lectura digital en Educación Superior. Ocnos, 24(1). https://doi.org/10.18239/ocnos_2025.24.1.438"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué provoca en la memoria de trabajo la presencia continua de hipervínculos activos en un texto digital según el estudio?",
+          "q": "¿Qué efecto tiene la multitarea (multitasking) sobre la lectura digital según el estudio?",
           "options": [
             "Un aumento exponencial de la felicidad.",
-            "Fatiga de elección y sobrecarga cognitiva, al obligar al cerebro a decidir constantemente si navega o sigue leyendo.",
+            "Inhibe el nivel de concentración: leer correos, chatear o consultar varias páginas a la vez distrae al lector.",
             "Que el lector lea a triple velocidad.",
             "La memorización automática de todo el texto."
           ],
@@ -126,10 +126,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué cuatro dimensiones articula la ontología del desapego lector propuesta por los autores?",
+          "q": "¿Qué siete categorías articula la ontología de factores de desapego propuesta por los autores?",
           "options": [
             "Financiera, deportiva, meteorológica y culinaria.",
-            "Atencional, ergonómica, instrumental y emocional.",
+            "Estética, fisiológico-psicológica, cognitiva, pragmática, accesibilidad, naturaleza del texto digital y factores socioculturales.",
             "Únicamente el precio del ordenador.",
             "La velocidad del wifi y la marca del teclado."
           ],
@@ -137,22 +137,22 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué porcentaje de estudiantes universitarios reconoció interrumpir la lectura digital en los primeros minutos?",
+          "q": "¿Qué porcentaje de la muestra declaró una percepción positiva hacia la lectura digital?",
           "options": [
             "Menos del 2 %.",
-            "El 78 % de los alumnos.",
-            "Exactamente el 100 % en todos los segundos.",
-            "Ningún estudiante universitario."
+            "El 56 %.",
+            "Exactamente el 100 % en todos los casos.",
+            "Ningún participante."
           ],
           "correct": 1
         },
         {
           "type": "open",
-          "q": "¿Qué protocolo personal de 'higiene digital' recomendarías a un estudiante universitario que debe estudiar 50 páginas de un manual en PDF para evitar saltar a las redes sociales?"
+          "q": "¿Qué competencias de control y selección de información recomendarías a un estudiante que debe estudiar un manual en PDF para evitar la distracción por sobreinformación?"
         },
         {
           "type": "open",
-          "q": "¿Cómo deberían rediseñar las editoriales universitarias sus plataformas digitales de lectura para fomentar la inmersión profunda en lugar de la dispersión superficial?"
+          "q": "Según las conclusiones del estudio, ¿cómo deberían las instituciones educativas adaptar sus recursos digitales y repositorios para facilitar los procesos de enseñanza-aprendizaje?"
         }
       ]
     }
@@ -163,19 +163,19 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "¿Es culpa tuya o de la interfaz? La ciencia demuestra que las pantallas están diseñadas para la dispersión.",
+      "text": "¿Es culpa tuya o del soporte? El estudio muestra que el desapego tiene raíces sensoriales, cognitivas y pragmáticas.",
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Mapeamos más de 30 factores de desapego mediante ingeniería ontológica y paneles de expertos internacionales.",
+      "text": "Entrevistamos a 25 miembros de la comunidad educativa de la Universidad de Salamanca y codificamos sus respuestas con Atlas.ti.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Fatiga de elección! Cada enlace activo es un peaje cognitivo que agota la mente antes de llegar al final.",
+      "text": "¡Lo sensorial pesa más! La falta de materialidad del texto digital se alía con la peor retención: es la coocurrencia estrella del análisis.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "Exijamos interfaces académicas limpias y aprendamos a blindar nuestro tiempo de lectura profunda.",
+      "text": "Adaptar los repositorios y recursos digitales a los nuevos hábitos lectores es la asignatura pendiente de las instituciones.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -192,110 +192,205 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Ontología de Factores de Desapego en Lectura Digital",
-    "descripcion": "Modelo ontológico para Educación Superior: factores atencionales, ergonómicos, hipervínculos, sobrecarga cognitiva y lectura profunda.",
+    "titulo": "Mapa conceptual: Factores de desapego de la lectura digital universitaria (Ocnos 24(1) 2025)",
+    "descripcion": "De la historia de rechazo de los nuevos medios y la economía de la atención a las entrevistas con 25 estudiantes y docentes de la USAL: 45 factores codificados en 7 categorías, prevalencia de lo sensorial y la retención, con implicaciones educativas.",
     "nodos": [
       {
         "id": "1",
-        "label": "Desapego Lector Digital",
-        "color": "#2a5a75"
+        "label": "Rechazo histórico a los nuevos medios",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Desde la crítica platónica de la escritura en el Fedro (Lledó, 2015), cada cambio en la comunicación escrita suscita reticencias. La tecnología digital añade la servidumbre de dispositivos intermediarios que instauran la interrupción y la distracción."
       },
       {
         "id": "2",
-        "label": "Ontología de Factores (30+)",
-        "color": "#5b9eaa"
+        "label": "Economía de la atención",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "El tiempo de ocio es terreno de pugna por captar el interés con productos de menor exigencia cognitiva que la lectura (Giffard, 2013; Varela-Garrote et al., 2019). El auge del audiolibro desde 2017, que duplica y triplica al libro electrónico, refuerza esta aserción."
       },
       {
         "id": "3",
-        "label": "Dimensión Atencional",
-        "color": "#e76f51"
+        "label": "Relativización del debate crítico digital",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Van-der-Weel y Mangen (2022), Wolf (2018) y Baron (2022) relativizan los rechazos categóricos y establecen condiciones de viabilidad de la lectura digital. El problema se sitúa en los sectores que rechazan lo digital por motivos estéticos, cognitivos, emocionales o sensoriales."
       },
       {
         "id": "4",
-        "label": "Dimensión Ergonómica y Fatiga",
-        "color": "#88b04b"
+        "label": "Objetivo: ontología del desapego percibido",
+        "color": "#e76f51",
+        "role": "Objetivo",
+        "descripcion": "Identificar y analizar los factores percibidos de desapego hacia la lectura digital en la comunidad educativa de la Universidad de Salamanca. Se busca avanzar hacia un modelo ontológico y descubrir factores no identificados en investigaciones anteriores."
       },
       {
         "id": "5",
-        "label": "Hipervínculos y Multitarea",
-        "color": "#c73e1d"
+        "label": "Muestra de 25 estudiantes y docentes",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Muestra representativa de 25 personas seleccionadas mediante muestreo aleatorio simple, integrada por estudiantes de grado, máster y doctorado junto al PDI. Se distribuye entre Artes y Humanidades, Ciencias de la Salud, Ciencias Sociales y Jurídicas, e Ingeniería y Arquitectura."
       },
       {
         "id": "6",
-        "label": "Lectura en Barrido (Skimming)",
-        "color": "#f4d068"
+        "label": "Entrevistas semiestructuradas con Atlas.ti",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "La entrevista semiestructurada emplea preguntas abiertas formuladas desde la neutralidad para evitar sesgos. Las transcripciones se suben al software Atlas.ti, que divide los datos en unidades de significado y registra los tipos de relación entre códigos."
       },
       {
         "id": "7",
-        "label": "Sobrecarga de la Memoria de Trabajo",
-        "color": "#9b82c3"
+        "label": "Protocolo de Miles y Huberman",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Análisis cualitativo en cuatro etapas: recogida de datos, reducción de la información mediante categorías de contenido, exposición organizada con gráficos y matrices, y extracción de conclusiones. Se aplicó el protocolo citado en Bisquerra-Alzina y Sabariego-Puig (2004)."
       },
       {
         "id": "8",
-        "label": "Erosión de la Inmersión (Flow)",
-        "color": "#264653"
+        "label": "Niveles de competencia digital autopercibida",
+        "color": "#2a5a75",
+        "role": "Resultados",
+        "descripcion": "La escala va del nivel 0 (No calificado) al 4 (Experto): Avanzado 42%, Intermedio 27%, Principiante 19% y Experto 12%. El PDI se concentra en el nivel Avanzado y un 23% en Experto, mientras que el estudiantado se autopercibe mayormente Principiante o Intermedio."
       },
       {
         "id": "9",
-        "label": "Diseño de Interfaces Limpias",
-        "color": "#2a9d8f"
+        "label": "Percepción mayoritariamente positiva",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El 56% declara percepción positiva por accesibilidad, portabilidad y búsqueda de información; solo el 4% es negativa y el 40% no definida. La inclinación por el papel depende de objetivos de lectura, estética, costumbre y generacionalidad."
       },
       {
         "id": "10",
-        "label": "Educación Superior Crítica",
-        "color": "#f4a261"
+        "label": "Soporte y dispositivo según práctica lectora",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Para la lectura académica el 60% elige digital —navegación 44%, multitasking 33%— y para el ocio el 60% elige papel —cansancio ocular, emoción y control del tiempo al 25%—. El ordenador es el dispositivo favorito (41%), seguido de móvil y e-readers (19% cada uno). En soporte impreso destaca la intervención y manipulación del texto (58%)."
+      },
+      {
+        "id": "11",
+        "label": "Cuarenta y cinco códigos en siete categorías",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "La ontología identifica 45 códigos adscritos a 7 categorías: Estética, Fisiológico-Psicológica, Cognitiva, Pragmática, Accesibilidad, Naturaleza del texto digital y Factores Socioculturales. En Atlas.ti se registran relaciones como is part of, is cause of y contradicts."
+      },
+      {
+        "id": "12",
+        "label": "Prevalencia de lo sensorial y la retención",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Los códigos más mencionados superan la media de ocurrencia: Sensorial (8,7%), Retención (7,5%), Intervención y manipulación de textos (6,9%), Concentración (6,1%), Coleccionismo y Emocional (4,9%) y Cansancio ocular (4,6%). La virtualidad del texto electrónico debilita la conexión háptica del lector."
+      },
+      {
+        "id": "13",
+        "label": "Coocurrencia Retención-Sensorial",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "La coocurrencia más frecuente es Retención-Sensorial con 5,9% (13 citas compartidas). Los participantes achacan la peor retención digital a la carencia de estímulos sensoriales, un fenómeno descrito como disonancia háptica (Gerlach y Buxmann, 2011)."
+      },
+      {
+        "id": "14",
+        "label": "El contexto decide el formato",
+        "color": "#2a9d8f",
+        "role": "Discusión",
+        "descripcion": "El debate analógico-digital se traslada a coyunturas que privilegian cada soporte: la lectura analógica se percibe lineal y profunda, apta para concentración y retención; la digital es transversal y en diagonal, rápida y superficial."
+      },
+      {
+        "id": "15",
+        "label": "Implicaciones para la innovación docente",
+        "color": "#f4a261",
+        "role": "Conclusiones",
+        "descripcion": "Conocer los factores de desapego es un activo inestimable para la innovación en Educación Superior (Cordón-García, 2019). Se recomienda adaptar recursos y repositorios digitales y construir perfiles de lectores digitales mediante análisis multivariante."
       }
     ],
     "aristas": [
       {
-        "from": "2",
-        "to": "1",
-        "label": "clasifica y mapea las causas del"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "se manifiesta con fuerza en la"
-      },
-      {
         "from": "1",
         "to": "4",
-        "label": "se agrava debido a la"
+        "label": "contextualizan el"
       },
       {
-        "from": "5",
-        "to": "7",
-        "label": "dispara de inmediato la"
-      },
-      {
-        "from": "7",
-        "to": "3",
-        "label": "provoca la dispersión en la"
+        "from": "2",
+        "to": "4",
+        "label": "agudizan el problema del"
       },
       {
         "from": "3",
+        "to": "4",
+        "label": "matizan el foco del"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se abordó mediante la"
+      },
+      {
+        "from": "5",
         "to": "6",
-        "label": "degenera en una superficial"
+        "label": "aportó el corpus de las"
+      },
+      {
+        "from": "5",
+        "to": "8",
+        "label": "autoevaluó sus"
       },
       {
         "from": "6",
+        "to": "7",
+        "label": "se procesó con el"
+      },
+      {
+        "from": "7",
         "to": "8",
-        "label": "causa la total"
+        "label": "clasificó los"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "cuantificó la"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "relacionó la"
+      },
+      {
+        "from": "7",
+        "to": "11",
+        "label": "sistematizó los"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "reveló la"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "registró la"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "converge en la"
       },
       {
         "from": "9",
-        "to": "5",
-        "label": "minimiza el impacto de los"
-      },
-      {
-        "from": "9",
-        "to": "8",
-        "label": "restaura las condiciones de"
+        "to": "14",
+        "label": "condiciona que el"
       },
       {
         "from": "10",
-        "to": "9",
-        "label": "debe exigir a las plataformas el"
+        "to": "14",
+        "label": "respalda que"
+      },
+      {
+        "from": "11",
+        "to": "15",
+        "label": "fundamenta las"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "desemboca en las"
       }
     ]
   }

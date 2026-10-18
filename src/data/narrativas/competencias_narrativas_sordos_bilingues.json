@@ -1,0 +1,462 @@
+{
+  "id": "competencias_narrativas_sordos_bilingues",
+  "metadata": {
+    "title": "Competencias narrativas de alumnos sordos y oyentes en contextos bilingües de España e Italia",
+    "authors": "Rafaela Gutiérrez-Cáceres y Lilia A. Teruggi",
+    "year": "2022",
+    "journal": "Ocnos 21(1)",
+    "doi": "10.18239/ocnos_2022.21.1.2707",
+    "gancho": "¿Depende la habilidad para escribir una buena historia de si el alumno puede oír o del modelo pedagógico con el que se enseña a redactar?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#457b9d",
+    "colorAlt": "#1d3557",
+    "bg": "from-blue-600/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/sordos-bilinguismo/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-teruggi/200/200",
+      "name": "Dra. Lilia A. Teruggi",
+      "role": "Profesora de Didáctica de la Lengua y Educación Especial, Università degli Studi di Milano-Bicocca"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Lilia A. Teruggi, investigadora en didáctica de la escritura, bilingüismo multimodal y educación del alumnado sordo",
+      "gancho": "Dos escuelas europeas bilingües: en una, los alumnos sordos escriben oraciones simples y rígidas; en la otra, redactan con la misma complejidad y riqueza emocional que sus compañeros oyentes. ¿Qué marca la diferencia?",
+      "contexto": "La composición de textos narrativos exige articular la estructura argumental con dispositivos evaluativos que transmitan la emoción de los personajes. Tradicionalmente se ha asumido que las personas sordas experimentan barreras infranqueables para dominar la sintaxis compleja de las lenguas orales escritas. Este estudio comparativo transnacional enfrenta dos escuelas bilingües de España e Italia donde coexisten escolares sordos y oyentes de 11 a 12 años, utilizando la secuencia silente 'Frog, where are you?' de Mercer Mayer. Los resultados demuestran que las diferencias textuales no se deben a la sordera, sino al enfoque pedagógico implementado en el aula.",
+      "deepDives": [
+        {
+          "id": "gut-apertura-1",
+          "triggerLabel": "El bilingüismo bimodal en la comunidad sorda",
+          "type": "theory",
+          "content": "Para las personas sordas, la lengua de signos (LSE o LIS) opera como su lengua materna natural (L1), mientras que la lengua oral/escrita funciona como una segunda lengua (L2) aprendida a través del canal visual sin retroalimentación auditiva."
+        },
+        {
+          "id": "gut-apertura-2",
+          "triggerLabel": "La hipótesis de interdependencia de Cummins",
+          "type": "theory",
+          "content": "Cummins (2002) postula la existencia de una competencia cognitiva subyacente común: el dominio narrativo consolidado en la L1 (lengua de signos) se transfiere de forma natural a la producción escrita en la L2 si la escuela propicia situaciones auténticas de escritura."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "En muchos sistemas educativos, la enseñanza de la escritura para escolares sordos se reduce a la corrección gramatical y sintáctica mecánica, tratando la escritura como un ejercicio de ortografía y no como una herramienta dialógica de comunicación auténtica para la vida.",
+      "porQueImporta": "Restringir la enseñanza de la lengua escrita a ejercicios formales descontextualizados condena al alumnado sordo al aislamiento comunicativo, impidiendo que desplieguen sus capacidades expresivas e identitarias en el código escrito.",
+      "dataPoints": [
+        "Muestra de 45 estudiantes de 11-12 años: 25 en España (6º Primaria, edad media 11.75 años) y 20 en Italia (1º Media, edad media 11.82 años).",
+        "Submuestra clínica de 5 alumnos sordos prelocutivos bilingües, con grados de pérdida auditiva que van de leve-moderado a profundo, integrados en aulas compartidas.",
+        "Divergencia didáctica: España aplica enseñanza formalista tradicional centrada en la corrección; Italia aplica enfoque textual socioconstructivista a tiempo completo (40 horas con LIS e intérprete).",
+        "Longitud textual: el alumnado italiano produjo significativamente más proposiciones que el español (M = 65.16 vs. 50.42 proposiciones).",
+        "Los escolares sordos superaron a sus pares oyentes en volumen de texto en ambos contextos (M = 64.41 vs. 51.17 proposiciones).",
+        "Hallazgo clave: en Italia no hubo diferencias estadísticas entre alumnos sordos y oyentes en subordinación sintáctica ni en estados internos-mentales."
+      ],
+      "glossary": [
+        {
+          "term": "Dispositivos de valoración",
+          "definition": "Recursos lingüísticos y discursivos (estados mentales, emociones, intensificadores, discurso directo) que indican el punto de vista del narrador y mantienen el interés del lector."
+        },
+        {
+          "term": "Enfoque de textualidad auténtica",
+          "definition": "Metodología didáctica donde la escritura se enseña mediante proyectos colaborativos orientados a destinatarios reales, con talleres explícitos de planificación y revisión."
+        },
+        {
+          "term": "Inducción narrativa con álbum silente",
+          "definition": "Técnica de elicitación lingüística neutral donde los participantes producen un relato escrito a partir de imágenes secuenciales sin texto ('Frog, where are you?')."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "gut-conflicto-1",
+          "triggerLabel": "El contraste institucional entre España e Italia",
+          "type": "data",
+          "content": "En el centro español rige una escolarización combinada con apoyos parciales y enseñanza tradicional de la escritura; en el centro italiano, la Lengua de Signos Italiana (LIS) es materia curricular para todo el alumnado y un intérprete media la comunicación durante toda la jornada (40 horas semanales)."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Inducción con álbum sin palabras y análisis multidimensional",
+      "narrativa": "Los investigadores administraron la tarea en condiciones idénticas en ambos países, pidiendo a los escolares que escribieran la historia de las 24 láminas de 'Frog, where are you?' pensando en un lector infantil real más pequeño:",
+      "detalles": [
+        {
+          "label": "1. Complejidad Sintáctica",
+          "value": "Cómputo de proposiciones totales, oraciones compuestas, porcentaje de coordinación y subordinación sintáctica (causales, temporales, relativas)."
+        },
+        {
+          "label": "2. Estructura Narrativa Global",
+          "value": "Puntuación de componentes canónicos del relato: introducción del escenario, planteamiento del conflicto (fuga de la rana), episodios de búsqueda y resolución final."
+        },
+        {
+          "label": "3. Dispositivos de Valoración (Losh & Capps)",
+          "value": "Codificación de estados internos (cognitivos y afectivos: miedo, enfado, sorpresa) y captadores de atención social (onomatopeyas, diálogo directo, exclamaciones)."
+        }
+      ],
+      "limitaciones": [
+        "Muestra incidental pequeña, especialmente en el subgrupo de escolares sordos prelocutivos (n=5), lo que exige prudencia al generalizar.",
+        "No se midió formalmente el nivel de fluidez en lengua de signos de cada participante individual."
+      ],
+      "reflexion": "¿Por qué los alumnos sordos de la escuela italiana utilizaron la misma cantidad de palabras sobre 'emociones y pensamientos' que sus compañeros que pueden oír?",
+      "deepDives": [
+        {
+          "id": "gut-viaje-1",
+          "triggerLabel": "La neutralidad metodológica de Mercer Mayer",
+          "type": "method",
+          "content": "El libro de imágenes 'Frog, where are you?' elimina las interferencias de la lectura previa, garantizando que todo el vocabulario y la sintaxis producidos proceden enteramente de la competencia narrativa del escolar."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: La didáctica derrota a la barrera auditiva",
+      "narrativa": "El análisis comparativo desarmó el mito de la incompetencia narrativa inherente a la sordera:",
+      "hallazgos": [
+        {
+          "label": "Estructura narrativa universal",
+          "value": "Todos los escolares (sordos y oyentes) poseen el esquema mental del relato completo, demostrando que la comprensión de historias no depende del canal auditivo. Ej.: Sin diferencias (M = 7.39 España vs. 7.42 Italia)."
+        },
+        {
+          "label": "Subordinación sintáctica en alumnos sordos",
+          "value": "Los alumnos sordos italianos superaron a sus pares españoles en subordinación, alcanzando niveles idénticos a los de los oyentes italianos gracias a la práctica de talleres de revisión. Ej.: 28.49% en Italia vs. 24.30% en España."
+        },
+        {
+          "label": "Dispositivos de valoración y mundo interno",
+          "value": "En España los sordos quedaron rezagados en proyectar estados emocionales (10.6% vs. 16.2%); en Italia los sordos alcanzaron un extraordinario 17.49%, igualando a los oyentes (17.92%). Ej.: 36.02% Italia vs. 28.46% España."
+        },
+        {
+          "label": "Mayor volumen proposicional en alumnos sordos",
+          "value": "Los estudiantes sordos mostraron una alta motivación para detallar cada viñeta, desmintiendo que tiendan a redactar textos telegráficos o empobrecidos. Ej.: M = 64.41 sordos vs. 51.17 oyentes."
+        }
+      ],
+      "dataPoints": [
+        "Oraciones compuestas: 83.02% del total de producciones analizadas en ambos países.",
+        "Captadores de atención (recurso de atención social): 5.47% en Italia frente a 2.30% en España.",
+        "En España los sordos recurrieron masivamente a la coordinación aditiva (y... y... luego), mientras en Italia dominaron las causales y temporales.",
+        "En la escuela italiana, la LIS como materia curricular para todo el alumnado (sordos y oyentes) y la presencia continua del intérprete normalizaron la lengua escrita como un puente cultural compartido."
+      ],
+      "reflexion": "Cuando la escuela trata la escritura como un acto vivo de comunicación entre personas y no como una prueba gramatical, la sordera deja de ser un techo de cristal pedagógico.",
+      "deepDives": [
+        {
+          "id": "gut-revelacion-1",
+          "triggerLabel": "El valor pedagógico del destinatario infantil real",
+          "type": "data",
+          "content": "Decir a los estudiantes que escribían para un niño más pequeño activó de inmediato recursos de enganche afectivo y explicaciones detalladas que no aparecen cuando se escribe para la calificación abstracta del profesor."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Del déficit clínico a la pedagogía inclusiva de la textualidad",
+      "narrativa": "Las autoras analizan las implicaciones políticas y didácticas de la investigación:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Modelo Socioconstructivista de la Escritura (Bereiter & Scardamalia, Flower & Hayes): Escribir no es traducir pensamientos a letras; es un proceso iterativo de resolución de problemas retóricos."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Estudios de Alfabetización en Sordera (Swanwick, Scott & Hoffmeister): La competencia en lengua de signos fortalece la representación mental de la macroestructura textual escrita."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Enfoque Textual de la Escuela Italiana: La escritura colaborativa y la revisión colectiva en gran grupo andamian las dificultades sintácticas individuales."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Enfoque médico-rehabilitador vs. Enfoque bilingüe sociocultural: El modelo tradicional asume que la falta de audición impide la sintaxis compleja; el modelo bilingüe demuestra que una buena didáctica suple la falta de oído."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Ejercicios mecánicos de lengua vs. Escritura situada: Rellenar huecos en fichas gramaticales aísla al sordo; escribir cuentos para la biblioteca escolar lo empodera."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "La muestra, incidental y muy pequeña (solo 5 alumnos sordos), no permite generalizar; se requieren muestras internacionales más amplias y el estudio de otros enfoques escolares bilingües."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "No se evaluó la relación entre la calidad de los textos escritos y el nivel de competencia en lengua de signos de cada participante."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las aulas con alumnado sordo Abandonar el enfoque gramaticalista puro e instaurar talleres de producción textual auténtica, escritura colaborativa y revisión entre iguales."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la formación docente en Educación Especial Capacitar a los maestros de audición y lenguaje en didáctica de la composición escrita y no solo en logopedia articulatoria."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para los modelos escolares bilingües Incorporar la lengua de signos como materia curricular compartida y contar con mediadores y profesores sordos en el aula ordinaria."
+        },
+        {
+          "label": "Tabla",
+          "value": "Dimensión Textual | España (Oyentes) | España (Sordos) | Italia (Oyentes) | Italia (Sordos)\nProposiciones Totales | 44.34 | 56.50 | 58.00 | 72.33\nOraciones Complejas (%) | 83.23% | 80.23% | 86.39% | 82.24%\nSubordinación Sintáctica (%) | 25.87% | 24.30% | 28.72% | 28.49% (Igualados con oyentes)\nEstructura del Relato (0-8) | 6.78 | 8.00 | 7.52 | 7.33 (Sin brecha entre grupos)\nDispositivos de Valoración (%) | 33.96% | 22.97% | 39.26% | 33.14%\nEstados Internos-Mentales (%) | 16.25% | 10.61% (Brecha) | 17.92% | 17.49% (Sin brecha)"
+        }
+      ],
+      "reflexion": "La sordera está en el oído, pero la capacidad de conmover y fascinar con una historia escrita reside enteramente en la mente y en la escuela que la alimenta.",
+      "deepDives": [
+        {
+          "id": "gut-marco-1",
+          "triggerLabel": "Hacia una didáctica de la revisión compartida",
+          "type": "theory",
+          "content": "En la escuela italiana, los textos de los alumnos sordos se proyectaban en la pizarra digital para ser comentados y enriquecidos por toda la clase, convirtiendo la corrección de errores en una fiesta metalingüística colectiva."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿En qué medida las competencias textuales y narrativas escritas de escolares sordos y oyentes dependen de su condición auditiva o del modelo didáctico de enseñanza implementado en la escuela?",
+      "conclusion": "No existen diferencias significativas en la comprensión y dominio de la macroestructura narrativa del relato entre sordos y oyentes en ningún país. Los escolares de la escuela italiana escriben textos más extensos, con mayor índice de subordinación y más dispositivos de valoración que los españoles. En el contexto italiano, los alumnos sordos igualan plenamente a sus compañeros oyentes en subordinación sintáctica y proyección de estados internos. Las diferencias en calidad textual se explican fundamentalmente por las prácticas pedagógicas y no por el grado de pérdida auditiva de los participantes. Sustituir las tareas mecánicas de corrección gramatical aislada por proyectos de escritura en situaciones comunicativas auténticas. Promover la presencia de la lengua de signos y de profesionales sordos nativos en las escuelas ordinarias con escolarización combinada. Fomentar talleres dialógicos de planificación y revisión textual en pequeños grupos heterogéneos de sordos y oyentes. Enseñar explícitamente el uso de dispositivos de valoración afectiva para enriquecer la expresividad de los relatos escritos. Cuando la pedagogía abre caminos en lugar de levantar muros ortográficos, las manos que signan escriben historias tan profundas como las que pronuncia cualquier voz.",
+      "formalRef": "Rafaela Gutiérrez-Cáceres y Lilia A. Teruggi. (2022). Competencias narrativas de alumnos sordos y oyentes en contextos bilingües de España e Italia. Ocnos 21(1). https://doi.org/10.18239/ocnos_2022.21.1.2707"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué ocurrió en el contexto escolar italiano al comparar la subordinación sintáctica y los estados internos de los alumnos sordos frente a sus compañeros oyentes?",
+          "options": [
+            "Los alumnos sordos no pudieron redactar oraciones compuestas",
+            "No hubo diferencias significativas, alcanzando niveles prácticamente idénticos",
+            "Los alumnos oyentes triplicaron la producción de los sordos",
+            "Los alumnos sordos solo utilizaron dibujos sin palabras"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Cuál fue el álbum silente sin texto utilizado como instrumento neutral de inducción narrativa en ambos países?",
+          "options": [
+            "El patito feo",
+            "Frog, where are you? (Mercer Mayer)",
+            "Don Quijote de la Mancha",
+            "Caperucita Roja"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "A la luz del éxito del modelo italiano, ¿qué cambio inmediato introducirías en un aula de Primaria con un alumno sordo integrado para pasar de una enseñanza formalista a una basada en la textualidad auténtica?"
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Bilingüismo multimodal en la sordera",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Situación sociolingüística inclusiva donde la lengua de signos funciona como primera lengua (L1) natural y la lengua oral y escrita mayoritaria se adquiere como segunda lengua (L2) a través de mediación bimodal estructurada."
+      },
+      {
+        "id": "2",
+        "label": "Interdependencia lingüística (Cummins)",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Principio formulado por Jim Cummins que postula que las competencias conceptuales y discursivas desarrolladas en la lengua de signos se transfieren favorablemente a la producción escrita y a la comprensión lectora en L2."
+      },
+      {
+        "id": "3",
+        "label": "Modelos didácticos en conflicto",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Tensión pedagógica entre el modelo formalista tradicional centrado en la gramática descontextualizada y la corrección ortográfica frente al modelo socioconstructivista enfocado en la textualidad auténtica y la producción guiada."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Comparar narraciones España vs Italia",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Evaluar y comparar la producción narrativa escrita de alumnado sordo y oyente en centros bilingües de España e Italia para determinar si las diferencias surgen del déficit auditivo biológico o de la metodología docente escolar."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Analizar sintaxis, trama y emoción",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Examinar de manera sistemática la complejidad sintáctica proposicional, la estructura narrativa canónica del relato y la incorporación de marcadores evaluativos y estados mentales internos en los textos producidos por el alumnado."
+      },
+      {
+        "id": "6",
+        "label": "Muestra transnacional de 45 escolares",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Muestra transnacional de 45 escolares (25 en España, edad media 11.75 años, y 20 en Italia, edad media 11.82 años), que incorpora a cinco alumnos sordos prelocutivos severos o profundos integrados plenamente en aulas ordinarias."
+      },
+      {
+        "id": "7",
+        "label": "Inducción narrativa con Frog, where are you?",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Uso del álbum ilustrado sin texto 'Frog, where are you?' de Mercer Mayer (24 láminas) como inductor neutral, pidiendo al alumnado redactar por escrito la historia completa para que la lea un niño más pequeño en su colegio."
+      },
+      {
+        "id": "8",
+        "label": "Modelo multidimensional de análisis textual",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Protocolo multidimensional de codificación textual desarrollado por Teruggi y Gutiérrez-Cáceres que cuantifica proposiciones, oraciones compuestas subordinadas, macroestructura de la historia y léxico de estados cognitivos."
+      },
+      {
+        "id": "9",
+        "label": "Estructura narrativa dominada por todos",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Ausencia de diferencias significativas en la estructura del relato entre países y grupos (medias de 7.39 y 7.42 sobre 8 puntos): la macroestructura narrativa es un esquema cognitivo universal e independiente del canal auditivo."
+      },
+      {
+        "id": "10",
+        "label": "Superioridad de longitud y subordinación en Italia",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "El alumnado de la escuela italiana produjo textos con mayor extensión proposicional global (media de 65.16 proposiciones) y un índice significativamente más alto de oraciones subordinadas complejas que sus iguales de España."
+      },
+      {
+        "id": "11",
+        "label": "Igualdad sordos-oyentes en la escuela italiana",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "El alumnado sordo italiano alcanzó niveles de subordinación sintáctica (28.49%) y uso de términos de estados internos mentales (17.49%) equivalentes a sus compañeros oyentes, superando la brecha registrada en las aulas españolas."
+      },
+      {
+        "id": "12",
+        "label": "Mayor volumen proposicional en escolares sordos",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "En ambos países, los escolares sordos redactaron narraciones con mayor volumen proposicional promedio que los oyentes (64.41 frente a 51.17 proposiciones), evidenciando alta motivación y exhaustividad descriptiva en su escritura."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: La didáctica supera la limitación biológica",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Los hallazgos demuestran que las dificultades sintácticas en personas sordas no son un destino biológico ineludible, sino el resultado directo de pedagogías formalistas que segregan la lengua escrita de situaciones comunicativas vivas."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: El poder de la cotutoría con LIS",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "La presencia estructural en el aula de profesorado sordo nativo y la cotutoría bilingüe en Lengua de Signos Italiana (LIS) crea un andamiaje discursivo indispensable que legitima la identidad semiótica y el aprendizaje léxico."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Muestra incidental de sordos (n=5)",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "El reducido número de participantes sordos prelocutivos bilingües (n = 5) derivado de la dificultad de acceso a estas comunidades limita la generalización estadística directa, requiriendo muestras internacionales más amplias."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Textualidad situada para la inclusión",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "La plena inclusión y alfabetización del alumnado sordo exige transformar la enseñanza de la escritura en una práctica social dialogada, compartida con iguales oyentes e impulsada por una metodología constructivista bimodal auténtica."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se fundamenta en la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se ve condicionado por los"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "proporciona el marco para"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "justifica la necesidad de"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se ejecuta sobre la"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se operativiza mediante la"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "es procesada con el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "aporta los textos al"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "pone al descubierto la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "demuestra la clara"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "constata la plena"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "revela el inesperado"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "aporta evidencia a la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "sustenta la tesis de que"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "ratifica el valor de la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "orienta las propuestas de la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "culmina promoviendo la"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "reconoce como límite la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "delimita el alcance real de la"
+      },
+      {
+        "from": "12",
+        "to": "16",
+        "label": "confirma el potencial para la"
+      },
+      {
+        "from": "2",
+        "to": "16",
+        "label": "se concreta en la"
+      }
+    ]
+  }
+}

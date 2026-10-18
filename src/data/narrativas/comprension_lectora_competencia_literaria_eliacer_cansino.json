@@ -1,0 +1,377 @@
+{
+  "id": "comprension_lectora_competencia_literaria_eliacer_cansino",
+  "metadata": {
+    "id": "comprension_lectora_competencia_literaria_eliacer_cansino",
+    "title": "De la comprensión lectora a la competencia literaria a través de la obra de Eliacer Cansino",
+    "authors": [
+      "Manuel Francisco Romero-Oliva",
+      "Ester Trigo-Ibáñez",
+      "Pablo Moreno-Verdulla"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "3",
+    "pages": "68-85",
+    "doi": "10.18239/ocnos_2018.17.3.1776",
+    "keywords": [
+      "comprensión lectora",
+      "competencia literaria",
+      "intertextualidad",
+      "educación secundaria",
+      "Eliacer Cansino"
+    ],
+    "abstract": "Estudio empírico con 264 estudiantes de 3º de ESO en Cádiz. Evalúa la relación entre comprensión y competencia literaria mediante textos de Eliacer Cansino con marcas intertextuales de clásicos españoles, demostrando que el déficit lector bloquea el acceso al hecho literario."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Es la comprensión lectora el umbral indispensable que permite a un estudiante de secundaria acceder a la belleza y sentido profundo del texto literario? Este estudio analiza a 264 alumnos de 3º de ESO en Andalucía para demostrar cómo la falta de comprensión lectora clausura el disfrute de la literatura.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva didáctica para examinar el estudio en ESO:",
+        "opciones": [
+          {
+            "id": "intertextual",
+            "texto": "Enfoque intertextual: la obra de Eliacer Cansino como mediación"
+          },
+          {
+            "id": "psicometrica",
+            "texto": "Evaluación empírica: cuestionario con marcas y correlaciones"
+          },
+          {
+            "id": "didactica",
+            "texto": "Didáctica de la lengua: cambio del historicismo al lector competente"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "La enseñanza tradicional de la literatura en Secundaria insiste en transmitir contenidos historicistas y memorísticos desvinculados de la vivencia del lector. Los adolescentes no conectan con los clásicos porque carecen de las destrezas de comprensión necesarias para descodificar las marcas y alusiones intertextuales del texto.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Cuál es la consecuencia directa de un bajo nivel de comprensión lectora en el aula de literatura?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Impide al alumno reconocer las referencias intertextuales y captar el sentido metafórico, reduciendo la literatura a ruido ininteligible.",
+            "correcta": true,
+            "explicacion": "Exacto: la comprensión lectora es la condición previa e indispensable para que pueda florecer la competencia literaria e interpretativa."
+          },
+          {
+            "id": "c2",
+            "texto": "No produce ninguna consecuencia porque la literatura se aprecia por pura intuición sin necesidad de comprender oraciones.",
+            "correcta": false,
+            "explicacion": "La evidencia demuestra que los déficits en comprensión básica impiden el acceso al nivel simbólico e interpretativo."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Los autores diseñaron un cuestionario estandarizado basado en fragmentos de la novela \"El misterio Velázquez\" y otras obras de Eliacer Cansino que albergan alusiones intertextuales al Siglo de Oro. Evaluaron a 264 escolares de 3º de ESO en centros públicos y concertados de la bahía de Cádiz mediante muestreo bietápico.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestreo bietápico",
+            "detalle": "264 estudiantes de 3º de ESO en centros educativos de la bahía de Cádiz."
+          },
+          {
+            "fase": "Diseño instrumental",
+            "detalle": "Cuestionario ad hoc con textos de Cansino con marcas de Velázquez y el Siglo de Oro."
+          },
+          {
+            "fase": "Medición de variables",
+            "detalle": "Evaluación simultánea de comprensión literal/inferencial y competencia literaria/intertextual."
+          },
+          {
+            "fase": "Análisis correlacional",
+            "detalle": "Correlaciones bivariadas y contrastes de medias según niveles lectores."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "Los resultados confirmaron una correlación positiva altamente significativa entre la comprensión lectora y la competencia literaria. Aquellos alumnos que fallan en la comprensión literal son totalmente incapaces de identificar el intertexto lector ni apreciar la ironía o las figuras poéticas.",
+      "datos_clave": [
+        "Muestra empírica de 264 estudiantes de 3º de Educación Secundaria Obligatoria.",
+        "Correlación directa y robusta (p < .001) entre comprensión y competencia literaria.",
+        "Eficacia demostrada de la LIJ juvenil de calidad (Eliacer Cansino) como puente mediador.",
+        "Urgencia de superar el modelo memorístico de historia de la literatura en ESO."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "La investigación se fundamenta en las teorías de la recepción y educación literaria de Teresa Colomer y Antonio Mendoza Fillola, el concepto de intertexto lector de Mendoza y la teoría de la mediación de la LIJ.",
+      "referencias_clave": [
+        "Mendoza Fillola (2003)",
+        "Colomer (1991)",
+        "Cansino (1998)",
+        "Mata (2011)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "No se puede enseñar el canon clásico por imposición si antes no se consolidan las herramientas de comprensión: la obra de Eliacer Cansino demuestra ser un puente maestro que conecta el universo adolescente con el patrimonio cultural universal.",
+      "hallazgo_central": "La comprensión lectora actúa como filtro determinante para el desarrollo de la competencia literaria: sin comprensión profunda, el acceso al hecho literario queda completamente clausurado."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los conceptos didácticos con su papel en la investigación:",
+          "pares": [
+            {
+              "concepto": "Intertexto lector",
+              "definicion": "Red de lecturas y experiencias previas que se activa al interpretar una alusión."
+            },
+            {
+              "concepto": "Marca literaria",
+              "definicion": "Indicio textual que remite a una obra, personaje o tópico clásico de la tradición."
+            },
+            {
+              "concepto": "LIJ como puente mediador",
+              "definicion": "Ficción contemporánea que allana el acceso simbólico a los clásicos universales."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Comprensión Lectora y Competencia Literaria en Secundaria",
+      "descripcion": "Articulación empírica y didáctica de la relación causal entre comprensión lectora, intertexto y competencia literaria.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Comprensión y Competencia Literaria",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo fundamental: comprobar y correlacionar empíricamente en qué medida el nivel de comprensión lectora básica e inferencial condiciona y limita el acceso y desarrollo de la competencia literaria en alumnado de 3º de ESO."
+        },
+        {
+          "id": "2",
+          "label": "Crisis de la Educación Literaria Historicista",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco contextual que denuncia el agotamiento y anacronismo del modelo memorístico de historia de la literatura centrado en datos biográficos y cronologías abstractas que aleja sistemáticamente a los adolescentes del disfrute lector."
+        },
+        {
+          "id": "3",
+          "label": "Concepto de Intertexto Lector",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Constructo teórico de Antonio Mendoza Fillola que define el repertorio integrado de lecturas previas, saberes culturales, vivencias y esquemas de recepción que el lector moviliza activamente ante la polisemia de un texto nuevo."
+        },
+        {
+          "id": "4",
+          "label": "La LIJ como Puente Mediador hacia Clásicos",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Estrategia pedagógica que postula a la Literatura Infantil y Juvenil de alta calidad estética como un andamiaje accesible y motivador para tender puentes significativos y afectivos hacia las grandes obras del canon clásico."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 264 Alumnos de 3º de ESO",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Muestra empírica representativa de 264 estudiantes de tercer curso de Educación Secundaria Obligatoria evaluados mediante un riguroso diseño muestral bietápico en centros públicos y concertados de la bahía de Cádiz."
+        },
+        {
+          "id": "6",
+          "label": "Cuestionario Basado en Eliacer Cansino",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Instrumento evaluativo ad hoc diseñado a partir de fragmentos narrativos seleccionados de la obra de Eliacer Cansino (El misterio Velázquez) provistos de marcas intertextuales explícitas al Siglo de Oro español."
+        },
+        {
+          "id": "7",
+          "label": "Análisis Correlacional y Factorial",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Tratamiento cuantitativo de datos para calcular coeficientes de correlación de Pearson y contrastes bivariados entre puntuaciones de comprensión literal/inferencial y reconocimiento analítico de marcas literarias."
+        },
+        {
+          "id": "8",
+          "label": "Fuerte Correlación Positiva Significativa",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo empírico contundente: correlación lineal directa y robusta (p < .001) entre la capacidad de comprender textos funcionalmente y la destreza para interpretar su dimensión literaria simbólica y poética."
+        },
+        {
+          "id": "9",
+          "label": "Bloqueo del Acceso por Déficit Lector",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación alarmante de que los estudiantes situados en los niveles inferiores de comprensión literal resultan totalmente incapaces de identificar citas intertextuales o interpretar metáforas e ironías en el texto."
+        },
+        {
+          "id": "10",
+          "label": "Validación de Cansino como Recurso",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Verificación empírica del extraordinario valor motivador y formativo de la narrativa de Eliacer Cansino para despertar el interés por la pintura de Velázquez y la atmósfera barroca en el alumnado adolescente de Secundaria."
+        },
+        {
+          "id": "11",
+          "label": "La Comprensión como Condición Sine Qua Non",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión didáctica que refuta la creencia romántica de que la apreciación poética brota por intuición espiritual, consagrando a la comprensión lectora funcional como el cimiento cognitivo previo imprescindible."
+        },
+        {
+          "id": "12",
+          "label": "Fracaso del Manual Transmisivo Tradicional",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Crítica frontal a la persistencia del libro de texto escolar transmisivo que evalúa contenidos teóricos memorísticos sin cerciorarse de si el alumnado comprende el sentido real de los fragmentos literarios leídos."
+        },
+        {
+          "id": "13",
+          "label": "Giro hacia la Pedagogía Centrada en el Lector",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión imperativa: la enseñanza de la literatura debe sustituir las programaciones cronológicas rígidas por itinerarios de lectura dialógicos que sitúen la experiencia comprensiva y estética del alumno en el centro del aula."
+        },
+        {
+          "id": "14",
+          "label": "Articulación Obligatoria entre Primaria y ESO",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta curricular para fortalecer deliberadamente el entrenamiento en estrategias de comprensión inferencial en el salto de Primaria a Secundaria, evitando que la brecha lectora bloquee el currículo humanístico."
+        },
+        {
+          "id": "15",
+          "label": "Democratización del Placer Estético",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión ética: capacitar a todo el alumnado en comprensión profunda es la única vía legítima para democratizar el acceso al disfrute emancipador del patrimonio literario y cultural frente a privilegios elitistas."
+        },
+        {
+          "id": "16",
+          "label": "Foco en Contexto Andaluz Específico",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación geográfica y curricular circunscrita a una comarca provincial andaluza concreta, aconsejando extender el diseño muestral a otras comunidades autónomas con distintas trayectorias de planes de fomento lector."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "responde a la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se valida en muestra de"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "exige activar el"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "se dinamiza mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se evalúa con"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "aporta datos al"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "demuestra una"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "confirma el"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "evidencia la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "fundamenta que"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "ratifica la tesis de"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "evidencia el"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "impulsa el"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "hace urgente el"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "demanda la"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "culmina en la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "hace posible la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "presenta como condición de borde"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "acotada por su"
+        },
+        {
+          "from": "4",
+          "to": "10",
+          "label": "se materializa en"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "se refleja en"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Romero-Oliva, Trigo-Ibáñez y Moreno-Verdulla demuestran con rigor científico que no se puede pedir a un alumno que admire el misterio de Las Meninas si no le hemos enseñado antes a entender las palabras que lo nombran.",
+      "preguntas_guiadas": [
+        "¿Cómo puede la narrativa juvenil contemporánea servir de pasarela hacia los grandes clásicos de la literatura en Secundaria?",
+        "¿Qué actividades de aula permiten comprobar si los alumnos reconocen las alusiones intertextuales en los relatos que leen?"
+      ]
+    }
+  }
+}

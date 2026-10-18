@@ -1,0 +1,434 @@
+{
+  "id": "albumes_sin_palabras_revision_teorica",
+  "metadata": {
+    "title": "Álbumes sin palabras: revisión teórica de los artículos publicados entre 1975-2020",
+    "authors": "Francisco Antonio Martínez-Carratalá",
+    "year": "2022",
+    "journal": "Ocnos 21(1)",
+    "doi": "10.18239/ocnos_2022.21.1.2746",
+    "gancho": "¿Qué investiga realmente la comunidad científica internacional cuando estudia los álbumes ilustrados sin texto?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a9d8f",
+    "colorAlt": "#264653",
+    "bg": "from-teal-900/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/albumes-sin-palabras/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-carratala/200/200",
+      "name": "Dr. Francisco Antonio Martínez-Carratalá",
+      "role": "Investigador en Didáctica de la Lengua y Literatura, Universidad de Alicante"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Francisco Antonio Martínez-Carratalá, especialista en educación literaria y corpus bibliométrico",
+      "gancho": "Durante 45 años de ciencia indexada, un único libro infantil protagonizó más de un tercio de todos los estudios sobre álbumes sin palabras del planeta. ¿Por qué la academia se obsesionó con 'Frog, where are you?'?",
+      "contexto": "El álbum sin palabras (wordless picturebook o silent book) ha transitado de ser una rareza bibliográfica a convertirse en un fenómeno editorial de alcance mundial. Sin embargo, persistía una laguna fundamental: ¿ha respondido la investigación empírica a este auge estético, o el soporte se ha utilizado principalmente como un mero test clínico para evaluar trastornos del lenguaje? Esta revisión cartografía 45 años de ciencia (1975-2020) en Scopus y Web of Science analizando 228 artículos en lengua inglesa.",
+      "deepDives": [
+        {
+          "id": "car-apertura-1",
+          "triggerLabel": "La grafía unificada 'Picturebook'",
+          "type": "theory",
+          "content": "Siguiendo a Lawrence Sipe (2001), escribir 'picturebook' sin espacio no es un descuido tipográfico, sino una declaración teórica: remarca que el texto y la imagen forman una unidad semiótica compuesta indisociable."
+        },
+        {
+          "id": "car-apertura-2",
+          "triggerLabel": "El corpus global en Zenodo",
+          "type": "data",
+          "content": "Para garantizar la reproducibilidad y el acceso abierto, Martínez-Carratalá depositó la base de datos completa de los 228 artículos analizados, con sus metadatos y enlaces permanentes, en el repositorio abierto Zenodo."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Persiste en la sociedad el prejuicio reduccionista de que un libro sin letras es 'fácil' o un simple juguete para bebés. La revisión revela un desequilibrio epistémico aún mayor: las disciplinas biomédicas y de psicología clínica se han apropiado del álbum silente utilizándolo como instrumento de diagnóstico de afasias y dislalias, desplazando su valor estético y literario.",
+      "porQueImporta": "Si la investigación limita el álbum silente a una herramienta de elicitation oral para pruebas psicométricas, la didáctica escolar pierde la oportunidad de cultivar la lectura visual compleja, el pensamiento metaficcional y la empatía narrativa.",
+      "dataPoints": [
+        "Periodo analizado: 45 años ininterrumpidos de literatura científica indexada (1975 a 2020).",
+        "Búsqueda inicial: 510 resultados en Scopus y 185 en Web of Science utilizando fórmulas booleanas avanzadas.",
+        "Muestra final filtrada: 228 artículos de investigación tras depurar duplicados y aplicar criterios de exclusión.",
+        "Crecimiento exponencial: el 80.70% de todos los artículos de la historia se publicaron entre 2006 y 2020 (184 artículos).",
+        "Monopolio de Mayer: 'Frog, where are you?' (1969) aparece en 80 investigaciones (35.09% del corpus total analizado) y en 65 de ellas como único instrumento.",
+        "Segunda obra más empleada: 'Frog goes to dinner' (1977), también de Mercer Mayer, con 17 investigaciones, por delante de otros títulos del mismo autor."
+      ],
+      "glossary": [
+        {
+          "term": "Elicitación narrativa",
+          "definition": "Técnica psicológica y lingüística consistente en obtener una narración oral espontánea de un sujeto utilizando una secuencia de imágenes como estímulo estandarizado."
+        },
+        {
+          "term": "Silent book / Wordless picturebook",
+          "definition": "Narración visual estructurada en páginas secuenciales donde el relato se despliega exclusivamente mediante códigos icónicos y composición gráfica."
+        },
+        {
+          "term": "Teoría de la Mente (ToM)",
+          "definition": "Habilidad sociocognitiva para atribuir pensamientos, deseos, intenciones y emociones a personajes ficticios a partir de sus expresiones ilustradas."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "car-conflicto-1",
+          "triggerLabel": "¿Por qué el monopolio de 'Frog, where are you?'?",
+          "type": "theory",
+          "content": "La revisión sitúa en Omotoso y Lamme (1979) la primera investigación que empleó los álbumes de Mercer Mayer, replicada después en el ámbito clínico (Muñoz et al., 2003; Heilmann et al., 2016), lo que consolidó estos títulos como instrumento estándar de elicitación narrativa y comparación entre estudios."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Protocolo de revisión sistemática bibliométrica",
+      "narrativa": "Martínez-Carratalá articuló un procedimiento riguroso de rastreo documental en las dos principales bases de datos mundiales:",
+      "detalles": [
+        {
+          "label": "1. Ecuación booleana combinada",
+          "value": "Consulta parametrizada en Scopus y WoS: (('WORDLESS PICTUREBOOK*') OR ('WORDLESS PICTURE BOOK*')) contrastada con términos del Tesauro ERIC y 'Silent Book*'."
+        },
+        {
+          "label": "2. Criterios rigurosos de elegibilidad",
+          "value": "Inclusión de artículos en lengua inglesa donde el álbum silente fuera eje central o herramienta empírica; exclusión de menciones colaterales y obras no-libro."
+        },
+        {
+          "label": "3. Depuración y segmentación cronológica",
+          "value": "Filtrado con EndNote y Mendeley, corrección de años de publicación en cabecera y partición en 4 olas históricas: 1975-2005, 2006-2012, 2013-2019 y 2020."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Auge bibliométrico y concentración temática",
+      "narrativa": "Los hallazgos evidencian una mutación profunda en los intereses de la comunidad investigadora internacional:",
+      "hallazgos": [
+        {
+          "label": "Despegue contemporáneo: de solo 44 artículos en los primeros 31 años (1975-2005) a 28 artículos publicados en un único año (2020), reflejando un interés creciente que se acentúa desde 2013.",
+          "value": ""
+        },
+        {
+          "label": "Revistas dominantes: lideran la producción 'Language, Speech, and Hearing Services in Schools' (14) y 'Reading Teacher' (12), seguidas de 'First Language' (8) y 'Journal of Early Childhood Literacy' (7), confirmando el peso del ámbito del lenguaje y la educación.",
+          "value": ""
+        },
+        {
+          "label": "La irrupción literaria: los estudios sobre alfabetización visual y migración en torno a 'The Arrival' (Shaun Tan) y títulos como 'Tuesday' (David Wiesner) abren el análisis didáctico frente al uso clínico del formato.",
+          "value": ""
+        },
+        {
+          "label": "Áreas de aplicación: predomina la elicitación narrativa en población con dificultades del lenguaje (autismo, trastorno del desarrollo del lenguaje y afasia) y la investigación sobre bilingüismo y producción lingüística infantil.",
+          "value": ""
+        }
+      ],
+      "reflexion": "El libro sin texto fue durante décadas una herramienta de laboratorio clínico antes de ser reconocido como una obra de arte literaria mayor.",
+      "deepDives": [
+        {
+          "id": "car-revelacion-1",
+          "triggerLabel": "La exclusión deliberada de 'The Arrival'",
+          "type": "data",
+          "content": "El autor separó metodológicamente 7 artículos centrados exclusivamente en la monumental novela gráfica silente de Shaun Tan por pertenecer formalmente al cómic y no al libro-álbum tradicional."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: De la medición clínica a la alfabetización multimodal",
+      "narrativa": "El artículo debate el futuro del campo y la necesidad de reequilibrar la investigación:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Semiótica multimodal (Kress, Painter, Bateman): Necesidad de evaluar cómo los lectores construyen significado integrando ritmo de página, encuadre y vectores visuales."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Lector activo y competencias previas: al carecer de texto que lo guíe, el álbum silente exige un lector que cohesione la secuencia y realice inferencias (van der Linden, 2015; Nikolajeva, 2010; Bosch y Durán, 2009)."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Educación inclusiva y plurilingüismo: Potencial extraordinario del formato para aulas con alumnado migrante o que no domina la lengua de instrucción formal."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Instrumentalización patológica vs. Goce estético: Crítica al uso utilitarista del libro silente como simple 'lámina de examen' psicopedagógico sin mediación literaria."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Hegemonía lingüística anglosajona: Advertencia sobre el sesgo derivado de indexar casi exclusivamente publicaciones en inglés, invisibilizando la rica tradición francófona, hispana e italiana."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El corpus no incluye monografías especializadas, tesis doctorales ni capítulos de libro, donde abunda la reflexión teórica en Humanidades."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "La revisión describe títulos, revistas y temáticas, pero no profundiza en un análisis multimodal de las obras ni en las respuestas lectoras, como reclaman Painter et al. (2013) y Moya-Guijarro (2014)."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la selección bibliográfica en la escuela Incorporar álbumes silentes contemporáneos de alta complejidad narrativa en Educación Primaria y Secundaria, superando el cliché prelector."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la formación de profesorado Instruir en gramática visual y estrategias de indagación dialogada para que los docentes no 'traduzcan' las imágenes a texto plano de inmediato."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las agendas de investigación Financiar proyectos empíricos que investiguen la recepción estética y la respuesta lectora en aulas heterogéneas con metodologías mixtas."
+        },
+        {
+          "label": "Tabla",
+          "value": "Periodo Histórico | N.º Artículos | FA (%) | Media anual (M)\n1975-2005 (31 años) | 44 | 19.30 | 1.42\n2006-2012 (7 años) | 52 | 22.81 | 7.43\n2013-2019 (7 años) | 104 | 45.61 | 14.86\n2020 (1 año) | 28 | 12.28 | 28.00\nNota: N=228"
+        }
+      ],
+      "reflexion": "Reivindicar el álbum sin palabras es defender que las imágenes poseen un lenguaje propio capaz de interpelar las profundidades del pensamiento humano.",
+      "deepDives": [
+        {
+          "id": "car-marco-1",
+          "triggerLabel": "El fenómeno Silent Books de IBBY",
+          "type": "data",
+          "content": "El proyecto internacional iniciado en Lampedusa para acoger a niños refugiados mediante bibliotecas de libros silentes impulsó decisivamente la investigación educativa tras 2012."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Qué tendencias bibliométricas, temáticas y metodológicas han caracterizado la investigación científica sobre álbumes sin palabras durante el último medio siglo?",
+      "conclusion": "El volumen de artículos creció exponencialmente, concentrando entre 2006 y 2020 el 80.70% de toda la producción científica indexada. Un solo álbum clásico de 1969 ('Frog, where are you?') aglutina más de un tercio de los artículos publicados a escala global (80 investigaciones, 35.09%). Las revistas del ámbito del lenguaje y del habla superan ampliamente a las de teoría literaria en volumen de publicaciones. Obras y estudios del siglo XXI (Arizpe, Coderre, entre otros) han impulsado el viraje hacia el análisis del pensamiento crítico y la alfabetización visual. Romper la endogamia metodológica diversificando el corpus de libros silentes analizados en las investigaciones empíricas. Promover alianzas interdisciplinares entre especialistas en didáctica de la lengua, semiótica visual y psicopedagogía clínica. Fomentar revisiones sistemáticas en lenguas no hegemónicas para incorporar la producción científica de Iberoamérica y el sur de Europa. Estudiar el impacto del álbum sin palabras en la comprensión inferencial profunda en etapas de Educación Primaria y Secundaria. La ciencia ha demostrado que el silencio de un libro contiene, paradójicamente, las conversaciones más ricas y diversas sobre el lenguaje.",
+      "formalRef": "Francisco Antonio Martínez-Carratalá. (2022). Álbumes sin palabras: revisión teórica de los artículos publicados entre 1975-2020. Ocnos 21(1). https://doi.org/10.18239/ocnos_2022.21.1.2746"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué álbum infantil monopolizó el 35.09% de todas las investigaciones científicas sobre libros silentes analizadas entre 1975 y 2020?",
+          "options": [
+            "Frog goes to dinner de Mercer Mayer",
+            "Frog, where are you? de Mercer Mayer",
+            "The Arrival de Shaun Tan",
+            "Tuesday de David Wiesner"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje aproximado de toda la producción científica indexada en Scopus y WoS sobre álbumes sin palabras se publicó entre 2006 y 2020?",
+          "options": [
+            "Alrededor del 20%",
+            "Cerca del 50%",
+            "Aproximadamente el 80.7%",
+            "Menos del 10%"
+          ],
+          "correct": 2
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Semiótica y estatuto del álbum silente",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Fundamentación del álbum sin palabras como objeto narrativo y artístico complejo donde la secuencia de imágenes fijas impresas asume en solitario la responsabilidad de construir mundos de ficción coherentes."
+      },
+      {
+        "id": "2",
+        "label": "Paradoja de la simplicidad aparente",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Crítica epistemológica al prejuicio social que equipara la ausencia de texto verbal con menor exigencia cognitiva, demostrando que el libro silente exige competencias inferenciales y semióticas elevadas."
+      },
+      {
+        "id": "3",
+        "label": "Enfoques bimodales y multimodalidad",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Aportes de Nodelman, Nikolajeva, Kress y Bateman sobre las relaciones semióticas visuales, el contrapunto compositivo, la gramática del diseño visual y la materialidad física de la página en la literatura infantil."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Cartografiar la producción científica",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Examinar de manera sistemática la literatura científica internacional indexada sobre álbumes sin palabras a lo largo de un periodo histórico continuo de 45 años (1975-2020) en las bases Scopus y Web of Science."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Analizar áreas, obras y revistas",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Identificar qué disciplinas académicas publican sobre el formato, cuáles son los libros infantiles más investigados empíricamente y qué funciones diagnósticas, didácticas o estéticas se les atribuyen en el corpus."
+      },
+      {
+        "id": "6",
+        "label": "Rastreo sistemático en Scopus y WOS",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Estrategia bibliométrica estandarizada aplicando ecuaciones booleanas combinadas con términos validados en el Tesauro ERIC sobre 695 registros brutos iniciales recuperados en las dos principales plataformas globales."
+      },
+      {
+        "id": "7",
+        "label": "Criterios de elegibilidad y exclusión",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Selección rigurosa de artículos en lengua inglesa con el álbum silente como objeto central, depuración sistemática de duplicados con EndNote y Mendeley, y cribado manual exhaustivo de 228 estudios definitivos."
+      },
+      {
+        "id": "8",
+        "label": "Segmentación en 4 olas cronológicas",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Periodización analítica en cuatro olas históricas (1975-2005, 2006-2012, 2013-2019 y 2020) para cuantificar la evolución de las frecuencias de publicación y los giros discursivos en la comunidad académica."
+      },
+      {
+        "id": "9",
+        "label": "Crecimiento exponencial contemporáneo",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "El 80.70% de toda la literatura científica acumulada en casi medio siglo se concentró entre 2006 y 2020, alcanzando un récord histórico de 28 artículos publicados en el único año 2020, confirmando un auge imparable."
+      },
+      {
+        "id": "10",
+        "label": "Monopolio de 'Frog, where are you?'",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "El clásico 'Frog, where are you?' de Mercer Mayer (1969) monopoliza 80 investigaciones (35.09% del corpus total) y en 65 de ellas como único instrumento, utilizado por la psicología y la logopedia como reactivo estándar de elicitación oral infantil."
+      },
+      {
+        "id": "11",
+        "label": "Hegemonía de cabeceras clínicas y foniátricas",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Las revistas de audiología, patología del habla y lingüística clínica lideran ampliamente la producción científica acumulada frente a las cabeceras especializadas en educación literaria y teoría del arte."
+      },
+      {
+        "id": "12",
+        "label": "Aparición de David Wiesner y la LIJ crítica",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Estudios en torno a 'The Arrival' de Shaun Tan y títulos como 'Tuesday' de David Wiesner inauguraron análisis sobre lectura multimodal, intertextualidad visual y migración en el ámbito didáctico."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Instrumentalización del álbum",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Debate sobre el grave riesgo epistémico de reducir el álbum silente a un mero test psicométrico de laboratorio, despojando al formato de su valor polisémico, artístico, lúdico y formativo en la escuela."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Hacia la multimodalidad humanística",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Urgencia de reequilibrar la agenda científica internacional integrando investigaciones cualitativas que exploren la respuesta estética, la mediación dialógica y la recepción en aulas diversas y plurilingües."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Restricción anglosajona",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "La búsqueda circunscrita a artículos en lengua inglesa en bases de datos dominantes excluye libros monográficos, tesis doctorales y la fecunda tradición investigadora francófona, hispanoamericana e italiana."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Repensar el silencio en la lectura",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "La revisión consolida el estatuto académico del álbum silente y fundamenta su adopción didáctica prioritaria como catalizador imprescindible de la alfabetización visual y la formación de lectores críticos."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "desafía la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se nutre de"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "motiva la necesidad de"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "fundamenta examinar"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se ejecuta mediante"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se parametriza en"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "aplica criterios de"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "organiza el corpus en"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "revela un"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "detecta el"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "constata la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "registra la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "ejemplifica la"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "apoya la crítica de"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "impulsa el giro hacia"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "acompaña el viraje hacia"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "propone superar mediante"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "se acota por"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "concluye la urgencia de"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "orienta la agenda de"
+      }
+    ]
+  }
+}

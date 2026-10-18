@@ -2,7 +2,7 @@
   "id": "alfabetizacion_videorresenas_docentes",
   "metadata": {
     "title": "Alfabetización académica y socialización de la lectura mediante videorreseñas en la formación de docentes",
-    "authors": "Alícia Martí-Climent y Aina Reig",
+    "authors": "Alícia Martí-Climent, Aina Reig y Carmen Rodríguez-Gonzalo",
     "year": "2024",
     "journal": "Ocnos 23(1)",
     "doi": "10.18239/ocnos_2024.23.1.386",
@@ -23,7 +23,7 @@
     "apertura": {
       "personaje": "Dra. Alícia Martí-Climent, especialista en alfabetización académica multimodal y socialización literaria",
       "gancho": "¿Es la videorreseña un recurso informal o una exigente prueba de síntesis oral y rigor académico?",
-      "contexto": "La alfabetización académica en la universidad a menudo se estanca en monografías escritas que nadie lee fuera del despacho del profesor. Sin embargo, un maestro del siglo XXI debe ser un comunicador elocuente capaz de transmitir el valor de los textos a través de pantallas. En esta investigación-acción con 124 estudiantes del Grado de Maestro en la Universitat de València, las investigadoras implementaron el diseño de videorreseñas académicas de divulgación como dispositivo de evaluación formativa y socialización letrada.",
+      "contexto": "La alfabetización académica en la universidad a menudo se estanca en trabajos escritos que nadie lee fuera del despacho del profesor. Sin embargo, un maestro del siglo XXI debe ser un comunicador elocuente capaz de transmitir el valor de los textos a través de pantallas. En esta investigación cualitativa, desplegada durante cuatro cursos académicos (2017-2021) con 491 estudiantes del Grado de Maestro/a en Educación Primaria y del Máster de Profesorado de Secundaria de la Universitat de València, las investigadoras implementaron las videorreseñas académicas como dispositivo de socialización de la lectura entre iguales.",
       "deepDives": [
         {
           "id": "vid-apertura-1",
@@ -33,9 +33,9 @@
         },
         {
           "id": "vid-apertura-2",
-          "triggerLabel": "Muestra de 124 futuros maestros",
+          "triggerLabel": "Corpus de 416 videorreseñas",
           "type": "data",
-          "content": "Análisis de 124 videorreseñas orales grabadas, transcripciones y encuestas de autopercepción competencial."
+          "content": "Análisis cualitativo de un corpus de 416 videorreseñas académicas grabadas en castellano o catalán, del que se extrajo por procedimiento interpares una muestra de 18 (12 de Grado y 6 de Máster)."
         }
       ]
     },
@@ -43,10 +43,10 @@
       "problema": "Los estudiantes universitarios tienen enormes dificultades para sintetizar ideas complejas en un registro oral fluido y formal sin depender de leer un papel de carrerilla.",
       "porQueImporta": "Un docente que no domina la comunicación oral persuasiva y multimodal no logrará entusiasmar a sus futuros alumnos en el aula.",
       "dataPoints": [
-        "Muestra de 124 estudiantes de 2.º y 3.º curso de Magisterio de la UV.",
-        "El 89% destacó que preparar el guion del vídeo le exigió comprender el texto mucho más a fondo que para un examen escrito.",
-        "Mejora notable en el uso de terminología técnica de didáctica de la lengua.",
-        "Desarrollo de la competencia digital docente: encuadre, iluminación, edición y ritmo discursivo."
+        "491 estudiantes participantes: 373 del Grado de Maestro/a en Educación Primaria y 118 del Máster de Profesorado de Secundaria de la UV.",
+        "El corpus final consta de 416 videorreseñas académicas de unos cinco minutos, realizadas individualmente en castellano o catalán.",
+        "La adopción de una visión crítica no solo requiere profundidad en el conocimiento disciplinar, sino que obliga a desarrollar recursos lingüísticos más complejos.",
+        "El vídeo deviene instrumento de conocimiento y medio de expresión, motivador para la alfabetización mediática de los estudiantes (Martí, 2020)."
       ],
       "glossary": [
         {
@@ -56,76 +56,76 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Investigación-acción con rúbricas multimodales",
-      "narrativa": "Las autoras establecieron una secuencia didáctica en 4 fases: lectura crítica, redacción del guion audiovisual, grabación/edición y coevaluación entre pares en un foro digital de la facultad.",
+      "titulo": "Ruta metodológica: intervención didáctica y análisis cualitativo del corpus",
+      "narrativa": "Las autoras sostuvieron la tarea durante cuatro cursos académicos (2017-2021): leer obras académicas de la bibliografía de las asignaturas de didáctica de la lengua y presentarlas en una videorreseña de unos cinco minutos, compartida en YouTube y difundida en un foro de clase para crear una comunidad lectora profesional.",
       "detalles": [
         {
           "label": "Contexto",
-          "value": "Facultat de Magisteri de la Universitat de València."
+          "value": "Grado de Maestro/a en Educación Primaria y Máster de Profesorado de Secundaria de la Universitat de València (asignaturas ALE, DHCCM y AEM)."
         },
         {
           "label": "Instrumentos",
-          "value": "Rúbrica de evaluación multimodal y cuestionario mixto de percepción."
+          "value": "Cuatro categorías de análisis de la posición del lector como mediador: selección de contenidos, criterios de recomendación, presentación de la lectura y de su autor, y construcción del discurso."
         }
       ],
       "limitaciones": [
-        "Inseguridad inicial o vergüenza ante la cámara en una minoría de estudiantes tímidos."
+        "Gran parte de los futuros docentes no son lectores habituales y su inexperiencia mediadora se traduce en resúmenes lineales y valoraciones poco fundamentadas."
       ],
       "reflexion": "Poner el cuerpo y la voz al servicio de una idea es el verdadero bautismo de fuego de un educador."
     },
     "revelacion": {
       "titulo": "Hallazgos empíricos: El salto del papel a la pantalla",
-      "narrativa": "Los resultados cualitativos y las notas finales evidenciaron el éxito del proyecto:",
+      "narrativa": "El análisis cualitativo de la muestra permitió diferenciar dos grandes tipos de videorreseñas:",
       "hallazgos": [
         {
-          "label": "1. Comprensión Profunda Obligada",
-          "value": "Para explicar un concepto didáctico en 3 minutos sin aburrir a la audiencia, el alumno no puede memorizar: está forzado a interiorizar y reestructurar el saber."
+          "label": "1. Reproductivas frente a críticas",
+          "value": "Las VA-Rep reproducen la obra con resúmenes extensos y recomendaciones genéricas; las VA-Crit seleccionan contenidos relevantes, fundamentan la valoración y construyen un discurso propio, transformando el conocimiento (Bereiter y Scardamalia, 1987) en lugar de solo decirlo."
         },
         {
-          "label": "2. Coevaluación Enriquecedora",
-          "value": "Ver los vídeos de los compañeros en el campus virtual generó una biblioteca de recursos compartida y un contagio del entusiasmo lector."
+          "label": "2. Comunidad lectora profesional",
+          "value": "La difusión de las videorreseñas en YouTube y en el foro de clase creó una comunidad lectora profesional entre iguales, ampliando el repertorio de referencias formativas del alumnado."
         }
       ],
       "dataPoints": [
-        "El 94% de los participantes recomendó mantener la videorreseña como tarea obligatoria para las siguientes promociones."
+        "Dos elementos clave explican el salto a la visión crítica: la apropiación de la situación retórica creada por el género y la experiencia lectora de los estudiantes."
       ],
-      "reflexion": "Enseñar es comunicar: quien sabe resumir un libro en tres minutos con brillantez demuestra que lo ha conquistado para siempre."
+      "reflexion": "Enseñar es comunicar: quien sabe explicar un libro en cinco minutos con criterio demuestra que lo ha conquistado para siempre."
     },
     "marco": {
       "titulo": "Discusión: Multimodalidad en la formación inicial del profesorado",
-      "narrativa": "Martí-Climent y Reig reivindican la evaluación multimodal en la universidad:",
+      "narrativa": "Martí-Climent, Reig y Rodríguez-Gonzalo reivindican la videorreseña académica en la formación inicial:",
       "detalles": [
         {
-          "label": "Superar la Dictadura del PDF",
-          "value": "Combinar la escritura académica clásica con podcast, videocuentos y videorreseñas profesionales."
+          "label": "Un formato con gran potencial",
+          "value": "La videorreseña académica, menos habitual que la de textos literarios y todavía poco investigada, abre nuevos escenarios sociales para la lectura especializada y permite una visión socializadora de la lectura académica."
         }
       ],
       "reflexion": "Un maestro del siglo XXI es un arquitecto de la palabra oral, escrita y audiovisual."
     },
     "nucleo": {
       "pregunta": "¿Qué valor formativo tiene la creación de videorreseñas en la alfabetización académica y la socialización lectora de los maestros en formación?",
-      "conclusion": "La investigación-acción con 124 estudiantes de Magisterio de la Universitat de València demuestra que la videorreseña académica potencia la comprensión lectora profunda, la síntesis oral formal y la competencia digital docente. Al convertir la lectura en un acto público y audiovisual compartido, los futuros maestros superan el aislamiento del trabajo académico tradicional y vivencian un modelo comunicativo directamente aplicable a sus futuras aulas escolares.",
-      "formalRef": "Martí-Climent, A., & Reig, A. (2024). Alfabetización académica y socialización de la lectura mediante videorreseñas en la formación de docentes. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.386"
+      "conclusion": "La investigación cualitativa con 491 estudiantes del Grado de Maestro/a y del Máster de Profesorado de la Universitat de València demuestra que la videorreseña académica potencia la comprensión lectora profunda, la síntesis oral y la mediación entre iguales. Al convertir la lectura especializada en un acto público y audiovisual compartido, los futuros docentes transitan de la posición de estudiantes a la de mediadores críticos y vivencian un modelo comunicativo directamente aplicable a sus futuras aulas escolares.",
+      "formalRef": "Martí-Climent, A., Reig, A., & Rodríguez-Gonzalo, C. (2024). Alfabetización académica y socialización de la lectura mediante videorreseñas en la formación de docentes. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.386"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Por qué el 89 % de los futuros maestros declaró que preparar la videorreseña les exigió más esfuerzo cognitivo que escribir un trabajo en papel?",
+          "q": "¿Por qué las videorreseñas reproductivas dedican la mayor parte del tiempo a resúmenes extensos de la obra?",
           "options": [
             "Porque la cámara se apagaba sola.",
-            "Porque para explicar una lectura académica en un vídeo corto de 3 minutos de forma amena y rigurosa es imprescindible dominar y sintetizar las ideas clave sin leer apuntes.",
+            "Porque los reseñadores no dominan el tema ni asumen la función mediadora, y se aferran a ser fieles al contenido y al orden de la obra leída.",
             "Porque tuvieron que comprar ropa nueva para el vídeo.",
-            "No requirió ningún esfuerzo."
+            "No requerían sintetizar nada."
           ],
           "correct": 1
         },
         {
           "type": "choice",
-          "q": "¿Qué beneficio comunitario produjo publicar las videorreseñas en un repositorio compartido del campus universitario?",
+          "q": "¿Qué beneficio comunitario produjo compartir las videorreseñas en YouTube y en el foro de clase?",
           "options": [
             "Que los alumnos se pelearan entre sí.",
-            "Crear una biblioteca audiovisual compartida de recomendaciones didácticas y fomentar el aprendizaje y coevaluación entre pares.",
+            "Crear una comunidad lectora profesional de docentes en formación que ampliaba el repertorio de referencias y socializaba las lecturas académicas.",
             "Que la universidad cobrara entradas por ver los vídeos.",
             "Ningún beneficio."
           ],
@@ -133,10 +133,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué cuatro fases compusieron la secuencia didáctica implementada por las investigadoras?",
+          "q": "¿Qué cuatro categorías de análisis desglosan la posición del lector como mediador?",
           "options": [
             "Dormir, comer, jugar y ver la tele.",
-            "Lectura crítica del texto, redacción del guion audiovisual, grabación/edición y coevaluación entre iguales con rúbrica.",
+            "Selección de contenidos, criterios de recomendación, presentación de la lectura y de su autor, y construcción del discurso.",
             "Hacer un examen sorpresa, suspender y reclamar.",
             "Comprar libros y regalarlos."
           ],
@@ -163,11 +163,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "124 alumnos de Magisterio en Valencia investigan, guionizan y graban vídeos para socializar lecturas académicas.",
+      "text": "491 futuros docentes en Valencia leen obras de didáctica y graban videorreseñas para socializarlas con sus iguales.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡Quien sabe resumir en 3 minutos sabe enseñar! La oratoria y el rigor conceptual se dispararon en las grabaciones.",
+      "text": "¡Quien sabe explicar un libro en cinco minutos sabe enseñar! La visión crítica exige recursos lingüísticos más complejos.",
       "position": "bottom-right"
     },
     "marco": {
@@ -188,111 +188,48 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Videorreseñas y Alfabetización Académica en Formación Docente",
-    "descripcion": "Investigación-acción en Magisterio (124 alumnos): guionización audiovisual, socialización de lecturas, síntesis conceptual y coevaluación.",
+    "titulo": "Mapa conceptual: Videorreseñas académicas y mediación lectora docente (Ocnos 23(1) 2024)",
+    "descripcion": "Recorrido del artículo: de la alfabetización académica y la socialización 2.0 de la lectura a la investigación con 416 videorreseñas de futuros docentes, la tipificación de videorreseñas reproductivas y críticas, y la conclusión de que la mediación lectora exige intervención didáctica explícita.",
     "nodos": [
-      {
-        "id": "1",
-        "label": "Videorreseñas Académicas",
-        "color": "#2a9d8f"
-      },
-      {
-        "id": "2",
-        "label": "Alfabetización Académica Multimodal",
-        "color": "#2a5a75"
-      },
-      {
-        "id": "3",
-        "label": "Socialización de la Lectura",
-        "color": "#88b04b"
-      },
-      {
-        "id": "4",
-        "label": "Síntesis Conceptual Rigurosa",
-        "color": "#f4d068"
-      },
-      {
-        "id": "5",
-        "label": "Competencia Oral y Elocuencia",
-        "color": "#5b9eaa"
-      },
-      {
-        "id": "6",
-        "label": "Docentes en Formación (124)",
-        "color": "#264653"
-      },
-      {
-        "id": "7",
-        "label": "Coevaluación en Repositorio",
-        "color": "#9b82c3"
-      },
-      {
-        "id": "8",
-        "label": "Competencia Digital Docente",
-        "color": "#e76f51"
-      },
-      {
-        "id": "9",
-        "label": "Superación del Trabajo Escrito Plano",
-        "color": "#c73e1d"
-      },
-      {
-        "id": "10",
-        "label": "Comunidad de Práctica Educativa",
-        "color": "#f4a261"
-      }
+      {"id": "1", "label": "Alfabetización académica", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Constructo multidimensional modelado por los contextos socioculturales e históricos, según la revisión de Li (2022) para el periodo 2002-2019. Su desarrollo no es espontáneo y exige instrucción e intervenciones explícitas (Carlino, 2005; Shanahan, 2012)."},
+      {"id": "2", "label": "Lectura crítica especializada", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "Leer para aprender implica interpretar información y transformar el conocimiento como competencia epistémica de por vida. La lectura crítica varía en cada disciplina porque difieren sus procedimientos (Cassany, 2021) y da acceso a comunidades profesionales, mediación poco desarrollada en la formación inicial."},
+      {"id": "3", "label": "Decir y transformar el conocimiento", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "Modelos de Bereiter y Scardamalia (1987) sobre las prácticas letradas. Decir el conocimiento reproduce lo adquirido sin considerar la situación comunicativa y promueve aprendizajes superficiales. Transformarlo exige operaciones complejas de abstracción, construcción y evaluación de estructuras textuales y contenidos."},
+      {"id": "4", "label": "Socialización de la lectura 2.0", "color": "#88b04b", "role": "Marco teórico", "descripcion": "La tecnología permite el doble papel de emisor y receptor frente al modelo piramidal de transmisión de la información. Rovira-Collado (2016) define la lectura social o 2.0 y Lluch (2014) la describe como constructo de conversaciones. La web 2.0 apoya la construcción colaborativa del conocimiento (Yubero y Larrañaga, 2013)."},
+      {"id": "5", "label": "Videorreseña como género discursivo", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "Reformulación de la reseña con características propias que aprovecha el potencial de la multimodalidad y las posibilidades interactivas de YouTube (Paladines-Paredes y Aliagas, 2021b). Paladines-Paredes y Margallo (2020) sitúan las reseñas de booktubers entre los vídeos de análisis; Allué y Cassany (2023) la vinculan a la competencia literaria."},
+      {"id": "6", "label": "Posición del lector como mediador", "color": "#f4d068", "role": "Objetivo", "descripcion": "Eje que articula el análisis de las videorreseñas académicas y responde a la pregunta de cómo ejercen los alumnos la mediación leyendo también para sus iguales. En trabajos previos (Martí et al., 2021; 2022) se distinguieron las videorreseñas académicas de las divulgativas sobre literatura infantil."},
+      {"id": "7", "label": "Comunidades discursivas entre iguales", "color": "#f4a261", "role": "Objetivo", "descripcion": "Propósito de la intervención: crear comunidades lectoras profesionales en las que los futuros docentes socialicen sus lecturas académicas. En YouTube y un foro de clase se compartían obras de interés formativo para ampliar el repertorio de referencias del alumnado."},
+      {"id": "8", "label": "Intervención en cuatro cursos", "color": "#264653", "role": "Método", "descripcion": "Intervenciones didácticas entre 2017 y 2021 en la Universitat de València, en tres asignaturas de didáctica de la lengua: ALE y DHCCM del Grado de Maestro/a en Educación Primaria y AEM del Máster de Profesorado de Secundaria. La tarea consistía en leer obras de la bibliografía académica y presentarlas en vídeo con ficha técnica, selección de contenidos y evaluación fundamentada."},
+      {"id": "9", "label": "Corpus de 416 videorreseñas", "color": "#2a5a75", "role": "Método", "descripcion": "Participaron 491 estudiantes seleccionados intencionalmente por su relación con el objeto de estudio (Izcara-Palacios, 2014): 373 de Grado y 118 de Máster. El corpus final reúne 416 videorreseñas de unos cinco minutos, realizadas individualmente en castellano o catalán."},
+      {"id": "10", "label": "Muestra de 18 videorreseñas", "color": "#5b9eaa", "role": "Método", "descripcion": "Tras identificar, codificar y clasificar todos los vídeos, se seleccionó por procedimiento interpares una muestra de 3 videorreseñas por curso académico: 12 de Grado y 6 de Máster. La tabla 4 recoge códigos VA-G y VA-M, libros reseñados, duración y tipología."},
+      {"id": "11", "label": "Cuatro categorías de análisis", "color": "#2a9d8f", "role": "Método", "descripcion": "Del visionado del corpus y de propuestas previas (Ibarra y Ballester, 2016; Martí y Garcia, 2020; Paladines-Paredes y Aliagas, 2021a) se delimitaron la selección de contenidos, los criterios de recomendación, la presentación de la lectura y de su autor, y la construcción del discurso. Desglosan la macrocategoría de la posición del lector como mediador."},
+      {"id": "12", "label": "Videorreseñas reproductivas (VA-Rep)", "color": "#c73e1d", "role": "Resultados", "descripcion": "Presentan los contenidos linealmente, con resúmenes extensos y empaquetado aditivo que ocupa la mayor parte del vídeo. La recomendación es genérica y poco fundamentada y el autor se presenta con datos enciclopédicos. Los reseñadores conservan la identidad de estudiantes y no asumen la función mediadora."},
+      {"id": "13", "label": "Videorreseñas críticas (VA-Crit)", "color": "#e76f51", "role": "Resultados", "descripcion": "Seleccionan los contenidos relevantes según los intereses del público, fundamentan la recomendación y construyen una estructura discursiva propia. Presentan al autor en función de la obra y emplean verbos modales, adversativas, condicionales y causales. Los reseñadores se reconocen como docentes en formación y adoptan la voz del autor."},
+      {"id": "14", "label": "Apropiación de la situación retórica", "color": "#f4d068", "role": "Resultados", "descripcion": "Junto con la experiencia lectora, es uno de los dos elementos clave que explican el cambio de estrategia hacia la visión crítica. Supone comprender el género y la finalidad comunicativa atribuida a la videorreseña. Exige además profundidad en el conocimiento disciplinar y recursos lingüísticos más complejos."},
+      {"id": "15", "label": "Identidad profesional docente", "color": "#88b04b", "role": "Resultados", "descripcion": "La adopción de la voz del autor y el compromiso con la comunidad de iguales configuran la identidad profesional docente. Se observa en la primera persona del plural inclusiva y en conocimientos compartidos que no se explican, como en VA-G05. Diferencia a las VA-Crit de unas VA-Rep ancladas en la identidad de estudiantes."},
+      {"id": "16", "label": "Transición de inexperto a experto", "color": "#9b82c3", "role": "Discusión", "descripcion": "En todas las categorías se aprecian aspectos de transición de las VA-Rep a las VA-Crit que avalan el interés didáctico de la propuesta. Se relaciona con Elche-Larrañaga y Yubero (2019): la formación universitaria incide en el convencimiento de la necesidad de ser lector. El doble reto del alumnado de grado, leer temas desconocidos y compartirlos, explica los resúmenes lineales iniciales."},
+      {"id": "17", "label": "Intervención didáctica explícita", "color": "#2a5a75", "role": "Conclusiones", "descripcion": "Con Carlino (2005) y Shanahan (2012), la alfabetización académica se desarrolla de manera situada en los contextos de uso, con intervenciones explícitas y mediadas desde las disciplinas. La videorreseña académica, formato poco investigado y con gran potencial docente, abre nuevos escenarios sociales para la lectura especializada."}
     ],
     "aristas": [
-      {
-        "from": "6",
-        "to": "1",
-        "label": "crea y protagoniza las"
-      },
-      {
-        "from": "1",
-        "to": "2",
-        "label": "desarrolla de forma integral la"
-      },
-      {
-        "from": "1",
-        "to": "3",
-        "label": "hace posible la verdadera"
-      },
-      {
-        "from": "1",
-        "to": "4",
-        "label": "obliga a desplegar una alta"
-      },
-      {
-        "from": "1",
-        "to": "5",
-        "label": "entrena de forma sistemática la"
-      },
-      {
-        "from": "1",
-        "to": "8",
-        "label": "moviliza destrezas de la"
-      },
-      {
-        "from": "1",
-        "to": "9",
-        "label": "sustituye y renueva el"
-      },
-      {
-        "from": "7",
-        "to": "10",
-        "label": "consolida en la facultad una rica"
-      },
-      {
-        "from": "10",
-        "to": "3",
-        "label": "alimenta y multiplica la"
-      },
-      {
-        "from": "10",
-        "to": "4",
-        "label": "premia y reconoce la"
-      }
+      {"from": "1", "to": "2", "label": "demanda el dominio de la"},
+      {"from": "3", "to": "12", "label": "describe la reproducción de las"},
+      {"from": "3", "to": "13", "label": "explica la transformación propia de las"},
+      {"from": "4", "to": "5", "label": "habilita el surgimiento de la"},
+      {"from": "5", "to": "6", "label": "centra el análisis en la"},
+      {"from": "6", "to": "7", "label": "sustenta la creación de las"},
+      {"from": "4", "to": "7", "label": "respalda el ideal de las"},
+      {"from": "7", "to": "8", "label": "se implementaron mediante la"},
+      {"from": "8", "to": "9", "label": "produjo el"},
+      {"from": "9", "to": "10", "label": "del que se extrajo la"},
+      {"from": "10", "to": "11", "label": "se examinó con las"},
+      {"from": "11", "to": "12", "label": "permitió tipificar las"},
+      {"from": "11", "to": "13", "label": "permitió caracterizar las"},
+      {"from": "14", "to": "13", "label": "condiciona el paso a las"},
+      {"from": "10", "to": "14", "label": "evidenció como elemento clave la"},
+      {"from": "13", "to": "15", "label": "configura la"},
+      {"from": "12", "to": "16", "label": "muestra rasgos de la"},
+      {"from": "16", "to": "17", "label": "justifica la necesidad de la"},
+      {"from": "1", "to": "17", "label": "solo progresa con la"},
+      {"from": "2", "to": "15", "label": "exige la consolidación de la"}
     ]
   }
 }

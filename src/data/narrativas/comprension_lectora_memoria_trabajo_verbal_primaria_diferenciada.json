@@ -1,0 +1,376 @@
+{
+  "id": "comprension_lectora_memoria_trabajo_verbal_primaria_diferenciada",
+  "metadata": {
+    "id": "comprension_lectora_memoria_trabajo_verbal_primaria_diferenciada",
+    "title": "Comprensión lectora: contribución de la memoria de trabajo verbal en Educación Primaria diferenciada",
+    "authors": [
+      "Cristina De-La-Peña",
+      "Diana Ballell"
+    ],
+    "year": 2019,
+    "volume": "18",
+    "issue": "1",
+    "pages": "31-40",
+    "doi": "10.18239/ocnos_2019.18.1.1898",
+    "keywords": [
+      "comprensión lectora",
+      "memoria de trabajo verbal",
+      "educación diferenciada",
+      "educación primaria",
+      "PROLEC-R"
+    ],
+    "abstract": "Estudio empírico con 105 alumnas de 6 a 9 años de un colegio de educación diferenciada en Jalisco (México). Demuestra que la memoria de trabajo verbal predice significativamente la comprensión lectora en los primeros cursos de Primaria."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo incide la memoria de trabajo verbal en el desarrollo de la comprensión lectora inicial de niñas en un entorno de educación diferenciada? Este estudio analiza a 105 escolares de 1º a 3º de Primaria en México para desentrañar el poder predictivo del bucle fonológico sobre el rendimiento lector.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva de indagación neuropsicológica y educativa:",
+        "opciones": [
+          {
+            "id": "cognitiva",
+            "texto": "Arquitectura neurocognitiva: bucle fonológico y memoria operativa"
+          },
+          {
+            "id": "psicometrica",
+            "texto": "Evaluación psicométrica mediante PROLEC-R y WISC-IV"
+          },
+          {
+            "id": "diferenciada",
+            "texto": "Contexto educativo y particularidades de la educación diferenciada"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "México enfrenta severas dificultades en comprensión lectora según informes internacionales como PISA (42% de estudiantes bajo el nivel básico). La mayor parte de la literatura previa sobre memoria de trabajo se había realizado en aulas mixtas, desconociéndose si la relación predictiva se manifestaba idénticamente en contextos de educación diferenciada femenina.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Por qué la memoria de trabajo verbal es indispensable para la comprensión lectora inicial?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "Porque retiene y manipula activamente las palabras decodificadas mientras se integran sintáctica y semánticamente con las siguientes.",
+            "correcta": true,
+            "explicacion": "Exacto: si el bucle fonológico colapsa, el lector olvida el inicio de la oración antes de llegar al final, impidiendo la construcción del significado global."
+          },
+          {
+            "id": "c2",
+            "texto": "Porque determina exclusivamente la velocidad mecánica con la que se mueven los ojos sobre la página.",
+            "correcta": false,
+            "explicacion": "La memoria de trabajo verbal es un almacén operativo central, no un mero indicador visomotor."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "Las investigadoras evaluaron a 105 niñas de 6 a 9 años en Jalisco (México). Administraron la batería PROLEC-R para medir comprensión de oraciones y textos, junto con las pruebas de Dígitos Directos e Inversos del WISC-IV, aplicando análisis de correlación de Pearson y regresión lineal múltiple.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestreo situado",
+            "detalle": "105 estudiantes de 1º, 2º y 3º de Primaria de un colegio femenino diferenciado en México."
+          },
+          {
+            "fase": "Batería PROLEC-R",
+            "detalle": "Evaluación estandarizada de procesos sintácticos, oracionales y comprensión de textos narrativos y expositivos."
+          },
+          {
+            "fase": "Escala WISC-IV",
+            "detalle": "Medición del componente de retención pasiva (dígitos directos) y manipulación activa (dígitos inversos)."
+          },
+          {
+            "fase": "Modelado predictivo",
+            "detalle": "Regresiones jerárquicas confirmando la contribución específica de la memoria de trabajo verbal."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "La memoria de trabajo verbal mostró correlaciones positivas altamente significativas con todos los índices de comprensión lectora. Los dígitos inversos (procesamiento activo) se consolidaron como el predictor más robusto del rendimiento en textos complejos, confirmando la universalidad del modelo cognitivo.",
+      "datos_clave": [
+        "Muestra de 105 escolares de 6 a 9 años en educación diferenciada.",
+        "Correlación significativa (p < .001) entre memoria de trabajo y comprensión global.",
+        "Mayor poder explicativo de la manipulación activa frente a la mera retención pasiva.",
+        "Urgencia de programas de estimulación cognitiva temprana en las aulas mexicanas."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El marco teórico se apoya en el modelo multicomponente de memoria de trabajo de Baddeley y Hitch, la teoría de recursos limitados de Just y Carpenter y los modelos evolutivos de lectura de Cuetos.",
+      "referencias_clave": [
+        "Baddeley (2007)",
+        "Just & Carpenter (1992)",
+        "Cuetos et al. (2007)",
+        "OCDE (2016)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El estudio evidencia que la memoria de trabajo verbal es un pilar cognitivo universal e insoslayable para la comprensión de textos en la infancia temprana, independientemente del régimen de agrupamiento escolar mixto o diferenciado.",
+      "hallazgo_central": "La capacidad de la memoria de trabajo verbal predice de forma directa el nivel de comprensión lectora en niñas de 1º a 3º de Primaria, exigiendo estimulación neurocognitiva explícita."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja la prueba psicométrica con su dimensión cognitiva:",
+          "pares": [
+            {
+              "concepto": "Dígitos Inversos (WISC-IV)",
+              "definicion": "Medida del procesamiento activo y manipulación ejecutiva de información verbal."
+            },
+            {
+              "concepto": "PROLEC-R Textos",
+              "definicion": "Evaluación de la construcción inferencial del modelo de situación a partir de lectura."
+            },
+            {
+              "concepto": "Dígitos Directos (WISC-IV)",
+              "definicion": "Capacidad de retención pasiva y almacenamiento a corto plazo del bucle fonológico."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Memoria de Trabajo Verbal y Comprensión en Primaria Diferenciada",
+      "descripcion": "Relaciones neuropsicológicas entre memoria de trabajo verbal y comprensión lectora inicial en escolares mexicanas.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Memoria de Trabajo y Comprensión Lectora",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo central: determinar el grado de relación y la capacidad predictiva de la memoria de trabajo verbal sobre la comprensión lectora en niñas de 6 a 9 años escolarizadas en educación diferenciada en México."
+        },
+        {
+          "id": "2",
+          "label": "Crisis del Desempeño Lector en México",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Diagnóstico contextual basado en informes PISA y OCDE que alertan de que más del 40% del alumnado mexicano se sitúa por debajo de los niveles básicos de competencia lectora requeridos para la vida adulta."
+        },
+        {
+          "id": "3",
+          "label": "Modelo de Memoria de Baddeley",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Paradigma cognitivo que estructura la memoria operativa en ejecutivo central, bucle fonológico verbal, agenda visoespacial y retén episódico para gestionar información en tiempo real."
+        },
+        {
+          "id": "4",
+          "label": "Procesamiento Sintáctico y Semántico",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Mecanismos de la comprensión textual que exigen retener unidades lingüísticas previas mientras se decodifican nuevas palabras para integrar la estructura oracional coherente."
+        },
+        {
+          "id": "5",
+          "label": "Muestra de 105 Alumnas de Primaria",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Muestra no probabilística intencional formada por 105 escolares de 1º, 2º y 3º de Primaria pertenecientes a un colegio privado de educación diferenciada femenina en el estado de Jalisco."
+        },
+        {
+          "id": "6",
+          "label": "Batería de Evaluación PROLEC-R",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Instrumento psicométrico validado para diagnosticar los procesos lectores en niños de habla hispana, evaluando comprensión oral, comprensión de oraciones y textos narrativos y expositivos."
+        },
+        {
+          "id": "7",
+          "label": "Subpruebas de Dígitos del WISC-IV",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Pruebas psicométricas estandarizadas que miden tanto el span atencional de retención pasiva inmediata (dígitos directos) como la memoria de trabajo activa y manipulativa (dígitos inversos)."
+        },
+        {
+          "id": "8",
+          "label": "Correlación Lineal Significativa",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Constatación estadística de correlaciones positivas robustas (p < .001) entre las puntuaciones de memoria de trabajo verbal y todos los índices de comprensión lectora evaluados."
+        },
+        {
+          "id": "9",
+          "label": "Poder Predictivo de Dígitos Inversos",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Resultado de regresión múltiple que evidencia que la manipulación activa de secuencias numéricas inversas constituye el predictor con mayor peso específico en la comprensión de textos."
+        },
+        {
+          "id": "10",
+          "label": "Universalidad Cognitiva Femenina",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Demostración empírica de que la dependencia cognitiva de la comprensión respecto a la memoria de trabajo se replica con igual fuerza en aulas de educación diferenciada femenina."
+        },
+        {
+          "id": "11",
+          "label": "Interacción Texto-Lector y Capacidad",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión sobre la naturaleza interactiva de la lectura, donde un bucle fonológico con baja capacidad cognitiva satura la memoria del aprendiz provocando olvidos del hilo discursivo."
+        },
+        {
+          "id": "12",
+          "label": "Educación Diferenciada y Rendimiento",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Análisis contextual que concluye que los factores neurocognitivos básicos operan con independencia del modelo de agrupamiento escolar por sexo en las etapas iniciales de la lectoescritura."
+        },
+        {
+          "id": "13",
+          "label": "Entrenamiento Neurocognitivo Temprano",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación psicoeducativa: diseñar programas escolares de estimulación de la memoria operativa verbal en preescolar y primer ciclo de Primaria para prevenir el fracaso lector."
+        },
+        {
+          "id": "14",
+          "label": "Detección Precoz de Dificultades",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Propuesta de emplear pruebas breves de dígitos como cribado temprano en los centros educativos para identificar al alumnado vulnerable antes de que se consolide el retraso en comprensión."
+        },
+        {
+          "id": "15",
+          "label": "Didáctica Adaptada a la Sobrecarga",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Pauta pedagógica orientada a fragmentar las lecturas y utilizar apoyos visuales que descongestionen la memoria de trabajo en los primeros pasos del aprendizaje lector formal."
+        },
+        {
+          "id": "16",
+          "label": "Muestra Homogénea Monocentro",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación reconocida por las autoras al circunscribir la muestra a un único centro privado de nivel socioeconómico medio-alto, impidiendo extrapolar conclusiones a escuelas públicas mixtas."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "responde al problema de la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga con"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "se analiza mediante el"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "esencial para el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "es evaluada con"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "se examina con"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "aporta datos para la"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "se correlaciona en la"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "demuestra el"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "confirma la"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "se explica por la"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "aporta evidencia sobre"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "fundamenta el"
+        },
+        {
+          "from": "8",
+          "to": "14",
+          "label": "justifica la"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "se traduce en"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se complementa con la"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse asumiendo"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "está acotada por su"
+        },
+        {
+          "from": "4",
+          "to": "11",
+          "label": "condiciona la"
+        },
+        {
+          "from": "3",
+          "to": "9",
+          "label": "sustenta teóricamente a"
+        },
+        {
+          "from": "12",
+          "to": "15",
+          "label": "converge en la"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "De-La-Peña y Ballell nos recuerdan que las dificultades lectoras de los niños a menudo no son un problema de desinterés moral, sino un cuello de botella neurocognitivo en la memoria de trabajo que la escuela puede y debe entrenar.",
+      "preguntas_guiadas": [
+        "¿Cómo pueden los maestros reducir la carga cognitiva de la lectura inicial para proteger la memoria de trabajo del alumnado?",
+        "¿Qué ejercicios cotidianos de aula estimulan la manipulación activa de secuencias verbales en niños pequeños?"
+      ]
+    }
+  }
+}

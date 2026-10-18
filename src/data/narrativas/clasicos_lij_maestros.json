@@ -2,7 +2,7 @@
   "id": "clasicos_lij_maestros",
   "metadata": {
     "title": "La lectura de clásicos de literatura infantil y juvenil en la formación inicial de maestros",
-    "authors": "Dominika Fajkísová y Jerónimo Méndez-Cabrera",
+    "authors": "Dominika Fajkišová, Jerónimo Méndez-Cabrera y Josep Ballester-Roca",
     "year": "2026",
     "journal": "Ocnos 25(1)",
     "doi": "10.18239/ocnos_2026.25.1.597",
@@ -12,16 +12,16 @@
     "color": "#88b04b",
     "colorAlt": "#2a5a75",
     "bg": "from-emerald-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-7.png",
+    "image": "/assets/portadas/clasicos_lij_maestros.jpg",
     "tutor": {
-      "image": "/assets/cromos/cromo-7.png",
-      "name": "Dra. Dominika Fajkísová",
+      "image": "/assets/portadas/clasicos_lij_maestros.jpg",
+      "name": "Dra. Dominika Fajkišová",
       "role": "Investigadora en Didáctica de la Literatura Infantil, Universitat de València"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Dominika Fajkísová, formadora de docentes y especialista en clásicos de la LIJ",
+      "personaje": "Dra. Dominika Fajkišová, formadora de docentes y especialista en clásicos de la LIJ",
       "gancho": "¿Cómo van a entusiasmar con la lectura a los niños si los propios maestros en formación no leen los clásicos de la literatura infantil?",
       "contexto": "Muchos estudiantes que ingresan al Grado de Maestro en Educación Primaria arrastran prejuicios hacia los clásicos de la literatura infantil y juvenil (LIJ), considerándolos aburridos, moralizantes o 'superados' por el cine de animación y las novedades editoriales comerciales. Esta investigación-acción en la Universitat de València diseñó una intervención en cuatro fases (argumentación, debate con conflicto sociocognitivo y reinterpretación creativa colectiva) para indagar cómo evolucionan las concepciones de los futuros maestros sobre el canon infantil universal.",
       "deepDives": [
@@ -29,13 +29,13 @@
           "id": "clij-apertura-1",
           "triggerLabel": "El conflicto sociocognitivo",
           "type": "theory",
-          "content": "Basado en Doise y Mugny, consiste en enfrentar al estudiante con interpretaciones contradictorias sobre un texto clásico para desestabilizar sus ideas prefijadas y forzar un razonamiento superior."
+          "content": "Basado en Gavilán-Bouzas (2009), consiste en enfrentar al estudiante con interpretaciones contradictorias sobre un texto clásico para desestabilizar sus ideas prefijadas y forzar un razonamiento superior."
         },
         {
           "id": "clij-apertura-2",
           "triggerLabel": "Reinterpretación creativa",
           "type": "data",
-          "content": "Fase culminante donde los maestros reescriben, ilustran o trasladan a nuevos formatos transmedia pasajes de obras como Alicia en el país de las maravillas o El principito."
+          "content": "Fase culminante donde los maestros reconstruyen en papel A1 el argumento de obras como Alicia en el País de las Maravillas, Matilda o Peter Pan y lo presentan oralmente."
         }
       ]
     },
@@ -44,14 +44,14 @@
       "porQueImporta": "Un docente sin mediación literaria profunda empobrece el canon de sus alumnos y los priva del patrimonio simbólico de la humanidad.",
       "dataPoints": [
         "Investigación-acción en 4 fases secuenciadas con estudiantes del Grado de Maestro en Primaria.",
-        "Evolución radical: del rechazo inicial al reconocimiento del clásico como territorio abierto a lecturas subversivas y actuales.",
-        "El debate dialógico oral fue el catalizador del conflicto sociocognitivo más potente.",
-        "La tarea creativa final demostró una alta capacidad para conectar los clásicos con la ecología, el género y la diversidad contemporánea."
+        "Evolución clara: del rechazo inicial (por extensión, vocabulario y lejanía temporal) al reconocimiento de la calidad y complejidad de las obras.",
+        "El debate dialógico oral, organizado como simulación de un consejo ministerial, generó los conflictos sociocognitivos.",
+        "La tarea creativa final (reconstrucción del argumento en papel A1 con presentación oral) puso en valor la lectura como experiencia compartida."
       ],
       "glossary": [
         {
           "term": "Clásico de la LIJ",
-          "definition": "Obra literaria para niños y jóvenes que ha resistido el paso del tiempo por su polisemia, complejidad simbólica y capacidad de resignificación continua (Calvino, Colomer)."
+          "definition": "Obra literaria para niños y jóvenes que ha resistido el paso del tiempo por su polisemia, complejidad simbólica y capacidad de resignificación continua (Cerrillo y Sánchez-Ortiz, 2019; Díez-Mediavilla, 2019)."
         },
         {
           "term": "Conflicto sociocognitivo",
@@ -61,7 +61,7 @@
     },
     "viaje": {
       "titulo": "Ruta metodológica: Investigación-acción en 4 fases de mediación dialógica",
-      "narrativa": "Fajkísová y Méndez-Cabrera articularon cuatro fases: 1) Introducción y diagnóstico; 2) Redacción de ensayos argumentativos iniciales; 3) Debates dialógicos para generar conflicto sociocognitivo; y 4) Creación de artefactos creativos colectivos de reinterpretación.",
+      "narrativa": "El equipo investigador articuló cuatro fases: 1) Introducción y diagnóstico; 2) Redacción de ensayos argumentativos iniciales; 3) Debates dialógicos para generar conflicto sociocognitivo; y 4) Creación de artefactos creativos colectivos de reinterpretación.",
       "detalles": [
         {
           "label": "Población",
@@ -69,7 +69,7 @@
         },
         {
           "label": "Obras Trabajadas",
-          "value": "Clásicos canónicos de la LIJ (Collodi, Carroll, Barrie, Saint-Exupéry, Ende)."
+          "value": "Clásicos canónicos de la LIJ (Collodi, Carroll, Barrie, Dahl, Ende)."
         },
         {
           "label": "Metodología",
@@ -88,7 +88,7 @@
       "hallazgos": [
         {
           "label": "1. Caída de Prejuicios",
-          "value": "Los maestros descubrieron que las versiones Disney habían edulcorado los textos originales, mucho más ricos, oscuros y fascinantes."
+          "value": "Los maestros constataron el asombro ante la diferencia entre los libros y sus versiones cinematográficas, que suavizan los temas respecto a los originales."
         },
         {
           "label": "2. Apropiación Creativa",
@@ -96,8 +96,8 @@
         }
       ],
       "dataPoints": [
-        "El 87% de los estudiantes pasó de una actitud reticente a un compromiso explícito de incluir clásicos en su futura aula.",
-        "La calidad argumentativa de los textos finales mostró un incremento sobresaliente en fundamentación teórica."
+        "Tras la lectura de las obras, las objeciones sobre el lenguaje y la extensión perdieron peso y la temática cobró relevancia argumentativa.",
+        "El acercamiento personal a las obras llevó a valorar más su calidad y complejidad, aunque algunos títulos se consideraron poco recomendables por ciertos temas."
       ],
       "reflexion": "Cuando un maestro redescubre la fascinación por un clásico, nace un mediador apasionado para toda la vida."
     },
@@ -118,8 +118,8 @@
     },
     "nucleo": {
       "pregunta": "¿Cómo transforma una secuencia de investigación-acción basada en el conflicto sociocognitivo la mirada de los futuros maestros sobre los clásicos de la LIJ?",
-      "conclusion": "La investigación-acción desarrollada en cuatro fases demuestra que el trabajo dialógico y la reinterpretación creativa colectiva desmantelan eficazmente los prejuicios de los futuros docentes hacia los clásicos de la literatura infantil y juvenil. Al confrontar versiones edulcoradas con los textos originales y debatir sus resonancias contemporáneas (ecología, identidad, género), los maestros en formación adquieren una sólida competencia argumentativa y se descubren como mediadores literarios activos capaces de llevar el patrimonio cultural a las escuelas de hoy.",
-      "formalRef": "Fajkísová, D., & Méndez-Cabrera, J. (2026). La lectura de clásicos de literatura infantil y juvenil en la formación inicial de maestros. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.597"
+      "conclusion": "La investigación-acción desarrollada en cuatro fases demuestra que el trabajo dialógico y la reinterpretación creativa colectiva desmantelan eficazmente los prejuicios de los futuros docentes hacia los clásicos de la literatura infantil y juvenil. Al confrontar versiones edulcoradas con los textos originales y comprobar que las objeciones sobre la extensión, el vocabulario y la complejidad pierden peso, los maestros en formación adquieren una sólida competencia argumentativa y se descubren como mediadores literarios activos capaces de llevar el patrimonio cultural a las escuelas de hoy.",
+      "formalRef": "Fajkišová, D., & Méndez-Cabrera, J. (2026). La lectura de clásicos de literatura infantil y juvenil en la formación inicial de maestros. Ocnos, 25(1). https://doi.org/10.18239/ocnos_2026.25.1.597"
     },
     "reflexion": {
       "questions": [
@@ -202,110 +202,222 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Clásicos de la LIJ en la Formación Inicial de Maestros",
-    "descripcion": "Investigación-acción en 4 fases: superación de prejuicios, conflicto sociocognitivo en debates, resignificación creativa y mediación literaria.",
+    "titulo": "Mapa conceptual: Clásicos de la LIJ en la formación inicial de maestros (Ocnos 25(1) 2026)",
+    "descripcion": "Investigación-acción con 34 futuros maestros de la Universitat de València que, en cuatro fases (diálogo socrático, texto argumentativo, debate y tarea creativa final), analiza cualitativamente cómo evolucionan sus preconceptos sobre la lectura de los clásicos de la literatura infantil y juvenil en un contexto dominado por los referentes audiovisuales.",
     "nodos": [
       {
         "id": "1",
-        "label": "Clásicos de la LIJ",
-        "color": "#88b04b"
+        "label": "Concepto de Clásico Literario",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Obra representativa culturalmente y persistente en el tiempo por sus características formales y de contenido. Ante la inmediatez digital se percibe como texto complejo y poco relevante (Díez-Mediavilla, 2019; Cerrillo y Sánchez-Ortiz, 2019), aunque sin la escuela es difícil imaginar un futuro para los clásicos (Ordine, 2017)."
       },
       {
         "id": "2",
-        "label": "Formación Inicial Docente",
-        "color": "#2a5a75"
+        "label": "Influencia Mediática en los Referentes",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Las adaptaciones cinematográficas pasaron de referencias intertextuales a experiencias iniciales de contacto con la tradición literaria (Encabo-Fernández et al., 2019), condicionando la concepción de clásico y de LIJ junto a narrativas híbridas y transmedia (Ballester-Roca y Méndez-Cabrera, 2021)."
       },
       {
         "id": "3",
-        "label": "Investigación-Acción (4 Fases)",
-        "color": "#5b9eaa"
+        "label": "LIJ en la Formación Inicial Docente",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Los maestros en formación suelen ser lectores ocasionales con hábitos esporádicos (Munita, 2013; Elche-Larrañaga y Yubero-Jiménez, 2019; Mirete et al., 2023), por lo que se reclama una didáctica específica de educación literaria (Aguilar-Ródenas, 2020; Caro-Valverde, 2019)."
       },
       {
         "id": "4",
-        "label": "Conflicto Sociocognitivo",
-        "color": "#f4d068"
+        "label": "Preconceptos y Aprendizaje Significativo",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Los preconceptos (Mareš, 2013) son ideas personales que no coinciden con el conocimiento científico, con dimensión cognitiva, afectiva y plasticidad; su modificación se entiende como aprendizaje significativo (Ausbel, 1968)."
       },
       {
         "id": "5",
-        "label": "Debates Dialógicos Grupales",
-        "color": "#9b82c3"
+        "label": "Objetivo: Evolución de Opiniones",
+        "color": "#e76f51",
+        "role": "Objetivo",
+        "descripcion": "Analizar cualitativamente la evolución de las opiniones de los futuros maestros sobre la lectura de clásicos de la LIJ trabajando la argumentación oral y escrita, con objetivos específicos: diagnosticar conocimientos previos, valorar la bibliografía, estudiar el debate y la lectura como experiencia."
       },
       {
         "id": "6",
-        "label": "Reinterpretación Creativa",
-        "color": "#2a9d8f"
+        "label": "Investigación-Acción con 34 Estudiantes",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Se cursó en Lengua española para maestros (1º del Grado de Primaria, primer semestre de 2024, Universitat de València) con 34 estudiantes y un muestreo intencionado por conveniencia; los tres investigadores asumieron el doble rol investigador-docente (Kostrub, 2022; Sagor, 2000)."
       },
       {
         "id": "7",
-        "label": "Prejuicio del Clásico 'Caducado'",
-        "color": "#e76f51"
+        "label": "Cuatro Fases de Complejidad Progresiva",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "Seis sesiones de dos horas en cuatro meses: diálogo socrático inicial con cuatro preguntas abiertas; texto argumentativo de 350-400 palabras con Cerrillo (2007), Colomer (2010) y Sotomayor (2013); debate como simulación de consejo ministerial; tarea creativa final con presentación oral."
       },
       {
         "id": "8",
-        "label": "Textos Originales vs. Edulcorados",
-        "color": "#c73e1d"
+        "label": "Análisis Categorial con Saturación",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "Cuatro grupos de categorías con códigos interpretativos por fase, en una codificación orientada a la teoría fundamentada (Amat-Castells, 2023; Soneira, 2006), con comparación constante y punto de saturación de datos (Corbin y Strauss, 2008)."
       },
       {
         "id": "9",
-        "label": "Mediador Literario Apasionado",
-        "color": "#264653"
+        "label": "Clásicos Angloamericanos por el Cine",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "En la fase 1 los estudiantes citaron Peter Pan, Alicia, Matilda o Pinocho desde películas y plataformas, obviando autores hispánicos salvo el Quijote y el Tirant lo Blanc; definían el clásico por persistencia, ejemplaridad, obligatoriedad escolar y extensión."
       },
       {
         "id": "10",
-        "label": "Patrimonio Simbólico Universal",
-        "color": "#f4a261"
+        "label": "Objeciones: Extensión y Vocabulario",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Prevalecía el rechazo hacia los títulos del canon escolar por dificultad, lejanía temporal y métodos didácticos; las objeciones a la obligatoriedad fueron extensión, vocabulario antiguo y complejidad, con la solución aislada de elegir entre tres clásicos."
+      },
+      {
+        "id": "11",
+        "label": "Definiciones y Funciones Elaboradas",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Tras la bibliografía, las definiciones incorporaron persistencia temporal, conciencia colectiva, referentes artísticos, intertextualidad y cultura general, y se atribuían a los clásicos funciones de imaginación, capacidades cognitivas y afectivas, aprendizaje de lectura y escritura y educación literaria (Colomer, 2010)."
+      },
+      {
+        "id": "12",
+        "label": "Adaptaciones: Acceso o Esencia",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "El debate enfrentó argumentos a favor de las adaptaciones (accesibilidad, vocabulario sencillo, inicio lector) y en contra (pérdida de la esencia y riqueza del autor, 'teléfono roto'), junto a la crítica a la suavización de los temas respecto a las películas de Disney."
+      },
+      {
+        "id": "13",
+        "label": "Cambio tras la Lectura",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Leídas y reconstruidas en papel A1 Matilda, Momo, Peter Pan, Alicia en el País de las Maravillas y Tom Sawyer, las objeciones de lenguaje y extensión perdieron peso, la temática cobró relevancia argumentativa y surgió asombro por la diferencia entre libro y versión cinematográfica."
+      },
+      {
+        "id": "14",
+        "label": "La Dificultad está en la Mediación",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "Coincidiendo con Díez-Mediavilla (2019) y Caro-Valverde (2019), las dificultades formales no están tanto en el texto como en su selección y uso didáctico; fue la experiencia de lectura mediada y socializada en el aula, y no solo la bibliografía, lo que modificó los preconceptos."
+      },
+      {
+        "id": "15",
+        "label": "Conclusión: Leer por Placer en la Universidad",
+        "color": "#5b9eaa",
+        "role": "Conclusiones",
+        "descripcion": "La universidad debe crear espacios para experimentar la lectura literaria y por placer, pues las ideas de los futuros maestros condicionarán el canon formativo de su práctica docente; sin experiencia lectora propia, la argumentación sobre los clásicos carece de desarrollo sólido."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones: Muestra Reducida",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "La muestra reducida es pertinente al enfoque cualitativo pero acota el alcance; se proponen estudios longitudinales que analicen, tras la formación completa en el Grado, en qué medida el concepto de clásico y de LIJ seguirá ligado a las obras anglosajonas y a la influencia de los medios."
       }
     ],
     "aristas": [
       {
-        "from": "3",
-        "to": "2",
-        "label": "se implementa en la"
-      },
-      {
         "from": "2",
         "to": "1",
-        "label": "revalúa el valor formativo de los"
+        "label": "redefine en el presente el"
       },
       {
-        "from": "7",
-        "to": "1",
-        "label": "distorsiona inicialmente la visión de los"
-      },
-      {
-        "from": "5",
-        "to": "4",
-        "label": "desencadena el fértil"
+        "from": "3",
+        "to": "5",
+        "label": "justifica el"
       },
       {
         "from": "4",
         "to": "7",
-        "label": "desmantela con evidencia el"
+        "label": "fundamenta la primera fase del"
       },
       {
-        "from": "8",
-        "to": "1",
-        "label": "recupera la potencia subversiva de los"
+        "from": "5",
+        "to": "6",
+        "label": "se desarrolló como"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se operativizó en el"
       },
       {
         "from": "6",
-        "to": "1",
-        "label": "actualiza en el presente a los"
+        "to": "8",
+        "label": "garantizó su rigor con el"
       },
       {
-        "from": "3",
+        "from": "7",
         "to": "9",
-        "label": "transforma al estudiante en un"
+        "label": "diagnosticó los"
+      },
+      {
+        "from": "7",
+        "to": "11",
+        "label": "produjo las"
+      },
+      {
+        "from": "7",
+        "to": "12",
+        "label": "abrió el espacio al"
+      },
+      {
+        "from": "7",
+        "to": "13",
+        "label": "culminó con el"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "categorizó los"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "ordenó el"
+      },
+      {
+        "from": "2",
+        "to": "9",
+        "label": "explicó los"
       },
       {
         "from": "9",
         "to": "10",
-        "label": "abre a sus futuros alumnos el"
+        "label": "convivió con las"
       },
       {
         "from": "10",
-        "to": "1",
-        "label": "nutre el sentido humanista de los"
+        "to": "12",
+        "label": "se deliberaron en las"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "respaldó la"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "sustentó la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "desembocó en la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "requiere consolidarse más allá de la"
+      },
+      {
+        "from": "6",
+        "to": "16",
+        "label": "se acotó por la"
       }
     ]
   }

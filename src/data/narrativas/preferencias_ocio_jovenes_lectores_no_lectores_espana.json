@@ -1,0 +1,377 @@
+{
+  "id": "preferencias_ocio_jovenes_lectores_no_lectores_espana",
+  "metadata": {
+    "id": "preferencias_ocio_jovenes_lectores_no_lectores_espana",
+    "title": "Comparativa entre las preferencias de ocio de jóvenes lectores y no lectores en España",
+    "authors": [
+      "Lara Varela-Garrote",
+      "Héctor Pose-Porto",
+      "Raúl Fraguela-Vale"
+    ],
+    "year": 2019,
+    "volume": "18",
+    "issue": "2",
+    "pages": "55-64",
+    "doi": "10.18239/ocnos_2019.18.2.2028",
+    "keywords": [
+      "hábitos de lectura",
+      "ocio juvenil",
+      "género",
+      "adolescencia",
+      "ocio electrónico"
+    ],
+    "abstract": "Con 2694 estudiantes de 15 a 20 años en España, este estudio analiza las preferencias de ocio de lectores y no lectores. Demuestra que no existe un único perfil juvenil: las lectoras gravitan hacia el ocio cultural y los lectores masculinos hacia el ocio electrónico."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Cómo encaja la lectura recreativa dentro de las múltiples opciones de tiempo libre de la juventud contemporánea? Este estudio a gran escala con 2694 jóvenes españoles de 15 a 20 años compara los patrones de ocio entre lectores y no lectores, desvelando una marcada brecha de género.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Elige tu ruta para explorar los hábitos de ocio juvenil en España:",
+        "opciones": [
+          {
+            "id": "sociologica",
+            "texto": "Enfoque sociológico del ocio y ecología de tiempos juveniles"
+          },
+          {
+            "id": "genero",
+            "texto": "Enfoque de género: divergencia cultural y digital entre chicos y chicas"
+          },
+          {
+            "id": "mediacion",
+            "texto": "Enfoque pedagógico: promoción lectora sin satanizar pantallas"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Durante la adolescencia y juventud temprana se produce tradicionalmente un marcado abandono del hábito lector frente a la fuerte competencia del ocio digital y festivo. La investigación previa tendía a juzgar moralmente las pantallas como enemigas directas del libro, ignorando la complejidad sistémica de la ecología del ocio juvenil.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Es efectiva la prohibición del uso de pantallas para fomentar la lectura en jóvenes?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "No, porque el ocio es un sistema dinámico e interconectado; restringir un factor no genera espontáneamente interés lector por placer.",
+            "correcta": true,
+            "explicacion": "Exacto: la configuración del ocio es multifactorial; el no lector privado de pantallas buscará otros entretenimientos si no media una motivación intrínseca hacia el libro."
+          },
+          {
+            "id": "c2",
+            "texto": "Sí, porque eliminar pantallas obliga a los jóvenes a buscar libros inmediatamente.",
+            "correcta": false,
+            "explicacion": "La evidencia empírica rechaza que las prohibiciones directas aumenten la predisposición lectora voluntaria."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "En el marco de un proyecto coordinado interuniversitario, los autores analizaron a 2694 estudiantes de Bachillerato y Formación Profesional en diversas comunidades autónomas españolas. Aplicaron pruebas de Chi-cuadrado y residuos tipificados corregidos (RTC) para contrastar perfiles de ocio cultural, deportivo, festivo y electrónico discriminando por género.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra representativa",
+            "detalle": "2694 jóvenes escolarizados en enseñanzas postobligatorias no universitarias en España."
+          },
+          {
+            "fase": "Instrumento de ocio",
+            "detalle": "Cuestionario estructurado clasificando dimensiones de ocio: lectura, deporte, fiesta, TIC."
+          },
+          {
+            "fase": "Tratamiento de datos",
+            "detalle": "Tablas de contingencia, prueba Chi-cuadrado y cálculo de residuos tipificados corregidos (RTC)."
+          },
+          {
+            "fase": "Doble perfil de género",
+            "detalle": "Análisis desagregado que pone en evidencia la existencia de dos perfiles lectores divergentes."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "El hallazgo más revolucionario del estudio desmantela el estereotipo del \"lector joven único\": no hay un perfil homogéneo. Las chicas lectoras se vinculan fuertemente al ocio cultural, creativo y relacional, mientras que los chicos lectores compatibilizan la lectura con altas tasas de ocio electrónico y videojuegos, sin excluir las pantallas.",
+      "datos_clave": [
+        "2694 estudiantes españoles de 15 a 20 años encuestados a nivel nacional.",
+        "Las lectoras duplican a los lectores en interés por actividades culturales y artísticas.",
+        "Los varones lectores mantienen una intensa participación en videojuegos y ocio TIC.",
+        "La lectura convive pacíficamente con el ocio digital en los perfiles juveniles masculinos."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "El estudio se apoya en la sociología del ocio de Cuenca Cabeza, las teorías feministas sobre socialización lectora diferencial de género de Colomer y Mendoza, y los modelos ecológicos de tiempo libre en juventud.",
+      "referencias_clave": [
+        "Cuenca Cabeza (2004)",
+        "Mendoza et al. (2014)",
+        "Rodríguez & Martín (2011)",
+        "Lee (2010)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El núcleo del trabajo demuestra que la lectura de ocio es una práctica plenamente integrada en las ecologías juveniles contemporáneas: promoverla exige comprender su convivencia con las pantallas y adaptar las estrategias de prescripción a las profundas diferencias de socialización de género.",
+      "hallazgo_central": "No existe un perfil uniforme de joven lector: las mujeres lectoras gravitan al ocio cultural tradicional, mientras los varones lectores integran con naturalidad la lectura y el ocio electrónico."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los perfiles de ocio con sus características diferenciales:",
+          "pares": [
+            {
+              "concepto": "Lectoras jóvenes",
+              "definicion": "Alta preferencia por actividades artísticas, culturales y relacionales de tiempo libre."
+            },
+            {
+              "concepto": "Lectores jóvenes",
+              "definicion": "Compatibilización de la lectura de placer con videojuegos y ocio electrónico intensivo."
+            },
+            {
+              "concepto": "Residuos tipificados (RTC)",
+              "definicion": "Indicador estadístico (±1.96) que señala desviaciones significativas de la frecuencia esperada."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Preferencias de Ocio de Jóvenes Lectores y No Lectores en España",
+      "descripcion": "Estructura comparativa de las preferencias de tiempo libre en la juventud española diferenciada por hábito lector y género.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Ocio de Jóvenes Lectores en España",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo fundamental: analizar y comparar rigurosamente los patrones de ocio preferente entre jóvenes lectores y no lectores de 15 a 20 años en España, desvelando la modulación decisiva ejercida por la variable de género."
+        },
+        {
+          "id": "2",
+          "label": "Ecología del Ocio Juvenil",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Enfoque sistémico y holístico que conceptualiza el tiempo libre como un entramado interactivo y complejo donde las diversas actividades lúdicas se interconectan y condicionan mutuamente sin poder valorarse de forma aislada."
+        },
+        {
+          "id": "3",
+          "label": "Socialización Lectora y Género",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco sociológico que fundamenta las divergencias históricas en las prácticas culturales y actitudes hacia los libros a partir de pautas de crianza, expectativas sociales y modelos diferenciales asumidos según el género."
+        },
+        {
+          "id": "4",
+          "label": "Tensión Libros versus Pantallas",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Revisión crítica de las posturas pedagógicas alarmistas que postulan erróneamente un antagonismo excluyente entre las tecnologías digitales de ocio y la persistencia de prácticas de lectura literaria voluntaria."
+        },
+        {
+          "id": "5",
+          "label": "Muestra Nacional de 2694 Jóvenes",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Muestra representativa de 2694 estudiantes de Bachillerato y Formación Profesional de diversas comunidades autónomas españolas evaluados en el marco de una investigación interuniversitaria coordinada nacionalmente."
+        },
+        {
+          "id": "6",
+          "label": "Cuestionario de Preferencias de Ocio",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Instrumento administrado en centros educativos que recopila sistemáticamente las tres actividades favoritas de tiempo libre, categorizadas en dimensiones culturales, físico-deportivas, festivo-sociales y telemáticas."
+        },
+        {
+          "id": "7",
+          "label": "Análisis por Chi-cuadrado y RTC",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Tratamiento estadístico no paramétrico mediante tablas de contingencia y cálculo de residuos tipificados corregidos (umbral crítico ±1.96) para determinar asociaciones estadísticamente significativas entre variables."
+        },
+        {
+          "id": "8",
+          "label": "Divergencia Radical de Género",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Hallazgo empírico central: inexistencia de un perfil homogéneo de joven lector; los datos desvelan dos itinerarios dispares fuertemente polarizados entre las preferencias declaradas por chicos y chicas lectoras."
+        },
+        {
+          "id": "9",
+          "label": "Perfil Femenino: Ocio Cultural",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Las mujeres lectoras exhiben una concentración significativamente mayor en actividades artísticas, asistencia a exposiciones, cine, teatro y expresión creativa, con valores residuales altamente positivos."
+        },
+        {
+          "id": "10",
+          "label": "Perfil Masculino: Ocio Electrónico",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los varones lectores compatibilizan plenamente el gusto por la lectura recreativa con una participación activa e intensiva en videojuegos, internet y plataformas lúdicas digitales de entretenimiento contemporáneo."
+        },
+        {
+          "id": "11",
+          "label": "Compatibilidad entre Libros y TIC",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Evidencia teórica que refuta el prejuicio moralista sobre la incompatibilidad entre pantallas y lectura: el ocio digital no anula necesariamente el hábito lector masculino sino que convive en su repertorio cotidiano."
+        },
+        {
+          "id": "12",
+          "label": "Transición en Educación Postobligatoria",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Análisis de la juventud postobligatoria como una etapa formativa de creciente autonomía personal en la que el grupo de pares ejerce una influencia determinante sobre la diversificación de las elecciones lúdicas."
+        },
+        {
+          "id": "13",
+          "label": "Políticas de Fomento No Moralizantes",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación para mediadores y bibliotecas: sustituir discursos prohibitivos frente a las tecnologías por estrategias dinamizadoras que conecten la literatura con los ecosistemas mediáticos y narrativos juveniles."
+        },
+        {
+          "id": "14",
+          "label": "Atención a la Brecha de Masculinidad",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Llamamiento pedagógico a deconstruir mandatos de género tradicionales que desincentivan la lectura en varones, ofreciendo alternativas lectoras que reconozcan e integren positivamente sus afinidades digitales."
+        },
+        {
+          "id": "15",
+          "label": "Enfoque Positivo e Integral del Ocio",
+          "color": "#4B5563",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión propositiva que reivindica el valor intrínseco del ocio experiencial, el descanso y el juego compartido como dimensiones fundamentales para el desarrollo integral y el bienestar psicológico en la juventud."
+        },
+        {
+          "id": "16",
+          "label": "Autoinforme de Preferencias Subjetivas",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Limitación inherente al empleo de cuestionarios de preferencias declaradas, lo cual demanda contrastar los resultados en futuras investigaciones con métricas objetivas de tiempo efectivo dedicado a cada actividad."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se enmarca en la"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga con muestra de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "permite reevaluar la"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "explica teóricamente la"
+        },
+        {
+          "from": "4",
+          "to": "11",
+          "label": "se resuelve mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "responde al"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se analiza con"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "evidencia la"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "se desdobla en el"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "se desdobla en el"
+        },
+        {
+          "from": "10",
+          "to": "11",
+          "label": "demuestra la"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "se consolida en la"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "se manifiesta en la"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "demanda formular"
+        },
+        {
+          "from": "8",
+          "to": "14",
+          "label": "exige prestar"
+        },
+        {
+          "from": "13",
+          "to": "15",
+          "label": "converge en un"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "se integra en el"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "debe interpretarse según"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "acotada por el"
+        },
+        {
+          "from": "3",
+          "to": "14",
+          "label": "fundamenta la"
+        },
+        {
+          "from": "2",
+          "to": "15",
+          "label": "promueve el"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "Varela-Garrote, Pose-Porto y Fraguela-Vale demuestran que los jóvenes lectores no son ermitaños analógicos desconectados del mundo, sino ciudadanos de su tiempo que conviven con pantallas, videojuegos y festivales. Comprender su universo es la única vía para seducir a quienes aún no leen.",
+      "preguntas_guiadas": [
+        "¿Cómo conviven tus momentos de lectura literaria con el consumo de redes sociales, videojuegos y contenidos audiovisuales?",
+        "¿De qué manera pueden las campañas de fomento lector abandonar el tono culpabilizador hacia la tecnología digital?"
+      ]
+    }
+  }
+}

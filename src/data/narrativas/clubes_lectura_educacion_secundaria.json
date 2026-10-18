@@ -1,0 +1,408 @@
+{
+  "id": "clubes_lectura_educacion_secundaria",
+  "metadata": {
+    "title": "¿Cómo funcionan los Clubes de lectura en Educación Secundaria?",
+    "authors": "Alicia Revuelta-Muela y Carmen Álvarez-Álvarez",
+    "year": "2021",
+    "journal": "Ocnos 20(2)",
+    "doi": "10.18239/ocnos_2021.20.2.2554",
+    "gancho": "A partir de los 14 años la lectura decae drásticamente en la adolescencia. ¿Pueden los clubes escolares revertir esta tendencia crítica?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#2a5a75",
+    "colorAlt": "#e76f51",
+    "bg": "from-ocean-dark/20 to-coral/20",
+    "image": "https://picsum.photos/seed/clubes-sec/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Alicia Revuelta-Muela, investigadora en didáctica de la lengua y literatura",
+      "gancho": "A partir de los 14 años la lectura decae drásticamente en la adolescencia. ¿Pueden los clubes escolares revertir esta tendencia crítica?",
+      "contexto": "El barómetro de la FGEE evidencia que la lectura en la infancia es masiva pero se desploma hacia los 14 años al ingresar en Secundaria. Pese a que los clubes de lectura cuentan con sólida tradición en bibliotecas públicas y adultos, existe una notable escasez de investigación empírica sobre su implementación en institutos de Educación Secundaria.",
+      "deepDives": [
+        {
+          "id": "club-ap-1",
+          "triggerLabel": "Caída del hábito lector a los 14 años",
+          "type": "data",
+          "content": "Los datos de la Federación de Gremios de Editores de España (2018) señalan una desvinculación progresiva con las bibliotecas escolares y la lectura voluntaria al llegar a la adolescencia, situando la Secundaria como etapa crítica de intervención."
+        },
+        {
+          "id": "club-ap-2",
+          "triggerLabel": "Origen bibliotecario de los clubes",
+          "type": "context",
+          "content": "Los clubes de lectura surgieron en España en los años ochenta vinculados a bibliotecas públicas para adultos (Carreño, 2012), trasladándose tardíamente a las dinámicas formativas de los centros escolares."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Los equipos docentes enfrentan incertidumbre sobre cómo organizar, coordinar y financiar un club de lectura en Secundaria, lo que frena su implantación generalizada en los centros educativos.",
+      "porQueImporta": "El club lector escolar combina la lectura íntima con el debate dialógico entre iguales, permitiendo trabajar la competencia comunicativa y valores éticos sin las ataduras de la evaluación curricular tradicional.",
+      "dataPoints": [
+        "Estudio multicaso en 9 centros de 6 comunidades autónomas: Cantabria, Aragón, Asturias, La Rioja, Galicia y Castilla-La Mancha.",
+        "Cuestionario exhaustivo de 31 preguntas aplicado a coordinadores y entrevistas en profundidad a cuatro docentes en activo."
+      ],
+      "glossary": [
+        {
+          "term": "Club de lectura escolar",
+          "definition": "Reunión organizada de miembros que leen la misma obra y debaten reflexivamente sus interpretaciones."
+        },
+        {
+          "term": "Prescriptores",
+          "definition": "Fuentes mediadoras de recomendación literaria: blogs docentes, librerías de proximidad y bibliotecas."
+        },
+        {
+          "term": "Plan Lector",
+          "definition": "Estrategia institucional del centro escolar orientada al desarrollo sistemático de hábitos letrados."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "club-conf-1",
+          "triggerLabel": "Desvinculación en Bachillerato",
+          "type": "limitation",
+          "content": "La sobrecarga académica y las exigencias de las pruebas de acceso a la universidad provocan un abandono casi generalizado de la participación en clubes durante la etapa de Bachillerato."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Estudio multicaso y caracterización organizativa de 9 clubes",
+      "narrativa": "Las investigadoras seleccionaron 9 institutos con experiencias singulares de clubes lectores en 6 autonomías, aplicando un cuestionario de 31 ítems en 3 dimensiones y entrevistando a cuatro coordinadoras (Fernanda, Martina, Lara y Begoña).",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "9 centros de Secundaria en 6 comunidades autónomas (Aragón, Asturias, La Rioja, Cantabria, Galicia, CLM)."
+        },
+        {
+          "label": "Entrevistas",
+          "value": "4 docentes activas en la coordinación de clubes con pseudónimos para garantizar anonimato."
+        },
+        {
+          "label": "Instrumento",
+          "value": "Cuestionario online de 31 preguntas (14 abiertas y 17 cerradas) sobre creación, dinámica e impacto."
+        },
+        {
+          "label": "Dimensiones",
+          "value": "Razones fundacionales, tipología de participantes, funcionamiento logístico e implicaciones educativas."
+        }
+      ],
+      "limitaciones": [
+        "La muestra contempla exclusivamente centros con clubes activos y consolidados, omitiendo experiencias fallidas o centros que descartaron la iniciativa.",
+        "La continuidad de los proyectos depende en exceso del voluntarismo de docentes individuales sin relevo generacional asegurado."
+      ],
+      "reflexion": "¿Cómo conciliar el carácter voluntario y placentero del club con la necesidad de vincularlo al currículo formal de Lengua Castellana y Literatura?",
+      "deepDives": [
+        {
+          "id": "club-viaje-1",
+          "triggerLabel": "Tipología de clubes identificados",
+          "type": "method",
+          "content": "Se diferenciaron cuatro formatos: club exclusivo para alumnado, club para profesorado, club para familias y clubes mixtos comunitarios coordinados con bibliotecas municipales."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "La periodicidad mensual con sesión dialógica estructurada (presentación del autor, turnos de palabra, pasajes favoritos y votación 1-10 volcada a un blog) es el modelo hegemónico más exitoso y sostenible.",
+      "evidenciaCualitativa": "6 de los 7 centros con clubes de alumnado reportaron un incremento notable en la motivación académica hacia la literatura, mientras que la totalidad de los clubes orientados a docentes fortaleció la práctica pedagógica.",
+      "citaClave": "'Pese a las dificultades iniciales de organización y horario, los beneficios para el alumnado, el profesorado y la dinamización de la biblioteca escolar hacen que el esfuerzo merezca la pena.'",
+      "implicacionesDocentes": [
+        "Establecer reuniones mensuales fijas para evitar la saturación horaria del alumnado adolescente.",
+        "Crear un blog o perfil digital del club para visibilizar reseñas, valoraciones y generar sentido de comunidad letrada.",
+        "Articular préstamos intercentros y lotes de libros entre bibliotecas escolares para reducir costes económicos."
+      ],
+      "deepDives": [
+        {
+          "id": "club-rev-1",
+          "triggerLabel": "Criterios de selección literaria",
+          "type": "data",
+          "content": "Las coordinadoras priorizan la calidad estética y la variedad temática huyendo de lo comercial, incorporando el interés juvenil prioritariamente en clubes autogestionados por estudiantes."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Sociología de la lectura, didáctica de la literatura y animación sociocultural",
+      "tensiones": [
+        "Prescripción docente canónica vs. intereses vernáculos y elecciones autónomas del alumnado.",
+        "Voluntarismo individual docente vs. institucionalización sostenible dentro del Plan Lector de centro."
+      ],
+      "autoresClave": [
+        "Álvarez-Álvarez & Pascual (2013)",
+        "Carreño (2012)",
+        "Gambrell (2011)",
+        "Beach & Steven (2011)",
+        "Polleck (2010)",
+        "Choi & Tinker (2017)"
+      ],
+      "deepDives": [
+        {
+          "id": "club-marco-1",
+          "triggerLabel": "Democratización del aula según Polleck",
+          "type": "theory",
+          "content": "Polleck (2010) y Beach (2011) fundamentan que los clubes transforman la verticalidad de la enseñanza literaria tradicional en un espacio dialógico y deliberativo entre iguales."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo se organizan los clubes de lectura en Educación Secundaria y qué impacto tienen en la comunidad educativa?",
+      "conclusion": "Los clubes en Secundaria ofrecen modelos organizativos diversos y flexibles, mejoran la motivación lectora y revitalizan la biblioteca escolar, justificando plenamente su implantación en centros sin club.",
+      "formalRef": "Revuelta-Muela, A., & Álvarez-Álvarez, C. (2021). ¿Cómo funcionan los Clubes de lectura en Educación Secundaria? Ocnos, 20(2), 80-95. https://doi.org/10.18239/ocnos_2021.20.2.2554"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente del Club Lector",
+        "descripcion": "Recorre las estanterías de la biblioteca escolar atrapando lotes de libros y respondiendo sobre clubes de Secundaria.",
+        "instrucciones": "Come tokens de lectura para desbloquear preguntas sobre tipos de clubes, sesiones y coordinación. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Dinamización Lectora",
+        "descripcion": "Demuestra tus competencias sobre gestión de clubes escolares, perfiles de participantes y selección de obras.",
+        "instrucciones": "Responde contrarreloj para mantener tu multiplicador de racha y liderar el marcador de mediadores."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de la Animación Lectora",
+        "descripcion": "Asciende desde las dificultades iniciales de captación hasta la consolidación del club en el Plan Lector.",
+        "instrucciones": "Responde correctamente para activar cada peldaño de la pirámide de gestión lectora escolar."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: ¿Cómo funcionan los Clubes de lectura en Educación Secundaria? (Revuelta-Muela & Álvarez-Álvarez, 2021)",
+      "descripcion": "Estudio multicaso sobre la creación, funcionamiento e implicaciones de los clubes de lectura en Secundaria: caída lectora a los 14 años, tipología de clubes, dinámica mensual con blog y revitalización de bibliotecas.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Crisis del hábito lector en la adolescencia",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "Los barómetros de lectura constatan que a partir de los 14 años se produce un declive pronunciado en el hábito lector voluntario y un abandono del uso habitual de la biblioteca escolar en la Educación Secundaria."
+        },
+        {
+          "id": "2",
+          "label": "El club de lectura como práctica dialógica",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "Dispositivo de animación lectora que conjuga la lectura íntima e individual con el debate socializado entre iguales, promoviendo la comprensión profunda y la construcción compartida del sentido de los textos."
+        },
+        {
+          "id": "3",
+          "label": "Tradición bibliotecaria y escasa investigación escolar",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "Amplia trayectoria de clubes en bibliotecas públicas para adultos desde los años ochenta frente a una llamativa falta de estudios empíricos sistemáticos sobre su funcionamiento real en centros de educación secundaria."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: caracterizar clubes activos en Secundaria",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Analizar el funcionamiento de los clubes de lectura existentes en institutos españoles en sus dimensiones de creación, organización logística e implicaciones educativas para orientar a centros sin club."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: orientar la implantación de nuevos clubes",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Despejar dudas metodológicas y organizativas en los equipos docentes para facilitar la puesta en marcha, dinamización y sostenibilidad de nuevos proyectos de clubes lectores en institutos."
+        },
+        {
+          "id": "6",
+          "label": "Diseño multicaso en 9 centros de 6 autonomías",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Selección intencional de 9 centros educativos de Educación Secundaria en Aragón, Asturias, La Rioja, Cantabria, Galicia y Castilla-La Mancha caracterizados por iniciativas consolidadas de dinamización lectora."
+        },
+        {
+          "id": "7",
+          "label": "Cuestionario de 31 preguntas y 4 entrevistas en profundidad",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Recogida de datos mediante cuestionario online mixto de 31 preguntas estructurado en tres bloques temáticos, complementado con entrevistas semiestructuradas a cuatro docentes coordinadoras activas."
+        },
+        {
+          "id": "8",
+          "label": "Categorización analítica: creación, funcionamiento, impacto",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Triangulación cualitativa organizada en tres ejes analíticos: motivaciones fundacionales de los clubes, dinámicas organizativas y de selección literaria, e implicaciones académicas y socioculturales."
+        },
+        {
+          "id": "9",
+          "label": "Orígenes plurales: biblioteca, administración y alumnos",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Los clubes surgen impulsados por equipos de biblioteca para dinamizar espacios, programas institucionales autonómicos (como Leer Juntos en Aragón) o peticiones directas de alumnado aficionado a la escritura."
+        },
+        {
+          "id": "10",
+          "label": "Diversidad de formatos: alumnos, familias, docentes",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Identificación de cuatro tipos de clubes: exclusivos de alumnado, de familias, de profesorado y clubes comunitarios mixtos; con gran éxito en profesorado y dificultades de asistencia continuada en familias."
+        },
+        {
+          "id": "11",
+          "label": "Estructura de sesión mensual y blog interactivo",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Prevalencia de reuniones mensuales donde se introduce al autor, se debaten fragmentos señalados, se califica la obra del 1 al 10 y se vuelcan las conclusiones a un blog escolar del club (6 de 9 centros)."
+        },
+        {
+          "id": "12",
+          "label": "Selección por calidad, variedad y prescriptores",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Criterios basados en la calidad literaria y la diversidad temática huyendo del mero bestseller comercial, recurriendo a prescriptores especializados y compra de lotes compartidos entre bibliotecas."
+        },
+        {
+          "id": "13",
+          "label": "Impacto académico positivo y educación en valores",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Mejora demostrada de la motivación por la materia de Lengua y Literatura (6 de 7 centros con alumnado), adquisición de competencias críticas y debate espontáneo sobre problemáticas sociales relevantes."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: voluntarismo frente a institucionalización",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Contraste entre la riqueza pedagógica del modelo y la fragilidad organizativa derivada de la dependencia excesiva del entusiasmo de docentes concretos sin reconocimiento horario en el Plan Lector."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: muestra restringida a casos de éxito",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "El estudio analiza exclusivamente centros con clubes activos y reconocidos, dejando fuera experiencias fallidas y enfrentando la deserción habitual de estudiantes en la etapa preuniversitaria de Bachillerato."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: el esfuerzo organizativo merece la pena",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que los clubes de lectura democratizan la experiencia literaria en Secundaria, revitalizan las bibliotecas escolares y constituyen una inversión imprescindible para la comunidad educativa."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "justifica la necesidad de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "fundamenta teóricamente el"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "explica el valor de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se aborda mediante el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "orienta la selección de"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se investiga con"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "se procesa mediante"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "revela la diversidad de"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "clasifica la"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "describe la"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "identifica los criterios de"
+        },
+        {
+          "from": "8",
+          "to": "13",
+          "label": "comprueba el"
+        },
+        {
+          "from": "10",
+          "to": "14",
+          "label": "suscita el debate de"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "se analiza en la"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "sustenta las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "motiva la llamada a"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el alcance de"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "condiciona las propuestas de"
+        },
+        {
+          "from": "2",
+          "to": "16",
+          "label": "confirma la potencia de"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "demuestra cómo revertir la"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Cuál fue la estructura logística más habitual y consolidada entre los clubes de lectura analizados en los 9 centros?",
+          "options": [
+            "Reuniones diarias de 15 minutos en el recreo sin preparación previa.",
+            "Reuniones mensuales con debate estructurado sobre pasajes y volcado de reseñas a un blog escolar.",
+            "Encuentros virtuales exclusivos por videoconferencia sin presencia física.",
+            "Exámenes trimestrales obligatorios calificados con nota numérica para la asignatura."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo diseñarías una estrategia dentro del Plan Lector de tu centro para evitar que los estudiantes abandonen el club de lectura al llegar a Bachillerato debido a la presión académica?"
+        }
+      ]
+    }
+  }
+}

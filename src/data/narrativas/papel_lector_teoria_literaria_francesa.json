@@ -1,0 +1,414 @@
+{
+  "id": "papel_lector_teoria_literaria_francesa",
+  "metadata": {
+    "title": "El papel del lector y su auge en la reciente teoría literaria francesa",
+    "authors": "Pedro Pardo-Jiménez",
+    "year": "2021",
+    "journal": "Ocnos 20(2)",
+    "doi": "10.18239/ocnos_2021.20.2.2388",
+    "gancho": "¿Sigue existiendo el texto en la teoría literaria contemporánea o se ha disuelto por completo en la libertad creativa del lector?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#5b9eaa",
+    "colorAlt": "#264653",
+    "bg": "from-ocean/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/teoria-lector/800/600"
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Pedro Pardo-Jiménez, teórico de la literatura y comparatista",
+      "gancho": "¿Sigue existiendo el texto en la teoría literaria contemporánea o se ha disuelto por completo en la libertad creativa del lector?",
+      "contexto": "Durante el siglo XX, la teoría literaria europea intentó fijar los límites de la interpretación delimitando la intención del texto frente a los abusos del lector. Sin embargo, en las dos primeras décadas del siglo XXI, la vanguardia teórica francófona protagonizó un giro radical hacia la libertad absoluta del receptor, proclamando la muerte del texto.",
+      "deepDives": [
+        {
+          "id": "lec-fr-ap-1",
+          "triggerLabel": "Los límites de la interpretación de Eco",
+          "type": "theory",
+          "content": "Umberto Eco (1990, 1992) defendió la tricotomía entre intentio auctoris, intentio operis e intentio lectoris, diferenciando entre interpretar un texto respetando su coherencia interna o meramente utilizarlo."
+        },
+        {
+          "id": "lec-fr-ap-2",
+          "triggerLabel": "El pragmatismo radical de Rorty y Culler",
+          "type": "theory",
+          "content": "Richard Rorty negó la existencia de una coherencia textual preexistente, mientras Jonathan Culler defendió la 'sobreinterpretación' como el verdadero ejercicio productivo de la crítica."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La teoría literaria tradicional concebía la lectura como la decodificación pasiva de un significado depositado por el autor, desatendiendo que el receptor contemporáneo reescribe y actualiza activamente la obra.",
+      "porQueImporta": "Comprender la 'crítica intervencionista' y la teoría de los 'textos posibles' permite a docentes y estudiantes de literatura concebir el aula como un taller de invención creativa y no como un museo filológico.",
+      "dataPoints": [
+        "Revisión historiográfica exhaustiva de la producción teórica francófona entre 1995 y 2020.",
+        "Análisis de las aportaciones de Michel Charles, Pierre Bayard, Yves Citton, Franc Schuerewegen y el grupo Fabula."
+      ],
+      "glossary": [
+        {
+          "term": "Intentio operis",
+          "definition": "Significado inmanente generado por la coherencia interna del texto, defendido por Eco."
+        },
+        {
+          "term": "Textos posibles",
+          "definition": "Concepto de Michel Charles: la obra como suma de estados virtuales y caminos no escritos que el lector imagina."
+        },
+        {
+          "term": "Crítica intervencionista",
+          "definition": "Propuesta de Pierre Bayard que modifica desenlaces, personajes o cartas ausentes de clásicos canónicos."
+        },
+        {
+          "term": "Lectura actualizante",
+          "definition": "Práctica de Yves Citton que lee obras del pasado a la luz de las urgencias sociopolíticas del presente."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "lec-fr-conf-1",
+          "triggerLabel": "Recepción francesa de Stanley Fish",
+          "type": "theory",
+          "content": "La traducción en 2007 de 'Quand lire c'est faire' consolidó la noción de 'comunidades interpretativas' como el único marco que legitima o restringe la aceptabilidad de una lectura en la práctica."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Reconstrucción hermenéutica de dos décadas de teoría francófona",
+      "narrativa": "El autor analiza cronológica y conceptualmente la transición desde los modelos estructuralistas y semióticos hacia el postextualismo, ejemplificando cómo la crítica francesa desarticuló la autoridad del texto filológico.",
+      "detalles": [
+        {
+          "label": "Corpus teórico",
+          "value": "Ensayos de Charles (1995), Bayard (1998-2019), Citton (2007), Schuerewegen (2012) y grupo Fabula."
+        },
+        {
+          "label": "Enfoque",
+          "value": "Ensayo historiográfico y conceptual sobre los límites de la interpretación y el papel del lector."
+        },
+        {
+          "label": "Casos analizados",
+          "value": "Reescrituras de Fedra (Racine), Armance (Stendhal), Sherlock Holmes (Conan Doyle) y Hamlet."
+        },
+        {
+          "label": "Horizonte",
+          "value": "Superación del debate hermenéutico mediante un giro retórico hacia la coautoría."
+        }
+      ],
+      "limitaciones": [
+        "Ensayo teórico-reflexivo sin datos cuantitativos de recepción empírica con lectores no académicos.",
+        "Foco restringido al ámbito francófono y su diálogo con el deconstruccionismo estadounidense."
+      ],
+      "reflexion": "¿Si las propiedades del texto son meras proyecciones del lector, qué impide que cualquier interpretación extravagante sea considerada válida?",
+      "deepDives": [
+        {
+          "id": "lec-fr-viaje-1",
+          "triggerLabel": "La crítica de invención en Fabula",
+          "type": "example",
+          "content": "Marc Douguet demostró que permutar las 16 últimas escenas de Fedra de Racine no altera la coherencia dramática, evidenciando la plasticidad del texto frente al lector."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "La teoría francesa contemporánea no solo emancipó al lector sino que decretó la 'muerte del texto': la coherencia, el significado y la literariedad no residen en el artefacto impreso sino que son aportaciones de quien lee.",
+      "evidenciaCualitativa": "La labor del crítico ha mutado de la exégesis arqueológica a la actualización creativa, donde leer se equipara a reescribir mediante la intervención lúdica de los textos posibles.",
+      "citaClave": "'Un texto literario se mantiene vivo únicamente en la medida en que un intérprete lo actualiza desde el presente, transformando la lectura en un acto indisociable de la escritura.'",
+      "implicacionesDocentes": [
+        "Animar a los alumnos en clase de literatura a 'intervenir' los textos: escribir cartas ausentes, cambiar finales y explorar caminos alternativos.",
+        "Explotar el anacronismo deliberado como herramienta crítica para dialogar con los clásicos desde las inquietudes juveniles actuales.",
+        "Comprender que la interpretación en el aula no es descubrir una verdad oculta, sino construir sentido dentro de una comunidad interpretativa."
+      ],
+      "deepDives": [
+        {
+          "id": "lec-fr-rev-1",
+          "triggerLabel": "La intentio civitatis de Schuerewegen",
+          "type": "theory",
+          "content": "Schuerewegen añade una cuarta intención a la tríada de Eco: la intentio civitatis, que representa el consenso normativo de la sociedad civil frente al cual la lectura artística debe rebelarse."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Teoría literaria, hermenéutica, deconstrucción y pragmatismo",
+      "tensiones": [
+        "Fidelidad filológica inmanente al texto vs. libertad soberana y creativa del lector contemporáneo.",
+        "Relativismo interpretativo ('todo vale') vs. restricciones consensuadas de la comunidad interpretativa."
+      ],
+      "autoresClave": [
+        "Eco (1990)",
+        "Barthes (1968)",
+        "Rorty (1992)",
+        "Fish (2007)",
+        "Charles (1995)",
+        "Bayard (2008)",
+        "Citton (2007)",
+        "Genette (1969)"
+      ],
+      "deepDives": [
+        {
+          "id": "lec-fr-marco-1",
+          "triggerLabel": "La cinta de Moebius de Genette",
+          "type": "theory",
+          "content": "Gérard Genette (1969) comparó la literatura con una cinta de Moebius sin revés ni derecho, donde la escritura no cesa de leerse y la lectura no cesa de escribirse en un bucle continuo."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo evolucionó el papel del lector en la teoría literaria francesa reciente y qué impacto tiene en la noción de texto?",
+      "conclusion": "La teoría francófona transitó hacia la soberanía del lector y el postextualismo: el texto ya no es un objeto cerrado sino una hipótesis virtual que el lector actualiza y reescribe continuamente.",
+      "formalRef": "Pardo-Jiménez, P. (2021). El papel del lector y su auge en la reciente teoría literaria francesa. Ocnos, 20(2), 117-124. https://doi.org/10.18239/ocnos_2021.20.2.2388"
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente Hermenéutica",
+        "descripcion": "Atrapa intenciones de Eco, comunidades de Fish y textos posibles mientras respondes sobre teoría literaria francesa.",
+        "instrucciones": "Recoge conceptos de Charles y Bayard para superar las preguntas teóricas. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: El Lector Soberano",
+        "descripcion": "Demuestra tu comprensión sobre el debate de los límites de la interpretación, la crítica intervencionista y el postextualismo.",
+        "instrucciones": "Acierta contrarreloj para mantener tu multiplicador de racha y liderar el escalafón de teóricos literarios."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de los Textos Posibles",
+        "descripcion": "Evoluciona desde el inmanentismo textual hasta la crítica actualizante y la muerte del texto clásico.",
+        "instrucciones": "Supera cada nivel respondiendo sobre las figuras clave del giro teórico francófono."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: El papel del lector en la teoría literaria francesa (Pardo-Jiménez, 2021)",
+      "descripcion": "Revisión teórica del auge del lector en el ámbito francófono del siglo XXI: de los límites de Eco al postextualismo, Michel Charles y textos posibles, Pierre Bayard, comunidades de Fish y lectura actualizante de Citton.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "El debate de los límites de la interpretación (Eco)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Formulación de Umberto Eco en 1990 defendiendo la 'intentio operis' como salvaguarda frente a la sobreinterpretación descontrolada, distinguiendo con nitidez entre interpretar respetando la textura del texto o utilizarlo caprichosamente para fines ajenos."
+        },
+        {
+          "id": "2",
+          "label": "La ofensiva pragmatista y deconstructiva (Rorty y Culler)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Desmantelamiento anglosajón radical de la autoridad textual: Richard Rorty rechaza frontalmente la noción de coherencia intrínseca del texto, mientras Jonathan Culler reivindica la sobreinterpretación como la única vía genuinamente productiva y fértil del análisis."
+        },
+        {
+          "id": "3",
+          "label": "Vía de la aporía irresoluble de Compagnon (1998)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Postura epistemológica de Antoine Compagnon que declara la pugna entre la intención original del autor y la intención soberana del lector como una paradoja teóricamente irresoluble, cuya tensión insoluble solo el sentido común analítico logra atemperar en la práctica."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: analizar el giro pro-lector en Francia",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Examinar con rigor las causas históricas, epistemológicas y metodológicas por las que el pensamiento literario francófono del siglo XXI abandonó la ortodoxia inmanentista de la Nouvelle Critique para situar al lector en el centro absoluto del fenómeno literario."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: rastrear la disolución de la noción de texto",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Rastrear cómo la entronización progresiva de la actividad del receptor culminó en las corrientes del postextualismo contemporáneo, disolviendo las supuestas propiedades objetivas del texto en meras construcciones heurísticas proyectadas por el acto crítico."
+        },
+        {
+          "id": "6",
+          "label": "Diseño ensayístico, hermenéutico e historiográfico",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Investigación cualitativa de corte teórico basada en la confrontación cronológica, hermenéutica y conceptual de obras fundamentales de las tradiciones crítica francófona y deconstruccionista estadounidense aparecidas entre 1968 y el presente siglo."
+        },
+        {
+          "id": "7",
+          "label": "Corpus de autores clave del giro postestructural",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Análisis sistemático de las aportaciones nucleares de Michel Charles (1995), Pierre Bayard (1998-2019), Yves Citton (2007), Franc Schuerewegen (2012, 2018) y la recepción francesa de Stanley Fish (2007), contrastadas con la herencia de Genette, Barthes y Todorov."
+        },
+        {
+          "id": "8",
+          "label": "Ejemplificación mediante casos de crítica aplicada",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Examen de experimentos de crítica intervencionista aplicada: la permutación de escenas en Fedra de Racine, la reescritura de cartas ausentes en La Cartuja de Stendhal y la refutación analítica de veredictos criminales en Conan Doyle y Agatha Christie."
+        },
+        {
+          "id": "9",
+          "label": "Desactivación de la autoridad del texto (Charles, 1995)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Michel Charles demuestra que la coherencia textual no preexiste al análisis sino que es construida por el crítico; el texto definitivo es una ilusión filológica que se disuelve al concebir la obra como un sistema abierto a perpetua recomposición interactiva."
+        },
+        {
+          "id": "10",
+          "label": "Teoría de los textos posibles y grupo Fabula",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Consagración de los 'textos posibles': la obra real no es el monumento impreso fijado por la filología, sino la suma dinámica de borradores, variantes desechadas, lagunas narrativas y caminos virtuales que el lector activa libremente en su propia imaginación creadora."
+        },
+        {
+          "id": "11",
+          "label": "Crítica intervencionista y pedagógica de Bayard",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Pierre Bayard desafía la pasividad del receptor proponiendo la 'intercreatividad', donde el lector enmienda errores o resuelve enigmas desatendidos por el autor canónico, reivindicando llevar este derecho de invención activa a las aulas de secundaria y universidad."
+        },
+        {
+          "id": "12",
+          "label": "Lecturas actualizantes y uso del anacronismo (Citton)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Yves Citton demuestra que los textos del pasado solo sobreviven si el receptor contemporáneo los actualiza a la luz de sus propios conflictos políticos y culturales presentes, legitimando el anacronismo deliberado como un dispositivo hermenéutico emancipador."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: comunidades interpretativas como freno (Fish)",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "La asimilación de Stanley Fish en el ámbito francés matiza el solipsismo radical: aunque el texto carezca de significado autónomo, las lecturas no son arbitrarias porque están reguladas por las convenciones compartidas dentro de una comunidad interpretativa histórica."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: postextualismo e intentio civitatis",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Franc Schuerewegen formula la noción de 'intentio civitatis' (las normas de convivencia civilizada y decoro social) como el marco de contención ético frente al cual la interpretación literaria audaz ensaya legítimamente sus transgresiones y provocaciones estéticas."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: enfoque restringido a la tradición francófona",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "La investigación se circunscribe al debate teórico de corte ensayístico en el espacio intelectual francés, sin contrastar estas hipótesis mediante estudios de recepción empírica con lectores reales ni integrar en profundidad la reciente escuela sociológica alemana."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: la lectura como acto indisociable de escritura",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que la teoría literaria francesa del siglo XXI consumó el giro hacia el postextualismo: leer y escribir constituyen las dos caras inseparables de una misma cinta de Moebius, donde interpretar es siempre recrear, prolongar y transformar el texto original."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "establece el punto de partida para"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "influye en la radicalización de"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "plantea el dilema que conduce a"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se investiga mediante el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se documenta a través del"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "revisa exhaustivamente el"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "se ilustra empíricamente con la"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "fundamenta la"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "desarrolla la"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "inspira la"
+        },
+        {
+          "from": "7",
+          "to": "12",
+          "label": "propone las"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "encuentra equilibrio en las"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "conduce a la teorización del"
+        },
+        {
+          "from": "9",
+          "to": "16",
+          "label": "sustenta la conclusión de"
+        },
+        {
+          "from": "10",
+          "to": "16",
+          "label": "corrobora las"
+        },
+        {
+          "from": "12",
+          "to": "16",
+          "label": "avala la visión de"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "define los límites en las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el alcance del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las generalizaciones de"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "reformula históricamente el legado de"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué tesis central defendió Michel Charles en 1995 respecto a la autoridad del texto literario?",
+          "options": [
+            "Que el texto posee un sentido unívoco e inmutable fijado para siempre por el autor.",
+            "Que la coherencia y la autoridad del texto no residen en el objeto impreso sino que son una proyección del análisis del lector.",
+            "Que la única interpretación válida es la filológica basada en manuscritos originales.",
+            "Que los lectores comunes carecen de capacidad para entender la literatura culta."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo aplicarías la noción de 'crítica intervencionista' de Pierre Bayard en una clase de Secundaria para que los estudiantes exploren desenlaces alternativos o cartas ausentes de un clásico literario?"
+        }
+      ]
+    }
+  }
+}

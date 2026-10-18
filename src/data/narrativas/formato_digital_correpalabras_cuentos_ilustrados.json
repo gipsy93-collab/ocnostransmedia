@@ -1,0 +1,376 @@
+{
+  "id": "formato_digital_correpalabras_cuentos_ilustrados",
+  "metadata": {
+    "title": "Diseño y evaluación de un nuevo formato digital de lectura de cuentos ilustrados: Correpalabras",
+    "authors": "Jorge A. Montalvo-Castro y Néstor Martos-Castañeda",
+    "year": "2019",
+    "journal": "Ocnos 18(3)",
+    "doi": "10.18239/ocnos_2019.18.3.2008",
+    "gancho": "¿Puede el teléfono móvil de los padres transformar la decodificación lenta en fluidez y comprensión lectora dosificando la velocidad palabra a palabra?",
+    "duration": "12-15 min",
+    "badge": "Tecnología Educativa y Fluidez Lectora",
+    "disciplina": "Tecnología Educativa y Didáctica de la Lectura",
+    "dimensiones": [
+      "Fluidez y Automatización Lectora",
+      "Interactividad Textual Móvil",
+      "Validación Cuasiexperimental y Piloto",
+      "Hogar Lector en Sectores Vulnerables"
+    ],
+    "tags": [
+      "correpalabras",
+      "fluidez_lectora",
+      "aplicaciones_moviles",
+      "comprension_lectora",
+      "cuentos_ilustrados",
+      "educacion_primaria"
+    ],
+    "pistas": [
+      "Diseño y evaluación en dos etapas sucesivas de la aplicación móvil 'Correpalabras' para smartphones Android.",
+      "Etapa 1 de validación individual de usabilidad y comprensión (10 preguntas) con 36 niños de 2.° de primaria de Lima, Perú.",
+      "Etapa 2 con despliegue piloto regional en 150 colegios públicos de Lima, alcanzando 3.912 usuarios y 32.876 cuentos descargados.",
+      "El 78% de los niños evidenció alta concentración sostenida y un promedio de 72,5% de respuestas correctas en comprensión inferencial."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "En contextos vulnerables donde escasean los libros infantiles impresos pero abundan los smartphones familiares, la tecnología suele ser vista como una distracción recreativa antes que como una aliada de la alfabetización.",
+      "desafio": "Desarrollar y evaluar un formato digital interactivo centrado en el texto (Correpalabras) que regule la velocidad lectora para reducir regresiones oculares y liberar carga cognitiva en lectores iniciales.",
+      "relevancia": "Demuestra la viabilidad de utilizar los dispositivos móviles familiares como vehículos eficaces para entrenar la fluidez y comprensión lectora en sectores con escasa dotación bibliográfica."
+    },
+    "conflicto": {
+      "pregunta": "¿Cómo debe estructurarse una aplicación de lectura en smartphone para sostener la atención infantil y potenciar la comprensión sin caer en el juego distractor?",
+      "posiciones": [
+        "Enfoque del libro enriquecido convencional: las apps deben incorporar animaciones sonoras, minijuegos e interacción táctil en las ilustraciones para enganchar al niño.",
+        "Modelo de interactividad textual focalizada: la tecnología debe centrarse exclusivamente en la presentación dosificada y dinámica de las palabras para favorecer la automatización."
+      ],
+      "tension": "La tensión entre el atractivo lúdico audiovisual de las pantallas comerciales y la necesidad de una lectura atenta y reflexiva que consolide la ruta fonológica y léxica.",
+      "deepDives": [
+        {
+          "id": "cor-conf-1",
+          "triggerLabel": "El dilema de la velocidad regulada",
+          "type": "context",
+          "content": "Correpalabras permite al niño acelerar, pausar o retroceder el flujo de texto con el dedo, adaptando el ritmo a su madurez lectora y evitando la frustración de enfrentarse a un bloque estático de texto abrumador."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Desarrollo iterativo y evaluación en dos fases con escolares y docentes de Lima",
+      "narrativa": "Los autores diseñaron el prototipo en Android y ejecutaron una doble validación: primero con 36 niños de segundo de primaria midiendo tiempos y respuestas inferenciales; posteriormente con un piloto a gran escala en 150 colegios públicos de la región Lima durante ocho semanas.",
+      "detalles": [
+        {
+          "label": "Fase 1 (Validación clínica)",
+          "value": "36 estudiantes de 2.º grado en dos colegios públicos de Lima, evaluados individualmente con guía de observación y test de comprensión."
+        },
+        {
+          "label": "Fase 2 (Piloto institucional)",
+          "value": "3.912 usuarios escolares y 31 docentes en 150 centros educativos públicos en convenio con la Dirección Regional de Educación de Lima."
+        },
+        {
+          "label": "Indicadores evaluados",
+          "value": "Nivel de concentración, tiempo por cuento, satisfacción infantil, tasa de comprensión inferencial y percepción pedagógica docente."
+        }
+      ]
+    },
+    "revelacion": {
+      "descubrimiento": "La dosificación palabra a palabra en pantalla mantuvo al 78% del alumnado concentrado, arrojando un 72.5% de comprensión global e igualando el ritmo tanto de lectores lentos como avanzados.",
+      "datosClave": [
+        {
+          "label": "Atención observada",
+          "value": "El 52% se observó 'muy concentrado' y el 26% 'concentrado' (78% positivo total), con apenas un 3% de distracción puntual."
+        },
+        {
+          "label": "Aceptación infantil",
+          "value": "Más del 90% manifestó máxima satisfacción con el formato ('Un montón') y ningún estudiante reportó rechazo al software."
+        },
+        {
+          "label": "Volumen del piloto",
+          "value": "Se registraron 32.876 descargas de cuentos ilustrados en ocho semanas de intervención escolar en el último trimestre escolar."
+        }
+      ],
+      "implicacion": "Aprovechar los teléfonos inteligentes de los hogares como terminales de lectura dosificada permite suplir la carencia de bibliotecas domésticas en comunidades vulnerables."
+    },
+    "marco": {
+      "fundamentos": [
+        {
+          "autor": "Joan Ferrés (2000)",
+          "concepto": "Pedagogía del interés y el esfuerzo: la alta motivación intrínseca reduce drásticamente el coste atencional percibido en la tarea."
+        },
+        {
+          "autor": "Teresa Colomer (2005)",
+          "concepto": "Desfase lector inicial: distancia entre la alta comprensión oral del niño y sus limitaciones para decodificar textos impresos en solitario."
+        },
+        {
+          "autor": "Ministerio de Educación de Perú (MINEDU, 2017)",
+          "concepto": "Evaluación Censal de Estudiantes: necesidad urgente de superar el 50% de escolares de primaria con comprensión deficiente."
+        }
+      ],
+      "enfoque": "Psicología cognitiva de la fluidez lectora y diseño de interfaces pedagógicas para entornos móviles.",
+      "sinergia": "La simplificación visual orienta el foco cognitivo hacia la decodificación, convirtiendo el smartphone en una herramienta de entrenamiento lector."
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Cómo incide el formato interactivo de velocidad regulada 'Correpalabras' en la atención, fluidez y comprensión de lectores iniciales?",
+      "hallazgos": [
+        "La presentación secuencial y dosificada de las palabras erradica la ansiedad ante la página impresa y reduce las regresiones visuales erráticas.",
+        "Altos niveles de atención sostenida y un rendimiento del 72.5% en preguntas de comprensión inferencial sobre los cuentos leídos.",
+        "Flexibilidad adaptativa: los tiempos de lectura oscilaron entre 3 y 18 minutos, adaptándose a ritmos individuales de aprendizaje diverso.",
+        "Excelente valoración del profesorado en fluidez (4.29/5) y comprensión (4.03/5), contrastando con una moderada implicación parental (3.74/5)."
+      ],
+      "conclusion": "Correpalabras demuestra que un diseño digital centrado en la palabra —y despojado de artificios distractores— constituye una respuesta potente para cerrar brechas lectoras tempranas."
+    },
+    "juegos": {
+      "tipo": "Preguntas de auto-evaluación reflexiva",
+      "items": [
+        {
+          "pregunta": "¿Cuál fue el porcentaje promedio de comprensión lectora alcanzado por los niños en las preguntas inferenciales?",
+          "opciones": [
+            "Menos del 35%, mostrando graves dificultades de retención",
+            "Un 72,5% de respuestas correctas, superando con holgura los promedios censales nacionales",
+            "El 100% perfecto en todos los grupos evaluados"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "Los escolares promediaron un 72.5% en la prueba de comprensión (74% en grupo A y 71% en grupo B), con gran destreza en inferencias contextuales."
+        },
+        {
+          "pregunta": "¿Qué factor pedagógico obtuvo la valoración docente más baja durante la fase piloto?",
+          "opciones": [
+            "La fluidez lectora desarrollada por los estudiantes",
+            "La participación y acompañamiento familiar en el hogar (3.74 sobre 5)",
+            "La velocidad de carga de las imágenes del cuento"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "La participación familiar fue la dimensión más baja (3.74), evidenciando las dificultades estructurales para activar el hogar lector."
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Epistémico: Diseño y Validación del Formato Digital Correpalabras",
+      "descripcion": "Red conceptual que vincula la fluidez lectora, el diseño de interfaces móviles, la doble fase empírica y los resultados de atención y comprensión en Perú.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Fluidez y Automatización",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Capacidad de decodificar el texto con velocidad, exactitud y entonación prosódica adecuada, liberando recursos atencionales de la memoria operativa para dedicarlos a la comprensión del mensaje."
+        },
+        {
+          "id": "2",
+          "label": "Hogar Lector Vulnerable",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Realidad socioeducativa donde la escasez de libros impresos en el hogar (menos de 10 en la mitad de familias peruanas) coexiste con una alta penetración de teléfonos móviles con conexión a internet."
+        },
+        {
+          "id": "3",
+          "label": "Interactividad Textual Focalizada",
+          "color": "#1E3A8A",
+          "role": "Marco teórico",
+          "descripcion": "Principio de diseño multimedia que concentra la interacción del usuario en la modulación del texto escrito (velocidad y pausas), evitando elementos sonoros o hipervínculos que desvíen la atención."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: Desarrollo y Evaluación",
+          "color": "#0D9488",
+          "role": "Objetivo",
+          "descripcion": "Diseñar el software móvil Correpalabras y evaluar su eficacia empírica en dos etapas sobre la atención, satisfacción, fluidez y comprensión inferencial en escolares de educación primaria."
+        },
+        {
+          "id": "5",
+          "label": "Diseño en Dos Etapas",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Estrategia metodológica secuencial que combina una primera validación de usabilidad cuali-cuantitativa de laboratorio con un ensayo piloto de implementación a gran escala en centros escolares públicos."
+        },
+        {
+          "id": "6",
+          "label": "Fase 1: Muestra de 36 Escolares",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Evaluación individual de 36 niños de segundo grado en colegios públicos de Lima mediante observación estructurada cronometrada y cuestionario de diez preguntas literales e inferenciales."
+        },
+        {
+          "id": "7",
+          "label": "Fase 2: Piloto en 150 Colegios",
+          "color": "#D97706",
+          "role": "Método",
+          "descripcion": "Despliegue institucional durante ocho semanas con 3.912 alumnos y 31 maestros de la región Lima, monitoreando descargas de la app en Google Play y aplicando encuestas de valoración docente."
+        },
+        {
+          "id": "8",
+          "label": "Alta Atención Sostenida (78%)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "El 78% de los alumnos fue observado en estado de alta concentración, atribuido a la dosificación progresiva del texto que evita la sobrecarga visual típica de la página impresa convencional."
+        },
+        {
+          "id": "9",
+          "label": "Rendimiento Comprensivo (72.5%)",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Obtención de un promedio de 72.5% de respuestas correctas en la prueba de comprensión, destacando una alta precisión en la deducción de vocabulario contextual desconocido (hasta 95%)."
+        },
+        {
+          "id": "10",
+          "label": "Adaptabilidad a Ritmos Diversos",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "Los tiempos de lectura se distribuyeron flexiblemente entre 3 y 18 minutos según la pericia del aprendiz, permitiendo la inclusión efectiva de estudiantes con necesidades educativas especiales."
+        },
+        {
+          "id": "11",
+          "label": "Brecha en Implicación Parental",
+          "color": "#059669",
+          "role": "Resultados",
+          "descripcion": "La participación familiar registró la puntuación más baja en la encuesta docente (3.74 sobre 5), revelando la dificultad persistente de involucrar a los progenitores como mediadores activos en casa."
+        },
+        {
+          "id": "12",
+          "label": "Discusión: Tecnología como Andamio",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "El smartphone puede ser reconfigurado de agente distractor a prótesis pedagógica de andamiaje lector si la interfaz elimina el ruido visual y prioriza la autorregulación atencional del texto."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: Desafíos de Escalamiento",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Las diferencias en el número de descargas entre colegios evidencian que el liderazgo del equipo directivo y el acompañamiento docente son determinantes para la adopción de innovaciones TIC."
+        },
+        {
+          "id": "14",
+          "label": "Conclusión: Potencial del M-Learning",
+          "color": "#2563EB",
+          "role": "Conclusiones",
+          "descripcion": "Correpalabras valida el potencial del aprendizaje móvil para democratizar la lectura en sectores desfavorecidos, ofreciendo un formato exportable a otras lenguas y etapas formativas."
+        },
+        {
+          "id": "15",
+          "label": "Limitación: Ausencia de Estudio Longitudinal",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Falta de seguimiento temporal prolongado para comprobar si las ganancias en fluidez obtenidas en pantalla se transfieren de manera permanente y estable a la lectura de libros impresos en papel."
+        },
+        {
+          "id": "16",
+          "label": "Limitación: Barreras Técnicas en Hogares",
+          "color": "#DC2626",
+          "role": "Limitaciones",
+          "descripcion": "Dificultades operativas derivadas del peso de los archivos y la limitada memoria de almacenamiento en teléfonos inteligentes de gama baja utilizados por las familias de los colegios públicos."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "orienta diseño de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "contextualiza necesidad de"
+        },
+        {
+          "from": "3",
+          "to": "1",
+          "label": "favorece desarrollo de"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "se ejecuta mediante"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "inicia con"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "se expande en"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "registra nivel de"
+        },
+        {
+          "from": "6",
+          "to": "9",
+          "label": "evalúa logro en"
+        },
+        {
+          "from": "6",
+          "to": "10",
+          "label": "constata beneficio en"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "diagnostica debilidad en"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "sustenta premisa de"
+        },
+        {
+          "from": "9",
+          "to": "12",
+          "label": "confirma eficacia en"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "demuestra inclusión en"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "se conecta con"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "fundamenta tesis de"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "aporta cautelas a"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "plantea necesidad a"
+        },
+        {
+          "from": "16",
+          "to": "15",
+          "label": "suma condicionantes con"
+        },
+        {
+          "from": "3",
+          "to": "8",
+          "label": "induce directamente"
+        },
+        {
+          "from": "1",
+          "to": "9",
+          "label": "correlaciona con"
+        },
+        {
+          "from": "2",
+          "to": "11",
+          "label": "explica dificultades en"
+        }
+      ]
+    },
+    "reflexion": {
+      "pregunta": "¿Cómo podrías aprovechar las pantallas móviles que ya tienen las familias para entrenar la fluidez lectora en tus estudiantes?",
+      "enfoque": "Proponer micro-retos semanales de lectura en apps reguladas donde los niños lean cuentos breves a sus padres registrando sus progresos.",
+      "cierre": "La tecnología en educación no consiste en deslumbrar con efectos, sino en enfocar la mente del aprendiz en el milagro de comprender."
+    }
+  }
+}

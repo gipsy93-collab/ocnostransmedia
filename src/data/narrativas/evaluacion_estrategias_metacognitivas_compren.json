@@ -1,0 +1,159 @@
+{
+  "id": "evaluacion_estrategias_metacognitivas_compren",
+  "metadata": {
+    "title": "Evaluación de las estrategias metacognitivas de comprensión de textos narrativos",
+    "authors": "Elisa Larrañaga y Santiago Yubero",
+    "year": "2015",
+    "journal": "Ocnos. Revista de Estudios sobre lectura, 14 (2015), pp. 18-27",
+    "doi": "https://doi.org/10.18239/ocnos_2015.14.02",
+    "gancho": "Este trabajo construye y valida el Cuestionario de Estrategias Metacognitivas de Comprensión de Textos Narrativos (CEMCoTeN). A diferencia de los instrumentos existentes, centrados en textos expositivos, la propuesta mide qué estrategias activa el lector ante narrativa literaria.",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#fa5457",
+    "colorAlt": "#b5179e",
+    "bg": "from-rose-600/20 to-ocean-dark/20",
+    "image": "/assets/cromos/cromo-4.png",
+    "tutor": {
+      "image": "/assets/cromos/cromo-4.png",
+      "name": "Elisa Larrañaga y Santiago Yubero",
+      "role": "Investigador / Autor en Ocnos"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Elisa Larrañaga y Santiago Yubero, autor/a en Revista Ocnos",
+      "gancho": "Este trabajo construye y valida el Cuestionario de Estrategias Metacognitivas de Comprensión de Textos Narrativos (CEMCoTeN). A diferencia de los instrumentos existentes, centrados en textos expositiv",
+      "contexto": "La introducción sitúa la comprensión lectora como uno de los principales objetivos educativos y un prerrequisito creciente para el éxito social: se espera que los ciudadanos accedan a la información y la transformen en conocimiento mediante prácticas de lectura y escritura. Citan investigaciones que ligan los hábitos lectores con el rendimiento escolar e incluso sostienen que el gusto por la lectura pesa en el logro académico por encima del estat",
+      "deepDives": [
+        {
+          "id": "evaluacion_estrategias_metacognitivas_compren-dd-1",
+          "triggerLabel": "Problema Central",
+          "type": "theory",
+          "content": "El artículo atiende una brecha instrumental concreta: existen numerosos cuestionarios para evaluar las estrategias metacognitivas con que se leen textos expositivos escolares, pero los autores afirman que no conocen instrumentos específicos para la comprensión de textos literarios narrativos. Esa au"
+        },
+        {
+          "id": "evaluacion_estrategias_metacognitivas_compren-dd-2",
+          "triggerLabel": "Contexto del Estudio",
+          "type": "data",
+          "content": "La introducción sitúa la comprensión lectora como uno de los principales objetivos educativos y un prerrequisito creciente para el éxito social: se espera que los ciudadanos accedan a la información y la transformen en conocimiento mediante prácticas de lectura y escritura. Citan investigaciones que"
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "El artículo atiende una brecha instrumental concreta: existen numerosos cuestionarios para evaluar las estrategias metacognitivas con que se leen textos expositivos escolares, pero los autores afirman que no conocen instrumentos específicos para la comprensión de textos literarios narrativos. Esa ausencia importa porque la metacognición —la concien",
+      "porQueImporta": "El estudio contribuye al avance del conocimiento científico y pedagógico sobre la lectura y la formación docente.",
+      "dataPoints": [
+        "Laird y Deane (1997); y la Escala de Conciencia Lectora, de Jiménez, Puente, Alvarado y Arrebillaga (2009), además del Metacognitive Awareness Reading Inventory (MARSI), el más empleado internacionalmente. El MARSI —30 enunciados agrupados en tres subescalas— evalúa el uso autopercibido de estrategias, no una medida de comprensión, y sirve para planificar actividades de aula.",
+        "3; Evaluación de estrategias pp. 2-3]`"
+      ],
+      "glossary": [
+        {
+          "term": "Metacognición lectora",
+          "definition": "conocimiento sobre las habilidades cognitivas y los mecanismos que exige comprender un texto."
+        },
+        {
+          "term": "CEMCoTeN",
+          "definition": "cuestionario específico para estrategias metacognitivas de comprensión de textos narrativos."
+        },
+        {
+          "term": "MARSI",
+          "definition": "inventario internacional de conciencia metacognitiva de lectura, base estructural del estudio."
+        },
+        {
+          "term": "Análisis factorial",
+          "definition": "técnica estadística que agrupa ítems según la estructura subyacente del instrumento."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Ruta metodológica y diseño de investigación",
+      "narrativa": "Se trata de un estudio instrumental de construcción y validación psicométrica. Participaron 610 estudiantes de la Universidad de Castilla-La Mancha, con edades entre 18 y 54 años (media 21.74, desviación típica 4.25); el 75% tenía menos de 22 años y el 80% eran mujeres. La muestra procedía de los grados de Educación, Educación Social y Trabajo Social, lo que los autores reconocen que explica el se",
+      "detalles": [
+        {
+          "label": "Diseño",
+          "value": "Análisis empírico o teórico de corpus según fuentes primarias"
+        }
+      ],
+      "limitaciones": [
+        "Los autores sí declaran límites: los datos provienen de pruebas de autoinforme, con la consiguiente influencia de la **deseabilidad social**; el estudio es transversal, por lo que las relaciones anali"
+      ],
+      "reflexion": "Si diseñaras un instrumento de estrategias lectoras para tu contexto, ¿qué harías para mitigar la deseabilidad social detectada por los autores?"
+    },
+    "revelacion": {
+      "titulo": "Hallazgos clave y evidencia textual",
+      "narrativa": "Los hallazgos fundamentales identificados en la investigación revelan:",
+      "hallazgos": [
+        {
+          "label": "Estructura de tres factores.",
+          "value": "La solución fijada en tres factores explicó el 46% de la varianza, con una fiabilidad para el total de la escala de .83. Los factores fueron Estrategias Globales de Lectura (EGL), Estrategias de Personalización (EP) y Estrategias de Creatividad (EC)."
+        },
+        {
+          "label": "Exploración inicial de cinco factores.",
+          "value": "El primer análisis factorial libre con rotación Varimax arrojó cinco factores que explicaban el 61.59% de la varianza. El primer factor reunió ítems de personalización del texto (15.27% de varianza) y el segundo, actividad creativa (14.25%). Los tres factores restantes explicaban"
+        },
+        {
+          "label": "Adecuación muestral.",
+          "value": "La medida Kaiser-Meyer-Olkin (KMO= .86) y la prueba de esfericidad de Bartlett (χ2(136)= 2459.78, p< .001) confirmaron la bondad para reducir datos en la prueba final. Para el instrumento reducido se eliminaron los ítems con extracción inferior a .500, quedando 17 ítems."
+        },
+        {
+          "label": "Relación entre factores.",
+          "value": "La asociación fue mayor entre las estrategias específicas de narrativa —Creatividad y Personalización— (r= .76, p< .001) que entre estas y las Globales (EGL/EP: r= .54; EGL/EC: r= .50; p< .001)."
+        }
+      ],
+      "dataPoints": [
+        "Evidencia textual documentada en las fuentes primarias."
+      ],
+      "reflexion": "La evidencia empírica articula directamente las conclusiones pedagógicas del estudio."
+    },
+    "marco": {
+      "titulo": "Marco teórico, escuelas y controversia",
+      "narrativa": "El artículo describe primero el instrumento de referencia internacional. El MARSI está formado por 30 enunciados, cada uno asociado a un tipo de estrategia, y el estudiante indica la frecuencia de uso en una escala de Nunca a Siempre. Sus ítems se agrupan en tres subescalas: Estrategias Globales de Lectura (control y gestión de la lectura), Estrategias de Resolución de Problemas (obstáculos de com",
+      "detalles": [
+        {
+          "label": "Tradición Teórica",
+          "value": "Teorías de la lectura, didáctica de la lengua y estudios literarios."
+        }
+      ],
+      "reflexion": "¿El aporte de distinguir Creatividad y Personalización supera al contra-argumento de que comparten demasiados ítems para ser factores separados?"
+    },
+    "nucleo": {
+      "pregunta": "¿Es posible construir un instrumento válido y fiable para evaluar las estrategias metacognitivas que los universitarios activan al comprender textos literarios narrativos, cuando los cuestionarios existentes se orientan a lo expositivo?",
+      "conclusion": "Sí, y con una estructura propia de tres factores. El CEMCoTeN diferencia Estrategias Globales de Lectura, Estrategias de Personalización y Estrategias de Creatividad, explicando el 46% de la varianza con una fiabilidad total de .83. La validez convergente con la frecuencia y el volumen de lectura voluntaria, así como la superioridad sistemática de las mujeres en los tres componentes, respaldan al instrumento. Los autores lo conciben como herramie",
+      "formalRef": "Larrañaga, E. y Yubero, S. (2015). Evaluación de las estrategias metacognitivas de comprensión de textos narrativos. *Ocnos*, 14, 18-27. https://doi.org/10.18239/ocnos_2015.14.02"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué tres factores de estrategias metacognitivas diferenció el CEMCoTeN?",
+          "options": [
+            "A) Comprensión literal, inferencial y crítica.",
+            "B) Estrategias Globales de Lectura, de Personalización y de Creatividad.",
+            "C) Resolución de Problemas, Apoyo a la Lectura y Memorización.",
+            "D) Descodificación, fluidez y vocabulario."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Con qué medidas mostró el CEMCoTeN validez convergente?",
+          "options": [
+            "A) Con una prueba de velocidad lectora.",
+            "B) Con notas académicas finales.",
+            "C) Con la frecuencia y el volumen de lectura voluntaria.",
+            "D) Con un test de inteligencia verbal."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "Diseña una micro-intervención de una sesión que active las Estrategias de Personalización («ponerse en el lugar de los personajes», «relacionar el texto con la vida real») y explica cómo recogerías evidencia de su efecto."
+        },
+        {
+          "type": "open",
+          "q": "El artículo indica que no existen instrumentos equivalentes para narrativa. ¿Qué práctica de lectura de tu ámbito podría beneficiarse de este diagnóstico y cómo la conectarías con el trabajo sobre metacognición en textos expositivos?"
+        }
+      ]
+    }
+  }
+}

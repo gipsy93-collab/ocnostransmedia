@@ -1,0 +1,377 @@
+{
+  "id": "alfabetizacion_inicial_tipo_familia",
+  "metadata": {
+    "id": "alfabetizacion_inicial_tipo_familia",
+    "title": "Análisis de la alfabetización inicial en función del tipo de familia",
+    "authors": [
+      "Cristina De-La-Peña",
+      "Nicolás Parra-Bolaños",
+      "Juliana-María Fernández-Medina"
+    ],
+    "year": 2018,
+    "volume": "17",
+    "issue": "1",
+    "pages": "32-42",
+    "doi": "10.18239/ocnos_2018.17.1.1336",
+    "keywords": [
+      "alfabetización inicial",
+      "tipología familiar",
+      "conciencia fonológica",
+      "educación infantil",
+      "ambiente alfabetizador"
+    ],
+    "abstract": "Estudio empírico con 181 escolares de Educación Infantil (5-6 años) en España que evalúa componentes clave de la alfabetización temprana (conciencia fonológica, conocimiento alfabético, vocabulario y lenguaje oral) comparando familias nucleares intactas y monoparentales/reconstituidas. Los resultados revelan homogeneidad en el desarrollo inicial independientemente de la estructura familiar formal."
+  },
+  "blocks": {
+    "apertura": {
+      "tipo": "apertura",
+      "contenido": "¿Determina la estructura formal de una familia (nuclear tradicional frente a monoparental o reconstituida) el éxito del niño en los inicios del aprendizaje de la lectura y la escritura? ¿O pesan mucho más las prácticas compartidas y el clima alfabetizador hogareño? Este estudio con 181 escolares de 5 a 6 años aporta evidencia rigurosa sobre la alfabetización inicial.",
+      "interaccion": {
+        "tipo": "eleccion_camino",
+        "texto": "Selecciona la perspectiva de indagación sociolingüística:",
+        "opciones": [
+          {
+            "id": "psicocognitiva",
+            "texto": "Perspectiva psicolingüística: conciencia fonológica y conocimiento del principio alfabético"
+          },
+          {
+            "id": "sociologica",
+            "texto": "Perspectiva sociológica: transformaciones en las tipologías familiares contemporáneas"
+          },
+          {
+            "id": "educativa",
+            "texto": "Perspectiva educativa: mediación del hogar y rol compensador de la escuela infantil"
+          }
+        ]
+      }
+    },
+    "conflicto": {
+      "tipo": "conflicto",
+      "contenido": "Históricamente han circulado prejuicios teóricos que asocian las configuraciones familiares no tradicionales (como hogares monoparentales o reconstituidos tras divorcio) con un supuesto déficit en el desarrollo lingüístico y lectoescritor temprano de los menores, desatendiendo la calidad real de las interacciones comunicativas cotidianas.",
+      "interaccion": {
+        "tipo": "pregunta_reflexion",
+        "texto": "¿Qué factor explica mejor el desarrollo lector temprano en el hogar?",
+        "opciones": [
+          {
+            "id": "c1",
+            "texto": "La frecuencia y riqueza afectiva de la lectura compartida de cuentos y el diálogo interactivo entre adultos y niños.",
+            "correcta": true,
+            "explicacion": "Exacto: la evidencia científica demuestra que las prácticas alfabetizadoras compartidas y el afecto son mucho más determinantes que el número de progenitores o el estado civil."
+          },
+          {
+            "id": "c2",
+            "texto": "La estructura conyugal formal y la cantidad estricta de adultos convivientes en el domicilio.",
+            "correcta": false,
+            "explicacion": "La tipología formal por sí sola no predice las destrezas fonológicas ni el vocabulario del menor sin considerar las prácticas reales."
+          }
+        ]
+      }
+    },
+    "viaje": {
+      "tipo": "viaje",
+      "contenido": "El equipo investigador evaluó a 181 alumnos del último curso de Educación Infantil en diversos centros educativos de Madrid y Castilla-La Mancha. Aplicaron baterías estandarizadas de evaluación del lenguaje oral y habilidades prelectoras (conciencia fonológica, conocimiento de letras, denominación y vocabulario receptivo), recabando datos sociodemográficos familiares mediante cuestionario.",
+      "interaccion": {
+        "tipo": "exploracion_fases",
+        "elementos": [
+          {
+            "fase": "Muestra infantil",
+            "detalle": "181 escolares de 5 a 6 años escolarizados en tercer curso del segundo ciclo de Infantil."
+          },
+          {
+            "fase": "Clasificación familiar",
+            "detalle": "Segmentación entre familias nucleares biológicas biparentales y familias monoparentales o reconstituidas."
+          },
+          {
+            "fase": "Batería de pruebas",
+            "detalle": "Aplicación estandarizada de subescalas de conciencia fonológica, vocabulario y principio alfabético."
+          },
+          {
+            "fase": "Análisis de contrastes",
+            "detalle": "Comparaciones estadísticas inferenciales (pruebas t y ANOVA) para contrastar hipótesis de diferencias."
+          }
+        ]
+      }
+    },
+    "revelacion": {
+      "tipo": "revelacion",
+      "contenido": "No se encontraron diferencias estadísticamente significativas en el nivel de alfabetización inicial de los niños en función del tipo de estructura familiar. Los menores de hogares monoparentales y reconstituidos mostraron niveles equivalentes de conciencia fonológica, vocabulario y conocimiento de letras respecto a sus pares de familias nucleares.",
+      "datos_clave": [
+        "Muestra de 181 escolares de 5 y 6 años evaluados en habilidades prelectoras estandarizadas.",
+        "Ausencia de diferencias significativas (p > .05) atribuibles a la configuración formal de la familia.",
+        "Rendimiento homogéneo en conciencia de sílabas, fonemas y conocimiento del abecedario.",
+        "Confirmación de que la calidad del vínculo y la estimulación verbal superan la variable morfológica familiar."
+      ]
+    },
+    "marco": {
+      "tipo": "marco",
+      "contenido": "La investigación dialoga con la teoría ecológico-sistémica de Bronfenbrenner, los marcos de alfabetización emergente de Whitehurst y Lonigan (1998), y los estudios sociológicos sobre nuevas dinámicas familiares en España y Europa.",
+      "referencias_clave": [
+        "Bronfenbrenner (1979)",
+        "Whitehurst & Lonigan (1998)",
+        "Sénéchal & LeFevre (2002)",
+        "De-La-Peña et al. (2018)"
+      ]
+    },
+    "nucleo": {
+      "tipo": "nucleo",
+      "contenido": "El aprendizaje temprano de la lectura no depende de si el hogar responde al modelo de familia nuclear tradicional o a nuevas estructuras familiares, sino de la calidez, la interacción verbal frecuente y las oportunidades enriquecedoras de contacto con la cultura escrita que se brindan al menor.",
+      "hallazgo_central": "Las habilidades de alfabetización inicial en Educación Infantil son independientes de la tipología familiar, desmontando prejuicios sobre déficits en familias monoparentales o reconstituidas."
+    },
+    "juegos": {
+      "tipo": "juegos",
+      "actividades": [
+        {
+          "tipo": "asociacion",
+          "instruccion": "Empareja los constructos de alfabetización emergente con su manifestación observable:",
+          "pares": [
+            {
+              "concepto": "Conciencia fonológica",
+              "definicion": "Capacidad metalingüística para segmentar, aislar y manipular sílabas y fonemas orales."
+            },
+            {
+              "concepto": "Principio alfabético",
+              "definicion": "Comprensión de la correspondencia grafema-fonema entre signos escritos y sonidos del habla."
+            },
+            {
+              "concepto": "Ambiente alfabetizador",
+              "definicion": "Presencia de libros infantiles, lectura compartida frecuente y modelado letrado en el hogar."
+            }
+          ]
+        }
+      ]
+    },
+    "mapa": {
+      "titulo": "Mapa Conceptual: Alfabetización Inicial y Tipologías Familiares en Educación Infantil",
+      "descripcion": "Evaluación comparativa de habilidades prelectoras infantiles según la estructura formal del núcleo familiar.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Alfabetización Inicial y Tipología Familiar",
+          "color": "#1E3A8A",
+          "role": "Objetivo",
+          "descripcion": "Objetivo primordial del estudio: determinar si existen diferencias significativas en las habilidades prelectoras de niños de cinco y seis años en función de la estructura formal del núcleo familiar del que proceden."
+        },
+        {
+          "id": "2",
+          "label": "Pluralidad de Modelos Familiares",
+          "color": "#2563EB",
+          "role": "Marco teórico",
+          "descripcion": "Marco sociológico contemporáneo que describe la diversificación de configuraciones familiares en España, incluyendo hogares nucleares biológicos, monoparentales, adoptivos y reconstituidos tras rupturas de pareja."
+        },
+        {
+          "id": "3",
+          "label": "Constructo de Alfabetización Emergente",
+          "color": "#1D4ED8",
+          "role": "Marco teórico",
+          "descripcion": "Enfoque de Whitehurst y Lonigan sobre las destrezas precursoras de la lectoescritura que se gestan en la primera infancia antes de la instrucción formal sistemática y que predicen el éxito académico futuro."
+        },
+        {
+          "id": "4",
+          "label": "Conciencia Fonológica y Principio Alfabético",
+          "color": "#3B82F6",
+          "role": "Marco teórico",
+          "descripcion": "Habilidades psicolingüísticas metafonológicas y de correspondencia entre grafemas y fonemas reconocidas por la literatura como pilares indispensables para la decodificación fluida en lenguas alfabéticas."
+        },
+        {
+          "id": "5",
+          "label": "Diseño Comparativo Ex Post Facto",
+          "color": "#059669",
+          "role": "Método",
+          "descripcion": "Diseño metodológico no experimental, comparativo y transversal orientado a contrastar el rendimiento lector inicial entre grupos formados naturalmente según la variable independiente de tipo de familia."
+        },
+        {
+          "id": "6",
+          "label": "Muestra de 181 Escolares de 5 a 6 Años",
+          "color": "#10B981",
+          "role": "Método",
+          "descripcion": "Muestra participante conformada por 181 alumnos del tercer curso del segundo ciclo de Educación Infantil matriculados en centros educativos públicos y concertados de la zona centro de España."
+        },
+        {
+          "id": "7",
+          "label": "Baterías Estandarizadas de Lenguaje",
+          "color": "#047857",
+          "role": "Método",
+          "descripcion": "Administración individualizada de pruebas estandarizadas de evaluación prelectora que valoran discriminación auditiva, conciencia fonémica, vocabulario léxico receptivo y velocidad de denominación rápida."
+        },
+        {
+          "id": "8",
+          "label": "Cuestionario Sociodemográfico Familiar",
+          "color": "#065F46",
+          "role": "Método",
+          "descripcion": "Instrumento cumplimentado por los tutores legales para categorizar la tipología familiar del hogar, el nivel de estudios parental y los hábitos habituales de lectura compartida de cuentos con los niños."
+        },
+        {
+          "id": "9",
+          "label": "Equivalencia en Conciencia Fonológica",
+          "color": "#D97706",
+          "role": "Resultados",
+          "descripcion": "Los análisis inferenciales revelaron la ausencia de diferencias estadísticamente significativas (p mayor a punto cero cinco) en habilidades metafonológicas entre niños de familias nucleares y monoparentales."
+        },
+        {
+          "id": "10",
+          "label": "Homogeneidad en Vocabulario y Letras",
+          "color": "#F59E0B",
+          "role": "Resultados",
+          "descripcion": "Puntuaciones equivalentes en conocimiento del nombre y sonido de las letras y en vocabulario léxico receptivo entre los distintos subgrupos familiares evaluados en el último curso de Educación Infantil."
+        },
+        {
+          "id": "11",
+          "label": "Desarticulación del Prejuicio Estructural",
+          "color": "#B45309",
+          "role": "Resultados",
+          "descripcion": "Evidencia empírica directa que desmiente la hipótesis tradicional de que los menores criados en familias monoparentales o reconstituidas experimentan desventajas lingüísticas sistemáticas al iniciar la lectura."
+        },
+        {
+          "id": "12",
+          "label": "Prevalencia del Clima Relacional Afectivo",
+          "color": "#7C3AED",
+          "role": "Discusión",
+          "descripcion": "Discusión teórica que argumenta que la calidad de los intercambios afectivos y la frecuencia de mediación verbal en el hogar resultan decisivamente más explicativas que la estructura civil o marital externa."
+        },
+        {
+          "id": "13",
+          "label": "Rol Ecualizador de la Escuela Infantil",
+          "color": "#8B5CF6",
+          "role": "Discusión",
+          "descripcion": "Debate pedagógico sobre el papel compensatorio y homogeneizador que desempeña la educación formal temprana al ofrecer experiencias letradas estructuradas a todos los menores de forma equitativa."
+        },
+        {
+          "id": "14",
+          "label": "Reconocimiento de la Diversidad Familiar",
+          "color": "#DC2626",
+          "role": "Conclusiones",
+          "descripcion": "Conclusión fundamental que insta a erradicar visiones deficitarias asociadas a modelos familiares no tradicionales en los proyectos curriculares y en las actitudes de los equipos docentes de Infantil."
+        },
+        {
+          "id": "15",
+          "label": "Promoción de la Lectura Compartida Hogareña",
+          "color": "#EF4444",
+          "role": "Conclusiones",
+          "descripcion": "Recomendación psicoeducativa orientada a orientar y empoderar a todas las familias en técnicas de lectura dialógica compartida de álbumes ilustrados, independientemente de su estructura conyugal."
+        },
+        {
+          "id": "16",
+          "label": "Limitaciones Muestrales y Socioeconómicas",
+          "color": "#4B5563",
+          "role": "Limitaciones",
+          "descripcion": "Limitación explícita vinculada a la concentración geográfica en el centro peninsular y a la necesidad de controlar con mayor finura el nivel socioeconómico exacto y el capital cultural disponible en casa."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "2",
+          "label": "contextualiza en"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se fundamenta en"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se investiga mediante"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "comprende"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "evalúa a"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "administra"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "recaba datos con"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "arroja"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "evidencia"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "permite constatar"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "fundamenta"
+        },
+        {
+          "from": "10",
+          "to": "11",
+          "label": "refuerza"
+        },
+        {
+          "from": "11",
+          "to": "12",
+          "label": "se interpreta mediante"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "resalta"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "sustenta"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "apoya"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "deriva en"
+        },
+        {
+          "from": "5",
+          "to": "16",
+          "label": "conlleva"
+        },
+        {
+          "from": "6",
+          "to": "16",
+          "label": "restringe generalización en"
+        },
+        {
+          "from": "4",
+          "to": "9",
+          "label": "se operacionaliza en"
+        },
+        {
+          "from": "12",
+          "to": "15",
+          "label": "potencia"
+        }
+      ]
+    },
+    "reflexion": {
+      "tipo": "reflexion",
+      "contenido": "La investigación derriba con datos empíricos el estigma sobre las familias monoparentales o reconstituidas en el aprendizaje inicial de la lectura. Lo crucial en el hogar no es cuántos adultos conviven o su estado legal, sino el amor, el diálogo y el tiempo que comparten con los libros infantiles.",
+      "preguntas": [
+        "¿Mantiene la comunidad educativa expectativas sesgadas inconscientes sobre los menores procedentes de hogares monoparentales o divorciados?",
+        "¿Cómo puede la escuela infantil formar a madres y padres solos para maximizar los momentos cotidianos de lectura compartida?"
+      ]
+    }
+  }
+}

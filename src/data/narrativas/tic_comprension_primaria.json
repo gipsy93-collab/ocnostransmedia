@@ -23,49 +23,49 @@
     "apertura": {
       "personaje": "Dra. Iris-Orosia Campos, especialista en impacto tecnológico en la alfabetización escolar",
       "gancho": "¿Es la digitalización de las aulas de Primaria una bendición pedagógica o una promesa tecnológica incumplida?",
-      "contexto": "El despliegue masivo de tabletas, pantallas interactivas y programas digitales en las escuelas primarias prometía revolucionar el aprendizaje lector. Sin embargo, los últimos datos de informes como PIRLS muestran correlaciones inversas o contradictorias entre tiempo de pantalla y rendimiento lector. En este estudio empírico con 412 escolares de 4.º y 6.º de Primaria en Aragón, las autoras investigaron la relación real entre la frecuencia y tipología de uso de TIC y los niveles de comprensión lectora.",
+      "contexto": "El despliegue masivo de tabletas, pantallas interactivas y programas digitales en las escuelas primarias prometía revolucionar el aprendizaje lector. Sin embargo, los datos de informes como PISA muestran que el uso de las TIC en las aulas no se vincula significativamente a mejores resultados y que, en ocasiones, existe una asociación negativa con el rendimiento en ciertas competencias. En este estudio empírico con 410 escolares de 3.º y 6.º de Primaria en Aragón, las autoras investigaron la relación real entre la mediación parental, la finalidad y el tiempo de uso de TIC y los niveles de comprensión lectora.",
       "deepDives": [
         {
           "id": "tic-apertura-1",
           "triggerLabel": "La paradoja de las TIC en la infancia",
           "type": "theory",
-          "content": "El uso instrumental para tareas creativas potencia competencias, pero el consumo pasivo o lúdico desregulado fragmenta la atención sostenida."
+          "content": "El uso de las TIC con finalidad escolar o comunicativa (usos híbridos) se asocia a mejor comprensión lectora, mientras que el uso exclusiva o fundamentalmente lúdico se asocia a peor rendimiento."
         },
         {
           "id": "tic-apertura-2",
-          "triggerLabel": "Muestra de 412 estudiantes",
+          "triggerLabel": "Muestra de 410 estudiantes",
           "type": "data",
-          "content": "412 escolares evaluados con pruebas estandarizadas de comprensión (ACL) y cuestionarios de frecuencia de uso de dispositivos."
+          "content": "410 escolares de 3.º (N=142) y 6.º (N=268) evaluados con las pruebas de comprensión del MEFP (2018a/b) y un cuestionario de mediación parental."
         }
       ]
     },
     "conflicto": {
       "problema": "Muchas políticas escolares introdujeron tabletas individuales sustituyendo libros de texto sin un modelo pedagógico claro de lectura digital profunda.",
-      "porQueImporta": "El uso abusivo de pantallas no guiadas en la infancia temprana reduce la paciencia cognitiva para procesar narrativas complejas.",
+      "porQueImporta": "El uso abusivo y no mediado de las pantallas durante la infancia puede alterar la capacidad de concentración y mermar los niveles inferencial y crítico de la comprensión lectora.",
       "dataPoints": [
-        "Muestra de 412 escolares de 9 a 12 años.",
-        "Correlación negativa significativa entre horas diarias de pantalla recreativa en el hogar y comprensión inferencial (r = -.31).",
-        "Diferencia cualitativa: el uso escolar guiado de TIC para buscar información en proyectos produjo efectos ligeramente positivos.",
-        "El 68% de los alumnos de 6.º declaró usar el smartphone más de 2 horas diarias entre semana."
+        "Muestra de 410 escolares de 3.º y 6.º de Primaria de nueve centros de Aragón.",
+        "El tiempo dedicado a las TIC no correlaciona significativamente con la comprensión lectora, ni entre semana ni en fin de semana.",
+        "Correlación positiva débil entre el índice de mediación parental y la comprensión lectora (r=.199 en 3.º y r=.235 en 6.º).",
+        "En 6.º, los usos híbridos (educativos o comunicativos) logran mejor comprensión que el uso exclusiva o fundamentalmente lúdico."
       ],
       "glossary": [
         {
-          "term": "Paciencia cognitiva",
-          "definition": "Disposición mental para perseverar en la lectura pausada de un texto largo y complejo sin exigir recompensas visuales inmediatas."
+          "term": "Mediación parental",
+          "definition": "Grado de supervisión y acompañamiento que los tutores legales ejercen sobre el tiempo, la finalidad y los contenidos del uso de las TIC por parte del alumnado; un índice inferior a 2 puntos indica mediación insuficiente o situación de riesgo."
         }
       ]
     },
     "viaje": {
       "titulo": "Ruta metodológica: Evaluación de comprensión y baremación de hábitos TIC",
-      "narrativa": "Las investigadoras aplicaron la batería estandarizada ACL-4 y ACL-6 y triangularon los resultados con un cuestionario exhaustivo sobre usos tecnológicos en el aula y en casa.",
+      "narrativa": "Las investigadoras aplicaron las pruebas de comprensión lectora del MEFP para 3.º y 6.º y triangularon los resultados con un cuestionario sobre uso de las TIC y mediación parental en el hogar.",
       "detalles": [
         {
           "label": "Participantes",
-          "value": "412 estudiantes de Educación Primaria en centros de Aragón."
+          "value": "410 estudiantes de 3.º (N=142) y 6.º (N=268) de Educación Primaria en nueve centros de Aragón."
         },
         {
           "label": "Instrumentos",
-          "value": "Batería de Comprensión Lectora ACL y Escala de Hábitos TIC."
+          "value": "Pruebas de comprensión lectora del MEFP (2018a/b) y cuestionario de mediación parental (17 ítems, α=.862)."
         }
       ],
       "limitaciones": [
@@ -78,16 +78,16 @@
       "narrativa": "Los datos permitieron matizar el debate entre tecnófilos y tecnófobos:",
       "hallazgos": [
         {
-          "label": "1. El Ocio Digital Devora la Lectura",
-          "value": "El tiempo dedicado a videojuegos y redes sociales en casa correlaciona directamente con peores notas en comprensión lectora."
+          "label": "1. La Finalidad Importa Más que el Tiempo",
+          "value": "El uso exclusiva o fundamentalmente lúdico se vincula a peores puntuaciones, mientras que el tiempo de uso no muestra correlación con la comprensión."
         },
         {
-          "label": "2. La Mediación Docente Marca la Diferencia",
-          "value": "Cuando la tableta se usa en el aula bajo una consigna clara de investigación y debate guiado, no daña la comprensión y enriquece el vocabulario."
+          "label": "2. La Mediación Parental Marca la Diferencia",
+          "value": "Una mayor mediación parental en el uso de las TIC se asocia a puntuaciones más altas en comprensión lectora, sobre todo en los niveles inferencial y crítico."
         }
       ],
       "dataPoints": [
-        "Diferencia de 18 puntos en la escala ACL entre estudiantes con bajo vs. alto consumo de pantallas recreativas."
+        "En 6.º, quienes hacen usos híbridos superan a quienes usan las TIC de forma exclusivamente lúdica (U=968.5; p=.014)."
       ],
       "reflexion": "Dar una tableta a un niño sin enseñarle a leer críticamente es dejarlo a la deriva en un océano de estímulos."
     },
@@ -96,22 +96,22 @@
       "narrativa": "Campos y Rivera-Alegre defienden una coexistencia armónica y regulada:",
       "detalles": [
         {
-          "label": "Blindar el Papel en Primaria",
-          "value": "Mantener la lectura de libros impresos en papel como base innegociable de la concentración infantil."
+          "label": "Alfabetización digital y finalidad de uso",
+          "value": "Contrarrestar las deficiencias del acceso hogareño a las TIC con actuaciones hacia una sólida alfabetización digital, prioritaria en el tercer ciclo de Primaria."
         }
       ],
-      "reflexion": "La mejor tecnología educativa inventada en los últimos quinientos años sigue siendo el libro impreso."
+      "reflexion": "No importa tanto cuánto tiempo se usa la pantalla, sino con qué finalidad y con qué mediación."
     },
     "nucleo": {
       "pregunta": "¿Cómo influye el uso escolar y extraescolar de las TIC en el desarrollo de la comprensión lectora en escolares de Educación Primaria?",
-      "conclusion": "El estudio empírico con 412 escolares de 4.º y 6.º de Primaria concluye que el tiempo de uso recreativo de pantallas en el hogar tiene un impacto negativo en la comprensión lectora inferencial. Por el contrario, el uso guiado de TIC en el aula para proyectos cooperativos no merma la comprensión. Se recomienda una dieta digital equilibrada que proteja la lectura en papel como pilar insustituible de la paciencia cognitiva infantil.",
+      "conclusion": "El estudio empírico con 410 escolares de 3.º y 6.º de Primaria concluye que el uso de las TIC mayoritariamente lúdico y la escasa mediación parental se asocian a un menor nivel de comprensión lectora, sobre todo en los niveles inferencial y crítico. El tiempo de uso no correlaciona con la comprensión; en cambio, los usos híbridos (educativos o comunicativos) se asocian a mejores resultados. Se recomienda reforzar la alfabetización digital, en especial en el tercer ciclo de Primaria.",
       "formalRef": "Campos, I. O., & Rivera-Alegre, P. (2024). Influencia del uso de las TIC en el desarrollo de la comprensión lectora en Educación Primaria. Ocnos, 23(2). https://doi.org/10.18239/ocnos_2024.23.2.451"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué tipo de uso de dispositivos tecnológicos correlacionó de forma más negativa con la comprensión lectora en los 412 escolares evaluados?",
+          "q": "¿Qué tipo de uso de dispositivos tecnológicos correlacionó de forma más negativa con la comprensión lectora en los 410 escolares evaluados?",
           "options": [
             "El uso de programas de ajedrez en la biblioteca.",
             "El consumo recreativo no regulado de pantallas en el hogar (videojuegos, redes y vídeos rápidos).",
@@ -122,21 +122,21 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué concepto psicológico define la capacidad de perseverar en la lectura pausada de un texto largo sin exigir estímulos inmediatos?",
+          "q": "¿Qué tesis, respaldada por el metaanálisis de Delgado et al. (2018), sostiene que la comprensión es superior en papel que en pantalla?",
           "options": [
+            "El efecto de superioridad del papel.",
             "La euforia digital.",
-            "La paciencia cognitiva.",
             "La memoria fotográfica.",
             "El reflejo ocular rápido."
           ],
-          "correct": 1
+          "correct": 0
         },
         {
           "type": "choice",
           "q": "¿Qué propuesta metodológica defienden las autoras para las aulas de Educación Primaria?",
           "options": [
             "Prohibir toda la tecnología y volver a las pizarras de tiza exclusivamente.",
-            "Un modelo híbrido equilibrado que blinde la lectura de libros en papel y use las TIC solo bajo mediación y proyectos guiados.",
+            "Un modelo equilibrado que refuerce la alfabetización digital y la mediación parental, atendiendo a la finalidad de uso más que a la frecuencia.",
             "Sustituir todos los libros por tabletas individuales.",
             "No evaluar la comprensión lectora nunca más."
           ],
@@ -144,7 +144,7 @@
         },
         {
           "type": "open",
-          "q": "Diseña un 'contrato familiar de dieta digital' para familias de 5.º de Primaria donde se pacten horarios libres de pantallas y tiempos sagrados de lectura compartida de libros en papel."
+          "q": "Diseña un plan de mediación parental para familias de 6.º de Primaria donde se pacten horarios de uso de las TIC, se supervisen los contenidos y se prioricen los usos escolares y comunicativos."
         },
         {
           "type": "open",
@@ -163,15 +163,15 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Evaluamos a 412 alumnos de Primaria con pruebas estandarizadas ACL y medimos sus horas reales de pantalla.",
+      "text": "Evaluamos a 410 alumnos de 3.º y 6.º de Primaria con las pruebas del MEFP y medimos su mediación parental y uso de TIC.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El ocio digital desregulado destruye la paciencia cognitiva! Pero el uso escolar guiado puede ser un aliado si se sabe mediar.",
+      "text": "¡El uso puramente lúdico y la escasa mediación parental se asocian a peor comprensión! Pero los usos híbridos pueden ser aliados si se sabe mediar.",
       "position": "bottom-right"
     },
     "marco": {
-      "text": "Defendamos la dieta digital equilibrada: el libro de papel es el mejor santuario para la mente de un niño.",
+      "text": "Lo que importa es la finalidad y la mediación: no cuánto tiempo frente a la pantalla, sino para qué y con quién se usa.",
       "position": "bottom-right"
     },
     "nucleo": {
@@ -179,7 +179,7 @@
       "position": "bottom-right"
     },
     "mapa": {
-      "text": "Explora el mapa conceptual interactivo para ver la interacción entre TIC, paciencia cognitiva, uso escolar y familiar.",
+      "text": "Explora el mapa conceptual interactivo para ver la interacción entre TIC, mediación parental, uso escolar y familiar.",
       "position": "bottom-right"
     },
     "reflexion": {
@@ -188,110 +188,244 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: TIC y Comprensión Lectora en Educación Primaria",
-    "descripcion": "Estudio con 412 escolares (Aragón): uso recreativo vs. escolar de pantallas, paciencia cognitiva, batería ACL y modelo híbrido equilibrado.",
+    "titulo": "Mapa conceptual: mediación parental en el uso de TIC y comprensión lectora",
+    "descripcion": "Recorrido completo del artículo (Campos y Rivera-Alegre, Ocnos 23(2)): marco teórico, objetivos e hipótesis, método ex post facto con 410 escolares de 3.º y 6.º de Primaria (Aragón), resultados por objetivo, conclusiones, implicancias y limitaciones.",
     "nodos": [
       {
         "id": "1",
-        "label": "Uso de TIC en Primaria",
-        "color": "#2a5a75"
+        "label": "Debate sobre el impacto nocivo de las TIC en la lectura",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Introducción: el avance científico cuestiona el posible impacto nocivo de una sobreexposición no mediada a las TIC en el desarrollo de la competencia lectora (L'Ecuyer, 2019; Gil-Pelluch et al., 2020)."
       },
       {
         "id": "2",
-        "label": "Paciencia Cognitiva Infantil",
-        "color": "#88b04b"
+        "label": "Crítica al mito del 'nativo digital' (Prensky)",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "La tesis de Prensky (2001) carece de fundamentación científica: la infancia no está capacitada per se para un uso eficiente de las TIC (Granado, 2019; Cassany, 2012; Lluna y Pedreira, 2017)."
       },
       {
         "id": "3",
-        "label": "Uso Recreativo en Hogar (-r)",
-        "color": "#c73e1d"
+        "label": "Efecto de Superioridad del Papel (ESP)",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Metaanálisis de 54 estudios (Delgado et al., 2018) y revisiones (L'Ecuyer, 2019): la comprensión es superior en soporte impreso que en pantalla."
       },
       {
         "id": "4",
-        "label": "Uso Escolar Guiado (+r)",
-        "color": "#2a9d8f"
+        "label": "Cerebro 'bialfabetizado' y mediación adulta (Wolf)",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Wolf (2020): se requiere consolidar primero la lectura en soporte analógico y luego incluir las pantallas bajo mediación del adulto."
       },
       {
         "id": "5",
-        "label": "Batería de Comprensión ACL",
-        "color": "#5b9eaa"
+        "label": "Finalidad y mediación del uso frente a tiempo de pantalla",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Evidencia internacional: el uso lúdico excesivo se asocia a peor rendimiento lector, y el uso moderado o para leer a mejor rendimiento (Gubbels et al., 2020; Kong et al., 2022)."
       },
       {
         "id": "6",
-        "label": "Muestra 412 Escolares",
-        "color": "#264653"
+        "label": "Familia como contexto alfabetizador",
+        "color": "#f4d068",
+        "role": "Marco teórico",
+        "descripcion": "La influencia de la familia en la alfabetización (De-la-Peña et al., 2018; Jiménez-Pérez et al., 2020) sitúa el estudio en el hogar, sobre la estela de Campos y Arantegui-Benedí (2022)."
       },
       {
         "id": "7",
-        "label": "Fragmentación Atencional",
-        "color": "#e76f51"
+        "label": "Objetivos e hipótesis nulas",
+        "color": "#9b82c3",
+        "role": "Objetivos",
+        "descripcion": "Tres objetivos: explorar la mediación parental y situaciones de riesgo; analizar su correlación con la comprensión lectora; estudiar diferencias por tiempo y finalidad de uso (3.º vs. 6.º), con dos hipótesis nulas."
       },
       {
         "id": "8",
-        "label": "Blindaje del Libro en Papel",
-        "color": "#f4d068"
+        "label": "Diseño cuantitativo ex post facto (N=410, Aragón)",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Estudio no experimental con 410 estudiantes de 3.º (N=142) y 6.º (N=268) de Primaria de nueve centros de Aragón; muestreo no probabilístico por conveniencia; 50,6% niños, 68,8% centros públicos."
       },
       {
         "id": "9",
-        "label": "Dieta Digital Equilibrada",
-        "color": "#9b82c3"
+        "label": "Cuestionario de mediación parental (17 ítems, α=.862)",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Escala Likert de 5 niveles adaptada de Berrios-Valenzuela et al. (2015): acompañamiento, uso en situaciones desaconsejadas, horarios, contenidos inadecuados y situaciones de riesgo; índice <2 define situación de riesgo."
       },
       {
         "id": "10",
-        "label": "Comprensión Inferencial Profunda",
-        "color": "#f4a261"
+        "label": "Pruebas oficiales de comprensión lectora del MEFP",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Pruebas de 3.º y 6.º (MEFP, 2018a/b) con texto expositivo y preguntas de elección múltiple que valoran localizar, integrar/interpretar y valorar/reflexionar: niveles literal, inferencial y crítico."
+      },
+      {
+        "id": "11",
+        "label": "Análisis estadístico no paramétrico (SPSS 24)",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Tras comprobar normalidad y homogeneidad: U de Mann-Whitney, Kruskal-Wallis con post hoc y correlación de Spearman, con significación de .05."
+      },
+      {
+        "id": "12",
+        "label": "Resultado 1: mediación escasa que decae con la edad",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Uso mayoritariamente lúdico; índice de mediación 2.61 en 3.º frente a 2.13 en 6.º (U=10014; p<.001), con 9 de 17 ítems en situación de riesgo en 6.º frente a 5 en 3.º."
+      },
+      {
+        "id": "13",
+        "label": "Resultado 2: asociación positiva mediación-comprensión",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Correlaciones de Spearman significativas pero débiles (3.º r=.199; 6.º r=.235); en 6.º, la mediación insuficiente reduce la comprensión (H(2)=14.333; p=.001), sobre todo en integrar e interpretar información."
+      },
+      {
+        "id": "14",
+        "label": "Resultado 3: los usos híbridos superan al uso solo lúdico",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "El tiempo dedicado no correlaciona con la comprensión; en 6.º, quienes hacen usos híbridos (educativos/comunicativos) logran niveles superiores inferencial y crítico frente al uso exclusivamente lúdico (U=968.5; p=.014)."
+      },
+      {
+        "id": "15",
+        "label": "Conclusión: importa la finalidad y la mediación, no la frecuencia",
+        "color": "#88b04b",
+        "role": "Conclusiones",
+        "descripcion": "El impacto negativo potencial reside en el uso abusivo y no mediado, con mayor afección a los niveles inferencial y crítico que al literal."
+      },
+      {
+        "id": "16",
+        "label": "Implicancia: alfabetización digital en el tercer ciclo",
+        "color": "#2a5a75",
+        "role": "Conclusiones",
+        "descripcion": "Se concluye la necesidad de contrarrestar las deficiencias del acceso hogareño a las TIC con actuaciones educativas hacia una sólida alfabetización digital, de forma prioritaria en el tercer ciclo de Primaria."
+      },
+      {
+        "id": "17",
+        "label": "Limitaciones y líneas futuras",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "Muestreo por conveniencia que obliga a la cautela en la generalización; el diseño ex post facto solo permite asociar, no causalidad; se proponen análisis multivariados (Li y Wang, 2022)."
       }
     ],
     "aristas": [
       {
-        "from": "6",
+        "from": "2",
         "to": "1",
-        "label": "evalúa los patrones de"
+        "label": "cuestionado, abre el"
       },
       {
         "from": "1",
         "to": "3",
-        "label": "se divide en el peligroso"
+        "label": "se respalda en el"
       },
       {
         "from": "1",
-        "to": "4",
-        "label": "incluye el beneficioso"
-      },
-      {
-        "from": "3",
-        "to": "7",
-        "label": "provoca una severa"
-      },
-      {
-        "from": "7",
-        "to": "2",
-        "label": "erosiona y destruye la"
-      },
-      {
-        "from": "2",
-        "to": "10",
-        "label": "es la base indispensable para la"
-      },
-      {
-        "from": "5",
-        "to": "10",
-        "label": "mide psicométricamente la"
+        "to": "5",
+        "label": "concreta el conflicto en la"
       },
       {
         "from": "4",
-        "to": "10",
-        "label": "apoya cuando hay mediación la"
+        "to": "1",
+        "label": "ofrece una salida mediada al"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "fundamenta los"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "sitúa los"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se abordan con un"
       },
       {
         "from": "8",
-        "to": "2",
-        "label": "protege y fortalece la"
+        "to": "9",
+        "label": "recoge datos de uso y mediación con el"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "mide la comprensión con las"
       },
       {
         "from": "9",
-        "to": "8",
-        "label": "exige en las aulas el"
+        "to": "12",
+        "label": "evidencia"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "contrasta el"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "somete a prueba la"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "somete a prueba el"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "su índice correlaciona con la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "sus puntuaciones expresan la"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "sus dimensiones diferencian el"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "sustenta que"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "refuerza que"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "demuestra que"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "demanda"
+      },
+      {
+        "from": "4",
+        "to": "16",
+        "label": "respalda conceptualmente la"
+      },
+      {
+        "from": "8",
+        "to": "17",
+        "label": "impone cautela interpretativa en las"
+      },
+      {
+        "from": "17",
+        "to": "16",
+        "label": "refuerza la urgencia pedagógica de la"
       }
     ]
   }

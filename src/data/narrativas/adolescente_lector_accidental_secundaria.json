@@ -1,0 +1,399 @@
+{
+  "id": "adolescente_lector_accidental_secundaria",
+  "metadata": {
+    "title": "El adolescente como lector accidental de textos literarios: hábitos de lectura literaria en Educación Secundaria",
+    "authors": "Paula Rivera-Jurado y Manuel-Francisco Romero-Oliva",
+    "year": "2020",
+    "journal": "Ocnos 19(3)",
+    "doi": "10.18239/ocnos_2020.19.3.2313",
+    "gancho": "¿Es verdad que los adolescentes no leen o es que no leen lo que la escuela les prescribe?",
+    "duration": "12-15 min",
+    "badge": "Hábitos Lectores",
+    "disciplina": "Didáctica de la Lengua y la Literatura",
+    "dimensiones": [
+      "Canon Escolar",
+      "Lecturas Vernáculas",
+      "Lector Accidental",
+      "Competencia Literaria"
+    ],
+    "tags": [
+      "lectura_literaria",
+      "adolescencia",
+      "educacion_secundaria",
+      "lector_accidental",
+      "canon_escolar"
+    ],
+    "pistas": [
+      "Muestra polietápica de 647 estudiantes de 4º de ESO en 26 centros de la Bahía de Cádiz.",
+      "Solo el 8.6% se clasifica como lector habitual del canon académico universal de LIJ.",
+      "El perfil mayoritario es el 'lector accidental' (43.4%), que lee de 1 a 3 clásicos.",
+      "Paradoja del canon: más del 50% de los 'no lectores' de clásicos lee 4-5 sagas o trilogías juveniles por placer."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "El desencuentro entre las preferencias lectoras juveniles y el canon prescriptivo de la escuela secundaria alimenta el tópico recurrente de que los adolescentes han abandonado la lectura de textos literarios.",
+      "desafio": "Verificar empíricamente mediante un diseño muestral riguroso cuántos clásicos universales leen realmente los jóvenes y qué obras leen voluntariamente por placer en su tiempo libre.",
+      "relevancia": "Permite redefinir la formación literaria escolar conectando el canon académico con las lecturas vernáculas para transformar al lector accidental en lector literario autónomo."
+    },
+    "conflicto": {
+      "pregunta": "¿Existe un abandono real de la lectura literaria en la adolescencia o se trata de una desconexión entre el canon escolar prescriptivo y las lecturas vernáculas de interés juvenil?",
+      "posiciones": [
+        "Tesis del desapego lector: la cultura audiovisual y las redes sociales han destruido el hábito lector de los adolescentes en la educación secundaria.",
+        "Tesis de la lectura vernácula: los jóvenes leen intensamente sagas, fantasía y best-sellers juveniles, pero la institución escolar invisibiliza este corpus en sus planes docentes."
+      ],
+      "tension": "La tensión entre la tradición filológica docente que impone clásicos universales y el mercado editorial juvenil que cautiva a los adolescentes con sagas multimodales y fantasy.",
+      "deepDives": [
+        {
+          "id": "acc-conf-1",
+          "triggerLabel": "Canon escolar vs. canon personal",
+          "type": "theory",
+          "content": "Siguiendo a González (2012), el canon escolar impuesto y el canon personal elegido deben dialogar en el aula para que el alumno construya un intertexto lector rico y significativo."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Muestreo polietápico con 647 estudiantes de 4º de ESO en la Bahía de Cádiz",
+      "narrativa": "Los investigadores diseñaron un cuestionario validado por expertos administrado a 647 alumnos de 4º de ESO en 26 centros de 6 municipios de la Bahía de Cádiz mediante un muestreo polietápico en tres etapas (municipios, centros según titularidad/bilingüismo y aulas aleatorias).",
+      "detalles": [
+        {
+          "label": "Muestra",
+          "value": "647 estudiantes de 4º de ESO con precisión muestral d = 0.05 en 26 centros educativos."
+        },
+        {
+          "label": "Ámbito geográfico",
+          "value": "Área metropolitana de la Bahía de Cádiz (Cádiz, Chiclana, El Puerto, Puerto Real, Rota y San Fernando)."
+        },
+        {
+          "label": "Tipología de centros",
+          "value": "Públicos bilingües (25.8%), concertados bilingües (23.3%), públicos no bilingües (21.8%), concertados (21.5%) y privados (7.5%)."
+        },
+        {
+          "label": "Instrumento",
+          "value": "Cuestionario de 2 partes: valoración de 10 clásicos de LIJ universal y pregunta abierta de 5 lecturas de placer."
+        },
+        {
+          "label": "Clasificación de lectores",
+          "value": "No lector (0 obras), lector accidental (1-3), lector medio (4-6) y lector habitual (7-10 clásicos)."
+        }
+      ],
+      "limitaciones": [
+        "Muestra focalizada en un área metropolitana concreta del sur de España.",
+        "Se evalúa la lectura del canon a partir de un corpus cerrado de 10 clásicos universales de LIJ."
+      ],
+      "reflexion": "¿Cómo puede el profesorado tender puentes entre Harry Potter o Los Juegos del Hambre y Frankenstein o Alicia en el país de las maravillas?",
+      "deepDives": [
+        {
+          "id": "acc-viaje-1",
+          "triggerLabel": "Corpus de 10 clásicos universales de LIJ",
+          "type": "method",
+          "content": "El cuestionario midió la lectura de 10 clásicos: Alicia, Drácula, Dr. Jekyll y Mr. Hyde, El fantasma de Canterville, Frankenstein, Sherlock Holmes, Viajes de Gulliver, Oliver Twist, Robinson Crusoe y Romeo y Julieta."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Se desmintió el mito del adolescente que no lee: aunque el canon escolar llega a muy pocos (solo el 8.6% es lector habitual de clásicos y el 43.4% es 'lector accidental'), más del 50% de los no lectores de clásicos lee regularmente entre 4 y 5 obras literarias por placer, registrándose 619 títulos vernáculos dominados por sagas, trilogías y fantasía épica.",
+      "evidenciaCualitativa": "El tipo de centro educativo no determina el perfil: en todos los centros predomina el lector accidental, registrándose incluso un mayor porcentaje de no lectores de clásicos en centros públicos bilingües (35%) que en no bilingües (27%).",
+      "citaClave": "'En todas las categorías de lectores existe un denominador común: las lecturas vernáculas. Quienes la escuela cataloga como no lectores concentran el mismo número de lecturas por placer que los lectores habituales.'",
+      "implicacionesDocentes": [
+        "Acoger las lecturas vernáculas en el aula como punto de anclaje para desarrollar la competencia literaria.",
+        "Acompañar la lectura de los clásicos 'de principio a fin' con mediación docente activa en lugar de controles punitivos de lectura.",
+        "Diseñar itinerarios de lectura dialógica que conecten los arquetipos de la fantasía juvenil contemporánea con la mitología clásica."
+      ],
+      "deepDives": [
+        {
+          "id": "acc-rev-1",
+          "triggerLabel": "Los 619 títulos alternativos",
+          "type": "data",
+          "content": "Las lecturas de ocio libre se agrupan en sagas superventas: Divergente, Crepúsculo, Narnia, Canción de Hielo y Fuego, Bajo la misma estrella, Ciudades de papel y El niño con el pijama de rayas."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Didáctica de la literatura, competencia literaria e intertexto lector",
+      "tensiones": [
+        "Competencia lectora mecánica vs. competencia interpretativa literaria estética.",
+        "Canon académico prescriptivo descontextualizado vs. canon personal significativo."
+      ],
+      "autoresClave": [
+        "Rivera-Jurado & Romero-Oliva (2020)",
+        "Mendoza Fillola (2004, 2008)",
+        "Munita & Margallo (2019)",
+        "Cerrillo (2013)",
+        "Bellver (1996)"
+      ],
+      "deepDives": [
+        {
+          "id": "acc-marco-1",
+          "triggerLabel": "Concepto de Lector Accidental de Bellver",
+          "type": "theory",
+          "content": "Bellver (1996) define la lectura accidental como una experiencia azarosa donde el sujeto accede al texto literario por contingencia o prescripción externa, sin haber configurado un hábito lector autónomo consolidado."
+        }
+      ]
+    },
+    "nucleo": {
+      "preguntaCentral": "¿Qué hábitos y perfiles de lectura literaria presentan los estudiantes de 4º de ESO al contrastar clásicos escolares con lecturas por placer?",
+      "mecanismoClave": "El desencuentro formativo radica en que la escuela evalúa al estudiante exclusivamente a través del canon académico cerrado, ignorando que el adolescente despliega una rica actividad lectora voluntaria en géneros vernáculos y sagas contemporáneas.",
+      "conclusionGeneral": "Formar lectores literarios en Secundaria no exige desterrar los clásicos ni censurar la narrativa juvenil comercial, sino articular itinerarios didácticos dialógicos donde el canon escolar converse fructíferamente con las lecturas que apasionan a los jóvenes."
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente del Canon Juvenil",
+        "descripcion": "Conecta clásicos universales y sagas juveniles contemporáneas evitando el aburrimiento prescriptivo.",
+        "instrucciones": "Come tokens de intertexto lector y responde sobre la muestra de Rivera-Jurado y Romero-Oliva. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: El Lector Accidental en Secundaria",
+        "descripcion": "Comprueba tu asimilación sobre los 4 perfiles lectores, los porcentajes de clásicos y las sagas vernáculas.",
+        "instrucciones": "Responde contrarreloj para mantener tu multiplicador de racha y liderar el podio de didáctica."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de la Competencia Literaria",
+        "descripcion": "Asciende desde el lector accidental azaroso hasta el lector literario autónomo e interpretativo.",
+        "instrucciones": "Acierta en cada escalón sobre la formación de lectores y el diálogo entre cánones."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: El adolescente como lector accidental de textos literarios (Rivera-Jurado & Romero-Oliva, 2020)",
+      "descripcion": "Investigación cuantitativa con 647 estudiantes de 4º de ESO en 26 centros educativos que define cuatro perfiles lectores y analiza la brecha entre el canon escolar y las lecturas vernáculas juveniles.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "Didáctica de la formación del lector literario",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Marco pedagógico de Mendoza Fillola y Munita que distingue entre competencia lectora básica (decodificar y comprender) y competencia literaria interpretativa, orientada al disfrute estético y la construcción de sentido."
+        },
+        {
+          "id": "2",
+          "label": "Canon escolar prescriptivo vs. canon personal",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Tensión teórica entre las obras académicas impuestas por la tradición filológica institucional y el corpus variable y significativo de lecturas vernáculas que cada adolescente construye en función de sus propios gustos."
+        },
+        {
+          "id": "3",
+          "label": "Teorización del perfil del lector accidental (Bellver)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Constructo de Bellver (1996) que describe al lector que accede a los textos literarios de forma contingente o por obligación escolar, situándose en un estado intermedio y vulnerable hacia el desapego o la consolidación lectora."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: cuantificar lectura de clásicos universales de LIJ",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Medir con precisión cuántas obras de un corpus representativo de diez clásicos universales de literatura infantil y juvenil han leído efectivamente los adolescentes al culminar la Educación Secundaria Obligatoria."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: catalogar lecturas voluntarias por placer",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Identificar y describir las lecturas vernáculas no escolares que los estudiantes eligen por motivación intrínseca, analizando su correlación con los tipos de centros educativos de la Bahía de Cádiz."
+        },
+        {
+          "id": "6",
+          "label": "Diseño empírico-analítico cuantitativo",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Investigación cuantitativa dentro del paradigma empírico-analítico con método hipotético-deductivo, diseñada para contrastar la hipótesis del distanciamiento entre canon escolar y lectura voluntaria adolescente."
+        },
+        {
+          "id": "7",
+          "label": "Muestreo polietápico con 647 alumnos de 4º de ESO",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Muestra representativa de 647 estudiantes seleccionados en tres etapas (6 municipios de la Bahía de Cádiz, 26 centros educativos estratificados por bilingüismo/titularidad y selección aleatoria de aulas completas)."
+        },
+        {
+          "id": "8",
+          "label": "Cuestionario de valoración canónica y lectura abierta",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Instrumento validado por expertos que combina una escala de valoración de diez clásicos universales de LIJ con una pregunta abierta para registrar hasta cinco títulos literarios leídos libremente por placer."
+        },
+        {
+          "id": "9",
+          "label": "Escaso alcance de los clásicos canónicos en el aula",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "El 22.6% no ha leído ningún clásico del corpus y solo el 8.6% alcanza la condición de lector habitual (7-10 obras), confirmando que a mayor número de obras clásicas menor es el porcentaje de estudiantes que las culmina."
+        },
+        {
+          "id": "10",
+          "label": "Predominio mayoritario del lector accidental (43.4%)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "La categorización segmentó la muestra en 146 no lectores (22.6%), 281 lectores accidentales (43.4%), 165 lectores medios (25.4%) y 55 lectores habituales (8.6%), consagrando al lector accidental como el arquetipo dominante."
+        },
+        {
+          "id": "11",
+          "label": "Paradoja: alta lectura de placer entre no lectores de canon",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Más del 50% de los estudiantes categorizados como no lectores o lectores accidentales de clásicos lee habitualmente entre 4 y 5 obras literarias por puro interés personal, desmintiendo el mito del desapego lector absoluto."
+        },
+        {
+          "id": "12",
+          "label": "Catálogo de 619 obras dominado por sagas y fantasía",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Se registraron 619 títulos alternativos compartidos por todos los perfiles lectores, con un predominio absoluto de la narrativa seriada juvenil, el fantasy, la ciencia ficción y best-sellers transmedia internacionales."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: las lecturas vernáculas como denominador común",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se discute que la literatura compartida por los jóvenes no pertenece al currículo académico sino a la cultura vernácula editorial, constituyendo el auténtico punto de partida pedagógico para la mediación literaria."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: irrelevancia de la tipología del centro escolar",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Los datos evidencian que el tipo de centro (público, concertado, bilingüe o no bilingüe) no incrementa sustancialmente la lectura de clásicos, detectándose incluso más no lectores en centros públicos bilingües."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: corpus cerrado de clásicos universales",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "El estudio evalúa el canon académico a partir de diez obras universales anglosajonas de LIJ, requiriendo en futuros estudios incorporar clásicos del canon nacional hispánico y diseños longitudinales de aula."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: articulación dialógica entre ambos cánones",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que la educación literaria debe abandonar la imposición punitiva y tender puentes dialógicos entre las sagas juveniles vernáculas y los clásicos universales para formar lectores autónomos y críticos."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "establece las metas formativas de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "plantea el conflicto resuelto por"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "aporta el constructo analítico a"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se operativiza mediante el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "orienta la recogida de datos del"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se ejecuta sobre un"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "se implementa con el"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "demuestra cuantitativamente el"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "establece empíricamente el"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "descubre en los datos la"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "compila exhaustivamente el"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "aporta el perfil clave para la"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "fundamenta la tesis central de la"
+        },
+        {
+          "from": "12",
+          "to": "13",
+          "label": "ejemplifica el repertorio de la"
+        },
+        {
+          "from": "7",
+          "to": "14",
+          "label": "proporciona el contraste para la"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "conduce directamente a las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "reafirma las propuestas de las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el marco metodológico del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las recomendaciones de las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "cierra el ciclo didáctico de"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de estudiantes de 4º de ESO se situó en el perfil mayoritario de 'lector accidental' (1 a 3 clásicos leídos)?",
+          "options": [
+            "El 43.4% de la muestra total.",
+            "El 8.6% de la muestra total.",
+            "El 22.6% de la muestra total.",
+            "El 51.0% de la muestra total."
+          ],
+          "correct": 0
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo conectarías en una unidad didáctica una saga fantástica actual leída voluntariamente por los alumnos con una novela clásica como Frankenstein o Drácula?"
+        }
+      ]
+    }
+  }
+}

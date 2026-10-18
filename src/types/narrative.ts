@@ -32,6 +32,8 @@ export interface MindMapNode {
   x?: number;
   y?: number;
   color?: string;
+  descripcion?: string;
+  role?: string;
 }
 
 export interface MindMapEdge {

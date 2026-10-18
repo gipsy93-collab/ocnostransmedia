@@ -1,0 +1,434 @@
+{
+  "id": "creacion_poetica_red_ciberpoesia",
+  "metadata": {
+    "title": "Creación poética en nuevos contextos: poesía en red y ciberpoesía",
+    "authors": "Mar Campos-F.-Fígares",
+    "year": "2021",
+    "journal": "Ocnos 20(3)",
+    "doi": "10.18239/ocnos_2021.20.3.2547",
+    "gancho": "¿Por qué las estadísticas dicen que nadie lee poesía, mientras en Instagram poetas jóvenes acumulan medio millón de seguidores?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#9b82c3",
+    "colorAlt": "#2a5a75",
+    "bg": "from-purple-900/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/ciberpoesia/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-campos/200/200",
+      "name": "Dra. Mar Campos-F.-Fígares",
+      "role": "Investigadora en Didáctica de la Lengua y Literatura, Universidad de Almería"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dra. Mar Campos-F.-Fígares, especialista en educación poética y nuevas ecologías literarias digitales",
+      "gancho": "En las librerías físicas, la poesía representa apenas el 1.5% de las compras. En las pantallas, cientos de miles de jóvenes descubren que un verso compartido puede cambiar su día. ¿Qué está pasando con el verso?",
+      "contexto": "Las tecnologías de la información y la comunicación han revolucionado las formas de crear, difundir y leer poesía. Sin embargo, en el ámbito académico y escolar impera la confusión conceptual entre dos fenómenos radicalmente distintos: la poesía nacida en redes sociales (Instapoetry) y la ciberpoesía ergódica programada con software interactivo. Este estudio teórico delimita ambos universos y propone un modelo pedagógico de multialfabetización para los mediadores literarios.",
+      "deepDives": [
+        {
+          "id": "cam-apertura-1",
+          "triggerLabel": "La paradoja de las estadísticas oficiales",
+          "type": "data",
+          "content": "El informe CONECTA (2019) reflejó que solo el 1.5% de los libros comprados en España corresponden a poesía; paralelamente, autoras como Elvira Sastre superaban los 400.000 seguidores en redes sociales."
+        },
+        {
+          "id": "cam-apertura-2",
+          "triggerLabel": "La literatura ergódica de Espen Aarseth",
+          "type": "theory",
+          "content": "Aarseth (1997) definió el texto ergódico como aquel donde el lector debe realizar un esfuerzo constructivo activo y no trivial para atravesar el texto, rasgo esencial de la ciberpoesía interactiva."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "La crítica literaria tradicional y el sistema escolar observan con recelo la poesía de redes sociales, tachándola de 'simplona' o 'comercial', mientras ignoran por completo la ciberpoesía electrónica por falta de competencias técnicas para mediarla. Esta doble cerrazón desconecta a la escuela del verdadero punto de partida estético de los jóvenes.",
+      "porQueImporta": "Reconocer las prácticas letradas digitales permite tender puentes entre la emoción inmediata que los jóvenes experimentan en la pantalla y la apreciación profunda del canon poético tradicional.",
+      "dataPoints": [
+        "Cuota editorial marginal en papel: solo el 1.5% de las ventas en España pertenece al género lírico.",
+        "Comunidades masivas en Instagram (datos marzo 2020): Elvira Sastre (>400.000 seguidores), Sara Búho (>300.000).",
+        "Liderazgo femenino: abrumador protagonismo de mujeres jóvenes tanto en la creación lírica digital como en la recepción.",
+        "Inversión del circuito editorial: las grandes editoriales cazan autores en la red apoyándose en el filtro previo de los fans.",
+        "Brecha en ciberpoesía: el salto de lector a creador digital se frena por falta de dominio de herramientas de programación.",
+        "Emergencia de la comunidad BBB: bloggers, bookstagrammers y booktubers como nuevos prescriptores culturales."
+      ],
+      "glossary": [
+        {
+          "term": "Poesía en red",
+          "definition": "Poemas de formato lírico tradicional que nacen o se difunden a través de plataformas sociales digitales (Instagram, Twitter)."
+        },
+        {
+          "term": "Ciberpoesía",
+          "definition": "Creación poética electrónica interactiva e hipertextual cuya existencia es indisociable del soporte informático y del software."
+        },
+        {
+          "term": "Comunidad BBB",
+          "definition": "Red de mediadores y prosumidores digitales integrada por bloggers, bookstagrammers y booktubers."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "cam-conflicto-1",
+          "triggerLabel": "¿Quién criba la calidad poética?",
+          "type": "theory",
+          "content": "En la era digital, la criba no la realiza un comité de sabios académicos, sino la comunidad de seguidores que viraliza versos por identificación emocional, invirtiendo el pacto tradicional de consagración."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Metodología: Delimitación conceptual y análisis comparado",
+      "narrativa": "Campos-F.-Fígares articuló una revisión teórica estructurada en tres etapas epistemológicas:",
+      "detalles": [
+        {
+          "label": "1. Dicotomía fundacional",
+          "value": "Diferenciación entre literatura en red (accesible en internet pero transferible al papel) y ciberliteratura (exclusivamente digital e interactiva)."
+        },
+        {
+          "label": "2. Traslación al género lírico",
+          "value": "Definición operativa de poesía en red frente a ciberpoesía, caracterizando sus modos de producción, circulación y recepción lectora."
+        },
+        {
+          "label": "3. Análisis de corpus secundario y ejemplos",
+          "value": "Revisión de obras paradigmáticas como 'Bacterias argentinas' de Santiago Ortiz y motores algorítmicos textuales de Rui Torres."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Resultados: Inversión del canon y emergencia de nuevos lectores",
+      "narrativa": "La revisión teórica arroja conclusiones transformadoras sobre el consumo poético juvenil:",
+      "hallazgos": [
+        {
+          "label": "Inversión del acceso al texto: El joven ya no busca al autor consagrado en una antología; descubre un verso fragmentado en su feed que le intercala y le conecta con su propio 'Yo lector'.",
+          "value": ""
+        },
+        {
+          "label": "Retorno triunfal al papel: Lo nacido en la red es absorbido por grandes editoriales que se fijan en los poetas virales, traduciendo el éxito digital en ventas de poemarios físicos a lectores devotos.",
+          "value": ""
+        },
+        {
+          "label": "Comunidades afectivas mayoritariamente femeninas: La lírica digital ha ofrecido a mujeres jóvenes un espacio libre de censura patriarcal para cantar al cuerpo, la herida y el empoderamiento.",
+          "value": ""
+        },
+        {
+          "label": "La parálisis técnica ante la ciberpoesía: A diferencia de la red social, la ciberpoesía interactiva intimida al usuario medio, quien se siente incapaz de programar o explorar hipertextos.",
+          "value": ""
+        }
+      ],
+      "reflexion": "La juventud nunca dejó de amar la poesía: lo que rechazó fue la solemnidad caduca con la que a menudo se la enseñaban en las aulas.",
+      "deepDives": [
+        {
+          "id": "cam-revelacion-1",
+          "triggerLabel": "El fenómeno de Elvira Sastre",
+          "type": "data",
+          "content": "Autora de referencia citada en el artículo, Elvira Sastre supera los 400.000 seguidores en Instagram: ejemplo de cómo la poesía juvenil en red convoca audiencias masivas y termina desembarcando en el libro impreso."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Discusión: Multialfabetización docente y diálogo intergeneracional",
+      "narrativa": "La autora debate los desafíos pedagógicos ante la mutación del canon poético:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Cultura participativa (Jenkins): La creación poética digital ejemplifica la desjerarquización de la autoría y la colaboración creativa."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Vanguardias históricas: La ciberpoesía se entiende como heredera de las vanguardias, en continuidad con la poesía visual y sonora y con la poesía cinética actual."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Multialfabetización: Necesidad de una alfabetización amplia, capaz de leer textos multimodales que integran palabra, imagen, sonido, hipervínculo y programación."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Desdén elitista vs. Crítica situada: Rechazo al desprecio automático de los críticos tradicionales hacia los poetas de Instagram."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Abandono del canon vs. Hibridación dialógica: No se trata de sustituir a Garcilaso o Cernuda por tuits, sino de usar el tuit como trampolín hacia el clásico."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El trabajo es una revisión teórica que no incorpora datos estadísticos sobre el perfil sociodemográfico exhaustivo de los seguidores."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El artículo rehúye el análisis de las obras y de los propios escritores o fans, centrándose en el fenómeno y en la delimitación conceptual de los dos términos."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la formación de maestros y profesores de Secundaria Diseñar talleres de lectura y creación de poesía digital que capaciten en herramientas multimodales y software poético."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para las programaciones de Lengua y Literatura Incorporar la Instapoetry como punto de partida dialógico para abordar la métrica, la metáfora y la tradición lírica occidental."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la investigación en didáctica Realizar estudios empíricos de recepción en aulas de Secundaria analizando cómo los jóvenes transitan del verso de Instagram al poema culto."
+        },
+        {
+          "label": "Tabla",
+          "value": "Dimensión Comparativa | Poesía en Red (Instapoetry) | Ciberpoesía (Poesía Electrónica) | Desafío Formativo del Mediador\nSoporte y Existencia | Nacida en red pero imprimible en papel | Inseparable del software y soporte digital | Diferenciar soportes sin prejuicios\nEstructura del Texto | Lírica lineal, estrofas breves, imagen fija | Hipertextual, no lineal, ergódica, cinética | Enseñar navegación hipertextual\nRol del Lector | Lector-seguidor emocional que comenta y comparte | Lector-coautor interactivo que acciona algoritmos | Fomentar la co-creación estética\nComunidad y Difusión | Masiva, viral, impulsada por comunidad BBB | Minoritaria, experimental, académica y artística | Conectar lo viral con lo experimental"
+        }
+      ],
+      "reflexion": "Mediar la poesía en el siglo XXI es enseñar que la belleza puede habitar tanto en el pergamino antiguo como en el destello fugaz de una pantalla.",
+      "deepDives": [
+        {
+          "id": "cam-marco-1",
+          "triggerLabel": "Bacterias argentinas de Santiago Ortiz",
+          "type": "theory",
+          "content": "Obra de Santiago Ortiz (2004), considerada narrativa por su propio autor, donde las fusiones de las vanguardias alcanzan a través de las TIC una dimensión interactiva que ya no permite recorrer caminos de ida y vuelta como la Rayuela de Cortázar."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo transforman las tecnologías digitales la creación y recepción de la poesía juvenil y qué competencias exige esta mutación a los mediadores?",
+      "conclusion": "Frente a la marginalidad en ventas en librerías (1.5%), la poesía en redes convoca comunidades masivas con cientos de miles de seguidoras. El acceso a la lírica se ha invertido: la empatía con el texto digital fragmentado conduce al lector hacia la búsqueda del libro físico. Existe una marcada brecha técnica que frena al alumnado ante la ciberpoesía ergódica interactiva por falta de alfabetización digital profunda. La comunidad BBB (bloggers, bookstagrammers, booktubers) ha asumido el liderazgo prescriptor desplazando a la crítica canónica. Aprovechar la afición juvenil por la poesía en redes como puerta de entrada motivadora hacia los clásicos del canon poético. Instruir a los mediadores docentes en la lectura y análisis de artefactos de ciberliteratura electrónica interactiva. Promover la escritura creativa multimodal en las aulas combinando verso, fotografía digital y diseño tipográfico. Reconocer las redes sociales como espacios legítimos de socialización y educación literaria comunitaria. La poesía no muere: solo cambia de piel para seguir salvando a los corazones jóvenes de su propia soledad.",
+      "formalRef": "Mar Campos-F.-Fígares. (2021). Creación poética en nuevos contextos: poesía en red y ciberpoesía. Ocnos 20(3). https://doi.org/10.18239/ocnos_2021.20.3.2547"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué porcentaje de las compras de libros en España representaba la poesía según los informes oficiales citados en el artículo?",
+          "options": [
+            "Apenas el 1.5%",
+            "Más del 25%",
+            "Cerca del 50%",
+            "El 10%"
+          ],
+          "correct": 0
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué término de Espen Aarseth se utiliza para describir los textos cibernéticos cuyo recorrido no es lineal y exige un esfuerzo interactivo del lector?",
+          "options": [
+            "Literatura mimética",
+            "Literatura ergódica",
+            "Literatura estática",
+            "Literatura coral"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Paradoja de la poesía contemporánea",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Contraste flagrante entre la marginalidad de la compra de libros de poesía en librerías físicas (apenas el 1.5% en España) y el auge masivo del consumo lírico juvenil en plataformas y redes sociales digitales."
+      },
+      {
+        "id": "2",
+        "label": "Dicotomía: Poesía en red vs. Ciberpoesía",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Delimitación conceptual entre poemas tradicionales nacidos o difundidos en plataformas sociales y obras electrónicas interactivas cuya existencia estética es indisociable del soporte informático."
+      },
+      {
+        "id": "3",
+        "label": "Literatura ergódica y multimodalidad",
+        "role": "Marco teórico",
+        "color": "#2a5a75",
+        "descripcion": "Concepto formulado por Espen Aarseth sobre textos cibernéticos interactivos no lineales que demandan un esfuerzo constructivo activo del lector y destrezas complejas de multialfabetización digital."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: Delimitar tipologías líricas digitales",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Caracterizar con rigor epistemológico las modificaciones que las tecnologías de la información provocan en los procesos creativos, circuitos de difusión y modos de recepción de la poesía juvenil."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: Fundamentar un modelo de mediación",
+        "role": "Objetivo",
+        "color": "#88b04b",
+        "descripcion": "Proponer orientaciones pedagógicas para que los mediadores escolares transformen las prácticas vernáculas digitales de los jóvenes en educación literaria crítica conectada con el canon lírico."
+      },
+      {
+        "id": "6",
+        "label": "Diseño de revisión teórica conceptual",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Enfoque metodológico cualitativo asentado en la delimitación progresiva de conceptos, el análisis comparativo y la revisión de fuentes secundarias de autoridad en didáctica de la lengua y cibercultura."
+      },
+      {
+        "id": "7",
+        "label": "Corpus secundario y ejemplos paradigmáticos",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Análisis de obras como 'Bacterias argentinas' de Santiago Ortiz, motores textuales algorítmicos de Rui Torres y seguimiento empírico de perfiles de Instapoetry con audiencias masivas en Instagram."
+      },
+      {
+        "id": "8",
+        "label": "Triangulación de estadísticas y redes",
+        "role": "Método",
+        "color": "#2a9d8f",
+        "descripcion": "Cotejo de datos editoriales del informe oficial CONECTA con métricas públicas de seguimiento en redes sociales de autoras consagradas por el público joven como Elvira Sastre y Sara Búho."
+      },
+      {
+        "id": "9",
+        "label": "Inversión del acceso al texto poético",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "El descubrimiento emocional de versos fragmentados en el feed digital precede al conocimiento del autor, invirtiendo la ruta tradicional de prescripción canónica guiada por la crítica académica formal."
+      },
+      {
+        "id": "10",
+        "label": "Comunidades masivas y liderazgo femenino",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Audiencias juveniles multitudinarias en Instagram (superando los 300.000 y 400.000 seguidores) lideradas abrumadoramente por mujeres jóvenes tanto en la creación poética como en la recepción comunitaria."
+      },
+      {
+        "id": "11",
+        "label": "Retorno de lo digital al mercado editorial impreso",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "Las editoriales tradicionales captan autores virales en redes beneficiándose del filtro previo de los seguidores, traduciendo el éxito digital en ventas masivas de poemarios físicos impresos."
+      },
+      {
+        "id": "12",
+        "label": "Parálisis técnica ante la ciberpoesía ergódica",
+        "role": "Resultados",
+        "color": "#e76f51",
+        "descripcion": "A diferencia de las redes sociales, el público lector y los estudiantes no dan el salto a la creación en ciberpoesía por carecer de competencias de programación informática y diseño interactivo."
+      },
+      {
+        "id": "13",
+        "label": "Discusión: Crítica al desdén academicista",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Debate contra la descalificación elitista que minusvalora la poesía de Instagram sin analizar cómo responde a las necesidades afectivas, identitarias y de expresión emocional de la juventud actual."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: Emergencia de la prescripción BBB",
+        "role": "Discusión",
+        "color": "#9b82c3",
+        "descripcion": "Reconocimiento del papel prescriptor indispensable de bloggers, bookstagrammers y booktubers (comunidad BBB) como nuevos mediadores horizontales de la lectura socializada en el ecosistema digital."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: Delimitación teórica sin trabajo de campo",
+        "role": "Limitaciones",
+        "color": "#264653",
+        "descripcion": "Revisión documental que no incorpora encuestas directas a lectores ni análisis pormenorizado de los sesgos algorítmicos opacos de las plataformas comerciales que condicionan la visibilidad lírica."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: Multialfabetización para el aula",
+        "role": "Conclusiones",
+        "color": "#f4a261",
+        "descripcion": "La educación literaria debe articular el entusiasmo espontáneo de las redes con la formación en ciberpoesía y el disfrute del canon clásico occidental, superando la fractura entre papel y pantalla."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "exige resolver la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "se complejiza con la"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "fundamenta el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "orienta formular el"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se investiga mediante"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se desarrolla con"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "selecciona el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se contrasta con la"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "demuestra la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "registra la existencia de"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "constata el"
+      },
+      {
+        "from": "7",
+        "to": "12",
+        "label": "revela la"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "sirve de base para la"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "se vincula a la"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "se retroalimenta con la"
+      },
+      {
+        "from": "12",
+        "to": "16",
+        "label": "demanda activar la"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "desemboca en la"
+      },
+      {
+        "from": "6",
+        "to": "15",
+        "label": "se delimita por"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "reivindica la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "define la frontera de"
+      }
+    ]
+  }
+}

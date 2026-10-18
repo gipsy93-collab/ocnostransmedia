@@ -2,7 +2,7 @@
   "id": "sindrome_irlen_lectura",
   "metadata": {
     "title": "Habilidades de lectura en niños con síndrome de Irlen",
-    "authors": "R. David Tacuri-Reino y M. Rosa Elosúa",
+    "authors": "R. David Tacuri-Reino, M. Rosa Elosua y Marcelo Bernal",
     "year": "2024",
     "journal": "Ocnos 23(1)",
     "doi": "10.18239/ocnos_2024.23.1.387",
@@ -15,15 +15,15 @@
     "image": "/assets/cromos/cromo-04.png",
     "tutor": {
       "image": "/assets/cromos/cromo-04.png",
-      "name": "Dr. R. David Tacuri-Reino",
+      "name": "R. David Tacuri-Reino",
       "role": "Investigador en Neuropsicología y Procesos Cognitivos de la Lectura, UNED"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dr. R. David Tacuri-Reino, especialista en neurocognición perceptiva y dificultades del aprendizaje lector",
+      "personaje": "R. David Tacuri-Reino, investigador de la UNED, especialista en neuropsicología y dificultades del aprendizaje lector",
       "gancho": "¿Por qué un niño con vista 20/20 y una inteligencia brillante sufre dolores de cabeza insoportables al leer más de cinco minutos?",
-      "contexto": "El Síndrome de Irlen (también llamado estrés visual o sensibilidad escotópica) es un déficit neurosensorial de base genética donde la corteza cerebral no procesa adecuadamente determinadas frecuencias de onda de la luz visible, provocando distorsiones visuales dramáticas: las letras vibran, se solapan, se mueven en olas o el fondo blanco deslumbra como un foco cegador. En este estudio empírico con escolares en Ecuador y España, los investigadores de la UNED examinaron el impacto específico del síndrome en la fluidez, precisión y comprensión lectora.",
+      "contexto": "El Síndrome de Irlen (también llamado estrés visual o sensibilidad escotópica) es un trastorno del procesamiento de la percepción visual cuya causa principal, según la mayoría de los estudios, es el déficit magnocelular: las letras parecen moverse, el fondo blanco deslumbra y la lectura provoca molestias físicas, sin que el síndrome altere el lenguaje. En este estudio empírico con escolares de Ecuador, los investigadores compararon las habilidades de lectura de un grupo con el síndrome con las de un grupo control mediante la escala IRPS y la prueba PROLEC-R.",
       "deepDives": [
         {
           "id": "irl-apertura-1",
@@ -35,18 +35,18 @@
           "id": "irl-apertura-2",
           "triggerLabel": "Diagnóstico con el método Irlen",
           "type": "data",
-          "content": "Protocolo internacional estandarizado de detección mediante filtros y láminas coloreadas personalizadas."
+          "content": "Cribado con la Escala Perceptual de Lectura de Irlen (IRPS) y los criterios clínicos de un Examinador Irlen certificado, quien recomienda acetatos de colores cuando detecta sintomatología."
         }
       ]
     },
     "conflicto": {
-      "problema": "Miles de niños con síndrome de Irlen son erróneamente diagnosticados como 'disléxicos rebeldes', vagos o con TDAH, sometiéndoles a terapias fonológicas inútiles que no resuelven su sufrimiento físico ante el papel.",
-      "porQueImporta": "Un diagnóstico certero y el uso de simples acetatos de color o filtros espectrales pueden transformar el fracaso escolar en un éxito inmediato.",
+      "problema": "Los síntomas del síndrome de Irlen, el TDAH y la dislexia pueden superponerse (Stone, 2003), y el malestar del niño al leer suele confundirse con desinterés o problemas de lenguaje, cuando el síndrome solo afecta la percepción visual y no se relaciona con dificultades de lenguaje.",
+      "porQueImporta": "Diferenciar la naturaleza perceptiva del síndrome permite no confundirlo con la dislexia (Wilkins et al., 2016) y orientar el apoyo: el color y los acetatos pueden aliviar síntomas del estrés visual y mejorar la velocidad de lectura, aunque la evidencia sigue siendo controvertida.",
       "dataPoints": [
-        "Estudio cuasiexperimental con grupo control de escolares de Primaria.",
-        "Prevalencia estimada: afecta a entre el 12% y el 14% de la población escolar general, subiendo al 45% en niños con dificultades de lectura.",
-        "Síntomas físicos recurrentes: lagrimeo, frotamiento constante de ojos, somnolencia rápida y cefaleas tensionales.",
-        "Mejora significativa en la tasa de palabras por minuto al utilizar sobrecapas de color personalizadas."
+        "Estudio comparativo con grupo control: 110 alumnos de 4º y 5º de Primaria (55 con síndrome de Irlen y 55 sin la condición).",
+        "Prevalencia estimada en la literatura: entre el 12% y el 15% en la población general y el 40% en disléxicos.",
+        "Síntomas físicos recurrentes: lagrimeo, sensación de ardor, frotamiento de ojos, somnolencia y dolores de cabeza durante la lectura.",
+        "El grupo con síndrome mostró peor ejecución en lectura de palabras (57,33 frente a 73,56 del control) y de pseudopalabras (38,38 frente a 47,52)."
       ],
       "glossary": [
         {
@@ -56,65 +56,65 @@
       ]
     },
     "viaje": {
-      "titulo": "Ruta metodológica: Batería PROLEC-R y protocolo estandarizado de Irlen",
-      "narrativa": "Los autores evaluaron las rutas de acceso léxico (fonológica y ortográfica) y la comprensión con el test PROLEC-R, comparando el rendimiento con y sin filtros de color translúcidos.",
+      "titulo": "Ruta metodológica: Escala IRPS y batería PROLEC-R",
+      "narrativa": "Los autores cribaron a 292 niños con la IRPS y evaluaron con el PROLEC-R los procesos de identificación de letras, léxicos, gramaticales y semánticos, comparando el rendimiento del grupo con síndrome de Irlen (GSI) con el de un grupo control (GC).",
       "detalles": [
         {
           "label": "Población",
-          "value": "Niños en edad escolar de Educación Primaria diagnosticados con Irlen."
+          "value": "110 alumnos de 4º y 5º grado de escuelas de nivel socioeconómico medio o medio-bajo: 55 con SI (GSI, M=8,60 ± 0,63 años) y 55 sin síndrome (GC, M=8,62 ± 0,56)."
         },
         {
           "label": "Instrumentos",
-          "value": "Batería PROLEC-R y Baremación del Instituto Internacional de Irlen."
+          "value": "Escala Perceptual de Lectura de Irlen (IRPS, versión adaptada de Bernal et al., 2021) y prueba PROLEC-R (Cuetos et al., 2009), aplicados en tres sesiones de unos 45 minutos."
         }
       ],
       "limitaciones": [
-        "Muestra clínica específica que requiere mayor investigación longitudinal en aulas regulares."
+        "No se contó con una medida de inteligencia, hubo una sola medida de comprensión oral y se subrayan las limitaciones psicométricas del propio PROLEC-R."
       ],
       "reflexion": "No hay mayor injusticia que castigar a un niño por no ver lo que su cerebro no puede enfocar."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: La luz que sana la lectura",
-      "narrativa": "La comparación estadística desveló una evidencia conmovedora:",
+      "titulo": "Hallazgos empíricos: lo que el ojo sano no ve",
+      "narrativa": "La comparación estadística entre grupos (U de Mann-Whitney) desveló un perfil lector característico:",
       "hallazgos": [
         {
-          "label": "1. El Efecto Inmediato de los Filtros de Color",
-          "value": "Al colocar una lámina de color adecuada (azul, verde, amarillo o turquesa según cada niño), las distorsiones visuales desaparecen instantáneamente: las letras se quedan quietas."
+          "label": "1. Igual en letras, distinto al leer",
+          "value": "No hubo diferencias significativas en la identificación de letras, pero el GSI rindió peor en lectura de palabras (p=0,019) y de pseudopalabras (p=0,005), con un tamaño del efecto de d=0,57 en ambas."
         },
         {
-          "label": "2. Recuperación de la Comprensión",
-          "value": "Al liberarse de la sobrecarga de intentar decodificar letras borrosas, los recursos cognitivos se trasladan a la comprensión inferencial, duplicando la puntuación en comprensión."
+          "label": "2. La comprensión oral se salva",
+          "value": "El GSI mostró peor comprensión de oraciones (p=0,002; d=0,57) y de textos (p=0,041; d=0,38), mientras la comprensión oral auditiva no difirió significativamente: el daño parece visual, no lingüístico."
         }
       ],
       "dataPoints": [
-        "Aumento medio de un 28% en la velocidad lectora y reducción del 60% de los errores de omisión de palabras."
+        "También hubo diferencias significativas en signos de puntuación (p=0,009; d=0,56), con el GSI fallando más al asignarlos en el texto."
       ],
-      "reflexion": "A veces, el mayor milagro pedagógico es tan sencillo como una lámina de plástico coloreada sobre el papel blanco."
+      "reflexion": "El síndrome no borra la inteligencia del niño: solo le pone obstáculos visuales entre el texto y su comprensión."
     },
     "marco": {
-      "titulo": "Discusión: Protocolos de cribado neurosensorial en las escuelas",
-      "narrativa": "Tacuri-Reino y Elosúa urgen a formar a los equipos de orientación escolar:",
+      "titulo": "Discusión: cribado neuroperceptivo e investigación futura",
+      "narrativa": "Tacuri-Reino, Elosua y Bernal discuten el valor del cribado y las preguntas abiertas:",
       "detalles": [
         {
-          "label": "Detección Precoz en el Aula",
-          "value": "Preguntar a los niños que leen mal si las letras se mueven o si la página brilla demasiado antes de etiquetarlos."
+          "label": "Detección y evidencia",
+          "value": "La IRPS adaptada sirve como prueba de cribaje del síndrome, con un punto de corte ROC de 63,5 en el apartado 1; los autores invitan a profundizar en la comprensión oral con más tareas."
         }
       ],
-      "reflexion": "Escuchar el dolor silencioso de los niños es el primer deber moral de la escuela inclusiva."
+      "reflexion": "Escuchar el malestar silencioso de los niños al leer es el primer deber de la escuela inclusiva."
     },
     "nucleo": {
-      "pregunta": "¿Qué perfil lector presentan los niños con síndrome de Irlen y qué efecto tiene la mediación con filtros de color en su rendimiento?",
-      "conclusion": "El estudio empírico demuestra que el síndrome de Irlen impacta gravemente en la velocidad, precisión y comprensión lectora debido a la sobrecarga atencional que producen las distorsiones visuales y la fatiga ocular. La aplicación de sobrecapas de color personalizadas reduce de inmediato los síntomas perceptivos (+28% en velocidad y -60% en errores), evidenciando la necesidad de incorporar el cribado de estrés visual en los protocolos escolares de dificultades de aprendizaje.",
-      "formalRef": "Tacuri-Reino, R. D., & Elosúa, M. R. (2024). Habilidades de lectura en niños con síndrome de Irlen. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.387"
+      "pregunta": "¿Qué perfil lector presentan los niños con síndrome de Irlen frente a los que no lo tienen, y qué ocurre al final del proceso: la comprensión?",
+      "conclusion": "El estudio empírico demuestra que los niños con síndrome de Irlen presentan procesos de lectura deteriorados en los niveles léxico, gramatical (signos de puntuación) y semántico visual —comprensión de oraciones y textos—, mientras la identificación de letras y la comprensión oral no muestran diferencias significativas. El síndrome afectaría así a los procesos sensoriales visuales sin alterar la comprensión oral, lo que sostiene la conveniencia de cribar el estrés visual en los protocolos de dificultades de aprendizaje.",
+      "formalRef": "Tacuri-Reino, R. D., Elosua, M. R., & Bernal, M. (2024). Habilidades de lectura en niños con síndrome de Irlen. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.387"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Cuál es la causa biológica del Síndrome de Irlen en los niños que sufren distorsiones visuales al leer?",
+          "q": "¿Qué naturaleza tiene el Síndrome de Irlen según el marco teórico del estudio?",
           "options": [
             "Una miopía avanzada en la córnea que exige gafas normales.",
-            "Un fallo neuroperceptivo en el procesamiento cerebral de ciertas frecuencias de onda de la luz visible en la corteza visual.",
+            "Un trastorno del procesamiento de la percepción visual —asociado al déficit magnocelular— que solo afecta la lectura en su vertiente visual y no al lenguaje.",
             "Falta de vitaminas en la dieta.",
             "Pereza y falta de motivación para estudiar."
           ],
@@ -122,12 +122,12 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué intervención sencilla y económica demostró en el estudio aumentar un 28 % la velocidad lectora y reducir un 60 % los errores en estos niños?",
+          "q": "¿Qué tareas del PROLEC-R mostraron diferencias significativas entre el grupo con síndrome de Irlen y el grupo control?",
           "options": [
-            "Hacerles copiar el diccionario entero a mano.",
-            "El uso de láminas o sobrecapas de plástico coloreado personalizadas (acetatos) sobre el texto en papel.",
-            "Apagar todas las luces del colegio.",
-            "Obligarles a leer en voz alta delante de toda la clase."
+            "Identificación de letras y comprensión oral.",
+            "Lectura de palabras y pseudopalabras, signos de puntuación y comprensión de oraciones y textos.",
+            "Solo la denominación de letras aisladas.",
+            "Ninguna tarea mostró diferencias."
           ],
           "correct": 1
         },
@@ -163,11 +163,11 @@
       "position": "bottom-right"
     },
     "viaje": {
-      "text": "Evaluamos a escolares con el test estandarizado PROLEC-R con y sin filtros de color personalizados.",
+      "text": "Comparamos a 55 niños con síndrome de Irlen y 55 sin él con la escala IRPS y la prueba PROLEC-R.",
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El color calma el cerebro! Una sencilla lámina de acetato de color frena el movimiento de las letras y dispara la comprensión.",
+      "text": "¡El perfil revelador! Peor decodificación y comprensión visual, pero comprensión oral intacta: el problema mira con los ojos, no con la lengua.",
       "position": "bottom-right"
     },
     "marco": {
@@ -188,110 +188,239 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Síndrome de Irlen y Habilidades Lectoras en Primaria",
-    "descripcion": "Estudio empírico neuropsicológico (UNED): estrés visual magnocelular, distorsiones del texto, filtros de color y batería PROLEC-R.",
+    "titulo": "Mapa conceptual: Lectura en niños con síndrome de Irlen (Ocnos 23(1) 2024)",
+    "descripcion": "Del marco neuroperceptivo del síndrome de Irlen a la comparación empírica GSI versus control con las escalas IRPS y PROLEC-R: igual identificación de letras, diferencias léxicas, de puntuación y de comprensión visual, con comprensión oral preservada y limitaciones explícitas.",
     "nodos": [
       {
         "id": "1",
-        "label": "Síndrome de Irlen / Estrés Visual",
-        "color": "#9b82c3"
+        "label": "Síndrome de Irlen o estrés visual",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Trastorno del procesamiento de la percepción visual —también llamado sensibilidad escotópica o síndrome de Meares-Irlen— que afecta la lectura mediante distorsiones visuales y molestias físicas, sin causar problemas de lenguaje (Irlen, 2005; Wilkins et al., 1984)."
       },
       {
         "id": "2",
-        "label": "Déficit Neurosensorial de Luz",
-        "color": "#2a5a75"
+        "label": "Teoría del déficit magnocelular",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Causa principal según la mayoría de los estudios (Nandakumar y Leat, 2008): saturación de las células magnocelulares e inhibición de las parvocelulares del núcleo geniculado lateral (Galaburda y Cestnick, 2003), lo que generaría desestabilización binocular y sensación de letras en movimiento (Stein, 2001)."
       },
       {
         "id": "3",
-        "label": "Distorsiones Visuales del Texto",
-        "color": "#c73e1d"
+        "label": "Distorsiones y molestias físicas al leer",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Seis alteraciones visuales principales: fotofobia, distorsiones de contraste, desenfoque y movimiento de letras, restricción del rango focal, dificultad para mantener el enfoque y percepción de profundidad. Se manifiestan como lagrimeo, ardor, fatiga, frotarse los ojos, dolores de cabeza y somnolencia (Guimarães, 2011; Kriss y Evans, 2005)."
       },
       {
         "id": "4",
-        "label": "Fatiga y Cefaleas Frecuentes",
-        "color": "#e76f51"
+        "label": "Prevalencia y solapamiento con dislexia",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La incidencia de síndrome moderado o grave se estima entre el 12% y el 15% en la población general y del 40% en disléxicos (estados de EE.UU., Australia e Inglaterra). Los síntomas de Irlen, TDAH y dislexia pueden superponerse (Stone, 2003), aunque el estrés visual no debe confundirse con la dislexia (Wilkins et al., 2016)."
       },
       {
         "id": "5",
-        "label": "Diagnóstico Confuso (Falsa Dislexia)",
-        "color": "#f4d068"
+        "label": "Perfil lector comparado en niños con SI",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "Examinar las habilidades lectoras del grupo con síndrome de Irlen (GSI) frente al grupo control (GC) con el PROLEC-R. Cuatro hipótesis: sin diferencias en identificación de letras; peor ejecución léxica y gramatical del GSI; mayor caída en comprensión visual y ninguna en comprensión oral."
       },
       {
         "id": "6",
-        "label": "Filtros de Color / Acetatos",
-        "color": "#88b04b"
+        "label": "Muestra de 110 escolares",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "De 292 niños de 4º y 5º grado evaluados se tomó una muestra conveniente de 110 (50% niños, 50% niñas; edad media 8,6 años): 55 con SI (GSI) y 55 sin síndrome (GC), emparejados en edad, grado y nivel socioeconómico. Se excluyeron diagnósticos de discapacidad intelectual y problemas oftalmológicos no resueltos."
       },
       {
         "id": "7",
-        "label": "Aumento Velocidad (+28%)",
-        "color": "#2a9d8f"
+        "label": "Escala IRPS y examinador certificado",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Versión adaptada de la Irlen Reading Perceptual Scale (Bernal et al., 2021), de aplicación individual y tres fases: cuestionario tipo Likert de 32 ítems, tareas de observación con imágenes de cubos y calabazas, y evaluación del examinador Irlen certificado. Los grupos se discriminaron por la curva ROC (sensibilidad 0,571; especificidad 0,379), con puntuación mínima de 63,5."
       },
       {
         "id": "8",
-        "label": "Reducción de Errores (-60%)",
-        "color": "#5b9eaa"
+        "label": "Batería PROLEC-R",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Prueba de Cuetos et al. (2009) con nueve tareas que cubren identificación de letras, procesos léxicos (palabras y pseudopalabras), gramaticales (estructuras y signos de puntuación) y semánticos (comprensión de oraciones, de textos y oral). Los índices se calcularon como (aciertos/tiempo)×100."
       },
       {
         "id": "9",
-        "label": "Evaluación con PROLEC-R",
-        "color": "#264653"
+        "label": "Diseño comparativo y análisis no paramétrico",
+        "color": "#f4a261",
+        "role": "Método",
+        "descripcion": "Aplicación individual en tres sesiones de unos 45 minutos, con consentimiento informado y visto bueno del Comité de Bioética de la Universidad de Cuenca. Al detectar distribución no normal (Kolmogorov-Smirnov) y varianzas heterogéneas, se usaron en SPSS 23 la U de Mann-Whitney y la d de Cohen."
       },
       {
         "id": "10",
-        "label": "Escuela Inclusiva y Neurodiversa",
-        "color": "#f4a261"
+        "label": "Mayores distorsiones y malestar en GSI",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "En la IRPS el GSI mostró puntuaciones significativamente peores (p<.001): dificultades visuales 46,96 frente a 26,49 del control (d=2,53) y malestares visuales 35,27 frente a 22,29 (d=1,81), además de más alteraciones en las tareas del cubo y la calabaza."
+      },
+      {
+        "id": "11",
+        "label": "Igual identificación de letras",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "No hubo diferencias significativas entre grupos en las tareas de identificación de letras (p=.584) ni igual-diferente (p=.462), confirmando la primera hipótesis: esta habilidad elemental ya adquirida a los 8-9 años no diferencia a los lectores."
+      },
+      {
+        "id": "12",
+        "label": "Diferencias en procesos léxicos",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "El GSI ejecutó peor en lectura de palabras (57,33 frente a 73,56; p=.019; d=.57) y de pseudopalabras (38,38 frente a 47,52; p=.005; d=.57), confirmando la segunda hipótesis y sugiriendo dificultades de acceso rápido a las palabras (Cuetos et al., 2009; Wilkins et al., 2004)."
+      },
+      {
+        "id": "13",
+        "label": "Peor comprensión visual y puntuación",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Hubo diferencias en signos de puntuación (8,4 frente a 12,5; p=.009; d=.56) —tercera hipótesis confirmada parcialmente, con las imágenes salvando la tarea de estructuras— y en comprensión de oraciones (p=.002; d=.57) y de textos (p=.041; d=.38)."
+      },
+      {
+        "id": "14",
+        "label": "Comprensión oral preservada",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "En comprensión oral no hubo diferencias significativas (3,02 frente a 3,35; p=.110), lo que apoya que el síndrome de Irlen se relaciona con procesos sensoriales visuales y no altera la comprensión del texto escuchado."
+      },
+      {
+        "id": "15",
+        "label": "Controversia científica sobre el síndrome",
+        "color": "#9b82c3",
+        "role": "Discusión",
+        "descripcion": "El concepto de estrés visual sigue siendo controvertido y varios autores han cuestionado investigaciones previas sobre el SI y los filtros de color (Ritchie et al., 2011; Griffiths et al., 2016; Uccula et al., 2014). El estudio aporta evidencia empírica exhaustiva que va más allá de la velocidad de lectura, con dos medidas de comprensión visual y una oral."
+      },
+      {
+        "id": "16",
+        "label": "Afecta la comprensión visual, no la oral",
+        "color": "#f4d068",
+        "role": "Conclusiones",
+        "descripcion": "Los participantes con SI mostraron procesos de lectura deteriorados —léxicos, de puntuación y semánticos— que podrían afectar la comprensión visual general, mientras la comprensión oral permanece intacta. Las investigaciones futuras deberían profundizar en la comprensión auditiva con más tareas."
+      },
+      {
+        "id": "17",
+        "label": "Limitaciones del estudio",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "No se contó con medida de inteligencia, hubo una sola medida de comprensión oral, no se detallaron factores socioeconómicos y conductuales, existen limitaciones psicométricas del PROLEC-R y la selección por IRPS concentró las dificultades de lectura en el GSI."
       }
     ],
     "aristas": [
       {
         "from": "1",
         "to": "2",
-        "label": "está originado por un"
+        "label": "se explica mediante la"
       },
       {
         "from": "2",
         "to": "3",
-        "label": "provoca en la lectura graves"
+        "label": "genera al leer"
       },
       {
         "from": "3",
         "to": "4",
-        "label": "genera agotamiento físico y"
+        "label": "caracteriza a los casos de"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "presenta una"
       },
       {
         "from": "1",
         "to": "5",
-        "label": "sufre frecuentemente un"
+        "label": "es el objeto del"
       },
       {
-        "from": "6",
-        "to": "1",
-        "label": "compensa de forma inmediata el"
+        "from": "4",
+        "to": "5",
+        "label": "motiva el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se comprueba en la"
       },
       {
         "from": "6",
         "to": "7",
-        "label": "produce un notable"
+        "label": "se clasifica con la"
       },
       {
         "from": "6",
         "to": "8",
-        "label": "consigue una drástica"
+        "label": "se evalúa con la"
+      },
+      {
+        "from": "5",
+        "to": "9",
+        "label": "se ejecuta con"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "forma parte del"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "arroja las"
       },
       {
         "from": "9",
-        "to": "1",
-        "label": "mide el impacto cognitivo del"
+        "to": "10",
+        "label": "confirmó las"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "evidenció la"
+      },
+      {
+        "from": "9",
+        "to": "12",
+        "label": "detectó las"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "encontró el"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "verificó la"
       },
       {
         "from": "10",
-        "to": "6",
-        "label": "incorpora en las aulas los"
+        "to": "16",
+        "label": "sustentan la"
       },
       {
-        "from": "10",
-        "to": "5",
-        "label": "evita mediante el cribado la"
+        "from": "13",
+        "to": "16",
+        "label": "conduce a la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "matiza la"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "responde a la"
+      },
+      {
+        "from": "17",
+        "to": "16",
+        "label": "acotan la"
       }
     ]
   }

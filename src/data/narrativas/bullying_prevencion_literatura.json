@@ -1,0 +1,493 @@
+{
+  "id": "bullying_prevencion_literatura",
+  "metadata": {
+    "title": "Literatura para la prevención del bullying en las primeras etapas de la educación escolar",
+    "authors": "Santiago Yubero, Elisa Larrañaga, Sandra Sánchez-García y Raúl Navarro",
+    "year": "2022",
+    "journal": "Ocnos 21(2)",
+    "doi": "10.18239/ocnos_2022.21.2.3133",
+    "gancho": "¿Puede un libro álbum infantil desarticular los mecanismos de desconexión moral que alimentan el acoso escolar antes de que se vuelva crónico?",
+    "duration": "12-15 min",
+    "depth": "Profundización",
+    "color": "#e76f51",
+    "colorAlt": "#264653",
+    "bg": "from-amber-500/20 to-ocean-dark/20",
+    "image": "https://picsum.photos/seed/bullying-album/800/600",
+    "tutor": {
+      "image": "https://picsum.photos/seed/tutor-yubero/200/200",
+      "name": "Dr. Santiago Yubero",
+      "role": "Catedrático de Psicología Social y Director del CEPLI, Universidad de Castilla-La Mancha"
+    }
+  },
+  "blocks": {
+    "apertura": {
+      "personaje": "Dr. Santiago Yubero, investigador en psicología social de la lectura y convivencia escolar",
+      "gancho": "¿Acosar es solo pegar o insultar en el patio? ¿Qué ocurre cuando las agresiones más devastadoras son invisibles y el grupo entero las normaliza entre risas?",
+      "contexto": "El acoso escolar es un problema grave de salud pública e infancia donde la victimización tiende a cronificarse si no se interviene tempranamente. Sin embargo, en Educación Infantil y los primeros cursos de Primaria, los docentes carecen con frecuencia de herramientas analíticas rigurosas para seleccionar literatura infantil que aborde el acoso sin caer en sermones simplistas. Los álbumes ilustrados combinan texto e imagen para ofrecer experiencias vicarias potentes; este trabajo diseña un instrumento analítico integral y lo aplica al análisis de contenido de cinco álbumes de referencia para transformar la lectura compartida en una intervención socioeducativa de prevención primaria.",
+      "deepDives": [
+        {
+          "id": "bully-apertura-1",
+          "triggerLabel": "¿Qué define científicamente al acoso escolar?",
+          "type": "theory",
+          "content": "El acoso escolar se define por tres criterios simultáneos (Smith et al., 2008): (1) intencionalidad dañina, (2) repetición continuada en el tiempo y (3) desequilibrio de poder manifiesto que impide a la víctima defenderse eficazmente."
+        },
+        {
+          "id": "bully-apertura-2",
+          "triggerLabel": "La lectura como experiencia vicaria y modelaje",
+          "type": "theory",
+          "content": "Siguiendo la teoría de la recepción (Jauss, 1982; Beach, 1993; Mendoza Fillola, 2003), la lectura literaria no es pasiva: el lector proyecta sus emociones y construye mapas mentales empáticos. Los personajes funcionan como modelos vicarios que permiten experimentar el conflicto y sus consecuencias en un entorno protegido."
+        },
+        {
+          "id": "bully-apertura-3",
+          "triggerLabel": "El papel insustituible del mediador docente",
+          "type": "method",
+          "content": "La lectura compartida no debe imponer una moraleja dogmática vertical. El mediador actúa como facilitador: plantea preguntas dialógicas, desmonta justificaciones agresivas y guía a los alumnos a visibilizar los detalles que la imagen complementa o contradice respecto al texto."
+        }
+      ]
+    },
+    "conflicto": {
+      "problema": "Las formas de acoso más dañinas en la infancia inicial no son siempre las físicas directas, sino el acoso verbal encubierto y el aislamiento social (exclusión de juegos, rumores), que suelen pasar desapercibidos para los adultos y ser minimizados por los menores. Además, el acoso no es un problema diádico aislado, sino un proceso grupal sostenido por la desconexión moral de los observadores pasivos.",
+      "porQueImporta": "Si las escuelas esperan a que aparezca la violencia física explícita en cursos superiores, la dinámica de agresión ya se ha estabilizado socialmente. Se requiere un protocolo sistemático para evaluar qué valores, roles y mecanismos psicológicos transmiten los libros antes de llevarlos al aula.",
+      "dataPoints": [
+        "Cinco formas estructurales de acoso tradicional analizadas: físico directo, físico indirecto, verbal directo, verbal indirecto y social.",
+        "Los estudios longitudinales confirman la existencia de víctimas continuas que mantienen su rol a lo largo de la escolarización.",
+        "Afrontamientos ineficaces: el enfrentamiento agresivo, el 'no hacer nada' o ignorar la situación agravan y prolongan el ciclo de acoso según la evidencia empírica (Livingstone et al., 2011; Navarro et al., 2018).",
+        "Afrontamientos protectores: búsqueda activa de apoyo social y bloqueo de la acción del agresor.",
+        "La desconexión moral (Bandura, 1999) opera justificando la agresión y culpabilizando a la víctima por 'ser diferente'."
+      ],
+      "glossary": [
+        {
+          "term": "Desconexión moral",
+          "definition": "Proceso cognitivo (Bandura, 1999) mediante el cual las personas justifican su comportamiento agresivo o distorsionan las consecuencias que puede tener en otras personas, reduciendo la empatía hacia la víctima."
+        },
+        {
+          "term": "Acoso relacional o social",
+          "definition": "Forma indirecta de agresión escolar orientada a aislar a la víctima del grupo mediante la exclusión activa, la negación de participación o el rechazo coordinado."
+        },
+        {
+          "term": "Interacción texto-imagen",
+          "definition": "Tipología semiótica multimodal (Nikolajeva y Scott) que describe la relación entre el código escrito y el visual: simétrica, de ampliación, complementaria, de contrapunto o contradictoria."
+        }
+      ],
+      "deepDives": [
+        {
+          "id": "bully-conflicto-1",
+          "triggerLabel": "La psicología grupal del acoso (Salmivalli)",
+          "type": "theory",
+          "content": "Salmivalli (2010) concibe el acoso como un proceso grupal en el que los observadores no son neutrales: con su silencio pueden mantener la victimización, mientras que el apoyo a la víctima puede erradicarla. Los compañeros que valoran la agresión como divertida refuerzan su repetición."
+        },
+        {
+          "id": "bully-conflicto-2",
+          "triggerLabel": "Estrategias de afrontamiento y cronificación",
+          "type": "data",
+          "content": "Livingstone et al. (2011) y Navarro et al. (2018) señalan que son eficaces las estrategias que buscan apoyo social y bloquean la acción del agresor, mientras que el enfrentamiento agresivo directo, el 'no hacer nada' o ignorar la situación no parecen serlo y pueden prolongar el acoso."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Diseño del instrumento analítico bidimensional y selección del corpus",
+      "narrativa": "El equipo del CEPLI desarrolló un modelo analítico de doble eje para desarmar la arquitectura de los álbumes infantiles: por un lado, una taxonomía textual centrada en los elementos narrativos y los roles ante el acoso; por otro, una taxonomía semiótica visual de cinco modos de interacción texto-imagen. El instrumento fue posteriormente aplicado en profundidad a cinco álbumes paradigmáticos de la literatura contemporánea.",
+      "detalles": [
+        {
+          "label": "Eje Textual (6 Categorías)",
+          "value": "1. Protagonista (rol asumido); 2. Situación de acoso (tipología); 3. Personaje acosado (emociones y afrontamiento); 4. Personaje acosador (desconexión moral y emoción impulsora); 5. Observadores (rol grupal); 6. Desenlace y resolución."
+        },
+        {
+          "label": "Eje Visual (5 Interacciones)",
+          "value": "Matriz semiótica de Nikolajeva y Scott: Simétrica (coincidencia), De ampliación (detalle), Complementaria (se completan mutuamente), De contrapunto (vías narrativas paralelas) y Contradictoria (ironía/tensión)."
+        },
+        {
+          "label": "Tipología de Desenlaces",
+          "value": "Clasificación de Sánchez-García y Yubero (2013): Positivo (resolución justa), Visto como positivo (resiliencia/convivencia con el problema), Negativo (persiste el daño) y Abierto (final reflexivo polisémico)."
+        },
+        {
+          "label": "Corpus de Validación (5 Obras)",
+          "value": "Mimí 'Tomatito' (Monloubou, 2009), ¿Qué le pasa a Uma? (Díaz Reguera, 2018), Orejas de mariposa (Aguilar, 2014), El club de los valientes (Ibarrola, 2008) y Crisantemo (Henkes, 1999)."
+        }
+      ],
+      "limitaciones": [
+        "El estudio analizó un corpus seleccionado intencionalmente de cinco álbumes destacados, sin extenderse aún a una muestra probabilística de libros de texto o catálogos masivos.",
+        "No se reportaron formalmente índices psicométricos de fiabilidad interjueces para las categorías cualitativas de la ficha.",
+        "Los propios autores proponen concretar más las variables de análisis y profundizar en el análisis del estereotipo de género en la resolución de los conflictos."
+      ],
+      "reflexion": "La mayoría de los álbumes comerciales que intentan abordar el bullying recurren a desenlaces donde un adulto todopoderoso castiga al culpable. ¿Por qué es pedagógicamente más transformador mostrar que los propios iguales forman una red de apoyo mutuo?",
+      "deepDives": [
+        {
+          "id": "bully-viaje-1",
+          "triggerLabel": "Estructura detallada del instrumento (Anexo 1)",
+          "type": "method",
+          "content": "La ficha analítica del Anexo 1 evalúa la presencia de la desconexión moral y el componente emocional del acosador, el perfil emocional y las estrategias de afrontamiento de la víctima, el rol y las justificaciones de los observadores, y el tipo de resolución del conflicto."
+        },
+        {
+          "id": "bully-viaje-2",
+          "triggerLabel": "Criterios de inclusión de las obras del corpus",
+          "type": "method",
+          "content": "Las obras seleccionadas son álbumes de calidad reconocida en los que la narrativa textual y gráfica refleja explícitamente situaciones de acoso entre iguales, cubriendo distintas formas de intimidación y prestando atención a las justificaciones del agresor y a la respuesta de los observadores."
+        }
+      ]
+    },
+    "revelacion": {
+      "titulo": "Hallazgos empíricos del análisis de contenido: la anatomía del acoso en el álbum",
+      "narrativa": "El análisis sistemático del corpus desveló patrones estructurales consistentes sobre cómo la ficción infantil representa el acoso y dónde residen sus mayores potencias educativas:",
+      "hallazgos": [
+        {
+          "label": "Dominancia del acoso verbal y social",
+          "value": "Las obras reflejan el acoso verbal y el acoso social como formas dañinas de la relación entre iguales, que a menudo pasan desapercibidas: el mote humillante, las risas grupales y la exclusión de los juegos. Ej.: Todos los álbumes analizados."
+        },
+        {
+          "label": "Universalidad de la Desconexión Moral",
+          "value": "Los agresores justifican su conducta porque la víctima 'se sonroja' (Mimí), 'es rara' (Uma), 'tiene orejas grandes' (Mara), 'tiene nombre de flor' (Crisantemo) o por sentirse superior (Samuel). La emoción impulsora es la diversión o el afán de poder. Ej.: Todas las obras justifican la agresión en 'la diferencia'."
+        },
+        {
+          "label": "El papel decisivo de los observadores",
+          "value": "En obras como El club de los valientes, los pares celebran inicialmente al abusador ('¡Bravo, Samuel!'). Cuando el grupo se une a la víctima y Samuel se queda solo, el acoso colapsa definitivamente. Ej.: Dicotomía entre silencio y complicidad."
+        },
+        {
+          "label": "Estrategias de afrontamiento asertivas",
+          "value": "En Orejas de mariposa, Mara resignifica las burlas verbales con el apoyo materno; en El club de los valientes, Samuel es neutralizado no con golpes, sino con un pacto grupal de apoyo mutuo. Ej.: Resiliencia interna y redes de pares."
+        }
+      ],
+      "dataPoints": [
+        "Mimí 'Tomatito': Acoso verbal directo (mote), indirecto (burlas) y social (exclusión del grupo). Emoción del agresor: diversión. La víctima, muy tímida, 'no hace nada'; la resolución llega con la intervención de la profesora.",
+        "¿Qué le pasa a Uma?: Acoso social silencioso. La ilustración usa el color (el rojo de Uma frente a los grises) para reforzar el aislamiento frente a un entorno que parece no verla.",
+        "Orejas de mariposa: Acoso verbal directo recurrente. Interacción texto-imagen de ampliación donde la fantasía pictórica ('orejas de mariposa') resignifica la agresión literal con el apoyo de la madre.",
+        "El club de los valientes: Acoso físico directo e indirecto y verbal directo. El líder intimidador (Samuel) pierde poder cuando los iguales construyen un pacto colectivo de apoyo a la víctima (Alan).",
+        "Crisantemo: Desconexión moral basada en el ridículo del nombre propio; la resolución se apoya en la familia y en una maestra que rompe el binomio acoso-diversión."
+      ],
+      "reflexion": "Cuando un agresor se divierte y la clase se ríe, la agresión se retroalimenta. Desmontar el binomio 'acoso = diversión' es el paso pedagógico más urgente en cualquier aula.",
+      "deepDives": [
+        {
+          "id": "bully-revelacion-1",
+          "triggerLabel": "El poder narrativo de la ilustración en 'Uma'",
+          "type": "data",
+          "content": "En ¿Qué le pasa a Uma?, la interacción de ampliación recurre al color: el vestido rojo de Uma hace que lo diferente capte la atención mientras los demás quedan en tonos grises, visualizando el aislamiento social que el texto también narra."
+        },
+        {
+          "id": "bully-revelacion-2",
+          "triggerLabel": "Resolución por apoyo de iguales vs. castigo punitivo",
+          "type": "data",
+          "content": "El análisis demuestra que los álbumes más transformadores resuelven el conflicto quitándole el público al agresor (pacto de apoyo mutuo entre iguales), no introduciendo una sanción punitiva externa que deje intacta la dinámica grupal."
+        }
+      ]
+    },
+    "marco": {
+      "titulo": "Articulación teórica: Recepción literaria, desarrollo moral y psicología ecológica",
+      "narrativa": "Los autores integran sólidamente tres marcos disciplinares para fundamentar por qué la literatura es un dispositivo preventivo de primer orden:",
+      "detalles": [
+        {
+          "label": "Convergencia",
+          "value": "Teoría de la Recepción (Jauss, Mendoza Fillola): La experiencia lectora activa el horizonte de expectativas del menor, permitiéndole reevaluar sus propias vivencias escolares a través de la distancia estética."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Teoría Cognitiva Social (Bandura): El desarrollo moral opera mediante tres procesos (monitoreo, enjuiciamiento y autoreacción). La lectura compartida obliga a monitorear la agresión, juzgar la injusticia y empatizar con el sufrimiento ajeno."
+        },
+        {
+          "label": "Convergencia",
+          "value": "Enfoque Ecológico del Maltrato (Bronfenbrenner, Salmivalli): El acoso no ocurre en el vacío; está modelado por el microsistema del aula y las normas de complicidad entre iguales."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Lectura moralizante clásica vs. Mediación dialógica crítica: Los autores rechazan el uso de la literatura como fábula disciplinaria con moraleja impuesta; la mediación debe ser un debate abierto donde los niños descubran las incoherencias morales."
+        },
+        {
+          "label": "Divergencia",
+          "value": "Enfoque punitivo-reactivo vs. Enfoque preventivo-vicario: Castigar al agresor tras el conflicto no enseña empatía; modelar la asertividad y la solidaridad antes del conflicto previene la aparición de la conducta."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "Falta de profundización en el análisis de género y en los estereotipos masculinos de fuerza física que suelen prescribir las conductas de intimidación en el patio."
+        },
+        {
+          "label": "Punto ciego",
+          "value": "El predominio de intervenciones adultocéntricas en algunos álbumes, donde el maestro o la madre rescata a la víctima sin darle agencia autónoma."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la formación del profesorado Los docentes deben formarse en alfabetización visual y mediación de dilemas morales, superando la lectura meramente decodificadora o sintáctica."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para los planes de convivencia escolar Incorporar la biblioteca escolar y los álbumes ilustrados en el plan de acción tutorial desde los 3 hasta los 8 años como programa estructurado de prevención del acoso."
+        },
+        {
+          "label": "Implicancia",
+          "value": "Para la investigación en LIJ Validar empíricamente la ficha analítica con muestras probabilísticas y estudios cuasi-experimentales que midan el impacto conductual real en las aulas tras las sesiones de lectura."
+        },
+        {
+          "label": "Tabla",
+          "value": "Álbum | Formas de acoso dominantes | Justificación agresor (Desconexión) | Estrategia afrontamiento víctima | Tipo de resolución\nMimí 'Tomatito' | Verbal directo/indirecto y social | Víctima se ruboriza (es 'débil') | No hace nada (apoyo docente) | Visto como positivo\n¿Qué le pasa a Uma? | Social (aislamiento) | Víctima es considerada 'rara' | No hace nada / ignora | Positivo\nOrejas de mariposa | Verbal directo | Atributos físicos corporales | Ignora la situación (apoyo materno) | Positivo\nEl club de los valientes | Físico directo e indirecto y verbal | Sentimiento de superioridad y fuerza | No hace nada y luego red de pares | Positivo\nCrisantemo | Verbal directo e indirecto | Nombre de flor (Crisantemo) | No hace nada y apoyo familiar | Positivo"
+        }
+      ],
+      "reflexion": "Si los niños ven que en los libros los iguales defienden a la víctima y aíslan al agresor, ¿se atreverán a replicar esa conducta en el patio escolar frente a situaciones reales?",
+      "deepDives": [
+        {
+          "id": "bully-marco-1",
+          "triggerLabel": "El horizonte de expectativas en la primera infancia",
+          "type": "theory",
+          "content": "Según Mendoza Fillola (2003), los primeros lectores carecen de un bagaje enciclopédico amplio, pero poseen una agudeza perceptiva extraordinaria para captar matices emocionales en las imágenes. El álbum ilustrado es el género idóneo para modular su horizonte de expectativas sobre la justicia y el respeto."
+        }
+      ]
+    },
+    "nucleo": {
+      "pregunta": "¿Cómo podemos dotar a los docentes y mediadores de un instrumento sistemático para seleccionar y analizar álbumes ilustrados que prevengan eficazmente el acoso escolar desde las primeras etapas educativas?",
+      "conclusion": "El instrumento diseñado (una taxonomía textual de seis categorías y cinco interacciones semióticas gráficas) demuestra plena aplicabilidad para cartografiar el contenido del acoso en libros infantiles. Los álbumes infantiles reflejan con nitidez el acoso verbal y social encubierto, visibilizando la desconexión moral de los agresores y la complicidad de los observadores. Las resoluciones más eficaces y transformadoras no se apoyan en el castigo punitivo del adulto, sino en el pacto colectivo de apoyo mutuo y la resignificación asertiva entre iguales. La lectura compartida y dialógica se confirma como un potente dispositivo de intervención socioeducativa primaria para la educación moral y la convivencia escolar. Utilizar la ficha analítica del Anexo 1 como guía de selección bibliográfica previa a cualquier programa de lectura en Educación Infantil y Primaria. Planificar sesiones de lectura compartida dialógica centradas en visibilizar el acoso social encubierto y debatir el papel de los observadores pasivos. Aprovechar la narrativa gráfica para explorar los estados emocionales de los personajes que el texto escrito omite deliberadamente. Fomentar en el aula la creación de pactos de apoyo entre iguales inspirados en modelos literarios como 'El club de los valientes'. La literatura no resolverá sola los conflictos del patio escolar, pero sin narrativas que modelen la empatía y la valentía prosocial, la escuela pierde su mejor aliada en la prevención del acoso.",
+      "formalRef": "Santiago Yubero, Elisa Larrañaga, Sandra Sánchez-García y Raúl Navarro. (2022). Literatura para la prevención del bullying en las primeras etapas de la educación escolar. Ocnos 21(2). https://doi.org/10.18239/ocnos_2022.21.2.3133"
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "De acuerdo con el modelo de análisis y el marco teórico del artículo, ¿cuál es el componente recurrente que justifica la conducta del agresor en los cinco álbumes estudiados?",
+          "options": [
+            "Una patología psicológica innata no vinculada a factores sociales",
+            "La desconexión moral fundamentada en culpabilizar a la víctima por 'ser diferente'",
+            "Una provocación violenta previa de la víctima que requería defensa",
+            "Una orden directa impuesta por la figura de autoridad docente"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "choice",
+          "q": "¿Qué tipo de relación texto-imagen (Nikolajeva y Scott) se produce cuando la ilustración contradice o añade un significado opuesto al texto escrito para evidenciar la ironía del acoso?",
+          "options": [
+            "Relación simétrica pura",
+            "Relación de contrapunto o contradictoria",
+            "Relación de ampliación redundante",
+            "Relación fotográfica descriptiva"
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "Diseña una pregunta dialógica que plantearías a un grupo de 6 años tras leer la escena en que los compañeros se ríen de un mote, con el fin de romper la complicidad de los observadores sin culpabilizarlos directamente."
+        }
+      ]
+    }
+  },
+  "mapa": {
+    "titulo": "Mapa conceptual: Literatura para la prevención del bullying en las primeras etapas escolares (Ocnos 21(2) 2022)",
+    "descripcion": "Recorre el instrumento de análisis de contenido de Yubero, Larrañaga, Sánchez-García y Navarro para estudiar cómo los álbumes ilustrados representan el acoso: la lectura como intervención socioeducativa, la desconexión moral y la dinámica grupal, el doble eje textual y semiótico (Nikolajeva y Scott), y el análisis de cinco álbumes de calidad que priorizan las formas verbales y sociales del acoso y las resoluciones por apoyo entre iguales.",
+    "nodos": [
+      {
+        "id": "1",
+        "label": "Acoso escolar en la primera infancia",
+        "color": "#e76f51",
+        "role": "Marco teórico",
+        "descripcion": "El acoso es un grave problema social y de salud para los menores, definido como un acto agresivo, intencionado y repetido contra una víctima que no puede defenderse (Smith et al., 2008). Se diferencian cinco tipos: físico directo e indirecto, verbal directo e indirecto y social (Smith, 2016)."
+      },
+      {
+        "id": "2",
+        "label": "Invisibilidad del acoso verbal y social",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Acosar no es solo pegar: las agresiones verbales indirectas y relacionales (motes, rumores, exclusión) pueden pasar desapercibidas y ser minimizadas por los propios menores. Los estudios longitudinales alertan de víctimas continuas, por lo que es clave intervenir desde las primeras edades."
+      },
+      {
+        "id": "3",
+        "label": "Desconexión moral (Bandura)",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La Teoría Cognitiva Social de Bandura (1999) describe la desconexión moral como el proceso por el que se justifica la agresión o se distorsionan sus consecuencias. En los menores la agresión se justifica porque la víctima es considerada diferente, lo que reduce la empatía hacia ella."
+      },
+      {
+        "id": "4",
+        "label": "Dinámica grupal del maltrato (Salmivalli)",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "El bullying es un proceso grupal: la relación entre agresor y víctima está afectada por el resto de compañeros, que con su silencio pueden mantenerlo o, con apoyo a la víctima, erradicarlo (Salmivalli, 2010). Romper el binomio agresión/diversión es imprescindible."
+      },
+      {
+        "id": "5",
+        "label": "Lectura vicaria y mediación dialógica",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Desde la teoría de la recepción (Jauss, 1982; Mendoza Fillola, 2003), la lectura moviliza cognición y emoción y permite vivir otras vidas. El mediador no impone una lectura única, sino que guía el diálogo para reconocer y analizar las situaciones planteadas."
+      },
+      {
+        "id": "6",
+        "label": "Objetivo: instrumento de análisis de contenido",
+        "color": "#264653",
+        "role": "Objetivo",
+        "descripcion": "Desarrollar y valorar un instrumento que facilite el análisis de contenido sobre el acoso en los álbumes ilustrados, atendiendo tanto al análisis textual como a la narrativa gráfica."
+      },
+      {
+        "id": "7",
+        "label": "Objetivo: orientar la selección y mediación",
+        "color": "#2a9d8f",
+        "role": "Objetivo",
+        "descripcion": "Dotar a docentes y mediadores de categorías sistemáticas para seleccionar obras literarias y planificar intervenciones socioeducativas de prevención del acoso desde edades tempranas."
+      },
+      {
+        "id": "8",
+        "label": "Eje textual: seis categorías narrativas",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "El análisis textual estudia protagonista, situación de acoso, personaje acosado, acosador, observadores y resolución, atendiendo a las emociones, las estrategias de afrontamiento y las justificaciones (desconexión moral)."
+      },
+      {
+        "id": "9",
+        "label": "Eje gráfico: cinco interacciones",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Las relaciones texto-imagen se clasifican según Nikolajeva y Scott (2001): simétrica, de ampliación, complementaria, de contrapunto y contradictoria. Los desenlaces se tipifican en positivo, visto como positivo, negativo y abierto (Sánchez-García y Yubero, 2013)."
+      },
+      {
+        "id": "10",
+        "label": "Corpus empírico de cinco álbumes",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Se aplicó la ficha a cinco obras de calidad: Mimí 'Tomatito', ¿Qué le pasa a Uma?, Orejas de mariposa, El club de los valientes y Crisantemo, seleccionadas por su tratamiento explícito de la intimidación entre iguales."
+      },
+      {
+        "id": "11",
+        "label": "Prevalencia del acoso verbal y social",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Los álbumes analizados reflejan sobre todo el acoso verbal y el acoso social, formas dañinas que a menudo pasan desapercibidas. Las narrativas muestran con claridad las consecuencias de cualquier comportamiento de acoso."
+      },
+      {
+        "id": "12",
+        "label": "Justificación agresora por la 'diferencia'",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "En todos los álbumes el agresor justifica su conducta mediante la desconexión moral basada en rasgos de la víctima (el sonrojo, 'ser rara', las orejas, el nombre de flor) y la emoción impulsora es la diversión o la búsqueda de poder."
+      },
+      {
+        "id": "13",
+        "label": "Afrontamiento positivo y apoyo entre iguales",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "Destacan las estrategias de afrontamiento positivo: la resignificación poética con apoyo familiar (Orejas de mariposa) y, sobre todo, el pacto colectivo de no violencia que aísla al agresor (El club de los valientes), frente a 'no hacer nada'."
+      },
+      {
+        "id": "14",
+        "label": "Discusión: romper el binomio diversión-agresión",
+        "color": "#f4d068",
+        "role": "Discusión",
+        "descripcion": "Es imprescindible eliminar el refuerzo grupal de la burla y hacer ver que la risa colectiva alimenta la victimización. Despertar la culpabilidad y la pena puede activar la intervención y el apoyo a la víctima (Perren y Gutzwiller-Helfenfinger, 2012)."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: corpus, fiabilidad y género",
+        "color": "#e76f51",
+        "role": "Limitaciones",
+        "descripcion": "El análisis se limita a un corpus de cinco álbumes y no reporta índices de fiabilidad interjueces. Como línea futura, los autores proponen concretar más las variables de análisis e incorporar el análisis del estereotipo de género."
+      },
+      {
+        "id": "16",
+        "label": "Conclusión: lectura como prevención primaria",
+        "color": "#c73e1d",
+        "role": "Conclusiones",
+        "descripcion": "Las categorías del instrumento resultaron adecuadas para mapear el acoso en la narrativa textual y gráfica y facilitan la selección de lecturas y la programación de actividades. La lectura literaria permite el modelaje en un entorno seguro y la reflexión moral para la prevención."
+      }
+    ],
+    "aristas": [
+      {
+        "from": "1",
+        "to": "2",
+        "label": "se agrava por la"
+      },
+      {
+        "from": "1",
+        "to": "6",
+        "label": "motiva el planteamiento del"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "se perpetúa mediante la"
+      },
+      {
+        "from": "3",
+        "to": "4",
+        "label": "se articula dentro de la"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "puede ser reconfigurada por la"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "fundamenta teóricamente la"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "se operativiza en el"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "se complementa con el"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "se aplica sobre el"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "analiza la multimodalidad del"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "evidencia empíricamente la"
+      },
+      {
+        "from": "10",
+        "to": "12",
+        "label": "demuestra la presencia de la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "revela la eficacia del"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "sustenta la necesidad de"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "demanda estrategias para"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "aporta modelos de acción para la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "orienta los objetivos de la"
+      },
+      {
+        "from": "10",
+        "to": "15",
+        "label": "señala los límites y la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "delimita las condiciones de la"
+      },
+      {
+        "from": "7",
+        "to": "16",
+        "label": "culmina con la consolidación de la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "codifica rigurosamente la"
+      }
+    ]
+  }
+}

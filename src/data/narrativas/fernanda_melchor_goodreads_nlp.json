@@ -1,7 +1,7 @@
 {
   "id": "fernanda_melchor_goodreads_nlp",
   "metadata": {
-    "title": "Experiencia de lectura de la obra de Fernanda Melchor: análisis de reseñas en Goodreads mediante PLN",
+    "title": "Experiencia de lectura de la obra de Fernanda Melchor: análisis de las reseñas en Goodreads",
     "authors": "Mariana Reyes-Abundes y Manuel Cebral-Loureda",
     "year": "2024",
     "journal": "Ocnos 23(1)",
@@ -15,15 +15,15 @@
     "image": "/assets/cromos/cromo-01.png",
     "tutor": {
       "image": "/assets/cromos/cromo-01.png",
-      "name": "Dra. Mariana Reyes-Abundes",
+      "name": "Mariana Reyes-Abundes",
       "role": "Investigadora en Humanidades Digitales y Procesamiento del Lenguaje Natural, Tecnológico de Monterrey"
     }
   },
   "blocks": {
     "apertura": {
-      "personaje": "Dra. Mariana Reyes-Abundes, especialista en minería de textos literarios y análisis de sentimientos en redes",
+      "personaje": "Mariana Reyes-Abundes, investigadora del Tecnológico de Monterrey, especializada en minería de textos literarios y análisis de sentimientos en redes",
       "gancho": "¿Cómo reaccionan miles de lectores digitales ante la crudeza de 'Temporada de huracanes' y 'Páradais'?",
-      "contexto": "Fernanda Melchor es una de las voces más arrolladoras y premiadas de la literatura latinoamericana reciente. Sus novelas exploran la violencia estructural, la misoginia, la pobreza y el machismo visceral en México a través de una prosa torrencial sin puntos y aparte. En este estudio pionero de Humanidades Digitales, los autores analizaron cientos de reseñas de usuarios en Goodreads mediante técnicas de Procesamiento de Lenguaje Natural (PLN) y análisis de sentimientos en R.",
+      "contexto": "Fernanda Melchor es una de las voces más arrolladoras y premiadas de la literatura latinoamericana reciente. Sus novelas exploran la violencia estructural, la misoginia, la pobreza y el machismo visceral en México a través de una prosa torrencial de párrafos interminables. En este estudio de Humanidades Digitales, los autores analizaron 2.048 reseñas en español de usuarios de Goodreads mediante técnicas de Procesamiento de Lenguaje Natural (PLN) y análisis de sentimientos programados en R.",
       "deepDives": [
         {
           "id": "mel-apertura-1",
@@ -35,7 +35,7 @@
           "id": "mel-apertura-2",
           "triggerLabel": "Corpus de Goodreads sobre Melchor",
           "type": "data",
-          "content": "Cientos de reseñas espontáneas de 'Temporada de huracanes', 'Páradais' y 'Aquí no es Miami'."
+          "content": "2.048 reseñas espontáneas en español de 'Temporada de huracanes', 'Páradais', 'Aquí no es Miami' y 'Falsa liebre'."
         }
       ]
     },
@@ -43,15 +43,15 @@
       "problema": "La crítica literaria tradicional analiza la obra desde púlpitos académicos aislados, sin comprender cómo el lector común procesa el impacto traumático de narrativas extremas.",
       "porQueImporta": "El análisis algorítmico de la recepción social permite mapear la geografía emocional de la lectura en la era de los algoritmos.",
       "dataPoints": [
-        "Corpus de cientos de reseñas en español e inglés en Goodreads.",
-        "Predominio de términos somáticos y viscerales: 'asfixia', 'dolor', 'náusea', 'ritmo', 'brutalidad'.",
-        "Bipolaridad emocional: altas calificaciones (4 y 5 estrellas) acompañadas paradójicamente de léxico de angustia extrema.",
-        "Reconocimiento de la maestría rítmica y oral del lenguaje veracruzano."
+        "Corpus de 2.048 reseñas en español extraídas de Goodreads mediante web scraping con la extensión listly.",
+        "Predominio de términos ligados a la temática: 'violencia', 'pobreza', 'miseria', 'cruel' y 'crudo'.",
+        "Paradoja aparente: las reseñas cargadas de miedo y enojo conviven con valoraciones altas (Temporada de huracanes promedia 4,09 estrellas; Aquí no es Miami, 4,26).",
+        "Reconocimiento del ritmo trepidante y del lenguaje popular y coloquial en los bigramas de las reseñas."
       ],
       "glossary": [
         {
-          "term": "Lectura somática / visceral",
-          "definition": "Experiencia estética donde el texto literario provoca reacciones corporales y emocionales intensas (tensión muscular, aceleración cardíaca, desasosiego)."
+          "term": "Analítica cultural",
+          "definition": "Enfoque que procesa grandes volúmenes de datos de redes sociales para representar la cultura mediante modelos estadísticos, tomando la cultura popular como fuente de legitimación (Manovich, 2020)."
         }
       ]
     },
@@ -61,60 +61,60 @@
       "detalles": [
         {
           "label": "Herramientas",
-          "value": "Lenguaje R, paquetes tidytext, syuzhet y topicmodels."
+          "value": "RStudio (lenguaje R), con los paquetes tidytext, stopwords, udpipe y topicmodels, y el léxico de emociones NRC."
         },
         {
           "label": "Muestra",
-          "value": "Reseñas de 'Temporada de huracanes' y 'Páradais'."
+          "value": "2.048 reseñas en español: 1.127 de 'Temporada de huracanes', 575 de 'Páradais', 292 de 'Aquí no es Miami' y 54 de 'Falsa liebre'."
         }
       ],
       "limitaciones": [
-        "Sesgo propio de la comunidad de usuarios anglo e hispanohablantes registrados en Goodreads."
+        "Goodreads solo permite visualizar 300 reseñas por libro y filtro, y el estudio acota el corpus a reseñas en español de una sola autora."
       ],
       "reflexion": "La gran literatura no consuela: sacude las conciencias y deja cicatrices imborrables."
     },
     "revelacion": {
-      "titulo": "Hallazgos empíricos: La fascinación estética por el horror",
+      "titulo": "Hallazgos empíricos: la emoción ligada a la temática",
       "narrativa": "El modelado de temas y el análisis de sentimiento desvelaron una paradoja fascinante:",
       "hallazgos": [
         {
-          "label": "1. El Oxímoron Emocional",
-          "value": "Los lectores describen la experiencia como 'horrible pero sublime', admirando la musicalidad barroca de la prosa mientras sufren por el horror relatado."
+          "label": "1. La paradoja de las emociones negativas",
+          "value": "Las reseñas dominadas por miedo y enojo ('violencia', 'pobreza', 'miseria', 'asesinato') no reflejan rechazo del libro: esas palabras describen sus temáticas, mientras las valoraciones en la plataforma siguen siendo altas."
         },
         {
-          "label": "2. La Denuncia Social Viva",
-          "value": "Los usuarios conectan la ficción de Melchor con los feminicidios reales y la impunidad en América Latina."
+          "label": "2. La denuncia social viva",
+          "value": "Los usuarios conectan la ficción de Melchor con problemáticas reales: crimen organizado, abuso sexual, desigualdad social y un 'México violento'."
         }
       ],
       "dataPoints": [
-        "El 78% de las valoraciones de 5 estrellas incluye advertencias de contenido ('trigger warnings') autoorganizadas por la comunidad."
+        "Aproximadamente el 20% de las personas que leen los libros de Melchor escribe una reseña; el mejor valorado es 'Aquí no es Miami', con un promedio de 4,26 estrellas."
       ],
       "reflexion": "Cuando la belleza del lenguaje se pone al servicio de la verdad, el lector no puede apartar la mirada."
     },
     "marco": {
-      "titulo": "Discusión: Humanidades Digitales aplicadas a la didáctica",
-      "narrativa": "Reyes-Abundes y Cebral-Loureda proponen llevar el PLN a las clases de literatura:",
+      "titulo": "Discusión: Humanidades Digitales aplicadas a la recepción lectora",
+      "narrativa": "Reyes-Abundes y Cebral-Loureda proponen extender el método computacional:",
       "detalles": [
         {
-          "label": "Talleres de Minería Crítica",
-          "value": "Enseñar a los estudiantes a contrastar sus propias emociones lectoras con mapas globales de nubes semánticas."
+          "label": "Extensión del método",
+          "value": "Aplicar la misma metodología a otros autores para comprobar cómo difieren los resultados, y complementar el análisis con técnicas cualitativas y etnográficas como entrevistas o focus group."
         }
       ],
       "reflexion": "Los algoritmos no sustituyen a la sensibilidad humana: nos ayudan a ver el murmullo colectivo de las almas que leen."
     },
     "nucleo": {
       "pregunta": "¿Qué revela el análisis por procesamiento del lenguaje natural sobre la experiencia lectora de la obra de Fernanda Melchor en Goodreads?",
-      "conclusion": "La investigación con técnicas de PLN y análisis de sentimientos en Goodreads demuestra que la recepción de la obra de Fernanda Melchor provoca una vivencia visceral de 'oxímoron estético': repugnancia moral y angustia ante la violencia descrita combinadas con una profunda fascinación por el virtuosismo rítmico y polifónico de su prosa. Se valida el uso de herramientas computacionales para desentrañar las comunidades afectivas de lectura en entornos digitales.",
-      "formalRef": "Reyes-Abundes, M., & Cebral-Loureda, M. (2024). Experiencia de lectura de la obra de Fernanda Melchor: análisis de reseñas en Goodreads mediante PLN. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.363"
+      "conclusion": "La investigación con técnicas de PLN y análisis de sentimientos en Goodreads demuestra que la recepción de la obra de Fernanda Melchor está marcada por emociones de miedo y enojo ligadas a sus temáticas de violencia, pobreza y desigualdad, más que al disgusto del lector: las reseñas negativas conviven con valoraciones altas. Los lectores reflexionan de manera personal sobre aspectos sociales y dan continuidad a los temas de la propia autora, validando el uso de herramientas computacionales para desentrañar comunidades afectivas de lectura en entornos digitales.",
+      "formalRef": "Reyes-Abundes, M., & Cebral-Loureda, M. (2024). Experiencia de lectura de la obra de Fernanda Melchor: análisis de las reseñas de Goodreads. Ocnos, 23(1). https://doi.org/10.18239/ocnos_2024.23.1.363"
     },
     "reflexion": {
       "questions": [
         {
           "type": "choice",
-          "q": "¿Qué paradoja emocional revelaron los algoritmos de PLN al analizar las reseñas de 5 estrellas de Fernanda Melchor en Goodreads?",
+          "q": "¿Qué paradoja emocional revelaron los algoritmos de PLN al analizar las reseñas de los libros de Fernanda Melchor en Goodreads?",
           "options": [
             "Que los lectores decían que el libro era aburrido y ligero.",
-            "Un 'oxímoron estético': calificaban con la máxima puntuación novelas cuyo contenido les provocaba náusea, angustia y desasosiego corporal.",
+            "Que predominaban miedo y enojo —con palabras como 'violencia', 'pobreza' y 'asesinato'— ligados a la temática, no al disgusto: las valoraciones seguían siendo altas.",
             "Que nadie entendió el argumento.",
             "Que solo hablaban de faltas de ortografía."
           ],
@@ -133,10 +133,10 @@
         },
         {
           "type": "choice",
-          "q": "¿Qué elemento estilístico de la prosa de Melchor fue unánimemente elogiado por los lectores a pesar de la extrema crudeza de las historias?",
+          "q": "¿Qué elementos del estilo y el lenguaje de Melchor destacaron los lectores en las reseñas a pesar de la extrema crudeza de las historias?",
           "options": [
             "Sus rimas infantiles.",
-            "La musicalidad torrencial, el ritmo oral y la polifonía del lenguaje popular veracruzano.",
+            "El ritmo trepidante y vertiginoso y el lenguaje popular, coloquial y con modismos mexicanos, presentes en los bigramas de las reseñas.",
             "La brevedad de sus capítulos de dos líneas.",
             "El uso exclusivo de frases en latín."
           ],
@@ -159,7 +159,7 @@
       "position": "bottom-right"
     },
     "conflicto": {
-      "text": "Novelas brutales sin puntos y aparte que provocan asfixia física: analicemos los sentimientos de cientos de reseñas con R.",
+      "text": "Novelas duras que sacuden: analicemos con R las emociones de 2.048 reseñas en español sobre Fernanda Melchor.",
       "position": "bottom-right"
     },
     "viaje": {
@@ -167,7 +167,7 @@
       "position": "bottom-right"
     },
     "revelacion": {
-      "text": "¡El oxímoron perfecto! Los lectores sufren física y moralmente con el horror de la trama, pero quedan fascinados por el genio verbal de Melchor.",
+      "text": "¡La paradoja revelada! El miedo y el enojo en las reseñas responden a la temática de violencia y pobreza, no al gusto: los libros siguen estando muy bien valorados.",
       "position": "bottom-right"
     },
     "marco": {
@@ -188,110 +188,242 @@
     }
   },
   "mapa": {
-    "titulo": "Mapa conceptual: Recepción de Fernanda Melchor y Análisis PLN en Goodreads",
-    "descripcion": "Estudio con minería de textos (R/Tidytext): violencia estructural, lenguaje visceral, oxímoron estético y recepción en redes de lectura.",
+    "titulo": "Mapa conceptual: Experiencia de lectura de Fernanda Melchor en Goodreads (Ocnos 23(1) 2024)",
+    "descripcion": "Del marco de la lectura social digital al análisis PLN en R de 2.048 reseñas en Goodreads: frecuencias, emociones, verbos y tópicos que muestran cómo la recepción de Fernanda Melchor trasciende hacia la conciencia social.",
     "nodos": [
       {
         "id": "1",
         "label": "Obra de Fernanda Melchor",
-        "color": "#c73e1d"
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Escritora veracruzana de gran éxito editorial: Temporada de huracanes (2017), publicada en más de veinte idiomas, Páradais (2021), Aquí no es Miami (2013) y Falsa liebre (2013). Es de las autoras mexicanas con más reseñas en español en Goodreads."
       },
       {
         "id": "2",
-        "label": "Reseñas en Red Social Goodreads",
-        "color": "#2a5a75"
+        "label": "Lectura social en cultura digital",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Leer es una práctica social hecha en comunidad (Alonso-Arévalo y Cordón-García, 2014) y una actividad híbrida entre espacios físicos y virtuales. El 60% de las lectoras mexicanas se informa de novedades en redes sociales (Quiroga, 2020), con booktubers y booktokers como nuevos mediadores."
       },
       {
         "id": "3",
-        "label": "Procesamiento de Lenguaje (PLN)",
-        "color": "#5b9eaa"
+        "label": "Goodreads como fuente de reseñas",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Una de las aplicaciones de lectura más populares del mundo, con más de 90 millones de usuarios (Barnett, 2021). Permite valorar libros con puntuación, crear etiquetas y leer reseñas de otros usuarios, ofreciendo datos confiables sobre prácticas lectoras contemporáneas."
       },
       {
         "id": "4",
-        "label": "Análisis de Sentimientos en R",
-        "color": "#88b04b"
+        "label": "PLN sobre la experiencia de lectura",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "Analizar la recepción de la obra de Melchor en la comunidad digital aplicando técnicas de Procesamiento de Lenguaje Natural (NLP) a las reseñas de Goodreads, para conocer qué información sobre sus prácticas de lectura aportan cientos de usuarios."
       },
       {
         "id": "5",
-        "label": "Oxímoron Estético (Dolor/Belleza)",
-        "color": "#f4d068"
+        "label": "Recolección por web scraping",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Como Goodreads cerró su API en 2016, las reseñas se extrajeron con web scraping y la extensión de Chrome listly. Se formó una base de datos de 2.048 reseñas en español: 1.127 de Temporada de huracanes, 575 de Páradais, 292 de Aquí no es Miami y 54 de Falsa liebre."
       },
       {
         "id": "6",
-        "label": "Léxico Visceral y Corporal",
-        "color": "#e76f51"
+        "label": "Analítica cultural con R",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Siguiendo a Manovich (2020), se representa la cultura mediante datos y modelos estadísticos, analizando toda la muestra en línea y la cultura popular como fuente de legitimación. La analítica computacional se programó en RStudio con paquetes como tidytext y stopwords."
       },
       {
         "id": "7",
-        "label": "Ritmo y Polifonía Veracruzana",
-        "color": "#2a9d8f"
+        "label": "Léxico de sentimientos NRC",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Clasificación automática de sentimientos positivos y negativos y de emociones básicas con el léxico NRC (Mohammad et al., 2013). El artículo advierte que predominar ciertos sentimientos no determina la aceptación del libro reflejada en las valoraciones."
       },
       {
         "id": "8",
-        "label": "Denuncia de Violencia Estructural",
-        "color": "#264653"
+        "label": "Etiquetado gramatical y modelado LDA",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "El paquete udpipe aporta etiquetado gramatical y lemas verbales; los bigramas generan redes de palabras con las que se formaron tópicos de manera manual. El modelado automático usó Latent Dirichlet Allocation (LDA) con k=4, valor fijado por perplejidad."
       },
       {
         "id": "9",
-        "label": "Advertencias de Contenido (TW)",
-        "color": "#9b82c3"
+        "label": "Palabras frecuentes y TF-IDF",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Dominan «libro», «historia» y «novela», junto a «violencia» (278), «lenguaje» (245) y «México» (231) en Temporada de huracanes. La frecuencia inversa resalta personajes y lugares propios de cada libro y temas implícitos como «homofobia» o «pedofilia»."
       },
       {
         "id": "10",
-        "label": "Humanidades Digitales Literarias",
-        "color": "#f4a261"
+        "label": "Preponderancia del miedo y enojo",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "En el reconocimiento de emociones destaca el miedo, seguido de enojo, confianza, tristeza y asco. Palabras como «violencia», «pobreza», «miseria» y «asesinato» alimentan esas emociones con una estructura similar en todos los libros."
+      },
+      {
+        "id": "11",
+        "label": "Sentimiento negativo ligado a la temática",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "La fuerte carga negativa («cruel», «crudo», «difícil», «miedo») responde a las temáticas de violencia y pobreza, no al gusto del lector. Los términos positivos («forma», «estilo», «ritmo», «interesante») se asocian a la experiencia de lectura."
+      },
+      {
+        "id": "12",
+        "label": "Verbos: leer, sentir, gustar",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El lemma verbal más frecuente es «leer», seguido de «sentir», «gustar», «saber» y «pensar». Las reseñas enfatizan lo que los libros hacen sentir y muestran un intercambio de impresiones personales y metacognitivas."
+      },
+      {
+        "id": "13",
+        "label": "Tópicos literarios, experienciales y sociales",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "Los bigramas manuales y la modelación LDA convergen en tres grandes tópicos: aspectos literarios y de escritura, experiencia de lectura y temas sociales. Solo el análisis manual registra referencias externas como «garcía márquez» o «pedro páramo»."
+      },
+      {
+        "id": "14",
+        "label": "Despierta la conciencia social",
+        "color": "#f4d068",
+        "role": "Conclusiones",
+        "descripcion": "Los libros no acaban al terminar de leerlos: los lectores prolongan en sus reseñas la reflexión sobre violencia, pobreza y desigualdad. Con Jauss (2013), se afirma una función de la literatura: despertar y avivar la conciencia social."
+      },
+      {
+        "id": "15",
+        "label": "Reseña performativa e inteligencia colectiva",
+        "color": "#2a9d8f",
+        "role": "Discusión",
+        "descripcion": "Escribir reseñas es un acto performativo y muestra de identidad social (Driscoll y Rehberg-Sedo, 2019). Las interpretaciones profundas de los usuarios estimulan una inteligencia colectiva (Lévy, 1997) que amplía la recepción más allá del texto."
+      },
+      {
+        "id": "16",
+        "label": "Estudio limitado a una autora",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "El trabajo se centra en un único caso de estudio. Las autoras proponen aplicar la misma metodología a otros autores y complementar el análisis con técnicas cualitativas y etnográficas como entrevistas o focus group."
       }
     ],
     "aristas": [
       {
+        "from": "1",
+        "to": "3",
+        "label": "es reseñada masivamente en"
+      },
+      {
         "from": "2",
-        "to": "1",
-        "label": "recoge la recepción espontánea de la"
+        "to": "3",
+        "label": "encuentra su espacio de intercambio en la"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "motiva el análisis por"
       },
       {
         "from": "3",
-        "to": "2",
-        "label": "analiza algorítmicamente las"
-      },
-      {
-        "from": "4",
-        "to": "3",
-        "label": "aplica técnicas estadísticas de"
+        "to": "4",
+        "label": "aporta las reseñas que estudia el"
       },
       {
         "from": "4",
         "to": "5",
-        "label": "descubre la prevalencia del"
+        "label": "se implementa mediante la"
       },
       {
-        "from": "2",
+        "from": "5",
+        "to": "3",
+        "label": "extrae los datos públicos de"
+      },
+      {
+        "from": "5",
         "to": "6",
-        "label": "se caracteriza por un denso"
+        "label": "entrega el corpus procesado por la"
       },
       {
-        "from": "1",
+        "from": "6",
         "to": "7",
-        "label": "deslumbra a los lectores con su"
+        "label": "integra el"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "aplica también el"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "calcula la"
       },
       {
         "from": "1",
-        "to": "8",
-        "label": "confronta a la sociedad con la"
-      },
-      {
-        "from": "2",
         "to": "9",
-        "label": "incorpora de forma solidaria"
+        "label": "impone sus temas en las"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "detecta la"
+      },
+      {
+        "from": "7",
+        "to": "11",
+        "label": "mide el"
+      },
+      {
+        "from": "1",
+        "to": "11",
+        "label": "explica el"
       },
       {
         "from": "10",
-        "to": "3",
-        "label": "impulsa el uso riguroso del"
+        "to": "11",
+        "label": "refuerza el"
       },
       {
-        "from": "10",
-        "to": "5",
-        "label": "demuestra la potencia del"
+        "from": "8",
+        "to": "12",
+        "label": "extrae los"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "revela los"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "confirma los"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "sustenta los"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "sustenta que la obra"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "anticipa la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "expresa la"
+      },
+      {
+        "from": "9",
+        "to": "15",
+        "label": "alimenta la"
+      },
+      {
+        "from": "16",
+        "to": "4",
+        "label": "acota el alcance del"
       }
     ]
   }

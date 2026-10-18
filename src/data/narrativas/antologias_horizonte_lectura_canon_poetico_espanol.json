@@ -1,0 +1,396 @@
+{
+  "id": "antologias_horizonte_lectura_canon_poetico_espanol",
+  "metadata": {
+    "title": "Las antologías como horizonte de lectura en la creación del canon poético español",
+    "authors": "Mariángeles Rodríguez-Alonso",
+    "year": "2020",
+    "journal": "Ocnos 19(2)",
+    "doi": "10.18239/ocnos_2020.19.2.319",
+    "gancho": "¿Quién decide qué poetas sobreviven al olvido? ¿Refleja la antología el canon o es la antología la que inventa el canon?",
+    "duration": "12-15 min",
+    "badge": "Crítica e Historiografía Poética",
+    "disciplina": "Historia de la Literatura Española y Teoría del Canon",
+    "dimensiones": [
+      "Horizonte de Expectativas",
+      "Antología como Criba",
+      "Canon Poético Español",
+      "Polisistema y Periferia"
+    ],
+    "tags": [
+      "antologias",
+      "canon_poetico",
+      "poesia_espanola",
+      "generacion_27",
+      "novisimos",
+      "poesia_mujeres"
+    ],
+    "pistas": [
+      "Revisión historiográfica exhaustiva de las antologías poéticas en español entre 1906 y 2018.",
+      "Análisis de hitos fundacionales: Gerardo Diego (1932/1934), Laurel (1941), Ribes (1952), Castellet (1960, 1970).",
+      "Teorización de la antología como dispositivo activo de legitimación, jerarquización y horizonte de expectativas.",
+      "Evolución de las periferias poéticas: el rescate tardío pero imparable de las poetas mujeres y las muestras digitales del siglo XXI."
+    ]
+  },
+  "blocks": {
+    "apertura": {
+      "interes": "La opinión común suele considerar la antología poética como un simple florilegio inocente o repertorio pasivo de textos selectos, ocultando su auténtica naturaleza como artefacto ideológico y crítico de poder.",
+      "desafio": "Desentrañar los mecanismos historiográficos y teóricos mediante los cuales las antologías de poesía española construyen, imponen, modifican o fracturan el canon literario a lo largo de más de un siglo.",
+      "relevancia": "Permite a los mediadores y docentes desmitificar las nóminas escolares obligatorias, enseñando a los estudiantes a reconocer los intereses estéticos y políticos detrás de cualquier selección de lecturas."
+    },
+    "conflicto": {
+      "pregunta": "¿Es la antología un espejo pasivo que refleja el gusto poético consagrado o constituye un dispositivo performativo que prescribe lo que la sociedad debe leer y recordar?",
+      "posiciones": [
+        "Concepción decimonónica acumulativa: la antología es un mero muestrario de autores representativos sin voluntad de intervención estética.",
+        "Concepción crítica vanguardista: la antología es una criba creadora, un manifiesto polémico y un horizonte de lectura que consagra a grupos generacionales y silencia a disidencias."
+      ],
+      "tension": "La tensión entre el pretendido valor estético universal del poema y la circulación material de nombres regulada por editoriales, premios, círculos de poder y sesgos de género.",
+      "deepDives": [
+        {
+          "id": "ant-conf-1",
+          "triggerLabel": "Guillén y la criba creadora de cánones",
+          "type": "theory",
+          "content": "Claudio Guillén advirtió que es imposible concebir una cultura sin cánones ni instrumentos de autoselección, consagrando a la antología como la máquina selectora más potente de la literatura moderna."
+        }
+      ]
+    },
+    "viaje": {
+      "titulo": "Recorrido historiográfico diacrónico desde el Modernismo hasta el siglo XXI",
+      "narrativa": "La autora despliega un análisis comparativo y hermenéutico de los hitos antológicos españoles desde 1906 hasta 2018, contrastando colecciones acumulativas frente a antologías con concepto crítico vertebrador y examinando el desplazamiento de centros y periferias.",
+      "detalles": [
+        {
+          "label": "Corpus temporal",
+          "value": "Más de un siglo de antologías poéticas en España e Hispanoamérica (1906-2018)."
+        },
+        {
+          "label": "Hitos canónicos",
+          "value": "Diego (1932/34, 27), Laurel (1941, México), Ribes (1952), Castellet (1960 y 1970, Novísimos), García-Martín (Experiencia)."
+        },
+        {
+          "label": "Modelos analizados",
+          "value": "Antología de manifiesto crítico, antología consultada por votación entre poetas y antología generacional sincrónica."
+        },
+        {
+          "label": "Eje de exclusiones",
+          "value": "Historiografía de la ausencia y rescate de mujeres: desde Carmen Conde (1954) y Emilio Miró (1999) hasta la eclosión post-2006."
+        }
+      ],
+      "limitaciones": [
+        "Revisión interpretativa cualitativa sin pretensión de inventario censal exhaustivo de la producción editorial.",
+        "La proximidad temporal con las antologías jóvenes del siglo XXI y el entorno digital dificulta juicios canonizadores estables."
+      ],
+      "reflexion": "¿Por qué una nómina de nueve poetas seleccionada por Josep Maria Castellet en 1970 cambió el rumbo de toda la poesía española de finales del siglo XX?",
+      "deepDives": [
+        {
+          "id": "ant-viaje-1",
+          "triggerLabel": "La antología consultada de Ribes",
+          "type": "method",
+          "content": "En 1952, Francisco Ribes introdujo un método pionero: encuestó a 60 poetas para que votaran a sus pares; los nueve más votados (Bousoño, Celaya, Hierro, Otero, etc.) consagraron el canon de la posguerra."
+        }
+      ]
+    },
+    "revelacion": {
+      "hallazgo": "Se demostró que la antología solo deviene en criba canonizadora cuando se sustenta en un concepto poético unitario acompañado de un sólido aparato crítico y un prólogo programático; asimismo, se constató que las antologías del exilio republicano y las muestras de mujeres operaron como dispositivos de resistencia contra el silenciamiento histórico.",
+      "evidenciaCualitativa": "El análisis de las mujeres poetas reveló un gravísimo retardo canónico: tras el hito solitario de Carmen Conde en 1954, hubo que esperar a Emilio Miró en 1999 para rescatar a las poetas del 27, produciéndose la verdadera normalización solo después de 2006.",
+      "citaClave": "'La antología no es un inventario neutro sino un horizonte de expectativas: como afirma Talens, es la circulación y no solo el discurso que circula el principal argumento de autoridad que consagra el canon.'",
+      "implicacionesDocentes": [
+        "Analizar críticamente con los alumnos las antologías poéticas de los manuales escolares, visibilizando ausencias y exclusiones.",
+        "Proponer proyectos de aula donde los estudiantes construyan sus propias antologías justificando sus criterios de selección estética.",
+        "Incorporar sistemáticamente muestras poéticas de autoras y voces periféricas para desarticular el canon androcéntrico tradicional."
+      ],
+      "deepDives": [
+        {
+          "id": "ant-rev-1",
+          "triggerLabel": "Novísimos y cultura pop",
+          "type": "data",
+          "content": "La célebre antología 'Nueve novísimos' (1970) rompió con el realismo social al entronizar la cultura de masas, el cine de Hollywood, el cómic y el camp como materia lírica legítima para la juventud de la época."
+        }
+      ]
+    },
+    "marco": {
+      "enfoque": "Teoría del canon literario (Guillén, Pozuelo-Yvancos), sociología de la literatura (Talens) y teoría de la recepción (Jauss)",
+      "tensiones": [
+        "Inercia conservadora institucional del canon escolar vs. dinamismo rupturista de las antologías de vanguardia.",
+        "Prestigio consagrado en el papel impreso vs. democratización efímera de la poesía en redes digitales contemporáneas."
+      ],
+      "autoresClave": [
+        "Rodríguez-Alonso (2020)",
+        "Guillén (1998)",
+        "Pozuelo-Yvancos (1995)",
+        "Talens (1995)",
+        "Even-Zohar (1990)"
+      ],
+      "deepDives": [
+        {
+          "id": "ant-marco-1",
+          "triggerLabel": "Pozuelo-Yvancos y la historicidad del canon",
+          "type": "theory",
+          "content": "Pozuelo-Yvancos demuestra que el canon no es un monumento inmutable sino un pacto histórico cambiante entre las instituciones educativas, la crítica literaria y los horizontes de expectativa de los lectores."
+        }
+      ]
+    },
+    "nucleo": {
+      "preguntaCentral": "¿De qué modo operan las antologías poéticas como artefactos generadores y modeladores del canon literario en la España contemporánea?",
+      "mecanismoClave": "El antólogo actúa simultáneamente como lector privilegiado, crítico y selector: al articular un prólogo normativo y una selección rigurosa, orienta las expectativas de los lectores e influye de forma directa en las historias de la literatura y los manuales docentes.",
+      "conclusionGeneral": "Las antologías poéticas son dispositivos culturales decisivos que configuran la memoria lírica de una sociedad, exigiendo una mirada crítica que interrogue permanentemente sus jerarquías, sus silencios y sus pugnas de poder."
+    },
+    "juegos": [
+      {
+        "juegoId": "snake",
+        "titulo": "Serpiente del Canon Poético",
+        "descripcion": "Recorre las décadas poéticas desde el 27 hasta los Novísimos atrapando antologías y autoras rescatadas.",
+        "instrucciones": "Recoge tokens de Gerardo Diego, Castellet y Carmen Conde mientras esquivas la censura y el olvido. 8 niveles, 3 vidas."
+      },
+      {
+        "juegoId": "quiz",
+        "titulo": "Quiz: Antologías y Canon en España",
+        "descripcion": "Demuestra tu sabiduría sobre los 9 novísimos, la antología de Ribes, el exilio en Laurel y las poetas del 27.",
+        "instrucciones": "Acierta contrarreloj para mantener tu prestigio crítico y liderar la historia de la literatura española."
+      },
+      {
+        "juegoId": "piramide",
+        "titulo": "Pirámide de la Consagración Lírica",
+        "descripcion": "Asciende desde la periferia poética y la revista marginal hasta el canon académico y la memoria histórica.",
+        "instrucciones": "Supera cada nivel demostrando dominio de la sociología y teoría del canon literario."
+      }
+    ],
+    "mapa": {
+      "titulo": "Mapa conceptual: Las antologías como horizonte de lectura y canon poético (Rodríguez-Alonso, 2020)",
+      "descripcion": "Revisión historiográfica y teórica que analiza las antologías de poesía española de los siglos XX y XXI como dispositivos activos de selección, consagración generacional y legitimación canónica.",
+      "nodos": [
+        {
+          "id": "1",
+          "label": "La antología como criba creadora de cánones (Guillén)",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Marco teórico de Claudio Guillén que postula que la antología poética no constituye un mero inventario retrospectivo y pasivo del pasado, sino un dispositivo performativo de autoselección cultural que orienta de forma activa las lecturas futuras."
+        },
+        {
+          "id": "2",
+          "label": "Interdependencia de antología, canon e historia literaria",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Teorización epistemológica de Pozuelo-Yvancos y Manuel Talens sobre el canon poético como un pacto institucional mutable, donde la circulación social de los textos antologados opera como el principal argumento legitimador de autoridad."
+        },
+        {
+          "id": "3",
+          "label": "Horizonte de expectativas y autoridad del antólogo",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Concepto de Hans Robert Jauss aplicado a la figura del antólogo moderno, quien ejerce simultáneamente como lector privilegiado, crítico y árbitro estético, modificando de raíz el horizonte de expectativas de sus contemporáneos."
+        },
+        {
+          "id": "4",
+          "label": "Objetivo: rastrear la capacidad canonizadora de la antología",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Analizar diacrónicamente cómo las antologías poéticas publicadas en español a lo largo de los siglos XX y XXI han intervenido activamente en la jerarquización, consagración y exclusión de autores, corrientes estéticas y escuelas líricas."
+        },
+        {
+          "id": "5",
+          "label": "Objetivo: examinar reacciones de la periferia y de mujeres",
+          "color": "#264653",
+          "role": "Objetivo",
+          "descripcion": "Estudiar críticamente el modo en que las poéticas periféricas disidentes, la poesía del exilio republicano exterior y las muestras de autoras mujeres desafiaron, fisuraron y ensancharon el canon androcéntrico peninsular dominante."
+        },
+        {
+          "id": "6",
+          "label": "Diseño historiográfico ensayístico y comparativo",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Metodología cualitativa de revisión histórica, historiográfica y crítica textual que examina comparativamente un corpus selectivo de antologías poéticas fundamentales aparecidas entre 1906 y 2018 en el ámbito hispánico."
+        },
+        {
+          "id": "7",
+          "label": "Corpus representativo de hitos antológicos españoles",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Análisis sistemático de volúmenes capitales: Gerardo Diego (1932/34), Federico de Onís (1934), Laurel (1941), Francisco Ribes (1952), Castellet (1960, 1970), García-Martín (1992) y las antologías de comienzos del siglo XXI."
+        },
+        {
+          "id": "8",
+          "label": "Distinción entre muestras diacrónicas y sincrónicas",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "Criterio tipológico de Molina-Gil que distingue entre antologías diacrónicas (que abarcan amplitud de generaciones y edades) y sincrónicas (que trazan una fotografía instantánea de un presente generacional inmediato)."
+        },
+        {
+          "id": "9",
+          "label": "Superación del listado acumulativo por el concepto poético",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Las primeras muestras modernistas fracasaron como canon por ser listas acumulativas yuxtapuestas; la auténtica capacidad canonizadora surgió con Gerardo Diego al articular un concepto lírico rector, un manifiesto y aparato crítico."
+        },
+        {
+          "id": "10",
+          "label": "Consagración de grupos generacionales (27 y Novísimos)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Diego en 1932 fijó la nómina histórica perdurable de la Generación del 27, mientras que Josep Maria Castellet en 1970 revolucionó el panorama lírico consagrando a los 'Nueve novísimos' bajo un programa rupturista de cultura de masas."
+        },
+        {
+          "id": "11",
+          "label": "La antología como resistencia en el exilio (Laurel)",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Durante la posguerra, antologías publicadas en México como Laurel (1941) y las muestras de 1943-47 mantuvieron cohesionada la comunidad lingüística y estética de los poetas republicanos exiliados frente al olvido y la censura franquista."
+        },
+        {
+          "id": "12",
+          "label": "Rescate tardío pero imparable de las poetas mujeres",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Se documentó el histórico sesgo patriarcal del canon: tras Carmen Conde (1954), hubo que esperar a Emilio Miró (1999) para recuperar a las poetas del 27, desatándose una oleada decisiva de visibilización femenina a partir de 2006."
+        },
+        {
+          "id": "13",
+          "label": "Discusión: valor estético intrínseco vs. poder de circulación",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se discute la tensión sociológica entre la calidad literaria y la visibilidad editorial: una antología no solo consagra lo valioso, sino que a menudo engendra la ilusión de valor al hacer circular reiteradamente determinados nombres."
+        },
+        {
+          "id": "14",
+          "label": "Discusión: impacto normativo en la enseñanza de la literatura",
+          "color": "#e76f51",
+          "role": "Discusión",
+          "descripcion": "Se debate cómo los manuales escolares y programas universitarios reproducen acríticamente las nóminas fijadas por antologías exitosas, fosilizando en las aulas un canon rígido que margina voces poéticas heterodoxas."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones: provisionalidad ante la producción del siglo XXI",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "La autora reconoce como delimitación metodológica que la cercanía temporal y la fragmentación provocada por las redes sociales e internet complican emitir juicios concluyentes sobre el canon poético del siglo XXI."
+        },
+        {
+          "id": "16",
+          "label": "Conclusiones: desmitificación crítica de la memoria lírica",
+          "color": "#c73e1d",
+          "role": "Conclusiones",
+          "descripcion": "Se concluye que estudiar las antologías permite desmitificar el canon poético escolar, entendiéndolo como una construcción histórica abierta, dialógica, ideológicamente disputada y en permanente resignificación social."
+        }
+      ],
+      "aristas": [
+        {
+          "from": "1",
+          "to": "4",
+          "label": "fundamenta la función activa de"
+        },
+        {
+          "from": "2",
+          "to": "4",
+          "label": "aporta la teoría sociológica a"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "explica la modulación de"
+        },
+        {
+          "from": "4",
+          "to": "6",
+          "label": "se aborda mediante el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "orienta la perspectiva crítica del"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "se aplica sobre el"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "incorpora la tipología de"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "demuestra el salto hacia el"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "evidencia la"
+        },
+        {
+          "from": "7",
+          "to": "11",
+          "label": "revela el papel en la"
+        },
+        {
+          "from": "7",
+          "to": "12",
+          "label": "constata en los datos el"
+        },
+        {
+          "from": "9",
+          "to": "13",
+          "label": "nutre el debate sobre"
+        },
+        {
+          "from": "10",
+          "to": "13",
+          "label": "ejemplifica el impacto del"
+        },
+        {
+          "from": "10",
+          "to": "14",
+          "label": "traslada sus nóminas a la"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "demuestra la urgencia en la"
+        },
+        {
+          "from": "13",
+          "to": "16",
+          "label": "desemboca en las"
+        },
+        {
+          "from": "14",
+          "to": "16",
+          "label": "fundamenta las"
+        },
+        {
+          "from": "15",
+          "to": "6",
+          "label": "delimita el marco cronológico del"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "matiza las proyecciones de las"
+        },
+        {
+          "from": "1",
+          "to": "16",
+          "label": "cierra la reflexión sobre"
+        }
+      ]
+    },
+    "reflexion": {
+      "questions": [
+        {
+          "type": "choice",
+          "q": "¿Qué elemento diferenció a las antologías generacionales de éxito (como la de Gerardo Diego o Castellet) frente a los repertorios de autores previos?",
+          "options": [
+            "Que incluyeron fotografías en color de todos los autores seleccionados.",
+            "Que se sustentaron en un concepto poético unitario, un manifiesto programático y un riguroso aparato crítico.",
+            "Que fueron impuestas por decreto oficial del Ministerio de Educación.",
+            "Que se limitaron a ordenar a los poetas por estricto orden alfabético."
+          ],
+          "correct": 1
+        },
+        {
+          "type": "open",
+          "q": "¿Cómo diseñarías una antología poética escolar para Educación Secundaria que equilibre los clásicos consagrados con voces de mujeres y tendencias líricas contemporáneas?"
+        }
+      ]
+    }
+  }
+}
