@@ -12,7 +12,7 @@
     "color": "#e76f51",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-07.png",
+    "image": "/assets/portadas/naturaleza_albumes.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-07.png",
       "name": "Dra. Ana Zúñiga-Lacruz",
@@ -191,45 +191,225 @@
     "titulo": "Mapa conceptual: Reciclaje de cuentos clásicos en streaming y aula universitaria (Ocnos 23(1) 2024)",
     "descripcion": "El artículo parte del déficit lector universitario y el consumo transmedia de la generación Z hacia la reflexión sobre el streaming como TAC, TEP y TRIC; analiza escenas de Once upon a time con tres métodos transtextuales, propone una práctica de aula basada en lectura previa y visionado guiado, y culmina en la educación literaria, lectora y mediática.",
     "nodos": [
-      {"id": "1", "label": "Legado cultural de los cuentos clásicos", "color": "#88b04b", "role": "Marco teórico", "descripcion": "Los cuentos clásicos constituyen un legado cultural fundamental y una memoria colectiva universal que ayudan a afrontar conflictos psicológicos proyectando la lucha entre el bien y el mal (García-Carcedo, 2018). Sus personajes son arquetipos (Jung, 2010) que cumplen funciones narrativas (Propp, 1985). Esa labilidad y resiliencia los convierte en material en permanente renovación (Fernández-San-Emeterio, 2022)."},
-      {"id": "2", "label": "Alfabetización lectora textual y visual", "color": "#c73e1d", "role": "Marco teórico", "descripcion": "Los estudiantes universitarios suelen carecer de habilidades lectoras y estrategias metacognitivas que generen conexión afectiva con el texto (Santos-Díaz et al., 2021; Permach-Martín y Álvarez-Uría, 2020). Su lectura es aleatoria, esquemática e hipertextual, con lenguaje escrito, imágenes y sonidos (González-Batlle, 2013), lo que exige una alfabetización en doble código textual y visual."},
-      {"id": "3", "label": "Consumo transmedia de la generación Z", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "La generación Z, nacida entre 1994 y 2010, acude recurrentemente al streaming como oferta de ocio (FGSR, 2020; 2022) y está acostumbrada a obtener información de un producto en libros, videojuegos, cómics, películas y series (Abellán-Guzmán y Cortés-Quesada, 2022; Torrego-González y Gutiérrez-Martín, 2018). La proliferación de Netflix, Disney+ o HBO disparó el impacto semántico e intertextual de las series (López-Gutiérrez y Nicolás-Gavilán, 2015)."},
-      {"id": "4", "label": "Reciclaje literario", "color": "#f4a261", "role": "Marco teórico", "descripcion": "Concepto acuñado por Llamas (citado en Regueiro-Salgado, 2022): retomar lo pretérito desde la mirada actual, que selecciona lo rescatable del pasado y lo modifica según su percepción de la realidad. Cañadas-García (2020) distingue un reciclaje ideológico —feminismo, poder político, ecologismo— de otro lúdico-humorístico y alternativo, basado en lo irrisorio y el efecto sorpresa."},
-      {"id": "5", "label": "Streaming como TAC, TEP y TRIC", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "La LOMLOE (2020) insta a integrar las TIC, pero estas por sí solas no mejoran el aprendizaje: el giro es concebir la tecnología como TAC, TEP y TRIC (Martí-Climent, 2021). Netflix irrumpió en 2007 generalizando el vídeo bajo demanda y las OTT —Netflix, Filmin, Disney+, Prime—, exitosas en el target de 20 a 35 años pese a la burbuja posterior a la COVID (Benito-García, 2023). El visionado a la carta favorece el aprendizaje significativo, la participación y la relación multimodal."},
-      {"id": "6", "label": "Función pedagógica de las series en streaming", "color": "#f4d068", "role": "Objetivo", "descripcion": "El trabajo indaga la función pedagógica de los contenidos audiovisuales que recurren al reciclaje literario en plataformas streaming concebidas como TAC, TEP y TRIC. Busca demostrar las posibilidades didácticas de estas series y las sinergias que generan con la lectura de los hipotextos clásicos para desarrollar la competencia literaria universitaria."},
-      {"id": "7", "label": "Once upon a time como caso paradigmático", "color": "#e76f51", "role": "Método", "descripcion": "Serie de Adam Horowitz y Edward Kitsis para ABC Studios, emitida entre 2011 y 2018 con siete temporadas y 156 episodios, hoy en Disney+. Emma Swan, hija de Blancanieves, rompe en Storybrook el maleficio de la alcaldesa Regina, devolviendo la memoria a personajes del folclore y la literatura —Grimm, Collodi, El mago de Oz, Aladino, Mulan—. Sobre esa base reconocible articula un mensaje divergente con cambios identitarios, culturales e ideológicos (Leisch, 2017)."},
-      {"id": "8", "label": "Tres métodos de análisis", "color": "#2a5a75", "role": "Método", "descripcion": "El comparativo semiótico-textual de Paz-Gago (2004) atiende a convergencias y divergencias entre cuento clásico y capítulo de serie. El glosemático de Zavala (2005), basado en Hjelmslev, distingue sustancia y forma de la expresión y del contenido. El transtextual de Genette (1982) revisa intertextualidad, paratextualidad, metatextualidad y architextualidad."},
-      {"id": "9", "label": "Criterios de selección de escenas", "color": "#264653", "role": "Método", "descripcion": "Tras el visionado completo de la serie se eligieron tres escenas de la primera temporada, donde se reciclan los personajes y tramas más conocidos del canon. Los criterios: aparición de tramas, recursos, arquetipos y personajes reconocibles; diversidad de géneros reciclados —cuento, novela, mito—; inserción de símbolos."},
-      {"id": "10", "label": "Propuesta didáctica en tres pilares", "color": "#2a9d8f", "role": "Método", "descripcion": "Se asienta en la lectura previa e individual del cuento original, breve y por eso motivadora; la puesta en común en el aula con aplicación guiada de los métodos; y la visualización de escenas de entre 2 y 4 minutos para reflexionar conjuntamente sobre concomitancias y divergencias. El análisis guiado de la obra audiovisual ayuda a captar los matices de la obra literaria y a valorarla."},
-      {"id": "11", "label": "Escena de Blancanieves (piloto)", "color": "#f4a261", "role": "Resultados", "descripcion": "El capítulo piloto convierte a la madrastra que envenena a Blancanieves en la alcaldesa Regina, que chantajea a Emma con una cesta de manzanas rojas en la casa-hostal de la abuelita de Caperucita. Confluyen engaño, persecución y el recurso simbólico de la manzana; divergen la amenaza sin muerte y los espacios actuales, con la chaqueta roja de Emma y el umbral como señas."},
-      {"id": "12", "label": "Escena de Pinocho (Collodi)", "color": "#c73e1d", "role": "Resultados", "descripcion": "El psiquiatra Archie Hopper, alter ego de Pepito Grillo, conversa con Henry sobre el sentido de los cuentos y la conciencia en un despacho con muebles de madera que aluden a Gepetto. Convergencia en la voz de la conciencia; divergencia con Collodi, donde el muñeco asesina al Grillo Parlante, muerte que genera fuerte impacto en el alumnado. El paraguas de Archie es rasgo de Disney, no del original."},
-      {"id": "13", "label": "Escena del mito de Midas", "color": "#9b82c3", "role": "Resultados", "descripcion": "La serie recicla el mito de Midas —Metamorfosis, xi— en la historia del pastor gemelo que sustituye al príncipe muerto y mata al dragón con astucia, devenido Príncipe Encantador. La ambición desmedida del rey que convierte todo en oro se opone a la humildad del pastor, y la inteligencia vence a la fuerza bruta, con arquetipos del héroe, el doble y la sombra."},
-      {"id": "14", "label": "Satisfacción del alumnado 2018-2023", "color": "#88b04b", "role": "Resultados", "descripcion": "Los doce primeros capítulos de la serie se han trabajado en el aula universitaria entre 2018 y 2023 con mucha eficacia. Los cuestionarios de satisfacción otorgan a la asignatura valoraciones de entre 4,7 y 4,9 sobre 5, y los comentarios destacan el interés hacia la literatura suscitado por este método."},
-      {"id": "15", "label": "Mujeres emancipadas y estereotipos renovados", "color": "#e76f51", "role": "Discusión", "descripcion": "La serie mantiene personajes arquetípicos e intrigas amorosas convencionales, pero rompe expectativas con modelos femeninos emancipados y princesas liberadas (Maurin, 2022). Los personajes seculares reciben profesiones y caracterizaciones contemporáneas —reina malvada convertida en alcaldesa déspota, Pepito Grillo como psiquiatra—, evidenciando que las preocupaciones de la condición humana y los cuentos son inmarcesibles."},
-      {"id": "16", "label": "Educación literaria, lectora y mediática", "color": "#2a5a75", "role": "Conclusiones", "descripcion": "La propuesta persigue un triple objetivo: ahondar en el universo de los relatos tradicionales, mostrar la validez y versatilidad de los cuentos reciclados en distintos medios y potenciar la educación lectora, literaria y mediática desde un enfoque afectivo, motivacional y transmedia. Contribuye así a un modelo de aprovechamiento didáctico de la tecnología —TAC, TEP, TRIC— para el goce estético textual y visual."}
+      {
+        "id": "1",
+        "label": "Legado cultural de los cuentos clásicos",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Los cuentos clásicos constituyen un legado cultural fundamental y una memoria colectiva universal que ayudan a afrontar conflictos psicológicos proyectando la lucha entre el bien y el mal (García-Carcedo, 2018). Sus personajes son arquetipos (Jung, 2010) que cumplen funciones narrativas (Propp, 1985). Esa labilidad y resiliencia los convierte en material en permanente renovación (Fernández-San-Emeterio, 2022)."
+      },
+      {
+        "id": "2",
+        "label": "Alfabetización lectora textual y visual",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Los estudiantes universitarios suelen carecer de habilidades lectoras y estrategias metacognitivas que generen conexión afectiva con el texto (Santos-Díaz et al., 2021; Permach-Martín y Álvarez-Uría, 2020). Su lectura es aleatoria, esquemática e hipertextual, con lenguaje escrito, imágenes y sonidos (González-Batlle, 2013), lo que exige una alfabetización en doble código textual y visual."
+      },
+      {
+        "id": "3",
+        "label": "Consumo transmedia de la generación Z",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "La generación Z, nacida entre 1994 y 2010, acude recurrentemente al streaming como oferta de ocio (FGSR, 2020; 2022) y está acostumbrada a obtener información de un producto en libros, videojuegos, cómics, películas y series (Abellán-Guzmán y Cortés-Quesada, 2022; Torrego-González y Gutiérrez-Martín, 2018). La proliferación de Netflix, Disney+ o HBO disparó el impacto semántico e intertextual de las series (López-Gutiérrez y Nicolás-Gavilán, 2015)."
+      },
+      {
+        "id": "4",
+        "label": "Reciclaje literario",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "Concepto acuñado por Llamas (citado en Regueiro-Salgado, 2022): retomar lo pretérito desde la mirada actual, que selecciona lo rescatable del pasado y lo modifica según su percepción de la realidad. Cañadas-García (2020) distingue un reciclaje ideológico —feminismo, poder político, ecologismo— de otro lúdico-humorístico y alternativo, basado en lo irrisorio y el efecto sorpresa."
+      },
+      {
+        "id": "5",
+        "label": "Streaming como TAC, TEP y TRIC",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La LOMLOE (2020) insta a integrar las TIC, pero estas por sí solas no mejoran el aprendizaje: el giro es concebir la tecnología como TAC, TEP y TRIC (Martí-Climent, 2021). Netflix irrumpió en 2007 generalizando el vídeo bajo demanda y las OTT —Netflix, Filmin, Disney+, Prime—, exitosas en el target de 20 a 35 años pese a la burbuja posterior a la COVID (Benito-García, 2023). El visionado a la carta favorece el aprendizaje significativo, la participación y la relación multimodal."
+      },
+      {
+        "id": "6",
+        "label": "Función pedagógica de las series en streaming",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "El trabajo indaga la función pedagógica de los contenidos audiovisuales que recurren al reciclaje literario en plataformas streaming concebidas como TAC, TEP y TRIC. Busca demostrar las posibilidades didácticas de estas series y las sinergias que generan con la lectura de los hipotextos clásicos para desarrollar la competencia literaria universitaria."
+      },
+      {
+        "id": "7",
+        "label": "Once upon a time como caso paradigmático",
+        "color": "#e76f51",
+        "role": "Método",
+        "descripcion": "Serie de Adam Horowitz y Edward Kitsis para ABC Studios, emitida entre 2011 y 2018 con siete temporadas y 156 episodios, hoy en Disney+. Emma Swan, hija de Blancanieves, rompe en Storybrook el maleficio de la alcaldesa Regina, devolviendo la memoria a personajes del folclore y la literatura —Grimm, Collodi, El mago de Oz, Aladino, Mulan—. Sobre esa base reconocible articula un mensaje divergente con cambios identitarios, culturales e ideológicos (Leisch, 2017)."
+      },
+      {
+        "id": "8",
+        "label": "Tres métodos de análisis",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "El comparativo semiótico-textual de Paz-Gago (2004) atiende a convergencias y divergencias entre cuento clásico y capítulo de serie. El glosemático de Zavala (2005), basado en Hjelmslev, distingue sustancia y forma de la expresión y del contenido. El transtextual de Genette (1982) revisa intertextualidad, paratextualidad, metatextualidad y architextualidad."
+      },
+      {
+        "id": "9",
+        "label": "Criterios de selección de escenas",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Tras el visionado completo de la serie se eligieron tres escenas de la primera temporada, donde se reciclan los personajes y tramas más conocidos del canon. Los criterios: aparición de tramas, recursos, arquetipos y personajes reconocibles; diversidad de géneros reciclados —cuento, novela, mito—; inserción de símbolos."
+      },
+      {
+        "id": "10",
+        "label": "Propuesta didáctica en tres pilares",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Se asienta en la lectura previa e individual del cuento original, breve y por eso motivadora; la puesta en común en el aula con aplicación guiada de los métodos; y la visualización de escenas de entre 2 y 4 minutos para reflexionar conjuntamente sobre concomitancias y divergencias. El análisis guiado de la obra audiovisual ayuda a captar los matices de la obra literaria y a valorarla."
+      },
+      {
+        "id": "11",
+        "label": "Escena de Blancanieves (piloto)",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "El capítulo piloto convierte a la madrastra que envenena a Blancanieves en la alcaldesa Regina, que chantajea a Emma con una cesta de manzanas rojas en la casa-hostal de la abuelita de Caperucita. Confluyen engaño, persecución y el recurso simbólico de la manzana; divergen la amenaza sin muerte y los espacios actuales, con la chaqueta roja de Emma y el umbral como señas."
+      },
+      {
+        "id": "12",
+        "label": "Escena de Pinocho (Collodi)",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "El psiquiatra Archie Hopper, alter ego de Pepito Grillo, conversa con Henry sobre el sentido de los cuentos y la conciencia en un despacho con muebles de madera que aluden a Gepetto. Convergencia en la voz de la conciencia; divergencia con Collodi, donde el muñeco asesina al Grillo Parlante, muerte que genera fuerte impacto en el alumnado. El paraguas de Archie es rasgo de Disney, no del original."
+      },
+      {
+        "id": "13",
+        "label": "Escena del mito de Midas",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "La serie recicla el mito de Midas —Metamorfosis, xi— en la historia del pastor gemelo que sustituye al príncipe muerto y mata al dragón con astucia, devenido Príncipe Encantador. La ambición desmedida del rey que convierte todo en oro se opone a la humildad del pastor, y la inteligencia vence a la fuerza bruta, con arquetipos del héroe, el doble y la sombra."
+      },
+      {
+        "id": "14",
+        "label": "Satisfacción del alumnado 2018-2023",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Los doce primeros capítulos de la serie se han trabajado en el aula universitaria entre 2018 y 2023 con mucha eficacia. Los cuestionarios de satisfacción otorgan a la asignatura valoraciones de entre 4,7 y 4,9 sobre 5, y los comentarios destacan el interés hacia la literatura suscitado por este método."
+      },
+      {
+        "id": "15",
+        "label": "Mujeres emancipadas y estereotipos renovados",
+        "color": "#e76f51",
+        "role": "Discusión",
+        "descripcion": "La serie mantiene personajes arquetípicos e intrigas amorosas convencionales, pero rompe expectativas con modelos femeninos emancipados y princesas liberadas (Maurin, 2022). Los personajes seculares reciben profesiones y caracterizaciones contemporáneas —reina malvada convertida en alcaldesa déspota, Pepito Grillo como psiquiatra—, evidenciando que las preocupaciones de la condición humana y los cuentos son inmarcesibles."
+      },
+      {
+        "id": "16",
+        "label": "Educación literaria, lectora y mediática",
+        "color": "#2a5a75",
+        "role": "Conclusiones",
+        "descripcion": "La propuesta persigue un triple objetivo: ahondar en el universo de los relatos tradicionales, mostrar la validez y versatilidad de los cuentos reciclados en distintos medios y potenciar la educación lectora, literaria y mediática desde un enfoque afectivo, motivacional y transmedia. Contribuye así a un modelo de aprovechamiento didáctico de la tecnología —TAC, TEP, TRIC— para el goce estético textual y visual."
+      }
     ],
     "aristas": [
-      {"from": "1", "to": "4", "label": "sustentan el"},
-      {"from": "2", "to": "6", "label": "exigen indagar la"},
-      {"from": "3", "to": "5", "label": "convierten el streaming en"},
-      {"from": "5", "to": "6", "label": "orientan la"},
-      {"from": "6", "to": "7", "label": "se ejemplifica en"},
-      {"from": "4", "to": "7", "label": "se materializa en"},
-      {"from": "7", "to": "8", "label": "se estudia mediante los"},
-      {"from": "9", "to": "8", "label": "guían la aplicación de los"},
-      {"from": "8", "to": "11", "label": "permiten analizar la"},
-      {"from": "8", "to": "12", "label": "permiten comparar la"},
-      {"from": "8", "to": "13", "label": "se aplican a la"},
-      {"from": "10", "to": "8", "label": "aplica los"},
-      {"from": "10", "to": "14", "label": "se validó en el aula con"},
-      {"from": "14", "to": "16", "label": "respaldan la"},
-      {"from": "15", "to": "12", "label": "se ejemplifica en la"},
-      {"from": "15", "to": "13", "label": "se demuestra en la"},
-      {"from": "1", "to": "16", "label": "respaldan la"},
-      {"from": "4", "to": "15", "label": "provoca el"},
-      {"from": "15", "to": "16", "label": "enriquecen la"},
-      {"from": "3", "to": "7", "label": "consume"},
-      {"from": "5", "to": "16", "label": "posibilitan la"}
+      {
+        "from": "1",
+        "to": "4",
+        "label": "sustentan el"
+      },
+      {
+        "from": "2",
+        "to": "6",
+        "label": "exigen indagar la"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "convierten el streaming en"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "orientan la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se ejemplifica en"
+      },
+      {
+        "from": "4",
+        "to": "7",
+        "label": "se materializa en"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se estudia mediante los"
+      },
+      {
+        "from": "9",
+        "to": "8",
+        "label": "guían la aplicación de los"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "permiten analizar la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "permiten comparar la"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "se aplican a la"
+      },
+      {
+        "from": "10",
+        "to": "8",
+        "label": "aplica los"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "se validó en el aula con"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "respaldan la"
+      },
+      {
+        "from": "15",
+        "to": "12",
+        "label": "se ejemplifica en la"
+      },
+      {
+        "from": "15",
+        "to": "13",
+        "label": "se demuestra en la"
+      },
+      {
+        "from": "1",
+        "to": "16",
+        "label": "respaldan la"
+      },
+      {
+        "from": "4",
+        "to": "15",
+        "label": "provoca el"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "enriquecen la"
+      },
+      {
+        "from": "3",
+        "to": "7",
+        "label": "consume"
+      },
+      {
+        "from": "5",
+        "to": "16",
+        "label": "posibilitan la"
+      }
     ]
   }
 }

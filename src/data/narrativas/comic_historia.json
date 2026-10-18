@@ -12,7 +12,7 @@
     "color": "#c73e1d",
     "colorAlt": "#2b2d42",
     "bg": "from-amber-700/20 to-stone-900/20",
-    "image": "https://picsum.photos/seed/comic_historia/800/600"
+    "image": "/assets/portadas/empoderamiento_comic_portugues.jpg"
   },
   "blocks": {
     "apertura": {
@@ -351,42 +351,208 @@
     "titulo": "Mapa conceptual: El cómic histórico y la identidad catalana (Ocnos 22(1) 2023)",
     "descripcion": "Recorrido del estudio de Falguera-García y Selfa-Sastre: del cómic como medio multimodal y su vínculo con la memoria histórica al análisis de diez álbumes medievales catalanes, la intencionalidad ideológica de sus mitos y recursos, y la conclusión sobre la construcción de la identidad territorial.",
     "nodos": [
-      {"id": "1", "label": "El cómic como medio multimodal", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Definición del género como medio en que «texto e imagen se dan la mano» (Groensteen, 2013). McCloud (2005) lo define como «ilustraciones yuxtapuestas y otras imágenes en secuencia deliberada», y el lector descodifica los vacíos entre viñetas (Suau, 2021)."},
-      {"id": "2", "label": "La memoria histórica en el cómic", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Maus (1986) de Art Spiegelman, con el Pulitzer, marca un antes y un después en la valoración del género; Persepolis (Satrapi, 2000), Palestine (Sacco, 1993) o Un largo silencio (Gallardo, 1998) trabajan la memoria personal y social. La Edad Media en el cómic viene de Prince Valiant (Foster, 1937)."},
-      {"id": "3", "label": "Tres fechas claves del cómic catalán", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "El cómic catalán se ha ocupado de la época medieval (nacimiento del territorio), la guerra de sucesión (fin de la independencia efectiva) y la guerra civil (penúltimo intento de lucha por la singularidad), tres momentos de la construcción ideológica de Catalunya."},
-      {"id": "4", "label": "Objetivos: ideología, divulgación, modelo", "color": "#2a9d8f", "role": "Objetivo", "descripcion": "Tres objetivos: comprobar la intencionalidad ideológica tras la selección de hechos y personajes; aceptar la eficacia del género para la divulgación y enseñanza de la historia; y proponer un modelo de análisis literario y visual. El modelo distingue álbumes divulgativos, de entretenimiento y mixtos, como los estudiados."},
-      {"id": "5", "label": "Corpus de diez cómics medievales", "color": "#264653", "role": "Método", "descripcion": "Diez álbumes publicados entre 1993 y 2015, en catalán, a color y en tapa dura; nueve de Oriol Garcia i Quera (Barcelona, 1967) y El comte Despertaferro (2011) de Josep Ma Ramírez. Narran desde los orígenes con Guifré El Peloso hasta la unión con Castilla en el siglo XV."},
-      {"id": "6", "label": "Análisis visual y narrativo", "color": "#264653", "role": "Método", "descripcion": "Con Fernández de Arriba (2018) se consideran la viñeta, los planos y ángulos, la secuenciación narrativa, los globos, las líneas cinéticas, las metáforas visuales y las onomatopeyas; y, del lado narrativo, el tiempo, el espacio, los personajes, los hechos y los temas."},
-      {"id": "7", "label": "Los orígenes en la Marca Hispánica", "color": "#f4a261", "role": "Resultados", "descripcion": "Fa mil anys..., Revenja, L'amenaça sarraïna, Guifré 897 y Olèrdola 1058 narran el nacimiento vinculado a la marca Hispánica: Carlomagno frente a los caudillos sarracenos Musá y Abd al-Malik, la mirada hacia Europa y el papel de la iglesia, como el monasterio de Sant Cugat."},
-      {"id": "8", "label": "Mito de Guifré el Peloso", "color": "#f4d068", "role": "Resultados", "descripcion": "La leyenda de la bandera: Guifré (840-897), herido en batalla contra los sarracenos, traza con su sangre cuatro barras sobre el escudo amarillo. La figura es real, pero ni la batalla, ni el gesto ni el sentido heráldico son verídicos: mito sustentado en la historiografía romántica del siglo XIX."},
-      {"id": "9", "label": "Cómics de la expansión mediterránea", "color": "#88b04b", "role": "Resultados", "descripcion": "Mallorca 1229, El desafiament de Burdeus, L'Exèrcit errant y Hug Roger III abarcan la expansión de la Corona de Aragón (Jaume I, Pere el Gran, la batalla del río Cefis en Grecia, 1311) hasta la guerra civil catalana de 1462-1472 y la unión dinástica con los Trastámara."},
-      {"id": "10", "label": "Almogávares enaltecidos como héroes", "color": "#e76f51", "role": "Resultados", "descripcion": "Tropas mercenarias que, al grito de despertaferro, controlaban territorios con brutalidad en beneficio de los monarcas. Siguiendo las crónicas de Ramón Muntaner, los cómics los muestran como héroes que acaban gobernando plácidamente sus tierras: patriotismo y gloria nacional por encima de la violencia."},
-      {"id": "11", "label": "Paratextos divulgativos y apéndices", "color": "#c73e1d", "role": "Resultados", "descripcion": "Los álbumes incluyen apéndices con textos, ilustraciones, fotografías, infografías y glosarios: el contexto de Jaume I en Mallorca 1229 o el yacimiento de Olèrdola y el románico en Terra de frontera. Esa información contextualiza didácticamente y transmite el mensaje narrativo e ideológico."},
-      {"id": "12", "label": "Recursos visuales y lingüísticos", "color": "#9b82c3", "role": "Resultados", "descripcion": "Trazo manual a lápiz de estilo realista, composición dinámica de página, negritas que marcan el ánimo y la voz, color simbólico de tonos fríos (rojizo para la sangre, degradación pálida para flashbacks) y lengua arcaizante: «meua» por «meva», topónimos como Octavia del Vallés y léxico como brans, manganells o besants."},
-      {"id": "13", "label": "Cómic como vehículo de ideología", "color": "#5b9eaa", "role": "Discusión", "descripcion": "El esfuerzo de leer un texto marcadamente visual es inferior al de otros medios y el formato resulta de atracción difícilmente resistible, lo que hace del cómic plataforma para contar cualquier historia desde una perspectiva determinada (Vilches, 2014). Es un medio económico y accesible con elevado impacto en población infantil y juvenil."},
-      {"id": "14", "label": "Tres rasgos de la identidad catalana", "color": "#2a5a75", "role": "Conclusiones", "descripcion": "Los cómics divulgan una nación con mirada europea y europeizante que la singulariza de la península, en lucha constante por su independencia y representada por grandes personalidades valientes y astutas: un dominio nacido en contexto hostil, derrotado y asimilado, pero con la idea de que la lucha no ha terminado."},
-      {"id": "15", "label": "Estudio limitado a la Edad Media", "color": "#e76f51", "role": "Limitaciones", "descripcion": "La investigación se ciñe al primero de los tres periodos del cómic histórico catalán y no analiza los álbumes sobre la guerra de sucesión ni la guerra civil. Además, el corpus se concentra casi por completo (nueve de diez obras) en un único autor: Oriol Garcia i Quera."}
+      {
+        "id": "1",
+        "label": "El cómic como medio multimodal",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Definición del género como medio en que «texto e imagen se dan la mano» (Groensteen, 2013). McCloud (2005) lo define como «ilustraciones yuxtapuestas y otras imágenes en secuencia deliberada», y el lector descodifica los vacíos entre viñetas (Suau, 2021)."
+      },
+      {
+        "id": "2",
+        "label": "La memoria histórica en el cómic",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Maus (1986) de Art Spiegelman, con el Pulitzer, marca un antes y un después en la valoración del género; Persepolis (Satrapi, 2000), Palestine (Sacco, 1993) o Un largo silencio (Gallardo, 1998) trabajan la memoria personal y social. La Edad Media en el cómic viene de Prince Valiant (Foster, 1937)."
+      },
+      {
+        "id": "3",
+        "label": "Tres fechas claves del cómic catalán",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "El cómic catalán se ha ocupado de la época medieval (nacimiento del territorio), la guerra de sucesión (fin de la independencia efectiva) y la guerra civil (penúltimo intento de lucha por la singularidad), tres momentos de la construcción ideológica de Catalunya."
+      },
+      {
+        "id": "4",
+        "label": "Objetivos: ideología, divulgación, modelo",
+        "color": "#2a9d8f",
+        "role": "Objetivo",
+        "descripcion": "Tres objetivos: comprobar la intencionalidad ideológica tras la selección de hechos y personajes; aceptar la eficacia del género para la divulgación y enseñanza de la historia; y proponer un modelo de análisis literario y visual. El modelo distingue álbumes divulgativos, de entretenimiento y mixtos, como los estudiados."
+      },
+      {
+        "id": "5",
+        "label": "Corpus de diez cómics medievales",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Diez álbumes publicados entre 1993 y 2015, en catalán, a color y en tapa dura; nueve de Oriol Garcia i Quera (Barcelona, 1967) y El comte Despertaferro (2011) de Josep Ma Ramírez. Narran desde los orígenes con Guifré El Peloso hasta la unión con Castilla en el siglo XV."
+      },
+      {
+        "id": "6",
+        "label": "Análisis visual y narrativo",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Con Fernández de Arriba (2018) se consideran la viñeta, los planos y ángulos, la secuenciación narrativa, los globos, las líneas cinéticas, las metáforas visuales y las onomatopeyas; y, del lado narrativo, el tiempo, el espacio, los personajes, los hechos y los temas."
+      },
+      {
+        "id": "7",
+        "label": "Los orígenes en la Marca Hispánica",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Fa mil anys..., Revenja, L'amenaça sarraïna, Guifré 897 y Olèrdola 1058 narran el nacimiento vinculado a la marca Hispánica: Carlomagno frente a los caudillos sarracenos Musá y Abd al-Malik, la mirada hacia Europa y el papel de la iglesia, como el monasterio de Sant Cugat."
+      },
+      {
+        "id": "8",
+        "label": "Mito de Guifré el Peloso",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "La leyenda de la bandera: Guifré (840-897), herido en batalla contra los sarracenos, traza con su sangre cuatro barras sobre el escudo amarillo. La figura es real, pero ni la batalla, ni el gesto ni el sentido heráldico son verídicos: mito sustentado en la historiografía romántica del siglo XIX."
+      },
+      {
+        "id": "9",
+        "label": "Cómics de la expansión mediterránea",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Mallorca 1229, El desafiament de Burdeus, L'Exèrcit errant y Hug Roger III abarcan la expansión de la Corona de Aragón (Jaume I, Pere el Gran, la batalla del río Cefis en Grecia, 1311) hasta la guerra civil catalana de 1462-1472 y la unión dinástica con los Trastámara."
+      },
+      {
+        "id": "10",
+        "label": "Almogávares enaltecidos como héroes",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Tropas mercenarias que, al grito de despertaferro, controlaban territorios con brutalidad en beneficio de los monarcas. Siguiendo las crónicas de Ramón Muntaner, los cómics los muestran como héroes que acaban gobernando plácidamente sus tierras: patriotismo y gloria nacional por encima de la violencia."
+      },
+      {
+        "id": "11",
+        "label": "Paratextos divulgativos y apéndices",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Los álbumes incluyen apéndices con textos, ilustraciones, fotografías, infografías y glosarios: el contexto de Jaume I en Mallorca 1229 o el yacimiento de Olèrdola y el románico en Terra de frontera. Esa información contextualiza didácticamente y transmite el mensaje narrativo e ideológico."
+      },
+      {
+        "id": "12",
+        "label": "Recursos visuales y lingüísticos",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "Trazo manual a lápiz de estilo realista, composición dinámica de página, negritas que marcan el ánimo y la voz, color simbólico de tonos fríos (rojizo para la sangre, degradación pálida para flashbacks) y lengua arcaizante: «meua» por «meva», topónimos como Octavia del Vallés y léxico como brans, manganells o besants."
+      },
+      {
+        "id": "13",
+        "label": "Cómic como vehículo de ideología",
+        "color": "#5b9eaa",
+        "role": "Discusión",
+        "descripcion": "El esfuerzo de leer un texto marcadamente visual es inferior al de otros medios y el formato resulta de atracción difícilmente resistible, lo que hace del cómic plataforma para contar cualquier historia desde una perspectiva determinada (Vilches, 2014). Es un medio económico y accesible con elevado impacto en población infantil y juvenil."
+      },
+      {
+        "id": "14",
+        "label": "Tres rasgos de la identidad catalana",
+        "color": "#2a5a75",
+        "role": "Conclusiones",
+        "descripcion": "Los cómics divulgan una nación con mirada europea y europeizante que la singulariza de la península, en lucha constante por su independencia y representada por grandes personalidades valientes y astutas: un dominio nacido en contexto hostil, derrotado y asimilado, pero con la idea de que la lucha no ha terminado."
+      },
+      {
+        "id": "15",
+        "label": "Estudio limitado a la Edad Media",
+        "color": "#e76f51",
+        "role": "Limitaciones",
+        "descripcion": "La investigación se ciñe al primero de los tres periodos del cómic histórico catalán y no analiza los álbumes sobre la guerra de sucesión ni la guerra civil. Además, el corpus se concentra casi por completo (nueve de diez obras) en un único autor: Oriol Garcia i Quera."
+      }
     ],
     "aristas": [
-      {"from": "1", "to": "2", "label": "favorece la divulgación de la"},
-      {"from": "2", "to": "3", "label": "se proyecta en Cataluña mediante las"},
-      {"from": "3", "to": "5", "label": "sitúa el objeto de estudio en los"},
-      {"from": "4", "to": "1", "label": "se fundamenta en la noción de"},
-      {"from": "4", "to": "5", "label": "se aplica al"},
-      {"from": "4", "to": "6", "label": "se desarrolla mediante el"},
-      {"from": "5", "to": "7", "label": "reúne en su primer grupo los"},
-      {"from": "5", "to": "9", "label": "reúne en su segundo grupo los"},
-      {"from": "7", "to": "8", "label": "alcanza su símbolo fundacional en el"},
-      {"from": "7", "to": "9", "label": "históricamente dan paso a los"},
-      {"from": "9", "to": "10", "label": "tiene como protagonistas a los"},
-      {"from": "6", "to": "12", "label": "detecta los"},
-      {"from": "5", "to": "11", "label": "incorpora los"},
-      {"from": "11", "to": "13", "label": "refuerzan el mensaje del"},
-      {"from": "12", "to": "13", "label": "potencian la eficacia del"},
-      {"from": "13", "to": "14", "label": "transmite los"},
-      {"from": "8", "to": "14", "label": "condensa uno de los"},
-      {"from": "10", "to": "14", "label": "exalta otro de los"},
-      {"from": "15", "to": "5", "label": "acota el alcance del"}
+      {
+        "from": "1",
+        "to": "2",
+        "label": "favorece la divulgación de la"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "se proyecta en Cataluña mediante las"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "sitúa el objeto de estudio en los"
+      },
+      {
+        "from": "4",
+        "to": "1",
+        "label": "se fundamenta en la noción de"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se aplica al"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se desarrolla mediante el"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "reúne en su primer grupo los"
+      },
+      {
+        "from": "5",
+        "to": "9",
+        "label": "reúne en su segundo grupo los"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "alcanza su símbolo fundacional en el"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "históricamente dan paso a los"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "tiene como protagonistas a los"
+      },
+      {
+        "from": "6",
+        "to": "12",
+        "label": "detecta los"
+      },
+      {
+        "from": "5",
+        "to": "11",
+        "label": "incorpora los"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "refuerzan el mensaje del"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "potencian la eficacia del"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "transmite los"
+      },
+      {
+        "from": "8",
+        "to": "14",
+        "label": "condensa uno de los"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "exalta otro de los"
+      },
+      {
+        "from": "15",
+        "to": "5",
+        "label": "acota el alcance del"
+      }
     ]
   }
 }

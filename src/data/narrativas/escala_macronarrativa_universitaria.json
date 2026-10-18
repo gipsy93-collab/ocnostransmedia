@@ -12,7 +12,7 @@
     "color": "#2a5a75",
     "colorAlt": "#88b04b",
     "bg": "from-ocean-base/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-01.png",
+    "image": "/assets/portadas/escritura_academica.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-01.png",
       "name": "Dra. Rosa Núñez-Pacheco",
@@ -191,43 +191,215 @@
     "titulo": "Mapa conceptual: Escala de autopercepción de la competencia macronarrativa (Ocnos 23(2), 2024)",
     "descripcion": "Del constructo integrador de narrativa textual, digital y transmedia al diseño psicométrico de la escala CmN: validación por jueces, piloto y análisis factorial exploratorio con 883 universitarios peruanos, confirmando validez, confiabilidad y diferencias por área y sexo.",
     "nodos": [
-      {"id": "1", "label": "Homo fabulator y enfoques de la narrativa", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Narrar es una práctica milenaria: Scolari (2013) nos define como homo fabulators, y de la oralidad y la escritura se pasó al cine, el hipertexto y los videojuegos. Los estudios literarios, del formalismo ruso a la narratología, analizaron sistemáticamente las estructuras del relato (Fludernik, 2019; Orellana-García et al., 2022)."},
-      {"id": "2", "label": "Narrativa digital y transmedia", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "Lambert acuñó digital storytelling a fines de los ochenta como cortometraje narrado de carácter multimedia (Wu y Chen, 2020). Jenkins (2003) y Scolari (2013) definen la narrativa transmedia como expansión de historias en distintas plataformas y sistemas de significación con participación crucial de los usuarios; Freeman (2017) destaca character-building, world-building y autoría."},
-      {"id": "3", "label": "Constructo de competencia macronarrativa", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "Se propone como conjunto de conocimientos, habilidades y actitudes para comprender y producir textos narrativos, narrativas digitales y transmedia, con tres dimensiones: textual, digital y transmedia. Supera el nivel solo textual de definiciones previas como la de Marinkovich (2001)."},
-      {"id": "4", "label": "Antecedentes de medición narrativa", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "La medición de la competencia narrativa se centró en el nivel infantil (Iandolo, 2011) y secundario (Fernández et al., 2019), quedando la Educación Superior por explorar. Se dialoga con la Batería de Competencia Literaria (Mínguez-López y Alfonso-Benlliure, 2019), la competencia mediática (Ferrés y Piscitelli, 2012), la aumentada (Kačinová y Sádaba-Chalezquer, 2022) y las 134 competencias del proyecto Transmedia Literacy (Scolari, 2018)."},
-      {"id": "5", "label": "Objetivo: validar escala de autopercepción", "color": "#f4a261", "role": "Objetivo", "descripcion": "Elaborar y validar una escala que mida la autopercepción del nivel de competencia macronarrativa universitaria en las tres dimensiones. Pregunta central: ¿cuál es el nivel de autopercepción que tienen los estudiantes universitarios sobre su competencia macronarrativa?"},
-      {"id": "6", "label": "Estudio instrumental de seis etapas", "color": "#264653", "role": "Método", "descripcion": "Diseño transversal de tipo instrumental (Ato et al., 2013) siguiendo las seis etapas de Meza y González (2020): propuesta del constructo, construcción del instrumento piloto, validación de contenido, aplicación a la muestra, estimación de propiedades psicométricas y versión final de la escala."},
-      {"id": "7", "label": "Muestra de 883 universitarios", "color": "#5b9eaa", "role": "Método", "descripcion": "Muestreo no probabilístico en una universidad pública peruana: 486 hombres (55%) y 397 mujeres (45%), edades 16-52 (media 19,88), 70,2% de ciencias sociales y 29,8% de ingenierías, con mayoría de primer año (69,2%). Datos anónimos y voluntarios vía Google Forms entre mayo y octubre de 2022."},
-      {"id": "8", "label": "Validación por jueces y piloto", "color": "#9b82c3", "role": "Método", "descripcion": "Ocho jueces doctores en comunicación, literatura comparada, teoría literaria y educación valoraron de 1 a 4 claridad, coherencia, pertinencia y relevancia de los ítems. La prueba piloto con 43 estudiantes de Educación confirmó la comprensión de los enunciados y arrojó alfa de Cronbach .930 en la escala de 27 ítems."},
-      {"id": "9", "label": "Análisis factorial exploratorio", "color": "#2a5a75", "role": "Método", "descripcion": "AFE por máxima verosimilitud con rotación varimax en SPSS 25, conservando cargas factoriales superiores a .40 (Bibiano et al., 2016). La significación del Test de Bartlett (χ²=16932,738; p<.001) y el KMO=.943 justificaron el análisis factorial."},
-      {"id": "10", "label": "Alto acuerdo en V de Aiken", "color": "#88b04b", "role": "Resultados", "descripcion": "Los coeficientes V de Aiken alcanzaron .91 en narrativa textual, .88 en digital y .90 en transmedia, sin acuerdo total entre jueces. Con los 40 ítems iniciales se fusionaron, eliminaron y reformularon enunciados hasta dejar la escala en 27, repartidos equitativamente."},
-      {"id": "11", "label": "Tres factores y 27 ítems", "color": "#f4d068", "role": "Resultados", "descripcion": "El análisis factorial identificó una estructura de tres factores con nueve ítems cada uno: narrativa textual (1-9), narrativa digital (10-18) y narrativa transmedia (19-27). El conjunto de factores retenidos explicó el 61,82% de la varianza."},
-      {"id": "12", "label": "Confiabilidad óptima del instrumento", "color": "#2a9d8f", "role": "Resultados", "descripcion": "Con formato Likert de cinco puntos, la versión final obtuvo alfa de Cronbach de .946 en la escala total, .869 en narrativa textual, .905 en digital y .917 en transmedia, coeficientes consistentes que indican una confiabilidad óptima."},
-      {"id": "13", "label": "Superioridad de ciencias sociales", "color": "#e76f51", "role": "Resultados", "descripcion": "Los estudiantes de ciencias sociales reportaron mayor competencia macronarrativa que los de ingenierías en la escala total y las tres dimensiones: efecto mediano en total (d=.40) y narrativa digital (d=.47), y pequeño en textual (d=.37) y transmedia (d=.20)."},
-      {"id": "14", "label": "Diferencia de género sin transmedia", "color": "#c73e1d", "role": "Resultados", "descripcion": "Las mujeres reportaron niveles superiores que los hombres en la escala total (d=.32) y en las narrativas textual (d=.47, efecto mediano) y digital (d=.36), pero no se hallaron diferencias significativas por sexo en la narrativa transmedia (p=.308)."},
-      {"id": "15", "label": "Instrumento pionero e integrador", "color": "#f4a261", "role": "Conclusiones", "descripcion": "La escala es válida y fiable, y resulta pionera por integrar los tres niveles narrativos y por aplicarse en el nivel universitario. Puede emplearse en cualquier especialidad, principalmente literatura, comunicación y educación, con beneficios cognitivos, comunicativos y motivacionales (Di-Blas, 2022)."},
-      {"id": "16", "label": "Replantear la enseñanza narrativa", "color": "#88b04b", "role": "Discusión", "descripcion": "Los hallazgos exigen repensar la enseñanza de la competencia narrativa y literaria sin prescindir de la tecnología, pues la transmedia está poco empleada en asignaturas literarias (Palioura y Dimoulas, 2022). Se anuncian intervenciones futuras y el estudio del rol de la inteligencia artificial."}
+      {
+        "id": "1",
+        "label": "Homo fabulator y enfoques de la narrativa",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Narrar es una práctica milenaria: Scolari (2013) nos define como homo fabulators, y de la oralidad y la escritura se pasó al cine, el hipertexto y los videojuegos. Los estudios literarios, del formalismo ruso a la narratología, analizaron sistemáticamente las estructuras del relato (Fludernik, 2019; Orellana-García et al., 2022)."
+      },
+      {
+        "id": "2",
+        "label": "Narrativa digital y transmedia",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Lambert acuñó digital storytelling a fines de los ochenta como cortometraje narrado de carácter multimedia (Wu y Chen, 2020). Jenkins (2003) y Scolari (2013) definen la narrativa transmedia como expansión de historias en distintas plataformas y sistemas de significación con participación crucial de los usuarios; Freeman (2017) destaca character-building, world-building y autoría."
+      },
+      {
+        "id": "3",
+        "label": "Constructo de competencia macronarrativa",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Se propone como conjunto de conocimientos, habilidades y actitudes para comprender y producir textos narrativos, narrativas digitales y transmedia, con tres dimensiones: textual, digital y transmedia. Supera el nivel solo textual de definiciones previas como la de Marinkovich (2001)."
+      },
+      {
+        "id": "4",
+        "label": "Antecedentes de medición narrativa",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "La medición de la competencia narrativa se centró en el nivel infantil (Iandolo, 2011) y secundario (Fernández et al., 2019), quedando la Educación Superior por explorar. Se dialoga con la Batería de Competencia Literaria (Mínguez-López y Alfonso-Benlliure, 2019), la competencia mediática (Ferrés y Piscitelli, 2012), la aumentada (Kačinová y Sádaba-Chalezquer, 2022) y las 134 competencias del proyecto Transmedia Literacy (Scolari, 2018)."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: validar escala de autopercepción",
+        "color": "#f4a261",
+        "role": "Objetivo",
+        "descripcion": "Elaborar y validar una escala que mida la autopercepción del nivel de competencia macronarrativa universitaria en las tres dimensiones. Pregunta central: ¿cuál es el nivel de autopercepción que tienen los estudiantes universitarios sobre su competencia macronarrativa?"
+      },
+      {
+        "id": "6",
+        "label": "Estudio instrumental de seis etapas",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Diseño transversal de tipo instrumental (Ato et al., 2013) siguiendo las seis etapas de Meza y González (2020): propuesta del constructo, construcción del instrumento piloto, validación de contenido, aplicación a la muestra, estimación de propiedades psicométricas y versión final de la escala."
+      },
+      {
+        "id": "7",
+        "label": "Muestra de 883 universitarios",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Muestreo no probabilístico en una universidad pública peruana: 486 hombres (55%) y 397 mujeres (45%), edades 16-52 (media 19,88), 70,2% de ciencias sociales y 29,8% de ingenierías, con mayoría de primer año (69,2%). Datos anónimos y voluntarios vía Google Forms entre mayo y octubre de 2022."
+      },
+      {
+        "id": "8",
+        "label": "Validación por jueces y piloto",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "Ocho jueces doctores en comunicación, literatura comparada, teoría literaria y educación valoraron de 1 a 4 claridad, coherencia, pertinencia y relevancia de los ítems. La prueba piloto con 43 estudiantes de Educación confirmó la comprensión de los enunciados y arrojó alfa de Cronbach .930 en la escala de 27 ítems."
+      },
+      {
+        "id": "9",
+        "label": "Análisis factorial exploratorio",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "AFE por máxima verosimilitud con rotación varimax en SPSS 25, conservando cargas factoriales superiores a .40 (Bibiano et al., 2016). La significación del Test de Bartlett (χ²=16932,738; p<.001) y el KMO=.943 justificaron el análisis factorial."
+      },
+      {
+        "id": "10",
+        "label": "Alto acuerdo en V de Aiken",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Los coeficientes V de Aiken alcanzaron .91 en narrativa textual, .88 en digital y .90 en transmedia, sin acuerdo total entre jueces. Con los 40 ítems iniciales se fusionaron, eliminaron y reformularon enunciados hasta dejar la escala en 27, repartidos equitativamente."
+      },
+      {
+        "id": "11",
+        "label": "Tres factores y 27 ítems",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "El análisis factorial identificó una estructura de tres factores con nueve ítems cada uno: narrativa textual (1-9), narrativa digital (10-18) y narrativa transmedia (19-27). El conjunto de factores retenidos explicó el 61,82% de la varianza."
+      },
+      {
+        "id": "12",
+        "label": "Confiabilidad óptima del instrumento",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Con formato Likert de cinco puntos, la versión final obtuvo alfa de Cronbach de .946 en la escala total, .869 en narrativa textual, .905 en digital y .917 en transmedia, coeficientes consistentes que indican una confiabilidad óptima."
+      },
+      {
+        "id": "13",
+        "label": "Superioridad de ciencias sociales",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Los estudiantes de ciencias sociales reportaron mayor competencia macronarrativa que los de ingenierías en la escala total y las tres dimensiones: efecto mediano en total (d=.40) y narrativa digital (d=.47), y pequeño en textual (d=.37) y transmedia (d=.20)."
+      },
+      {
+        "id": "14",
+        "label": "Diferencia de género sin transmedia",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Las mujeres reportaron niveles superiores que los hombres en la escala total (d=.32) y en las narrativas textual (d=.47, efecto mediano) y digital (d=.36), pero no se hallaron diferencias significativas por sexo en la narrativa transmedia (p=.308)."
+      },
+      {
+        "id": "15",
+        "label": "Instrumento pionero e integrador",
+        "color": "#f4a261",
+        "role": "Conclusiones",
+        "descripcion": "La escala es válida y fiable, y resulta pionera por integrar los tres niveles narrativos y por aplicarse en el nivel universitario. Puede emplearse en cualquier especialidad, principalmente literatura, comunicación y educación, con beneficios cognitivos, comunicativos y motivacionales (Di-Blas, 2022)."
+      },
+      {
+        "id": "16",
+        "label": "Replantear la enseñanza narrativa",
+        "color": "#88b04b",
+        "role": "Discusión",
+        "descripcion": "Los hallazgos exigen repensar la enseñanza de la competencia narrativa y literaria sin prescindir de la tecnología, pues la transmedia está poco empleada en asignaturas literarias (Palioura y Dimoulas, 2022). Se anuncian intervenciones futuras y el estudio del rol de la inteligencia artificial."
+      }
     ],
     "aristas": [
-      {"from": "1", "to": "3", "label": "sustenta el"},
-      {"from": "2", "to": "3", "label": "aporta dimensiones a la"},
-      {"from": "4", "to": "5", "label": "fundamentan el"},
-      {"from": "3", "to": "5", "label": "es objeto del"},
-      {"from": "5", "to": "6", "label": "se ejecuta como un"},
-      {"from": "6", "to": "8", "label": "incluye la"},
-      {"from": "8", "to": "7", "label": "se completa con la"},
-      {"from": "7", "to": "9", "label": "se procesa con el"},
-      {"from": "8", "to": "10", "label": "arroja una"},
-      {"from": "10", "to": "11", "label": "desemboca en el"},
-      {"from": "9", "to": "11", "label": "confirma el"},
-      {"from": "11", "to": "12", "label": "revela la"},
-      {"from": "12", "to": "15", "label": "acredita la condición de"},
-      {"from": "7", "to": "13", "label": "evidencia la"},
-      {"from": "7", "to": "14", "label": "muestra una"},
-      {"from": "13", "to": "16", "label": "exige el"},
-      {"from": "14", "to": "16", "label": "respalda el"},
-      {"from": "4", "to": "15", "label": "posicionan al"},
-      {"from": "5", "to": "15", "label": "se alcanza con un"}
+      {
+        "from": "1",
+        "to": "3",
+        "label": "sustenta el"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "aporta dimensiones a la"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "fundamentan el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "es objeto del"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se ejecuta como un"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "incluye la"
+      },
+      {
+        "from": "8",
+        "to": "7",
+        "label": "se completa con la"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "se procesa con el"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "arroja una"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "desemboca en el"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "confirma el"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "revela la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "acredita la condición de"
+      },
+      {
+        "from": "7",
+        "to": "13",
+        "label": "evidencia la"
+      },
+      {
+        "from": "7",
+        "to": "14",
+        "label": "muestra una"
+      },
+      {
+        "from": "13",
+        "to": "16",
+        "label": "exige el"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "respalda el"
+      },
+      {
+        "from": "4",
+        "to": "15",
+        "label": "posicionan al"
+      },
+      {
+        "from": "5",
+        "to": "15",
+        "label": "se alcanza con un"
+      }
     ]
   }
 }

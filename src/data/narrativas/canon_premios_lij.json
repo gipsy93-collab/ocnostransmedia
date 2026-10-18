@@ -12,7 +12,7 @@
     "color": "#f4d068",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-400/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-09.png",
+    "image": "/assets/portadas/narracion_digital_albumes.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-09.png",
       "name": "Dra. Raquel Gómez-Díaz",
@@ -197,44 +197,218 @@
     "titulo": "Mapa conceptual: Premios literarios y canon de LIJ en España (Ocnos 23(1) 2024)",
     "descripcion": "Recorrido del artículo: del debate sobre un canon de LIJ plural y los premios como factor de canonización, a la base de datos de 176 galardones y 71 títulos con dos o más premios, su caracterización por prestigio, lenguas, género, temática y autoras, la selección final de 18 obras avaladas por recomendaciones institucionales y las limitaciones de la propuesta.",
     "nodos": [
-      {"id": "1", "label": "Canon literario de LIJ", "color": "#f4d068", "role": "Marco teórico", "descripcion": "Hoy no existe un canon plenamente aceptado por la multiplicidad de factores y agentes implicados; Escandell-Montiel (2019) lo considera plural y diverso. El debate cuenta con estudios de García-Padrino, Tejerina-Lobo, Kümmerling-Meibauer y Müller (2017) o Bermúdez-Martínez y Núñez-Delgado (2014), y con selecciones como Cien libros para un siglo de López y la revista Peonza."},
-      {"id": "2", "label": "Premios como factor de canonización", "color": "#88b04b", "role": "Marco teórico", "descripcion": "Tarrío-Varela (2013) presenta los premios como configuradores del canon y Aguiar et al. (2013) les atribuye la legitimación de la calidad literaria y la proyección de autores y obras. Un premio añade valor cultural, visibilidad, tiradas, traducciones e inclusión en listas; para Neira-Cruz (2004) libro premiado no es sinónimo de calidad, aunque habitualmente se aproxima."},
-      {"id": "3", "label": "Recomendación entre iguales y canon social", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "Francés-Díez (2021) señala la multiplicación de formatos y plataformas y el auge de la recomendación entre pares en redes sociales. Dueñas et al. (2014) describen un canon social impulsado por editoriales y círculos lectores, y Lluch (2021, 2022) ha estudiado el canon popular juvenil entre iguales y el canon no escolar."},
-      {"id": "4", "label": "Proponer un canon de LIJ premiada", "color": "#f4a261", "role": "Objetivo", "descripcion": "El objetivo es determinar qué títulos formarían una lista capaz de conformar un canon de libros premiados de LIJ en España en los primeros veinte años del siglo XXI. Se parte de la idea de que la LIJ premiada es muestra de literatura susceptible de canon (Tarrío-Varela, 2013; Aguiar et al., 2013)."},
-      {"id": "5", "label": "Base de datos de premios 2000-2020", "color": "#2a5a75", "role": "Método", "descripcion": "Se elaboró a partir de la base del Ministerio de Cultura y Deporte completada con consejerías de cultura, la Biblioteca Nacional, OEPLI, webs de editoriales y escritores, revistas especializadas y Wikipedia. El resultado fueron 176 galardones, 1.437 registros y 1.315 títulos premiados, pues una misma obra pudo recibir varios premios."},
-      {"id": "6", "label": "Muestra de 71 títulos con dos premios", "color": "#5b9eaa", "role": "Método", "descripcion": "Del total, el 95% solo obtuvo un galardón, el 4% dos, nueve títulos tres y uno cuatro, así que se consideraron candidatos al canon los de dos o más premios. De cada obra se recogieron título, autoría, ilustración, editorial, fechas, premios, género, edad y materia, con el cuadro de clasificación de las Bibliotecas Municipales de Salamanca."},
-      {"id": "7", "label": "Contraste con recomendaciones institucionales", "color": "#264653", "role": "Método", "descripcion": "Se confirmó título a título su presencia en la Lista de Honor del IBBY, la Biblioteca de la Juventud de Múnich, White Ravens, Este libro me encantó de OEPLI, GALIX, Galtzagorri, CLIJ, Canal Lector, Peonza y Babar en los años disponibles. Estas fuentes de reconocido prestigio avalan la validez de las obras propuestas."},
-      {"id": "8", "label": "Tipología y prestigio de los galardones", "color": "#9b82c3", "role": "Resultados", "descripcion": "En España el 54% de los premios son institucionales, 21% mixtos, 18% privados de editoriales y 6% de revistas especializadas; entre los 71 títulos, 32 premios institucionales, 13 privados, 6 mixtos y 4 de revistas. Destacan el Lazarillo y el Nacional de Creación, con la dotación más elevada (20.000 euros), junto a autonómicos como Fervenzas Literarias, Protagonista Jove, Euskadi o Lizardi."},
-      {"id": "9", "label": "Edición multilingüe de la LIJ española", "color": "#88b04b", "role": "Resultados", "descripcion": "De los 71 títulos, 65 premios corresponden a obras en catalán, 31 en castellano, 18 en gallego y solo 4 en euskera, con obras premiadas en dos lenguas como las de Costas, Zubizarreta o Palomas. Los premios han fomentado las lenguas cooficiales y consolidado autores propuestos al Andersen o al ALMA, como Fernández Paz, Landa o Sierra i Fabra."},
-      {"id": "10", "label": "Predominio de novela y público juvenil", "color": "#c73e1d", "role": "Resultados", "descripcion": "La muestra reúne 63 novelas y 8 cuentos, coherente con el 70% de premios de narrativa en el país; ni una obra de poesía o teatro entre las más reconocidas pese a galardones específicos de baja dotación. Casi la mitad de los títulos son juveniles (33), seguidos de lectores de 10 a 12 años (23), con solo 2 obras para los más pequeños."},
-      {"id": "11", "label": "Vida real, misterio y fantasía", "color": "#e76f51", "role": "Resultados", "descripcion": "Las temáticas recurrentes son vida real (30%), misterio y terror (25%) y obras fantásticas (20%), vinculadas al público juvenil que supone el 74% de la muestra. La fantasía predomina hasta los 9 años y vida real, terror y misterio a partir de los 10. Llama la atención la escasa presencia del humor y de la novela romántica, tan exitosa entre adolescentes."},
-      {"id": "12", "label": "Autoras más premiadas", "color": "#f4a261", "role": "Resultados", "descripcion": "Entre los autores con mayor número de premios aparecen 6 mujeres frente a 4 hombres, con Ledicia Costas destacada por cuatro obras galardonadas, además de Pedreira o Barceló. Sin embargo, no figuran nombres de gran prestigio de la LIJ española premiados con el Cervantes Chico, el Nacional o propuestos por OEPLI al Andersen, como Sierra i Fabra, Lindo o Atxaga."},
-      {"id": "13", "label": "Canon final de 18 obras", "color": "#f4d068", "role": "Resultados", "descripcion": "Con dos filtros restrictivos —tres o más premios, o dos incluyendo el Nacional o el Lazarillo— la lista queda en 18 obras como Barro de Medellín, Escarlatina o Kafka y la muñeca viajera. El 88% está recomendada por la crítica especializada: cinco en White Ravens, cuatro en la Lista de Honor IBBY y once en Canal Lector. Encabezan el ranking Os corpos invisibles, Verne y la vida secreta de las mujeres planta y Escarlatina, la cocinera difunta; once títulos están disponibles en varias lenguas según el ISBN."},
-      {"id": "14", "label": "Canon representativo para la mediación", "color": "#2a5a75", "role": "Conclusiones", "descripcion": "La propuesta no pretende un canon exhaustivo, sino representativo, que sirva de referencia a maestros y bibliotecarios fuera del ámbito estrictamente escolar y académico. Toda selección comporta una dosis inevitable de arbitrariedad (Cerrillo, 2010), pero el premio aporta visibilidad e influye en la selección y compra de obras."},
-      {"id": "15", "label": "Primera aproximación ampliable", "color": "#9b82c3", "role": "Limitaciones", "descripcion": "El trabajo se plantea como primera aproximación que requiere ampliar el marco temporal hasta 1958, año de creación del Premio Lazarillo, y el ámbito geográfico con obras premiadas internacionalmente y traducidas al castellano. Queda pendiente un canon infantil restringido por edad entre los 1.315 títulos, un canon de obras premiadas en catalán, gallego y euskera, y el contraste con los cánones entre iguales, clubes de lectura y bibliotecas."}
+      {
+        "id": "1",
+        "label": "Canon literario de LIJ",
+        "color": "#f4d068",
+        "role": "Marco teórico",
+        "descripcion": "Hoy no existe un canon plenamente aceptado por la multiplicidad de factores y agentes implicados; Escandell-Montiel (2019) lo considera plural y diverso. El debate cuenta con estudios de García-Padrino, Tejerina-Lobo, Kümmerling-Meibauer y Müller (2017) o Bermúdez-Martínez y Núñez-Delgado (2014), y con selecciones como Cien libros para un siglo de López y la revista Peonza."
+      },
+      {
+        "id": "2",
+        "label": "Premios como factor de canonización",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Tarrío-Varela (2013) presenta los premios como configuradores del canon y Aguiar et al. (2013) les atribuye la legitimación de la calidad literaria y la proyección de autores y obras. Un premio añade valor cultural, visibilidad, tiradas, traducciones e inclusión en listas; para Neira-Cruz (2004) libro premiado no es sinónimo de calidad, aunque habitualmente se aproxima."
+      },
+      {
+        "id": "3",
+        "label": "Recomendación entre iguales y canon social",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Francés-Díez (2021) señala la multiplicación de formatos y plataformas y el auge de la recomendación entre pares en redes sociales. Dueñas et al. (2014) describen un canon social impulsado por editoriales y círculos lectores, y Lluch (2021, 2022) ha estudiado el canon popular juvenil entre iguales y el canon no escolar."
+      },
+      {
+        "id": "4",
+        "label": "Proponer un canon de LIJ premiada",
+        "color": "#f4a261",
+        "role": "Objetivo",
+        "descripcion": "El objetivo es determinar qué títulos formarían una lista capaz de conformar un canon de libros premiados de LIJ en España en los primeros veinte años del siglo XXI. Se parte de la idea de que la LIJ premiada es muestra de literatura susceptible de canon (Tarrío-Varela, 2013; Aguiar et al., 2013)."
+      },
+      {
+        "id": "5",
+        "label": "Base de datos de premios 2000-2020",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Se elaboró a partir de la base del Ministerio de Cultura y Deporte completada con consejerías de cultura, la Biblioteca Nacional, OEPLI, webs de editoriales y escritores, revistas especializadas y Wikipedia. El resultado fueron 176 galardones, 1.437 registros y 1.315 títulos premiados, pues una misma obra pudo recibir varios premios."
+      },
+      {
+        "id": "6",
+        "label": "Muestra de 71 títulos con dos premios",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Del total, el 95% solo obtuvo un galardón, el 4% dos, nueve títulos tres y uno cuatro, así que se consideraron candidatos al canon los de dos o más premios. De cada obra se recogieron título, autoría, ilustración, editorial, fechas, premios, género, edad y materia, con el cuadro de clasificación de las Bibliotecas Municipales de Salamanca."
+      },
+      {
+        "id": "7",
+        "label": "Contraste con recomendaciones institucionales",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Se confirmó título a título su presencia en la Lista de Honor del IBBY, la Biblioteca de la Juventud de Múnich, White Ravens, Este libro me encantó de OEPLI, GALIX, Galtzagorri, CLIJ, Canal Lector, Peonza y Babar en los años disponibles. Estas fuentes de reconocido prestigio avalan la validez de las obras propuestas."
+      },
+      {
+        "id": "8",
+        "label": "Tipología y prestigio de los galardones",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "En España el 54% de los premios son institucionales, 21% mixtos, 18% privados de editoriales y 6% de revistas especializadas; entre los 71 títulos, 32 premios institucionales, 13 privados, 6 mixtos y 4 de revistas. Destacan el Lazarillo y el Nacional de Creación, con la dotación más elevada (20.000 euros), junto a autonómicos como Fervenzas Literarias, Protagonista Jove, Euskadi o Lizardi."
+      },
+      {
+        "id": "9",
+        "label": "Edición multilingüe de la LIJ española",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "De los 71 títulos, 65 premios corresponden a obras en catalán, 31 en castellano, 18 en gallego y solo 4 en euskera, con obras premiadas en dos lenguas como las de Costas, Zubizarreta o Palomas. Los premios han fomentado las lenguas cooficiales y consolidado autores propuestos al Andersen o al ALMA, como Fernández Paz, Landa o Sierra i Fabra."
+      },
+      {
+        "id": "10",
+        "label": "Predominio de novela y público juvenil",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "La muestra reúne 63 novelas y 8 cuentos, coherente con el 70% de premios de narrativa en el país; ni una obra de poesía o teatro entre las más reconocidas pese a galardones específicos de baja dotación. Casi la mitad de los títulos son juveniles (33), seguidos de lectores de 10 a 12 años (23), con solo 2 obras para los más pequeños."
+      },
+      {
+        "id": "11",
+        "label": "Vida real, misterio y fantasía",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Las temáticas recurrentes son vida real (30%), misterio y terror (25%) y obras fantásticas (20%), vinculadas al público juvenil que supone el 74% de la muestra. La fantasía predomina hasta los 9 años y vida real, terror y misterio a partir de los 10. Llama la atención la escasa presencia del humor y de la novela romántica, tan exitosa entre adolescentes."
+      },
+      {
+        "id": "12",
+        "label": "Autoras más premiadas",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Entre los autores con mayor número de premios aparecen 6 mujeres frente a 4 hombres, con Ledicia Costas destacada por cuatro obras galardonadas, además de Pedreira o Barceló. Sin embargo, no figuran nombres de gran prestigio de la LIJ española premiados con el Cervantes Chico, el Nacional o propuestos por OEPLI al Andersen, como Sierra i Fabra, Lindo o Atxaga."
+      },
+      {
+        "id": "13",
+        "label": "Canon final de 18 obras",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Con dos filtros restrictivos —tres o más premios, o dos incluyendo el Nacional o el Lazarillo— la lista queda en 18 obras como Barro de Medellín, Escarlatina o Kafka y la muñeca viajera. El 88% está recomendada por la crítica especializada: cinco en White Ravens, cuatro en la Lista de Honor IBBY y once en Canal Lector. Encabezan el ranking Os corpos invisibles, Verne y la vida secreta de las mujeres planta y Escarlatina, la cocinera difunta; once títulos están disponibles en varias lenguas según el ISBN."
+      },
+      {
+        "id": "14",
+        "label": "Canon representativo para la mediación",
+        "color": "#2a5a75",
+        "role": "Conclusiones",
+        "descripcion": "La propuesta no pretende un canon exhaustivo, sino representativo, que sirva de referencia a maestros y bibliotecarios fuera del ámbito estrictamente escolar y académico. Toda selección comporta una dosis inevitable de arbitrariedad (Cerrillo, 2010), pero el premio aporta visibilidad e influye en la selección y compra de obras."
+      },
+      {
+        "id": "15",
+        "label": "Primera aproximación ampliable",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "El trabajo se plantea como primera aproximación que requiere ampliar el marco temporal hasta 1958, año de creación del Premio Lazarillo, y el ámbito geográfico con obras premiadas internacionalmente y traducidas al castellano. Queda pendiente un canon infantil restringido por edad entre los 1.315 títulos, un canon de obras premiadas en catalán, gallego y euskera, y el contraste con los cánones entre iguales, clubes de lectura y bibliotecas."
+      }
     ],
     "aristas": [
-      {"from": "2", "to": "1", "label": "impulsan la formación del"},
-      {"from": "3", "to": "1", "label": "disputan el protagonismo del"},
-      {"from": "1", "to": "4", "label": "motiva el"},
-      {"from": "2", "to": "4", "label": "fundamenta el"},
-      {"from": "4", "to": "5", "label": "se materializó en la"},
-      {"from": "5", "to": "6", "label": "originó la"},
-      {"from": "6", "to": "7", "label": "se contrastó con las"},
-      {"from": "6", "to": "8", "label": "permitió analizar la"},
-      {"from": "6", "to": "9", "label": "evidenció la"},
-      {"from": "6", "to": "10", "label": "mostró el"},
-      {"from": "6", "to": "11", "label": "reveló la"},
-      {"from": "6", "to": "12", "label": "destacó a las"},
-      {"from": "8", "to": "13", "label": "condicionó la selección del"},
-      {"from": "7", "to": "13", "label": "avaló institucionalmente el"},
-      {"from": "9", "to": "13", "label": "aporta diversidad lingüística al"},
-      {"from": "10", "to": "13", "label": "inclina la narrativa del"},
-      {"from": "11", "to": "13", "label": "marcan la temática del"},
-      {"from": "12", "to": "13", "label": "aportan el elenco autoral del"},
-      {"from": "4", "to": "13", "label": "culminó en el"},
-      {"from": "13", "to": "14", "label": "sustenta un"},
-      {"from": "15", "to": "14", "label": "restringen el alcance del"}
+      {
+        "from": "2",
+        "to": "1",
+        "label": "impulsan la formación del"
+      },
+      {
+        "from": "3",
+        "to": "1",
+        "label": "disputan el protagonismo del"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "motiva el"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "fundamenta el"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se materializó en la"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "originó la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se contrastó con las"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "permitió analizar la"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "evidenció la"
+      },
+      {
+        "from": "6",
+        "to": "10",
+        "label": "mostró el"
+      },
+      {
+        "from": "6",
+        "to": "11",
+        "label": "reveló la"
+      },
+      {
+        "from": "6",
+        "to": "12",
+        "label": "destacó a las"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "condicionó la selección del"
+      },
+      {
+        "from": "7",
+        "to": "13",
+        "label": "avaló institucionalmente el"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "aporta diversidad lingüística al"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "inclina la narrativa del"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "marcan la temática del"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "aportan el elenco autoral del"
+      },
+      {
+        "from": "4",
+        "to": "13",
+        "label": "culminó en el"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "sustenta un"
+      },
+      {
+        "from": "15",
+        "to": "14",
+        "label": "restringen el alcance del"
+      }
     ]
   }
 }

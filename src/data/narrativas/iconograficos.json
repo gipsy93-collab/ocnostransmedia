@@ -12,7 +12,7 @@
     "color": "#5e3c8a",
     "colorAlt": "#2d1b4e",
     "bg": "from-violet-500/20 to-slate-900/20",
-    "image": "https://picsum.photos/seed/iconograficos/800/600"
+    "image": "/assets/portadas/empoderamiento_comic_portugues.jpg"
   },
   "blocks": {
     "apertura": {
@@ -362,43 +362,213 @@
       "titulo": "Mapa conceptual: Repertorios iconográficos y trauma en la novela gráfica (Ocnos 22(1) 2023)",
       "descripcion": "Recorrido del análisis comparado de Trabado-Cabado: del cómic de trauma surgido con Maus al concepto de repertorio iconográfico, la koiné gráfica de Emil Ferris, el idiolecto de Una y la metáfora compartida del globo como carga.",
       "nodos": [
-        {"id": "1", "label": "La novela gráfica y el relato traumático", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "Bajo el concepto de novela gráfica el cómic se liberó de fórmulas genéricas y formatos industriales para afrontar experiencias dolorosas: Eisner disfrazó de ficción la pérdida de su hija en Contrato con Dios y Spiegelman hizo del exterminio nazi el núcleo de Maus; Persepolis y La ascensión del gran mal también se afanan por metabolizar el dolor y reconstruir el «yo»."},
-        {"id": "2", "label": "Autographics: leer y mirar", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "La imagen portadora de memoria se vincula al trauma: Whitlock (2006) acuñó el término «autographics» y Gilmore (2001) describe una lectura enriquecida donde leer y mirar son actos complementarios y necesarios para comprender. El narrador debe además auto-representarse: convertirse en un personaje dibujado."},
-        {"id": "3", "label": "Repertorio iconográfico", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "El autor entiende por repertorio iconográfico el caudal de imágenes y motivos temático-gráficos de naturaleza simbólica con que las autoras encarnan visualmente el relato, emparentado con el «programa iconográfico» del arte. Exige una actitud colaborativa del lector, que asigna valores más allá de la función referencial."},
-        {"id": "4", "label": "Hipótesis: koiné frente a idiolecto", "color": "#264653", "role": "Marco teórico", "descripcion": "Primera hipótesis: la diferencia esencial entre ambas obras está en su relación con la tradición iconográfica previa. Emil Ferris usa una koiné gráfica enraizada en las convenciones del cine y el cómic de terror; Una crea un código nuevo de imágenes simbólicas válido solo para ese contexto: un idiolecto gráfico."},
-        {"id": "5", "label": "Discurso hipercodificado del cómic", "color": "#2a9d8f", "role": "Objetivo", "descripcion": "El objetivo es indagar en la idea de discurso hipercodificado que encarna el cómic mediante la lectura a pie de texto de dos obras prácticamente contemporáneas, lo que permite una lectura cruzada de las estrategias para dar voz a algo que había sido silenciado."},
-        {"id": "6", "label": "Corpus: Ferris (2017) y Una (2015)", "color": "#264653", "role": "Método", "descripcion": "Lo que más me gusta son los monstruos (Emil Ferris, 2017) y Una entre muchas (Una, 2015) comparten protagonista adolescente que debe contar un hecho traumático, con implicación familiar y anclaje en hechos históricos: la muerte de Martin Luther King (abril de 1968) y los asesinatos del destripador de Yorkshire (iniciados en julio de 1975)."},
-        {"id": "7", "label": "Lectura paralela de imágenes simbólicas", "color": "#264653", "role": "Método", "descripcion": "La lectura paralela examina los repertorios iconográficos y problematiza la narración gráfica: la imagen deja de ser mero sustento de la acción para convertirse en recipiente visual de un pensamiento y una emoción, y el lector ha de construir una gramática ex professo."},
-        {"id": "8", "label": "Koiné gráfica del monstruo", "color": "#f4a261", "role": "Resultados", "descripcion": "Ferris toma prestada la imaginería pulp, del cómic de terror y de la Universal: Karen se auto-representa como hombre lobo siguiendo a Larry Talbot, y su «conciencia-monstruo» expresa la exclusión y la automarginación ligada a su lesbianismo, funcionando como retórica para contarse y como coraza frente a la hostilidad del otro."},
-        {"id": "9", "label": "Portadas apócrifas de cómics de terror", "color": "#f4d068", "role": "Resultados", "descripcion": "El relato está trufado de portadas falsas de revistas que remedan el cómic de terror: construyen un calendario entre enero y mayo del 68, constituyen un relato en segundo grado y operan como shifters gráficos que alternan los niveles narrativos entre el pasado de Anka —contado en casetes a un periodista desde la Alemania nazi— y el presente de Karen."},
-        {"id": "10", "label": "Cuadros como pistas del secreto", "color": "#88b04b", "role": "Resultados", "descripcion": "La pintura aporta un lenguaje en clave: en San Jorge matando al Dragón de Bernat Martorell, Karen ve las facetas de su hermano Deeze —princesa artista, caballero protector, dragón violento de su trastorno bipolar—; en La tentación de Magdalena de Jacob Jordaens indaga la muerte de su vecina Anka. Los cuadros actúan como los sueños en Freud: son sublimación visual del trauma y función represiva frente a la función expresiva del pulp."},
-        {"id": "11", "label": "Paisaje esquemático como estado de ánimo", "color": "#f4a261", "role": "Resultados", "descripcion": "En Una entre muchas, la montaña y los árboles aparecen primero descontextualizados, con grafismo primigenio de dibujo infantil; luego se anclan cuando Una sube la montaña con un fardo —un bocadillo sin palabras— tras recordar la violación sufrida de niña: de lo hermético a lo simbólico y de ahí a lo narrativo, como leitmotiv emparentado con el trenzado de Groensteen (2011)."},
-        {"id": "12", "label": "Árbol solitario de Yorkshire", "color": "#c73e1d", "role": "Resultados", "descripcion": "Un árbol solitario sobre paisaje yermo, de realización más realista, acompaña las agresiones del destripador de Yorkshire, como la de una niña de 14 años que la policía no tomaba en serio. El paisaje esquemático (relato sentido, emocional) se opone al realista (relato periodístico avalado por recortes de prensa y bibliografía): «La perspectiva es una cosa maravillosa»."},
-        {"id": "13", "label": "Muñeca recortable y avatar con alas", "color": "#e76f51", "role": "Resultados", "descripcion": "Una se representa como muñeca de papel recortable cuya vestimenta cambia el otro para su diversión —eco de «Sería mucho más fácil si la próxima vez llevaras una falda»—; desmonta su avatar en pelo, cara, vestido y extremidades como metáfora de un yo fragmentado, y se recompone por metamorfosis: una larva que deviene insecto volador con alas que no acaban de funcionar."},
-        {"id": "14", "label": "Régimen simbólico de la imagen", "color": "#5b9eaa", "role": "Discusión", "descripcion": "Los repertorios generan coherencia gráfica y semántica mediante la repetición de elementos que se descontextualizan y siembran extrañeza, advirtiendo del alto potencial simbólico de cada imagen. La codificación culmina en imágenes aglutinadas de gran carga semántica, como el avatar con las alas encogidas cruzando el paisaje del dolor, decodable como un corte geológico."},
-        {"id": "15", "label": "Metáfora compartida: el globo como carga", "color": "#2a5a75", "role": "Conclusiones", "descripcion": "Ambas autoras superan la referencialidad realista de la tradición del cómic y tejen un reticulado de imágenes por necesidad expresiva: Ferris apropiándose de las tradiciones pulp y artística, Una creando una gramática propia con infografias del reportaje. Comparten la imagen de llevar un globo de texto a cuestas: en Karen, los insultos de sus compañeros; en Una, un globo mudo."}
+        {
+          "id": "1",
+          "label": "La novela gráfica y el relato traumático",
+          "color": "#9b82c3",
+          "role": "Marco teórico",
+          "descripcion": "Bajo el concepto de novela gráfica el cómic se liberó de fórmulas genéricas y formatos industriales para afrontar experiencias dolorosas: Eisner disfrazó de ficción la pérdida de su hija en Contrato con Dios y Spiegelman hizo del exterminio nazi el núcleo de Maus; Persepolis y La ascensión del gran mal también se afanan por metabolizar el dolor y reconstruir el «yo»."
+        },
+        {
+          "id": "2",
+          "label": "Autographics: leer y mirar",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "La imagen portadora de memoria se vincula al trauma: Whitlock (2006) acuñó el término «autographics» y Gilmore (2001) describe una lectura enriquecida donde leer y mirar son actos complementarios y necesarios para comprender. El narrador debe además auto-representarse: convertirse en un personaje dibujado."
+        },
+        {
+          "id": "3",
+          "label": "Repertorio iconográfico",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "El autor entiende por repertorio iconográfico el caudal de imágenes y motivos temático-gráficos de naturaleza simbólica con que las autoras encarnan visualmente el relato, emparentado con el «programa iconográfico» del arte. Exige una actitud colaborativa del lector, que asigna valores más allá de la función referencial."
+        },
+        {
+          "id": "4",
+          "label": "Hipótesis: koiné frente a idiolecto",
+          "color": "#264653",
+          "role": "Marco teórico",
+          "descripcion": "Primera hipótesis: la diferencia esencial entre ambas obras está en su relación con la tradición iconográfica previa. Emil Ferris usa una koiné gráfica enraizada en las convenciones del cine y el cómic de terror; Una crea un código nuevo de imágenes simbólicas válido solo para ese contexto: un idiolecto gráfico."
+        },
+        {
+          "id": "5",
+          "label": "Discurso hipercodificado del cómic",
+          "color": "#2a9d8f",
+          "role": "Objetivo",
+          "descripcion": "El objetivo es indagar en la idea de discurso hipercodificado que encarna el cómic mediante la lectura a pie de texto de dos obras prácticamente contemporáneas, lo que permite una lectura cruzada de las estrategias para dar voz a algo que había sido silenciado."
+        },
+        {
+          "id": "6",
+          "label": "Corpus: Ferris (2017) y Una (2015)",
+          "color": "#264653",
+          "role": "Método",
+          "descripcion": "Lo que más me gusta son los monstruos (Emil Ferris, 2017) y Una entre muchas (Una, 2015) comparten protagonista adolescente que debe contar un hecho traumático, con implicación familiar y anclaje en hechos históricos: la muerte de Martin Luther King (abril de 1968) y los asesinatos del destripador de Yorkshire (iniciados en julio de 1975)."
+        },
+        {
+          "id": "7",
+          "label": "Lectura paralela de imágenes simbólicas",
+          "color": "#264653",
+          "role": "Método",
+          "descripcion": "La lectura paralela examina los repertorios iconográficos y problematiza la narración gráfica: la imagen deja de ser mero sustento de la acción para convertirse en recipiente visual de un pensamiento y una emoción, y el lector ha de construir una gramática ex professo."
+        },
+        {
+          "id": "8",
+          "label": "Koiné gráfica del monstruo",
+          "color": "#f4a261",
+          "role": "Resultados",
+          "descripcion": "Ferris toma prestada la imaginería pulp, del cómic de terror y de la Universal: Karen se auto-representa como hombre lobo siguiendo a Larry Talbot, y su «conciencia-monstruo» expresa la exclusión y la automarginación ligada a su lesbianismo, funcionando como retórica para contarse y como coraza frente a la hostilidad del otro."
+        },
+        {
+          "id": "9",
+          "label": "Portadas apócrifas de cómics de terror",
+          "color": "#f4d068",
+          "role": "Resultados",
+          "descripcion": "El relato está trufado de portadas falsas de revistas que remedan el cómic de terror: construyen un calendario entre enero y mayo del 68, constituyen un relato en segundo grado y operan como shifters gráficos que alternan los niveles narrativos entre el pasado de Anka —contado en casetes a un periodista desde la Alemania nazi— y el presente de Karen."
+        },
+        {
+          "id": "10",
+          "label": "Cuadros como pistas del secreto",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "La pintura aporta un lenguaje en clave: en San Jorge matando al Dragón de Bernat Martorell, Karen ve las facetas de su hermano Deeze —princesa artista, caballero protector, dragón violento de su trastorno bipolar—; en La tentación de Magdalena de Jacob Jordaens indaga la muerte de su vecina Anka. Los cuadros actúan como los sueños en Freud: son sublimación visual del trauma y función represiva frente a la función expresiva del pulp."
+        },
+        {
+          "id": "11",
+          "label": "Paisaje esquemático como estado de ánimo",
+          "color": "#f4a261",
+          "role": "Resultados",
+          "descripcion": "En Una entre muchas, la montaña y los árboles aparecen primero descontextualizados, con grafismo primigenio de dibujo infantil; luego se anclan cuando Una sube la montaña con un fardo —un bocadillo sin palabras— tras recordar la violación sufrida de niña: de lo hermético a lo simbólico y de ahí a lo narrativo, como leitmotiv emparentado con el trenzado de Groensteen (2011)."
+        },
+        {
+          "id": "12",
+          "label": "Árbol solitario de Yorkshire",
+          "color": "#c73e1d",
+          "role": "Resultados",
+          "descripcion": "Un árbol solitario sobre paisaje yermo, de realización más realista, acompaña las agresiones del destripador de Yorkshire, como la de una niña de 14 años que la policía no tomaba en serio. El paisaje esquemático (relato sentido, emocional) se opone al realista (relato periodístico avalado por recortes de prensa y bibliografía): «La perspectiva es una cosa maravillosa»."
+        },
+        {
+          "id": "13",
+          "label": "Muñeca recortable y avatar con alas",
+          "color": "#e76f51",
+          "role": "Resultados",
+          "descripcion": "Una se representa como muñeca de papel recortable cuya vestimenta cambia el otro para su diversión —eco de «Sería mucho más fácil si la próxima vez llevaras una falda»—; desmonta su avatar en pelo, cara, vestido y extremidades como metáfora de un yo fragmentado, y se recompone por metamorfosis: una larva que deviene insecto volador con alas que no acaban de funcionar."
+        },
+        {
+          "id": "14",
+          "label": "Régimen simbólico de la imagen",
+          "color": "#5b9eaa",
+          "role": "Discusión",
+          "descripcion": "Los repertorios generan coherencia gráfica y semántica mediante la repetición de elementos que se descontextualizan y siembran extrañeza, advirtiendo del alto potencial simbólico de cada imagen. La codificación culmina en imágenes aglutinadas de gran carga semántica, como el avatar con las alas encogidas cruzando el paisaje del dolor, decodable como un corte geológico."
+        },
+        {
+          "id": "15",
+          "label": "Metáfora compartida: el globo como carga",
+          "color": "#2a5a75",
+          "role": "Conclusiones",
+          "descripcion": "Ambas autoras superan la referencialidad realista de la tradición del cómic y tejen un reticulado de imágenes por necesidad expresiva: Ferris apropiándose de las tradiciones pulp y artística, Una creando una gramática propia con infografias del reportaje. Comparten la imagen de llevar un globo de texto a cuestas: en Karen, los insultos de sus compañeros; en Una, un globo mudo."
+        }
       ],
       "aristas": [
-        {"from": "1", "to": "2", "label": "dialoga con la teoría de las"},
-        {"from": "2", "to": "3", "label": "converge en el concepto de"},
-        {"from": "3", "to": "4", "label": "sustenta la"},
-        {"from": "5", "to": "3", "label": "analiza el"},
-        {"from": "5", "to": "4", "label": "pone a prueba la"},
-        {"from": "5", "to": "6", "label": "delimita su objeto en el"},
-        {"from": "5", "to": "7", "label": "se ejecuta mediante la"},
-        {"from": "4", "to": "8", "label": "se verifica en la"},
-        {"from": "4", "to": "11", "label": "contrasta con el"},
-        {"from": "6", "to": "8", "label": "ancla temporalmente la"},
-        {"from": "6", "to": "12", "label": "ancla temporalmente el"},
-        {"from": "7", "to": "10", "label": "revela los"},
-        {"from": "8", "to": "9", "label": "se puebla de"},
-        {"from": "8", "to": "10", "label": "se complementa con los"},
-        {"from": "2", "to": "13", "label": "su exigencia de auto-representarse deviene la"},
-        {"from": "11", "to": "12", "label": "dialoga en contraste con el"},
-        {"from": "10", "to": "14", "label": "devienen ejemplo del"},
-        {"from": "11", "to": "14", "label": "consolida el"},
-        {"from": "12", "to": "14", "label": "refuerza el"},
-        {"from": "14", "to": "15", "label": "desemboca en la"}
+        {
+          "from": "1",
+          "to": "2",
+          "label": "dialoga con la teoría de las"
+        },
+        {
+          "from": "2",
+          "to": "3",
+          "label": "converge en el concepto de"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "sustenta la"
+        },
+        {
+          "from": "5",
+          "to": "3",
+          "label": "analiza el"
+        },
+        {
+          "from": "5",
+          "to": "4",
+          "label": "pone a prueba la"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "delimita su objeto en el"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "se ejecuta mediante la"
+        },
+        {
+          "from": "4",
+          "to": "8",
+          "label": "se verifica en la"
+        },
+        {
+          "from": "4",
+          "to": "11",
+          "label": "contrasta con el"
+        },
+        {
+          "from": "6",
+          "to": "8",
+          "label": "ancla temporalmente la"
+        },
+        {
+          "from": "6",
+          "to": "12",
+          "label": "ancla temporalmente el"
+        },
+        {
+          "from": "7",
+          "to": "10",
+          "label": "revela los"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "se puebla de"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "se complementa con los"
+        },
+        {
+          "from": "2",
+          "to": "13",
+          "label": "su exigencia de auto-representarse deviene la"
+        },
+        {
+          "from": "11",
+          "to": "12",
+          "label": "dialoga en contraste con el"
+        },
+        {
+          "from": "10",
+          "to": "14",
+          "label": "devienen ejemplo del"
+        },
+        {
+          "from": "11",
+          "to": "14",
+          "label": "consolida el"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "refuerza el"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "desemboca en la"
+        }
       ]
     }
   }

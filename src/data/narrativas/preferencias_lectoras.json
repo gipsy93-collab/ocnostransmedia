@@ -12,7 +12,7 @@
     "color": "#e07a5f",
     "colorAlt": "#3d405b",
     "bg": "from-orange-300/20 to-stone-600/20",
-    "image": "https://picsum.photos/seed/preferencias_lectoras/800/600"
+    "image": "/assets/portadas/clasicos_lij_maestros.jpg"
   },
   "blocks": {
     "apertura": {
@@ -169,8 +169,7 @@
     },
     "revelacion": {
       "titulo": "Lo que los datos revelaron: niñas diversas, públicos aventajados y el papel que resiste",
-      "narrativa": "Los resultados dibujan un panorama con claroscuros. Primer hallazgo: la lectura recreativa gusta más que la prescrita —3,58 frente a 3,24 de media general—, pero la brecha de género es contundente: las niñas puntúan 3,88 en lectura por placer frente al 3,26 de los niños (p<.001). En lectura prescrita no hay diferencias por sexo, lo que contradice estudios previos donde los varones la rechazaban más. Segundo hallazgo: los centros públicos superan a los privados en actitudes lectoras. Disfrutan más de las lecturas propuestas por el profesorado (3,37 vs 2,78, p<.001) y puntúan más alto en poesía, cómics, humor y problemas cotidianos. Esto invierte la tendencia internacional que favorecía a los privados. Tercer hallazgo: en géneros, las niñas prefieren narrativa (3,86 vs 3,31), teatro (3,29 vs 2,57) y prensa (2,91 vs 2,49); los niños lideran en cómics (4,05 vs 3,05). Cuarto: en temáticas, la aventura reina con 4,31 de media, seguida del humor (4,26). Las niñas diversifican más: fantasía (4,04 vs 3,47), amor (3,02 vs 1,84) y familia (3,49 vs 2,76). Los niños se concentran en deportes (3,42 vs 2,78). Quinto: el papel sigue siendo el soporte más usado (40% de las respuestas), sin diferencias significativas por sexo ni centro. Sexto: el castellano domina abrumadoramente (4,64 de media) frente al gallego (2,75); solo 9 participantes son gallegohablantes. Y séptimo: la dimensión de soportes es la única que no correlaciona significativamente con las demás."
-,
+      "narrativa": "Los resultados dibujan un panorama con claroscuros. Primer hallazgo: la lectura recreativa gusta más que la prescrita —3,58 frente a 3,24 de media general—, pero la brecha de género es contundente: las niñas puntúan 3,88 en lectura por placer frente al 3,26 de los niños (p<.001). En lectura prescrita no hay diferencias por sexo, lo que contradice estudios previos donde los varones la rechazaban más. Segundo hallazgo: los centros públicos superan a los privados en actitudes lectoras. Disfrutan más de las lecturas propuestas por el profesorado (3,37 vs 2,78, p<.001) y puntúan más alto en poesía, cómics, humor y problemas cotidianos. Esto invierte la tendencia internacional que favorecía a los privados. Tercer hallazgo: en géneros, las niñas prefieren narrativa (3,86 vs 3,31), teatro (3,29 vs 2,57) y prensa (2,91 vs 2,49); los niños lideran en cómics (4,05 vs 3,05). Cuarto: en temáticas, la aventura reina con 4,31 de media, seguida del humor (4,26). Las niñas diversifican más: fantasía (4,04 vs 3,47), amor (3,02 vs 1,84) y familia (3,49 vs 2,76). Los niños se concentran en deportes (3,42 vs 2,78). Quinto: el papel sigue siendo el soporte más usado (40% de las respuestas), sin diferencias significativas por sexo ni centro. Sexto: el castellano domina abrumadoramente (4,64 de media) frente al gallego (2,75); solo 9 participantes son gallegohablantes. Y séptimo: la dimensión de soportes es la única que no correlaciona significativamente con las demás.",
       "hallazgos": [
         {
           "label": "Actitudes hacia la lectura",
@@ -348,44 +347,220 @@
     "titulo": "Mapa conceptual: preferencias lectoras según sexo y titularidad del centro (Ocnos 22(2) 2023)",
     "descripcion": "El estudio cuantitativo de Agrelo-Costas et al. aplica un cuestionario Likert de 26 ítems a 416 estudiantes de 6.º de Primaria de Pontevedra para identificar actitudes y preferencias lectoras por géneros, temáticas, soportes y lengua según el sexo y la titularidad del centro. Los resultados favorecen a las niñas y a los centros públicos, contradicen parte de la literatura internacional y conducen a conclusiones de mediación lectora, con limitaciones de generalización.",
     "nodos": [
-      { "id": "1", "label": "Competencia lectora y educación literaria", "color": "#264653", "role": "Marco teórico", "descripcion": "Ser lector competente implica controlar la comprensión y adaptarse a las finalidades lectoras (Lluch y Zayas, 2015); la educación literaria desarrolla la competencia literaria con sus subcompetencias y actitudes (Cerrillo, 2007; Dueñas, 2013). El hábito lector, alimentado por la voluntariedad (Moreno, 2005), aumenta la fluencia comunicativa, las capacidades cognitivas y la imaginación (Ruiz et al., 2022)." },
-      { "id": "2", "label": "Menos lectura al llegar la adolescencia", "color": "#c73e1d", "role": "Marco teórico", "descripcion": "Ser adolescente conlleva una reducción progresiva de la lectura (Neira, 2015, 2016; Jaraíz et al., 2022), sobre todo en los chicos (Muñoz y Hernández, 2011), que la perciben como herramienta informativa más que de ocio (Schwartz, 2002) y parten de una competencia lectora más baja (Scheiber et al., 2015) y menor motivación (Jarre, 2008)." },
-      { "id": "3", "label": "Mediación docente limitada al 15.38%", "color": "#e76f51", "role": "Marco teórico", "descripcion": "La influencia docente sobre la lectura de los estudiantes alcanza solo el 15.38% porque el entorno es el verdadero mediador (Asociación Amigos del Libro, 2018; Cid, 2014) y la familia se reduce al 13%, aunque su implicación mejora actitudes y competencias (Jiménez-Pérez et al., 2020). La escuela debe escuchar a su alumnado para formar lectores competentes (Jover, 2008)." },
-      { "id": "4", "label": "Identificar actitudes y preferencias lectoras", "color": "#2a5a75", "role": "Objetivo", "descripcion": "Objetivo general: determinar las actitudes hacia la lectura y las preferencias lectoras del alumnado de 6.º de Primaria según dos variables, sexo y titularidad del centro. Se especifica en la actitud lúdica frente a la regulada y en las preferencias de géneros, temáticas, soportes y lengua frecuente." },
-      { "id": "5", "label": "416 estudiantes de 9 centros", "color": "#5b9eaa", "role": "Método", "descripcion": "Muestra incidental y no probabilística de 416 alumnos de 6.º (198 niños, 47.6%; 218 niñas, 52.4%) de 9 centros de Pontevedra: 6 públicos (326) y 3 privados (90), de los 25 solicitados en el ayuntamiento, donde se escolarizaban 925 alumnos; dos centros privados concertados renunciaron." },
-      { "id": "6", "label": "Cuestionario Likert de 26 ítems", "color": "#2a9d8f", "role": "Método", "descripcion": "Cuestionario propio elaborado según Artola et al. (2013, 2017) y Neira (2015, 2016): datos de identificación y 26 ítems con escala Likert de cinco opciones (1 Nada a 5 Mucho) en cinco dominios: actitudes, géneros, temáticas, nuevos soportes y lengua frecuente. Validado por expertos, con consentimiento informado y protocolo de Helsinki; 20 minutos de cumplimentación." },
-      { "id": "7", "label": "Diseño cuantitativo descriptivo no experimental", "color": "#5b9eaa", "role": "Método", "descripcion": "Método descriptivo no experimental (McMillan y Schumacher, 2005) informatizado en IBM SPSS Statistics 25: fiabilidad con Cronbach α=.824 —cercana al .86 de Artola et al. (2017)—, medias y desviaciones típicas, U de Mann-Whitney, exacta de Fisher y correlación de Pearson, con significación p<.05." },
-      { "id": "8", "label": "Actitudes favorecen a niñas y públicos", "color": "#88b04b", "role": "Resultados", "descripcion": "La actitud es aceptable y más alta en la lectura voluntaria: 3.88 en niñas frente a 3.26 en niños (p<.001), sin diferencias por sexo en la lectura prescrita por el profesorado (3.33 vs 3.13, p=.308). Por titularidad, el alumnado de centros públicos disfruta más de los libros indicados (3.37 vs 2.78, p<.001)." },
-      { "id": "9", "label": "La narrativa y el cómic dominan", "color": "#2a9d8f", "role": "Resultados", "descripcion": "Según la clasificación de Lluch (2010), se prefieren narrativa (3.60), cómic (3.52) y libro-álbum (3.11) frente a teatro, poesía y prensa. Las niñas puntúan más alto narrativa (3.86), teatro y prensa; los niños el cómic (4.05 vs 3.05, p<.001); los públicos la poesía (p=.049) y el cómic (p<.001)." },
-      { "id": "10", "label": "Aventura, humor, misterio y fantasía", "color": "#f4d068", "role": "Resultados", "descripcion": "Encabezan la preferencia temática la aventura y acción (4.31), el humor (4.26), el misterio y terror (3.93) y la fantasía (3.77). Las niñas destacan en fantasía, amor, familia, policíaca y misterio —indicio de acercamiento a temáticas consideradas masculinas—; los niños en deporte (3.42, p<.001); los públicos en humor y problemas cotidianos y los privados en historias policíacas." },
-      { "id": "11", "label": "El papel sigue siendo preferido", "color": "#e76f51", "role": "Resultados", "descripcion": "Casi la mitad lee en papel (167 respuestas), seguido de tableta (115), ordenador (66), móvil (54) y libro electrónico (14), sin diferencias significativas por sexo (p=.314) ni titularidad (p=.293). La discusión lo atribuye a una enseñanza anclada en dinámicas y recursos tradicionales que evitan formar en nuevas literacias." },
-      { "id": "12", "label": "Leer en castellano, no en gallego", "color": "#c73e1d", "role": "Resultados", "descripcion": "Predomina la lectura en castellano (4.64) sobre el gallego (2.75); solo 9 participantes son gallegohablantes, todos de centros públicos, que leen más en gallego (2.93 vs 2.11, p<.001). Pesa el contexto urbano, la competencia bilingüe desfavorable (Loredo y Silva, 2020) y la limitada formación y materiales docentes en gallego (Mosquera, 2015)." },
-      { "id": "13", "label": "Dimensiones correlacionan salvo el soporte", "color": "#88b04b", "role": "Resultados", "descripcion": "La correlación de Pearson muestra las cinco dimensiones significativamente relacionadas entre sí, salvo el soporte (dimensión 4): actitudes-géneros r=.453; actitudes-temáticas .483; actitudes-lengua .520. Los hábitos lectores se componen de elementos íntimamente ligados que no dependen del canal de lectura." },
-      { "id": "14", "label": "Públicos contradicen estudios internacionales", "color": "#264653", "role": "Discusión", "descripcion": "Los mejores resultados públicos contrastan con Dronkers y Robert (2007), que favorecían a los privados, y coinciden con Ferreiro (2017) en Galicia y Jaraíz et al. (2022) en Cáceres. Se explican por la implicación en el Plan LIA de bibliotecas escolares de la Xunta, un entorno cultural dinámico con la Feria del Libro Infantil y Juvenil de Pontevedra y condiciones socioeconómicas del contexto." },
-      { "id": "15", "label": "La escuela debe escuchar a sus lectores", "color": "#2a9d8f", "role": "Conclusiones", "descripcion": "Con 20 resultados significativos en 26 ítems, se exige revisar prácticas lectoras: ajustar métodos y materiales a los intereses del alumnado (Lomas y Mata, 2007), partir de un sondeo docente inicial, aprovechar la recomendación entre iguales (Margallo y Mata, 2015), diseñar programas de educación literaria y planificar el equilibrio lector entre las dos lenguas (Castillo y Santos, 2022)." },
-      { "id": "16", "label": "Muestra local no extrapolable", "color": "#f4d068", "role": "Limitaciones", "descripcion": "Entre las limitaciones reconocidas, hacen falta estudios más detallados por sexo y por titularidad (público, concertado, privado); el tamaño de la muestra dependió de la disponibilidad escolar y, al limitarse al ámbito de Pontevedra, no permite extrapolar los resultados a todo el alumnado gallego de 6.º. Se aconseja ampliar el estudio de soportes, lenguas y evaluación de las acciones de fomento." }
+      {
+        "id": "1",
+        "label": "Competencia lectora y educación literaria",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Ser lector competente implica controlar la comprensión y adaptarse a las finalidades lectoras (Lluch y Zayas, 2015); la educación literaria desarrolla la competencia literaria con sus subcompetencias y actitudes (Cerrillo, 2007; Dueñas, 2013). El hábito lector, alimentado por la voluntariedad (Moreno, 2005), aumenta la fluencia comunicativa, las capacidades cognitivas y la imaginación (Ruiz et al., 2022)."
+      },
+      {
+        "id": "2",
+        "label": "Menos lectura al llegar la adolescencia",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Ser adolescente conlleva una reducción progresiva de la lectura (Neira, 2015, 2016; Jaraíz et al., 2022), sobre todo en los chicos (Muñoz y Hernández, 2011), que la perciben como herramienta informativa más que de ocio (Schwartz, 2002) y parten de una competencia lectora más baja (Scheiber et al., 2015) y menor motivación (Jarre, 2008)."
+      },
+      {
+        "id": "3",
+        "label": "Mediación docente limitada al 15.38%",
+        "color": "#e76f51",
+        "role": "Marco teórico",
+        "descripcion": "La influencia docente sobre la lectura de los estudiantes alcanza solo el 15.38% porque el entorno es el verdadero mediador (Asociación Amigos del Libro, 2018; Cid, 2014) y la familia se reduce al 13%, aunque su implicación mejora actitudes y competencias (Jiménez-Pérez et al., 2020). La escuela debe escuchar a su alumnado para formar lectores competentes (Jover, 2008)."
+      },
+      {
+        "id": "4",
+        "label": "Identificar actitudes y preferencias lectoras",
+        "color": "#2a5a75",
+        "role": "Objetivo",
+        "descripcion": "Objetivo general: determinar las actitudes hacia la lectura y las preferencias lectoras del alumnado de 6.º de Primaria según dos variables, sexo y titularidad del centro. Se especifica en la actitud lúdica frente a la regulada y en las preferencias de géneros, temáticas, soportes y lengua frecuente."
+      },
+      {
+        "id": "5",
+        "label": "416 estudiantes de 9 centros",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Muestra incidental y no probabilística de 416 alumnos de 6.º (198 niños, 47.6%; 218 niñas, 52.4%) de 9 centros de Pontevedra: 6 públicos (326) y 3 privados (90), de los 25 solicitados en el ayuntamiento, donde se escolarizaban 925 alumnos; dos centros privados concertados renunciaron."
+      },
+      {
+        "id": "6",
+        "label": "Cuestionario Likert de 26 ítems",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Cuestionario propio elaborado según Artola et al. (2013, 2017) y Neira (2015, 2016): datos de identificación y 26 ítems con escala Likert de cinco opciones (1 Nada a 5 Mucho) en cinco dominios: actitudes, géneros, temáticas, nuevos soportes y lengua frecuente. Validado por expertos, con consentimiento informado y protocolo de Helsinki; 20 minutos de cumplimentación."
+      },
+      {
+        "id": "7",
+        "label": "Diseño cuantitativo descriptivo no experimental",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Método descriptivo no experimental (McMillan y Schumacher, 2005) informatizado en IBM SPSS Statistics 25: fiabilidad con Cronbach α=.824 —cercana al .86 de Artola et al. (2017)—, medias y desviaciones típicas, U de Mann-Whitney, exacta de Fisher y correlación de Pearson, con significación p<.05."
+      },
+      {
+        "id": "8",
+        "label": "Actitudes favorecen a niñas y públicos",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "La actitud es aceptable y más alta en la lectura voluntaria: 3.88 en niñas frente a 3.26 en niños (p<.001), sin diferencias por sexo en la lectura prescrita por el profesorado (3.33 vs 3.13, p=.308). Por titularidad, el alumnado de centros públicos disfruta más de los libros indicados (3.37 vs 2.78, p<.001)."
+      },
+      {
+        "id": "9",
+        "label": "La narrativa y el cómic dominan",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Según la clasificación de Lluch (2010), se prefieren narrativa (3.60), cómic (3.52) y libro-álbum (3.11) frente a teatro, poesía y prensa. Las niñas puntúan más alto narrativa (3.86), teatro y prensa; los niños el cómic (4.05 vs 3.05, p<.001); los públicos la poesía (p=.049) y el cómic (p<.001)."
+      },
+      {
+        "id": "10",
+        "label": "Aventura, humor, misterio y fantasía",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Encabezan la preferencia temática la aventura y acción (4.31), el humor (4.26), el misterio y terror (3.93) y la fantasía (3.77). Las niñas destacan en fantasía, amor, familia, policíaca y misterio —indicio de acercamiento a temáticas consideradas masculinas—; los niños en deporte (3.42, p<.001); los públicos en humor y problemas cotidianos y los privados en historias policíacas."
+      },
+      {
+        "id": "11",
+        "label": "El papel sigue siendo preferido",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Casi la mitad lee en papel (167 respuestas), seguido de tableta (115), ordenador (66), móvil (54) y libro electrónico (14), sin diferencias significativas por sexo (p=.314) ni titularidad (p=.293). La discusión lo atribuye a una enseñanza anclada en dinámicas y recursos tradicionales que evitan formar en nuevas literacias."
+      },
+      {
+        "id": "12",
+        "label": "Leer en castellano, no en gallego",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Predomina la lectura en castellano (4.64) sobre el gallego (2.75); solo 9 participantes son gallegohablantes, todos de centros públicos, que leen más en gallego (2.93 vs 2.11, p<.001). Pesa el contexto urbano, la competencia bilingüe desfavorable (Loredo y Silva, 2020) y la limitada formación y materiales docentes en gallego (Mosquera, 2015)."
+      },
+      {
+        "id": "13",
+        "label": "Dimensiones correlacionan salvo el soporte",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "La correlación de Pearson muestra las cinco dimensiones significativamente relacionadas entre sí, salvo el soporte (dimensión 4): actitudes-géneros r=.453; actitudes-temáticas .483; actitudes-lengua .520. Los hábitos lectores se componen de elementos íntimamente ligados que no dependen del canal de lectura."
+      },
+      {
+        "id": "14",
+        "label": "Públicos contradicen estudios internacionales",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "Los mejores resultados públicos contrastan con Dronkers y Robert (2007), que favorecían a los privados, y coinciden con Ferreiro (2017) en Galicia y Jaraíz et al. (2022) en Cáceres. Se explican por la implicación en el Plan LIA de bibliotecas escolares de la Xunta, un entorno cultural dinámico con la Feria del Libro Infantil y Juvenil de Pontevedra y condiciones socioeconómicas del contexto."
+      },
+      {
+        "id": "15",
+        "label": "La escuela debe escuchar a sus lectores",
+        "color": "#2a9d8f",
+        "role": "Conclusiones",
+        "descripcion": "Con 20 resultados significativos en 26 ítems, se exige revisar prácticas lectoras: ajustar métodos y materiales a los intereses del alumnado (Lomas y Mata, 2007), partir de un sondeo docente inicial, aprovechar la recomendación entre iguales (Margallo y Mata, 2015), diseñar programas de educación literaria y planificar el equilibrio lector entre las dos lenguas (Castillo y Santos, 2022)."
+      },
+      {
+        "id": "16",
+        "label": "Muestra local no extrapolable",
+        "color": "#f4d068",
+        "role": "Limitaciones",
+        "descripcion": "Entre las limitaciones reconocidas, hacen falta estudios más detallados por sexo y por titularidad (público, concertado, privado); el tamaño de la muestra dependió de la disponibilidad escolar y, al limitarse al ámbito de Pontevedra, no permite extrapolar los resultados a todo el alumnado gallego de 6.º. Se aconseja ampliar el estudio de soportes, lenguas y evaluación de las acciones de fomento."
+      }
     ],
     "aristas": [
-      { "from": "1", "to": "4", "label": "enmarca el" },
-      { "from": "2", "to": "4", "label": "urge a" },
-      { "from": "4", "to": "5", "label": "se concreta en la" },
-      { "from": "5", "to": "6", "label": "respondieron el" },
-      { "from": "6", "to": "7", "label": "se analiza con el" },
-      { "from": "7", "to": "8", "label": "evidencia las" },
-      { "from": "6", "to": "9", "label": "exploró la" },
-      { "from": "6", "to": "10", "label": "exploró la" },
-      { "from": "6", "to": "11", "label": "exploró la" },
-      { "from": "6", "to": "12", "label": "exploró la" },
-      { "from": "7", "to": "13", "label": "relaciona con Pearson la" },
-      { "from": "8", "to": "14", "label": "motiva la" },
-      { "from": "11", "to": "3", "label": "obedece a la" },
-      { "from": "9", "to": "15", "label": "reclaman la" },
-      { "from": "10", "to": "15", "label": "reclaman la" },
-      { "from": "12", "to": "15", "label": "exige" },
-      { "from": "13", "to": "15", "label": "refuerza la" },
-      { "from": "14", "to": "15", "label": "exige la" },
-      { "from": "15", "to": "16", "label": "se acota por la" },
-      { "from": "5", "to": "16", "label": "sustenta la" }
+      {
+        "from": "1",
+        "to": "4",
+        "label": "enmarca el"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "urge a"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se concreta en la"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "respondieron el"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se analiza con el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "evidencia las"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "exploró la"
+      },
+      {
+        "from": "6",
+        "to": "10",
+        "label": "exploró la"
+      },
+      {
+        "from": "6",
+        "to": "11",
+        "label": "exploró la"
+      },
+      {
+        "from": "6",
+        "to": "12",
+        "label": "exploró la"
+      },
+      {
+        "from": "7",
+        "to": "13",
+        "label": "relaciona con Pearson la"
+      },
+      {
+        "from": "8",
+        "to": "14",
+        "label": "motiva la"
+      },
+      {
+        "from": "11",
+        "to": "3",
+        "label": "obedece a la"
+      },
+      {
+        "from": "9",
+        "to": "15",
+        "label": "reclaman la"
+      },
+      {
+        "from": "10",
+        "to": "15",
+        "label": "reclaman la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "exige"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "refuerza la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "exige la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "se acota por la"
+      },
+      {
+        "from": "5",
+        "to": "16",
+        "label": "sustenta la"
+      }
     ]
   }
 }

@@ -12,7 +12,7 @@
     "color": "#2a5a75",
     "colorAlt": "#88b04b",
     "bg": "from-ocean-base/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-08.png",
+    "image": "/assets/portadas/clasicos_lij_maestros.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-08.png",
       "name": "Dra. Nerea Permach-Martín",
@@ -191,44 +191,218 @@
     "titulo": "Mapa conceptual: Competencia literaria en Primaria vasca y navarra (Ocnos 23(1) 2024)",
     "descripcion": "Recorrido del estudio: del marco de la competencia literaria, el docente mediador y los currículo del modelo D, al diagnóstico mediante cuestionario a 553 docentes de 55 centros, con sus resultados de débil aplicación de criterios expertos, descenso en el tercer ciclo y correlaciones, hasta los retos de sistematización y formación docente.",
     "nodos": [
-      {"id": "1", "label": "Competencia literaria", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Se adquiere contactando con las obras, disfrutándolas, relacionándolas y evaluándolas, hasta que el alumnado aprenda a leer, disfrute y sea capaz de evaluarse a sí mismo (Cerrillo, 2007). Su desarrollo está condicionado por factores lingüísticos, psicológicos, sociales, históricos y culturales y por elementos como la actitud docente, el propósito, el tiempo, las actividades o el corpus (Aguiar e Silva, 1980; Mendoza, 2004; Colomer et al., 2005)."},
-      {"id": "2", "label": "Docente mediador y buen lector", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "El docente genera situaciones de aprendizaje que promueven la comprensión e interpretación del texto literario y debe intervenir con cuidado y valentía (Mata, 2008). Necesita ser buen lector y transmitir el gusto por la lectura (Prado, 2004; Cerrillo, 2007), porque su formación literaria determina en gran medida el resultado; además, muchos reconocen carecer de preparación para detectar las dificultades lectoras (Egaña, 2010)."},
-      {"id": "3", "label": "Criterios expertos y planes lectores", "color": "#88b04b", "role": "Marco teórico", "descripcion": "Colomer (2002) propone cuatro criterios para seleccionar lecturas: calidad literaria, valores educativos, opiniones y gustos del alumnado y recorrido de su aprendizaje literario. Las bibliotecas de aula, de centro y pública son claves para los hábitos lectores (Serna et al., 2017; Arellano-Yaguas et al., 2022), y los planes lectores orientan contenidos, actividades y objetivos (Santiago y Castro, 2006)."},
-      {"id": "4", "label": "Currículo comunicativo del modelo D", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "Los currículos de ambas comunidades priorizan la capacidad comunicativa y los textos funcionales, dejando la educación literaria en nivel secundario sin recogerla explícitamente en los programas: el texto literario se estudia como recurso o soporte de actividades lingüísticas. Con euskera y castellano como vehiculares, se proponen 4 horas semanales en los cinco primeros cursos y 3,5 en sexto."},
-      {"id": "5", "label": "Diagnóstico de la práctica escolar", "color": "#f4d068", "role": "Objetivo", "descripcion": "El objetivo principal es diagnosticar el desarrollo de la competencia literaria en las escuelas de Primaria de la Comunidad Autónoma Vasca y la Comunidad Foral de Navarra con el euskera como lengua vehicular. Tres preguntas indagan la aplicación de los criterios expertos, las diferencias según titularidad, ciclo y territorio, y la incidencia de los aspectos personales del profesorado."},
-      {"id": "6", "label": "Cuestionario ad hoc de 56 ítems", "color": "#264653", "role": "Método", "descripcion": "El instrumento, elaborado tras revisión bibliográfica y aportes de expertos, tiene 5 bloques y 56 ítems; 35 de escala Likert de cinco niveles miden cuatro dimensiones: elementos psicopedagógicos, selección de lecturas, tipos de lectura y evaluación. La prueba Alfa de Cronbach arrojó .801, dentro del rango de fiabilidad apropiada entre .70 y .95 (Barrios y Cosculluela, 2013)."},
-      {"id": "7", "label": "Muestra de 553 docentes en 55 centros", "color": "#2a5a75", "role": "Método", "descripcion": "Investigación cuantitativa, predictiva, no experimental, interpretativa, descriptiva y correlacional. Participaron 553 docentes —75,6% mujeres— de 55 centros de modelo lingüístico D elegidos aleatoriamente: 53,2% de datos de escuelas públicas, 31,1% de centros religiosos y 16,6% de ikastolas, en Navarra, Gipuzkoa, Bizkaia y Araba, cumplimentado por todo el profesorado y no solo por interesados."},
-      {"id": "8", "label": "Análisis estadístico con SPSS 26", "color": "#5b9eaa", "role": "Método", "descripcion": "Se aplicó estadística descriptiva —medias y desviaciones— y analítica con contrastes de hipótesis. Al no mostrar la muestra distribución normal en la prueba de Kolmogorov-Smirnov (p < .05), se usaron la U de Mann-Whitney y la prueba de Kruskal-Wallis para las diferencias, y la correlación de Spearman para las interrelaciones, con nivel de significación de .05."},
-      {"id": "9", "label": "Débil aplicación de los criterios expertos", "color": "#c73e1d", "role": "Resultados", "descripcion": "La opción a veces es la más recurrente en las cuatro dimensiones, síntoma de un trabajo no sistemático y sin criterios comunes. El 78% declara plan de lectura y el 88,25% biblioteca de aula, pero el 60,23% nunca usa la biblioteca del centro y el 40,14% dedica una hora semanal; la mayoría propone entre 0 y 6 libros al año (66,11%) y el alumnado elige los textos sin supervisión docente (62%, 64% y 54% por ciclos)."},
-      {"id": "10", "label": "Sin diferencias por titularidad o territorio", "color": "#e76f51", "role": "Resultados", "descripcion": "Kruskal-Wallis solo halla significación en evaluación (H=11,65; p=.003), con mejor rendimiento parcial de las escuelas religiosas. Por territorios únicamente difieren los elementos psicopedagógicos —Gipuzkoa frente a Bizkaia (p=.001) y Navarra (p=.002), con más tiempo lector y uso de bibliotecas guipuzcoano—. En tres de las cuatro dimensiones ambas comunidades trabajan de forma similar."},
-      {"id": "11", "label": "Descenso literario en el tercer ciclo", "color": "#f4a261", "role": "Resultados", "descripcion": "Existen diferencias significativas entre ciclos en tres dimensiones (p = .000): en el primer ciclo el 58,9% dedica entre hora y media y más de dos horas semanales, mientras en el tercero el 69,4% se queda entre media hora y una. Las lecturas lúdicas caen del 60% al 44%, igual que la lectura en voz alta del docente y la compartida, que el 76% del tercer ciclo solo propone alguna vez."},
-      {"id": "12", "label": "Correlaciones positivas entre dimensiones", "color": "#9b82c3", "role": "Resultados", "descripcion": "Todas las dimensiones correlacionan positiva y significativamente con Spearman: desde .132 entre elementos psicopedagógicos y evaluación hasta .501 entre selección de lecturas y tipos de lectura (p = .000). El análisis cuantifica la intensidad de las relaciones y define patrones de comportamiento que contribuyen a la posibilidad de orientar procesos."},
-      {"id": "13", "label": "Incidencia de hábitos y formación docente", "color": "#e76f51", "role": "Resultados", "descripcion": "El 60,58% del profesorado no ha recibido formación extra y las correlaciones bajan de intensidad cuando el centro carece de plan lector. Quienes otorgan menor importancia a la educación literaria no trabajan igual las dimensiones, y los hábitos lectores —solo el 13,10% lee siempre literatura de gusto— inciden en la práctica, coincidiendo con Munita (2013) y Díaz-Díaz et al. (2022)."},
-      {"id": "14", "label": "Distancia entre teoría y práctica", "color": "#9b82c3", "role": "Discusión", "descripcion": "Las escuelas del modelo D no siguen de forma generalizada las propuestas de los expertos ni comparten criterios: cada docente entiende la educación literaria a su manera. Se le resta importancia al avanzar la etapa una vez adquirida la descodificación, con la lectura literaria casi anecdótica en tercero, en línea con Alonso (2008), Caride et al. (2018) y las alertas de PISA (2018) sobre la comprensión lectora insuficiente en el modelo D (Consejo Escolar de Euskadi, 2022)."},
-      {"id": "15", "label": "Retos: sistematización y formación docente", "color": "#2a5a75", "role": "Conclusiones", "descripcion": "El estudio demuestra empíricamente que la didáctica de la literatura no se trabaja de manera coordinada ni planificada, y no figura entre las prioridades docentes ni curriculares. Los retos: sistematizar la lectura literaria en el contexto escolar, impulsar los planes de lectura, intensificar estrategias cognitivas y metacognitivas, y revisar los currículos de Lengua y Literatura junto con la formación del profesorado."}
+      {
+        "id": "1",
+        "label": "Competencia literaria",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Se adquiere contactando con las obras, disfrutándolas, relacionándolas y evaluándolas, hasta que el alumnado aprenda a leer, disfrute y sea capaz de evaluarse a sí mismo (Cerrillo, 2007). Su desarrollo está condicionado por factores lingüísticos, psicológicos, sociales, históricos y culturales y por elementos como la actitud docente, el propósito, el tiempo, las actividades o el corpus (Aguiar e Silva, 1980; Mendoza, 2004; Colomer et al., 2005)."
+      },
+      {
+        "id": "2",
+        "label": "Docente mediador y buen lector",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "El docente genera situaciones de aprendizaje que promueven la comprensión e interpretación del texto literario y debe intervenir con cuidado y valentía (Mata, 2008). Necesita ser buen lector y transmitir el gusto por la lectura (Prado, 2004; Cerrillo, 2007), porque su formación literaria determina en gran medida el resultado; además, muchos reconocen carecer de preparación para detectar las dificultades lectoras (Egaña, 2010)."
+      },
+      {
+        "id": "3",
+        "label": "Criterios expertos y planes lectores",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Colomer (2002) propone cuatro criterios para seleccionar lecturas: calidad literaria, valores educativos, opiniones y gustos del alumnado y recorrido de su aprendizaje literario. Las bibliotecas de aula, de centro y pública son claves para los hábitos lectores (Serna et al., 2017; Arellano-Yaguas et al., 2022), y los planes lectores orientan contenidos, actividades y objetivos (Santiago y Castro, 2006)."
+      },
+      {
+        "id": "4",
+        "label": "Currículo comunicativo del modelo D",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Los currículos de ambas comunidades priorizan la capacidad comunicativa y los textos funcionales, dejando la educación literaria en nivel secundario sin recogerla explícitamente en los programas: el texto literario se estudia como recurso o soporte de actividades lingüísticas. Con euskera y castellano como vehiculares, se proponen 4 horas semanales en los cinco primeros cursos y 3,5 en sexto."
+      },
+      {
+        "id": "5",
+        "label": "Diagnóstico de la práctica escolar",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "El objetivo principal es diagnosticar el desarrollo de la competencia literaria en las escuelas de Primaria de la Comunidad Autónoma Vasca y la Comunidad Foral de Navarra con el euskera como lengua vehicular. Tres preguntas indagan la aplicación de los criterios expertos, las diferencias según titularidad, ciclo y territorio, y la incidencia de los aspectos personales del profesorado."
+      },
+      {
+        "id": "6",
+        "label": "Cuestionario ad hoc de 56 ítems",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "El instrumento, elaborado tras revisión bibliográfica y aportes de expertos, tiene 5 bloques y 56 ítems; 35 de escala Likert de cinco niveles miden cuatro dimensiones: elementos psicopedagógicos, selección de lecturas, tipos de lectura y evaluación. La prueba Alfa de Cronbach arrojó .801, dentro del rango de fiabilidad apropiada entre .70 y .95 (Barrios y Cosculluela, 2013)."
+      },
+      {
+        "id": "7",
+        "label": "Muestra de 553 docentes en 55 centros",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Investigación cuantitativa, predictiva, no experimental, interpretativa, descriptiva y correlacional. Participaron 553 docentes —75,6% mujeres— de 55 centros de modelo lingüístico D elegidos aleatoriamente: 53,2% de datos de escuelas públicas, 31,1% de centros religiosos y 16,6% de ikastolas, en Navarra, Gipuzkoa, Bizkaia y Araba, cumplimentado por todo el profesorado y no solo por interesados."
+      },
+      {
+        "id": "8",
+        "label": "Análisis estadístico con SPSS 26",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Se aplicó estadística descriptiva —medias y desviaciones— y analítica con contrastes de hipótesis. Al no mostrar la muestra distribución normal en la prueba de Kolmogorov-Smirnov (p < .05), se usaron la U de Mann-Whitney y la prueba de Kruskal-Wallis para las diferencias, y la correlación de Spearman para las interrelaciones, con nivel de significación de .05."
+      },
+      {
+        "id": "9",
+        "label": "Débil aplicación de los criterios expertos",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "La opción a veces es la más recurrente en las cuatro dimensiones, síntoma de un trabajo no sistemático y sin criterios comunes. El 78% declara plan de lectura y el 88,25% biblioteca de aula, pero el 60,23% nunca usa la biblioteca del centro y el 40,14% dedica una hora semanal; la mayoría propone entre 0 y 6 libros al año (66,11%) y el alumnado elige los textos sin supervisión docente (62%, 64% y 54% por ciclos)."
+      },
+      {
+        "id": "10",
+        "label": "Sin diferencias por titularidad o territorio",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Kruskal-Wallis solo halla significación en evaluación (H=11,65; p=.003), con mejor rendimiento parcial de las escuelas religiosas. Por territorios únicamente difieren los elementos psicopedagógicos —Gipuzkoa frente a Bizkaia (p=.001) y Navarra (p=.002), con más tiempo lector y uso de bibliotecas guipuzcoano—. En tres de las cuatro dimensiones ambas comunidades trabajan de forma similar."
+      },
+      {
+        "id": "11",
+        "label": "Descenso literario en el tercer ciclo",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Existen diferencias significativas entre ciclos en tres dimensiones (p = .000): en el primer ciclo el 58,9% dedica entre hora y media y más de dos horas semanales, mientras en el tercero el 69,4% se queda entre media hora y una. Las lecturas lúdicas caen del 60% al 44%, igual que la lectura en voz alta del docente y la compartida, que el 76% del tercer ciclo solo propone alguna vez."
+      },
+      {
+        "id": "12",
+        "label": "Correlaciones positivas entre dimensiones",
+        "color": "#9b82c3",
+        "role": "Resultados",
+        "descripcion": "Todas las dimensiones correlacionan positiva y significativamente con Spearman: desde .132 entre elementos psicopedagógicos y evaluación hasta .501 entre selección de lecturas y tipos de lectura (p = .000). El análisis cuantifica la intensidad de las relaciones y define patrones de comportamiento que contribuyen a la posibilidad de orientar procesos."
+      },
+      {
+        "id": "13",
+        "label": "Incidencia de hábitos y formación docente",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "El 60,58% del profesorado no ha recibido formación extra y las correlaciones bajan de intensidad cuando el centro carece de plan lector. Quienes otorgan menor importancia a la educación literaria no trabajan igual las dimensiones, y los hábitos lectores —solo el 13,10% lee siempre literatura de gusto— inciden en la práctica, coincidiendo con Munita (2013) y Díaz-Díaz et al. (2022)."
+      },
+      {
+        "id": "14",
+        "label": "Distancia entre teoría y práctica",
+        "color": "#9b82c3",
+        "role": "Discusión",
+        "descripcion": "Las escuelas del modelo D no siguen de forma generalizada las propuestas de los expertos ni comparten criterios: cada docente entiende la educación literaria a su manera. Se le resta importancia al avanzar la etapa una vez adquirida la descodificación, con la lectura literaria casi anecdótica en tercero, en línea con Alonso (2008), Caride et al. (2018) y las alertas de PISA (2018) sobre la comprensión lectora insuficiente en el modelo D (Consejo Escolar de Euskadi, 2022)."
+      },
+      {
+        "id": "15",
+        "label": "Retos: sistematización y formación docente",
+        "color": "#2a5a75",
+        "role": "Conclusiones",
+        "descripcion": "El estudio demuestra empíricamente que la didáctica de la literatura no se trabaja de manera coordinada ni planificada, y no figura entre las prioridades docentes ni curriculares. Los retos: sistematizar la lectura literaria en el contexto escolar, impulsar los planes de lectura, intensificar estrategias cognitivas y metacognitivas, y revisar los currículos de Lengua y Literatura junto con la formación del profesorado."
+      }
     ],
     "aristas": [
-      {"from": "1", "to": "5", "label": "es el objeto del"},
-      {"from": "4", "to": "5", "label": "condiciona el"},
-      {"from": "5", "to": "6", "label": "se operativiza mediante el"},
-      {"from": "5", "to": "7", "label": "se recoge en la"},
-      {"from": "6", "to": "8", "label": "se procesó con la"},
-      {"from": "7", "to": "8", "label": "aportó las respuestas a la"},
-      {"from": "8", "to": "9", "label": "reveló la"},
-      {"from": "8", "to": "10", "label": "evidenció la ausencia de"},
-      {"from": "8", "to": "11", "label": "detectó el"},
-      {"from": "8", "to": "12", "label": "cuantificó las"},
-      {"from": "8", "to": "13", "label": "relacionó la práctica con la"},
-      {"from": "4", "to": "9", "label": "explica en parte la"},
-      {"from": "3", "to": "9", "label": "contrasta con la"},
-      {"from": "9", "to": "14", "label": "evidencian la"},
-      {"from": "10", "to": "14", "label": "avalan la"},
-      {"from": "11", "to": "14", "label": "ratifican la"},
-      {"from": "12", "to": "14", "label": "refuerzan la"},
-      {"from": "14", "to": "15", "label": "plantean los"},
-      {"from": "13", "to": "15", "label": "exigen reforzar la"},
-      {"from": "2", "to": "13", "label": "condiciona la"},
-      {"from": "2", "to": "3", "label": "debe aplicar los"}
+      {
+        "from": "1",
+        "to": "5",
+        "label": "es el objeto del"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "condiciona el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se operativiza mediante el"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se recoge en la"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "se procesó con la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "aportó las respuestas a la"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "reveló la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "evidenció la ausencia de"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "detectó el"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "cuantificó las"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "relacionó la práctica con la"
+      },
+      {
+        "from": "4",
+        "to": "9",
+        "label": "explica en parte la"
+      },
+      {
+        "from": "3",
+        "to": "9",
+        "label": "contrasta con la"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "evidencian la"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "avalan la"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "ratifican la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "refuerzan la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "plantean los"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "exigen reforzar la"
+      },
+      {
+        "from": "2",
+        "to": "13",
+        "label": "condiciona la"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "debe aplicar los"
+      }
     ]
   }
 }

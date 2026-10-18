@@ -12,7 +12,7 @@
     "color": "#f4a261",
     "colorAlt": "#264653",
     "bg": "from-amber-400/20 to-slate-800/20",
-    "image": "https://picsum.photos/seed/apadrinamiento/800/600",
+    "image": "/assets/portadas/literatura_infantil_sexual.jpg",
     "tutor": {
       "image": "https://picsum.photos/seed/tutor-apad/200/200",
       "name": "Aida Sanahuja-Ribés",
@@ -112,17 +112,50 @@
       "titulo": "Dos casos, tres aulas, múltiples miradas",
       "narrativa": "Imagina que quieres entender cómo una práctica de aula construye inclusión. No te basta con una encuesta: necesitas estar ahí, ver lo que pasa, hablar con quienes lo viven y revisar lo que producen. Eso es exactamente lo que hizo Aida Sanahuja-Ribés. Se trató de un estudio cualitativo, descriptivo, con método de estudio de casos instrumental (Stake, 2013). La selección de los casos fue por conveniencia e intencional: docentes de Educación Primaria de la provincia de Castellón, con más de cinco cursos académicos practicando apadrinamiento lector, reconocidos por sus pares por prácticas inclusivas. La recogida de datos combinó tres técnicas clásicas de la investigación cualitativa —observación científica con registro en video, entrevistas semiestructuradas con protocolos diferenciados y análisis de documentos— y se trianguló de tres maneras para fortalecer la validez. Luego vino el análisis: contenido deductivo con ATLAS.ti 8, etiquetando cada dato con un código que indicaba su procedencia exacta (caso, participante, técnica, momento), y organizándolo según las nueve categorías de la dimensión C de Themis. El resultado es una radiografía minuciosa de cómo dos comunidades educativas distintas —una con 5.º de Primaria, otra con dos segundos— convirtieron el acto de contar cuentos en un motor de inclusión.",
       "detalles": [
-        { "label": "Enfoque y diseño", "value": "Cualitativo, descriptivo. Estudio de casos instrumental (Stake, 2013)." },
-        { "label": "Caso 1", "value": "Un aula de 5.º de Educación Primaria. 25 estudiantes (11 chicas, 14 chicos). Un estudiante de prácticas del Grado de Maestro/a de Educación Primaria. El docente tutor. Sin participación de familias." },
-        { "label": "Caso 2", "value": "Dos aulas de 2.º de Educación Primaria que trabajan de manera coordinada, concebidas como un solo caso. Aula A: 28 estudiantes (15 niñas, 13 niños). Aula B: 27 estudiantes (16 niñas, 11 niños). Dos docentes tutoras. Un estudiante de prácticas. 8 madres participantes." },
-        { "label": "Beneficiarios indirectos", "value": "Los estudiantes de 5.º leían a una única aula de Educación Infantil (4 años). Los de 2.º leían a las 6 aulas de Educación Infantil del centro." },
-        { "label": "Observación científica", "value": "3 sesiones de aproximadamente 45 minutos cada una, grabadas en video. Se utilizó una parrilla de observación basada en Prud'homme et al. (2013) —evaluando rigor y coherencia, anticipación de la diversidad, prácticas de enseñanza y evaluación, clima de aula y recursos— y la herramienta DCOS (Cassady et al., 2004)." },
-        { "label": "Entrevistas semiestructuradas", "value": "32 entrevistas en total con tres protocolos diferenciados: (1) para docentes —indagando respeto a ritmos de aprendizaje, fomento de responsabilidad del alumnado—, (2) para alumnado —cómo elaboran los cuentos, si cambiarían de pareja—, (3) para madres —cómo preparan los cuentos en casa, cómo valoran la actividad—. En el caso 1: 8 entrevistas al alumnado (2 estudiantes por entrevista). En el caso 2: 14 entrevistas al alumnado (6 del aula A, 8 del aula B), 4 entrevistas a familias (2 madres por entrevista)." },
-        { "label": "Análisis documental", "value": "25 cuentos elaborados por el alumnado, un proyecto de innovación educativa ('¿Qué sentido tiene la lengua? El gusto... por la lengua', 2015), y otros documentos de la práctica." },
-        { "label": "Análisis de datos", "value": "Análisis de contenido deductivo (Miles y Huberman, 1994; Saldaña, 2009) con ATLAS.ti versión 8, usando las categorías de la dimensión C de Themis (Azorín y Ainscow, 2018)." },
-        { "label": "Sistema de códigos", "value": "Cada dato fue etiquetado con: caso (C1, C2.1, C2.2), docente (D), alumnado (A), alumno prácticas (AP), madres (M), entrevista inicial/final (E.I, E.F), observación (O), notas de campo (NC), DCOS y análisis material (AM). Ejemplo: C1_E.F_A1 = Caso 1, entrevista final, alumno 1." },
-        { "label": "Criterios de calidad", "value": "Relevancia subjetiva (Conejero, 2020) y triple triangulación (Jiménez, 2021; Okuda y Gómez-Restrepo, 2005): de tiempo (entrevista inicial y final a docentes), de métodos (observación, entrevista, análisis documental) y de participantes (docentes, alumnado, madres, estudiantes de prácticas)." },
-        { "label": "Ética", "value": "Se solicitaron todas las autorizaciones pertinentes y se firmó consentimiento informado (Sales et al., 2019). La recogida de datos se planificó para interferir lo menos posible en la práctica analizada." }
+        {
+          "label": "Enfoque y diseño",
+          "value": "Cualitativo, descriptivo. Estudio de casos instrumental (Stake, 2013)."
+        },
+        {
+          "label": "Caso 1",
+          "value": "Un aula de 5.º de Educación Primaria. 25 estudiantes (11 chicas, 14 chicos). Un estudiante de prácticas del Grado de Maestro/a de Educación Primaria. El docente tutor. Sin participación de familias."
+        },
+        {
+          "label": "Caso 2",
+          "value": "Dos aulas de 2.º de Educación Primaria que trabajan de manera coordinada, concebidas como un solo caso. Aula A: 28 estudiantes (15 niñas, 13 niños). Aula B: 27 estudiantes (16 niñas, 11 niños). Dos docentes tutoras. Un estudiante de prácticas. 8 madres participantes."
+        },
+        {
+          "label": "Beneficiarios indirectos",
+          "value": "Los estudiantes de 5.º leían a una única aula de Educación Infantil (4 años). Los de 2.º leían a las 6 aulas de Educación Infantil del centro."
+        },
+        {
+          "label": "Observación científica",
+          "value": "3 sesiones de aproximadamente 45 minutos cada una, grabadas en video. Se utilizó una parrilla de observación basada en Prud'homme et al. (2013) —evaluando rigor y coherencia, anticipación de la diversidad, prácticas de enseñanza y evaluación, clima de aula y recursos— y la herramienta DCOS (Cassady et al., 2004)."
+        },
+        {
+          "label": "Entrevistas semiestructuradas",
+          "value": "32 entrevistas en total con tres protocolos diferenciados: (1) para docentes —indagando respeto a ritmos de aprendizaje, fomento de responsabilidad del alumnado—, (2) para alumnado —cómo elaboran los cuentos, si cambiarían de pareja—, (3) para madres —cómo preparan los cuentos en casa, cómo valoran la actividad—. En el caso 1: 8 entrevistas al alumnado (2 estudiantes por entrevista). En el caso 2: 14 entrevistas al alumnado (6 del aula A, 8 del aula B), 4 entrevistas a familias (2 madres por entrevista)."
+        },
+        {
+          "label": "Análisis documental",
+          "value": "25 cuentos elaborados por el alumnado, un proyecto de innovación educativa ('¿Qué sentido tiene la lengua? El gusto... por la lengua', 2015), y otros documentos de la práctica."
+        },
+        {
+          "label": "Análisis de datos",
+          "value": "Análisis de contenido deductivo (Miles y Huberman, 1994; Saldaña, 2009) con ATLAS.ti versión 8, usando las categorías de la dimensión C de Themis (Azorín y Ainscow, 2018)."
+        },
+        {
+          "label": "Sistema de códigos",
+          "value": "Cada dato fue etiquetado con: caso (C1, C2.1, C2.2), docente (D), alumnado (A), alumno prácticas (AP), madres (M), entrevista inicial/final (E.I, E.F), observación (O), notas de campo (NC), DCOS y análisis material (AM). Ejemplo: C1_E.F_A1 = Caso 1, entrevista final, alumno 1."
+        },
+        {
+          "label": "Criterios de calidad",
+          "value": "Relevancia subjetiva (Conejero, 2020) y triple triangulación (Jiménez, 2021; Okuda y Gómez-Restrepo, 2005): de tiempo (entrevista inicial y final a docentes), de métodos (observación, entrevista, análisis documental) y de participantes (docentes, alumnado, madres, estudiantes de prácticas)."
+        },
+        {
+          "label": "Ética",
+          "value": "Se solicitaron todas las autorizaciones pertinentes y se firmó consentimiento informado (Sales et al., 2019). La recogida de datos se planificó para interferir lo menos posible en la práctica analizada."
+        }
       ],
       "limitaciones": [
         "Solo se abordaron dos casos en un mismo contexto geográfico (provincia de Castellón, España). Los resultados no son generalizables estadísticamente sino transferibles por analogía.",
@@ -314,45 +347,225 @@
     "titulo": "Mapa conceptual: apadrinamiento lector y educación inclusiva (Ocnos 22(2) 2023)",
     "descripcion": "Desde el enfoque curricular de la educación inclusiva y el DUA, el artículo analiza dos casos en tres aulas de Castellón mediante observación, entrevistas y documentos para comprender cómo el apadrinamiento lector favorece presencia, participación y progreso de todo el alumnado. El recorrido cierra con la conclusión de que son prácticas locales transferibles, acotadas por limitaciones de alcance.",
     "nodos": [
-      { "id": "1", "label": "Apadrinamiento lector y cuentacuentos", "color": "#f4a261", "role": "Marco teórico", "descripcion": "Estrategia que reúne a estudiantes mayores con los más pequeños para compartir lecturas o breves dramatizaciones. Adopta formas como el apadrinamiento tradicional (Dopazo, 2015; Romero, 2014), el cuentacuentos en Infantil (Pérez, 2016), el Kamishibai (Aldama, 2005; Cid, 2009) y formatos digitales." },
-      { "id": "2", "label": "Educación inclusiva de enfoque curricular", "color": "#264653", "role": "Marco teórico", "descripcion": "Sánchez-Serrano et al. (2021) distinguen cuatro enfoques; el estudio adopta el curricular: prácticas de aula inclusivas con todo el alumnado en el punto de mira (Sanahuja y Benet, 2020). Su meta es garantizar presencia, participación y logro de todos (Ainscow et al., 2006)." },
-      { "id": "3", "label": "DUA y diferenciación de estructuras", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "Las aulas inclusivas diferencian agrupamientos, espacios, tiempos y recursos (Leroux y Paré, 2016; Sanahuja et al., 2020). El profesorado inclusivo aplica metodologías activas (Muntaner et al., 2022) y materializa los principios del Diseño Universal para el Aprendizaje (Alba-Pastor, 2019; Delgado, 2021)." },
-      { "id": "4", "label": "Presencia, participación y progreso de todos", "color": "#2a5a75", "role": "Objetivo", "descripcion": "Objetivo general: comprender cómo el apadrinamiento lector o cuentacuentos favorece la presencia, la participación y el progreso de todos los estudiantes. Para ello se exploran dos casos que implementan esta práctica de manera sistematizada." },
-      { "id": "5", "label": "Estudio de casos instrumental", "color": "#5b9eaa", "role": "Método", "descripcion": "Estudio cualitativo y descriptivo con método de estudio de casos instrumental (Stake, 2013). Selección intencional y por conveniencia: docentes de Primaria de la provincia de Castellón con más de cinco cursos aplicando la práctica y reconocidos por sus pares por sus prácticas inclusivas." },
-      { "id": "6", "label": "Dos casos en tres aulas", "color": "#2a5a75", "role": "Método", "descripcion": "Caso 1: 25 estudiantes de 5.º de Primaria (11 chicas, 14 chicos), un estudiante de prácticas y el docente tutor; leen en un aula de Infantil de 4 años. Caso 2: 28 alumnos en 2.º A y 27 en 2.º B, dos tutoras, un estudiante de prácticas y 8 madres; leen en las seis aulas de Infantil del centro." },
-      { "id": "7", "label": "Observación, entrevistas y documentos", "color": "#5b9eaa", "role": "Método", "descripcion": "Tres observaciones de 45 minutos grabadas en vídeo, con parrilla basada en Prud'homme et al. (2013) y la herramienta DCOS (Cassady et al., 2004). Se realizaron 32 entrevistas semiestructuradas con protocolos para docentes, alumnado y madres, más el análisis de 25 cuentos y un proyecto de innovación educativa." },
-      { "id": "8", "label": "Análisis deductivo con ATLAS.ti y Themis", "color": "#264653", "role": "Método", "descripcion": "El contenido se analizó (Miles y Huberman, 1994; Saldaña, 2009) en ATLAS.ti 8 con las categorías de la dimensión C de Themis (Azorín y Ainscow, 2018) y un código que identifica el origen de cada dato. La validez se sostiene en la relevancia subjetiva (Conejero, 2020) y la triple triangulación." },
-      { "id": "9", "label": "Presencia: celebración de la diversidad", "color": "#88b04b", "role": "Resultados", "descripcion": "El docente diferencia el producto: los cuentos se elaboran en hoja, ordenador, formato libro o 3D, y las parejas negocian los criterios de elección de la historia. La observación DCOS registró variedad de actividades cognitivas: recordar, entender, aplicar y crear." },
-      { "id": "10", "label": "Participación: grupos heterogéneos flexibles", "color": "#2a9d8f", "role": "Resultados", "descripcion": "Las parejas padrino-apadrinado se mantienen todo el curso y crean vínculos fuertes; los espacios (patio, pasillo, aula de Infantil) y el ritmo son flexibles. En 2.º B, pedir que anotaran cuatro compañeros reveló que 'había dos niñas que no las había escogido nadie', lo que permitió intervenir." },
-      { "id": "11", "label": "Logro: progreso y evaluación", "color": "#f4d068", "role": "Resultados", "descripcion": "Tras cada sesión se realiza una autoevaluación grupal cualitativa: qué ha ido bien, qué no y qué mejorar. La estrategia trabaja autoestima, responsabilidad individual, expresión oral y corporal, comprensión lectora y creatividad, con resultados que siempre superan los objetivos iniciales." },
-      { "id": "12", "label": "El caso de D., motivado a leer", "color": "#e76f51", "role": "Resultados", "descripcion": "D., un alumno de 2.º al que según su docente 'no le gusta leer', mostró un interés inesperado al ir a leer a sus hermanas gemelas de Infantil. Ilustra que una situación auténtica de lectura con público real y vínculo afectivo activa una motivación que la lectura descontextualizada no despierta." },
-      { "id": "13", "label": "Apoyo de las ocho madres", "color": "#c73e1d", "role": "Resultados", "descripcion": "En el caso 2 las madres fueron un elemento clave del éxito: en 1.º venían al aula a leer junto a sus hijos y en 2.º el apoyo se desplazó al ensayo en casa, pues algunas no podían asistir por motivos laborales. En el caso 1 las familias no participaron." },
-      { "id": "14", "label": "Tránsito entre etapas educativas", "color": "#f4d068", "role": "Discusión", "descripcion": "Indicador C.3.2 de Themis: la práctica crea vínculos tempranos entre el alumnado de Infantil y Primaria y orienta el paso entre etapas, un signo de avance hacia instituciones más inclusivas (Azorín y Ainscow, 2018)." },
-      { "id": "15", "label": "Prácticas humildes y locales dan pistas", "color": "#2a9d8f", "role": "Conclusiones", "descripcion": "Se concluye que el apadrinamiento lector favorece la presencia, la participación y el progreso de todos los estudiantes implicados. Estas prácticas docentes humildes y locales muestran cómo se materializan los principios de la educación inclusiva desde la acción (Echeita, 2016; Duk y Murillo, 2018)." },
-      { "id": "16", "label": "Limitaciones: solo dos casos observados", "color": "#c73e1d", "role": "Limitaciones", "descripcion": "El estudio aborda solo dos casos en un mismo contexto geográfico; del Kamishibai se conoce únicamente su planificación, pues no se ejecutó durante la observación, y no se entrevistó al profesorado de Infantil. Se sugiere replicar en otros contextos y etapas, como la ESO." }
+      {
+        "id": "1",
+        "label": "Apadrinamiento lector y cuentacuentos",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "Estrategia que reúne a estudiantes mayores con los más pequeños para compartir lecturas o breves dramatizaciones. Adopta formas como el apadrinamiento tradicional (Dopazo, 2015; Romero, 2014), el cuentacuentos en Infantil (Pérez, 2016), el Kamishibai (Aldama, 2005; Cid, 2009) y formatos digitales."
+      },
+      {
+        "id": "2",
+        "label": "Educación inclusiva de enfoque curricular",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Sánchez-Serrano et al. (2021) distinguen cuatro enfoques; el estudio adopta el curricular: prácticas de aula inclusivas con todo el alumnado en el punto de mira (Sanahuja y Benet, 2020). Su meta es garantizar presencia, participación y logro de todos (Ainscow et al., 2006)."
+      },
+      {
+        "id": "3",
+        "label": "DUA y diferenciación de estructuras",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Las aulas inclusivas diferencian agrupamientos, espacios, tiempos y recursos (Leroux y Paré, 2016; Sanahuja et al., 2020). El profesorado inclusivo aplica metodologías activas (Muntaner et al., 2022) y materializa los principios del Diseño Universal para el Aprendizaje (Alba-Pastor, 2019; Delgado, 2021)."
+      },
+      {
+        "id": "4",
+        "label": "Presencia, participación y progreso de todos",
+        "color": "#2a5a75",
+        "role": "Objetivo",
+        "descripcion": "Objetivo general: comprender cómo el apadrinamiento lector o cuentacuentos favorece la presencia, la participación y el progreso de todos los estudiantes. Para ello se exploran dos casos que implementan esta práctica de manera sistematizada."
+      },
+      {
+        "id": "5",
+        "label": "Estudio de casos instrumental",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Estudio cualitativo y descriptivo con método de estudio de casos instrumental (Stake, 2013). Selección intencional y por conveniencia: docentes de Primaria de la provincia de Castellón con más de cinco cursos aplicando la práctica y reconocidos por sus pares por sus prácticas inclusivas."
+      },
+      {
+        "id": "6",
+        "label": "Dos casos en tres aulas",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Caso 1: 25 estudiantes de 5.º de Primaria (11 chicas, 14 chicos), un estudiante de prácticas y el docente tutor; leen en un aula de Infantil de 4 años. Caso 2: 28 alumnos en 2.º A y 27 en 2.º B, dos tutoras, un estudiante de prácticas y 8 madres; leen en las seis aulas de Infantil del centro."
+      },
+      {
+        "id": "7",
+        "label": "Observación, entrevistas y documentos",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Tres observaciones de 45 minutos grabadas en vídeo, con parrilla basada en Prud'homme et al. (2013) y la herramienta DCOS (Cassady et al., 2004). Se realizaron 32 entrevistas semiestructuradas con protocolos para docentes, alumnado y madres, más el análisis de 25 cuentos y un proyecto de innovación educativa."
+      },
+      {
+        "id": "8",
+        "label": "Análisis deductivo con ATLAS.ti y Themis",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "El contenido se analizó (Miles y Huberman, 1994; Saldaña, 2009) en ATLAS.ti 8 con las categorías de la dimensión C de Themis (Azorín y Ainscow, 2018) y un código que identifica el origen de cada dato. La validez se sostiene en la relevancia subjetiva (Conejero, 2020) y la triple triangulación."
+      },
+      {
+        "id": "9",
+        "label": "Presencia: celebración de la diversidad",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El docente diferencia el producto: los cuentos se elaboran en hoja, ordenador, formato libro o 3D, y las parejas negocian los criterios de elección de la historia. La observación DCOS registró variedad de actividades cognitivas: recordar, entender, aplicar y crear."
+      },
+      {
+        "id": "10",
+        "label": "Participación: grupos heterogéneos flexibles",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Las parejas padrino-apadrinado se mantienen todo el curso y crean vínculos fuertes; los espacios (patio, pasillo, aula de Infantil) y el ritmo son flexibles. En 2.º B, pedir que anotaran cuatro compañeros reveló que 'había dos niñas que no las había escogido nadie', lo que permitió intervenir."
+      },
+      {
+        "id": "11",
+        "label": "Logro: progreso y evaluación",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Tras cada sesión se realiza una autoevaluación grupal cualitativa: qué ha ido bien, qué no y qué mejorar. La estrategia trabaja autoestima, responsabilidad individual, expresión oral y corporal, comprensión lectora y creatividad, con resultados que siempre superan los objetivos iniciales."
+      },
+      {
+        "id": "12",
+        "label": "El caso de D., motivado a leer",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "D., un alumno de 2.º al que según su docente 'no le gusta leer', mostró un interés inesperado al ir a leer a sus hermanas gemelas de Infantil. Ilustra que una situación auténtica de lectura con público real y vínculo afectivo activa una motivación que la lectura descontextualizada no despierta."
+      },
+      {
+        "id": "13",
+        "label": "Apoyo de las ocho madres",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "En el caso 2 las madres fueron un elemento clave del éxito: en 1.º venían al aula a leer junto a sus hijos y en 2.º el apoyo se desplazó al ensayo en casa, pues algunas no podían asistir por motivos laborales. En el caso 1 las familias no participaron."
+      },
+      {
+        "id": "14",
+        "label": "Tránsito entre etapas educativas",
+        "color": "#f4d068",
+        "role": "Discusión",
+        "descripcion": "Indicador C.3.2 de Themis: la práctica crea vínculos tempranos entre el alumnado de Infantil y Primaria y orienta el paso entre etapas, un signo de avance hacia instituciones más inclusivas (Azorín y Ainscow, 2018)."
+      },
+      {
+        "id": "15",
+        "label": "Prácticas humildes y locales dan pistas",
+        "color": "#2a9d8f",
+        "role": "Conclusiones",
+        "descripcion": "Se concluye que el apadrinamiento lector favorece la presencia, la participación y el progreso de todos los estudiantes implicados. Estas prácticas docentes humildes y locales muestran cómo se materializan los principios de la educación inclusiva desde la acción (Echeita, 2016; Duk y Murillo, 2018)."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones: solo dos casos observados",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "El estudio aborda solo dos casos en un mismo contexto geográfico; del Kamishibai se conoce únicamente su planificación, pues no se ejecutó durante la observación, y no se entrevistó al profesorado de Infantil. Se sugiere replicar en otros contextos y etapas, como la ESO."
+      }
     ],
     "aristas": [
-      { "from": "2", "to": "1", "label": "se materializa en el" },
-      { "from": "3", "to": "1", "label": "sustenta el diseño del" },
-      { "from": "4", "to": "1", "label": "interroga el efecto inclusivo del" },
-      { "from": "5", "to": "6", "label": "delimita su evidencia en" },
-      { "from": "5", "to": "7", "label": "recolecta datos mediante" },
-      { "from": "7", "to": "8", "label": "se procesa con el" },
-      { "from": "8", "to": "9", "label": "ordena los indicadores de la" },
-      { "from": "8", "to": "10", "label": "ordena los indicadores de la" },
-      { "from": "8", "to": "11", "label": "ordena los indicadores del" },
-      { "from": "1", "to": "9", "label": "favorece la" },
-      { "from": "1", "to": "10", "label": "favorece la" },
-      { "from": "1", "to": "11", "label": "favorece el" },
-      { "from": "11", "to": "12", "label": "se ejemplifica en" },
-      { "from": "13", "to": "10", "label": "sostiene la" },
-      { "from": "1", "to": "14", "label": "facilita el" },
-      { "from": "9", "to": "15", "label": "respalda la" },
-      { "from": "10", "to": "15", "label": "respalda la" },
-      { "from": "11", "to": "15", "label": "respalda la" },
-      { "from": "12", "to": "15", "label": "respalda la" },
-      { "from": "15", "to": "16", "label": "se matiza por las" },
-      { "from": "16", "to": "5", "label": "restringen el alcance del" }
+      {
+        "from": "2",
+        "to": "1",
+        "label": "se materializa en el"
+      },
+      {
+        "from": "3",
+        "to": "1",
+        "label": "sustenta el diseño del"
+      },
+      {
+        "from": "4",
+        "to": "1",
+        "label": "interroga el efecto inclusivo del"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "delimita su evidencia en"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "recolecta datos mediante"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se procesa con el"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "ordena los indicadores de la"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "ordena los indicadores de la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "ordena los indicadores del"
+      },
+      {
+        "from": "1",
+        "to": "9",
+        "label": "favorece la"
+      },
+      {
+        "from": "1",
+        "to": "10",
+        "label": "favorece la"
+      },
+      {
+        "from": "1",
+        "to": "11",
+        "label": "favorece el"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "se ejemplifica en"
+      },
+      {
+        "from": "13",
+        "to": "10",
+        "label": "sostiene la"
+      },
+      {
+        "from": "1",
+        "to": "14",
+        "label": "facilita el"
+      },
+      {
+        "from": "9",
+        "to": "15",
+        "label": "respalda la"
+      },
+      {
+        "from": "10",
+        "to": "15",
+        "label": "respalda la"
+      },
+      {
+        "from": "11",
+        "to": "15",
+        "label": "respalda la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "respalda la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "se matiza por las"
+      },
+      {
+        "from": "16",
+        "to": "5",
+        "label": "restringen el alcance del"
+      }
     ]
   }
 }

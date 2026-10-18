@@ -12,7 +12,7 @@
     "color": "#f4a261",
     "colorAlt": "#264653",
     "bg": "from-orange-300/20 to-ocean-dark/20",
-    "image": "https://picsum.photos/seed/pdae/800/600",
+    "image": "/assets/portadas/autoficcion_recepcion_goodreads.jpg",
     "tutor": {
       "image": "https://picsum.photos/seed/tutor-pdae/200/200",
       "name": "Consuelo Manosalba-Torres",
@@ -110,16 +110,46 @@
       "titulo": "Así construimos y validamos la PDAE: del diseño a la evidencia",
       "narrativa": "Imagina que necesitas construir una prueba desde cero. No basta con escribir ítems: necesitas asegurarte de que cada tarea mide lo que pretende medir, que las instrucciones son comprensibles para niños de 4 años, que las imágenes no introducen sesgos, que el orden de los ítems respeta una dificultad creciente. Las autoras comenzaron revisando tres instrumentos chilenos para entender qué se había medido y qué faltaba. Luego diseñaron las tareas, subtareas e ítems y sometieron la primera versión al juicio de cinco expertos —tres nacionales y dos internacionales, todos doctores en educación o psicología con investigación en alfabetización emergente— quienes evaluaron adecuación y pertinencia en una escala de 1 ('muy en desacuerdo') a 6 ('muy de acuerdo'). La valoración general fluctuó entre buena y excelente. Los cambios solicitados fueron precisos: revisar instrucciones en la tarea de CA, ordenar palabras por longitud en segmentación silábica, ordenar por dificultad en rimas, e incluir un ítem de ejemplo por cada tarea. Luego vino la aplicación: 210 niños y niñas de prekínder y kínder, en cinco escuelas de tres regiones chilenas, entre octubre y diciembre de 2019. Docentes de educación preescolar y especial fueron capacitados para administrar la prueba. Y aquí viene un dato de contexto que ningún manual de psicometría contempla: la aplicación coincidió con el estallido social chileno iniciado el 18 de octubre de 2019, que alteró el funcionamiento de muchos establecimientos y dificultó la recolección de datos. Finalmente, los datos se analizaron con RStudio versión 7.8: análisis descriptivo, prueba de Kolmogorov-Smirnov para normalidad, correlaciones de Spearman, alfa de Cronbach, coeficiente omega, análisis factorial confirmatorio con matriz tetracórica y prueba de Mann-Whitney para diferencias entre cursos.",
       "detalles": [
-        { "label": "Diseño del estudio", "value": "Estudio instrumental con enfoque cuantitativo, orientado al diseño y validación de una prueba psicométrica." },
-        { "label": "Objetivo principal", "value": "Diseñar y validar una prueba para medir las habilidades de alfabetización emergente en estudiantes chilenos de NT1 (prekínder) y NT2 (kínder), de 4 a 6 años." },
-        { "label": "Validación de contenido", "value": "Juicio de 5 expertos/as (3 nacionales, 2 internacionales) con grado de Dr./Dra. en educación o psicología e investigación en AE. Evaluaron adecuación y pertinencia de tareas, subtareas e ítems en escala de 1 a 6. Valoración general: entre buena y excelente." },
-        { "label": "Muestra total", "value": "210 estudiantes: 86 de NT1 (prekínder) y 124 de NT2 (kínder). Edad promedio: 67.44 meses (DE 6.7), rango 49-79 meses (4 años 1 mes a 6 años 9 meses)." },
-        { "label": "Establecimientos", "value": "5 escuelas (públicas y particulares subvencionadas) de las regiones Metropolitana, Libertador General Bernardo O'Higgins y Biobío." },
-        { "label": "Distribución por NSE", "value": "NSE bajo: 72 estudiantes (34%). NSE bajo-medio: 69 estudiantes (33%). NSE medio: 69 estudiantes (33%). No se incluyó NSE alto." },
-        { "label": "Aplicación", "value": "Entre octubre y diciembre de 2019. Docentes de educación preescolar y especial fueron capacitados para administrar la prueba. Se recogieron consentimientos informados de tutores legales." },
-        { "label": "Análisis de fiabilidad", "value": "Alfa de Cronbach (α) y coeficiente omega (ω) para la prueba total y por subescala. Software: RStudio v7.8." },
-        { "label": "Validez de constructo", "value": "Análisis Factorial Confirmatorio (AFC) con matriz tetracórica (adecuada para ítems dicotómicos). Índices evaluados: CFI, RMSEA (con IC 90%), SRMR, χ²." },
-        { "label": "Análisis complementarios", "value": "Prueba de Kolmogorov-Smirnov para normalidad, correlaciones de Spearman (no paramétricas) entre dominios, y prueba de Mann-Whitney para diferencias entre NT1 y NT2." }
+        {
+          "label": "Diseño del estudio",
+          "value": "Estudio instrumental con enfoque cuantitativo, orientado al diseño y validación de una prueba psicométrica."
+        },
+        {
+          "label": "Objetivo principal",
+          "value": "Diseñar y validar una prueba para medir las habilidades de alfabetización emergente en estudiantes chilenos de NT1 (prekínder) y NT2 (kínder), de 4 a 6 años."
+        },
+        {
+          "label": "Validación de contenido",
+          "value": "Juicio de 5 expertos/as (3 nacionales, 2 internacionales) con grado de Dr./Dra. en educación o psicología e investigación en AE. Evaluaron adecuación y pertinencia de tareas, subtareas e ítems en escala de 1 a 6. Valoración general: entre buena y excelente."
+        },
+        {
+          "label": "Muestra total",
+          "value": "210 estudiantes: 86 de NT1 (prekínder) y 124 de NT2 (kínder). Edad promedio: 67.44 meses (DE 6.7), rango 49-79 meses (4 años 1 mes a 6 años 9 meses)."
+        },
+        {
+          "label": "Establecimientos",
+          "value": "5 escuelas (públicas y particulares subvencionadas) de las regiones Metropolitana, Libertador General Bernardo O'Higgins y Biobío."
+        },
+        {
+          "label": "Distribución por NSE",
+          "value": "NSE bajo: 72 estudiantes (34%). NSE bajo-medio: 69 estudiantes (33%). NSE medio: 69 estudiantes (33%). No se incluyó NSE alto."
+        },
+        {
+          "label": "Aplicación",
+          "value": "Entre octubre y diciembre de 2019. Docentes de educación preescolar y especial fueron capacitados para administrar la prueba. Se recogieron consentimientos informados de tutores legales."
+        },
+        {
+          "label": "Análisis de fiabilidad",
+          "value": "Alfa de Cronbach (α) y coeficiente omega (ω) para la prueba total y por subescala. Software: RStudio v7.8."
+        },
+        {
+          "label": "Validez de constructo",
+          "value": "Análisis Factorial Confirmatorio (AFC) con matriz tetracórica (adecuada para ítems dicotómicos). Índices evaluados: CFI, RMSEA (con IC 90%), SRMR, χ²."
+        },
+        {
+          "label": "Análisis complementarios",
+          "value": "Prueba de Kolmogorov-Smirnov para normalidad, correlaciones de Spearman (no paramétricas) entre dominios, y prueba de Mann-Whitney para diferencias entre NT1 y NT2."
+        }
       ],
       "limitaciones": [
         "La aplicación coincidió con el estallido social chileno iniciado el 18 de octubre de 2019, lo que alteró el funcionamiento de varios establecimientos y perjudicó la toma de datos en más escuelas de las consideradas inicialmente.",
@@ -318,47 +348,239 @@
     "titulo": "Mapa conceptual de la PDAE: constructo, método psicométrico, resultados y alcances",
     "descripcion": "Recorre el artículo completo (Manosalba-Torres y Arancibia, Ocnos 22(2)): los cuatro dominios de la alfabetización emergente, la brecha de instrumentos en Chile, el diseño y validación de la PDAE con 210 preescolares, los resultados psicométricos y de nivel, la conclusión y las limitaciones.",
     "nodos": [
-      { "id": "1", "label": "Alfabetización emergente (AE)", "color": "#f4a261", "role": "Marco teórico", "descripcion": "Conocimientos y conductas que despliega la infancia antes de la lectura y escritura convencionales; conjunto de predictores que se consolida con la educación formal (Teale y Sulzby, 1986; Whitehurst y Lonigan, 1998)." },
-      { "id": "2", "label": "Conciencia fonológica (CF)", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "Identificar, reflexionar y manipular las unidades sonoras de las palabras (sílabas, rimas, fonemas); principal predictor del aprendizaje lector según los metaanálisis (Melby-Lervåg et al., 2012; Allan et al., 2013)." },
-      { "id": "3", "label": "Conocimiento del alfabeto (CA)", "color": "#e76f51", "role": "Marco teórico", "descripcion": "Reconocer y nombrar las letras; predice el principio alfabético: quien conoce al menos cinco letras al llegar a 1.º logra un nivel lector significativamente mayor (Bravo-Valdivieso et al., 2006; Skibbe et al., 2008)." },
-      { "id": "4", "label": "Conocimiento de lo impreso (CI)", "color": "#e9c46a", "role": "Marco teórico", "descripcion": "Convenciones de la lengua escrita: direccionalidad, puntuación, mayúsculas, portada, título, conceptos de palabra y letra; fue el único predictor significativo de la adquisición inicial de la lectura en Pinto et al. (2016)." },
-      { "id": "5", "label": "Escritura emergente (EE)", "color": "#264653", "role": "Marco teórico", "descripcion": "Acto manual de producir marcas, los significados atribuidos a ellas y el conocimiento ortográfico (Ferreiro y Teberosky, 1982); permite alcanzar el umbral de la lectura y consolida la decodificación." },
-      { "id": "6", "label": "Brecha: los tests chilenos no cubren los cuatro dominios", "color": "#9b2226", "role": "Objetivo", "descripcion": "La Prueba de Alfabetización Inicial (Villalón y Rolla), la prueba de CF (Varela y De Barbieri) y la de habilidades metalingüísticas (Yakuba et al.) evalúan parcialmente la AE; esa carencia motivó la PDAE." },
-      { "id": "7", "label": "PDAE: diseño y validación (NT1-NT2, 4 a 6 años)", "color": "#6a4c93", "role": "Objetivo", "descripcion": "Objetivo principal: diseñar y validar una prueba psicométrica que mida los dominios de AE en estudiantes chilenos de educación parvularia de Transición 1 y 2 (pre-kínder y kínder)." },
-      { "id": "8", "label": "Estudio instrumental con 210 preescolares", "color": "#2a5a75", "role": "Método", "descripcion": "Muestra de 210 niños y niñas (86 NT1, 124 NT2; edad media 5 años 6 meses) de cinco establecimientos públicos o subvencionados de las regiones Metropolitana, O'Higgins y Biobío: 34% nivel socioeconómico bajo, 33% bajo-medio, 33% medio." },
-      { "id": "9", "label": "Estructura de la prueba: cuatro tareas y sus subtareas", "color": "#5b9eaa", "role": "Método", "descripcion": "CF: síntesis fonémica, rimas, aliteración, segmentación silábica, aislamiento de fonema inicial; CA: orden progresivo, aleatorio y mayúsculas; CI: reconocimiento de letras y rasgos del texto; EE: palabras, oraciones y escritura del nombre." },
-      { "id": "10", "label": "Validación de contenido por juicio de expertos", "color": "#7b2d8e", "role": "Método", "descripcion": "Cinco expertos doctores valoraron adecuación y pertinencia de tareas, subtareas e ítems (escala 1-6): evaluación buena o excelente, con ajustes pedidos en instrucciones del CA y orden de dificultad de rimas y aliteraciones." },
-      { "id": "11", "label": "Procedimiento: formación docente y consentimiento informado", "color": "#8ab17d", "role": "Método", "descripcion": "Educadoras de párvulos y educación diferencial fueron capacitadas; consentimiento de tutores legales; aplicación entre octubre y diciembre de 2019, con el estallido social y la suspensión de clases como telón de fondo." },
-      { "id": "12", "label": "Análisis psicométrico en RStudio", "color": "#b5838d", "role": "Método", "descripcion": "Kolmogorov-Smirnov y correlaciones de Spearman; alfa de Cronbach y coeficiente omega; análisis factorial confirmatorio con matriz tetracórica (ítems dicotómicos); Mann-Whitney para comparar NT1 y NT2." },
-      { "id": "13", "label": "Resultado: fiabilidad α=.79 y ω=.82", "color": "#2a9d8f", "role": "Resultados", "descripcion": "Consistencia interna del total sobre el criterio .70 (subescalas α .74-.83) y omega .82 (dimensiones ≥.72), con valores mejores que los de las pruebas de AE usadas en Chile." },
-      { "id": "14", "label": "Resultado: estructura factorial de cuatro dominios confirmada", "color": "#e76f51", "role": "Resultados", "descripcion": "AFC ajustada: TLI/ICF .976 y RMSEA .024, excelentes según Kline (2015), χ²=503.679 (p<.001); saturaciones de ítems óptimas: el modelo teórico de la prueba se confirma." },
-      { "id": "15", "label": "Resultado: los cuatro dominios se correlacionan directamente", "color": "#f4d068", "role": "Resultados", "descripcion": "Correlaciones de Spearman directas y significativas (p<.001): CA-EE r=.68, CF-CA r=.48, CF-EE r=.47, CI-EE r=.50; reforzar CA incrementa CI y EE, y mejorar CI favorece la escritura emergente." },
-      { "id": "16", "label": "Resultado: NT2 supera a NT1 en síntesis fonémica, CA y EE", "color": "#c73e1d", "role": "Resultados", "descripcion": "Diferencias significativas a favor de kínder: síntesis fonémica (p=.001), CA (p<.001, d=.82) y EE (p<.001, d=.77); se explican por edad y escolarización, pues NT1 no es obligatoria en Chile (88,3% de matrícula, CASEN 2017)." },
-      { "id": "17", "label": "Conclusión: PDAE idónea y exportable al español", "color": "#88b04b", "role": "Conclusiones", "descripcion": "La prueba presenta estructura factorial y consistencia interna idóneas para evaluar la AE en preescolares chilenos; diseñada en español estándar, es traducible y adaptable léxicamente a otros países, habilitando estudios comparados." },
-      { "id": "18", "label": "Limitaciones y líneas futuras", "color": "#9b82c3", "role": "Limitaciones", "descripcion": "No fue posible incluir nivel socioeconómico alto y el estallido de 2019 restringió los establecimientos; se propone controlar edad, NSE, género, tipo de establecimiento y afinar el número de ítems por subtarea." }
+      {
+        "id": "1",
+        "label": "Alfabetización emergente (AE)",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "Conocimientos y conductas que despliega la infancia antes de la lectura y escritura convencionales; conjunto de predictores que se consolida con la educación formal (Teale y Sulzby, 1986; Whitehurst y Lonigan, 1998)."
+      },
+      {
+        "id": "2",
+        "label": "Conciencia fonológica (CF)",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Identificar, reflexionar y manipular las unidades sonoras de las palabras (sílabas, rimas, fonemas); principal predictor del aprendizaje lector según los metaanálisis (Melby-Lervåg et al., 2012; Allan et al., 2013)."
+      },
+      {
+        "id": "3",
+        "label": "Conocimiento del alfabeto (CA)",
+        "color": "#e76f51",
+        "role": "Marco teórico",
+        "descripcion": "Reconocer y nombrar las letras; predice el principio alfabético: quien conoce al menos cinco letras al llegar a 1.º logra un nivel lector significativamente mayor (Bravo-Valdivieso et al., 2006; Skibbe et al., 2008)."
+      },
+      {
+        "id": "4",
+        "label": "Conocimiento de lo impreso (CI)",
+        "color": "#e9c46a",
+        "role": "Marco teórico",
+        "descripcion": "Convenciones de la lengua escrita: direccionalidad, puntuación, mayúsculas, portada, título, conceptos de palabra y letra; fue el único predictor significativo de la adquisición inicial de la lectura en Pinto et al. (2016)."
+      },
+      {
+        "id": "5",
+        "label": "Escritura emergente (EE)",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Acto manual de producir marcas, los significados atribuidos a ellas y el conocimiento ortográfico (Ferreiro y Teberosky, 1982); permite alcanzar el umbral de la lectura y consolida la decodificación."
+      },
+      {
+        "id": "6",
+        "label": "Brecha: los tests chilenos no cubren los cuatro dominios",
+        "color": "#9b2226",
+        "role": "Objetivo",
+        "descripcion": "La Prueba de Alfabetización Inicial (Villalón y Rolla), la prueba de CF (Varela y De Barbieri) y la de habilidades metalingüísticas (Yakuba et al.) evalúan parcialmente la AE; esa carencia motivó la PDAE."
+      },
+      {
+        "id": "7",
+        "label": "PDAE: diseño y validación (NT1-NT2, 4 a 6 años)",
+        "color": "#6a4c93",
+        "role": "Objetivo",
+        "descripcion": "Objetivo principal: diseñar y validar una prueba psicométrica que mida los dominios de AE en estudiantes chilenos de educación parvularia de Transición 1 y 2 (pre-kínder y kínder)."
+      },
+      {
+        "id": "8",
+        "label": "Estudio instrumental con 210 preescolares",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Muestra de 210 niños y niñas (86 NT1, 124 NT2; edad media 5 años 6 meses) de cinco establecimientos públicos o subvencionados de las regiones Metropolitana, O'Higgins y Biobío: 34% nivel socioeconómico bajo, 33% bajo-medio, 33% medio."
+      },
+      {
+        "id": "9",
+        "label": "Estructura de la prueba: cuatro tareas y sus subtareas",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "CF: síntesis fonémica, rimas, aliteración, segmentación silábica, aislamiento de fonema inicial; CA: orden progresivo, aleatorio y mayúsculas; CI: reconocimiento de letras y rasgos del texto; EE: palabras, oraciones y escritura del nombre."
+      },
+      {
+        "id": "10",
+        "label": "Validación de contenido por juicio de expertos",
+        "color": "#7b2d8e",
+        "role": "Método",
+        "descripcion": "Cinco expertos doctores valoraron adecuación y pertinencia de tareas, subtareas e ítems (escala 1-6): evaluación buena o excelente, con ajustes pedidos en instrucciones del CA y orden de dificultad de rimas y aliteraciones."
+      },
+      {
+        "id": "11",
+        "label": "Procedimiento: formación docente y consentimiento informado",
+        "color": "#8ab17d",
+        "role": "Método",
+        "descripcion": "Educadoras de párvulos y educación diferencial fueron capacitadas; consentimiento de tutores legales; aplicación entre octubre y diciembre de 2019, con el estallido social y la suspensión de clases como telón de fondo."
+      },
+      {
+        "id": "12",
+        "label": "Análisis psicométrico en RStudio",
+        "color": "#b5838d",
+        "role": "Método",
+        "descripcion": "Kolmogorov-Smirnov y correlaciones de Spearman; alfa de Cronbach y coeficiente omega; análisis factorial confirmatorio con matriz tetracórica (ítems dicotómicos); Mann-Whitney para comparar NT1 y NT2."
+      },
+      {
+        "id": "13",
+        "label": "Resultado: fiabilidad α=.79 y ω=.82",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Consistencia interna del total sobre el criterio .70 (subescalas α .74-.83) y omega .82 (dimensiones ≥.72), con valores mejores que los de las pruebas de AE usadas en Chile."
+      },
+      {
+        "id": "14",
+        "label": "Resultado: estructura factorial de cuatro dominios confirmada",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "AFC ajustada: TLI/ICF .976 y RMSEA .024, excelentes según Kline (2015), χ²=503.679 (p<.001); saturaciones de ítems óptimas: el modelo teórico de la prueba se confirma."
+      },
+      {
+        "id": "15",
+        "label": "Resultado: los cuatro dominios se correlacionan directamente",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Correlaciones de Spearman directas y significativas (p<.001): CA-EE r=.68, CF-CA r=.48, CF-EE r=.47, CI-EE r=.50; reforzar CA incrementa CI y EE, y mejorar CI favorece la escritura emergente."
+      },
+      {
+        "id": "16",
+        "label": "Resultado: NT2 supera a NT1 en síntesis fonémica, CA y EE",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Diferencias significativas a favor de kínder: síntesis fonémica (p=.001), CA (p<.001, d=.82) y EE (p<.001, d=.77); se explican por edad y escolarización, pues NT1 no es obligatoria en Chile (88,3% de matrícula, CASEN 2017)."
+      },
+      {
+        "id": "17",
+        "label": "Conclusión: PDAE idónea y exportable al español",
+        "color": "#88b04b",
+        "role": "Conclusiones",
+        "descripcion": "La prueba presenta estructura factorial y consistencia interna idóneas para evaluar la AE en preescolares chilenos; diseñada en español estándar, es traducible y adaptable léxicamente a otros países, habilitando estudios comparados."
+      },
+      {
+        "id": "18",
+        "label": "Limitaciones y líneas futuras",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "No fue posible incluir nivel socioeconómico alto y el estallido de 2019 restringió los establecimientos; se propone controlar edad, NSE, género, tipo de establecimiento y afinar el número de ítems por subtarea."
+      }
     ],
     "aristas": [
-      { "from": "1", "to": "2", "label": "agrupa la" },
-      { "from": "1", "to": "3", "label": "agrupa el" },
-      { "from": "1", "to": "4", "label": "agrupa el" },
-      { "from": "1", "to": "5", "label": "agrupa la" },
-      { "from": "6", "to": "7", "label": "motiva el diseño de la" },
-      { "from": "7", "to": "8", "label": "se validó psicométricamente en un" },
-      { "from": "7", "to": "9", "label": "se despliega en la" },
-      { "from": "10", "to": "9", "label": "valoró la idoneidad de la" },
-      { "from": "8", "to": "12", "label": "aportó los datos para el" },
-      { "from": "11", "to": "8", "label": "recogió los datos de la" },
-      { "from": "12", "to": "13", "label": "produjo la" },
-      { "from": "12", "to": "14", "label": "produjo la" },
-      { "from": "12", "to": "15", "label": "produjo la" },
-      { "from": "12", "to": "16", "label": "detectó el" },
-      { "from": "13", "to": "17", "label": "certifica la fiabilidad de la" },
-      { "from": "14", "to": "17", "label": "confirma la estructura de la" },
-      { "from": "15", "to": "17", "label": "sustenta la evaluación integrada de la" },
-      { "from": "16", "to": "17", "label": "demuestra la sensibilidad evolutiva de la" },
-      { "from": "18", "to": "17", "label": "acota la generalización de la" },
-      { "from": "2", "to": "13", "label": "su subescala alcanza α=.74" },
-      { "from": "3", "to": "13", "label": "su subescala alcanza α=.82" }
+      {
+        "from": "1",
+        "to": "2",
+        "label": "agrupa la"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "agrupa el"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "agrupa el"
+      },
+      {
+        "from": "1",
+        "to": "5",
+        "label": "agrupa la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "motiva el diseño de la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se validó psicométricamente en un"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "se despliega en la"
+      },
+      {
+        "from": "10",
+        "to": "9",
+        "label": "valoró la idoneidad de la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "aportó los datos para el"
+      },
+      {
+        "from": "11",
+        "to": "8",
+        "label": "recogió los datos de la"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "produjo la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "produjo la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "produjo la"
+      },
+      {
+        "from": "12",
+        "to": "16",
+        "label": "detectó el"
+      },
+      {
+        "from": "13",
+        "to": "17",
+        "label": "certifica la fiabilidad de la"
+      },
+      {
+        "from": "14",
+        "to": "17",
+        "label": "confirma la estructura de la"
+      },
+      {
+        "from": "15",
+        "to": "17",
+        "label": "sustenta la evaluación integrada de la"
+      },
+      {
+        "from": "16",
+        "to": "17",
+        "label": "demuestra la sensibilidad evolutiva de la"
+      },
+      {
+        "from": "18",
+        "to": "17",
+        "label": "acota la generalización de la"
+      },
+      {
+        "from": "2",
+        "to": "13",
+        "label": "su subescala alcanza α=.74"
+      },
+      {
+        "from": "3",
+        "to": "13",
+        "label": "su subescala alcanza α=.82"
+      }
     ]
   }
 }

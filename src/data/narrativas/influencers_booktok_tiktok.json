@@ -12,7 +12,7 @@
     "color": "#264653",
     "colorAlt": "#e76f51",
     "bg": "from-slate-700/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-10.png",
+    "image": "/assets/portadas/pantalla_vs_papel.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-10.png",
       "name": "Dr. Jesús Segarra-Saavedra",
@@ -196,45 +196,227 @@
     "titulo": "Mapa conceptual: Influencers literarios y BookTok en TikTok (Ocnos 23(2), 2024)",
     "descripcion": "Análisis de contenido de los perfiles y 1471 vídeos de 30 booktokers líderes en España, completado con entrevistas a siete de ellos, que perfila su comunicación, los libros difundidos, sus colaboraciones editoriales y el impacto que perciben en ventas y fomento de la lectura.",
     "nodos": [
-      {"id": "1", "label": "BookTok, subcultura lectora juvenil", "color": "#e76f51", "role": "Marco teórico", "descripcion": "TikTok reúne 908 millones de usuarios activos mensuales (Statista, 2023) y es la red más conocida y usada (IAB, 2023), con un algoritmo que premia la permanencia y las tendencias. BookTok es la 'subcultura de TikTok dedicada a la lectura y la discusión de (sobre todo) literatura juvenil' (Jerasa y Boffone, 2021), donde se recomiendan libros y se diseccionan tropos; #BookTok supera los 5 millones de vídeos y las 22 mil millones de vistas (BigBang News, 2022; Medina-Serrano et al., 2020)."},
-      {"id": "2", "label": "Lectura social 2.0 y microcelebridades", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "La lectura social o 2.0 transforma la mediación lectora mediante recomendaciones, anotaciones, etiquetas e interacción entre lectores (Cordón-García y Gómez-Díaz, 2013; Merga, 2021; García-Roca, 2021). Las pedagogías entre iguales de las 'microcelebridades' y sus fans (Senft, 2008) reconvierten al lector amateur en promotor de lectura (Manresa y Margallo, 2016)."},
-      {"id": "3", "label": "Sector editorial español y lectura digital", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "El mercado español se articula en torno a Grupo Planeta y Penguin Random House (Vázquez-Millán, 2021). Los barómetros FGEE muestran que la lectura no analógica pasó del 12% en 2012 al 27% en 2022 y que el grupo de 14 a 24 años es el que más libros compra (74,8%), empujando la promoción editorial hacia lo online (Álvarez-Ramos y Romero-Oliva, 2018)."},
-      {"id": "4", "label": "Marketing de influencia en editoriales", "color": "#264653", "role": "Marco teórico", "descripcion": "El marketing de influencia repercute en las decisiones de consumo y los contenidos de influencers reciben más atención juvenil, incitando a adquirir lo recomendado (Ferrer-López, 2020; De-Veirman et al., 2017; Leung et al., 2022). Las editoriales buscan reputación digital en un 'crosumer' que difunde opiniones en redes (Del-Pino-Romero et al., 2013; Rovira-Collado, 2016, 2017)."},
-      {"id": "5", "label": "Objetivo e hipótesis del análisis", "color": "#f4a261", "role": "Objetivo", "descripcion": "Analizar perfiles y contenidos de los principales booktokers españoles y su punto de vista sobre la contribución al incremento de la lectura y el consumo de libros, con hipótesis sobre aumento de ventas (H1), mayoría femenina (H2), fomento de ebooks (H3) y percepción de su impacto promocional (H4)."},
-      {"id": "6", "label": "Selección de 30 booktokers españoles", "color": "#9b82c3", "role": "Método", "descripcion": "Búsqueda inicial con los hashtags #booktok, #booktoker, #booktokespaña y #booktokespañol y criba de perfiles con más de 9 mil seguidores y 260 mil 'me gusta'. La muestra final: 30 influencers con entre 9.479 y 1,4 millones de seguidores y de 86 a 1430 vídeos publicados."},
-      {"id": "7", "label": "Análisis de 1471 vídeos por categorías", "color": "#2a5a75", "role": "Método", "descripcion": "Análisis de contenido cualitativo y exploratorio durante 60 días (24 de febrero-24 de abril de 2022, campaña previa al Día Internacional del Libro), con unidades de análisis de perfil y contenido. Se codifican producción, presencia del influencer, texto, preguntas, hashtags, identificación publicitaria, tipo de post (Velasco-Urbano y Trillo-Domínguez, 2019), libros, editoriales, formato y interacciones."},
-      {"id": "8", "label": "Entrevistas a siete booktokers", "color": "#5b9eaa", "role": "Método", "descripcion": "Entrevistas en profundidad a 7 de los 30 contactados (tasa de respuesta del 23,3%), siguiendo a Guiñez-Cabrera y Mansilla-Obando (2022) y Saez (2022), sobre identidad y formación (16 a 27 años; 4 estudian Bachiller), intereses editoriales, tipos de post útiles y relaciones y condiciones de colaboración con las editoriales."},
-      {"id": "9", "label": "Prescriptoras mujeres mayoritarias", "color": "#c73e1d", "role": "Resultados", "descripcion": "Se confirma H2: el 96,7% de los booktokers son mujeres, con @ir_zuIryna y @maryam.and.books al frente (más de 1,4 millones de seguidores y 70,6 y 16,8 millones de 'me gusta'); @letiziaalg21 y @esperanzalruz son las más activas. @raquelbrune_ destaca como booktoker y autora de Los guardianes de almas, uno de los títulos más promocionados."},
-      {"id": "10", "label": "Producción propia marcada por hashtags", "color": "#88b04b", "role": "Resultados", "descripcion": "Predomina el contenido propio (99,4%), el formato vídeo (100%) y la presencia del influencer en solitario (99%), con textos (99%) y hashtags (92%, mayoría de 4 a 7), pero sin preguntas a la audiencia (95,2%). Destacan los posts 'otros' (84,4%): trends adaptados, To be read, novedades y fragmentos; le siguen unboxing (7,2%), reseñas (4,1%) y bookshelf tours (1,4%). El 38% de perfiles publica dos contenidos diarios."},
-      {"id": "11", "label": "Novedades juveniles impresas y narrativas", "color": "#f4d068", "role": "Resultados", "descripcion": "Refutada H3: priman los libros impresos (95,6%) sobre ePub (4,4%), la narrativa (99,8%) y el público juvenil (97,2%). Se contabilizan 884 libros, sobre todo recientes (2022: 50,3%; 2021: 17,4%), con Una corona de sombras (33) y Una corte de rosas y espinas (30) al frente, editoriales CrossBooks (188) y Planeta (111) y autoría mayoritariamente femenina (91,6%; Sarah J. Maas, 106 menciones)."},
-      {"id": "12", "label": "Colaboraciones con editoriales", "color": "#e76f51", "role": "Resultados", "descripcion": "Las editoriales envían libros gratis a cambio de reseñas o menciones, con condiciones variables y casos de pago y de trabajo directo (Letizia Guerrero para Crossbooks-Planeta). Se detecta profesionalización (guías de estilo, aprobación de vídeos) y los escasos etiquetados (7% de publicaciones) apuntan sobre todo a editoriales: @teenplanetlibro_ (27), @penguinlibros (17)."},
-      {"id": "13", "label": "Publicidad identificada solo en el 12%", "color": "#c73e1d", "role": "Resultados", "descripcion": "Solo el 12% de las publicaciones identifica contenido publicitario ('publicidad' 11,1%; 'publi' 0,7%; 'en colaboración con' 0,2%), principalmente en la imagen. La escasa señalización de las acciones promocionales cuestiona la transparencia del contenido patrocinado en BookTok."},
-      {"id": "14", "label": "Interacción ligada a formatos", "color": "#2a9d8f", "role": "Resultados", "descripcion": "Los mayores comentarios, likes, compartidos y visualizaciones corresponden a unboxing, lecturas de fragmentos, trends de lectoras y vídeos que etiquetan a otros usuarios. Tener más seguidores no garantiza mayor engagement: depende del tipo de post y del algoritmo."},
-      {"id": "15", "label": "Ventas y lectura percibidas por booktokers", "color": "#f4a261", "role": "Discusión", "descripcion": "Se confirma H4 en la percepción: las entrevistadas atribuyen a sus promociones en TikTok, YouTube e Instagram el aumento de ventas y lectura, con ejemplos como una saga que alcanzó su 12ª edición tras recomendarla. Las editoriales, no obstante, no informan de los incrementos de venta y atribuirlos resulta difícil al enviar los mismos libros a varios booktokers."},
-      {"id": "16", "label": "Hibridación inédita de marketing y editorial", "color": "#88b04b", "role": "Conclusiones", "descripcion": "La investigación concluye que las editoriales consideran a los influencers un recurso publicitario relevante con capacidad de popularizar libros, y aporta la hibridación entre marketing de influencia, sector editorial y TikTok, apenas estudiada frente a YouTube, Instagram, moda o cosmética (Rovira-Collado, 2016; Castelló-Martínez y Del-Pino-Romero, 2015; Van-Driel y Dumitrica, 2021)."},
-      {"id": "17", "label": "Opiniones potencialmente sesgadas", "color": "#9b82c3", "role": "Limitaciones", "descripcion": "Las autoras advierten que estas opiniones pueden estar sesgadas y apelan a la transparencia y fiabilidad de la información de las editoriales y al punto de vista de las lectoras. Proponen futuros estudios sobre audiencia, autores y responsables de marketing, comunicación y ventas para confirmar el impacto de BookTok."}
+      {
+        "id": "1",
+        "label": "BookTok, subcultura lectora juvenil",
+        "color": "#e76f51",
+        "role": "Marco teórico",
+        "descripcion": "TikTok reúne 908 millones de usuarios activos mensuales (Statista, 2023) y es la red más conocida y usada (IAB, 2023), con un algoritmo que premia la permanencia y las tendencias. BookTok es la 'subcultura de TikTok dedicada a la lectura y la discusión de (sobre todo) literatura juvenil' (Jerasa y Boffone, 2021), donde se recomiendan libros y se diseccionan tropos; #BookTok supera los 5 millones de vídeos y las 22 mil millones de vistas (BigBang News, 2022; Medina-Serrano et al., 2020)."
+      },
+      {
+        "id": "2",
+        "label": "Lectura social 2.0 y microcelebridades",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La lectura social o 2.0 transforma la mediación lectora mediante recomendaciones, anotaciones, etiquetas e interacción entre lectores (Cordón-García y Gómez-Díaz, 2013; Merga, 2021; García-Roca, 2021). Las pedagogías entre iguales de las 'microcelebridades' y sus fans (Senft, 2008) reconvierten al lector amateur en promotor de lectura (Manresa y Margallo, 2016)."
+      },
+      {
+        "id": "3",
+        "label": "Sector editorial español y lectura digital",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "El mercado español se articula en torno a Grupo Planeta y Penguin Random House (Vázquez-Millán, 2021). Los barómetros FGEE muestran que la lectura no analógica pasó del 12% en 2012 al 27% en 2022 y que el grupo de 14 a 24 años es el que más libros compra (74,8%), empujando la promoción editorial hacia lo online (Álvarez-Ramos y Romero-Oliva, 2018)."
+      },
+      {
+        "id": "4",
+        "label": "Marketing de influencia en editoriales",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "El marketing de influencia repercute en las decisiones de consumo y los contenidos de influencers reciben más atención juvenil, incitando a adquirir lo recomendado (Ferrer-López, 2020; De-Veirman et al., 2017; Leung et al., 2022). Las editoriales buscan reputación digital en un 'crosumer' que difunde opiniones en redes (Del-Pino-Romero et al., 2013; Rovira-Collado, 2016, 2017)."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo e hipótesis del análisis",
+        "color": "#f4a261",
+        "role": "Objetivo",
+        "descripcion": "Analizar perfiles y contenidos de los principales booktokers españoles y su punto de vista sobre la contribución al incremento de la lectura y el consumo de libros, con hipótesis sobre aumento de ventas (H1), mayoría femenina (H2), fomento de ebooks (H3) y percepción de su impacto promocional (H4)."
+      },
+      {
+        "id": "6",
+        "label": "Selección de 30 booktokers españoles",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "Búsqueda inicial con los hashtags #booktok, #booktoker, #booktokespaña y #booktokespañol y criba de perfiles con más de 9 mil seguidores y 260 mil 'me gusta'. La muestra final: 30 influencers con entre 9.479 y 1,4 millones de seguidores y de 86 a 1430 vídeos publicados."
+      },
+      {
+        "id": "7",
+        "label": "Análisis de 1471 vídeos por categorías",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Análisis de contenido cualitativo y exploratorio durante 60 días (24 de febrero-24 de abril de 2022, campaña previa al Día Internacional del Libro), con unidades de análisis de perfil y contenido. Se codifican producción, presencia del influencer, texto, preguntas, hashtags, identificación publicitaria, tipo de post (Velasco-Urbano y Trillo-Domínguez, 2019), libros, editoriales, formato y interacciones."
+      },
+      {
+        "id": "8",
+        "label": "Entrevistas a siete booktokers",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Entrevistas en profundidad a 7 de los 30 contactados (tasa de respuesta del 23,3%), siguiendo a Guiñez-Cabrera y Mansilla-Obando (2022) y Saez (2022), sobre identidad y formación (16 a 27 años; 4 estudian Bachiller), intereses editoriales, tipos de post útiles y relaciones y condiciones de colaboración con las editoriales."
+      },
+      {
+        "id": "9",
+        "label": "Prescriptoras mujeres mayoritarias",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Se confirma H2: el 96,7% de los booktokers son mujeres, con @ir_zuIryna y @maryam.and.books al frente (más de 1,4 millones de seguidores y 70,6 y 16,8 millones de 'me gusta'); @letiziaalg21 y @esperanzalruz son las más activas. @raquelbrune_ destaca como booktoker y autora de Los guardianes de almas, uno de los títulos más promocionados."
+      },
+      {
+        "id": "10",
+        "label": "Producción propia marcada por hashtags",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Predomina el contenido propio (99,4%), el formato vídeo (100%) y la presencia del influencer en solitario (99%), con textos (99%) y hashtags (92%, mayoría de 4 a 7), pero sin preguntas a la audiencia (95,2%). Destacan los posts 'otros' (84,4%): trends adaptados, To be read, novedades y fragmentos; le siguen unboxing (7,2%), reseñas (4,1%) y bookshelf tours (1,4%). El 38% de perfiles publica dos contenidos diarios."
+      },
+      {
+        "id": "11",
+        "label": "Novedades juveniles impresas y narrativas",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Refutada H3: priman los libros impresos (95,6%) sobre ePub (4,4%), la narrativa (99,8%) y el público juvenil (97,2%). Se contabilizan 884 libros, sobre todo recientes (2022: 50,3%; 2021: 17,4%), con Una corona de sombras (33) y Una corte de rosas y espinas (30) al frente, editoriales CrossBooks (188) y Planeta (111) y autoría mayoritariamente femenina (91,6%; Sarah J. Maas, 106 menciones)."
+      },
+      {
+        "id": "12",
+        "label": "Colaboraciones con editoriales",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Las editoriales envían libros gratis a cambio de reseñas o menciones, con condiciones variables y casos de pago y de trabajo directo (Letizia Guerrero para Crossbooks-Planeta). Se detecta profesionalización (guías de estilo, aprobación de vídeos) y los escasos etiquetados (7% de publicaciones) apuntan sobre todo a editoriales: @teenplanetlibro_ (27), @penguinlibros (17)."
+      },
+      {
+        "id": "13",
+        "label": "Publicidad identificada solo en el 12%",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Solo el 12% de las publicaciones identifica contenido publicitario ('publicidad' 11,1%; 'publi' 0,7%; 'en colaboración con' 0,2%), principalmente en la imagen. La escasa señalización de las acciones promocionales cuestiona la transparencia del contenido patrocinado en BookTok."
+      },
+      {
+        "id": "14",
+        "label": "Interacción ligada a formatos",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Los mayores comentarios, likes, compartidos y visualizaciones corresponden a unboxing, lecturas de fragmentos, trends de lectoras y vídeos que etiquetan a otros usuarios. Tener más seguidores no garantiza mayor engagement: depende del tipo de post y del algoritmo."
+      },
+      {
+        "id": "15",
+        "label": "Ventas y lectura percibidas por booktokers",
+        "color": "#f4a261",
+        "role": "Discusión",
+        "descripcion": "Se confirma H4 en la percepción: las entrevistadas atribuyen a sus promociones en TikTok, YouTube e Instagram el aumento de ventas y lectura, con ejemplos como una saga que alcanzó su 12ª edición tras recomendarla. Las editoriales, no obstante, no informan de los incrementos de venta y atribuirlos resulta difícil al enviar los mismos libros a varios booktokers."
+      },
+      {
+        "id": "16",
+        "label": "Hibridación inédita de marketing y editorial",
+        "color": "#88b04b",
+        "role": "Conclusiones",
+        "descripcion": "La investigación concluye que las editoriales consideran a los influencers un recurso publicitario relevante con capacidad de popularizar libros, y aporta la hibridación entre marketing de influencia, sector editorial y TikTok, apenas estudiada frente a YouTube, Instagram, moda o cosmética (Rovira-Collado, 2016; Castelló-Martínez y Del-Pino-Romero, 2015; Van-Driel y Dumitrica, 2021)."
+      },
+      {
+        "id": "17",
+        "label": "Opiniones potencialmente sesgadas",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "Las autoras advierten que estas opiniones pueden estar sesgadas y apelan a la transparencia y fiabilidad de la información de las editoriales y al punto de vista de las lectoras. Proponen futuros estudios sobre audiencia, autores y responsables de marketing, comunicación y ventas para confirmar el impacto de BookTok."
+      }
     ],
     "aristas": [
-      {"from": "1", "to": "5", "label": "es el objeto central del"},
-      {"from": "2", "to": "5", "label": "enmarca teóricamente el"},
-      {"from": "3", "to": "5", "label": "contextualiza el"},
-      {"from": "4", "to": "5", "label": "funda el"},
-      {"from": "5", "to": "6", "label": "se opera mediante la"},
-      {"from": "6", "to": "7", "label": "origina el"},
-      {"from": "7", "to": "8", "label": "se complementa con las"},
-      {"from": "6", "to": "9", "label": "revela"},
-      {"from": "9", "to": "4", "label": "ejemplifica el"},
-      {"from": "7", "to": "10", "label": "registra la"},
-      {"from": "7", "to": "11", "label": "documenta las"},
-      {"from": "7", "to": "13", "label": "detecta una"},
-      {"from": "7", "to": "14", "label": "mide la"},
-      {"from": "8", "to": "12", "label": "saca a la luz las"},
-      {"from": "12", "to": "13", "label": "contrasta con la"},
-      {"from": "8", "to": "15", "label": "recoge las"},
-      {"from": "11", "to": "5", "label": "refuta la premisa"},
-      {"from": "15", "to": "16", "label": "apuntan a la"},
-      {"from": "16", "to": "17", "label": "se acota por las"},
-      {"from": "17", "to": "15", "label": "advierten sobre las"}
+      {
+        "from": "1",
+        "to": "5",
+        "label": "es el objeto central del"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "enmarca teóricamente el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "contextualiza el"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "funda el"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se opera mediante la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "origina el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se complementa con las"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "revela"
+      },
+      {
+        "from": "9",
+        "to": "4",
+        "label": "ejemplifica el"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "registra la"
+      },
+      {
+        "from": "7",
+        "to": "11",
+        "label": "documenta las"
+      },
+      {
+        "from": "7",
+        "to": "13",
+        "label": "detecta una"
+      },
+      {
+        "from": "7",
+        "to": "14",
+        "label": "mide la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "saca a la luz las"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "contrasta con la"
+      },
+      {
+        "from": "8",
+        "to": "15",
+        "label": "recoge las"
+      },
+      {
+        "from": "11",
+        "to": "5",
+        "label": "refuta la premisa"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "apuntan a la"
+      },
+      {
+        "from": "16",
+        "to": "17",
+        "label": "se acota por las"
+      },
+      {
+        "from": "17",
+        "to": "15",
+        "label": "advierten sobre las"
+      }
     ]
   }
 }

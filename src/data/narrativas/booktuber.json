@@ -12,7 +12,7 @@
     "color": "#e63946",
     "colorAlt": "#1d3557",
     "bg": "from-rose-500/20 to-ocean-dark/20",
-    "image": "https://picsum.photos/seed/booktuber/800/600"
+    "image": "/assets/portadas/transmedia_videojuego.jpg"
   },
   "blocks": {
     "apertura": {
@@ -331,44 +331,218 @@
       "titulo": "Mapa conceptual: Revisión sistemática del booktuber en Secundaria (Ocnos 23(1) 2024)",
       "descripcion": "Recorrido de la revisión: del marco de la lectura híbrida, las redes sociales literarias y las políticas de fomento, al protocolo PRISMA 2020 que filtró 16.055 registros hasta 38 estudios, la codificación de ventajas, inconvenientes y evaluación con ATLAS.ti8, y las limitaciones del método.",
       "nodos": [
-        {"id": "1", "label": "Booktuber mediador literario", "color": "#88b04b", "role": "Marco teórico", "descripcion": "Tomasena (2021) lo define como comunidad de conocimiento en red con reglas, jerarquías, valores y géneros compartidos; Paladines-Paredes y Aliagas (2021), como jóvenes que cuelgan vídeos sobre libros en YouTube. Sus videorreseñas siguen la secuencia de presentación, valoración de personajes, trama y estilo. La crítica se ejerce entre pares, de forma horizontal y participativa, fuera del ámbito profesional y sin control de universidades, editoriales o medios."},
-        {"id": "2", "label": "Lectura híbrida y alfabetización múltiple", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "Martos (2013) propone la lectura híbrida para evitar la polarización estéril entre pantallas y papel. El modelo de alfabetización múltiple (Kalantzis, Cope y Zapata, 2019) explica el cambio en los intereses y prácticas lectoras adolescentes que debe recogerse en el diseño del currículum (Hamid et al., 2015)."},
-        {"id": "3", "label": "Redes sociales literarias juveniles", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "En Goodreads las críticas a los libros están escritas desde la emoción y no desde el academicismo; Wattpad ofrece gran libertad creativa sin requisitos de publicación ni censura (Başoğul, 2021; García-Roca y De-Amo, 2019). Se suman Librote, Lecturalia, Library Thing, Kindle, Audible o Google Play Books como aliadas del fomento de la lectura en Secundaria."},
-        {"id": "4", "label": "Políticas educativas de fomento lector", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "La UNESCO (2011) sostiene que el profesorado debe convertirse en agente de cambio para formar ciudadanos lectores competentes. La LOE (2006), la LOMLOE (2020) y el Plan de Fomento de la Lectura 2021-2024 refuerzan el rol mediador del docente entre los contenidos y los aprendizajes."},
-        {"id": "5", "label": "Tres preguntas de investigación", "color": "#f4d068", "role": "Objetivo", "descripcion": "El objetivo principal fue revisar sistemáticamente las ventajas, los inconvenientes y la evaluación de las redes sociales para fomentar la lectura y de la práctica Booktuber. P1 indaga por las ventajas, P2 por los inconvenientes y P3 por la posibilidad de evaluar con esta práctica la competencia literaria en Educación Secundaria."},
-        {"id": "6", "label": "Directrices PRISMA 2020", "color": "#264653", "role": "Método", "descripcion": "La revisión siguió la guía de Page et al. (2021) con criterios de elegibilidad consensuados: publicaciones de 2012-2022 sobre redes sociales, lectura y competencia comunicativa en Secundaria, en inglés o español. Se consultaron Scopus, Web of Science y ERIC con operadores booleanos construidos desde los tesauros de ERIC y UNESCO. El riesgo de sesgo se evaluó con ROBIS (Whiting et al., 2016), con resultado bajo."},
-        {"id": "7", "label": "Muestra final de 38 estudios", "color": "#5b9eaa", "role": "Método", "descripcion": "Se recuperaron 16.055 registros (10.219 en WoS, 4.879 en ERIC y 957 en Scopus) y, tras eliminar duplicados, 15.105. La revisión de 9.128 resúmenes excluyó 5.977 por año, nivel educativo, pertinencia temática, idioma o acceso; quedaron 120 textos completos y la muestra final fue n=38."},
-        {"id": "8", "label": "VOSviewer y ATLAS.ti8", "color": "#2a9d8f", "role": "Método", "descripcion": "VOSviewer generó el mapa de co-ocurrencia con cinco nodos principales: social networks, adolescents, reading promotion, media literacy y Booktuber. Con ATLAS.ti8 se aplicó codificación abierta y tabulación cruzada código-documento para extraer frecuencias absolutas y relativas de 162 codificaciones."},
-        {"id": "9", "label": "Perfil de los registros incluidos", "color": "#f4d068", "role": "Resultados", "descripcion": "La mayoría se publicó en 2021 (31,27%), 2020 (20,63%) y 2019 (10,53%). Predomina la metodología cuantitativa (34,22%), seguida de cualitativa (23,41%) y mixta (20,52%), con un 78,15% de investigaciones empíricas. El 59,9% se localiza fuera de la Unión Europea y España lidera en Europa con el 25,9%."},
-        {"id": "10", "label": "Ventajas: socialización y motivación", "color": "#88b04b", "role": "Resultados", "descripcion": "Con 120 registros, las ventajas superan ampliamente a los 31 inconvenientes. Los principios pedagógicos suponen el 45,83% de las ventajas y la socialización el 81,82% de ellos; la motivación alcanza el 54,29% de las competencias transversales y la competencia transmedia el 81,82% de las específicas. La colaboración en línea aporta apoyo emocional, sentido de pertenencia a la comunidad digital y mayor compromiso lector."},
-        {"id": "11", "label": "Falta de competencia digital y recursos", "color": "#c73e1d", "role": "Resultados", "descripcion": "En los inconvenientes, la categoría de competencias transversales suma el 80,65%: la falta de competencia digital concentra el 40% y la de recursos técnicos el 28%, junto a la gestión del tiempo (16%) y los derechos digitales (12%). En casi todos los estudios, los factores que impiden el uso de las TIC son la falta de capacitación para su uso contextual y la falta de recursos, acceso y soporte técnico."},
-        {"id": "12", "label": "Evaluación por pares y rúbricas", "color": "#e76f51", "role": "Resultados", "descripcion": "Los 11 registros de evaluación privilegian los tipos de evaluación (81,82%): la evaluación por pares (55,56%) y la formativa (33,33%) frente a la autoevaluación (11,11%), con las rúbricas como herramienta principal. La retroalimentación entre pares ahorra tiempo docente y es un ejercicio de aprendizaje para quien la da y quien la recibe."},
-        {"id": "13", "label": "TRIC, cooperación y brecha digital", "color": "#f4a261", "role": "Discusión", "descripcion": "La idea de interacción de las publicaciones acrecienta el término TRIC (Tecnologías de la Relación, la Información y la Comunicación) por considerar primordial la relación entre usuarios. El modelo se adapta al aprendizaje cooperativo, fomenta la implicación literaria y el trabajo identitario (Sevilla-Vallejo, 2020), y suma la sostenibilidad al reducir el consumo de papel (Gil-Quintana et al., 2020). En contraste, la falta de acceso puede enmascarar déficits de competencia lectora y profundizar desigualdades sociales (Amiama-Espaillat y Mayor-Ruiz, 2017)."},
-        {"id": "14", "label": "Experiencias avaladas científicamente", "color": "#2a5a75", "role": "Conclusiones", "descripcion": "La revisión confirma que existen experiencias avaladas por estudios científicos sobre el uso de redes sociales e intervención Booktuber para el desarrollo de la competencia literaria en Secundaria. Las ventajas superan ampliamente a los inconvenientes y la evaluación entre pares con rúbricas es la vía mejor documentada."},
-        {"id": "15", "label": "Limitaciones de la revisión", "color": "#9b82c3", "role": "Limitaciones", "descripcion": "Los estudios incluidos llevan implícitos sus sesgos metodológicos y condicionantes de interpretación, y la revisión queda limitada por la cantidad y calidad de los estudios incluidos. La acotación de los términos de búsqueda puede provocar errores, como también la decisión sobre las preguntas, su medición y los hallazgos a publicar."}
+        {
+          "id": "1",
+          "label": "Booktuber mediador literario",
+          "color": "#88b04b",
+          "role": "Marco teórico",
+          "descripcion": "Tomasena (2021) lo define como comunidad de conocimiento en red con reglas, jerarquías, valores y géneros compartidos; Paladines-Paredes y Aliagas (2021), como jóvenes que cuelgan vídeos sobre libros en YouTube. Sus videorreseñas siguen la secuencia de presentación, valoración de personajes, trama y estilo. La crítica se ejerce entre pares, de forma horizontal y participativa, fuera del ámbito profesional y sin control de universidades, editoriales o medios."
+        },
+        {
+          "id": "2",
+          "label": "Lectura híbrida y alfabetización múltiple",
+          "color": "#2a9d8f",
+          "role": "Marco teórico",
+          "descripcion": "Martos (2013) propone la lectura híbrida para evitar la polarización estéril entre pantallas y papel. El modelo de alfabetización múltiple (Kalantzis, Cope y Zapata, 2019) explica el cambio en los intereses y prácticas lectoras adolescentes que debe recogerse en el diseño del currículum (Hamid et al., 2015)."
+        },
+        {
+          "id": "3",
+          "label": "Redes sociales literarias juveniles",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "En Goodreads las críticas a los libros están escritas desde la emoción y no desde el academicismo; Wattpad ofrece gran libertad creativa sin requisitos de publicación ni censura (Başoğul, 2021; García-Roca y De-Amo, 2019). Se suman Librote, Lecturalia, Library Thing, Kindle, Audible o Google Play Books como aliadas del fomento de la lectura en Secundaria."
+        },
+        {
+          "id": "4",
+          "label": "Políticas educativas de fomento lector",
+          "color": "#2a5a75",
+          "role": "Marco teórico",
+          "descripcion": "La UNESCO (2011) sostiene que el profesorado debe convertirse en agente de cambio para formar ciudadanos lectores competentes. La LOE (2006), la LOMLOE (2020) y el Plan de Fomento de la Lectura 2021-2024 refuerzan el rol mediador del docente entre los contenidos y los aprendizajes."
+        },
+        {
+          "id": "5",
+          "label": "Tres preguntas de investigación",
+          "color": "#f4d068",
+          "role": "Objetivo",
+          "descripcion": "El objetivo principal fue revisar sistemáticamente las ventajas, los inconvenientes y la evaluación de las redes sociales para fomentar la lectura y de la práctica Booktuber. P1 indaga por las ventajas, P2 por los inconvenientes y P3 por la posibilidad de evaluar con esta práctica la competencia literaria en Educación Secundaria."
+        },
+        {
+          "id": "6",
+          "label": "Directrices PRISMA 2020",
+          "color": "#264653",
+          "role": "Método",
+          "descripcion": "La revisión siguió la guía de Page et al. (2021) con criterios de elegibilidad consensuados: publicaciones de 2012-2022 sobre redes sociales, lectura y competencia comunicativa en Secundaria, en inglés o español. Se consultaron Scopus, Web of Science y ERIC con operadores booleanos construidos desde los tesauros de ERIC y UNESCO. El riesgo de sesgo se evaluó con ROBIS (Whiting et al., 2016), con resultado bajo."
+        },
+        {
+          "id": "7",
+          "label": "Muestra final de 38 estudios",
+          "color": "#5b9eaa",
+          "role": "Método",
+          "descripcion": "Se recuperaron 16.055 registros (10.219 en WoS, 4.879 en ERIC y 957 en Scopus) y, tras eliminar duplicados, 15.105. La revisión de 9.128 resúmenes excluyó 5.977 por año, nivel educativo, pertinencia temática, idioma o acceso; quedaron 120 textos completos y la muestra final fue n=38."
+        },
+        {
+          "id": "8",
+          "label": "VOSviewer y ATLAS.ti8",
+          "color": "#2a9d8f",
+          "role": "Método",
+          "descripcion": "VOSviewer generó el mapa de co-ocurrencia con cinco nodos principales: social networks, adolescents, reading promotion, media literacy y Booktuber. Con ATLAS.ti8 se aplicó codificación abierta y tabulación cruzada código-documento para extraer frecuencias absolutas y relativas de 162 codificaciones."
+        },
+        {
+          "id": "9",
+          "label": "Perfil de los registros incluidos",
+          "color": "#f4d068",
+          "role": "Resultados",
+          "descripcion": "La mayoría se publicó en 2021 (31,27%), 2020 (20,63%) y 2019 (10,53%). Predomina la metodología cuantitativa (34,22%), seguida de cualitativa (23,41%) y mixta (20,52%), con un 78,15% de investigaciones empíricas. El 59,9% se localiza fuera de la Unión Europea y España lidera en Europa con el 25,9%."
+        },
+        {
+          "id": "10",
+          "label": "Ventajas: socialización y motivación",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "Con 120 registros, las ventajas superan ampliamente a los 31 inconvenientes. Los principios pedagógicos suponen el 45,83% de las ventajas y la socialización el 81,82% de ellos; la motivación alcanza el 54,29% de las competencias transversales y la competencia transmedia el 81,82% de las específicas. La colaboración en línea aporta apoyo emocional, sentido de pertenencia a la comunidad digital y mayor compromiso lector."
+        },
+        {
+          "id": "11",
+          "label": "Falta de competencia digital y recursos",
+          "color": "#c73e1d",
+          "role": "Resultados",
+          "descripcion": "En los inconvenientes, la categoría de competencias transversales suma el 80,65%: la falta de competencia digital concentra el 40% y la de recursos técnicos el 28%, junto a la gestión del tiempo (16%) y los derechos digitales (12%). En casi todos los estudios, los factores que impiden el uso de las TIC son la falta de capacitación para su uso contextual y la falta de recursos, acceso y soporte técnico."
+        },
+        {
+          "id": "12",
+          "label": "Evaluación por pares y rúbricas",
+          "color": "#e76f51",
+          "role": "Resultados",
+          "descripcion": "Los 11 registros de evaluación privilegian los tipos de evaluación (81,82%): la evaluación por pares (55,56%) y la formativa (33,33%) frente a la autoevaluación (11,11%), con las rúbricas como herramienta principal. La retroalimentación entre pares ahorra tiempo docente y es un ejercicio de aprendizaje para quien la da y quien la recibe."
+        },
+        {
+          "id": "13",
+          "label": "TRIC, cooperación y brecha digital",
+          "color": "#f4a261",
+          "role": "Discusión",
+          "descripcion": "La idea de interacción de las publicaciones acrecienta el término TRIC (Tecnologías de la Relación, la Información y la Comunicación) por considerar primordial la relación entre usuarios. El modelo se adapta al aprendizaje cooperativo, fomenta la implicación literaria y el trabajo identitario (Sevilla-Vallejo, 2020), y suma la sostenibilidad al reducir el consumo de papel (Gil-Quintana et al., 2020). En contraste, la falta de acceso puede enmascarar déficits de competencia lectora y profundizar desigualdades sociales (Amiama-Espaillat y Mayor-Ruiz, 2017)."
+        },
+        {
+          "id": "14",
+          "label": "Experiencias avaladas científicamente",
+          "color": "#2a5a75",
+          "role": "Conclusiones",
+          "descripcion": "La revisión confirma que existen experiencias avaladas por estudios científicos sobre el uso de redes sociales e intervención Booktuber para el desarrollo de la competencia literaria en Secundaria. Las ventajas superan ampliamente a los inconvenientes y la evaluación entre pares con rúbricas es la vía mejor documentada."
+        },
+        {
+          "id": "15",
+          "label": "Limitaciones de la revisión",
+          "color": "#9b82c3",
+          "role": "Limitaciones",
+          "descripcion": "Los estudios incluidos llevan implícitos sus sesgos metodológicos y condicionantes de interpretación, y la revisión queda limitada por la cantidad y calidad de los estudios incluidos. La acotación de los términos de búsqueda puede provocar errores, como también la decisión sobre las preguntas, su medición y los hallazgos a publicar."
+        }
       ],
       "aristas": [
-        {"from": "3", "to": "1", "label": "albergan la figura del"},
-        {"from": "2", "to": "1", "label": "contextualizan la práctica del"},
-        {"from": "4", "to": "1", "label": "respaldan el potencial del"},
-        {"from": "1", "to": "5", "label": "suscita las"},
-        {"from": "5", "to": "6", "label": "se abordaron con las"},
-        {"from": "6", "to": "7", "label": "seleccionaron la"},
-        {"from": "7", "to": "8", "label": "se examinó con"},
-        {"from": "8", "to": "9", "label": "revelaron el"},
-        {"from": "8", "to": "10", "label": "codificaron las"},
-        {"from": "8", "to": "11", "label": "identificaron los"},
-        {"from": "8", "to": "12", "label": "cuantificaron la"},
-        {"from": "1", "to": "10", "label": "potencia la"},
-        {"from": "10", "to": "12", "label": "demandan la"},
-        {"from": "10", "to": "14", "label": "sustentan las"},
-        {"from": "11", "to": "13", "label": "agrava el riesgo de la"},
-        {"from": "13", "to": "14", "label": "matizan el alcance de las"},
-        {"from": "15", "to": "14", "label": "restringen la generalización de las"},
-        {"from": "6", "to": "15", "label": "arrastra las"},
-        {"from": "5", "to": "14", "label": "obtuvieron respaldo en las"},
-        {"from": "3", "to": "10", "label": "favorecen las"},
-        {"from": "12", "to": "14", "label": "avalan las"}
+        {
+          "from": "3",
+          "to": "1",
+          "label": "albergan la figura del"
+        },
+        {
+          "from": "2",
+          "to": "1",
+          "label": "contextualizan la práctica del"
+        },
+        {
+          "from": "4",
+          "to": "1",
+          "label": "respaldan el potencial del"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "suscita las"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se abordaron con las"
+        },
+        {
+          "from": "6",
+          "to": "7",
+          "label": "seleccionaron la"
+        },
+        {
+          "from": "7",
+          "to": "8",
+          "label": "se examinó con"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "revelaron el"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "codificaron las"
+        },
+        {
+          "from": "8",
+          "to": "11",
+          "label": "identificaron los"
+        },
+        {
+          "from": "8",
+          "to": "12",
+          "label": "cuantificaron la"
+        },
+        {
+          "from": "1",
+          "to": "10",
+          "label": "potencia la"
+        },
+        {
+          "from": "10",
+          "to": "12",
+          "label": "demandan la"
+        },
+        {
+          "from": "10",
+          "to": "14",
+          "label": "sustentan las"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "agrava el riesgo de la"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "matizan el alcance de las"
+        },
+        {
+          "from": "15",
+          "to": "14",
+          "label": "restringen la generalización de las"
+        },
+        {
+          "from": "6",
+          "to": "15",
+          "label": "arrastra las"
+        },
+        {
+          "from": "5",
+          "to": "14",
+          "label": "obtuvieron respaldo en las"
+        },
+        {
+          "from": "3",
+          "to": "10",
+          "label": "favorecen las"
+        },
+        {
+          "from": "12",
+          "to": "14",
+          "label": "avalan las"
+        }
       ]
     }
   }

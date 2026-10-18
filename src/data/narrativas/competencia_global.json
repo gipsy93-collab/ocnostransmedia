@@ -12,7 +12,7 @@
     "color": "#5e8b7e",
     "colorAlt": "#2f3e46",
     "bg": "from-emerald-400/20 to-ocean-dark/20",
-    "image": "https://picsum.photos/seed/competencia_global/800/600"
+    "image": "/assets/portadas/dime_modelo.jpg"
   },
   "blocks": {
     "apertura": {
@@ -320,48 +320,244 @@
       "titulo": "Mapa conceptual de la competencia global y la educación literaria",
       "descripcion": "Recorrido completo de la revisión teórica sistemática de Bermúdez-Martínez e Iñesta-Mena (Ocnos 22(2)): génesis y definición de la competencia global, sus dimensiones, los componentes intercultural y crítico, el método de revisión, el papel de la LIJ, los textos y la mediación dialógica, hasta sus beneficios y conclusión pedagógica.",
       "nodos": [
-        { "id": "1", "label": "Competencia global", "color": "#5e8b7e", "role": "Marco teórico", "descripcion": "Noción emergente acuñada como desafío del siglo XXI: de Merryfield (1994) y la NEA (2010) a CCSSO y Asia Society con el Harvard Project Zero de Boix-Mansilla: «la capacidad y la disposición para comprender y actuar sobre cuestiones de importancia global» (Boix-Mansilla y Jackson, 2011)." },
-        { "id": "2", "label": "Respaldo institucional: UNESCO y OECD/PISA 2018", "color": "#e9c46a", "role": "Marco teórico", "descripcion": "La conceptualización se oficializa con UNESCO (2014) y el marco de PISA 2018 (OECD, 2016, 2018),dimensión del aprendizaje 2030 y analizada por TALIS; en España su desarrollo es aún incipiente, con la síntesis «Changemaker» de Luis-Rico et al. (2020) y el Ubuntu como diálogo cultural alternativo." },
-        { "id": "3", "label": "Cuatro dimensiones: indagar el mundo, reconocer perspectivas, actuar, comunicar", "color": "#f4a261", "role": "Marco teórico", "descripcion": "Disposiciones que definen la competencia (Boix-Mansilla y Jackson, 2011; Boix-Mansilla, 2016) y dibujan su pedagogía característica o signature pedagogy (Boix-Mansilla y Chua, 2016, con Shulman, 2005)." },
-        { "id": "4", "label": "Saber, habilidades, actitudes y valores", "color": "#264653", "role": "Marco teórico", "descripcion": "Perfil competencial (Cano-García, 2008; OECD, 2016): comprender relacionando e interrelacionando, comunicar e interpretar otras perspectivas, apertura y respeto a la alteridad, con el pensamiento crítico y la dignidad humana como filtros." },
-        { "id": "5", "label": "Competencia intercultural", "color": "#e76f51", "role": "Componente", "descripcion": "Comunicar e interactuar de forma eficaz y adecuada entre culturas (Deardorff, 2006; Perry y Southwell, 2011; Spitzberg y Changnon, 2009); une educación multicultural y global (Brown y Kysilka, 2003) y refuerza la competencia global desde la educación intercultural de la UNESCO (2006)." },
-        { "id": "6", "label": "Alfabetización crítica (Freire y Vygotski)", "color": "#457b9d", "role": "Componente", "descripcion": "Con la problematización y la concientización de Freire (2011, 2012): desmontar lo aparentemente común, interrogar múltiples puntos de vista, focalizar cuestiones sociopolíticas y actuar por la justicia social (Lewison et al., 2002; Mulcahy, 2008), integrada hoy en la literacidad mediática y el enfoque inclusivo (Cassany; Anderson, 2019; Iñesta-Mena, 2017)." },
-        { "id": "7", "label": "Método: revisión teórica sistemática internacional", "color": "#6a4c93", "role": "Objetivo y Método", "descripcion": "Objetivo y diseño metodológico: revisión descriptiva y sistemática internacional que sintetiza los últimos quince años en Web of Science y SCOPUS sobre «global competence», «education» y «children's and young adult literature» en español e inglés." },
-        { "id": "8", "label": "Educación literaria: la LIJ conecta al alumnado con el mundo", "color": "#8ab17d", "role": "Educación literaria", "descripcion": "La literatura como expresión y comunicación cultural: texto plural y polisémico con lectores activos (Eco, 1987; Rosenblatt, 1995), goce estético y espacios de comunicación para construir el pensamiento plural e intercultural." },
-        { "id": "9", "label": "Ventanas, puertas correderas y espejos (Bishop)", "color": "#9b2226", "role": "Educación literaria", "descripcion": "Los libros muestran mundos ajenos y devuelven la propia experiencia como autorreconocimiento (Bishop, 1990); versión didáctica: libros-ventana y libros-espejo (Bonilla, 2008) y el puente de libros infantiles de Lepman (1999) con el proyecto Only Connect." },
-        { "id": "10", "label": "Ficción, identificación y empatía", "color": "#b5838d", "role": "Educación literaria", "descripcion": "La ficción permite vivir vicariamente otras culturas y entender por qué la gente vive como vive (Jokota, 1993), y contribuye al desarrollo cognitivo, emocional, ético y estético, con la empatía y los modelos mentales como claves (Nikolajeva, 2019)." },
-        { "id": "11", "label": "Literatura global y LIJ multicultural", "color": "#2a9d8f", "role": "Corpus", "descripcion": "La literatura global integra textos traducidos, de autores inmigrantes e indígenas (Rietschlin, 2012; Lehman et al., 2010); la LIJ multicultural representa grupos culturales con retrato preciso y detalle rico (Jokota, 1993; Norton, 1995; Marcelo, 2007; Perera y Ramón, 2007)." },
-        { "id": "12", "label": "Cuatro tipologías textuales para la competencia global", "color": "#f4d068", "role": "Corpus", "descripcion": "(1) Cuentos tradicionales del mundo como signo identitario; (2) textos con cuestiones globales: exilio, migración, adopción, mestizaje, identidad (Quiles-Cabrera, 2015); (3) literatura de la diferencia; (4) novela histórica infantil y juvenil." },
-        { "id": "13", "label": "Precisión cultural y estereotipos", "color": "#c73e1d", "role": "Corpus", "descripcion": "Criterio de autenticidad de Jokota (1993), Lo (2001), Wan (2006) y Rietschlin (2012): rigor cultural y calidad en diálogos y relaciones para no fijar estereotipos raciales y culturales que se desarrollan desde los 3-4 años (Salisbury, 2010)." },
-        { "id": "14", "label": "Mediación: docente guía y lectura por placer", "color": "#5b9eaa", "role": "Discusión", "descripcion": "El texto literario se escribió para ser leído, no como ejercicio lingüístico (Pagès-Jordà, 2009; Lockwood, 2011): el docente no impone interpretaciones, propone caminos y gestiona la conversación literaria desde elecciones personales." },
-        { "id": "15", "label": "Clubes democráticos y tertulias dialógicas", "color": "#8ab17d", "role": "Discusión", "descripcion": "Clubes de lectura democráticos y antieruditos (Pagès-Jordà, 2009), tertulias literarias dialógicas y lectura dialógica (Flecha, 1997; Valls et al., 2008; López-Valero et al., 2021): diálogo igualitario, inteligencia cultural, transformación y igualdad de diferencias; prácticas con role-play, investigación y pequeños grupos (Mahoney y Schamber, 2004; Sipe, 2000)." },
-        { "id": "16", "label": "Beneficios: motivación, perspectivas y participación crítica", "color": "#2a5a75", "role": "Resultados", "descripcion": "Lecturas más motivadoras que fomentan el diálogo, ampliación de visiones del mundo, autoconfianza al integrar y valorar las diferencias, y participación más profunda y crítica en problemas globales —pobreza, opresión, refugiados, ecología—, incluso desde la ecocrítica (Campos-F. Fígares y García-Rivera, 2017) (McCaffrey y Corapi, 2017)." },
-        { "id": "17", "label": "Conclusión: pedagogía específica a través de la LIJ", "color": "#9b2226", "role": "Conclusiones", "descripcion": "Abrir el canon literario a los textos globales e interculturales y aplicar mediaciones dialógicas fundamentadas en la interpretación libre configuran una pedagogía específica que forma lectores abiertos a la diversidad lingüística y cultural y conscientes de la complejidad contemporánea." },
-        { "id": "18", "label": "Vacío empírico en España y retos evaluativos", "color": "#264653", "role": "Limitaciones", "descripcion": "La revisión constata que frente a las aplicaciones en Australia, Singapur o EE. UU. (Choo et al., 2017), en España predomina la teoría emergente; urge diseñar investigaciones aplicadas en el aula con instrumentos validados de evaluación competencial." }
+        {
+          "id": "1",
+          "label": "Competencia global",
+          "color": "#5e8b7e",
+          "role": "Marco teórico",
+          "descripcion": "Noción emergente acuñada como desafío del siglo XXI: de Merryfield (1994) y la NEA (2010) a CCSSO y Asia Society con el Harvard Project Zero de Boix-Mansilla: «la capacidad y la disposición para comprender y actuar sobre cuestiones de importancia global» (Boix-Mansilla y Jackson, 2011)."
+        },
+        {
+          "id": "2",
+          "label": "Respaldo institucional: UNESCO y OECD/PISA 2018",
+          "color": "#e9c46a",
+          "role": "Marco teórico",
+          "descripcion": "La conceptualización se oficializa con UNESCO (2014) y el marco de PISA 2018 (OECD, 2016, 2018),dimensión del aprendizaje 2030 y analizada por TALIS; en España su desarrollo es aún incipiente, con la síntesis «Changemaker» de Luis-Rico et al. (2020) y el Ubuntu como diálogo cultural alternativo."
+        },
+        {
+          "id": "3",
+          "label": "Cuatro dimensiones: indagar el mundo, reconocer perspectivas, actuar, comunicar",
+          "color": "#f4a261",
+          "role": "Marco teórico",
+          "descripcion": "Disposiciones que definen la competencia (Boix-Mansilla y Jackson, 2011; Boix-Mansilla, 2016) y dibujan su pedagogía característica o signature pedagogy (Boix-Mansilla y Chua, 2016, con Shulman, 2005)."
+        },
+        {
+          "id": "4",
+          "label": "Saber, habilidades, actitudes y valores",
+          "color": "#264653",
+          "role": "Marco teórico",
+          "descripcion": "Perfil competencial (Cano-García, 2008; OECD, 2016): comprender relacionando e interrelacionando, comunicar e interpretar otras perspectivas, apertura y respeto a la alteridad, con el pensamiento crítico y la dignidad humana como filtros."
+        },
+        {
+          "id": "5",
+          "label": "Competencia intercultural",
+          "color": "#e76f51",
+          "role": "Componente",
+          "descripcion": "Comunicar e interactuar de forma eficaz y adecuada entre culturas (Deardorff, 2006; Perry y Southwell, 2011; Spitzberg y Changnon, 2009); une educación multicultural y global (Brown y Kysilka, 2003) y refuerza la competencia global desde la educación intercultural de la UNESCO (2006)."
+        },
+        {
+          "id": "6",
+          "label": "Alfabetización crítica (Freire y Vygotski)",
+          "color": "#457b9d",
+          "role": "Componente",
+          "descripcion": "Con la problematización y la concientización de Freire (2011, 2012): desmontar lo aparentemente común, interrogar múltiples puntos de vista, focalizar cuestiones sociopolíticas y actuar por la justicia social (Lewison et al., 2002; Mulcahy, 2008), integrada hoy en la literacidad mediática y el enfoque inclusivo (Cassany; Anderson, 2019; Iñesta-Mena, 2017)."
+        },
+        {
+          "id": "7",
+          "label": "Método: revisión teórica sistemática internacional",
+          "color": "#6a4c93",
+          "role": "Objetivo y Método",
+          "descripcion": "Objetivo y diseño metodológico: revisión descriptiva y sistemática internacional que sintetiza los últimos quince años en Web of Science y SCOPUS sobre «global competence», «education» y «children's and young adult literature» en español e inglés."
+        },
+        {
+          "id": "8",
+          "label": "Educación literaria: la LIJ conecta al alumnado con el mundo",
+          "color": "#8ab17d",
+          "role": "Educación literaria",
+          "descripcion": "La literatura como expresión y comunicación cultural: texto plural y polisémico con lectores activos (Eco, 1987; Rosenblatt, 1995), goce estético y espacios de comunicación para construir el pensamiento plural e intercultural."
+        },
+        {
+          "id": "9",
+          "label": "Ventanas, puertas correderas y espejos (Bishop)",
+          "color": "#9b2226",
+          "role": "Educación literaria",
+          "descripcion": "Los libros muestran mundos ajenos y devuelven la propia experiencia como autorreconocimiento (Bishop, 1990); versión didáctica: libros-ventana y libros-espejo (Bonilla, 2008) y el puente de libros infantiles de Lepman (1999) con el proyecto Only Connect."
+        },
+        {
+          "id": "10",
+          "label": "Ficción, identificación y empatía",
+          "color": "#b5838d",
+          "role": "Educación literaria",
+          "descripcion": "La ficción permite vivir vicariamente otras culturas y entender por qué la gente vive como vive (Jokota, 1993), y contribuye al desarrollo cognitivo, emocional, ético y estético, con la empatía y los modelos mentales como claves (Nikolajeva, 2019)."
+        },
+        {
+          "id": "11",
+          "label": "Literatura global y LIJ multicultural",
+          "color": "#2a9d8f",
+          "role": "Corpus",
+          "descripcion": "La literatura global integra textos traducidos, de autores inmigrantes e indígenas (Rietschlin, 2012; Lehman et al., 2010); la LIJ multicultural representa grupos culturales con retrato preciso y detalle rico (Jokota, 1993; Norton, 1995; Marcelo, 2007; Perera y Ramón, 2007)."
+        },
+        {
+          "id": "12",
+          "label": "Cuatro tipologías textuales para la competencia global",
+          "color": "#f4d068",
+          "role": "Corpus",
+          "descripcion": "(1) Cuentos tradicionales del mundo como signo identitario; (2) textos con cuestiones globales: exilio, migración, adopción, mestizaje, identidad (Quiles-Cabrera, 2015); (3) literatura de la diferencia; (4) novela histórica infantil y juvenil."
+        },
+        {
+          "id": "13",
+          "label": "Precisión cultural y estereotipos",
+          "color": "#c73e1d",
+          "role": "Corpus",
+          "descripcion": "Criterio de autenticidad de Jokota (1993), Lo (2001), Wan (2006) y Rietschlin (2012): rigor cultural y calidad en diálogos y relaciones para no fijar estereotipos raciales y culturales que se desarrollan desde los 3-4 años (Salisbury, 2010)."
+        },
+        {
+          "id": "14",
+          "label": "Mediación: docente guía y lectura por placer",
+          "color": "#5b9eaa",
+          "role": "Discusión",
+          "descripcion": "El texto literario se escribió para ser leído, no como ejercicio lingüístico (Pagès-Jordà, 2009; Lockwood, 2011): el docente no impone interpretaciones, propone caminos y gestiona la conversación literaria desde elecciones personales."
+        },
+        {
+          "id": "15",
+          "label": "Clubes democráticos y tertulias dialógicas",
+          "color": "#8ab17d",
+          "role": "Discusión",
+          "descripcion": "Clubes de lectura democráticos y antieruditos (Pagès-Jordà, 2009), tertulias literarias dialógicas y lectura dialógica (Flecha, 1997; Valls et al., 2008; López-Valero et al., 2021): diálogo igualitario, inteligencia cultural, transformación y igualdad de diferencias; prácticas con role-play, investigación y pequeños grupos (Mahoney y Schamber, 2004; Sipe, 2000)."
+        },
+        {
+          "id": "16",
+          "label": "Beneficios: motivación, perspectivas y participación crítica",
+          "color": "#2a5a75",
+          "role": "Resultados",
+          "descripcion": "Lecturas más motivadoras que fomentan el diálogo, ampliación de visiones del mundo, autoconfianza al integrar y valorar las diferencias, y participación más profunda y crítica en problemas globales —pobreza, opresión, refugiados, ecología—, incluso desde la ecocrítica (Campos-F. Fígares y García-Rivera, 2017) (McCaffrey y Corapi, 2017)."
+        },
+        {
+          "id": "17",
+          "label": "Conclusión: pedagogía específica a través de la LIJ",
+          "color": "#9b2226",
+          "role": "Conclusiones",
+          "descripcion": "Abrir el canon literario a los textos globales e interculturales y aplicar mediaciones dialógicas fundamentadas en la interpretación libre configuran una pedagogía específica que forma lectores abiertos a la diversidad lingüística y cultural y conscientes de la complejidad contemporánea."
+        },
+        {
+          "id": "18",
+          "label": "Vacío empírico en España y retos evaluativos",
+          "color": "#264653",
+          "role": "Limitaciones",
+          "descripcion": "La revisión constata que frente a las aplicaciones en Australia, Singapur o EE. UU. (Choo et al., 2017), en España predomina la teoría emergente; urge diseñar investigaciones aplicadas en el aula con instrumentos validados de evaluación competencial."
+        }
       ],
       "aristas": [
-        { "from": "7", "to": "1", "label": "sistematiza la noción de" },
-        { "from": "1", "to": "2", "label": "se institucionaliza en" },
-        { "from": "1", "to": "3", "label": "se despliega en" },
-        { "from": "3", "to": "4", "label": "moviliza" },
-        { "from": "1", "to": "5", "label": "se construye con la" },
-        { "from": "1", "to": "6", "label": "se construye con la" },
-        { "from": "5", "to": "6", "label": "converge con la" },
-        { "from": "1", "to": "8", "label": "se cultiva en la" },
-        { "from": "8", "to": "9", "label": "se ilumina con las" },
-        { "from": "9", "to": "11", "label": "se reconocen en la" },
-        { "from": "10", "to": "8", "label": "explica el poder de la" },
-        { "from": "11", "to": "12", "label": "se organiza en" },
-        { "from": "13", "to": "12", "label": "garantiza la calidad de" },
-        { "from": "6", "to": "15", "label": "encuentra su práctica en la" },
-        { "from": "14", "to": "15", "label": "orquesta" },
-        { "from": "15", "to": "8", "label": "media la" },
-        { "from": "11", "to": "16", "label": "produce" },
-        { "from": "12", "to": "17", "label": "renueva el canon para la" },
-        { "from": "16", "to": "17", "label": "respalda la" },
-        { "from": "17", "to": "1", "label": "forma lectores hacia la" },
-        { "from": "17", "to": "18", "label": "plantea como reto el" },
-        { "from": "18", "to": "7", "label": "acota el alcance de la" }
+        {
+          "from": "7",
+          "to": "1",
+          "label": "sistematiza la noción de"
+        },
+        {
+          "from": "1",
+          "to": "2",
+          "label": "se institucionaliza en"
+        },
+        {
+          "from": "1",
+          "to": "3",
+          "label": "se despliega en"
+        },
+        {
+          "from": "3",
+          "to": "4",
+          "label": "moviliza"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "se construye con la"
+        },
+        {
+          "from": "1",
+          "to": "6",
+          "label": "se construye con la"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "converge con la"
+        },
+        {
+          "from": "1",
+          "to": "8",
+          "label": "se cultiva en la"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "se ilumina con las"
+        },
+        {
+          "from": "9",
+          "to": "11",
+          "label": "se reconocen en la"
+        },
+        {
+          "from": "10",
+          "to": "8",
+          "label": "explica el poder de la"
+        },
+        {
+          "from": "11",
+          "to": "12",
+          "label": "se organiza en"
+        },
+        {
+          "from": "13",
+          "to": "12",
+          "label": "garantiza la calidad de"
+        },
+        {
+          "from": "6",
+          "to": "15",
+          "label": "encuentra su práctica en la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "orquesta"
+        },
+        {
+          "from": "15",
+          "to": "8",
+          "label": "media la"
+        },
+        {
+          "from": "11",
+          "to": "16",
+          "label": "produce"
+        },
+        {
+          "from": "12",
+          "to": "17",
+          "label": "renueva el canon para la"
+        },
+        {
+          "from": "16",
+          "to": "17",
+          "label": "respalda la"
+        },
+        {
+          "from": "17",
+          "to": "1",
+          "label": "forma lectores hacia la"
+        },
+        {
+          "from": "17",
+          "to": "18",
+          "label": "plantea como reto el"
+        },
+        {
+          "from": "18",
+          "to": "7",
+          "label": "acota el alcance de la"
+        }
       ]
     }
   }

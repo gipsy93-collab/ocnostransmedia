@@ -12,7 +12,7 @@
     "color": "#9b82c3",
     "colorAlt": "#2a5a75",
     "bg": "from-purple-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-04.png",
+    "image": "/assets/portadas/metacognicion_universitarios.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-04.png",
       "name": "Dra. Lourdes Villalustre-Martínez",
@@ -205,42 +205,210 @@
     "titulo": "Mapa conceptual: Narraciones gamificadas y evaluación de competencias docentes (Ocnos 23(2), 2024)",
     "descripcion": "Estudio con 176 universitarios que diseña y evalúa narraciones gamificadas mediante el instrumento COMP-NDCDD para examinar las competencias narrativa, digital, creativa y didáctica, sus diferencias de género y el poder predictivo sobre la competencia narrativa.",
     "nodos": [
-      {"id": "1", "label": "Gamificación en contextos educativos", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "La gamificación aplica elementos de videojuegos a contextos no lúdicos para lograr actividades más divertidas, atractivas y motivadoras (Zichermann, 2012; Roldan et al., 2022). En educación se integra desde tres enfoques: diseñar una estructura gamificada, adaptar una existente o evaluar propuestas gamificadas (Surendeleg et al., 2014; Dicheva et al., 2015)."},
-      {"id": "2", "label": "Competencia narrativa y alfabetización digital", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "La competencia narrativa abarca comprensión y producción de relatos ligada a la alfabetización letrada, audiovisual y mediática (Spencer y Petersen, 2020). Los nuevos formatos narrativos priman la interactividad, convierten al lector en protagonista y gamificar una historia enriquece el aprendizaje con retroalimentación e incentivos (Reyes y Avello, 2021; Pegalajar-Palomino, 2021)."},
-      {"id": "3", "label": "Modelo de diseño de narraciones gamificadas", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "Combina elementos estructurales del relato (comienzo y orientación, evento inicial o complicación, acciones dirigidas al objetivo) con los del proceso gamificado (misión, reglas, retos y sistema de refuerzo), según Lim y Noor (2019) y Orellana-García et al. (2022)."},
-      {"id": "4", "label": "Objetivo: cuatro competencias a evaluar", "color": "#f4a261", "role": "Objetivo", "descripcion": "Examinar las competencias narrativa, digital, creativa y didáctica durante el diseño de una narrativa gamificada, analizar las posibles diferencias de género y medir en qué medida la digital, creativa y didáctica predicen la competencia narrativa."},
-      {"id": "5", "label": "Dos fases: crear y evaluar narrativas", "color": "#264653", "role": "Método", "descripcion": "En la asignatura TIC de los grados, la primera fase consistió en crear relatos para promover valores en menores con mecánicas de juego, códigos QR, realidad aumentada, vídeo en stop-motion y dos desenlaces posibles, más una guía de integración didáctica; en la segunda, los responsables de la asignatura evaluaron las narraciones."},
-      {"id": "6", "label": "Muestra de 176 estudiantes", "color": "#2a5a75", "role": "Método", "descripcion": "176 universitarios de Magisterio en Educación Infantil y Primaria de la Universidad de Oviedo: 94 mujeres (53,5%) y 82 hombres (46,5%); el 83,9% tiene entre 18 y 20 años. Procedimiento intencional por conveniencia y accesibilidad (Etikan et al., 2016)."},
-      {"id": "7", "label": "Cuestionario COMP-NDCDD", "color": "#9b82c3", "role": "Método", "descripcion": "Instrumento de 16 ítems en cuatro dimensiones con cuatro indicadores cada una (p. ej. narrativa: espacio, personajes, tiempo y trama, estructura) con escala Likert de 1 a 5, elaborado desde Torrance (1990), Røkenes y Krumsvik (2014) y Orellana et al. (2022); alfa de Cronbach .804, KMO .765 y esfericidad de Bartlett χ²=282,876 (p=.001)."},
-      {"id": "8", "label": "ANOVA y regresión lineal", "color": "#5b9eaa", "role": "Método", "descripcion": "Análisis con SPSS 27: descriptivos, matriz de correlaciones, ANOVA univariados por género y regresión lineal múltiple con comprobación de independencia de errores (Durbin-Watson 1,931) y no colinealidad. El tamaño del efecto se valoró con la eta parcial al cuadrado (Cohen, 1988)."},
-      {"id": "9", "label": "Logro medio en cuatro competencias", "color": "#88b04b", "role": "Resultados", "descripcion": "Las medias se sitúan en el nivel intermedio (CN 3,16; CDD 3,07; CC 3,05; CD 3,00), destacando la competencia narrativa, en la que el 18,9% alcanzó un nivel alto y el 16% un nivel muy alto."},
-      {"id": "10", "label": "Correlación entre competencias", "color": "#f4d068", "role": "Resultados", "descripcion": "Las cuatro competencias correlacionan positiva y significativamente entre sí, con valores de Pearson entre .515 y .671, y asimetría y curtosis dentro de los límites de distribución normal (-2 a +2; George y Mallery, 2010)."},
-      {"id": "11", "label": "Hombres puntúan más narrativa y digital", "color": "#e76f51", "role": "Resultados", "descripcion": "El ANOVA halló diferencias significativas favorables a los hombres en la competencia narrativa (mujeres M=2,90 frente a hombres M=3,49; F=7,360, p=.008, ηp²=.066) y en la digital (2,80 frente a 3,26; p=.033, ηp²=.043), ambas con tamaño del efecto medio."},
-      {"id": "12", "label": "Sin brecha de género creativa-didáctica", "color": "#2a9d8f", "role": "Resultados", "descripcion": "No se encontraron diferencias significativas entre hombres y mujeres en las competencias creativa y didáctica, y la competencia creativa no mostró peso en la predicción de la narrativa (t=1,683, p=.095)."},
-      {"id": "13", "label": "Lo digital predice lo narrativo", "color": "#c73e1d", "role": "Resultados", "descripcion": "El modelo de regresión fue significativo (F(3,102)=24,203; p=.001) y explicó el 41,6% de la varianza: las competencias digital (B=.334) y didáctica (B=.250) contribuyen positivamente a predecir la narrativa, con mayor peso de la primera."},
-      {"id": "14", "label": "Debate por el enfoque de género", "color": "#f4a261", "role": "Discusión", "descripcion": "Los resultados se contrastan con estudios de mayor capacidad y actitud comunicativa femenina (Prieto y San-Martín, 2002; Brozo et al., 2014; Artola-González et al., 2017) y de mayor competencia digital masculina (Pérez-Escoda et al., 2021; Fernández-Sánchez y Silva-Quiroz, 2022), lo que exige acciones formativas con enfoque de género no estereotipadas."},
-      {"id": "15", "label": "Herramienta eficaz de competencias", "color": "#88b04b", "role": "Conclusiones", "descripcion": "Las narrativas gamificadas se muestran una herramienta efectiva para desarrollar en los futuros docentes las competencias digital, creativa, didáctica y narrativa, aunque conviene seguir explorando su potencial y limitaciones en los procesos de enseñanza-aprendizaje."},
-      {"id": "16", "label": "Limitaciones: muestra universitaria", "color": "#c73e1d", "role": "Limitaciones", "descripcion": "El estudio se centró en universitarios, de modo que se desconoce si los resultados extrapolan a otros niveles educativos, y es posible que el tamaño de la muestra influyera; se requieren muestras de mayor tamaño para confirmar las conclusiones."}
+      {
+        "id": "1",
+        "label": "Gamificación en contextos educativos",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "La gamificación aplica elementos de videojuegos a contextos no lúdicos para lograr actividades más divertidas, atractivas y motivadoras (Zichermann, 2012; Roldan et al., 2022). En educación se integra desde tres enfoques: diseñar una estructura gamificada, adaptar una existente o evaluar propuestas gamificadas (Surendeleg et al., 2014; Dicheva et al., 2015)."
+      },
+      {
+        "id": "2",
+        "label": "Competencia narrativa y alfabetización digital",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La competencia narrativa abarca comprensión y producción de relatos ligada a la alfabetización letrada, audiovisual y mediática (Spencer y Petersen, 2020). Los nuevos formatos narrativos priman la interactividad, convierten al lector en protagonista y gamificar una historia enriquece el aprendizaje con retroalimentación e incentivos (Reyes y Avello, 2021; Pegalajar-Palomino, 2021)."
+      },
+      {
+        "id": "3",
+        "label": "Modelo de diseño de narraciones gamificadas",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Combina elementos estructurales del relato (comienzo y orientación, evento inicial o complicación, acciones dirigidas al objetivo) con los del proceso gamificado (misión, reglas, retos y sistema de refuerzo), según Lim y Noor (2019) y Orellana-García et al. (2022)."
+      },
+      {
+        "id": "4",
+        "label": "Objetivo: cuatro competencias a evaluar",
+        "color": "#f4a261",
+        "role": "Objetivo",
+        "descripcion": "Examinar las competencias narrativa, digital, creativa y didáctica durante el diseño de una narrativa gamificada, analizar las posibles diferencias de género y medir en qué medida la digital, creativa y didáctica predicen la competencia narrativa."
+      },
+      {
+        "id": "5",
+        "label": "Dos fases: crear y evaluar narrativas",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "En la asignatura TIC de los grados, la primera fase consistió en crear relatos para promover valores en menores con mecánicas de juego, códigos QR, realidad aumentada, vídeo en stop-motion y dos desenlaces posibles, más una guía de integración didáctica; en la segunda, los responsables de la asignatura evaluaron las narraciones."
+      },
+      {
+        "id": "6",
+        "label": "Muestra de 176 estudiantes",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "176 universitarios de Magisterio en Educación Infantil y Primaria de la Universidad de Oviedo: 94 mujeres (53,5%) y 82 hombres (46,5%); el 83,9% tiene entre 18 y 20 años. Procedimiento intencional por conveniencia y accesibilidad (Etikan et al., 2016)."
+      },
+      {
+        "id": "7",
+        "label": "Cuestionario COMP-NDCDD",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "Instrumento de 16 ítems en cuatro dimensiones con cuatro indicadores cada una (p. ej. narrativa: espacio, personajes, tiempo y trama, estructura) con escala Likert de 1 a 5, elaborado desde Torrance (1990), Røkenes y Krumsvik (2014) y Orellana et al. (2022); alfa de Cronbach .804, KMO .765 y esfericidad de Bartlett χ²=282,876 (p=.001)."
+      },
+      {
+        "id": "8",
+        "label": "ANOVA y regresión lineal",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Análisis con SPSS 27: descriptivos, matriz de correlaciones, ANOVA univariados por género y regresión lineal múltiple con comprobación de independencia de errores (Durbin-Watson 1,931) y no colinealidad. El tamaño del efecto se valoró con la eta parcial al cuadrado (Cohen, 1988)."
+      },
+      {
+        "id": "9",
+        "label": "Logro medio en cuatro competencias",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Las medias se sitúan en el nivel intermedio (CN 3,16; CDD 3,07; CC 3,05; CD 3,00), destacando la competencia narrativa, en la que el 18,9% alcanzó un nivel alto y el 16% un nivel muy alto."
+      },
+      {
+        "id": "10",
+        "label": "Correlación entre competencias",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Las cuatro competencias correlacionan positiva y significativamente entre sí, con valores de Pearson entre .515 y .671, y asimetría y curtosis dentro de los límites de distribución normal (-2 a +2; George y Mallery, 2010)."
+      },
+      {
+        "id": "11",
+        "label": "Hombres puntúan más narrativa y digital",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "El ANOVA halló diferencias significativas favorables a los hombres en la competencia narrativa (mujeres M=2,90 frente a hombres M=3,49; F=7,360, p=.008, ηp²=.066) y en la digital (2,80 frente a 3,26; p=.033, ηp²=.043), ambas con tamaño del efecto medio."
+      },
+      {
+        "id": "12",
+        "label": "Sin brecha de género creativa-didáctica",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "No se encontraron diferencias significativas entre hombres y mujeres en las competencias creativa y didáctica, y la competencia creativa no mostró peso en la predicción de la narrativa (t=1,683, p=.095)."
+      },
+      {
+        "id": "13",
+        "label": "Lo digital predice lo narrativo",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "El modelo de regresión fue significativo (F(3,102)=24,203; p=.001) y explicó el 41,6% de la varianza: las competencias digital (B=.334) y didáctica (B=.250) contribuyen positivamente a predecir la narrativa, con mayor peso de la primera."
+      },
+      {
+        "id": "14",
+        "label": "Debate por el enfoque de género",
+        "color": "#f4a261",
+        "role": "Discusión",
+        "descripcion": "Los resultados se contrastan con estudios de mayor capacidad y actitud comunicativa femenina (Prieto y San-Martín, 2002; Brozo et al., 2014; Artola-González et al., 2017) y de mayor competencia digital masculina (Pérez-Escoda et al., 2021; Fernández-Sánchez y Silva-Quiroz, 2022), lo que exige acciones formativas con enfoque de género no estereotipadas."
+      },
+      {
+        "id": "15",
+        "label": "Herramienta eficaz de competencias",
+        "color": "#88b04b",
+        "role": "Conclusiones",
+        "descripcion": "Las narrativas gamificadas se muestran una herramienta efectiva para desarrollar en los futuros docentes las competencias digital, creativa, didáctica y narrativa, aunque conviene seguir explorando su potencial y limitaciones en los procesos de enseñanza-aprendizaje."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones: muestra universitaria",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "El estudio se centró en universitarios, de modo que se desconoce si los resultados extrapolan a otros niveles educativos, y es posible que el tamaño de la muestra influyera; se requieren muestras de mayor tamaño para confirmar las conclusiones."
+      }
     ],
     "aristas": [
-      {"from": "1", "to": "2", "label": "converge con la"},
-      {"from": "1", "to": "4", "label": "sustenta el"},
-      {"from": "2", "to": "4", "label": "contextualiza el"},
-      {"from": "4", "to": "3", "label": "se apoya en el"},
-      {"from": "3", "to": "5", "label": "se operativa en las"},
-      {"from": "5", "to": "6", "label": "se ejecutó con la"},
-      {"from": "5", "to": "7", "label": "se valoraron con el"},
-      {"from": "7", "to": "8", "label": "sus datos se tratan con"},
-      {"from": "8", "to": "9", "label": "el análisis describe un"},
-      {"from": "9", "to": "10", "label": "se complementa con la"},
-      {"from": "10", "to": "13", "label": "anticipa la"},
-      {"from": "8", "to": "11", "label": "detecta"},
-      {"from": "8", "to": "12", "label": "no confirma"},
-      {"from": "11", "to": "14", "label": "suscita el"},
-      {"from": "12", "to": "14", "label": "matiza el"},
-      {"from": "13", "to": "15", "label": "respalda la"},
-      {"from": "14", "to": "15", "label": "enriquece la"},
-      {"from": "15", "to": "16", "label": "se acota por las"}
+      {
+        "from": "1",
+        "to": "2",
+        "label": "converge con la"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "sustenta el"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "contextualiza el"
+      },
+      {
+        "from": "4",
+        "to": "3",
+        "label": "se apoya en el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "se operativa en las"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se ejecutó con la"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "se valoraron con el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "sus datos se tratan con"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "el análisis describe un"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "se complementa con la"
+      },
+      {
+        "from": "10",
+        "to": "13",
+        "label": "anticipa la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "detecta"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "no confirma"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "suscita el"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "matiza el"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "respalda la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "enriquece la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "se acota por las"
+      }
     ]
   }
 }

@@ -12,7 +12,7 @@
     "color": "#2a9d8f",
     "colorAlt": "#264653",
     "bg": "from-teal-400/20 to-ocean-dark/20",
-    "image": "https://picsum.photos/seed/multiliteracidad/800/600",
+    "image": "/assets/portadas/situaciones_lomloe.jpg",
     "tutor": {
       "image": "https://picsum.photos/seed/tutor-multi/200/200",
       "name": "Dra. Gabriela Báez-Bargellini",
@@ -110,16 +110,46 @@
       "titulo": "Cómo se hizo la revisión sistemática: de 277 artículos a 26",
       "narrativa": "Imagina que quieres saber qué se ha investigado sobre multiliteracidad en aulas de Lenguaje en los últimos 24 años. Las autoras —Gabriela Báez-Bargellini y Alejandra Meneses-Arévalo, ambas de la Pontificia Universidad Católica de Chile— realizaron dos búsquedas consecutivas en Web of Science. La primera, exploratoria, usó los términos 'multiliteracies' o 'multiliteracy' combinados con 'education' o 'school'. Arrojó 182 artículos. La segunda búsqueda añadió los términos 'language' y 'language arts' para enfocarse específicamente en la asignatura de Lenguaje. Arrojó 95 artículos adicionales. Tras aplicar criterios de inclusión y exclusión muy precisos, de los 277 artículos iniciales se seleccionaron 13 en cada búsqueda: 26 estudios empíricos en total, todos escritos en inglés. Luego vino el trabajo artesanal: una lectura inductiva detallada de cada artículo, prestando atención a cómo incorporaban la multiliteracidad en las prácticas pedagógicas. De ese análisis emergieron —no se impusieron desde arriba— tres categorías temáticas que organizan todos los hallazgos.",
       "detalles": [
-        { "label": "Base de datos", "value": "Web of Science (WOS), única base utilizada" },
-        { "label": "Búsquedas realizadas", "value": "Dos consecutivas: una exploratoria (TS=multiliteracies OR multiliteracy AND TS=educati* OR school*) y otra focalizada en Lenguaje (añadiendo TS=language OR TS=language arts)" },
-        { "label": "Artículos en búsqueda 1", "value": "182 artículos iniciales; tras aplicar criterios de inclusión/exclusión, 13 seleccionados" },
-        { "label": "Artículos en búsqueda 2", "value": "95 artículos adicionales; tras criterios adicionales, 13 nuevos seleccionados" },
-        { "label": "Muestra final", "value": "26 artículos empíricos publicados entre 1996 y 2020, todos en inglés" },
-        { "label": "Criterios de inclusión", "value": "Artículos empíricos; uso explícito de 'multiliteracy/multiliteracies'; educación primaria o secundaria; investigaciones en sala de clases o dentro de la escuela" },
-        { "label": "Criterios de exclusión", "value": "Revisiones teóricas; preescolar, educación superior o adultos; fuera del contexto escolar; centrados solo en tecnología; evaluaciones estandarizadas; asignaturas artísticas o científicas; no accesibles en WOS; acceso anticipado" },
-        { "label": "Criterios adicionales (búsqueda 2)", "value": "Artículos con secciones claramente definidas; en asignaturas de Lenguaje; con foco en estudiantes y/o profesores. Se excluyeron investigaciones con profesores en formación y percepciones docentes" },
-        { "label": "Análisis", "value": "Inductivo mediante lectura detallada. Las categorías emergieron de los enfoques adoptados por los propios estudios para abordar la multiliteracidad" },
-        { "label": "Categorías resultantes", "value": "(1) Géneros multimodales, (2) Pedagogía de la multiliteracidad, (3) Reconocimiento de la diversidad" }
+        {
+          "label": "Base de datos",
+          "value": "Web of Science (WOS), única base utilizada"
+        },
+        {
+          "label": "Búsquedas realizadas",
+          "value": "Dos consecutivas: una exploratoria (TS=multiliteracies OR multiliteracy AND TS=educati* OR school*) y otra focalizada en Lenguaje (añadiendo TS=language OR TS=language arts)"
+        },
+        {
+          "label": "Artículos en búsqueda 1",
+          "value": "182 artículos iniciales; tras aplicar criterios de inclusión/exclusión, 13 seleccionados"
+        },
+        {
+          "label": "Artículos en búsqueda 2",
+          "value": "95 artículos adicionales; tras criterios adicionales, 13 nuevos seleccionados"
+        },
+        {
+          "label": "Muestra final",
+          "value": "26 artículos empíricos publicados entre 1996 y 2020, todos en inglés"
+        },
+        {
+          "label": "Criterios de inclusión",
+          "value": "Artículos empíricos; uso explícito de 'multiliteracy/multiliteracies'; educación primaria o secundaria; investigaciones en sala de clases o dentro de la escuela"
+        },
+        {
+          "label": "Criterios de exclusión",
+          "value": "Revisiones teóricas; preescolar, educación superior o adultos; fuera del contexto escolar; centrados solo en tecnología; evaluaciones estandarizadas; asignaturas artísticas o científicas; no accesibles en WOS; acceso anticipado"
+        },
+        {
+          "label": "Criterios adicionales (búsqueda 2)",
+          "value": "Artículos con secciones claramente definidas; en asignaturas de Lenguaje; con foco en estudiantes y/o profesores. Se excluyeron investigaciones con profesores en formación y percepciones docentes"
+        },
+        {
+          "label": "Análisis",
+          "value": "Inductivo mediante lectura detallada. Las categorías emergieron de los enfoques adoptados por los propios estudios para abordar la multiliteracidad"
+        },
+        {
+          "label": "Categorías resultantes",
+          "value": "(1) Géneros multimodales, (2) Pedagogía de la multiliteracidad, (3) Reconocimiento de la diversidad"
+        }
       ],
       "limitaciones": [
         "Solo se revisaron artículos en inglés. Toda la producción en español, portugués, francés y otras lenguas queda fuera del análisis.",
@@ -164,7 +194,8 @@
         },
         {
           "label": "3. Reconocimiento de la diversidad (8 artículos)",
-          "value": "Los estudios con minorías culturales se centraron en estudiantes migrantes (Danzak, 2011; Ntelioglou et al., 2014; Skerrett, 2012; Villalva, 2006) y poblaciones interculturales (Krulatz et al., 2018). Danzak (2011) usó cómics para que adolescentes migrantes compartieran sus historias, fomentando identidad, multiculturalidad y confianza. Villalva (2006) documentó a dos estudiantes mexicanas migrantes bilingües que escribían en inglés académico sofisticado, pero sus docentes no percibían esas habilidades —el caso emblemático de las literacidades ocultas. Skerrett (2012) reveló cómo una adolescente transnacional experimentó cambios en sus prácticas de multiliteracidad y en el uso de lenguajes interconectados. En contextos vulnerados (Anderson et al., 2017; Kohnen y Lacy, 2018; Zammit, 2011), la multiliteracidad generó un mayor compromiso de los estudiantes con su aprendizaje, desarrollo de su voz y asunción de un rol más activo. Zammit (2011) encontró que los estudiantes de bajos ingresos reconocieron la escuela como un espacio de pertenencia significativo."        }
+          "value": "Los estudios con minorías culturales se centraron en estudiantes migrantes (Danzak, 2011; Ntelioglou et al., 2014; Skerrett, 2012; Villalva, 2006) y poblaciones interculturales (Krulatz et al., 2018). Danzak (2011) usó cómics para que adolescentes migrantes compartieran sus historias, fomentando identidad, multiculturalidad y confianza. Villalva (2006) documentó a dos estudiantes mexicanas migrantes bilingües que escribían en inglés académico sofisticado, pero sus docentes no percibían esas habilidades —el caso emblemático de las literacidades ocultas. Skerrett (2012) reveló cómo una adolescente transnacional experimentó cambios en sus prácticas de multiliteracidad y en el uso de lenguajes interconectados. En contextos vulnerados (Anderson et al., 2017; Kohnen y Lacy, 2018; Zammit, 2011), la multiliteracidad generó un mayor compromiso de los estudiantes con su aprendizaje, desarrollo de su voz y asunción de un rol más activo. Zammit (2011) encontró que los estudiantes de bajos ingresos reconocieron la escuela como un espacio de pertenencia significativo."
+        }
       ],
       "dataPoints": [
         "18 de 26 artículos (69%) se centraron en géneros multimodales de producción o interpretación.",
@@ -330,44 +361,220 @@
     "titulo": "Mapa conceptual: multiliteracidad en la asignatura de Lenguaje (Ocnos 22(2) 2023)",
     "descripcion": "Ante la tensión entre una escuela centrada en lo impreso y las literacidades digitales, la revisión sistemática de Báez-Bargellini y Meneses-Arévalo analiza 26 estudios empíricos (1996-2020) en tres temas —géneros multimodales, pedagogía de la multiliteracidad y reconocimiento de la diversidad— y concluye que esta pedagogía abre aulas más democráticas, dialógicas e inclusivas, con el desafío del cambio de paradigma docente y la escasez de diseños cuantitativos.",
     "nodos": [
-      { "id": "1", "label": "Tensión entre escuela y nuevas literacidades", "color": "#c73e1d", "role": "Marco teórico", "descripcion": "La escuela sigue centrada en decodificar la palabra escrita y producir textos abstractos y descontextualizados (Knobel y Lankshear, 2014; González-García, 2018), mientras fuera de ella circulan literacidades multimodales, multilingües y digitales (Coiro et al., 2008; Gee y Hayes, 2011). La asignatura de Lenguaje ha priorizado la gramática, la norma y el canon literario (Sotomayor et al., 2011)." },
-      { "id": "2", "label": "Multiliteracidad del New London Group", "color": "#f4a261", "role": "Marco teórico", "descripcion": "El término fue acuñado por el New London Group en 1996 ante los cambios del mundo globalizado (Kalantzis y Cope, 2008; O'Rourke, 2005). Abarca dos aspectos: la interacción de múltiples modos semióticos en la creación de significado y el carácter situado de las literacidades, valorando las diferencias locales en un contexto global." },
-      { "id": "3", "label": "Pedagogía del diseño y práctica situada", "color": "#264653", "role": "Marco teórico", "descripcion": "Propone tres fases —diseño disponible, proceso de diseño y rediseño— (Cope y Kalantzis, 2000) y cuatro factores: práctica situada, enseñanza explícita con metalenguaje, marcos críticos y práctica transformada. Exige al profesorado combinar la alfabetización tradicional con competencias de multiliteracidad (Unsworth, 2001)." },
-      { "id": "4", "label": "Mapear multiliteracidad en Lenguaje 1996-2020", "color": "#2a5a75", "role": "Objetivo", "descripcion": "Dos preguntas guían la revisión sistemática: ¿qué ámbitos de la multiliteracidad se han considerado en la enseñanza del Lenguaje en artículos empíricos entre 1996 y 2020?, y ¿qué lecciones deja su incorporación en esa enseñanza?" },
-      { "id": "5", "label": "Dos búsquedas en Web of Science", "color": "#5b9eaa", "role": "Método", "descripcion": "La primera búsqueda exploratoria (multiliteracies/multiliteracy + educati*/school* desde 1996) arrojó 182 artículos y seleccionó 13. La segunda, añadiendo términos de la asignatura de Lenguaje, recuperó 95 artículos y sumó 13 nuevos, todos en inglés." },
-      { "id": "6", "label": "Criterios de inclusión y exclusión", "color": "#2a9d8f", "role": "Método", "descripcion": "Se incluyeron estudios empíricos que mencionaban explícitamente la multiliteracidad, en educación primaria o secundaria y en el aula. Se excluyeron revisiones teóricas, estudios preescolares, superiores o de adultos, el foco exclusivo en tecnología o evaluación estandarizada y asignaturas artísticas o científicas." },
-      { "id": "7", "label": "26 estudios con análisis inductivo", "color": "#5b9eaa", "role": "Método", "descripcion": "Los 26 artículos se leyeron en detalle y se clasificaron inductivamente en tres categorías emergentes: géneros multimodales, pedagogía de la multiliteracidad y reconocimiento de la diversidad. El 73% (19) se publicó desde 2015 y se concentran en EE. UU. (9), Australia (4), Canadá (3) y Singapur (3)." },
-      { "id": "8", "label": "Géneros multimodales en el 69%", "color": "#88b04b", "role": "Resultados", "descripcion": "El 69% de los estudios analiza géneros multimodales —prácticas situadas que integran modos verbales, visuales y gestuales (Mills, 2009)—, distinguidos entre producción (15 de 26 artículos) e interpretación, esta última vinculada al pensamiento crítico (Ajayi, 2011; Reyes-Torres y Raga, 2020)." },
-      { "id": "9", "label": "Cambio de roles y agencia estudiantil", "color": "#2a9d8f", "role": "Resultados", "descripcion": "La producción multimodal alteró el ambiente y la interacción del aula: Mills y Exley (2014) registraron un conflicto ideológico con la estructura tradicional y un reajuste de roles con más colaboración horizontal; Ntelioglou et al. (2014) observaron mayor agencia estudiantil frente al liderazgo docente habitual." },
-      { "id": "10", "label": "Pedagogía como eje y marco de análisis", "color": "#f4d068", "role": "Resultados", "descripcion": "Cinco estudios usaron el marco pedagógico como eje de la práctica (Tan y Guo, 2014 —prácticas vernáculas y rol docente—; Burke y Hardware, 2015 —composiciones digitales—; Lee et al., 2016; Lee, 2018 —costos e inequidades del capital cultural—) y uno como marco analítico (Seglem y Garcia, 2018), con enfoque testimonial y sin priorizar resultados de aprendizaje." },
-      { "id": "11", "label": "Literacidades ocultas en estudiantes migrantes", "color": "#e76f51", "role": "Resultados", "descripcion": "Danzak (2011) mostró comics autobiográficos que construyeron identidad y confianza; Skerrett (2012), lenguas interconectadas en una adolescente transnacional; y Villalva (2006) que las minorías bilingües investigaban y escribían en inglés académico con habilidades imperceptibles para sus docentes: literacidades ocultas." },
-      { "id": "12", "label": "Diversidad en contextos vulnerables", "color": "#c73e1d", "role": "Resultados", "descripcion": "Con estudiantes académicamente marginados, Anderson et al. (2017) valoraron sus diseños persuasivos multimodales y Kohnen y Lacy (2018) su crítica de las noticias; Zammit (2011) halló mayor participación y sentido de pertenencia en alumnado de bajo ingreso, y Krulatz et al. (2018) fortalecieron la conciencia de la diversidad lingüística." },
-      { "id": "13", "label": "Dinámicas más democráticas y dialógicas", "color": "#88b04b", "role": "Resultados", "descripcion": "Como lección transversal, la inclusión de la multiliteracidad genera cambios positivos: aulas más participativas, relevo de liderazgos, mayor colaboración horizontal, compromiso y agencia del estudiantado, frente a una educación tradicional con escasa toma de decisiones estudiantil." },
-      { "id": "14", "label": "Cambio de paradigma docente requerido", "color": "#264653", "role": "Discusión", "descripcion": "El mayor desafío es el giro paradigmático del profesorado hacia una educación dialógica atenta a las necesidades e intereses estudiantiles (Tan y Guo, 2014; Krulatz et al., 2018), junto a la disponibilidad de recursos y los altos costos de las experiencias interculturales (Lee, 2018), lo que exige un nivel más alto de competencia docente." },
-      { "id": "15", "label": "Modos semióticos para comunicar auténticamente", "color": "#f4a261", "role": "Conclusiones", "descripcion": "La revisión concluye empíricamente que las prácticas pedagógicas basadas en la multiliteracidad facilitan incorporar modos semióticos más allá de lo verbal para comunicar en contextos auténticos y locales, y producen transformaciones hacia dinámicas de aula más democráticas, dialógicas e inclusivas." },
-      { "id": "16", "label": "Vacío: faltan diseños cuantitativos", "color": "#f4d068", "role": "Limitaciones", "descripcion": "Predominan los enfoques cualitativos de descripción detallada, los llamados 'artículos testimoniales' (Goggin, 1994), sin medir resultados de aprendizaje. La revisión sugiere diversificar metodologías con diseños cuantitativos y mixtos para relacionar experiencias y aprendizajes." }
+      {
+        "id": "1",
+        "label": "Tensión entre escuela y nuevas literacidades",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "La escuela sigue centrada en decodificar la palabra escrita y producir textos abstractos y descontextualizados (Knobel y Lankshear, 2014; González-García, 2018), mientras fuera de ella circulan literacidades multimodales, multilingües y digitales (Coiro et al., 2008; Gee y Hayes, 2011). La asignatura de Lenguaje ha priorizado la gramática, la norma y el canon literario (Sotomayor et al., 2011)."
+      },
+      {
+        "id": "2",
+        "label": "Multiliteracidad del New London Group",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "El término fue acuñado por el New London Group en 1996 ante los cambios del mundo globalizado (Kalantzis y Cope, 2008; O'Rourke, 2005). Abarca dos aspectos: la interacción de múltiples modos semióticos en la creación de significado y el carácter situado de las literacidades, valorando las diferencias locales en un contexto global."
+      },
+      {
+        "id": "3",
+        "label": "Pedagogía del diseño y práctica situada",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Propone tres fases —diseño disponible, proceso de diseño y rediseño— (Cope y Kalantzis, 2000) y cuatro factores: práctica situada, enseñanza explícita con metalenguaje, marcos críticos y práctica transformada. Exige al profesorado combinar la alfabetización tradicional con competencias de multiliteracidad (Unsworth, 2001)."
+      },
+      {
+        "id": "4",
+        "label": "Mapear multiliteracidad en Lenguaje 1996-2020",
+        "color": "#2a5a75",
+        "role": "Objetivo",
+        "descripcion": "Dos preguntas guían la revisión sistemática: ¿qué ámbitos de la multiliteracidad se han considerado en la enseñanza del Lenguaje en artículos empíricos entre 1996 y 2020?, y ¿qué lecciones deja su incorporación en esa enseñanza?"
+      },
+      {
+        "id": "5",
+        "label": "Dos búsquedas en Web of Science",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "La primera búsqueda exploratoria (multiliteracies/multiliteracy + educati*/school* desde 1996) arrojó 182 artículos y seleccionó 13. La segunda, añadiendo términos de la asignatura de Lenguaje, recuperó 95 artículos y sumó 13 nuevos, todos en inglés."
+      },
+      {
+        "id": "6",
+        "label": "Criterios de inclusión y exclusión",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Se incluyeron estudios empíricos que mencionaban explícitamente la multiliteracidad, en educación primaria o secundaria y en el aula. Se excluyeron revisiones teóricas, estudios preescolares, superiores o de adultos, el foco exclusivo en tecnología o evaluación estandarizada y asignaturas artísticas o científicas."
+      },
+      {
+        "id": "7",
+        "label": "26 estudios con análisis inductivo",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Los 26 artículos se leyeron en detalle y se clasificaron inductivamente en tres categorías emergentes: géneros multimodales, pedagogía de la multiliteracidad y reconocimiento de la diversidad. El 73% (19) se publicó desde 2015 y se concentran en EE. UU. (9), Australia (4), Canadá (3) y Singapur (3)."
+      },
+      {
+        "id": "8",
+        "label": "Géneros multimodales en el 69%",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El 69% de los estudios analiza géneros multimodales —prácticas situadas que integran modos verbales, visuales y gestuales (Mills, 2009)—, distinguidos entre producción (15 de 26 artículos) e interpretación, esta última vinculada al pensamiento crítico (Ajayi, 2011; Reyes-Torres y Raga, 2020)."
+      },
+      {
+        "id": "9",
+        "label": "Cambio de roles y agencia estudiantil",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "La producción multimodal alteró el ambiente y la interacción del aula: Mills y Exley (2014) registraron un conflicto ideológico con la estructura tradicional y un reajuste de roles con más colaboración horizontal; Ntelioglou et al. (2014) observaron mayor agencia estudiantil frente al liderazgo docente habitual."
+      },
+      {
+        "id": "10",
+        "label": "Pedagogía como eje y marco de análisis",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Cinco estudios usaron el marco pedagógico como eje de la práctica (Tan y Guo, 2014 —prácticas vernáculas y rol docente—; Burke y Hardware, 2015 —composiciones digitales—; Lee et al., 2016; Lee, 2018 —costos e inequidades del capital cultural—) y uno como marco analítico (Seglem y Garcia, 2018), con enfoque testimonial y sin priorizar resultados de aprendizaje."
+      },
+      {
+        "id": "11",
+        "label": "Literacidades ocultas en estudiantes migrantes",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Danzak (2011) mostró comics autobiográficos que construyeron identidad y confianza; Skerrett (2012), lenguas interconectadas en una adolescente transnacional; y Villalva (2006) que las minorías bilingües investigaban y escribían en inglés académico con habilidades imperceptibles para sus docentes: literacidades ocultas."
+      },
+      {
+        "id": "12",
+        "label": "Diversidad en contextos vulnerables",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Con estudiantes académicamente marginados, Anderson et al. (2017) valoraron sus diseños persuasivos multimodales y Kohnen y Lacy (2018) su crítica de las noticias; Zammit (2011) halló mayor participación y sentido de pertenencia en alumnado de bajo ingreso, y Krulatz et al. (2018) fortalecieron la conciencia de la diversidad lingüística."
+      },
+      {
+        "id": "13",
+        "label": "Dinámicas más democráticas y dialógicas",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Como lección transversal, la inclusión de la multiliteracidad genera cambios positivos: aulas más participativas, relevo de liderazgos, mayor colaboración horizontal, compromiso y agencia del estudiantado, frente a una educación tradicional con escasa toma de decisiones estudiantil."
+      },
+      {
+        "id": "14",
+        "label": "Cambio de paradigma docente requerido",
+        "color": "#264653",
+        "role": "Discusión",
+        "descripcion": "El mayor desafío es el giro paradigmático del profesorado hacia una educación dialógica atenta a las necesidades e intereses estudiantiles (Tan y Guo, 2014; Krulatz et al., 2018), junto a la disponibilidad de recursos y los altos costos de las experiencias interculturales (Lee, 2018), lo que exige un nivel más alto de competencia docente."
+      },
+      {
+        "id": "15",
+        "label": "Modos semióticos para comunicar auténticamente",
+        "color": "#f4a261",
+        "role": "Conclusiones",
+        "descripcion": "La revisión concluye empíricamente que las prácticas pedagógicas basadas en la multiliteracidad facilitan incorporar modos semióticos más allá de lo verbal para comunicar en contextos auténticos y locales, y producen transformaciones hacia dinámicas de aula más democráticas, dialógicas e inclusivas."
+      },
+      {
+        "id": "16",
+        "label": "Vacío: faltan diseños cuantitativos",
+        "color": "#f4d068",
+        "role": "Limitaciones",
+        "descripcion": "Predominan los enfoques cualitativos de descripción detallada, los llamados 'artículos testimoniales' (Goggin, 1994), sin medir resultados de aprendizaje. La revisión sugiere diversificar metodologías con diseños cuantitativos y mixtos para relacionar experiencias y aprendizajes."
+      }
     ],
     "aristas": [
-      { "from": "1", "to": "2", "label": "motivó el surgimiento de la" },
-      { "from": "1", "to": "4", "label": "impulsa la" },
-      { "from": "2", "to": "4", "label": "orienta las preguntas de la" },
-      { "from": "2", "to": "3", "label": "fundamenta la" },
-      { "from": "4", "to": "5", "label": "se indaga mediante las" },
-      { "from": "5", "to": "6", "label": "aplican los" },
-      { "from": "6", "to": "7", "label": "culmina en los" },
-      { "from": "3", "to": "10", "label": "guía los" },
-      { "from": "7", "to": "8", "label": "agrupa los" },
-      { "from": "7", "to": "10", "label": "agrupa los" },
-      { "from": "7", "to": "11", "label": "agrupa las" },
-      { "from": "7", "to": "12", "label": "agrupa los" },
-      { "from": "8", "to": "9", "label": "evidencia el" },
-      { "from": "9", "to": "13", "label": "conducen a una" },
-      { "from": "11", "to": "12", "label": "comparte tema con" },
-      { "from": "12", "to": "13", "label": "sostienen una" },
-      { "from": "10", "to": "14", "label": "exige el" },
-      { "from": "13", "to": "15", "label": "respaldan la" },
-      { "from": "14", "to": "15", "label": "condiciona la" },
-      { "from": "16", "to": "15", "label": "matiza la" }
+      {
+        "from": "1",
+        "to": "2",
+        "label": "motivó el surgimiento de la"
+      },
+      {
+        "from": "1",
+        "to": "4",
+        "label": "impulsa la"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "orienta las preguntas de la"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "fundamenta la"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se indaga mediante las"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "aplican los"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "culmina en los"
+      },
+      {
+        "from": "3",
+        "to": "10",
+        "label": "guía los"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "agrupa los"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "agrupa los"
+      },
+      {
+        "from": "7",
+        "to": "11",
+        "label": "agrupa las"
+      },
+      {
+        "from": "7",
+        "to": "12",
+        "label": "agrupa los"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "evidencia el"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "conducen a una"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "comparte tema con"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "sostienen una"
+      },
+      {
+        "from": "10",
+        "to": "14",
+        "label": "exige el"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "respaldan la"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "condiciona la"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "matiza la"
+      }
     ]
   }
 }

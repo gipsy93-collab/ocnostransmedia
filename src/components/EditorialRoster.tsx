@@ -275,7 +275,7 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
     statRigor: 90,
   };
 
-  const cromoImage = selectedNarrative.metadata?.image || `/assets/cromos/cromo-${(selectedIndex % 20) + 1}.png`;
+  const cromoImage = selectedNarrative.metadata?.image || '/assets/portadas/naturaleza_albumes.jpg';
 
   // Anunciar a lectores de pantalla cuando cambia de personaje
   const handleSelectCharacter = (index: number, announce: boolean = true) => {
@@ -569,7 +569,7 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
             {filteredNarrativas.map((item) => {
               const actualIdx = NARRATIVAS.findIndex(n => n.id === item.id);
               const isSelected = actualIdx === selectedIndex;
-              const miniCromo = item.metadata?.image || `/assets/cromos/cromo-${(actualIdx % 20) + 1}.png`;
+              const miniCromo = item.metadata?.image || '/assets/portadas/naturaleza_albumes.jpg';
 
               return (
                 <button
@@ -882,7 +882,7 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
                           statImpact: 90,
                           statRigor: 90
                         };
-                        const itemCromo = item.metadata?.image || `/assets/cromos/cromo-${(actualIndex % 20) + 1}.png`;
+                        const itemCromo = item.metadata?.image || '/assets/portadas/naturaleza_albumes.jpg';
                         const itemPlayable = isNarrativePlayable(item);
 
                         return (

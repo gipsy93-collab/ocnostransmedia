@@ -12,7 +12,7 @@
     "color": "#e76f51",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-03.png",
+    "image": "/assets/portadas/desapego_lectura_digital.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-03.png",
       "name": "Dr. Ángel-Javier Tabullo",
@@ -191,47 +191,237 @@
     "titulo": "Mapa conceptual: Funciones ejecutivas y hábitos lectores en lectura digital (Ocnos 23(2) 2024)",
     "descripcion": "Del modelo de comprensión y las funciones ejecutivas a la medición con 98 universitarios: la memoria de trabajo predice ambos textos, la flexibilidad al expositivo y la ficción al narrativo, con ventaja del estudio en pantalla.",
     "nodos": [
-      {"id": "1", "label": "Concepción Simple de la Lectura", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Modelo de Hoover y Tunmer (2018) que plantea la comprensión como interacción del reconocimiento de palabras y la comprensión del lenguaje. El vocabulario y la fluidez se destacan como principales predictoras del éxito lector."},
-      {"id": "2", "label": "Funciones Ejecutivas según Miyake", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "Miyake et al. (2000) define inhibición, flexibilidad cognitiva y memoria de trabajo. Este modelo influyó en la investigación lectora y fue incorporado a la Visión Activa de la Lectura de Duke y Cartwright (2021)."},
-      {"id": "3", "label": "Lectura superficial en pantallas", "color": "#c73e1d", "role": "Marco teórico", "descripcion": "Las pantallas promueven skimming, escaneo y multitarea, con una estrategia más superficial (Barzillai y Thomson, 2018). Los meta-análisis de Delgado et al. (2018) y Clinton-Lisell (2019) muestran ventaja del papel en textos expositivos."},
-      {"id": "4", "label": "Exposición a la ficción", "color": "#88b04b", "role": "Marco teórico", "descripcion": "El test de reconocimiento de autores (Stanovich y West, 1989) mide objetivamente la exposición a ficción y predice la comprensión. Esta relación se interpreta mediante el efecto Mateo (Stanovich, 1986)."},
-      {"id": "5", "label": "Objetivo: FE, hábitos y comprensión en pantalla", "color": "#e76f51", "role": "Objetivo", "descripcion": "Analizar la relación entre la comprensión de textos expositivos y narrativos presentados en pantalla, las funciones ejecutivas y los hábitos lectores. Considera la exposición a ficción y el soporte preferido para estudio o lectura recreativa."},
-      {"id": "6", "label": "Muestra de 98 universitarios", "color": "#264653", "role": "Método", "descripcion": "98 estudiantes de primer año de psicología de la Pontificia Universidad Católica Argentina, sede Mendoza (76.8% mujeres, edad M=20.6). Se comparó con grupos control que leyeron en papel (n=62 expositivo, n=56 narrativo). Diseño cuantitativo, no experimental, correlacional y transversal, analizado con regresión jerárquica en JAMOVI."},
-      {"id": "7", "label": "Comprensión en pantalla vía Google Forms", "color": "#5b9eaa", "role": "Método", "descripcion": "Se leyeron en pantalla un texto expositivo sobre cerebro y discalculia (Abusamra) y el cuento Las tazas de café de Mario Benedetti. Cada texto fue seguido por 12 preguntas de opción múltiple basadas en el enfoque multicomponencial."},
-      {"id": "8", "label": "Batería TAC y running span", "color": "#2a9d8f", "role": "Método", "descripcion": "La batería TAC (Introzzi y Canet-Juric, 2019) evaluó inhibición perceptual con búsqueda visual y flexibilidad cognitiva con la tarea de dedos. El running span de la batería BIMeT-V midió la memoria de trabajo verbal."},
-      {"id": "9", "label": "Encuesta de hábitos y TRA", "color": "#88b04b", "role": "Método", "descripcion": "Una encuesta ad hoc registró tamaño de biblioteca, frecuencia de lectura y soporte preferido. El test de reconocimiento de autores, validado en Argentina (Tabullo et al., 2018), cuantificó el reconocimiento de autores de ficción."},
-      {"id": "10", "label": "Equivalencia papel-pantalla", "color": "#f4d068", "role": "Resultados", "descripcion": "El rendimiento en pantalla no difirió del papel en el texto expositivo (T(158)=-0.334, p=.738) ni en el narrativo (p=.670). Contrasta con la ventaja del papel reportada por los meta-análisis previos."},
-      {"id": "11", "label": "Memoria de trabajo como predictor general", "color": "#2a5a75", "role": "Resultados", "descripcion": "La memoria de trabajo verbal predijo la comprensión de ambos textos (β=.228 expositivo; β=.273 narrativo). Su contribución es consistente con el meta-análisis de Follmer (2018) en lectura de papel."},
-      {"id": "12", "label": "Flexibilidad y texto expositivo", "color": "#5b9eaa", "role": "Resultados", "descripcion": "La flexibilidad cognitiva aportó varianza específica al texto expositivo (ΔR²=.047, β=-.220, p=.034). La inhibición perceptual no mostró efectos sobre ninguno de los dos textos."},
-      {"id": "13", "label": "Exposición a ficción y texto narrativo", "color": "#88b04b", "role": "Resultados", "descripcion": "El TRA fue el principal predictor de la comprensión narrativa (ΔR²=.057; modelo final R²=.165, F(6,85)=4.00, p=.001). Las mujeres superaron a los varones en este texto, con interacción género por tipo de texto (p=.008)."},
-      {"id": "14", "label": "Ventaja del estudio en pantalla", "color": "#f4a261", "role": "Resultados", "descripcion": "Los estudiantes que prefieren estudiar en computadora alcanzaron 59.5% de aciertos frente a 51.2% de quienes eligen papel (F(1,89)=5.066, p=.027). El efecto persistió al controlar género, flexibilidad y memoria de trabajo."},
-      {"id": "15", "label": "Práctica compensa la lectura digital", "color": "#e76f51", "role": "Discusión", "descripcion": "La familiaridad con el estudio en pantalla sugiere estrategias compensatorias como focalización de la atención y procesamiento profundo. La contribución de las funciones ejecutivas resultó similar a la observada en estudios de lectura en papel."},
-      {"id": "16", "label": "Conclusiones y recomendación de réplica", "color": "#264653", "role": "Conclusiones", "descripcion": "Las funciones ejecutivas y la exposición a ficción explican la comprensión en pantalla de forma análoga a la lectura en papel. Se recomienda replicar con muestras mayores, rango etario más amplio y representatividad de ambos géneros."},
-      {"id": "17", "label": "Limitaciones: muestra y autoreporte", "color": "#c73e1d", "role": "Limitaciones", "descripcion": "Muestra pequeña, baja proporción de varones y posible sesgo de selección por participación voluntaria. Los hábitos de lectura fueron de autoreporte y no se midieron el tiempo de lectura, el interés ni la motivación."}
+      {
+        "id": "1",
+        "label": "Concepción Simple de la Lectura",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Modelo de Hoover y Tunmer (2018) que plantea la comprensión como interacción del reconocimiento de palabras y la comprensión del lenguaje. El vocabulario y la fluidez se destacan como principales predictoras del éxito lector."
+      },
+      {
+        "id": "2",
+        "label": "Funciones Ejecutivas según Miyake",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "Miyake et al. (2000) define inhibición, flexibilidad cognitiva y memoria de trabajo. Este modelo influyó en la investigación lectora y fue incorporado a la Visión Activa de la Lectura de Duke y Cartwright (2021)."
+      },
+      {
+        "id": "3",
+        "label": "Lectura superficial en pantallas",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Las pantallas promueven skimming, escaneo y multitarea, con una estrategia más superficial (Barzillai y Thomson, 2018). Los meta-análisis de Delgado et al. (2018) y Clinton-Lisell (2019) muestran ventaja del papel en textos expositivos."
+      },
+      {
+        "id": "4",
+        "label": "Exposición a la ficción",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "El test de reconocimiento de autores (Stanovich y West, 1989) mide objetivamente la exposición a ficción y predice la comprensión. Esta relación se interpreta mediante el efecto Mateo (Stanovich, 1986)."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: FE, hábitos y comprensión en pantalla",
+        "color": "#e76f51",
+        "role": "Objetivo",
+        "descripcion": "Analizar la relación entre la comprensión de textos expositivos y narrativos presentados en pantalla, las funciones ejecutivas y los hábitos lectores. Considera la exposición a ficción y el soporte preferido para estudio o lectura recreativa."
+      },
+      {
+        "id": "6",
+        "label": "Muestra de 98 universitarios",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "98 estudiantes de primer año de psicología de la Pontificia Universidad Católica Argentina, sede Mendoza (76.8% mujeres, edad M=20.6). Se comparó con grupos control que leyeron en papel (n=62 expositivo, n=56 narrativo). Diseño cuantitativo, no experimental, correlacional y transversal, analizado con regresión jerárquica en JAMOVI."
+      },
+      {
+        "id": "7",
+        "label": "Comprensión en pantalla vía Google Forms",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Se leyeron en pantalla un texto expositivo sobre cerebro y discalculia (Abusamra) y el cuento Las tazas de café de Mario Benedetti. Cada texto fue seguido por 12 preguntas de opción múltiple basadas en el enfoque multicomponencial."
+      },
+      {
+        "id": "8",
+        "label": "Batería TAC y running span",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "La batería TAC (Introzzi y Canet-Juric, 2019) evaluó inhibición perceptual con búsqueda visual y flexibilidad cognitiva con la tarea de dedos. El running span de la batería BIMeT-V midió la memoria de trabajo verbal."
+      },
+      {
+        "id": "9",
+        "label": "Encuesta de hábitos y TRA",
+        "color": "#88b04b",
+        "role": "Método",
+        "descripcion": "Una encuesta ad hoc registró tamaño de biblioteca, frecuencia de lectura y soporte preferido. El test de reconocimiento de autores, validado en Argentina (Tabullo et al., 2018), cuantificó el reconocimiento de autores de ficción."
+      },
+      {
+        "id": "10",
+        "label": "Equivalencia papel-pantalla",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "El rendimiento en pantalla no difirió del papel en el texto expositivo (T(158)=-0.334, p=.738) ni en el narrativo (p=.670). Contrasta con la ventaja del papel reportada por los meta-análisis previos."
+      },
+      {
+        "id": "11",
+        "label": "Memoria de trabajo como predictor general",
+        "color": "#2a5a75",
+        "role": "Resultados",
+        "descripcion": "La memoria de trabajo verbal predijo la comprensión de ambos textos (β=.228 expositivo; β=.273 narrativo). Su contribución es consistente con el meta-análisis de Follmer (2018) en lectura de papel."
+      },
+      {
+        "id": "12",
+        "label": "Flexibilidad y texto expositivo",
+        "color": "#5b9eaa",
+        "role": "Resultados",
+        "descripcion": "La flexibilidad cognitiva aportó varianza específica al texto expositivo (ΔR²=.047, β=-.220, p=.034). La inhibición perceptual no mostró efectos sobre ninguno de los dos textos."
+      },
+      {
+        "id": "13",
+        "label": "Exposición a ficción y texto narrativo",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "El TRA fue el principal predictor de la comprensión narrativa (ΔR²=.057; modelo final R²=.165, F(6,85)=4.00, p=.001). Las mujeres superaron a los varones en este texto, con interacción género por tipo de texto (p=.008)."
+      },
+      {
+        "id": "14",
+        "label": "Ventaja del estudio en pantalla",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Los estudiantes que prefieren estudiar en computadora alcanzaron 59.5% de aciertos frente a 51.2% de quienes eligen papel (F(1,89)=5.066, p=.027). El efecto persistió al controlar género, flexibilidad y memoria de trabajo."
+      },
+      {
+        "id": "15",
+        "label": "Práctica compensa la lectura digital",
+        "color": "#e76f51",
+        "role": "Discusión",
+        "descripcion": "La familiaridad con el estudio en pantalla sugiere estrategias compensatorias como focalización de la atención y procesamiento profundo. La contribución de las funciones ejecutivas resultó similar a la observada en estudios de lectura en papel."
+      },
+      {
+        "id": "16",
+        "label": "Conclusiones y recomendación de réplica",
+        "color": "#264653",
+        "role": "Conclusiones",
+        "descripcion": "Las funciones ejecutivas y la exposición a ficción explican la comprensión en pantalla de forma análoga a la lectura en papel. Se recomienda replicar con muestras mayores, rango etario más amplio y representatividad de ambos géneros."
+      },
+      {
+        "id": "17",
+        "label": "Limitaciones: muestra y autoreporte",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "Muestra pequeña, baja proporción de varones y posible sesgo de selección por participación voluntaria. Los hábitos de lectura fueron de autoreporte y no se midieron el tiempo de lectura, el interés ni la motivación."
+      }
     ],
     "aristas": [
-      {"from": "1", "to": "5", "label": "enmarca el"},
-      {"from": "2", "to": "5", "label": "define las variables del"},
-      {"from": "3", "to": "5", "label": "problematiza el"},
-      {"from": "4", "to": "5", "label": "anticipa predictores del"},
-      {"from": "5", "to": "6", "label": "se implementó con la"},
-      {"from": "6", "to": "7", "label": "respondió la"},
-      {"from": "6", "to": "8", "label": "fue evaluado con la"},
-      {"from": "6", "to": "9", "label": "completó la"},
-      {"from": "2", "to": "11", "label": "sustenta el rol de la"},
-      {"from": "8", "to": "11", "label": "midió el aporte de la"},
-      {"from": "8", "to": "12", "label": "detectó la asociación de la"},
-      {"from": "9", "to": "13", "label": "reveló el peso de la"},
-      {"from": "7", "to": "10", "label": "produjo la evidencia de la"},
-      {"from": "3", "to": "10", "label": "contrasta con la"},
-      {"from": "11", "to": "7", "label": "predice la"},
-      {"from": "12", "to": "7", "label": "favorece la"},
-      {"from": "13", "to": "7", "label": "impulsa la"},
-      {"from": "14", "to": "3", "label": "matiza la"},
-      {"from": "15", "to": "14", "label": "explica la"},
-      {"from": "16", "to": "15", "label": "sintetiza la"},
-      {"from": "17", "to": "16", "label": "acota las"},
-      {"from": "10", "to": "16", "label": "respalda las"}
+      {
+        "from": "1",
+        "to": "5",
+        "label": "enmarca el"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "define las variables del"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "problematiza el"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "anticipa predictores del"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se implementó con la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "respondió la"
+      },
+      {
+        "from": "6",
+        "to": "8",
+        "label": "fue evaluado con la"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "completó la"
+      },
+      {
+        "from": "2",
+        "to": "11",
+        "label": "sustenta el rol de la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "midió el aporte de la"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "detectó la asociación de la"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "reveló el peso de la"
+      },
+      {
+        "from": "7",
+        "to": "10",
+        "label": "produjo la evidencia de la"
+      },
+      {
+        "from": "3",
+        "to": "10",
+        "label": "contrasta con la"
+      },
+      {
+        "from": "11",
+        "to": "7",
+        "label": "predice la"
+      },
+      {
+        "from": "12",
+        "to": "7",
+        "label": "favorece la"
+      },
+      {
+        "from": "13",
+        "to": "7",
+        "label": "impulsa la"
+      },
+      {
+        "from": "14",
+        "to": "3",
+        "label": "matiza la"
+      },
+      {
+        "from": "15",
+        "to": "14",
+        "label": "explica la"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "sintetiza la"
+      },
+      {
+        "from": "17",
+        "to": "16",
+        "label": "acota las"
+      },
+      {
+        "from": "10",
+        "to": "16",
+        "label": "respalda las"
+      }
     ]
   }
 }

@@ -29,7 +29,7 @@ function normalizeNarrative(raw: any, index: number): Narrative {
     color: String(meta.color || '#2a5a75'),
     colorAlt: String(meta.colorAlt || '#5b9eaa'),
     bg: String(meta.bg || 'from-ocean-base/20 to-ocean-dark/20'),
-    image: String(meta.image || `/assets/cromos/cromo-${(index % 20) + 1}.png`),
+    image: String(meta.image || '/assets/portadas/naturaleza_albumes.jpg'),
     ...(meta.tutor ? { tutor: meta.tutor } : {})
   };
 

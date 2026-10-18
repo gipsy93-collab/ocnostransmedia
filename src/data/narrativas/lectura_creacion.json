@@ -12,7 +12,7 @@
     "color": "#e76f51",
     "colorAlt": "#264653",
     "bg": "from-orange-300/20 to-slate-900/20",
-    "image": "https://picsum.photos/seed/lectura_creacion/800/600"
+    "image": "/assets/portadas/conciencia_fonologica_aula.jpg"
   },
   "blocks": {
     "apertura": {
@@ -344,43 +344,213 @@
     "titulo": "Mapa conceptual: lectura literaria y creatividad en formación docente (Ocnos 22(2) 2023)",
     "descripcion": "Desde la educación literaria y la teoría de la creatividad, el estudio compara dos experiencias didácticas con 96 estudiantes de la UB —reseñas críticas frente a reescrituras creativas— y categoriza 288 valoraciones lectoras con Fittipaldi y Atlas.ti para mostrar que la tarea creativa profundiza la construcción de significado, dentro de las limitaciones de una investigación exploratoria.",
     "nodos": [
-      { "id": "1", "label": "El lector construye el significado", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "Con las teorías de la recepción, la lectura pasa de actividad pasiva a interacción entre lector y texto para entender, interpretar y valorar (Mendoza, 1998). La educación literaria prepara para participar en la recepción y actualización interpretativa del discurso literario (Mendoza, 2004, 2010)." },
-      { "id": "2", "label": "Lectura superficial en futuros maestros", "color": "#c73e1d", "role": "Marco teórico", "descripcion": "Los últimos informes PISA muestran una lectura superficial con fines prácticos (MEFP, 2020), y los estudiantes de magisterio revelan desafección por la lectura y un uso instrumental de ella: un perfil débil que no ha mejorado (Aguilar-Ródenas, 2020; Colomer y Munita, 2013)." },
-      { "id": "3", "label": "Creatividad como aprendizaje", "color": "#f4a261", "role": "Marco teórico", "descripcion": "Cropley (2011) describe la creatividad como concepto polisémico unido a novedad, relevancia y eficacia; Piaget (1969) y Padget (2013) la ven como oportunidad de aprendizaje que estimula curiosidad, reflexión y habilidades cognitivas de orden superior." },
-      { "id": "4", "label": "Comparar respuestas lectoras de dos grupos", "color": "#2a5a75", "role": "Objetivo", "descripcion": "Tres objetivos: analizar las respuestas lectoras del grupo control y del experimental, compararlas entre sí y explorar si, mediante la creatividad, las respuestas muestran mayor profundidad en la construcción del significado (Fittipaldi, 2012)." },
-      { "id": "5", "label": "96 estudiantes de la UB", "color": "#5b9eaa", "role": "Método", "descripcion": "Participaron 96 estudiantes de 19 a 25 años de la asignatura Didáctica de la Literatura Infantil y Juvenil del grado de Educación Primaria (Universidad de Barcelona): 52 en 2020-21 (43 mujeres, 9 hombres) y 44 en 2021-22 (33 mujeres, 11 hombres), durante una experiencia de tres meses." },
-      { "id": "6", "label": "Tres obras y tertulias literarias", "color": "#264653", "role": "Método", "descripcion": "Cada estudiante eligió 3 obras de una selección de 13 clásicos y contemporáneos (Carroll, Barrie, Saint-Exupéry, Lindgren, White, Walliams, entre otros) y, seis semanas después, participó en cuatro sesiones de seminarios de lectura con formato de tertulia literaria." },
-      { "id": "7", "label": "Reseña crítica frente a reescritura creativa", "color": "#5b9eaa", "role": "Método", "descripcion": "El grupo control escribió tres reseñas críticas con valoración personal de cada lectura; el grupo experimental elaboró una reescritura creativa por obra en tres formatos —poema visual, poema-objeto y microrrelato— acompañada también de su valoración de lectura." },
-      { "id": "8", "label": "288 valoraciones con Fittipaldi y Atlas.ti", "color": "#2a5a75", "role": "Método", "descripcion": "Diseño cualitativo (Sandín, 2003) con un único instrumento: las 288 valoraciones personales procesadas en Atlas.ti 22.0.1 con categorización inductivo-deductiva según Fittipaldi (2012) —referencial, composicional, intertextual-intercultural y personal— en niveles literal e inferencial, más un nivel reflexivo añadido." },
-      { "id": "9", "label": "Respuestas referenciales mayoritarias", "color": "#88b04b", "role": "Resultados", "descripcion": "Las respuestas referenciales dominan en ambos grupos: 90.20% en el control y 83.21% en el experimental. Las personales (5.23% frente a 8.40%), intertextuales (3.92% frente a 3.82%) y composicionales (0.65% frente a 4.58%) son casi anecdóticas, aunque más frecuentes en el grupo experimental." },
-      { "id": "10", "label": "Del nivel literal al inferencial", "color": "#2a9d8f", "role": "Resultados", "descripcion": "En el grupo control prevalece el nivel literal (50.32%) frente al inferencial (41.29%), mientras que en el experimental la proporción se invierte: el inferencial alcanza el 50.39% y el literal baja al 24.03%." },
-      { "id": "11", "label": "El nivel reflexivo crece", "color": "#f4d068", "role": "Resultados", "descripcion": "El nivel reflexivo —añadido por la autora para las respuestas que conectan el texto con temas sociales, culturales o educativos— sube del 6.45% en el control al 24.03% en el experimental. Declarar que no se entendió la obra fue residual: 1.94% frente a 1.55%." },
-      { "id": "12", "label": "Lo referencial-reflexivo se destaca", "color": "#e76f51", "role": "Resultados", "descripcion": "La triangulación de categorías y niveles muestra un control anclado en lo referencial-literal (45.39%), mientras en el experimental lo referencial se reparte en inferencial (46.46%) y reflexivo (14.96%), con un 7.09% de respuestas personal-reflexivas y un 1.57% intertextual-reflexivas." },
-      { "id": "13", "label": "Reescribir obliga a leer más", "color": "#9b82c3", "role": "Discusión", "descripcion": "La discusión interpreta que el reto de producir una reescritura creativa forzó a profundizar en la lectura, asociar ideas y crear metáforas, símbolos, originalidad e imaginación, en línea con Piaget (1969), Cropley (2011) y Padget (2013)." },
-      { "id": "14", "label": "La tarea creativa profundiza el sentido", "color": "#2a9d8f", "role": "Conclusiones", "descripcion": "Se constata que mediante la tarea creativa los participantes mostraron mayor profundidad al construir el significado de la obra leída, y estas propuestas pueden mejorar la formación lectora de los futuros docentes y su papel mediador (Trotman y Kerr, 2001)." },
-      { "id": "15", "label": "Limitaciones: resultados exploratorios", "color": "#c73e1d", "role": "Limitaciones", "descripcion": "Por el número de participantes los resultados no son estadísticamente significativos y solo pueden considerarse exploratorios. Faltaron datos actitudinales sobre si la propuesta creativa mejoraba las actitudes hacia la lectura y la literatura, y sería preciso replicar la experiencia con más alumnado y en otros niveles educativos." }
+      {
+        "id": "1",
+        "label": "El lector construye el significado",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Con las teorías de la recepción, la lectura pasa de actividad pasiva a interacción entre lector y texto para entender, interpretar y valorar (Mendoza, 1998). La educación literaria prepara para participar en la recepción y actualización interpretativa del discurso literario (Mendoza, 2004, 2010)."
+      },
+      {
+        "id": "2",
+        "label": "Lectura superficial en futuros maestros",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Los últimos informes PISA muestran una lectura superficial con fines prácticos (MEFP, 2020), y los estudiantes de magisterio revelan desafección por la lectura y un uso instrumental de ella: un perfil débil que no ha mejorado (Aguilar-Ródenas, 2020; Colomer y Munita, 2013)."
+      },
+      {
+        "id": "3",
+        "label": "Creatividad como aprendizaje",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "Cropley (2011) describe la creatividad como concepto polisémico unido a novedad, relevancia y eficacia; Piaget (1969) y Padget (2013) la ven como oportunidad de aprendizaje que estimula curiosidad, reflexión y habilidades cognitivas de orden superior."
+      },
+      {
+        "id": "4",
+        "label": "Comparar respuestas lectoras de dos grupos",
+        "color": "#2a5a75",
+        "role": "Objetivo",
+        "descripcion": "Tres objetivos: analizar las respuestas lectoras del grupo control y del experimental, compararlas entre sí y explorar si, mediante la creatividad, las respuestas muestran mayor profundidad en la construcción del significado (Fittipaldi, 2012)."
+      },
+      {
+        "id": "5",
+        "label": "96 estudiantes de la UB",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Participaron 96 estudiantes de 19 a 25 años de la asignatura Didáctica de la Literatura Infantil y Juvenil del grado de Educación Primaria (Universidad de Barcelona): 52 en 2020-21 (43 mujeres, 9 hombres) y 44 en 2021-22 (33 mujeres, 11 hombres), durante una experiencia de tres meses."
+      },
+      {
+        "id": "6",
+        "label": "Tres obras y tertulias literarias",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Cada estudiante eligió 3 obras de una selección de 13 clásicos y contemporáneos (Carroll, Barrie, Saint-Exupéry, Lindgren, White, Walliams, entre otros) y, seis semanas después, participó en cuatro sesiones de seminarios de lectura con formato de tertulia literaria."
+      },
+      {
+        "id": "7",
+        "label": "Reseña crítica frente a reescritura creativa",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "El grupo control escribió tres reseñas críticas con valoración personal de cada lectura; el grupo experimental elaboró una reescritura creativa por obra en tres formatos —poema visual, poema-objeto y microrrelato— acompañada también de su valoración de lectura."
+      },
+      {
+        "id": "8",
+        "label": "288 valoraciones con Fittipaldi y Atlas.ti",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Diseño cualitativo (Sandín, 2003) con un único instrumento: las 288 valoraciones personales procesadas en Atlas.ti 22.0.1 con categorización inductivo-deductiva según Fittipaldi (2012) —referencial, composicional, intertextual-intercultural y personal— en niveles literal e inferencial, más un nivel reflexivo añadido."
+      },
+      {
+        "id": "9",
+        "label": "Respuestas referenciales mayoritarias",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Las respuestas referenciales dominan en ambos grupos: 90.20% en el control y 83.21% en el experimental. Las personales (5.23% frente a 8.40%), intertextuales (3.92% frente a 3.82%) y composicionales (0.65% frente a 4.58%) son casi anecdóticas, aunque más frecuentes en el grupo experimental."
+      },
+      {
+        "id": "10",
+        "label": "Del nivel literal al inferencial",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "En el grupo control prevalece el nivel literal (50.32%) frente al inferencial (41.29%), mientras que en el experimental la proporción se invierte: el inferencial alcanza el 50.39% y el literal baja al 24.03%."
+      },
+      {
+        "id": "11",
+        "label": "El nivel reflexivo crece",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "El nivel reflexivo —añadido por la autora para las respuestas que conectan el texto con temas sociales, culturales o educativos— sube del 6.45% en el control al 24.03% en el experimental. Declarar que no se entendió la obra fue residual: 1.94% frente a 1.55%."
+      },
+      {
+        "id": "12",
+        "label": "Lo referencial-reflexivo se destaca",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "La triangulación de categorías y niveles muestra un control anclado en lo referencial-literal (45.39%), mientras en el experimental lo referencial se reparte en inferencial (46.46%) y reflexivo (14.96%), con un 7.09% de respuestas personal-reflexivas y un 1.57% intertextual-reflexivas."
+      },
+      {
+        "id": "13",
+        "label": "Reescribir obliga a leer más",
+        "color": "#9b82c3",
+        "role": "Discusión",
+        "descripcion": "La discusión interpreta que el reto de producir una reescritura creativa forzó a profundizar en la lectura, asociar ideas y crear metáforas, símbolos, originalidad e imaginación, en línea con Piaget (1969), Cropley (2011) y Padget (2013)."
+      },
+      {
+        "id": "14",
+        "label": "La tarea creativa profundiza el sentido",
+        "color": "#2a9d8f",
+        "role": "Conclusiones",
+        "descripcion": "Se constata que mediante la tarea creativa los participantes mostraron mayor profundidad al construir el significado de la obra leída, y estas propuestas pueden mejorar la formación lectora de los futuros docentes y su papel mediador (Trotman y Kerr, 2001)."
+      },
+      {
+        "id": "15",
+        "label": "Limitaciones: resultados exploratorios",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "Por el número de participantes los resultados no son estadísticamente significativos y solo pueden considerarse exploratorios. Faltaron datos actitudinales sobre si la propuesta creativa mejoraba las actitudes hacia la lectura y la literatura, y sería preciso replicar la experiencia con más alumnado y en otros niveles educativos."
+      }
     ],
     "aristas": [
-      { "from": "1", "to": "4", "label": "fundamenta el" },
-      { "from": "2", "to": "4", "label": "motiva el" },
-      { "from": "1", "to": "3", "label": "dialoga con la" },
-      { "from": "3", "to": "7", "label": "se aplica en la" },
-      { "from": "4", "to": "5", "label": "se examina con" },
-      { "from": "5", "to": "6", "label": "leyeron" },
-      { "from": "6", "to": "7", "label": "preceden a la" },
-      { "from": "7", "to": "8", "label": "producen las" },
-      { "from": "8", "to": "9", "label": "revelan las" },
-      { "from": "8", "to": "10", "label": "clasifican el" },
-      { "from": "2", "to": "9", "label": "se refleja en las" },
-      { "from": "10", "to": "11", "label": "escala al" },
-      { "from": "9", "to": "12", "label": "sustentan lo" },
-      { "from": "10", "to": "12", "label": "sustentan lo" },
-      { "from": "11", "to": "14", "label": "respalda la" },
-      { "from": "12", "to": "14", "label": "respalda la" },
-      { "from": "7", "to": "13", "label": "suscita que" },
-      { "from": "13", "to": "14", "label": "explica la" },
-      { "from": "14", "to": "2", "label": "contribuye a revertir la" },
-      { "from": "15", "to": "14", "label": "matiza la" }
+      {
+        "from": "1",
+        "to": "4",
+        "label": "fundamenta el"
+      },
+      {
+        "from": "2",
+        "to": "4",
+        "label": "motiva el"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "dialoga con la"
+      },
+      {
+        "from": "3",
+        "to": "7",
+        "label": "se aplica en la"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se examina con"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "leyeron"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "preceden a la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "producen las"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "revelan las"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "clasifican el"
+      },
+      {
+        "from": "2",
+        "to": "9",
+        "label": "se refleja en las"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "escala al"
+      },
+      {
+        "from": "9",
+        "to": "12",
+        "label": "sustentan lo"
+      },
+      {
+        "from": "10",
+        "to": "12",
+        "label": "sustentan lo"
+      },
+      {
+        "from": "11",
+        "to": "14",
+        "label": "respalda la"
+      },
+      {
+        "from": "12",
+        "to": "14",
+        "label": "respalda la"
+      },
+      {
+        "from": "7",
+        "to": "13",
+        "label": "suscita que"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "explica la"
+      },
+      {
+        "from": "14",
+        "to": "2",
+        "label": "contribuye a revertir la"
+      },
+      {
+        "from": "15",
+        "to": "14",
+        "label": "matiza la"
+      }
     ]
   }
 }

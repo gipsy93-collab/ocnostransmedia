@@ -12,7 +12,7 @@
     "color": "#264653",
     "colorAlt": "#e76f51",
     "bg": "from-slate-700/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-06.png",
+    "image": "/assets/portadas/situaciones_lomloe.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-06.png",
       "name": "Dra. Lucía Hernández-Heras",
@@ -195,45 +195,225 @@
     "titulo": "Mapa conceptual: Creencias de profesores expertos sobre los clásicos en ESO (Ocnos 23(2) 2024)",
     "descripcion": "Estudio de caso cualitativo con seis docentes expertos: del paradigma del pensamiento del profesor y el modelo CRS a las entrevistas y el grupo de discusión, y de ahí a sus prácticas, tensiones entre autocreencias y heterocreencias, y conclusiones sobre la educación literaria.",
     "nodos": [
-      {"id": "1", "label": "Paradigma del pensamiento del profesor", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Enfoque de la cognición docente (Borg, 2003) que estudia las decisiones tomadas desde la cultura de la enseñanza (Richards y Lockhart, 1998). El pensamiento docente se caracteriza por su sincretismo entre referencias personales y contextuales."},
-      {"id": "2", "label": "Autocreencias y heterocreencias", "color": "#88b04b", "role": "Marco teórico", "descripcion": "Términos introducidos por las autoras: las autocreencias se forman en torno al yo (personalidad, formación, experiencia) y las heterocreencias dependen del alumnado y el contexto educativo y normativo. Su choque genera tensiones y vulnerabilidad docente (Kelchtermans, 2009)."},
-      {"id": "3", "label": "Creencias, representaciones y saberes (CRS)", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "Modelo del grupo PLURAL de la Universidad de Barcelona (Cambra y Palou, 2007) tomado como referencia para examinar lo que piensan los profesores. Estructura la codificación de entrevistas y grupo de discusión."},
-      {"id": "4", "label": "Clásicos: valor y barreras", "color": "#264653", "role": "Marco teórico", "descripcion": "Los clásicos son modelo y patrimonio cultural (Sullá, 1998), fuente de placer e identidad (Calvino, 1993; Bloom, 2000). Entre las barreras: distancia temporal y lingüística, obligatoriedad, madurez exigida y competencia del ocio actual (Sotomayor, Cañamares, Ayuso-Collantes)."},
-      {"id": "5", "label": "Objetivo: CRS de profesores expertos", "color": "#e76f51", "role": "Objetivo", "descripcion": "Explorar creencias, representaciones y saberes de docentes de Secundaria sobre la lectura de clásicos, conocer cómo describen el desempeño del alumnado y comprender los procedimientos y factores que inciden en su práctica."},
-      {"id": "6", "label": "Estudio de caso intrínseco", "color": "#2a9d8f", "role": "Método", "descripcion": "Investigación cualitativa enmarcada en el estudio de caso intrínseco de Stake (1994), que hace emerger el conocimiento experiencial (Geertz, 1993). El análisis de las categorías se realizó desde un prisma hermenéutico-interpretativo."},
-      {"id": "7", "label": "Seis docentes expertos", "color": "#f4d068", "role": "Método", "descripcion": "Participaron 6 profesores graduados en Filología Hispánica, con más de 10 años de experiencia y tesis doctoral, identificados con seudónimos: Ignacio, Rodrigo, Marta, Beatriz, Teresa y Laura. El estudio coincidió con la convivencia normativa entre LOMCE y LOMLOE."},
-      {"id": "8", "label": "Entrevistas y grupo de discusión", "color": "#5b9eaa", "role": "Método", "descripcion": "Se realizaron entrevistas semiestructuradas (Kvale, 2013) grabadas y transcritas íntegramente con el código de Calsamiglia y Tusón (1995). Después, un grupo de discusión por Google Meet con cinco de los seis docentes."},
-      {"id": "9", "label": "Sistema categorial con Nvivo", "color": "#2a5a75", "role": "Método", "descripcion": "Tres pre-categorías abiertas —objeto de estudio, alumnado y estrategias docentes— derivaron en macrocategorías emergentes codificadas con Nvivo 12. En las entrevistas, la macrocategoría 'bagaje personal' mostró la mayor saturación."},
-      {"id": "10", "label": "Bagaje personal y estado anímico", "color": "#88b04b", "role": "Resultados", "descripcion": "Los docentes recuerdan una escolarización historicista que les transmitió amor por lo literario, con formación pedagógica escasa y aprendizaje por ensayo y error. Los sentimientos sobre su ejercicio son mayoritariamente negativos, salvo el caso de Ignacio."},
-      {"id": "11", "label": "Lectura en clase y evaluación", "color": "#2a9d8f", "role": "Resultados", "descripcion": "Todos coinciden en la trascendencia de leer en clase, que fomenta una lectura comunitaria, y en usar siempre versiones adaptadas. Las lecturas obligatorias se consideran la única vía; los controles de lectura dividen al grupo entre defensores y contrarios."},
-      {"id": "12", "label": "EvAu y condicionantes contextuales", "color": "#c73e1d", "role": "Resultados", "descripcion": "La autonomía docente se ve limitada por las disposiciones estatales de evaluación: en 2º de Bachillerato el foco lo acaparan las lecturas de la EvAu, con un historicismo que reconocen superficial. Valoraciones dispares sobre la flexibilidad del currículo y papel central de la cultura familiar."},
-      {"id": "13", "label": "Alumnado y diferencia generacional", "color": "#f4a261", "role": "Resultados", "descripcion": "Los profesores definen a sus alumnos por la distancia generacional, los prejuicios de aburrimiento y un complejo de inferioridad que se convierte en orgullo al superar el clásico. La débil comprensión lectora impide acceder a lo implícito, el humor y la ironía."},
-      {"id": "14", "label": "Reformulación en lenguajes actuales", "color": "#f4d068", "role": "Resultados", "descripcion": "En el grupo de discusión, el débil hábito lector y el individualismo posmoderno se contrarrestan con la reformulación: las nuevas tecnologías y manifestaciones artísticas —cómics, cine, videojuegos, series y redes— divulgan las historias clásicas."},
-      {"id": "15", "label": "Tensión entre desear y deber hacer", "color": "#e76f51", "role": "Discusión", "descripcion": "La transposición de los clásicos está marcada por la subordinación de las autocreencias a las heterocreencias, con diferencias individuales: Rodrigo padece más vulnerabilidad e Ignacio apenas. Existe correspondencia negativa entre estado anímico y tensiones."},
-      {"id": "16", "label": "Educación literaria y canon escolar", "color": "#264653", "role": "Conclusiones", "descripcion": "Los expertos abogan por la interpretación desde el horizonte de expectativas (Jauss) y la experiencia de lectura significativa (Rosenblatt), defienden el canon escolar y proponen una reformulación multimodal respaldada por toda la comunidad educativa."}
+      {
+        "id": "1",
+        "label": "Paradigma del pensamiento del profesor",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Enfoque de la cognición docente (Borg, 2003) que estudia las decisiones tomadas desde la cultura de la enseñanza (Richards y Lockhart, 1998). El pensamiento docente se caracteriza por su sincretismo entre referencias personales y contextuales."
+      },
+      {
+        "id": "2",
+        "label": "Autocreencias y heterocreencias",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Términos introducidos por las autoras: las autocreencias se forman en torno al yo (personalidad, formación, experiencia) y las heterocreencias dependen del alumnado y el contexto educativo y normativo. Su choque genera tensiones y vulnerabilidad docente (Kelchtermans, 2009)."
+      },
+      {
+        "id": "3",
+        "label": "Creencias, representaciones y saberes (CRS)",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Modelo del grupo PLURAL de la Universidad de Barcelona (Cambra y Palou, 2007) tomado como referencia para examinar lo que piensan los profesores. Estructura la codificación de entrevistas y grupo de discusión."
+      },
+      {
+        "id": "4",
+        "label": "Clásicos: valor y barreras",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Los clásicos son modelo y patrimonio cultural (Sullá, 1998), fuente de placer e identidad (Calvino, 1993; Bloom, 2000). Entre las barreras: distancia temporal y lingüística, obligatoriedad, madurez exigida y competencia del ocio actual (Sotomayor, Cañamares, Ayuso-Collantes)."
+      },
+      {
+        "id": "5",
+        "label": "Objetivo: CRS de profesores expertos",
+        "color": "#e76f51",
+        "role": "Objetivo",
+        "descripcion": "Explorar creencias, representaciones y saberes de docentes de Secundaria sobre la lectura de clásicos, conocer cómo describen el desempeño del alumnado y comprender los procedimientos y factores que inciden en su práctica."
+      },
+      {
+        "id": "6",
+        "label": "Estudio de caso intrínseco",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "Investigación cualitativa enmarcada en el estudio de caso intrínseco de Stake (1994), que hace emerger el conocimiento experiencial (Geertz, 1993). El análisis de las categorías se realizó desde un prisma hermenéutico-interpretativo."
+      },
+      {
+        "id": "7",
+        "label": "Seis docentes expertos",
+        "color": "#f4d068",
+        "role": "Método",
+        "descripcion": "Participaron 6 profesores graduados en Filología Hispánica, con más de 10 años de experiencia y tesis doctoral, identificados con seudónimos: Ignacio, Rodrigo, Marta, Beatriz, Teresa y Laura. El estudio coincidió con la convivencia normativa entre LOMCE y LOMLOE."
+      },
+      {
+        "id": "8",
+        "label": "Entrevistas y grupo de discusión",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Se realizaron entrevistas semiestructuradas (Kvale, 2013) grabadas y transcritas íntegramente con el código de Calsamiglia y Tusón (1995). Después, un grupo de discusión por Google Meet con cinco de los seis docentes."
+      },
+      {
+        "id": "9",
+        "label": "Sistema categorial con Nvivo",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Tres pre-categorías abiertas —objeto de estudio, alumnado y estrategias docentes— derivaron en macrocategorías emergentes codificadas con Nvivo 12. En las entrevistas, la macrocategoría 'bagaje personal' mostró la mayor saturación."
+      },
+      {
+        "id": "10",
+        "label": "Bagaje personal y estado anímico",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Los docentes recuerdan una escolarización historicista que les transmitió amor por lo literario, con formación pedagógica escasa y aprendizaje por ensayo y error. Los sentimientos sobre su ejercicio son mayoritariamente negativos, salvo el caso de Ignacio."
+      },
+      {
+        "id": "11",
+        "label": "Lectura en clase y evaluación",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Todos coinciden en la trascendencia de leer en clase, que fomenta una lectura comunitaria, y en usar siempre versiones adaptadas. Las lecturas obligatorias se consideran la única vía; los controles de lectura dividen al grupo entre defensores y contrarios."
+      },
+      {
+        "id": "12",
+        "label": "EvAu y condicionantes contextuales",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "La autonomía docente se ve limitada por las disposiciones estatales de evaluación: en 2º de Bachillerato el foco lo acaparan las lecturas de la EvAu, con un historicismo que reconocen superficial. Valoraciones dispares sobre la flexibilidad del currículo y papel central de la cultura familiar."
+      },
+      {
+        "id": "13",
+        "label": "Alumnado y diferencia generacional",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Los profesores definen a sus alumnos por la distancia generacional, los prejuicios de aburrimiento y un complejo de inferioridad que se convierte en orgullo al superar el clásico. La débil comprensión lectora impide acceder a lo implícito, el humor y la ironía."
+      },
+      {
+        "id": "14",
+        "label": "Reformulación en lenguajes actuales",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "En el grupo de discusión, el débil hábito lector y el individualismo posmoderno se contrarrestan con la reformulación: las nuevas tecnologías y manifestaciones artísticas —cómics, cine, videojuegos, series y redes— divulgan las historias clásicas."
+      },
+      {
+        "id": "15",
+        "label": "Tensión entre desear y deber hacer",
+        "color": "#e76f51",
+        "role": "Discusión",
+        "descripcion": "La transposición de los clásicos está marcada por la subordinación de las autocreencias a las heterocreencias, con diferencias individuales: Rodrigo padece más vulnerabilidad e Ignacio apenas. Existe correspondencia negativa entre estado anímico y tensiones."
+      },
+      {
+        "id": "16",
+        "label": "Educación literaria y canon escolar",
+        "color": "#264653",
+        "role": "Conclusiones",
+        "descripcion": "Los expertos abogan por la interpretación desde el horizonte de expectativas (Jauss) y la experiencia de lectura significativa (Rosenblatt), defienden el canon escolar y proponen una reformulación multimodal respaldada por toda la comunidad educativa."
+      }
     ],
     "aristas": [
-      {"from": "1", "to": "5", "label": "fundamenta el"},
-      {"from": "2", "to": "3", "label": "se operacionaliza en el"},
-      {"from": "3", "to": "5", "label": "organiza el"},
-      {"from": "4", "to": "5", "label": "justifica el estudio del"},
-      {"from": "2", "to": "5", "label": "aporta las claves conceptuales del"},
-      {"from": "5", "to": "6", "label": "se materializó en el"},
-      {"from": "6", "to": "7", "label": "se desarrolló con los"},
-      {"from": "7", "to": "8", "label": "generó el corpus de las"},
-      {"from": "8", "to": "9", "label": "fue codificado mediante el"},
-      {"from": "9", "to": "10", "label": "ordenó los hallazgos sobre el"},
-      {"from": "9", "to": "11", "label": "ordenó los hallazgos sobre la"},
-      {"from": "9", "to": "12", "label": "ordenó los hallazgos sobre la"},
-      {"from": "9", "to": "13", "label": "ordenó los hallazgos sobre la"},
-      {"from": "10", "to": "15", "label": "documenta la"},
-      {"from": "12", "to": "15", "label": "radicaliza la"},
-      {"from": "11", "to": "15", "label": "revela la"},
-      {"from": "13", "to": "11", "label": "condiciona la"},
-      {"from": "14", "to": "16", "label": "apunta hacia la"},
-      {"from": "15", "to": "16", "label": "se sintetiza en la"},
-      {"from": "4", "to": "16", "label": "sustenta la defensa del"},
-      {"from": "16", "to": "6", "label": "emerge del"}
+      {
+        "from": "1",
+        "to": "5",
+        "label": "fundamenta el"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "se operacionaliza en el"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "organiza el"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "justifica el estudio del"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "aporta las claves conceptuales del"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se materializó en el"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se desarrolló con los"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "generó el corpus de las"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "fue codificado mediante el"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "ordenó los hallazgos sobre el"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "ordenó los hallazgos sobre la"
+      },
+      {
+        "from": "9",
+        "to": "12",
+        "label": "ordenó los hallazgos sobre la"
+      },
+      {
+        "from": "9",
+        "to": "13",
+        "label": "ordenó los hallazgos sobre la"
+      },
+      {
+        "from": "10",
+        "to": "15",
+        "label": "documenta la"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "radicaliza la"
+      },
+      {
+        "from": "11",
+        "to": "15",
+        "label": "revela la"
+      },
+      {
+        "from": "13",
+        "to": "11",
+        "label": "condiciona la"
+      },
+      {
+        "from": "14",
+        "to": "16",
+        "label": "apunta hacia la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "se sintetiza en la"
+      },
+      {
+        "from": "4",
+        "to": "16",
+        "label": "sustenta la defensa del"
+      },
+      {
+        "from": "16",
+        "to": "6",
+        "label": "emerge del"
+      }
     ]
   }
 }

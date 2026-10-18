@@ -12,7 +12,7 @@
     "color": "#e76f51",
     "colorAlt": "#264653",
     "bg": "from-orange-400/20 to-slate-900/20",
-    "image": "https://picsum.photos/seed/comic_sensibilizacion/800/600"
+    "image": "/assets/portadas/empoderamiento_comic_portugues.jpg"
   },
   "blocks": {
     "apertura": {
@@ -334,46 +334,230 @@
       "titulo": "Mapa conceptual: El cómic para la sensibilización inclusiva (Ocnos 22(1) 2023)",
       "descripcion": "Recorrido del estudio de López-Prados y Sáez-de-Adana: de los conceptos de inclusión educativa y las metodologías visuales a la actividad de creación de cómics con 40 alumnos de Guadalajara, el análisis mediante la metáfora conceptual y los hallazgos sobre empatía, integración y alfabetización visual.",
       "nodos": [
-        {"id": "1", "label": "Inclusión educativa como proceso y modelo", "color": "#264653", "role": "Marco teórico", "descripcion": "Para Echeita (2008) la inclusión es un proceso que da sentido y orientación a las prácticas docentes; Susinos (2005) la define como escuela para todos donde cada alumno es recibido como miembro valioso, y Blanco (2008) como transformación de sistemas, culturas y prácticas para satisfacer las necesidades diversas. Con la LOMLOE se convierte en principio fundamental del sistema educativo."},
-        {"id": "2", "label": "Atención multidimensional a la diversidad", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "Existen diversidad de ritmos, intereses, motivaciones y capacidades (Arnaiz y Haro, 1997), y la inclusión acepta y valora esas diferencias reconociendo a todos los niños como sujetos de derechos (Casanova, 2011). Bautista-Ochoa et al. (2021) identifican escuela pública e inclusiva como modelo de democracia, y Sáez-Carreras (1997) define educar en la diversidad como proceso basado en el pluralismo democrático y la aceptación de la diferencia."},
-        {"id": "3", "label": "Metodologías visuales y empatía", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "Las imágenes ya se usaron en formación docente para reflexionar sobre la diversidad (Bailey y Van Harken, 2014; Phillipson y Forlin, 2011; Orland-Barak y Maskit, 2014). Fomentar la empatía es básico en los centros (Moya, 2019) y el cómic puede mejorarla (Ferreiro-Peleteiro, 2019), en un contexto de creciente aceptación social del medio (El Refaie, 2012)."},
-        {"id": "4", "label": "Antecedentes en la Universidad de Alcalá", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "La trayectoria incluye el cómic para competencias multimodales y la sociedad intercultural (Gavaldón et al., 2020) y los cómics autobiográficos sobre la memoria escolar (McGarr et al., 2020), en su mayoría en educación universitaria. Se detectó que parte del alumnado nunca ha leído cómics (Sáez-de-Adana y Gavaldón, 2020), problema que este trabajo lleva a Primaria."},
-        {"id": "5", "label": "Crear cómics para generar empatía", "color": "#2a9d8f", "role": "Objetivo", "descripcion": "El objetivo es determinar de qué manera la creación de cómics por los alumnos propicia la comprensión y la empatía hacia las personas con necesidades específicas de apoyo educativo y fomenta relaciones basadas en la tolerancia, la solidaridad y el compromiso. Objetivo secundario: comprobar su capacidad de comunicar mediante imágenes."},
-        {"id": "6", "label": "Alumnado de quinto y sexto de primaria", "color": "#264653", "role": "Método", "descripcion": "El estudio se realiza en el CEIP Parque de la Muñeca de Guadalajara con 40 alumnos de 5º y 6º, una profesora de la Facultad de Educación y otro del Instituto Franklin. En 6º hay un alumno con síndrome de Down; en 5º no hay necesidades educativas y se trabaja con el cuento inclusivo «Un día especial para Laila y sus amigos» (Down, ceguera, autismo, silla de ruedas)."},
-        {"id": "7", "label": "Secuencia: debate, teoría y creación", "color": "#264653", "role": "Método", "descripcion": "Primero, grupos de discusión sobre la inclusión de un alumno nuevo con necesidades educativas; después, sesiones teóricas sobre el cómic y sus partes —metáforas visuales, planos, enfoques, bocadillos, onomatopeyas— limitadas a una sola sesión por la programación; finalmente, la creación de cómics sobre los sentimientos del niño con necesidades que llega a un centro nuevo o las situaciones a que se enfrenta."},
-        {"id": "8", "label": "Análisis con metáfora conceptual", "color": "#264653", "role": "Método", "descripcion": "Los dos docentes analizaron los cómics de forma individual y luego conjunta: cómo se plantean los problemas de inclusión, qué conflictos se dibujan y qué estereotipos están presentes. Se emplea la teoría de la metáfora conceptual (Lakoff y Johnson, 1980), su uso en cómic (El Refaie, 2012) y la medicina gráfica (González-Cabeza, 2016; Lalanda, 2019)."},
-        {"id": "9", "label": "Esquema integrador de final feliz", "color": "#f4a261", "role": "Resultados", "descripcion": "La mayor parte de los trabajos siguen un esquema similar: un niño o niña llega a clase con alguna discapacidad, se produce un proceso de integración —a veces mediado por la profesora— y un final feliz en el que la clase se adapta a sus necesidades. Los propios alumnos asumen el proceso integrador que la UNESCO (2003) describe como respuesta a la diversidad y reducción de la exclusión."},
-        {"id": "10", "label": "Lenguaje del cómic poco desarrollado", "color": "#f4d068", "role": "Resultados", "descripcion": "En un primer vistazo, la mayoría de los trabajos no destacan por su uso del lenguaje del cómic, lo que se atribuye a la edad del alumnado, pero sobre todo a la baja presencia del cómic en los planes de estudio y al descenso de su lectura en edad infantil documentado por Sáez-de-Adana y Gavaldón (2020)."},
-        {"id": "11", "label": "Discapacidades físicas en quinto", "color": "#88b04b", "role": "Resultados", "descripcion": "En los cómics de 5º solo aparecen discapacidades físicas, destacando la ceguera y el uso de silla de ruedas, cada una en un tercio de los cómics presentados. El estudio lo atribuye a que el cuento inclusivo utilizado para abordar el tema trata fundamentalmente este tipo de capacidades especiales, menos representables las intelectuales a esta edad."},
-        {"id": "12", "label": "Down y autismo en sexto", "color": "#e76f51", "role": "Resultados", "descripcion": "En 6º, con un compañero con síndrome de Down en clase, sí aparecen las discapacidades intelectuales: «Se reían de él por ser Down», mostrando la burla como algo negativo, y otras historias mencionan el autismo. Un caso aislado llega a presentar la depresión como discapacidad, reflejo de la confusión infantil entre lo intelectual y lo mental."},
-        {"id": "13", "label": "La niña ciega y los bocadillos", "color": "#f4a261", "role": "Resultados", "descripcion": "En la figura 1, la niña con ceguera percibe a sus compañeros solo como bocadillos de conversación, única información que recibe; al llegar a su sitio exclama «¡Qué chulo debe ser (el pupitre)!». La autora se puso en el lugar de una invidente y el cómic enfatiza al final que ella no es diferente: las metáforas visuales facilitan el proceso de empatía."},
-        {"id": "14", "label": "Silla de ruedas en primera persona", "color": "#c73e1d", "role": "Resultados", "descripcion": "Excepcional por su punto de vista, la figura 4 narra desde el propio niño en silla de ruedas, que practica deporte adaptado con mensaje de autosuperación. La transmisión de sentimientos funciona mejor cuando se adopta la perspectiva del estudiante con discapacidad, pues en la mayoría de los cómics la discapacidad sigue recayendo en el «otro»."},
-        {"id": "15", "label": "Cómic como metodología innovadora", "color": "#2a5a75", "role": "Discusión", "descripcion": "El cómic no solo trata de héroes y antihéroes: sirve para la crítica social y la reflexión moral, como sabe el mercado del cómic young adult (Tarbox, 2017). Como estrategia dinamizadora y vehículo de reflexión crítica, muestra a los estudiantes agentes clave de la integración y capaces de resolver los problemas de inclusión cuando el alumno remata la historia solucionándolos con facilidad."},
-        {"id": "16", "label": "Déficit de alfabetización visual", "color": "#e76f51", "role": "Limitaciones", "descripcion": "Quedan desafíos: la percepción social y educativa del cómic y las carencias en alfabetización visual al contar por imágenes; la dificultad de retratar aspectos negativos o situaciones traumáticas explica los finales siempre positivos; y el uso de la metáfora no está plenamente desarrollado, por lo que los autores reclaman incluir la alfabetización visual como elemento clave de la formación."}
+        {
+          "id": "1",
+          "label": "Inclusión educativa como proceso y modelo",
+          "color": "#264653",
+          "role": "Marco teórico",
+          "descripcion": "Para Echeita (2008) la inclusión es un proceso que da sentido y orientación a las prácticas docentes; Susinos (2005) la define como escuela para todos donde cada alumno es recibido como miembro valioso, y Blanco (2008) como transformación de sistemas, culturas y prácticas para satisfacer las necesidades diversas. Con la LOMLOE se convierte en principio fundamental del sistema educativo."
+        },
+        {
+          "id": "2",
+          "label": "Atención multidimensional a la diversidad",
+          "color": "#5b9eaa",
+          "role": "Marco teórico",
+          "descripcion": "Existen diversidad de ritmos, intereses, motivaciones y capacidades (Arnaiz y Haro, 1997), y la inclusión acepta y valora esas diferencias reconociendo a todos los niños como sujetos de derechos (Casanova, 2011). Bautista-Ochoa et al. (2021) identifican escuela pública e inclusiva como modelo de democracia, y Sáez-Carreras (1997) define educar en la diversidad como proceso basado en el pluralismo democrático y la aceptación de la diferencia."
+        },
+        {
+          "id": "3",
+          "label": "Metodologías visuales y empatía",
+          "color": "#2a9d8f",
+          "role": "Marco teórico",
+          "descripcion": "Las imágenes ya se usaron en formación docente para reflexionar sobre la diversidad (Bailey y Van Harken, 2014; Phillipson y Forlin, 2011; Orland-Barak y Maskit, 2014). Fomentar la empatía es básico en los centros (Moya, 2019) y el cómic puede mejorarla (Ferreiro-Peleteiro, 2019), en un contexto de creciente aceptación social del medio (El Refaie, 2012)."
+        },
+        {
+          "id": "4",
+          "label": "Antecedentes en la Universidad de Alcalá",
+          "color": "#9b82c3",
+          "role": "Marco teórico",
+          "descripcion": "La trayectoria incluye el cómic para competencias multimodales y la sociedad intercultural (Gavaldón et al., 2020) y los cómics autobiográficos sobre la memoria escolar (McGarr et al., 2020), en su mayoría en educación universitaria. Se detectó que parte del alumnado nunca ha leído cómics (Sáez-de-Adana y Gavaldón, 2020), problema que este trabajo lleva a Primaria."
+        },
+        {
+          "id": "5",
+          "label": "Crear cómics para generar empatía",
+          "color": "#2a9d8f",
+          "role": "Objetivo",
+          "descripcion": "El objetivo es determinar de qué manera la creación de cómics por los alumnos propicia la comprensión y la empatía hacia las personas con necesidades específicas de apoyo educativo y fomenta relaciones basadas en la tolerancia, la solidaridad y el compromiso. Objetivo secundario: comprobar su capacidad de comunicar mediante imágenes."
+        },
+        {
+          "id": "6",
+          "label": "Alumnado de quinto y sexto de primaria",
+          "color": "#264653",
+          "role": "Método",
+          "descripcion": "El estudio se realiza en el CEIP Parque de la Muñeca de Guadalajara con 40 alumnos de 5º y 6º, una profesora de la Facultad de Educación y otro del Instituto Franklin. En 6º hay un alumno con síndrome de Down; en 5º no hay necesidades educativas y se trabaja con el cuento inclusivo «Un día especial para Laila y sus amigos» (Down, ceguera, autismo, silla de ruedas)."
+        },
+        {
+          "id": "7",
+          "label": "Secuencia: debate, teoría y creación",
+          "color": "#264653",
+          "role": "Método",
+          "descripcion": "Primero, grupos de discusión sobre la inclusión de un alumno nuevo con necesidades educativas; después, sesiones teóricas sobre el cómic y sus partes —metáforas visuales, planos, enfoques, bocadillos, onomatopeyas— limitadas a una sola sesión por la programación; finalmente, la creación de cómics sobre los sentimientos del niño con necesidades que llega a un centro nuevo o las situaciones a que se enfrenta."
+        },
+        {
+          "id": "8",
+          "label": "Análisis con metáfora conceptual",
+          "color": "#264653",
+          "role": "Método",
+          "descripcion": "Los dos docentes analizaron los cómics de forma individual y luego conjunta: cómo se plantean los problemas de inclusión, qué conflictos se dibujan y qué estereotipos están presentes. Se emplea la teoría de la metáfora conceptual (Lakoff y Johnson, 1980), su uso en cómic (El Refaie, 2012) y la medicina gráfica (González-Cabeza, 2016; Lalanda, 2019)."
+        },
+        {
+          "id": "9",
+          "label": "Esquema integrador de final feliz",
+          "color": "#f4a261",
+          "role": "Resultados",
+          "descripcion": "La mayor parte de los trabajos siguen un esquema similar: un niño o niña llega a clase con alguna discapacidad, se produce un proceso de integración —a veces mediado por la profesora— y un final feliz en el que la clase se adapta a sus necesidades. Los propios alumnos asumen el proceso integrador que la UNESCO (2003) describe como respuesta a la diversidad y reducción de la exclusión."
+        },
+        {
+          "id": "10",
+          "label": "Lenguaje del cómic poco desarrollado",
+          "color": "#f4d068",
+          "role": "Resultados",
+          "descripcion": "En un primer vistazo, la mayoría de los trabajos no destacan por su uso del lenguaje del cómic, lo que se atribuye a la edad del alumnado, pero sobre todo a la baja presencia del cómic en los planes de estudio y al descenso de su lectura en edad infantil documentado por Sáez-de-Adana y Gavaldón (2020)."
+        },
+        {
+          "id": "11",
+          "label": "Discapacidades físicas en quinto",
+          "color": "#88b04b",
+          "role": "Resultados",
+          "descripcion": "En los cómics de 5º solo aparecen discapacidades físicas, destacando la ceguera y el uso de silla de ruedas, cada una en un tercio de los cómics presentados. El estudio lo atribuye a que el cuento inclusivo utilizado para abordar el tema trata fundamentalmente este tipo de capacidades especiales, menos representables las intelectuales a esta edad."
+        },
+        {
+          "id": "12",
+          "label": "Down y autismo en sexto",
+          "color": "#e76f51",
+          "role": "Resultados",
+          "descripcion": "En 6º, con un compañero con síndrome de Down en clase, sí aparecen las discapacidades intelectuales: «Se reían de él por ser Down», mostrando la burla como algo negativo, y otras historias mencionan el autismo. Un caso aislado llega a presentar la depresión como discapacidad, reflejo de la confusión infantil entre lo intelectual y lo mental."
+        },
+        {
+          "id": "13",
+          "label": "La niña ciega y los bocadillos",
+          "color": "#f4a261",
+          "role": "Resultados",
+          "descripcion": "En la figura 1, la niña con ceguera percibe a sus compañeros solo como bocadillos de conversación, única información que recibe; al llegar a su sitio exclama «¡Qué chulo debe ser (el pupitre)!». La autora se puso en el lugar de una invidente y el cómic enfatiza al final que ella no es diferente: las metáforas visuales facilitan el proceso de empatía."
+        },
+        {
+          "id": "14",
+          "label": "Silla de ruedas en primera persona",
+          "color": "#c73e1d",
+          "role": "Resultados",
+          "descripcion": "Excepcional por su punto de vista, la figura 4 narra desde el propio niño en silla de ruedas, que practica deporte adaptado con mensaje de autosuperación. La transmisión de sentimientos funciona mejor cuando se adopta la perspectiva del estudiante con discapacidad, pues en la mayoría de los cómics la discapacidad sigue recayendo en el «otro»."
+        },
+        {
+          "id": "15",
+          "label": "Cómic como metodología innovadora",
+          "color": "#2a5a75",
+          "role": "Discusión",
+          "descripcion": "El cómic no solo trata de héroes y antihéroes: sirve para la crítica social y la reflexión moral, como sabe el mercado del cómic young adult (Tarbox, 2017). Como estrategia dinamizadora y vehículo de reflexión crítica, muestra a los estudiantes agentes clave de la integración y capaces de resolver los problemas de inclusión cuando el alumno remata la historia solucionándolos con facilidad."
+        },
+        {
+          "id": "16",
+          "label": "Déficit de alfabetización visual",
+          "color": "#e76f51",
+          "role": "Limitaciones",
+          "descripcion": "Quedan desafíos: la percepción social y educativa del cómic y las carencias en alfabetización visual al contar por imágenes; la dificultad de retratar aspectos negativos o situaciones traumáticas explica los finales siempre positivos; y el uso de la metáfora no está plenamente desarrollado, por lo que los autores reclaman incluir la alfabetización visual como elemento clave de la formación."
+        }
       ],
       "aristas": [
-        {"from": "2", "to": "1", "label": "fundamenta el"},
-        {"from": "1", "to": "5", "label": "impulsa el"},
-        {"from": "3", "to": "5", "label": "respaldan el"},
-        {"from": "4", "to": "5", "label": "motivan el"},
-        {"from": "5", "to": "6", "label": "se aplica al"},
-        {"from": "5", "to": "7", "label": "se instrumenta en la"},
-        {"from": "5", "to": "8", "label": "se valora mediante el"},
-        {"from": "7", "to": "9", "label": "conduce al"},
-        {"from": "8", "to": "9", "label": "revela el"},
-        {"from": "8", "to": "10", "label": "constata el"},
-        {"from": "6", "to": "11", "label": "explica las desde su cuento"},
-        {"from": "6", "to": "12", "label": "su alumno con Down explica las"},
-        {"from": "11", "to": "12", "label": "contrastan con las"},
-        {"from": "11", "to": "13", "label": "alcanzan su ejemplo en la"},
-        {"from": "13", "to": "14", "label": "dialoga con el"},
-        {"from": "8", "to": "13", "label": "analiza la percepción de la"},
-        {"from": "8", "to": "14", "label": "destaca la voz del"},
-        {"from": "9", "to": "15", "label": "impulsa la"},
-        {"from": "14", "to": "15", "label": "demuestran el"},
-        {"from": "2", "to": "15", "label": "requiere la"},
-        {"from": "10", "to": "16", "label": "evidencia el"},
-        {"from": "15", "to": "16", "label": "debe corregir el"}
+        {
+          "from": "2",
+          "to": "1",
+          "label": "fundamenta el"
+        },
+        {
+          "from": "1",
+          "to": "5",
+          "label": "impulsa el"
+        },
+        {
+          "from": "3",
+          "to": "5",
+          "label": "respaldan el"
+        },
+        {
+          "from": "4",
+          "to": "5",
+          "label": "motivan el"
+        },
+        {
+          "from": "5",
+          "to": "6",
+          "label": "se aplica al"
+        },
+        {
+          "from": "5",
+          "to": "7",
+          "label": "se instrumenta en la"
+        },
+        {
+          "from": "5",
+          "to": "8",
+          "label": "se valora mediante el"
+        },
+        {
+          "from": "7",
+          "to": "9",
+          "label": "conduce al"
+        },
+        {
+          "from": "8",
+          "to": "9",
+          "label": "revela el"
+        },
+        {
+          "from": "8",
+          "to": "10",
+          "label": "constata el"
+        },
+        {
+          "from": "6",
+          "to": "11",
+          "label": "explica las desde su cuento"
+        },
+        {
+          "from": "6",
+          "to": "12",
+          "label": "su alumno con Down explica las"
+        },
+        {
+          "from": "11",
+          "to": "12",
+          "label": "contrastan con las"
+        },
+        {
+          "from": "11",
+          "to": "13",
+          "label": "alcanzan su ejemplo en la"
+        },
+        {
+          "from": "13",
+          "to": "14",
+          "label": "dialoga con el"
+        },
+        {
+          "from": "8",
+          "to": "13",
+          "label": "analiza la percepción de la"
+        },
+        {
+          "from": "8",
+          "to": "14",
+          "label": "destaca la voz del"
+        },
+        {
+          "from": "9",
+          "to": "15",
+          "label": "impulsa la"
+        },
+        {
+          "from": "14",
+          "to": "15",
+          "label": "demuestran el"
+        },
+        {
+          "from": "2",
+          "to": "15",
+          "label": "requiere la"
+        },
+        {
+          "from": "10",
+          "to": "16",
+          "label": "evidencia el"
+        },
+        {
+          "from": "15",
+          "to": "16",
+          "label": "debe corregir el"
+        }
       ]
     }
   }

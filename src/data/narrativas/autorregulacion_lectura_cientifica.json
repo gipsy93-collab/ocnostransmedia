@@ -12,7 +12,7 @@
     "color": "#2a9d8f",
     "colorAlt": "#2a5a75",
     "bg": "from-teal-600/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-02.png",
+    "image": "/assets/portadas/conciencia_fonologica_aula.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-02.png",
       "name": "Dra. Marta Torrijos-Muelas",
@@ -191,46 +191,230 @@
     "titulo": "Mapa conceptual: Autorregulación y lectura científica en docentes en formación (Ocnos 23(2), 2024)",
     "descripcion": "Estudio exploratorio con 1.253 estudiantes de Magisterio que describe el aprendizaje autorregulado (ARA), el rango de artículos científicos leídos por cuatrimestre y la asociación entre más lectura científica y mejor autorregulación.",
     "nodos": [
-      {"id": "1", "label": "Aprendizaje Autorregulado (ARA)", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Procesos cognitivos, metacognitivos, motivacionales y emocionales autoiniciados para alcanzar metas de aprendizaje (Zimmerman y Schunk, 2017). En la universidad sustenta el éxito académico y el aprendizaje a lo largo de la vida profesional."},
-      {"id": "2", "label": "Perfil de lectores inmaduros en futuros maestros", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "Prefieren novelas y títulos comerciales con escasa dedicación a la lectura académica (Alcocer-Vázquez y Zapata-González, 2021; Granado y Puig, 2014). Suelen quedarse en la información superficial y depender de interpretaciones ajenas de los textos (Lennox et al., 2020)."},
-      {"id": "3", "label": "Alfabetización científica y pensamiento crítico", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "La lectura académica exige una actitud activa de análisis e interpretación de datos que contribuye a la alfabetización científica (Dori et al., 2018). Se plantea como proceso clave de la capacidad crítica en el campo de estudio (Cardona Puello et al., 2018)."},
-      {"id": "4", "label": "Objetivos: ARA y lectura científica", "color": "#f4a261", "role": "Objetivo", "descripcion": "Describir las habilidades de ARA del Grado en Maestro según variables sociodemográficas, conocer el rango de artículos científicos leídos por cuatrimestre y explorar las diferencias en ARA según ese rango."},
-      {"id": "5", "label": "Diseño descriptivo transversal", "color": "#264653", "role": "Método", "descripcion": "Estudio no experimental de tipo selectivo y transversal siguiendo la clasificación de Ato et al. (2013), con medición de las variables en un único momento. La recogida se hizo en el segundo cuatrimestre para evitar distorsiones del trabajo de fin de grado."},
-      {"id": "6", "label": "Muestra de 1.253 estudiantes", "color": "#2a5a75", "role": "Método", "descripcion": "Estudiantes de una universidad pública española (34.12% del alumnado de los grados): Primaria 67.3%, Infantil 32.7%, edad media 20.78 años y 74.9% mujeres. Muestreo por conveniencia en clases obligatorias, con consentimiento informado y aprobación CEIS-631156-N6M6."},
-      {"id": "7", "label": "Escala SRSI-SR adaptada al español", "color": "#9b82c3", "role": "Método", "descripcion": "Adaptación de Hernández-Barrios y Camargo-Uribe (2017) del inventario de Cleary (2006), con 18 ítems tipo Likert de frecuencia y alfa de Cronbach total de .81. Incluye un factor desadaptativo (hábitos inadecuados) y tres adaptativos: organización del entorno, búsqueda de información y organización de la tarea."},
-      {"id": "8", "label": "Análisis no paramétrico de datos", "color": "#5b9eaa", "role": "Método", "descripcion": "Pruebas con SPSS v.29: Mann-Whitney para género y grado, Kruskal-Wallis para curso y rango lector, chi-cuadrado de independencia y correlación. El tamaño del efecto se estimó con el estadístico A de Vargha y corrección de Bonferroni."},
-      {"id": "9", "label": "Puntuaciones intermedias-altas en ARA", "color": "#88b04b", "role": "Resultados", "descripcion": "Media total de 6.59 sobre diez, con 7.29 en la subescala adaptativa y 4.5 en la desadaptativa. Los futuros maestros muestran buenas estrategias de organización pero deben mejorar la comprensión de temas complejos y evitar distracciones."},
-      {"id": "10", "label": "Superioridad femenina en ARA", "color": "#f4d068", "role": "Resultados", "descripcion": "Diferencias significativas (p < .001) a favor de las mujeres en todas las puntuaciones de la escala, con tamaños del efecto moderados (A entre .548 y .665). Coincide con Baldan-Babayigit y Guven (2020) y Larruzea-Urkixo y Cardeñoso-Ramírez (2020)."},
-      {"id": "11", "label": "Uno o dos artículos por cuatrimestre", "color": "#e76f51", "role": "Resultados", "descripcion": "La moda de la muestra es uno o dos artículos y más de la mitad leyó menos de tres. Hay diferencia significativa por género (A = .545 a favor de ellas), pero no entre Infantil y Primaria."},
-      {"id": "12", "label": "El ARA mejora desde tres artículos", "color": "#2a9d8f", "role": "Resultados", "descripcion": "Diferencias significativas en todas las escalas del SRSI-SR según el rango leído (total p < .001). No hay ventaja entre no leer y leer uno o dos, pero las puntuaciones mejoran a partir de tres artículos, con el mayor efecto al comparar ninguno con más de diez (A = .697)."},
-      {"id": "13", "label": "Diferencias por curso sin progreso ascendente", "color": "#c73e1d", "role": "Resultados", "descripcion": "En lectura científica, segundo curso supera a primero (A = .626) y a tercero (A = .645), por lo que el perfil lector no crece al avanzar la formación. En ARA, cuarto curso muestra peor organización del entorno (FII), contradiciendo la literatura previa."},
-      {"id": "14", "label": "Uso instrumental de la lectura académica", "color": "#f4a261", "role": "Discusión", "descripcion": "Los universitarios prefieren textos literarios o de autoayuda y reducen los textos informativos a lo obligatorio para superar asignaturas (Alcocer-Vázquez y Zapata-González, 2021; García-Gutiérrez et al., 2019). La falta de hábitos de lectura académica se correlaciona con bajo ARA y débil lectura crítica."},
-      {"id": "15", "label": "Formación docente basada en evidencia", "color": "#88b04b", "role": "Conclusiones", "descripcion": "Incrementar la lectura científica mejora el ARA, el pensamiento crítico y la elección voluntaria de lecturas, fomentando modelos de enseñanza basados en evidencia. Se sugieren lectura grupal, infografías, textos adaptados y motivación intrínseca en el currículo del Grado."},
-      {"id": "16", "label": "Limitaciones: autoinforme y muestra", "color": "#c73e1d", "role": "Limitaciones", "descripcion": "Los autores reconocen la limitada representatividad de la muestra y el enfoque individual y exclusivamente cuantitativo con medidas autoinformadas. Recomiendan evaluar el ARA antes y después de intervenciones y réplicas con eye tracking y neurodidáctica."}
+      {
+        "id": "1",
+        "label": "Aprendizaje Autorregulado (ARA)",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Procesos cognitivos, metacognitivos, motivacionales y emocionales autoiniciados para alcanzar metas de aprendizaje (Zimmerman y Schunk, 2017). En la universidad sustenta el éxito académico y el aprendizaje a lo largo de la vida profesional."
+      },
+      {
+        "id": "2",
+        "label": "Perfil de lectores inmaduros en futuros maestros",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Prefieren novelas y títulos comerciales con escasa dedicación a la lectura académica (Alcocer-Vázquez y Zapata-González, 2021; Granado y Puig, 2014). Suelen quedarse en la información superficial y depender de interpretaciones ajenas de los textos (Lennox et al., 2020)."
+      },
+      {
+        "id": "3",
+        "label": "Alfabetización científica y pensamiento crítico",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "La lectura académica exige una actitud activa de análisis e interpretación de datos que contribuye a la alfabetización científica (Dori et al., 2018). Se plantea como proceso clave de la capacidad crítica en el campo de estudio (Cardona Puello et al., 2018)."
+      },
+      {
+        "id": "4",
+        "label": "Objetivos: ARA y lectura científica",
+        "color": "#f4a261",
+        "role": "Objetivo",
+        "descripcion": "Describir las habilidades de ARA del Grado en Maestro según variables sociodemográficas, conocer el rango de artículos científicos leídos por cuatrimestre y explorar las diferencias en ARA según ese rango."
+      },
+      {
+        "id": "5",
+        "label": "Diseño descriptivo transversal",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Estudio no experimental de tipo selectivo y transversal siguiendo la clasificación de Ato et al. (2013), con medición de las variables en un único momento. La recogida se hizo en el segundo cuatrimestre para evitar distorsiones del trabajo de fin de grado."
+      },
+      {
+        "id": "6",
+        "label": "Muestra de 1.253 estudiantes",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Estudiantes de una universidad pública española (34.12% del alumnado de los grados): Primaria 67.3%, Infantil 32.7%, edad media 20.78 años y 74.9% mujeres. Muestreo por conveniencia en clases obligatorias, con consentimiento informado y aprobación CEIS-631156-N6M6."
+      },
+      {
+        "id": "7",
+        "label": "Escala SRSI-SR adaptada al español",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "Adaptación de Hernández-Barrios y Camargo-Uribe (2017) del inventario de Cleary (2006), con 18 ítems tipo Likert de frecuencia y alfa de Cronbach total de .81. Incluye un factor desadaptativo (hábitos inadecuados) y tres adaptativos: organización del entorno, búsqueda de información y organización de la tarea."
+      },
+      {
+        "id": "8",
+        "label": "Análisis no paramétrico de datos",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Pruebas con SPSS v.29: Mann-Whitney para género y grado, Kruskal-Wallis para curso y rango lector, chi-cuadrado de independencia y correlación. El tamaño del efecto se estimó con el estadístico A de Vargha y corrección de Bonferroni."
+      },
+      {
+        "id": "9",
+        "label": "Puntuaciones intermedias-altas en ARA",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Media total de 6.59 sobre diez, con 7.29 en la subescala adaptativa y 4.5 en la desadaptativa. Los futuros maestros muestran buenas estrategias de organización pero deben mejorar la comprensión de temas complejos y evitar distracciones."
+      },
+      {
+        "id": "10",
+        "label": "Superioridad femenina en ARA",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Diferencias significativas (p < .001) a favor de las mujeres en todas las puntuaciones de la escala, con tamaños del efecto moderados (A entre .548 y .665). Coincide con Baldan-Babayigit y Guven (2020) y Larruzea-Urkixo y Cardeñoso-Ramírez (2020)."
+      },
+      {
+        "id": "11",
+        "label": "Uno o dos artículos por cuatrimestre",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "La moda de la muestra es uno o dos artículos y más de la mitad leyó menos de tres. Hay diferencia significativa por género (A = .545 a favor de ellas), pero no entre Infantil y Primaria."
+      },
+      {
+        "id": "12",
+        "label": "El ARA mejora desde tres artículos",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Diferencias significativas en todas las escalas del SRSI-SR según el rango leído (total p < .001). No hay ventaja entre no leer y leer uno o dos, pero las puntuaciones mejoran a partir de tres artículos, con el mayor efecto al comparar ninguno con más de diez (A = .697)."
+      },
+      {
+        "id": "13",
+        "label": "Diferencias por curso sin progreso ascendente",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "En lectura científica, segundo curso supera a primero (A = .626) y a tercero (A = .645), por lo que el perfil lector no crece al avanzar la formación. En ARA, cuarto curso muestra peor organización del entorno (FII), contradiciendo la literatura previa."
+      },
+      {
+        "id": "14",
+        "label": "Uso instrumental de la lectura académica",
+        "color": "#f4a261",
+        "role": "Discusión",
+        "descripcion": "Los universitarios prefieren textos literarios o de autoayuda y reducen los textos informativos a lo obligatorio para superar asignaturas (Alcocer-Vázquez y Zapata-González, 2021; García-Gutiérrez et al., 2019). La falta de hábitos de lectura académica se correlaciona con bajo ARA y débil lectura crítica."
+      },
+      {
+        "id": "15",
+        "label": "Formación docente basada en evidencia",
+        "color": "#88b04b",
+        "role": "Conclusiones",
+        "descripcion": "Incrementar la lectura científica mejora el ARA, el pensamiento crítico y la elección voluntaria de lecturas, fomentando modelos de enseñanza basados en evidencia. Se sugieren lectura grupal, infografías, textos adaptados y motivación intrínseca en el currículo del Grado."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones: autoinforme y muestra",
+        "color": "#c73e1d",
+        "role": "Limitaciones",
+        "descripcion": "Los autores reconocen la limitada representatividad de la muestra y el enfoque individual y exclusivamente cuantitativo con medidas autoinformadas. Recomiendan evaluar el ARA antes y después de intervenciones y réplicas con eye tracking y neurodidáctica."
+      }
     ],
     "aristas": [
-      {"from": "4", "to": "1", "label": "el objetivo describe el"},
-      {"from": "4", "to": "2", "label": "el objetivo también perfila el"},
-      {"from": "4", "to": "5", "label": "se operacionaliza mediante el"},
-      {"from": "1", "to": "3", "label": "sustenta el desarrollo de la"},
-      {"from": "2", "to": "3", "label": "dificulta la"},
-      {"from": "5", "to": "6", "label": "el diseño se aplica a la"},
-      {"from": "6", "to": "7", "label": "se evalúa con la"},
-      {"from": "7", "to": "8", "label": "las respuestas se procesan con el"},
-      {"from": "7", "to": "9", "label": "la escala mide unas"},
-      {"from": "8", "to": "9", "label": "el análisis revela"},
-      {"from": "9", "to": "10", "label": "se diferencia a favor de la"},
-      {"from": "10", "to": "11", "label": "también supera en la"},
-      {"from": "2", "to": "11", "label": "se manifiesta en la"},
-      {"from": "11", "to": "12", "label": "no alcanza el umbral del"},
-      {"from": "11", "to": "13", "label": "varía según las"},
-      {"from": "2", "to": "14", "label": "condiciona el"},
-      {"from": "14", "to": "13", "label": "explica las"},
-      {"from": "14", "to": "15", "label": "exige una"},
-      {"from": "12", "to": "15", "label": "respalda la"},
-      {"from": "3", "to": "15", "label": "es meta de la"},
-      {"from": "5", "to": "16", "label": "su transversalidad implica las"},
-      {"from": "16", "to": "15", "label": "restringen la"}
+      {
+        "from": "4",
+        "to": "1",
+        "label": "el objetivo describe el"
+      },
+      {
+        "from": "4",
+        "to": "2",
+        "label": "el objetivo también perfila el"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se operacionaliza mediante el"
+      },
+      {
+        "from": "1",
+        "to": "3",
+        "label": "sustenta el desarrollo de la"
+      },
+      {
+        "from": "2",
+        "to": "3",
+        "label": "dificulta la"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "el diseño se aplica a la"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se evalúa con la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "las respuestas se procesan con el"
+      },
+      {
+        "from": "7",
+        "to": "9",
+        "label": "la escala mide unas"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "el análisis revela"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "se diferencia a favor de la"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "también supera en la"
+      },
+      {
+        "from": "2",
+        "to": "11",
+        "label": "se manifiesta en la"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "no alcanza el umbral del"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "varía según las"
+      },
+      {
+        "from": "2",
+        "to": "14",
+        "label": "condiciona el"
+      },
+      {
+        "from": "14",
+        "to": "13",
+        "label": "explica las"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "exige una"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "respalda la"
+      },
+      {
+        "from": "3",
+        "to": "15",
+        "label": "es meta de la"
+      },
+      {
+        "from": "5",
+        "to": "16",
+        "label": "su transversalidad implica las"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "restringen la"
+      }
     ]
   }
 }

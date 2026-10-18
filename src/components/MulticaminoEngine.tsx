@@ -699,7 +699,7 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
                       <div className="flex items-center space-x-3 min-w-0">
                         <div className="w-10 h-10 rounded-xl overflow-hidden bg-[#eef5f2] border border-ocnos-cyan/40 shrink-0 flex items-center justify-center">
                           <img 
-                            src={narrative.metadata.tutor?.image || `/assets/cromos/cromo-1.png`}
+                            src={narrative.metadata.tutor?.image || narrative.metadata.image || '/assets/portadas/naturaleza_albumes.jpg'}
                             alt="" 
                             className="w-full h-full object-contain p-0.5" 
                           />

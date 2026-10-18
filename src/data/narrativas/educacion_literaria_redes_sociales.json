@@ -12,7 +12,7 @@
     "color": "#2a5a75",
     "colorAlt": "#2a9d8f",
     "bg": "from-ocean-base/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-02.png",
+    "image": "/assets/portadas/tiktok_lij.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-02.png",
       "name": "Dra. Amor Pérez-Rodríguez",
@@ -191,44 +191,220 @@
     "titulo": "Mapa conceptual: Educación literaria y redes sociales en la producción científica en español (Ocnos 23(1) 2024)",
     "descripcion": "Del uso juvenil de las redes y el modelo didáctico de la web 2.0 al filtro PRISMA sobre Dialnet —de 2.697 artículos a 37—: la revisión perfila la producción, las redes más estudiadas, las prácticas literarias y las competencias, y concluye exigiendo formación docente e integración de las redes en la didáctica de la literatura.",
     "nodos": [
-      {"id": "1", "label": "Redes sociales y jóvenes usuarios", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "El 85% de la población española es usuaria de redes sociales y el 78% de los jóvenes de 12 a 17 años sigue a influencers, sobre todo en Instagram (80%), YouTube (44%) y TikTok (52%) (IAB Spain, 2022). Las redes han modificado las formas de contar y las narrativas, y con ellas la creación, el consumo y la enseñanza de la literatura."},
-      {"id": "2", "label": "Web 2.0 como modelo didáctico", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "El nuevo papel del usuario configura un modelo didáctico (Rovira-Collado, 2013) sustentado en la multimodalidad, la participación, el conocimiento compartido y la interacción entre iguales (Cassany, 2012). Se aprende haciendo cosas, cruzando lo cotidiano y lo académico, en una cultura participativa que comparte y re-opera contenidos (Jenkins et al., 2015) y en comunidades virtuales donde los jóvenes se vuelven líderes de opinión (Lluch et al., 2015)."},
-      {"id": "3", "label": "Narrativas digitales y tuiteratura", "color": "#88b04b", "role": "Marco teórico", "descripcion": "Las narrativas digitales se articulan sobre lenguaje hipermedia interactivo, razonamiento rizomático, algoritmos y viralidad: gana importancia el pensamiento visual secuencial frente al alfabético-continuo (Pérez-Tornero, 2020). Desde 2009 Twitter es espacio de creación literaria en las narrativas transmediáticas, la tuiteratura (Escandell, 2014; Navarro-Romero, 2015), con lector proactivo y nuevos roles autor/lector-autor (Merchán-Sánchez-Jara y Gómez-Díaz, 2019)."},
-      {"id": "4", "label": "Tres preguntas de investigación", "color": "#f4d068", "role": "Objetivo", "descripcion": "El objetivo es identificar las prácticas de educación literaria ligadas a las redes sociales en el contexto educativo español. RQ1 pregunta cuántos y qué estudios hay en Dialnet sobre Didáctica de la Literatura española con redes; RQ2 por las redes más utilizadas en su enseñanza; RQ3 por los aspectos destacados y los resultados obtenidos."},
-      {"id": "5", "label": "Revisión sistemática PRISMA en Dialnet", "color": "#264653", "role": "Método", "descripcion": "Revisión sistemática de la literatura con los estándares PRISMA para protocolo, búsqueda, selección y síntesis (Moher et al., 2009). Se eligió Dialnet por ser el portal especializado en producción científica hispana, filtrando por las campos de Ciencias Sociales, Humanidades, Psicología y Educación y Filología, idioma castellano y rango 2016-2022."},
-      {"id": "6", "label": "Criterios de selección y términos booleanos", "color": "#5b9eaa", "role": "Método", "descripcion": "La búsqueda combinó términos como literatura, poesía, narrativa, teatro, redes sociales, Facebook, Instagram, Twitter y TikTok con operadores booleanos. Criterios: fenómeno —enseñanza y aprendizaje de la literatura española con redes, no mera difusión—, contexto —redes abiertas y populares, excluyendo internet o móvil a secas— y diseño —solo artículos, descartando ponencias, tesis y resúmenes—."},
-      {"id": "7", "label": "Filtrado de 2697 a 37 artículos", "color": "#2a5a75", "role": "Método", "descripcion": "El proyecto matriz partió de 2.697 artículos en español e inglés, 2.068 tras eliminar duplicados y 389 con filtro manual por título, resumen y palabras clave. En esta revisión, Refworks gestionó los duplicados, dos revisores independientes evaluaron los textos completos y un tercero resolvió las discrepancias, hasta la muestra final de 37 artículos."},
-      {"id": "8", "label": "Análisis de contenido de los estudios", "color": "#2a9d8f", "role": "Método", "descripcion": "El análisis de contenido determinó los destinatarios y su etapa educativa, la práctica desarrollada y las habilidades priorizadas, la red social utilizada y los principales resultados de cada estudio. Estas categorías permiten valorar la eficacia de las redes en la didáctica de la literatura y orientar investigaciones posteriores."},
-      {"id": "9", "label": "Perfil de la producción científica", "color": "#f4d068", "role": "Resultados", "descripcion": "Los años con más investigaciones son 2019 y 2021, atribuibles a la digitalización docente por la pandemia. Publican Ocnos (16,2%), Comunicar (5,4%) o Textos de Didáctica de la Lengua y la Literatura (10,8%); predominan las autorías individuales (54%), las mujeres firman el 58,9% y el 73,3% de los artículos multinacionales; España concentra más del 73% de los estudios."},
-      {"id": "10", "label": "Secundaria y Lengua Castellana predominantes", "color": "#88b04b", "role": "Resultados", "descripcion": "Prevalece el contexto formal (59,4%), en Secundaria (51,7%) y Universidad (27,6%), con la materia de Lengua Castellana y Literatura en el 93% de los casos. Literatura y lectura son el objeto del 62,1% y la escritura creativa del 29,7%; dominan las prácticas lectoescritoras frente a la oralidad, aunque la red principal sea la audiovisual YouTube."},
-      {"id": "11", "label": "YouTube y Facebook más estudiadas", "color": "#e76f51", "role": "Resultados", "descripcion": "La mayoría de los estudios se enfoca en las redes más veteranas, YouTube y Facebook, seguidas de Instagram y Twitter, con artículos sobre TikTok solo de los dos últimos años analizados (2021-2022). Destacan las experiencias con YouTube para el fomento de la lectura y la escritura y narrativa con Instagram y Twitter."},
-      {"id": "12", "label": "Prácticas literarias escolares en redes", "color": "#c73e1d", "role": "Resultados", "descripcion": "Los trabajos abordan poesía experimental e instapoesía, microrrelatos en Weibo e hilos narrativos de Twitter, escritura creativa y teatro en Instagram y TikTok, fanfics y fandom en Wattpad, animación lectora, blogs, booktubers y booktokers, y la comprensión de clásicos. Se estudian además las percepciones del alumnado y del profesorado y las redes como entornos de aprendizaje."},
-      {"id": "13", "label": "Competencias lectoras, digitales y transmedia", "color": "#f4a261", "role": "Resultados", "descripcion": "Se desarrollan la competencia literaria y digital, lectora, lingüística y transmedia en booktubers, booktokers y fanfics de Wattpad, y se comprueba la efectividad del Facebook para la comprensión lectora. Los hallazgos muestran progreso de las habilidades lingüísticas, el pensamiento crítico y la motivación gracias a las comunidades lectoras y al protagonismo del lector que crea y comparte contenidos."},
-      {"id": "14", "label": "Escasez de investigación y formación docente", "color": "#9b82c3", "role": "Discusión", "descripcion": "Pese al uso generalizado de redes, se confirma la escasez de trabajos —solo el 32,4% divulgado en revistas JCR/JIF y Scopus— en línea con Figuereo-Benítez et al. (2021), y se reclama más rigor que distinga investigación de innovación (González-Riaño y Fernández-Costales, 2020). Los estudios evidencian la demanda de formación docente e informacional y cultural y la necesidad de abrir los textos del canon (Quiles-Cabrera, 2020) y configurar un canon escolar desde los booktubers (García-Roca, 2021)."},
-      {"id": "15", "label": "Redes como contenido de la educación literaria", "color": "#2a5a75", "role": "Conclusiones", "descripcion": "Los nuevos modos de contar, crear y expresarse —prácticas lectoescritoras líquidas, hipermediales y multimodales— deben formar parte de la Didáctica de la Literatura, uniendo la competencia lingüística y la digital. Las redes mejoran la práctica educativa al conectarla con la realidad del alumnado en contextos nuevos de uso con audiencias auténticas (Cassany et al., 2019), siendo Twitter la red más empleada en escritura con metalenguaje propio."},
-      {"id": "16", "label": "Limitaciones del alcance y metodología", "color": "#9b82c3", "role": "Limitaciones", "descripcion": "El trabajo reconoce las limitaciones propias de esta metodología sistemática: una sola base de datos (Dialnet), solo idioma castellano, el rango 2016-2022 y el formato artículo. Estima necesario ampliar el análisis con estudios sobre inconvenientes y reticencias —como la incomodidad del alumnado al usar sus cuentas privadas (Rubio y Álvarez, 2021)—, los beneficios para la competencia literaria y la integración curricular de los usos multimodales."}
+      {
+        "id": "1",
+        "label": "Redes sociales y jóvenes usuarios",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "El 85% de la población española es usuaria de redes sociales y el 78% de los jóvenes de 12 a 17 años sigue a influencers, sobre todo en Instagram (80%), YouTube (44%) y TikTok (52%) (IAB Spain, 2022). Las redes han modificado las formas de contar y las narrativas, y con ellas la creación, el consumo y la enseñanza de la literatura."
+      },
+      {
+        "id": "2",
+        "label": "Web 2.0 como modelo didáctico",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "El nuevo papel del usuario configura un modelo didáctico (Rovira-Collado, 2013) sustentado en la multimodalidad, la participación, el conocimiento compartido y la interacción entre iguales (Cassany, 2012). Se aprende haciendo cosas, cruzando lo cotidiano y lo académico, en una cultura participativa que comparte y re-opera contenidos (Jenkins et al., 2015) y en comunidades virtuales donde los jóvenes se vuelven líderes de opinión (Lluch et al., 2015)."
+      },
+      {
+        "id": "3",
+        "label": "Narrativas digitales y tuiteratura",
+        "color": "#88b04b",
+        "role": "Marco teórico",
+        "descripcion": "Las narrativas digitales se articulan sobre lenguaje hipermedia interactivo, razonamiento rizomático, algoritmos y viralidad: gana importancia el pensamiento visual secuencial frente al alfabético-continuo (Pérez-Tornero, 2020). Desde 2009 Twitter es espacio de creación literaria en las narrativas transmediáticas, la tuiteratura (Escandell, 2014; Navarro-Romero, 2015), con lector proactivo y nuevos roles autor/lector-autor (Merchán-Sánchez-Jara y Gómez-Díaz, 2019)."
+      },
+      {
+        "id": "4",
+        "label": "Tres preguntas de investigación",
+        "color": "#f4d068",
+        "role": "Objetivo",
+        "descripcion": "El objetivo es identificar las prácticas de educación literaria ligadas a las redes sociales en el contexto educativo español. RQ1 pregunta cuántos y qué estudios hay en Dialnet sobre Didáctica de la Literatura española con redes; RQ2 por las redes más utilizadas en su enseñanza; RQ3 por los aspectos destacados y los resultados obtenidos."
+      },
+      {
+        "id": "5",
+        "label": "Revisión sistemática PRISMA en Dialnet",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Revisión sistemática de la literatura con los estándares PRISMA para protocolo, búsqueda, selección y síntesis (Moher et al., 2009). Se eligió Dialnet por ser el portal especializado en producción científica hispana, filtrando por las campos de Ciencias Sociales, Humanidades, Psicología y Educación y Filología, idioma castellano y rango 2016-2022."
+      },
+      {
+        "id": "6",
+        "label": "Criterios de selección y términos booleanos",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "La búsqueda combinó términos como literatura, poesía, narrativa, teatro, redes sociales, Facebook, Instagram, Twitter y TikTok con operadores booleanos. Criterios: fenómeno —enseñanza y aprendizaje de la literatura española con redes, no mera difusión—, contexto —redes abiertas y populares, excluyendo internet o móvil a secas— y diseño —solo artículos, descartando ponencias, tesis y resúmenes—."
+      },
+      {
+        "id": "7",
+        "label": "Filtrado de 2697 a 37 artículos",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "El proyecto matriz partió de 2.697 artículos en español e inglés, 2.068 tras eliminar duplicados y 389 con filtro manual por título, resumen y palabras clave. En esta revisión, Refworks gestionó los duplicados, dos revisores independientes evaluaron los textos completos y un tercero resolvió las discrepancias, hasta la muestra final de 37 artículos."
+      },
+      {
+        "id": "8",
+        "label": "Análisis de contenido de los estudios",
+        "color": "#2a9d8f",
+        "role": "Método",
+        "descripcion": "El análisis de contenido determinó los destinatarios y su etapa educativa, la práctica desarrollada y las habilidades priorizadas, la red social utilizada y los principales resultados de cada estudio. Estas categorías permiten valorar la eficacia de las redes en la didáctica de la literatura y orientar investigaciones posteriores."
+      },
+      {
+        "id": "9",
+        "label": "Perfil de la producción científica",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Los años con más investigaciones son 2019 y 2021, atribuibles a la digitalización docente por la pandemia. Publican Ocnos (16,2%), Comunicar (5,4%) o Textos de Didáctica de la Lengua y la Literatura (10,8%); predominan las autorías individuales (54%), las mujeres firman el 58,9% y el 73,3% de los artículos multinacionales; España concentra más del 73% de los estudios."
+      },
+      {
+        "id": "10",
+        "label": "Secundaria y Lengua Castellana predominantes",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Prevalece el contexto formal (59,4%), en Secundaria (51,7%) y Universidad (27,6%), con la materia de Lengua Castellana y Literatura en el 93% de los casos. Literatura y lectura son el objeto del 62,1% y la escritura creativa del 29,7%; dominan las prácticas lectoescritoras frente a la oralidad, aunque la red principal sea la audiovisual YouTube."
+      },
+      {
+        "id": "11",
+        "label": "YouTube y Facebook más estudiadas",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "La mayoría de los estudios se enfoca en las redes más veteranas, YouTube y Facebook, seguidas de Instagram y Twitter, con artículos sobre TikTok solo de los dos últimos años analizados (2021-2022). Destacan las experiencias con YouTube para el fomento de la lectura y la escritura y narrativa con Instagram y Twitter."
+      },
+      {
+        "id": "12",
+        "label": "Prácticas literarias escolares en redes",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Los trabajos abordan poesía experimental e instapoesía, microrrelatos en Weibo e hilos narrativos de Twitter, escritura creativa y teatro en Instagram y TikTok, fanfics y fandom en Wattpad, animación lectora, blogs, booktubers y booktokers, y la comprensión de clásicos. Se estudian además las percepciones del alumnado y del profesorado y las redes como entornos de aprendizaje."
+      },
+      {
+        "id": "13",
+        "label": "Competencias lectoras, digitales y transmedia",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Se desarrollan la competencia literaria y digital, lectora, lingüística y transmedia en booktubers, booktokers y fanfics de Wattpad, y se comprueba la efectividad del Facebook para la comprensión lectora. Los hallazgos muestran progreso de las habilidades lingüísticas, el pensamiento crítico y la motivación gracias a las comunidades lectoras y al protagonismo del lector que crea y comparte contenidos."
+      },
+      {
+        "id": "14",
+        "label": "Escasez de investigación y formación docente",
+        "color": "#9b82c3",
+        "role": "Discusión",
+        "descripcion": "Pese al uso generalizado de redes, se confirma la escasez de trabajos —solo el 32,4% divulgado en revistas JCR/JIF y Scopus— en línea con Figuereo-Benítez et al. (2021), y se reclama más rigor que distinga investigación de innovación (González-Riaño y Fernández-Costales, 2020). Los estudios evidencian la demanda de formación docente e informacional y cultural y la necesidad de abrir los textos del canon (Quiles-Cabrera, 2020) y configurar un canon escolar desde los booktubers (García-Roca, 2021)."
+      },
+      {
+        "id": "15",
+        "label": "Redes como contenido de la educación literaria",
+        "color": "#2a5a75",
+        "role": "Conclusiones",
+        "descripcion": "Los nuevos modos de contar, crear y expresarse —prácticas lectoescritoras líquidas, hipermediales y multimodales— deben formar parte de la Didáctica de la Literatura, uniendo la competencia lingüística y la digital. Las redes mejoran la práctica educativa al conectarla con la realidad del alumnado en contextos nuevos de uso con audiencias auténticas (Cassany et al., 2019), siendo Twitter la red más empleada en escritura con metalenguaje propio."
+      },
+      {
+        "id": "16",
+        "label": "Limitaciones del alcance y metodología",
+        "color": "#9b82c3",
+        "role": "Limitaciones",
+        "descripcion": "El trabajo reconoce las limitaciones propias de esta metodología sistemática: una sola base de datos (Dialnet), solo idioma castellano, el rango 2016-2022 y el formato artículo. Estima necesario ampliar el análisis con estudios sobre inconvenientes y reticencias —como la incomodidad del alumnado al usar sus cuentas privadas (Rubio y Álvarez, 2021)—, los beneficios para la competencia literaria y la integración curricular de los usos multimodales."
+      }
     ],
     "aristas": [
-      {"from": "1", "to": "2", "label": "alimentan el"},
-      {"from": "3", "to": "12", "label": "desembocan en las"},
-      {"from": "2", "to": "15", "label": "fundamentan la"},
-      {"from": "4", "to": "5", "label": "se abordan con la"},
-      {"from": "5", "to": "6", "label": "se concreta en los"},
-      {"from": "6", "to": "7", "label": "aplicados hasta el"},
-      {"from": "7", "to": "8", "label": "se interpretan mediante el"},
-      {"from": "8", "to": "9", "label": "caracterizó el"},
-      {"from": "8", "to": "10", "label": "detectó la"},
-      {"from": "8", "to": "11", "label": "identificó"},
-      {"from": "8", "to": "12", "label": "catalogó las"},
-      {"from": "8", "to": "13", "label": "aglutinó las"},
-      {"from": "10", "to": "12", "label": "enmarcan las"},
-      {"from": "11", "to": "12", "label": "canalizan las"},
-      {"from": "11", "to": "13", "label": "potencian las"},
-      {"from": "13", "to": "15", "label": "exigen integrar las"},
-      {"from": "14", "to": "15", "label": "refuerzan la"},
-      {"from": "16", "to": "15", "label": "acotan el alcance de"},
-      {"from": "2", "to": "14", "label": "sostienen la"},
-      {"from": "4", "to": "15", "label": "hallan respuesta en la"}
+      {
+        "from": "1",
+        "to": "2",
+        "label": "alimentan el"
+      },
+      {
+        "from": "3",
+        "to": "12",
+        "label": "desembocan en las"
+      },
+      {
+        "from": "2",
+        "to": "15",
+        "label": "fundamentan la"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se abordan con la"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se concreta en los"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "aplicados hasta el"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se interpretan mediante el"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "caracterizó el"
+      },
+      {
+        "from": "8",
+        "to": "10",
+        "label": "detectó la"
+      },
+      {
+        "from": "8",
+        "to": "11",
+        "label": "identificó"
+      },
+      {
+        "from": "8",
+        "to": "12",
+        "label": "catalogó las"
+      },
+      {
+        "from": "8",
+        "to": "13",
+        "label": "aglutinó las"
+      },
+      {
+        "from": "10",
+        "to": "12",
+        "label": "enmarcan las"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "canalizan las"
+      },
+      {
+        "from": "11",
+        "to": "13",
+        "label": "potencian las"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "exigen integrar las"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "refuerzan la"
+      },
+      {
+        "from": "16",
+        "to": "15",
+        "label": "acotan el alcance de"
+      },
+      {
+        "from": "2",
+        "to": "14",
+        "label": "sostienen la"
+      },
+      {
+        "from": "4",
+        "to": "15",
+        "label": "hallan respuesta en la"
+      }
     ]
   }
 }

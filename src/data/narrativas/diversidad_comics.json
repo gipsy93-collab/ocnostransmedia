@@ -12,7 +12,7 @@
     "color": "#e63946",
     "colorAlt": "#1d3557",
     "bg": "from-rose-400/20 to-indigo-900/20",
-    "image": "https://picsum.photos/seed/diversidad_comics/800/600"
+    "image": "/assets/portadas/empoderamiento_comic_portugues.jpg"
   },
   "blocks": {
     "apertura": {
@@ -353,43 +353,213 @@
     "titulo": "Mapa conceptual: Diversidad en los cómics (Ocnos 22(1) 2023)",
     "descripcion": "Recorrido del análisis reflexivo de Frezza: desde la marca del dibujo y los niños subversivos de los primeros cómics hasta la diversidad de género, especie, villanos, héroes, mutantes y personajes sintomáticos de los años ochenta, concluyendo que la diversidad es una condición estructural del medio.",
     "nodos": [
-      {"id": "1", "label": "Diversidad como corriente estructural del cómic", "color": "#c73e1d", "role": "Marco teórico", "descripcion": "Entre cómic y diversidad existe una corriente casi directa de concordancia y un entrelazado inextricable. Hay bases históricas desde finales del siglo XIX y bases estructurales que revelan el perímetro de diversidad perceptiva, antropológica y cultural de la sociedad moderno-burguesa."},
-      {"id": "2", "label": "Marca autoral del dibujo (Merleau-Ponty)", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "Siguiendo La prosa del mundo (1969), el dibujo muestra «la esencia más secreta del yo». En el cómic la marca —trazo, línea, corporalidad— permite reconocer a cualquier autor, como las mínimas diferencias distinguen a Milton Caniff de su alumno Frank Robbins."},
-      {"id": "3", "label": "Antropomorfismo según Benjamin y Eisenstein", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "Walter Benjamin (1936) vio en el antropomorfismo de Disney la clave para que la imaginación actúe como «viático liberador de la explotación capitalista». Eisenstein (2004) lo vinculó con la lógica profunda del totemismo."},
-      {"id": "4", "label": "Análisis reflexivo de la diversidad del cómic", "color": "#2a5a75", "role": "Objetivo", "descripcion": "El artículo se propone un análisis reflexivo de la diversidad del cómic desde diferentes variables de estudio, como declaran sus palabras clave: cómic, diversidad, análisis de contenido. No cuenta personajes: interpreta las formas en que cada obra pone en escena la diferencia."},
-      {"id": "5", "label": "Variables: dibujo, personaje, historia, recorrido", "color": "#264653", "role": "Método", "descripcion": "El título anuncia los ejes de lectura: dibujos, personajes, historias y recorridos. Las variables se entrelazan a lo largo del texto para examinar la diversidad del medio desde su marca gráfica hasta sus transformaciones históricas."},
-      {"id": "6", "label": "Corpus: cómic estadounidense, francés, belga, italiano", "color": "#264653", "role": "Método", "descripcion": "El recorrido cubre el cómic occidental desde finales del siglo XIX hasta los años ochenta, con especial atención al contexto italiano: prensa y tiras (Yellow Kid, Corriere dei Piccoli), cómics negros, cómic de autor europeo y underground estadounidense."},
-      {"id": "7", "label": "Niños diversos del primer cómic", "color": "#f4a261", "role": "Resultados", "descripcion": "Del Yellow Kid —niño chino calvo cuya palabra está escrita en su camisa amarilla— a los Katzenjammer Kids con acento de inmigrantes alemanes, el Bilbolbul de Mussino y el Quadratino de Rubino (Corriere dei Piccoli, 1910-1911) con cabeza cuadrada. El niño subvierte el orden de la realidad y estabiliza las funciones comunicativas del medio."},
-      {"id": "8", "label": "Krazy Kat: género y especie", "color": "#f4d068", "role": "Resultados", "descripcion": "George Herriman (1910-1944) subvierte género y especie: un gato o gata enamorado de un ratón, Ignatz, que solo sabe tirarle un ladrillo. En Coconino (Arizona), la tira se vuelve «una metáfora general de la existencia sin límite alguno», legitimada sin prohibiciones ni tabúes."},
-      {"id": "9", "label": "Familia Disney por diferencia de carácter", "color": "#88b04b", "role": "Resultados", "descripcion": "Mickey, Donald y Scrooge, dibujados por Carl Barks y Floyd Gottfredson y por los autores italianos, componen una familia no por vínculos genéticos sino por la coordinación de las diferencias de carácter. En ese escenario de irreductibilidades conductuales los objetivos de normalidad social son «apátridas, una clara ficción»."},
-      {"id": "10", "label": "Villanos de Dick Tracy", "color": "#e76f51", "role": "Resultados", "descripcion": "Chester Gould (1931-1977) dotó a criminales como Flattop y The Mole de cuerpos monstruosos que algunos estudiosos han relacionado con las teorías psiquiátricas de Lombroso. A la muerte de Flattop (historia de 1943-1944) los lectores estadounidenses organizaron velatorios y funerales: habilidad criminal castigada socialmente pero redimida humanamente."},
-      {"id": "11", "label": "Héroes, superhéroes y mutantes", "color": "#c73e1d", "role": "Resultados", "descripcion": "Tarzán (naturaleza dual), Mandrake el dandi (Falk, 1934), el Hombre Enmascarado sin rostro (1936) y Flash Gordon (Alex Raymond) encarnan la diversidad heroica más allá del estereotipo WASP. Con el Marvel de Stan Lee y Jack Kirby el cuerpo diverso se vuelve problema de identidad, y los X-Men lo convierten en diversidad comunitaria frente al racismo."},
-      {"id": "12", "label": "Cómics negros, de autor y underground", "color": "#2a9d8f", "role": "Resultados", "descripcion": "Diabolik (hermanas Giussani, diciembre de 1962) y Satanik (Magnus y Bunker) plantean diversidad ética y de género; Crepax con Valentina (1965) y Pratt con Corto Maltés (1967) inauguran el cómic de autor; Crumb con Mr. Natural (1966) y Maus (Spiegelman, 1986-1991) —judíos-ratones, nazis-gatos, polacos-cerdos— radicalizan el underground."},
-      {"id": "13", "label": "Diversidad sintomática de los años ochenta", "color": "#9b82c3", "role": "Discusión", "descripcion": "Ranxerox (Tamburini y Liberatore, 1978), Zanardi (Pazienza, 1981-1988) y Dylan Dog (Sclavi, 1986; un millón de copias mensuales a principios de los noventa) diagnostican el vacío de la posmodernidad. Johnny Freak (n.º 81, junio de 1993), joven sin piernas con habilidades creativas, es «el espejo que retrata la condición de los lectores» desheredados."},
-      {"id": "14", "label": "Diversidad como condición del medio", "color": "#2a5a75", "role": "Conclusiones", "descripcion": "Los cómics son viajes visuales donde la normalidad estructurada puede devenir excepción. La diversidad recorre la línea del dibujo y va más allá de la página: alcanza la mirada del lector y une pathos y política. La novela gráfica eleva la calidad narrativa pero no suple la pérdida de los grandes caudales de comunicación popular serial."},
-      {"id": "15", "label": "Prevalencia de la mirada blanca", "color": "#e76f51", "role": "Limitaciones", "descripcion": "El autor admite que en la historia del cómic prevalece la mirada de la cultura «blanca» sobre otras culturas étnicamente diferenciadas. Para Frezza ello no implica someter el sentido de los cómics a la voluntad de poder de esa cultura, pero exige metodologías de análisis no superficiales capaces de leer tal complejidad."}
+      {
+        "id": "1",
+        "label": "Diversidad como corriente estructural del cómic",
+        "color": "#c73e1d",
+        "role": "Marco teórico",
+        "descripcion": "Entre cómic y diversidad existe una corriente casi directa de concordancia y un entrelazado inextricable. Hay bases históricas desde finales del siglo XIX y bases estructurales que revelan el perímetro de diversidad perceptiva, antropológica y cultural de la sociedad moderno-burguesa."
+      },
+      {
+        "id": "2",
+        "label": "Marca autoral del dibujo (Merleau-Ponty)",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Siguiendo La prosa del mundo (1969), el dibujo muestra «la esencia más secreta del yo». En el cómic la marca —trazo, línea, corporalidad— permite reconocer a cualquier autor, como las mínimas diferencias distinguen a Milton Caniff de su alumno Frank Robbins."
+      },
+      {
+        "id": "3",
+        "label": "Antropomorfismo según Benjamin y Eisenstein",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Walter Benjamin (1936) vio en el antropomorfismo de Disney la clave para que la imaginación actúe como «viático liberador de la explotación capitalista». Eisenstein (2004) lo vinculó con la lógica profunda del totemismo."
+      },
+      {
+        "id": "4",
+        "label": "Análisis reflexivo de la diversidad del cómic",
+        "color": "#2a5a75",
+        "role": "Objetivo",
+        "descripcion": "El artículo se propone un análisis reflexivo de la diversidad del cómic desde diferentes variables de estudio, como declaran sus palabras clave: cómic, diversidad, análisis de contenido. No cuenta personajes: interpreta las formas en que cada obra pone en escena la diferencia."
+      },
+      {
+        "id": "5",
+        "label": "Variables: dibujo, personaje, historia, recorrido",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "El título anuncia los ejes de lectura: dibujos, personajes, historias y recorridos. Las variables se entrelazan a lo largo del texto para examinar la diversidad del medio desde su marca gráfica hasta sus transformaciones históricas."
+      },
+      {
+        "id": "6",
+        "label": "Corpus: cómic estadounidense, francés, belga, italiano",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "El recorrido cubre el cómic occidental desde finales del siglo XIX hasta los años ochenta, con especial atención al contexto italiano: prensa y tiras (Yellow Kid, Corriere dei Piccoli), cómics negros, cómic de autor europeo y underground estadounidense."
+      },
+      {
+        "id": "7",
+        "label": "Niños diversos del primer cómic",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Del Yellow Kid —niño chino calvo cuya palabra está escrita en su camisa amarilla— a los Katzenjammer Kids con acento de inmigrantes alemanes, el Bilbolbul de Mussino y el Quadratino de Rubino (Corriere dei Piccoli, 1910-1911) con cabeza cuadrada. El niño subvierte el orden de la realidad y estabiliza las funciones comunicativas del medio."
+      },
+      {
+        "id": "8",
+        "label": "Krazy Kat: género y especie",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "George Herriman (1910-1944) subvierte género y especie: un gato o gata enamorado de un ratón, Ignatz, que solo sabe tirarle un ladrillo. En Coconino (Arizona), la tira se vuelve «una metáfora general de la existencia sin límite alguno», legitimada sin prohibiciones ni tabúes."
+      },
+      {
+        "id": "9",
+        "label": "Familia Disney por diferencia de carácter",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Mickey, Donald y Scrooge, dibujados por Carl Barks y Floyd Gottfredson y por los autores italianos, componen una familia no por vínculos genéticos sino por la coordinación de las diferencias de carácter. En ese escenario de irreductibilidades conductuales los objetivos de normalidad social son «apátridas, una clara ficción»."
+      },
+      {
+        "id": "10",
+        "label": "Villanos de Dick Tracy",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Chester Gould (1931-1977) dotó a criminales como Flattop y The Mole de cuerpos monstruosos que algunos estudiosos han relacionado con las teorías psiquiátricas de Lombroso. A la muerte de Flattop (historia de 1943-1944) los lectores estadounidenses organizaron velatorios y funerales: habilidad criminal castigada socialmente pero redimida humanamente."
+      },
+      {
+        "id": "11",
+        "label": "Héroes, superhéroes y mutantes",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "Tarzán (naturaleza dual), Mandrake el dandi (Falk, 1934), el Hombre Enmascarado sin rostro (1936) y Flash Gordon (Alex Raymond) encarnan la diversidad heroica más allá del estereotipo WASP. Con el Marvel de Stan Lee y Jack Kirby el cuerpo diverso se vuelve problema de identidad, y los X-Men lo convierten en diversidad comunitaria frente al racismo."
+      },
+      {
+        "id": "12",
+        "label": "Cómics negros, de autor y underground",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Diabolik (hermanas Giussani, diciembre de 1962) y Satanik (Magnus y Bunker) plantean diversidad ética y de género; Crepax con Valentina (1965) y Pratt con Corto Maltés (1967) inauguran el cómic de autor; Crumb con Mr. Natural (1966) y Maus (Spiegelman, 1986-1991) —judíos-ratones, nazis-gatos, polacos-cerdos— radicalizan el underground."
+      },
+      {
+        "id": "13",
+        "label": "Diversidad sintomática de los años ochenta",
+        "color": "#9b82c3",
+        "role": "Discusión",
+        "descripcion": "Ranxerox (Tamburini y Liberatore, 1978), Zanardi (Pazienza, 1981-1988) y Dylan Dog (Sclavi, 1986; un millón de copias mensuales a principios de los noventa) diagnostican el vacío de la posmodernidad. Johnny Freak (n.º 81, junio de 1993), joven sin piernas con habilidades creativas, es «el espejo que retrata la condición de los lectores» desheredados."
+      },
+      {
+        "id": "14",
+        "label": "Diversidad como condición del medio",
+        "color": "#2a5a75",
+        "role": "Conclusiones",
+        "descripcion": "Los cómics son viajes visuales donde la normalidad estructurada puede devenir excepción. La diversidad recorre la línea del dibujo y va más allá de la página: alcanza la mirada del lector y une pathos y política. La novela gráfica eleva la calidad narrativa pero no suple la pérdida de los grandes caudales de comunicación popular serial."
+      },
+      {
+        "id": "15",
+        "label": "Prevalencia de la mirada blanca",
+        "color": "#e76f51",
+        "role": "Limitaciones",
+        "descripcion": "El autor admite que en la historia del cómic prevalece la mirada de la cultura «blanca» sobre otras culturas étnicamente diferenciadas. Para Frezza ello no implica someter el sentido de los cómics a la voluntad de poder de esa cultura, pero exige metodologías de análisis no superficiales capaces de leer tal complejidad."
+      }
     ],
     "aristas": [
-      {"from": "4", "to": "1", "label": "se fundamenta en la tesis de la"},
-      {"from": "4", "to": "2", "label": "dialoga con la fenomenología de la"},
-      {"from": "4", "to": "3", "label": "moviliza la teoría del"},
-      {"from": "4", "to": "5", "label": "se organiza mediante las"},
-      {"from": "4", "to": "6", "label": "se aplica al"},
-      {"from": "5", "to": "7", "label": "permiten examinar la diversidad de los"},
-      {"from": "2", "to": "7", "label": "orienta la lectura del trazo en los"},
-      {"from": "5", "to": "9", "label": "la variable personaje aborda la"},
-      {"from": "7", "to": "8", "label": "la transgresión infantil anticipa la subversión de"},
-      {"from": "8", "to": "9", "label": "la diferencia de especie y carácter continúa en la"},
-      {"from": "3", "to": "9", "label": "el totemismo ilumina la familia de"},
-      {"from": "9", "to": "10", "label": "la irreductibilidad conductual retorna en los"},
-      {"from": "10", "to": "11", "label": "el cuerpo marcado se idealiza en los"},
-      {"from": "11", "to": "12", "label": "la diversidad crítica se desplaza a los"},
-      {"from": "1", "to": "12", "label": "la corriente estructural alimenta los"},
-      {"from": "3", "to": "12", "label": "el antropomorfismo reaparece con función trágica en los"},
-      {"from": "12", "to": "13", "label": "la herencia experimental deja paso a la"},
-      {"from": "6", "to": "13", "label": "el corpus culmina en la"},
-      {"from": "13", "to": "14", "label": "el diagnóstico sintomático sostiene la tesis de la"},
-      {"from": "15", "to": "14", "label": "matiza la"}
+      {
+        "from": "4",
+        "to": "1",
+        "label": "se fundamenta en la tesis de la"
+      },
+      {
+        "from": "4",
+        "to": "2",
+        "label": "dialoga con la fenomenología de la"
+      },
+      {
+        "from": "4",
+        "to": "3",
+        "label": "moviliza la teoría del"
+      },
+      {
+        "from": "4",
+        "to": "5",
+        "label": "se organiza mediante las"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "se aplica al"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "permiten examinar la diversidad de los"
+      },
+      {
+        "from": "2",
+        "to": "7",
+        "label": "orienta la lectura del trazo en los"
+      },
+      {
+        "from": "5",
+        "to": "9",
+        "label": "la variable personaje aborda la"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "la transgresión infantil anticipa la subversión de"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "la diferencia de especie y carácter continúa en la"
+      },
+      {
+        "from": "3",
+        "to": "9",
+        "label": "el totemismo ilumina la familia de"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "la irreductibilidad conductual retorna en los"
+      },
+      {
+        "from": "10",
+        "to": "11",
+        "label": "el cuerpo marcado se idealiza en los"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "la diversidad crítica se desplaza a los"
+      },
+      {
+        "from": "1",
+        "to": "12",
+        "label": "la corriente estructural alimenta los"
+      },
+      {
+        "from": "3",
+        "to": "12",
+        "label": "el antropomorfismo reaparece con función trágica en los"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "la herencia experimental deja paso a la"
+      },
+      {
+        "from": "6",
+        "to": "13",
+        "label": "el corpus culmina en la"
+      },
+      {
+        "from": "13",
+        "to": "14",
+        "label": "el diagnóstico sintomático sostiene la tesis de la"
+      },
+      {
+        "from": "15",
+        "to": "14",
+        "label": "matiza la"
+      }
     ]
   }
 }

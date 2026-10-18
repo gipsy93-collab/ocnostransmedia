@@ -12,7 +12,7 @@
     "color": "#8b5cf6",
     "colorAlt": "#4c1d95",
     "bg": "from-violet-400/20 to-ocean-dark/20",
-    "image": "https://picsum.photos/seed/genero_chile/800/600"
+    "image": "/assets/portadas/albumes_infantil_valores.jpg"
   },
   "blocks": {
     "apertura": {
@@ -322,45 +322,225 @@
     "titulo": "Mapa conceptual: género y plan lector chileno en la primera infancia (Ocnos 22(2) 2023)",
     "descripcion": "El artículo analiza, desde la semiótica de Eco y tres categorías de lectura crítica, seis textos de las bibliotecas de aula chilenas (2020) para verificar si identifican de forma diferenciada a niñas y niños, y concluye que convivieron recorridos convencionales y transformadores que exigen mediación docente. El mapa recorre marco teórico, corpus, hallazgos por obra y discusión final.",
     "nodos": [
-      { "id": "1", "label": "Plan lector chileno desde 1993", "color": "#f4a261", "role": "Marco teórico", "descripcion": "Chile desarrolla una política nacional del libro y la lectura desde la Ley del Libro 19.227 (1993), continuada por el Plan Nacional de la Lectura y el programa 'Leo Primero' (2018). El estudio examina las bibliotecas de aula distribuidas en 2020 por el Ministerio de Educación para Transición I, Transición II y 1.º de Educación Básica." },
-      { "id": "2", "label": "Género como construcción social", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "Rubin (1986) define el sistema sexo/género que transforma la sexualidad biológica en productos culturales; Scott (2008) lo ve como elemento constitutivo de relaciones de poder. Lugones (2008) lo caracteriza como razón binaria, antagónica y jerárquica, y Segato (2018) muestra cómo las representaciones hegemónicas organizan sexualidad, afectos y roles." },
-      { "id": "3", "label": "La literatura transmite y crea cultura", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "La investigación en literatura infantil y juvenil (Petit, Colomer, Lluch, Munita) sostiene que la lectura colabora en las cosmovisiones e identificaciones del niño (Martínez et al., 2021). Con un doble código verbal y visual (Lotman, 1970), el discurso literario perpetúa representaciones o abre posibilidades de autorreconocimiento (Carrasco, 2005)." },
-      { "id": "4", "label": "Literatura y educación ciudadana", "color": "#2a9d8f", "role": "Marco teórico", "descripcion": "La lectura configura un territorio para discutir derechos, pertenencia y participación (Soriano, 2007; Redon, 2010). Para Giardinelli (2007) leer se ha tornado forma de resistencia, mientras las comunidades lectoras se diversifican (Chartier, 1994)." },
-      { "id": "5", "label": "Analizar representaciones de género", "color": "#2a5a75", "role": "Objetivo", "descripcion": "Objetivo: analizar las representaciones de género de seis textos sugeridos por el Ministerio de Educación de Chile y sus implicancias en la construcción identitaria infantil. La pregunta es si estos libros contienen representaciones que identifican de modo distinto a niñas y niños mediante la lectura." },
-      { "id": "6", "label": "Semiótica e intentio operis", "color": "#264653", "role": "Método", "descripcion": "Diseño cualitativo que integra metodología de semiótica textual, con lenguaje verbal y gráfico, según la propuesta interpretativa de Eco (1992, 1995): la lectura crítica se guía por la intentio operis, la intención del texto y no del autor o lector." },
-      { "id": "7", "label": "De 60 obras a 6 textos", "color": "#5b9eaa", "role": "Método", "descripcion": "Se revisaron 60 obras de las bibliotecas de aula distribuidas por el MINEDUC en 2020. Una primera lectura semiótica seleccionó 50 con representaciones de género visibles y, por su mayor densidad simbólica, se profundizó en 6 textos, dos por nivel educativo." },
-      { "id": "8", "label": "Tres categorías de análisis", "color": "#2a5a75", "role": "Método", "descripcion": "Roles, funciones y estereotipos de género según el sistema sexo/género; manifestaciones de ciudadanía y participación social desde la voz infantil; y pertinencia cultural en la construcción de identidades. El análisis de contenido identificó elementos simbólicos recurrentes en lo escrito y lo visual." },
-      { "id": "9", "label": "¡Soy una niña! resignifica los roles", "color": "#88b04b", "role": "Resultados", "descripcion": "La coneja protagonista, vestida de azul en vez de rosa, alterna 'dulce, tierna y educada' con 'rebelde y algo descarada' y afirma 'soy la más valiente'. Los adultos refuerzan la norma ('las muñecas son para niñas'), pero el texto habilita interpretaciones de género más complejas." },
-      { "id": "10", "label": "Cielografía: mujeres en lo público", "color": "#2a9d8f", "role": "Resultados", "descripcion": "Desde la portada, una niña monta un avión y desmonta la asociación masculina con la tecnología. Sus elementos gráficos, ligados al muralismo, muestran mayoritariamente mujeres —alfareras, tejedoras, maestras— y visibilizan la participación femenina más allá del espacio doméstico." },
-      { "id": "11", "label": "Du Iz Tak?: tareas binarias", "color": "#f4d068", "role": "Resultados", "descripcion": "Los insectos de Carson Ellis (2017) construyen una narrativa con código lingüístico propio y roles diferenciados: ellos cargan el material pesado de la obra colectiva y ellas hacen las tareas más ligeras, mientras el ciempiés anciano dirige al grupo. Acción colaborativa con lógica binaria convencional." },
-      { "id": "12", "label": "Masculinidad hegemónica en Las rayas del tigre", "color": "#e76f51", "role": "Resultados", "descripcion": "El tigre 'curioso y noble' transita de la selva a la ciudad y protege a niñas, mujeres y ancianos. El mandato de cuidado se presenta en el espacio público con atributos masculinos, reproduciendo el orden tradicional del sistema sexo/género (Simonetti, 2018)." },
-      { "id": "13", "label": "Racionalidad masculina, emocionalidad femenina", "color": "#c73e1d", "role": "Resultados", "descripcion": "En Pequeña historia de un desacuerdo (Fuentes, 2017), el conflicto entre talar una araucaria y construir un edificio divide a Desarrollistas y Milenarios. Los primeros argumentan 'con firmeza' —posición masculina asociada al progreso— y las segundas 'encendieron el corazón', en un binarismo mediado por docentes." },
-      { "id": "14", "label": "Décimas chilenas actualizan los cuentos", "color": "#f4a261", "role": "Resultados", "descripcion": "Diez relatos occidentales reescritos en décimas: Rap-unzel es rapera famosa que no espera rescate, Caperucita lleva polo y jeans y hay una Cenicienta indígena (Pérez y Escobar, 2016). La propuesta amplía el panorama identitario aunque persisten relatos convencionalmente naturalizados." },
-      { "id": "15", "label": "Dos recorridos de lectura: tradicional y diverso", "color": "#2a9d8f", "role": "Discusión", "descripcion": "La discusión confirma la hipótesis: Du Iz Tak? y Las rayas del tigre forman una senda convencional que reproduce esferas heteropatriarcales, mientras ¡Soy una niña!, Cielografía de Chile y Cuentos del mundo... abren otras identidades. Pequeña historia... ocupa un espacio de tránsito puente entre ambas." },
-      { "id": "16", "label": "Mediadores capaces de leer los códigos", "color": "#f4d068", "role": "Conclusiones", "descripcion": "Las lecturas que legitiman diversidades requieren mediadores capaces de leer sus códigos y diseñar experiencias que escapen a la reproducción de estereotipos. Se propone que las bibliotecas de aula del Plan Nacional de la Lectura dialoguen con los planes de formación ciudadana." }
+      {
+        "id": "1",
+        "label": "Plan lector chileno desde 1993",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "Chile desarrolla una política nacional del libro y la lectura desde la Ley del Libro 19.227 (1993), continuada por el Plan Nacional de la Lectura y el programa 'Leo Primero' (2018). El estudio examina las bibliotecas de aula distribuidas en 2020 por el Ministerio de Educación para Transición I, Transición II y 1.º de Educación Básica."
+      },
+      {
+        "id": "2",
+        "label": "Género como construcción social",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Rubin (1986) define el sistema sexo/género que transforma la sexualidad biológica en productos culturales; Scott (2008) lo ve como elemento constitutivo de relaciones de poder. Lugones (2008) lo caracteriza como razón binaria, antagónica y jerárquica, y Segato (2018) muestra cómo las representaciones hegemónicas organizan sexualidad, afectos y roles."
+      },
+      {
+        "id": "3",
+        "label": "La literatura transmite y crea cultura",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "La investigación en literatura infantil y juvenil (Petit, Colomer, Lluch, Munita) sostiene que la lectura colabora en las cosmovisiones e identificaciones del niño (Martínez et al., 2021). Con un doble código verbal y visual (Lotman, 1970), el discurso literario perpetúa representaciones o abre posibilidades de autorreconocimiento (Carrasco, 2005)."
+      },
+      {
+        "id": "4",
+        "label": "Literatura y educación ciudadana",
+        "color": "#2a9d8f",
+        "role": "Marco teórico",
+        "descripcion": "La lectura configura un territorio para discutir derechos, pertenencia y participación (Soriano, 2007; Redon, 2010). Para Giardinelli (2007) leer se ha tornado forma de resistencia, mientras las comunidades lectoras se diversifican (Chartier, 1994)."
+      },
+      {
+        "id": "5",
+        "label": "Analizar representaciones de género",
+        "color": "#2a5a75",
+        "role": "Objetivo",
+        "descripcion": "Objetivo: analizar las representaciones de género de seis textos sugeridos por el Ministerio de Educación de Chile y sus implicancias en la construcción identitaria infantil. La pregunta es si estos libros contienen representaciones que identifican de modo distinto a niñas y niños mediante la lectura."
+      },
+      {
+        "id": "6",
+        "label": "Semiótica e intentio operis",
+        "color": "#264653",
+        "role": "Método",
+        "descripcion": "Diseño cualitativo que integra metodología de semiótica textual, con lenguaje verbal y gráfico, según la propuesta interpretativa de Eco (1992, 1995): la lectura crítica se guía por la intentio operis, la intención del texto y no del autor o lector."
+      },
+      {
+        "id": "7",
+        "label": "De 60 obras a 6 textos",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Se revisaron 60 obras de las bibliotecas de aula distribuidas por el MINEDUC en 2020. Una primera lectura semiótica seleccionó 50 con representaciones de género visibles y, por su mayor densidad simbólica, se profundizó en 6 textos, dos por nivel educativo."
+      },
+      {
+        "id": "8",
+        "label": "Tres categorías de análisis",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Roles, funciones y estereotipos de género según el sistema sexo/género; manifestaciones de ciudadanía y participación social desde la voz infantil; y pertinencia cultural en la construcción de identidades. El análisis de contenido identificó elementos simbólicos recurrentes en lo escrito y lo visual."
+      },
+      {
+        "id": "9",
+        "label": "¡Soy una niña! resignifica los roles",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "La coneja protagonista, vestida de azul en vez de rosa, alterna 'dulce, tierna y educada' con 'rebelde y algo descarada' y afirma 'soy la más valiente'. Los adultos refuerzan la norma ('las muñecas son para niñas'), pero el texto habilita interpretaciones de género más complejas."
+      },
+      {
+        "id": "10",
+        "label": "Cielografía: mujeres en lo público",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "Desde la portada, una niña monta un avión y desmonta la asociación masculina con la tecnología. Sus elementos gráficos, ligados al muralismo, muestran mayoritariamente mujeres —alfareras, tejedoras, maestras— y visibilizan la participación femenina más allá del espacio doméstico."
+      },
+      {
+        "id": "11",
+        "label": "Du Iz Tak?: tareas binarias",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Los insectos de Carson Ellis (2017) construyen una narrativa con código lingüístico propio y roles diferenciados: ellos cargan el material pesado de la obra colectiva y ellas hacen las tareas más ligeras, mientras el ciempiés anciano dirige al grupo. Acción colaborativa con lógica binaria convencional."
+      },
+      {
+        "id": "12",
+        "label": "Masculinidad hegemónica en Las rayas del tigre",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "El tigre 'curioso y noble' transita de la selva a la ciudad y protege a niñas, mujeres y ancianos. El mandato de cuidado se presenta en el espacio público con atributos masculinos, reproduciendo el orden tradicional del sistema sexo/género (Simonetti, 2018)."
+      },
+      {
+        "id": "13",
+        "label": "Racionalidad masculina, emocionalidad femenina",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "En Pequeña historia de un desacuerdo (Fuentes, 2017), el conflicto entre talar una araucaria y construir un edificio divide a Desarrollistas y Milenarios. Los primeros argumentan 'con firmeza' —posición masculina asociada al progreso— y las segundas 'encendieron el corazón', en un binarismo mediado por docentes."
+      },
+      {
+        "id": "14",
+        "label": "Décimas chilenas actualizan los cuentos",
+        "color": "#f4a261",
+        "role": "Resultados",
+        "descripcion": "Diez relatos occidentales reescritos en décimas: Rap-unzel es rapera famosa que no espera rescate, Caperucita lleva polo y jeans y hay una Cenicienta indígena (Pérez y Escobar, 2016). La propuesta amplía el panorama identitario aunque persisten relatos convencionalmente naturalizados."
+      },
+      {
+        "id": "15",
+        "label": "Dos recorridos de lectura: tradicional y diverso",
+        "color": "#2a9d8f",
+        "role": "Discusión",
+        "descripcion": "La discusión confirma la hipótesis: Du Iz Tak? y Las rayas del tigre forman una senda convencional que reproduce esferas heteropatriarcales, mientras ¡Soy una niña!, Cielografía de Chile y Cuentos del mundo... abren otras identidades. Pequeña historia... ocupa un espacio de tránsito puente entre ambas."
+      },
+      {
+        "id": "16",
+        "label": "Mediadores capaces de leer los códigos",
+        "color": "#f4d068",
+        "role": "Conclusiones",
+        "descripcion": "Las lecturas que legitiman diversidades requieren mediadores capaces de leer sus códigos y diseñar experiencias que escapen a la reproducción de estereotipos. Se propone que las bibliotecas de aula del Plan Nacional de la Lectura dialoguen con los planes de formación ciudadana."
+      }
     ],
     "aristas": [
-      { "from": "1", "to": "5", "label": "motiva el análisis de las" },
-      { "from": "2", "to": "5", "label": "fundamenta conceptualmente las" },
-      { "from": "3", "to": "5", "label": "sustenta el impacto identitario de las" },
-      { "from": "4", "to": "8", "label": "suma una categoría a las" },
-      { "from": "5", "to": "6", "label": "se realiza mediante la" },
-      { "from": "5", "to": "7", "label": "acota su evidencia a" },
-      { "from": "7", "to": "8", "label": "se examina con las" },
-      { "from": "6", "to": "9", "label": "interpretó críticamente" },
-      { "from": "6", "to": "10", "label": "interpretó críticamente" },
-      { "from": "6", "to": "11", "label": "interpretó críticamente" },
-      { "from": "6", "to": "12", "label": "interpretó críticamente" },
-      { "from": "6", "to": "13", "label": "interpretó críticamente" },
-      { "from": "6", "to": "14", "label": "interpretó críticamente" },
-      { "from": "9", "to": "15", "label": "abre el recorrido" },
-      { "from": "10", "to": "15", "label": "abre el recorrido" },
-      { "from": "14", "to": "15", "label": "renueva el" },
-      { "from": "11", "to": "15", "label": "reproduce el" },
-      { "from": "12", "to": "15", "label": "reproduce el" },
-      { "from": "13", "to": "15", "label": "transita entre los" },
-      { "from": "15", "to": "16", "label": "exige una" },
-      { "from": "16", "to": "1", "label": "dialoga con el" }
+      {
+        "from": "1",
+        "to": "5",
+        "label": "motiva el análisis de las"
+      },
+      {
+        "from": "2",
+        "to": "5",
+        "label": "fundamenta conceptualmente las"
+      },
+      {
+        "from": "3",
+        "to": "5",
+        "label": "sustenta el impacto identitario de las"
+      },
+      {
+        "from": "4",
+        "to": "8",
+        "label": "suma una categoría a las"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "se realiza mediante la"
+      },
+      {
+        "from": "5",
+        "to": "7",
+        "label": "acota su evidencia a"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se examina con las"
+      },
+      {
+        "from": "6",
+        "to": "9",
+        "label": "interpretó críticamente"
+      },
+      {
+        "from": "6",
+        "to": "10",
+        "label": "interpretó críticamente"
+      },
+      {
+        "from": "6",
+        "to": "11",
+        "label": "interpretó críticamente"
+      },
+      {
+        "from": "6",
+        "to": "12",
+        "label": "interpretó críticamente"
+      },
+      {
+        "from": "6",
+        "to": "13",
+        "label": "interpretó críticamente"
+      },
+      {
+        "from": "6",
+        "to": "14",
+        "label": "interpretó críticamente"
+      },
+      {
+        "from": "9",
+        "to": "15",
+        "label": "abre el recorrido"
+      },
+      {
+        "from": "10",
+        "to": "15",
+        "label": "abre el recorrido"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "renueva el"
+      },
+      {
+        "from": "11",
+        "to": "15",
+        "label": "reproduce el"
+      },
+      {
+        "from": "12",
+        "to": "15",
+        "label": "reproduce el"
+      },
+      {
+        "from": "13",
+        "to": "15",
+        "label": "transita entre los"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "exige una"
+      },
+      {
+        "from": "16",
+        "to": "1",
+        "label": "dialoga con el"
+      }
     ]
   }
 }

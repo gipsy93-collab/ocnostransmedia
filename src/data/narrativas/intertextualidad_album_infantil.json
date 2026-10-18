@@ -12,7 +12,7 @@
     "color": "#f4d068",
     "colorAlt": "#2a5a75",
     "bg": "from-amber-400/20 to-ocean-dark/20",
-    "image": "/assets/cromos/cromo-09.png",
+    "image": "/assets/portadas/albumes_infantil_valores.jpg",
     "tutor": {
       "image": "/assets/cromos/cromo-09.png",
       "name": "Dra. Núria Vouillamoz-Pajaro",
@@ -195,45 +195,227 @@
     "titulo": "Mapa conceptual: Intertextualidad del álbum ilustrado (Ocnos 23(2), 2024)",
     "descripcion": "Revisión crítica de la intertextualidad y la literatura comparada que construye un modelo de análisis del álbum ilustrado con marcos genológico, morfológico y tematológico, aplicado a un corpus de unos 2.000 títulos, y lo traduce en efectos didácticos de lectura en red.",
     "nodos": [
-      {"id": "1", "label": "Cristeva y Bajtín: mosaico de citas", "color": "#5b9eaa", "role": "Marco teórico", "descripcion": "Cristeva (escrito a partir del dialogismo de Bajtín) acuñó el término en 1967 en la revista Critique y concibió todo texto como un mosaico de citas de otros textos. Las obras no se piensan desde su inmanencia sino como artefactos intertextuales de un tejido laberíntico (Mendoza-Fillola, 2008; Manguel, 2001)."},
-      {"id": "2", "label": "Cinco transtextualidades de Genette", "color": "#2a5a75", "role": "Marco teórico", "descripcion": "Genette definió en 1982 la transtextualidad como 'todo lo que pone al texto en relación, manifiesta o secreta, con otros textos', distinguiendo intertextualidad, paratextualidad, metatextualidad, hipertextualidad y architextualidad. Su taxonomía sigue vigente, p. ej. en la segunda acepción del diccionario de la RAE."},
-      {"id": "3", "label": "Intertextualidad material y estructural", "color": "#9b82c3", "role": "Marco teórico", "descripcion": "Plett (1991), desde la etimología de texere (tejer), distinguió la intertextualidad material (importación identificable de un texto fuente: cita, alusión) de la estructural (técnicas abstractas sin texto-fuente directo). Lemke (1985) añadió una tipología genérica, temática, estructural y funcional."},
-      {"id": "4", "label": "Literatura comparada y relaciones textuales", "color": "#264653", "role": "Marco teórico", "descripcion": "Metodológicamente la teoría de la intertextualidad se asocia a la literatura comparada, que analiza los textos no 'en' sino 'a través' del tiempo y el espacio y prefiere hablar de relaciones, no de influencias (Guillén, 1985). Aporta la noción de 'invariantes' genéricas supratemporales (Berger, 1984)."},
-      {"id": "5", "label": "LIJ intertextual y álbum posmoderno", "color": "#f4a261", "role": "Marco teórico", "descripcion": "La LIJ tiene una naturaleza intertextual en su doble dimensión formal y de contenido (Mendoza-Fillola, 2001; Tabernero). El álbum, 'ámbito de manifestación principal de innovaciones postmodernas' (Silva-Díaz, 2005), interrelaciona imagen, palabra y materialidad y es propicio a cruces de discursos (Bellorín-Briceño, 2015; Colomer, 2005), con intencionalidad subversiva de las convenciones canónicas (Mendoza-Fillola, 2012)."},
-      {"id": "6", "label": "Objetivo: modelo de análisis del álbum", "color": "#88b04b", "role": "Objetivo", "descripcion": "Trasladar la teoría de la intertextualidad y la literatura comparada al estudio del álbum ilustrado para construir un modelo de análisis útil como instrumento de exploración crítica de los textos y de observación de los efectos de la intertextualidad en la formación lectora."},
-      {"id": "7", "label": "Metodología cualitativa en tres vértices", "color": "#2a5a75", "role": "Método", "descripcion": "Metodología cualitativa articulada sobre la teoría de la intertextualidad, la literatura comparada y la crítica especializada en álbum ilustrado. La intertextualidad permite legitimar la categorización de un género heterogéneo, hecho de 'red de parecidos familiares' (Sáez-Castán, 2016; Lewis como se citó en Silva-Díaz, 2005)."},
-      {"id": "8", "label": "Corpus de unos 2.000 álbumes", "color": "#5b9eaa", "role": "Método", "descripcion": "Fondo bibliográfico de aproximadamente 2.000 títulos seleccionados por su pertinencia genérica (interrelación significativa de palabra, imagen y materialidad) y su calidad literaria contrastada. Las 104 obras citadas en el artículo ilustran las taxonomías de la ficha de análisis."},
-      {"id": "9", "label": "Ficha de análisis por invariantes", "color": "#9b82c3", "role": "Método", "descripcion": "La ficha desglosa categorías, subcategorías y modalidades a partir de los tres marcos conceptuales de la literatura comparada: genología, morfología y tematología. Modelo flexible y abierto, validado mediante observación comparativa de las obras del corpus."},
-      {"id": "10", "label": "Genología: hibridación y reescrituras", "color": "#c73e1d", "role": "Resultados", "descripcion": "La hibridación discursiva incluye préstamos retóricos (la técnica epistolar de El cartero simpático, el grafismo de cómic de ¡Qué risa de huesos!) y subgéneros emergentes 'info-ficcionales'. Las reescrituras, según Díaz-Plaja (2002), se ordenan en simples (Pinocho de Innocenti), expansiones (La esposa del conejo blanco), modificaciones (Los tres lobitos y el cochino feroz) y collages (Cuidado con los cuentos de lobos)."},
-      {"id": "11", "label": "Morfología: estructura y focalización", "color": "#e76f51", "role": "Resultados", "descripcion": "Las formas secuenciales (enumeración en Diez patitos de goma, acumulación, circularidad) conviven con diseños multilineales (los álbumes de McKee) y alteraciones estructurales (disrupción visual en Líneas de S. Lee, ausencia de argumento en La gran pregunta). La focalización destaca en Anthony Browne: alternancia en Zoológico y multiformidad en Voces en el parque, con convergencia (Donde viven los monstruos) o discordancia textual-visual (El Expreso Polar)."},
-      {"id": "12", "label": "Cronotopos y complejidad interpretativa", "color": "#f4d068", "role": "Resultados", "descripcion": "Los cronotopos exploran la relación entre espacio y tiempo descritos y dibujados (Afuera y adentro, Buenas noches, luna) y referencias de época como El mago de Auschwitz o La composición. La complejidad interpretativa se genera por ironía (Yo quiero mi gorro), parodia (El pequeño libro rojo, Mira Hamlet) y finales sorprendentes que invitan a la relectura (El ogro de Zeralda, Bárbaro)."},
-      {"id": "13", "label": "Retórica de los componentes materiales", "color": "#2a9d8f", "role": "Resultados", "descripcion": "'Todo tiene significado en el álbum' (Van-der-Linden, 2015): el paratexto (cubiertas y guardas como espacios narratológicos, Hanán-Díaz, 2020), la materialidad (formato de Los Rascacielos, pliegue de la Trilogía del límite, tipografía de Voces en el parque) y la metamaterialidad (perforaciones de La pequeña oruga glotona y Agujero)."},
-      {"id": "14", "label": "Tematología: temas, personajes, referentes", "color": "#88b04b", "role": "Resultados", "descripcion": "Los temas se agrupan en metaliteratura, socioliteratura (pobreza, emigración, guerra), psicoliteratura (Donde viven los monstruos, El pato, la muerte y el tulipán) y topoi; los personajes se tipifican en arquetipos reformulados (parodia del lobo) y personajes clásicos apelados, refuncionalizados o copresentes (Caperucita en En el bosque). Las referencias intertextuales abarcan obras literarias, artes plásticas, música, cine, símbolos culturales y productos tecnológicos."},
-      {"id": "15", "label": "Lectura en red y habilidades literarias", "color": "#f4a261", "role": "Discusión", "descripcion": "El modelo permite una 'lectura en red' que reta al lector a comparar, identificar y reflexionar sobre las huellas que unos textos dejan en otros (Tauveron), mejorando la habilidad receptora y habilidades cognitivas como exploración, reconocimiento y análisis comparativo (Colomer et al., 2018)."},
-      {"id": "16", "label": "Itinerarios lectores conforme LOMLOE", "color": "#264653", "role": "Conclusiones", "descripcion": "La ficha resulta operativa para trazar los itinerarios lectores de la LOMLOE (LO 3/2020), organizados por asociaciones genéricas, morfológicas y temáticas que ayudan a construir un mapa literario. La autora confía en que el método fructifique en futuras investigaciones críticas y didácticas sobre la LIJ."},
-      {"id": "17", "label": "Modelo heurístico y necesidad de validación de aula", "color": "#264653", "role": "Limitaciones", "descripcion": "El instrumento constituye una propuesta taxonómica teórica de literatura comparada; su capacidad real para potenciar la competencia intertextual requiere validación empírica longitudinal en aulas de Educación Primaria y Secundaria."}
+      {
+        "id": "1",
+        "label": "Cristeva y Bajtín: mosaico de citas",
+        "color": "#5b9eaa",
+        "role": "Marco teórico",
+        "descripcion": "Cristeva (escrito a partir del dialogismo de Bajtín) acuñó el término en 1967 en la revista Critique y concibió todo texto como un mosaico de citas de otros textos. Las obras no se piensan desde su inmanencia sino como artefactos intertextuales de un tejido laberíntico (Mendoza-Fillola, 2008; Manguel, 2001)."
+      },
+      {
+        "id": "2",
+        "label": "Cinco transtextualidades de Genette",
+        "color": "#2a5a75",
+        "role": "Marco teórico",
+        "descripcion": "Genette definió en 1982 la transtextualidad como 'todo lo que pone al texto en relación, manifiesta o secreta, con otros textos', distinguiendo intertextualidad, paratextualidad, metatextualidad, hipertextualidad y architextualidad. Su taxonomía sigue vigente, p. ej. en la segunda acepción del diccionario de la RAE."
+      },
+      {
+        "id": "3",
+        "label": "Intertextualidad material y estructural",
+        "color": "#9b82c3",
+        "role": "Marco teórico",
+        "descripcion": "Plett (1991), desde la etimología de texere (tejer), distinguió la intertextualidad material (importación identificable de un texto fuente: cita, alusión) de la estructural (técnicas abstractas sin texto-fuente directo). Lemke (1985) añadió una tipología genérica, temática, estructural y funcional."
+      },
+      {
+        "id": "4",
+        "label": "Literatura comparada y relaciones textuales",
+        "color": "#264653",
+        "role": "Marco teórico",
+        "descripcion": "Metodológicamente la teoría de la intertextualidad se asocia a la literatura comparada, que analiza los textos no 'en' sino 'a través' del tiempo y el espacio y prefiere hablar de relaciones, no de influencias (Guillén, 1985). Aporta la noción de 'invariantes' genéricas supratemporales (Berger, 1984)."
+      },
+      {
+        "id": "5",
+        "label": "LIJ intertextual y álbum posmoderno",
+        "color": "#f4a261",
+        "role": "Marco teórico",
+        "descripcion": "La LIJ tiene una naturaleza intertextual en su doble dimensión formal y de contenido (Mendoza-Fillola, 2001; Tabernero). El álbum, 'ámbito de manifestación principal de innovaciones postmodernas' (Silva-Díaz, 2005), interrelaciona imagen, palabra y materialidad y es propicio a cruces de discursos (Bellorín-Briceño, 2015; Colomer, 2005), con intencionalidad subversiva de las convenciones canónicas (Mendoza-Fillola, 2012)."
+      },
+      {
+        "id": "6",
+        "label": "Objetivo: modelo de análisis del álbum",
+        "color": "#88b04b",
+        "role": "Objetivo",
+        "descripcion": "Trasladar la teoría de la intertextualidad y la literatura comparada al estudio del álbum ilustrado para construir un modelo de análisis útil como instrumento de exploración crítica de los textos y de observación de los efectos de la intertextualidad en la formación lectora."
+      },
+      {
+        "id": "7",
+        "label": "Metodología cualitativa en tres vértices",
+        "color": "#2a5a75",
+        "role": "Método",
+        "descripcion": "Metodología cualitativa articulada sobre la teoría de la intertextualidad, la literatura comparada y la crítica especializada en álbum ilustrado. La intertextualidad permite legitimar la categorización de un género heterogéneo, hecho de 'red de parecidos familiares' (Sáez-Castán, 2016; Lewis como se citó en Silva-Díaz, 2005)."
+      },
+      {
+        "id": "8",
+        "label": "Corpus de unos 2.000 álbumes",
+        "color": "#5b9eaa",
+        "role": "Método",
+        "descripcion": "Fondo bibliográfico de aproximadamente 2.000 títulos seleccionados por su pertinencia genérica (interrelación significativa de palabra, imagen y materialidad) y su calidad literaria contrastada. Las 104 obras citadas en el artículo ilustran las taxonomías de la ficha de análisis."
+      },
+      {
+        "id": "9",
+        "label": "Ficha de análisis por invariantes",
+        "color": "#9b82c3",
+        "role": "Método",
+        "descripcion": "La ficha desglosa categorías, subcategorías y modalidades a partir de los tres marcos conceptuales de la literatura comparada: genología, morfología y tematología. Modelo flexible y abierto, validado mediante observación comparativa de las obras del corpus."
+      },
+      {
+        "id": "10",
+        "label": "Genología: hibridación y reescrituras",
+        "color": "#c73e1d",
+        "role": "Resultados",
+        "descripcion": "La hibridación discursiva incluye préstamos retóricos (la técnica epistolar de El cartero simpático, el grafismo de cómic de ¡Qué risa de huesos!) y subgéneros emergentes 'info-ficcionales'. Las reescrituras, según Díaz-Plaja (2002), se ordenan en simples (Pinocho de Innocenti), expansiones (La esposa del conejo blanco), modificaciones (Los tres lobitos y el cochino feroz) y collages (Cuidado con los cuentos de lobos)."
+      },
+      {
+        "id": "11",
+        "label": "Morfología: estructura y focalización",
+        "color": "#e76f51",
+        "role": "Resultados",
+        "descripcion": "Las formas secuenciales (enumeración en Diez patitos de goma, acumulación, circularidad) conviven con diseños multilineales (los álbumes de McKee) y alteraciones estructurales (disrupción visual en Líneas de S. Lee, ausencia de argumento en La gran pregunta). La focalización destaca en Anthony Browne: alternancia en Zoológico y multiformidad en Voces en el parque, con convergencia (Donde viven los monstruos) o discordancia textual-visual (El Expreso Polar)."
+      },
+      {
+        "id": "12",
+        "label": "Cronotopos y complejidad interpretativa",
+        "color": "#f4d068",
+        "role": "Resultados",
+        "descripcion": "Los cronotopos exploran la relación entre espacio y tiempo descritos y dibujados (Afuera y adentro, Buenas noches, luna) y referencias de época como El mago de Auschwitz o La composición. La complejidad interpretativa se genera por ironía (Yo quiero mi gorro), parodia (El pequeño libro rojo, Mira Hamlet) y finales sorprendentes que invitan a la relectura (El ogro de Zeralda, Bárbaro)."
+      },
+      {
+        "id": "13",
+        "label": "Retórica de los componentes materiales",
+        "color": "#2a9d8f",
+        "role": "Resultados",
+        "descripcion": "'Todo tiene significado en el álbum' (Van-der-Linden, 2015): el paratexto (cubiertas y guardas como espacios narratológicos, Hanán-Díaz, 2020), la materialidad (formato de Los Rascacielos, pliegue de la Trilogía del límite, tipografía de Voces en el parque) y la metamaterialidad (perforaciones de La pequeña oruga glotona y Agujero)."
+      },
+      {
+        "id": "14",
+        "label": "Tematología: temas, personajes, referentes",
+        "color": "#88b04b",
+        "role": "Resultados",
+        "descripcion": "Los temas se agrupan en metaliteratura, socioliteratura (pobreza, emigración, guerra), psicoliteratura (Donde viven los monstruos, El pato, la muerte y el tulipán) y topoi; los personajes se tipifican en arquetipos reformulados (parodia del lobo) y personajes clásicos apelados, refuncionalizados o copresentes (Caperucita en En el bosque). Las referencias intertextuales abarcan obras literarias, artes plásticas, música, cine, símbolos culturales y productos tecnológicos."
+      },
+      {
+        "id": "15",
+        "label": "Lectura en red y habilidades literarias",
+        "color": "#f4a261",
+        "role": "Discusión",
+        "descripcion": "El modelo permite una 'lectura en red' que reta al lector a comparar, identificar y reflexionar sobre las huellas que unos textos dejan en otros (Tauveron), mejorando la habilidad receptora y habilidades cognitivas como exploración, reconocimiento y análisis comparativo (Colomer et al., 2018)."
+      },
+      {
+        "id": "16",
+        "label": "Itinerarios lectores conforme LOMLOE",
+        "color": "#264653",
+        "role": "Conclusiones",
+        "descripcion": "La ficha resulta operativa para trazar los itinerarios lectores de la LOMLOE (LO 3/2020), organizados por asociaciones genéricas, morfológicas y temáticas que ayudan a construir un mapa literario. La autora confía en que el método fructifique en futuras investigaciones críticas y didácticas sobre la LIJ."
+      },
+      {
+        "id": "17",
+        "label": "Modelo heurístico y necesidad de validación de aula",
+        "color": "#264653",
+        "role": "Limitaciones",
+        "descripcion": "El instrumento constituye una propuesta taxonómica teórica de literatura comparada; su capacidad real para potenciar la competencia intertextual requiere validación empírica longitudinal en aulas de Educación Primaria y Secundaria."
+      }
     ],
     "aristas": [
-      {"from": "1", "to": "2", "label": "dio origen a la"},
-      {"from": "1", "to": "6", "label": "sustenta el"},
-      {"from": "3", "to": "6", "label": "acota el alcance del"},
-      {"from": "4", "to": "6", "label": "aporta la metodología al"},
-      {"from": "5", "to": "6", "label": "motiva la construcción del"},
-      {"from": "6", "to": "7", "label": "se ejecuta con una"},
-      {"from": "7", "to": "8", "label": "se aplica a un"},
-      {"from": "8", "to": "9", "label": "se sistematiza en la"},
-      {"from": "2", "to": "9", "label": "se refleja en la"},
-      {"from": "9", "to": "10", "label": "ordena su primer marco en la"},
-      {"from": "9", "to": "11", "label": "ordena su segundo marco en la"},
-      {"from": "9", "to": "14", "label": "ordena su tercer marco en la"},
-      {"from": "11", "to": "12", "label": "completa sus ejes con los"},
-      {"from": "12", "to": "13", "label": "incorpora la"},
-      {"from": "5", "to": "10", "label": "impulsa la"},
-      {"from": "10", "to": "15", "label": "genera"},
-      {"from": "14", "to": "15", "label": "ofrece marcas para la"},
-      {"from": "15", "to": "16", "label": "se materializa en los"},
-      {"from": "16", "to": "17", "label": "plantea como reto la"},
-      {"from": "17", "to": "6", "label": "acota el alcance operativo del"}
+      {
+        "from": "1",
+        "to": "2",
+        "label": "dio origen a la"
+      },
+      {
+        "from": "1",
+        "to": "6",
+        "label": "sustenta el"
+      },
+      {
+        "from": "3",
+        "to": "6",
+        "label": "acota el alcance del"
+      },
+      {
+        "from": "4",
+        "to": "6",
+        "label": "aporta la metodología al"
+      },
+      {
+        "from": "5",
+        "to": "6",
+        "label": "motiva la construcción del"
+      },
+      {
+        "from": "6",
+        "to": "7",
+        "label": "se ejecuta con una"
+      },
+      {
+        "from": "7",
+        "to": "8",
+        "label": "se aplica a un"
+      },
+      {
+        "from": "8",
+        "to": "9",
+        "label": "se sistematiza en la"
+      },
+      {
+        "from": "2",
+        "to": "9",
+        "label": "se refleja en la"
+      },
+      {
+        "from": "9",
+        "to": "10",
+        "label": "ordena su primer marco en la"
+      },
+      {
+        "from": "9",
+        "to": "11",
+        "label": "ordena su segundo marco en la"
+      },
+      {
+        "from": "9",
+        "to": "14",
+        "label": "ordena su tercer marco en la"
+      },
+      {
+        "from": "11",
+        "to": "12",
+        "label": "completa sus ejes con los"
+      },
+      {
+        "from": "12",
+        "to": "13",
+        "label": "incorpora la"
+      },
+      {
+        "from": "5",
+        "to": "10",
+        "label": "impulsa la"
+      },
+      {
+        "from": "10",
+        "to": "15",
+        "label": "genera"
+      },
+      {
+        "from": "14",
+        "to": "15",
+        "label": "ofrece marcas para la"
+      },
+      {
+        "from": "15",
+        "to": "16",
+        "label": "se materializa en los"
+      },
+      {
+        "from": "16",
+        "to": "17",
+        "label": "plantea como reto la"
+      },
+      {
+        "from": "17",
+        "to": "6",
+        "label": "acota el alcance operativo del"
+      }
     ]
   }
 }
