@@ -3,6 +3,34 @@ import { create } from 'zustand';
 export type GameType = 'qbert' | 'snake' | 'quiz' | null;
 export type Difficulty = 'easy' | 'normal' | 'hard';
 
+type HighScores = { qbert: number; snake: number; quiz: number };
+
+const HS_KEY = 'ocnos_arcade_highscores_v1';
+
+function loadHighScores(): HighScores {
+  const fallback: HighScores = { qbert: 0, snake: 0, quiz: 0 };
+  try {
+    const raw = localStorage.getItem(HS_KEY);
+    if (!raw) return fallback;
+    const parsed = JSON.parse(raw);
+    return {
+      qbert: Number(parsed.qbert) || 0,
+      snake: Number(parsed.snake) || 0,
+      quiz: Number(parsed.quiz) || 0,
+    };
+  } catch {
+    return fallback;
+  }
+}
+
+function saveHighScores(scores: HighScores): void {
+  try {
+    localStorage.setItem(HS_KEY, JSON.stringify(scores));
+  } catch {
+    // almacenamiento no disponible (modo privado / cuota): ignorar
+  }
+}
+
 export interface GameState {
   highScores: { qbert: number; snake: number; quiz: number };
   currentGame: GameType;
@@ -34,7 +62,7 @@ export interface GameState {
 }
 
 export const useGameStore = create<GameState>((set) => ({
-  highScores: { qbert: 0, snake: 0, quiz: 0 },
+  highScores: loadHighScores(),
   currentGame: null,
   currentScore: 0,
   currentLevel: 1,
@@ -49,9 +77,11 @@ export const useGameStore = create<GameState>((set) => ({
   totalPlayTime: 0,
 
   setHighScore: (game, score) =>
-    set((state) => ({
-      highScores: { ...state.highScores, [game]: Math.max(state.highScores[game], score) },
-    })),
+    set((state) => {
+      const highScores = { ...state.highScores, [game]: Math.max(state.highScores[game], score) };
+      saveHighScores(highScores);
+      return { highScores };
+    }),
 
   startGame: (game) =>
     set({
@@ -64,6 +94,7 @@ export const useGameStore = create<GameState>((set) => ({
       const game = state.currentGame;
       const newHighScores = { ...state.highScores };
       if (game) newHighScores[game] = Math.max(newHighScores[game], state.currentScore);
+      saveHighScores(newHighScores);
       return { isGameOver: true, currentGame: null, highScores: newHighScores };
     }),
 

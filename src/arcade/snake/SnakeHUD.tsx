@@ -1,4 +1,4 @@
-import { Heart, Pause, Zap, Lock } from 'lucide-react';
+import { Heart, Pause, Play, Zap, Lock } from 'lucide-react';
 import type { GameState } from './types';
 import { LEVELS, YELLOW_ACTIVATION_THRESHOLD } from './constants';
 
@@ -91,8 +91,8 @@ export default function SnakeHUD({ gameState, onPause }: SnakeHUDProps) {
 
         {/* Right: Lives + Mode + Pause */}
         <div className="flex items-center gap-4 w-full sm:w-auto justify-end">
-          <div className="flex items-center gap-1">
-            {Array.from({ length: 3 }, (_, i) => (
+          <div className="flex items-center gap-1" aria-label={`Vidas restantes: ${lives}`}>
+            {Array.from({ length: Math.max(3, lives) }, (_, i) => (
               <Heart
                 key={i}
                 size={14}
@@ -107,11 +107,12 @@ export default function SnakeHUD({ gameState, onPause }: SnakeHUDProps) {
           </span>
 
           <button
+            type="button"
             onClick={onPause}
-            className="p-1.5 text-[#8A95A5] hover:text-[#66FCF1] transition-colors duration-150"
-            aria-label="Pausar"
+            className="p-1.5 text-[#8A95A5] hover:text-[#66FCF1] transition-colors duration-150 cursor-pointer"
+            aria-label={gameState.status === 'PAUSED' ? 'Reanudar' : 'Pausar'}
           >
-            <Pause size={16} />
+            {gameState.status === 'PAUSED' ? <Play size={16} /> : <Pause size={16} />}
           </button>
         </div>
       </div>

@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { HelpCircle, ChevronLeft, Trophy, Flame, Star, Heart, Clock, Zap } from 'lucide-react';
 import NeonButton from '../components/NeonButton';
@@ -15,6 +15,13 @@ const diffOpts: { value: QuizDifficulty; label: string; color: string }[] = [
 export default function QuizMenu({ onStart, highScore }: QuizMenuProps) {
   const [difficulty, setDifficulty] = useState<QuizDifficulty>('normal');
   const [showHelp, setShowHelp] = useState(false);
+
+  useEffect(() => {
+    if (!showHelp) return;
+    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') setShowHelp(false); };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [showHelp]);
 
   return (
     <motion.div className="w-full max-w-[600px] mx-auto px-4" initial={{ opacity: 0 }} animate={{ opacity: 1, transition: { staggerChildren: 0.1, delayChildren: 0.2 } }} exit={{ opacity: 0, transition: { duration: 0.3 } }}>
@@ -33,10 +40,10 @@ export default function QuizMenu({ onStart, highScore }: QuizMenuProps) {
       </motion.div>
 
       <motion.div className="mb-6" initial={{ opacity: 0, y: 30, scale: 0.9 }} animate={{ opacity: 1, y: 0, scale: 1 }} transition={{ type: 'spring', stiffness: 300, damping: 24 }}>
-        <p className="font-pixel text-[0.6rem] text-[#8A95A5] uppercase tracking-wider text-center mb-3">Dificultad</p>
-        <div className="flex justify-center gap-3">
+        <p className="font-pixel text-[0.6rem] text-[#8A95A5] uppercase tracking-wider text-center mb-3" id="quiz-difficulty-label">Dificultad</p>
+        <div className="flex justify-center gap-3" role="group" aria-labelledby="quiz-difficulty-label">
           {diffOpts.map((opt) => (
-            <motion.button key={opt.value} onClick={() => setDifficulty(opt.value)} whileTap={{ scale: 0.95 }}
+            <motion.button key={opt.value} type="button" onClick={() => setDifficulty(opt.value)} whileTap={{ scale: 0.95 }} aria-pressed={difficulty === opt.value}
               className={`font-pixel text-[0.6rem] sm:text-[0.7rem] uppercase tracking-wider px-4 py-2 border-2 transition-all duration-150 ${difficulty === opt.value ? '' : 'bg-transparent text-[#8A95A5] border-[#2A3645] hover:border-[#8A95A5]'}`}
               style={difficulty === opt.value ? { backgroundColor: opt.color, borderColor: opt.color, color: '#0B0C10', boxShadow: `0 0 15px ${opt.color}40` } : {}}>{opt.label}</motion.button>
           ))}
@@ -51,7 +58,7 @@ export default function QuizMenu({ onStart, highScore }: QuizMenuProps) {
       </motion.div>
 
       <AnimatePresence>{showHelp && (
-        <motion.div className="fixed inset-0 z-[100] flex items-center justify-center px-4" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
+        <motion.div className="fixed inset-0 z-[100] flex items-center justify-center px-4" role="dialog" aria-modal="true" aria-label="Cómo jugar" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
           <div className="absolute inset-0 bg-[#0B0C10]/85" onClick={() => setShowHelp(false)} />
           <motion.div className="relative bg-[#1F2833] border-2 border-[#66FCF1] p-6 max-w-[480px] w-full max-h-[80vh] overflow-y-auto" initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} exit={{ scale: 0.9, opacity: 0 }} transition={{ type: 'spring', damping: 25 }}>
             <h2 className="font-pixel text-[0.9rem] text-[#66FCF1] mb-4 text-center uppercase">Cómo Jugar</h2>

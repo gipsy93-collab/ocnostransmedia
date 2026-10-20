@@ -7,6 +7,17 @@ import {
   COLORS,
 } from './constants';
 
+// ─── Reduced motion ───
+
+let prefersReducedMotion = false;
+if (typeof window !== 'undefined' && typeof window.matchMedia === 'function') {
+  const mq = window.matchMedia('(prefers-reduced-motion: reduce)');
+  prefersReducedMotion = mq.matches;
+  if (typeof mq.addEventListener === 'function') {
+    mq.addEventListener('change', (e) => { prefersReducedMotion = e.matches; });
+  }
+}
+
 // ─── Main Render ───
 
 export function renderGame(
@@ -18,8 +29,8 @@ export function renderGame(
 
   ctx.save();
 
-  // Apply screen shake
-  if (state.screenShake > 0) {
+  // Apply screen shake (desactivado con prefers-reduced-motion)
+  if (state.screenShake > 0 && !prefersReducedMotion) {
     const intensity = 5;
     const dx = (Math.random() - 0.5) * 2 * intensity;
     const dy = (Math.random() - 0.5) * 2 * intensity;
@@ -172,7 +183,7 @@ function drawToken(
     // Label inside
     ctx.shadowBlur = 0;
     ctx.fillStyle = '#FFFFFF';
-    ctx.font = `bold 11px Inter, sans-serif`;
+    ctx.font = `bold 11px system-ui, sans-serif`;
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
     ctx.fillText(token.label ?? 'OK', 0, 0);
@@ -196,7 +207,7 @@ function drawToken(
       // Active: pulsing "?" with ring
       const activePulse = Math.sin(timestamp / 200) * 0.25 + 0.75;
       ctx.fillStyle = `rgba(255, 230, 109, ${activePulse})`;
-      ctx.font = `bold ${radius * 0.8}px Inter, sans-serif`;
+      ctx.font = `bold ${radius * 0.8}px system-ui, sans-serif`;
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
       ctx.fillText('?', 0, 0);
@@ -209,7 +220,7 @@ function drawToken(
       // Inactive: visible "?" with lock bar across
       ctx.fillStyle = '#000';
       ctx.globalAlpha = 0.5;
-      ctx.font = `bold ${radius * 0.7}px Inter, sans-serif`;
+      ctx.font = `bold ${radius * 0.7}px system-ui, sans-serif`;
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
       ctx.fillText('?', 0, 0);
@@ -232,7 +243,7 @@ function drawToken(
     // Label inside
     ctx.shadowBlur = 0;
     ctx.fillStyle = '#FFFFFF';
-    ctx.font = `bold 11px Inter, sans-serif`;
+    ctx.font = `bold 11px system-ui, sans-serif`;
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
     ctx.fillText(token.label ?? 'X', 0, 0);

@@ -134,8 +134,12 @@ export function drawGame(
 ): void {
   const W = 1200;
   const H = 1100;
-  canvas.width = W;
-  canvas.height = H;
+  // Solo asignar dimensiones cuando cambian: reasignar canvas.width cada frame
+  // destruye el contexto (coste innecesario y parpadeos)
+  if (canvas.width !== W || canvas.height !== H) {
+    canvas.width = W;
+    canvas.height = H;
+  }
 
   ctx.fillStyle = COLORS.bg;
   ctx.fillRect(0, 0, W, H);
@@ -178,10 +182,10 @@ export function drawGame(
     drawEnemy(ctx, p.x, p.y, timestamp, enemy.type);
   }
 
-  // Draw avatar on top
+  // Draw avatar on top (el rebote se gestiona dentro de drawAvatar para que
+  // la sombra quede anclada al cubo)
   const pp = getCubeCenter(playerPos.row, playerPos.col);
-  const avatarBounce = Math.abs(Math.sin(timestamp / 180)) * 10;
-  drawAvatar(ctx, pp.x, pp.y - avatarBounce, CELL_W, CELL_H, timestamp);
+  drawAvatar(ctx, pp.x, pp.y, CELL_W, CELL_H, timestamp);
 
   // Apply CRT scanlines effect
   drawScanlines(ctx, W, H);

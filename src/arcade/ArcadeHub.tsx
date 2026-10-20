@@ -51,7 +51,7 @@ export default function ArcadeHub() {
               description="Pirámide isométrica de preguntas sobre la obra de Taniguchi." 
               accent="coral" 
               gameId="qbert" 
-              route="piramide" 
+              route="/arcade/piramide" 
               icon={<Gamepad2 size={64} className="text-white opacity-80" />} 
             />
             <GameCard 
@@ -59,7 +59,7 @@ export default function ArcadeHub() {
               description="Recolecta conceptos académicos válidos y evita los errores." 
               accent="seaweed" 
               gameId="snake" 
-              route="serpiente" 
+              route="/arcade/serpiente" 
               icon={<BookType size={64} className="text-white opacity-80" />}
             />
             <GameCard 
@@ -67,7 +67,7 @@ export default function ArcadeHub() {
               description="Preguntas arcade con vidas, multiplicadores y jefes finales." 
               accent="sand" 
               gameId="quiz" 
-              route="quiz" 
+              route="/arcade/quiz" 
               icon={<Sparkles size={64} className="text-white opacity-80" />}
             />
           </div>

@@ -1,4 +1,4 @@
-import { questions } from '../data/questions';
+import { questions, shuffleQuestionOptions } from '../data/questions';
 import type { Question } from '../data/questions';
 import type { QuizState, QuizDifficulty, ScoreResult, GradeResult, RoundConfig } from './types';
 import { DIFFICULTY_SETTINGS, isBossQuestion, isFinalBoss } from './types';
@@ -22,7 +22,7 @@ export function selectQuestionsForRound(roundConfig: RoundConfig, usedQuestionId
   }
   const shuffled = [...pool];
   for (let i = shuffled.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]; }
-  return shuffled.slice(0, roundConfig.questionCount);
+  return shuffled.slice(0, roundConfig.questionCount).map(shuffleQuestionOptions);
 }
 
 export function getTimerForQuestion(round: number, questionIndex: number, difficulty: QuizDifficulty): number {

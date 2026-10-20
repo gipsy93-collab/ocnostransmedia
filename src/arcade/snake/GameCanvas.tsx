@@ -17,8 +17,10 @@ export default function GameCanvas({
   onTouchEnd,
 }: GameCanvasProps) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
+  const stateRef = useRef(gameState);
+  stateRef.current = gameState;
 
-  // Render loop
+  // Render loop: un único rAF persistente; el estado se lee por ref
   useEffect(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;
@@ -27,9 +29,8 @@ export default function GameCanvas({
     if (!ctx) return;
 
     let animFrameId: number;
-
     const render = (timestamp: number) => {
-      renderGame(ctx, gameState, timestamp);
+      renderGame(ctx, stateRef.current, timestamp);
       animFrameId = requestAnimationFrame(render);
     };
 
@@ -38,7 +39,7 @@ export default function GameCanvas({
     return () => {
       cancelAnimationFrame(animFrameId);
     };
-  }, [gameState]);
+  }, []);
 
   // Resize handler - set internal canvas resolution
   useEffect(() => {

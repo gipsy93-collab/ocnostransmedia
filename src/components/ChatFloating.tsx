@@ -50,6 +50,20 @@ export default function ChatFloating() {
     setMessages([]);
   }, [activeArticleId]);
 
+  // Escape closes the chat panel (takes precedence over engine shortcuts)
+  useEffect(() => {
+    if (!isOpen) return;
+    const onEscape = (e: globalThis.KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        e.preventDefault();
+        e.stopPropagation();
+        close();
+      }
+    };
+    window.addEventListener('keydown', onEscape, true);
+    return () => window.removeEventListener('keydown', onEscape, true);
+  }, [isOpen, close]);
+
   const linkify = (text: string) => {
     const clean = text.replace(/\[([^\]]*)\]\(([^)]*)\)/g, (_m, label, url) => url.startsWith('http') ? url : `${label} (${url})`);
     const splitRegex = /https?:\/\/[^\s<>\[\](){}"]+/g;

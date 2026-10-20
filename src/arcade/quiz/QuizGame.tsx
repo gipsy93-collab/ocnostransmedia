@@ -12,7 +12,7 @@ import QuizFeedback from './QuizFeedback';
 import RoundTransition from './RoundTransition';
 import QuizResults from './QuizResults';
 
-export default function QuizGame() {
+export default function QuizGame({ embedded = false }: { embedded?: boolean }) {
   const { highScores, setHighScore, startGame: storeStartGame, endGame: storeEndGame } = useGameStore();
   const [phase, setPhase] = useState<GamePhase>('MENU');
   const [difficulty, setDifficulty] = useState<QuizDifficulty>('normal');
@@ -38,9 +38,12 @@ export default function QuizGame() {
   const [isTimeout, setIsTimeout] = useState(false);
   const [countdown, setCountdown] = useState(3);
   const [countdownText, setCountdownText] = useState('');
+  const [beatRecord, setBeatRecord] = useState(false);
 
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const totalTimeRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const scoreRef = useRef(0);
+  useEffect(() => { scoreRef.current = score; }, [score]);
 
   const currentQuestion = roundQuestions[currentQuestionIndex] || null;
   const isBoss = currentQuestionIndex === 4;
@@ -70,22 +73,23 @@ export default function QuizGame() {
     }
   }, [phase, currentQuestion]);
 
+  // Teclado: se delega SIEMPRE al closure más reciente vía ref
+  // (evita combos/tiempos obsoletos cuando el listener se adjuntó hace varias renders)
+  const keyHandlersRef = useRef<(key: string) => void>(() => {});
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
-      if (phase === 'PLAYING' && selectedAnswer === null) {
-        const k = e.key.toUpperCase();
-        if (k === '1' || k === 'A') handleSelectAnswer(0);
-        else if (k === '2' || k === 'B') handleSelectAnswer(1);
-        else if (k === '3' || k === 'C') handleSelectAnswer(2);
-        else if (k === '4' || k === 'D') handleSelectAnswer(3);
-      } else if (phase === 'ANSWER_REVEALED' && (e.key === 'Enter' || e.key === ' ')) {
-        e.preventDefault();
-        handleContinue();
+      const t = e.target as HTMLElement | null;
+      if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable)) return;
+      if (['1', '2', '3', '4', 'a', 'b', 'c', 'd', 'A', 'B', 'C', 'D', 'Enter', ' '].includes(e.key)) {
+        keyHandlersRef.current(e.key);
       }
     };
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [phase, selectedAnswer]);
+  }, []);
+
+  const continuedRef = useRef(false);
+  useEffect(() => { if (phase === 'PLAYING') continuedRef.current = false; }, [phase, currentQuestionIndex]);
 
   const handleTimeUp = useCallback(() => {
     if (!currentQuestion) return;
@@ -121,10 +125,14 @@ export default function QuizGame() {
 
   const handleGameOver = useCallback(() => {
     clearTimer(); clearTotal();
-    setHighScore('quiz', score); setPhase('GAME_OVER'); storeEndGame();
-  }, [clearTimer, clearTotal, score, setHighScore, storeEndGame]);
+    const finalScore = scoreRef.current;
+    if (finalScore > highScores.quiz) setBeatRecord(true);
+    setHighScore('quiz', finalScore); setPhase('GAME_OVER'); storeEndGame();
+  }, [clearTimer, clearTotal, setHighScore, storeEndGame, highScores.quiz]);
 
   const handleContinue = useCallback(() => {
+    if (continuedRef.current) return;
+    continuedRef.current = true;
     if (lives <= 0) { handleGameOver(); return; }
     if (currentQuestionIndex < roundQuestions.length - 1) {
       setCurrentQuestionIndex((i) => i + 1); setSelectedAnswer(null);
@@ -132,14 +140,32 @@ export default function QuizGame() {
     } else {
       const rc = questionHistory.slice(roundStartIndex).filter((q) => q.isCorrect).length;
       if (rc === 5) setScore((p) => p + 300);
-      if (currentRound >= 5) { setHighScore('quiz', score + (rc === 5 ? 300 : 0)); storeEndGame(); setPhase('FINAL_SCORE'); }
+      if (currentRound >= 5) {
+        const finalScore = scoreRef.current + (rc === 5 ? 300 : 0);
+        if (finalScore > highScores.quiz) setBeatRecord(true);
+        setHighScore('quiz', finalScore); storeEndGame(); setPhase('FINAL_SCORE');
+      }
       else setPhase('ROUND_TRANSITION');
     }
-  }, [lives, currentQuestionIndex, roundQuestions.length, currentRound, questionHistory, roundStartIndex, score]);
+  }, [lives, currentQuestionIndex, roundQuestions.length, currentRound, questionHistory, roundStartIndex, scoreRef, highScores.quiz, setHighScore, storeEndGame, handleGameOver]);
+
+  // Delegado de teclado siempre actualizado (se re-escribe en cada render)
+  keyHandlersRef.current = (key: string) => {
+    if (phase === 'PLAYING' && selectedAnswer === null) {
+      const k = key.toUpperCase();
+      if (k === '1' || k === 'A') handleSelectAnswer(0);
+      else if (k === '2' || k === 'B') handleSelectAnswer(1);
+      else if (k === '3' || k === 'C') handleSelectAnswer(2);
+      else if (k === '4' || k === 'D') handleSelectAnswer(3);
+    } else if (phase === 'ANSWER_REVEALED' && (key === 'Enter' || key === ' ')) {
+      handleContinue();
+    }
+  };
 
   const handleStartGame = useCallback((diff: QuizDifficulty) => {
     setDifficulty(diff);
     const s = DIFFICULTY_SETTINGS[diff];
+    setBeatRecord(false);
     setLives(s.livesPerRound); setMaxLives(s.livesPerRound); setScore(0); setCombo(0);
     setMaxCombo(0); setQuestionsCorrect(0); setBossesDefeated(0); setTotalTimePlayed(0);
     setQuestionHistory([]); setUsedQuestionIds(new Set<number>()); setCurrentRound(1);
@@ -181,7 +207,7 @@ export default function QuizGame() {
   const curRC = ROUND_CONFIGS[currentRound - 1];
 
   return (
-    <div className="min-h-[100dvh] flex flex-col">
+    <div className={`flex flex-col ${embedded ? 'min-h-[420px]' : 'min-h-[100dvh]'}`}>
       {(phase === 'PLAYING' || phase === 'ANSWER_REVEALED' || phase === 'ROUND_TRANSITION') && (
         <QuizHUD score={score} lives={lives} maxLives={maxLives} combo={combo} currentRound={currentRound} currentQuestionIndex={currentQuestionIndex} difficulty={difficulty} roundName={curRC?.name || ''} />
       )}
@@ -213,7 +239,7 @@ export default function QuizGame() {
             <motion.div key={`rt-${currentRound}`}><RoundTransition round={currentRound} questionHistory={questionHistory} roundStartIndex={roundStartIndex} livesRemaining={lives} onNextRound={handleNextRound} onViewResults={() => { setHighScore('quiz', score); storeEndGame(); setPhase('FINAL_SCORE'); }} isLastRound={currentRound >= 5} /></motion.div>
           )}
           {(phase === 'GAME_OVER' || phase === 'FINAL_SCORE') && (
-            <motion.div key={phase}><QuizResults score={score} questionsCorrect={questionsCorrect} totalQuestions={phase === 'FINAL_SCORE' ? 25 : questionHistory.length} maxCombo={maxCombo} livesRemaining={lives} bossesDefeated={bossesDefeated} timePlayed={totalTimePlayed} difficulty={difficulty} questionHistory={questionHistory} onPlayAgain={handlePlayAgain} onGoMenu={handleGoMenu} isHighScore={score >= highScores.quiz} /></motion.div>
+            <motion.div key={phase}><QuizResults score={score} questionsCorrect={questionsCorrect} totalQuestions={phase === 'FINAL_SCORE' ? 25 : questionHistory.length} maxCombo={maxCombo} livesRemaining={lives} bossesDefeated={bossesDefeated} timePlayed={totalTimePlayed} difficulty={difficulty} questionHistory={questionHistory} onPlayAgain={handlePlayAgain} onGoMenu={handleGoMenu} isHighScore={beatRecord} /></motion.div>
           )}
         </AnimatePresence>
       </motion.div>

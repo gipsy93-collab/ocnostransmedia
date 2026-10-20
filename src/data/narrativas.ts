@@ -2,7 +2,7 @@ import type { Narrative } from '../types/narrative';
 import rawCatalogo from './catalogo_metadatos.json';
 
 // Carga diferida dinámica (code-splitting) de las 322 investigaciones mediante glob de Vite
-const narrativeModules = import.meta.glob('./narrativas/*.json');
+const narrativeModules = (import.meta as any).glob('./narrativas/*.json');
 
 function normalizeNarrative(raw: any, index: number): Narrative {
   const meta = raw?.metadata || {};

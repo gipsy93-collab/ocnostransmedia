@@ -19,9 +19,8 @@ import {
   SPAWN_ANIMATION_DURATION,
   getComboMultiplier,
   YELLOW_ACTIVATION_THRESHOLD,
-  QUESTIONS_PER_LEVEL,
 } from './constants';
-import { questions } from '../data/questions';
+import { questions, shuffleQuestionOptions } from '../data/questions';
 import type { Question } from '../data/questions';
 
 // ─── Direction Helpers ───
@@ -211,7 +210,22 @@ export function getRandomQuestion(difficulties: string[]): Question | null {
   }
   const q = available[Math.floor(Math.random() * available.length)];
   usedQuestionIds.add(q.id);
-  return q;
+  return shuffleQuestionOptions(q);
+}
+
+// ─── Bonus Life ───
+
+const MAX_LIVES = 5;
+
+function grantBonusLifeIfNeeded(s: GameState, prevScore: number): void {
+  if (
+    Math.floor(prevScore / POINTS.bonusLife) < Math.floor(s.score / POINTS.bonusLife) &&
+    s.lives < MAX_LIVES
+  ) {
+    s.lives += 1;
+    s.flashColor = '#4CAF50';
+    s.flashTimer = 400;
+  }
 }
 
 // ─── Game Tick Logic ───
@@ -301,8 +315,12 @@ export function gameTick(state: GameState, deltaTime: number): TickResult {
     seg.prevPos = { ...seg.pos };
   }
 
-  // Check self-collision
-  const hitSelf = newState.snake.segments.some((s) => posEqual(s.pos, clampedPos));
+  // Check self-collision.
+  // La cola queda libre en este mismo tick (la serpiente avanza), salvo si crece
+  // comiendo un token — y los tokens nunca aparecen sobre el cuerpo — por lo que
+  // el último segmento debe excluirse o se moriría por una colisión falsa.
+  const bodyWithoutTail = newState.snake.segments.slice(1, newState.snake.segments.length - 1);
+  const hitSelf = bodyWithoutTail.some((s) => posEqual(s.pos, clampedPos));
   if (hitSelf) {
     if (newState.snake.invincibleTimer > 0) {
       return { newState };
@@ -356,6 +374,7 @@ function handleTokenCollection(state: GameState, tokenIndex: number): TickResult
   const token = newState.tokens[tokenIndex];
   const levelConfig = LEVELS[newState.level - 1];
   const cellSize = 32;
+  const prevScore = state.score;
 
   if (token.type === 'GREEN') {
     // Green: +10 points, grow by 1
@@ -399,17 +418,13 @@ function handleTokenCollection(state: GameState, tokenIndex: number): TickResult
 
     if (newState.snake.segments.length >= levelConfig.targetLength && yellowMajority) {
       newState.score += POINTS.levelComplete(newState.level);
+      grantBonusLifeIfNeeded(newState, prevScore);
       newState.status = 'LEVEL_COMPLETE';
       return { newState, event: 'level-complete' };
     }
 
-    // Spawn new token if needed
-    if (newState.tokens.length < levelConfig.maxTokens) {
-      setTimeout(() => {
-        // This will be handled by the game loop
-      }, 1500);
-    }
-
+    // La reposición de tokens la gestiona el game loop (spawnMissingTokens)
+    grantBonusLifeIfNeeded(newState, prevScore);
     return { newState, event: 'token-collected' };
   }
 
@@ -472,7 +487,9 @@ function handleTokenCollection(state: GameState, tokenIndex: number): TickResult
 
 export function handleQuestionAnswer(state: GameState, correct: boolean): GameState {
   const newState = { ...state };
+  newState.snake = { ...state.snake, segments: state.snake.segments.map((s) => ({ ...s })) };
   newState.particles = [...state.particles];
+  const prevScore = state.score;
 
   // Both correct and wrong: snake grows by 2, points only on correct
   if (correct) {
@@ -512,11 +529,13 @@ export function handleQuestionAnswer(state: GameState, correct: boolean): GameSt
 
   if (lenOk && yellowMajority) {
     newState.score += POINTS.levelComplete(newState.level);
+    grantBonusLifeIfNeeded(newState, prevScore);
     newState.status = 'LEVEL_COMPLETE';
     newState.currentQuestion = null;
     return newState;
   }
 
+  grantBonusLifeIfNeeded(newState, prevScore);
   newState.currentQuestion = null;
   newState.status = 'PLAYING';
   return newState;

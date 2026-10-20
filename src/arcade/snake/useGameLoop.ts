@@ -43,9 +43,11 @@ export function useGameLoop() {
 
           accumulatorRef.current += clampedDelta;
 
-          // Run game ticks at the configured speed
-          while (accumulatorRef.current >= tickSpeed) {
+          // Run game ticks at the configured speed (máx. 5 ticks/frame anti death-spiral)
+          let ticks = 0;
+          while (accumulatorRef.current >= tickSpeed && ticks < 5) {
             accumulatorRef.current -= tickSpeed;
+            ticks++;
             const result = gameTick(stateRef.current, tickSpeed);
             stateRef.current = result.newState;
 
@@ -61,7 +63,9 @@ export function useGameLoop() {
                   break;
                 case 'game-over':
                   callbacksRef.current?.onStateChange(stateRef.current);
-                  break;
+                  // Detener el loop: no hay más ticks que procesar
+                  isRunningRef.current = false;
+                  return;
               }
             }
           }
@@ -70,11 +74,7 @@ export function useGameLoop() {
           tokenSpawnTimerRef.current += clampedDelta;
           if (tokenSpawnTimerRef.current >= 1500) {
             tokenSpawnTimerRef.current = 0;
-            const prevCount = stateRef.current.tokens.length;
             stateRef.current = spawnMissingTokens(stateRef.current);
-            if (stateRef.current.tokens.length !== prevCount) {
-              // Tokens were spawned
-            }
           }
         }
 
@@ -135,22 +135,41 @@ export function useGameLoop() {
 export function useInputHandler(
   onDirectionChange: (dir: Direction) => void,
   onPause: () => void,
+  isGameActive?: () => boolean,
 ) {
   const touchStartRef = useRef<{ x: number; y: number; time: number } | null>(null);
   // Use refs to avoid stale closures
   const onDirectionChangeRef = useRef(onDirectionChange);
   const onPauseRef = useRef(onPause);
+  const isGameActiveRef = useRef(isGameActive);
 
   // Keep refs updated with latest callbacks
   useEffect(() => {
     onDirectionChangeRef.current = onDirectionChange;
     onPauseRef.current = onPause;
-  }, [onDirectionChange, onPause]);
+    isGameActiveRef.current = isGameActive;
+  }, [onDirectionChange, onPause, isGameActive]);
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
+      // No capturar teclas mientras el usuario escribe (chat IA, campos, contenido editable)
+      const el = e.target as HTMLElement | null;
+      if (
+        el && (
+          el.tagName === 'INPUT' ||
+          el.tagName === 'TEXTAREA' ||
+          el.isContentEditable
+        )
+      ) {
+        return;
+      }
+
+      // Si el juego no está en PLAYING/PAUSED (p. ej. modal de pregunta abierto),
+      // no consumir teclas: el modal necesita A-D y Escape debe poder cerrarlo/ignorarse
+      if (isGameActiveRef.current && !isGameActiveRef.current()) return;
+
       // Prevent default for game keys to avoid page scrolling
-      const gameKeys = ['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'w', 'a', 's', 'd', 'W', 'A', 'S', 'D', ' '];
+      const gameKeys = ['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'w', 'a', 's', 'd', 'W', 'A', 'S', 'D', ' ', 'Escape'];
       if (gameKeys.includes(e.key)) {
         e.preventDefault();
         e.stopImmediatePropagation();

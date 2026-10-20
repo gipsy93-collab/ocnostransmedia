@@ -1,12 +1,12 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { Maximize2, Minimize2, Heart } from 'lucide-react';
+import { Maximize2, Minimize2 } from 'lucide-react';
 import NeonButton from '../components/NeonButton';
 import { useGameStore } from '../store/gameStore';
 import type { Cell, PlayerPos, Enemy } from './renderer';
 import { drawGame } from './renderer';
 import QuestionModal from '../components/QuestionModal';
-import { questions } from '../data/questions';
+import { questions, shuffleQuestionOptions } from '../data/questions';
 import type { Question } from '../data/questions';
 
 const ROWS = 7;
@@ -33,7 +33,10 @@ function buildCells(level: number): Cell[] {
       cells.push({ row: r, col: c, completed: false, isBonus: false });
     }
   }
-  
+
+  // Como en el Q*bert clásico, el cubo del ápex ya está pintado al empezar
+  cells[0].completed = true;
+
   // Randomly assign bonus cubes based on level, excluding the start pos
   const available = cells.filter(c => !(c.row === 0 && c.col === 0));
   const bonusCount = Math.min(3, level);
@@ -42,7 +45,7 @@ function buildCells(level: number): Cell[] {
     available[idx].isBonus = true;
     available.splice(idx, 1);
   }
-  
+
   return cells;
 }
 
@@ -56,10 +59,6 @@ const LEVEL_CONFIGS = [
 
 function getLevelConfig(level: number) {
   return LEVEL_CONFIGS[Math.min(level - 1, LEVEL_CONFIGS.length - 1)];
-}
-
-function spawnEnemies(count: number): Enemy[] {
-  return []; // Enemies spawn dynamically from the top now
 }
 
 function getFallerMoves(row: number, col: number): PlayerPos[] {
@@ -99,7 +98,7 @@ export default function PiramidePage() {
   const [gs, setGs] = useState<GameState>(() => ({
     cells: buildCells(1),
     playerPos: { row: 0, col: 0 },
-    enemies: spawnEnemies(getLevelConfig(1).enemyCount),
+    enemies: [],
     score: 0,
     lives: 3,
     level: 1,
@@ -113,7 +112,9 @@ export default function PiramidePage() {
   const [isFullscreen, setIsFullscreen] = useState(false);
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const gameRef = useRef<HTMLDivElement>(null);
-  const store = useGameStore();
+  const recordScore = useCallback((score: number) => {
+    useGameStore.getState().setHighScore('qbert', score);
+  }, []);
 
   // Refs for animation loop
   const gsRef = useRef(gs);
@@ -186,7 +187,7 @@ export default function PiramidePage() {
           newLives -= 1;
           if (newLives <= 0) {
             newPhase = 'gameOver';
-            store.setHighScore('qbert', prev.score);
+            recordScore(prev.score);
           }
           newPos = { row: 0, col: 0 };
           newEnemies.length = 0; // Clear enemies on death to give a break
@@ -202,7 +203,7 @@ export default function PiramidePage() {
       });
     }, config.enemySpeed);
     return () => clearInterval(interval);
-  }, [gs.phase, gs.level, store]);
+  }, [gs.phase, gs.level, recordScore]);
 
   const handleQuestionAnswered = useCallback((correct: boolean) => {
     setGs((prev) => {
@@ -230,7 +231,7 @@ export default function PiramidePage() {
         if (allCubesDone) {
           newPhase = 'won';
           newScore += 1000 * prev.level;
-          if (prev.level >= 5) store.setHighScore('qbert', newScore);
+          if (prev.level >= 5) recordScore(newScore);
         }
       } else {
         // Penalty: lose a randomly completed square
@@ -258,7 +259,7 @@ export default function PiramidePage() {
         currentQuestion: null,
       };
     });
-  }, [store]);
+  }, [recordScore]);
 
   const movePlayer = useCallback((nr: number, nc: number) => {
     setGs((prev) => {
@@ -270,7 +271,7 @@ export default function PiramidePage() {
         let newPhase: GameState['phase'] = prev.phase;
         if (newLives <= 0) {
           newPhase = 'gameOver';
-          store.setHighScore('qbert', prev.score);
+          recordScore(prev.score);
         }
         return {
           ...prev,
@@ -291,12 +292,13 @@ export default function PiramidePage() {
       if (!moveKey) return prev;
 
       // Update cell (only complete normal cells, bonus cells complete on correct quiz answer)
+      const cellAtTarget = prev.cells.find(c => c.row === nr && c.col === nc);
+      const newlyCompleted = !!cellAtTarget && !cellAtTarget.completed && !cellAtTarget.isBonus;
       const newCells = prev.cells.map((c) =>
         c.row === nr && c.col === nc && !c.completed && !c.isBonus
           ? { ...c, completed: true }
           : c,
       );
-      const cellWasChanged = newCells.some((c) => c.row === nr && c.col === nc && c.completed);
 
       // Check collision with enemies at new position
       const hit = prev.enemies.some((en) => en.row === nr && en.col === nc);
@@ -306,7 +308,7 @@ export default function PiramidePage() {
         newLives -= 1;
         if (newLives <= 0) {
           newPhase = 'gameOver';
-          store.setHighScore('qbert', prev.score);
+          recordScore(prev.score);
         }
         return {
           ...prev,
@@ -318,13 +320,13 @@ export default function PiramidePage() {
         };
       }
 
-      const bonusPoints = cellWasChanged ? 25 : 0;
+      const bonusPoints = newlyCompleted ? 25 : 0;
       const newScore = prev.score + bonusPoints;
 
       // Check if landed on a new bonus cell to trigger a question
       const landedOnBonus = prev.cells.some(c => c.row === nr && c.col === nc && c.isBonus && !c.completed);
       if (landedOnBonus) {
-        const q = questions[Math.floor(Math.random() * questions.length)];
+        const q = shuffleQuestionOptions(questions[Math.floor(Math.random() * questions.length)]);
         return {
           ...prev,
           cells: newCells,
@@ -342,7 +344,7 @@ export default function PiramidePage() {
         const levelBonus = 1000 * prev.level;
         const finalScore = newScore + levelBonus;
         if (prev.level >= 5) {
-          store.setHighScore('qbert', finalScore);
+          recordScore(finalScore);
         }
         return {
           ...prev,
@@ -367,7 +369,7 @@ export default function PiramidePage() {
     setTimeout(() => {
       setGs(prev => ({ ...prev, isJumping: false }));
     }, 280);
-  }, [store]);
+  }, [recordScore]);
 
   // Keyboard handler
   const movePlayerRef = useRef(movePlayer);
@@ -377,9 +379,15 @@ export default function PiramidePage() {
     const handler = (e: KeyboardEvent) => {
       const keys = ['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'w', 'a', 's', 'd'];
       if (!keys.includes(e.key)) return;
+      // No robar teclas mientras se escribe (chat IA, campos de texto)
+      const t = e.target as HTMLElement | null;
+      if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable)) return;
+      const state = gsRef.current;
+      // Solo consumir teclas durante el juego activo (no durante preguntas/game over)
+      if (state.phase !== 'playing') return;
       e.preventDefault();
       e.stopImmediatePropagation();
-      const state = gsRef.current;
+      if (state.isJumping) return;
       let nr = state.playerPos.row;
       let nc = state.playerPos.col;
       const key = e.key.toLowerCase();
@@ -398,11 +406,10 @@ export default function PiramidePage() {
   const handleNextLevel = useCallback(() => {
     const nextLvl = gs.level + 1;
     if (nextLvl > 5) return;
-    const config = getLevelConfig(nextLvl);
     setGs({
       cells: buildCells(nextLvl),
       playerPos: { row: 0, col: 0 },
-      enemies: spawnEnemies(config.enemyCount),
+      enemies: [],
       score: gs.score,
       lives: gs.lives,
       level: nextLvl,
@@ -418,7 +425,7 @@ export default function PiramidePage() {
     setGs({
       cells: buildCells(1),
       playerPos: { row: 0, col: 0 },
-      enemies: spawnEnemies(getLevelConfig(1).enemyCount),
+      enemies: [],
       score: 0,
       lives: 3,
       level: 1,
@@ -446,6 +453,13 @@ export default function PiramidePage() {
     return () => document.removeEventListener('fullscreenchange', onFsChange);
   }, []);
 
+  // Asegura que la fuente pixel esté disponible para el HUD del canvas
+  useEffect(() => {
+    if (typeof document !== 'undefined' && 'fonts' in document) {
+      document.fonts.load('bold 24px "Pixelify Sans"').catch(() => {});
+    }
+  }, []);
+
   const completedCount = gs.cells.filter((c) => c.completed).length;
   const config = getLevelConfig(gs.level);
 
@@ -454,7 +468,7 @@ export default function PiramidePage() {
       <div
         ref={gameRef}
         className={`flex flex-col items-center justify-center overflow-hidden bg-[#000] touch-none ${
-          isFullscreen ? 'fixed inset-0 z-[9999]' : 'relative w-full max-w-[1200px] aspect-[1200/1100] mx-auto border-4 border-[#1F2833] rounded-lg shadow-2xl'
+          isFullscreen ? 'fixed inset-0 z-[9999]' : 'relative w-full max-w-[1200px] max-h-[calc(100dvh-170px)] aspect-[1200/1100] mx-auto border-4 border-[#1F2833] rounded-lg shadow-2xl'
         }`}
       >
         {/* CRT Overlay Effect */}
@@ -465,13 +479,10 @@ export default function PiramidePage() {
         <div className="relative w-full h-full flex items-center justify-center p-4">
           <canvas
             ref={canvasRef}
-            className={`${isFullscreen ? 'h-full w-auto' : 'w-full h-auto'} cursor-pointer object-contain`}
+            className="max-w-full max-h-full w-auto h-auto object-contain"
             style={{ imageRendering: 'pixelated' }}
-            aria-label="Pirámide Q*bert Tomoji"
-            onClick={() => {
-              const next = gs.cells.find((c) => !c.completed && !c.isBonus);
-              if (next) movePlayer(next.row, next.col);
-            }}
+            role="img"
+            aria-label={`Pirámide Q*bert Tomoji. Nivel ${gs.level}, puntuación ${gs.score}, vidas ${gs.lives}. Usa flechas o WASD para saltar entre cubos.`}
           />
           
           <button
@@ -531,7 +542,7 @@ export default function PiramidePage() {
             ↑=UL · →=UR · ←=DL · ↓=DR (WASD también)
           </p>
           {/* D-pad */}
-          <div className="grid grid-cols-3 gap-1 md:hidden" aria-label="Controles táctiles">
+          <div className="grid grid-cols-3 gap-1 md:hidden" role="group" aria-label="Controles táctiles">
             <div />
             <button onClick={() => movePlayer(gs.playerPos.row - 1, gs.playerPos.col - 1)} className="w-12 h-12 flex items-center justify-center bg-[#1F2833] border border-[#66FCF1] text-[#66FCF1] font-pixel text-lg active:bg-[#66FCF1]/20 rounded" aria-label="Arriba-izquierda">↖</button>
             <div />
@@ -547,3 +558,4 @@ export default function PiramidePage() {
     </>
   );
 }
+

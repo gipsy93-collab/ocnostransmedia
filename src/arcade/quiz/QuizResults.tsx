@@ -47,7 +47,7 @@ export default function QuizResults({ score, questionsCorrect, totalQuestions, m
         </div>
         <div className="flex justify-center gap-6 text-xs text-[#8A95A5] font-body mb-6"><span>Tiempo: {fmt(timePlayed)}</span><span>Dificultad: {difficulty === 'easy' ? 'Fácil' : difficulty === 'normal' ? 'Normal' : 'Difícil'}</span><span>{pct}% acierto</span></div>
         <div className="mb-4">
-          <button onClick={() => setShowDetails(!showDetails)} className="flex items-center justify-center gap-2 w-full py-2 text-[#8A95A5] hover:text-[#66FCF1] transition-colors font-body text-sm">
+          <button type="button" onClick={() => setShowDetails(!showDetails)} aria-expanded={showDetails} className="flex items-center justify-center gap-2 w-full py-2 text-[#8A95A5] hover:text-[#66FCF1] transition-colors font-body text-sm cursor-pointer">
             {showDetails ? <><ChevronUp size={16} /> Ocultar revisión</> : <><ChevronDown size={16} /> Ver revisión de preguntas</>}
           </button>
           {showDetails && <motion.div className="mt-3 space-y-2 max-h-[300px] overflow-y-auto" initial={{ opacity: 0, height: 0 }} animate={{ opacity: 1, height: 'auto' }} transition={{ duration: 0.3 }}>
@@ -55,7 +55,7 @@ export default function QuizResults({ score, questionsCorrect, totalQuestions, m
               <div key={i} className={`flex items-start gap-2 p-2 text-xs font-body ${h.isCorrect ? 'bg-[#4CAF50]/10 border-l-2 border-[#4CAF50]' : 'bg-[#FF2E9A]/10 border-l-2 border-[#FF2E9A]'}`}>
                 {h.isCorrect ? <CheckCircle size={14} className="text-[#4CAF50] mt-0.5 shrink-0" /> : <XCircle size={14} className="text-[#FF2E9A] mt-0.5 shrink-0" />}
                 <div className="flex-1 min-w-0"><p className="text-[#F5F5F5] truncate">{h.question.text}</p><p className="text-[#8A95A5] mt-0.5">{h.selectedAnswer !== null ? h.question.options[h.selectedAnswer] : 'Sin respuesta'}{!h.isCorrect && <span className="text-[#4CAF50] ml-1">✓ {h.question.options[h.question.correctAnswer]}</span>}</p></div>
-                <span className="font-pixel text-[0.5rem] text-[#FFE66D] shrink-0">{h.pointsEarned > 0 ? `+${h.pointsEarned}` : '0'}</span>
+                <span className="font-pixel text-[0.5rem] text-[#FFE66D] shrink-0">{h.pointsEarned > 0 ? `+${h.pointsEarned}` : h.pointsEarned}</span>
               </div>
             ))}
           </motion.div>}

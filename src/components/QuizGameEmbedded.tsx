@@ -8,7 +8,7 @@ interface QuizGameEmbeddedProps {
 export default function QuizGameEmbedded({ embedded, onComplete }: QuizGameEmbeddedProps) {
   return (
     <div className="relative">
-      <QuizGame />
+      <QuizGame embedded />
       {embedded && (
         <div className="flex justify-center pt-4 pb-2">
           <button

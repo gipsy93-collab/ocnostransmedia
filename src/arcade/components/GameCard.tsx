@@ -35,7 +35,7 @@ export default function GameCard({ title, description, accent, gameId, route, ic
           </span>
         </div>
         <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300 transform group-hover:scale-110 z-20" aria-hidden="true">
-          <Link to={route} className="w-16 h-16 rounded-full bg-white/30 backdrop-blur-md flex items-center justify-center border-2 border-white/50 shadow-2xl hover:scale-110 transition-transform">
+          <Link to={route} aria-label={`Jugar ${title}`} className="w-16 h-16 rounded-full bg-white/30 backdrop-blur-md flex items-center justify-center border-2 border-white/50 shadow-2xl hover:scale-110 transition-transform">
             <Play className="text-white ml-1" size={32} fill="currentColor" />
           </Link>
         </div>

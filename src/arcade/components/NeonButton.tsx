@@ -24,7 +24,7 @@ const variantStyles: Record<ButtonVariant, { border: string; text: string; hover
 export default function NeonButton({ children, variant = 'cyan', to, onClick, type = 'button', size = 'default', className = '', disabled = false }: NeonButtonProps) {
   const style = variantStyles[variant];
   const sizeClass = size === 'large' ? 'px-8 py-4 text-[1rem]' : 'px-6 py-3 text-[0.75rem]';
-  const base = `inline-flex items-center justify-center font-pixel uppercase tracking-[0.06em] border-2 ${style.border} ${style.text} bg-transparent ${style.hoverBg} transition-all duration-150 active:scale-[0.96] disabled:opacity-50 disabled:cursor-not-allowed ${sizeClass} ${className}`;
+  const base = `inline-flex items-center justify-center font-pixel uppercase tracking-[0.06em] border-2 ${style.border} ${style.text} bg-transparent ${style.hoverBg} transition-all duration-150 active:scale-[0.96] disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-current focus-visible:ring-offset-2 focus-visible:ring-offset-[#0B0C10] ${sizeClass} ${className}`;
 
   if (to) return <Link to={to} className={base}>{children}</Link>;
   return <button type={type} onClick={onClick} disabled={disabled} className={base}>{children}</button>;

@@ -1,17 +1,33 @@
-import { useEffect } from 'react';
-import { motion, AnimatePresence } from 'motion/react';
-import { CheckCircle, XCircle, Clock, Lightbulb } from 'lucide-react';
+import { useEffect, useRef } from 'react';
+import { motion, AnimatePresence, useReducedMotion } from 'motion/react';
+import { CheckCircle, XCircle, Clock, Lightbulb, ArrowRight } from 'lucide-react';
 
 interface QuizFeedbackProps { isCorrect: boolean; isTimeout: boolean; pointsEarned: number; explanation: string; combo: number; onContinue: () => void; autoAdvance?: boolean; autoAdvanceDelay?: number; }
 
 export default function QuizFeedback({ isCorrect, isTimeout, pointsEarned, explanation, combo, onContinue, autoAdvance = true, autoAdvanceDelay = 2500 }: QuizFeedbackProps) {
-  useEffect(() => { if (autoAdvance) { const t = setTimeout(() => onContinue(), autoAdvanceDelay); return () => clearTimeout(t); } }, [autoAdvance, autoAdvanceDelay, onContinue]);
+  const firedRef = useRef(false);
+  const prefersReducedMotion = useReducedMotion();
+
+  const advance = () => {
+    if (firedRef.current) return;
+    firedRef.current = true;
+    onContinue();
+  };
+
+  // El auto-advance solo avanza si el usuario no lo hizo ya; sin reduce-motion
+  useEffect(() => {
+    if (!autoAdvance || prefersReducedMotion) return;
+    const t = setTimeout(advance, autoAdvanceDelay);
+    return () => clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [autoAdvance, autoAdvanceDelay, prefersReducedMotion]);
+
   const txt = isTimeout ? '¡TIEMPO!' : isCorrect ? '¡CORRECTO!' : 'INCORRECTO';
   const clr = isCorrect ? '#4CAF50' : '#FF2E9A';
 
   return (
     <AnimatePresence>
-      <motion.div className="w-full max-w-[800px] mx-auto px-3 sm:px-4 mt-4" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3, type: 'spring', stiffness: 300, damping: 25 }}>
+      <motion.div className="w-full max-w-[800px] mx-auto px-3 sm:px-4 mt-4" role="status" aria-live="polite" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3, type: 'spring', stiffness: 300, damping: 25 }}>
         <motion.div className="flex items-center justify-center gap-2 mb-3" initial={{ scale: 0.5 }} animate={{ scale: 1 }} transition={{ delay: 0.4, type: 'spring', stiffness: 400, damping: 15 }}>
           {isCorrect ? <CheckCircle size={24} className="text-[#4CAF50]" /> : isTimeout ? <Clock size={24} className="text-[#FF2E9A]" /> : <XCircle size={24} className="text-[#FF2E9A]" />}
           <span className="font-pixel text-[0.8rem] sm:text-[1rem]" style={{ color: clr }}>{txt}</span>
@@ -26,6 +42,17 @@ export default function QuizFeedback({ isCorrect, isTimeout, pointsEarned, expla
           <Lightbulb size={18} className="text-[#FFE66D] mt-0.5 shrink-0" />
           <p className="text-[#F5F5F5] text-sm font-body leading-relaxed italic">{explanation}</p>
         </motion.div>
+        <div className="flex justify-center mt-4">
+          <button
+            type="button"
+            onClick={advance}
+            className="font-pixel text-[0.6rem] sm:text-[0.7rem] uppercase tracking-wider px-5 py-3 border-2 border-[#FFE66D] text-[#FFE66D] hover:bg-[#FFE66D]/15 transition-colors flex items-center gap-2 cursor-pointer"
+          >
+            <span>CONTINUAR</span>
+            <ArrowRight size={14} aria-hidden="true" />
+            <span className="hidden sm:inline text-[#8A95A5] normal-case font-body">(Enter)</span>
+          </button>
+        </div>
       </motion.div>
     </AnimatePresence>
   );

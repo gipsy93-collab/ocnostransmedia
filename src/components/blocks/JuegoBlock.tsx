@@ -1,4 +1,5 @@
 import { motion } from 'motion/react';
+import { useEffect, useRef } from 'react';
 import { Gamepad2, ChevronLeft, ArrowRight, Brain, Terminal, RotateCcw, Sparkles } from 'lucide-react';
 import SnakeGame from '../SnakeGame';
 import QuizGameEmbedded from '../QuizGameEmbedded';
@@ -14,6 +15,17 @@ interface JuegoBlockProps {
 
 export default function JuegoBlock({ narrative, selectedGame, setSelectedGame, navigateTo, navigateBackward }: JuegoBlockProps) {
   const juegos = narrative?.blocks?.juegos;
+  const playPanelRef = useRef<HTMLDivElement>(null);
+
+  // Al elegir un juego, traer el panel de juego a la vista dentro del motor
+  useEffect(() => {
+    if (selectedGame && playPanelRef.current) {
+      const t = setTimeout(() => {
+        playPanelRef.current?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      }, 250);
+      return () => clearTimeout(t);
+    }
+  }, [selectedGame]);
 
   if (!juegos || juegos.length === 0) return null;
 
@@ -92,7 +104,7 @@ export default function JuegoBlock({ narrative, selectedGame, setSelectedGame, n
       transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
       className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 sm:py-10 md:py-14 flex flex-col justify-start min-h-full"
     >
-      <div className="card-3d p-8 md:p-12 border-t-8 border-seaweed">
+      <div ref={playPanelRef} className="card-3d p-8 md:p-12 border-t-8 border-seaweed scroll-mt-24">
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 mb-8">
           <div className="flex items-center gap-5">
             <div className="w-16 h-16 rounded-2xl bg-seaweed/10 text-seaweed flex items-center justify-center shrink-0 shadow-sm">

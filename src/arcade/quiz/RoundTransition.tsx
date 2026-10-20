@@ -21,6 +21,11 @@ export default function RoundTransition({ round, questionHistory, roundStartInde
     else { if (isLastRound) onViewResults(); else onNextRound(); }
   }, [countdown, isLastRound, onNextRound, onViewResults]);
 
+  const skipCountdown = () => {
+    if (countdown <= 0) return;
+    setCountdown(0);
+  };
+
   return (
     <motion.div className="w-full max-w-[600px] mx-auto px-4" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
       <motion.div className={`bg-[#1F2833] border-2 p-6 text-center`} style={{ borderColor: rc?.accentColor || '#FFE66D', boxShadow: `0 0 30px ${(rc?.accentColor || '#FFE66D')}20` }} initial={{ scale: 0.9 }} animate={{ scale: 1 }} transition={{ type: 'spring', stiffness: 300, damping: 25 }}>
@@ -36,6 +41,11 @@ export default function RoundTransition({ round, questionHistory, roundStartInde
         </motion.div>}</AnimatePresence>
         {perfect && <motion.div className="mb-4 py-2 px-4 bg-[#4CAF50]/10 border border-[#4CAF50]" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.5, type: 'spring', stiffness: 400 }}><span className="font-pixel text-[0.7rem] text-[#4CAF50]">¡BONUS PERFECTO! +300 PTS</span></motion.div>}
         <div className="flex items-center justify-center gap-2"><span className="font-pixel text-[0.6rem] text-[#8A95A5]">{isLastRound ? 'VIENDO RESULTADOS' : 'SIGUIENTE RONDA'}</span><ArrowRight size={14} className="text-[#8A95A5]" /><motion.span className="font-pixel text-[0.8rem] text-[#FFE66D]" key={countdown} initial={{ scale: 1.5 }} animate={{ scale: 1 }}>{countdown}</motion.span></div>
+        <div className="flex justify-center mt-4">
+          <button type="button" onClick={skipCountdown} className="font-pixel text-[0.55rem] uppercase tracking-wider px-4 py-2 border-2 border-[#2A3645] text-[#8A95A5] hover:border-[#66FCF1] hover:text-[#66FCF1] transition-colors cursor-pointer">
+            Saltar espera »
+          </button>
+        </div>
       </motion.div>
     </motion.div>
   );

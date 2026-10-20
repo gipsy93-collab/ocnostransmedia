@@ -42,6 +42,7 @@ export default function InteractivosLegacy() {
     return (
       <ErrorBoundary onReset={() => setSelectedNarrative(null)}>
         <MulticaminoEngine 
+          key={selectedNarrative.id}
           narrative={selectedNarrative} 
           initialBlock={initialBlock}
           onBack={() => {

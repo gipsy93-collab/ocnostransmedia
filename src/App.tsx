@@ -4,7 +4,7 @@
  */
 
 import { useRef, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, Link, Navigate, useNavigate } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link, useNavigate } from 'react-router-dom';
 import Semillero from './pages/Semillero';
 import Actualidad from './pages/Actualidad';
 import Interactivos from './pages/Interactivos';
@@ -14,6 +14,9 @@ import Layout from './components/Layout';
 import ScrollToTop from './components/ScrollToTop';
 import QuizGame from './arcade/quiz/QuizGame';
 import PiramidePage from './arcade/piramide/PiramidePage';
+import SnakePage from './arcade/snake/SnakePage';
+import ArcadeHub from './arcade/ArcadeHub';
+import ArcadeLayout from './arcade/ArcadeLayout';
 import EditorialRoster from './components/EditorialRoster';
 import { motion, MotionConfig, useReducedMotion, useScroll, useTransform } from 'motion/react';
 import { Sparkles, ArrowDown, Compass } from 'lucide-react';
@@ -195,9 +198,12 @@ export default function App() {
             <Route path="/interactivos" element={<Interactivos />} />
             <Route path="/interactivos/detectives" element={<DetectivesLanding />} />
             <Route path="/interactivos-archivo-legacy" element={<InteractivosLegacy />} />
-            <Route path="/arcade" element={<Navigate to="/interactivos" replace />} />
-            <Route path="/arcade/quiz" element={<QuizGame />} />
-            <Route path="/arcade/piramide" element={<PiramidePage />} />
+            <Route path="/arcade" element={<ArcadeLayout />}>
+              <Route index element={<ArcadeHub />} />
+              <Route path="quiz" element={<QuizGame />} />
+              <Route path="serpiente" element={<SnakePage />} />
+              <Route path="piramide" element={<PiramidePage />} />
+            </Route>
           </Routes>
         </Layout>
       </Router>

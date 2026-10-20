@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import type { Question } from '../data/questions';
 
@@ -8,6 +8,11 @@ interface QuestionModalProps {
   timeLimit?: number;
 }
 
+const KEY_TO_INDEX: Record<string, number> = {
+  '1': 0, '2': 1, '3': 2, '4': 3,
+  A: 0, B: 1, C: 2, D: 3,
+};
+
 export default function QuestionModal({
   question,
   onAnswer,
@@ -16,12 +21,15 @@ export default function QuestionModal({
   const [timeLeft, setTimeLeft] = useState(timeLimit);
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
   const [feedback, setFeedback] = useState<'correct' | 'wrong' | null>(null);
+  const panelRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (question) {
       setTimeLeft(timeLimit);
       setSelectedIndex(null);
       setFeedback(null);
+      // Mover el foco al diálogo para usuarios de teclado/lector de pantalla
+      requestAnimationFrame(() => panelRef.current?.focus());
     }
   }, [question, timeLimit]);
 
@@ -59,6 +67,24 @@ export default function QuestionModal({
     [selectedIndex, question, onAnswer],
   );
 
+  // Selección por teclado: 1-4 / A-D (solo si no se ha respondido aún)
+  const selectRef = useRef(handleSelect);
+  selectRef.current = handleSelect;
+  useEffect(() => {
+    if (!question) return;
+    const onKey = (e: KeyboardEvent) => {
+      const t = e.target as HTMLElement | null;
+      if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable)) return;
+      const idx = KEY_TO_INDEX[e.key.toUpperCase()];
+      if (idx !== undefined && question.options[idx] !== undefined) {
+        e.preventDefault();
+        selectRef.current(idx);
+      }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [question]);
+
   if (!question) return null;
 
   const timerPercent = (timeLeft / timeLimit) * 100;
@@ -70,13 +96,18 @@ export default function QuestionModal({
       <motion.div
         className="fixed inset-0 z-[100] flex items-center justify-center p-4"
         style={{ backgroundColor: 'rgba(11, 12, 16, 0.85)' }}
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="question-modal-title"
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
         transition={{ duration: 0.2 }}
       >
         <motion.div
-          className="w-full max-w-xl bg-[#1F2833] border-[3px] border-[#66FCF1] p-6 relative"
+          ref={panelRef}
+          tabIndex={-1}
+          className="w-full max-w-xl bg-[#1F2833] border-[3px] border-[#66FCF1] p-6 relative outline-none"
           initial={{ scale: 0.9, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
           exit={{ scale: 0.9, opacity: 0 }}
@@ -89,7 +120,7 @@ export default function QuestionModal({
             }
           >
             {/* Question text */}
-            <h3 className="font-display text-lg md:text-xl text-[#F5F5F5] text-center mb-6 leading-relaxed">
+            <h3 id="question-modal-title" className="font-display text-lg md:text-xl text-[#F5F5F5] text-center mb-6 leading-relaxed">
               {question.text}
             </h3>
 
@@ -112,7 +143,7 @@ export default function QuestionModal({
             </div>
 
             {/* Timer bar */}
-            <div className="w-full h-3 bg-[#2A3645] mb-6 overflow-hidden">
+            <div className="w-full h-3 bg-[#2A3645] mb-6 overflow-hidden" role="progressbar" aria-label="Tiempo restante" aria-valuemin={0} aria-valuemax={timeLimit} aria-valuenow={Math.ceil(timeLeft)} aria-valuetext={`${Math.ceil(timeLeft)} segundos restantes`}>
               <motion.div
                 className="h-full"
                 style={{ backgroundColor: timerColor }}
@@ -179,6 +210,8 @@ export default function QuestionModal({
                       ? 'text-[#4CAF50] bg-[#4CAF50]/10 border border-[#4CAF50]/30'
                       : 'text-[#FF2E9A] bg-[#FF2E9A]/10 border border-[#FF2E9A]/30'
                   }`}
+                  role="status"
+                  aria-live="assertive"
                   initial={{ opacity: 0, y: 10 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.3 }}

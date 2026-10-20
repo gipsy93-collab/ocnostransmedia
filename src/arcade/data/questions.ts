@@ -63,9 +63,24 @@ export function getRandomQuestions(count: number, difficulty?: string): Question
     const j = Math.floor(Math.random() * (i + 1));
     [pool[i], pool[j]] = [pool[j], pool[i]];
   }
-  return pool.slice(0, count);
+  return pool.slice(0, count).map(shuffleQuestionOptions);
 }
 
 export function getQuestionsByCategory(category: string): Question[] {
   return questions.filter((q) => q.category === category);
+}
+
+// El banco está redactado con la respuesta correcta casi siempre en la posición B.
+// Barajamos las opciones al servir cada pregunta para no delatar la respuesta.
+export function shuffleQuestionOptions(q: Question): Question {
+  const indices = q.options.map((_, i) => i);
+  for (let i = indices.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [indices[i], indices[j]] = [indices[j], indices[i]];
+  }
+  return {
+    ...q,
+    options: indices.map((i) => q.options[i]),
+    correctAnswer: indices.indexOf(q.correctAnswer),
+  };
 }
