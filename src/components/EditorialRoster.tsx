@@ -559,7 +559,8 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
 
           {/* Carrusel de Avatares Móvil */}
           <div 
-            className="flex items-center gap-2.5 overflow-x-auto pb-1 scrollbar-none"
+            className="flex items-center gap-2.5 overflow-x-auto pb-1 scrollbar-none no-scrollbar"
+            style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
             role="tablist"
             aria-label="Investigadores disponibles en móvil"
           >

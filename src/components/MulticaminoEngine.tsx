@@ -54,10 +54,14 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
   const [openCognitiva, setOpenCognitiva] = useState<number | null>(0);
   const [openEscritura, setOpenEscritura] = useState<number | null>(0);
   const [copiedCitation, setCopiedCitation] = useState<boolean>(false);
+  const [openAnswers, setOpenAnswers] = useState<Record<number, string>>({});
 
   const scrollContainerRef = useRef<HTMLDivElement>(null);
   const navContainerRef = useRef<HTMLElement>(null);
-  const { setArticle, clearArticle, open: openChat } = useChatStore();
+  const setArticle = useChatStore(s => s.setArticle);
+  const clearArticle = useChatStore(s => s.clearArticle);
+  const openChat = useChatStore(s => s.open);
+  const chatIsOpen = useChatStore(s => s.isOpen);
   const [, setSearchParams] = useSearchParams();
 
   // Sincroniza el bloque activo con la URL para que un recargue conserve la posición
@@ -73,6 +77,18 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
     setArticle(narrative.id, narrative.metadata.title);
     return () => clearArticle();
   }, [narrative.id, narrative.metadata.title, setArticle, clearArticle]);
+
+  // Reinicia el estado del motor al cambiar de investigación (evita estados huérfanos)
+  useEffect(() => {
+    setCurrentBlock('apertura');
+    setHistory([]);
+    setCompletedBlocks(['apertura']);
+    setActiveBranch(null);
+    setSelectedGame(null);
+    setOpenDeepDives([]);
+    setOpenAnswers({});
+    setAnswers({});
+  }, [narrative.id]);
 
   useEffect(() => {
     if (initialBlock) {
@@ -97,6 +113,17 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
   }, [narrative]);
 
   const currentIndex = visibleBlocks.indexOf(currentBlock);
+
+  // Validez de fase: un deep-link ?b=mapa/juego sobre una narrativa sin ese bloque
+  // dejaría al motor sin contenido renderizable; se degrada a 'apertura'.
+  useEffect(() => {
+    if (!visibleBlocks.includes(currentBlock)) {
+      setCurrentBlock('apertura');
+      setHistory([]);
+      setActiveBranch(null);
+    }
+  }, [visibleBlocks, currentBlock]);
+
   const currentBlockInfo = IMRyD_INDEX.find(i => i.id === currentBlock) || {
     id: currentBlock,
     label: currentBlock === 'reflexion' ? 'Reflexión' : currentBlock === 'implicancias' ? 'Implicancias' : 'Fase',
@@ -104,32 +131,44 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
   };
   const progressPercent = Math.round(((currentIndex + 1) / visibleBlocks.length) * 100);
 
-  // Navegación hacia adelante
+  // Navegación hacia adelante (los saltos no lineales registran origen en historial)
   const navigateTo = useCallback((block: BlockId) => {
-    setHistory(prev => [...prev, currentBlock]);
+    if (block === currentBlock) return;
+    const curIdx = visibleBlocks.indexOf(currentBlock);
+    const nextIdx = visibleBlocks.indexOf(block);
+    const isLinearAdvance = curIdx !== -1 && nextIdx === curIdx + 1;
+    setHistory(prev => isLinearAdvance ? prev : [...prev, currentBlock]);
     setCurrentBlock(block);
     setActiveBranch(null);
     if (!completedBlocks.includes(block)) {
       setCompletedBlocks(prev => [...prev, block]);
     }
-  }, [currentBlock, completedBlocks]);
+  }, [currentBlock, completedBlocks, visibleBlocks]);
 
-  // Navegación hacia atrás limpia (sin bucles en el historial)
+  // Navegación hacia atrás limpia (sin bucles ni pasos muertos en el historial)
   const navigateBackward = useCallback(() => {
     if (currentIndex > 0) {
       const prev = visibleBlocks[currentIndex - 1];
       setCurrentBlock(prev);
       setActiveBranch(null);
+      setHistory(h => {
+        const copy = [...h];
+        while (copy.length > 0 && copy[copy.length - 1] === prev) copy.pop();
+        return copy;
+      });
     } else {
-      if (history.length > 0) {
-        const prev = history[history.length - 1];
-        setHistory(h => h.slice(0, -1));
+      const copy = [...history];
+      while (copy.length > 0 && copy[copy.length - 1] === currentBlock) copy.pop();
+      if (copy.length > 0) {
+        const prev = copy[copy.length - 1];
+        setHistory(copy.slice(0, -1));
         setCurrentBlock(prev);
+        setActiveBranch(null);
       } else {
         onBack();
       }
     }
-  }, [currentIndex, visibleBlocks, history, onBack]);
+  }, [currentIndex, visibleBlocks, history, currentBlock, onBack]);
 
   const navigateForward = useCallback(() => {
     const next = currentIndex + 1;
@@ -157,9 +196,11 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
         e.preventDefault();
         navigateBackward();
       } else if (e.key === 'Escape') {
+        // Si el chat IA está abierto, Esc le pertenece al chat, no al motor
+        if (chatIsOpen) return;
         e.preventDefault();
         onBack();
-      } else if (e.key === 'g' || e.key === 'G') {
+      } else if ((e.key === 'g' || e.key === 'G') && !e.ctrlKey && !e.metaKey && !e.altKey) {
         if (visibleBlocks.includes('mapa')) {
           e.preventDefault();
           navigateTo('mapa');
@@ -168,7 +209,7 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
     };
     window.addEventListener('keydown', handler);
     return () => window.removeEventListener('keydown', handler);
-  }, [navigateForward, navigateBackward, onBack, navigateTo, visibleBlocks]);
+  }, [navigateForward, navigateBackward, onBack, navigateTo, visibleBlocks, chatIsOpen]);
 
   // Scroll to top en cambio de fase
   useEffect(() => {
@@ -196,10 +237,30 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
   const copyCitation = () => {
     const citation = narrative.blocks?.nucleo?.formalRef || 
       `${narrative.metadata.authors} (${narrative.metadata.year}). ${narrative.metadata.title}. ${narrative.metadata.journal}. https://doi.org/${narrative.metadata.doi}`;
-    navigator.clipboard.writeText(citation).then(() => {
+    const markCopied = () => {
       setCopiedCitation(true);
       setTimeout(() => setCopiedCitation(false), 2500);
-    });
+    };
+    const legacyCopy = () => {
+      const ta = document.createElement('textarea');
+      ta.value = citation;
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.select();
+      try {
+        document.execCommand('copy');
+        markCopied();
+      } catch {
+        window.prompt('Copia la referencia manualmente:', citation);
+      }
+      document.body.removeChild(ta);
+    };
+    if (navigator.clipboard?.writeText) {
+      navigator.clipboard.writeText(citation).then(markCopied).catch(legacyCopy);
+    } else {
+      legacyCopy();
+    }
   };
 
   // Descarga de ficha completa de estudio y reflexiones en Markdown
@@ -224,12 +285,20 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
     questions.forEach((q: any, idx: number) => {
       content += `### Pregunta ${idx + 1}: ${q.q}\n`;
       if (q.type === 'choice' && q.options) {
-        const userChoice = answers[idx] !== undefined ? q.options[answers[idx]] : 'No respondida';
-        const isCorrect = answers[idx] === q.correct;
-        content += `- **Tu respuesta:** ${userChoice} (${isCorrect ? 'Correcta' : 'A revisar'})\n`;
-        content += `- **Opción correcta:** ${q.options[q.correct]}\n\n`;
+        const chosen = answers[idx];
+        const userChoice = chosen !== undefined && q.options[chosen] !== undefined ? q.options[chosen] : 'No respondida';
+        const hasKey = typeof q.correct === 'number' && q.options[q.correct] !== undefined;
+        const isCorrect = hasKey && chosen === q.correct;
+        content += `- **Tu respuesta:** ${userChoice}${hasKey ? ` (${isCorrect ? 'Correcta' : 'A revisar'})` : ''}\n`;
+        if (hasKey) {
+          content += `- **Opción correcta:** ${q.options[q.correct]}\n`;
+        }
+        content += `\n`;
       } else {
-        content += `*Respuesta abierta completada en la sesión interactiva.*\n\n`;
+        const reflection = (openAnswers[idx] || '').trim();
+        content += reflection
+          ? `*Tu reflexión:* ${reflection}\n\n`
+          : `*Reflexión abierta: sin respuesta registrada.*\n\n`;
       }
     });
     content += `---\n`;
@@ -495,7 +564,8 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
 
   const activeBranchObj = stageData?.branches?.find(b => b.id === activeBranch);
 
-  const isImmersiveBlock = currentBlock === 'juego' || currentBlock === 'mapa';
+  const isMapaBlock = currentBlock === 'mapa';
+  const isJuegoBlock = currentBlock === 'juego';
 
   const content = (
     <div 
@@ -534,7 +604,8 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
           <nav 
             ref={navContainerRef}
             aria-label="Fases del Estudio" 
-            className="hidden md:flex items-center justify-start lg:justify-center gap-1.5 overflow-x-auto scrollbar-none flex-1 max-w-4xl px-2 py-0.5"
+            className="hidden md:flex items-center justify-start lg:justify-center gap-1.5 overflow-x-auto scrollbar-none no-scrollbar flex-1 max-w-4xl px-2 py-0.5"
+            style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
           >
             {visibleBlocks.map((blockId) => {
               const indexItem = IMRyD_INDEX.find(i => i.id === blockId);
@@ -634,13 +705,15 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
           <section 
             ref={scrollContainerRef}
             className={`flex-1 min-w-0 ${
-              isImmersiveBlock 
+              isMapaBlock
                 ? 'overflow-hidden p-0 h-full flex flex-col' 
+                : isJuegoBlock
+                ? 'overflow-y-auto p-0 custom-scrollbar'
                 : 'overflow-y-auto px-4 sm:px-8 lg:px-16 xl:px-24 py-6 lg:py-10 custom-scrollbar'
             }`} 
             data-purpose="narrative-stream"
           >
-            <div className={isImmersiveBlock ? "w-full h-full flex-1 flex flex-col min-h-0" : "max-w-4xl mx-auto"}>
+              <div className={isMapaBlock ? "w-full h-full flex-1 flex flex-col min-h-0" : isJuegoBlock ? "w-full flex flex-col" : "max-w-4xl mx-auto select-text"}>
               
               {/* Bloques Interactivos Especializados */}
               {currentBlock === 'mapa' ? (
@@ -1255,6 +1328,9 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
                                   ) : (
                                     <textarea
                                       rows={3}
+                                      value={openAnswers[idx] || ''}
+                                      onChange={(e) => setOpenAnswers(prev => ({ ...prev, [idx]: e.target.value }))}
+                                      aria-label={`Reflexión abierta ${idx + 1}`}
                                       placeholder="Escribe tu reflexión crítica sobre la transferencia de este estudio..."
                                       className="w-full p-4 rounded-xl bg-white border border-slate-200 text-xs sm:text-sm focus:border-ocnos-cyan outline-none resize-none transition-colors"
                                     />
