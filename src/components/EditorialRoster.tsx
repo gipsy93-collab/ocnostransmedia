@@ -813,10 +813,26 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
           {/* ============================================================ */}
           {/* PANEL DERECHO: GRID ROSTER AGRUPADO POR NÚMEROS (7 cols)   */}
           {/* ============================================================ */}
-          <div className="lg:col-span-7 flex flex-col gap-4">
-            <div className="flex items-center justify-between px-2 text-xs text-on-surface-variant font-mono uppercase tracking-wider">
-              <span>Organizado por Números // Total: {filteredNarrativas.length}</span>
-              <span className="hidden sm:inline">Selecciona o haz clic para entrar</span>
+          <div className="lg:col-span-7 bg-white/80 backdrop-blur-sm rounded-3xl p-5 sm:p-7 relative overflow-hidden border border-outline-variant/60 shadow-xl editorial-card flex flex-col gap-4">
+            
+            {/* Glow accents in corners */}
+            <div className="absolute -top-24 -right-24 w-60 h-60 bg-ocnos-cyan/10 rounded-full blur-3xl pointer-events-none" />
+            <div className="absolute -bottom-24 -left-24 w-64 h-64 bg-ocnos-coral/10 rounded-full blur-3xl pointer-events-none" />
+
+            {/* Cabecera del Panel de Investigaciones */}
+            <div className="flex items-center justify-between text-xs pb-4 border-b border-outline-variant/30 relative z-10">
+              <div className="flex items-center gap-2">
+                <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-ocnos-cyan/10 border border-ocnos-cyan/30 text-ocnos-cyan-dark font-bold tracking-wide text-[11px] uppercase">
+                  <Bookmark size={13} className="text-ocnos-cyan" aria-hidden="true" />
+                  <span>CATÁLOGO POR NÚMEROS</span>
+                </span>
+                <span className="text-slate-500 text-xs">
+                  (<strong>{filteredNarrativas.length}</strong> {filteredNarrativas.length === 1 ? 'artículo' : 'artículos'})
+                </span>
+              </div>
+              <span className="hidden sm:inline text-slate-400 text-xs">
+                Selecciona para explorar
+              </span>
             </div>
 
             {/* Listado / Grid de Artículos agrupados por Número */}
@@ -825,7 +841,7 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
               id="roster-grid"
               role="listbox"
               aria-label="Listado de artículos e investigadores de OCNOS agrupados por números"
-              className="space-y-6 lg:max-h-[820px] lg:overflow-y-auto pr-1 scrollbar-thin scrollbar-thumb-outline-variant scrollbar-track-transparent"
+              className="space-y-6 lg:max-h-[820px] lg:overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-slate-300 hover:scrollbar-thumb-slate-400 scrollbar-track-transparent relative z-10"
             >
               {groupedArticles.length === 0 ? (
                 <div className="py-16 text-center bg-white rounded-3xl border border-outline-variant/40 p-8 shadow-sm">
@@ -851,18 +867,18 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
               ) : (
                 groupedArticles.map(({ issue, items }) => (
                   <div key={issue.id} className="space-y-3">
-                    {/* Cabecera del Número / Volumen de Revista */}
-                    <div className="sticky top-0 z-20 bg-[#f3fbfa]/95 backdrop-blur-md py-2 border-b border-outline-variant/40 flex items-center justify-between gap-3">
+                    {/* Cabecera del Número / Volumen de Revista con marco sutil redondeado */}
+                    <div className="sticky top-0 z-20 bg-white/95 backdrop-blur-md py-2.5 px-3.5 rounded-xl border border-slate-200/90 shadow-2xs flex items-center justify-between gap-3">
                       <div className="flex items-center gap-2">
                         <span className="text-ocnos-cyan text-sm" aria-hidden="true">📚</span>
                         <h3 className="font-serif font-bold text-sm sm:text-base text-on-surface tracking-wide">
                           {issue.label}
                         </h3>
-                        <span className="bg-palette-cyanLight text-ocnos-cyan text-[10px] font-mono px-2.5 py-0.5 rounded-full border border-ocnos-cyan/30 font-bold">
+                        <span className="bg-ocnos-cyan/10 text-ocnos-cyan-dark text-[10px] font-mono px-2.5 py-0.5 rounded-full border border-ocnos-cyan/25 font-bold">
                           {items.length} {items.length === 1 ? 'artículo' : 'artículos'}
                         </span>
                       </div>
-                      <span className="text-xs font-mono text-outline">{issue.year}</span>
+                      <span className="text-xs font-mono font-semibold text-slate-500 bg-slate-100 px-2 py-0.5 rounded-md border border-slate-200">{issue.year}</span>
                     </div>
 
                     {/* Cuadrícula de tarjetas de este número */}
