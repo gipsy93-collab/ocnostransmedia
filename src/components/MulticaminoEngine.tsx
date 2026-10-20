@@ -573,13 +573,13 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
       className="fixed inset-0 w-full h-[100dvh] max-h-[100dvh] bg-[#f8fcfa] text-[#2c3e50] font-sans antialiased flex flex-col overflow-hidden select-none z-[9999]"
     >
       {/* ========================================================================= */}
-      {/* 1. BARRA SUPERIOR DE FASES IMRyD                                          */}
+      {/* 1. BARRA SUPERIOR DE FASES IMRyD (ALINEADA CON NAVBAR PREMIUM)             */}
       {/* ========================================================================= */}
-      <header className="bg-[#244b63] text-white shrink-0 border-b border-[#1c3c4f] shadow-md z-30" data-purpose="imryd-stage-bar">
+      <header className="bg-[#183446] text-white shrink-0 border-b border-white/10 shadow-[0_4px_25px_rgba(0,0,0,0.35)] z-30" data-purpose="imryd-stage-bar">
         {/* Barra superior de progreso continuo */}
-        <div className="w-full h-1.5 bg-[#1a384b]">
+        <div className="w-full h-1 bg-[#0e222e]">
           <div 
-            className="h-full bg-gradient-to-r from-ocnos-yellow via-ocnos-coral to-ocnos-cyan transition-all duration-300"
+            className="h-full bg-gradient-to-r from-[#fa8925] via-[#fa5457] to-[#01b4bc] transition-all duration-300"
             style={{ width: `${progressPercent}%` }}
           />
         </div>
@@ -589,15 +589,15 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
           <div className="flex items-center space-x-3 shrink-0">
             <Link
               to="/"
-              className="flex items-center space-x-2.5 sm:pr-3 sm:border-r border-[#3a617a] rounded-lg hover:bg-white/5 transition-colors cursor-pointer"
+              className="flex items-center space-x-2.5 sm:pr-3 sm:border-r border-white/15 rounded-lg hover:bg-white/5 transition-colors cursor-pointer group"
               title="Volver al Inicio de Revista Ocnos"
               aria-label="Volver al Inicio de Revista Ocnos"
             >
-              <OcnosLogo width={132} height={36} variant="dark" showSubtitle={false} />
-              <div className="leading-tight hidden lg:block">
-                <span className="text-[10px] text-slate-300 font-medium truncate max-w-[130px] block">{narrative.metadata.journal || 'Ocnos Transmedia'}</span>
-              </div>
+              <OcnosLogo variant="dark" showSubtitle={false} />
             </Link>
+            <span className="hidden xl:inline-flex items-center px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-white/10 text-slate-300 border border-white/15">
+              Artículo Interactivo
+            </span>
           </div>
 
           {/* Pasos Centrales Navegables: Scroll horizontal suave para no hacinarse */}
@@ -623,23 +623,23 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
                   onClick={() => navigateTo(blockId)}
                   className={`flex items-center space-x-1.5 px-3 py-1.5 rounded-full text-xs transition-all cursor-pointer whitespace-nowrap shrink-0 ${
                     isCurrent
-                      ? 'font-bold bg-white text-ocnos-navy shadow-md ring-2 ring-ocnos-yellow/90 scale-105'
+                      ? 'font-bold bg-white text-[#183446] shadow-md ring-2 ring-[#fa8925] scale-105'
                       : isGrafo
-                      ? 'font-bold bg-[#1a384b] hover:bg-[#152e3d] text-ocnos-yellow border border-ocnos-yellow/50 shadow-sm'
+                      ? 'font-bold bg-white/10 hover:bg-white/15 text-[#f6d51f] border border-[#f6d51f]/40 shadow-xs'
                       : isJuego
-                      ? 'font-bold bg-[#1a384b] hover:bg-[#152e3d] text-ocnos-green border border-ocnos-green/50 shadow-sm'
+                      ? 'font-bold bg-white/10 hover:bg-white/15 text-[#98e294] border border-[#5fa55a]/40 shadow-xs'
                       : isCompleted
-                      ? 'font-semibold bg-[#2e5973] hover:bg-[#386b8b] text-slate-200 border border-[#3e6f8f]'
-                      : 'font-semibold bg-[#2e5973]/70 hover:bg-[#2e5973] text-slate-300 border border-[#396582]'
+                      ? 'font-medium bg-white/10 hover:bg-white/15 text-slate-200 border border-white/15'
+                      : 'font-normal bg-white/5 hover:bg-white/10 text-slate-300 border border-white/10'
                   }`}
                 >
                   <span className="text-[13px]">{icon}</span>
                   <span>{label}</span>
                   {isCurrent && (
-                    <span className="w-1.5 h-1.5 rounded-full bg-ocnos-coral animate-pulse" />
+                    <span className="w-1.5 h-1.5 rounded-full bg-[#fa5457] animate-pulse" />
                   )}
                   {isCompleted && !isCurrent && (
-                    <span className="text-ocnos-green text-[10px] font-black">✓</span>
+                    <span className="text-[#98e294] text-[10px] font-black">✓</span>
                   )}
                 </button>
               );
@@ -651,7 +651,7 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
             <button 
               onClick={navigateBackward}
               disabled={currentIndex === 0}
-              className="p-1 rounded bg-[#1d3d52] text-slate-200 disabled:opacity-30 cursor-pointer"
+              className="p-1 rounded-lg bg-white/10 hover:bg-white/15 text-slate-200 disabled:opacity-30 cursor-pointer transition-colors"
               aria-label="Fase anterior"
             >
               <ChevronLeft size={16} />
@@ -659,13 +659,13 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
             <div className="text-center truncate px-1">
               <span className="text-xs font-bold text-white flex items-center justify-center gap-1 truncate">
                 <span>{currentBlockInfo.icon}</span>
-                <span className="text-ocnos-yellow truncate">{currentBlockInfo.label}</span>
+                <span className="text-[#f6d51f] truncate">{currentBlockInfo.label}</span>
               </span>
             </div>
             <button 
               onClick={navigateForward}
               disabled={currentIndex >= visibleBlocks.length - 1}
-              className="p-1 rounded bg-[#1d3d52] text-slate-200 disabled:opacity-30 cursor-pointer"
+              className="p-1 rounded-lg bg-white/10 hover:bg-white/15 text-slate-200 disabled:opacity-30 cursor-pointer transition-colors"
               aria-label="Fase siguiente"
             >
               <ChevronRight size={16} />
@@ -675,13 +675,13 @@ export default function MulticaminoEngine({ narrative, onBack, initialBlock }: P
           {/* Controles de Navegación & Salir */}
           <div className="flex items-center space-x-2 shrink-0">
             {/* Contador de nodo */}
-            <div className="flex items-center bg-[#1d3d52] px-2.5 py-1 rounded-md text-xs font-bold text-slate-200 border border-[#2f5a77]">
+            <div className="flex items-center bg-white/10 px-2.5 py-1 rounded-lg text-xs font-bold text-slate-200 border border-white/15">
               <span>{currentIndex + 1}/{visibleBlocks.length}</span>
             </div>
 
             <button 
               onClick={onBack}
-              className="flex items-center space-x-1.5 px-3 py-1 rounded-md bg-ocnos-coral hover:bg-ocnos-coral/90 text-white text-xs font-bold shadow transition-colors cursor-pointer" 
+              className="flex items-center space-x-1.5 px-3.5 py-1.5 rounded-lg bg-gradient-to-r from-[#fa8925] to-[#e24a4a] hover:opacity-95 text-white text-xs font-bold shadow-xs transition-transform active:scale-95 cursor-pointer" 
               title="Volver al catálogo general"
             >
               <Home size={14} />
