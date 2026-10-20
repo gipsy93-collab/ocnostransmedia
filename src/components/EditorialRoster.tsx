@@ -353,7 +353,7 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
   return (
     <section 
       aria-label="Catálogo interactivo de investigaciones y personajes"
-      className="relative w-full bg-[#f3fbfa] text-[#151d1d] py-10 md:py-16 px-4 sm:px-6 md:px-8 lg:px-12 selection:bg-ocnos-cyan/20 selection:text-ocnos-cyan"
+      className="relative w-full overflow-hidden bg-[#f3fbfa] text-[#151d1d] py-10 md:py-16 px-4 sm:px-6 md:px-8 lg:px-12 selection:bg-ocnos-cyan/20 selection:text-ocnos-cyan"
     >
       {/* Región ARIA en vivo para accesibilidad de lectores de pantalla */}
       <div className="sr-only" aria-live="polite" aria-atomic="true">
@@ -370,47 +370,44 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
         {/* ========================================================================= */}
         {/* CABECERA EDITORIAL ACCESIBLE Y FILTROS RESPONSIVE                         */}
         {/* ========================================================================= */}
-        <div className="mb-8 md:mb-10 border-b border-outline-variant/40 pb-6 md:pb-8 space-y-6">
+        <div className="mb-8 md:mb-10 border-b border-slate-200/80 pb-6 md:pb-8 space-y-6">
           <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-6">
             <div>
-              <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-palette-coralLight border border-palette-coral/30 text-ocnos-coral text-[11px] font-bold tracking-widest uppercase mb-3">
-                <span className="w-2 h-2 rounded-full bg-ocnos-coral animate-pulse" />
-                <span>Edición Interactiva Cuatrimestral</span>
+              <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-ocnos-cyan/10 border border-ocnos-cyan/25 text-ocnos-cyan-dark text-[11px] font-semibold tracking-wider uppercase mb-3">
+                <span className="w-1.5 h-1.5 rounded-full bg-ocnos-cyan" />
+                <span>Revista Ocnos · Catálogo Transmedia</span>
               </div>
-              <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-extrabold text-on-surface tracking-tight uppercase" style={{ fontFamily: 'Syne, sans-serif', letterSpacing: '-0.02em' }}>
+              <h1 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold text-[#183446] tracking-tight leading-tight">
                 Artículos Interactivos
-              </h2>
-              <p className="mt-2 text-sm sm:text-base text-on-surface-variant max-w-3xl leading-relaxed">
-                Cada artículo cuenta con una experiencia interactiva guiada por su autor/a. Selecciona un perfil, sumérgete en las investigaciones con datos empíricos o navega por el mapa conceptual relacional.
+              </h1>
+              <p className="mt-2.5 text-sm sm:text-base text-slate-600 max-w-3xl leading-relaxed font-sans font-normal">
+                Cada investigación cuenta con una experiencia interactiva guiada por su autor/a. Selecciona un artículo para explorar sus evidencias empíricas IMRyD, desafíos cognitivos y mapas conceptuales.
               </p>
             </div>
 
             {/* BARRA DE BÚSQUEDA ACCESIBLE */}
-            <div className="w-full lg:w-96 flex flex-col items-start lg:items-end gap-2">
-              <div className="inline-flex items-center gap-2 text-xs text-on-surface-variant bg-palette-yellowLight/70 px-3.5 py-1.5 rounded-xl border border-palette-yellow/40 shadow-2xs">
-                <span className="flex h-2 w-2 relative">
-                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-ocnos-yellow opacity-75" />
-                  <span className="relative inline-flex rounded-full h-2 w-2 bg-[#d8b506]" />
-                </span>
-                <span>Consejo: Usa las flechas <strong className="text-on-surface font-bold">[← ↑ → ↓]</strong> para navegar</span>
+            <div className="w-full lg:w-96 flex flex-col items-start lg:items-end gap-2.5">
+              <div className="inline-flex items-center gap-2 text-xs text-slate-500 bg-white/80 px-3 py-1 rounded-lg border border-slate-200/80 shadow-2xs">
+                <Sparkles size={13} className="text-ocnos-cyan" />
+                <span>Navega con las flechas <kbd className="px-1.5 py-0.5 text-[10px] font-mono bg-slate-100 rounded border border-slate-200 text-slate-700">←</kbd> <kbd className="px-1.5 py-0.5 text-[10px] font-mono bg-slate-100 rounded border border-slate-200 text-slate-700">→</kbd></span>
               </div>
 
               <div className="w-full relative">
                 <label htmlFor="search-input" className="sr-only">Buscar artículos e investigaciones</label>
-                <Search size={16} className="absolute left-3.5 top-1/2 -translate-y-1/2 text-outline pointer-events-none" aria-hidden="true" />
+                <Search size={16} className="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 pointer-events-none" aria-hidden="true" />
                 <input
                   id="search-input"
                   type="search"
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
-                  placeholder="Buscar título, autor, tema o DOI (10.18239)..."
-                  className="w-full bg-surface-container-low border border-outline-variant/60 hover:border-ocnos-cyan focus:border-ocnos-cyan text-on-surface placeholder:text-on-surface-variant/60 text-xs sm:text-sm rounded-full pl-10 pr-9 py-2.5 focus:outline-none focus:ring-2 focus:ring-ocnos-cyan/20 transition-all font-sans shadow-2xs"
+                  placeholder="Buscar por título, autor, temática o DOI..."
+                  className="w-full bg-white border border-slate-200/90 hover:border-ocnos-cyan focus:border-ocnos-cyan text-[#183446] placeholder:text-slate-400 text-xs sm:text-sm rounded-full pl-10 pr-9 py-2.5 focus:outline-none focus:ring-2 focus:ring-ocnos-cyan/20 transition-all font-sans shadow-2xs"
                 />
                 {searchQuery && (
                   <button
                     onClick={() => setSearchQuery('')}
                     aria-label="Limpiar búsqueda"
-                    className="absolute right-2.5 top-1/2 -translate-y-1/2 text-outline hover:text-on-surface p-1 rounded-md transition-colors"
+                    className="absolute right-2.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-[#183446] p-1 rounded-md transition-colors"
                   >
                     <X size={14} />
                   </button>
@@ -423,20 +420,20 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
           <div className="space-y-4 pt-1">
             {/* 1. Selector de Números de Revista */}
             <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none flex-wrap">
-              <span className="text-xs font-bold text-on-surface-variant uppercase tracking-wider flex items-center gap-1.5 shrink-0 mr-1 font-mono">
+              <span className="text-xs font-semibold text-slate-500 uppercase tracking-wider flex items-center gap-1.5 shrink-0 mr-1 font-sans">
                 <Bookmark size={14} className="text-ocnos-cyan" aria-hidden="true" />
                 Números:
               </span>
               <button
                 onClick={() => setSelectedIssue('todos')}
-                className={`text-xs px-3.5 py-1.5 rounded-full transition-all whitespace-nowrap font-medium cursor-pointer flex items-center gap-1.5 border ${
+                className={`text-xs px-3.5 py-1.5 rounded-full transition-all whitespace-nowrap cursor-pointer flex items-center gap-1.5 border ${
                   selectedIssue === 'todos'
-                    ? 'bg-ocnos-yellow text-slate-900 font-extrabold shadow-md shadow-ocnos-yellow/30 border-ocnos-yellow scale-105'
-                    : 'bg-white hover:bg-surface-container text-on-surface-variant border-outline-variant/50 shadow-2xs'
+                    ? 'bg-[#183446] text-white font-semibold shadow-sm border-[#183446]'
+                    : 'bg-white hover:bg-slate-50 text-slate-600 hover:text-slate-900 border-slate-200 shadow-2xs font-normal'
                 }`}
               >
                 <span>Todos los Números</span>
-                <span className="text-[10px] opacity-75 font-normal">({NARRATIVAS.length})</span>
+                <span className={`text-[10px] ${selectedIssue === 'todos' ? 'text-slate-300' : 'text-slate-400'}`}>({NARRATIVAS.length})</span>
               </button>
               {OCNOS_ISSUES.map(issue => {
                 const isIssueActive = selectedIssue === issue.id;
@@ -447,12 +444,12 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
                     onClick={() => setSelectedIssue(issue.id)}
                     className={`text-xs px-3.5 py-1.5 rounded-full transition-all whitespace-nowrap cursor-pointer flex items-center gap-1.5 border ${
                       isIssueActive
-                        ? 'bg-ocnos-yellow text-slate-900 font-extrabold shadow-md shadow-ocnos-yellow/30 border-ocnos-yellow scale-105'
-                        : 'bg-white hover:bg-surface-container text-on-surface-variant font-medium border-outline-variant/50 shadow-2xs'
+                        ? 'bg-[#183446] text-white font-semibold shadow-sm border-[#183446]'
+                        : 'bg-white hover:bg-slate-50 text-slate-600 hover:text-slate-900 border-slate-200 shadow-2xs font-normal'
                     }`}
                   >
                     <span>{issue.shortLabel}</span>
-                    <span className="text-[10px] opacity-75 font-mono">({count})</span>
+                    <span className={`text-[10px] ${isIssueActive ? 'text-slate-300' : 'text-slate-400'}`}>({count})</span>
                   </button>
                 );
               })}
@@ -462,43 +459,43 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
             <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 pt-1">
               <div className="flex items-center flex-wrap gap-2 text-xs">
                 {/* Filtro de Modalidad de Juego */}
-                <div className="inline-flex p-1 rounded-xl bg-white border border-outline-variant/50 shadow-2xs mr-2">
+                <div className="inline-flex p-1 rounded-xl bg-white border border-slate-200 shadow-2xs mr-2">
                   <button
                     onClick={() => setPlayableFilter('all')}
-                    className={`px-3 py-1 rounded-lg transition-all font-medium ${
+                    className={`px-3 py-1 rounded-lg transition-all text-xs ${
                       playableFilter === 'all'
-                        ? 'bg-on-surface text-white font-bold shadow-2xs'
-                        : 'text-on-surface-variant hover:text-on-surface'
+                        ? 'bg-[#183446] text-white font-semibold shadow-2xs'
+                        : 'text-slate-600 hover:text-slate-900 font-normal'
                     }`}
                   >
                     Todas
                   </button>
                   <button
                     onClick={() => setPlayableFilter('playable')}
-                    className={`px-3 py-1 rounded-lg transition-all font-bold flex items-center gap-1.5 ${
+                    className={`px-3 py-1 rounded-lg transition-all text-xs flex items-center gap-1.5 ${
                       playableFilter === 'playable'
-                        ? 'bg-palette-cyanLight text-ocnos-cyan border border-ocnos-cyan/30 shadow-2xs'
-                        : 'text-on-surface-variant hover:text-on-surface'
+                        ? 'bg-ocnos-cyan/15 text-ocnos-cyan-dark font-semibold border border-ocnos-cyan/30 shadow-2xs'
+                        : 'text-slate-600 hover:text-slate-900 font-normal'
                     }`}
                   >
-                    <Gamepad2 size={13} className="text-ocnos-cyan animate-pulse" />
+                    <Gamepad2 size={13} className="text-ocnos-cyan" />
                     Con Juego ({NARRATIVAS.filter(isNarrativePlayable).length})
                   </button>
                   <button
                     onClick={() => setPlayableFilter('reading')}
-                    className={`px-3 py-1 rounded-lg transition-all font-medium flex items-center gap-1.5 ${
+                    className={`px-3 py-1 rounded-lg transition-all text-xs flex items-center gap-1.5 ${
                       playableFilter === 'reading'
-                        ? 'bg-surface-container-high text-on-surface font-bold shadow-2xs'
-                        : 'text-on-surface-variant hover:text-on-surface'
+                        ? 'bg-slate-100 text-slate-900 font-semibold shadow-2xs'
+                        : 'text-slate-600 hover:text-slate-900 font-normal'
                     }`}
                   >
-                    <BookOpen size={13} />
+                    <BookOpen size={13} className="text-slate-500" />
                     Solo Lectura ({NARRATIVAS.filter(n => !isNarrativePlayable(n)).length})
                   </button>
                 </div>
 
                 {/* Selector de Categorías Temáticas */}
-                <span className="text-on-surface-variant text-xs font-semibold ml-1">Ejes:</span>
+                <span className="text-slate-500 text-xs font-semibold ml-1 font-sans">Ejes:</span>
                 {categories.map(cat => {
                   const isCatActive = activeFilter === cat.id;
                   return (
@@ -509,10 +506,10 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
                       aria-selected={isCatActive}
                       aria-controls="roster-grid"
                       onClick={() => setActiveFilter(cat.id)}
-                      className={`px-3 py-1 rounded-lg transition-all whitespace-nowrap text-xs font-medium cursor-pointer border ${
+                      className={`px-3 py-1 rounded-lg transition-all whitespace-nowrap text-xs cursor-pointer border ${
                         isCatActive
-                          ? 'bg-on-surface text-white font-semibold border-on-surface shadow-2xs'
-                          : 'bg-white hover:bg-surface-container text-on-surface-variant border-outline-variant/50 shadow-2xs'
+                          ? 'bg-[#183446] text-white font-semibold border-[#183446] shadow-2xs'
+                          : 'bg-white hover:bg-slate-50 text-slate-600 hover:text-slate-900 border-slate-200 shadow-2xs font-normal'
                       }`}
                     >
                       {cat.label}
@@ -522,10 +519,10 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
               </div>
 
               {/* Indicador de Conteo */}
-              <div className="text-xs font-bold tracking-wider text-ocnos-orange flex items-center gap-1.5 self-start lg:self-auto">
-                <span className="inline-block w-2 h-2 rounded-full bg-ocnos-orange" />
-                <span>
-                  {filteredNarrativas.length} {filteredNarrativas.length === 1 ? 'investigación encontrada' : 'investigaciones encontradas'}
+              <div className="text-xs font-semibold text-slate-500 flex items-center gap-2 self-start lg:self-auto">
+                <span className="inline-block w-2 h-2 rounded-full bg-ocnos-cyan" />
+                <span className="text-slate-700">
+                  <strong className="text-[#183446] font-bold">{filteredNarrativas.length}</strong> {filteredNarrativas.length === 1 ? 'investigación disponible' : 'investigaciones disponibles'}
                   {selectedIssue !== 'todos' ? ` en ${OCNOS_ISSUES.find(i => i.id === selectedIssue)?.shortLabel}` : ''}
                 </span>
               </div>
@@ -629,56 +626,54 @@ export default function EditorialRoster({ onSelectNarrative }: EditorialRosterPr
                 transition={{ duration: 0.3, ease: "easeOut" }}
                 className="flex flex-col relative z-10"
               >
-                {/* Grabado / Cromo Principal del Personaje */}
+                {/* Grabado / Portada Principal del Personaje */}
                 <div 
                   onClick={() => handleLaunchNarrative()}
                   onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') handleLaunchNarrative(); }}
                   tabIndex={0}
                   role="button"
                   aria-label={`Iniciar lectura de ${selectedNarrative.metadata.title}`}
-                  className="relative my-6 rounded-2xl overflow-hidden bg-gradient-to-b from-surface-container to-surface-container-high p-2.5 border border-outline-variant/50 shadow-inner group cursor-pointer focus-visible:ring-4 focus-visible:ring-ocnos-cyan focus-visible:outline-none"
+                  className="relative my-6 rounded-2xl overflow-hidden aspect-[16/9] border border-outline-variant/60 shadow-md group cursor-pointer focus-visible:ring-4 focus-visible:ring-ocnos-cyan focus-visible:outline-none bg-[#fdfbf7]"
                   title="Haz clic para entrar a la narrativa"
                 >
-                  <div className="relative rounded-xl overflow-hidden aspect-[16/11] flex items-center justify-center bg-[#fdfbf7]">
-                    <motion.img
-                      src={cromoImage}
-                      alt={`Ilustración de la investigación ${selectedNarrative.metadata.title}`}
-                      className="w-full h-full object-cover filter drop-shadow-sm group-hover:scale-105 transition-transform duration-500"
-                      animate={prefersReducedMotion ? {} : { 
-                        y: [0, -4, 0],
-                      }}
-                      transition={{ 
-                        duration: 4, 
-                        repeat: Infinity, 
-                        ease: "easeInOut" 
-                      }}
-                    />
+                  <motion.img
+                    src={cromoImage}
+                    alt={`Ilustración de la investigación ${selectedNarrative.metadata.title}`}
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    animate={prefersReducedMotion ? {} : { 
+                      y: [0, -4, 0],
+                    }}
+                    transition={{ 
+                      duration: 4, 
+                      repeat: Infinity, 
+                      ease: "easeInOut" 
+                    }}
+                  />
 
-                    {/* Insignia de Jugabilidad en Portada Principal */}
-                    <div className="absolute top-3 left-3 flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white/90 backdrop-blur-md border border-white/40 text-[11px] text-on-surface font-semibold shadow-xs">
-                      {isNarrativePlayable(selectedNarrative) ? (
-                        <>
-                          <Gamepad2 size={13} className="text-ocnos-green animate-pulse" />
-                          <span>JUEGO DISPONIBLE</span>
-                        </>
-                      ) : (
-                        <>
-                          <BookOpen size={13} className="text-ocnos-cyan" />
-                          <span>MODO LECTURA & MAPA</span>
-                        </>
-                      )}
-                    </div>
+                  {/* Insignia de Jugabilidad en Portada Principal */}
+                  <div className="absolute top-3 left-3 flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white/90 backdrop-blur-md border border-white/40 text-[11px] text-on-surface font-semibold shadow-xs">
+                    {isNarrativePlayable(selectedNarrative) ? (
+                      <>
+                        <Gamepad2 size={13} className="text-ocnos-green animate-pulse" />
+                        <span>JUEGO DISPONIBLE</span>
+                      </>
+                    ) : (
+                      <>
+                        <BookOpen size={13} className="text-ocnos-cyan" />
+                        <span>MODO LECTURA & MAPA</span>
+                      </>
+                    )}
+                  </div>
 
-                    {/* Publicación y año */}
-                    <div className="absolute top-3 right-3 px-2 py-0.5 rounded bg-white/90 backdrop-blur-md border border-white/40 text-[11px] text-on-surface font-mono font-bold shadow-xs">
-                      {selectedNarrative.metadata.year} • {selectedNarrative.metadata.journal}
-                    </div>
+                  {/* Publicación y año */}
+                  <div className="absolute top-3 right-3 px-2 py-0.5 rounded bg-white/90 backdrop-blur-md border border-white/40 text-[11px] text-on-surface font-mono font-bold shadow-xs">
+                    {selectedNarrative.metadata.year} • {selectedNarrative.metadata.journal}
+                  </div>
 
-                    {/* Insignia de Clase NPC */}
-                    <div className="absolute bottom-3 left-3 bg-white/95 backdrop-blur-md px-3 py-1 rounded-lg border border-outline-variant/40 flex items-center gap-1.5 shadow-md">
-                      <span className="text-sm" aria-hidden="true">{npcClass.icon}</span>
-                      <span className="text-xs font-bold text-on-surface uppercase tracking-wider">{npcClass.role}</span>
-                    </div>
+                  {/* Insignia de Clase NPC */}
+                  <div className="absolute bottom-3 left-3 bg-white/95 backdrop-blur-md px-3 py-1 rounded-lg border border-outline-variant/40 flex items-center gap-1.5 shadow-md">
+                    <span className="text-sm" aria-hidden="true">{npcClass.icon}</span>
+                    <span className="text-xs font-bold text-on-surface uppercase tracking-wider">{npcClass.role}</span>
                   </div>
                 </div>
 

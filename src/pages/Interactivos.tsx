@@ -152,6 +152,7 @@ export default function Interactivos() {
     return (
       <ErrorBoundary onReset={closeNarrative}>
         <MulticaminoEngine
+          key={selectedNarrative.id}
           narrative={selectedNarrative}
           initialBlock={isKnownBlock(blockParam) ? blockParam : undefined}
           onBack={closeNarrative}
@@ -162,7 +163,7 @@ export default function Interactivos() {
 
   // Roster del Catálogo
   return (
-    <div className="min-h-screen bg-[#f3fbfa] text-[#151d1d] selection:bg-ocnos-cyan/20 selection:text-ocnos-cyan">
+    <div className="min-h-screen bg-[#f3fbfa] text-[#151d1d] selection:bg-ocnos-cyan/20 selection:text-ocnos-cyan overflow-x-hidden">
       {/* Catálogo Editorial de Investigaciones Macaron */}
       <EditorialRoster onSelectNarrative={openNarrative} />
     </div>

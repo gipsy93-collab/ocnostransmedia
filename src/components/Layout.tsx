@@ -12,7 +12,7 @@ interface LayoutProps {
 export default function Layout({ children }: LayoutProps) {
     return (
         <div 
-            className="min-h-screen relative flex flex-col"
+            className="min-h-screen relative flex flex-col overflow-x-hidden"
         >
             <a href="#main-content" className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] focus:px-6 focus:py-3 focus:bg-ocean-dark focus:text-white focus:rounded-full focus:text-sm focus:font-black focus:uppercase focus:tracking-widest">
                 Saltar al contenido principal
